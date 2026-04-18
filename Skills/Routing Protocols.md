@@ -1,0 +1,16 @@
+---
+type: skill
+course_count: 1
+tags:
+  - skill
+  - skill/routing-protocols
+created: 2026-04-17
+---
+
+# Routing Protocols
+
+> 1 course teach this skill
+
+## Courses
+
+- [[Cisco Networking Foundations- Switching and Routing]]

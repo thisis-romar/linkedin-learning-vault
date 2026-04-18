@@ -1,0 +1,31 @@
+---
+type: instructor
+course_count: 7
+path_reach: 7
+linkedin_topics:
+  - Cybersecurity
+  - Data Science
+  - Software Development
+  - Web Development
+tags:
+  - instructor
+  - topic/security
+  - topic/data-science
+  - topic/software-development
+  - topic/web-development
+created: 2026-04-17
+---
+
+# Frank P Moley III
+
+> 7 courses | 7 learning paths
+
+## Courses
+
+- [[Microservices- Design Patterns]]
+- [[Programming Foundations- Secure Coding (2018)]]
+- [[Spring 6- Spring Security]]
+- [[Spring with GraphQL]]
+- [[Spring Framework in Depth]]
+- [[Learning Spring 6 With Spring Boot]]
+- [[Learning JDBC]]

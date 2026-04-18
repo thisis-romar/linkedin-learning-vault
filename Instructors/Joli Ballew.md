@@ -1,0 +1,24 @@
+---
+type: instructor
+course_count: 2
+path_reach: 2
+linkedin_topics:
+  - DevOps
+  - IT Help Desk
+  - Network and System Administration
+tags:
+  - instructor
+  - topic/devops
+  - topic/it-help-desk
+  - topic/network-and-system-administration
+created: 2026-04-17
+---
+
+# Joli Ballew
+
+> 2 courses | 2 learning paths
+
+## Courses
+
+- [[Windows 10- Networking]]
+- [[Windows 10- Manage and Maintain Windows 10]]

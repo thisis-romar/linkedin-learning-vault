@@ -1,0 +1,34 @@
+---
+type: learning-path
+url: "https://www.linkedin.com/learning/paths/lead-ai-like-a-high-performing-teammate"
+course_count: 3
+linkedin_topics:
+  - DevOps
+  - Network and System Administration
+louvain_cluster: 0
+tags:
+  - learning-path
+  - topic/devops
+  - topic/network-and-system-administration
+status: not-started
+created: 2026-04-17
+---
+
+# Lead AI Like a High-Performing Teammate
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/paths/lead-ai-like-a-high-performing-teammate) | 3 courses | DevOps, Network and System Administration
+
+## Courses
+
+1. [[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]]
+2. [[From Tool to Teammates- Working Smarter with AI]] _(1h 46m)_
+3. [[How to Be an Agent Boss- Leading AI Agents at Work]] _(40m)_
+
+## Course Flow
+
+1. [[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]] → 2. [[From Tool to Teammates- Working Smarter with AI]] → 3. [[How to Be an Agent Boss- Leading AI Agents at Work]]
+
+## Topics
+
+- [[DevOps]]
+- [[Network and System Administration]]

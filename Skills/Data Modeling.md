@@ -1,0 +1,18 @@
+---
+type: skill
+course_count: 3
+tags:
+  - skill
+  - skill/data-modeling
+created: 2026-04-17
+---
+
+# Data Modeling
+
+> 3 courses teach this skill
+
+## Courses
+
+- [[Complete Guide To R Wrangling Visualizing And Modeling Data]]
+- [[Excel VBA- Process Modeling]]
+- [[Power BI Data Modeling with DAX]]

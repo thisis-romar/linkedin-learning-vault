@@ -1,0 +1,46 @@
+---
+type: learning-path
+url: "https://www.linkedin.com/learning/paths/master-your-python-skills"
+course_count: 11
+linkedin_topics:
+  - Software Development
+louvain_cluster: 13
+tags:
+  - learning-path
+  - topic/software-development
+status: not-started
+created: 2026-04-17
+---
+
+# Master Your Python Skills
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/paths/master-your-python-skills) | 11 courses | Software Development
+
+## Courses
+
+1. [[Advanced Python]]
+2. [[Advanced Python- Classes and Functions]] _(2h 16m)_
+3. [[Advanced Python- Working With Data]] _(2h 5m)_
+4. [[Python Data Structures- Stacks, Deques, and Queues]] _(35m)_
+5. [[Python Data Structures- Linked Lists]] _(1h 2m)_
+6. [[Advanced Python- Practical Database Examples]] _(1h 48m)_
+7. [[Unit Testing in Python]] _(1h 31m)_
+8. [[Advanced Python- Working with Databases]] _(2h 6m)_
+9. [[Python- Working with Predictive Analytics (2019)]] _(1h 17m)_
+10. [[Level Up- Advanced Python]] _(39m)_
+11. [[Case Study- Visualize Complex Microservice Data Using Python]] _(1h 25m)_
+
+## Course Flow
+
+1. [[Advanced Python]] → 2. [[Advanced Python- Classes and Functions]] → 3. [[Advanced Python- Working With Data]] → 4. [[Python Data Structures- Stacks, Deques, and Queues]] → 5. [[Python Data Structures- Linked Lists]] → 6. [[Advanced Python- Practical Database Examples]] → 7. [[Unit Testing in Python]] → 8. [[Advanced Python- Working with Databases]] → 9. [[Python- Working with Predictive Analytics (2019)]] → 10. [[Level Up- Advanced Python]] → 11. [[Case Study- Visualize Complex Microservice Data Using Python]]
+
+## Topics
+
+- [[Software Development]]
+
+## Related Paths
+
+_Paths that share courses with this one:_
+
+- [[Master Python for Data Science]] (4 shared courses)
+- [[Python Hands-On Practice]] (2 shared courses)

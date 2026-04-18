@@ -1,0 +1,20 @@
+---
+type: instructor
+course_count: 2
+path_reach: 1
+linkedin_topics:
+  - Artificial Intelligence (AI)
+tags:
+  - instructor
+  - topic/artificial-intelligence
+created: 2026-04-17
+---
+
+# Vincent Mirabelli
+
+> 2 courses | 1 learning paths
+
+## Courses
+
+- [[Learning ChatGPT for Business Analysis]]
+- [[Generative AI-Powered Strategic Business Analysis]]

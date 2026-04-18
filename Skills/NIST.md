@@ -1,0 +1,16 @@
+---
+type: skill
+course_count: 1
+tags:
+  - skill
+  - skill/nist
+created: 2026-04-17
+---
+
+# NIST
+
+> 1 course teach this skill
+
+## Courses
+
+- [[Understanding and Implementing the NIST AI Risk Management Framework (RMF)]]

@@ -1,0 +1,42 @@
+---
+type: learning-path
+url: "https://www.linkedin.com/learning/paths/getting-started-in-blockchain"
+course_count: 5
+linkedin_topics:
+  - Cybersecurity
+  - Data Science
+louvain_cluster: 4
+tags:
+  - learning-path
+  - topic/security
+  - topic/data-science
+status: not-started
+created: 2026-04-17
+---
+
+# Getting Started in Blockchain
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/paths/getting-started-in-blockchain) | 5 courses | Cybersecurity, Data Science
+
+## Courses
+
+1. [[Cryptocurrency Foundations 17185357]]
+2. [[Blockchain Basics]] _(1h 10m)_
+3. [[Blockchain- Beyond the Basics]] _(1h 18m)_
+4. [[Foundations of Decentralized Finance (DeFi)]] _(59m)_
+5. [[Blockchain and Smart Contracts Security]] _(1h 32m)_
+
+## Course Flow
+
+1. [[Cryptocurrency Foundations 17185357]] → 2. [[Blockchain Basics]] → 3. [[Blockchain- Beyond the Basics]] → 4. [[Foundations of Decentralized Finance (DeFi)]] → 5. [[Blockchain and Smart Contracts Security]]
+
+## Topics
+
+- [[Cybersecurity]]
+- [[Data Science]]
+
+## Related Paths
+
+_Paths that share courses with this one:_
+
+- [[Digital Transformation for Tech Leaders]] (2 shared courses)

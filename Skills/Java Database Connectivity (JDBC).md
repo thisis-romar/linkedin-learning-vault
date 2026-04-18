@@ -1,0 +1,16 @@
+---
+type: skill
+course_count: 1
+tags:
+  - skill
+  - skill/java-database-connectivity-jdbc
+created: 2026-04-17
+---
+
+# Java Database Connectivity (JDBC)
+
+> 1 course teach this skill
+
+## Courses
+
+- [[Learning JDBC]]

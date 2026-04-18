@@ -1,0 +1,16 @@
+---
+type: skill
+course_count: 1
+tags:
+  - skill
+  - skill/resiliency
+created: 2026-04-17
+---
+
+# Resiliency
+
+> 1 course teach this skill
+
+## Courses
+
+- [[Building Resilience]]

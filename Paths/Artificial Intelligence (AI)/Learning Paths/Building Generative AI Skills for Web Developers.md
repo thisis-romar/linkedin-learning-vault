@@ -1,0 +1,54 @@
+---
+type: learning-path
+url: "https://www.linkedin.com/learning/paths/building-generative-ai-skills-for-web-developers"
+course_count: 10
+linkedin_topics:
+  - Artificial Intelligence (AI)
+  - Software Development
+  - Web Development
+louvain_cluster: 2
+tags:
+  - learning-path
+  - topic/artificial-intelligence
+  - topic/software-development
+  - topic/web-development
+status: not-started
+created: 2026-04-17
+---
+
+# Building Generative AI Skills for Web Developers
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/paths/building-generative-ai-skills-for-web-developers) | 10 courses | Artificial Intelligence (AI), Software Development, Web Development
+
+## Courses
+
+1. [[What Is Generative AI-]] _(1h 3m)_
+2. [[Generative AI vs. Traditional AI]] _(1h 17m)_
+3. [[Prompt Engineering- How to Talk to the AIs]] _(29m)_
+4. [[Prompting ChatGPT with Multimodal Techniques]] _(23m)_
+5. [[Building PHP Applications with Generative AI]] _(1h 23m)_
+6. [[Integrating Generative AI into JavaScript Web Projects]] _(2h 25m)_
+7. [[Build an AI Application with React and AWS SageMaker]] _(1h 12m)_
+8. [[Build with AI- Beyond Pair Programming with AI]] _(2h 24m)_
+9. [[AI Programming for JavaScript Developers]] _(1h 55m)_
+10. [[Build a JavaScript AI App with React and the OpenAI API]] _(1h 59m)_
+
+## Course Flow
+
+1. [[What Is Generative AI-]] → 2. [[Generative AI vs. Traditional AI]] → 3. [[Prompt Engineering- How to Talk to the AIs]] → 4. [[Prompting ChatGPT with Multimodal Techniques]] → 5. [[Building PHP Applications with Generative AI]] → 6. [[Integrating Generative AI into JavaScript Web Projects]] → 7. [[Build an AI Application with React and AWS SageMaker]] → 8. [[Build with AI- Beyond Pair Programming with AI]] → 9. [[AI Programming for JavaScript Developers]] → 10. [[Build a JavaScript AI App with React and the OpenAI API]]
+
+## Topics
+
+- [[Artificial Intelligence (AI)]]
+- [[Software Development]]
+- [[Web Development]]
+
+## Related Paths
+
+_Paths that share courses with this one:_
+
+- [[Understanding Generative AI for Tech Leaders]] (2 shared courses)
+- [[Building AI Literacy]] (2 shared courses)
+- [[Applying AI as a Tech Leader]] (1 shared courses)
+- [[Become an AI-Powered Recruiter]] (1 shared courses)
+- [[Building ChatGPT Skills for Business Professionals]] (1 shared courses)

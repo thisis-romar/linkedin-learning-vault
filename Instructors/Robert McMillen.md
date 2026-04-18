@@ -1,0 +1,29 @@
+---
+type: instructor
+course_count: 5
+path_reach: 5
+linkedin_topics:
+  - Cybersecurity
+  - DevOps
+  - IT Help Desk
+  - Network and System Administration
+tags:
+  - instructor
+  - topic/security
+  - topic/devops
+  - topic/it-help-desk
+  - topic/network-and-system-administration
+created: 2026-04-17
+---
+
+# Robert McMillen
+
+> 5 courses | 5 learning paths
+
+## Courses
+
+- [[IT Support for a Hybrid Workforce]]
+- [[Learning Network Troubleshooting- Practical Network Diagnostics and Solutions]]
+- [[Windows Server 2022 Essential Training]]
+- [[Microsoft 365 Teams Administrator Associate Cert Prep (MS-700)- Managing Collaboration Tools]]
+- [[Windows Server 2022- DHCP and DNS]]

@@ -1,0 +1,53 @@
+---
+type: learning-path
+url: "https://www.linkedin.com/learning/paths/starting-your-career-in-tech-software-development"
+course_count: 6
+linkedin_topics:
+  - Cloud Computing
+  - Cybersecurity
+  - Data Science
+  - Software Development
+louvain_cluster: 14
+tags:
+  - learning-path
+  - topic/cloud-computing
+  - topic/security
+  - topic/data-science
+  - topic/software-development
+status: not-started
+created: 2026-04-17
+---
+
+# Starting Your Career in Tech: Software Development
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/paths/starting-your-career-in-tech-software-development) | 6 courses | Cloud Computing, Cybersecurity, Data Science, Software Development
+
+## Courses
+
+1. [[Getting Started With Technology Think Like An Engineer]]
+2. [[Writing a Tech Resume]] _(56m)_
+3. [[Tech Career Skills- Searching, Interviewing, and Landing a Job]] _(1h 28m)_
+4. [[Rock Your LinkedIn Profile]] _(1h 12m)_
+5. [[Tech Career Skills- Effective Technical Communication]] _(1h 1m)_
+6. [[Developer Career Paths and Certifications]] _(48m)_
+
+## Course Flow
+
+1. [[Getting Started With Technology Think Like An Engineer]] → 2. [[Writing a Tech Resume]] → 3. [[Tech Career Skills- Searching, Interviewing, and Landing a Job]] → 4. [[Rock Your LinkedIn Profile]] → 5. [[Tech Career Skills- Effective Technical Communication]] → 6. [[Developer Career Paths and Certifications]]
+
+## Topics
+
+- [[Cloud Computing]]
+- [[Cybersecurity]]
+- [[Data Science]]
+- [[Software Development]]
+
+## Related Paths
+
+_Paths that share courses with this one:_
+
+- [[Managing your Career as a Developer]] (2 shared courses)
+- [[Advance as a Tech Leader]] (1 shared courses)
+- [[Succeeding in Your Tech Career- Software Development]] (1 shared courses)
+- [[Managing and Leading Developers]] (1 shared courses)
+- [[Improve Your Technical Communication Skills]] (1 shared courses)

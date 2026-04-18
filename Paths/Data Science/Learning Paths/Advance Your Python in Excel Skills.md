@@ -1,0 +1,44 @@
+---
+type: learning-path
+url: "https://www.linkedin.com/learning/paths/advance-your-python-in-excel-skills"
+course_count: 7
+linkedin_topics:
+  - Data Science
+  - Software Development
+louvain_cluster: 6
+tags:
+  - learning-path
+  - topic/data-science
+  - topic/software-development
+status: not-started
+created: 2026-04-17
+---
+
+# Advance Your Python in Excel Skills
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/paths/advance-your-python-in-excel-skills) | 7 courses | Data Science, Software Development
+
+## Courses
+
+1. [[Python In Excel Getting Started With Data Analysis]]
+2. [[Python in Excel- Working with pandas DataFrames]] _(1h 47m)_
+3. [[Data Cleaning and Manipulating with Python in Excel]] _(1h 53m)_
+4. [[Python in Excel- Data Outputs in Custom Data Visualizations and Algorithms]] _(2h 2m)_
+5. [[Advanced Python in Excel- Data Analysis and Visualization]] _(48m)_
+6. [[Advanced Python in Excel- Machine Learning]] _(36m)_
+7. [[Advanced Analysis Using Python in Excel Copilot]] _(18m)_
+
+## Course Flow
+
+1. [[Python In Excel Getting Started With Data Analysis]] → 2. [[Python in Excel- Working with pandas DataFrames]] → 3. [[Data Cleaning and Manipulating with Python in Excel]] → 4. [[Python in Excel- Data Outputs in Custom Data Visualizations and Algorithms]] → 5. [[Advanced Python in Excel- Data Analysis and Visualization]] → 6. [[Advanced Python in Excel- Machine Learning]] → 7. [[Advanced Analysis Using Python in Excel Copilot]]
+
+## Topics
+
+- [[Data Science]]
+- [[Software Development]]
+
+## Related Paths
+
+_Paths that share courses with this one:_
+
+- [[Introduction to Fundamental Skills for Data Work- Data Collection]] (1 shared courses)

@@ -1,0 +1,21 @@
+---
+type: instructor
+course_count: 1
+path_reach: 1
+linkedin_topics:
+  - Artificial Intelligence (AI)
+  - Software Development
+tags:
+  - instructor
+  - topic/artificial-intelligence
+  - topic/software-development
+created: 2026-04-17
+---
+
+# Teresa Luz Miller
+
+> 1 courses | 1 learning paths
+
+## Courses
+
+- [[GitHub Issues and Projects for Teams]]

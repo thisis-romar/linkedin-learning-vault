@@ -1,0 +1,16 @@
+---
+type: skill
+course_count: 1
+tags:
+  - skill
+  - skill/data-validation
+created: 2026-04-17
+---
+
+# Data Validation
+
+> 1 course teach this skill
+
+## Courses
+
+- [[Capstone- Building Production Features with Copilot]]

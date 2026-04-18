@@ -1,0 +1,47 @@
+---
+type: learning-path
+url: "https://www.linkedin.com/learning/paths/a-developer-s-guide-to-google-gemini"
+course_count: 8
+linkedin_topics:
+  - Artificial Intelligence (AI)
+  - Software Development
+louvain_cluster: 11
+tags:
+  - learning-path
+  - topic/artificial-intelligence
+  - topic/software-development
+status: not-started
+created: 2026-04-17
+---
+
+# A Developer's Guide to Google Gemini
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/paths/a-developer-s-guide-to-google-gemini) | 8 courses | Artificial Intelligence (AI), Software Development
+
+## Courses
+
+1. [[Prompt Engineering With Gemini]]
+2. [[Exploring Million-Token Models with Google Gemini Pro 1.5]] _(18m)_
+3. [[Getting Started with the Google Gemini API]] _(1h 8m)_
+4. [[Programming with the Gemini Flash API]] _(19m)_
+5. [[Google Gemini For Developers]]
+6. [[Advanced Gemini for Developers]] _(1h 11m)_
+7. [[Building with Google Gemini Advanced and Ultra]] _(15m)_
+8. [[Build an Image Captioning Tool for Visually Impaired Users with Gemini]] _(1h 7m)_
+
+## Course Flow
+
+1. [[Prompt Engineering With Gemini]] → 2. [[Exploring Million-Token Models with Google Gemini Pro 1.5]] → 3. [[Getting Started with the Google Gemini API]] → 4. [[Programming with the Gemini Flash API]] → 5. [[Google Gemini For Developers]] → 6. [[Advanced Gemini for Developers]] → 7. [[Building with Google Gemini Advanced and Ultra]] → 8. [[Build an Image Captioning Tool for Visually Impaired Users with Gemini]]
+
+## Topics
+
+- [[Artificial Intelligence (AI)]]
+- [[Software Development]]
+
+## Related Paths
+
+_Paths that share courses with this one:_
+
+- [[Develop Your AI Skills with Google Gemini and Google Cloud Platform]] (2 shared courses)
+- [[Build for Digital Accessibility]] (1 shared courses)
+- [[Getting Started with Prompt Engineering]] (1 shared courses)

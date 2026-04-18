@@ -1,0 +1,16 @@
+---
+type: skill
+course_count: 1
+tags:
+  - skill
+  - skill/continuous-integration-ci
+created: 2026-04-17
+---
+
+# Continuous Integration (CI)
+
+> 1 course teach this skill
+
+## Courses
+
+- [[Continuous Integration- Tools]]

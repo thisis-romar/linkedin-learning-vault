@@ -1,0 +1,43 @@
+---
+type: learning-path
+url: "https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-people-managers"
+course_count: 5
+linkedin_topics:
+  - Artificial Intelligence (AI)
+  - Data Science
+louvain_cluster: 4
+tags:
+  - learning-path
+  - topic/artificial-intelligence
+  - topic/data-science
+status: not-started
+created: 2026-04-17
+---
+
+# Technical Literacy and Future Readiness for People Managers
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-people-managers) | 5 courses | Artificial Intelligence (AI), Data Science
+
+## Courses
+
+1. [[Become An Ai Powered People Manager]]
+2. [[Responsible AI for Managers]] _(23m)_
+3. [[Manager's Guide to Building a Strategic Plan with ChatGPT (No Code Required)]] _(27m)_
+4. [[Data Decision-Making and Communication for Leaders with Nancy Duarte]] _(44m)_
+5. [[Strategic AI Prompting for Managers- Leading Smarter with Generative AI]] _(55m)_
+
+## Course Flow
+
+1. [[Become An Ai Powered People Manager]] → 2. [[Responsible AI for Managers]] → 3. [[Manager's Guide to Building a Strategic Plan with ChatGPT (No Code Required)]] → 4. [[Data Decision-Making and Communication for Leaders with Nancy Duarte]] → 5. [[Strategic AI Prompting for Managers- Leading Smarter with Generative AI]]
+
+## Topics
+
+- [[Artificial Intelligence (AI)]]
+- [[Data Science]]
+
+## Related Paths
+
+_Paths that share courses with this one:_
+
+- [[Generative AI for Recruiting Professional Certificate by LinkedIn Learning]] (1 shared courses)
+- [[LinkedIn’s 2025 Top MBA Programs Learning Path]] (1 shared courses)

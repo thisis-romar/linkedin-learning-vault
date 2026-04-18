@@ -1,0 +1,43 @@
+---
+type: learning-path
+url: "https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-aspiring-managers"
+course_count: 5
+linkedin_topics:
+  - Artificial Intelligence (AI)
+louvain_cluster: 2
+tags:
+  - learning-path
+  - topic/artificial-intelligence
+status: not-started
+created: 2026-04-17
+---
+
+# Technical Literacy and Future Readiness for Aspiring Managers
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-aspiring-managers) | 5 courses | Artificial Intelligence (AI)
+
+## Courses
+
+1. [[Developing A Learning Mindset In The Age Of Ai]]
+2. [[Responsible AI- Principles and Practical Applications]] _(1h 17m)_
+3. [[How to Boost Your Productivity with AI Tools]] _(2h 14m)_
+4. [[Prompt Engineering- How to Talk to the AIs]] _(29m)_
+5. [[Using AI for Data-Driven Insights]] _(58m)_
+
+## Course Flow
+
+1. [[Developing A Learning Mindset In The Age Of Ai]] → 2. [[Responsible AI- Principles and Practical Applications]] → 3. [[How to Boost Your Productivity with AI Tools]] → 4. [[Prompt Engineering- How to Talk to the AIs]] → 5. [[Using AI for Data-Driven Insights]]
+
+## Topics
+
+- [[Artificial Intelligence (AI)]]
+
+## Related Paths
+
+_Paths that share courses with this one:_
+
+- [[Building AI Literacy]] (2 shared courses)
+- [[Mastering Responsible AI- From Concept to Auditing]] (1 shared courses)
+- [[Responsible AI at Work- Literacy, Ethics, and More]] (1 shared courses)
+- [[Building Generative AI Skills for Web Developers]] (1 shared courses)
+- [[Build AI Aptitude as a New Manager]] (1 shared courses)

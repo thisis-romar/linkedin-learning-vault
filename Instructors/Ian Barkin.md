@@ -1,0 +1,29 @@
+---
+type: instructor
+course_count: 5
+path_reach: 5
+linkedin_topics:
+  - Artificial Intelligence (AI)
+  - Cloud Computing
+  - Network and System Administration
+  - Software Development
+tags:
+  - instructor
+  - topic/artificial-intelligence
+  - topic/cloud-computing
+  - topic/network-and-system-administration
+  - topic/software-development
+created: 2026-04-17
+---
+
+# Ian Barkin
+
+> 5 courses | 5 learning paths
+
+## Courses
+
+- [[Process Mining for Robotic Process Automation]]
+- [[Rpa Ai And Cognitive Tech For Leaders]]
+- [[The Startup-SMB Guide to Integrating and Managing AI Agents]]
+- [[Intelligent Automation Foundations]]
+- [[Process Discovery for Robotic Process Automation]]

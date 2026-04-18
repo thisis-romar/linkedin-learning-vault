@@ -1,0 +1,43 @@
+---
+type: professional-certificate
+url: "https://www.linkedin.com/learning/paths/servicenow-it-leadership-professional-certificate"
+course_count: 4
+linkedin_topics:
+  - DevOps
+  - Network and System Administration
+louvain_cluster: 14
+tags:
+  - professional-certificate
+  - topic/devops
+  - topic/network-and-system-administration
+status: not-started
+created: 2026-04-17
+---
+
+# ServiceNow IT Leadership Professional Certificate
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/paths/servicenow-it-leadership-professional-certificate) | 4 courses | DevOps, Network and System Administration
+
+## Courses
+
+1. [[Succeeding As A First Time Tech Manager]]
+2. [[Program Management for IT Professionals]] _(1h 42m)_
+3. [[Introduction to IT Architecture]] _(1h 54m)_
+4. [[Creating Your IT Strategy]] _(45m)_
+
+## Course Flow
+
+1. [[Succeeding As A First Time Tech Manager]] → 2. [[Program Management for IT Professionals]] → 3. [[Introduction to IT Architecture]] → 4. [[Creating Your IT Strategy]]
+
+## Topics
+
+- [[DevOps]]
+- [[Network and System Administration]]
+
+## Related Paths
+
+_Paths that share courses with this one:_
+
+- [[Advance Your Communication Skills as a Tech Manager]] (2 shared courses)
+- [[Advance as a Tech Leader]] (1 shared courses)
+- [[Managing and Leading Developers]] (1 shared courses)

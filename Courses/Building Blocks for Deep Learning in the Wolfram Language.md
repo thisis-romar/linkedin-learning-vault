@@ -1,0 +1,72 @@
+---
+type: course
+slug: building-blocks-for-deep-learning-in-the-wolfram-language
+url: "https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language"
+duration_minutes: 54
+duration: 54m
+level: Advanced
+updated: 1/2/2024
+learners: 86498
+skills:
+  - Wolfram Language
+  - Artificial Intelligence (AI)
+  - Deep Learning
+exercise_files: false
+tags:
+  - course
+  - topic/data-science
+  - skill/wolfram-language
+  - skill/artificial-intelligence-ai
+  - skill/deep-learning
+status: not-started
+created: 2026-04-17
+---
+
+# Building Blocks for Deep Learning in the Wolfram Language
+
+> This course explores how to construct neural networks in the Wolfram Language. The Wolfram Language neural network framework provides symbolic building blocks to build, train, and tune a network, as well as automatically process input and output using encoders and decoders. Discover how to build feed-forward networks, and learn about recurrent neural nets and why they are interesting.
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language) | 54m | Advanced | 86K learners
+
+## Instructor
+
+- [[Wolfram Research]]
+
+## Skills Covered
+
+- Wolfram Language
+- Artificial Intelligence (AI)
+- Deep Learning
+
+## Table of Contents
+
+### 1. Building and Training Basic Neural Networks
+
+#### Building and training basic neural networks
+> [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/building-and-training-basic-neural-networks?u=76281980)
+
+
+### 2. Recurrent Neural Networks
+
+#### Recurrent neural networks
+> [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/recurrent-neural-networks?u=76281980)
+
+
+## Path Context
+
+### In [[Build Your Wolfram Language Skills]]
+← [[Built-in Machine Learning in the Wolfram Language]] | **8 of 8**
+
+## Appears In
+
+- [[Build Your Wolfram Language Skills]]
+
+## Related Courses
+
+_Courses sharing skills:_
+
+- [[Deep Learning with TensorFlow- Insights and Innovations]] — Artificial Intelligence (AI), Deep Learning
+- [[Deep Learning- Model Optimization and Tuning (2022)]] — Artificial Intelligence (AI), Deep Learning
+- [[Deep Learning with Python- Optimizing Deep Learning Models]] — Artificial Intelligence (AI), Deep Learning
+- [[Deep Learning with Python- Convolutional Neural Networks]] — Artificial Intelligence (AI), Deep Learning
+- [[Deep Learning Getting Started]] — Artificial Intelligence (AI), Deep Learning

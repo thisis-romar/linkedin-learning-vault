@@ -1,0 +1,43 @@
+---
+type: learning-path
+url: "https://www.linkedin.com/learning/paths/getting-started-with-devops"
+course_count: 5
+linkedin_topics:
+  - DevOps
+louvain_cluster: 8
+tags:
+  - learning-path
+  - topic/devops
+status: not-started
+created: 2026-04-17
+---
+
+# Getting Started with DevOps
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/paths/getting-started-with-devops) | 5 courses | DevOps
+
+## Courses
+
+1. [[Devops Foundations]]
+2. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] _(1h 54m)_
+3. [[DevOps Foundations- Infrastructure as Code]] _(2h 30m)_
+4. [[DevOps Foundations- Monitoring and Observability]] _(2h 1m)_
+5. [[DevOps Foundations- Your First Project]] _(3h 57m)_
+
+## Course Flow
+
+1. [[Devops Foundations]] → 2. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] → 3. [[DevOps Foundations- Infrastructure as Code]] → 4. [[DevOps Foundations- Monitoring and Observability]] → 5. [[DevOps Foundations- Your First Project]]
+
+## Topics
+
+- [[DevOps]]
+
+## Related Paths
+
+_Paths that share courses with this one:_
+
+- [[DevOps Professional Certificate by PagerDuty and LinkedIn]] (3 shared courses)
+- [[Develop Your Skills in Agile Software Development]] (1 shared courses)
+- [[Develop Your Skills as a Software Project Manager]] (1 shared courses)
+- [[Become a Full-Stack Web Developer]] (1 shared courses)
+- [[Infrastructure as Code with Terraform]] (1 shared courses)
