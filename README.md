@@ -1,6 +1,6 @@
 # LinkedIn Learning Vault
 
-Obsidian knowledge vault with 3,665 interlinked notes from the LinkedIn Learning Technology catalog.
+Obsidian knowledge vault with 3,600+ interlinked notes from the LinkedIn Learning Technology catalog.
 
 | | Count |
 |---|---:|
