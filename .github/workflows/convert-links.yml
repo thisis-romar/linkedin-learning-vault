@@ -1,0 +1,32 @@
+name: Convert wikilinks → GitHub-browse branch
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Convert [[wikilinks]] to relative markdown links
+        run: node scripts/convert-wikilinks.mjs .
+
+      - name: Push to github-browse branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -B github-browse
+          git add -A
+          git commit -m "auto: convert wikilinks to markdown links" --allow-empty
+          git push origin github-browse --force
