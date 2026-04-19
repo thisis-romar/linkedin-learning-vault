@@ -121,6 +121,8 @@ jobs:
 
       - name: Build Quartz
         run: cd quartz && npx quartz build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=7168"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
