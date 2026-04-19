@@ -40,6 +40,18 @@ jobs:
           cp vault/"000 Map of Content.md" quartz/content/index.md
           cp vault/CLAUDE.md quartz/content/ 2>/dev/null || true
 
+      - name: Strip transcripts to reduce memory usage
+        run: |
+          # Remove transcript callout blocks from course files (bulk of content)
+          # Replaces everything from "> [!transcript]" to end of file with a note
+          find quartz/content/Courses -name '*.md' -exec python3 -c "
+          import sys, re
+          for f in sys.argv[1:]:
+              with open(f, 'r') as fh: text = fh.read()
+              text = re.sub(r'> \[!transcript\].*', '> *Transcript available in [Obsidian vault](https://github.com/thisis-romar/linkedin-learning-vault)*', text, count=1, flags=re.DOTALL)
+              with open(f, 'w') as fh: fh.write(text)
+          " {} +
+
       - name: Configure Quartz
         run: |
           cat > quartz/quartz.config.ts << 'CONF'
