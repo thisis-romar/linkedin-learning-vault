@@ -1,25 +1,11 @@
 {
-  "collapse": {
-    "search": false,
-    "localJumps": false,
-    "colorGroups": false,
-    "display": false,
-    "forces": false
-  },
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse1": false,
-  "localJumps": 1,
-  "lineSizeMultiplier": 1,
-  "nodeSizeMultiplier": 1,
-  "textFadeMultiplier": 0,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "centerStrength": 0.4,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:\"000 Map of Content\"",
@@ -343,5 +329,17 @@
         "rgb": 9228669
       }
     }
-  ]
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.3,
+  "repelStrength": 20,
+  "linkStrength": 0.4,
+  "linkDistance": 300,
+  "scale": 0.01637899313343919,
+  "close": false
 }
