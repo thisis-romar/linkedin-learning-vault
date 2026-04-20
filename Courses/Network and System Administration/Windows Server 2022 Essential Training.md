@@ -26,7 +26,7 @@ tags:
   - topic/it-help-desk
   - skill/windows-server
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Windows Server 2022 Essential Training](https://media.licdn.com/dms/image/v2/C560DAQGYpV6N5w4Wyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655141216714?e=2147483647&amp;v=beta&amp;t=zKJKL8ogTKVTK72Svvi7EEond0Zc0wh9h7lXASH_aRA)

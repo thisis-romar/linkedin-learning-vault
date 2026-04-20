@@ -17,7 +17,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Integrating Generative AI into the Creative Process](https://media.licdn.com/dms/image/v2/D4D0DAQFe7xyJkJNWMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1699056399160?e=2147483647&amp;v=beta&amp;t=zCwlBKy7veDJmKP9XNPHy_Stij5rbI_3Nla3e88vxnI)

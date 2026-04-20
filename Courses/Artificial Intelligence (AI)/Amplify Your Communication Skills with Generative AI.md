@@ -16,7 +16,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Amplify Your Communication Skills with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQEbEZmQhrYSWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709605150351?e=2147483647&amp;v=beta&amp;t=gyiXVt3rtKWGA-moEPVMXEoP-gUkzCXShUr2HHoGyGU)

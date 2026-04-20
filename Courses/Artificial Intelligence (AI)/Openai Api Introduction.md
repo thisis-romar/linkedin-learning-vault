@@ -27,7 +27,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Openai Api Introduction](https://media.licdn.com/dms/image/v2/D560DAQEWS5-DC0zYIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704245394141?e=2147483647&amp;v=beta&amp;t=98AwtUKk7k69NMutgfvmFPuNyJX7uHRYUea_bVWxsNk)

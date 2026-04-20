@@ -27,7 +27,7 @@ tags:
   - skill/aec
   - skill/quantum-gis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![QGIS and Python for AEC](https://media.licdn.com/dms/image/v2/C560DAQHm9q1H_lQ6Ug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1595962530536?e=2147483647&amp;v=beta&amp;t=LlCHhOnRDECiv4Fk8VdGq6p_KmJcm9CDpytSXq7bMJE)

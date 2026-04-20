@@ -2,20 +2,54 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/develop-your-ai-skills-with-google-gemini-and-google-cloud-platform"
+url: https://www.linkedin.com/learning/paths/develop-your-ai-skills-with-google-gemini-and-google-cloud-platform
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/cloud-computing
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Google Gemini For Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Prompt Engineering with Gemini (2024)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Multimodal Prompting with Google''s Project Gemini]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building with Google Gemini Advanced and Ultra]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a Video Transcriber with Node.js and Google AI Speech-To-Text API]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Google Cloud Platform for Machine Learning Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Vertex AI- MLOps with Google Cloud]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Develop Your AI Skills with Google Gemini and Google Cloud Platform

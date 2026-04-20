@@ -25,7 +25,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/content-marketing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![A Content Marketer's Guide to Responsible AI](https://media.licdn.com/dms/image/v2/D4D0DAQGJNpyyGwdSZA/learning-public-crop_675_1200/B4DZTdu_f4HIAY-/0/1738886871620?e=2147483647&amp;v=beta&amp;t=Tt-MJLQOKxFKY9uv_CwJP9wXfoFmyOYuZleK_h3sybA)

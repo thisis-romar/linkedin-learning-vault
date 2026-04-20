@@ -2,18 +2,44 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/azure-administration-for-beginners-management-tools-services-and-security"
+url: https://www.linkedin.com/learning/paths/azure-administration-for-beginners-management-tools-services-and-security
 course_count: 5
 linkedin_topics:
   - Cloud Computing
   - Network and System Administration
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Azure Understanding The Big Picture]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure Cloud Fundamentals- Explore Cloud Services]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure Management Basics- Portal, PowerShell, Bicep, and CLI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Entra ID Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure Networking and Security for Beginners- Tools and Services]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Azure Administration for Beginners: Management Tools, Services, and Security

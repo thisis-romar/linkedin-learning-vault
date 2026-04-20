@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/get-ahead-in-business-analytics-and-analysis"
+url: https://www.linkedin.com/learning/paths/get-ahead-in-business-analytics-and-analysis
 course_count: 19
 linkedin_topics:
   - Data Science
@@ -10,8 +10,90 @@ louvain_cluster: 9
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction To Business Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analysis Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Digital Business Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analysis for Busy Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analysis for Project Managers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analyst and Project Manager Collaboration (2018)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analysis Foundations- Competencies]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analysis Foundations- Business Process Modeling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analysis Foundations- Strategy Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analysis- Essential Tools and Techniques (2021)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analytics Foundations- Descriptive, Exploratory, and Explanatory Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analytics Foundations- Predictive, Prescriptive, and Experimental Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Predictive Analytics Essential Training- Estimating and Ensuring ROI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analytics- Forecasting with Exponential Smoothing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analytics- Forecasting with Seasonal Baseline Smoothing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Requirements Elicitation and Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Requirements Elicitation for Business Analysis- Stakeholder Conversations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analytics- Marketing Data (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analytics- Sales Data (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Get Ahead in Business Analytics and Analysis

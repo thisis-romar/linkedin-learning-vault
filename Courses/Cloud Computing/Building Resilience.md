@@ -28,7 +28,7 @@ tags:
   - skill/resiliency
   - skill/wellness
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building Resilience](https://media.licdn.com/dms/image/v2/D560DAQEDqP9ioDWOhA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722026406857?e=2147483647&amp;v=beta&amp;t=goVZPDa8SOs2sYUiUhL7SK7kLrZdf1S0nZoOg-X1ioI)

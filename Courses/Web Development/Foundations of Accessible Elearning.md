@@ -16,7 +16,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Foundations of Accessible Elearning](https://media.licdn.com/dms/image/v2/C560DAQGYXMOan21_Xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639687049424?e=2147483647&amp;v=beta&amp;t=0xzHwvuZsGNy7b0-9PX6iXdfqRs6blUXRR7KhzDe-mU)

@@ -25,7 +25,7 @@ tags:
   - skill/sustainability
   - skill/microsoft-s-cloud-for-sustainability
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Performing a Sustainability Audit with Microsoft Sustainability Manager](https://media.licdn.com/dms/image/v2/D4E0DAQHf-0PhG9Y_ng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727465768247?e=2147483647&amp;v=beta&amp;t=DhQhKXR9EFQJMXbRnRvBk7BWBINjCJP-Orp0RR_bJwA)

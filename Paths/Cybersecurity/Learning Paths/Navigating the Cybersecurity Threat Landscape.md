@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/navigating-the-cybersecurity-threat-landscape"
+url: https://www.linkedin.com/learning/paths/navigating-the-cybersecurity-threat-landscape
 course_count: 8
 linkedin_topics:
   - Cybersecurity
@@ -10,8 +10,46 @@ louvain_cluster: 4
 tags:
   - learning-path
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[The Cybersecurity Threat Landscape]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Demystifying Advanced and Complex Security Topics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning the OWASP Top 10]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Identity and Access Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Supply Chain Cybersecurity- Preventing Supply Chain Attacks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity- Key Policies and Resources]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cyber Resilience- An Overview]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Transitioning to a Career in Cybersecurity]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Navigating the Cybersecurity Threat Landscape

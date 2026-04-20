@@ -29,7 +29,7 @@ tags:
   - skill/supply-chain-management
   - skill/digital-transformation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Digital Transformation in Supply Chains](https://media.licdn.com/dms/image/v2/C4D0DAQF8f50kxxrstw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648746554372?e=2147483647&amp;v=beta&amp;t=9UPmTC7YlrHs3xA1Yxz5-jl35NoWmQ1GVtLqAFKV-U4)

@@ -27,7 +27,7 @@ tags:
   - skill/it-service-management
   - skill/capacity-planning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![IT Service Management Foundations: Capacity and Availability Management](https://media.licdn.com/dms/image/v2/D4D0DAQFH2Kn1JVpbtg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735073943757?e=2147483647&amp;v=beta&amp;t=9kbV3cNEQsHDvn5XKXZObsFeEpM6KLx4Wi7swppRVcI)

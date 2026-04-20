@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - skill/data-driven-decision-making
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data-Driven Decision-Making for Business Professionals](https://media.licdn.com/dms/image/v2/C560DAQGvUxVuRicCfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608048760194?e=2147483647&amp;v=beta&amp;t=zWIi1ii3M2oPnxEW5OAof8YIX7x7joYXf-dIMGg3U7g)

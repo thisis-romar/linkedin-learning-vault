@@ -25,7 +25,7 @@ tags:
   - skill/python-programming-language
   - skill/data-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python Functions for Data Science](https://media.licdn.com/dms/image/v2/D560DAQGnFiXiVWQong/learning-public-crop_675_1200/B56ZrwV5.nL8AY-/0/1764968865986?e=2147483647&amp;v=beta&amp;t=FS5a1mj0v5I-XnALS8VwfOTkLuhu3d63sUVvDz-LQLc)

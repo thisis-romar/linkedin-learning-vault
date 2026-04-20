@@ -23,7 +23,7 @@ tags:
   - skill/sustainable-business
   - skill/workplace-transformation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Tips to Make Your Office Eco-Friendly](https://media.licdn.com/dms/image/v2/D560DAQH0Yy4gOl3p1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685052444936?e=2147483647&amp;v=beta&amp;t=lmhU-4w952THtB6ZpQiW_9tDG6xdg8ZnhH4t3gD_fmE)

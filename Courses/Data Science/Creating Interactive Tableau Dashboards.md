@@ -33,7 +33,7 @@ tags:
   - skill/data-analytics
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Creating Interactive Tableau Dashboards](https://media.licdn.com/dms/image/v2/D4E0DAQEtJoc6PfO21Q/learning-public-crop_675_1200/B4EZaNoHLFHEAY-/0/1746132825739?e=2147483647&amp;v=beta&amp;t=OJiguxsXEWRhIerl8ffwEPYf-XipOYxSqDeEejLxAPc)

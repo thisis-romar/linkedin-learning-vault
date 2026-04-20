@@ -25,7 +25,7 @@ tags:
   - skill/it-service-management
   - skill/customer-service-skills
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![IT Service Desk: Customer Service Fundamentals](https://media.licdn.com/dms/image/v2/C4D0DAQHx-DhtZTgkVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567195538838?e=2147483647&amp;v=beta&amp;t=GOqfMS44b3B6oFoh6bLRciHYfdX12UNumwiWxaEuRQI)

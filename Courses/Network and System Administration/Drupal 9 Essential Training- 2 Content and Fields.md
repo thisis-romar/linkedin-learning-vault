@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Drupal 9 Essential Training: 2 Content and Fields](https://media.licdn.com/dms/image/v2/C4E0DAQGJ50LZ3TlHVA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614870855109?e=2147483647&amp;v=beta&amp;t=w4aVmMl1heWJrHGBtV4B-T6x8KjQQ6Cl65fVe6phuoY)

@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/network-automation-professional-certificate-by-arista-networks"
+url: https://www.linkedin.com/learning/paths/network-automation-professional-certificate-by-arista-networks
 course_count: 6
 linkedin_topics:
   - Database Management
@@ -14,8 +14,38 @@ tags:
   - topic/database-management
   - topic/devops
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Ansible]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Quick Start]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Linux (2021)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[NetOps (DevOps for Network Engineers)- Automating Networks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hybrid Multicloud Networking- Practical Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Terraform- Managing Network Infrastructure]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Network Automation Professional Certificate by Arista Networks

@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Analytics for Students (2022)](https://media.licdn.com/dms/image/v2/D560DAQHu0agdv0f6JA/learning-public-crop_675_1200/B56Zs3k7x7KIAY-/0/1766163988250?e=2147483647&amp;v=beta&amp;t=t7gZPN436PKTyfQsd5W9IoveTc8kau4EZVGxlUK3NIA)

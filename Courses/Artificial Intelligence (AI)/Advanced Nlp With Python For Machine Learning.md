@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Nlp With Python For Machine Learning](https://media.licdn.com/dms/image/v2/D560DAQGTubKeur8sMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008930353?e=2147483647&amp;v=beta&amp;t=PZUtYX6-bOg6xbI_5l58ZD_rgUmE9NdkRfkR2tgE86s)

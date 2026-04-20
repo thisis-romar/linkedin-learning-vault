@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/continuous-integration-ci
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Continuous Integration: Tools](https://media.licdn.com/dms/image/v2/D4D0DAQF_XV39CwrXiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702073152131?e=2147483647&amp;v=beta&amp;t=PArj2EExCoyrMjjDLxpN6FpMfIxXkw62Yc0W0KhhHBQ)

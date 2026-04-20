@@ -28,7 +28,7 @@ tags:
   - skill/javascript
   - skill/ecmascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning ECMAScript 6+ (ES6+)](https://media.licdn.com/dms/image/v2/D4E0DAQEbJyxmzaY-ZA/learning-public-crop_675_1200/B4EZX4YHdPGYAk-/0/1743628826778?e=2147483647&amp;v=beta&amp;t=OrblxegD5XwDLlT3IMkO1ieZ6soW0C0J3gFtb_r5mtE)

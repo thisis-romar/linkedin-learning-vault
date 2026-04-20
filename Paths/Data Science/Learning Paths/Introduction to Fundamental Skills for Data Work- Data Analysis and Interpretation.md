@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-analysis-and-interpretation"
+url: https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-analysis-and-interpretation
 course_count: 9
 linkedin_topics:
   - Data Science
@@ -10,8 +10,50 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 1- The Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 2- Probability]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Data Analytics- 1 Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Analyst Mindset- 10 Nontechnical Ways to Influence Decisions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Predictive Analytics Essential Training- Data Mining]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL- Data Reporting and Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Data Methods]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Program Evaluation for Data Science]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Introduction to Fundamental Skills for Data Work: Data Analysis and Interpretation

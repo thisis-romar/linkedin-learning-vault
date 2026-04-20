@@ -26,7 +26,7 @@ tags:
   - skill/data-engineering
   - skill/problem-solving
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Problem-Solving Strategies for Data Engineers](https://media.licdn.com/dms/image/v2/D560DAQHbAbSH4NO6OQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687393016434?e=2147483647&amp;v=beta&amp;t=zgcuvpASDV1aptR6vh5JPqJmdcZCebBIYuuyMv_-Cbw)

@@ -18,7 +18,7 @@ tags:
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity with Cloud Computing](https://media.licdn.com/dms/image/v2/C4D0DAQEWS3tcPuXpfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1595272110364?e=2147483647&amp;v=beta&amp;t=OaoOZUfwdBoralWJA8V_mOuGb42SHSehSnmw1qpy6Ak)

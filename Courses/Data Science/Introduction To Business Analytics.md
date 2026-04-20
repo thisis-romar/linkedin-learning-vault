@@ -21,7 +21,7 @@ tags:
   - topic/data-science
   - skill/business-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction To Business Analytics](https://media.licdn.com/dms/image/v2/D4E0DAQGOU_Qvnb9tqA/learning-public-crop_675_1200/B4EZp.6pnGKkAY-/0/1763065896063?e=2147483647&amp;v=beta&amp;t=E4CtFLjAmrrqacLLNsEXPsOa7r1djdDP3xZaiP_nujg)

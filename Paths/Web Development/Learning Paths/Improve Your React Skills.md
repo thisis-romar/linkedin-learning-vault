@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/improve-your-react-skills"
+url: https://www.linkedin.com/learning/paths/improve-your-react-skills
 course_count: 9
 linkedin_topics:
   - Web Development
@@ -10,8 +10,50 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Building Modern Uis With React Router V6]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Building Styles with CSS Modules]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Securing Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Modern Projects with React]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Testing and Debugging]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Authentication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Software Architecture]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a GraphQL Project with React.js]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Cloud-Powered Apps with Firebase]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Improve Your React Skills

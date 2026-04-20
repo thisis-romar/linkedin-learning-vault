@@ -26,7 +26,7 @@ tags:
   - skill/data-engineering
   - skill/rust-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Rust for Data Engineering](https://media.licdn.com/dms/image/v2/D560DAQH_NwxyHmZEPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697135500744?e=2147483647&amp;v=beta&amp;t=zvdfcU9vhqSn3AfHHTuHk_ZY8cpWjogM8YXdQduDdB0)

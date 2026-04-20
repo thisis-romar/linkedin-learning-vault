@@ -28,7 +28,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python Data Structures: Linked Lists](https://media.licdn.com/dms/image/v2/D4D0DAQGux-kR88_Z9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712710126604?e=2147483647&amp;v=beta&amp;t=aKsQLLn30aLMbPLAMK-bZbxQal72aUj4Kc1JdM9J-1M)

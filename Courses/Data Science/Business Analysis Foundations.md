@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - skill/business-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analysis Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQGUafseQMPKOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567544440259?e=2147483647&amp;v=beta&amp;t=q4vucYVljX_P87AoVvrrbbIoVPi8DHmQNDLwWbXobJs)

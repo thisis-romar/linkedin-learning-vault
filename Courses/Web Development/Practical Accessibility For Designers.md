@@ -15,7 +15,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Practical Accessibility For Designers](https://media.licdn.com/dms/image/v2/C4E0DAQHkN5mxyIRw4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660760563867?e=2147483647&amp;v=beta&amp;t=Qdxf3yUdHJMFPFqIaWOJBHw3P3pQbZRN4JOV5FVUwVo)

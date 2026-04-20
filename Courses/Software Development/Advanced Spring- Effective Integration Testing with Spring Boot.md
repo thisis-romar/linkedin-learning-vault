@@ -29,7 +29,7 @@ tags:
   - skill/integration-testing
   - skill/spring-boot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Spring: Effective Integration Testing with Spring Boot](https://media.licdn.com/dms/image/v2/C4D0DAQG2UdkVhaQJXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614197905403?e=2147483647&amp;v=beta&amp;t=LZJsPStGZctcDG14_uwJtIrdmMsYBsuP525HgtVWZgA)

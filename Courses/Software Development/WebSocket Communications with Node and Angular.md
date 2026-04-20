@@ -29,7 +29,7 @@ tags:
   - skill/angular
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![WebSocket Communications with Node and Angular](https://media.licdn.com/dms/image/v2/C560DAQE_YE-lIDB7xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646853207200?e=2147483647&amp;v=beta&amp;t=lDyzOC2sKLTJDVltV-cZ9-V506_a6Pm3tUrB9FUpeVQ)

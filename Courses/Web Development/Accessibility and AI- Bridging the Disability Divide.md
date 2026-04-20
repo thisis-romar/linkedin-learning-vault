@@ -16,7 +16,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Accessibility and AI: Bridging the Disability Divide](https://media.licdn.com/dms/image/v2/D560DAQFdP_ttEz6_NQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719009002253?e=2147483647&amp;v=beta&amp;t=tT4XgbFK34Za5fNCFkeOscThp9quPmtuY5eL4F-oxhA)

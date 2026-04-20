@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-a-career-in-sql-development"
+url: https://www.linkedin.com/learning/paths/explore-a-career-in-sql-development
 course_count: 8
 linkedin_topics:
   - Data Science
@@ -14,8 +14,46 @@ tags:
   - topic/data-science
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Choosing A Database Postgresql Mysql Mongo And Cloud]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Queries Made Easy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Server Intelligence- Cracking the Code of Enterprise Data]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL for Data Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Hands-On Practice- Solve Business Problems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Nail Your SQL Interview]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Finding New Career Paths with SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore a Career in SQL Development

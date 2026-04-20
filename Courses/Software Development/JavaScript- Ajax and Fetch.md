@@ -31,7 +31,7 @@ tags:
   - skill/javascript
   - skill/fetch
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JavaScript: Ajax and Fetch](https://media.licdn.com/dms/image/v2/D4E0DAQHzfsBPheRMHg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724785196776?e=2147483647&amp;v=beta&amp;t=EGd0DJWCbYrFbKDaQRV1AWNwMUHdOBb9GcCn2TsYvVU)

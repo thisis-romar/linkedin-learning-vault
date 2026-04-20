@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-architectures
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to IT Architecture](https://media.licdn.com/dms/image/v2/D4D0DAQHwwD_EPkpNgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731958777051?e=2147483647&amp;v=beta&amp;t=LGwx1QQYRs-WV97g470yotwvzI-s64dKDmQhWq26hl0)

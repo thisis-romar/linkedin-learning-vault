@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/stay-ahead-in-graphql"
+url: https://www.linkedin.com/learning/paths/stay-ahead-in-graphql
 course_count: 3
 linkedin_topics:
   - Software Development
@@ -12,8 +12,26 @@ tags:
   - learning-path
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Graphql]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[GraphQL Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Migrating from REST to GraphQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Stay Ahead in GraphQL

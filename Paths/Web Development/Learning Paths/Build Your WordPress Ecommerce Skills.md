@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/build-your-wordpress-ecommerce-skills"
+url: https://www.linkedin.com/learning/paths/build-your-wordpress-ecommerce-skills
 course_count: 6
 linkedin_topics:
   - Web Development
@@ -10,8 +10,38 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Wordpress Ecommerce]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[WordPress Ecommerce- WooCommerce]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Wordpress Building A Secure Site]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[WordPress- SEO]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[WordPress- Speeding Up Your Site]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a WordPress Membership Site with Ecommerce]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build Your WordPress Ecommerce Skills

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/transform-your-programming-with-ai-coding-tools"
+url: https://www.linkedin.com/learning/paths/transform-your-programming-with-ai-coding-tools
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,42 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Build with AI- Beyond Pair Programming with AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using AI in the Design to Full-Stack Development Life Cycle]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Refactoring with GitHub Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ChatGPT and SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Software Testing Assistance with GitHub Copilot AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible GitHub Copilot- Creating Reliable Code Ethically]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Delivering and Analyzing a Software Pilot- GitHub Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Transform Your Programming with AI Coding Tools

@@ -25,7 +25,7 @@ tags:
   - skill/vulnerability-assessment
   - skill/application-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![OWASP Top 10: #5 Security Misconfiguration and #6 Vulnerable and Outdated Components](https://media.licdn.com/dms/image/v2/D560DAQHRz3NOlM6iZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667500810529?e=2147483647&amp;v=beta&amp;t=5GXoFbreevSEBAItn2KSqxi_LUF855UJ-5AqMiJoyhE)

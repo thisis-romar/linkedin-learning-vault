@@ -31,7 +31,7 @@ tags:
   - skill/software-development-security
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Product Development: Secure by Design](https://media.licdn.com/dms/image/v2/D4E0DAQEdArvevem1aw/learning-public-crop_675_1200/B4EZWHKflXG0Ak-/0/1741729430477?e=2147483647&amp;v=beta&amp;t=7Tjnj11HiiUV3qoS-vrhzNLXqf6noutnZKejmTjHeVI)

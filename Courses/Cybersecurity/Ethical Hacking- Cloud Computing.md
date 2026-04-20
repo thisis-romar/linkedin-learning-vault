@@ -26,7 +26,7 @@ tags:
   - skill/cloud-security
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: Cloud Computing](https://media.licdn.com/dms/image/v2/D560DAQHL71_4OWRPTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682107705178?e=2147483647&amp;v=beta&amp;t=sq5wpiQYflm7E_ob9o0eCxp5cYKbfSYIF8c1nVC-pRw)

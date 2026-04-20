@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/search-engine-optimization-seo
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SEO Foundations](https://media.licdn.com/dms/image/v2/C560DAQFcaT0OrfFkgg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651603813925?e=2147483647&amp;v=beta&amp;t=DzhR43s2JaWsBMj857tzPBuHEztpctQt9lZen-U-uH4)

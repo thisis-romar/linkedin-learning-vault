@@ -27,7 +27,7 @@ tags:
   - skill/spring-security
   - skill/spring-boot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Spring 6: Spring Security](https://media.licdn.com/dms/image/v2/D4E0DAQGM42dYNIUQUw/learning-public-crop_675_1200/B4EZaNvIdDHoAY-/0/1746134665323?e=2147483647&amp;v=beta&amp;t=_d-79CVF9PcZt994YTHF1qhQl94G3OXpRDEJLCb1qG4)

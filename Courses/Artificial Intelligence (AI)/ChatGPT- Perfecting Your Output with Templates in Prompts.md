@@ -25,7 +25,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![ChatGPT: Perfecting Your Output with Templates in Prompts](https://media.licdn.com/dms/image/v2/D4D0DAQEbhIwyLpvDuA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728672186430?e=2147483647&amp;v=beta&amp;t=S-vJ9zkO7wCQ-p8t4DJafNHrFDAPH4C8zebSHxT54xI)

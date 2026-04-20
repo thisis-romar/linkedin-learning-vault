@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/php
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building PHP Applications with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQFNS19neoqiYw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712337853048?e=2147483647&amp;v=beta&amp;t=4MYtPZ6gF_yOeIclOpcBdMphzUqvsb4F6ljcfbTLpv8)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-prompt-engineering"
+url: https://www.linkedin.com/learning/paths/getting-started-with-prompt-engineering
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,38 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction To Prompt Engineering For Generative Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Top Ten AI Prompts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Prompt Engineering With Gemini]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Multimodal Prompting for Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Prompt Engineering and AI Agents with ChatGPT]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with Prompt Engineering

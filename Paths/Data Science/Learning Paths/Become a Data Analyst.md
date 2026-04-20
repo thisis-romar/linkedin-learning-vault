@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-a-data-analyst"
+url: https://www.linkedin.com/learning/paths/become-a-data-analyst
 course_count: 12
 linkedin_topics:
   - Data Science
@@ -10,8 +10,62 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[The Non Technical Skills Of Effective Data Scientists]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Excel- Data Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Data Analytics- 1 Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Predictive Analytics Essential Training- Data Mining]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power Bi Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Data Visualization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Tableau 2024.1- Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL- Data Reporting and Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide To R Wrangling Visualizing And Modeling Data]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Cleaning in Python Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become a Data Analyst

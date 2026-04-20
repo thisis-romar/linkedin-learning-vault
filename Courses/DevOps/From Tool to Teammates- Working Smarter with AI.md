@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![From Tool to Teammates: Working Smarter with AI](https://media.licdn.com/dms/image/v2/D4E0DAQFiSqwGvS9dsg/learning-public-crop_675_1200/B4EZspW9_CHUAY-/0/1765925446298?e=2147483647&amp;v=beta&amp;t=5Xu5hPn4WT5zpxD2U6ReAmOmCIZGlvkihKXfM6yeZbE)

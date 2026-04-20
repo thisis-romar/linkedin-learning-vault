@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/team-collaboration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Communication within Teams (2021)](https://media.licdn.com/dms/image/v2/D560DAQGkd4XSc8lEuA/learning-public-crop_675_1200/B56ZsjzZQ9JsAY-/0/1765832234767?e=2147483647&amp;v=beta&amp;t=1VEiUC4YrzdkopgulpBvylkXJGNj-NAEhjDmCLr3Sic)

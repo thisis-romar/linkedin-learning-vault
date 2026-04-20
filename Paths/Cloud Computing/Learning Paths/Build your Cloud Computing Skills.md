@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/build-your-cloud-computing-skills"
+url: https://www.linkedin.com/learning/paths/build-your-cloud-computing-skills
 course_count: 3
 linkedin_topics:
   - Cloud Computing
@@ -10,8 +10,26 @@ louvain_cluster: 3
 tags:
   - learning-path
   - topic/cloud-computing
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction To Cloud Computing For It Pros]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Practical Cybersecurity for IT Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Planning a Multicloud Solution (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build your Cloud Computing Skills

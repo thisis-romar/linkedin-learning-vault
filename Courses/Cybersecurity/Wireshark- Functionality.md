@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/wireshark
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Wireshark: Functionality](https://media.licdn.com/dms/image/v2/C4E0DAQFsc2XCsoi4YA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669466188?e=2147483647&amp;v=beta&amp;t=wE5vDdBeUMgueC-_bw928NnVThsgegEiDwa_PW6I9dc)

@@ -21,7 +21,7 @@ tags:
   - topic/security
   - skill/penetration-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Penetration Testing Essential Training](https://media.licdn.com/dms/image/v2/C560DAQGfmTLus2CsDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628010147364?e=2147483647&amp;v=beta&amp;t=fVavcbqYjGR2Iq0TcKl28rEjPh0lYC1Tj6jCGAAQWbM)

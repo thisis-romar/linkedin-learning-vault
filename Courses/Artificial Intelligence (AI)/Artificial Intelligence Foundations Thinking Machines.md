@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Artificial Intelligence Foundations Thinking Machines](https://media.licdn.com/dms/image/v2/C4E0DAQH_lvOT-IOyUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117532637?e=2147483647&amp;v=beta&amp;t=ue4Lke0c1Q2rHgb0V-8cXg6NxUvRdk5_MYQ6qUIAVKI)

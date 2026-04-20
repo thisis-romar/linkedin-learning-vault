@@ -26,7 +26,7 @@ tags:
   - skill/sql-server-reporting-services-ssrs
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL Server: Reporting Services](https://media.licdn.com/dms/image/v2/D4E0DAQHg6FpYNYmSKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726255866299?e=2147483647&amp;v=beta&amp;t=pGuVb3yjQRK9I5F6KMIoLu8GtHNNLE9xj6DoO52FLjM)

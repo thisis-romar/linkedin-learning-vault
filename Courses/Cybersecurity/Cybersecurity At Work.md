@@ -27,7 +27,7 @@ tags:
   - skill/security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity At Work](https://media.licdn.com/dms/image/v2/D560DAQHazkyQbVTgPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689868262275?e=2147483647&amp;v=beta&amp;t=JnjYnjVGheCX8sNtBmjo0_gp6pFoX-ZvpCSG1830AXw)

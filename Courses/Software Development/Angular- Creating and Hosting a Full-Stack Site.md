@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/angular
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Angular: Creating and Hosting a Full-Stack Site](https://media.licdn.com/dms/image/v2/C4D0DAQE6-0tyxuH2Og/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597852457143?e=2147483647&amp;v=beta&amp;t=cXvpZzOxccuTOlqtWfDikKsRP-w5fpM4XA-S34y3PTI)

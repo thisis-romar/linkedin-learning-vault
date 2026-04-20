@@ -25,7 +25,7 @@ tags:
   - skill/dashboards
   - skill/data-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Analytics: Dashboards vs. Data Stories](https://media.licdn.com/dms/image/v2/D560DAQFEUIWEPk1_4g/learning-public-crop_675_1200/B56ZrgbGzvLwAY-/0/1764701793784?e=2147483647&amp;v=beta&amp;t=4mCWAL6BAUDzX5p1beYp01ifWlrQMnSEcayeJ3WnZ3A)

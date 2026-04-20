@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/snowflake
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Snowflake: Deep Dive Cloud Data Warehousing and Analytics](https://media.licdn.com/dms/image/v2/C560DAQF8cIq-NfphSg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661965300072?e=2147483647&amp;v=beta&amp;t=5Dla68dldcmCM5Tljl828t3Cv9rxOmlFcJmgl-ZDQEc)

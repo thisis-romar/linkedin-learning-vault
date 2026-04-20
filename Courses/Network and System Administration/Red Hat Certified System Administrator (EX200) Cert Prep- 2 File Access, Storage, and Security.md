@@ -25,7 +25,7 @@ tags:
   - skill/linux-system-administration
   - skill/red-hat-linux
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Red Hat Certified System Administrator (EX200) Cert Prep: 2 File Access, Storage, and Security](https://media.licdn.com/dms/image/v2/C4E0DAQHTHnWS_dwmLw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1610648353099?e=2147483647&amp;v=beta&amp;t=lJ3xS1BjrsrQfJBNqp2KWleqCP6J-_anbXqZVIWuli4)

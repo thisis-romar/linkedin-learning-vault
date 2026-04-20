@@ -28,7 +28,7 @@ tags:
   - skill/career-development
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advance Your Cybersecurity Career](https://media.licdn.com/dms/image/v2/C4D0DAQH8V_1fJ51xLA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663880162126?e=2147483647&amp;v=beta&amp;t=-WNMd0r9JV9fWmc73iAeCmCqlr-104yCTcnY4nnSSyQ)

@@ -25,7 +25,7 @@ tags:
   - skill/metadata
   - skill/html
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![HTML: Metadata in the Head](https://media.licdn.com/dms/image/v2/C4D0DAQGtJg65REXNLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1592866545568?e=2147483647&amp;v=beta&amp;t=x-YRRi1yhasBAACFk9AgfEfN3-sU3YHvuXOB19LGjFI)

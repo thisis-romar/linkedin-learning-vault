@@ -28,7 +28,7 @@ tags:
   - skill/python-programming-language
   - skill/data-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Python: Working With Data](https://media.licdn.com/dms/image/v2/D4E0DAQHbBRqu7lDW8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724260657260?e=2147483647&amp;v=beta&amp;t=fFGaBqQ24gVxJcQyKxRB8rhls85NIr71EKpUrRY478k)

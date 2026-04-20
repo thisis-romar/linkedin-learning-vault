@@ -6,7 +6,7 @@ course_count: 4
 tags:
   - skill
   - skill/diversity-equity-inclusion-and-belonging-deib
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Diversity, Equity, Inclusion and Belonging (DEIB)

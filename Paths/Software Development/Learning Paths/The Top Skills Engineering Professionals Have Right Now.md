@@ -2,16 +2,58 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/the-top-skills-engineering-professionals-have-right-now"
+url: https://www.linkedin.com/learning/paths/the-top-skills-engineering-professionals-have-right-now
 course_count: 9
 linkedin_topics:
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Autocad 2022 Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java Essential Training- Objects and APIs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SOLIDWORKS 2022 Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Git from Scratch]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cutting-Edge CSS]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SOLIDWORKS 2024 Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Test Automation Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C Programming for Embedded Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # The Top Skills Engineering Professionals Have Right Now

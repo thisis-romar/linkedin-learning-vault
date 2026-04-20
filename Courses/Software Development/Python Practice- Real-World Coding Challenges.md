@@ -28,7 +28,7 @@ tags:
   - skill/python-programming-language
   - skill/coding-practices
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python Practice: Real-World Coding Challenges](https://media.licdn.com/dms/image/v2/C560DAQGBiWCh_f2DDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1673648477738?e=2147483647&amp;v=beta&amp;t=mZDgENO0_pzEg2eOYbXeTDyecOo2UVbx8QqtjyPmBC8)

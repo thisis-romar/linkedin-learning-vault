@@ -31,7 +31,7 @@ tags:
   - skill/cloud-security
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud Security Architecture for the Enterprise](https://media.licdn.com/dms/image/v2/D560DAQEXGp8d9-Sy6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722548383745?e=2147483647&amp;v=beta&amp;t=iZSQ2GYGv6uLrwylOKHSesaJsXFcY5o03UAczmqQc3Y)

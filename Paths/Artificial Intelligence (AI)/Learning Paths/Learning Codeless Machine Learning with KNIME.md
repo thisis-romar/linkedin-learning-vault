@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/learning-codeless-machine-learning-with-knime"
+url: https://www.linkedin.com/learning/paths/learning-codeless-machine-learning-with-knime
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,34 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction To Machine Learning With Knime]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning and AI Foundations- Decision Trees with KNIME]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Science Foundations- Data Assessment for Predictive Modeling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning and AI Foundations- Advanced Decision Trees with KNIME]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Learning Codeless Machine Learning with KNIME

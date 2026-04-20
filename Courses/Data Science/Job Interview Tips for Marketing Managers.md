@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/interviewing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Job Interview Tips for Marketing Managers](https://media.licdn.com/dms/image/v2/C4E0DAQFRUjdyNW8-FQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617138178983?e=2147483647&amp;v=beta&amp;t=3PWJDvATYfFQ1CNoExBlNmVEYy7oJz6Yb_RidY_pLYs)

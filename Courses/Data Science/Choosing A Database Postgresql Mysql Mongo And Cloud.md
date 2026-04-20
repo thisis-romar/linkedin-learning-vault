@@ -27,7 +27,7 @@ tags:
   - skill/postgresql
   - skill/mysql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Choosing A Database Postgresql Mysql Mongo And Cloud](https://media.licdn.com/dms/image/v2/C4D0DAQE2oMuzWAT5sQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616445994252?e=2147483647&amp;v=beta&amp;t=3MDeVHpprZVcNp5-hJPjYZzvOEbVq-YzgY56xvl9gR8)

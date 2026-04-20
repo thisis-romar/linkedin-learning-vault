@@ -24,7 +24,7 @@ tags:
   - skill/excel-formulas
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel Introduction To Formulas And Functions](https://media.licdn.com/dms/image/v2/D4E0DAQEfshAM47JHag/learning-public-crop_675_1200/B4EZka3zGaIQAY-/0/1757092459593?e=2147483647&amp;v=beta&amp;t=hItNh8pzjXChkzLwar3_KVO6p1qm0rU-bZoPH-UMQxo)

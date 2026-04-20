@@ -24,7 +24,7 @@ tags:
   - skill/design-thinking
   - skill/process-implementation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Design Thinking: Implementing the Process](https://media.licdn.com/dms/image/v2/C560DAQH2UfN-L7eP9w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602284942347?e=2147483647&amp;v=beta&amp;t=HpeFWNsk97O3034_WEinia560dmhlmlGhtzMW0GHPnw)

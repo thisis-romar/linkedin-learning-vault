@@ -22,7 +22,7 @@ tags:
   - topic/software-development
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Outlook on the Web Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHjKgUr1b58_A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711409101651?e=2147483647&amp;v=beta&amp;t=sE-SZpSmhRW_c0DteXuyJgJnsGoyuXeZWwM35HnBp3s)

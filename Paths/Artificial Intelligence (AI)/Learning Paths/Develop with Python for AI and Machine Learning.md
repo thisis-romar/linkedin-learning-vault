@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/develop-with-python-for-ai-and-machine-learning"
+url: https://www.linkedin.com/learning/paths/develop-with-python-for-ai-and-machine-learning
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,38 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Machine Learning with Python- Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Python- Decision Trees]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Python- Logistic Regression]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Python- k-Means Clustering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Python- Association Rules]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Python Projects- Build AI Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Develop with Python for AI and Machine Learning

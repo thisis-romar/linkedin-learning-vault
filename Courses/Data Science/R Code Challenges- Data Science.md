@@ -27,7 +27,7 @@ tags:
   - skill/r-programming-language
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![R Code Challenges: Data Science](https://media.licdn.com/dms/image/v2/D560DAQHtFNVHKSaikA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721939711133?e=2147483647&amp;v=beta&amp;t=McNeGQ_cT2wim78sqzFYP0Is5sB6s1Lsb1NxRx4RBNY)

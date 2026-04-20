@@ -24,7 +24,7 @@ tags:
   - skill/design-thinking
   - skill/prototyping
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Design Thinking: Prototyping](https://media.licdn.com/dms/image/v2/D4E0DAQFnmWEQxA_7lQ/learning-public-crop_675_1200/B4EZXY1Q0aHcAc-/0/1743099596403?e=2147483647&amp;v=beta&amp;t=nahos6MPhSjcXKEEn6QKxFdPjxTN8iWeAqnT2JIhaPg)

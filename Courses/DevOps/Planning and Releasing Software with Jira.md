@@ -31,7 +31,7 @@ tags:
   - skill/jira
   - skill/software-development-life-cycle-sdlc
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Planning and Releasing Software with Jira](https://media.licdn.com/dms/image/v2/C560DAQHODFfhOcps3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639764947946?e=2147483647&amp;v=beta&amp;t=tcZAXSkJCT9AkYn0xUjIdTYlZLMy2kgbIdsJDR6J10E)

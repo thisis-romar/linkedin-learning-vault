@@ -30,7 +30,7 @@ tags:
   - skill/interview-preparation
   - skill/career-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Nail Your Cybersecurity Interview](https://media.licdn.com/dms/image/v2/C4E0DAQF7tuWV4wA3Rw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1570220025396?e=2147483647&amp;v=beta&amp;t=Okmaq4PUouqD3DfD1EpWNIep6tMKiyUTDYubyeswl8s)

@@ -29,7 +29,7 @@ tags:
   - skill/analytics
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Predictive Analytics Essential Training For Executives](https://media.licdn.com/dms/image/v2/D4E0DAQHRpJHDY-40Ig/learning-public-crop_675_1200/B4EZThn2aJHUAg-/0/1738952108007?e=2147483647&amp;v=beta&amp;t=sIJASebNDg-n40SLgnk4roVFNRjCECNyC2A8sy3LnL0)

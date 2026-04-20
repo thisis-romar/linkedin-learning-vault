@@ -27,7 +27,7 @@ tags:
   - skill/bitbucket
   - skill/continuous-integration-and-continuous-delivery-ci-cd
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Bitbucket Pipelines for CI/CD](https://media.licdn.com/dms/image/v2/D560DAQEGSbU6WPTNPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008984232?e=2147483647&amp;v=beta&amp;t=vjos-qKDnw-IDpu_CahtK0LMVrZuKNMpUWv0TK3IOiA)

@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On Advanced Python: Data Engineering Basics](https://media.licdn.com/dms/image/v2/D560DAQEeGQr9A1OHHQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692640821642?e=2147483647&amp;v=beta&amp;t=ydIw7jM-9_nheuE8xw2-U2ruB8pz4OZFv5hA7j5dXLw)

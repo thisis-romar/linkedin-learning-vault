@@ -25,7 +25,7 @@ tags:
   - skill/red-hat-enterprise-linux-rhel
   - skill/ansible
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Red Hat Certified Engineer (EX294) Cert Prep: 3 Managing Systems with Ansible](https://media.licdn.com/dms/image/v2/C4E0DAQGuseBEfggfSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599103236612?e=2147483647&amp;v=beta&amp;t=YZdUxVefTZZS9vAHEjL8giaWWsaeRMwN6bk3XdU7wok)

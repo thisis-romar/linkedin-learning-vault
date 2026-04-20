@@ -25,7 +25,7 @@ tags:
   - skill/data-management
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JavaScript: Best Practices for Data](https://media.licdn.com/dms/image/v2/D560DAQHevwWci54yAw/learning-public-crop_675_1200/B56ZbF5V1qH4AY-/0/1747076866057?e=2147483647&amp;v=beta&amp;t=ZXfyW_-0w50tAR6BrrmqTh2d6HNbqrORNP93V8N4Uqo)

@@ -29,7 +29,7 @@ tags:
   - skill/data-reporting
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Intermediate SQL: Data Reporting and Analysis](https://media.licdn.com/dms/image/v2/C560DAQH-GFM4TA8EeQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668022144494?e=2147483647&amp;v=beta&amp;t=6CW3tD-EHMEL8osicm6ttuKrPyT_rqpAKUDLlIg515Q)

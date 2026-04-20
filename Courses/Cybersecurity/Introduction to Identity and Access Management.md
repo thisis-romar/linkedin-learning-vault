@@ -27,7 +27,7 @@ tags:
   - topic/network-and-system-administration
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Identity and Access Management](https://media.licdn.com/dms/image/v2/C560DAQHnNlXXSDM8jg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1665594694262?e=2147483647&amp;v=beta&amp;t=bjQ8QTqZEBdo2FF5qW90UZivUthZNSzr9PxN4Nf7Lg4)

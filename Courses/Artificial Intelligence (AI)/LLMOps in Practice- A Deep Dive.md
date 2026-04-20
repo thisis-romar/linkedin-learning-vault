@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![LLMOps in Practice: A Deep Dive](https://media.licdn.com/dms/image/v2/D4D0DAQHHBzGQ-tN7ew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732665259063?e=2147483647&amp;v=beta&amp;t=MhKOSZhm6KtzlcGTrhA0dmjUZEjonxzyHM-znUL9PMk)

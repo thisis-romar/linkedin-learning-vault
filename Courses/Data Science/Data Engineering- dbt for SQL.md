@@ -30,7 +30,7 @@ tags:
   - skill/sql
   - skill/data-build-tool-dbt
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Engineering: dbt for SQL](https://media.licdn.com/dms/image/v2/D560DAQHyyrhbhSEAOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695671472229?e=2147483647&amp;v=beta&amp;t=8xdAfDbipieM8f2bx4ZpUCrBRheDNq5YqT1rnaKVIVM)

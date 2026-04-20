@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Practical GitHub Code Search](https://media.licdn.com/dms/image/v2/D560DAQGVJmvT3cIOXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684514017465?e=2147483647&amp;v=beta&amp;t=HeqmlkUlfTYVfy0lj9t6HQDFbnb_4Zuemu-fVdxy3S0)

@@ -18,7 +18,7 @@ tags:
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![TLS for Beginners: Securing Network Communications](https://media.licdn.com/dms/image/v2/D560DAQHxXQM9HsuLfg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715892606980?e=2147483647&amp;v=beta&amp;t=12Mu0DYuPdr366ciLJd1tGoiO2RY-Qsh_jDVuMakpTw)

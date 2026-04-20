@@ -26,7 +26,7 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Analysis Using Python in Excel Copilot](https://media.licdn.com/dms/image/v2/D560DAQEMwz5GY4Vb5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726771013304?e=2147483647&amp;v=beta&amp;t=yOQG5dp9yHEBzueeJdAyqzAUVToujDeFi18clqksaWA)

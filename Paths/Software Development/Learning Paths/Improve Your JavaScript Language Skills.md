@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/improve-your-javascript-language-skills"
+url: https://www.linkedin.com/learning/paths/improve-your-javascript-language-skills
 course_count: 8
 linkedin_topics:
   - Software Development
@@ -10,8 +10,46 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Functional Programming with JavaScript ES6+]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Async]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Level Up- JavaScript]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Recursion]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Arrays]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Maps and Sets]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Patterns]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript Patterns- Modern Solutions to Common Challenges]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Improve Your JavaScript Language Skills

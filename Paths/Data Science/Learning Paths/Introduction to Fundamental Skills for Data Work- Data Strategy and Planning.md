@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-strategy-and-planning"
+url: https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-strategy-and-planning
 course_count: 10
 linkedin_topics:
   - Data Science
@@ -12,8 +12,54 @@ tags:
   - learning-path
   - topic/data-science
   - topic/database-management
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Decision Intelligence- Data Stories]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Decision Intelligence]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Fundamentals for Data Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using AI to Improve Ops for Your Data Organization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The 80-20 Rule of Data Science]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Science Team Lifecycle Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Enhancing Your Productivity as a Data Scientist with Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data-Informed Strategic Thinking for Senior Analysts and Data Scientists]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Synthetic Data as the Future of AI Privacy, Explainability, and Fairness- An Introduction for Data Scientists and Data Executives]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Introduction to Fundamental Skills for Data Work: Data Strategy and Planning

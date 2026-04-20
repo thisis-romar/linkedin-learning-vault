@@ -25,7 +25,7 @@ tags:
   - skill/tech-career-skills
   - skill/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud Computing Terms Every Beginner Should Know](https://media.licdn.com/dms/image/v2/D560DAQEpniuoUoLPIA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721249378537?e=2147483647&amp;v=beta&amp;t=ue2XhL2fGNkgMg8HoOgwkb7wo3Hl4GBiJ-nfnotelNQ)

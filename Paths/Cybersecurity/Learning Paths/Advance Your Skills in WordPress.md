@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-in-wordpress"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-in-wordpress
 course_count: 8
 linkedin_topics:
   - Cybersecurity
@@ -12,8 +12,46 @@ tags:
   - learning-path
   - topic/security
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Wordpress Building A Secure Site]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[WordPress- Internationalization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[WordPress- Custom Post Types and Taxonomies]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using Custom Meta Boxes in WordPress]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[WordPress Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[WordPress- Everything about Plugins]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[WordPress- REST API]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a Headless WordPress Site with Gatsby]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills in WordPress

@@ -32,7 +32,7 @@ tags:
   - skill/privacy
   - skill/privacy-protection
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Awareness: Protect Your Privacy](https://media.licdn.com/dms/image/v2/D560DAQGtpzeq-8Vnow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711490938965?e=2147483647&amp;v=beta&amp;t=IcF_RD7oko5C0CcW8LPioMs4BTtC0b9uUVZeFYpnDeo)

@@ -25,7 +25,7 @@ tags:
   - skill/digital-accessibility
   - skill/computer-accessibility
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft Office Accessibility for Beginners](https://media.licdn.com/dms/image/v2/C560DAQHR74o8vDFJww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1669663363373?e=2147483647&amp;v=beta&amp;t=87qhKOeqv_4mMD_rU2Nm-TydHZUIL4zT6m_KVWUvi-U)

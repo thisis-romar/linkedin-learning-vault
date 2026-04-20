@@ -16,7 +16,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Harnessing AI in the Recruiting Lifecycle](https://media.licdn.com/dms/image/v2/D4E0DAQEZnbqGrq9Q2A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727466690407?e=2147483647&amp;v=beta&amp;t=Qln5SOZD1BgJHwn38u6zApZaupUVXBSjrEgqVEfhqXs)

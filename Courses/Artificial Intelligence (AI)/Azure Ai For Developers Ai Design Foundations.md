@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure Ai For Developers Ai Design Foundations](https://media.licdn.com/dms/image/v2/D4D0DAQFgGdrC0BdUqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737481924703?e=2147483647&amp;v=beta&amp;t=Vs9Jngl2eNdOwgn64R-XHFTGVaU23LNQseXo1Y4P3Nw)

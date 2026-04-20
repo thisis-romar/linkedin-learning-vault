@@ -21,7 +21,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel Formulas and Functions Quick Tips](https://media.licdn.com/dms/image/v2/D4E0DAQGOmmKsj8ZwZg/learning-public-crop_675_1200/B4EZXYyFgPHcAg-/0/1743098764145?e=2147483647&amp;v=beta&amp;t=e4Nsh1G8SuFjU5lYzvVObLSzm-MgTSSK5L3scS9VIF0)

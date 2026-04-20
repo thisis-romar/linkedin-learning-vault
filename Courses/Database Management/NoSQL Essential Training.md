@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/nosql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![NoSQL Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQGDAZgolayHEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613158104255?e=2147483647&amp;v=beta&amp;t=qvsFRZs41z_HFa1q7QEMqNVLaplFZEGnzEx4gvGS0D0)

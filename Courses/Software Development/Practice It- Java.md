@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Practice It: Java](https://media.licdn.com/dms/image/v2/D560DAQE71ngxkONQwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666990137684?e=2147483647&amp;v=beta&amp;t=IyJMaroXiMeQFw9Vv1T7oWMyYVF3q_5fB-6jqNFjur8)

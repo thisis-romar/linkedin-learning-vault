@@ -26,7 +26,7 @@ tags:
   - skill/it-project-program-management
   - skill/program-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Program Management for IT Professionals](https://media.licdn.com/dms/image/v2/D4E0DAQGAaPwbKK5H7A/learning-public-crop_675_1200/B4EZXYzA3CGwAY-/0/1743099007570?e=2147483647&amp;v=beta&amp;t=6lkj4hK99tmMNTxu-FDTrf_CtWFYk6N4dOaox8JhWVY)

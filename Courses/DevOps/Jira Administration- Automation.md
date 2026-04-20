@@ -26,7 +26,7 @@ tags:
   - skill/jira
   - skill/automation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Jira Administration: Automation](https://media.licdn.com/dms/image/v2/D560DAQF4RCJpNVFiUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729015553323?e=2147483647&amp;v=beta&amp;t=KCk5B6KpJmrLdmUXeWewhgUirGf7X2x4sOa7T7Q0K-8)

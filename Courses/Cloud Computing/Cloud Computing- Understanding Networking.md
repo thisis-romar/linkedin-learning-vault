@@ -27,7 +27,7 @@ tags:
   - skill/network-administration
   - skill/computer-networking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud Computing: Understanding Networking](https://media.licdn.com/dms/image/v2/D560DAQGvYJXudczV6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709157556433?e=2147483647&amp;v=beta&amp;t=9TXeFW4EW7R0jy2W9xDJGpxMZ875O7WDKUF3UGjuMeI)

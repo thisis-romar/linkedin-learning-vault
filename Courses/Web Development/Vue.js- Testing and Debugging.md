@@ -26,7 +26,7 @@ tags:
   - skill/software-testing
   - skill/debugging-code
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Vue.js: Testing and Debugging](https://media.licdn.com/dms/image/v2/C560DAQHYc0PVbuobHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630434561194?e=2147483647&amp;v=beta&amp;t=FzHEJYD_JRzHoccvWKfjVWBxjEHLEOgALRndTKDx5es)

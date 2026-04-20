@@ -25,7 +25,7 @@ tags:
   - skill/bitbucket
   - skill/version-control
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Bitbucket](https://media.licdn.com/dms/image/v2/D560DAQF4xJfvchWt8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713919407092?e=2147483647&amp;v=beta&amp;t=1onNT12ubSmwBPuB-SfMrbY3o_mINODQr1Xwk0X1Ppw)

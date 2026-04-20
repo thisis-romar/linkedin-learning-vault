@@ -33,7 +33,7 @@ tags:
   - skill/application-development
   - skill/snowflake
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building Generative AI Apps to Talk to Your Data](https://media.licdn.com/dms/image/v2/D4E0DAQHUqCPEmlrWMw/learning-public-crop_675_1200/B4EZb4xRIlGUAY-/0/1747930387743?e=2147483647&amp;v=beta&amp;t=MB7KK_CZ5Nk3r-wlTm2UZ9Uk10d_pv-PmYYsCiYTbf8)

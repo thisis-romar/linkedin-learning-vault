@@ -4,7 +4,7 @@ cssclasses:
   - lle-course
   - lle-level-intermediate
 slug: digital-transformation-tips-24514659
-url: https://www.linkedin.com/learning/digital-transformation-tips-24514659
+url: "https://www.linkedin.com/learning/digital-transformation-tips-24514659"
 duration_minutes: 86
 duration: 1h 26m
 level: Intermediate
@@ -14,7 +14,7 @@ skills:
   - Change Management
   - Digital Transformation
 exercise_files: true
-thumbnail: https://media.licdn.com/dms/image/v2/D4D0DAQFnUEdywa2eqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735866165583?e=2147483647&amp;v=beta&amp;t=kz99oGZlJl0kBz502R6CYyIinyFxwIMLUiXQYeBba60
+thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFnUEdywa2eqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735866165583?e=2147483647&amp;v=beta&amp;t=kz99oGZlJl0kBz502R6CYyIinyFxwIMLUiXQYeBba60"
 linkedin_topic: Cloud Computing
 learning_paths:
   - Technical Literacy and Future Readiness for Senior Managers and Senior Leaders
@@ -26,7 +26,7 @@ tags:
   - skill/change-management
   - skill/digital-transformation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Digital Transformation Tips](https://media.licdn.com/dms/image/v2/D4D0DAQFnUEdywa2eqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735866165583?e=2147483647&amp;v=beta&amp;t=kz99oGZlJl0kBz502R6CYyIinyFxwIMLUiXQYeBba60)

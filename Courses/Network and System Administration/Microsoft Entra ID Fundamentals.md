@@ -33,7 +33,7 @@ tags:
   - topic/software-development
   - skill/microsoft-entra-id
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft Entra ID Fundamentals](https://media.licdn.com/dms/image/v2/D560DAQGdM-I2OouHxg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008944060?e=2147483647&amp;v=beta&amp;t=M4_Ml1E55Odn2dujrAcYvFXtAsj40gCFhF3oobqCBUM)

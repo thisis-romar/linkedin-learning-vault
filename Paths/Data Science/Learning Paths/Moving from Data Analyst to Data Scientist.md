@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/moving-from-data-analyst-to-data-scientist"
+url: https://www.linkedin.com/learning/paths/moving-from-data-analyst-to-data-scientist
 course_count: 11
 linkedin_topics:
   - Data Science
@@ -10,8 +10,58 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Intermediate Sql For Data Scientists]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Wrangling in R]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Functions for Data Science]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Basics of Data Visualization Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 1- The Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 2- Probability]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 3- Using Data Sets]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 4- Advanced Topics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to Tableau for Data Scientists]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Data Modeling with DAX]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Actionable Insights and Business Data in Practice]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Moving from Data Analyst to Data Scientist

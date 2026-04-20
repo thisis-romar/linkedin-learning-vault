@@ -31,7 +31,7 @@ tags:
   - skill/large-language-models-llm
   - skill/github-copilot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Responsible AI Development with GitHub Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQHLWrdnfFGSJg/learning-public-crop_675_1200/B4EZq34xBdIQAc-/0/1764021703092?e=2147483647&amp;v=beta&amp;t=GfXLEfHc3DJk2jmbjPaI436B1lMRjMpHwDrhrtf6exw)

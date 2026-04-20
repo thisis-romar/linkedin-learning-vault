@@ -25,7 +25,7 @@ tags:
   - skill/financial-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel: Financial Functions in Depth](https://media.licdn.com/dms/image/v2/D4D0DAQGwreXlLP0Krg/learning-public-crop_675_1200/B4DZYXiDMdG4AY-/0/1744151524792?e=2147483647&amp;v=beta&amp;t=7McD0MndjNmoVh1FeFRBLt9hB3_YdDFf1fy1192Ng8Q)

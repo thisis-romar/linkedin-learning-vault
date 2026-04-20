@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/build-your-excel-skills"
+url: https://www.linkedin.com/learning/paths/build-your-excel-skills
 course_count: 3
 linkedin_topics:
   - Data Science
@@ -10,8 +10,26 @@ louvain_cluster: 9
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Excel Essential Training (Microsoft 365)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Advanced Formulas and Functions (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Advanced Formatting Techniques]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build Your Excel Skills

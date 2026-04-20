@@ -6,7 +6,7 @@ course_count: 11
 tags:
   - skill
   - skill/governance-risk-management-and-compliance-grc
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Governance, Risk Management, and Compliance (GRC)

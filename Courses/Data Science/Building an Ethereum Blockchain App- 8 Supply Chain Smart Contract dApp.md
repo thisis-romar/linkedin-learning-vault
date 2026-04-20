@@ -30,7 +30,7 @@ tags:
   - skill/ethereum
   - skill/decentralized-applications-dapps
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building an Ethereum Blockchain App: 8 Supply Chain Smart Contract dApp](https://media.licdn.com/dms/image/v2/C560DAQE34s60FsVeqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628618716507?e=2147483647&amp;v=beta&amp;t=ObzevZXavx_3f3MTXDIh5ip-Y8IMuGeOZZUqJNVwf5s)

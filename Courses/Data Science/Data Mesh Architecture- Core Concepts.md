@@ -27,7 +27,7 @@ tags:
   - skill/data-architecture
   - skill/mesh
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Mesh Architecture: Core Concepts](https://media.licdn.com/dms/image/v2/D4E0DAQGsB2LNifdsxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733160846900?e=2147483647&amp;v=beta&amp;t=AopQiMhItOLfxCmFZPlv0-cTixOutZBOWAyHERDu5o0)

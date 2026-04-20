@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/adobe-photoshop
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leveraging AI in Adobe Photoshop and Creative Cloud (2023)](https://media.licdn.com/dms/image/v2/D560DAQEU8Y1z6IacEA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690578573167?e=2147483647&amp;v=beta&amp;t=dXHdU0OXqGaBe-0We0jEpH5K3bCIK-npJlls6DD4kQE)

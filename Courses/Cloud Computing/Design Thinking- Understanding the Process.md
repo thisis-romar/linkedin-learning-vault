@@ -24,7 +24,7 @@ tags:
   - skill/design-thinking
   - skill/product-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Design Thinking: Understanding the Process](https://media.licdn.com/dms/image/v2/C560DAQE3-GCNgMk7qQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602270074772?e=2147483647&amp;v=beta&amp;t=qlmADaxBg9bVCkctVujMM4eewn5pn9Q7tbLePw8-eDk)

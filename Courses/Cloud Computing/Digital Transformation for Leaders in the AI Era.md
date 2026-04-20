@@ -28,7 +28,7 @@ tags:
   - skill/digital-transformation
   - skill/team-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Digital Transformation for Leaders in the AI Era](https://media.licdn.com/dms/image/v2/D4E0DAQEDE7vqW5F3Kg/learning-public-crop_675_1200/B4EZZFxMdJHUAY-/0/1744927246480?e=2147483647&amp;v=beta&amp;t=iMT_3Zjkwf2b2yc0Apq5TCnN1XT5VAWH3cVFGszIKt4)

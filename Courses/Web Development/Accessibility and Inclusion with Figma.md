@@ -24,7 +24,7 @@ tags:
   - skill/digital-accessibility
   - skill/figma-software
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Accessibility and Inclusion with Figma](https://media.licdn.com/dms/image/v2/D4E0DAQGej-kCGWen5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702942360733?e=2147483647&amp;v=beta&amp;t=-fsVDINc_vFNf80PIB-w7699jpxo_qaZhgXoIApODMQ)

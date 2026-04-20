@@ -25,7 +25,7 @@ tags:
   - skill/jira
   - skill/agile-project-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues](https://media.licdn.com/dms/image/v2/C560DAQH_EJZKQzQRMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633624673369?e=2147483647&amp;v=beta&amp;t=E9TLuAANcsbfaTrUENMJBQRHtDUnVOFP2WFHJybdQ8Q)

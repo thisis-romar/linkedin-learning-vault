@@ -17,7 +17,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Vibe Code Your Way to a Full Stack App with Bolt](https://media.licdn.com/dms/image/v2/D4E0DAQErpGUJP8F42g/learning-public-crop_675_1200/B4EZbVp80uGcAg-/0/1747341266505?e=2147483647&amp;v=beta&amp;t=8045qr00agtT1jMLhhN1yDG464uoyz_HO7uB12f7kuo)

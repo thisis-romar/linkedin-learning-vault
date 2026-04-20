@@ -2,16 +2,70 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-software-testing"
+url: https://www.linkedin.com/learning/paths/getting-started-with-software-testing
 course_count: 12
 linkedin_topics:
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Programming Foundations- Software Testing-QA]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Understanding Manual Testing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Test Automation Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Software Testing- Planning Tests for Mobile]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Selenium- Structure, Scale, Run, and Optimize Automated Tests]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Playwright]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JMeter- Performance and Load Testing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[API Testing Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Postman Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java- Testing with JUnit]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL for Testers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with Software Testing

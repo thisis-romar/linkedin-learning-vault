@@ -21,7 +21,7 @@ tags:
   - topic/network-and-system-administration
   - skill/linux-system-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Lpic 1 Exam 101 Version 5 0 Cert Prep](https://media.licdn.com/dms/image/v2/C4E0DAQGVXRo65orm4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580243627728?e=2147483647&amp;v=beta&amp;t=6w-Tg7aWo08Y7ABXGcGD2QqPgbnVvbBxZ72lMfs-5mE)

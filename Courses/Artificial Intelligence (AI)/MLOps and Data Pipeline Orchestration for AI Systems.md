@@ -31,7 +31,7 @@ tags:
   - skill/data-pipelines
   - skill/orchestration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![MLOps and Data Pipeline Orchestration for AI Systems](https://media.licdn.com/dms/image/v2/D4E0DAQFD5fYFdNH9Ug/learning-public-crop_675_1200/B4EZbqSXHjGkAY-/0/1747687404255?e=2147483647&amp;v=beta&amp;t=hbl-sUxDJgry-wXj7Pvl1DAZmttLLP28qxi6g_DutVM)

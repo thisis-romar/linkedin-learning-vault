@@ -2,18 +2,52 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-processing"
+url: https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-processing
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Data Engineering Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python For Data Science And Machine Learning Essential Training Part]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python for Data Science and Machine Learning Essential Training Part 2]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Cleaning in Python Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Apache Spark Essential Training- Big Data Engineering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ETL in Python and SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Quality- Core Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Introduction to Fundamental Skills for Data Work: Data Processing

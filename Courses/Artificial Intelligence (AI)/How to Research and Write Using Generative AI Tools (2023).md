@@ -20,7 +20,7 @@ tags:
   - topic/network-and-system-administration
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![How to Research and Write Using Generative AI Tools (2023)](https://media.licdn.com/dms/image/v2/D4D0DAQGRVgFGz6l45Q/learning-public-crop_675_1200/B4DZetChgfGYAo-/0/1750954809893?e=2147483647&amp;v=beta&amp;t=TJ6sPVbcoQaa8GJ6bcsyVHAYnXoRimZjxndD2O3CR3U)

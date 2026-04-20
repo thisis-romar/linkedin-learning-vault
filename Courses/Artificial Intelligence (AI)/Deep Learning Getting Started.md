@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Deep Learning Getting Started](https://media.licdn.com/dms/image/v2/D560DAQFK_x_qDpO55Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705688041751?e=2147483647&amp;v=beta&amp;t=tS5Y2Il8w9vSGgsllmuy8tKczb9lItCRb1kUSuS9M2w)

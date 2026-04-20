@@ -19,7 +19,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Prompt Engineering with ChatGPT](https://media.licdn.com/dms/image/v2/D560DAQEbvCcHVeK8sQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713398114484?e=2147483647&amp;v=beta&amp;t=UUj7lyCKIyutn6Rg8ujKgpsZq3fm6H2l-MtdH0syEQw)

@@ -27,7 +27,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL Practice: Intermediate Queries](https://media.licdn.com/dms/image/v2/D560DAQHwJxEZODK75Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902130493?e=2147483647&amp;v=beta&amp;t=ywuBJw3sYDK7dQ7jicKvYjhFu5JlKqstCma-1MVjiBs)

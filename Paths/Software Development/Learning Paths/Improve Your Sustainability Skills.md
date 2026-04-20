@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/improve-your-sustainability-skills"
+url: https://www.linkedin.com/learning/paths/improve-your-sustainability-skills
 course_count: 8
 linkedin_topics:
   - Software Development
@@ -10,8 +10,46 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Sustainability Foundations Core Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to ESG- Environmental, Social, and Governance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The Importance of Biodiversity to Business]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Driving Sustainability at Your Organization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Employee Engagement- Making Sustainability Part of Everybody’s Job]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Tips to Make Your Office Eco-Friendly]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Digital Sustainability- How to Reduce Your Digital Footprint]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[How to Get a Job in Climate]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Improve Your Sustainability Skills

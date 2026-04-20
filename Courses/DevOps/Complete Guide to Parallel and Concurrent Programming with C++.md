@@ -28,7 +28,7 @@ tags:
   - skill/c
   - skill/parallel-programming
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Guide to Parallel and Concurrent Programming with C++](https://media.licdn.com/dms/image/v2/D4D0DAQEnCWmh3NCa-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736554366422?e=2147483647&amp;v=beta&amp;t=xJ9SrMbcj1y53RO3qsBAn07oMF3RpKhjs9n8I3BjH7c)

@@ -25,7 +25,7 @@ tags:
   - skill/selenium
   - skill/test-automation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Selenium Essential Training](https://media.licdn.com/dms/image/v2/C4D0DAQE-vCuZH-c_Ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589403094822?e=2147483647&amp;v=beta&amp;t=Dfn3Q8ThGlU8d8iM-wEPr7hvX5vjHsLBSwP8FmNGO0E)

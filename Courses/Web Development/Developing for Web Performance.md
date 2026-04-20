@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/web-application-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Developing for Web Performance](https://media.licdn.com/dms/image/v2/C4E0DAQHIiPicCZzGvw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617217001062?e=2147483647&amp;v=beta&amp;t=hwZbP64jQfNcsQYBTYPfWmwdfQ-x_AzNcAfbWP2sqGQ)

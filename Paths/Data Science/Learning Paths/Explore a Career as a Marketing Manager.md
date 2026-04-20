@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-a-career-as-a-marketing-manager"
+url: https://www.linkedin.com/learning/paths/explore-a-career-as-a-marketing-manager
 course_count: 5
 linkedin_topics:
   - Data Science
@@ -10,8 +10,34 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Leading A Marketing Team]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Be the Manager People Won''t Leave]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Job Interview Tips for Marketing Managers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The Habits of Successful Marketers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Marketing Foundations- Analytics (2021)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore a Career as a Marketing Manager

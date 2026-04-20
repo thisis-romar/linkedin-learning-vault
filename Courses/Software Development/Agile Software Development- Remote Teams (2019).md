@@ -28,7 +28,7 @@ tags:
   - topic/devops
   - skill/agile-software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Agile Software Development: Remote Teams (2019)](https://media.licdn.com/dms/image/v2/D560DAQF9vZn-1sn78Q/learning-public-crop_675_1200/B56ZrBOK43HYAY-/0/1764178309251?e=2147483647&amp;v=beta&amp;t=vYl9oTScmclGVTN-a2Uj7DsxdPdRbZ7M0U3JpQi3R7k)

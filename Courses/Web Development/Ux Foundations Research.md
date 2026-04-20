@@ -21,7 +21,7 @@ tags:
   - skill/user-experience-ux
   - skill/ux-research
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ux Foundations Research](https://media.licdn.com/dms/image/v2/C560DAQHF3wbeSsVklw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677112277892?e=2147483647&amp;v=beta&amp;t=lmgY4FhRESMdTTtbfJvu-r6nSw_gMGiDl_EBm7kR9jc)

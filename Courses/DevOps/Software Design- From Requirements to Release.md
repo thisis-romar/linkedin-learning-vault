@@ -27,7 +27,7 @@ tags:
   - skill/software-development-life-cycle-sdlc
   - skill/software-design
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Software Design: From Requirements to Release](https://media.licdn.com/dms/image/v2/C4E0DAQEv-kwYOt-yCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588091598778?e=2147483647&amp;v=beta&amp;t=bqyw1b48o_PeTvl5aoFowx2362vr0oNguoUtSmTWM6E)

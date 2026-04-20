@@ -27,7 +27,7 @@ tags:
   - skill/data-modeling
   - skill/visual-basic-for-applications-vba
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel VBA: Process Modeling](https://media.licdn.com/dms/image/v2/D4E0DAQEUy0jEcpcUag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736873904835?e=2147483647&amp;v=beta&amp;t=GPw7nylx4w8IRMiBsu-IWeWPr9sq0ZOn2dPJ9JY03uM)

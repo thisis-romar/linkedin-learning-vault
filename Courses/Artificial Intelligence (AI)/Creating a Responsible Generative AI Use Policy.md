@@ -16,7 +16,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Creating a Responsible Generative AI Use Policy](https://media.licdn.com/dms/image/v2/D4D0DAQHp3p0hqPQbGw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732065803978?e=2147483647&amp;v=beta&amp;t=FOPk7rWOSunppvDjk1RPhzTBLP3sWkB7BgC88x7R370)

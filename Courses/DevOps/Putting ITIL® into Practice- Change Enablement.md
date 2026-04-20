@@ -28,7 +28,7 @@ tags:
   - skill/itil
   - skill/change-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Putting ITIL® into Practice: Change Enablement](https://media.licdn.com/dms/image/v2/D4D0DAQEK-77yja2h6A/learning-public-crop_675_1200/B4DZZp1oO4HwAY-/0/1745532389023?e=2147483647&amp;v=beta&amp;t=Z0uM4k7CPfk1u01oZu_W_FMeC9a-IJtfzPjs-lyu1pQ)

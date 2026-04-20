@@ -2,20 +2,70 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-a-career-in-it-support"
+url: https://www.linkedin.com/learning/paths/explore-a-career-in-it-support
 course_count: 11
 linkedin_topics:
   - DevOps
   - IT Help Desk
   - Network and System Administration
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/devops
   - topic/it-help-desk
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Pc Maintenance And Performance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Computer Components and Peripherals for IT Technicians]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Entra ID Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Windows 10- Supporting Users Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Windows 10- Administration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Windows 10- Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Windows 10- Networking]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Troubleshooting Common PC Issues for Users]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Windows 10 for IT Support- Troubleshooting Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Support for a Hybrid Workforce]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Service Desk Careers and Certifications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore a Career in IT Support

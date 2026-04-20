@@ -6,7 +6,7 @@ course_count: 3
 tags:
   - skill
   - skill/employee-learning-development
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Employee Learning & Development

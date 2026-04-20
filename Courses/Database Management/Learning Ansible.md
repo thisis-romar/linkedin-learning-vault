@@ -23,7 +23,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ansible
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Ansible](https://media.licdn.com/dms/image/v2/C4E0DAQHSCgje1Y3Afg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597935046264?e=2147483647&amp;v=beta&amp;t=N_kwR8ju6u_VUeO3SDsZfyWl3UZePVB4DfwsVMbmTcg)

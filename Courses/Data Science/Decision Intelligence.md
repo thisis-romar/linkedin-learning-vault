@@ -28,7 +28,7 @@ tags:
   - skill/data-driven-decision-making
   - skill/decision-making
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Decision Intelligence](https://media.licdn.com/dms/image/v2/D560DAQHm5OeeZN1I6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693509050887?e=2147483647&amp;v=beta&amp;t=r6eUf8rJNh98Yv7OyU0wM9caTqxJ5_Q2HNg9nzzlsKs)

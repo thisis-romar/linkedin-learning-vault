@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/voip-from-fundamentals-to-troubleshooting"
+url: https://www.linkedin.com/learning/paths/voip-from-fundamentals-to-troubleshooting
 course_count: 3
 linkedin_topics:
   - Cybersecurity
@@ -12,8 +12,26 @@ tags:
   - learning-path
   - topic/security
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Voip And Unified Communications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Analyzing VoIP Traffic with Wireshark]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Troubleshooting VOIP- Identify and Resolve Common VOIP Issues]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # VoIP: From Fundamentals to Troubleshooting

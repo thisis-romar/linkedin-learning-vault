@@ -27,7 +27,7 @@ tags:
   - skill/scripting
   - skill/arcgis-pro
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning ArcGIS Python Scripting](https://media.licdn.com/dms/image/v2/D4D0DAQEQg79uzqEU9Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711579365565?e=2147483647&amp;v=beta&amp;t=wJE2v0MD-wZd2uAH8vXaCX7tSIO_1trFZWHeN-p6xnc)

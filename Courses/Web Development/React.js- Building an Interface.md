@@ -28,7 +28,7 @@ tags:
   - skill/react-js
   - skill/web-interface-design
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![React.js: Building an Interface](https://media.licdn.com/dms/image/v2/C4E0DAQHGQTQ2dHgcJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619021949350?e=2147483647&amp;v=beta&amp;t=wmS11QWoUO2hLsPSQ4QOAqs67__mDIUIx37D7xBk0Qs)

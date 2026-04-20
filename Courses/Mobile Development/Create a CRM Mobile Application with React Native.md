@@ -25,7 +25,7 @@ tags:
   - skill/mobile-application-development
   - skill/react-native
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Create a CRM Mobile Application with React Native](https://media.licdn.com/dms/image/v2/D560DAQHnKiYx-QGRdg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708996526383?e=2147483647&amp;v=beta&amp;t=RVD3RlZgu14-Sz0_TSe3LZ8Axfu6X7DiOHXEhWZPVKw)

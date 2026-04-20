@@ -26,7 +26,7 @@ tags:
   - skill/virtual-collaboration
   - skill/microsoft-products
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft Collaboration: SharePoint, Teams, Groups, and Yammer](https://media.licdn.com/dms/image/v2/C4D0DAQHpZ5YYOwNb7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667931400491?e=2147483647&amp;v=beta&amp;t=KlI87gVgcB2BUnrv4Zz3q-doyv7cHhUw5Ycs4yOz5MA)

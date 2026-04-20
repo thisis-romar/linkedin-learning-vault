@@ -2,20 +2,42 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/sql-for-data-professionals-in-finance"
+url: https://www.linkedin.com/learning/paths/sql-for-data-professionals-in-finance
 course_count: 4
 linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 13
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[The Data Science Of Economics Banking And Finance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL for Finance Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[From Excel to SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL for Finance- Income Statement Project]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # SQL for Data Professionals in Finance

@@ -25,7 +25,7 @@ tags:
   - skill/pdf-management
   - skill/it-accessibility
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Creating Accessible PDFs](https://media.licdn.com/dms/image/v2/C560DAQGYN5k-gBXnRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639595808132?e=2147483647&amp;v=beta&amp;t=kyMIjq2d8UyuheuEEvOJ8xr05cxHxov_Ib-6vii2Egg)

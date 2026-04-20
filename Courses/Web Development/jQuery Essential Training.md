@@ -26,7 +26,7 @@ tags:
   - skill/jquery
   - skill/front-end-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![jQuery Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHPrtoXQNMIaQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728430867016?e=2147483647&amp;v=beta&amp;t=whwLQwvrwmoJge40s0Z1883kxvvxr2dLnx1Tk6guRO8)

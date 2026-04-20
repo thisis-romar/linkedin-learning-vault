@@ -27,7 +27,7 @@ tags:
   - skill/ethical-hacking
   - skill/kali-linux
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Kali Linux for Advanced Pen Testing and Ethical Hacking](https://media.licdn.com/dms/image/v2/C4E0DAQH8rqHfztTzfw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639417323558?e=2147483647&amp;v=beta&amp;t=N1tnavHLaR2qVBXDm20jYQZd4wjZpkP6-ex8j3dL3Kw)

@@ -29,7 +29,7 @@ tags:
   - skill/database-development
   - skill/programming-foundations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Programming Foundations Databases](https://media.licdn.com/dms/image/v2/C4D0DAQE3jENAPmsZ-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1592866492461?e=2147483647&amp;v=beta&amp;t=yAbEoiIyPCsSwpTaBq3oU3k4eX7zA5jpwAL90ZgNKZI)

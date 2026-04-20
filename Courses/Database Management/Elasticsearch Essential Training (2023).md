@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/elasticsearch
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Elasticsearch Essential Training (2023)](https://media.licdn.com/dms/image/v2/D4D0DAQFQJGb3OwvKEQ/learning-public-crop_675_1200/B4DZX8rOjyHAAc-/0/1743700945448?e=2147483647&amp;v=beta&amp;t=hEAQ0rkVxHmzs45U1iyjYQAYvmfpLwxsmgc--r7z7mY)

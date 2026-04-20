@@ -27,7 +27,7 @@ tags:
   - skill/microservices
   - skill/spring-boot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Creating Spring Boot Microservices](https://media.licdn.com/dms/image/v2/D560DAQGP3Ee7Z9yRyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719009004889?e=2147483647&amp;v=beta&amp;t=hxWhfegk-y7A0sXENAf2PH1PBy8D85fApuwx3ItteTw)

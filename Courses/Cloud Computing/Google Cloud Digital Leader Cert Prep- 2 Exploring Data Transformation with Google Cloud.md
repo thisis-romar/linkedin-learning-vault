@@ -27,7 +27,7 @@ tags:
   - skill/data-transformation
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Google Cloud Digital Leader Cert Prep: 2 Exploring Data Transformation with Google Cloud](https://media.licdn.com/dms/image/v2/D4E0DAQHnsbvLOIsOEg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726251162723?e=2147483647&amp;v=beta&amp;t=fJSl0-2k8-JmDlHlrczTLIf1ChXA4NSeR0Kb_rkn4zs)

@@ -25,7 +25,7 @@ tags:
   - skill/security
   - skill/incident-response
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft Security Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQGn_KOtsvv_qQ/learning-public-crop_675_1200/B4EZU5fHIBH0Ac-/0/1740426212548?e=2147483647&amp;v=beta&amp;t=NND0pEroUa43qarg579xiYs4-XHPeN9-aVj7EExAIKg)

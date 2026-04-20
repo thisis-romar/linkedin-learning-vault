@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Enhancing Your Productivity as a Data Scientist with Generative AI](https://media.licdn.com/dms/image/v2/D4E0DAQFRBCAuq6V7lQ/learning-public-crop_675_1200/B4EZVJwGNQGYAY-/0/1740699100712?e=2147483647&amp;v=beta&amp;t=6NcRlG1Kf2kYTtJDLlUBAhLPDi3rTo_ROZclBl71IAU)

@@ -33,7 +33,7 @@ tags:
   - skill/extract-transform-load-etl
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![ETL in Python and SQL](https://media.licdn.com/dms/image/v2/D560DAQEb7W3zMX2CfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709597051025?e=2147483647&amp;v=beta&amp;t=wp85iSevtpQSOwRH3j6xpiy6IciVIJwiUGuFnjaSq24)

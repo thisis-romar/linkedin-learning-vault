@@ -19,7 +19,7 @@ tags:
   - topic/data-science
   - skill/business-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![What Is Business Analysis](https://media.licdn.com/dms/image/v2/C4E0DAQFURlC1Fe5UrA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1612314991577?e=2147483647&amp;v=beta&amp;t=RiZKxHCnGxPeYn0kUJsNrLgweHj7QFQte0HXGSyRvpY)

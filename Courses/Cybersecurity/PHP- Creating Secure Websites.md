@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PHP: Creating Secure Websites](https://media.licdn.com/dms/image/v2/C4E0DAQFFV2cGNYia4A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616177761384?e=2147483647&amp;v=beta&amp;t=Y_crBk_mMH-JmxD_gjR55O4Zu2wl4_lQkWLDpLZZ03E)

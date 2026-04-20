@@ -30,7 +30,7 @@ tags:
   - skill/front-end-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![CSS: Advanced Layouts with Grid](https://media.licdn.com/dms/image/v2/D560DAQFOaU21-ZRu1w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730501541268?e=2147483647&amp;v=beta&amp;t=kOleIg_3SjFTudBCCB9LnYC2T_7BxgtjGTk1kAZGpD8)

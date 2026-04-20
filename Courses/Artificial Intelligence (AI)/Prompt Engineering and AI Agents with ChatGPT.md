@@ -25,7 +25,7 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Prompt Engineering and AI Agents with ChatGPT](https://media.licdn.com/dms/image/v2/D4D0DAQHxdj3nqXxX6g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722897951098?e=2147483647&amp;v=beta&amp;t=B_aD9_PB1EVfR0JBbxk2vGM8NFRVaRYEohpGjfzK0_g)

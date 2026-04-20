@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/the-top-10-most-popular-courses-among-engineering-professionals"
+url: https://www.linkedin.com/learning/paths/the-top-10-most-popular-courses-among-engineering-professionals
 course_count: 10
 linkedin_topics:
   - Data Science
@@ -16,8 +16,54 @@ tags:
   - topic/devops
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Docker]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Unconscious Bias]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Strategic Thinking]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Kubernetes]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Git Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Algorithms]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # The Top 10 Most Popular Courses among Engineering Professionals

@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/django
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Securing Django Applications](https://media.licdn.com/dms/image/v2/C4E0DAQF8NWzeyXK4_w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1601591246933?e=2147483647&amp;v=beta&amp;t=EOeGxWQEE_x-6t2Sr5sVavcnrGlYm9berwUVWLPsje8)

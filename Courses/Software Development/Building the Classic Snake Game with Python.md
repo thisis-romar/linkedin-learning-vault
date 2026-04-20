@@ -26,7 +26,7 @@ tags:
   - skill/python-programming-language
   - skill/game-programming
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building the Classic Snake Game with Python](https://media.licdn.com/dms/image/v2/C560DAQHnKo9bVeGWvg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634664629182?e=2147483647&amp;v=beta&amp;t=tce3cMRiOhSI0qMKw5At4vvqIV1ZIrudnLjf6DKUoNo)

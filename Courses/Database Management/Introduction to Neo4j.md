@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/neo4j
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Neo4j](https://media.licdn.com/dms/image/v2/C560DAQHW5qTGHHzVxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660756613039?e=2147483647&amp;v=beta&amp;t=V7xR7ohFtweeH1uqB7RQgDW7ALDy-DkndokTo9QqkDM)

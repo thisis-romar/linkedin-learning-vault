@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-ms-sql-server-skills"
+url: https://www.linkedin.com/learning/paths/advance-your-ms-sql-server-skills
 course_count: 9
 linkedin_topics:
   - Database Management
@@ -12,8 +12,50 @@ tags:
   - learning-path
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction To Transact Sql]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft SQL Server 2022 Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Querying Microsoft SQL Server 2022]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Automating SQL Server with dbatools]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Implementing a Data Warehouse with SQL Server 2022]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Server 2022 Administration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Server Containerization- Modern Deployment Strategies for Data-Driven Organizations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Server Integration Services]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Server- Reporting Services]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your MS SQL Server Skills

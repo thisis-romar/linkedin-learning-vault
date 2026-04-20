@@ -29,7 +29,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL: Data Reporting and Analysis](https://media.licdn.com/dms/image/v2/C4D0DAQErQCI8JKTS1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657907586123?e=2147483647&amp;v=beta&amp;t=h2eQek84NuKGD3zxsesp7WahjOHn6pPOPUzykC5wHko)

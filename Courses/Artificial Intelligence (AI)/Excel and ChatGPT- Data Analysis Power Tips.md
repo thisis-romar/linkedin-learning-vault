@@ -20,7 +20,7 @@ tags:
   - topic/network-and-system-administration
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel and ChatGPT: Data Analysis Power Tips](https://media.licdn.com/dms/image/v2/D560DAQEpx8PyjHEaCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698689116486?e=2147483647&amp;v=beta&amp;t=Xknsh7FZPyJ2jy6KF5Sbkd0b8Bt5Ev3M2JVooUDtJ-E)

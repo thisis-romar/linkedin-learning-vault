@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/powershell
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning PowerShell](https://media.licdn.com/dms/image/v2/C4E0DAQFxHzcSpPEySg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580334496275?e=2147483647&amp;v=beta&amp;t=hn8Kw-OVTcWy6hLm4mrUpj-qpbrTuq2H5ch7LpG7grc)

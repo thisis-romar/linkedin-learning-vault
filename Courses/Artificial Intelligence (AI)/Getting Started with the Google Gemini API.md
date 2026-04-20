@@ -32,7 +32,7 @@ tags:
   - skill/gemini
   - skill/google-gemini
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Getting Started with the Google Gemini API](https://media.licdn.com/dms/image/v2/D560DAQHXvzWCHd5fZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008957502?e=2147483647&amp;v=beta&amp;t=tZUndRs2b-e08KuS5U5oMZEVrtYh5QHP1IwpGuHeXEk)

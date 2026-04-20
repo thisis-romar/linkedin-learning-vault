@@ -26,7 +26,7 @@ tags:
   - skill/tech-career-skills
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Future Proofing Your Data Science Career](https://media.licdn.com/dms/image/v2/C4E0DAQFtWaR4WcYp3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588090928525?e=2147483647&amp;v=beta&amp;t=Nb1NSwbCMrpy37dA9I3slqRltA3NHAHHT0rQTuAGzhM)

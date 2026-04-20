@@ -16,7 +16,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Rest Apis](https://media.licdn.com/dms/image/v2/C4E0DAQFxbgf-TpDrZA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669449061?e=2147483647&amp;v=beta&amp;t=uuA6mFx_aEONRH-juOhao5Q6BBEP3GZ91CIqvXpnNS4)

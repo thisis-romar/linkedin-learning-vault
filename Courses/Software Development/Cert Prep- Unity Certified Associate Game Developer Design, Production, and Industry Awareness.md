@@ -25,7 +25,7 @@ tags:
   - skill/game-development
   - skill/unity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cert Prep: Unity Certified Associate Game Developer Design, Production, and Industry Awareness](https://media.licdn.com/dms/image/v2/C560DAQFdcIB37oJxXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613758035308?e=2147483647&amp;v=beta&amp;t=PLJSWjRco1jb_Z5oDOIaqdkQJ1S_Uh1KgoA26iGPcAY)

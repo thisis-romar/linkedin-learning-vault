@@ -32,7 +32,7 @@ tags:
   - skill/infographics
   - skill/google-gemini
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Vibe Code This: AI-Powered Branded Infographics Tool](https://media.licdn.com/dms/image/v2/D4E0DAQFKTTNnna0vew/learning-public-crop_675_1200/B4EZsUfZmEHgAY-/0/1765575334963?e=2147483647&amp;v=beta&amp;t=gyNQrzwGV8SWYxTsPNIOa1HnhiISDYSRHfI_tE4IvRc)

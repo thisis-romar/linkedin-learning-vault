@@ -23,7 +23,7 @@ tags:
   - topic/it-help-desk
   - skill/call-control
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Customer Service: Call Control Strategies](https://media.licdn.com/dms/image/v2/C4E0DAQGbHxeaVejF6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665548814?e=2147483647&amp;v=beta&amp;t=8FlhMS8xDwv_NPlXFC35oW4r3zmbRScLV_Z_DogBKpc)

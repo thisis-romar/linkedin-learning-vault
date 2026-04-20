@@ -26,7 +26,7 @@ tags:
   - skill/microsoft-azure
   - skill/cloud-storage
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Manage Storage in Azure](https://media.licdn.com/dms/image/v2/D560DAQGz9LokEdqyeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696813122151?e=2147483647&amp;v=beta&amp;t=c1OT2DujyEF-D8FgCZjziYOopQvCe13wNGwMKAzXFEQ)

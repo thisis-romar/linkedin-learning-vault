@@ -32,7 +32,7 @@ tags:
   - topic/database-management
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHmDY4p3jhrEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694720627032?e=2147483647&amp;v=beta&amp;t=SyOBWIIO_0CQuXfmL5ZjNdoQDXcjhsBcKjfg4oDdHsM)

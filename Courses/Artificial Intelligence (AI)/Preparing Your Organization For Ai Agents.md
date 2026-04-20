@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/organizational-change-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Preparing Your Organization For Ai Agents](https://media.licdn.com/dms/image/v2/D560DAQGfBniDoj9Rrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729786631991?e=2147483647&amp;v=beta&amp;t=ve29VFiS3XMdQZlehVOGQ8aQu49nQahVfH3DMATky04)

@@ -25,7 +25,7 @@ tags:
   - skill/sustainability
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Including Sustainability in Your Cloud Strategy](https://media.licdn.com/dms/image/v2/D4E0DAQErSQeaN7SJLA/learning-public-crop_675_1200/B4EZnzNWEYKkAY-/0/1760721986568?e=2147483647&amp;v=beta&amp;t=6z4hNFkhHBHOradMqvdG3GaiCTjMZ1a5ZcibnqS7wv8)

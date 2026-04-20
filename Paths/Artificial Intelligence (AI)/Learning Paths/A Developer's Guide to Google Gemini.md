@@ -2,18 +2,56 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/a-developer-s-guide-to-google-gemini"
+url: https://www.linkedin.com/learning/paths/a-developer-s-guide-to-google-gemini
 course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Prompt Engineering With Gemini]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Exploring Million-Token Models with Google Gemini Pro 1.5]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Getting Started with the Google Gemini API]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming with the Gemini Flash API]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Google Gemini For Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Gemini for Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building with Google Gemini Advanced and Ultra]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Build an Image Captioning Tool for Visually Impaired Users with Gemini]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # A Developer's Guide to Google Gemini

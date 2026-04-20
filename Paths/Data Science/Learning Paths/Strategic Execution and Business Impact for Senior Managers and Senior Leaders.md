@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/strategic-execution-and-business-impact-for-senior-managers-and-senior-leaders"
+url: https://www.linkedin.com/learning/paths/strategic-execution-and-business-impact-for-senior-managers-and-senior-leaders
 course_count: 12
 linkedin_topics:
   - Data Science
@@ -10,8 +10,62 @@ louvain_cluster: 3
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Business Finance Introduction To Financial Modeling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Corporate Financial Statement Analysis (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data-Driven Decisions in Business Operations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Stakeholder Management for Leaders and Managers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Strategic Pricing for Products and Services]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Removing Noise and Bias from Strategic Decision-Making]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Strategic Agility for Organizational Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Organizational Leadership in the Era of AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Decision Intelligence]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Sharpen Your Decision-Making with Nuanced Thinking Techniques]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Product Management- Building a Product Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Product Management- Building a Product Roadmap]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Strategic Execution and Business Impact for Senior Managers and Senior Leaders

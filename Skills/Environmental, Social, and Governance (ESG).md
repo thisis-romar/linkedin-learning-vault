@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/environmental-social-and-governance-esg
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Environmental, Social, and Governance (ESG)

@@ -23,7 +23,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-word
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Word Essential Training (Microsoft 365) (2023)](https://media.licdn.com/dms/image/v2/C560DAQHATxcT41kSFw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1672791238718?e=2147483647&amp;v=beta&amp;t=g-pmfJ3GbcKqJjHhb-1QEJaoagXQDW8Ho5RDqlHuwrE)

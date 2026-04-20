@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![CSS: Print Style Sheets](https://media.licdn.com/dms/image/v2/C4E0DAQGWqNJbTO18sA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1601574383805?e=2147483647&amp;v=beta&amp;t=rccYxxCmoHKwh9H3jMkJCC91RXUgowUd0n9aNsAXNWQ)

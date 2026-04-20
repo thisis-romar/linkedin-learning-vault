@@ -16,7 +16,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analysis Foundations: Strategy Analysis](https://media.licdn.com/dms/image/v2/C4D0DAQGzz1pbqyRJvw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648152857090?e=2147483647&amp;v=beta&amp;t=Xti_PpWnI7uQflbnH8UmjsrmPUi4Hy6ZtffzS52s1EI)

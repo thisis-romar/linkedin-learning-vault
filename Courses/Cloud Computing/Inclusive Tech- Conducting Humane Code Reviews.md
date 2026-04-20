@@ -31,7 +31,7 @@ tags:
   - skill/code-review
   - skill/tech-career-skills
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Inclusive Tech: Conducting Humane Code Reviews](https://media.licdn.com/dms/image/v2/C4E0DAQEXt2Yqz9B8XA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608238138221?e=2147483647&amp;v=beta&amp;t=BTj21OoXOSt-qTEiQU06d_XpOcKhoFR3SkfsN1XE-24)

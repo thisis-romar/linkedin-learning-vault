@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/scala
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Scala Essential Training](https://media.licdn.com/dms/image/v2/D560DAQFScGwBIa6BMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705536093368?e=2147483647&amp;v=beta&amp;t=fstQayQRs0vRnSiWI7QKfopEFavVeld4S02SxmANd_0)

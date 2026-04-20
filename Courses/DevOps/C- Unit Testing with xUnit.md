@@ -30,7 +30,7 @@ tags:
   - skill/c
   - skill/unit-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C# Unit Testing with xUnit](https://media.licdn.com/dms/image/v2/D560DAQFbkepEwSX3vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691084155010?e=2147483647&amp;v=beta&amp;t=JCv0g-b98lkNnkBiom6gDHCI9YwS6YnMx-w5v4RYCug)

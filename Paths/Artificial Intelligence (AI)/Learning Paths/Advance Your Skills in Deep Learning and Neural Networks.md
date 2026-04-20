@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-in-deep-learning-and-neural-networks"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-in-deep-learning-and-neural-networks
 course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,46 @@ louvain_cluster: 5
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Deep Learning Getting Started]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Artificial Intelligence Foundations- Neural Networks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Deep Learning with Python- Convolutional Neural Networks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Workshop- Build a Neural Network with PyTorch Lightning (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Deep Learning with Python- Optimizing Deep Learning Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Generative Adversarial Networks (GANs)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Workshop- Hands-on with GANs Using Dense Neural Networks (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Workshop- Hands-on with GANs with Deep Convolutional Networks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills in Deep Learning and Neural Networks

@@ -17,7 +17,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Accelerating Digital Transformation as Offices Reopen](https://media.licdn.com/dms/image/v2/C560DAQHmG-G0u-q1yA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623783763739?e=2147483647&amp;v=beta&amp;t=NKtPXfg127121YAjUwvRU_9Faa3fxaO2MuBTtDm9LQ4)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/moving-from-data-scientist-to-data-analyst"
+url: https://www.linkedin.com/learning/paths/moving-from-data-scientist-to-data-analyst
 course_count: 10
 linkedin_topics:
   - Data Science
@@ -12,8 +12,54 @@ tags:
   - learning-path
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[SQL for Data Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[R for Data Science- Analysis and Visualization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python for Data Analysis- Solve Real-World Challenges]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Visualization for Data Analysts and Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Statistics Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Deep Learning Getting Started]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Apache Spark Essential Training- Big Data Engineering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python- Working with Predictive Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to NLP with R]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Tableau Desktop]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Moving from Data Scientist to Data Analyst

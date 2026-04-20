@@ -24,7 +24,7 @@ tags:
   - skill/time-management
   - skill/virtual-work
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Time Management Working From Home](https://media.licdn.com/dms/image/v2/C4D0DAQEz0gn8a-yEXw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651077495981?e=2147483647&amp;v=beta&amp;t=xzwkgF8jGEjTghrCIkzlJNMCNQ_6H3KX6-WsmuuB_pE)

@@ -26,7 +26,7 @@ tags:
   - skill/mysql
   - skill/php
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PHP with MySQL Essential Training: 1 The Basics](https://media.licdn.com/dms/image/v2/C4E0DAQE_om3nR45UWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567114183038?e=2147483647&amp;v=beta&amp;t=o00r9ySd5HajKD3_ySAkbHATMuXAf4ezGMhfGiIIOWk)

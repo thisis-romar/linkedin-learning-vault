@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-a-power-bi-specialist"
+url: https://www.linkedin.com/learning/paths/become-a-power-bi-specialist
 course_count: 5
 linkedin_topics:
   - Data Science
@@ -10,8 +10,34 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Getting Started With Power Bi]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Power BI Desktop]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power Bi Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Quick Tips]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Mistakes to Avoid]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become a Power BI Specialist

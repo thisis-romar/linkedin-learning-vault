@@ -26,7 +26,7 @@ tags:
   - topic/network-and-system-administration
   - skill/network-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Server Administration Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQEsmc3B-u40TA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614021016790?e=2147483647&amp;v=beta&amp;t=GfczEVaT7ettqFM7QrMAmJkSzVRavOBIin_gHIURHkk)

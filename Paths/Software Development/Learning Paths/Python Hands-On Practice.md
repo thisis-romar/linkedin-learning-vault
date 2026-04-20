@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/python-hands-on-practice"
+url: https://www.linkedin.com/learning/paths/python-hands-on-practice
 course_count: 14
 linkedin_topics:
   - Software Development
@@ -10,8 +10,70 @@ louvain_cluster: 14
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Hands-On Introduction- Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Practice It- Python Data Structures]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Practice- Operations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Practice- Collections]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Practice- Object-Oriented Programming]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building the Classic Snake Game with Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Projects- Create an Interactive Quiz Application]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Create an Open-Source Project in Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Projects]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Practice- Real-World Coding Challenges]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Build Three Real-World Python Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python for Data Analysis- Solve Real-World Challenges]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Case Study- Visualize Complex Microservice Data Using Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Level Up- Advanced Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Python Hands-On Practice

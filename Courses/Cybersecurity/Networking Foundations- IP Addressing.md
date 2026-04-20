@@ -26,7 +26,7 @@ tags:
   - topic/cloud-computing
   - skill/ip-addressing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Networking Foundations: IP Addressing](https://media.licdn.com/dms/image/v2/C4E0DAQEBmjDcG5jG-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615489458811?e=2147483647&amp;v=beta&amp;t=J3OLKeP8vzk1rYNNRew4BuCE0hM7K5iCyumpZZVjM04)

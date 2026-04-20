@@ -6,7 +6,7 @@ course_count: 4
 tags:
   - skill
   - skill/red-hat-enterprise-linux-rhel
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Red Hat Enterprise Linux (RHEL)

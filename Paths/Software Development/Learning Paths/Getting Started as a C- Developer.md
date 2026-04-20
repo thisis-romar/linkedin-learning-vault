@@ -2,16 +2,58 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-as-a-c-sharp-developer"
+url: https://www.linkedin.com/learning/paths/getting-started-as-a-c-sharp-developer
 course_count: 9
 linkedin_topics:
   - Software Development
-louvain_cluster: 12
+louvain_cluster: 13
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[C Sharp Essential Training 1 Types And Control Flow]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Essential Training 2- Generics, Collections, and LINQ]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- and .NET Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C Sharp Algorithms]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Delegates, Events, and Lambdas]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Interfaces and Generics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Design Patterns Part 1]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Design Patterns Part 2]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Nail Your C- Interview]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started as a C# Developer

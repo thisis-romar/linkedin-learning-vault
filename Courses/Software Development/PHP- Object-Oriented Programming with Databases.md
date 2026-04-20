@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PHP: Object-Oriented Programming with Databases](https://media.licdn.com/dms/image/v2/D4D0DAQHgFvhoiy67vw/learning-public-crop_675_1200/B4DZoIDQekJAAc-/0/1761071663290?e=2147483647&amp;v=beta&amp;t=4LphMfFYPEBfDxbm8LtMdFhnyEKpPy1CMCvslt2TWAo)

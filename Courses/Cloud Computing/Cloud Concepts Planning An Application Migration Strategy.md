@@ -16,7 +16,7 @@ tags:
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud Concepts Planning An Application Migration Strategy](https://media.licdn.com/dms/image/v2/D4E0DAQHpuXUlWpgR6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728413422915?e=2147483647&amp;v=beta&amp;t=ByOZ6ahO04weuMNw578lnaMC7REtA2hNwn7VLNNvh7o)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/ai-for-healthcare-essentials-for-technical-roles"
+url: https://www.linkedin.com/learning/paths/ai-for-healthcare-essentials-for-technical-roles
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -16,8 +16,38 @@ tags:
   - topic/data-science
   - topic/devops
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Ai Applications In Healthcare A Conversation With Dr Matthew Lungren]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[An Introduction to How Generative AI Will Transform Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning Fundamentals for Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-on Data Science and AI for Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced AI- NLP Techniques for Clinical Datasets]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Deep Learning Fundamentals for Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # AI for Healthcare: Essentials for Technical Roles

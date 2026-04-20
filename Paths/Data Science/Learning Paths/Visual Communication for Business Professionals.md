@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/visual-communication-for-business-professionals"
+url: https://www.linkedin.com/learning/paths/visual-communication-for-business-professionals
 course_count: 5
 linkedin_topics:
   - Data Science
@@ -10,8 +10,34 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Visual Communication For Business The Marketer S Secret Weapon]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Visualization- Best Practices]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Graphic Design- Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Graphic Design- Layouts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The 33 Laws of Typography]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Visual Communication for Business Professionals

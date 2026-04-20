@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/cybersecurity-fundamentals"
+url: https://www.linkedin.com/learning/paths/cybersecurity-fundamentals
 course_count: 12
 linkedin_topics:
   - Cloud Computing
@@ -12,8 +12,62 @@ tags:
   - learning-path
   - topic/cloud-computing
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Computer Science Principles Digital Information]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Computer Science Principles- The Internet]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Security Foundations- Core Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Foundations- Security Architecture]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Security Frameworks Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Security Foundations- Operating System Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Security Foundations- Network Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Identity and Access Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[TLS for Beginners- Securing Network Communications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity with Cloud Computing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Foundations- Computer Forensics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Cybersecurity Fundamentals

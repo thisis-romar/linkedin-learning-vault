@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced SQL for Query Tuning and Performance Optimization](https://media.licdn.com/dms/image/v2/D560DAQHhgQSU6L_R7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697652769241?e=2147483647&amp;v=beta&amp;t=xwvycQ_PCeWV4s2nJNE2HENhzWC6IdLHh0V2t3wGxtE)

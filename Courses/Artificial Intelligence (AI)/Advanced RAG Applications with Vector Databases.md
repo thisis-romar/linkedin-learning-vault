@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced RAG Applications with Vector Databases](https://media.licdn.com/dms/image/v2/D4E0DAQFonI7LTbFo_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727723235646?e=2147483647&amp;v=beta&amp;t=KcI1L2PD0dAs_AAGyJoMpneLG2Xb_HqAeue6F65UDHM)

@@ -26,7 +26,7 @@ tags:
   - skill/rest-apis
   - skill/wordpress
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![WordPress: REST API](https://media.licdn.com/dms/image/v2/C4E0DAQHyOsbWDqUGRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583864158635?e=2147483647&amp;v=beta&amp;t=jtXTVXlkachlU3_xF_RhinGDYhgBQzQyfogOEoV-eNQ)

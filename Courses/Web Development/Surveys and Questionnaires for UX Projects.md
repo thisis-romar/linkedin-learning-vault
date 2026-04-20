@@ -21,7 +21,7 @@ tags:
   - topic/web-development
   - skill/user-experience-ux
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Surveys and Questionnaires for UX Projects](https://media.licdn.com/dms/image/v2/C510DAQHZ7DEoctPdtA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576170702529?e=2147483647&amp;v=beta&amp;t=NFkmerWieb4SZcaseuSuYZkFahXRiMVGrzdHv6i9Jnw)

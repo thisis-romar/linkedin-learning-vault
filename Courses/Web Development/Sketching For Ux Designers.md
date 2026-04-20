@@ -23,7 +23,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/sketching
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Sketching For Ux Designers](https://media.licdn.com/dms/image/v2/C560DAQEyBXP0WKUh3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629490820278?e=2147483647&amp;v=beta&amp;t=JH3HtBwS2hTAN1_o910aS-tu6jfmgKZ4BJwqNg9HlZ8)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-in-predictive-analytics"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-in-predictive-analytics
 course_count: 8
 linkedin_topics:
   - Data Science
@@ -10,8 +10,46 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Predictive Analytics Essential Training For Executives]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Predictive Analytics Essential Training- Data Mining]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Predictive Customer Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analytics Foundations- Descriptive, Exploratory, and Explanatory Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python- Working with Predictive Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Science Foundations- Data Assessment for Predictive Modeling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Predictive Analytics Essential Training- Estimating and Ensuring ROI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 3- Using Data Sets]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills in Predictive Analytics

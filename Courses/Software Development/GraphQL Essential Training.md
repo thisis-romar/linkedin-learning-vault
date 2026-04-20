@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/graphql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![GraphQL Essential Training](https://media.licdn.com/dms/image/v2/D560DAQFJzRqUCfCnzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709679371916?e=2147483647&amp;v=beta&amp;t=DaYDFmvjAqhKCVT3MiTN-6iGWwdpY0fK72Rc6aFm0z8)

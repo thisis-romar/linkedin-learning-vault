@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/working-with-data-engineering-integration-and-mlops-for-ai"
+url: https://www.linkedin.com/learning/paths/working-with-data-engineering-integration-and-mlops-for-ai
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,34 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Data Integration And Api Development For Ai Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Versioning, Lineage, and Quality Monitoring for AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Knowledge Graph Data Engineering for Generative AI Use Cases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Semantic Search and Information Retrieval using GenAI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MLOps and Data Pipeline Orchestration for AI Systems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Working with Data: Engineering, Integration, and MLOps for AI

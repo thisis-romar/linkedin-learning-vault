@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![IT Service Management Foundations: Measures and Metrics](https://media.licdn.com/dms/image/v2/C4E0DAQEu5Q6hEvYIjg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1604515142102?e=2147483647&amp;v=beta&amp;t=-nMr4CwDCEYeKaFsjgH6Ks66sdDBHLGkrvzyoxcbQYg)

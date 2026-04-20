@@ -28,7 +28,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/aws-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Guide to AWS Security and Compliance Management](https://media.licdn.com/dms/image/v2/D4E0DAQFPQmW_Au28rQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724356020375?e=2147483647&amp;v=beta&amp;t=YKv5l9TAAkir3IycPdschoUHpRLmxl_Ay65dvT4nQ2M)

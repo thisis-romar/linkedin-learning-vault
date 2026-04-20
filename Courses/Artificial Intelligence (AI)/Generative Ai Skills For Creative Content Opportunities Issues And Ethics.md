@@ -25,7 +25,7 @@ tags:
   - skill/media-ethics
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative Ai Skills For Creative Content Opportunities Issues And Ethics](https://media.licdn.com/dms/image/v2/D560DAQHHsn5rOhwxog/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687906359678?e=2147483647&amp;v=beta&amp;t=HUkNhDPpRmNjjIxfw4cHd3dN6_F1Vf-HAhrVw1zH1gI)

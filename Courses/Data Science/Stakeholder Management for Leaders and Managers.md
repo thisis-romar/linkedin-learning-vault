@@ -27,7 +27,7 @@ tags:
   - skill/stakeholder-management
   - skill/team-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Stakeholder Management for Leaders and Managers](https://media.licdn.com/dms/image/v2/D4D0DAQFu0uoT52A8GQ/learning-public-crop_675_1200/B4DZSQkbz4GkAc-/0/1737592258149?e=2147483647&amp;v=beta&amp;t=5v-g6hkjSGe4RLR1mS7wz85GAYHuIhBGzH_OLKyWvnQ)

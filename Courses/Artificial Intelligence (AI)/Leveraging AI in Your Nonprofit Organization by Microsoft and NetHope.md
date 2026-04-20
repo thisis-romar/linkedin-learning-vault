@@ -29,7 +29,7 @@ tags:
   - skill/ai-readiness
   - skill/nonprofit-organizations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope](https://media.licdn.com/dms/image/v2/D560DAQFtMNofd6ZzFg/learning-public-crop_675_1200/B56ZzpcrEtHMAY-/0/1773443134380?e=2147483647&amp;v=beta&amp;t=XvBqnfYy77x4UzKnyHqhmNJw32zskEUYuMxwTam4xB4)

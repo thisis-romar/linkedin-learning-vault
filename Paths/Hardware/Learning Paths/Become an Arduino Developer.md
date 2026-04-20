@@ -2,20 +2,70 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-an-arduino-developer"
+url: https://www.linkedin.com/learning/paths/become-an-arduino-developer
 course_count: 11
 linkedin_topics:
   - Hardware
   - Network and System Administration
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - learning-path
   - topic/hardware
   - topic/network-and-system-administration
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Arduino Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Electronics Foundations- Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Electronics Foundations- Basic Circuits]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Arduino- Interfacing with Hardware]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Electronics Foundations- Semiconductor Devices]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Arduino- Interfacing with Analog Devices]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Arduino- Pulse Width Modulation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to C Programming Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C Programming for Embedded Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Arduino- Prototyping]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Soldering for Electronics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become an Arduino Developer

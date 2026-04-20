@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C# Practice: Generic Collections](https://media.licdn.com/dms/image/v2/D4E0DAQHJedElBO8qIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691188888679?e=2147483647&amp;v=beta&amp;t=M6CQ3IFs0FXdjgeC-OWAAsngHStFc6v-6Lez9PN6rhw)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/software-development-fundamentals"
+url: https://www.linkedin.com/learning/paths/software-development-fundamentals
 course_count: 10
 linkedin_topics:
   - Software Development
@@ -10,8 +10,54 @@ louvain_cluster: 4
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Computer Science Principles Digital Information]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Computer Science Principles- The Internet]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Computer Science Principles- Programming]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Software Development Life Cycle (SDLC)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning C-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C Sharp Algorithms]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Git and GitHub]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Program Databases with Transact-SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Developer Career Paths and Certifications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Software Development Fundamentals

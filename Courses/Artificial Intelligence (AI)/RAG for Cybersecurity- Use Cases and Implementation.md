@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![RAG for Cybersecurity: Use Cases and Implementation](https://media.licdn.com/dms/image/v2/D4E0DAQE11amsuV0i8w/learning-public-crop_675_1200/B4EZXYZ2LIGgAY-/0/1743092409901?e=2147483647&amp;v=beta&amp;t=FkPyTXmH20AleuXGeZnNeYfloYHyPMUKNWug92hnOaw)

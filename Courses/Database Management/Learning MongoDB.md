@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/mongodb
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning MongoDB](https://media.licdn.com/dms/image/v2/C4D0DAQEsJpdBqzECvg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671062548655?e=2147483647&amp;v=beta&amp;t=G7L-vUq-M65pZ0WBntVZ6tgV9GLuE0iuXanTQZBJcLs)

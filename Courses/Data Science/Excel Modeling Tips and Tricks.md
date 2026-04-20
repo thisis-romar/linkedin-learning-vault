@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel Modeling Tips and Tricks](https://media.licdn.com/dms/image/v2/D560DAQHrhszx9j3qcQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727300536359?e=2147483647&amp;v=beta&amp;t=SEwpAHsR16IFweHFW3rRdT8JiW-3k_ugHisI8zv63eo)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/responsible-ai-at-work-literacy-ethics-and-more"
+url: https://www.linkedin.com/learning/paths/responsible-ai-at-work-literacy-ethics-and-more
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,38 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Your Top Ai Questions Answered Ai Literacy For Everyone]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Ethics in the Age of Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Preparing for the EU AI Act- A Conversation with Jon Adams]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible AI- Principles and Practical Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Agentic AI Governance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Responsible AI at Work: Literacy, Ethics, and More

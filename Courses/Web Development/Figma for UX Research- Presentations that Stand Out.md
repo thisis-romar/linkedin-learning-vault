@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/figma-software
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Figma for UX Research: Presentations that Stand Out](https://media.licdn.com/dms/image/v2/C560DAQHBvcQRh8SgtQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655314282740?e=2147483647&amp;v=beta&amp;t=RZw3iHHUycW9gz40AIvyX0IntiCIkVWRUb620Gwitls)

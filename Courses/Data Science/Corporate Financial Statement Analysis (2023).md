@@ -27,7 +27,7 @@ tags:
   - skill/financial-statement-analysis
   - skill/corporate-finance
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Corporate Financial Statement Analysis (2023)](https://media.licdn.com/dms/image/v2/D4E0DAQEHmPby0ue4RQ/learning-public-crop_675_1200/B4EZua0lPrHcAY-/0/1767829034282?e=2147483647&amp;v=beta&amp;t=au2rSN4wCGNOCGCRpsKcou4r5Ndoq-zmYGUdt904720)

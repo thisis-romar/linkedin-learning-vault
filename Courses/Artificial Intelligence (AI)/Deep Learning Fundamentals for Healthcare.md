@@ -19,7 +19,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Deep Learning Fundamentals for Healthcare](https://media.licdn.com/dms/image/v2/D4E0DAQHLvL9ul_FWwg/learning-public-crop_675_1200/B4EZWHE3d5HUAg-/0/1741727955118?e=2147483647&amp;v=beta&amp;t=X49Enfvm0NEG5-tyAzBPLpEkIog97lJ06DyJAT8zbfc)

@@ -27,7 +27,7 @@ tags:
   - skill/microsoft-s-cloud-for-sustainability
   - skill/environmental-social-and-governance-esg
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft Cloud for Sustainability: ESG and the Future of Business](https://media.licdn.com/dms/image/v2/D4D0DAQF8fXDgvGM_3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698355914512?e=2147483647&amp;v=beta&amp;t=cwci9BGop_m47ngJI-X4I8Lb6DpI86EdWeDtbE2KuaE)

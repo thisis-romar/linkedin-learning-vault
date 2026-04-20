@@ -16,7 +16,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Digital Transformation Foundations](https://media.licdn.com/dms/image/v2/C560DAQGFm8tI3mqi-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1636999013644?e=2147483647&amp;v=beta&amp;t=5Qse51nZsZ8yWfljWf39pOsKZcSf_IvM1cqxezU32WE)

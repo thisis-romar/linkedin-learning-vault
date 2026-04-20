@@ -29,7 +29,7 @@ tags:
   - skill/technical-documentation
   - skill/diagramming
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building a Cloud Architecture Diagram](https://media.licdn.com/dms/image/v2/C4E0DAQHmIRNYr7q8xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679431052151?e=2147483647&amp;v=beta&amp;t=9vklnqfYskH5uxT7tHkHswfntap1QZ2Wa4PBjJQBgZk)

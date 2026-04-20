@@ -25,7 +25,7 @@ tags:
   - skill/wolfram-language
   - skill/blockchain-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Interacting with Blockchains in the Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQEERoS4MfXsLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704327196182?e=2147483647&amp;v=beta&amp;t=4KQoCh1u79YfCB85rWRpnk6jGoj9ktRYSu5yc7ioyRk)

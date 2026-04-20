@@ -6,7 +6,7 @@ course_count: 10
 tags:
   - skill
   - skill/google-gemini
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Google Gemini

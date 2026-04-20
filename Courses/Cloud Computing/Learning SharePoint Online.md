@@ -23,7 +23,7 @@ tags:
   - topic/cloud-computing
   - skill/sharepoint
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning SharePoint Online](https://media.licdn.com/dms/image/v2/C4E0DAQFQZHk1W5XV6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571073354996?e=2147483647&amp;v=beta&amp;t=Erloliv5loakbBeQcRvsrLFURKwenvPO067nAlAHH0o)

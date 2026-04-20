@@ -23,7 +23,7 @@ tags:
   - skill/job-search-strategies
   - skill/climate-change
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![How to Get a Job in Climate](https://media.licdn.com/dms/image/v2/D560DAQHwGij3-l5UwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685997055221?e=2147483647&amp;v=beta&amp;t=HqBwteeo_3F8_660drqpIhZ9QX88Wf4f1nYy5KmyUyw)

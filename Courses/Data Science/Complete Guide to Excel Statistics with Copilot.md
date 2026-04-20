@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Guide to Excel Statistics with Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQHTDXpuIqUo4g/learning-public-crop_675_1200/B4EZThwkjAGgAY-/0/1738954394457?e=2147483647&amp;v=beta&amp;t=LT4SPB_5g-pS1jct-r_lugz3gc8U62rchA4lrompLIo)

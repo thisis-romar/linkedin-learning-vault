@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/secure-authentication
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Secure Authentication

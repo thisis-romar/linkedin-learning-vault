@@ -26,7 +26,7 @@ tags:
   - skill/cross-team-collaboration
   - skill/project-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analyst and Project Manager Collaboration (2018)](https://media.licdn.com/dms/image/v2/C4E0DAQHqgTJEhPZf5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619542953405?e=2147483647&amp;v=beta&amp;t=ibmKSc1Ulh9zarrQnYYLm657m1l3BVpOEq9h9_eGY7k)

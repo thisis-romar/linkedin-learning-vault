@@ -26,7 +26,7 @@ tags:
   - skill/privacy-protection
   - skill/executive-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Privacy Strategies for Business Leaders](https://media.licdn.com/dms/image/v2/C4E0DAQEvjheG9Tynug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1601914865896?e=2147483647&amp;v=beta&amp;t=JmRhZGHL82lVqUTz3I1gu4lFqJMEdP48XcSlSfJsVTU)

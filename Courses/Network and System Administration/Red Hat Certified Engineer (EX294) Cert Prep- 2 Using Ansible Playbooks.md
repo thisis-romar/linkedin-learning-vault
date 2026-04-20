@@ -25,7 +25,7 @@ tags:
   - skill/red-hat-enterprise-linux-rhel
   - skill/ansible
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Red Hat Certified Engineer (EX294) Cert Prep: 2 Using Ansible Playbooks](https://media.licdn.com/dms/image/v2/C4E0DAQEhLaaGVi-Knw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1596035537068?e=2147483647&amp;v=beta&amp;t=yba5RSww1EnvyDCoCsZ-3teZB-kFUTftO80DDhUzyAg)

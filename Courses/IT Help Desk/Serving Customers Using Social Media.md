@@ -26,7 +26,7 @@ tags:
   - skill/social-media-communications
   - skill/customer-service
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Serving Customers Using Social Media](https://media.licdn.com/dms/image/v2/D560DAQGnD8B9F-8mLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712180302659?e=2147483647&amp;v=beta&amp;t=hIwh5VlucpBrTlrazCoS1-vUi1D5FcQ1tpXQ80HEu0k)

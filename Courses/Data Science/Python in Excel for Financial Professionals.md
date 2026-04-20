@@ -30,7 +30,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python in Excel for Financial Professionals](https://media.licdn.com/dms/image/v2/D560DAQFrdzeuV1gobA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712350718189?e=2147483647&amp;v=beta&amp;t=eF5s1m3cK3jl7KCh87QxTGWrFD_5AW29iXOCeikkVK4)

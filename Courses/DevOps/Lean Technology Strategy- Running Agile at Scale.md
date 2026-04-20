@@ -17,7 +17,7 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Lean Technology Strategy: Running Agile at Scale](https://media.licdn.com/dms/image/v2/C4E0DAQEIJ8IYR2mCrQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567114357988?e=2147483647&amp;v=beta&amp;t=DANGiQv4iEsyZ6ylrvIQHn4GN1kpAwJuEd2_O995VXQ)

@@ -31,7 +31,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![MLOps Essentials: Model Deployment and Monitoring](https://media.licdn.com/dms/image/v2/C560DAQGm06LVfo8Q0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664994853235?e=2147483647&amp;v=beta&amp;t=_Bk25N4f8tuifFE5UHaLbCtUQxKH41v-IiJGQdFetPY)

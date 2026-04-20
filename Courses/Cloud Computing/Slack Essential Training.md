@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/slack
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Slack Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQGaSPamiefHXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615578818321?e=2147483647&amp;v=beta&amp;t=BlPgopJALPZcS4D9sSDHkXjhqZ5p0tjou-NUFYynRZ4)

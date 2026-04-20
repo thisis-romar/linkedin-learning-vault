@@ -26,7 +26,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/system-monitoring
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AWS: Monitoring, Logging, and Remediation (2021)](https://media.licdn.com/dms/image/v2/C560DAQEjfTWkFZh_ig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627498422761?e=2147483647&amp;v=beta&amp;t=j3ifch3k7efTJip2URw5xJ00HNxCNIRQvBaNUnzL6BY)

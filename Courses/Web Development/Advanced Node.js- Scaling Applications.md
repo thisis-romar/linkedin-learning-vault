@@ -25,7 +25,7 @@ tags:
   - skill/scalability
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Node.js: Scaling Applications](https://media.licdn.com/dms/image/v2/C4E0DAQEaPuuqI4TOOQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568661390988?e=2147483647&amp;v=beta&amp;t=Vt79jS3fHLum9Wu404dh95269UzD_6q-fCSS-_I_XVM)

@@ -27,7 +27,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL Queries Made Easy](https://media.licdn.com/dms/image/v2/D560DAQF6AvXSi8LgNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725038985144?e=2147483647&amp;v=beta&amp;t=Jrz8IDYgc_cAvIQSccmKUhN0ZUYY8cAb6X3yK6ZElQ0)

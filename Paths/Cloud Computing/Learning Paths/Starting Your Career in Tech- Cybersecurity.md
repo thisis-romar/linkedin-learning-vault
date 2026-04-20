@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/starting-your-career-in-tech-cybersecurity"
+url: https://www.linkedin.com/learning/paths/starting-your-career-in-tech-cybersecurity
 course_count: 5
 linkedin_topics:
   - Cloud Computing
@@ -16,8 +16,34 @@ tags:
   - topic/security
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Land Your First Cybersecurity Job]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Writing a Tech Resume]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Nail Your Cybersecurity Interview]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Careers and Certifications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Soft Skills for Information Security Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Starting Your Career in Tech: Cybersecurity

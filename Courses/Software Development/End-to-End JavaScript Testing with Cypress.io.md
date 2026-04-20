@@ -32,7 +32,7 @@ tags:
   - skill/javascript
   - skill/end-to-end-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![End-to-End JavaScript Testing with Cypress.io](https://media.licdn.com/dms/image/v2/D4D0DAQEwSS43LqkZMg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732149411297?e=2147483647&amp;v=beta&amp;t=NIDnqTi_E4T7tK1aCMXFecm-Pf606qR71fG-Giv4Pbo)

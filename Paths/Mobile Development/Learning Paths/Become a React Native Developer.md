@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-a-react-native-developer"
+url: https://www.linkedin.com/learning/paths/become-a-react-native-developer
 course_count: 5
 linkedin_topics:
   - Mobile Development
@@ -10,8 +10,34 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/mobile-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[React Native Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[From React to React Native]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Create a CRM Mobile Application with React Native]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React Native Ecosystem and Workflow]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning React Native]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become a React Native Developer

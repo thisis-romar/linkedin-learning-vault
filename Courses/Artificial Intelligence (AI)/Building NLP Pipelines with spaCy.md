@@ -29,7 +29,7 @@ tags:
   - skill/natural-language-processing-nlp
   - skill/spacy
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building NLP Pipelines with spaCy](https://media.licdn.com/dms/image/v2/D560DAQGSkPQj_ARTiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682109018848?e=2147483647&amp;v=beta&amp;t=lM2LLL8LtXPGQkV_R3QLy3GIbwTXrRviITV5K423u_w)

@@ -23,7 +23,7 @@ tags:
   - topic/hardware
   - skill/plc-ladder-logic
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PLC Sequencer Logic](https://media.licdn.com/dms/image/v2/C4E0DAQFSNTNumnDGdg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581532514983?e=2147483647&amp;v=beta&amp;t=3hKY0PVYyLRk2oM7Y6IUJwTjgBKWThfQNbbmcFMU37M)

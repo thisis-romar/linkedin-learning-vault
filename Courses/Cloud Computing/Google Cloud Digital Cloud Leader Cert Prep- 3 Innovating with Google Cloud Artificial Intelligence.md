@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Google Cloud Digital Cloud Leader Cert Prep: 3 Innovating with Google Cloud Artificial Intelligence](https://media.licdn.com/dms/image/v2/D4E0DAQHzfyIPAKzH7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711389608259?e=2147483647&amp;v=beta&amp;t=zDUBxKf6v-zane_-ZMvW0xVD5oGakE7FY6o7XmtNan0)

@@ -25,7 +25,7 @@ tags:
   - skill/transact-sql-t-sql
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction To Transact Sql](https://media.licdn.com/dms/image/v2/D560DAQHH7IzO1sAw6g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696613988629?e=2147483647&amp;v=beta&amp;t=OZyGCZE1JTIyFUaH5x0QwKxkJzQCwj_8DAAtULzstLw)

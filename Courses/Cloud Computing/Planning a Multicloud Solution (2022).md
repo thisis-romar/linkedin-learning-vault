@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Planning a Multicloud Solution (2022)](https://media.licdn.com/dms/image/v2/C560DAQG2JMplYIj4qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1659469560604?e=2147483647&amp;v=beta&amp;t=Bzge8_b0CaUdOdpNsomcATHHZ60k-F5u3myNsed7nBI)

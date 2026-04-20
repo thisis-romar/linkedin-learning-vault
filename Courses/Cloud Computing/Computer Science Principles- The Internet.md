@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/computer-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Computer Science Principles: The Internet](https://media.licdn.com/dms/image/v2/C4E0DAQElGJzUhFVsOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118502014?e=2147483647&amp;v=beta&amp;t=cto-tvVIGi0pVizzJ5NxPsCcXpubZPy_A8lWc3rD-no)

@@ -29,7 +29,7 @@ tags:
   - skill/hugging-face-products
   - skill/applied-machine-learning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Applied AI: Building NLP Apps with Hugging Face Transformers](https://media.licdn.com/dms/image/v2/D4E0DAQHuhXQ3CLrSUg/learning-public-crop_675_1200/B4EZjiT7_mHgAc-/0/1756143534415?e=2147483647&amp;v=beta&amp;t=G0J2d-SPcvf1rz0vMpjoe5niteNUr9Xkfbm7PnHsgGs)

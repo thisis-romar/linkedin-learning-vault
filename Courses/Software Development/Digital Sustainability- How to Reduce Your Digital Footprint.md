@@ -23,7 +23,7 @@ tags:
   - skill/digital-sustainability
   - skill/carbon-footprinting
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Digital Sustainability: How to Reduce Your Digital Footprint](https://media.licdn.com/dms/image/v2/D560DAQHPotTw83qRXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686593064074?e=2147483647&amp;v=beta&amp;t=g8094OU7WMqXGTVLmIFFFYoXxe5mHXIxlVlaRs-EFoc)

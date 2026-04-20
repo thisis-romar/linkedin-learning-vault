@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/develop-your-aws-skills"
+url: https://www.linkedin.com/learning/paths/develop-your-aws-skills
 course_count: 4
 linkedin_topics:
   - Cloud Computing
@@ -12,8 +12,30 @@ tags:
   - learning-path
   - topic/cloud-computing
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Aws Essential Training For Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to AWS Software Deployment]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AWS- Monitoring, Logging, and Remediation (2021)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Computing Careers and Certifications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Develop Your AWS Skills

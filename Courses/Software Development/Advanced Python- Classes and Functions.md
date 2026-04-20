@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Python: Classes and Functions](https://media.licdn.com/dms/image/v2/D4E0DAQEpM0FMFQ7drw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731707897651?e=2147483647&amp;v=beta&amp;t=oSAkOkzdaGrEGI-T9AjPq8IChhfH9_SRA2D0m084va0)

@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Nano Tips for Using ChatGPT for Marketers with Ross Simmonds](https://media.licdn.com/dms/image/v2/D4D0DAQHVpQyMe5jlww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707176262296?e=2147483647&amp;v=beta&amp;t=KaS6XyA-2MCaVUB4LqJCHU-7cBc5aHdso57bgURijJc)

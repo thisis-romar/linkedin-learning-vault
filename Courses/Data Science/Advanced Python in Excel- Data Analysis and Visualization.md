@@ -31,7 +31,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Python in Excel: Data Analysis and Visualization](https://media.licdn.com/dms/image/v2/D4D0DAQENZljX71ArEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721771083260?e=2147483647&amp;v=beta&amp;t=NzkW1NlgfhULhS4HI4-zbAQZNMRODJgY5P7aBcmHf9c)

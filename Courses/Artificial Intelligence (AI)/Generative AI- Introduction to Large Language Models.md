@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI: Introduction to Large Language Models](https://media.licdn.com/dms/image/v2/D560DAQHl9dh24URR-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1699557412106?e=2147483647&amp;v=beta&amp;t=t1VIIG9eW33JaJ8dySiFCKyN-YEQsL3hiJx73tohfSc)

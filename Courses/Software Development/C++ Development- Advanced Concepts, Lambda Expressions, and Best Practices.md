@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C++ Development: Advanced Concepts, Lambda Expressions, and Best Practices](https://media.licdn.com/dms/image/v2/C560DAQH4ZYfcBcdlTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675206346003?e=2147483647&amp;v=beta&amp;t=U6a8XoOvSlyC-Q7cTqHRKd3yYkUEVZpD0e76DhHRI1s)

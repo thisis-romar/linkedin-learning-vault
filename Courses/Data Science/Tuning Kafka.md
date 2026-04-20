@@ -27,7 +27,7 @@ tags:
   - skill/apache-kafka
   - skill/performance-tuning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Tuning Kafka](https://media.licdn.com/dms/image/v2/D560DAQFYQBNzYD3-Ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686676555500?e=2147483647&amp;v=beta&amp;t=jeBVTuS_WeqFyio43kytclXdLNci1pXLFKbYl5N4iUo)

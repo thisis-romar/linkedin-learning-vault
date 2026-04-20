@@ -26,7 +26,7 @@ tags:
   - skill/project-tracking
   - skill/jira
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Jira: Advanced Administration](https://media.licdn.com/dms/image/v2/C560DAQG4hiUwA-TKbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624639848574?e=2147483647&amp;v=beta&amp;t=kdWs3FufHaFWaeODJxtP6D2FvSi4k1iectblGpnzX0M)

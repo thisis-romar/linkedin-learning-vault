@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-app-development-with-the-mern-stack"
+url: https://www.linkedin.com/learning/paths/explore-app-development-with-the-mern-stack
 course_count: 13
 linkedin_topics:
   - Database Management
@@ -14,8 +14,66 @@ tags:
   - topic/database-management
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[React Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Authentication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Node Js Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning npm- A Package Manager]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Express Essentials- Build Powerful Web Apps with Node.js]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Node.js- Testing and Code Quality]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a Website with Node.js and Express.js]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building RESTful APIs with Node.js and Express]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Securing Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Node Js Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Node.js- Securing RESTful APIs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MongoDB Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Full-Stack JavaScript Development- MongoDB, Node, and React]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore App Development with the MERN Stack

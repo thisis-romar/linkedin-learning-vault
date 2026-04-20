@@ -22,7 +22,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Putting Itil Into Practice Applying Itil 4 Foundation Concepts](https://media.licdn.com/dms/image/v2/C4E0DAQE9PNZRpDp7Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571676617507?e=2147483647&amp;v=beta&amp;t=yHfj1a9jwsD5C52A_XL6IosXcsOVpb2Gzj_StH2Suaw)

@@ -28,7 +28,7 @@ tags:
   - skill/python-programming-language
   - skill/data-cleaning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Cleaning in Python Essential Training](https://media.licdn.com/dms/image/v2/D560DAQG16fbd1_fa8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667582799961?e=2147483647&amp;v=beta&amp;t=oq32b6x6vB4v0vfTtYMIsLW3eygzC_BuGdpxcn2chmA)

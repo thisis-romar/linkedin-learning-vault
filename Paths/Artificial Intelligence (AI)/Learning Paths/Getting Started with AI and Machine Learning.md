@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-ai-and-machine-learning"
+url: https://www.linkedin.com/learning/paths/getting-started-with-ai-and-machine-learning
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,42 @@ louvain_cluster: 5
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Artificial Intelligence Foundations Thinking Machines]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning Foundations- Linear Algebra]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Deep Learning Getting Started]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On AI- Image Processing with Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Reinforcement Learning Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On PyTorch Machine Learning]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Artificial Intelligence Foundations- Neural Networks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with AI and Machine Learning

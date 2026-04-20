@@ -23,7 +23,7 @@ tags:
   - topic/hardware
   - skill/programmable-logic-controller-plc
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning PLC Ladder Logic: 2 Diving Deeper](https://media.licdn.com/dms/image/v2/C4E0DAQHX0LhQJAamxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571761946936?e=2147483647&amp;v=beta&amp;t=-TJ7yoH2gA_OOIhjkmkT0Fd3Afs4IT6arfCAyOSNhjQ)

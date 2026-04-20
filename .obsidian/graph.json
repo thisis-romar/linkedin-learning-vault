@@ -1,7 +1,7 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path:\"Skills/\"",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
@@ -328,9 +328,30 @@
         "a": 1,
         "rgb": 9228669
       }
+    },
+    {
+      "query": "tag:#status/completed",
+      "color": {
+        "a": 1,
+        "rgb": 2278750
+      }
+    },
+    {
+      "query": "tag:#status/in-progress",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    },
+    {
+      "query": "tag:#status/fresh",
+      "color": {
+        "a": 1,
+        "rgb": 6583435
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1.2,
@@ -340,6 +361,6 @@
   "repelStrength": 20,
   "linkStrength": 0.4,
   "linkDistance": 300,
-  "scale": 0.059326171875,
+  "scale": 0.13062366940306203,
   "close": false
 }

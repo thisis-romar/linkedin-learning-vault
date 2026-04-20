@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: Session Hijacking](https://media.licdn.com/dms/image/v2/C4E0DAQHTYIatFDHt5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568158504841?e=2147483647&amp;v=beta&amp;t=PJLEA7eblGawp6qtmh0iC7vsEE2gab15mAL7YdzIZLU)

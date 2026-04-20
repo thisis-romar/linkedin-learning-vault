@@ -23,7 +23,7 @@ tags:
   - skill/career-path-planning
   - skill/business-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building a Successful Business Analysis Career](https://media.licdn.com/dms/image/v2/D560DAQE99rczPvp5Yw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707525791244?e=2147483647&amp;v=beta&amp;t=bIfz1UBwxSPvnULIKN-rnpUhoO82GpRXSpB_aTmeQ5s)

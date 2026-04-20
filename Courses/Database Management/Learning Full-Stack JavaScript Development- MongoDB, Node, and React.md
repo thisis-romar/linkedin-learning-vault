@@ -34,7 +34,7 @@ tags:
   - skill/react-js
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Full-Stack JavaScript Development: MongoDB, Node, and React](https://media.licdn.com/dms/image/v2/C560DAQGx_lsYcLsXOA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671474208254?e=2147483647&amp;v=beta&amp;t=iy_3Nlypi8En0a_U0sUmOq5eQRz1i_5Yc6FQkc02OZA)

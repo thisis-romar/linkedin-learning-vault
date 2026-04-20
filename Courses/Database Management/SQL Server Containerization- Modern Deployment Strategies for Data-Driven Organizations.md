@@ -28,7 +28,7 @@ tags:
   - skill/sql
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL Server Containerization: Modern Deployment Strategies for Data-Driven Organizations](https://media.licdn.com/dms/image/v2/D560DAQGvr7XUO6wwyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695928337362?e=2147483647&amp;v=beta&amp;t=e0pwLKizaDt5vwqc-Tp3rM3jt02-QSku33L89K32mW8)

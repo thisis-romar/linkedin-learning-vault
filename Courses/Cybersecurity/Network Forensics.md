@@ -25,7 +25,7 @@ tags:
   - skill/network-forensics
   - skill/network-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Network Forensics](https://media.licdn.com/dms/image/v2/D4D0DAQHM5cX6efqsgw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731113345222?e=2147483647&amp;v=beta&amp;t=LZ2Xs4EhCvkuZS-Q2zWN1ilB4jU3Zk7nUFnJ8PG4qLA)

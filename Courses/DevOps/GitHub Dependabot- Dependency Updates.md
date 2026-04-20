@@ -27,7 +27,7 @@ tags:
   - skill/github
   - skill/dependency-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![GitHub Dependabot: Dependency Updates](https://media.licdn.com/dms/image/v2/C560DAQF-995_A-N8Ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1641250840162?e=2147483647&amp;v=beta&amp;t=jVN6_WOanS07uW55d2p6jBwSUt9XsLWJO-qZJuq-hT4)

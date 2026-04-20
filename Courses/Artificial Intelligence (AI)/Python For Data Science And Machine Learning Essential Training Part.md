@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python For Data Science And Machine Learning Essential Training Part](https://media.licdn.com/dms/image/v2/D560DAQHjOZJ6XUrh3Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709944557924?e=2147483647&amp;v=beta&amp;t=anKIuqpeAVNEvt7cW932NYQUw7uVI30qFYuIw4sxZ9A)

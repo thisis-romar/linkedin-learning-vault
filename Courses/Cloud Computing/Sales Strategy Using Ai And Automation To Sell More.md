@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/sales-automation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Sales Strategy Using Ai And Automation To Sell More](https://media.licdn.com/dms/image/v2/C560DAQE-9rqSlk6GjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668541619167?e=2147483647&amp;v=beta&amp;t=7XMO7GxaaMdkJs24QE9SqnurVDjVpnqCX9RnCnsOtck)

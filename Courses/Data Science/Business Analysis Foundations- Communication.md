@@ -23,7 +23,7 @@ tags:
   - skill/stakeholder-engagement
   - skill/business-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analysis Foundations: Communication](https://media.licdn.com/dms/image/v2/D560DAQEx3-oxJmkZ6w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719253887535?e=2147483647&amp;v=beta&amp;t=PUBXMBFuUvT3w9g7QgOFtf84jL6hjoWayXTMy-2QOO4)

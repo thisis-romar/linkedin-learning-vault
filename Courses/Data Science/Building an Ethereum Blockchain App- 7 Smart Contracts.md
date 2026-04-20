@@ -29,7 +29,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building an Ethereum Blockchain App: 7 Smart Contracts](https://media.licdn.com/dms/image/v2/C560DAQHNvNsDD1K55Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628526726270?e=2147483647&amp;v=beta&amp;t=cBvLEEOmU76oqDmWLjBbj3nzLYcsE5uUy266gRSg2lk)

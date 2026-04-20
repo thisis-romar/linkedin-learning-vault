@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-ai-for-data-engineering"
+url: https://www.linkedin.com/learning/paths/explore-ai-for-data-engineering
 course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,46 @@ tags:
   - topic/artificial-intelligence
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[AI Fundamentals for Data Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data-Centric AI- Best Practices, Responsible AI, and More]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using AI to Improve Ops for Your Data Organization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI for Data Engineering- ChatGPT Power Tips]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction To Ai Native Vector Databases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Vector Databases in Practice- Deep Dive]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[GraphRAG Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced RAG Applications with Vector Databases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore AI for Data Engineering

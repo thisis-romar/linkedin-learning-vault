@@ -28,7 +28,7 @@ tags:
   - skill/causal-inference
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning and AI Foundations: Causal Inference and Modeling](https://media.licdn.com/dms/image/v2/C560DAQFOdsFRUJdSkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658347193726?e=2147483647&amp;v=beta&amp;t=4zj7gi5P0HGmvn3Gfku2qHqJeSq7Z7p74_6fMSjdVyo)

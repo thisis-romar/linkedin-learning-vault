@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-governance
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Versioning, Lineage, and Quality Monitoring for AI](https://media.licdn.com/dms/image/v2/D4D0DAQHQ8Npt7hsEeA/learning-public-crop_675_1200/B4DZYhuOqeHwAY-/0/1744322489723?e=2147483647&amp;v=beta&amp;t=PJebZah1_PymfmREvJuxv849tcVVIlDpayVnB-l-udk)

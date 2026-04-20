@@ -16,7 +16,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![UX Foundations: Prototyping](https://media.licdn.com/dms/image/v2/D560DAQEWpj32ap-YLg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709853697808?e=2147483647&amp;v=beta&amp;t=mBeLLZVkr5eZOorPbpJ4e8CvO9ML8k5pUfmlZvEpuY0)

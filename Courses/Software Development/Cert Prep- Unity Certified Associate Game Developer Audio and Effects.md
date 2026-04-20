@@ -25,7 +25,7 @@ tags:
   - skill/game-development
   - skill/unity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cert Prep: Unity Certified Associate Game Developer Audio and Effects](https://media.licdn.com/dms/image/v2/C4E0DAQHEHdNC3J4bCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611770506724?e=2147483647&amp;v=beta&amp;t=UH-g6ODjviJ0I8HR5_E9g0ajO6QClZL7qnzkJR0SCxQ)

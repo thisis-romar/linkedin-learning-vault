@@ -27,7 +27,7 @@ tags:
   - topic/web-development
   - skill/java-database-connectivity-jdbc
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning JDBC](https://media.licdn.com/dms/image/v2/D560DAQELGCBArDCkxg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728506593128?e=2147483647&amp;v=beta&amp;t=QZavY1s7ezWzBCxyr4UqF-uajftjI1IbfHDDZFzLg-g)

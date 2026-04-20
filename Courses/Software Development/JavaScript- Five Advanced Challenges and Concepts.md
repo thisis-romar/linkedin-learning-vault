@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JavaScript: Five Advanced Challenges and Concepts](https://media.licdn.com/dms/image/v2/D560DAQEcH-wHrMMtCg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902498364?e=2147483647&amp;v=beta&amp;t=lumdz7uYylrY_Kv13T4dR_vIZQsdvNjhGDNyP7Lrvps)

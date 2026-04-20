@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/microservices-foundations-professional-certificate-by-kong"
+url: https://www.linkedin.com/learning/paths/microservices-foundations-professional-certificate-by-kong
 course_count: 3
 linkedin_topics:
   - Software Development
@@ -10,8 +10,26 @@ louvain_cluster: 0
 tags:
   - professional-certificate
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Microservices Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microservices- Design Patterns]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Software Architecture- Breaking a Monolith into Microservices]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Microservices Foundations Professional Certificate by Kong

@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/it-strategy
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building a Generative AI Tech Strategy](https://media.licdn.com/dms/image/v2/D560DAQHNS5GWoP1-dg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714603187708?e=2147483647&amp;v=beta&amp;t=tmvr1lhJiHYb43ugCCqUPzA2mE3jyv6USwid7eKoGxA)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/prepare-for-the-google-cloud-professional-machine-learning-engineer-certification"
+url: https://www.linkedin.com/learning/paths/prepare-for-the-google-cloud-professional-machine-learning-engineer-certification
 course_count: 1
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,18 @@ tags:
   - topic/artificial-intelligence
   - topic/cloud-computing
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Google Cloud Professional Machine Learning Engineer Cert Prep]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Prepare for the Google Cloud Professional Machine Learning Engineer Certification

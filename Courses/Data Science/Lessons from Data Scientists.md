@@ -27,7 +27,7 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Lessons from Data Scientists](https://media.licdn.com/dms/image/v2/D4E0DAQFDTgmJbDLlAQ/learning-public-crop_675_1200/B4EZqDSp8WHMAc-/0/1763139297349?e=2147483647&amp;v=beta&amp;t=x-2C_6seIZ8nzty9Lxrb2i75ceqBldRUwkfHSNNpt9s)

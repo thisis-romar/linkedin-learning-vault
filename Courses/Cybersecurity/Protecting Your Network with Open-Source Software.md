@@ -27,7 +27,7 @@ tags:
   - skill/open-source-software
   - skill/network-security-implementation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Protecting Your Network with Open-Source Software](https://media.licdn.com/dms/image/v2/D560DAQF4Rqy_zT2XWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719436460654?e=2147483647&amp;v=beta&amp;t=gBoEWy_qQGu8mqh--H3uHjovOPqjKaRbjEuNsYT5e-c)

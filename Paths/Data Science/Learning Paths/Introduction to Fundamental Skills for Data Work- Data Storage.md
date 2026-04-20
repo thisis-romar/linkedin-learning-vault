@@ -2,20 +2,50 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-storage"
+url: https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-storage
 course_count: 6
 linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/data-science
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Database Design Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Relational Databases Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Data Warehouses]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[NoSQL Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to Data Lakes and Lakehouses]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Mesh Architecture- Core Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Introduction to Fundamental Skills for Data Work: Data Storage

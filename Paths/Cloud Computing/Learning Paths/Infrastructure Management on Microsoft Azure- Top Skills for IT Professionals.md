@@ -2,16 +2,54 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/infrastructure-management-on-microsoft-azure-top-skills-for-it-professionals"
+url: https://www.linkedin.com/learning/paths/infrastructure-management-on-microsoft-azure-top-skills-for-it-professionals
 course_count: 8
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/cloud-computing
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Azure Administration Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Manage Virtual Machines in Azure]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Azure- Security Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Planning for Microsoft Entra ID]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Deploying Microsoft Entra ID]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Azure- Networking Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Manage Storage in Azure]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Controlling Cost with Azure Management and Billing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Infrastructure Management on Microsoft Azure: Top Skills for IT Professionals

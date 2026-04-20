@@ -23,7 +23,7 @@ tags:
   - topic/mobile-development
   - skill/ios-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![iOS 17 Development Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQHmBm_DtpzIWA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705098781570?e=2147483647&amp;v=beta&amp;t=0SkoGQ46l_iKfN582TlDwbSYVXnaZ1mFig1uVR1A-9Y)

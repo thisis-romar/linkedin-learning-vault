@@ -18,7 +18,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Everyday AI Business Tools](https://media.licdn.com/dms/image/v2/D4E0DAQGPYQA_TsFDIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731633331929?e=2147483647&amp;v=beta&amp;t=nbUepgdlyqqHygAAHiTeFEGqNr6GFvKtxRUj9NOo5Dg)

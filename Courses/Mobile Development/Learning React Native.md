@@ -23,7 +23,7 @@ tags:
   - topic/mobile-development
   - skill/react-native
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning React Native](https://media.licdn.com/dms/image/v2/C4E0DAQF4ot_Ik9jR6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1591718128064?e=2147483647&amp;v=beta&amp;t=h3rvWEty4vJraskkvuctgJH3B6l7TzfK3vNJd8j0b-8)

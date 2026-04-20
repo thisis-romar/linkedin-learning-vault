@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![UX Deep Dive: Remote Research](https://media.licdn.com/dms/image/v2/C4E0DAQF6VZKCwaRV0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1606865143375?e=2147483647&amp;v=beta&amp;t=lnwZf9dDrUUiMuxttwaBOC5Q1oovV7WAbb8hj3Lo0M4)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/prepare-for-the-linux-professional-institute-lpic-1-101-500-and-102-500-exams"
+url: https://www.linkedin.com/learning/paths/prepare-for-the-linux-professional-institute-lpic-1-101-500-and-102-500-exams
 course_count: 2
 linkedin_topics:
   - Network and System Administration
@@ -10,8 +10,22 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Lpic 1 Exam 101 Version 5 0 Cert Prep]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[LPIC-1 Exam 102 (Version 5.0) Cert Prep]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Prepare for the Linux Professional Institute LPIC-1 (101-500 and 102-500) Exams

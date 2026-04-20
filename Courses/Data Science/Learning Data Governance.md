@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/data-governance
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Data Governance](https://media.licdn.com/dms/image/v2/C560DAQGerkj6j_o8Pg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630429984595?e=2147483647&amp;v=beta&amp;t=oSwO0sHTGLSxNq_utJ5M3B4WF54rEieyCW5FFxWyfOg)

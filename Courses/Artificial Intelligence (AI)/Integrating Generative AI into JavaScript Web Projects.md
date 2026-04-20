@@ -32,7 +32,7 @@ tags:
   - skill/javascript
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Integrating Generative AI into JavaScript Web Projects](https://media.licdn.com/dms/image/v2/D4E0DAQEc-uT6Iq7H0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713900257957?e=2147483647&amp;v=beta&amp;t=jS4X5UCH1mNyzRlgpWE-LpsZTTMPDnHd8b79qBhINMc)

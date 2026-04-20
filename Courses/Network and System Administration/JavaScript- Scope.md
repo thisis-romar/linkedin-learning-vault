@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JavaScript: Scope](https://media.licdn.com/dms/image/v2/D4E0DAQGZbTfGk5Crsw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711387718548?e=2147483647&amp;v=beta&amp;t=oBAlaEyekf198M3OTXjIjPmF6lur_jQUzcxIZPDzU_g)

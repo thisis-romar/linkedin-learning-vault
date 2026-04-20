@@ -28,7 +28,7 @@ tags:
   - skill/devops
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure DevOps for Beginners](https://media.licdn.com/dms/image/v2/D560DAQH12e1KVuTKRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725380577627?e=2147483647&amp;v=beta&amp;t=NE0fA7tD47YT56mwrZNsse39SGP-SBRw_Pk0RKSpIB4)

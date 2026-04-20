@@ -30,7 +30,7 @@ tags:
   - skill/linux-system-administration
   - skill/ubuntu
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ubuntu Linux: Storage Management](https://media.licdn.com/dms/image/v2/C4E0DAQF_CbvTEEp2ng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568056376216?e=2147483647&amp;v=beta&amp;t=XXIa9m3QogMVFdWBK9-H0xc3zaLqgssEL4BQdJSE2IM)

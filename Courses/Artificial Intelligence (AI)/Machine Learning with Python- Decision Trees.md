@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning with Python: Decision Trees](https://media.licdn.com/dms/image/v2/C4E0DAQF5DDnnvDIQiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652891297458?e=2147483647&amp;v=beta&amp;t=DTaqIbbpDj86GHOC8bSWAzfTgEXGbBGU8qCiHperQwg)

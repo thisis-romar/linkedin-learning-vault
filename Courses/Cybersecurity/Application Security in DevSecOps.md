@@ -26,7 +26,7 @@ tags:
   - skill/application-security
   - skill/devsecops
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Application Security in DevSecOps](https://media.licdn.com/dms/image/v2/D4E0DAQF37BYmtSlFBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736370992396?e=2147483647&amp;v=beta&amp;t=CjGpKT_f8zYrYyZcLPNaIMhrlof7c1-_AgLvfRvC2OQ)

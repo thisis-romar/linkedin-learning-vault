@@ -25,7 +25,7 @@ tags:
   - skill/presentation-design
   - skill/canva
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Canva: Designing Engaging, Accessible Presentations](https://media.licdn.com/dms/image/v2/D560DAQHNC5bxkmq1ng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721952030728?e=2147483647&amp;v=beta&amp;t=LrKQU8VJaqykVzJ_zXOxIMm0IYRN_h7zoHH3Uks7DEs)

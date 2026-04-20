@@ -2,16 +2,30 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/testmu-ai-test-automation-professional-certificate"
+url: https://www.linkedin.com/learning/paths/testmu-ai-test-automation-professional-certificate
 course_count: 2
 linkedin_topics:
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - professional-certificate
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Test Automation Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Selenium Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # TestMu AI Test Automation Professional Certificate

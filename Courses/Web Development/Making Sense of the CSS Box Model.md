@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Making Sense of the CSS Box Model](https://media.licdn.com/dms/image/v2/C510DAQErdG7cyqqxlA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1573752417155?e=2147483647&amp;v=beta&amp;t=UGuGG6jtZs5eWyfmqg2T0xrk5H_XHx9ynyceYu2YZ7M)

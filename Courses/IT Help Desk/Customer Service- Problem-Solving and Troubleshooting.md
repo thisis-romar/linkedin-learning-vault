@@ -29,7 +29,7 @@ tags:
   - skill/problem-solving
   - skill/customer-service
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Customer Service: Problem-Solving and Troubleshooting](https://media.licdn.com/dms/image/v2/C560DAQEjBF7BQPTFmA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666893705579?e=2147483647&amp;v=beta&amp;t=JNUfWyuH0_jteUgcOfKlFo6vWzQsxTDXDxVTJ2XET5M)

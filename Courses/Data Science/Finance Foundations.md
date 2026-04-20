@@ -14,7 +14,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Finance Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQFeJa1JN818CQ/learning-public-crop_675_1200/B4EZXULPNNHgAY-/0/1743021471214?e=2147483647&amp;v=beta&amp;t=CQzLcF6HPb_doqyspGhT3tCh86ltmUZZeuwj-9u5LxM)

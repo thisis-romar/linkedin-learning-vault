@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Copilot in PowerPoint: From Prompt to Presentation (2024)](https://media.licdn.com/dms/image/v2/D560DAQFnONLlXjvw0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707171588330?e=2147483647&amp;v=beta&amp;t=92Qg-Knuo5NLnsx3Ayar6RreY7SfZIbD3BmWrigTrXw)

@@ -27,7 +27,7 @@ tags:
   - skill/professional-communication
   - skill/email-etiquette
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Etiquette: Phone, Email, and Text](https://media.licdn.com/dms/image/v2/D4D0DAQEeIR2p0mtCvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701901089763?e=2147483647&amp;v=beta&amp;t=V7SCY3k2U3cCIAu5XFpwNdaW0UpfK1gYsnupUHLgVR0)

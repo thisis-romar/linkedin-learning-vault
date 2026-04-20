@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PHP Techniques: Pagination](https://media.licdn.com/dms/image/v2/C4E0DAQGTEjxoHoClkw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647638529487?e=2147483647&amp;v=beta&amp;t=ijjXafCHfCB21Avkq9_pWqoL2WdXW0K5OpbPFwicpdY)

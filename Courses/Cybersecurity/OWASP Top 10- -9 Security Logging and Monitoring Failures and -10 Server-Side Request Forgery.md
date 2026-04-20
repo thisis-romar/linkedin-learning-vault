@@ -25,7 +25,7 @@ tags:
   - skill/owasp
   - skill/web-application-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![OWASP Top 10: #9 Security Logging and Monitoring Failures and #10 Server-Side Request Forgery](https://media.licdn.com/dms/image/v2/D4E0DAQE0V039sXCgYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698100979131?e=2147483647&amp;v=beta&amp;t=mZX-fsDwfHm2OQMiVLk09StJxCjBBbTkZkLTvqraFUk)

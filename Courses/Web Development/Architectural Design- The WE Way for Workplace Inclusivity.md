@@ -16,7 +16,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Architectural Design: The WE Way for Workplace Inclusivity](https://media.licdn.com/dms/image/v2/C4E0DAQH37xomOSGTdA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628537873516?e=2147483647&amp;v=beta&amp;t=gUgZL9L07c6aMiF2wH-CtRXlqOn3yFX-bAn2qJzbdyg)

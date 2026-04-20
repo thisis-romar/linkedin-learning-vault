@@ -27,7 +27,7 @@ tags:
   - skill/network-administration
   - skill/computer-networking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![MPLS Segment Routing](https://media.licdn.com/dms/image/v2/D4E0DAQGOkv5eYwF3Bg/learning-public-crop_675_1200/B4EZSzFUeTGYAc-/0/1738171304069?e=2147483647&amp;v=beta&amp;t=FaaXPsqWviCG5DLG0uwJ_9goW8jKp7hmzTuWgYz0XiE)

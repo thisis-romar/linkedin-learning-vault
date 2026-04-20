@@ -6,7 +6,7 @@ course_count: 11
 tags:
   - skill
   - skill/it-service-management
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # IT Service Management

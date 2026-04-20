@@ -25,7 +25,7 @@ tags:
   - skill/cost-management
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Controlling Cost with Azure Management and Billing](https://media.licdn.com/dms/image/v2/D560DAQGqGEF_98p6ZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686855323962?e=2147483647&amp;v=beta&amp;t=pKzASYM1u1Xy5jgdQA8SYhzbit8zjoirz1V_gexZS4w)

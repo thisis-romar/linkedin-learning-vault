@@ -31,7 +31,7 @@ tags:
   - skill/cloud-infrastructure
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Determining Your Cloud Strategy: Planning for Roadmap, Infrastructure, and Deployment](https://media.licdn.com/dms/image/v2/D4E0DAQHEFsh3rY0RsA/learning-public-crop_675_1200/B4EZjxsn1.GoAg-/0/1756401663658?e=2147483647&amp;v=beta&amp;t=JqNa50FLj-1PN3vXiBE0nXHRUWO8YZbrwuRDfn36H2o)

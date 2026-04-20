@@ -33,7 +33,7 @@ tags:
   - skill/soft-skills
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The Non Technical Skills Of Effective Data Scientists](https://media.licdn.com/dms/image/v2/C4E0DAQH_x_tk2JlvNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1585762672741?e=2147483647&amp;v=beta&amp;t=wMz-HLsXvB4a5FrJly6jfXvwqzn0Qq6uRETRw_6AJYY)

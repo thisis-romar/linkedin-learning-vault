@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-retrieval-augmented-generation-rag"
+url: https://www.linkedin.com/learning/paths/master-retrieval-augmented-generation-rag
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,42 @@ tags:
   - topic/artificial-intelligence
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[RAG and Fine-Tuning Explained]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Vector Databases in Practice- Deep Dive]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI- Introduction to Large Language Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced RAG Applications with Vector Databases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On AI- RAG using LlamaIndex]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master Retrieval-Augmented Generation (RAG)

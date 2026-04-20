@@ -20,7 +20,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Devops Foundations](https://media.licdn.com/dms/image/v2/D560DAQEP0x26XHV_6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707936080464?e=2147483647&amp;v=beta&amp;t=eY0oG3GST15nq73m3MDYw7vwjkIV9T-Q8yTLGvUyWAA)

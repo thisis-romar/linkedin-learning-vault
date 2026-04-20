@@ -28,7 +28,7 @@ tags:
   - skill/creativity
   - skill/creativity-skills
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Finding Creativity in the Age of AI](https://media.licdn.com/dms/image/v2/D560DAQEXPGOJaQ0aBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727811801975?e=2147483647&amp;v=beta&amp;t=PK7TNiYwJAplnzDbWk2IXY5AFN6ULFSn5xss9ma0cV4)

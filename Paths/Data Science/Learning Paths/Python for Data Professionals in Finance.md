@@ -2,18 +2,44 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/python-for-data-professionals-in-finance"
+url: https://www.linkedin.com/learning/paths/python-for-data-professionals-in-finance
 course_count: 5
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 13
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Getting Started with Python for Finance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python in Excel for Financial Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Python in Excel for Finance- A Hands-On Approach]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Practical Python for Algorithmic Trading]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Python for Data Professionals in Finance

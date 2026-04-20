@@ -20,7 +20,7 @@ tags:
   - topic/software-development
   - skill/environmental-sustainability
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Sustainability Foundations Core Concepts](https://media.licdn.com/dms/image/v2/D560DAQFOIpOclKGO1A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711150083053?e=2147483647&amp;v=beta&amp;t=6Jvt0FoydzRf316ezr9f-lGnHGgHS1pkW9oobHKe90k)

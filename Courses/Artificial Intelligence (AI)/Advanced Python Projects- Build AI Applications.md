@@ -29,7 +29,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Python Projects: Build AI Applications](https://media.licdn.com/dms/image/v2/D560DAQHIPR3VAGQGiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713466120470?e=2147483647&amp;v=beta&amp;t=O9urdkF2PIoZQA21mxBP7VxuCcLRPQ31yIQv6RNX3Eg)

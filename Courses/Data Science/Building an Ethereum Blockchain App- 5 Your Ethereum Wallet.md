@@ -29,7 +29,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building an Ethereum Blockchain App: 5 Your Ethereum Wallet](https://media.licdn.com/dms/image/v2/C560DAQGBvDFwZAIuUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628525289625?e=2147483647&amp;v=beta&amp;t=tGJ9L6KDmUkL2Fayo3NommePGI325C9QvppV_YAfOVA)

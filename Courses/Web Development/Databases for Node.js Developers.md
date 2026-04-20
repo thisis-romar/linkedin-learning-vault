@@ -26,7 +26,7 @@ tags:
   - skill/database-development
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Databases for Node.js Developers](https://media.licdn.com/dms/image/v2/D4E0DAQFkeukZTMUzWQ/learning-public-crop_675_1200/B4EZUlDKTpH0Ag-/0/1740083340781?e=2147483647&amp;v=beta&amp;t=JohyAmMw_Ip6e--vO1-xAmdMmy70m7PhjEBxiESeQJE)

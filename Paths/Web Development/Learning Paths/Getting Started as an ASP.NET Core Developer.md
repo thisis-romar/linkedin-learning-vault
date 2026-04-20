@@ -2,16 +2,58 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-as-an-asp-dot-net-core-developer"
+url: https://www.linkedin.com/learning/paths/getting-started-as-an-asp-dot-net-core-developer
 course_count: 9
 linkedin_topics:
   - Web Development
-louvain_cluster: 12
+louvain_cluster: 13
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Asp Dot Net Core Mvc Razor Pages Web Apis Other Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- and .NET Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ASP.NET Core- Razor Pages]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Angular and ASP.NET Core Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Securing ASP.NET Core Apps- Advanced Techniques for Web Application Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ASP.NET Core- Token-Based Authentication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ASP.NET Core in .NET 6- Dependency Injection]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ASP.NET Core- Building a GraphQL API]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Web APIs with ASP.NET Core 8]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started as an ASP.NET Core Developer

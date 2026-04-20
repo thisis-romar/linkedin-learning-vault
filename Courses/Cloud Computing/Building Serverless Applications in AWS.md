@@ -26,7 +26,7 @@ tags:
   - skill/serverless-computing
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building Serverless Applications in AWS](https://media.licdn.com/dms/image/v2/D560DAQHrUSyKAHYmVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700606318538?e=2147483647&amp;v=beta&amp;t=JVLMDm4vIWBGEdPzlpPBlr0nlMJFf3oDoEKgI4IRtkA)

@@ -34,7 +34,7 @@ tags:
   - skill/javascript
   - skill/ecmascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Functional Programming with JavaScript ES6+](https://media.licdn.com/dms/image/v2/D4E0DAQHBDe-qSJ3vaQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734460645917?e=2147483647&amp;v=beta&amp;t=h4mbUjkb8iOcWM5Bc5zrZmRzeM1wRSkBGsepC50Xkpg)

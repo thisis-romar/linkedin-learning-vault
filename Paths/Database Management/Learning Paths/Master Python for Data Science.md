@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-python-for-data-science-16361344"
+url: https://www.linkedin.com/learning/paths/master-python-for-data-science-16361344
 course_count: 8
 linkedin_topics:
   - Database Management
@@ -12,8 +12,46 @@ tags:
   - learning-path
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Python Statistics Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Python- Working With Data]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Python- Working with Databases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Data Structures and Algorithms]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Data Structures- Linked Lists]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Data Structures- Stacks, Deques, and Queues]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Data Structures- Trees]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Pandas]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master Python for Data Science

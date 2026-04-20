@@ -16,7 +16,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Interaction Design for Ecommerce](https://media.licdn.com/dms/image/v2/C560DAQEtNdv1C9w8sg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621613828587?e=2147483647&amp;v=beta&amp;t=GpFBXrS6Pa3KmT9WtEtGVkrnF8hMrghKoGC_4c-ZYIo)

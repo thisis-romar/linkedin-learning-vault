@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced SQL: Logical Query Processing, Part 2](https://media.licdn.com/dms/image/v2/C4D0DAQGzhdYQOA6pDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1600371493000?e=2147483647&amp;v=beta&amp;t=j16eNmCAb2IkLECpQhb4ARcIFu-l0Ds-2Q6YE9xZl0k)

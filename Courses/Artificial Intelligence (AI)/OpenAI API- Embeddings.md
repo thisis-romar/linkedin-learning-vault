@@ -31,7 +31,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![OpenAI API: Embeddings](https://media.licdn.com/dms/image/v2/D560DAQE9xBCnX-ribQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706053833371?e=2147483647&amp;v=beta&amp;t=PHi2llEvmWZ5FBrQUEGAg4se_z_lvEYuD_s73S4jsT4)

@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Software Testing Assistance with GitHub Copilot AI](https://media.licdn.com/dms/image/v2/D560DAQGFjs4Kmb0Kzg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724431008438?e=2147483647&amp;v=beta&amp;t=DDT7dUamNhtod1CfmaAd4XM317xt1nmzouoccrmbf5E)

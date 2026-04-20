@@ -2,16 +2,50 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/cfi-financial-analysis-and-modeling-professional-certificate"
+url: https://www.linkedin.com/learning/paths/cfi-financial-analysis-and-modeling-professional-certificate
 course_count: 7
 linkedin_topics:
   - Data Science
-louvain_cluster: 13
+louvain_cluster: 2
 tags:
   - professional-certificate
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Excel For Financial Planning And Analysis Fp A]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Financial Modeling and Forecasting Financial Statements (2019)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Financial Forecasting with Analytics Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL for Finance Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Getting Started with Python for Finance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using Data in Financial Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel and PowerPoint- Creating High-Impact Financial Presentations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # CFI Financial Analysis and Modeling Professional Certificate

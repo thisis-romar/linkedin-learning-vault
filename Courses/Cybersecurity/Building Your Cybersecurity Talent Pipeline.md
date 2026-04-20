@@ -27,7 +27,7 @@ tags:
   - skill/tech-career-skills
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building Your Cybersecurity Talent Pipeline](https://media.licdn.com/dms/image/v2/C560DAQHjivPM2MHi0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656091209822?e=2147483647&amp;v=beta&amp;t=_NbplTQXpAbqAQSZJimXstAxzMHPmIBcCms_Oqp5mXc)

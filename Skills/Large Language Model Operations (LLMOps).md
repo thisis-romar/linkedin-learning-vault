@@ -6,7 +6,7 @@ course_count: 5
 tags:
   - skill
   - skill/large-language-model-operations-llmops
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Large Language Model Operations (LLMOps)

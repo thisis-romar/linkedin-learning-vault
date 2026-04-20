@@ -2,16 +2,42 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-an-ai-powered-learning-and-development-professional"
+url: https://www.linkedin.com/learning/paths/become-an-ai-powered-learning-and-development-professional
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 1
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Leading Talent Development In The Era Of Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Literacy for Business Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The Future of Workforce Learning- AI-Powered Personalization for Skill Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Applications of Generative AI in Learning and Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[A Practical Guide to Upskilling Your Organization on AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become an AI-Powered Learning and Development Professional

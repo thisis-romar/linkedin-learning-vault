@@ -23,7 +23,7 @@ tags:
   - skill/linkedin
   - skill/thought-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The Step-by-Step Guide to Building your Thought Leadership on LinkedIn](https://media.licdn.com/dms/image/v2/C4D0DAQEJljqbQq9FbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1641577146008?e=2147483647&amp;v=beta&amp;t=ghrXURzM8qRhgp1RPOjw2bK4PuDTio8JSRJ2LjUrbQM)

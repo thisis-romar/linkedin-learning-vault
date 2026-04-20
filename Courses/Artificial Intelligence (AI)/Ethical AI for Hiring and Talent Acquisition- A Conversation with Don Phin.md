@@ -16,7 +16,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical AI for Hiring and Talent Acquisition: A Conversation with Don Phin](https://media.licdn.com/dms/image/v2/D4D0DAQHv-LXoPC8_1Q/learning-public-crop_675_1200/B4DZYh33BxG8AY-/0/1744325014343?e=2147483647&amp;v=beta&amp;t=vB0e8AfKvZcVoPoNkelwatt3R2d3Xw-8Bza1dD4xE2s)

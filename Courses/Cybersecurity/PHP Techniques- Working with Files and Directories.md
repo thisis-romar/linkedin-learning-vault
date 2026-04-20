@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PHP Techniques: Working with Files and Directories](https://media.licdn.com/dms/image/v2/C4E0DAQGj8JmjPhirmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614274556817?e=2147483647&amp;v=beta&amp;t=UG_vYIh5xc7hhvK1rF38vblBaacd4SVgMGg26mQ-rnA)

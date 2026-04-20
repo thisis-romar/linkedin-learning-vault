@@ -30,7 +30,7 @@ tags:
   - skill/react-js
   - skill/authentication-systems
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![React: Authentication](https://media.licdn.com/dms/image/v2/D4E0DAQEKpKB3OkEGkw/learning-public-crop_675_1200/B4EZZAfXucGYAc-/0/1744838687924?e=2147483647&amp;v=beta&amp;t=hP9daVuR0FW7rOnO0vVLWrnbFVvwRIKD6qB52Ksy-_U)

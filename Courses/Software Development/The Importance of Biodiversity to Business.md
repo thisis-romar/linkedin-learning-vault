@@ -25,7 +25,7 @@ tags:
   - skill/sustainable-business-strategy
   - skill/nature-conservation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The Importance of Biodiversity to Business](https://media.licdn.com/dms/image/v2/D560DAQExRLm84EhvYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715191016647?e=2147483647&amp;v=beta&amp;t=DAdQwW-QEgmwt-fsPLxj6sH_G26iQv26hNsUWyRn94E)

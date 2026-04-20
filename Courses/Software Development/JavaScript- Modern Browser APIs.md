@@ -30,7 +30,7 @@ tags:
   - skill/javascript
   - skill/application-programming-interfaces-api
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JavaScript: Modern Browser APIs](https://media.licdn.com/dms/image/v2/C4E0DAQHtai2uKxMcWA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568066318011?e=2147483647&amp;v=beta&amp;t=Kxr23tPSI4oAxVChhhky4PCVZ2xq3mwJNmEuj3nhfOI)

@@ -23,7 +23,7 @@ tags:
   - topic/security
   - skill/web-application-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![OWASP Top 10: #3 Injection and #4 Insecure Design](https://media.licdn.com/dms/image/v2/C4E0DAQFnOxWt9_bH0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661193633042?e=2147483647&amp;v=beta&amp;t=YvxdkzPtZ2ZCEBcncSPI9ytSt_Uf2OUjp0RSLgMg0YY)

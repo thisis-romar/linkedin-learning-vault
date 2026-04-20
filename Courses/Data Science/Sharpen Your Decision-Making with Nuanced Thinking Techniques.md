@@ -25,7 +25,7 @@ tags:
   - skill/decision-making
   - skill/critical-thinking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Sharpen Your Decision-Making with Nuanced Thinking Techniques](https://media.licdn.com/dms/image/v2/D4E0DAQFZs4iy8G0-nA/learning-public-crop_675_1200/B4EZei5HRzHYAY-/0/1750784571188?e=2147483647&amp;v=beta&amp;t=U7NrmqeiUxJrVUw7x0xfDVw5hkSwvYs0_H3kADno7Cg)

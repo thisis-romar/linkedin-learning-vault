@@ -25,7 +25,7 @@ tags:
   - skill/ai-for-marketing
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Nano Tips For Marketing Using AI Tools with Sam Dey](https://media.licdn.com/dms/image/v2/D560DAQFFPLZZQcPBkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706131834975?e=2147483647&amp;v=beta&amp;t=gqPny4qJV4VwAmCThxDjA7nvuiC2chzh-ITjTMea6L0)

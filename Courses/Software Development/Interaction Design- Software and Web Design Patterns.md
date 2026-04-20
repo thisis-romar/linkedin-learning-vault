@@ -16,7 +16,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Interaction Design: Software and Web Design Patterns](https://media.licdn.com/dms/image/v2/C560DAQHvb4ZXlRWWWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571957838671?e=2147483647&amp;v=beta&amp;t=ygtLeijZiIirU2X2Po6yTolT5rfSejWoLMbRLkLtsHU)

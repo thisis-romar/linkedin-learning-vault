@@ -25,7 +25,7 @@ tags:
   - topic/security
   - skill/quantum-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Quantum Computing Fundamentals](https://media.licdn.com/dms/image/v2/D560DAQElNwQBZI4xRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681414584066?e=2147483647&amp;v=beta&amp;t=24ajx4QVPPYjuCWAWOxhsjHy212f_YGwXqEgxtpALzo)

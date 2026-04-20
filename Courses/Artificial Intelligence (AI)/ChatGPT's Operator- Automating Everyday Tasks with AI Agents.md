@@ -17,7 +17,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![ChatGPT's Operator: Automating Everyday Tasks with AI Agents](https://media.licdn.com/dms/image/v2/D4D0DAQFflwJQIq13kA/learning-public-crop_675_1200/B4DZTdUgzhHYAc-/0/1738879929842?e=2147483647&amp;v=beta&amp;t=3JRD-ql75yU-22RlAWvdGRQAbob7WM8LxGItXheP0YM)

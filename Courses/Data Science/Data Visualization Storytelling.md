@@ -26,7 +26,7 @@ tags:
   - skill/data-storytelling
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Visualization Storytelling](https://media.licdn.com/dms/image/v2/C4E0DAQF65hPJINtZCw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1606852319338?e=2147483647&amp;v=beta&amp;t=zx3WTxTKwHC4Ma6idGzBo0EUKwNxJmISG5mc5w9pVts)

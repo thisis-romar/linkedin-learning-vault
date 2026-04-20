@@ -25,7 +25,7 @@ tags:
   - skill/application-security-assessments
   - skill/security-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Dynamic Application Security Testing](https://media.licdn.com/dms/image/v2/C560DAQHy23Sv6I1VRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1676672978750?e=2147483647&amp;v=beta&amp;t=vdWfR_6bLWzADGPi_gBI5VBGmM188ih3tfkOFrHaUAM)

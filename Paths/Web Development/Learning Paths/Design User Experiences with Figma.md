@@ -2,16 +2,46 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/design-user-experiences-with-figma"
+url: https://www.linkedin.com/learning/paths/design-user-experiences-with-figma
 course_count: 6
 linkedin_topics:
   - Web Development
-louvain_cluster: 11
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Figma For Ux Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[UX Foundations- Prototyping]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Accessibility and Inclusion with Figma]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Figma- Designing with Variables and Conditionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Designing Microinteractions with Figma]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Figma- From Design to CSS Implementation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Design User Experiences with Figma

@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Artificial Intelligence and Application Security](https://media.licdn.com/dms/image/v2/D4E0DAQH8Z9-iz74j_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726083225369?e=2147483647&amp;v=beta&amp;t=dl-vj84LoHrcJYwUnO6eMuoQFBlWXUStwcVNF6FTevM)

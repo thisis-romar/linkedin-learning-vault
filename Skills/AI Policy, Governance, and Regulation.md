@@ -6,7 +6,7 @@ course_count: 3
 tags:
   - skill
   - skill/ai-policy-governance-and-regulation
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # AI Policy, Governance, and Regulation

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-as-a-business-analyst"
+url: https://www.linkedin.com/learning/paths/getting-started-as-a-business-analyst
 course_count: 18
 linkedin_topics:
   - Data Science
@@ -10,8 +10,86 @@ louvain_cluster: 9
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[What Is Business Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a Successful Business Analysis Career]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analysis Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Requirements Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Benefits Realization Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analyst and Project Manager Collaboration (2018)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Requirements Elicitation and Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analysis Foundations- Business Process Modeling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Requirements Elicitation for Business Analysis- Stakeholder Conversations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel Quick Tips (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Word Essential Training (Microsoft 365) (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PowerPoint Essential Training (Microsoft 365)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Science Foundations- Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leadership Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Analysis Foundations- Communication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Communication within Teams (2021)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Interpersonal Communication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Negotiation Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started as a Business Analyst

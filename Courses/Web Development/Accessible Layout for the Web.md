@@ -26,7 +26,7 @@ tags:
   - skill/web-accessibility
   - skill/web-design
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Accessible Layout for the Web](https://media.licdn.com/dms/image/v2/D560DAQH23NLY2hQeNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712947676463?e=2147483647&amp;v=beta&amp;t=C-M4iKqJzuhkZ9Xse2yvyx_OVMdOoLjaRPSZ-F3OSYY)

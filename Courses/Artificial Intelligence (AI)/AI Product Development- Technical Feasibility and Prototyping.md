@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/product-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Product Development: Technical Feasibility and Prototyping](https://media.licdn.com/dms/image/v2/D4E0DAQE6q6oYZ-mdhQ/learning-public-crop_675_1200/B4EZYcb5jbHMAc-/0/1744233798227?e=2147483647&amp;v=beta&amp;t=N-gCi3lQBXKFOfl4wQvj79JHYlCWKzeT15XPN10orKA)

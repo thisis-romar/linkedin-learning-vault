@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JavaScript: Classes](https://media.licdn.com/dms/image/v2/C4E0DAQEoOxp-l_P-JQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668120338686?e=2147483647&amp;v=beta&amp;t=j2eN2jUp3tEt0q2eX53Y2-ukkFJ-pcBCZg1MyOlPMLs)

@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/building-ai-products-architecture-and-orchestration-professional-certificate-by-linkedin-learning"
+url: https://www.linkedin.com/learning/paths/building-ai-products-architecture-and-orchestration-professional-certificate-by-linkedin-learning
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,34 @@ tags:
   - professional-certificate
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Welcome To The Building Ai Products Architecture And Orchestration Professional Certificate]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Orchestration- Planning and Orchestrating for Observability]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Orchestration- Designing the Prototype Architecture and Data Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Orchestration- Developing and Testing Your AI Prototype]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Orchestration- Validation and User Feedback and Performance Metrics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building AI Products: Architecture and Orchestration Professional Certificate by LinkedIn Learning

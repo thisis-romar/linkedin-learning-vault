@@ -27,7 +27,7 @@ tags:
   - skill/asp-net-web-api
   - skill/asp-net-mvc
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Asp Dot Net Core Mvc Razor Pages Web Apis Other Foundations](https://media.licdn.com/dms/image/v2/D4D0DAQGr2z4gmZo59g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729698292325?e=2147483647&amp;v=beta&amp;t=hO_r3-QlS8ZVo4SrSr7TbWdDJXm-4Wsp7r-HxAOl6u0)

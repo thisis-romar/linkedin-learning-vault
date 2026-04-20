@@ -27,7 +27,7 @@ tags:
   - skill/data-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python In Excel Getting Started With Data Analysis](https://media.licdn.com/dms/image/v2/D4D0DAQFxadV7_oR6xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709943037883?e=2147483647&amp;v=beta&amp;t=CYezBfgHHhzDam6YkSstly2wAtly4oWOfgaKXw_Yh7w)

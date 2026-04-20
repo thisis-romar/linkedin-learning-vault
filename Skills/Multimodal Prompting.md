@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/multimodal-prompting
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Multimodal Prompting

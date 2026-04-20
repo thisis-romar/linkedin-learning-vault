@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Power BI: Integrating AI](https://media.licdn.com/dms/image/v2/D560DAQGO1pcjVw3clg/learning-public-crop_675_1200/B56ZgfQ3K3HQAc-/0/1752871171037?e=2147483647&amp;v=beta&amp;t=MlCg90U9FgA6KxNRJozL_hjkyQsFUxotSuWTStR31Qg)

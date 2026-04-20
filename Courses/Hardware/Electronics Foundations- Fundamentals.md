@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/electronics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Electronics Foundations: Fundamentals](https://media.licdn.com/dms/image/v2/C4E0DAQH-6x5bm0Fl0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568053858039?e=2147483647&amp;v=beta&amp;t=WvekdtJXPNK5ACtEaqDonpbGRKg5ivTlEZwpHc_dQlI)

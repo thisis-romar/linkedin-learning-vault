@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Adobe Firefly Essential Training (2024)](https://media.licdn.com/dms/image/v2/D560DAQFp10iebFeFwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008950985?e=2147483647&amp;v=beta&amp;t=jeVMmpzlCZzjy9Q41Y95SDhtoWix7c3FGfHOJbGjH20)

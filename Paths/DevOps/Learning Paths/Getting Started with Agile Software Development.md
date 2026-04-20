@@ -2,18 +2,64 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-agile-software-development"
+url: https://www.linkedin.com/learning/paths/getting-started-with-agile-software-development
 course_count: 10
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/devops
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Agile Software Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Planning and Releasing Software with Jira]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development- Kanban for Developers (2019)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development- Scrum for Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development- Extreme Programming]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development- Creating an Agile Culture]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development- Dealing with Legacy Code and Technical Debt]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development- Transforming Your Organization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development- Remote Teams (2019)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with Agile Software Development

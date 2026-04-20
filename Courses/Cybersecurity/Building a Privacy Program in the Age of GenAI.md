@@ -31,7 +31,7 @@ tags:
   - skill/privacy
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building a Privacy Program in the Age of GenAI](https://media.licdn.com/dms/image/v2/D4E0DAQGJbeH8CObhAw/learning-public-crop_675_1200/B4EZTXHm7gHMAc-/0/1738775883722?e=2147483647&amp;v=beta&amp;t=mwwf-O2dSOaRVCZsbWVqMhfeoMyJ9Zpu-qVrYm4owWY)

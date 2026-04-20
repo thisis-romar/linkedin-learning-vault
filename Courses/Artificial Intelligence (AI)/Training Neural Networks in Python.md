@@ -29,7 +29,7 @@ tags:
   - skill/python-programming-language
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Training Neural Networks in Python](https://media.licdn.com/dms/image/v2/C560DAQHV4j3fIM3c8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667864483162?e=2147483647&amp;v=beta&amp;t=oqVOtld0_v33uk2RKr6tq51vsio0xD8Bcvrwp7TUW8Y)

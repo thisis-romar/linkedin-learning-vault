@@ -26,7 +26,7 @@ tags:
   - skill/apache-airflow
   - skill/workflow-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Engineering Pipeline Management with Apache Airflow](https://media.licdn.com/dms/image/v2/D560DAQG7SBssjwtndA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691793089558?e=2147483647&amp;v=beta&amp;t=WKMJso1PneCLSMMIWO0udZLnnkV6quElzBCF9oJy4to)

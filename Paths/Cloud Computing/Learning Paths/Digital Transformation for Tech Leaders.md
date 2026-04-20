@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/digital-transformation-for-tech-leaders"
+url: https://www.linkedin.com/learning/paths/digital-transformation-for-tech-leaders
 course_count: 15
 linkedin_topics:
   - Cloud Computing
@@ -12,8 +12,74 @@ tags:
   - learning-path
   - topic/cloud-computing
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Digital Transformation Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Effectively Leading Digital Transformation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Foundations of the Fourth Industrial Revolution (Industry 4.0)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to IT Automation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Intelligent Automation Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IoT Foundations- Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IoT Foundations- Standards and Ecosystems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leveraging Cloud Computing for IoT]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building and Managing a Cybersecurity Program]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Understanding Zero Trust]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Blockchain Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Blockchain- Beyond the Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to 5G]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Assessing Digital Maturity]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Architecture- Core Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Digital Transformation for Tech Leaders

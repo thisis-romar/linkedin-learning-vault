@@ -2,18 +2,64 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-an-ai-engineer"
+url: https://www.linkedin.com/learning/paths/become-an-ai-engineer
 course_count: 10
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Python For Data Science And Machine Learning Essential Training Part]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python for Data Science and Machine Learning Essential Training Part 2]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI- Introduction to Large Language Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The AI Ecosystem for Developers- Models, Datasets, and APIs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Fine-Tuning for LLMs- from Beginner to Advanced]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[GenAIOps Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Foundations Of Responsible Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become an AI Engineer

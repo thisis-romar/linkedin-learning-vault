@@ -17,7 +17,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Manager's Guide to Building a Strategic Plan with ChatGPT (No Code Required)](https://media.licdn.com/dms/image/v2/D4E0DAQGQrfdJenHEiw/learning-public-crop_675_1200/B4EZka4gefHgAY-/0/1757092645787?e=2147483647&amp;v=beta&amp;t=LCfvsXpwKG4LWpf1Y86wKJD5KZziHhdBpozguWrc4Ac)

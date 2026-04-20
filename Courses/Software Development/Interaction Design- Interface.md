@@ -16,7 +16,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Interaction Design: Interface](https://media.licdn.com/dms/image/v2/C560DAQECii31G8YVyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584560440611?e=2147483647&amp;v=beta&amp;t=D8DuVgAMVvTeDXCfVpBNGZ3hKFvD4Lg_GWKouaFh7-U)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/building-generative-ai-skills-for-developers"
+url: https://www.linkedin.com/learning/paths/building-generative-ai-skills-for-developers
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,42 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Generative AI vs. Traditional AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Large Language Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI- Working with Large Language Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced RAG Applications with Vector Databases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[RAG Fine-Tuning- Advanced Techniques for Accuracy and Model Performance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[GenAIOps Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building Generative AI Skills for Developers

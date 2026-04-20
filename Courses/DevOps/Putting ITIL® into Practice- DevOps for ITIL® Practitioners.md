@@ -26,7 +26,7 @@ tags:
   - skill/devops
   - skill/itil-process-implementation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Putting ITIL® into Practice: DevOps for ITIL® Practitioners](https://media.licdn.com/dms/image/v2/D560DAQEJ9TTMVczZgw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708447720851?e=2147483647&amp;v=beta&amp;t=JMkqh1L9P9L2I5MB2-80PtiKhLGNImzdZ_eKHTCRkxY)

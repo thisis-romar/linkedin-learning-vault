@@ -30,7 +30,7 @@ tags:
   - skill/statistical-analysis
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning Foundations: Statistics](https://media.licdn.com/dms/image/v2/D560DAQEvLkd_AGFL8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697490325267?e=2147483647&amp;v=beta&amp;t=_qRQujbGxYcXucHpeIUOS7qgMgh6zA3Xsos6P7AP9Sk)

@@ -26,7 +26,7 @@ tags:
   - skill/legal-compliance
   - skill/general-data-protection-regulation-gdpr
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![GDPR Compliance: Essential Training](https://media.licdn.com/dms/image/v2/C560DAQErQzSTqryM8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634756161478?e=2147483647&amp;v=beta&amp;t=u0lxioPbpbcyjoy4mi3laJ9i4Jg9ny9WlUuCPdwqmV4)

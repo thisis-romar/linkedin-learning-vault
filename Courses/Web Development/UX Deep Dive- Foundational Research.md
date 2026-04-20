@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![UX Deep Dive: Foundational Research](https://media.licdn.com/dms/image/v2/C560DAQFKkVNasvQaZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613175857531?e=2147483647&amp;v=beta&amp;t=o3MN3A5uSy3Bzum1u43RNIAZsJ-_Cp16ZlgdsO7q7U4)

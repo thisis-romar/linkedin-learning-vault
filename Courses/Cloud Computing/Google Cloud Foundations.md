@@ -24,7 +24,7 @@ tags:
   - skill/cloud-foundations
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Google Cloud Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQFtf4ukot7t9w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643303075841?e=2147483647&amp;v=beta&amp;t=a0cWG8fR2JYv0rWLoTKCj2X37FpBgss5lfXWlQTfTrc)

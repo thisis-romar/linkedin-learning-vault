@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/spring-boot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Spring Boot Observability: Deep Dive into Logging, Metrics, and Tracing](https://media.licdn.com/dms/image/v2/C560DAQF3sefPLnRYNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654619167655?e=2147483647&amp;v=beta&amp;t=ib6U0ernBMnc5kXkOyxRavCgUkZrJzAjFIRFKuUuvCk)

@@ -30,7 +30,7 @@ tags:
   - skill/ai-security
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI in Cybersecurity: The Future of Red Teaming and Blue Teaming](https://media.licdn.com/dms/image/v2/D560DAQFEhgIszKDUSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008942451?e=2147483647&amp;v=beta&amp;t=j7Fgo78_SA5u4O5eOkkKMHAZ95l97HqSF8Pj9GphDVE)

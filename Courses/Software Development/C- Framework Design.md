@@ -25,7 +25,7 @@ tags:
   - skill/framework-design
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C# Framework Design](https://media.licdn.com/dms/image/v2/C560DAQGznvMzGXwAWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671650523568?e=2147483647&amp;v=beta&amp;t=GSpV3J8ZSdkcFSJuXMRaQ3Fr2g_ItNr4Hf7ehug0as8)

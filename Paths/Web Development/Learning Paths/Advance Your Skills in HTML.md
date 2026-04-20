@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-in-html"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-in-html
 course_count: 11
 linkedin_topics:
   - Web Development
@@ -10,8 +10,58 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[HTML Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Crafting Meaningful HTML]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML and CSS- Linking]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML- Images and Figures]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML- Tables]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML- Metadata in the Head]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML & CSS- Creating Forms]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Great Forms with HTML and CSS]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Web Audio and Video]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML- Structured Semantic Data]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Developing for Web Performance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills in HTML

@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building Monorepos On Github](https://media.licdn.com/dms/image/v2/D560DAQFhDmiByitrFw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667582740341?e=2147483647&amp;v=beta&amp;t=aGad4_rlXhSKDVLguVCHNzM1zFaccHsM8J0Qu91Wsrk)

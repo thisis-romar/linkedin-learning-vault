@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/ai-essentials-for-user-experience-designers"
+url: https://www.linkedin.com/learning/paths/ai-essentials-for-user-experience-designers
 course_count: 5
 linkedin_topics:
   - Data Science
@@ -12,8 +12,34 @@ tags:
   - learning-path
   - topic/data-science
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[The Ai Driven Product Designer]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using AI Tools for UX Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI UX Design with Uizard]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Exploring AI Workflows within Figma Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using AI in Research Projects]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # AI Essentials for User Experience Designers

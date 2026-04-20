@@ -27,7 +27,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Copilot Agents: Build Your Own AI Assistant in Copilot and Teams (No Code Required) (February 2025)](https://media.licdn.com/dms/image/v2/D560DAQE3KpoFnoJ4Pg/learning-public-crop_675_1200/B56ZosRzIMHAAY-/0/1761679455466?e=2147483647&amp;v=beta&amp;t=_tGj_1GeOK9eKNkEDNFIez1JQ273hCPiw6DOA9r_O1g)

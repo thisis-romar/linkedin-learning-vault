@@ -27,7 +27,7 @@ tags:
   - skill/circuit-design
   - skill/electronics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Electronics Foundations: Basic Circuits](https://media.licdn.com/dms/image/v2/C4E0DAQHbCh-IbN-ngA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567116230922?e=2147483647&amp;v=beta&amp;t=FXSRTPO9PuTHtgaVG5ANpmQ9Ig8SDalDDBsRtKfHg9c)

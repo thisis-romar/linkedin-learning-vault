@@ -23,7 +23,7 @@ tags:
   - topic/devops
   - skill/agile-project-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Mistakes to Avoid in Agile Project Management](https://media.licdn.com/dms/image/v2/C4E0DAQH_T0wSgw77cw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642182157198?e=2147483647&amp;v=beta&amp;t=7Iw_OhislipmUZFcmDx_iQqNvMw_E4C5mq7imFGumgU)

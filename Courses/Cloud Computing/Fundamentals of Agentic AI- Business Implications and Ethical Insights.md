@@ -26,7 +26,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Fundamentals of Agentic AI: Business Implications and Ethical Insights](https://media.licdn.com/dms/image/v2/D560DAQFryB69UcojRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727364523580?e=2147483647&amp;v=beta&amp;t=GyMRx2vnSDj-FhxYjxqBK7PH1Tx2FqOON5Day4HoDp4)

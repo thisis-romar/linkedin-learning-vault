@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-react-js-development"
+url: https://www.linkedin.com/learning/paths/explore-react-js-development
 course_count: 8
 linkedin_topics:
   - Software Development
@@ -12,8 +12,46 @@ tags:
   - learning-path
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[React Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React.js- Building an Interface]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Creating and Hosting a Full-Stack Site]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React Hooks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Accessibility]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Modern Projects with React]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Authentication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Server-Side Rendering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore React.js Development

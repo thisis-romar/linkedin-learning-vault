@@ -1,0 +1,10 @@
+{
+  "id": "lle-progress",
+  "name": "LinkedIn Learning Progress",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Automatically tracks course opens and video clicks in LinkedIn Learning vault path notes.",
+  "author": "thisis-romar",
+  "authorUrl": "https://github.com/thisis-romar/linkedin-learning-extractor",
+  "isDesktopOnly": false
+}

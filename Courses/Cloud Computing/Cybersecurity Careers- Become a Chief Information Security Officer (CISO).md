@@ -28,7 +28,7 @@ tags:
   - skill/tech-career-skills
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Careers: Become a Chief Information Security Officer (CISO)](https://media.licdn.com/dms/image/v2/C560DAQFbD6_b4xW3wQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664304366478?e=2147483647&amp;v=beta&amp;t=1ZtITwq6VxGqinV6eCPLJl5wt9EtR-u8BJ-WdsrkLGU)

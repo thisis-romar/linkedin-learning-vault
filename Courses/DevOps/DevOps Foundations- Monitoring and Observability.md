@@ -25,7 +25,7 @@ tags:
   - skill/devops
   - skill/system-monitoring
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![DevOps Foundations: Monitoring and Observability](https://media.licdn.com/dms/image/v2/D4D0DAQEkT2ZrH_6N_w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702681529716?e=2147483647&amp;v=beta&amp;t=GgZMMC0Az7fItVt8tSebIcj_dcJu833s2zBqgRKbd5g)

@@ -26,7 +26,7 @@ tags:
   - skill/kotlin
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Kotlin Multiplatform Development](https://media.licdn.com/dms/image/v2/D4E0DAQGy6ak9gCh6EA/learning-public-crop_675_1200/B4EZbaHVwdGcAc-/0/1747416079622?e=2147483647&amp;v=beta&amp;t=hzdneffla9nn0g9EWrfoBcVeXyiV5XJ_1OLHuW2k5qE)

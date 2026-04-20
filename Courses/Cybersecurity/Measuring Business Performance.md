@@ -25,7 +25,7 @@ tags:
   - skill/performance-metrics
   - skill/business-metrics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Measuring Business Performance](https://media.licdn.com/dms/image/v2/C560DAQFHE4HMn_jj-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620659148580?e=2147483647&amp;v=beta&amp;t=hwkgVE-tWBgQ4nbkEBQExmhSw1O0Z45HSJKMH6jw4bo)

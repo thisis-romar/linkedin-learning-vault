@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/generative-ai-for-sales-with-microsoft-365-copilot-professional-certificate"
+url: https://www.linkedin.com/learning/paths/generative-ai-for-sales-with-microsoft-365-copilot-professional-certificate
 course_count: 6
 linkedin_topics:
   - Cloud Computing
@@ -10,8 +10,38 @@ louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/cloud-computing
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Sales Strategy Using Ai And Automation To Sell More]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[How to Generate Marketing Leads with AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Microsoft 365 Copilot for Work (2024)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel with Copilot- AI-Driven Data Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Copilot in PowerPoint- From Prompt to Presentation (2024)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft 365 Copilot- Helpful Tips for Sales Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Generative AI for Sales with Microsoft 365 Copilot Professional Certificate

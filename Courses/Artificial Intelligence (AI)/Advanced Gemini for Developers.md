@@ -30,7 +30,7 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Gemini for Developers](https://media.licdn.com/dms/image/v2/D4E0DAQEshb8nqs80JA/learning-public-crop_675_1200/B4EZbPqixaHcAY-/0/1747240759192?e=2147483647&amp;v=beta&amp;t=EQn4fkXcLjum3XMCLiWtSqsP6g0aA_mhH7mw1h2mMtA)

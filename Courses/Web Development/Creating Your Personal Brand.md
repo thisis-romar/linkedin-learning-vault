@@ -21,7 +21,7 @@ tags:
   - topic/web-development
   - skill/personal-branding
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Creating Your Personal Brand](https://media.licdn.com/dms/image/v2/C4E0DAQFMvK6jFJDP4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668594063?e=2147483647&amp;v=beta&amp;t=rVse8dIvNYLgdeYd3YbWuwITB7_j02NoPcOaS8oAP3w)

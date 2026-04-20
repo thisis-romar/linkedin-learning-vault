@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/lead-ai-like-a-high-performing-teammate"
+url: https://www.linkedin.com/learning/paths/lead-ai-like-a-high-performing-teammate
 course_count: 3
 linkedin_topics:
   - DevOps
@@ -12,8 +12,26 @@ tags:
   - learning-path
   - topic/devops
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[From Tool to Teammates- Working Smarter with AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[How to Be an Agent Boss- Leading AI Agents at Work]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Lead AI Like a High-Performing Teammate

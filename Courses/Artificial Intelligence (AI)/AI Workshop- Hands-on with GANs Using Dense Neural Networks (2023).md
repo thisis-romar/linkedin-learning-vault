@@ -28,7 +28,7 @@ tags:
   - skill/artificial-neural-networks
   - skill/generative-adversarial-networks-gans
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Workshop: Hands-on with GANs Using Dense Neural Networks (2023)](https://media.licdn.com/dms/image/v2/D4E0DAQEcm6S7SoEdQQ/learning-public-crop_675_1200/B4EZj3dmcYIMAY-/0/1756498389566?e=2147483647&amp;v=beta&amp;t=I9gSHIkkxtudmaX2aZWwb8QHem-ZmqcsHxL9WXxH_DI)

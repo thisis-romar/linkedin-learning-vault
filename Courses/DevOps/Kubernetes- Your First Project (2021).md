@@ -23,7 +23,7 @@ tags:
   - topic/devops
   - skill/kubernetes
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Kubernetes: Your First Project (2021)](https://media.licdn.com/dms/image/v2/D4E0DAQHMTGjVlXuQmA/learning-public-crop_675_1200/B4EZeEFPhJH0Ac-/0/1750267656589?e=2147483647&amp;v=beta&amp;t=0BcznFJ6yJkpiZWXMeV3wrlaSmujdatBy0We1E5Euok)

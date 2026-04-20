@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-digital-transformation"
+url: https://www.linkedin.com/learning/paths/master-digital-transformation
 course_count: 13
 linkedin_topics:
   - Cloud Computing
@@ -12,8 +12,66 @@ tags:
   - learning-path
   - topic/cloud-computing
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Rpa Ai And Cognitive Tech For Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Digital Transformation for Leaders in the AI Era]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Strategic Agility for Organizational Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leading with Innovation in the Age of AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Architecture- Core Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Computing Understanding Core Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IoT Foundations- Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Design Thinking- Understanding the Process]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Design Thinking- Implementing the Process]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Design Thinking- Lead Change in Your Organization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Design Thinking- Prototyping]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master Digital Transformation

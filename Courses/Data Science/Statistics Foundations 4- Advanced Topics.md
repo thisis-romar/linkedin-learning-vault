@@ -18,7 +18,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Statistics Foundations 4: Advanced Topics](https://media.licdn.com/dms/image/v2/C560DAQHKfvcGCiimkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660065129587?e=2147483647&amp;v=beta&amp;t=SovuylB0qZPGQ7vUUlDvanxxVMOAhrFX9B8mk3ZxuVk)

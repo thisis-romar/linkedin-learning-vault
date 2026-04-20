@@ -33,7 +33,7 @@ tags:
   - skill/github-copilot
   - skill/capstone
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Capstone: Building Production Features with Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQFU4QN0jCeNSA/learning-public-crop_675_1200/B4EZq32w6IHUAY-/0/1764021178841?e=2147483647&amp;v=beta&amp;t=4VF2e5EUVMTxkkGLxZzTG33EPeEdA9b3_qwxyUZjct8)

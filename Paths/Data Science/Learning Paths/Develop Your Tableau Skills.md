@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/develop-your-tableau-skills"
+url: https://www.linkedin.com/learning/paths/develop-your-tableau-skills
 course_count: 4
 linkedin_topics:
   - Data Science
@@ -10,8 +10,30 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Using Tableau to Discover Powerful Business Insights]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to Tableau for Data Scientists]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Creating Interactive Tableau Dashboards]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Tableau and R for Analytics Projects]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Develop Your Tableau Skills

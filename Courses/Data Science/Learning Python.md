@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Python](https://media.licdn.com/dms/image/v2/D4E0DAQECotgjIKCbrw/learning-public-crop_675_1200/B4EZT7PgtEGwAc-/0/1739381935225?e=2147483647&amp;v=beta&amp;t=zavFdzEcNtb5C3H8Q58J2_FVW9eqwIM5x_aSr1xHRzQ)

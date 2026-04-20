@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/computer-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Computer Science Principles Digital Information](https://media.licdn.com/dms/image/v2/C4E0DAQE1lLV5zX5Kdg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117531373?e=2147483647&amp;v=beta&amp;t=WPdX17wliMw9xycoBKUQwQBcxYd_GkQITCT2VGB21L8)

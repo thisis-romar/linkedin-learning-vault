@@ -25,7 +25,7 @@ tags:
   - skill/threat-modeling
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Threat Modeling: Denial of Service and Expansion of Authority](https://media.licdn.com/dms/image/v2/C4E0DAQFIr3vQY5CyvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613586528983?e=2147483647&amp;v=beta&amp;t=DRkj9GWD9ye8CT3SO9V4w75-Ynl6wFCy6PYluwknOhA)

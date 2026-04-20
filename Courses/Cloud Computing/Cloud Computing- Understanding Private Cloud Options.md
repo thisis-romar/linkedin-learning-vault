@@ -25,7 +25,7 @@ tags:
   - skill/private-clouds
   - skill/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud Computing: Understanding Private Cloud Options](https://media.licdn.com/dms/image/v2/D560DAQEKkyVHVPALVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704746853666?e=2147483647&amp;v=beta&amp;t=hRX_zWYneCGfA3gHWcPhFndHP9cf5xNVYahG9OmOyTM)

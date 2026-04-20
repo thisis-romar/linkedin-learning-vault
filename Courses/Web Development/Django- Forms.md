@@ -25,7 +25,7 @@ tags:
   - skill/django
   - skill/forms
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Django: Forms](https://media.licdn.com/dms/image/v2/C4E0DAQGIybL6hwI1ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118168888?e=2147483647&amp;v=beta&amp;t=6sXjFadBV2wV4s_I-hxSAyfkKqWCZ5rsWnoEIi8P748)

@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/ubuntu-linux-professional-certificate-by-canonical"
+url: https://www.linkedin.com/learning/paths/ubuntu-linux-professional-certificate-by-canonical
 course_count: 4
 linkedin_topics:
   - Cybersecurity
@@ -16,8 +16,30 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Linux Command Line (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Ubuntu Linux- Operating System Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Ubuntu Linux- Storage Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Ubuntu Linux- User and Group Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Ubuntu Linux Professional Certificate by Canonical

@@ -17,7 +17,7 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Lean Technology Strategy: Building High-Performing Teams](https://media.licdn.com/dms/image/v2/C4E0DAQEJMUS_GjXYGQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665447425?e=2147483647&amp;v=beta&amp;t=ivEeo_4a94zPrukZF_oPHRXqYyFjqWtYIZRPWVnfR5Y)

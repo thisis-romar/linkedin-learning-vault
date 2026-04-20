@@ -26,7 +26,7 @@ tags:
   - skill/security-architecture-design
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Foundations: Security Architecture](https://media.licdn.com/dms/image/v2/C560DAQF28QcnoHGCtg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668461277698?e=2147483647&amp;v=beta&amp;t=tYtJikQJKn2iRjPyyXHDgYhlcbysNCF6Cv86UI9OOKY)

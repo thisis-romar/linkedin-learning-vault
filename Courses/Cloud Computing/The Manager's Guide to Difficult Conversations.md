@@ -20,7 +20,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The Manager's Guide to Difficult Conversations](https://media.licdn.com/dms/image/v2/C4E0DAQEwW3mZ1jF7kw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581358192160?e=2147483647&amp;v=beta&amp;t=DG1dkCksuZ4r8KDbw-JZlQLC6GUsMikZ97ueABEfJKA)

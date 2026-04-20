@@ -22,7 +22,7 @@ tags:
   - topic/software-development
   - skill/virtual-collaboration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Working And Collaborating Online](https://media.licdn.com/dms/image/v2/C4E0DAQGk2za6JV6lUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597947536950?e=2147483647&amp;v=beta&amp;t=UE_8NMISSXvKtS1vQAUpVbR6L9vhgzGPRs-GpPNDKwg)

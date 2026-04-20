@@ -2,16 +2,42 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/understanding-digital-accessibility"
+url: https://www.linkedin.com/learning/paths/understanding-digital-accessibility
 course_count: 5
 linkedin_topics:
   - Web Development
-louvain_cluster: 3
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Accessibility For Managers And Non Designers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Accessibility and AI- Bridging the Disability Divide]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Accessibility-First Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Digital Accessibility for the Modern Workplace (with Audio Descriptions)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Inclusive Learning Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Understanding Digital Accessibility

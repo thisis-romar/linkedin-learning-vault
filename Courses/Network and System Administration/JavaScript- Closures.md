@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JavaScript: Closures](https://media.licdn.com/dms/image/v2/D560DAQFM8NmFGPie5A/learning-public-crop_675_1200/B56ZbF5RbaH4Ac-/0/1747076847988?e=2147483647&amp;v=beta&amp;t=AjaxURIqeODtdOfN9NsylOFZ9k01k8DyLbvbObc0UyE)

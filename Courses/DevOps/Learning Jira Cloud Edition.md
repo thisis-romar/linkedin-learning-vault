@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/jira
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Jira Cloud Edition](https://media.licdn.com/dms/image/v2/D4D0DAQE5YQJIs9wiyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702339479063?e=2147483647&amp;v=beta&amp;t=K-QDOgmH0MwjJhr3kfLnMXRrX3xcyCm08yMUM2Y5mps)

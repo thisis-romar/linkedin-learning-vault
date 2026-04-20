@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/building-chatgpt-skills-for-marketing"
+url: https://www.linkedin.com/learning/paths/building-chatgpt-skills-for-marketing
 course_count: 6
 linkedin_topics:
   - Data Science
@@ -10,8 +10,38 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Generative AI for Digital Marketers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[How to Research and Write Using Generative AI Tools (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using AI as Your SEO Assistant]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Nano Tips for Using ChatGPT for Marketers with Ross Simmonds]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Nano Tips For Marketing Using AI Tools with Sam Dey]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna Yung]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building ChatGPT Skills for Marketing

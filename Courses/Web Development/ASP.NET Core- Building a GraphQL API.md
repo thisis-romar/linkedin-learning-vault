@@ -27,7 +27,7 @@ tags:
   - skill/asp-net-core
   - skill/graphql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![ASP.NET Core: Building a GraphQL API](https://media.licdn.com/dms/image/v2/C560DAQHKGBsyOnB6Hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643138871864?e=2147483647&amp;v=beta&amp;t=L8EaVW3Re-UhMfodYl7qccMHkUT6t85Jr21OGEDzOQU)

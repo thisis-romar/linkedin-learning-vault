@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Asynchronous Programming in C#](https://media.licdn.com/dms/image/v2/D560DAQHOVzhhX-Hnzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691013027545?e=2147483647&amp;v=beta&amp;t=-SY2yhceanWM4BElINp4e7qXKCvoNenyD2wr-nTxmos)

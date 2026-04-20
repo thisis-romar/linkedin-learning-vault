@@ -24,7 +24,7 @@ tags:
   - skill/customer-service
   - skill/customer-support
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Customer Service Foundations](https://media.licdn.com/dms/image/v2/C560DAQErGYVPm1g5-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677264776907?e=2147483647&amp;v=beta&amp;t=AiT8JFMFJHAbrX_BIdeYJi3mg5igJk5dGcmkIi2FKB8)

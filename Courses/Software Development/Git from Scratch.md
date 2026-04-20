@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/git
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Git from Scratch](https://media.licdn.com/dms/image/v2/C4E0DAQHJIB3T2TdZuw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656449177506?e=2147483647&amp;v=beta&amp;t=AF77prcO4rDExa0det58UJMAqgs1zwSr-I-JDkyekME)

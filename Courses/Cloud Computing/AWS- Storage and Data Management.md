@@ -29,7 +29,7 @@ tags:
   - skill/data-management
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AWS: Storage and Data Management](https://media.licdn.com/dms/image/v2/C560DAQFOfnWsuTJ7WA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671825403910?e=2147483647&amp;v=beta&amp;t=0-dg5x7Vwo-_AUu-1EqkZ882Xz9EdIZP8Tvc7YBl_dU)

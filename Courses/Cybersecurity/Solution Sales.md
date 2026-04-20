@@ -23,7 +23,7 @@ tags:
   - topic/security
   - skill/solution-selling
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Solution Sales](https://media.licdn.com/dms/image/v2/C4E0DAQHJXVEV0MBrKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1569622270306?e=2147483647&amp;v=beta&amp;t=0TVz1iZ53B4Q9xNWSOfu2MVeVxN4IuMXK4MtJlaV_6Y)

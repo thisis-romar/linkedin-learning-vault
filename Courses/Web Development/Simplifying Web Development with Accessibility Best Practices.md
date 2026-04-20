@@ -17,7 +17,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Simplifying Web Development with Accessibility Best Practices](https://media.licdn.com/dms/image/v2/C560DAQGvnExQWRvuDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622152004842?e=2147483647&amp;v=beta&amp;t=0qellubEwrYR9nJeO84vRKbAdxom225hGsHAiQj6a6g)

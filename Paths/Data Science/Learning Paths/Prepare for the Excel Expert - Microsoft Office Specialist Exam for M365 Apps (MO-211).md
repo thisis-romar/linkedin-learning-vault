@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/prepare-for-the-excel-expert-microsoft-office-specialist-exam-for-m365-apps-mo-211"
+url: https://www.linkedin.com/learning/paths/prepare-for-the-excel-expert-microsoft-office-specialist-exam-for-m365-apps-mo-211
 course_count: 7
 linkedin_topics:
   - Data Science
@@ -10,8 +10,42 @@ louvain_cluster: 9
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Excel Essential Training (Microsoft 365)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Tips and Tricks (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Advanced Formulas and Functions (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Advanced Formatting Techniques]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- PivotTables in Depth]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Creating a Basic Dashboard]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cert Prep- Excel Expert - Microsoft Office Specialist for Microsoft 365 Apps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)

@@ -2,18 +2,48 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/building-your-java-skills"
+url: https://www.linkedin.com/learning/paths/building-your-java-skills
 course_count: 6
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Java Lambdas And Streams]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java- Generic Classes]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java- Testing with JUnit]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to Java Design Patterns- Creational, Behavioral, and Structural]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Continuous Delivery for Cloud Native Java Apps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Nail Your Java Interview]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building Your Java Skills

@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/network-troubleshooting
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Network Troubleshooting: Practical Network Diagnostics and Solutions](https://media.licdn.com/dms/image/v2/C4E0DAQFpm7wKg0o82A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616002667822?e=2147483647&amp;v=beta&amp;t=Y78LSSeYuss2iTCX9qmYO_l8k2zox5gK9sSStSKOG4U)

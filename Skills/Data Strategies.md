@@ -6,7 +6,7 @@ course_count: 3
 tags:
   - skill
   - skill/data-strategies
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Data Strategies

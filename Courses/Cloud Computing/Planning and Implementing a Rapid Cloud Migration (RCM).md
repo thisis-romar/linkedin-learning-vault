@@ -19,7 +19,7 @@ tags:
   - topic/software-development
   - topic/devops
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Planning and Implementing a Rapid Cloud Migration (RCM)](https://media.licdn.com/dms/image/v2/C560DAQHRAgvDDTgkhQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629824104520?e=2147483647&amp;v=beta&amp;t=x8u8P2SOQhU9ecMa12SDqY64IFDXhQcUibl0KgRRlts)

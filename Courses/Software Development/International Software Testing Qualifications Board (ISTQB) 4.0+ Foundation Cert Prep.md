@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep](https://media.licdn.com/dms/image/v2/D4D0DAQEMK5sZnmG8gQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735075305568?e=2147483647&amp;v=beta&amp;t=oZxFoKgzXtDSYyEm7O9LiLXCeE33zdZJdi2WF2q5_WE)

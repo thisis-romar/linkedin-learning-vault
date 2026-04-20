@@ -27,7 +27,7 @@ tags:
   - skill/laravel
   - skill/php
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Essential Statamic for PHP and Laravel Developers](https://media.licdn.com/dms/image/v2/C560DAQGUTB7Y-sJXRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634058104737?e=2147483647&amp;v=beta&amp;t=VOxuMek11V5ezz3nQ64WpjG0zsxcAadDL7YInZuGr4o)

@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/generative-ai-for-marketing-professional-certificate-by-the-american-marketing-association"
+url: https://www.linkedin.com/learning/paths/generative-ai-for-marketing-professional-certificate-by-the-american-marketing-association
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,38 @@ louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Everyday Ai Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction To Prompt Engineering For Generative Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[A Content Marketer''s Guide to Responsible AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI for Digital Marketers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Writing Great Content with Gen AI That Doesn''t Sound Fake]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Build Your Generative AI Plan for Marketing Success]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Generative AI for Marketing Professional Certificate by the American Marketing Association

@@ -20,7 +20,7 @@ tags:
   - topic/software-development
   - topic/security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud Architecture: Design Decisions](https://media.licdn.com/dms/image/v2/D4D0DAQFXZOc2UQrUTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737159098691?e=2147483647&amp;v=beta&amp;t=NLFGUalWGZn9NZYSyoa2Ux58Hmq4R7lPxEjuPLJ8pXM)

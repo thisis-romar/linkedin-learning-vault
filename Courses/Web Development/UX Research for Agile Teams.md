@@ -25,7 +25,7 @@ tags:
   - skill/agile-methodologies
   - skill/ux-research
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![UX Research for Agile Teams](https://media.licdn.com/dms/image/v2/C4E0DAQHbGJT0YMxK2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665417248?e=2147483647&amp;v=beta&amp;t=24lsmxL0kDpfUqIfhnID8zMTdMxVsjsqISPYIc4JVfw)

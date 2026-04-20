@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning PowerPoint Online (Microsoft 365)](https://media.licdn.com/dms/image/v2/C4E0DAQFllYccXG5rlQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656547032366?e=2147483647&amp;v=beta&amp;t=WR1qifqtxlqi4W-KX_RvwOHR0LdLT-LbfayLBOz9X88)

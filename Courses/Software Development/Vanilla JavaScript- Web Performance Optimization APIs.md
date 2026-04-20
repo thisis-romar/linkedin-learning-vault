@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Vanilla JavaScript: Web Performance Optimization APIs](https://media.licdn.com/dms/image/v2/C4E0DAQFfzyF5w7z1jg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118421027?e=2147483647&amp;v=beta&amp;t=hCs3GbtwGtigkt-MH50rhR3mVPxC0VbeF3Khe3ekAb0)

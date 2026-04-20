@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/marketing-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analytics: Marketing Data (2022)](https://media.licdn.com/dms/image/v2/D4E0DAQHCjNKkew5HHg/learning-public-crop_675_1200/B4EZoYWZyJGcAY-/0/1761345117651?e=2147483647&amp;v=beta&amp;t=HB1Sf0Ztr8xP5kXFtbRL2rboUUFTDWJNhZm3UkpkNPQ)

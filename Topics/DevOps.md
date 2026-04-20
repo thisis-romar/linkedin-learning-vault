@@ -6,7 +6,7 @@ linkedin_topic: DevOps
 tags:
   - moc
   - topic/devops
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # DevOps

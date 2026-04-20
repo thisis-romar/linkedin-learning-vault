@@ -27,7 +27,7 @@ tags:
   - skill/python-programming-language
   - skill/open-source-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Create an Open-Source Project in Python](https://media.licdn.com/dms/image/v2/C560DAQEh8rkWx4V2MQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680032934598?e=2147483647&amp;v=beta&amp;t=97RGy2nr1Ul4q6Bx7siDs87h-kuPfHldBdK4mlS9AM0)

@@ -25,7 +25,7 @@ tags:
   - skill/java-software-development
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Java Advanced Concepts For High Performance Development](https://media.licdn.com/dms/image/v2/C4E0DAQGw3sFhiEecwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670989829357?e=2147483647&amp;v=beta&amp;t=i-0hI0dmXYyAU4vlQCsOVs6Y19zJ7dZvMKB8fzSL0co)

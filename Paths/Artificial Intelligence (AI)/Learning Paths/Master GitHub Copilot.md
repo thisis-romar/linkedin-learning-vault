@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-github-copilot"
+url: https://www.linkedin.com/learning/paths/master-github-copilot
 course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,46 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[AI Pair Programming with GitHub Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Exploring the Future of Development with GitHub Copilot Workspace]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Supercharge the Development Process with GitHub Extensions for Copilot Chat]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Delivering and Analyzing a Software Pilot- GitHub Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible GitHub Copilot- Creating Reliable Code Ethically]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Creating a Book Search Engine from Scratch Using Java and GitHub Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Refactoring with GitHub Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Software Testing Assistance with GitHub Copilot AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master GitHub Copilot

@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C#: Delegates, Events, and Lambdas](https://media.licdn.com/dms/image/v2/C560DAQFKly2MCihgYw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642535785778?e=2147483647&amp;v=beta&amp;t=6i9V1OUzqaOx9JScjKsrMEgApKMLmJhuMWYLM5kWapk)

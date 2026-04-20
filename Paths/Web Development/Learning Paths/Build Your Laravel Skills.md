@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/build-your-laravel-skills"
+url: https://www.linkedin.com/learning/paths/build-your-laravel-skills
 course_count: 7
 linkedin_topics:
   - Web Development
@@ -10,8 +10,42 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Laravel Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Laravel]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building RESTful APIs in Laravel]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building GraphQL Applications in Laravel]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Essential Jigsaw for PHP and Laravel Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Essential Statamic for PHP and Laravel Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Winter CMS with Laravel]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build Your Laravel Skills

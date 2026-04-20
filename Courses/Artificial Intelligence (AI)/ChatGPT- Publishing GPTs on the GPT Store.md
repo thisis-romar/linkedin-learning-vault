@@ -25,7 +25,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![ChatGPT: Publishing GPTs on the GPT Store](https://media.licdn.com/dms/image/v2/D560DAQHiK69n7JAOYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705194262010?e=2147483647&amp;v=beta&amp;t=Kpt4S9Ij2xn0Ec7zoz_SE6EagkZ0P8oE9YMWMe8Dmzw)

@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/firebase
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Using AI in the Design to Full-Stack Development Life Cycle](https://media.licdn.com/dms/image/v2/D4D0DAQEpwEOxJDMD-A/learning-public-crop_675_1200/B4DZVegT0sG8Ac-/0/1741047283297?e=2147483647&amp;v=beta&amp;t=bTgekdZQvIw8ZOuOmTNs-u8Z7GmDh7VGR2mxuFcXhBo)

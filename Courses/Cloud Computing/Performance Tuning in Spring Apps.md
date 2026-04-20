@@ -29,7 +29,7 @@ tags:
   - skill/spring-framework
   - skill/performance-tuning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Performance Tuning in Spring Apps](https://media.licdn.com/dms/image/v2/C560DAQFAnne7qoYl0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637107876135?e=2147483647&amp;v=beta&amp;t=89O1e2iFpTdBcYMpzUWDtC7Rp0O_kt60du8VXdWgvW8)

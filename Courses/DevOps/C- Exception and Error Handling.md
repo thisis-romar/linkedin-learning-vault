@@ -28,7 +28,7 @@ tags:
   - skill/debugging
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C# Exception and Error Handling](https://media.licdn.com/dms/image/v2/D560DAQEHKuZhVdeGtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710284097660?e=2147483647&amp;v=beta&amp;t=bSBiVautAOtppfk3qFH7KdswMz5hbF2GKQY63uU-euE)

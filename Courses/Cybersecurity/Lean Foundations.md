@@ -19,7 +19,7 @@ tags:
   - topic/it-help-desk
   - topic/security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Lean Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQEBAe2Ejf5zWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614383169024?e=2147483647&amp;v=beta&amp;t=1Af7JXg1f5g1jiF0_KXEmW4JScjR96N9F-XvzJP5grc)

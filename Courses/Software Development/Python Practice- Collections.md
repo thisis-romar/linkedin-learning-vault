@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python Practice: Collections](https://media.licdn.com/dms/image/v2/D560DAQFCrLcz8K9sJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692643564786?e=2147483647&amp;v=beta&amp;t=k_-vXGjaevWvfYyAzHvMgQU-2Dx6uvdcfHxxHznPHyQ)

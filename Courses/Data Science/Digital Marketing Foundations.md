@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - skill/digital-marketing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Digital Marketing Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQFnSmisuneXVA/learning-public-crop_675_1200/B4EZlZfSJbHgAY-/0/1758142997337?e=2147483647&amp;v=beta&amp;t=2olnUg1DuyqFziWpU27CQFTb2FtXgRQUUB0wpqlU04c)

@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Integrating Generative AI into Business Strategy](https://media.licdn.com/dms/image/v2/D560DAQEcOVJOBn2aMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704764400565?e=2147483647&amp;v=beta&amp;t=w3HFY88QAGlt0GHUG8eybGc3N8IVF_sClTOQo4tJVco)

@@ -28,7 +28,7 @@ tags:
   - skill/confluence
   - skill/jira
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Increasing Efficiency with Jira and Confluence Integrations](https://media.licdn.com/dms/image/v2/D4D0DAQGZj-Shd3WT5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737506682351?e=2147483647&amp;v=beta&amp;t=qg32WzGnKakfj7uDZiakPx1MQEJ1iBAJCVKIaNkXONI)

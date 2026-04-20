@@ -26,7 +26,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Agentic AI: Getting Started with AutoGen Studio](https://media.licdn.com/dms/image/v2/D4D0DAQGdgiKpsUcTLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732668205114?e=2147483647&amp;v=beta&amp;t=i_Hm9pIEuGG3bryjFlFDETpTUUovMAj3HuyDxLs5Rhs)

@@ -23,7 +23,7 @@ tags:
   - skill/public-speaking
   - skill/speech-writing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Writing and Delivering Speeches](https://media.licdn.com/dms/image/v2/C4E0DAQEl4-19Nlj05g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617389989822?e=2147483647&amp;v=beta&amp;t=zFv8UbbFfvpAZyEV7-1ZzyoMdlOZYIHfIbiF8m84G5M)

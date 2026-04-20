@@ -18,7 +18,7 @@ tags:
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Dependency Mapping for Cloud Migration](https://media.licdn.com/dms/image/v2/D4D0DAQExFUbbwyl7gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702676695674?e=2147483647&amp;v=beta&amp;t=ZMqWSx9MWR75DowzCbSQcb0FxRVZ9syMDSIBN3hQ3AM)

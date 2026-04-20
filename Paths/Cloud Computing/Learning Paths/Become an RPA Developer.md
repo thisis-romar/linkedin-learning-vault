@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-an-rpa-developer"
+url: https://www.linkedin.com/learning/paths/become-an-rpa-developer
 course_count: 3
 linkedin_topics:
   - Cloud Computing
@@ -14,8 +14,26 @@ tags:
   - topic/cloud-computing
   - topic/network-and-system-administration
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introducing Robotic Process Automation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Process Mining for Robotic Process Automation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Rpa Ai And Cognitive Tech For Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become an RPA Developer

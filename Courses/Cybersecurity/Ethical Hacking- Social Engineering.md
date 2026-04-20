@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: Social Engineering](https://media.licdn.com/dms/image/v2/C4E0DAQHdtwBvHAVNRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576191498892?e=2147483647&amp;v=beta&amp;t=XxAiyGRjlC0IB4NYHn-HRjfkuU_Mn0QO6ZNsprUnFlM)

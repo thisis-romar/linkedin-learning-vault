@@ -32,7 +32,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to MLSecOps](https://media.licdn.com/dms/image/v2/D560DAQHs1T-HUespIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712095544658?e=2147483647&amp;v=beta&amp;t=6JO_HCVWm9oBz2uMB4BcFNSDAxrhjnuPCB7KQnbQ_3s)

@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/business-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics](https://media.licdn.com/dms/image/v2/D560DAQGGMalAIaWm2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008938569?e=2147483647&amp;v=beta&amp;t=KJ3_7HsH-FQY5w4kr8Kvj46bQ15jaPQ1Dh8oL0nvTHg)

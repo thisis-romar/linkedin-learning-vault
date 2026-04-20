@@ -26,7 +26,7 @@ tags:
   - skill/itil
   - skill/problem-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Putting ITIL® into Practice: Problem Management Techniques](https://media.licdn.com/dms/image/v2/D4D0DAQEjaAh7pQf_pw/learning-public-crop_675_1200/B4DZZkwH7jHwAY-/0/1745447059516?e=2147483647&amp;v=beta&amp;t=AgolTHkOi3wQq_7y-BZzDHSYzwIKyHVsDLqj5Bf6Nkw)

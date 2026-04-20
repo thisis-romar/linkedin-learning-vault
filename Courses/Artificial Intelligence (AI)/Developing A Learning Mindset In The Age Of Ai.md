@@ -25,7 +25,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-for-learning-and-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Developing A Learning Mindset In The Age Of Ai](https://media.licdn.com/dms/image/v2/D4D0DAQHOd4vNIFfMGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734990669720?e=2147483647&amp;v=beta&amp;t=lFCP7V6EtHWT6xelZFY9Zv_VMQCQm_G-d4SgAn3JSRk)

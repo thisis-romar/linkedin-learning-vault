@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-business-analytics-skills"
+url: https://www.linkedin.com/learning/paths/advance-your-business-analytics-skills
 course_count: 11
 linkedin_topics:
   - Data Science
@@ -10,8 +10,58 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Data Analytics for Business Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Predictive Analytics Essential Training For Executives]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Predictive Analytics Essential Training- Estimating and Ensuring ROI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using Tableau to Discover Powerful Business Insights]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Data Modeling with DAX]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL for Data Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Hands-On Practice- Solve Business Problems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Predictive Analytics Essential Training- Data Mining]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Predictive Customer Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Science Foundations- Data Assessment for Predictive Modeling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Visualization for Data Analysts and Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Business Analytics Skills

@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/strategic-thinking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Strategic Thinking](https://media.licdn.com/dms/image/v2/D560DAQGJFjBHlbRjaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687911200974?e=2147483647&amp;v=beta&amp;t=UTkulsN-j1uuWiLXWOWH9LU8yvvXRhhy0bciWN-xk_Y)

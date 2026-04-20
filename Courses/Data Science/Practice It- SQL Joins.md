@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Practice It: SQL Joins](https://media.licdn.com/dms/image/v2/D4E0DAQE6C_8Je4EAqg/learning-public-crop_675_1200/B4EZdDDjseHcAc-/0/1749176695867?e=2147483647&amp;v=beta&amp;t=ainHQWQXhLW4kmphiQojglbOElUhPLjjNa6m68-lnpE)

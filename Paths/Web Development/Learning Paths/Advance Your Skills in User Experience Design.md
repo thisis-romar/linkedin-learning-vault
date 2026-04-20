@@ -2,16 +2,58 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-in-user-experience-design"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-in-user-experience-design
 course_count: 9
 linkedin_topics:
   - Web Development
-louvain_cluster: 11
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Figma For Ux Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Sketching For Ux Designers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[UX Deep Dive- Mapping]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Practical Accessibility For Designers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Ux Foundations Interaction Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Design Powered by Data- Getting Started with UX Web Analytics (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Figma for UX Research- Presentations that Stand Out]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Miro for UX- Brainstorming and Collaboration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[UX Deep Dive- Remote Research]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills in User Experience Design

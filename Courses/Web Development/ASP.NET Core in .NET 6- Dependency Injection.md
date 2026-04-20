@@ -26,7 +26,7 @@ tags:
   - skill/asp-net-core
   - skill/dependency-injection
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![ASP.NET Core in .NET 6: Dependency Injection](https://media.licdn.com/dms/image/v2/C4D0DAQE_rmyIpbOtCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651080063253?e=2147483647&amp;v=beta&amp;t=kuP6Mr4L0IBNaW_8tWzLSbEDa8uxtLDzrEOjgObUNpo)

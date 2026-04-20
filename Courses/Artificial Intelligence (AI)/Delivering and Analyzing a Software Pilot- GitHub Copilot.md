@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Delivering and Analyzing a Software Pilot: GitHub Copilot](https://media.licdn.com/dms/image/v2/D4D0DAQH257Ak0HzYQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729632133892?e=2147483647&amp;v=beta&amp;t=6SjIfwx5wQAR2dJVS_X1NjiMHdEuj11HURTH8Flcbvg)

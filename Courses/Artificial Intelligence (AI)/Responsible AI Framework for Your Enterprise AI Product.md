@@ -27,7 +27,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Responsible AI Framework for Your Enterprise AI Product](https://media.licdn.com/dms/image/v2/D4E0DAQFOLD6idifEyA/learning-public-crop_675_1200/B4EZUlW7.JHUAY-/0/1740088525080?e=2147483647&amp;v=beta&amp;t=peMOPseXV6j7wtE5X87kpMUUbplojfeOAqTy2eDn3Wo)

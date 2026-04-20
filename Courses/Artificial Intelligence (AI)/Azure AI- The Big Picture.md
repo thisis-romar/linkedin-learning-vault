@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure AI: The Big Picture](https://media.licdn.com/dms/image/v2/D4E0DAQGX3UHWm7LTTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727470264407?e=2147483647&amp;v=beta&amp;t=eRzZwoDUCcbCrl-YGkR6fDVn_YcYxrRry625tRNyz58)

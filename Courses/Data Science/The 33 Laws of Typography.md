@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/typography
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The 33 Laws of Typography](https://media.licdn.com/dms/image/v2/C4E0DAQFmOUUovGUzwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568071736152?e=2147483647&amp;v=beta&amp;t=BXyzWR3Q9l7UVr4eoM5XPCmLGO_nL6Pz4uMz0hq-2ts)

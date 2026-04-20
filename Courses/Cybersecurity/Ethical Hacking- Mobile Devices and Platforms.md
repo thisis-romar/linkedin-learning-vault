@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: Mobile Devices and Platforms](https://media.licdn.com/dms/image/v2/C4D0DAQEjWT-pm322YQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1570724627125?e=2147483647&amp;v=beta&amp;t=vfaJG_hc7buOyOhxK5Eqk0kypgzWc1ckYQ0E0HUfUqI)

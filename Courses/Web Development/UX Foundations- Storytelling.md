@@ -23,7 +23,7 @@ tags:
   - skill/storytelling
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![UX Foundations: Storytelling](https://media.licdn.com/dms/image/v2/C560DAQHYBmnZVIKxgw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588876481777?e=2147483647&amp;v=beta&amp;t=nkfcp03JPs4ES3A8HDcsi2SKVHpIb9W3ETH0xGXFfkI)

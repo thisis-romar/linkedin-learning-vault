@@ -16,7 +16,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Deploying Django Apps: Make Your Site Go Live](https://media.licdn.com/dms/image/v2/C4E0DAQFqmpRfye60_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669661418?e=2147483647&amp;v=beta&amp;t=47LLGThgzQCU3ktmVDucOL8QWpmc4wNLFSwxQLLmRE4)

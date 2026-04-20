@@ -26,7 +26,7 @@ tags:
   - skill/devsecops
   - skill/security-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![DevSecOps: Automated Security Testing](https://media.licdn.com/dms/image/v2/C4E0DAQHuQ1tCymk6jg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668353438?e=2147483647&amp;v=beta&amp;t=pLj_RB9ec21IHwebmGp5PaED-IgDNK_-BhCqo-Om85c)

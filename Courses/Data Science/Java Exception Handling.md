@@ -28,7 +28,7 @@ tags:
   - skill/exception-management
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Java Exception Handling](https://media.licdn.com/dms/image/v2/C4D0DAQHZ6d8egwHeEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627922020189?e=2147483647&amp;v=beta&amp;t=FV4yYg2MgveFeqnpH9GYQ-ZKwH9wpQuNT3HWaDygNR8)

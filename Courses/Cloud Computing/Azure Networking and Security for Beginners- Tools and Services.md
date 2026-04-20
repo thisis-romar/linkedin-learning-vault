@@ -28,7 +28,7 @@ tags:
   - skill/cloud-security
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure Networking and Security for Beginners: Tools and Services](https://media.licdn.com/dms/image/v2/D4D0DAQHbr00BDailXw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721763489368?e=2147483647&amp;v=beta&amp;t=U309jMw_oxpWEcW_Fu9la53PiGO2thmdZVQXZPWmutM)

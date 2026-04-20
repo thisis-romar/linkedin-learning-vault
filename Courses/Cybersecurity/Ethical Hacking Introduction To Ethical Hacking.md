@@ -22,7 +22,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking Introduction To Ethical Hacking](https://media.licdn.com/dms/image/v2/D560DAQH9NesLAe2Q7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691004358172?e=2147483647&amp;v=beta&amp;t=2tgM7ogG7lGx8cWxlIzujuUfcnO-sHvdcDEQa247REQ)

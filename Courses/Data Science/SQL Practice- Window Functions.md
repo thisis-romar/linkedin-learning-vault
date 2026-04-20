@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL Practice: Window Functions](https://media.licdn.com/dms/image/v2/D560DAQHD2DqQXzb5HQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692901619138?e=2147483647&amp;v=beta&amp;t=V3kzKoN0L9o8eXAtpwF8Kc24vu36UdIu3pU9IdExX9A)

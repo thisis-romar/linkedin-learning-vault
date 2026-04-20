@@ -21,7 +21,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Excel Desktop Microsoft 365](https://media.licdn.com/dms/image/v2/D560DAQFkwzo-CoSMQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712614617930?e=2147483647&amp;v=beta&amp;t=WPfEDHKpJamyXPblqR3PRi5pjZm60ziiYia6qEDNCQI)

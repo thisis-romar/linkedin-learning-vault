@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-microsoft-power-bi-15399694"
+url: https://www.linkedin.com/learning/paths/master-microsoft-power-bi-15399694
 course_count: 6
 linkedin_topics:
   - Data Science
@@ -10,8 +10,38 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Power BI- Working Together with ChatGPT]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Data Methods]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Dataflows Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Top Skills]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI- Integrating AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master Microsoft Power BI

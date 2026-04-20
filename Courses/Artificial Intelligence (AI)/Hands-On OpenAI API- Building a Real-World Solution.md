@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/technical-solution-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On OpenAI API: Building a Real-World Solution](https://media.licdn.com/dms/image/v2/D4D0DAQH1trVwWKdtyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709333885301?e=2147483647&amp;v=beta&amp;t=eF5iTlfk5-4UA5K68mmOSZE_7Tx9CG0uQspF3LN5lrU)

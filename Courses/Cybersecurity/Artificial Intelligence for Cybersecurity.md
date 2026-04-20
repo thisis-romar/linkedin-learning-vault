@@ -18,7 +18,7 @@ tags:
   - topic/security
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Artificial Intelligence for Cybersecurity](https://media.licdn.com/dms/image/v2/D560DAQHoED0v8_aCmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696360956899?e=2147483647&amp;v=beta&amp;t=2yYNwmQIYMj-_OXBoaJZRV3c8f5AMRP8J1aTMk-5188)

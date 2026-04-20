@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/develop-your-ai-skills-as-a-cybersecurity-professional"
+url: https://www.linkedin.com/learning/paths/develop-your-ai-skills-as-a-cybersecurity-professional
 course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,46 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Artificial Intelligence for Cybersecurity]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI in Cybersecurity- The Future of Red Teaming and Blue Teaming]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Artificial Intelligence and Application Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Red Teaming for Generative AI- Building Robust and Responsible Solutions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to MLSecOps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leveraging AI for Security Testing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Threat Modeling for AI-ML Systems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Develop Your AI Skills as a Cybersecurity Professional

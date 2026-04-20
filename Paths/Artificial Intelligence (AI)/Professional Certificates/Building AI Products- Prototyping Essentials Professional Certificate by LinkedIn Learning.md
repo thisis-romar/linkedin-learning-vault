@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/building-ai-products-prototyping-essentials-professional-certificate-by-linkedin-learning"
+url: https://www.linkedin.com/learning/paths/building-ai-products-prototyping-essentials-professional-certificate-by-linkedin-learning
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,38 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Welcome To The Building Ai Products Prototyping Essentials Professional Certificate]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Product Ideation- Principles and Practical Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible AI Framework for Your Enterprise AI Product]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Product Development- Technical Feasibility and Prototyping]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Data Strategy- Data Procurement and Storage]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Product Development- Secure by Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building AI Products: Prototyping Essentials Professional Certificate by LinkedIn Learning

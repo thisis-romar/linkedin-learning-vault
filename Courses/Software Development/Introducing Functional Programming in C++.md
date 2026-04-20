@@ -25,7 +25,7 @@ tags:
   - skill/functional-programming
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introducing Functional Programming in C++](https://media.licdn.com/dms/image/v2/C4E0DAQH51xAl4RFJ0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117610592?e=2147483647&amp;v=beta&amp;t=tXzvEu1g5BOb63e5upc8jpo7c5FTHuFoKLz9x8bCdNo)

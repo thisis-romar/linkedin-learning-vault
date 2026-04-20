@@ -19,7 +19,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![How to Keep Your Team on the Bleeding Edge of AI Innovation](https://media.licdn.com/dms/image/v2/D560DAQF48GB32fBJDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714607313742?e=2147483647&amp;v=beta&amp;t=TukmhhU1lSnJ85ko8TgKWDMF5QztGwJY7bE2QhXcl8k)

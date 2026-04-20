@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/develop-your-spss-skills"
+url: https://www.linkedin.com/learning/paths/develop-your-spss-skills
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,38 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Spss Wrangling Visualizing And Modeling Data]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning & AI Foundations- Linear Regression]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning and AI Foundations- Classification Modeling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning and AI Foundations- Decision Trees with SPSS]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning and AI- Advanced Decision Trees with SPSS]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning and AI Foundations- Clustering and Association]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Develop Your SPSS Skills

@@ -23,7 +23,7 @@ tags:
   - skill/system-administration
   - skill/red-hat-enterprise-linux-rhel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage](https://media.licdn.com/dms/image/v2/D560DAQECO9NSG7xOWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709247094765?e=2147483647&amp;v=beta&amp;t=avSBf4J1oElacMXKyX9GwoHo8T14ysdEdKjnrrMCfAg)

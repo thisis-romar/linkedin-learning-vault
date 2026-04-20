@@ -27,7 +27,7 @@ tags:
   - skill/data-analysis
   - skill/business-data-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Actionable Insights and Business Data in Practice](https://media.licdn.com/dms/image/v2/D560DAQGkbxybAA3GKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686856002542?e=2147483647&amp;v=beta&amp;t=rCNZEoBOlibvKWkoYotOLg8xqeNdUAVQtaUo0E8AJeQ)

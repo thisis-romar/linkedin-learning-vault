@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-sql-for-data-science"
+url: https://www.linkedin.com/learning/paths/master-sql-for-data-science
 course_count: 6
 linkedin_topics:
   - Data Science
@@ -14,8 +14,38 @@ tags:
   - topic/data-science
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[SQL- Data Reporting and Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Intermediate SQL- Data Reporting and Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Hands-On Practice- Solve Business Problems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced SQL for Data Scientists]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced SQL for Query Tuning and Performance Optimization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced SQL for Data Science- Time Series]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master SQL for Data Science

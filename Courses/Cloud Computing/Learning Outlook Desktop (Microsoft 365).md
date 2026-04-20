@@ -23,7 +23,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Outlook Desktop (Microsoft 365)](https://media.licdn.com/dms/image/v2/C4D0DAQElJVbEcraezQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679597245435?e=2147483647&amp;v=beta&amp;t=V0e_3Gh9lwGGiXzIis8EqMmmx3xvtbMRHUB-31ftvjU)

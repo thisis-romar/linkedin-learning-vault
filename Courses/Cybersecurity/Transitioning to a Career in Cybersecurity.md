@@ -33,7 +33,7 @@ tags:
   - skill/cybersecurity
   - skill/career-transitioning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Transitioning to a Career in Cybersecurity](https://media.licdn.com/dms/image/v2/D560DAQHRuxY7gftAZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705185013802?e=2147483647&amp;v=beta&amp;t=fCmK3AS7UeR_s8w3lxENghrvAsjz-ZsdvEieVde1_t8)

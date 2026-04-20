@@ -29,7 +29,7 @@ tags:
   - skill/data-stewardship
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Automated Data Governance in Practice](https://media.licdn.com/dms/image/v2/D4E0DAQFjDkSmENS-5A/learning-public-crop_675_1200/B4EZS4dWeGGgAc-/0/1738261489820?e=2147483647&amp;v=beta&amp;t=Yr9Codr5DJoQPeUXkYKhBnP9gJ9UzuDbZz222jrDW0k)

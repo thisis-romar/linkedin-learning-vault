@@ -27,7 +27,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python Data Structures:  Trees](https://media.licdn.com/dms/image/v2/C4E0DAQH_Em7BoVMKfQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614101500291?e=2147483647&amp;v=beta&amp;t=b5l6sKjpqIUjZ3K0Z7Yz5lWIsDTpbhLOG2jcSoXakeY)

@@ -6,7 +6,7 @@ course_count: 11
 tags:
   - skill
   - skill/retrieval-augmented-generation-rag
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Retrieval-Augmented Generation (RAG)

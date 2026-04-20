@@ -29,7 +29,7 @@ tags:
   - skill/spring-framework
   - skill/spring-boot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Spring: Spring Boot Actuator](https://media.licdn.com/dms/image/v2/C4E0DAQG75ufonreaEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643410169109?e=2147483647&amp;v=beta&amp;t=StKwKToKmzc-3CfC_zc4cpqU2Nv_b2ydQaBfaeLve9c)

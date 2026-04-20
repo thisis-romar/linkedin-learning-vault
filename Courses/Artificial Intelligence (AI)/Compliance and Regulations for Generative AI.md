@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/regulatory-compliance
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Compliance and Regulations for Generative AI](https://media.licdn.com/dms/image/v2/D4D0DAQHBw8wDaw_IHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713457300053?e=2147483647&amp;v=beta&amp;t=zV8-kg6hvhpKDhEWV7dA-SJZhwm_c8y8QWLaBIluD9c)

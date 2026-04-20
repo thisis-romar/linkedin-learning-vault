@@ -23,7 +23,7 @@ tags:
   - skill/user-interface-prototyping
   - skill/figma-software
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Lo-Fi to Hi-Fi: Prototyping in Figma](https://media.licdn.com/dms/image/v2/C4E0DAQGoBjOAjI9yQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668799442072?e=2147483647&amp;v=beta&amp;t=fuvPaDBuvTEq2gE1-4j2R7iOq2BfyuFJ3q0qG2t1xvc)

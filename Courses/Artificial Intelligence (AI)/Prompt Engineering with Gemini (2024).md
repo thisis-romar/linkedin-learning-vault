@@ -31,7 +31,7 @@ tags:
   - skill/google-gemini
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Prompt Engineering with Gemini (2024)](https://media.licdn.com/dms/image/v2/D4E0DAQExPVvaiVwKuw/learning-public-crop_675_1200/B4EZfmDFTWHYAc-/0/1751911257653?e=2147483647&amp;v=beta&amp;t=yhs_EU8x5NQTW7hP9n9B_Pec6u_Sr_rI9JwYDQCln3Q)

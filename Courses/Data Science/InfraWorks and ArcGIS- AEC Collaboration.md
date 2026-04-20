@@ -23,7 +23,7 @@ tags:
   - skill/arcgis-products
   - skill/autodesk-infraworks
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![InfraWorks and ArcGIS: AEC Collaboration](https://media.licdn.com/dms/image/v2/C510DAQGnzGKIi0xKqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581552165870?e=2147483647&amp;v=beta&amp;t=0Vz2AJjKmX0aiWItWhHzSbsOfAj-6I_pXXh6CnTuqSM)

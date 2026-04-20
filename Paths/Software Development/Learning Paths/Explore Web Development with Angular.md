@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-web-development-with-angular"
+url: https://www.linkedin.com/learning/paths/explore-web-development-with-angular
 course_count: 6
 linkedin_topics:
   - Software Development
@@ -12,8 +12,38 @@ tags:
   - learning-path
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Angular Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning the Angular CLI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Angular- Testing and Debugging]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Angular- Creating and Hosting a Full-Stack Site]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Angular- Cloud-Powered Apps with Firebase]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[WebSocket Communications with Node and Angular]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore Web Development with Angular

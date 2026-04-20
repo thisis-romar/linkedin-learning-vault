@@ -27,7 +27,7 @@ tags:
   - skill/algorithmic-trading
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Practical Python for Algorithmic Trading](https://media.licdn.com/dms/image/v2/D560DAQGJu6wunUGBDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690825887820?e=2147483647&amp;v=beta&amp;t=WzT3lm10MFL6SpZcfh5Z_kj4-4m5x4Z5hIo62L4-nB8)

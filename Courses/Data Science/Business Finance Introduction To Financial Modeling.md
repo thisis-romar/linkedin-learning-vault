@@ -23,7 +23,7 @@ tags:
   - skill/corporate-finance
   - skill/financial-modeling
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Finance Introduction To Financial Modeling](https://media.licdn.com/dms/image/v2/D560DAQELq15JO8HXPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729722671043?e=2147483647&amp;v=beta&amp;t=7h7hmfy-8oytUyf0PervrTzicNTw7E1NM6Y-GrVqaLg)

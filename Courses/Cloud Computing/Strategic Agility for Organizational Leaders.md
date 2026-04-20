@@ -30,7 +30,7 @@ tags:
   - skill/strategy-execution
   - skill/lead-change
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Strategic Agility for Organizational Leaders](https://media.licdn.com/dms/image/v2/D4E0DAQGyR_Aoh74kPQ/learning-public-crop_675_1200/B4EZhioHl6GUAc-/0/1754001341119?e=2147483647&amp;v=beta&amp;t=cWchP4y9PypDfjK2X0s3S6ngb0RcdrsYX9GHRsL26o4)

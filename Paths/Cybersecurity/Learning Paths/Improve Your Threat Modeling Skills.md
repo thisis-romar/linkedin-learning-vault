@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/improve-your-threat-modeling-skills"
+url: https://www.linkedin.com/learning/paths/improve-your-threat-modeling-skills
 course_count: 6
 linkedin_topics:
   - Cybersecurity
@@ -10,8 +10,38 @@ louvain_cluster: 4
 tags:
   - learning-path
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Threat Modeling for Security Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Threat Modeling- Spoofing In Depth]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Threat Modeling- Tampering in Depth]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Threat Modeling- Repudiation in Depth]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Threat Modeling- Information Disclosure in Depth]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Threat Modeling- Denial of Service and Expansion of Authority]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Improve Your Threat Modeling Skills

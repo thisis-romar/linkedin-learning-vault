@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning the Python 3 Standard Library](https://media.licdn.com/dms/image/v2/D560DAQGa9J7SjcoqxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720644234693?e=2147483647&amp;v=beta&amp;t=_Pi99_2J4YOdxDLuQBf8KTNTFrMRq-8g4LecKImUSac)

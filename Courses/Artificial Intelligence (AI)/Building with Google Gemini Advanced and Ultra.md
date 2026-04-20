@@ -32,7 +32,7 @@ tags:
   - skill/gemini
   - skill/google-gemini
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building with Google Gemini Advanced and Ultra](https://media.licdn.com/dms/image/v2/D4D0DAQHRlgkRZR_N9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709245833557?e=2147483647&amp;v=beta&amp;t=MehWANnuStDTSGu-TWdJcn6iy--bwEPpajB_83V7oL0)

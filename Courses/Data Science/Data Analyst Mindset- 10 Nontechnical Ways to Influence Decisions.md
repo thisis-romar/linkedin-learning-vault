@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/data-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Analyst Mindset: 10 Nontechnical Ways to Influence Decisions](https://media.licdn.com/dms/image/v2/D560DAQH-aE9xH5t7Ig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694208112276?e=2147483647&amp;v=beta&amp;t=iR1o8Ro5APuHsIJ2nZCq3bo0kiXCeBeRW75tprfUquA)

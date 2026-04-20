@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![UX Research: Being Flexible](https://media.licdn.com/dms/image/v2/C560DAQGapjArGK8wug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644516915545?e=2147483647&amp;v=beta&amp;t=qNKYd6IdRQafp-pE6VnZOEb4JRVaRv5Vl9qqMbYy98U)

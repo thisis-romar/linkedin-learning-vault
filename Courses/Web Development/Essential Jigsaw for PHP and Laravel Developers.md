@@ -28,7 +28,7 @@ tags:
   - skill/laravel
   - skill/php
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Essential Jigsaw for PHP and Laravel Developers](https://media.licdn.com/dms/image/v2/C560DAQHlII2lNyUsRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639597396787?e=2147483647&amp;v=beta&amp;t=Xkas1rylTvTv_xrRLs9pzK6TlirBpW8Pb5FkJubwR0o)

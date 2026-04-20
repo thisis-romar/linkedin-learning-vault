@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![CSS: Variables and Fluid Layouts](https://media.licdn.com/dms/image/v2/D4D0DAQEPyNySxD5aOg/learning-public-crop_675_1200/B4DZYmS.4.GkAY-/0/1744399232878?e=2147483647&amp;v=beta&amp;t=P9YglCxaatDQ99RbpBVjQrcX2gwZq540kv3-b-E8aiY)

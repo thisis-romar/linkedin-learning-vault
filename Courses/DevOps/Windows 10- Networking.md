@@ -18,7 +18,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Windows 10: Networking](https://media.licdn.com/dms/image/v2/D560DAQG_rHbE8mg1-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687392262501?e=2147483647&amp;v=beta&amp;t=OT3G-Lelt6QAGcvzRwovRqebCT_u0MRSFLLGoWikm2Q)

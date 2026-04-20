@@ -2,16 +2,50 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-as-a-user-experience-researcher"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-as-a-user-experience-researcher
 course_count: 7
 linkedin_topics:
   - Web Development
-louvain_cluster: 11
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Ux Foundations Research]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[UX Deep Dive- Foundational Research]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[UX Research- Journey Mapping]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[UX Research for Agile Teams]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[UX Research- Being Flexible]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Figma for UX Research- Presentations that Stand Out]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Conducting Remote UX Research Interviews]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills as a User Experience Researcher

@@ -17,7 +17,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Strategic AI Prompting for Managers: Leading Smarter with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQEzF5GCS_1iNg/learning-public-crop_675_1200/B56Zg.W9.nHQAY-/0/1753392865964?e=2147483647&amp;v=beta&amp;t=_SZsxTEEruwa8bqPnA9UZd9RfLtu3VTAMt5u-sbVrwI)

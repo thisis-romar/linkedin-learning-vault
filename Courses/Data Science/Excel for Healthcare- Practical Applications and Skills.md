@@ -28,7 +28,7 @@ tags:
   - skill/microsoft-excel
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel for Healthcare: Practical Applications and Skills](https://media.licdn.com/dms/image/v2/D4D0DAQHkIBThz5nj3Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727391844953?e=2147483647&amp;v=beta&amp;t=ZZKgFN5O5owlcSXkuegRg1Kt-WpbOd8edo3P4R6TuJA)

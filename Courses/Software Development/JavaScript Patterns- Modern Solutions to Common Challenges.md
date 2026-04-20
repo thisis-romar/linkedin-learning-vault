@@ -25,7 +25,7 @@ tags:
   - skill/javascript
   - skill/coding-practices
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JavaScript Patterns: Modern Solutions to Common Challenges](https://media.licdn.com/dms/image/v2/D4E0DAQF1L-ByY75vUw/learning-public-crop_675_1200/B4EZbKgjCRGQAY-/0/1747154252674?e=2147483647&amp;v=beta&amp;t=EX33dWi3R2clFIjO6kM56n79hLCQWdk3Pqftx4ryC7M)

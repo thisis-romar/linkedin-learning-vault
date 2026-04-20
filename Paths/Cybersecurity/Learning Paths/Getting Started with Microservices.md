@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-microservices"
+url: https://www.linkedin.com/learning/paths/getting-started-with-microservices
 course_count: 3
 linkedin_topics:
   - Cybersecurity
@@ -12,8 +12,26 @@ tags:
   - learning-path
   - topic/security
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Microservices Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microservices- Design Patterns]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microservices- Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with Microservices

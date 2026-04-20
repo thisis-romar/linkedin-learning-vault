@@ -28,7 +28,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/snowflake
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Engineering Project: Build Streaming Ingestion Pipelines for Snowflake with AWS](https://media.licdn.com/dms/image/v2/D560DAQFYxkbCu6heUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707265232207?e=2147483647&amp;v=beta&amp;t=BqmAu3bGAEAjxMNoh5fRf8caE5tLQ8i-XVyeNNJG_R4)

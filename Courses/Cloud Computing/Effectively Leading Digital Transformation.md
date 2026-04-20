@@ -17,7 +17,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Effectively Leading Digital Transformation](https://media.licdn.com/dms/image/v2/D560DAQEgK74eSGpfkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696014828986?e=2147483647&amp;v=beta&amp;t=p5WrrQaMgJeBfvY7u-oUhPuYxBMcdWGnoMI-RgzLWxQ)

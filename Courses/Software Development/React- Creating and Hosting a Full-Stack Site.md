@@ -29,7 +29,7 @@ tags:
   - skill/full-stack-development
   - skill/react-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![React: Creating and Hosting a Full-Stack Site](https://media.licdn.com/dms/image/v2/D4E0DAQF0BLWJuFKYYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731708035316?e=2147483647&amp;v=beta&amp;t=cergr_ZvFSb-MogqOrOpAr9xN1xpI5kjb5Av4uDTk1w)

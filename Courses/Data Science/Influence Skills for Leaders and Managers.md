@@ -25,7 +25,7 @@ tags:
   - skill/influencing-others
   - skill/leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Influence Skills for Leaders and Managers](https://media.licdn.com/dms/image/v2/D560DAQGaGhEpKIt0Sw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687558181011?e=2147483647&amp;v=beta&amp;t=7WIoA9tNVRQEDBcL-pmHtkfD0rshi5OF34QkEWlX4M4)

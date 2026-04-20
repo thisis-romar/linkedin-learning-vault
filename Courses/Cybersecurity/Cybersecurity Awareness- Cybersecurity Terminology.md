@@ -30,7 +30,7 @@ tags:
   - skill/information-security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Awareness: Cybersecurity Terminology](https://media.licdn.com/dms/image/v2/C560DAQFAhw3ziR_meA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661795123072?e=2147483647&amp;v=beta&amp;t=LyFjK4EtIQd4w93bsgrNN95irjnqVvZEubJCuapOYns)

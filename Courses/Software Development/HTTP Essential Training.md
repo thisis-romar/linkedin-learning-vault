@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![HTTP Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQHlCMUIgqq4Xg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118413530?e=2147483647&amp;v=beta&amp;t=JhjFNxHVGSU0trcDYkhLrM87D3_zGC4ecZO8GB-TWtE)

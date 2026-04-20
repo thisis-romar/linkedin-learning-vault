@@ -30,7 +30,7 @@ tags:
   - skill/convolutional-neural-networks-cnn
   - skill/deep-learning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Deep Learning with Python: Convolutional Neural Networks](https://media.licdn.com/dms/image/v2/D4E0DAQEkUgFwxz9nxA/learning-public-crop_675_1200/B4EZd__HrXHgAg-/0/1750198942772?e=2147483647&amp;v=beta&amp;t=7US34NHV6L_lyhRJ-fRB8RgTwT-HgdzJL4TUZrRqWGw)

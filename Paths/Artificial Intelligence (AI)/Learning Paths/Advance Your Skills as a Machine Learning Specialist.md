@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-as-a-machine-learning-specialist"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-as-a-machine-learning-specialist
 course_count: 9
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,50 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Machine Learning with Python- Decision Trees]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Python- k-Means Clustering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Python- Association Rules]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Python- Logistic Regression]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning and AI Foundations- Decision Trees with KNIME]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning and AI Foundations- Causal Inference and Modeling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning and AI Foundations- Prediction, Causation, and Statistical Inference]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Deep Learning- Model Optimization and Tuning (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills as a Machine Learning Specialist

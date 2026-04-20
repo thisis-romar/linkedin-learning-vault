@@ -25,7 +25,7 @@ tags:
   - skill/sustainable-business
   - skill/supply-chain-operations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Fundamentals of Sustainable Supply Chains](https://media.licdn.com/dms/image/v2/C560DAQG6rfEwdAq3bw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630436420286?e=2147483647&amp;v=beta&amp;t=s7yi3C_XXs6XRJiEoRF1Melo5NPSnUAdj-7qGxth8uY)

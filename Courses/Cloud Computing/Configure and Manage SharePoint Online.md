@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/sharepoint
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Configure and Manage SharePoint Online](https://media.licdn.com/dms/image/v2/D560DAQH_-qP32fYlXA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685037500201?e=2147483647&amp;v=beta&amp;t=nDKcgdt131_RFioEOS0lt8Bd0slV0N6P-xATgzCZzUs)

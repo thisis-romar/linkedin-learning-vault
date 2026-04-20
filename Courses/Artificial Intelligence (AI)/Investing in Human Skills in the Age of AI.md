@@ -25,7 +25,7 @@ tags:
   - skill/emotional-intelligence
   - skill/critical-thinking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Investing in Human Skills in the Age of AI](https://media.licdn.com/dms/image/v2/D560DAQEU0BlxjPItig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725035639557?e=2147483647&amp;v=beta&amp;t=_vY2cuUfvrZXEGDoK8oSPk7c90Rox3czTNNFzD6PtRI)

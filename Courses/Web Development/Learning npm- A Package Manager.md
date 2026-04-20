@@ -29,7 +29,7 @@ tags:
   - skill/package-management
   - skill/npm
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning npm: A Package Manager](https://media.licdn.com/dms/image/v2/C4D0DAQFg7WtswO2x6w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679938394111?e=2147483647&amp;v=beta&amp;t=LT14fGNBKJt3K2tLYLBOZn33aw1Qko0tB6FO0fgBkfk)

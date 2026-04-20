@@ -30,7 +30,7 @@ tags:
   - skill/application-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure AI Engineering: Speech, Language, and Vision Solutions](https://media.licdn.com/dms/image/v2/D4D0DAQEFzp92FB3_cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008951241?e=2147483647&amp;v=beta&amp;t=Jhgi7Fu4Psw02QhuLUccIfJHcU20fi3ljfxIrjJMV9o)

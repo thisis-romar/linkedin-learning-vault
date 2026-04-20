@@ -25,7 +25,7 @@ tags:
   - skill/project-management
   - skill/github
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Practical GitHub Project Management and Collaboration](https://media.licdn.com/dms/image/v2/D560DAQED-m1hwFpEWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686944899848?e=2147483647&amp;v=beta&amp;t=VnE1Lybft4PfkhKsuPymyh2Epl4MAN_ESCEQuXWLTXY)

@@ -17,7 +17,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Pc Maintenance And Performance](https://media.licdn.com/dms/image/v2/D560DAQG78ioRCWY3-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719601864327?e=2147483647&amp;v=beta&amp;t=HnMaVuqtiv05HKXOpUMMg_hCvjy-elfQgntstP5rqA8)

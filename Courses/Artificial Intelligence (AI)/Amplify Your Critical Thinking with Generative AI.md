@@ -19,7 +19,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Amplify Your Critical Thinking with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQGnlBu8p3T2nQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704757669591?e=2147483647&amp;v=beta&amp;t=r5KbqCh7k37AA9B4D57gkTVzXP8QgrmiJvm3m-_oL6w)

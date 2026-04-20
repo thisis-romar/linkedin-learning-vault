@@ -25,7 +25,7 @@ tags:
   - skill/content-management-systems-cms
   - skill/laravel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Winter CMS with Laravel](https://media.licdn.com/dms/image/v2/C4E0DAQHUs_xfbKqISA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1645736076311?e=2147483647&amp;v=beta&amp;t=7OPdhJ74i4bBhkLQQ85KoBPFfT-2Juw9FVmzRND_4xU)

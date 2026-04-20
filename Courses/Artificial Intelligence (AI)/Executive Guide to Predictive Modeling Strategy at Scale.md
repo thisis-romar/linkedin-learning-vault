@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/predictive-modeling
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Executive Guide to Predictive Modeling Strategy at Scale](https://media.licdn.com/dms/image/v2/C560DAQEZ9BpB52FHPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567800423045?e=2147483647&amp;v=beta&amp;t=ckrFgDiJ9cwJIkjjRH2fn412NP8SMXOXrFdxAOPYIek)

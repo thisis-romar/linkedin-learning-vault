@@ -30,7 +30,7 @@ tags:
   - skill/tech-career-skills
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Careers: Become an Identity and Access Management Manager](https://media.licdn.com/dms/image/v2/C560DAQGQm0H2C8ECxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671648514840?e=2147483647&amp;v=beta&amp;t=SFiAu88ybDE3eihcIg8gxBlelxb6BjP7nI3SiCTQWEc)

@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Swift 5: Protocol-Oriented Programming](https://media.licdn.com/dms/image/v2/C560DAQF5bvF-v4D6OA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578676972352?e=2147483647&amp;v=beta&amp;t=RQOV86o_U0avPB7P0FEWJ2LL0ng3U4ycraOTPPslLM8)

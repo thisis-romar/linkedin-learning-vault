@@ -17,7 +17,7 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Lean Technology Strategy: Starting Your Business Transformation](https://media.licdn.com/dms/image/v2/C4E0DAQHIpHUwGr5iBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117985088?e=2147483647&amp;v=beta&amp;t=-7G0or3i0aTjd4Af6SY-C_XuxBSObWcyJxY9KkUgpSM)

@@ -6,7 +6,7 @@ course_count: 9
 tags:
   - skill
   - skill/application-security
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Application Security

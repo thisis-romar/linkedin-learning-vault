@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Agents Made Simple: Your Zero-to-Hero Guide to Prompting for Work Automation](https://media.licdn.com/dms/image/v2/D4E0DAQFIEl2B5OjDYQ/learning-public-crop_675_1200/B4EZk1xLmcIsAY-/0/1757543709747?e=2147483647&amp;v=beta&amp;t=yRG8R57XEt4t2zI0JY3dMNXuSVrZZ34fRUhg5cQEAu0)

@@ -21,7 +21,7 @@ tags:
   - topic/data-science
   - skill/strategic-negotiations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Strategic Negotiation](https://media.licdn.com/dms/image/v2/C4D0DAQENYPyl_jM5gA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572390176653?e=2147483647&amp;v=beta&amp;t=aPG9Vzvpxb0izWSlvE9f2HoQ7O6fTr9al-9ixv8Vhco)

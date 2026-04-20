@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-as-a-supply-chain-manager"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-as-a-supply-chain-manager
 course_count: 15
 linkedin_topics:
   - Cybersecurity
@@ -10,8 +10,74 @@ louvain_cluster: 9
 tags:
   - learning-path
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Supply Chain And Operations Careers Certification Tips And Tricks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Acumen for Project Managers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Project Management- International Projects]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leading Remote Projects and Virtual Teams]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Project Management Foundations- Integration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Operational Excellence Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Lean Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Six Sigma Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Analytics for Business Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Measuring Business Performance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Requirements Elicitation and Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Supply Chain Cybersecurity- Preventing Supply Chain Attacks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Fundamentals of Sustainable Supply Chains]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Digital Transformation in Supply Chains]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills as a Supply Chain Manager

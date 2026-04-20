@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/api-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![API Testing Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQGYSZSvOzrO-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697137417352?e=2147483647&amp;v=beta&amp;t=CbxnBoZy9FzikMp3LPBSxgo1Qmjo3M71PRfamwuoC3k)

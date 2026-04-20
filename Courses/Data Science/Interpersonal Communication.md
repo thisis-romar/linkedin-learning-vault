@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - skill/interpersonal-communication
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Interpersonal Communication](https://media.licdn.com/dms/image/v2/D560DAQGK0nwKKcyHqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689186133224?e=2147483647&amp;v=beta&amp;t=m98yHUxfdk8jEkWLaWMb6w0MnqtUL2VmKiJbO0oBdOw)

@@ -6,7 +6,7 @@ course_count: 1
 tags:
   - skill
   - skill/cyber-threat-intelligence-cti
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Cyber Threat Intelligence (CTI)

@@ -27,7 +27,7 @@ tags:
   - skill/retrieval-augmented-generation-rag
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![RAG Fine-Tuning: Advanced Techniques for Accuracy and Model Performance](https://media.licdn.com/dms/image/v2/D4E0DAQHWChs2YOX_7w/learning-public-crop_675_1200/B4EZUAdM1dGgAc-/0/1739469410037?e=2147483647&amp;v=beta&amp;t=9DendI5y4TqLIKYtyEG9GDtObmYzPltUYENNRtVO_vY)

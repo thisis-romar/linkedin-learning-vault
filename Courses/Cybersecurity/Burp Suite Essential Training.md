@@ -25,7 +25,7 @@ tags:
   - skill/penetration-testing
   - skill/burp-suite
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Burp Suite Essential Training](https://media.licdn.com/dms/image/v2/C560DAQH7Bk5AZAZFGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643999879138?e=2147483647&amp;v=beta&amp;t=Ize4LkZTqwp7fAWDoFWf8Z_Vf3JwZSe-_OLz6rMcBHA)

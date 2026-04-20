@@ -25,7 +25,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Strengthen Your Decision-Making with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQH6o0dBpeKeSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723241795605?e=2147483647&amp;v=beta&amp;t=nwlrw4luFVO7hwGkRXDPX0c6WNNaGz1-tGjYN3eoYMI)

@@ -25,7 +25,7 @@ tags:
   - skill/responsive-web-design
   - skill/css-flexbox
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Responsive Layouts with CSS Flexbox](https://media.licdn.com/dms/image/v2/C4E0DAQHCgk8qhAKWLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117960994?e=2147483647&amp;v=beta&amp;t=xnZd_KNUpkZnUpNnG_V4fZRpJiYTSW3rZeV0-2pNDrE)

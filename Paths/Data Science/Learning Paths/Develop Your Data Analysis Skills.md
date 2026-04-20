@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/develop-your-data-analysis-skills"
+url: https://www.linkedin.com/learning/paths/develop-your-data-analysis-skills
 course_count: 10
 linkedin_topics:
   - Data Science
@@ -10,8 +10,54 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 1- The Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 2- Probability]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using Tableau to Discover Powerful Business Insights]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Data Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Science Foundations- Data Mining in R]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Tips and Tricks for Data Science]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Hands-On Practice- Solve Business Problems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Picking the Right Chart for Your Data]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Develop Your Data Analysis Skills

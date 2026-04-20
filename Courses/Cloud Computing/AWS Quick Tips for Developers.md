@@ -24,7 +24,7 @@ tags:
   - topic/security
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AWS Quick Tips for Developers](https://media.licdn.com/dms/image/v2/C4E0DAQFx0el_PyVw9w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668497463?e=2147483647&amp;v=beta&amp;t=vRRGtd4b9BYc4pyoM6tHtgFJiC3VWXQjcLDUxiQCQmg)

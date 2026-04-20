@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-visualization"
+url: https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-visualization
 course_count: 7
 linkedin_topics:
   - Data Science
@@ -12,8 +12,42 @@ tags:
   - learning-path
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Data Visualization- Best Practices]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Basics of Data Visualization Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Tableau Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Visualization Storytelling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Data Dashboards]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python for Data Visualization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Visualizing Advanced Charts and Graphs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Introduction to Fundamental Skills for Data Work: Data Visualization

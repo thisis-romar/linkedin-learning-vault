@@ -27,7 +27,7 @@ tags:
   - skill/microservices
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Node.js: Microservices](https://media.licdn.com/dms/image/v2/D560DAQGNhXwSHfVTTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691165894653?e=2147483647&amp;v=beta&amp;t=ThnvpyREcLCGAomRfWZlgFSbTPHmqCrdrD-9g9rvjC4)

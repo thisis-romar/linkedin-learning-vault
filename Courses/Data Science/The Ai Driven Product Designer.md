@@ -28,7 +28,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The Ai Driven Product Designer](https://media.licdn.com/dms/image/v2/D4E0DAQFxxlGVXhyRcw/learning-public-crop_675_1200/B4EZXd1Yk7H0AY-/0/1743183514630?e=2147483647&amp;v=beta&amp;t=sxrWgVuwhP6Q-gfWrWFKwXQ2OwbyFW7rsWzLhxwfPxc)

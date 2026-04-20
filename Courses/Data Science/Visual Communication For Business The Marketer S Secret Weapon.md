@@ -19,7 +19,7 @@ tags:
   - topic/data-science
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Visual Communication For Business The Marketer S Secret Weapon](https://media.licdn.com/dms/image/v2/C4E0DAQEQmHk42Mg1XQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568066589245?e=2147483647&amp;v=beta&amp;t=WmfKX3z0fZgJMqmPNgnUSdDQ3bOOd97ZM19H9E6aZFI)

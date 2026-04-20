@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![CSS: Selectors](https://media.licdn.com/dms/image/v2/C4E0DAQFAl58bn8cZRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660585110453?e=2147483647&amp;v=beta&amp;t=Flj-NtLzxO4jsf1_MdAMNHrmKmgbMKey_NnmXoYi_pk)

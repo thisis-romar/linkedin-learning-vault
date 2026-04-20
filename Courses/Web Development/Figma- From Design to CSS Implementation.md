@@ -16,7 +16,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Figma: From Design to CSS Implementation](https://media.licdn.com/dms/image/v2/D560DAQGqIodryoMLJg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687801954408?e=2147483647&amp;v=beta&amp;t=lBHAigFvvtSxMSVND5B6gT4znCRIZUZpmdc45s49geY)

@@ -6,7 +6,7 @@ course_count: 16
 tags:
   - skill
   - skill/r-programming-language
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # R (Programming Language)

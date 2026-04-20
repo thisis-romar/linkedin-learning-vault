@@ -2,22 +2,60 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/managing-and-leading-developers"
+url: https://www.linkedin.com/learning/paths/managing-and-leading-developers
 course_count: 8
 linkedin_topics:
   - Cloud Computing
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/security
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Tech Career Skills- Moving from Developer to Engineering Manager]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Tech Career Skills- Effective Technical Communication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Succeeding As A First Time Tech Manager]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development- Creating an Agile Culture]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Inclusive Tech- Conducting Humane Code Reviews]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Trust]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The Manager''s Guide to Difficult Conversations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Coaching Skills for Leaders and Managers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Managing and Leading Developers

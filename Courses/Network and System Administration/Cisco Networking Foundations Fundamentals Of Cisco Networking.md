@@ -21,7 +21,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cisco-networking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cisco Networking Foundations Fundamentals Of Cisco Networking](https://media.licdn.com/dms/image/v2/C4E0DAQHM0BnPKta4zg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655413434652?e=2147483647&amp;v=beta&amp;t=9gqe9NS_5AbrQ0vwNEuDVbSXYFIK_mq-2ajUc-58uns)

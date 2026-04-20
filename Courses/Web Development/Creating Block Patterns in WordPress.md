@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Creating Block Patterns in WordPress](https://media.licdn.com/dms/image/v2/C560DAQFrRk553AGgPQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634752427940?e=2147483647&amp;v=beta&amp;t=WKd07130_YEU3-0xbrfcsYRfWMOFLp0Vws6XIPq7Fpg)

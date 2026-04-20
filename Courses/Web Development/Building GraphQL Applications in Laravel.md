@@ -25,7 +25,7 @@ tags:
   - skill/graphql
   - skill/laravel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building GraphQL Applications in Laravel](https://media.licdn.com/dms/image/v2/C560DAQE3QENCPg-P-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664905998454?e=2147483647&amp;v=beta&amp;t=hrwbzw2DCv-YMLHurxVO7NfWGYeGb6_m3z-m2is56Ns)

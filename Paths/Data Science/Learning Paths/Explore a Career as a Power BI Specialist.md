@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-a-career-as-a-power-bi-specialist"
+url: https://www.linkedin.com/learning/paths/explore-a-career-as-a-power-bi-specialist
 course_count: 5
 linkedin_topics:
   - Data Science
@@ -10,8 +10,34 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Power Bi Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to Power BI for Data Analysts by Microsoft Press]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Power BI- DAX Language, Formulas, and Calculations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Data Dashboards]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore a Career as a Power BI Specialist

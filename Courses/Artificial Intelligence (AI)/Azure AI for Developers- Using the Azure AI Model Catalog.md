@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure AI for Developers: Using the Azure AI Model Catalog](https://media.licdn.com/dms/image/v2/D4E0DAQHtG0urzUqfMQ/learning-public-crop_675_1200/B4EZaIpPiPHIAc-/0/1746049235387?e=2147483647&amp;v=beta&amp;t=VtBKmlshNIEQSmla1meb_TddrUTMdek1P4TZfj6EaWI)

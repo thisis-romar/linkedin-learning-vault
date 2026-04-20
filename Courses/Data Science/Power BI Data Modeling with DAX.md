@@ -28,7 +28,7 @@ tags:
   - skill/data-modeling
   - skill/dax
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Power BI Data Modeling with DAX](https://media.licdn.com/dms/image/v2/D4E0DAQFpAAsh-X2U1w/learning-public-crop_675_1200/B4EZh3Kg7tGwAY-/0/1754345902655?e=2147483647&amp;v=beta&amp;t=xRxrLcjdmUuwllH4EW955FjrvBo0NiumGD1KiiQp1X8)

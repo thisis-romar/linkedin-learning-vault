@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/cscmp-supply-chain-foundations-manufacturing-and-service-operations-professional-certificate"
+url: https://www.linkedin.com/learning/paths/cscmp-supply-chain-foundations-manufacturing-and-service-operations-professional-certificate
 course_count: 4
 linkedin_topics:
   - Hardware
@@ -10,8 +10,30 @@ louvain_cluster: 0
 tags:
   - professional-certificate
   - topic/hardware
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Process Improvement Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Lean Six Sigma Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Industrial Automation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Value Stream Mapping]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # CSCMP Supply Chain Foundations: Manufacturing and Service Operations Professional Certificate

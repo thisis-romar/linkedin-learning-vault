@@ -33,7 +33,7 @@ tags:
   - skill/code-interpretation
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![OpenAI API: Code Interpreter and Advanced Data Analysis](https://media.licdn.com/dms/image/v2/D560DAQGU7FDolKX0xA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707435191976?e=2147483647&amp;v=beta&amp;t=nHNaLRO8Jw4KGD3WH_4WlKRxgntCe9YqGMZJNInt2P4)

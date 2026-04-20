@@ -2,18 +2,52 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/mastering-jira-administration"
+url: https://www.linkedin.com/learning/paths/mastering-jira-administration
 course_count: 7
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 6
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/devops
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Jira Cloud Edition]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Jira- Basic Administration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Jira Service Management- Administration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Jira- Advanced Administration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Jira- Managing Custom Workflows]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Jira Administration- Automation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Increasing Efficiency with Jira and Confluence Integrations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Mastering Jira Administration

@@ -26,7 +26,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Intermediate Sql For Data Scientists](https://media.licdn.com/dms/image/v2/D4E0DAQG4LvxcWRlOYQ/learning-public-crop_675_1200/B4EZUghCgXG0AY-/0/1740007287506?e=2147483647&amp;v=beta&amp;t=M8ue0_cYqF--_BbExv7im3immNCMf4V04Mvpow2fWoM)

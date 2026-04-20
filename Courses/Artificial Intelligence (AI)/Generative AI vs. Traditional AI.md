@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/traditional-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI vs. Traditional AI](https://media.licdn.com/dms/image/v2/D4E0DAQF-8-MuR5p61g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697645643991?e=2147483647&amp;v=beta&amp;t=OT8hT8JSKHThPglPz60eIQl_FmHi6HGdUN5hvVRoSrI)

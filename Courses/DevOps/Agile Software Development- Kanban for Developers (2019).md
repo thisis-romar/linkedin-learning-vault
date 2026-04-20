@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/agile-software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Agile Software Development: Kanban for Developers (2019)](https://media.licdn.com/dms/image/v2/D4E0DAQGIFD1eQvs-Tg/learning-public-crop_675_1200/B4EZmcwirtHgAc-/0/1759271595082?e=2147483647&amp;v=beta&amp;t=3iNQikqVTBzxDmL8nU-YxrwkCFbtXGTTk7Rgini8DsM)

@@ -38,7 +38,7 @@ tags:
   - skill/html
   - skill/html-scripting
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![HTML Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQEcLUxJ7yEa9g/learning-public-crop_675_1200/B4EZVEb4pzH0Ag-/0/1740609915762?e=2147483647&amp;v=beta&amp;t=FjGHD6-hKF9biWFtW-HmEN6h6HOXWx8OYHdxLqdfAvY)

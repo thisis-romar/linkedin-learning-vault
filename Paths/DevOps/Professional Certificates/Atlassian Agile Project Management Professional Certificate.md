@@ -2,16 +2,46 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/atlassian-agile-project-management-professional-certificate"
+url: https://www.linkedin.com/learning/paths/atlassian-agile-project-management-professional-certificate
 course_count: 6
 linkedin_topics:
   - DevOps
-louvain_cluster: 6
+louvain_cluster: 8
 tags:
   - professional-certificate
   - topic/devops
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Agile Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Scrum- The Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Project Management with Jira Cloud- 1 Projects, Boards, and Issues]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Project Management with Jira Cloud- 2 Lean and Agile Processes]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Project Management with Jira Cloud- 3 Advanced Topics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Mistakes to Avoid in Agile Project Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Atlassian Agile Project Management Professional Certificate

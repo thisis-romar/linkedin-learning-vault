@@ -23,7 +23,7 @@ tags:
   - topic/mobile-development
   - skill/ios-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building Your First iOS 17 App](https://media.licdn.com/dms/image/v2/D560DAQHzDn7mXPkf8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696272691927?e=2147483647&amp;v=beta&amp;t=59PTaYG43-7-gzNEAM5VGpAkuDZrUwz0n1nz6YSVt04)

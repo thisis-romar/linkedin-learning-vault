@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-a-javascript-developer"
+url: https://www.linkedin.com/learning/paths/become-a-javascript-developer
 course_count: 13
 linkedin_topics:
   - Network and System Administration
@@ -14,8 +14,66 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[JavaScript Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning The Javascript Language]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning ECMAScript 6+ (ES6+)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Scope]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Prototypes]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Closures]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Classes]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning App Building With Vanilla Javascript]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Developing for Web Performance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JSON Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Ajax and Fetch]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Modern Browser APIs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become a JavaScript Developer

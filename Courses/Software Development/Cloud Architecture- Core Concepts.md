@@ -32,7 +32,7 @@ tags:
   - skill/cloud-security
   - skill/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud Architecture: Core Concepts](https://media.licdn.com/dms/image/v2/D560DAQGvM2MSfCqa6g/learning-public-crop_675_1200/B56ZbF5ccoGkAY-/0/1747076893242?e=2147483647&amp;v=beta&amp;t=Ecc0y6qx22aXd14auyRGFzQsXfsED3syDkjMBfW5jE4)

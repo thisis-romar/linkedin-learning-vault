@@ -28,7 +28,7 @@ tags:
   - skill/r-programming-language
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Descriptive Healthcare Analytics in R](https://media.licdn.com/dms/image/v2/D560DAQEsqKudPj6CQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729286231125?e=2147483647&amp;v=beta&amp;t=N4WYT_GHuxYmK0n38WwIFquO1QH4DjqeHmF-v-yVgRo)

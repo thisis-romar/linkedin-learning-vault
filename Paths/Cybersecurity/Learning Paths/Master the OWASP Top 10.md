@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-the-owasp-top-10"
+url: https://www.linkedin.com/learning/paths/master-the-owasp-top-10
 course_count: 6
 linkedin_topics:
   - Cybersecurity
@@ -10,8 +10,38 @@ louvain_cluster: 4
 tags:
   - learning-path
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning the OWASP Top 10]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OWASP Top 10- -1 Broken Access Control and -2 Cryptographic Failures]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OWASP Top 10- -3 Injection and -4 Insecure Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OWASP Top 10- -7 Identification and Authentication Failures and -8 Software and Data Integrity Failures]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master the OWASP Top 10

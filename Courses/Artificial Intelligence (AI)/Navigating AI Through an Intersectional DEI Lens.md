@@ -29,7 +29,7 @@ tags:
   - skill/diversity-equity-inclusion-and-belonging-deib
   - skill/ai-for-hr
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Navigating AI Through an Intersectional DEI Lens](https://media.licdn.com/dms/image/v2/D4E0DAQFnc-4UNdKncA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708651317451?e=2147483647&amp;v=beta&amp;t=eO0zmvrlxrxHuHKy3Amc8bZQtrr1M75RasryZnmwmRI)

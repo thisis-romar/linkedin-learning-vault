@@ -27,7 +27,7 @@ tags:
   - skill/banking
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The Data Science Of Economics Banking And Finance](https://media.licdn.com/dms/image/v2/D4D0DAQGG7C3XytgA3Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715275982013?e=2147483647&amp;v=beta&amp;t=Pbtd1dAoFsZpR2OanG2jbA-wiredu-hxFCZUzqoTd28)

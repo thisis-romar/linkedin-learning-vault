@@ -25,7 +25,7 @@ tags:
   - skill/cloud-administration
   - skill/hybrid-cloud
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud Concepts: Hybrid Cloud](https://media.licdn.com/dms/image/v2/C560DAQHea0Wo1GGy5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639684767566?e=2147483647&amp;v=beta&amp;t=H6TdJVJg9l0o4tZMDFgTIIT2cHKbPb7wZ3li2mpSQ0Q)

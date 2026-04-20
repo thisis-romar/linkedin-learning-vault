@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/gpt-4
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Generative AI with GPT](https://media.licdn.com/dms/image/v2/D560DAQGwDfMc9QeL1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694797635267?e=2147483647&amp;v=beta&amp;t=7DtLZqPwIBlpEit2NhaIX2Rnm16zhLtF97UC30KE3aM)

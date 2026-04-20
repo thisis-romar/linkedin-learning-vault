@@ -26,7 +26,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-literacy
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction To Artificial Intelligence](https://media.licdn.com/dms/image/v2/D560DAQHJjgIrzzfWBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730843593856?e=2147483647&amp;v=beta&amp;t=Z92hzunwnw24a659e1-NQvoaoCr5x-20P6s-XiOOUkM)

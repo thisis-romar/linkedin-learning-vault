@@ -23,7 +23,7 @@ tags:
   - topic/it-help-desk
   - skill/customer-service
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Innovative Customer Service Techniques](https://media.licdn.com/dms/image/v2/C4E0DAQHiJqYpnxTctg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1585335032598?e=2147483647&amp;v=beta&amp;t=-t3t_VkryHvPuukgUbyVtBqxD7TOj3CaGAWKLhTlWWU)

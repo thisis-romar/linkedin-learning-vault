@@ -28,7 +28,7 @@ tags:
   - skill/rest-apis
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Node.js: Securing RESTful APIs](https://media.licdn.com/dms/image/v2/C4E0DAQHeo-shvzaqqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580760379764?e=2147483647&amp;v=beta&amp;t=uWAjmlUMhhWMpo7enY9w0C4Y-BWmN5cK5zo4I5CMQow)

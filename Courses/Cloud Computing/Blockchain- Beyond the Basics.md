@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/blockchain
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Blockchain: Beyond the Basics](https://media.licdn.com/dms/image/v2/C560DAQG4r61Jy_I52g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646852640713?e=2147483647&amp;v=beta&amp;t=nveeA8LsFahLRyeIWPBykxsjB0FtkHYgfweS75NOXOo)

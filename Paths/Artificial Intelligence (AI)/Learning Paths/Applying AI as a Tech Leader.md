@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/applying-ai-as-a-tech-leader"
+url: https://www.linkedin.com/learning/paths/applying-ai-as-a-tech-leader
 course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,46 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction To Artificial Intelligence]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI for Business Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[What Is Generative AI-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a Generative AI Tech Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Scaling Generative AI- Building a Strategy for Adoption and Expansion]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a Responsible AI Program- Context, Culture, Content, and Commitment]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to AI Governance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Applying AI as a Tech Leader

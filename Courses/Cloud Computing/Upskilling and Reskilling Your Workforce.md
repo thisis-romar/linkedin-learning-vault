@@ -17,7 +17,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Upskilling and Reskilling Your Workforce](https://media.licdn.com/dms/image/v2/C4D0DAQFhD_OuncZ-Jw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679936202959?e=2147483647&amp;v=beta&amp;t=bLfkcv-TfSlg-4wolH9OhFdaaiFzWnPhaJ6GfBdK3vE)

@@ -16,7 +16,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![A First Look at the LinkedIn Hiring Assistant in Recruiter](https://media.licdn.com/dms/image/v2/D4E0DAQFcB9tpYRV8uQ/learning-public-crop_675_1200/B4EZmXCpRDKoAY-/0/1759175677295?e=2147483647&amp;v=beta&amp;t=JNmPs3LzI5Oox0CRrNM2O7jmpPFJgvt5r3TCq3VIBKI)

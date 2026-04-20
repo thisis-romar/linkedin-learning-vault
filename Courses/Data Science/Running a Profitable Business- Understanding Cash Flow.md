@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/cash-flow-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Running a Profitable Business: Understanding Cash Flow](https://media.licdn.com/dms/image/v2/C4D0DAQE9CkI9LOMc5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568251056267?e=2147483647&amp;v=beta&amp;t=-GUSdsLomcMZnO4K_Cf1RqTgTcCgCAC5oOh4d1PuI9w)

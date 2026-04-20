@@ -2,22 +2,52 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/succeed-as-a-remote-software-developer"
+url: https://www.linkedin.com/learning/paths/succeed-as-a-remote-software-developer
 course_count: 6
 linkedin_topics:
   - Cloud Computing
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 9
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/security
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Time Management Working From Home]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Git and GitHub]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Slack Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Teams Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Trello Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development- Remote Teams (2019)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Succeed as a Remote Software Developer

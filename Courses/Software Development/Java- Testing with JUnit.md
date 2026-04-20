@@ -30,7 +30,7 @@ tags:
   - skill/junit
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Java: Testing with JUnit](https://media.licdn.com/dms/image/v2/D560DAQHciFIlwhPI0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716233428910?e=2147483647&amp;v=beta&amp;t=JQGenIAFFeZoWTSjKt1MLIMkvphCkwABakw9VNbkcxg)

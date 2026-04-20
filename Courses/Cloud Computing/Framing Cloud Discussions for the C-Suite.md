@@ -20,7 +20,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Framing Cloud Discussions for the C-Suite](https://media.licdn.com/dms/image/v2/C560DAQHX6MO5cwhOuw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629133124517?e=2147483647&amp;v=beta&amp;t=8ryrVNUYfIXV8A4_2vy2aTJZxQsYSmC_nlyFTG-17JA)

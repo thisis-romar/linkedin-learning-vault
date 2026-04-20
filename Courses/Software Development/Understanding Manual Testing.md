@@ -25,7 +25,7 @@ tags:
   - skill/quality-assurance
   - skill/manual-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Understanding Manual Testing](https://media.licdn.com/dms/image/v2/C560DAQET3VMfDxDEgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1659547561066?e=2147483647&amp;v=beta&amp;t=M_5qZaMDRQaY1tqkEnxANnDkuMdEYOX1Y0DPzzcc7ew)

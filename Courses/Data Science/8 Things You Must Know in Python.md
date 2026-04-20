@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![8 Things You Must Know in Python](https://media.licdn.com/dms/image/v2/D560DAQEuGjrSsMFT2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733774083145?e=2147483647&amp;v=beta&amp;t=ezQ6YUN41b0qQcZt2EGP_7aJjzj0pq6QNuwACNk__EQ)

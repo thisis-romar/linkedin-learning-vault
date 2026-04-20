@@ -29,7 +29,7 @@ tags:
   - skill/debugging-code
   - skill/angular
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Angular: Testing and Debugging](https://media.licdn.com/dms/image/v2/C560DAQHE8peKcX_-XA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619631876852?e=2147483647&amp;v=beta&amp;t=TR_-M5cw5CjbnUMaTtkSmj4HWyaRd8SRPeYMwpUWJQU)

@@ -27,7 +27,7 @@ tags:
   - skill/wordpress-development
   - skill/gatsbyjs
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building a Headless WordPress Site with Gatsby](https://media.licdn.com/dms/image/v2/C4E0DAQHfCK_-CVNrTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647886030952?e=2147483647&amp;v=beta&amp;t=9ZTxNHE0CK1_q_WHOnJbnP-kUEVpp221YMw6JYpalI4)

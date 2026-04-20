@@ -25,7 +25,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![An Introduction to AI and Sustainability](https://media.licdn.com/dms/image/v2/D560DAQGO2QLUYwy2lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711489446879?e=2147483647&amp;v=beta&amp;t=95TfAdAtyv__Pc5ke3Wl4Tc71CAFBQd2KQu3nkZm6KM)

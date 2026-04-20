@@ -20,7 +20,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Challenges and Opportunities for Leadership](https://media.licdn.com/dms/image/v2/D560DAQGYvQ-OAeyO7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697135680957?e=2147483647&amp;v=beta&amp;t=u1jog8jMVP9ArGuVPKPA0HUctM_UXyF0K2rrjlOyCxc)

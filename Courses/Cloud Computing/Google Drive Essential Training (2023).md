@@ -22,7 +22,7 @@ tags:
   - topic/software-development
   - skill/google-drive
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Google Drive Essential Training (2023)](https://media.licdn.com/dms/image/v2/D560DAQHHBc7o5xcojg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684513418360?e=2147483647&amp;v=beta&amp;t=wCcpazZRYaaD2fBVttj8i5ZQcWQAxW-dwC8_nKisdS8)

@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/agile-software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Agile Software Development: Dealing with Legacy Code and Technical Debt](https://media.licdn.com/dms/image/v2/C4E0DAQGQ1fUouicSpg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572474974966?e=2147483647&amp;v=beta&amp;t=L40ED0kqNMkWbIgzx7VqyITB0tEul2pBNbJmxcwaFIY)

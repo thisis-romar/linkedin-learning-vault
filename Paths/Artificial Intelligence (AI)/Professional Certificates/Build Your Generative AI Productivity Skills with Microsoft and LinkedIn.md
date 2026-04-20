@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/build-your-generative-ai-productivity-skills-with-microsoft-and-linkedin"
+url: https://www.linkedin.com/learning/paths/build-your-generative-ai-productivity-skills-with-microsoft-and-linkedin
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,34 @@ louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Microsoft Copilot The Art Of Prompt Writing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Productivity Hacks to Reimagine Your Workday and Career]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Integrating Generative AI into the Creative Process]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Copilot in PowerPoint- From Prompt to Presentation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel with Copilot- AI-Driven Data Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build Your Generative AI Productivity Skills with Microsoft and LinkedIn

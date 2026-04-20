@@ -26,7 +26,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Executive Guide to Deploying, Monitoring, and Maintaining Models](https://media.licdn.com/dms/image/v2/D560DAQGQFcDu06-Gkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712343465209?e=2147483647&amp;v=beta&amp;t=MUZpGpJLUEOiw6rC31MCHGUnaZdHIHp-I721RiEBH-U)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/get-started-with-ios-app-development"
+url: https://www.linkedin.com/learning/paths/get-started-with-ios-app-development
 course_count: 4
 linkedin_topics:
   - Mobile Development
@@ -10,8 +10,30 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/mobile-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Swift 5 Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Xcode 15 Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[iOS 17 Development Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Your First iOS 17 App]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Get Started with iOS App Development

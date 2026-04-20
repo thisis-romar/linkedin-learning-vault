@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/manage-your-llms-with-llmops"
+url: https://www.linkedin.com/learning/paths/manage-your-llms-with-llmops
 course_count: 4
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,30 @@ tags:
   - topic/artificial-intelligence
   - topic/network-and-system-administration
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Generative Ai And Llmops Building Blocks And Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[LLMOps in Practice- A Deep Dive]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced LLMOps- Deploying and Managing LLMs in Production]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[LLM Foundations- Building Effective Applications for Enterprises]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Manage Your LLMs with LLMOps

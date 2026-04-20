@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/building-ai-literacy"
+url: https://www.linkedin.com/learning/paths/building-ai-literacy
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,42 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction To Artificial Intelligence]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[How to Boost Your Productivity with AI Tools]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[What Is Generative AI-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Prompt Engineering- How to Talk to the AIs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Large Language Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Your Top Ai Questions Answered Ai Literacy For Everyone]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Ethics in the Age of Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building AI Literacy

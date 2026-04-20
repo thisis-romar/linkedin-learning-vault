@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/ratio-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Running a Profitable Business: Understanding Financial Ratios](https://media.licdn.com/dms/image/v2/C4D0DAQHSLcJxFmDlkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578950375903?e=2147483647&amp;v=beta&amp;t=v8n2zKRmg2HLVH3IPLJmEspEO_q1zUJpjiXh-cdVJjs)

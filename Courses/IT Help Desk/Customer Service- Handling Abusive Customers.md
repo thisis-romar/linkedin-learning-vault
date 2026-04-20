@@ -26,7 +26,7 @@ tags:
   - skill/customer-relations
   - skill/customer-service
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Customer Service: Handling Abusive Customers](https://media.licdn.com/dms/image/v2/D4E0DAQFtUbFcrY63Vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731633528824?e=2147483647&amp;v=beta&amp;t=dLYe60es3r3lsilSQ8jADW7yLSMs9IdJs5nk-tjRc9A)

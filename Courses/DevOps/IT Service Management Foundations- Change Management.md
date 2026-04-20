@@ -28,7 +28,7 @@ tags:
   - skill/it-service-management
   - skill/change-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![IT Service Management Foundations: Change Management](https://media.licdn.com/dms/image/v2/C4E0DAQEjsdqNemv6uQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611696586413?e=2147483647&amp;v=beta&amp;t=SJ87P0CgV8AUsGSthJkXcmH0GZlC5tiqXGqcKSoM1Jg)

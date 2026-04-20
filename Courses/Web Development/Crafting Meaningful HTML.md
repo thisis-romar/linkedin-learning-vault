@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Crafting Meaningful HTML](https://media.licdn.com/dms/image/v2/C4D0DAQGGGPRrXtqcCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578939393521?e=2147483647&amp;v=beta&amp;t=cKv6r7SvAbH7XCeHa-0NIV_x3LE-4jZPIkFv36npceU)

@@ -18,7 +18,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Programming Foundations: Software Testing/QA](https://media.licdn.com/dms/image/v2/C4E0DAQHiVNzWsHDZ3A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117712599?e=2147483647&amp;v=beta&amp;t=3SR0C8cBBVaiHkI4XNT8FcgYUqPe2cbyUfLJpfZ9yx8)

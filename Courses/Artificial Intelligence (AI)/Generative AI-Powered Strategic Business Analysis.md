@@ -31,7 +31,7 @@ tags:
   - skill/business-strategy
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI-Powered Strategic Business Analysis](https://media.licdn.com/dms/image/v2/D4D0DAQEWv1fm0QFeWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737506474686?e=2147483647&amp;v=beta&amp;t=yGeecvsfmYjg40xquaZs2rBU21F2f7bJg6N4iDRxyS4)

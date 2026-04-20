@@ -25,7 +25,7 @@ tags:
   - skill/html
   - skill/semantic-markup
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![HTML: Structured Semantic Data](https://media.licdn.com/dms/image/v2/D4D0DAQG5-RNXkFb0aw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244976799?e=2147483647&amp;v=beta&amp;t=SSeom6RBaEaeCE_WtszcOYXOcsJOH4o14QTfVljaUbQ)

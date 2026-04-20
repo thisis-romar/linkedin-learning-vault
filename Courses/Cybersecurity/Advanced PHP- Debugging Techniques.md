@@ -27,7 +27,7 @@ tags:
   - skill/debugging
   - skill/php
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced PHP: Debugging Techniques](https://media.licdn.com/dms/image/v2/C560DAQE0DmxKRMsmAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655837059078?e=2147483647&amp;v=beta&amp;t=9jrRyhWo-yOmdLSWZjLEZeWITCE8yBRynF6kxfsZ8Uk)

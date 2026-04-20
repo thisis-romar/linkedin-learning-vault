@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/mlops-essentials-for-developers-and-ai-engineers-tools-pipelines-security"
+url: https://www.linkedin.com/learning/paths/mlops-essentials-for-developers-and-ai-engineers-tools-pipelines-security
 course_count: 10
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,54 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Docker]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Kubernetes]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MLOps Tools- MLflow and Hugging Face]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Preparation, Feature Engineering, and Augmentation for AI Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MLOps and Data Pipeline Orchestration for AI Systems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MLOps Essentials- Model Development and Integration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MLOps Essentials- Model Deployment and Monitoring]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MLOps Essentials- Monitoring Model Drift and Bias]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to MLSecOps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # MLOps Essentials for Developers and AI Engineers: Tools, Pipelines, Security

@@ -27,7 +27,7 @@ tags:
   - skill/wordpress
   - skill/internationalization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![WordPress: Internationalization](https://media.licdn.com/dms/image/v2/D560DAQHr1McQUIAbgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684865080588?e=2147483647&amp;v=beta&amp;t=DMqSK2RhbddDqPCR86CGysMWHdYjGLQarTsNaGo0lxI)

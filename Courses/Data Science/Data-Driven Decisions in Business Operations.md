@@ -23,7 +23,7 @@ tags:
   - skill/data-driven-decision-making
   - skill/business-operations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data-Driven Decisions in Business Operations](https://media.licdn.com/dms/image/v2/D4E0DAQGm4D3RAXC41w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727115055940?e=2147483647&amp;v=beta&amp;t=Azn0b9D87zuIJ3UtOrlnLjqxAj68CySav6WxJJY8dx0)

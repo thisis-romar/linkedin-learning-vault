@@ -19,7 +19,7 @@ tags:
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Foundations: Computer Forensics](https://media.licdn.com/dms/image/v2/D560DAQG5VnozORNgkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702587022790?e=2147483647&amp;v=beta&amp;t=n1BwL6VnZRkDQQVPhQWmfeCmD34_kd-Z3LR29eC0mKk)

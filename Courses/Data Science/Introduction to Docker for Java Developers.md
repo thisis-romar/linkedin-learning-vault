@@ -27,7 +27,7 @@ tags:
   - skill/docker-products
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Docker for Java Developers](https://media.licdn.com/dms/image/v2/C560DAQEXn8hdCFwYyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652976343988?e=2147483647&amp;v=beta&amp;t=3r0qemij4p7e8dw6NpNMAmaRdBCd7FlQ0Wlfg_FBPEE)

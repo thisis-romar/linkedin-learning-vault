@@ -28,7 +28,7 @@ tags:
   - skill/microsoft-excel
   - skill/financial-modeling
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Python in Excel for Finance: A Hands-On Approach](https://media.licdn.com/dms/image/v2/D560DAQFBsL-MKkHq2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723067844312?e=2147483647&amp;v=beta&amp;t=El9VTKfiahd-4mlvImfI4HAQgLyVdxRB-6yyYi8pL0M)

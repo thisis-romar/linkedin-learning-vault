@@ -24,7 +24,7 @@ tags:
   - skill/swift-programming-language
   - skill/ios-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Programming For Non Programmers Ios 17 And Swift 5](https://media.licdn.com/dms/image/v2/D560DAQEDp8zu12cDKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714428048520?e=2147483647&amp;v=beta&amp;t=XsNFy4-eflffYe8USFN7kpKcYvbwNmKzWt4u7uRADss)

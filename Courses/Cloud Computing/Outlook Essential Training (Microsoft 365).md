@@ -21,7 +21,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Outlook Essential Training (Microsoft 365)](https://media.licdn.com/dms/image/v2/D4E0DAQG7bROPW6GYIQ/learning-public-crop_675_1200/B4EZYlrQL8HcAc-/0/1744388817972?e=2147483647&amp;v=beta&amp;t=Vhin7bMHdPhTqynLRqXnLX--bo5UlVGxHyqxXh3WBA4)

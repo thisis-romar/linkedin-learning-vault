@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C#: Interfaces and Generics](https://media.licdn.com/dms/image/v2/C560DAQEcsgjIa7rZSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634834103497?e=2147483647&amp;v=beta&amp;t=hVHXRMAZp-qAWMJKcjOIA79h6HYGXOcPJAukQ3mjPfc)

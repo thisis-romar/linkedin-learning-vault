@@ -6,7 +6,7 @@ course_count: 4
 tags:
   - skill
   - skill/azure-ai-foundry
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Azure AI Foundry

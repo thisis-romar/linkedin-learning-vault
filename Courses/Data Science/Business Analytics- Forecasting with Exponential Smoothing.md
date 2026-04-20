@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/business-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analytics: Forecasting with Exponential Smoothing](https://media.licdn.com/dms/image/v2/C4E0DAQEGdgfUjZurzQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619542985489?e=2147483647&amp;v=beta&amp;t=J20O6QP05AVALZy1hIZ8MyUQ7Q09dlyBiSJutU3OqAo)

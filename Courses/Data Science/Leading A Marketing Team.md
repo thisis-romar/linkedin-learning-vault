@@ -23,7 +23,7 @@ tags:
   - skill/marketing-leadership
   - skill/team-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leading A Marketing Team](https://media.licdn.com/dms/image/v2/C4E0DAQHFvbiMkPRnpA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619542882228?e=2147483647&amp;v=beta&amp;t=lEI1ZCvMA7ZlsIk6pO3dgIqv1pIrn34ZyyqEOxxMlqA)

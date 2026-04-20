@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Apply Ethical AI Principles Using the Responsible AI Dashboard](https://media.licdn.com/dms/image/v2/D560DAQFEFjtfzTZzug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701470647846?e=2147483647&amp;v=beta&amp;t=INW3W59nm879LOsGUlG0l9imJ3EBn3aCXmtOcDr5nfc)

@@ -26,7 +26,7 @@ tags:
   - skill/next-js
   - skill/react-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![React: Server-Side Rendering](https://media.licdn.com/dms/image/v2/C4E0DAQGLmMPM0FdTeA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617047890732?e=2147483647&amp;v=beta&amp;t=tUX8Byl7T7sAtmJrhRIdZYgPb-VObMctA0TZo3L8HeU)

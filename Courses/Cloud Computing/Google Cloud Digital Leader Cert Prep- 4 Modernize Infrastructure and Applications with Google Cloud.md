@@ -29,7 +29,7 @@ tags:
   - skill/it-infrastructure-management
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Google Cloud Digital Leader Cert Prep: 4 Modernize Infrastructure and Applications with Google Cloud](https://media.licdn.com/dms/image/v2/D4E0DAQHLwR3BjjXqWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711389580529?e=2147483647&amp;v=beta&amp;t=IYySmd42QkFB2-ptpyaB8FXKypT-Hh-j2t6EbF_Ppj8)

@@ -26,7 +26,7 @@ tags:
   - skill/selenium
   - skill/test-automation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Selenium: Structure, Scale, Run, and Optimize Automated Tests](https://media.licdn.com/dms/image/v2/D560DAQGblcfQboVDhA/learning-public-crop_675_1200/B56ZiFYB7uH0AY-/0/1754584326185?e=2147483647&amp;v=beta&amp;t=NjRx9jtLJZh04d4RmoKVzN2MizAHQUlChsJ0460S6Gw)

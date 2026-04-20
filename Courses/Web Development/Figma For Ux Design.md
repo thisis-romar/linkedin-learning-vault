@@ -15,7 +15,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Figma For Ux Design](https://media.licdn.com/dms/image/v2/D560DAQGKCRh3ZF49AA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706569088409?e=2147483647&amp;v=beta&amp;t=Zns0FYeIGEwhTEeZCaRJ3lnnSB_1LcOP9xebw3CVty4)

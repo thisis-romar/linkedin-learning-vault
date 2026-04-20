@@ -19,7 +19,7 @@ tags:
   - topic/software-development
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Artificial Intelligence and Business Strategy](https://media.licdn.com/dms/image/v2/C4E0DAQGrKyRKPbnErQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646242166320?e=2147483647&amp;v=beta&amp;t=73NIGV_fXfanUPncrnryipzAou_QelSFbWyx-v98zpk)

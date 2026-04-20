@@ -33,7 +33,7 @@ tags:
   - skill/large-language-models-llm
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Prompt Engineering: How to Talk to the AIs](https://media.licdn.com/dms/image/v2/D560DAQFSXS6mzs87pA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681413686159?e=2147483647&amp;v=beta&amp;t=6_zr6IaP-j2tvL1Y48FqfUX0wHH0v2uIIhkXnRN9w4s)

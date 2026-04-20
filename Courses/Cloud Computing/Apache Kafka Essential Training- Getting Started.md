@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/apache-kafka
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Apache Kafka Essential Training: Getting Started](https://media.licdn.com/dms/image/v2/D560DAQFHx_pVYywSXA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686957444139?e=2147483647&amp;v=beta&amp;t=NhYgdf3Y_2sWePm6WCOVar3_YDwr_KsBjGyMKJZ2k9c)

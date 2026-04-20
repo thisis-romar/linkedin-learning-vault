@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/databases
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Database Foundations Intro To Databases](https://media.licdn.com/dms/image/v2/D560DAQHKDo5Z5gFCAA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730492695783?e=2147483647&amp;v=beta&amp;t=x6X7QdGFbjwaYZDEJUY1AKm7z1e9ow-Cp6_rHZNKl0Y)

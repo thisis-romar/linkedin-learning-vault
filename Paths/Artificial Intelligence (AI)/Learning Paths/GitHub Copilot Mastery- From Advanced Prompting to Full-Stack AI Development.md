@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/github-copilot-mastery-from-advanced-prompting-to-full-stack-ai-development"
+url: https://www.linkedin.com/learning/paths/github-copilot-mastery-from-advanced-prompting-to-full-stack-ai-development
 course_count: 4
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,30 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Advanced Prompting With Github Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[GitHub Copilot for System-Level Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible AI Development with GitHub Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Capstone- Building Production Features with Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # GitHub Copilot Mastery: From Advanced Prompting to Full-Stack AI Development

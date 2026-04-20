@@ -6,7 +6,7 @@ course_count: 1
 tags:
   - skill
   - skill/real-time
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Real-Time

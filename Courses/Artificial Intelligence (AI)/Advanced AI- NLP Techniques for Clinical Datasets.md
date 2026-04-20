@@ -19,7 +19,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced AI: NLP Techniques for Clinical Datasets](https://media.licdn.com/dms/image/v2/D560DAQFLyC0idBGRFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667324955293?e=2147483647&amp;v=beta&amp;t=TluUTDDPXcz8NA55vriTfe5sMM0Zc1G9gaYglWLzXlI)

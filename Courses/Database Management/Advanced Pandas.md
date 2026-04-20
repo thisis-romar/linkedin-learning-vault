@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/pandas-software
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Pandas](https://media.licdn.com/dms/image/v2/D4D0DAQE_2nqqsEL3YA/learning-public-crop_675_1200/B4DZg98QqGHAAc-/0/1753385864731?e=2147483647&amp;v=beta&amp;t=K9lXeGO78NRb4L8Qpj0FDdJ3Rkt628QLvVNQIg7m0DE)

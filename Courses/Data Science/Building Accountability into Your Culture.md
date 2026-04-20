@@ -27,7 +27,7 @@ tags:
   - skill/accountability
   - skill/organizational-culture
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building Accountability into Your Culture](https://media.licdn.com/dms/image/v2/C4D0DAQHksvRe_KGclA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668040290627?e=2147483647&amp;v=beta&amp;t=ZCB2rO8m8pXQVy6qG8JpoOhYyGlShosMycvjYHCejBc)

@@ -30,7 +30,7 @@ tags:
   - skill/phishing
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Awareness: Phishing Attacks](https://media.licdn.com/dms/image/v2/D4E0DAQEcxOyUngc96w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732642712919?e=2147483647&amp;v=beta&amp;t=w3F8-GEnr4TOCZ1KywlF1dIYfBJO2KsTy7T4TXGGhRs)

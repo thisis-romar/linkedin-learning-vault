@@ -2,18 +2,68 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/develop-your-skills-as-a-software-project-manager"
+url: https://www.linkedin.com/learning/paths/develop-your-skills-as-a-software-project-manager
 course_count: 11
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/devops
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Agile Software Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development- Scrum for Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Devops Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Scrum- The Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Scrum- Advanced]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Characteristics of a Great Scrum Master]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Jira Software]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Planning and Releasing Software with Jira]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development- Kanban for Developers (2019)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Testing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Develop Your Skills as a Software Project Manager

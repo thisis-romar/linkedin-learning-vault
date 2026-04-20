@@ -26,7 +26,7 @@ tags:
   - skill/data-privacy
   - skill/privacy
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Privacy in the New World of Work](https://media.licdn.com/dms/image/v2/C4E0DAQE4WnKanzjiBQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1593548371327?e=2147483647&amp;v=beta&amp;t=KCO5_GRzgcXTOJdYtnhpa45B558wz3UxCHM70MaY878)

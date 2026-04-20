@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cert Prep: Excel Expert - Microsoft Office Specialist for Microsoft 365 Apps](https://media.licdn.com/dms/image/v2/C4E0DAQEyJgiXVizU8g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678992983488?e=2147483647&amp;v=beta&amp;t=TbNvdSefxEnGg6x3MWunQkMo3bzm--3VFh5z6WtMGjg)

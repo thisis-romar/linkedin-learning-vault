@@ -23,7 +23,7 @@ tags:
   - skill/web-analytics
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Design Powered by Data: Getting Started with UX Web Analytics (2022)](https://media.licdn.com/dms/image/v2/C560DAQHLkuZoIdyDqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643737471867?e=2147483647&amp;v=beta&amp;t=WaTVDvjTXij7Hru5kMEsE5teQm46uzLZ_ZKWoowXA5U)

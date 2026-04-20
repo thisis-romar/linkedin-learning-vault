@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-governance
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Operationalizing AI Governance: Strategy and Foundations by All Tech Is Human](https://media.licdn.com/dms/image/v2/D4D0DAQFnzhivJA3Gbg/learning-public-crop_675_1200/B4DZsyfHrCIsAY-/0/1766078577786?e=2147483647&amp;v=beta&amp;t=8h0ztSMQI5fv47hOF6R4C42vw6NDbJgFmOQy_47f8vU)

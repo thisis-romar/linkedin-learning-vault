@@ -16,7 +16,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Programming Foundations: Secure Coding (2018)](https://media.licdn.com/dms/image/v2/C4E0DAQHz_x3XQit9Gw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665661027?e=2147483647&amp;v=beta&amp;t=vJbz7MiTx8N0DalQyWnlCRE2Xdyu_GnLxTdQp3WQz7k)

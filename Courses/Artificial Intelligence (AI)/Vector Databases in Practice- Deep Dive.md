@@ -32,7 +32,7 @@ tags:
   - skill/vector-databases
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Vector Databases in Practice: Deep Dive](https://media.licdn.com/dms/image/v2/D560DAQExzIHfNrjPEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710796088760?e=2147483647&amp;v=beta&amp;t=zPT5HbEEOP1hqMzL_wzXM5L6Kg2qzovDoTUdf0o0tLo)

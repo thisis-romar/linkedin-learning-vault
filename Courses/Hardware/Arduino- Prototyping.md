@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Arduino: Prototyping](https://media.licdn.com/dms/image/v2/C4E0DAQGQJKvf1rrRjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579902853635?e=2147483647&amp;v=beta&amp;t=kAxDvFHP06fc2-ZpcPLiXHzHx8xGA5_Afwv5F8GEc2k)

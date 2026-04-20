@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leadership in Tech](https://media.licdn.com/dms/image/v2/C4E0DAQF4OOGlHzEi2A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568064400111?e=2147483647&amp;v=beta&amp;t=d47fgiJZjrcx85fJJyGKzso5d5W3Gy6dJ8k6HWUBZ0k)

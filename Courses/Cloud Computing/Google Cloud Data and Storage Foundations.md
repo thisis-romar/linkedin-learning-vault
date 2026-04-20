@@ -28,7 +28,7 @@ tags:
   - skill/cloud-storage
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Google Cloud Data and Storage Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQHJlfOCLARMkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679343774621?e=2147483647&amp;v=beta&amp;t=cfIHB1hIqlSjV-25LQEGMvaYXSDe-HGi4HmDDpPfdAE)

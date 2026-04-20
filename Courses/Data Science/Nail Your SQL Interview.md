@@ -27,7 +27,7 @@ tags:
   - skill/interview-preparation
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Nail Your SQL Interview](https://media.licdn.com/dms/image/v2/C4D0DAQHuW_atKGwa5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650041965675?e=2147483647&amp;v=beta&amp;t=2x83z68lrSu2_IcKFxSLBnuoPsSnXGVZS2Ei2sTYkxk)

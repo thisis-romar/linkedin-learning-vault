@@ -32,7 +32,7 @@ tags:
   - skill/generative-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![GenAIOps Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQEE981IlqLpkw/learning-public-crop_675_1200/B4EZW6KfLyG0AY-/0/1742585067102?e=2147483647&amp;v=beta&amp;t=7PKDQXLXCqk8_0WsWYakx0LWigxq0CMXCN8PUAZj4cQ)

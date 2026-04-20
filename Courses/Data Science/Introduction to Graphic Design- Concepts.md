@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - skill/graphic-design
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Graphic Design: Concepts](https://media.licdn.com/dms/image/v2/D560DAQEL7fM_V2QpOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719432933113?e=2147483647&amp;v=beta&amp;t=Zi4UxLxSrBtVTVB-LJDa4Simdb3QNQXBsEuhkMHwCFQ)

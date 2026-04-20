@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-storage
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Scalable Data Storage and Processing for AI Workloads](https://media.licdn.com/dms/image/v2/D4E0DAQE1Qqi57VoW4Q/learning-public-crop_675_1200/B4EZVssGVvH0Ac-/0/1741285254779?e=2147483647&amp;v=beta&amp;t=GYjaq7OPlRcOb9ejTjf7yNoSGSNw6XDMOsrJ9XJzCTY)

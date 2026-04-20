@@ -30,7 +30,7 @@ tags:
   - skill/big-data
   - skill/data-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python for Data Analysis: Solve Real-World Challenges](https://media.licdn.com/dms/image/v2/D560DAQHlUfLfnIMhFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351896347?e=2147483647&amp;v=beta&amp;t=GlqHr_UvDDpzs1w25Lf0OxMMIBbUttMj-d0dajGDuDI)

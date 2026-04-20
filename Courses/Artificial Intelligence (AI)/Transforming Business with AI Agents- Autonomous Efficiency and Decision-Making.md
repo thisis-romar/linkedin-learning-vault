@@ -30,7 +30,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Transforming Business with AI Agents: Autonomous Efficiency and Decision-Making](https://media.licdn.com/dms/image/v2/D4D0DAQGN52zdpc6G5A/learning-public-crop_675_1200/B4DZVNz36CG8AY-/0/1740767199289?e=2147483647&amp;v=beta&amp;t=pRKRi9672WJBlSW1HZjQdg8Rt5RQnQqiQVnwHtgpW4g)

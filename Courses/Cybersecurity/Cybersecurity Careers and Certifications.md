@@ -32,7 +32,7 @@ tags:
   - skill/cybersecurity
   - skill/career-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Careers and Certifications](https://media.licdn.com/dms/image/v2/C560DAQFl5s5CflRKdw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1672793067893?e=2147483647&amp;v=beta&amp;t=6WB-4UiKO7K5sIPMCnd1pLL5luXUSuLNYUtJlyUpYpw)

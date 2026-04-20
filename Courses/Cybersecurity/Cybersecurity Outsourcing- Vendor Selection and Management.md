@@ -25,7 +25,7 @@ tags:
   - skill/third-party-vendor-management
   - skill/security-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Outsourcing: Vendor Selection and Management](https://media.licdn.com/dms/image/v2/C4E0DAQEL4Aak8rq8Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668578987?e=2147483647&amp;v=beta&amp;t=6Fe1yoRtt-RvyMbaIXofmTMm6ubRbZyrf0SsKMeskk4)

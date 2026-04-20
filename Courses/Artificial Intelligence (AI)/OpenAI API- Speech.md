@@ -31,7 +31,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![OpenAI API: Speech](https://media.licdn.com/dms/image/v2/D4E0DAQFQl_W9q21TkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706575739148?e=2147483647&amp;v=beta&amp;t=IUtotIzdaPqmspHH3ty0QufVLF25heN2sAmR4h_hO5A)

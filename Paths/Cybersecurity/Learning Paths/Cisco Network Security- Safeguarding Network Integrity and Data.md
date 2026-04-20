@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/cisco-network-security-safeguarding-network-integrity-and-data"
+url: https://www.linkedin.com/learning/paths/cisco-network-security-safeguarding-network-integrity-and-data
 course_count: 7
 linkedin_topics:
   - Cybersecurity
@@ -12,8 +12,42 @@ tags:
   - learning-path
   - topic/security
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Cisco Network Security Core Security Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cisco Network Security- Secure Access]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cisco Network Security- VPN]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cisco Network Security- Secure Routing and Switching]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cisco Network Security- Cisco Firewall Technologies]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cisco Network Security- Intrusion Detection and Prevention]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cisco Network Security- Content and Endpoint Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Cisco Network Security: Safeguarding Network Integrity and Data

@@ -27,7 +27,7 @@ tags:
   - topic/it-help-desk
   - skill/windows-10
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Windows 10: Security](https://media.licdn.com/dms/image/v2/C560DAQG-86S2j1G6kQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626716915412?e=2147483647&amp;v=beta&amp;t=CT3A3M7V5NyZEDSXeAvUQAU9q9APuU1cFU6uIOMJ4s4)

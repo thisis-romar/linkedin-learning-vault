@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/marketing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The Habits of Successful Marketers](https://media.licdn.com/dms/image/v2/C560DAQGEtHNwFuKztg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637695334203?e=2147483647&amp;v=beta&amp;t=opZdPiRTlx0bI27-_KfiMZuL1aQObIUEa83idtq767U)

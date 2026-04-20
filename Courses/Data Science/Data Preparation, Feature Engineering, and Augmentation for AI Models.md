@@ -33,7 +33,7 @@ tags:
   - skill/data-preparation
   - skill/feature-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Preparation, Feature Engineering, and Augmentation for AI Models](https://media.licdn.com/dms/image/v2/D4E0DAQHSeY5vmM68DQ/learning-public-crop_675_1200/B4EZdCM241HQAY-/0/1749162356536?e=2147483647&amp;v=beta&amp;t=ZeZABO-KmRmQIPRK3c4zGd9HeDONRplBCmEmsdsk7CY)

@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/docker-products
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Docker: Your First Project](https://media.licdn.com/dms/image/v2/D560DAQHjKrL64jLnaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701991509593?e=2147483647&amp;v=beta&amp;t=hCiiqB_dyO1JNWdc_-KIeNorA1CSObEYz-J49JpeeZQ)

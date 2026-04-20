@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Using AI for Data-Driven Insights](https://media.licdn.com/dms/image/v2/D4E0DAQFCHtm8r09Iqg/learning-public-crop_675_1200/B4EZUkeJdcGYAc-/0/1740073638469?e=2147483647&amp;v=beta&amp;t=uCM36FWZaAspdJrBPMQ8odaVC1U62jaItfTBltG7vtA)

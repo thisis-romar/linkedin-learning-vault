@@ -29,7 +29,7 @@ tags:
   - skill/data-classification
   - skill/privacy
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Privacy, Governance, and Compliance: Data Classification and Inventory](https://media.licdn.com/dms/image/v2/C4E0DAQEswW30-zvAbA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678306438163?e=2147483647&amp;v=beta&amp;t=G7MWEMeG1WXc7ZKfCmcqrdpn0irc9TzXIZ1-h94aURo)

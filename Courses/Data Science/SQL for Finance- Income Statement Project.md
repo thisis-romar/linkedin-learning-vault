@@ -28,7 +28,7 @@ tags:
   - skill/financial-data
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL for Finance: Income Statement Project](https://media.licdn.com/dms/image/v2/D560DAQE8r3Ie8UIPRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726595619202?e=2147483647&amp;v=beta&amp;t=MnOPE2PxFxri-Y6olLZt3LphEnQ1RhZdySEppuOMT5U)

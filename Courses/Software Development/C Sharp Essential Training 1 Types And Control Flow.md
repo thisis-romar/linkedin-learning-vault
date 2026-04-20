@@ -24,7 +24,7 @@ tags:
   - skill/control-flow
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C Sharp Essential Training 1 Types And Control Flow](https://media.licdn.com/dms/image/v2/D560DAQHrULBndWclgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702408532921?e=2147483647&amp;v=beta&amp;t=gw_wwiJC83BwTC2GOWAnwJSGoF20lpXPKgqT1bBomXU)

@@ -28,7 +28,7 @@ tags:
   - topic/network-and-system-administration
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL Server Intelligence: Cracking the Code of Enterprise Data](https://media.licdn.com/dms/image/v2/D560DAQGpN01DNvFKCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008952462?e=2147483647&amp;v=beta&amp;t=qQRo8X3UPedx88r4iGvp584FHqrvDAicllcC1VMXjPE)

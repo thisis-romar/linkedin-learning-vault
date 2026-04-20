@@ -28,7 +28,7 @@ tags:
   - skill/dynamic-host-configuration-protocol-dhcp
   - skill/windows-server
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Windows Server 2022: DHCP and DNS](https://media.licdn.com/dms/image/v2/C4E0DAQFVEwRUQ-idOQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660581463282?e=2147483647&amp;v=beta&amp;t=at1jmnwdiA5ZMRZy8RiLpZ4JRe8e5Er6V860PUD5sKY)

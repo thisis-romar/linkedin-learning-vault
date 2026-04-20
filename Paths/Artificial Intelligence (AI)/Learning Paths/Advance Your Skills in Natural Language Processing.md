@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-in-natural-language-processing"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-in-natural-language-processing
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,38 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Advanced Nlp With Python For Machine Learning]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On Natural Language Processing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building NLP Pipelines with spaCy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Deep Learning with TensorFlow- Insights and Innovations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Workshop- Build a Neural Network with PyTorch Lightning]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI- Working with Large Language Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills in Natural Language Processing

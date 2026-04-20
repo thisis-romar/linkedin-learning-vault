@@ -25,7 +25,7 @@ tags:
   - skill/cloud-native-applications
   - skill/kubernetes
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Kubernetes: Cloud Native Ecosystem](https://media.licdn.com/dms/image/v2/C560DAQFgC_JiqphLxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639678943330?e=2147483647&amp;v=beta&amp;t=B1cK0bszYU19K-ctq6PHATHz9ocdEYN6KrmCRYbhnB0)

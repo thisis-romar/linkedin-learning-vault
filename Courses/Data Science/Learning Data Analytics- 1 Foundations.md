@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Data Analytics: 1 Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQFGmlfFOyWc7g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618937081114?e=2147483647&amp;v=beta&amp;t=tR__EzRzVFkcrxKweGH00afFxibABElaYg0LeXaMNOk)

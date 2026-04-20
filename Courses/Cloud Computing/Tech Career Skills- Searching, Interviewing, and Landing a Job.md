@@ -30,7 +30,7 @@ tags:
   - skill/job-search-strategies
   - skill/career-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Tech Career Skills: Searching, Interviewing, and Landing a Job](https://media.licdn.com/dms/image/v2/C4E0DAQFt-vtlJ7YweA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589564799693?e=2147483647&amp;v=beta&amp;t=Hr1FcfCLENFz6GfAEXfc7e-w31R91zCJXkd199wHXbw)

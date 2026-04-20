@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/soldering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Soldering for Electronics](https://media.licdn.com/dms/image/v2/C560DAQH4mqsGPqM91w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1604516665249?e=2147483647&amp;v=beta&amp;t=vk0pgvdYEROrHm4u27O4yXWrgPmvR9UAofkrULRafdA)

@@ -16,7 +16,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Designing Microinteractions with Figma](https://media.licdn.com/dms/image/v2/D4D0DAQHCpW9FmFDj6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682360217628?e=2147483647&amp;v=beta&amp;t=mGPYmxVztHq_7NA7bBeRzx1p26P2i5a1e2al1K-CY48)

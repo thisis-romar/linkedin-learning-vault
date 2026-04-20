@@ -29,7 +29,7 @@ tags:
   - skill/anthropic-claude
   - skill/application-programming-interfaces-api
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Model Context Protocol (MCP): Hands-On with Agentic AI](https://media.licdn.com/dms/image/v2/D4D0DAQEo2bybtTuBiQ/learning-public-crop_675_1200/B4DZW1p2_tG4Ac-/0/1742509404424?e=2147483647&amp;v=beta&amp;t=dltG64iWzxT4jhuX8znCpFVFa-4vJ0PlH6acDiPV93s)

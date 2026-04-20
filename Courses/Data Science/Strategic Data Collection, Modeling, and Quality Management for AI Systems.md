@@ -33,7 +33,7 @@ tags:
   - skill/data-quality
   - skill/data-cleaning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Strategic Data Collection, Modeling, and Quality Management for AI Systems](https://media.licdn.com/dms/image/v2/D4D0DAQFse636pRif1g/learning-public-crop_675_1200/B4DZWW5B43H4Ac-/0/1741993287498?e=2147483647&amp;v=beta&amp;t=FuFVbo5bhEHH7Q7XC_9QElK83gk5Yig7HQXoWSgrC70)

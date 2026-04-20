@@ -32,7 +32,7 @@ tags:
   - skill/ai-for-management
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Organizational Leadership in the Era of AI](https://media.licdn.com/dms/image/v2/D4E0DAQEt9_ODt0m1AQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726254563011?e=2147483647&amp;v=beta&amp;t=sLZ7RNKTWi4SNmCKrtmqO5ccufxer8DmbHVhOLhJbJ4)

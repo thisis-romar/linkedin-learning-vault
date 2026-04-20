@@ -2,18 +2,68 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/optimizing-enterprise-security-and-productivity-using-microsoft-365"
+url: https://www.linkedin.com/learning/paths/optimizing-enterprise-security-and-productivity-using-microsoft-365
 course_count: 11
 linkedin_topics:
   - Cloud Computing
   - Network and System Administration
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction To Microsoft 365 For It Pros]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft 365 Essential Training for Administrators]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft 365- Administration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Windows 10- Administration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Entra ID Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Securing Cloud Resources with Microsoft Defender for Cloud]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Windows 10- Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Configure and Manage OneDrive]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Configure and Manage SharePoint Online]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Office 365 for Administrators- Troubleshooting Issues for Users (Office 365-Microsoft 365)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Windows 10 for IT Support- Troubleshooting Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Optimizing Enterprise Security and Productivity Using Microsoft 365

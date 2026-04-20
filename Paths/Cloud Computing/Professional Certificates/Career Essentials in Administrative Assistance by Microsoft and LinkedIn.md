@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/career-essentials-in-administrative-assistance-by-microsoft-and-linkedin"
+url: https://www.linkedin.com/learning/paths/career-essentials-in-administrative-assistance-by-microsoft-and-linkedin
 course_count: 7
 linkedin_topics:
   - Cloud Computing
@@ -10,8 +10,42 @@ louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/cloud-computing
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Communication Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Microsoft 365 Copilot for Work]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Tips for Writing Business Emails]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a Time Management Mindset]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Microsoft 365]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Administrative Professional Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Business Etiquette- Phone, Email, and Text]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Career Essentials in Administrative Assistance by Microsoft and LinkedIn

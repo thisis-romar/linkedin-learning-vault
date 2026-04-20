@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Synthetic Data as the Future of AI Privacy, Explainability, and Fairness: An Introduction for Data Scientists and Data Executives](https://media.licdn.com/dms/image/v2/D560DAQGGUnvlQabHMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693344324699?e=2147483647&amp;v=beta&amp;t=OzIVEzKbfoBNE5L0ixO2ZNVVX5CmagOCFJS9DunLtWM)

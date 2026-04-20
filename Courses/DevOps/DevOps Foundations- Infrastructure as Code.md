@@ -19,7 +19,7 @@ tags:
   - topic/devops
   - topic/database-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![DevOps Foundations: Infrastructure as Code](https://media.licdn.com/dms/image/v2/D4D0DAQFmY9NJZYpOwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684264315878?e=2147483647&amp;v=beta&amp;t=4qCLR83v3x6q-68w1xWs8zjnjhKrw6WqL_Ink-ijQ10)

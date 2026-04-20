@@ -21,7 +21,7 @@ tags:
   - skill/career-management
   - skill/thought-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![How To Become A Thought Leader And Advance Your Career](https://media.licdn.com/dms/image/v2/C560DAQHLz2gIpGitgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630007018007?e=2147483647&amp;v=beta&amp;t=NuDtlRZn2ZQV726H5Put5Zsyjbt5uifpnzMyzOKlup0)

@@ -28,7 +28,7 @@ tags:
   - skill/application-programming-interfaces-api
   - skill/data-integration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Integration And Api Development For Ai Applications](https://media.licdn.com/dms/image/v2/D4E0DAQF3eB2Kr1sDGQ/learning-public-crop_675_1200/B4EZb0wdpRHcAY-/0/1747863067825?e=2147483647&amp;v=beta&amp;t=flbMfv7yDJSkC4vIZA-8jL3yT4zmGCIHgKKwow91l7s)

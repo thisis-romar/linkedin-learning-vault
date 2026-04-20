@@ -28,7 +28,7 @@ tags:
   - skill/-net-framework
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C# and .NET Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQFHiX0T9gzFUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724260774336?e=2147483647&amp;v=beta&amp;t=5ILnAHWlvAeRyOXdtf4IeK8ZFRINR4StZgvSvaxDXZc)

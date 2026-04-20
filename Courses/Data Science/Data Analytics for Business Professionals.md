@@ -31,7 +31,7 @@ tags:
   - skill/business-analytics
   - skill/data-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Analytics for Business Professionals](https://media.licdn.com/dms/image/v2/D4E0DAQGDjytYY4DQrw/learning-public-crop_675_1200/B4EZVsoYu0HUAY-/0/1741284282778?e=2147483647&amp;v=beta&amp;t=pwrhuLaYahIBKutaBUeSrK9LcrPlmiV4V1o960kMm0A)

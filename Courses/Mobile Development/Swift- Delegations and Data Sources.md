@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Swift: Delegations and Data Sources](https://media.licdn.com/dms/image/v2/C4E0DAQGSfsJszIFFgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567794475117?e=2147483647&amp;v=beta&amp;t=JvupRiD4BQ3oY8JubP-06zOO0zwBsenWbr_vFTHcd4Q)

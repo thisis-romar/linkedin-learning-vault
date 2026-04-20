@@ -6,7 +6,7 @@ course_count: 6
 tags:
   - skill
   - skill/windows-10
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Windows 10

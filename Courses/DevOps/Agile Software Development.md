@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Agile Software Development](https://media.licdn.com/dms/image/v2/C4D0DAQHiw_Jtb8aOkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1592866263723?e=2147483647&amp;v=beta&amp;t=Z3rQ8g6xupoq-H5tHejwBU1LS2kxLv7ygovfKCE7vAE)

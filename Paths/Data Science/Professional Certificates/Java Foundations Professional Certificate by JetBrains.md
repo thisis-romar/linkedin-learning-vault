@@ -2,18 +2,44 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/java-foundations-professional-certificate-by-jetbrains"
+url: https://www.linkedin.com/learning/paths/java-foundations-professional-certificate-by-jetbrains
 course_count: 5
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - professional-certificate
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Java Essential Training Syntax And Structure]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java Essential Training- Objects and APIs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java Object-Oriented Programming]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java- Data Structures]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning JDBC]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Java Foundations Professional Certificate by JetBrains

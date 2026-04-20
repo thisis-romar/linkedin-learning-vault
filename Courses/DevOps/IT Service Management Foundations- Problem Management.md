@@ -26,7 +26,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![IT Service Management Foundations: Problem Management](https://media.licdn.com/dms/image/v2/C4E0DAQHiX_CPjdjC1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1603217903420?e=2147483647&amp;v=beta&amp;t=WkJ_z3JS6d-5a09Pr2dbYiBkpQg04t5yw7HQHF1barA)

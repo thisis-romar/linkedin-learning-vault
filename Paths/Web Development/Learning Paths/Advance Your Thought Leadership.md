@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-thought-leadership"
+url: https://www.linkedin.com/learning/paths/advance-your-thought-leadership
 course_count: 7
 linkedin_topics:
   - Web Development
@@ -10,8 +10,42 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[How To Become A Thought Leader And Advance Your Career]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The Step-by-Step Guide to Building your Thought Leadership on LinkedIn]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Creating Your Personal Brand]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Writing and Delivering Speeches]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Creating LinkedIn Newsletters]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Live Streaming on LinkedIn]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Protecting Yourself as a Content Creator]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Thought Leadership

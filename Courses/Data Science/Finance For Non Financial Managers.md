@@ -21,7 +21,7 @@ tags:
   - topic/data-science
   - skill/finance
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Finance For Non Financial Managers](https://media.licdn.com/dms/image/v2/D560DAQE1B6A9yIuxjg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713394694274?e=2147483647&amp;v=beta&amp;t=QfeyRf9EQeb30jg1UTfQ2kWusuT-AVzXCwP9zWuAEWI)

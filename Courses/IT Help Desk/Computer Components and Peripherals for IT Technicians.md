@@ -19,7 +19,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Computer Components and Peripherals for IT Technicians](https://media.licdn.com/dms/image/v2/D560DAQHp9iAHclkIBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693851737005?e=2147483647&amp;v=beta&amp;t=-_l9H3OGTOsGVL5q68WUFoTXRd9lkpuhzCxUADnfXso)

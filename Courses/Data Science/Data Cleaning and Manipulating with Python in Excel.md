@@ -31,7 +31,7 @@ tags:
   - skill/data-cleaning
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Cleaning and Manipulating with Python in Excel](https://media.licdn.com/dms/image/v2/D4E0DAQFFvPbNc2rMCw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726528104511?e=2147483647&amp;v=beta&amp;t=UTcTNInBh6S_steKS9hzn5LDigRtycW-pHBWfmB0Zcw)

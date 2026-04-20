@@ -23,7 +23,7 @@ tags:
   - skill/project-management
   - skill/business-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analysis for Project Managers](https://media.licdn.com/dms/image/v2/C4E0DAQGkfrZWdy9W5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614972368978?e=2147483647&amp;v=beta&amp;t=NuMtkI3nF7R21RZjbzOpRUMU2nAsstrFlKSu4k5SClM)

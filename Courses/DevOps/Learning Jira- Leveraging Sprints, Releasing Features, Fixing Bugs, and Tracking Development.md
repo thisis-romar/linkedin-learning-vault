@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/jira
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Jira: Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development](https://media.licdn.com/dms/image/v2/D4E0DAQFJbkeDZ7SFsQ/learning-public-crop_675_1200/B4EZoYEE94J0AY-/0/1761340314316?e=2147483647&amp;v=beta&amp;t=n6xZbdij6Uw6pzM0-oagh74Ahfsm2t2Qc954OfXtfyg)

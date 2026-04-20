@@ -26,7 +26,7 @@ tags:
   - skill/data-storytelling
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Picking the Right Chart for Your Data](https://media.licdn.com/dms/image/v2/C4E0DAQEl17oNmUV-2Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668499236?e=2147483647&amp;v=beta&amp;t=xWq_rFgjerQOlx0ioDiRqC0W0DzB2w7BryVNITTLdA0)

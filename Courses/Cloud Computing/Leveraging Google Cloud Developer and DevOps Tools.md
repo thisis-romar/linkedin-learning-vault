@@ -30,7 +30,7 @@ tags:
   - skill/cloud-development
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leveraging Google Cloud Developer and DevOps Tools](https://media.licdn.com/dms/image/v2/C4E0DAQGNj0oA1ccRkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662645118935?e=2147483647&amp;v=beta&amp;t=ZStBusfFobd7cSAQm5sPTt6kKro_eE-tYW01_1vc2AA)

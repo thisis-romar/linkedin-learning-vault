@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/lead-generation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![How to Generate Marketing Leads with AI](https://media.licdn.com/dms/image/v2/D4E0DAQHQN6Z_24pDRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700092883793?e=2147483647&amp;v=beta&amp;t=TCnqNOWTidadVL97KNfxMXT9wwVIYUbAhQaUTy-oYGI)

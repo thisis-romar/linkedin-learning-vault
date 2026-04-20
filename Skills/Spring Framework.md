@@ -6,7 +6,7 @@ course_count: 8
 tags:
   - skill
   - skill/spring-framework
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Spring Framework

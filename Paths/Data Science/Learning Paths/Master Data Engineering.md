@@ -2,20 +2,58 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-data-engineering"
+url: https://www.linkedin.com/learning/paths/master-data-engineering
 course_count: 8
 linkedin_topics:
   - Data Science
   - Software Development
   - Web Development
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/data-science
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Apache Kafka Essential Training Building Scalable Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Troubleshooting and Debugging Kafka]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Tuning Kafka]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Architecting Big Data Applications- Batch Mode Application Engineering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Engineering- dbt for SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Snowflake- Deep Dive Cloud Data Warehousing and Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master Data Engineering

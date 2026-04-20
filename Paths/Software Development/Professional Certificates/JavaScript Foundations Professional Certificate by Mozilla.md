@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/javascript-foundations-professional-certificate-by-mozilla"
+url: https://www.linkedin.com/learning/paths/javascript-foundations-professional-certificate-by-mozilla
 course_count: 2
 linkedin_topics:
   - Software Development
@@ -12,8 +12,22 @@ tags:
   - professional-certificate
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning The Javascript Language]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # JavaScript Foundations Professional Certificate by Mozilla

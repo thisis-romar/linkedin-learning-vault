@@ -26,7 +26,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leading With A Digital Mindset In The Age Of Ai](https://media.licdn.com/dms/image/v2/D560DAQGiZXmP1SNllQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1699569878274?e=2147483647&amp;v=beta&amp;t=sjrnMttj6wh1KMBKB-7SEYWEh8Z6k7RoLqWYajd9s2s)

@@ -25,7 +25,7 @@ tags:
   - skill/python-programming-language
   - skill/object-oriented-programming-oop
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python Practice: Object-Oriented Programming](https://media.licdn.com/dms/image/v2/D560DAQH7193iBIAhRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902250796?e=2147483647&amp;v=beta&amp;t=wYPtpWYN0JZsAvinlsPMrB-UXjQyO_mi4Lxme3YxQdU)

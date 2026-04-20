@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/starting-your-career-in-tech-data-science"
+url: https://www.linkedin.com/learning/paths/starting-your-career-in-tech-data-science
 course_count: 8
 linkedin_topics:
   - Cloud Computing
@@ -16,8 +16,46 @@ tags:
   - topic/security
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Inside The Mind Of An Aspiring Data Scientist]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Science and Analytics Career Paths and Certifications- First Steps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Data Science]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Science Foundations- Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The Non Technical Skills Of Effective Data Scientists]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[15 Tips for Landing a Data Science Job]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Get a Remote Data Science Job]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Future Proofing Your Data Science Career]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Starting Your Career in Tech: Data Science

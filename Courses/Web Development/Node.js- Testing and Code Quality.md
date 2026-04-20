@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Node.js: Testing and Code Quality](https://media.licdn.com/dms/image/v2/C560DAQFbnU_pGsqnsQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622761357976?e=2147483647&amp;v=beta&amp;t=Q9sdZvorjgGXIs4l5Jnb1jCB3sdexSRe4A8KdUZVWes)

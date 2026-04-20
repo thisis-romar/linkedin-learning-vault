@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/semiconductor-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Electronics Foundations: Semiconductor Devices](https://media.licdn.com/dms/image/v2/C4E0DAQHgGnnVi805qQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665832892?e=2147483647&amp;v=beta&amp;t=Ypw2yjdums5wx5YRSL28QGOJSiofPJYLY61sfxGnHGM)

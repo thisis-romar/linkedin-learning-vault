@@ -28,7 +28,7 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python in Excel: Working with pandas DataFrames](https://media.licdn.com/dms/image/v2/D560DAQH4uk98MNH5IA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712361684240?e=2147483647&amp;v=beta&amp;t=RoWpQoF2FnYjGfPy0dgZqqxG_ZsY0Qjg8hxViN_Bg5U)

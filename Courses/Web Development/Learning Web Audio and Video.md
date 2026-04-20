@@ -25,7 +25,7 @@ tags:
   - skill/web-standards
   - skill/interactive-web-content
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Web Audio and Video](https://media.licdn.com/dms/image/v2/C4D0DAQFqwMRtOdtvLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597422032215?e=2147483647&amp;v=beta&amp;t=kXq1JbiVYCdzKk6De6bxvI5Op_419cu4wU2EUIySwds)

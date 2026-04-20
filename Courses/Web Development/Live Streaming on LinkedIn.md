@@ -23,7 +23,7 @@ tags:
   - skill/live-streaming
   - skill/linkedin
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Live Streaming on LinkedIn](https://media.licdn.com/dms/image/v2/C560DAQGuguRzcscSBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656536095107?e=2147483647&amp;v=beta&amp;t=62TwAhRVIFPnAWNG0Hprdzx4RLN9iNs-Txvj4RAXZ8M)

@@ -25,7 +25,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PowerPoint Essential Training (Microsoft 365)](https://media.licdn.com/dms/image/v2/D4D0DAQHhQprOM4LglA/learning-public-crop_675_1200/B4DZetPlITGkAc-/0/1750958232896?e=2147483647&amp;v=beta&amp;t=K1rZ7iQA6LiuBZmipVqTmYCnC8tW5mmy1PD2QVqoLnI)

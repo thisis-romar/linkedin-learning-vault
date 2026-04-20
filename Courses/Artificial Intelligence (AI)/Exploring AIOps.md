@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/it-automation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Exploring AIOps](https://media.licdn.com/dms/image/v2/D560DAQF6IUEHzKfKnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696012674652?e=2147483647&amp;v=beta&amp;t=iJrbkmm8miD8Y602D7B4KgnjvnMk3PhOmyfSIhBEneA)

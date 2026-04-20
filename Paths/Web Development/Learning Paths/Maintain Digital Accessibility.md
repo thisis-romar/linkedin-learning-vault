@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/maintain-digital-accessibility"
+url: https://www.linkedin.com/learning/paths/maintain-digital-accessibility
 course_count: 3
 linkedin_topics:
   - Web Development
@@ -10,8 +10,26 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Making A Case For Accessibility In Your Organization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Supporting Accessibility in a Hybrid Workplace]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Auditing Design Systems for Accessibility]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Maintain Digital Accessibility

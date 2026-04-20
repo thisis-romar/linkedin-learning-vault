@@ -25,7 +25,7 @@ tags:
   - skill/cybersecurity-incident-response
   - skill/crisis-communications
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack](https://media.licdn.com/dms/image/v2/C4E0DAQGmdlDRWeu7lA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650645024160?e=2147483647&amp;v=beta&amp;t=gGhOrfEtNXH61H3nTmb8Rwy0fe4sSpMYtYO3VcIzCh4)

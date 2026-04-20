@@ -26,7 +26,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Accountability: Build Responsible and Transparent Systems](https://media.licdn.com/dms/image/v2/D4E0DAQH0zLstpcWx5Q/learning-public-crop_675_1200/B4EZgVgQlhHEAc-/0/1752707435468?e=2147483647&amp;v=beta&amp;t=2qnXEjjUdtL1N4mW7-71jcqh27LVGSICWnsBr9sCqfE)

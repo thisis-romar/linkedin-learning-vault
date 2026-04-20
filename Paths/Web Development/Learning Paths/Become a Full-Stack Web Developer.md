@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-a-full-stack-web-developer"
+url: https://www.linkedin.com/learning/paths/become-a-full-stack-web-developer
 course_count: 12
 linkedin_topics:
   - Web Development
@@ -10,8 +10,62 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[CSS Essential Training (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Search Techniques for Web Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning ECMAScript 6+ (ES6+)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Git Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Node Js Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[NoSQL Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Rest Apis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Devops Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become a Full-Stack Web Developer

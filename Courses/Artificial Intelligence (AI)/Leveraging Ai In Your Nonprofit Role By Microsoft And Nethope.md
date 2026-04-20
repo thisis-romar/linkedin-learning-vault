@@ -25,7 +25,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/nonprofit-organizations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope](https://media.licdn.com/dms/image/v2/D560DAQGlw8gXfFnpJQ/learning-public-crop_675_1200/B56Z0bzOfaJgAY-/0/1774287907434?e=2147483647&amp;v=beta&amp;t=VZXOKyka2fhmfzgepEfl59dVBDhho9_vEvG_J8mGXig)

@@ -25,7 +25,7 @@ tags:
   - skill/interactive-voice-response-ivr
   - skill/twilio
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Twilio Essentials Unit 2: Programmable Voice](https://media.licdn.com/dms/image/v2/C560DAQEjIIowAW3xmw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661384713359?e=2147483647&amp;v=beta&amp;t=BZ24LrysfkXIsg7DhME71KrJfA7sh_WTOIRoLumCmp0)

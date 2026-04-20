@@ -21,7 +21,7 @@ tags:
   - topic/mobile-development
   - skill/react-native
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![React Native Essential Training](https://media.licdn.com/dms/image/v2/C560DAQGKXGNugAV8Ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1605024546102?e=2147483647&amp;v=beta&amp;t=sT7pQrM4VbNoMCmTrtyurh_WoGeP76aHq06n5A-S4Vk)

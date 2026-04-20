@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Scrum: Advanced](https://media.licdn.com/dms/image/v2/D560DAQGIuTXjYvOoZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694724642528?e=2147483647&amp;v=beta&amp;t=x9pZJiW5jo8ghYA-OP5Ih8wTxgzf59nhnGrFFGgRX0I)

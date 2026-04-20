@@ -27,7 +27,7 @@ tags:
   - skill/memory-management
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Java Memory Management: Values and References](https://media.licdn.com/dms/image/v2/D560DAQHNqyFy0rQSiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710461282859?e=2147483647&amp;v=beta&amp;t=LjUM--S07MjJJulmAJyTDydJrHCeGx4UeNVs489gpBI)

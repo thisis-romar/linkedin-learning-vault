@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![A Beginner's Guide to Public Cloud Options](https://media.licdn.com/dms/image/v2/D560DAQE1N56XuZkLkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721255730975?e=2147483647&amp;v=beta&amp;t=QRCokT69Tq0VCl-zB8khFP-WYY0LPLRNdDP9R7H-MUM)

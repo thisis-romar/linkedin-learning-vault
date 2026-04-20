@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/unity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cert Prep: Unity Certified Associate Game Developer Materials and Lighting](https://media.licdn.com/dms/image/v2/C4E0DAQFmQ5ZNu1UcDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611705919415?e=2147483647&amp;v=beta&amp;t=jV9lFVX8kxZgQ7PZ7LQdvHoF7m3NTBG-Ow4erfd9Xh0)

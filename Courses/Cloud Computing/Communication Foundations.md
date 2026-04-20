@@ -21,7 +21,7 @@ tags:
   - skill/interpersonal-communication
   - skill/professional-communication
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Communication Foundations](https://media.licdn.com/dms/image/v2/D560DAQHKwoWZ8QK6Hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700601056751?e=2147483647&amp;v=beta&amp;t=aCB0k3ELSGIFYrocfiGn_cJsi-xovxi7ko8EJZUZBpY)

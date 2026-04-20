@@ -26,7 +26,7 @@ tags:
   - skill/github
   - skill/privacy
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![GitHub Foundations: Privacy, Security, and Administration](https://media.licdn.com/dms/image/v2/D4E0DAQHg0wPhg4lCpQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697155619629?e=2147483647&amp;v=beta&amp;t=O-FTaX-4NRzFTJBUO7DwmPGIy_9gjuOj9dKt0FIOrFU)

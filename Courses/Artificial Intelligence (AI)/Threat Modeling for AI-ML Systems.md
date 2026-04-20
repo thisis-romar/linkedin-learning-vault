@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Threat Modeling for AI/ML Systems](https://media.licdn.com/dms/image/v2/D560DAQFuAEZJ16cTRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713811065983?e=2147483647&amp;v=beta&amp;t=hVIcNFGfvmPRSKMjo-x-S1SzuJLHW1NLnubttLM11vQ)

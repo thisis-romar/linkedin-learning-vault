@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL Tips and Tricks for Data Science](https://media.licdn.com/dms/image/v2/C4E0DAQF7y0hASXms9Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118065211?e=2147483647&amp;v=beta&amp;t=j7ruLHk-YyjTkzLkGXEwEqxYbOZN8nZ3HYwn-hA6WjI)

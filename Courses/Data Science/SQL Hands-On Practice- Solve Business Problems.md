@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL Hands-On Practice: Solve Business Problems](https://media.licdn.com/dms/image/v2/D560DAQE39da4k5PRQg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902865604?e=2147483647&amp;v=beta&amp;t=u2jP4AXKwzQWrz-Wl-NrpPQkV2lYzA3LiMSjRKxjnkg)

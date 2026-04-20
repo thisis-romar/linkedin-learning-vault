@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/vector-databases-professional-certificate-by-weaviate"
+url: https://www.linkedin.com/learning/paths/vector-databases-professional-certificate-by-weaviate
 course_count: 2
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,22 @@ tags:
   - topic/artificial-intelligence
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction To Ai Native Vector Databases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Vector Databases in Practice- Deep Dive]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Vector Databases Professional Certificate by Weaviate

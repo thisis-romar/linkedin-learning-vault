@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/vibe-code-this"
+url: https://www.linkedin.com/learning/paths/vibe-code-this
 course_count: 2
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,22 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Vibe Code This Interactive Dashboard Tooling For Your Team]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Vibe Code This- AI-Powered Branded Infographics Tool]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Vibe Code This

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/understanding-quantum-computing"
+url: https://www.linkedin.com/learning/paths/understanding-quantum-computing
 course_count: 3
 linkedin_topics:
   - Cloud Computing
@@ -12,8 +12,26 @@ tags:
   - learning-path
   - topic/cloud-computing
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction To Quantum Computing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Quantum Computing Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Quantum Computing Essentials]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Understanding Quantum Computing

@@ -29,7 +29,7 @@ tags:
   - skill/software-prototyping
   - skill/prototype-framework
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JavaScript: Prototypes](https://media.licdn.com/dms/image/v2/D4E0DAQEAM937wj_YFw/learning-public-crop_675_1200/B4EZmhagvaKgAc-/0/1759349705942?e=2147483647&amp;v=beta&amp;t=osBIZQ_mPdsSIrf1o4FOQgzgqEjMk_dwNhSZLUHE5O0)

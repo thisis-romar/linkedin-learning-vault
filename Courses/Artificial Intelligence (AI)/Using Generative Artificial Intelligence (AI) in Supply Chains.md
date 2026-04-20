@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Using Generative Artificial Intelligence (AI) in Supply Chains](https://media.licdn.com/dms/image/v2/D4D0DAQF9ucHY4dxgRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732151189246?e=2147483647&amp;v=beta&amp;t=PFWwhxdXJNw8AC02V5RU7d4XMXlyO71fqIpu_SGX7gM)

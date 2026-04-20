@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-php-skills"
+url: https://www.linkedin.com/learning/paths/advance-your-php-skills
 course_count: 7
 linkedin_topics:
   - Cybersecurity
@@ -14,8 +14,42 @@ tags:
   - topic/security
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Php Testing Legacy Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Functional Programming with PHP]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PHP Techniques- Working with Files and Directories]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PHP- Creating Secure Websites]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PHP- User Authentication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PHP Techniques- Pagination]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced PHP- Debugging Techniques]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your PHP Skills

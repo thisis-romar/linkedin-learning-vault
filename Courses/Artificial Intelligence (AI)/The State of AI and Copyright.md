@@ -26,7 +26,7 @@ tags:
   - skill/copyright-law
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The State of AI and Copyright](https://media.licdn.com/dms/image/v2/D560DAQHq35uvDTUZhg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696368851549?e=2147483647&amp;v=beta&amp;t=kRcwlPauekAijMh0feyiOayJXtEod_y1C7HVzmwdIBw)

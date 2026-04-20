@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel: Introduction to Formatting](https://media.licdn.com/dms/image/v2/D560DAQHZGkpT6pxlGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695080492336?e=2147483647&amp;v=beta&amp;t=DMmtJpE_sLrV6WiAuuQE25oPsMo7XMN1udhOoSXZSa0)

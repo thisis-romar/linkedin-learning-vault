@@ -2,20 +2,50 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/data-engineering-foundations-professional-certificate-by-astronomer"
+url: https://www.linkedin.com/learning/paths/data-engineering-foundations-professional-certificate-by-astronomer
 course_count: 6
 linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - professional-certificate
   - topic/data-science
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning SQL Programming]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On Introduction- Data Engineering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Apache Airflow]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Data Warehouses]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Data Governance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Data Engineering Foundations Professional Certificate by Astronomer

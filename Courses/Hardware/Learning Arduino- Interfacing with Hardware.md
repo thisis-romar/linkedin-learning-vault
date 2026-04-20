@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Arduino: Interfacing with Hardware](https://media.licdn.com/dms/image/v2/C4E0DAQElLaw9B93Uvw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669851419?e=2147483647&amp;v=beta&amp;t=EPO1hmQqc6xKpVhB-XitnkQtTJ5GsKUiiliU9h81bVY)

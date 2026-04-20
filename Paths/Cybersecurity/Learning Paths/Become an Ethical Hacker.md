@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-an-ethical-hacker"
+url: https://www.linkedin.com/learning/paths/become-an-ethical-hacker
 course_count: 19
 linkedin_topics:
   - Cybersecurity
@@ -12,8 +12,105 @@ tags:
   - learning-path
   - topic/security
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/in-progress
+last_activity: 2026-04-20T20:58:57.403Z
+activity_total: 4
+courses_visited: 3
+videos_visited: 1
+progress_status: in-progress
+course_activity:
+  - course: "[[Ethical Hacking Introduction To Ethical Hacking]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Footprinting and Reconnaissance]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Scanning Networks]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Enumeration]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Vulnerability Analysis]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- System Hacking]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- The Complete Malware Analysis Process]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Sniffers]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Social Engineering]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Denial of Service]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Session Hijacking]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Evading IDS, Firewalls, and Honeypots]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Hacking Web Servers and Web Applications]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Wireless Networks]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Mobile Devices and Platforms]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Hacking IoT Devices]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Cryptography]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- Cloud Computing]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: "[[Ethical Hacking- SQL Injection]]"
+    last_opened:
+    open_count: 0
+    videos: []
+  - course: ethical-hacking-wireless-networks
+    last_opened: 2026-04-20T20:57:01.506Z
+    open_count: 1
+    videos:
+      - video: capturing-wireless-packets-with-acrylic-analyzer-2
+        last_clicked: 2026-04-20T20:57:03.735Z
+        click_count: 1
+  - course: ethical-hacking-hacking-web-servers-and-web-applications
+    last_opened: 2026-04-20T20:58:57.403Z
+    open_count: 2
+    videos: []
+  - course: ethical-hacking-mobile-devices-and-platforms
+    last_opened: 2026-04-20T20:58:55.372Z
+    open_count: 1
+    videos: []
+created: 2026-04-20
 ---
 
 # Become an Ethical Hacker

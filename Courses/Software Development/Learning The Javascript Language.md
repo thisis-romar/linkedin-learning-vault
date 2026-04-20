@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning The Javascript Language](https://media.licdn.com/dms/image/v2/D560DAQEpa5LhtPUlUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683586021773?e=2147483647&amp;v=beta&amp;t=eWdXogROIX3NTc6aUHOyMCTpm9PuwajA52aAEOLOsdU)

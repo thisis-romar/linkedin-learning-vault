@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - skill/marketing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Marketing Foundations](https://media.licdn.com/dms/image/v2/C560DAQE574b1XkUVmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671043301291?e=2147483647&amp;v=beta&amp;t=S25fcu0m8qAGe2MPbkXweIgJqX44_nki90H5y4BZPxs)

@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/expansion-strategies
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Scaling Generative AI: Building a Strategy for Adoption and Expansion](https://media.licdn.com/dms/image/v2/D560DAQGbONvUh6x1eA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705538619863?e=2147483647&amp;v=beta&amp;t=Q_U8LzTkV-LHW5yBYu5IZWGKEzwoFahQMkvz6eE0Lw0)

@@ -25,7 +25,7 @@ tags:
   - skill/data-driven-decision-making
   - skill/data-ethics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Ethics: Making Data-Driven Decisions](https://media.licdn.com/dms/image/v2/C560DAQH5bKMkxYAYxA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644606814036?e=2147483647&amp;v=beta&amp;t=BZdzlrx7ALv9QBKEOeuaTNVMfukAeIoCoSu9iPozW_I)

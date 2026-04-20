@@ -25,7 +25,7 @@ tags:
   - skill/django
   - skill/membership-systems
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building a Paid Membership Site with Django](https://media.licdn.com/dms/image/v2/C4E0DAQHCswQe7k_ZlA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669117023?e=2147483647&amp;v=beta&amp;t=HJQfzd3o-clYeXEdKIGEDB7AcywiJlMYWH8ud6SjK6g)

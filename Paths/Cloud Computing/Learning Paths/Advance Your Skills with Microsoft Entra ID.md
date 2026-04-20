@@ -2,18 +2,36 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-with-microsoft-entra-id"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-with-microsoft-entra-id
 course_count: 3
 linkedin_topics:
   - Cloud Computing
   - Network and System Administration
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Microsoft Entra ID Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Planning for Microsoft Entra ID]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Deploying Microsoft Entra ID]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills with Microsoft Entra ID

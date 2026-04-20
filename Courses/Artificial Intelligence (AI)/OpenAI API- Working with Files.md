@@ -31,7 +31,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![OpenAI API: Working with Files](https://media.licdn.com/dms/image/v2/D4E0DAQFOZf2CmFd-fg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706825069771?e=2147483647&amp;v=beta&amp;t=fihFsN396gI0FkbniTmZtEI7A4mv40QcIsBByBHJw2M)

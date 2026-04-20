@@ -27,7 +27,7 @@ tags:
   - skill/document-object-model-dom
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Vanilla JavaScript: Building on the Document Object Model (DOM)](https://media.licdn.com/dms/image/v2/C560DAQEL1YDA4pMuSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624636988037?e=2147483647&amp;v=beta&amp;t=8rrIP4NN2s_q3nQuIvT0KiT86gGqhsjREA3oLRT4JuY)

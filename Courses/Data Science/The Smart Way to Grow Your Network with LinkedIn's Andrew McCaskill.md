@@ -23,7 +23,7 @@ tags:
   - skill/job-searching
   - skill/networking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill](https://media.licdn.com/dms/image/v2/D4E0DAQGlG0YgmwssAg/learning-public-crop_675_1200/B4EZekETDxG4Ac-/0/1750804279820?e=2147483647&amp;v=beta&amp;t=zlceYtdAny40Zw3Ul1-XoOOMnh1E8G0YfJRICgHA4Yw)

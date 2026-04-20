@@ -20,7 +20,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Build with AI: Beyond Pair Programming with AI](https://media.licdn.com/dms/image/v2/D4D0DAQFnn88AnL99Bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734482641915?e=2147483647&amp;v=beta&amp;t=PyGUMR541aabul9_VvxlLwGNxpbWWuF6U0-aDJ7Fp6M)

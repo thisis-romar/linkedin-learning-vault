@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Aws Essential Training For Developers](https://media.licdn.com/dms/image/v2/D560DAQH2oKP36gt7_A/learning-public-crop_675_1200/B56ZqdJYQKJUAY-/0/1763573073601?e=2147483647&amp;v=beta&amp;t=CO0-6mKFQoEnAj6q2bb7tUvRtna87K_xeXvXpsjuFbY)

@@ -22,7 +22,7 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Characteristics of a Great Scrum Master](https://media.licdn.com/dms/image/v2/C4E0DAQHnQhv-MUQ5sQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668837277?e=2147483647&amp;v=beta&amp;t=_iGyrHNWcPlKf5fEl3YFDhtixO4d3FN4k1-PGjlMLU4)

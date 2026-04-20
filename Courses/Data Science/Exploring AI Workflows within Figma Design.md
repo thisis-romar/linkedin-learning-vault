@@ -28,7 +28,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Exploring AI Workflows within Figma Design](https://media.licdn.com/dms/image/v2/D4E0DAQE0Sb6uLox8sA/learning-public-crop_675_1200/B4EZdqJERzHgAo-/0/1749832451429?e=2147483647&amp;v=beta&amp;t=VuAmt8Ss0W0RxCFxdnPSdFHrT6kKluxFmi2ZQ4F2cT8)

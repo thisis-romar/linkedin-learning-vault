@@ -13,7 +13,7 @@ tags:
   - topic/data-science
   - topic/mobile-development
   - topic/software-development
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Károly Nyisztor

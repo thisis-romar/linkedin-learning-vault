@@ -29,7 +29,7 @@ tags:
   - skill/hadoop
   - skill/apache-spark
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Big Data Analytics with Hadoop and Apache Spark](https://media.licdn.com/dms/image/v2/D560DAQHTOWKtGDMPmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725568658115?e=2147483647&amp;v=beta&amp;t=-JZmGED0H1HZUEkFYqEttM9iiuN8b-Ku22lfGhJnv6o)

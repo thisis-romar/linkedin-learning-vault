@@ -6,7 +6,7 @@ course_count: 32
 tags:
   - skill
   - skill/microsoft-azure
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Microsoft Azure

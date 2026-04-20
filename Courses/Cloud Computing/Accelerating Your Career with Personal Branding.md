@@ -26,7 +26,7 @@ tags:
   - skill/personal-branding
   - skill/career-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Accelerating Your Career with Personal Branding](https://media.licdn.com/dms/image/v2/C4D0DAQF69PUzbwvqCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664562370148?e=2147483647&amp;v=beta&amp;t=oUkXN6gP3sI0JvRcAminv_WJafbnJNTnvc2PnFLOUvw)

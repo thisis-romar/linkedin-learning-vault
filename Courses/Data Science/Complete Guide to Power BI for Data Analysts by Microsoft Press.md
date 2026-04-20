@@ -16,7 +16,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Guide to Power BI for Data Analysts by Microsoft Press](https://media.licdn.com/dms/image/v2/D4D0DAQFsKBwggqdoog/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707847933583?e=2147483647&amp;v=beta&amp;t=pnf6tQ0e8LmJu5Iq0aYfUPIxjDXSddH7EJHbRRYe7YA)

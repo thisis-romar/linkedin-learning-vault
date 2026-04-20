@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-people-managers"
+url: https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-people-managers
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,34 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Become An Ai Powered People Manager]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible AI for Managers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Manager''s Guide to Building a Strategic Plan with ChatGPT (No Code Required)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Decision-Making and Communication for Leaders with Nancy Duarte]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Strategic AI Prompting for Managers- Leading Smarter with Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Technical Literacy and Future Readiness for People Managers

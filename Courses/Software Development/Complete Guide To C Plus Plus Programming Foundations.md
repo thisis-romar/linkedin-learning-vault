@@ -26,7 +26,7 @@ tags:
   - skill/programming-foundations
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Guide To C Plus Plus Programming Foundations](https://media.licdn.com/dms/image/v2/D560DAQH50vvvBb4fjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728602707442?e=2147483647&amp;v=beta&amp;t=yMWsb5TyfFuhbVxl1cm6CDDW388xu0wRGx5Jr8HtnFw)

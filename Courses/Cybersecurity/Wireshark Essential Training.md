@@ -22,7 +22,7 @@ tags:
   - topic/network-and-system-administration
   - skill/wireshark
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Wireshark Essential Training](https://media.licdn.com/dms/image/v2/C4D0DAQEJgVrQbGIxTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1641577091047?e=2147483647&amp;v=beta&amp;t=H4XW_a_MTjke5u2uwFG_JbCVn5aaJfJeSbXybtFf3i0)

@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/content-marketing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Content Marketing Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQHehYSk7nXSbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579212205888?e=2147483647&amp;v=beta&amp;t=89n5ZD9JrdT7cOmPiB_SFgfiELLNR-1gGgwDQiQYtBw)

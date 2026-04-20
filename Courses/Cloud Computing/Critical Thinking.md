@@ -26,7 +26,7 @@ tags:
   - skill/decision-making
   - skill/critical-thinking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Critical Thinking](https://media.licdn.com/dms/image/v2/C4E0DAQGRLaOVaDrWFw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1593630205638?e=2147483647&amp;v=beta&amp;t=W8ok__3wON_o0CPpwslnQokOxWQmnNu_EWsx-3Pkr0w)

@@ -29,7 +29,7 @@ tags:
   - skill/technical-support
   - skill/windows-10
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Windows 10 for IT Support: Troubleshooting Basics](https://media.licdn.com/dms/image/v2/C560DAQE7k6yBQxLEgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662757917918?e=2147483647&amp;v=beta&amp;t=zUn6uY6Sr5rEU6X8nrwZJbBd-vVzfdQK10L8nzneUPU)

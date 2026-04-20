@@ -32,7 +32,7 @@ tags:
   - skill/cloud-computing
   - skill/predictive-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI and Predictive AI in the Cloud: Foundational Concepts and Scenarios](https://media.licdn.com/dms/image/v2/D4E0DAQG8SRKy6oi9eA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710365347968?e=2147483647&amp;v=beta&amp;t=4BOniFSQUgwfdkxKUHrRDvYWUeAKBlVP5nMZDqm7yN0)

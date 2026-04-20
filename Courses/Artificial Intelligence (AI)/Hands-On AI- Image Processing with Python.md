@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/computer-vision
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On AI: Image Processing with Python](https://media.licdn.com/dms/image/v2/D4E0DAQFGuLG0_BvB7w/learning-public-crop_675_1200/B4EZdlJCsLGcAc-/0/1749748558953?e=2147483647&amp;v=beta&amp;t=GwP95RSMdaJECVUjyGsOXH_EOlGrjnEeB7OIi-jKN5o)

@@ -25,7 +25,7 @@ tags:
   - skill/apache-kafka
   - skill/scalable-web-applications
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Apache Kafka Essential Training Building Scalable Applications](https://media.licdn.com/dms/image/v2/D4D0DAQGMQEGnvQbYow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687364802921?e=2147483647&amp;v=beta&amp;t=sRAArkg-mxnPMFWPRrNqyZOVzYM-ifXQcfTiwYKD-H8)

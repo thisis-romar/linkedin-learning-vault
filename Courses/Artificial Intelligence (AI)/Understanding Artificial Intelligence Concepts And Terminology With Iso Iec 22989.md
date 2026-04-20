@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989](https://media.licdn.com/dms/image/v2/D4E0DAQHhxjeoncIteA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737677724846?e=2147483647&amp;v=beta&amp;t=igLAIsTseGbk-Xokwf26PTDyNkrVAZr3cgZe-8izIMQ)

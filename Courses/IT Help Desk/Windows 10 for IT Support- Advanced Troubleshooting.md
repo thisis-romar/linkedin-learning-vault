@@ -25,7 +25,7 @@ tags:
   - skill/troubleshooting
   - skill/windows-10
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Windows 10 for IT Support: Advanced Troubleshooting](https://media.licdn.com/dms/image/v2/C4E0DAQEfVJiyg1aJNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664469296114?e=2147483647&amp;v=beta&amp;t=KEW_CfdggAnbHKSus_CFk6aZCJczI7UNYxILQ_YdjK0)

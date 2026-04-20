@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/learn-vibe-coding-build-apps-with-ai-powered-coding"
+url: https://www.linkedin.com/learning/paths/learn-vibe-coding-build-apps-with-ai-powered-coding
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,34 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Vibe Coding Fundamentals Tools And Best Practices]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Structure Vibe Coding to Save Build Time]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Vibe Code Your Way to a Full Stack App with Bolt]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Build with AI- Beyond Pair Programming with AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Structured Vibe Coding with AI Coding Agents]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Learn Vibe Coding: Build Apps with AI-Powered Coding

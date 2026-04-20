@@ -27,7 +27,7 @@ tags:
   - skill/interview-preparation
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Nail Your C# Interview](https://media.licdn.com/dms/image/v2/D560DAQGDTPNpjfUqXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008957097?e=2147483647&amp;v=beta&amp;t=5XC1FzoWP5K5KbMZjfo8GwZ7EG-cqoShQrudMZSUqIE)

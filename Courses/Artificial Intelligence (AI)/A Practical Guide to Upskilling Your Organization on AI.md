@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-recruiting
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![A Practical Guide to Upskilling Your Organization on AI](https://media.licdn.com/dms/image/v2/D4D0DAQHf7b_qQ2iYNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714681644931?e=2147483647&amp;v=beta&amp;t=ST-SgJnVWuIDjjpVmrYYspSCRdGqlP8kLoa-n7-2Hd4)

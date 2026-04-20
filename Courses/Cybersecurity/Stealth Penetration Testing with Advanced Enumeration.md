@@ -25,7 +25,7 @@ tags:
   - skill/penetration-testing
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Stealth Penetration Testing with Advanced Enumeration](https://media.licdn.com/dms/image/v2/C560DAQF--sp2TBlPVg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1659468133021?e=2147483647&amp;v=beta&amp;t=5YHXjp08o_mpfV5X4-FzNlPgmEJg5aEKwJaPflgQZK0)

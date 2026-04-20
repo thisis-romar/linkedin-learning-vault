@@ -30,7 +30,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL for Healthcare Professionals](https://media.licdn.com/dms/image/v2/D560DAQEFQQ9GdEwkMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721949636556?e=2147483647&amp;v=beta&amp;t=AkxGz98sHDaIiuPIfx5MwIlJ4_HN903kK97E9kLwlAc)

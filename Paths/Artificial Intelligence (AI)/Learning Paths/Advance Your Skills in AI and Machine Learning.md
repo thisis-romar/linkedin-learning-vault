@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-in-ai-and-machine-learning"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-in-ai-and-machine-learning
 course_count: 16
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,78 @@ louvain_cluster: 5
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Applied Machine Learning Ensemble Learning]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Deep Learning- Model Optimization and Tuning (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Reinforcement Learning Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Attention-Based Neural Networks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Training Neural Networks in Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Generative Adversarial Networks (GANs)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Workshop- Hands-on with GANs Using Dense Neural Networks (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Workshop- Hands-on with GANs with Deep Convolutional Networks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Exploring AIOps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MLOps Essentials- Model Development and Integration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MLOps Essentials- Model Deployment and Monitoring]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MLOps Essentials- Monitoring Model Drift and Bias]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[UX for AI- Design Practices for AI Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Foundations Of Responsible Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible AI- Principles and Practical Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to AI Governance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills in AI and Machine Learning

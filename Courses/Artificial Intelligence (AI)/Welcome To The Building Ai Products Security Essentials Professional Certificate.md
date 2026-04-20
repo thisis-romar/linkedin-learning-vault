@@ -27,7 +27,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Welcome To The Building Ai Products Security Essentials Professional Certificate](https://media.licdn.com/dms/image/v2/D4E0DAQGgAZ7thKphhA/learning-public-crop_675_1200/B4EZWWZlO_GgAY-/0/1741985044109?e=2147483647&amp;v=beta&amp;t=J54Tun_JrKlRAkicU_KS2P-M1THdEBAWZbTlErbwNUY)

@@ -17,7 +17,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Power Bi Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQGiXZdaFOqfGw/learning-public-crop_675_1200/B4EZbqVAJHGcAY-/0/1747688097053?e=2147483647&amp;v=beta&amp;t=Q8965DAbjCdMrX1gOxAuc4v62DkPYkaT4LkoXnljQhA)

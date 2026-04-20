@@ -25,7 +25,7 @@ tags:
   - skill/software-architecture
   - skill/microservices
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Software Architecture: Breaking a Monolith into Microservices](https://media.licdn.com/dms/image/v2/C4E0DAQHFp6CFgAZ9_Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618509860115?e=2147483647&amp;v=beta&amp;t=PzFPUyrSSYjtim73LLh8wHdITScS--JrFOqJnJuUV6E)

@@ -25,7 +25,7 @@ tags:
   - skill/database-design
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Database Design Fundamentals](https://media.licdn.com/dms/image/v2/D4E0DAQG3YG1PnztMgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726865430823?e=2147483647&amp;v=beta&amp;t=Fsg45aB4K7tM992N75wEaavYd9SOO5CbFxK4QUVN5lU)

@@ -24,7 +24,7 @@ tags:
   - topic/security
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Science Foundations: Fundamentals](https://media.licdn.com/dms/image/v2/D4E0DAQFpVoNDHqbSWw/learning-public-crop_675_1200/B4EZVIovtaHcAY-/0/1740680396250?e=2147483647&amp;v=beta&amp;t=UhUAe66lLpRQn_9_9hpV9wScF3tRJNIy5QU9kXiCI18)

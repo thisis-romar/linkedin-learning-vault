@@ -2,18 +2,36 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-continuous-integration-continuous-delivery-ci-cd"
+url: https://www.linkedin.com/learning/paths/getting-started-with-continuous-integration-continuous-delivery-ci-cd
 course_count: 3
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/devops
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Software Development Life Cycle (SDLC)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[DevOps Foundations- Continuous Delivery-Continuous Integration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Continuous Integration- Tools]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with Continuous Integration / Continuous Delivery (CI/CD)

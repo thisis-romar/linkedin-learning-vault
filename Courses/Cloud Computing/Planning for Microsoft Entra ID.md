@@ -27,7 +27,7 @@ tags:
   - skill/microsoft-entra-id
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Planning for Microsoft Entra ID](https://media.licdn.com/dms/image/v2/C4E0DAQEPd6fKLA-kVQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581532448211?e=2147483647&amp;v=beta&amp;t=L68qVegIVaPGevsoSZR0jQSJk7cJcb4g-AQxCSB4OWA)

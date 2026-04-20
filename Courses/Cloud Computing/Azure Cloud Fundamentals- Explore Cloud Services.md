@@ -26,7 +26,7 @@ tags:
   - skill/cloud-services
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure Cloud Fundamentals: Explore Cloud Services](https://media.licdn.com/dms/image/v2/D560DAQGEEvcmAKCc0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702586113429?e=2147483647&amp;v=beta&amp;t=89b3cTtetpcr5sF32q_sUSQn2oxiL0hawiqyVIK8sAQ)

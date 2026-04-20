@@ -30,7 +30,7 @@ tags:
   - skill/programming
   - skill/programming-foundations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Programming Foundations: Conducting Code Reviews](https://media.licdn.com/dms/image/v2/C4E0DAQFg1VRrRPHVLw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1598983087938?e=2147483647&amp;v=beta&amp;t=QSQljaqSW3I7U85GVUydXmgwRciNsPLbdDGonDk0zCA)

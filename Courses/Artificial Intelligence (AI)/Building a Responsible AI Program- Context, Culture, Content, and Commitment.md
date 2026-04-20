@@ -32,7 +32,7 @@ tags:
   - skill/ethical-leadership
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building a Responsible AI Program: Context, Culture, Content, and Commitment](https://media.licdn.com/dms/image/v2/D4E0DAQHNxBr2sOH8ow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712267299315?e=2147483647&amp;v=beta&amp;t=DJH8i475ufUXDYuM1ik8MiZx4xGPD92CQDYe3fWcbnU)

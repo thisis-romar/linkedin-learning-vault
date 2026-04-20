@@ -25,7 +25,7 @@ tags:
   - skill/tableau
   - skill/data-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Tableau 2024.1: Essential Training](https://media.licdn.com/dms/image/v2/D560DAQG95SyzX8EK0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716332755895?e=2147483647&amp;v=beta&amp;t=PU4feTTjBDe0bC6WCgF022b9B6YiOIydmlQ9g0BjDnw)

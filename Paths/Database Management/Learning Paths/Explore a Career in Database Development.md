@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-a-career-in-database-development"
+url: https://www.linkedin.com/learning/paths/explore-a-career-in-database-development
 course_count: 5
 linkedin_topics:
   - Database Management
@@ -12,8 +12,34 @@ tags:
   - learning-path
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Programming Foundations Databases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Quick Start Guide to SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning SQL Programming]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning MySQL Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Finding New Career Paths with SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore a Career in Database Development

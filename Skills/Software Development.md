@@ -6,7 +6,7 @@ course_count: 7
 tags:
   - skill
   - skill/software-development
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Software Development

@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On AI: Build an AI Chatbot with GPT-4o and Next.js](https://media.licdn.com/dms/image/v2/D4E0DAQG35oVjgWP9cA/learning-public-crop_675_1200/B4EZc3qeSZH0Ao-/0/1748985570771?e=2147483647&amp;v=beta&amp;t=59hJHD4ViN-SdcPPRWe_J1fAvYIJmC8WVStCt2nB6OQ)

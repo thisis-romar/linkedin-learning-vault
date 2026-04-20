@@ -25,7 +25,7 @@ tags:
   - skill/relationship-building
   - skill/customer-service
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building Rapport with Customers](https://media.licdn.com/dms/image/v2/D4D0DAQESfBoGiAHUmQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716227353597?e=2147483647&amp;v=beta&amp;t=H5HEhARw04KD8YLxLeiDaFxbiptwf5PCwLCphQ4Rwq0)

@@ -26,7 +26,7 @@ tags:
   - skill/local-area-network-lan
   - skill/computer-networking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Networking Foundations: Local Area Networks (LANs)](https://media.licdn.com/dms/image/v2/D560DAQEkH7sUTxptyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727811525153?e=2147483647&amp;v=beta&amp;t=OQLvaoUwMZixXvBcDnTbWqF20PwgcnqhLtGxKLGIOow)

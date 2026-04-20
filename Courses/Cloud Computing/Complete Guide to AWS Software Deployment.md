@@ -27,7 +27,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/software-deployment
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Guide to AWS Software Deployment](https://media.licdn.com/dms/image/v2/D560DAQFs3FVasJPT7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008946435?e=2147483647&amp;v=beta&amp;t=rp_itjuIQnHTNZXxeHb1lae4ifByiNQj05k-32noIDc)

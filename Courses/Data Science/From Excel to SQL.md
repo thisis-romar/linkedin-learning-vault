@@ -28,7 +28,7 @@ tags:
   - skill/microsoft-excel
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![From Excel to SQL](https://media.licdn.com/dms/image/v2/D560DAQHOp8dIbBOOQw/learning-public-crop_675_1200/B56ZhCIkwsHUBg-/0/1753456201030?e=2147483647&amp;v=beta&amp;t=PSNhQ6Ydw-SLk9Ur6aE1qFVyEjmxXqTs1Orx9UKyoGs)

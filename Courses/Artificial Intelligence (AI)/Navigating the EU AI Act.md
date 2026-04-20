@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Navigating the EU AI Act](https://media.licdn.com/dms/image/v2/D4E0DAQHwNPi5Ey3fFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726009053071?e=2147483647&amp;v=beta&amp;t=hRu1mpELnB8TcNriJBBoxYmZnr-XYSOUiDZi5wWDVKc)

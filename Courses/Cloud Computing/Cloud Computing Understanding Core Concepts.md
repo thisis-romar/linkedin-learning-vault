@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud Computing Understanding Core Concepts](https://media.licdn.com/dms/image/v2/D4D0DAQEwFKbg0l36uQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709333281748?e=2147483647&amp;v=beta&amp;t=tsCvyq3rM_NwZPcd_67QInyeTsLjp8gEuaHbnYtIpF0)

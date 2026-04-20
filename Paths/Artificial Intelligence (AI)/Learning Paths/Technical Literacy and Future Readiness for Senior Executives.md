@@ -2,16 +2,46 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-senior-executives"
+url: https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-senior-executives
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 1
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[AI Literacy for Business Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leading with Innovation in the Age of AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI and Workplace Transformation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leading Responsible AI in Organizations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Investing in Human Skills in the Age of AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Technical Literacy and Future Readiness for Senior Executives

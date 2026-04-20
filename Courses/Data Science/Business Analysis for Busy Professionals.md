@@ -16,7 +16,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analysis for Busy Professionals](https://media.licdn.com/dms/image/v2/C560DAQFOdSFaLNTrQg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637602798045?e=2147483647&amp;v=beta&amp;t=ZhqZMl-4h7-HmL47xIgKM-Sl7jZc2t6Yj89YRCWzCGU)

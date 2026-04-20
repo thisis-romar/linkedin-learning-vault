@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Benefits of GitHub Community](https://media.licdn.com/dms/image/v2/D4D0DAQF9w67FF89rCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696284079755?e=2147483647&amp;v=beta&amp;t=9882xBlULltpeTV7Lbj0kARTmwruz41rq94XAUzzYCE)

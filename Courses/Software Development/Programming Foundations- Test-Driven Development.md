@@ -16,7 +16,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Programming Foundations: Test-Driven Development](https://media.licdn.com/dms/image/v2/C4E0DAQGG__Y-tJom5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668482822?e=2147483647&amp;v=beta&amp;t=MNMR2eFGBuqHmwomo2hzLt28K7ww67fNv9lg38inpnw)

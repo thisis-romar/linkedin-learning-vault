@@ -27,7 +27,7 @@ tags:
   - skill/board-presentations
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![CISO Foundations: Influencing the Board and C-Suite](https://media.licdn.com/dms/image/v2/C4D0DAQFuGUrMR1N9XQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679597418955?e=2147483647&amp;v=beta&amp;t=EydjCkyfxaePnF9kSCubgYJvF5NI7al2yVYBqO6kQKY)

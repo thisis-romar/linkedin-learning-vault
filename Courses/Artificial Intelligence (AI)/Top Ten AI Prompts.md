@@ -25,7 +25,7 @@ tags:
   - skill/ai-prompting
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Top Ten AI Prompts](https://media.licdn.com/dms/image/v2/D4E0DAQH1WNdNUCL2iQ/learning-public-crop_675_1200/B4EZUaI0DHGYAc-/0/1739900273240?e=2147483647&amp;v=beta&amp;t=w-4LWtPUBBYiFWQdNoPL9fxA6IEAkfpdr8MhMhtXMjc)

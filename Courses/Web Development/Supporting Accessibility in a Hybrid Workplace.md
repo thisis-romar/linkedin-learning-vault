@@ -25,7 +25,7 @@ tags:
   - skill/workplace-organization
   - skill/diversity-equity-inclusion-and-belonging-deib
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Supporting Accessibility in a Hybrid Workplace](https://media.licdn.com/dms/image/v2/C4E0DAQH9IaE9-gq-ZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670536168179?e=2147483647&amp;v=beta&amp;t=oofZ9YqT8vVzhG6TwmiMnEjczhfWfjHjiQs5SxscKYU)

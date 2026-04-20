@@ -6,7 +6,7 @@ course_count: 8
 tags:
   - skill
   - skill/linux-system-administration
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Linux System Administration

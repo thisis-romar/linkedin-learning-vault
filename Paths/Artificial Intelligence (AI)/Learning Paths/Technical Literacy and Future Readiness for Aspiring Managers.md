@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-aspiring-managers"
+url: https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-aspiring-managers
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,34 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Developing A Learning Mindset In The Age Of Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible AI- Principles and Practical Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[How to Boost Your Productivity with AI Tools]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Prompt Engineering- How to Talk to the AIs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using AI for Data-Driven Insights]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Technical Literacy and Future Readiness for Aspiring Managers

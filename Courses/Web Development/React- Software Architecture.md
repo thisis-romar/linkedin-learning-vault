@@ -26,7 +26,7 @@ tags:
   - skill/software-architecture
   - skill/react-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![React: Software Architecture](https://media.licdn.com/dms/image/v2/C560DAQEqEra1U0CNQw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628621782938?e=2147483647&amp;v=beta&amp;t=8O9rfJjLOmUPE4t6TqPra9hHba9t64PlqB9KvE8TNuk)

@@ -26,7 +26,7 @@ tags:
   - skill/javascript
   - skill/vanilla
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning App Building With Vanilla Javascript](https://media.licdn.com/dms/image/v2/C4E0DAQFOZxWc6nErRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118219619?e=2147483647&amp;v=beta&amp;t=7O-1IBj_oFEwB4zKYZScGTd2MzxX0i4NWHzUip-zmqE)

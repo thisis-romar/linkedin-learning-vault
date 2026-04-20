@@ -6,7 +6,7 @@ linkedin_topic: Artificial Intelligence (AI)
 tags:
   - moc
   - topic/artificial-intelligence
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Artificial Intelligence (AI)

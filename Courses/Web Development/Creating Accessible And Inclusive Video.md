@@ -25,7 +25,7 @@ tags:
   - skill/diversity-and-inclusion
   - skill/diversity-equity-inclusion-and-belonging-deib
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Creating Accessible And Inclusive Video](https://media.licdn.com/dms/image/v2/D4D0DAQHWuCoJpWu0Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710188857201?e=2147483647&amp;v=beta&amp;t=YPHiuFPHKYRU4DAPKfzJfveuKV7QLBf6KdJUh7B6YV4)

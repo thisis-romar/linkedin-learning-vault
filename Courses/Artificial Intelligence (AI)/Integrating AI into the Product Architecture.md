@@ -30,7 +30,7 @@ tags:
   - skill/product-design
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Integrating AI into the Product Architecture](https://media.licdn.com/dms/image/v2/D4E0DAQG2ycdBYKwa8w/learning-public-crop_675_1200/B4EZZAtm5dHgAY-/0/1744842420588?e=2147483647&amp;v=beta&amp;t=gXoBuKpYBTLL-a5qo5_A47aSA9bFkcZOaWVFnRHa-eI)

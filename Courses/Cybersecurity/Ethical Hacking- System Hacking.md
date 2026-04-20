@@ -26,7 +26,7 @@ tags:
   - skill/penetration-testing
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: System Hacking](https://media.licdn.com/dms/image/v2/D4E0DAQFXmRdshskKrg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720805002932?e=2147483647&amp;v=beta&amp;t=cJ6ezlLOHeDl9lg5s3SFQZfZi6DO3Ic90nmcTRw8m-o)

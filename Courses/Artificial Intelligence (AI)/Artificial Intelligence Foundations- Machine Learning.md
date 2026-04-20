@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Artificial Intelligence Foundations: Machine Learning](https://media.licdn.com/dms/image/v2/D560DAQHTLyEF1VUcKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685047176389?e=2147483647&amp;v=beta&amp;t=KB6eStxcORDzdtE3OYLQT335xEX-KjD0UG32cHz5CVg)

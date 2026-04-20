@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Practical GitHub Copilot](https://media.licdn.com/dms/image/v2/D4D0DAQGacnii6uNPrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713479054756?e=2147483647&amp;v=beta&amp;t=2rrEIrPlCr3Ieoev3m863uLTWUHZfd34vOIaxVzMGu4)

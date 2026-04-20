@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/starting-your-career-in-tech-devops"
+url: https://www.linkedin.com/learning/paths/starting-your-career-in-tech-devops
 course_count: 5
 linkedin_topics:
   - Cloud Computing
@@ -10,7 +10,7 @@ linkedin_topics:
   - Data Science
   - DevOps
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/cloud-computing
@@ -18,8 +18,34 @@ tags:
   - topic/data-science
   - topic/devops
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Writing a Tech Resume]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Nail Your DevOps Interview]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Succeeding in DevOps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[DevOps Tips]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[DevOps Foundations- Transforming the Enterprise]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Starting Your Career in Tech: DevOps

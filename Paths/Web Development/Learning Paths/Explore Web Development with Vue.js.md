@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-web-development-with-vue-js"
+url: https://www.linkedin.com/learning/paths/explore-web-development-with-vue-js
 course_count: 3
 linkedin_topics:
   - Web Development
@@ -10,8 +10,26 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Vue Js]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Vue.js- Testing and Debugging]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Vue.js- Creating and Hosting a Full-Stack Site]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore Web Development with Vue.js

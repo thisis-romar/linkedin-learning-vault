@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Drupal 9 Essential Training: 3 Taxonomy, Media, and Modules](https://media.licdn.com/dms/image/v2/C4E0DAQHrnj1mzUv0yQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615309549607?e=2147483647&amp;v=beta&amp;t=LFJN9ehKypPI2ewoVwXSdTROggkpH4T9jEWTMNswCb8)

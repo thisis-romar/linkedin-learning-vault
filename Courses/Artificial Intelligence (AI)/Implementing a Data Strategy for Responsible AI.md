@@ -31,7 +31,7 @@ tags:
   - skill/data-strategies
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Implementing a Data Strategy for Responsible AI](https://media.licdn.com/dms/image/v2/D4D0DAQHsm6JlzymJKg/learning-public-crop_675_1200/B4DZW137wvGkAc-/0/1742513093978?e=2147483647&amp;v=beta&amp;t=eJ19CbJNGd2i1F0man-LJ7pHSI_VxOZp6L9T-mSbyVs)

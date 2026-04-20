@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/active-listening
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Effective Listening (2019)](https://media.licdn.com/dms/image/v2/C560DAQHUTQHthCYmTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658272574632?e=2147483647&amp;v=beta&amp;t=ayfSTJ6NwaT2kWyCyMZgJBieLgt5W2vFRdttiwFUDoU)

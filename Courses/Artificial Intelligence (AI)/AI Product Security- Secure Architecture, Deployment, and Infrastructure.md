@@ -31,7 +31,7 @@ tags:
   - skill/ai-security
   - skill/security-architecture-design
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Product Security: Secure Architecture, Deployment, and Infrastructure](https://media.licdn.com/dms/image/v2/D4E0DAQGZcCyudKC9PQ/learning-public-crop_675_1200/B4EZWmDkGVHUAY-/0/1742247707786?e=2147483647&amp;v=beta&amp;t=bROP_xRXIHMFtHIbRkUN57HvJJROxUQ1rKjbmps5o4A)

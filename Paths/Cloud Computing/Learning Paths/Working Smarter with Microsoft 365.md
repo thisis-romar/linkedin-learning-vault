@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/working-smarter-with-microsoft-365"
+url: https://www.linkedin.com/learning/paths/working-smarter-with-microsoft-365
 course_count: 9
 linkedin_topics:
   - Cloud Computing
@@ -10,8 +10,50 @@ louvain_cluster: 9
 tags:
   - learning-path
   - topic/cloud-computing
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Excel Essential Training (Microsoft 365)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Outlook Essential Training (Microsoft 365)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PowerPoint Essential Training (Microsoft 365)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Word Essential Training (Microsoft 365) (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Teams Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OneDrive for Business Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning SharePoint Online]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OneNote for Windows 10 Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Team Collaboration in Microsoft 365]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Working Smarter with Microsoft 365

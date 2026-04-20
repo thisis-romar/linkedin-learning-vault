@@ -27,7 +27,7 @@ tags:
   - skill/agile-project-management
   - skill/agile-methodologies
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Agile Foundations](https://media.licdn.com/dms/image/v2/C560DAQFeIomnMEqrng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567122972439?e=2147483647&amp;v=beta&amp;t=v57Dj3hkjYef94zh2sLkW-xwlPcjrxn1gemANJBz5e4)

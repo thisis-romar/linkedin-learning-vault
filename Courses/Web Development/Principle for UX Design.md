@@ -25,7 +25,7 @@ tags:
   - skill/user-experience-ux
   - skill/principle-for-mac
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Principle for UX Design](https://media.licdn.com/dms/image/v2/D560DAQE0PyG36XKe-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691431562795?e=2147483647&amp;v=beta&amp;t=N-iXDePBE29bwTSXoEz5qtWBDP-WW2YI3jT82PPT3ug)

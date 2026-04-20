@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leadership Foundations](https://media.licdn.com/dms/image/v2/D560DAQGmwr56kiqd9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683670168415?e=2147483647&amp;v=beta&amp;t=FZQiANaIeO4N7QIa84itQlddEEL_CHMmfgQyXqfv47c)

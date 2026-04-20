@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands On Introduction Sql](https://media.licdn.com/dms/image/v2/D560DAQFce8T-RjMmAg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667324559752?e=2147483647&amp;v=beta&amp;t=FiYoxpiVs6Llxkp2UZOQZPHtpSMbiNmw2i1UESIeMpg)

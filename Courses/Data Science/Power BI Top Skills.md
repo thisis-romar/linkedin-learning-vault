@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Power BI Top Skills](https://media.licdn.com/dms/image/v2/D4E0DAQEkvllFruJSwA/learning-public-crop_675_1200/B4EZoYIV13IIAY-/0/1761341431475?e=2147483647&amp;v=beta&amp;t=lT0b7gqCApsj_Y5WRiEq2NbCtkkBOQ3tTobpt-fMoR4)

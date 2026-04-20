@@ -33,7 +33,7 @@ tags:
   - skill/data-science-foundations
   - skill/predictive-modeling
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Science Foundations: Data Assessment for Predictive Modeling](https://media.licdn.com/dms/image/v2/C4E0DAQFx4WaFvwWKLw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599578679605?e=2147483647&amp;v=beta&amp;t=yMdG8xDSxMB15lD6aLA0RoBiy52XL1Y1evSnXP1-dRk)

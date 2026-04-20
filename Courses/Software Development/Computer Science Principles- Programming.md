@@ -25,7 +25,7 @@ tags:
   - skill/computer-science
   - skill/programming
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Computer Science Principles: Programming](https://media.licdn.com/dms/image/v2/D4E0DAQFNVeSXHWNEgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700611999130?e=2147483647&amp;v=beta&amp;t=uedN6NXjcV_HFRBOFrJaLkdyRkv0W4G4SmGgSBifWRg)

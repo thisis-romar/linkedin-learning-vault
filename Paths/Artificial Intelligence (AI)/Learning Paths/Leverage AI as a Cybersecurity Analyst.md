@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/leverage-ai-as-a-cybersecurity-analyst"
+url: https://www.linkedin.com/learning/paths/leverage-ai-as-a-cybersecurity-analyst
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,42 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The AI-Driven Cybersecurity Analyst]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Product Security- Incident Response]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[XAI and Interpretability in Cybersecurity]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[RAG for Cybersecurity- Use Cases and Implementation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Leverage AI as a Cybersecurity Analyst

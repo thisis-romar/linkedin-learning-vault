@@ -25,7 +25,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Using AI as Your SEO Assistant](https://media.licdn.com/dms/image/v2/D560DAQE65vC11v-WgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689184813152?e=2147483647&amp;v=beta&amp;t=syqYLQNyn0Nqsz4mwawELe34C1SgbRdhrYb6i-qoXnE)

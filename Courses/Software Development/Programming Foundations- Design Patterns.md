@@ -16,7 +16,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Programming Foundations: Design Patterns](https://media.licdn.com/dms/image/v2/C4E0DAQGioJ473fzHuQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669791879?e=2147483647&amp;v=beta&amp;t=hS27rzezTdIQUJxzm2xerXVmvMuiIUfPi7JuEbLOTJE)

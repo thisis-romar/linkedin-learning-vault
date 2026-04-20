@@ -17,7 +17,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Understanding Zero Trust](https://media.licdn.com/dms/image/v2/C4E0DAQHtcfqlt6bcmQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622565712579?e=2147483647&amp;v=beta&amp;t=250TjdNY4ufiC8Lc-DV5pqxOlo6nr6aUhs_HjqZ9Wk4)

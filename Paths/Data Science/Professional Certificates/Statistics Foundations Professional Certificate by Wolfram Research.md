@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/statistics-foundations-professional-certificate-by-wolfram-research"
+url: https://www.linkedin.com/learning/paths/statistics-foundations-professional-certificate-by-wolfram-research
 course_count: 7
 linkedin_topics:
   - Data Science
@@ -10,8 +10,42 @@ louvain_cluster: 2
 tags:
   - professional-certificate
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Statistics Foundations 1- The Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 2- Probability]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 3- Using Data Sets]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 4- Advanced Topics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel Statistics Essential Training- 1]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel Statistics Essential Training- 2]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistical Analysis with Wolfram Language]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Statistics Foundations Professional Certificate by Wolfram Research

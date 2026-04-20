@@ -32,7 +32,7 @@ path:"Topics/"
 path:"Skills/"
 ```
 
-## Focus by topic (swap the name — 13 topics exist)
+## Focus by topic (swap the name — 12 topics exist)
 
 ```
 path:"Courses/Artificial Intelligence (AI)"
@@ -82,12 +82,12 @@ tag:#level/advanced
 ## Focus by progress status
 
 ```
-tag:#status/not-started
+tag:#status/fresh
 tag:#status/in-progress
 tag:#status/completed
 ```
 
-_Note: status tags populate once the progress-tracking system lands (Step 6)._
+_Status tags are maintained automatically by the `lle-progress` plugin (in `.obsidian/plugins/lle-progress/`). Opening a course note bumps its activity; clicking a video deep-link records the video click. Both update every learning path that contains the course._
 
 ## Combinations
 

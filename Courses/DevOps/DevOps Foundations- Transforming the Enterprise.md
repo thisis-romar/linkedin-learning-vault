@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![DevOps Foundations: Transforming the Enterprise](https://media.licdn.com/dms/image/v2/C4E0DAQHsgDGz0eQUxA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1569955973652?e=2147483647&amp;v=beta&amp;t=jmi_w10fS0k77kCB4SUUOE0GNnToXOM5434-tEBRxhE)

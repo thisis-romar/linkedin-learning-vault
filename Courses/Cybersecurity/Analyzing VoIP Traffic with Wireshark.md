@@ -18,7 +18,7 @@ tags:
   - topic/security
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Analyzing VoIP Traffic with Wireshark](https://media.licdn.com/dms/image/v2/C4E0DAQGOAnX93z3bDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619133874813?e=2147483647&amp;v=beta&amp;t=Ynte0u_g15vJwqrxxyniDWuCJc8FQeJmi46AU8BPKVc)

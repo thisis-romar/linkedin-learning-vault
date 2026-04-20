@@ -27,7 +27,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building Advanced AI Apps with Prompt Flow](https://media.licdn.com/dms/image/v2/D4E0DAQGceaZfBEf0RQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727119277799?e=2147483647&amp;v=beta&amp;t=vsY5-vz_9t0DjMsgJYuG9avYM7-LmJxPRe1aq-d6xwg)

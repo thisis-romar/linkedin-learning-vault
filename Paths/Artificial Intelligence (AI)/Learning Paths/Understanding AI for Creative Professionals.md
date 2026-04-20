@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/understanding-ai-for-creative-professionals"
+url: https://www.linkedin.com/learning/paths/understanding-ai-for-creative-professionals
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,42 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Everyday Ai Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[What Is Generative AI-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Finding Creativity in the Age of AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Ethics in the Age of Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI Imaging- What Creative Pros Need to Know]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI for Digital Marketers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Integrating Generative AI into the Creative Process]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Understanding AI for Creative Professionals

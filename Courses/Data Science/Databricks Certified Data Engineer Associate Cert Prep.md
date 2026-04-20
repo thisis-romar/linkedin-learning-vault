@@ -23,7 +23,7 @@ tags:
   - skill/data-engineering
   - skill/databricks-products
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Databricks Certified Data Engineer Associate Cert Prep](https://media.licdn.com/dms/image/v2/D4E0DAQHm9zKmvZxPOQ/learning-public-crop_675_1200/B4EZWMTdh5GwAY-/0/1741815667415?e=2147483647&amp;v=beta&amp;t=s1t1lNspB__Ij1mX1TK10xph2EjKBaRvE2L_PfKzFMg)

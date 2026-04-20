@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python Projects: Create an Interactive Quiz Application](https://media.licdn.com/dms/image/v2/C4D0DAQGKo6zGY36bbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654623850850?e=2147483647&amp;v=beta&amp;t=gNaxGv6pIADVIe5Blt508ioprQKgbSb7VpHRhj0odvk)

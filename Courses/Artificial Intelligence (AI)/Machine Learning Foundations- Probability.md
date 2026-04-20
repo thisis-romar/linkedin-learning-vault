@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/probability
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning Foundations: Probability](https://media.licdn.com/dms/image/v2/D4D0DAQEpHdKA4omnwg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690400093393?e=2147483647&amp;v=beta&amp;t=-WzhjmTdH_MA61RJjqAW6AWshhWWjqEwfOeVFQiyVW0)

@@ -28,7 +28,7 @@ tags:
   - skill/terraform
   - skill/infrastructure-as-code-iac
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Terraform: Managing Network Infrastructure](https://media.licdn.com/dms/image/v2/D560DAQFNSWOD_FUtrg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684432483878?e=2147483647&amp;v=beta&amp;t=OxVRq2kJ7lmhC_xFklVhGpTq_Pc-20bPvkmBoSgPFv0)

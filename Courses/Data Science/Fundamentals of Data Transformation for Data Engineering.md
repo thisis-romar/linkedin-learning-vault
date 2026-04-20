@@ -27,7 +27,7 @@ tags:
   - skill/data-engineering
   - skill/data-transformation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Fundamentals of Data Transformation for Data Engineering](https://media.licdn.com/dms/image/v2/D560DAQGHrL3djyQWzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718396996140?e=2147483647&amp;v=beta&amp;t=Q5THMwNIRY5I0DIxHzXG6T6rSoqVzn8BpCQkvy_ehHM)

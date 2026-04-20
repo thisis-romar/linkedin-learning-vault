@@ -31,7 +31,7 @@ tags:
   - skill/computer-network-operations
   - skill/engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![MPLS: Traffic Engineering](https://media.licdn.com/dms/image/v2/D560DAQGOiMlUOjiP6g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730746939496?e=2147483647&amp;v=beta&amp;t=FLQ-YHCAJbVOgdxDx1icIyb755fKUIagZb3GB7y2Xn8)

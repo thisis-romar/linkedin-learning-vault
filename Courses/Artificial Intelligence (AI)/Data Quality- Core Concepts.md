@@ -26,7 +26,7 @@ tags:
   - skill/data-management
   - skill/data-quality
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Quality: Core Concepts](https://media.licdn.com/dms/image/v2/D4D0DAQE-F9EAjv69uQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732063834035?e=2147483647&amp;v=beta&amp;t=anjsXxzSWBJJpjN3pZPxwdes26CrhC3murEUQsr_TGE)

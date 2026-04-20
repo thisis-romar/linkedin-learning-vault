@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![TensorFlow: Working with NLP](https://media.licdn.com/dms/image/v2/C560DAQHXRZ1Ysxw8fA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643654366588?e=2147483647&amp;v=beta&amp;t=dsjFuB2UwdcJ_0gnhsug9f6bRCYByP-u3-94h7pta5U)

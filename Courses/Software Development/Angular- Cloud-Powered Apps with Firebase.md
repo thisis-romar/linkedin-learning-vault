@@ -26,7 +26,7 @@ tags:
   - skill/angular
   - skill/firebase
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Angular: Cloud-Powered Apps with Firebase](https://media.licdn.com/dms/image/v2/C4E0DAQEeFiQeqEOdlQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1573861242641?e=2147483647&amp;v=beta&amp;t=ZVZabhGDGEJWMFgn5O_3gsFtnA0kMrO5hrovDu5fTVo)

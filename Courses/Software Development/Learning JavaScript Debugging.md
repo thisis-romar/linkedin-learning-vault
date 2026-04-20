@@ -25,7 +25,7 @@ tags:
   - skill/debugging-code
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning JavaScript Debugging](https://media.licdn.com/dms/image/v2/C4E0DAQEvTPISgiHW0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1601068625848?e=2147483647&amp;v=beta&amp;t=ehvmL_kf8fz0SnlMc2EOMyrvvKRLuldeLVYu40svwTU)

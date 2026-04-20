@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/application-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building a Project with the ChatGPT API](https://media.licdn.com/dms/image/v2/D560DAQFcICjaYZlNsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703108198308?e=2147483647&amp;v=beta&amp;t=xpfc5YPCA8XfzzvHmUlfTsKfXGXyZq4eUVh89CmxTlk)

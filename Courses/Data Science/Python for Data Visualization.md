@@ -26,7 +26,7 @@ tags:
   - skill/python-programming-language
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python for Data Visualization](https://media.licdn.com/dms/image/v2/D560DAQH_5u3PhUB7TQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705014364462?e=2147483647&amp;v=beta&amp;t=uMO1O5O85F94TvNQs5ElVRvzqxcsygEaVhXed49wDQA)

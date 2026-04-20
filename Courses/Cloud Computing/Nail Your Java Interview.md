@@ -28,7 +28,7 @@ tags:
   - skill/interview-preparation
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Nail Your Java Interview](https://media.licdn.com/dms/image/v2/D560DAQF3DaHHmTVoeA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712877366579?e=2147483647&amp;v=beta&amp;t=5UMCKuQfzn_eJ7S8_6RK82CeNC-K-QRmbSqTgurQVKo)

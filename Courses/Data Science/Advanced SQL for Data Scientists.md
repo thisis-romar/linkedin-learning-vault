@@ -28,7 +28,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced SQL for Data Scientists](https://media.licdn.com/dms/image/v2/C560DAQGQCYHPT8oZGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621968587563?e=2147483647&amp;v=beta&amp;t=ZVs4_6wN_VLODDTn_8fVrL1C6b0pLj6l_V3wW4H2BHQ)

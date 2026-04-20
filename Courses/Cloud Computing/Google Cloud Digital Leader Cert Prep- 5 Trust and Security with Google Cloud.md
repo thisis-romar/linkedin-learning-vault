@@ -27,7 +27,7 @@ tags:
   - skill/cloud-security
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Google Cloud Digital Leader Cert Prep: 5 Trust and Security with Google Cloud](https://media.licdn.com/dms/image/v2/D4E0DAQHI27HDfYHu7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711389635804?e=2147483647&amp;v=beta&amp;t=ui9KcdgqGOrM9ob7N-p0f1vg5USB86bdmJMK7kagmLM)

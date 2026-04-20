@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/career-essentials-in-sustainable-tech-by-microsoft-and-linkedin"
+url: https://www.linkedin.com/learning/paths/career-essentials-in-sustainable-tech-by-microsoft-and-linkedin
 course_count: 7
 linkedin_topics:
   - Software Development
@@ -10,8 +10,42 @@ louvain_cluster: 0
 tags:
   - professional-certificate
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Sustainability Foundations Core Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Sustainability as an Innovation Opportunity]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Including Sustainability in Your Cloud Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Cloud for Sustainability- ESG and the Future of Business]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[An Introduction to AI and Sustainability]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to ESG- Environmental, Social, and Governance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Performing a Sustainability Audit with Microsoft Sustainability Manager]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Career Essentials in Sustainable Tech by Microsoft and LinkedIn

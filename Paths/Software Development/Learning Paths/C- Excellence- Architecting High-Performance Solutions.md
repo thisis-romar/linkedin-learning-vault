@@ -2,16 +2,46 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/c-sharp-excellence-architecting-high-performance-solutions"
+url: https://www.linkedin.com/learning/paths/c-sharp-excellence-architecting-high-performance-solutions
 course_count: 6
 linkedin_topics:
   - Software Development
-louvain_cluster: 12
+louvain_cluster: 13
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[C Sharp Algorithms]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Applied Data Structures]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced C- Language Features]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced C- Object-Oriented Programming]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Asynchronous Programming in C-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Framework Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # C# Excellence: Architecting High-Performance Solutions

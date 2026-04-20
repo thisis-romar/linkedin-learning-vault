@@ -27,7 +27,7 @@ tags:
   - skill/customer-escalation-management
   - skill/customer-service
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![De-Escalating Conversations for Customer Service](https://media.licdn.com/dms/image/v2/C4D0DAQHDE6DaQd5C5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567195851956?e=2147483647&amp;v=beta&amp;t=y7lHGWIvdS0hbi_uJ7ASXtMt0GOEOmt927UwEdrJVJM)

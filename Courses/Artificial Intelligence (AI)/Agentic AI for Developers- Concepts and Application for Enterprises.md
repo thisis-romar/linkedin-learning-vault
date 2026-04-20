@@ -32,7 +32,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Agentic AI for Developers: Concepts and Application for Enterprises](https://media.licdn.com/dms/image/v2/D560DAQHzCdkrNwuB5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726507433613?e=2147483647&amp;v=beta&amp;t=4ZNKsRbW5OIA5pSeAPoJj_XODyVfzCJQPvJmzCRSay4)

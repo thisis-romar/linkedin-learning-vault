@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/networking-and-administration-fundamentals"
+url: https://www.linkedin.com/learning/paths/networking-and-administration-fundamentals
 course_count: 10
 linkedin_topics:
   - Cloud Computing
@@ -14,8 +14,54 @@ tags:
   - topic/cloud-computing
   - topic/security
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Computer Science Principles Digital Information]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Computer Science Principles- The Internet]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Networking Foundations Networking Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Networking Foundations- IP Addressing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Server Administration Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Identity and Access Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Virtualization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning PowerShell]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PowerShell- Automating IT Administration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure Administration Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Networking and Administration Fundamentals

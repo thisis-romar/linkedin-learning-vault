@@ -27,7 +27,7 @@ tags:
   - skill/system-deployment
   - skill/financial-operations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![FinOps Essentials for Cloud Deployments](https://media.licdn.com/dms/image/v2/C560DAQHaZo3bXXOvxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666118840440?e=2147483647&amp;v=beta&amp;t=5tcfeftYvSQXg6Q39pNukVup4iH_gKm11UNPj6v2uOs)

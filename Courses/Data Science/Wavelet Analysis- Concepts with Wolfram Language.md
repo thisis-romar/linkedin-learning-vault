@@ -27,7 +27,7 @@ tags:
   - skill/data-analysis
   - skill/wavelets
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Wavelet Analysis: Concepts with Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQFiaBB_pigY-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703566623914?e=2147483647&amp;v=beta&amp;t=HRnpld-3VXy-rRNqi5rgAwlcIpy6qp_5cFSdUYV73Qk)

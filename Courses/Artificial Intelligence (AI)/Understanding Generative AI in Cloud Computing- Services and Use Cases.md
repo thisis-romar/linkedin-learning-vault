@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Understanding Generative AI in Cloud Computing: Services and Use Cases](https://media.licdn.com/dms/image/v2/D4D0DAQGMR9qu5EjpFQ/learning-public-crop_675_1200/B4DZYmTXyEHwAc-/0/1744399335307?e=2147483647&amp;v=beta&amp;t=D0Zt381zGsw49RYyxQ8HeblKe0aChZD__zv1e_ll9-w)

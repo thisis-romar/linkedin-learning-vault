@@ -31,7 +31,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL for Data Analysis](https://media.licdn.com/dms/image/v2/D560DAQHW625ALPsQSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689272470053?e=2147483647&amp;v=beta&amp;t=CZ2IqWXVSN8-jp_yCFfWY-BjIDzkXWYWmWqYreq-RC4)

@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The AI Ecosystem for Developers: Models, Datasets, and APIs](https://media.licdn.com/dms/image/v2/D560DAQEw6KZOrrGgrQ/learning-public-crop_675_1200/B56Zdb3fa0GQAo-/0/1749592963181?e=2147483647&amp;v=beta&amp;t=h-Sbj4VTQiM-5G8S0AOCmaSYatVAO_nh34l7bR6ZQt0)

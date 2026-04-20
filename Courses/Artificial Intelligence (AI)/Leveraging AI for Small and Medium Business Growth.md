@@ -16,7 +16,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leveraging AI for Small and Medium Business Growth](https://media.licdn.com/dms/image/v2/D4E0DAQFtFJ476d7Dqw/learning-public-crop_675_1200/B4EZUaGymsH0Ac-/0/1739899743000?e=2147483647&amp;v=beta&amp;t=51x1EjYYXWRSH9b5Uk5yxNlWh27Wk3rPn6k5YDRW3PU)

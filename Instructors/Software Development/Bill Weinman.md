@@ -15,7 +15,7 @@ tags:
   - topic/database-management
   - topic/devops
   - topic/software-development
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Bill Weinman

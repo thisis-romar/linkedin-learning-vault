@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/snowflake
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Gen AI with Snowflake](https://media.licdn.com/dms/image/v2/D4E0DAQEYGQ7U_Hfwng/learning-public-crop_675_1200/B4EZdBvcL5HcAc-/0/1749154645063?e=2147483647&amp;v=beta&amp;t=92K7pyzclH5oMKmmSYH_oi2eYtR8XRJKU_qYpzHsvpA)

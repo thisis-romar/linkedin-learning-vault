@@ -6,7 +6,7 @@ course_count: 3
 tags:
   - skill
   - skill/it-automation
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # IT Automation

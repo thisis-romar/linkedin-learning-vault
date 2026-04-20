@@ -26,7 +26,7 @@ tags:
   - skill/data-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Excel: Data Analysis](https://media.licdn.com/dms/image/v2/C4E0DAQGEvQe-eyfHEg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663357252182?e=2147483647&amp;v=beta&amp;t=TeAvyOEaJY9bYXh4nWiZ7Ynd9feVOA7KxrNaT81bQNM)

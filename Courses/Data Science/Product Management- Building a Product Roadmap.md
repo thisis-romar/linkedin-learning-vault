@@ -25,7 +25,7 @@ tags:
   - skill/product-management
   - skill/product-road-mapping
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Product Management: Building a Product Roadmap](https://media.licdn.com/dms/image/v2/C4E0DAQEUNycPzHkCbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642215818811?e=2147483647&amp;v=beta&amp;t=4Adw7ijC5fl16vwg1JPpNolh2gnReglD9aYJ_n4kwv4)

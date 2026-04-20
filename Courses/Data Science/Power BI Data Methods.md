@@ -27,7 +27,7 @@ tags:
   - skill/data-analysis
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Power BI Data Methods](https://media.licdn.com/dms/image/v2/D560DAQERek4YP-UxwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709937715535?e=2147483647&amp;v=beta&amp;t=llLfmIN-LfWmN-ry9_rgoU6Q10yHytR2XNy6N82kzEA)

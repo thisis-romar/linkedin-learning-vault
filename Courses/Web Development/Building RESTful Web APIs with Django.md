@@ -25,7 +25,7 @@ tags:
   - skill/rest-apis
   - skill/django
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building RESTful Web APIs with Django](https://media.licdn.com/dms/image/v2/C4E0DAQHIo6Q4XqxI9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568058527575?e=2147483647&amp;v=beta&amp;t=Xplpddmmv6CJUm18RUjsO9vi09QQGftb99tNVUGDXLQ)

@@ -29,7 +29,7 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C++ Design Patterns: Structural](https://media.licdn.com/dms/image/v2/D560DAQH8V651keIfeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683141155361?e=2147483647&amp;v=beta&amp;t=-vEFGmbj6Pe1-qJWo9ikuPCbS2snbhPNq00Znajvsic)

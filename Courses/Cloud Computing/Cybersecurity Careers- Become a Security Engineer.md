@@ -30,7 +30,7 @@ tags:
   - skill/security-engineering
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Careers: Become a Security Engineer](https://media.licdn.com/dms/image/v2/D560DAQFrHNEVmBHzQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684968237112?e=2147483647&amp;v=beta&amp;t=wnVGabMIbEosBJcOSck7bEqlmbGCufNmHwWmEw32o3U)

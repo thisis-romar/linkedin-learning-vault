@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/applying-generative-ai-as-a-business-professional"
+url: https://www.linkedin.com/learning/paths/applying-generative-ai-as-a-business-professional
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,38 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction To Prompt Engineering For Generative Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[How to Boost Your Productivity with AI Tools (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Automating Your Work with Custom GPTs (No Code Required) (2025)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Amplify Your Communication Skills with Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Amplify Your Critical Thinking with Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Nano Tips for Using ChatGPT for Business with Rachel Woods]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Applying Generative AI as a Business Professional

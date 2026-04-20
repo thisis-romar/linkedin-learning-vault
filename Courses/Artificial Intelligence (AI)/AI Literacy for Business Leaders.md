@@ -21,7 +21,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Literacy for Business Leaders](https://media.licdn.com/dms/image/v2/D560DAQEch-jmFh4Rtg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706660296634?e=2147483647&amp;v=beta&amp;t=WkVtFdXKZo5TqjLYuibup6EuUJt8CmodWKoX52zYDZI)

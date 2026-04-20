@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/linkedin-learning-professional-certificate-impacting-the-business-as-a-senior-manager-or-leader"
+url: https://www.linkedin.com/learning/paths/linkedin-learning-professional-certificate-impacting-the-business-as-a-senior-manager-or-leader
 course_count: 11
 linkedin_topics:
   - Data Science
@@ -10,8 +10,58 @@ louvain_cluster: 3
 tags:
   - professional-certificate
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Making The Move To Executive Leadership]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Influence Skills for Leaders and Managers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Strategic Financial Intelligence for Business Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Decision Intelligence]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Psychological Safety- Clear Blocks to Innovation, Collaboration, and Risk-Taking]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Organizational Leadership in the Era of AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Strengthen Your Decision-Making with Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leading with Generative AI- Master Change Management for Success]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Design Thinking- Lead Change in Your Organization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Accountability into Your Culture]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Creating a High Performance Culture]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # LinkedIn Learning Professional Certificate: Impacting the Business as a Senior Manager or Leader

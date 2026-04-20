@@ -21,7 +21,7 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![UX Research: Journey Mapping](https://media.licdn.com/dms/image/v2/C560DAQFJ-DL7KssPIQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621362315583?e=2147483647&amp;v=beta&amp;t=n45zxi3-n36kq98k5zNcfTbeqbHtleY6nkcQ8B9ewLc)

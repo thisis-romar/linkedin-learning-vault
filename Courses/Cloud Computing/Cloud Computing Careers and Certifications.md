@@ -27,7 +27,7 @@ tags:
   - skill/career-development
   - skill/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud Computing Careers and Certifications](https://media.licdn.com/dms/image/v2/D4E0DAQGblqjwdxNg8w/learning-public-crop_675_1200/B4EZUgUNbDGYAY-/0/1740003924440?e=2147483647&amp;v=beta&amp;t=oeMz9HtUCUUbA5dirgm6lbXEfPGfT9tCCZmDVwwQusI)

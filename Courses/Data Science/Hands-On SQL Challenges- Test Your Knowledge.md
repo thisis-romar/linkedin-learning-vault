@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On SQL Challenges: Test Your Knowledge](https://media.licdn.com/dms/image/v2/D4D0DAQE6InISQKXVRQ/learning-public-crop_675_1200/B4DZU_uFWkGkAc-/0/1740530800297?e=2147483647&amp;v=beta&amp;t=v-UM2D7RGMmbAEZouV7Lqesawp6Sg_Gyf6XTHiDQ01o)

@@ -15,7 +15,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction To Career Skills In Data Analytics](https://media.licdn.com/dms/image/v2/C560DAQGJPu6Bpt_6gw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660147884175?e=2147483647&amp;v=beta&amp;t=kQ5PYdjHkCHJKUBySW8sc4bq-Muan8C1jcqz__M_MT8)

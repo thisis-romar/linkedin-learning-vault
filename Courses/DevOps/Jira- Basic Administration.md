@@ -26,7 +26,7 @@ tags:
   - skill/system-administration
   - skill/jira
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Jira: Basic Administration](https://media.licdn.com/dms/image/v2/C560DAQEy1G1z5kc95w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671662391309?e=2147483647&amp;v=beta&amp;t=uhQ8JbwgdsK9AmUYSAmyiTDq75wHezAkaxZf0EVkM8A)

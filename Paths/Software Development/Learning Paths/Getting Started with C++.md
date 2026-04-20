@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-c-plus-plus"
+url: https://www.linkedin.com/learning/paths/getting-started-with-c-plus-plus
 course_count: 5
 linkedin_topics:
   - Software Development
@@ -10,8 +10,34 @@ louvain_cluster: 17
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Complete Guide To C Plus Plus Programming Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introducing Functional Programming in C++]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning C++]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Web Servers and APIs using C++]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Nail Your C++ Interview]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with C++

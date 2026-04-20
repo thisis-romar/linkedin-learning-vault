@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL Practice: Basic Queries](https://media.licdn.com/dms/image/v2/D560DAQHwLhX7mciAFw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902085725?e=2147483647&amp;v=beta&amp;t=-nbo6ggJgU5zG_My0xWIsSSv9W9xfSpBXhKRVQ3hrHc)

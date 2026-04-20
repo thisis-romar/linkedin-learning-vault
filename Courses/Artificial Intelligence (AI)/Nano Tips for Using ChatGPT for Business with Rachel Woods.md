@@ -19,7 +19,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Nano Tips for Using ChatGPT for Business with Rachel Woods](https://media.licdn.com/dms/image/v2/D560DAQEfEsaRm8dswQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680541326029?e=2147483647&amp;v=beta&amp;t=_hs_hE_LsRFX1THLV58LIGuqkU4D8uSKnfdHNK5InDY)

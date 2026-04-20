@@ -32,7 +32,7 @@ tags:
   - skill/machine-transcription
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building a Video Transcriber with Node.js and Google AI Speech-To-Text API](https://media.licdn.com/dms/image/v2/D4D0DAQE-HeK__tSoEA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702508337928?e=2147483647&amp;v=beta&amp;t=-bMuKzkCcu3voQwZlYlmP5R5KtIoBnRO6zo-UoKojOU)

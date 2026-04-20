@@ -25,7 +25,7 @@ tags:
   - skill/sales
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The AI-Driven Sales Professional: Streamline Systems and Exceed Targets](https://media.licdn.com/dms/image/v2/D4D0DAQGOPzldiGaNBg/learning-public-crop_675_1200/B4DZb6i23OG0Ac-/0/1747960164499?e=2147483647&amp;v=beta&amp;t=zHpCmjpVNOjS1pPfNEJIdMpma-hYaepsL4Op8aYMMEA)

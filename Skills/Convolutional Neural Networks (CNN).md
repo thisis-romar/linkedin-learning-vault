@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/convolutional-neural-networks-cnn
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Convolutional Neural Networks (CNN)

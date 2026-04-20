@@ -24,7 +24,7 @@ tags:
   - skill/artificial-intelligence-for-design
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Using AI in Research Projects](https://media.licdn.com/dms/image/v2/D4E0DAQFZoDP-qg1M0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696960875640?e=2147483647&amp;v=beta&amp;t=N2JMDZkO-2ZmQYfXz6Gu5TtQRsNKr9jmxlW_lobCMgA)

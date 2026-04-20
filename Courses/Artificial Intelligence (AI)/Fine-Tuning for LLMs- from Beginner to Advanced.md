@@ -30,7 +30,7 @@ tags:
   - skill/large-language-models-llm
   - skill/fine-tuning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Fine-Tuning for LLMs: from Beginner to Advanced](https://media.licdn.com/dms/image/v2/D4E0DAQHGKr_yNWHbng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723585408633?e=2147483647&amp;v=beta&amp;t=npy7fBXsjSspwfQUsf1KWHmIdSohNGQO-AH10Dw-zog)

@@ -28,7 +28,7 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Exploring Million-Token Models with Google Gemini Pro 1.5](https://media.licdn.com/dms/image/v2/D4D0DAQEN1p4G_REgGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713473090290?e=2147483647&amp;v=beta&amp;t=EaFp8l6We_yOE8ry8DgKaB70ZvG1xrxKjwAazZhe2FU)

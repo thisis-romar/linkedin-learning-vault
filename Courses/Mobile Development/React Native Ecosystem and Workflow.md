@@ -25,7 +25,7 @@ tags:
   - skill/react-native
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![React Native Ecosystem and Workflow](https://media.licdn.com/dms/image/v2/C560DAQGEEn--XFsCTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635785778554?e=2147483647&amp;v=beta&amp;t=fus2y0O4KAA_AtBGz9Tb1uPfGWcoizv_ujBLpQ4WMR8)

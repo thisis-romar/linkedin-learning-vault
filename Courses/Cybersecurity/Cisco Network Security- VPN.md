@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cisco-vpn
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cisco Network Security: VPN](https://media.licdn.com/dms/image/v2/C4D0DAQF31SgzrqPg8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670433939935?e=2147483647&amp;v=beta&amp;t=z3ERHTsJr7RrZPTKQ3Uxn3crKUJraOKL0Cz--0W4zFI)

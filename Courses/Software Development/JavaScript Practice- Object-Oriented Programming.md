@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JavaScript Practice: Object-Oriented Programming](https://media.licdn.com/dms/image/v2/D560DAQFaDTDoJostiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692903082788?e=2147483647&amp;v=beta&amp;t=G_Umkq2gwOUQY-kQE9Q5I_1JzvD5zj8gLRI8DZsr4Bc)

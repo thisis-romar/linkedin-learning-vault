@@ -26,7 +26,7 @@ tags:
   - skill/business-process-management
   - skill/business-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analysis Foundations: Business Process Modeling](https://media.licdn.com/dms/image/v2/C4E0DAQFdnTylFTNevg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1593633041617?e=2147483647&amp;v=beta&amp;t=mMPy9EUp2B0ZVaeipu7oEelBL2DiYQ3oqqketec1cZw)

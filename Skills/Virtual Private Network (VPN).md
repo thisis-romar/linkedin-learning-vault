@@ -6,7 +6,7 @@ course_count: 1
 tags:
   - skill
   - skill/virtual-private-network-vpn
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Virtual Private Network (VPN)

@@ -28,7 +28,7 @@ tags:
   - skill/spring-framework
   - skill/software-architectural-design
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Spring: Application Events](https://media.licdn.com/dms/image/v2/C560DAQHruy-utfvsCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626117142879?e=2147483647&amp;v=beta&amp;t=fNocRdL2VOHR0D_MSyg5v4XklnWSjVxh58ORoRX2H_w)

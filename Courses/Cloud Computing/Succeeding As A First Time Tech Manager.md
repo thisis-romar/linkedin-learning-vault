@@ -33,7 +33,7 @@ tags:
   - skill/management-development
   - skill/management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Succeeding As A First Time Tech Manager](https://media.licdn.com/dms/image/v2/D4D0DAQFMCycApffsMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732234285462?e=2147483647&amp;v=beta&amp;t=_c4nx89z7jbIJeS-Yj62y9KjaMx1IM-_TvNYiZ2kgac)

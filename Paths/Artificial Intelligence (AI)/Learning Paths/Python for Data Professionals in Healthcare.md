@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/python-for-data-professionals-in-healthcare"
+url: https://www.linkedin.com/learning/paths/python-for-data-professionals-in-healthcare
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,34 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Python for Health Sciences and Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Data Analysis for Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-on Data Science and AI for Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[An Introduction to How Generative AI Will Transform Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning Fundamentals for Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Python for Data Professionals in Healthcare

@@ -28,7 +28,7 @@ tags:
   - skill/stark-accessibility-software
   - skill/accessible-design
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Using Stark for Accessible Design Projects](https://media.licdn.com/dms/image/v2/D4D0DAQEwq_86Hrjgag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721061371788?e=2147483647&amp;v=beta&amp;t=7XvTKMORh2MasviBtdGNxTILbVpwOTr_xWt9XWEkbL8)

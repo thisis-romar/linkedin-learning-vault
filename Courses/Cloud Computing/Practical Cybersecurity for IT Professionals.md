@@ -20,7 +20,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Practical Cybersecurity for IT Professionals](https://media.licdn.com/dms/image/v2/C560DAQHkzm_evdXHzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651516598008?e=2147483647&amp;v=beta&amp;t=GtNKWwI6ubADA8aOgnvMJ1vNw78tzdbwtQRqRx6gqxY)

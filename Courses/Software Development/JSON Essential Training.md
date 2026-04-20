@@ -27,7 +27,7 @@ tags:
   - topic/network-and-system-administration
   - skill/json
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JSON Essential Training](https://media.licdn.com/dms/image/v2/C560DAQEXmiSIYftM5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629482233685?e=2147483647&amp;v=beta&amp;t=LbyNWNKqesH6hUgtM8CxYPr8orwhN_B1w6ERy1mpidY)

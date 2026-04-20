@@ -16,7 +16,7 @@ tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel: Value Stream Mapping](https://media.licdn.com/dms/image/v2/C4E0DAQFAwRoAKWf9yg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584485746573?e=2147483647&amp;v=beta&amp;t=xyw7oOGea6fc1IynyQa7UoGqt2VZHmI_lGK7ANDIjG4)

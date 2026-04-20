@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Product Security: Foundations and Proactive Security for AI](https://media.licdn.com/dms/image/v2/D4E0DAQHUwP8SSWhUTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736798892218?e=2147483647&amp;v=beta&amp;t=5-JEu3yNKOeCffGNRrkB3fykr6iJAC2rh8IjRmUj6bk)

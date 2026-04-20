@@ -21,7 +21,7 @@ tags:
   - topic/data-science
   - skill/executive-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Executive Leadership](https://media.licdn.com/dms/image/v2/D560DAQF4LHwu04Zt-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722275062045?e=2147483647&amp;v=beta&amp;t=RCF-u8CYPP_za8sn3kwhaOBuWNLpqU2EgVNRG5eHuOI)

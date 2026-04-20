@@ -25,7 +25,7 @@ tags:
   - skill/software-development
   - skill/security-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Static Application Security Testing](https://media.licdn.com/dms/image/v2/D560DAQHrzuHza_4cSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683244233790?e=2147483647&amp;v=beta&amp;t=ehl91Xm-3nQHiP6TLg6CldF4CQdb2jrAe-ZEEBH_yak)

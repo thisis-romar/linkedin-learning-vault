@@ -31,7 +31,7 @@ tags:
   - skill/multi-factor-authentication
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure for Architects: Security and Identity Management with Microsoft Entra](https://media.licdn.com/dms/image/v2/D4D0DAQE35STgQ-7-Gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728680931860?e=2147483647&amp;v=beta&amp;t=3eElO4M-oq2AdZb7IVw92k7sgco26H6TDHoq99rlW78)

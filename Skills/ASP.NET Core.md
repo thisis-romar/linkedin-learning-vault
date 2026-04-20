@@ -6,7 +6,7 @@ course_count: 7
 tags:
   - skill
   - skill/asp-net-core
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # ASP.NET Core

@@ -24,7 +24,7 @@ tags:
   - topic/devops
   - skill/devsecops
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![DevSecOps: Tips for Success](https://media.licdn.com/dms/image/v2/C560DAQEL9q77puecnQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584471062411?e=2147483647&amp;v=beta&amp;t=SSdEBuns4xpCGT55BNVXe1ecP0jMNu2mPXBvqzVHy7E)

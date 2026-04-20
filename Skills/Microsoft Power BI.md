@@ -6,7 +6,7 @@ course_count: 14
 tags:
   - skill
   - skill/microsoft-power-bi
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Microsoft Power BI

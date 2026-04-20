@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/rust-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Level Up: Rust](https://media.licdn.com/dms/image/v2/C560DAQEOULbtwwYf8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677009134347?e=2147483647&amp;v=beta&amp;t=fBaGAv3TxwJps7ntffBoWITXx-bZIzbWCievVafHg_g)

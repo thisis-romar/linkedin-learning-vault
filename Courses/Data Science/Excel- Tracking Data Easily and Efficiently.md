@@ -25,7 +25,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-tracking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel: Tracking Data Easily and Efficiently](https://media.licdn.com/dms/image/v2/D560DAQH995Sl9bdWVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690838910432?e=2147483647&amp;v=beta&amp;t=ji250aFXmWNl_v8kPxHaBEQL2IJOs7yzknJeFic3xuQ)

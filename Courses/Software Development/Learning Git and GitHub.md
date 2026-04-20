@@ -34,7 +34,7 @@ tags:
   - skill/git
   - skill/github
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Git and GitHub](https://media.licdn.com/dms/image/v2/D560DAQG-PWt9Z7vqCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697832655105?e=2147483647&amp;v=beta&amp;t=y4RW4ep4W-ugmPxb52IiKv9s4k8DiOHmlj9DwjG6WmM)

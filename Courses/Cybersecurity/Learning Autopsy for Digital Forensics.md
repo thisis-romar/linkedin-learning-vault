@@ -23,7 +23,7 @@ tags:
   - topic/security
   - skill/digital-forensics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Autopsy for Digital Forensics](https://media.licdn.com/dms/image/v2/C560DAQGUv76gCM-4cA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643742664904?e=2147483647&amp;v=beta&amp;t=Ca4DShYlHixAmhuvnORyuQDFnPPDRCvL1sU7TcNNmnM)

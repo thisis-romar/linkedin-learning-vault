@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Web Security: OAuth and OpenID Connect](https://media.licdn.com/dms/image/v2/D560DAQE_ANjrzwRsMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698269406260?e=2147483647&amp;v=beta&amp;t=U8zGZl8pEp_WV_Yq4cR7WwTFuX8zMmNr8sxIkyYxtEU)

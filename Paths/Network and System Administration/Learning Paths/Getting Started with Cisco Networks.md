@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-cisco-networks"
+url: https://www.linkedin.com/learning/paths/getting-started-with-cisco-networks
 course_count: 4
 linkedin_topics:
   - Network and System Administration
@@ -10,8 +10,30 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Cisco Networking Foundations Fundamentals Of Cisco Networking]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cisco Networking Foundations- IP Addressing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cisco Networking Foundations- Switching and Routing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cisco Networking Foundations- Wireless Networks, Services, Security, and Virtualization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with Cisco Networks

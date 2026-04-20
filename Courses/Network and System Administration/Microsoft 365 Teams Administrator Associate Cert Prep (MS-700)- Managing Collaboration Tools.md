@@ -25,7 +25,7 @@ tags:
   - skill/office-365-administration
   - skill/microsoft-teams
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft 365 Teams Administrator Associate Cert Prep (MS-700): Managing Collaboration Tools](https://media.licdn.com/dms/image/v2/C560DAQE_D5OxdUfo4w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637607627437?e=2147483647&amp;v=beta&amp;t=8sI2et89o5niLUvy5lzq198SArezDJUB43mQcqe24nw)

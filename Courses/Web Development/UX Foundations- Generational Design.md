@@ -21,7 +21,7 @@ tags:
   - topic/web-development
   - skill/user-experience-ux
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![UX Foundations: Generational Design](https://media.licdn.com/dms/image/v2/C560DAQGT2m2g7nf38w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589562655399?e=2147483647&amp;v=beta&amp;t=1Ds6_nyk5uZc3u7cqeUiA3DCR0yI4w9pi1WsbHDRQc8)

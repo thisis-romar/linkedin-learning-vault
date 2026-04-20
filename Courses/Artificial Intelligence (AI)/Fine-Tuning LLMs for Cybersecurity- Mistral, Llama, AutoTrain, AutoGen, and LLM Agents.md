@@ -33,7 +33,7 @@ tags:
   - skill/large-language-models-llm
   - skill/ai-for-cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Fine-Tuning LLMs for Cybersecurity: Mistral, Llama, AutoTrain, AutoGen, and LLM Agents](https://media.licdn.com/dms/image/v2/D560DAQHVfuZo09vpTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729015930936?e=2147483647&amp;v=beta&amp;t=dWExLTYF_PhRlYGJG1Ep_Hmv-2ggQOSMNgr3IxnEW3Q)

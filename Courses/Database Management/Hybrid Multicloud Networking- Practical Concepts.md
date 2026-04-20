@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/hybrid-cloud
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hybrid Multicloud Networking: Practical Concepts](https://media.licdn.com/dms/image/v2/C4E0DAQGQMZS-HGbqBw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660078703986?e=2147483647&amp;v=beta&amp;t=LJ9yF7aM1TMxPxnzeNhDEOvEsDupgcXqrieAoW8glxo)

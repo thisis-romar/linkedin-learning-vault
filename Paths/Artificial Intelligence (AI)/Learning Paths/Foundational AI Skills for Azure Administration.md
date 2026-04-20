@@ -2,18 +2,48 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/foundational-ai-skills-for-azure-administration"
+url: https://www.linkedin.com/learning/paths/foundational-ai-skills-for-azure-administration
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
-louvain_cluster: 3
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/cloud-computing
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure AI Studio First Look]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure AI- The Big Picture]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure AI Services Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Apply Ethical AI Principles Using the Responsible AI Dashboard]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Foundational AI Skills for Azure Administration

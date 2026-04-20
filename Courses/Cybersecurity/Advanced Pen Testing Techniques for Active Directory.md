@@ -25,7 +25,7 @@ tags:
   - skill/penetration-testing
   - skill/active-directory
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Pen Testing Techniques for Active Directory](https://media.licdn.com/dms/image/v2/C560DAQGusBmcgYvmig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647026759098?e=2147483647&amp;v=beta&amp;t=LuccBGNQTv1RKy8rPBA3MNnjFsIzFe-Vx0nv3IM70Qo)

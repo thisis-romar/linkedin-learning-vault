@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/organizational-change-management
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Organizational Change Management

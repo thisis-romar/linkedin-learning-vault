@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/computer-vision
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![OpenAI API: Vision](https://media.licdn.com/dms/image/v2/D560DAQG0Mu6DAHu0uw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706311523814?e=2147483647&amp;v=beta&amp;t=RbGohYp2_VGkD8tBlx28uUOhPvnykmDj2ymyB1jTitw)

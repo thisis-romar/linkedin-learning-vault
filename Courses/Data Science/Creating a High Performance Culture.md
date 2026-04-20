@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/high-performance-cultures
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Creating a High Performance Culture](https://media.licdn.com/dms/image/v2/D4E0DAQH7til33V_20g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686004703649?e=2147483647&amp;v=beta&amp;t=rj34i7smN0lpk_oEdyOZnyQeNfGnMPOTvAFO5KGQ0lA)

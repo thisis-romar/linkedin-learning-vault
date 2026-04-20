@@ -27,7 +27,7 @@ tags:
   - skill/budget-analysis
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leveraging Security Metrics in Your Organization](https://media.licdn.com/dms/image/v2/C560DAQF54PFWnjZ7Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624651412738?e=2147483647&amp;v=beta&amp;t=HmXmp-A4Iw49PsbrgaWhO9TQnh-FO625nJWyOyjhOKw)

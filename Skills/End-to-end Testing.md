@@ -6,7 +6,7 @@ course_count: 1
 tags:
   - skill
   - skill/end-to-end-testing
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # End-to-end Testing

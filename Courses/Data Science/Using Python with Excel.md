@@ -25,7 +25,7 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Using Python with Excel](https://media.licdn.com/dms/image/v2/D560DAQENrV8UgGZ-Iw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690919454982?e=2147483647&amp;v=beta&amp;t=NY6sWyz6S_iNa30ChUHPWBh-7TgOc0rNlOXfbRRA9Hc)

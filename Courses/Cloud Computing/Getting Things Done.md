@@ -28,7 +28,7 @@ tags:
   - skill/time-management
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Getting Things Done](https://media.licdn.com/dms/image/v2/C4E0DAQHhhIIr03eUtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568666412658?e=2147483647&amp;v=beta&amp;t=nyOor8nI8Z7lwZ6NIvskodm3ivtb_nSnbMU2-3uUY4k)

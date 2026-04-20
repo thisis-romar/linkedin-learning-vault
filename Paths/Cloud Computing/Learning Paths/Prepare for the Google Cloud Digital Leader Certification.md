@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/prepare-for-the-google-cloud-digital-leader-certification"
+url: https://www.linkedin.com/learning/paths/prepare-for-the-google-cloud-digital-leader-certification
 course_count: 6
 linkedin_topics:
   - Cloud Computing
@@ -14,8 +14,38 @@ tags:
   - topic/cloud-computing
   - topic/security
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Google Cloud Digital Leader Cert Prep- 4 Modernize Infrastructure and Applications with Google Cloud]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Google Cloud Digital Leader Cert Prep- 5 Trust and Security with Google Cloud]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Google Cloud Digital Leader Cert Prep- 6 Scaling with Google Cloud Operations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Prepare for the Google Cloud Digital Leader Certification

@@ -26,7 +26,7 @@ tags:
   - skill/network-security
   - skill/cisco-firewall-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cisco Network Security: Cisco Firewall Technologies](https://media.licdn.com/dms/image/v2/C4E0DAQHKo9yS4P2Vnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664215618381?e=2147483647&amp;v=beta&amp;t=IWJMwHVxsYt6tAmV5mICp7dp6BNT9rZ2SXROc7Mke4o)

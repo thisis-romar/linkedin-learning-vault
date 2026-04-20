@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Openai Chatgpt Creating Custom Gpts](https://media.licdn.com/dms/image/v2/D560DAQEgFqptlvCtTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701193175841?e=2147483647&amp;v=beta&amp;t=KtRvJKoZQXKqPIzg28i2gZprrhs4UzqZlX1jU0GJtlY)

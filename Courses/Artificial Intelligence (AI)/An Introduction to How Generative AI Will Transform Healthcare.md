@@ -21,7 +21,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![An Introduction to How Generative AI Will Transform Healthcare](https://media.licdn.com/dms/image/v2/D560DAQEVAN76mOQ6lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708990552481?e=2147483647&amp;v=beta&amp;t=mexXi2BrYlzUWBqyFOvQ5TiTBkdezJv_HXMK5dVgAfE)

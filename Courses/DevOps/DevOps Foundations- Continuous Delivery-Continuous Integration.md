@@ -19,7 +19,7 @@ tags:
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![DevOps Foundations: Continuous Delivery/Continuous Integration](https://media.licdn.com/dms/image/v2/C560DAQFoucftXzxg0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1640024951192?e=2147483647&amp;v=beta&amp;t=QTDoUDzbLAbWJp42HuYoRhMiG5nu5NRliPfBASTGslQ)

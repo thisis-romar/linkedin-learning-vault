@@ -25,7 +25,7 @@ tags:
   - skill/it-security-policies-procedures
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity: Key Policies and Resources](https://media.licdn.com/dms/image/v2/D560DAQFMcqNqsFKM7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690576869037?e=2147483647&amp;v=beta&amp;t=ewuWwHoEtE9koi70bwG71vYGGDNzzmc4LmCu8zBQzXE)

@@ -19,7 +19,7 @@ tags:
   - topic/software-development
   - topic/devops
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Design a Cloud Migration Strategy](https://media.licdn.com/dms/image/v2/C4D0DAQGCH40lBYPU7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1591895554783?e=2147483647&amp;v=beta&amp;t=lfvjb-x9laxtnniE9J1romsK3L1Ia_L-mBm5D5QKBW8)

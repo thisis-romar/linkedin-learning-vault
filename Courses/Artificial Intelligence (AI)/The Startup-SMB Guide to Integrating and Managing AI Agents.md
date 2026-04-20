@@ -16,7 +16,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The Startup/SMB Guide to Integrating and Managing AI Agents](https://media.licdn.com/dms/image/v2/D4E0DAQENrwibTkyuQQ/learning-public-crop_675_1200/B4EZYSD0PAHcAY-/0/1744059713243?e=2147483647&amp;v=beta&amp;t=Ypk_Vbq1dDlSNpYT2jI2ZKaUI3Kk-YMR567h8B0ASjo)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/the-it-professional-s-path-to-cybersecurity"
+url: https://www.linkedin.com/learning/paths/the-it-professional-s-path-to-cybersecurity
 course_count: 5
 linkedin_topics:
   - Cloud Computing
@@ -16,8 +16,34 @@ tags:
   - topic/security
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Transitioning to a Career in Cybersecurity]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Practical Cybersecurity for IT Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Security Foundations- Core Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT and Cybersecurity Risk Management Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Soft Skills for Information Security Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # The IT Professional's Path to Cybersecurity

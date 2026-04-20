@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/understanding-generative-ai-for-tech-leaders-23140626"
+url: https://www.linkedin.com/learning/paths/understanding-generative-ai-for-tech-leaders-23140626
 course_count: 22
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,102 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/it-help-desk
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[What Is Generative AI-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI vs. Traditional AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI- Introduction to Large Language Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to NLP and LLMs- Principles and Practical Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Ethics in the Age of Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a Responsible AI Program- Context, Culture, Content, and Commitment]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI Approaches to Business Challenges]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Exploring AIOps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building in Azure AI Foundry]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure AI Engineering- Speech, Language, and Vision Solutions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Understanding and Implementing the NIST AI Risk Management Framework (RMF)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Auditing AI Systems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to AI Governance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Compliance and Regulations for Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Scaling Generative AI- Building a Strategy for Adoption and Expansion]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a Generative AI Tech Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[RAG and Fine-Tuning Explained]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Multimodal Prompting for Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agentic AI- Building Data-First AI Agents]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Understanding Generative AI for Tech Leaders

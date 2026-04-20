@@ -6,7 +6,7 @@ course_count: 6
 tags:
   - skill
   - skill/business-analytics
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Business Analytics

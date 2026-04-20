@@ -2,16 +2,46 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/ai-for-organizational-leaders-by-microsoft-and-linkedin"
+url: https://www.linkedin.com/learning/paths/ai-for-organizational-leaders-by-microsoft-and-linkedin
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 1
+louvain_cluster: 3
 tags:
   - professional-certificate
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Generative AI for Business Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[How to Keep Your Team on the Bleeding Edge of AI Innovation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Challenges and Opportunities for Leadership]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Integrating Generative AI into Business Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Literacy for Business Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leading Responsible AI in Organizations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # AI for Organizational Leaders by Microsoft and LinkedIn

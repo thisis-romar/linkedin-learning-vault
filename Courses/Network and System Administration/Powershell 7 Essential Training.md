@@ -21,7 +21,7 @@ tags:
   - topic/network-and-system-administration
   - skill/powershell
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Powershell 7 Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQEEzQM_uSV9WA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608062286712?e=2147483647&amp;v=beta&amp;t=2nqMZgS7GaFxNW-EkbJ-jg6yt21_KLoZLa-9JoN7vRM)

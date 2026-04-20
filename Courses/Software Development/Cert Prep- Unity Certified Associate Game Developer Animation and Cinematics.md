@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/unity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cert Prep: Unity Certified Associate Game Developer Animation and Cinematics](https://media.licdn.com/dms/image/v2/C4E0DAQHGxWJZR_iLlw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611704552553?e=2147483647&amp;v=beta&amp;t=19Yg38xM7IbNqFFZ4CaUhQEyylRg1-Peh0ZDGbQCOTE)

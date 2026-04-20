@@ -9,7 +9,7 @@ linkedin_topics:
 tags:
   - instructor
   - topic/data-science
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Terry Rice

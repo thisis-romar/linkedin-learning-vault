@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/nosql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud NoSQL for SQL Professionals](https://media.licdn.com/dms/image/v2/C4E0DAQGNUCZPOxVoDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583278789254?e=2147483647&amp;v=beta&amp;t=5Qg38Nj78yqHsAgZ3aP3LbtpO0xwXIUdmMfwIesqTxs)

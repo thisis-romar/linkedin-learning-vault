@@ -26,7 +26,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Agentic AI: Building Data-First AI Agents](https://media.licdn.com/dms/image/v2/D560DAQFL4bRud3pXew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721841126256?e=2147483647&amp;v=beta&amp;t=D6WrF-aLEBaJ-TJaFNTNW3TdmYNjbt2msafQjvqvJks)

@@ -30,7 +30,7 @@ tags:
   - skill/retrieval-augmented-generation-rag
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On AI: RAG using LlamaIndex](https://media.licdn.com/dms/image/v2/D560DAQEi-KCygqsEWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721080561320?e=2147483647&amp;v=beta&amp;t=Z1L7EVvB7xynoqBbYIgM_dU0adZMHQbT_sRIn5nFRfg)

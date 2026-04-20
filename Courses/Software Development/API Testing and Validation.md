@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![API Testing and Validation](https://media.licdn.com/dms/image/v2/D560DAQEkqQwIdKXdbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687799290970?e=2147483647&amp;v=beta&amp;t=upDE8G-Q_voOTnLJbQSA-Sbe-OeeCZTMeGgeNh-pPF0)

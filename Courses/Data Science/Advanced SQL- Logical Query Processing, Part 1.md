@@ -27,7 +27,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced SQL: Logical Query Processing, Part 1](https://media.licdn.com/dms/image/v2/C4E0DAQG28KHopi6kWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619735443478?e=2147483647&amp;v=beta&amp;t=U5fUSj6XbdM7tR_q9ix_WGa_Pig5SqY8AUCIGx1QaWA)

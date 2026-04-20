@@ -26,7 +26,7 @@ tags:
   - skill/rest-apis
   - skill/laravel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building RESTful APIs in Laravel](https://media.licdn.com/dms/image/v2/C4E0DAQHLRm0wBRFc8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616782627205?e=2147483647&amp;v=beta&amp;t=3h1GYISHp7JIPE3zXeqeVBtAs41PRAADUeI2YoA5lNA)

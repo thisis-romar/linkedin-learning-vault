@@ -30,7 +30,7 @@ tags:
   - skill/cloud-administration
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure Administration Essential Training](https://media.licdn.com/dms/image/v2/C560DAQE-R4loEMduuw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670446335554?e=2147483647&amp;v=beta&amp;t=hxE_SXza9BjjH8eAGS4G0BWVX_WGH4kewXga4OKcc30)

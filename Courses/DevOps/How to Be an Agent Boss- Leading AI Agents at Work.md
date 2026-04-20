@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![How to Be an Agent Boss: Leading AI Agents at Work](https://media.licdn.com/dms/image/v2/D4E0DAQEjaLbQibQykQ/learning-public-crop_675_1200/B4EZspW6tNHMAY-/0/1765925432505?e=2147483647&amp;v=beta&amp;t=OTmDX4mG7nfOaXYJtRgc__pj8FIXqHCxGDpq0hTHt8E)

@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/e-commerce
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Marketing Foundations: Ecommerce](https://media.licdn.com/dms/image/v2/C560DAQEkrUJuLfFUWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637690787097?e=2147483647&amp;v=beta&amp;t=2vEEP-G4rTTwqTKWS6WzxNLzhpdpWfywV_DCzU5TBpg)

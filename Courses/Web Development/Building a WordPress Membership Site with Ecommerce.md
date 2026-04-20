@@ -25,7 +25,7 @@ tags:
   - skill/wordpress-development
   - skill/e-commerce
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building a WordPress Membership Site with Ecommerce](https://media.licdn.com/dms/image/v2/C560DAQFroQDxzN6Mlw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634664278629?e=2147483647&amp;v=beta&amp;t=TY3BNIwe-2O9fJINBROE6FeejvCZ7DxjvpMRk1hjGSk)

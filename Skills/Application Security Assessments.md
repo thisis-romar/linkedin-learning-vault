@@ -6,7 +6,7 @@ course_count: 1
 tags:
   - skill
   - skill/application-security-assessments
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Application Security Assessments

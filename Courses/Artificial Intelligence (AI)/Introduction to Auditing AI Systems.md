@@ -31,7 +31,7 @@ tags:
   - skill/it-audit
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Auditing AI Systems](https://media.licdn.com/dms/image/v2/D560DAQFQ-T4a317kXw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694814155919?e=2147483647&amp;v=beta&amp;t=14WPhtMGwsnVUvOxaDFj_cpg9T2-CrXE2dtsd-dBkpw)

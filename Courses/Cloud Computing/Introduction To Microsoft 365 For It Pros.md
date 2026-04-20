@@ -22,7 +22,7 @@ tags:
   - topic/network-and-system-administration
   - skill/microsoft-365
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction To Microsoft 365 For It Pros](https://media.licdn.com/dms/image/v2/D560DAQF9rn5O3IiFVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689359082992?e=2147483647&amp;v=beta&amp;t=UKxrZE_mADWnbXMHepcKgXuPiaUnq8h1jm4odOJzz9M)

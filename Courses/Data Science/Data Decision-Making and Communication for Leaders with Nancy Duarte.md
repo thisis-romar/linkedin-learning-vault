@@ -18,7 +18,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Decision-Making and Communication for Leaders with Nancy Duarte](https://media.licdn.com/dms/image/v2/D4E0DAQHR66FceHMXUg/learning-public-crop_675_1200/B4EZWQUELnG0Ag-/0/1741882934866?e=2147483647&amp;v=beta&amp;t=5ruVm6rZL3nN3ZF4Px7Cn1YAamQuYWxp0HpdUeiK874)

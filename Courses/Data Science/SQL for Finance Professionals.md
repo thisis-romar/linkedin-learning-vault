@@ -28,7 +28,7 @@ tags:
   - skill/financial-analysis
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL for Finance Professionals](https://media.licdn.com/dms/image/v2/D560DAQH2Xr3RiZsbFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723482637801?e=2147483647&amp;v=beta&amp;t=6rckm7_wlJKFvNFTD22RCl0a2eSaMO4Ycd1xjPDKSE8)

@@ -26,7 +26,7 @@ tags:
   - topic/network-and-system-administration
   - skill/virtualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Virtualization](https://media.licdn.com/dms/image/v2/C560DAQFa6NvpE0yXFQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621011058765?e=2147483647&amp;v=beta&amp;t=2D8IpuU_ApvsNPWo6aF_2Zmo7NuMbhSyI3gDwbqaem8)

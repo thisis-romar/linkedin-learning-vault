@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python Quick Start](https://media.licdn.com/dms/image/v2/D560DAQHP-DG4orZQrA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690569966950?e=2147483647&amp;v=beta&amp;t=BMSNt4_Ezlt_qzgQV-q0RMgLs0HBzKiUDm4ZatuL3gA)

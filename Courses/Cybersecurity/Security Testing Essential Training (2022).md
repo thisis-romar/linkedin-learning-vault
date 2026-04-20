@@ -26,7 +26,7 @@ tags:
   - skill/network-security
   - skill/security-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Security Testing Essential Training (2022)](https://media.licdn.com/dms/image/v2/D560DAQFVdYfCaK5eZA/learning-public-crop_675_1200/B56ZfrBhrHHEAY-/0/1751994735576?e=2147483647&amp;v=beta&amp;t=YbndIB0M19OZeHHDC3v4jtVGhCVihjamVtyO48U2Sk8)

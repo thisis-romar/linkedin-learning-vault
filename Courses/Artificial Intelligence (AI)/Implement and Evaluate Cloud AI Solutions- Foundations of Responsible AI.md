@@ -28,7 +28,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Implement and Evaluate Cloud AI Solutions: Foundations of Responsible AI](https://media.licdn.com/dms/image/v2/D4D0DAQF5jBKDROa9mw/learning-public-crop_675_1200/B4DZTOSUFSGcAY-/0/1738627695794?e=2147483647&amp;v=beta&amp;t=fJb6ugCjYgKw3Je8Cg2dPVWsZJAcPD-DwWtrheLmguU)

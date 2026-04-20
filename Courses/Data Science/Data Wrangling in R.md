@@ -27,7 +27,7 @@ tags:
   - skill/data-wrangling
   - skill/r-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Wrangling in R](https://media.licdn.com/dms/image/v2/C560DAQHwhOyy4T_E4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626807009888?e=2147483647&amp;v=beta&amp;t=yQECZR2VKEpjDC2NgOT4PC7xVLoI6VGaJ34hJU4W0So)

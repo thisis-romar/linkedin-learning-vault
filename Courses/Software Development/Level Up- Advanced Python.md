@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Level Up: Advanced Python](https://media.licdn.com/dms/image/v2/D4E0DAQG5HTatEks7cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713900195184?e=2147483647&amp;v=beta&amp;t=qD8ZAycHwEls2pty_rRMw5jplrMvgCaH7oN_U1BMbbQ)

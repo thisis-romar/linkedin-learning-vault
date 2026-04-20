@@ -27,7 +27,7 @@ tags:
   - skill/r-programming-language
   - skill/tidyverse
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning the R Tidyverse](https://media.licdn.com/dms/image/v2/D560DAQHGV1Nm-0E3TQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719510264274?e=2147483647&amp;v=beta&amp;t=eVRhPVTH6kak7pbszlU3DUDoWMn_MAM1qlo4kTj3gPA)

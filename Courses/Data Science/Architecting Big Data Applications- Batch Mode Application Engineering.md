@@ -28,7 +28,7 @@ tags:
   - skill/big-data
   - skill/batch-processing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Architecting Big Data Applications: Batch Mode Application Engineering](https://media.licdn.com/dms/image/v2/D560DAQHDta61I-dsrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696456723105?e=2147483647&amp;v=beta&amp;t=wuE8jSC78C2FJTGGC7K_vaf1onkSI3Q9bORsIA-kEp8)

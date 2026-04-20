@@ -21,7 +21,7 @@ tags:
   - skill/financial-analysis
   - skill/career-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Starting Your Career As A Financial Analyst](https://media.licdn.com/dms/image/v2/C560DAQFPMDynUHrmfg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652376784923?e=2147483647&amp;v=beta&amp;t=fYY8fO15WRu-BoJbFagTEMWY1dGcRgyWfSFcMgUmFak)

@@ -24,7 +24,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Cheat Sheet for Business Leaders](https://media.licdn.com/dms/image/v2/D4E0DAQEHsYtpVILu1w/learning-public-crop_675_1200/B4EZXyMEIQHUAc-/0/1743525004079?e=2147483647&amp;v=beta&amp;t=C_vjyiEDajdUefJ5iC_mKtGN3yf1m1R9qSTSs43VhJc)

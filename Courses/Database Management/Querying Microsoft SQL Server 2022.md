@@ -26,7 +26,7 @@ tags:
   - skill/database-queries
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Querying Microsoft SQL Server 2022](https://media.licdn.com/dms/image/v2/D560DAQEscFM32sKdPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733774121568?e=2147483647&amp;v=beta&amp;t=TBC94501oOlSBQCoW1asTjxJITxEbslKKgk6iFDasAs)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-c-plus-plus"
+url: https://www.linkedin.com/learning/paths/master-c-plus-plus
 course_count: 6
 linkedin_topics:
   - DevOps
@@ -12,8 +12,38 @@ tags:
   - learning-path
   - topic/devops
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Complete Guide To C Plus Plus Programming Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to Parallel and Concurrent Programming with C++]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Test-Driven Development in C++]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C++ Design Patterns- Behavioral]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C++ Design Patterns- Creational]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master C++

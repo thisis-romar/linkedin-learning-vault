@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/sql-server-integration-services-ssis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL Server Integration Services](https://media.licdn.com/dms/image/v2/C4E0DAQGQfihJtXG1jQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134123709?e=2147483647&amp;v=beta&amp;t=tl5I-AiD_kJMfkHl0Sg6gtNSmML7WIBC_ooesbpb6_A)

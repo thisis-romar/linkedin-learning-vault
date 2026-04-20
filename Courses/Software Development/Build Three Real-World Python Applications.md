@@ -27,7 +27,7 @@ tags:
   - skill/python-programming-language
   - skill/application-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Build Three Real-World Python Applications](https://media.licdn.com/dms/image/v2/D4D0DAQFYSovTCZGW8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687366065111?e=2147483647&amp;v=beta&amp;t=5eyNnzqwIsutURFWP-n6VBABrTyyu-QoIBOuTJUXHEM)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-in-blockchain"
+url: https://www.linkedin.com/learning/paths/getting-started-in-blockchain
 course_count: 5
 linkedin_topics:
   - Cybersecurity
@@ -12,8 +12,34 @@ tags:
   - learning-path
   - topic/security
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Cryptocurrency Foundations 17185357]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Blockchain Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Blockchain- Beyond the Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Foundations of Decentralized Finance (DeFi)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Blockchain and Smart Contracts Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started in Blockchain

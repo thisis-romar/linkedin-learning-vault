@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/ciso-leadership-managing-a-cybersecurity-program"
+url: https://www.linkedin.com/learning/paths/ciso-leadership-managing-a-cybersecurity-program
 course_count: 8
 linkedin_topics:
   - Cybersecurity
@@ -10,8 +10,46 @@ louvain_cluster: 3
 tags:
   - learning-path
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[The Cybersecurity Threat Landscape]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building and Managing a Cybersecurity Program]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leveraging Security Metrics in Your Organization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CISO Foundations- Influencing the Board and C-Suite]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Outsourcing- Vendor Selection and Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Your Cybersecurity Talent Pipeline]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a Cybersecurity Awareness Program]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # CISO Leadership: Managing a Cybersecurity Program

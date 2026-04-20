@@ -35,7 +35,7 @@ tags:
   - skill/natural-language-processing-nlp
   - skill/transformer-models
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI: Working with Large Language Models](https://media.licdn.com/dms/image/v2/D4D0DAQG2yukDqW63ng/learning-public-crop_675_1200/B4DZWV8al1HYAY-/0/1741977398303?e=2147483647&amp;v=beta&amp;t=Xex0OtLCWwCSjtwZ0oQftd1kfJBM6b7gf-U-nhwE2RM)

@@ -30,7 +30,7 @@ tags:
   - skill/tech-career-skills
   - skill/resume-writing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Writing a Tech Resume](https://media.licdn.com/dms/image/v2/C4D0DAQEE8o-OhfIwTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1586792860695?e=2147483647&amp;v=beta&amp;t=N8W06U4nszwEaCkqB38tsAoC6Zd8bDHIMY3YVDB5_uk)

@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Empathy in UX Design](https://media.licdn.com/dms/image/v2/D4E0DAQHrfj6kO86P6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733504573568?e=2147483647&amp;v=beta&amp;t=pApeDVQQTTH7We-OO3QceFw5sCC8TAUGAvIlHB1HGfw)

@@ -27,7 +27,7 @@ tags:
   - skill/identity-and-access-management-iam
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft Azure: Identity and Access Management](https://media.licdn.com/dms/image/v2/D560DAQEW0zDZcclBVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705617989142?e=2147483647&amp;v=beta&amp;t=SiKipwbn1dLsl8zMbOjUUNYbtdx7Vu1KDZMMsYxE0v4)

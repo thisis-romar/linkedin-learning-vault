@@ -30,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Microsoft 365 Copilot for Work](https://media.licdn.com/dms/image/v2/D4E0DAQGLqDpZ_D9_nA/learning-public-crop_675_1200/B4EZiu6Du3HIAY-/0/1755281112853?e=2147483647&amp;v=beta&amp;t=DtspwDseZEn10xY7PymFH-ylht9RLXzIhDvMfA4mrrA)

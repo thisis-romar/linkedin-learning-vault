@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leveraging Agentic AI in Cloud Computing: Strategy and Tool Optimization](https://media.licdn.com/dms/image/v2/D560DAQFdr7FKcBslUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729900117724?e=2147483647&amp;v=beta&amp;t=bK_kwqqAXkoMsElicr6GtE4FJng00-fAxW_lOWrJHAc)

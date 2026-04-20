@@ -31,7 +31,7 @@ tags:
   - skill/software-observability
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Orchestration: Planning and Orchestrating for Observability](https://media.licdn.com/dms/image/v2/D4D0DAQHZpYXImv9IJg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735839023766?e=2147483647&amp;v=beta&amp;t=VvhiwjP_RbU7PZcMhAwat1NfO0oibXIWQKoFw_XO-5A)

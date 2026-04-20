@@ -26,7 +26,7 @@ tags:
   - skill/critical-thinking
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Inside The Mind Of An Aspiring Data Scientist](https://media.licdn.com/dms/image/v2/C560DAQHEzwxGNN3Ltw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1640287454194?e=2147483647&amp;v=beta&amp;t=O0tERLWf6g8rSWUUPkffXgkRQ-Jy_M1x6g5-6fybiKA)

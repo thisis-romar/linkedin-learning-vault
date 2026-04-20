@@ -26,7 +26,7 @@ tags:
   - skill/cloud-computing
   - skill/quantum-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud Quantum Computing Essentials](https://media.licdn.com/dms/image/v2/C4E0DAQHd3Vh9xYXgbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647018949325?e=2147483647&amp;v=beta&amp;t=y3oiMiBu5_WK3UGsDbxxTC_1kjkkCN7zMHferAhg8Bc)

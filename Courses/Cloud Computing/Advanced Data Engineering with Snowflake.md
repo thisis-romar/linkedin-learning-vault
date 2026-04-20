@@ -30,7 +30,7 @@ tags:
   - skill/data-pipelines
   - skill/snowflake
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Data Engineering with Snowflake](https://media.licdn.com/dms/image/v2/D4E0DAQHcUL6mia0odQ/learning-public-crop_675_1200/B4EZb0xBWkGUAY-/0/1747863214273?e=2147483647&amp;v=beta&amp;t=tpFwKtdR2I78724chmVsw5I26MTCH4ftslVpsZEJ844)

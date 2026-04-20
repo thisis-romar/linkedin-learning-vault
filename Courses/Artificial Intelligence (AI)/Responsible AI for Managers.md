@@ -18,7 +18,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Responsible AI for Managers](https://media.licdn.com/dms/image/v2/D560DAQFwINGwwlD2Dg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722359931070?e=2147483647&amp;v=beta&amp;t=Cq8MotQH6EpAlyRm8XR4iyEQOveVS4_Q16knK8IW51M)

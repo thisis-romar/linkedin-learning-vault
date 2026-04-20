@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/develop-your-it-service-management-itsm-skills"
+url: https://www.linkedin.com/learning/paths/develop-your-it-service-management-itsm-skills
 course_count: 5
 linkedin_topics:
   - Data Science
@@ -14,8 +14,34 @@ tags:
   - topic/data-science
   - topic/devops
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[It Service Management Foundations Tools]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Service Management Foundations- Measures and Metrics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Service Management Foundations- Change Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Service Management Foundations- Problem Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Service Management Foundations- Capacity and Availability Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Develop Your IT Service Management (ITSM) Skills

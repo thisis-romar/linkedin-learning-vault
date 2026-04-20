@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/product-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Product Ideation: Principles and Practical Applications](https://media.licdn.com/dms/image/v2/D4D0DAQGbNQBqdOr9BQ/learning-public-crop_675_1200/B4DZYXN4taGwAY-/0/1744146238683?e=2147483647&amp;v=beta&amp;t=_fu2LqaV4Au9ucbTg08y4x8zMjTvRWVKCjOg-Op_2Zk)

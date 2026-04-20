@@ -28,7 +28,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning and AI Foundations: Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions](https://media.licdn.com/dms/image/v2/C560DAQE3BMUZBYYfJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644966154242?e=2147483647&amp;v=beta&amp;t=npGnvgcw3abA8ToRQTR0sh7dWphxbhkZ4sUP7tFiuh0)

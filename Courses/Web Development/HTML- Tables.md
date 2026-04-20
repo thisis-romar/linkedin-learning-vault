@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![HTML: Tables](https://media.licdn.com/dms/image/v2/C4E0DAQEbYbJfxltcqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579284727023?e=2147483647&amp;v=beta&amp;t=SqSG-3VkApF_ZtGugV2jZnAdPnbbB0YF-bDrO21RKVo)

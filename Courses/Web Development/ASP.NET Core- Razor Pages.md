@@ -26,7 +26,7 @@ tags:
   - skill/asp-net-core
   - skill/asp-net-razor
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![ASP.NET Core: Razor Pages](https://media.licdn.com/dms/image/v2/C560DAQG_sOyeCs-0JQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655920911407?e=2147483647&amp;v=beta&amp;t=O6fB7HCf-3S4TgDZ07jep1_exvbexYywbY8cEvTp3yU)

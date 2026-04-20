@@ -16,7 +16,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel Statistics Essential Training: 2](https://media.licdn.com/dms/image/v2/D560DAQEuHafUW6Iylg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696279038859?e=2147483647&amp;v=beta&amp;t=UpPvGVrMkRh8YiRsBUa8j_fDum9EsWXw86AH14Hf7Dc)

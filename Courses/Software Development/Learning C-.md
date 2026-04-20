@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning C#](https://media.licdn.com/dms/image/v2/D560DAQHyukppmcS41g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694721037740?e=2147483647&amp;v=beta&amp;t=lYMcOW-aab-eECYL0l_1ssUd1KkAJuO037RYI7LpvVQ)

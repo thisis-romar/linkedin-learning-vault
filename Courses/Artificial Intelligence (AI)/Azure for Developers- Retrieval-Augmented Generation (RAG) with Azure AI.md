@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/azure-ai-foundry
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure for Developers: Retrieval-Augmented Generation (RAG) with Azure AI](https://media.licdn.com/dms/image/v2/D4E0DAQG-x1Hq4RJ1fw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736370122951?e=2147483647&amp;v=beta&amp;t=5nuq4RIL9cR3GIpBduJjWRorj4-LziTQUyuLYyeYxLQ)

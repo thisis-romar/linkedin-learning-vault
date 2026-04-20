@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Responsible GitHub Copilot: Creating Reliable Code Ethically](https://media.licdn.com/dms/image/v2/D4D0DAQGgFgJMm98eKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736186054165?e=2147483647&amp;v=beta&amp;t=t2HKxA8B6gKwi9B1Kbjui5umAr0tD6Wgb4UCRglBYzc)

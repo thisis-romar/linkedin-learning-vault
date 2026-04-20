@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/identity-and-access-management-in-azure"
+url: https://www.linkedin.com/learning/paths/identity-and-access-management-in-azure
 course_count: 4
 linkedin_topics:
   - Cloud Computing
@@ -14,8 +14,30 @@ tags:
   - topic/cloud-computing
   - topic/security
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Microsoft Entra ID Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Azure- Identity and Access Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure for Architects- Security and Identity Management with Microsoft Entra]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Security Architecture for the Enterprise]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Identity and Access Management in Azure

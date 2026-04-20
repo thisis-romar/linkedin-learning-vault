@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/mysql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning MySQL Development](https://media.licdn.com/dms/image/v2/D560DAQF582njh5BViQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689721235922?e=2147483647&amp;v=beta&amp;t=aLA0uJrYNVtKXhQ46ZmOPj1opEQpwMeC0qChidCGUes)

@@ -26,7 +26,7 @@ tags:
   - skill/python-programming-language
   - skill/data-ingestion
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Ingestion with Python](https://media.licdn.com/dms/image/v2/D560DAQGS5aDB3_uTbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703116291273?e=2147483647&amp;v=beta&amp;t=4a99Pt2L-0He9uLVObjaIUAfeju8706PW2vHsgwsvAs)

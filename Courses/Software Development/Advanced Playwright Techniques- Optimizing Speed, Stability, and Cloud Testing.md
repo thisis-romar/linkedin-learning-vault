@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing](https://media.licdn.com/dms/image/v2/D4D0DAQGHxE52KnuJdQ/learning-public-crop_675_1200/B4DZZkgSNWG8AY-/0/1745442907701?e=2147483647&amp;v=beta&amp;t=ms2XvyG0D7-kDyb_SrHN9vj3sYqlE5CRYUbtZ38PXN8)

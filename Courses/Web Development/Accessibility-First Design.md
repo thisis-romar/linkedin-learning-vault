@@ -16,7 +16,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Accessibility-First Design](https://media.licdn.com/dms/image/v2/C4E0DAQED7fR1aK5CVA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679335655739?e=2147483647&amp;v=beta&amp;t=A38WvZfWB4caPWRmcrIZc2HBap_Sm5MQwW9lE2G8Hm4)

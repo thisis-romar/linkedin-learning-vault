@@ -26,7 +26,7 @@ tags:
   - skill/linux-system-administration
   - skill/cli
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Linux Command Line](https://media.licdn.com/dms/image/v2/D4E0DAQFKBIqdHlpLgQ/learning-public-crop_675_1200/B4EZjohj_CGYAY-/0/1756247769738?e=2147483647&amp;v=beta&amp;t=SwNwvjs-GlmU-hOVIUVJA3cB6sHvgoD0SaeCgHZWJik)

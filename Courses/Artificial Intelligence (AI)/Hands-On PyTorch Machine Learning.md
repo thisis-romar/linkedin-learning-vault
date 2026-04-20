@@ -27,7 +27,7 @@ tags:
   - skill/pytorch
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On PyTorch Machine Learning](https://media.licdn.com/dms/image/v2/D4E0DAQGM57qo8MaAsQ/learning-public-crop_675_1200/B4EZnE26nyJ0AY-/0/1759944354943?e=2147483647&amp;v=beta&amp;t=6Gon_PksM4AZpJXmCMprUC3cFMbFn47i6HwIOvmxVGQ)

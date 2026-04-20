@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/hands-on-healthcare-analytics"
+url: https://www.linkedin.com/learning/paths/hands-on-healthcare-analytics
 course_count: 8
 linkedin_topics:
   - Data Science
@@ -16,8 +16,46 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[The Data Science Of Healthcare Medicine And Public Health]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel for Healthcare- Practical Applications and Skills]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python for Health Sciences and Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Data Analysis for Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL for Healthcare Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Descriptive Healthcare Analytics in R]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning Fundamentals for Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-on Data Science and AI for Healthcare]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Hands-On Healthcare Analytics

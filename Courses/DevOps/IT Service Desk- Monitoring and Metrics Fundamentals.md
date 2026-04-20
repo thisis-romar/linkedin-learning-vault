@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![IT Service Desk: Monitoring and Metrics Fundamentals](https://media.licdn.com/dms/image/v2/C4E0DAQFtlgzD59tnZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669856812?e=2147483647&amp;v=beta&amp;t=4WUW7jfU6-xRe4ocxrobi7IiL9JHGK-tYJ94wDXYV8k)

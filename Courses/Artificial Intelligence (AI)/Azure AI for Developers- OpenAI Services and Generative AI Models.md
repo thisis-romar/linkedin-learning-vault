@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure AI for Developers: OpenAI Services and Generative AI Models](https://media.licdn.com/dms/image/v2/D4D0DAQE6duOe6-u4jg/learning-public-crop_675_1200/B4DZaigMnzGwAg-/0/1746483071814?e=2147483647&amp;v=beta&amp;t=w4NdGIIy1bsyOz0okYdTWwfGxMP4AZ0yDKDtFClzAT8)

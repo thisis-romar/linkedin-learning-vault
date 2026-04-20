@@ -23,7 +23,7 @@ tags:
   - topic/security
   - skill/penetration-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Pen Testing for Cybersecurity Professionals](https://media.licdn.com/dms/image/v2/C4E0DAQEga5DedSCCqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675979486651?e=2147483647&amp;v=beta&amp;t=_3DOw3h4aRFdaPOGdhjd1Xm4fVL03-WFlyps9eXi904)

@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/career-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Figuring Out Your Next Move](https://media.licdn.com/dms/image/v2/C4E0DAQElmVV_G5THiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567716747636?e=2147483647&amp;v=beta&amp;t=KmWYFzTMJmsgluPEd-WtBeqRdaXfQB34TJwDyWANuFY)

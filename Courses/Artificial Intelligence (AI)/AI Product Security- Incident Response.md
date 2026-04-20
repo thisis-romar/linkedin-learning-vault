@@ -30,7 +30,7 @@ tags:
   - skill/security-incident-response
   - skill/incident-response
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Product Security: Incident Response](https://media.licdn.com/dms/image/v2/D4D0DAQGXwBp1METrSQ/learning-public-crop_675_1200/B4DZVuNUz.HYAY-/0/1741310742075?e=2147483647&amp;v=beta&amp;t=p5t0l_r-aE4liV2jO3SEAp54NknzW5zA7dIKob5TpGI)

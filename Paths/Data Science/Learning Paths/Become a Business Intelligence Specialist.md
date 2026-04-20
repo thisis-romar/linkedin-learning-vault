@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-a-business-intelligence-specialist"
+url: https://www.linkedin.com/learning/paths/become-a-business-intelligence-specialist
 course_count: 9
 linkedin_topics:
   - Data Science
@@ -10,8 +10,50 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[The Non Technical Skills Of Effective Data Scientists]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Analytics for Business Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Economic Analysis and Data Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power Bi Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using Tableau to Discover Powerful Business Insights]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Marketing Analytics- Setting and Measuring KPIs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Visualization for Data Analysts and Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Power BI- Integrating AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become a Business Intelligence Specialist

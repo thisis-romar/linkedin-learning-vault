@@ -29,7 +29,7 @@ tags:
   - skill/large-language-models-llm
   - skill/enterprise-software
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![LLM Foundations: Building Effective Applications for Enterprises](https://media.licdn.com/dms/image/v2/D560DAQEY9kaTr1GtrQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718987888877?e=2147483647&amp;v=beta&amp;t=jHYGkbDeSlq7KNqHihruuknzWHo38Q5vmOjTA621FfI)

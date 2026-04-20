@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/aws-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AWS Security Best Practices for Developers](https://media.licdn.com/dms/image/v2/C4E0DAQF4qOwzwd8iMg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663692236119?e=2147483647&amp;v=beta&amp;t=Ea-1GHa2PKaMUJtYik7ExpZi2SxxBgYwtU4713TSJIk)

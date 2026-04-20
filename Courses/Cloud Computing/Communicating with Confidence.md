@@ -19,7 +19,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Communicating with Confidence](https://media.licdn.com/dms/image/v2/D560DAQFrGrlB_Qi-lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708044970719?e=2147483647&amp;v=beta&amp;t=mfgldZRpyT7ZNohMnGELmDCko20Z3CFGXe2E-nGY9dY)

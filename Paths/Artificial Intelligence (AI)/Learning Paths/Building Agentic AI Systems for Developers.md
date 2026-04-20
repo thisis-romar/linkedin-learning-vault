@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/building-agentic-ai-systems-for-developers"
+url: https://www.linkedin.com/learning/paths/building-agentic-ai-systems-for-developers
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,38 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Agentic AI for Developers- Concepts and Application for Enterprises]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Agentic AI- Getting Started with AutoGen Studio]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building AI Agents with AutoGen]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On Agentic AI- Building AI Agents with LlamaIndex]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Build AI Agents and Chatbots with LangGraph]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ChatGPT''s Operator- Automating Everyday Tasks with AI Agents]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building Agentic AI Systems for Developers

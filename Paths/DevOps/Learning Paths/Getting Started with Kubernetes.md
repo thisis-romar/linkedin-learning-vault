@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-kubernetes"
+url: https://www.linkedin.com/learning/paths/getting-started-with-kubernetes
 course_count: 6
 linkedin_topics:
   - DevOps
@@ -10,8 +10,38 @@ louvain_cluster: 5
 tags:
   - learning-path
   - topic/devops
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Kubernetes]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Kubernetes- Your First Project (2021)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Kubernetes- Essential Tools]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Kubernetes- Microservices]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Kubernetes- Cloud Native Ecosystem]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Securing Containers and Kubernetes Ecosystem]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with Kubernetes

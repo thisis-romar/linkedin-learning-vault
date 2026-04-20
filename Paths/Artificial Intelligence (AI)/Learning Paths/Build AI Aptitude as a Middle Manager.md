@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/build-ai-aptitude-as-a-middle-manager"
+url: https://www.linkedin.com/learning/paths/build-ai-aptitude-as-a-middle-manager
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,34 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Leading With A Digital Mindset In The Age Of Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Everyday Ai Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI for Business Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible AI- Principles and Practical Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI Approaches to Business Challenges]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build AI Aptitude as a Middle Manager

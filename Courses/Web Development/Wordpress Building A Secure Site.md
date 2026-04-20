@@ -25,7 +25,7 @@ tags:
   - skill/web-application-security
   - skill/wordpress
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Wordpress Building A Secure Site](https://media.licdn.com/dms/image/v2/D560DAQFPY5XAoOMO4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690838117691?e=2147483647&amp;v=beta&amp;t=1iYoKbkOSfocRkAgbW8risB9CtZHZMLKhmg1aMJTlak)

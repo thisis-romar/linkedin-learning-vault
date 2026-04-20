@@ -2,20 +2,58 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/elevating-c-sharp-skills-building-robust-applications"
+url: https://www.linkedin.com/learning/paths/elevating-c-sharp-skills-building-robust-applications
 course_count: 8
 linkedin_topics:
   - DevOps
   - Mobile Development
   - Software Development
-louvain_cluster: 12
+louvain_cluster: 13
 tags:
   - learning-path
   - topic/devops
   - topic/mobile-development
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Object Oriented Programming With C Sharp]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Delegates, Events, and Lambdas]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Interfaces and Generics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Test-Driven Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Exception and Error Handling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Cross-Platform Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Unit Testing with xUnit]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Practice- Generic Collections]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Elevating C# Skills: Building Robust Applications

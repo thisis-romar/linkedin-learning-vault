@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python for Health Sciences and Healthcare](https://media.licdn.com/dms/image/v2/D560DAQERJBBzOU5xnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696815253240?e=2147483647&amp;v=beta&amp;t=FeCmMitb3aCc0lJNhtkAuIiD2OZ9LOeFDCQPyAXzi0U)

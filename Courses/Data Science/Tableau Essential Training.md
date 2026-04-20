@@ -28,7 +28,7 @@ tags:
   - skill/data-analytics
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Tableau Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQEV4RkoH9zuHg/learning-public-crop_675_1200/B4DZaN9fm0G8AY-/0/1746138430499?e=2147483647&amp;v=beta&amp;t=3H5Pnjzkj66ZvWkUY_q8YPaWFiBjZ-pjfHpm-5bEDak)

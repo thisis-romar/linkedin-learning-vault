@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Prompting With Github Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQFYqFXrKQ13pw/learning-public-crop_675_1200/B4EZq30MxJKYAY-/0/1764020506467?e=2147483647&amp;v=beta&amp;t=JoLTUbDk-I2rgJUEmOymE29Fq6P-C1FTVDhMNB-LKkQ)

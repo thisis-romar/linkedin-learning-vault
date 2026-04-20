@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/docker-products
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Docker](https://media.licdn.com/dms/image/v2/C560DAQHW94kV0BQffg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670878886810?e=2147483647&amp;v=beta&amp;t=gWYXLRyZJarMN8ohNqlxFwfDGoSYY9E4oY3M8vRpV5g)

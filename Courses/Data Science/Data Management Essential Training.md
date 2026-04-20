@@ -24,7 +24,7 @@ tags:
   - topic/database-management
   - skill/data-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Management Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQFW4dpBsSvoow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734136974842?e=2147483647&amp;v=beta&amp;t=KBNYc420ZvEscs1kra6bHaouh8z8nvODggbNcp5aku4)

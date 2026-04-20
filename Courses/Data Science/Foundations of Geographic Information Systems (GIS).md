@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/geographic-information-systems-gis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Foundations of Geographic Information Systems (GIS)](https://media.licdn.com/dms/image/v2/D4E0DAQFpq7UNi-fgQQ/learning-public-crop_675_1200/B4EZZaM0imHMAY-/0/1745270033295?e=2147483647&amp;v=beta&amp;t=XUOoN9iNLq8rpoh_JIUZIguL7qfqvpfXyMLsb6gskIE)

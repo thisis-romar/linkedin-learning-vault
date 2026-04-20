@@ -27,7 +27,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![LinkedIn AI Academy AI-100: 3 Scaling AI at LinkedIn](https://media.licdn.com/dms/image/v2/D560DAQGenHT5ValXOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683048551650?e=2147483647&amp;v=beta&amp;t=JFwg4fDRHgPsYRBR2FyWL8I_M6FLH_Zn-CyszE8UiCQ)

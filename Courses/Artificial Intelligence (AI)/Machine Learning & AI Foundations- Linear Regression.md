@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/linear-regression
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning & AI Foundations: Linear Regression](https://media.licdn.com/dms/image/v2/C4E0DAQHOipzpS91UiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117835966?e=2147483647&amp;v=beta&amp;t=zehj-BdbpnIDe9oLizDYNMWV_c3M3BqBJBwhsnEYnns)

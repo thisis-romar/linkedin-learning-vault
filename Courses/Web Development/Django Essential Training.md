@@ -24,7 +24,7 @@ tags:
   - skill/python-programming-language
   - skill/django
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Django Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQFTuPPdaSLTcw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733262351081?e=2147483647&amp;v=beta&amp;t=XLe1gkFdRncIi5ol51Ol3-FzcGdvmqaoleeCVU3tSCA)

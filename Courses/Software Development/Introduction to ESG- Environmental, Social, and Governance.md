@@ -24,7 +24,7 @@ tags:
   - skill/sustainable-business-strategy
   - skill/environmental-social-and-governance-esg
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to ESG: Environmental, Social, and Governance](https://media.licdn.com/dms/image/v2/C560DAQEaM3Ad6Pr8-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663182985086?e=2147483647&amp;v=beta&amp;t=Z13F6ihOcgKY958GXrvT1FKemESqvgAbdhuRyJMq2M8)

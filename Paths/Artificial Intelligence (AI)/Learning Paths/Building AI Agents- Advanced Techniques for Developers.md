@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/building-ai-agents-advanced-techniques-for-developers"
+url: https://www.linkedin.com/learning/paths/building-ai-agents-advanced-techniques-for-developers
 course_count: 4
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,30 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Build Ai Agents And Automate Workflows With N8n]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Build AI Agents and Chatbots with LangGraph]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Model Context Protocol (MCP)- Hands-On with Agentic AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On AI- Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building AI Agents: Advanced Techniques for Developers

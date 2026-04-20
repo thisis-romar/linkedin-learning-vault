@@ -23,7 +23,7 @@ tags:
   - skill/business-development
   - skill/entrepreneurship
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Nano Tips for Getting Unstuck as an Entrepreneur with Terry Rice](https://media.licdn.com/dms/image/v2/D560DAQHFx6_W9_4pNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702931726284?e=2147483647&amp;v=beta&amp;t=F1M_HuFQefUF639a9vUNXwoPBE44_QzV5Wdym95B-h4)

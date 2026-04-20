@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/foundations-of-cloud-computing-models-platforms-services-and-careers"
+url: https://www.linkedin.com/learning/paths/foundations-of-cloud-computing-models-platforms-services-and-careers
 course_count: 9
 linkedin_topics:
   - Cloud Computing
@@ -10,8 +10,50 @@ louvain_cluster: 3
 tags:
   - learning-path
   - topic/cloud-computing
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Cloud Computing Understanding Core Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Computing Terms Every Beginner Should Know]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[A Beginner''s Guide to Public Cloud Options]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Computing- Understanding Private Cloud Options]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Security Concepts- Services and Compliance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Storage Concepts- Services, Cost Control, and Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Computing- Understanding Networking]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Concepts- Hybrid Cloud]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Computing Careers and Certifications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Foundations of Cloud Computing: Models, Platforms, Services, and Careers

@@ -29,7 +29,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Level Up: Advanced SQL](https://media.licdn.com/dms/image/v2/C4E0DAQHtM4L47HiTTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678834688263?e=2147483647&amp;v=beta&amp;t=7CBLHsw2w23u97x8-tYOP5jk2qRXptwQ3xTm2n8Y7xU)

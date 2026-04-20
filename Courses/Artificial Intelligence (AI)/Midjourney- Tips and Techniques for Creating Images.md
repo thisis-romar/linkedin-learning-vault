@@ -27,7 +27,7 @@ tags:
   - skill/midjourney
   - skill/conditional-image-generation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Midjourney: Tips and Techniques for Creating Images](https://media.licdn.com/dms/image/v2/D560DAQGLGDnK9LBtPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683140321492?e=2147483647&amp;v=beta&amp;t=_OU6yL_W9BxOpYCRYWiyJvwoOpoWDM0fni4k_woIYlM)

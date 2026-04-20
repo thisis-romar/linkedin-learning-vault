@@ -26,7 +26,7 @@ tags:
   - topic/network-and-system-administration
   - skill/linux
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Linux (2021)](https://media.licdn.com/dms/image/v2/D4E0DAQFTYWjeOz37Ew/learning-public-crop_675_1200/B4EZmgXaUMHIAc-/0/1759332116036?e=2147483647&amp;v=beta&amp;t=9Wz3ip9LSed9oTATrdwyn7nffUSm1JuMhZtCGZOzcXU)

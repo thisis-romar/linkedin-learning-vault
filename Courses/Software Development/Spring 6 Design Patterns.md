@@ -23,7 +23,7 @@ tags:
   - skill/software-design-patterns
   - skill/spring-framework
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Spring 6 Design Patterns](https://media.licdn.com/dms/image/v2/D560DAQFQGdUkZfO8Sw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721237079626?e=2147483647&amp;v=beta&amp;t=5bFB8l8VgY96VOcp-GZE8Vfc02dvwRodZtp70LUU00k)

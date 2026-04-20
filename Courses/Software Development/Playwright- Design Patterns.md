@@ -26,7 +26,7 @@ tags:
   - skill/design-patterns
   - skill/test-automation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Playwright: Design Patterns](https://media.licdn.com/dms/image/v2/D4E0DAQE68ssz1R0Ufw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731097260562?e=2147483647&amp;v=beta&amp;t=RUlzWaTzqCfWpEjv_Lu3mKjo4TCxEZW_kf4lysTgpxI)

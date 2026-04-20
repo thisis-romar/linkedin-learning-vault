@@ -23,7 +23,7 @@ tags:
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Threat Modeling: Tampering in Depth](https://media.licdn.com/dms/image/v2/C4E0DAQFicNJUyQ2pLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567794847034?e=2147483647&amp;v=beta&amp;t=Dkm2UbAUAM9b2uN28LHo79pSuKVjyYcilK-FGRQ3bI4)

@@ -17,7 +17,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![IoT Foundations: Standards and Ecosystems](https://media.licdn.com/dms/image/v2/C560DAQGBuSI2uP5gNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638813310048?e=2147483647&amp;v=beta&amp;t=_nUoTFC5xAm7jpKIdKF85FWEoMwi0mPkLIxjJ8q1pbM)

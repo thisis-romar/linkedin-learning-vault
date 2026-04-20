@@ -27,7 +27,7 @@ tags:
   - skill/codespaces
   - skill/github
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning GitHub Codespaces for Enterprise](https://media.licdn.com/dms/image/v2/D4D0DAQGuwF3dwQt0KA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244953406?e=2147483647&amp;v=beta&amp;t=2IogZ5daNFcue-YI3-KQyCkGupoBIrhtKSl3BxB00ic)

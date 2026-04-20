@@ -13,7 +13,7 @@ tags:
   - topic/cloud-computing
   - topic/security
   - topic/network-and-system-administration
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Daniel Lachance

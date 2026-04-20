@@ -2,18 +2,48 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-collection"
+url: https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-collection
 course_count: 6
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Strategic Data Collection, Modeling, and Quality Management for AI Systems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Ingestion with Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Cleaning and Manipulating with Python in Excel]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PySpark Essential Training- Introduction to Building Data Pipelines]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Ethical Data Collection for AI Implementation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Introduction to Fundamental Skills for Data Work: Data Collection

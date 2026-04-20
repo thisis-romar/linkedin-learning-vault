@@ -27,7 +27,7 @@ tags:
   - skill/software-design-patterns
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Guide to Java Design Patterns: Creational, Behavioral, and Structural](https://media.licdn.com/dms/image/v2/D4D0DAQEyFMOVuMzMew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711582600788?e=2147483647&amp;v=beta&amp;t=YBz0MV8GpITY1ZTexxO46TKWdUq2WVinqDqnejxcwz8)

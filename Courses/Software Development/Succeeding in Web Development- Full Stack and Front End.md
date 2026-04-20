@@ -29,7 +29,7 @@ tags:
   - skill/front-end-development
   - skill/full-stack-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Succeeding in Web Development: Full Stack and Front End](https://media.licdn.com/dms/image/v2/C4E0DAQGSgJonDDHLXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568221370458?e=2147483647&amp;v=beta&amp;t=Gc9Ftpd56aUq25dJ5Nt4cqzWboQiNRtosDWA741-hUk)

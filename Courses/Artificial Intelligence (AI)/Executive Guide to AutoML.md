@@ -26,7 +26,7 @@ tags:
   - skill/automated-machine-learning-automl
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Executive Guide to AutoML](https://media.licdn.com/dms/image/v2/D560DAQGu0bi4H4k6Kw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680198412162?e=2147483647&amp;v=beta&amp;t=5nG7gPDk8PRjIhYNiwxqszVJFF1BTEw3NjPSjAuDJuo)

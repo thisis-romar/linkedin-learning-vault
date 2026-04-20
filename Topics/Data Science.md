@@ -6,7 +6,7 @@ linkedin_topic: Data Science
 tags:
   - moc
   - topic/data-science
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Data Science

@@ -25,7 +25,7 @@ tags:
   - skill/front-end-development
   - skill/programming-foundations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Web Programming Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQHsspzzrmnv6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117745019?e=2147483647&amp;v=beta&amp;t=-GW3_82shsL5imuhcywAXOPcfylFrzpxqc7A57zDR-g)

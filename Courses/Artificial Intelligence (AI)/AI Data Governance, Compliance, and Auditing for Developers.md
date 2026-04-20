@@ -30,7 +30,7 @@ tags:
   - skill/data-governance
   - skill/ai-governance
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Data Governance, Compliance, and Auditing for Developers](https://media.licdn.com/dms/image/v2/D4E0DAQEWj65SFSLFxg/learning-public-crop_675_1200/B4EZZpsyldHcAc-/0/1745530071787?e=2147483647&amp;v=beta&amp;t=we_NA_AfB0WMb_fZQa3aBYD1i0mkaBFKNxMkGF8UOFc)

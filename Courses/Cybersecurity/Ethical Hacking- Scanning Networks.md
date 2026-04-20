@@ -26,7 +26,7 @@ tags:
   - skill/network-monitoring-tools
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: Scanning Networks](https://media.licdn.com/dms/image/v2/D4D0DAQGFV-f3EJ14fg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702507055898?e=2147483647&amp;v=beta&amp;t=YaHg5sNP2dyA9PLuM1A0dzLqPQjYaa0LxcUUdMsndfs)

@@ -28,7 +28,7 @@ tags:
   - skill/react-js
   - skill/secure-authentication
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![React: Securing Applications](https://media.licdn.com/dms/image/v2/C4E0DAQE_xNcW-E00pA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1586288300783?e=2147483647&amp;v=beta&amp;t=jkRP2lOvAvGruEd5x36bkL2ivgyRXQ2m-SNAfHqFdmc)

@@ -23,7 +23,7 @@ tags:
   - topic/cloud-computing
   - skill/onenote
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![OneNote for Windows 10 Essential Training](https://media.licdn.com/dms/image/v2/C560DAQEsN6ckB0ymNw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643743825941?e=2147483647&amp;v=beta&amp;t=LiL6Z1wsAuv8tVnDe0LmJFXrmxsYWC9RoS52TKh5bW0)

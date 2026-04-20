@@ -19,7 +19,7 @@ tags:
   - topic/software-development
   - topic/security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building and Managing a Cybersecurity Program](https://media.licdn.com/dms/image/v2/D560DAQHdmvviNOCYGw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682622907537?e=2147483647&amp;v=beta&amp;t=-MtywTuE5Uw9R7AIxoyOnNaU-yY-SppljT1X0suc4UA)

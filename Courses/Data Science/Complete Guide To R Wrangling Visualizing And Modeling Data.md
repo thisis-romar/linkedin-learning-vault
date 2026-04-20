@@ -30,7 +30,7 @@ tags:
   - skill/data-modeling
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Guide To R Wrangling Visualizing And Modeling Data](https://media.licdn.com/dms/image/v2/D560DAQF4IlE2N3NLNw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710373799323?e=2147483647&amp;v=beta&amp;t=PAyVn9yMRMLTGBzgMFRtjohB8JvsUJYp2WnwrlSoyTE)

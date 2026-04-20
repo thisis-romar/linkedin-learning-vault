@@ -23,7 +23,7 @@ tags:
   - skill/windows-system-administration
   - skill/windows-10
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Windows 10 Configure And Support Core Services](https://media.licdn.com/dms/image/v2/C560DAQFWeE9toDLZ-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638901954967?e=2147483647&amp;v=beta&amp;t=5DDsMvf2LBMeBnjcyg4TgzgS4LXAOFl0LQGjA0orAO8)

@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Artificial Intelligence Foundations: Neural Networks](https://media.licdn.com/dms/image/v2/D560DAQEoegTVKM0iTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694723397057?e=2147483647&amp;v=beta&amp;t=Nn5XMdUTS1tcv2sWCXtk_RPTRd0wUMBaXEe8Bs4yl88)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-wordpress"
+url: https://www.linkedin.com/learning/paths/getting-started-with-wordpress
 course_count: 10
 linkedin_topics:
   - Web Development
@@ -10,8 +10,54 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[WordPress Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Git and GitHub]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS Essential Training (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Making Sense of the CSS Box Model]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Creating Block Patterns in WordPress]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[WordPress- Accessibility]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[WordPress- Staging a Site]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Troubleshoot and Repair Your WordPress Website]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with WordPress

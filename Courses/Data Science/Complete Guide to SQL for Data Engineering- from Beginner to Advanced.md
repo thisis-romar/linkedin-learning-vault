@@ -30,7 +30,7 @@ tags:
   - skill/data-engineering
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Guide to SQL for Data Engineering: from Beginner to Advanced](https://media.licdn.com/dms/image/v2/D560DAQFg6SQDsanfjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008940216?e=2147483647&amp;v=beta&amp;t=5uhqANuKdTmalL1zRQxfHPK2hgoYHyCoPU1vhpS2XMc)

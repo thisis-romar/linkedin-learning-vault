@@ -18,7 +18,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Windows 10: Supporting Users Essential Training](https://media.licdn.com/dms/image/v2/C560DAQGy3xRSp_ts1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632503520899?e=2147483647&amp;v=beta&amp;t=004SPpdS_RNFR8qKGkNG2B3fCRwXNVn7qhTYWExpwoo)

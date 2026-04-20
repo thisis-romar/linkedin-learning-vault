@@ -26,7 +26,7 @@ tags:
   - skill/digital-accessibility
   - skill/html
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![HTML Forms: Accessibility](https://media.licdn.com/dms/image/v2/D560DAQHXPotL4VZwdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711408278458?e=2147483647&amp;v=beta&amp;t=0L_tfokgcJHp30RCNjq2_yZdSL7Rsz79os0RFsz2U_Y)

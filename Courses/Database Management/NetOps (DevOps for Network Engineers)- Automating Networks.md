@@ -27,7 +27,7 @@ tags:
   - skill/devops
   - skill/netops
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![NetOps (DevOps for Network Engineers): Automating Networks](https://media.licdn.com/dms/image/v2/C560DAQGfP7G_UdypoQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650305730733?e=2147483647&amp;v=beta&amp;t=8rJjSFjV5pkTMzkNyoc4Byv6dLAxSsrVJZR8zfzwe4k)

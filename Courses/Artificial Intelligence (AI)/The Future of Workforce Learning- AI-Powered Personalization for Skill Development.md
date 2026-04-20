@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-hr
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The Future of Workforce Learning: AI-Powered Personalization for Skill Development](https://media.licdn.com/dms/image/v2/D4E0DAQFdVSYQBhnh5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736209337592?e=2147483647&amp;v=beta&amp;t=IRP_nAwloGtScoAOOiL9tjKoFi8MfMaUq3Eqg3wGYkw)

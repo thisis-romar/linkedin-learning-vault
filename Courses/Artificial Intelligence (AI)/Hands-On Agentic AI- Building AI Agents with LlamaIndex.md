@@ -17,7 +17,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On Agentic AI: Building AI Agents with LlamaIndex](https://media.licdn.com/dms/image/v2/D4D0DAQGxSwR9TaIogg/learning-public-crop_675_1200/B4DZSQi2mXHkAY-/0/1737591844026?e=2147483647&amp;v=beta&amp;t=Rw0qlNICyBQFSAihmmUvCIW9pxOnht5S31u3CUkWEeI)

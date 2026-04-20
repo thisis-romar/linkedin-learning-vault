@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/network-administration-build-core-skills-for-network-management-and-security"
+url: https://www.linkedin.com/learning/paths/network-administration-build-core-skills-for-network-management-and-security
 course_count: 6
 linkedin_topics:
   - Cybersecurity
@@ -12,8 +12,38 @@ tags:
   - learning-path
   - topic/security
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Networking Foundations Networking Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Networking Foundations- IP Addressing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Networking Foundations- Local Area Networks (LANs)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Networking Foundations- Wide Area Networks (WANs)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Network Troubleshooting- Practical Network Diagnostics and Solutions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Security Foundations- Network Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Network Administration: Build Core Skills for Network Management and Security

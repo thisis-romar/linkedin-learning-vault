@@ -25,7 +25,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Principles of Responsible AI: Identifying, Understanding, and Mitigating Risks by All Tech Is Human](https://media.licdn.com/dms/image/v2/D4D0DAQGOvmZCxzgEDw/learning-public-crop_675_1200/B4DZsyfMblJcAY-/0/1766078597734?e=2147483647&amp;v=beta&amp;t=Cprg1SFhO6nLKZTlwXuTKIpWO68QxgsdS40awE36bRw)

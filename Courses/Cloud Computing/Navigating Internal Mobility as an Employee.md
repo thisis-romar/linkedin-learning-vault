@@ -26,7 +26,7 @@ tags:
   - skill/internal-mobility
   - skill/career-path-planning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Navigating Internal Mobility as an Employee](https://media.licdn.com/dms/image/v2/C560DAQGus_xltPdhWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646073323111?e=2147483647&amp;v=beta&amp;t=PADsg7ekU5HwakcxeaVEsP_gjWC18htKz-7ariu2knE)

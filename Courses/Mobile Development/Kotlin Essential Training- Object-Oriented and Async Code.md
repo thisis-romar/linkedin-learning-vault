@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/kotlin
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Kotlin Essential Training: Object-Oriented and Async Code](https://media.licdn.com/dms/image/v2/C560DAQGxZp_l7DwwKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655231468711?e=2147483647&amp;v=beta&amp;t=ISf0hBB9rBPf-mAubgtt0tB5KxNqeMowKUlL7dCu9zU)

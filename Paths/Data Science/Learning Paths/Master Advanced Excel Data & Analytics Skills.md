@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-advanced-excel-data-analytics-skills"
+url: https://www.linkedin.com/learning/paths/master-advanced-excel-data-analytics-skills
 course_count: 7
 linkedin_topics:
   - Data Science
@@ -10,8 +10,42 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Excel Vba Managing Files And Data]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel VBA- Process Modeling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Working Together with Power Query and Power Pivot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using Python with Excel]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[From Excel to SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Logistic Regression in Excel, R, and Power BI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Economic Analysis and Data Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master Advanced Excel Data & Analytics Skills

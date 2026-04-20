@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/benefits-realisation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Benefits Realization Foundations](https://media.licdn.com/dms/image/v2/C560DAQEftwhpC1Dlaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627665194602?e=2147483647&amp;v=beta&amp;t=XWRiVdzQYGU5HRbUKxgwhI58zVgVCxhx2eMyS-u8srE)

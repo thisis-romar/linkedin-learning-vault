@@ -25,7 +25,7 @@ tags:
   - skill/agile-methodologies
   - skill/requirements-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Agile Requirements Foundations](https://media.licdn.com/dms/image/v2/C4D0DAQFsjlQgvpSPvQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568245272495?e=2147483647&amp;v=beta&amp;t=oPrGyodqjd6FCCRnGRavAxW73v8-meJAE30GOSmDzFY)

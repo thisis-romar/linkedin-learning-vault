@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Top Five Things To Know In Advanced Sql](https://media.licdn.com/dms/image/v2/D560DAQG_j9tunegTdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692730198805?e=2147483647&amp;v=beta&amp;t=-XcdVOOA36tbBgp5o9zEYLiYLY70z3iDw1gEqqV5No4)

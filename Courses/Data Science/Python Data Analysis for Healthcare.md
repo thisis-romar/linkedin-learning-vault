@@ -32,7 +32,7 @@ tags:
   - skill/data-analysis
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python Data Analysis for Healthcare](https://media.licdn.com/dms/image/v2/D560DAQE8G95e2ekjGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711656672748?e=2147483647&amp;v=beta&amp;t=JbQA0i_nEusIcIe26tcNQHhP5l0ivA___SCMW1M2vSU)

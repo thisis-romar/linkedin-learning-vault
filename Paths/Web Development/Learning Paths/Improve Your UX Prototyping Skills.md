@@ -2,16 +2,46 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/improve-your-ux-prototyping-skills"
+url: https://www.linkedin.com/learning/paths/improve-your-ux-prototyping-skills
 course_count: 6
 linkedin_topics:
   - Web Development
-louvain_cluster: 11
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[UX Deep Dive- Usability Testing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Adobe XD Essential Training- Prototype]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Lo-Fi to Hi-Fi- Prototyping in Figma]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ProtoPie for UX Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Sketching For Ux Designers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Principle for UX Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Improve Your UX Prototyping Skills

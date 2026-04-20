@@ -6,7 +6,7 @@ course_count: 1
 tags:
   - skill
   - skill/climate-change
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Climate Change

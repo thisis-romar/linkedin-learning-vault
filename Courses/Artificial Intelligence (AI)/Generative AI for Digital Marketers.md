@@ -19,7 +19,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI for Digital Marketers](https://media.licdn.com/dms/image/v2/D560DAQFV-kzpUBiKUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685564273312?e=2147483647&amp;v=beta&amp;t=RW4qB0XoCwL-kR7GG1wBFADHTesjxJW_XyQS2qPNb3M)

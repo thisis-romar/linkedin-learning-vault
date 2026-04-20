@@ -25,7 +25,7 @@ tags:
   - skill/interview-preparation
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Nail Your C++ Interview](https://media.licdn.com/dms/image/v2/C4E0DAQFPrN235tALQw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117662822?e=2147483647&amp;v=beta&amp;t=0OgWnIfhwB1aVSeOEVKKV8quRwmKWAYzSzNI8Aa4lyc)

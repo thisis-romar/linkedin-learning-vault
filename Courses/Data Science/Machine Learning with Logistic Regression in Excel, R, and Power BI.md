@@ -33,7 +33,7 @@ tags:
   - skill/microsoft-excel
   - skill/logistic-regression
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning with Logistic Regression in Excel, R, and Power BI](https://media.licdn.com/dms/image/v2/C560DAQF32uee6WTXTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635973062525?e=2147483647&amp;v=beta&amp;t=OfQbNnodDZ0te3kzmywU4sQDH-OGQ3UP1HA2_tdenJ4)

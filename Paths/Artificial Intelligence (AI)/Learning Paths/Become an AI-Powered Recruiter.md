@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-an-ai-powered-recruiter"
+url: https://www.linkedin.com/learning/paths/become-an-ai-powered-recruiter
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,34 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[What Is Generative AI-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI in HR]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI, Recruiting, and Talent Acquisition]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Navigating AI Through an Intersectional DEI Lens]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[How to Boost Your Productivity with AI Tools (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become an AI-Powered Recruiter

@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/project-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Project Management Simplified](https://media.licdn.com/dms/image/v2/C4E0DAQF9Ffx0ZFkVew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584382503938?e=2147483647&amp;v=beta&amp;t=JIcWEaFpo4fpfvPHNJuIp-KEu6YgNpVF9PX1YH-1DqA)

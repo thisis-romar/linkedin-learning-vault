@@ -17,7 +17,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Digital Accessibility for the Modern Workplace](https://media.licdn.com/dms/image/v2/C4E0DAQEW682MuL-nLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618868923381?e=2147483647&amp;v=beta&amp;t=pHUF3UC93ktZE8sSQXqvPk9nZHZHfFcwEWY--YoBk8s)

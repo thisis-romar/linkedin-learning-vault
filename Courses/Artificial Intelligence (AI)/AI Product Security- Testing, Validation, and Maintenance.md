@@ -29,7 +29,7 @@ tags:
   - skill/product-security
   - skill/security-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Product Security: Testing, Validation, and Maintenance](https://media.licdn.com/dms/image/v2/D4E0DAQGu4bPC5fagBQ/learning-public-crop_675_1200/B4EZUFbQZaGgAY-/0/1739552786889?e=2147483647&amp;v=beta&amp;t=raI-sRcW-tcuij59L1dLZ4_BOO9GxEuru25rWkW44r0)

@@ -21,7 +21,7 @@ tags:
   - topic/software-development
   - topic/devops
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Agile Software Development: Creating an Agile Culture](https://media.licdn.com/dms/image/v2/C4E0DAQFTIKA7Lo-4mQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579286626350?e=2147483647&amp;v=beta&amp;t=xLp0heYL0pFE6fX1ESzeaFCoqSY1oDMnAn9l5_Ma2xU)

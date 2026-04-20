@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: Hacking Web Servers and Web Applications](https://media.licdn.com/dms/image/v2/C560DAQFv6qt-MMoFmw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568052588573?e=2147483647&amp;v=beta&amp;t=WtM-JLV-4U0194Rmv_jIlyryoaMxM7y4l-KXCmmF9bI)

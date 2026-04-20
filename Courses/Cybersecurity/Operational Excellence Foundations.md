@@ -25,7 +25,7 @@ tags:
   - skill/six-sigma
   - skill/operational-excellence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Operational Excellence Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQHXabuhepfj2g/learning-public-crop_675_1200/B4EZn0BMNXJAAY-/0/1760735577621?e=2147483647&amp;v=beta&amp;t=hbEPUMu-81M14np33uHbEvw73PECoOmoFXt8CAQgBXU)

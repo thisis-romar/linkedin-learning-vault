@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-a-data-analytics-specialist"
+url: https://www.linkedin.com/learning/paths/become-a-data-analytics-specialist
 course_count: 10
 linkedin_topics:
   - Data Science
@@ -10,8 +10,54 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Preparing To Get A Job In Data Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Analytics for Students (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Data Analytics- 1 Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Analytics- Dashboards vs. Data Stories]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 1- The Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Statistics Foundations 2- Probability]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Economic Analysis and Data Analytics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel and ChatGPT- Data Analysis Power Tips]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Certified Analytics Professional (CAP) Cert Prep]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become a Data Analytics Specialist

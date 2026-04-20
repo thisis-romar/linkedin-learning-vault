@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: Evading IDS, Firewalls, and Honeypots](https://media.licdn.com/dms/image/v2/C4E0DAQF3nBFOXnu5Fg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567198584970?e=2147483647&amp;v=beta&amp;t=7zLSOiZTTJ-a-zsDyi8aHdQ1z3e3J3a1HsKpnqp2-9E)

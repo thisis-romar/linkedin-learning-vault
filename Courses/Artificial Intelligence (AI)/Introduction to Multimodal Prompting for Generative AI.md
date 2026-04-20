@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Multimodal Prompting for Generative AI](https://media.licdn.com/dms/image/v2/D560DAQEL96ao5DSQNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008136967?e=2147483647&amp;v=beta&amp;t=LuWWW9Db3Jvjl3B1Kb3LWebXJST3zpPGXxwlHL_j1vY)

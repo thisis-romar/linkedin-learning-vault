@@ -2,16 +2,42 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/c-sharp-foundations-from-basics-to-building-blocks"
+url: https://www.linkedin.com/learning/paths/c-sharp-foundations-from-basics-to-building-blocks
 course_count: 5
 linkedin_topics:
   - Software Development
-louvain_cluster: 12
+louvain_cluster: 13
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[C Sharp Essential Training 1 Types And Control Flow]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Essential Training 2- Generics, Collections, and LINQ]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Debugging in C-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[C- Refactoring Tips and Tricks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Mastering AI Tools for Efficient C- Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # C# Foundations: From Basics to Building Blocks

@@ -24,7 +24,7 @@ tags:
   - skill/cloud-administration
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Aws Essential Training For Administrators](https://media.licdn.com/dms/image/v2/D560DAQFXU6taFkdJuw/learning-public-crop_675_1200/B56ZrbafvrMIAY-/0/1764617747985?e=2147483647&amp;v=beta&amp;t=QzH5fv2XogLD0YfjuMHX8JcfUDVd1S-zYzvwjd5mU6M)

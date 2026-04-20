@@ -23,7 +23,7 @@ tags:
   - topic/security
   - skill/organizational-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment](https://media.licdn.com/dms/image/v2/C4E0DAQGtU20-giimEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628887883903?e=2147483647&amp;v=beta&amp;t=10R6XmGQTPOF36Q8RfoAwoMbLnSsV7_mbKgxXQnVka4)

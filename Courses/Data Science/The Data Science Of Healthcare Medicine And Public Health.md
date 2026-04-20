@@ -28,7 +28,7 @@ tags:
   - skill/data-science
   - skill/healthcare-industry
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The Data Science Of Healthcare Medicine And Public Health](https://media.licdn.com/dms/image/v2/C4E0DAQEzdsTEIEXY_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661360998598?e=2147483647&amp;v=beta&amp;t=4dug4vX1RHSRed4m31xBREY7HMzeXT-_KwCgxXGWiKc)

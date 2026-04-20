@@ -25,7 +25,7 @@ tags:
   - skill/business-analytics
   - skill/financial-forecasting
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Financial Forecasting with Analytics Essential Training](https://media.licdn.com/dms/image/v2/C560DAQFQClLAfPXEDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632162638847?e=2147483647&amp;v=beta&amp;t=GQEWT0M5hW0ZRYFrmnGzkXFoWy1ktmC-9cZNyN1mSto)

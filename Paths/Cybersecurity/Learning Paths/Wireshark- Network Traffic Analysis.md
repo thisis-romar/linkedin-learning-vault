@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/wireshark-network-traffic-analysis"
+url: https://www.linkedin.com/learning/paths/wireshark-network-traffic-analysis
 course_count: 5
 linkedin_topics:
   - Cybersecurity
@@ -12,8 +12,34 @@ tags:
   - learning-path
   - topic/security
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Wireshark Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Wireshark- Functionality]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Wireshark- Network Troubleshooting]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Wireshark- Malware and Forensics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Analyzing VoIP Traffic with Wireshark]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Wireshark: Network Traffic Analysis

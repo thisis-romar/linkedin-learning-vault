@@ -26,7 +26,7 @@ tags:
   - skill/design-thinking
   - skill/organizational-change-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Design Thinking: Lead Change in Your Organization](https://media.licdn.com/dms/image/v2/D4D0DAQH6qMgEZmMaBw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734556201647?e=2147483647&amp;v=beta&amp;t=u7UhVCyswBrZezY6_Yf1YQolO38XuATjf6mK15EOAXM)

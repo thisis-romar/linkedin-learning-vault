@@ -26,7 +26,7 @@ tags:
   - skill/cloud-administration
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure Management Basics: Portal, PowerShell, Bicep, and CLI](https://media.licdn.com/dms/image/v2/D560DAQHYI6-4PfLxGQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715047190113?e=2147483647&amp;v=beta&amp;t=rMlsp5dUFPuByh84E9GwhtkDU7TRpo4WowP0UJomMcY)

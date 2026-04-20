@@ -6,7 +6,7 @@ course_count: 4
 tags:
   - skill
   - skill/job-search-strategies
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Job Search Strategies

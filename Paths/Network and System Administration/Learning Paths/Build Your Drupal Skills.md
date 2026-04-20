@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/build-your-drupal-skills"
+url: https://www.linkedin.com/learning/paths/build-your-drupal-skills
 course_count: 6
 linkedin_topics:
   - Network and System Administration
@@ -12,8 +12,38 @@ tags:
   - learning-path
   - topic/network-and-system-administration
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Drupal 9 Essential Training 1 Introduction And Administration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Drupal 9 Essential Training- 2 Content and Fields]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Drupal 9 Essential Training- 3 Taxonomy, Media, and Modules]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Drupal 9 Essential Training- 4 Users and Themes]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Drupal 9 Essential Training- 5 Layout]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Drupal 9 Essential Training- 6 Finishing the Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build Your Drupal Skills

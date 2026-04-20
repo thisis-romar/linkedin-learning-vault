@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/hugging-face-products
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![MLOps Tools: MLflow and Hugging Face](https://media.licdn.com/dms/image/v2/D4E0DAQETfg1FS6Ddug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727129495332?e=2147483647&amp;v=beta&amp;t=N0mHXgJiGkQgJF_WSRhi9Lxw7EpFW-1onQtKPrdk9pQ)

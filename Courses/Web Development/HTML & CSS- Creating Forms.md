@@ -25,7 +25,7 @@ tags:
   - skill/html
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![HTML & CSS: Creating Forms](https://media.licdn.com/dms/image/v2/C4E0DAQG3EL40Sa-iTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669394263?e=2147483647&amp;v=beta&amp;t=-ZhOGxWDv39P0oJ36W4pw76Hq3Z7IxNaeBJEm0g0Yr0)

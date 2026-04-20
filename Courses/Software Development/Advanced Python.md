@@ -22,7 +22,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Python](https://media.licdn.com/dms/image/v2/D4D0DAQGl3s1fBLp7kg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732065162293?e=2147483647&amp;v=beta&amp;t=KbQYiJVRNDEiEEN-pdbOl9sdQXiL-VKGcEKbP35w7Wg)

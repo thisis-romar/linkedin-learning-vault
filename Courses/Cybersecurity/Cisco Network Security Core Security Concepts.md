@@ -24,7 +24,7 @@ tags:
   - skill/network-security
   - skill/cisco-networking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cisco Network Security Core Security Concepts](https://media.licdn.com/dms/image/v2/C4E0DAQHwk3F66wSmOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1606333471779?e=2147483647&amp;v=beta&amp;t=Pk-jiBW5VG3p_Oxg_gVlyfsq4i2fpiuHomBg60kuMpw)

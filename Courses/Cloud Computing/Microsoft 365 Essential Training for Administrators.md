@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/microsoft-365
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft 365 Essential Training for Administrators](https://media.licdn.com/dms/image/v2/D560DAQF7rMHJZ24byQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690306475287?e=2147483647&amp;v=beta&amp;t=86yb5vm-V6m_CErqanhwxGNFzCkJz6CLwuNuRgZzVZc)

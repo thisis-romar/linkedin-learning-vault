@@ -17,7 +17,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Agile Development in the New World of Work](https://media.licdn.com/dms/image/v2/C560DAQESAUiWwlw0vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623693022244?e=2147483647&amp;v=beta&amp;t=VMx34Qgs6r52Q1HzpVrXY_H9B_pEsV45tCuDLUUOxMQ)

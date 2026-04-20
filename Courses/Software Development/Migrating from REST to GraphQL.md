@@ -28,7 +28,7 @@ tags:
   - skill/graphql
   - skill/representational-state-transfer-rest
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Migrating from REST to GraphQL](https://media.licdn.com/dms/image/v2/D560DAQGPRFMsUkMSOQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709073643074?e=2147483647&amp;v=beta&amp;t=EzvLMf_VfMzWbXeB9ERVcN-_yl1a9EFc5QDzsZ4DRdM)

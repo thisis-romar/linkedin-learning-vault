@@ -21,7 +21,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Everyday Ai Concepts](https://media.licdn.com/dms/image/v2/D560DAQHOrK1DQuBmOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729721861447?e=2147483647&amp;v=beta&amp;t=FpBaOe-Rr8H0Y3vPliPCMy1vEp16ogtbje6gqsd3IV0)

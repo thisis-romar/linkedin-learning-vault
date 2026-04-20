@@ -25,7 +25,7 @@ tags:
   - skill/corporate-finance
   - skill/strategic-financial-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Strategic Financial Management in Corporations](https://media.licdn.com/dms/image/v2/D4E0DAQETZHjwWLwH1g/learning-public-crop_675_1200/B4EZahU80XHcAY-/0/1746463346645?e=2147483647&amp;v=beta&amp;t=vhlmmPlA1QidgBTLDo4zfBk-HWe5DAzvvoaETsOBNnw)

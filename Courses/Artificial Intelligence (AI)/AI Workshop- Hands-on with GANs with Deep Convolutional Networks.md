@@ -28,7 +28,7 @@ tags:
   - skill/convolutional-neural-networks-cnn
   - skill/generative-adversarial-networks-gans
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Workshop: Hands-on with GANs with Deep Convolutional Networks](https://media.licdn.com/dms/image/v2/D4E0DAQFOR4mPVjCsAQ/learning-public-crop_675_1200/B4EZjoh_NlGYAY-/0/1756247881353?e=2147483647&amp;v=beta&amp;t=5ge7kp0gCjfyApMnE0V13EBKbp2wJMmMK8gSKEJtjS0)

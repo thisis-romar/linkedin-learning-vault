@@ -28,7 +28,7 @@ tags:
   - skill/large-language-models-llm
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure AI for Developers: LLMs and SLMs](https://media.licdn.com/dms/image/v2/D4D0DAQE1aU5utCa-eA/learning-public-crop_675_1200/B4DZYbggMsG8Ac-/0/1744218227808?e=2147483647&amp;v=beta&amp;t=yOdl__3R7xMW9UftObhUtMHgIOLBnJjMUfCSpsaz1J8)

@@ -2,16 +2,42 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-devops"
+url: https://www.linkedin.com/learning/paths/getting-started-with-devops
 course_count: 5
 linkedin_topics:
   - DevOps
-louvain_cluster: 6
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/devops
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Devops Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[DevOps Foundations- Continuous Delivery-Continuous Integration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[DevOps Foundations- Infrastructure as Code]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[DevOps Foundations- Monitoring and Observability]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[DevOps Foundations- Your First Project]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with DevOps

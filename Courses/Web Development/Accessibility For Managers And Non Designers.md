@@ -14,7 +14,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Accessibility For Managers And Non Designers](https://media.licdn.com/dms/image/v2/D560DAQH7iq_SqUMDxg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682106959044?e=2147483647&amp;v=beta&amp;t=pTa6KdFvLAGaYsg-ENpMmkT8p35Odajf9r2PLuYce5U)

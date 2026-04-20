@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/prepare-for-unity-certification"
+url: https://www.linkedin.com/learning/paths/prepare-for-unity-certification
 course_count: 7
 linkedin_topics:
   - Software Development
@@ -10,8 +10,42 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Cert Prep Unity Certified Associate Game Developer Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cert Prep- Unity Certified Associate Game Developer UI and 2D Games]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cert Prep- Unity Certified Associate Game Developer Scripting with C-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cert Prep- Unity Certified Associate Game Developer Materials and Lighting]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cert Prep- Unity Certified Associate Game Developer Audio and Effects]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cert Prep- Unity Certified Associate Game Developer Animation and Cinematics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Prepare for Unity Certification

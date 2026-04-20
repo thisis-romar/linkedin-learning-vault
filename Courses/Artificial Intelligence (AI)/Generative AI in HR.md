@@ -31,7 +31,7 @@ tags:
   - skill/generative-ai-for-hr
   - skill/ai-for-hr
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI in HR](https://media.licdn.com/dms/image/v2/D560DAQF1xGXvb6Sp1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694203739228?e=2147483647&amp;v=beta&amp;t=RbCfjWanqdcdVJ5pNz2hcIZMFXalOcC7lfdyNiukN1c)

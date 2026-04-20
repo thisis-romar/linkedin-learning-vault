@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/elasticsearch
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Elasticsearch in Depth](https://media.licdn.com/dms/image/v2/C4D0DAQFgh-k_HSEA-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679596183511?e=2147483647&amp;v=beta&amp;t=8ljOncdp1sujzOrHlcVlT99xjG1BBJP6BQrihIoJk-A)

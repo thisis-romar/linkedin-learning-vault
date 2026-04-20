@@ -26,7 +26,7 @@ tags:
   - skill/blockchain-architecture
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Blockchain for Developers: Hyperledger Fabric on Azure](https://media.licdn.com/dms/image/v2/C560DAQEMPgq7Nw9Nww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623348837256?e=2147483647&amp;v=beta&amp;t=NZWkyJhuHXyfvvmGSgC1qLA6LjZH2puaz50H2F8dUr8)

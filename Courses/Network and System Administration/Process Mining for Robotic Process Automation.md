@@ -28,7 +28,7 @@ tags:
   - skill/robotic-process-automation-rpa
   - skill/process-mining
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Process Mining for Robotic Process Automation](https://media.licdn.com/dms/image/v2/C560DAQG_HD0ooAtefQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1653415045934?e=2147483647&amp;v=beta&amp;t=GxnR8XsGoFGqb-CWstQm8OQS5_kxMfDby7PV4KQheBI)

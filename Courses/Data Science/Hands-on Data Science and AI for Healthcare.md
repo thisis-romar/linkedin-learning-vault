@@ -22,7 +22,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-on Data Science and AI for Healthcare](https://media.licdn.com/dms/image/v2/D560DAQENDo0afVgyhw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690922397149?e=2147483647&amp;v=beta&amp;t=PlN19dIVekKVKpzAKQUfBNQMzmPisNvAwifUrerZg08)

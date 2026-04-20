@@ -21,7 +21,7 @@ tags:
   - topic/security
   - skill/international-project-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Project Management: International Projects](https://media.licdn.com/dms/image/v2/C4E0DAQF2tFnHsWBbiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1610746897809?e=2147483647&amp;v=beta&amp;t=Wm9f5vThmJQa6bFbkl9T-w-QUH72Pbiq9YwNurJ-9jY)

@@ -32,7 +32,7 @@ tags:
   - skill/agile-methodologies
   - skill/agile-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Agile Development Practices: Bring Agile to Your Development Pipelines](https://media.licdn.com/dms/image/v2/D4E0DAQFizssGS-Y-GA/learning-public-crop_675_1200/B4EZeEHS8JH0Ao-/0/1750268194814?e=2147483647&amp;v=beta&amp;t=aucgq2awHT_CV6bWWmvDmQJiZHNqEx46PkcIoaqicfk)

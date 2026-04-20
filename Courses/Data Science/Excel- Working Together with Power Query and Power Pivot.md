@@ -27,7 +27,7 @@ tags:
   - skill/microsoft-excel
   - skill/powerpivot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel: Working Together with Power Query and Power Pivot](https://media.licdn.com/dms/image/v2/C560DAQFXhpiOALCbIg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678465355187?e=2147483647&amp;v=beta&amp;t=hNdr8S6uC6UbC_NBRRdFD79AjmI9mENRHcRJzk6qPGw)

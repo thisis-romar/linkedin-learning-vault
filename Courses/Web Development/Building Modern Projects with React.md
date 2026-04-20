@@ -32,7 +32,7 @@ tags:
   - skill/javascript
   - skill/react-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building Modern Projects with React](https://media.licdn.com/dms/image/v2/D560DAQGOgABK85NgGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730769070369?e=2147483647&amp;v=beta&amp;t=i6A0EJqAi0ZU1REHNfJU7kiqyFlg70mYNUGbXpb9stg)

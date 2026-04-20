@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/building-chatgpt-skills-for-business-professionals"
+url: https://www.linkedin.com/learning/paths/building-chatgpt-skills-for-business-professionals
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,38 @@ tags:
   - topic/artificial-intelligence
   - topic/devops
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[What Is Generative AI-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[How to Research and Write Using Generative AI Tools (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Prompt Engineering with ChatGPT]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Nano Tips for Using ChatGPT for Business with Rachel Woods]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel and ChatGPT- Data Analysis Power Tips]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Ethics in the Age of Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building ChatGPT Skills for Business Professionals

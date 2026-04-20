@@ -28,7 +28,7 @@ tags:
   - skill/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Securing Cloud Resources with Microsoft Defender for Cloud](https://media.licdn.com/dms/image/v2/C560DAQF9TniyjeEAFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655937477081?e=2147483647&amp;v=beta&amp;t=l2jHiAZyNqcpKtfi4L2ErjYvQ1Dc3jnLZtDrMv52LZ8)

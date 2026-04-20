@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-ethics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Data Collection for AI Implementation](https://media.licdn.com/dms/image/v2/D4E0DAQE6Tsl_hateww/learning-public-crop_675_1200/B4EZl4cdeBGoAY-/0/1758662352119?e=2147483647&amp;v=beta&amp;t=JcBECtFfdSuCQsLQRDO_Z2ofJeEz7q8tE3yWYbFJmHw)

@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/generative-ai-for-recruiting-professional-certificate-by-linkedin-learning"
+url: https://www.linkedin.com/learning/paths/generative-ai-for-recruiting-professional-certificate-by-linkedin-learning
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,38 @@ louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Generative AI, Recruiting, and Talent Acquisition]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Harnessing AI in the Recruiting Lifecycle]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Harnessing AI for Effective Interviewing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible AI for Managers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Ethical AI for Hiring and Talent Acquisition- A Conversation with Don Phin]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[A First Look at the LinkedIn Hiring Assistant in Recruiter]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Generative AI for Recruiting Professional Certificate by LinkedIn Learning

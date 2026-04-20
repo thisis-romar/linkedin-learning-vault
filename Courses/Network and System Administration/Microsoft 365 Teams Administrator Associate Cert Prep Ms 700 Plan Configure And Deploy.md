@@ -23,7 +23,7 @@ tags:
   - skill/microsoft-teams
   - skill/system-deployment
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft 365 Teams Administrator Associate Cert Prep Ms 700 Plan Configure And Deploy](https://media.licdn.com/dms/image/v2/C560DAQGd0LwOE0tQbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1636570299215?e=2147483647&amp;v=beta&amp;t=QI9RYwyqdsuKcscTsADd_Sq7YMolFN55PMM8iEntHh4)

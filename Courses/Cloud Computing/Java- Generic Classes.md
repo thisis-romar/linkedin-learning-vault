@@ -26,7 +26,7 @@ tags:
   - skill/generic-programming
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Java: Generic Classes](https://media.licdn.com/dms/image/v2/C560DAQF4tQxK1or_Qg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644347162461?e=2147483647&amp;v=beta&amp;t=82M3Js_qxbEHJ5o5nibZaO8oOAvz54kUEsiIibnqYCA)

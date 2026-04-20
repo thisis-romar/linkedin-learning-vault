@@ -23,7 +23,7 @@ tags:
   - topic/security
   - skill/six-sigma
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Six Sigma Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQGF3ms8MeS_4A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568218955972?e=2147483647&amp;v=beta&amp;t=xje3MaLYi0WYqVhHhBKo4vDv1BYQPIBmhvtJFUYVUKU)

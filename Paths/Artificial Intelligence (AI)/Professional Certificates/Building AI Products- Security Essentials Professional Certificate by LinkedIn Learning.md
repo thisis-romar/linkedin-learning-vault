@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/building-ai-products-security-essentials-professional-certificate-by-linkedin-learning"
+url: https://www.linkedin.com/learning/paths/building-ai-products-security-essentials-professional-certificate-by-linkedin-learning
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,34 @@ tags:
   - topic/artificial-intelligence
   - topic/security
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Welcome To The Building Ai Products Security Essentials Professional Certificate]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Product Security- Building Strong Data Governance and Protection]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Product Security- Secure Architecture, Deployment, and Infrastructure]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Product Security- Incident Response]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Product Security- Testing, Validation, and Maintenance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building AI Products: Security Essentials Professional Certificate by LinkedIn Learning

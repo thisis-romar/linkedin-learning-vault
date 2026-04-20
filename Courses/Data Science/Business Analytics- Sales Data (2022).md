@@ -25,7 +25,7 @@ tags:
   - skill/business-analytics
   - skill/sales-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analytics: Sales Data (2022)](https://media.licdn.com/dms/image/v2/D4E0DAQFni2WiXwJ-qg/learning-public-crop_675_1200/B4EZoYGJT1GoAc-/0/1761340856365?e=2147483647&amp;v=beta&amp;t=Ukun8HOs0BT99Hy8770JHn_wMa1RoLuBAEVsebVH0OI)

@@ -27,7 +27,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Tech Career Skills: Communication for Developers](https://media.licdn.com/dms/image/v2/C4E0DAQE-LeeYfMQE-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620663901727?e=2147483647&amp;v=beta&amp;t=b1Oddczm0mwfdTwjVRuMvqNCq-es4ra3jbANDJGG1xE)

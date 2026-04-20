@@ -26,7 +26,7 @@ tags:
   - skill/mysql
   - skill/php
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PHP with MySQL Essential Training: 2 Build a CMS](https://media.licdn.com/dms/image/v2/C4E0DAQE5HNwqPD3Fvg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1631663332774?e=2147483647&amp;v=beta&amp;t=LTFXMYF5ICLFDOhjt5UKWCxDddnka0AchPdNammw7z0)

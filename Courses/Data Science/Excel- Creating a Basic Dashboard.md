@@ -25,7 +25,7 @@ tags:
   - skill/microsoft-excel
   - skill/excel-dashboards
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel: Creating a Basic Dashboard](https://media.licdn.com/dms/image/v2/C560DAQHYbdaw-bwG6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644001786468?e=2147483647&amp;v=beta&amp;t=C7MJtbg02T_--d6ERATRWC9LF0LSk6hjESQ4ZETvf7g)

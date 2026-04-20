@@ -31,7 +31,7 @@ tags:
   - skill/pyspark
   - skill/data-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PySpark Essential Training: Introduction to Building Data Pipelines](https://media.licdn.com/dms/image/v2/D560DAQGsKtO4wEvWjw/learning-public-crop_675_1200/B56ZfrMgDbHQAY-/0/1751997613067?e=2147483647&amp;v=beta&amp;t=5401mig8RZRgtYV9iIGIkZRTFfk3zrwvzDtX7kGTPPo)

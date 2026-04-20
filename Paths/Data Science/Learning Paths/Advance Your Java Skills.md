@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-java-skills"
+url: https://www.linkedin.com/learning/paths/advance-your-java-skills
 course_count: 4
 linkedin_topics:
   - Data Science
@@ -12,8 +12,30 @@ tags:
   - learning-path
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Java Advanced Concepts For High Performance Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Docker for Java Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Science for Java Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Java- Hands-on with Streams, Lambda Expressions, Collections, Generics and More]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Java Skills

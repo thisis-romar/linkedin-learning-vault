@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Awareness: AI](https://media.licdn.com/dms/image/v2/D4D0DAQGhAAbEq9iM4Q/learning-public-crop_675_1200/B4DZZApE5gG8AY-/0/1744841233017?e=2147483647&amp;v=beta&amp;t=ETlTkqGimQmbQXqSUJTi9dbDdCJZ3jYa9P0Sa2QDJNw)

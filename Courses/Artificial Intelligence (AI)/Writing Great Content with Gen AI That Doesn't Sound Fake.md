@@ -25,7 +25,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Writing Great Content with Gen AI That Doesn't Sound Fake](https://media.licdn.com/dms/image/v2/D560DAQG6uJYm1GOg1w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715293081133?e=2147483647&amp;v=beta&amp;t=HjipvYHhQLpJv5A7M4v4TBSC82dIjtSm17apUG0hUrs)

@@ -6,7 +6,7 @@ course_count: 38
 tags:
   - skill
   - skill/ai-for-business
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # AI for Business

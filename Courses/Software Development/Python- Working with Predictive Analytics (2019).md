@@ -25,7 +25,7 @@ tags:
   - skill/python-programming-language
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python: Working with Predictive Analytics (2019)](https://media.licdn.com/dms/image/v2/C4E0DAQG3bGexV7b4AA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134533264?e=2147483647&amp;v=beta&amp;t=vjpaM5PUTUUEblsVs0IGP6vPzfLmqaVGfwB2Uh9D3zw)

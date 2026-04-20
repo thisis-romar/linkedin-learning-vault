@@ -25,7 +25,7 @@ tags:
   - skill/interview-preparation
   - skill/analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Preparing To Get A Job In Data Analytics](https://media.licdn.com/dms/image/v2/C560DAQGejDDrQDyh_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1676415608875?e=2147483647&amp;v=beta&amp;t=g3sLttsFaOau-J836r5vxbtNMbOw6f5vvVafupBny1k)

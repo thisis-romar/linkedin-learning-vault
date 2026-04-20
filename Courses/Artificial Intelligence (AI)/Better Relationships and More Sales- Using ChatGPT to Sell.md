@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Better Relationships and More Sales: Using ChatGPT to Sell](https://media.licdn.com/dms/image/v2/D560DAQGk_mVunucFHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712352202431?e=2147483647&amp;v=beta&amp;t=O2HOiFLjuRzmWemMWNWP0NRwJz9K62Dc_Uv6Cj5w73E)

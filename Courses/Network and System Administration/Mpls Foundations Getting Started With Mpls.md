@@ -25,7 +25,7 @@ tags:
   - skill/computer-networking
   - skill/computer-network-operations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Mpls Foundations Getting Started With Mpls](https://media.licdn.com/dms/image/v2/D4E0DAQHtfKFDJoTUKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726169042809?e=2147483647&amp;v=beta&amp;t=dAbLdFJaidUsElXd3W2eqGoa0ENocD0M6pptSR0cyeY)

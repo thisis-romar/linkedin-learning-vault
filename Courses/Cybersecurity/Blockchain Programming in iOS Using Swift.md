@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - skill/blockchain-architecture
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Blockchain Programming in iOS Using Swift](https://media.licdn.com/dms/image/v2/C4E0DAQFY4lEYIqLylw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669971786?e=2147483647&amp;v=beta&amp;t=kUXzB_ZVnUizTLMa96s2x31NPjsgRbIMoQBI4zjWkgE)

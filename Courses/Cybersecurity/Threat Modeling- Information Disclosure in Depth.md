@@ -23,7 +23,7 @@ tags:
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Threat Modeling: Information Disclosure in Depth](https://media.licdn.com/dms/image/v2/C4E0DAQGQNLVC95Gqtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597164586340?e=2147483647&amp;v=beta&amp;t=4-eWHR3TjttHcQrqrIfY-ChKi1WzklyuXzfJQsrnnao)

@@ -33,7 +33,7 @@ tags:
   - skill/github-copilot
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Creating a Book Search Engine from Scratch Using Java and GitHub Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQHuCLqk6OsB8g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732734297442?e=2147483647&amp;v=beta&amp;t=-rsRdhbTnzvP3JGFTel1lu1q5kNjqW99M-vr6oUIho4)

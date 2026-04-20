@@ -2,16 +2,62 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/linkedin-s-2025-top-mba-programs-learning-path"
+url: https://www.linkedin.com/learning/paths/linkedin-s-2025-top-mba-programs-learning-path
 course_count: 10
 linkedin_topics:
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Executive Leadership]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Interpersonal Communication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The Smart Way to Grow Your Network with LinkedIn''s Andrew McCaskill]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Strategic Thinking]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Strategic Negotiation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Strategic Financial Management in Corporations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Decision-Making and Communication for Leaders with Nancy Duarte]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Nano Tips for Getting Unstuck as an Entrepreneur with Terry Rice]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Literacy for Business Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Integrating Generative AI into Business Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # LinkedIn’s 2025 Top MBA Programs Learning Path

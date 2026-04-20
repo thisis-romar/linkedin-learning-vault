@@ -23,7 +23,7 @@ tags:
   - skill/corporate-finance
   - skill/strategic-financial-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Strategic Financial Intelligence for Business Leaders](https://media.licdn.com/dms/image/v2/D4E0DAQEgEKHEEaJizg/learning-public-crop_675_1200/B4EZle_l9DHIAc-/0/1758235353237?e=2147483647&amp;v=beta&amp;t=3CmSU-tNs52_jY6Bh3Ee_SEfDHTp9tjqSil0LJnZiFw)

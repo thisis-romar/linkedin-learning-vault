@@ -24,7 +24,7 @@ tags:
   - topic/devops
   - skill/jenkins
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Running Jenkins on AWS: Deploying and Managing Jenkins on Cloud Infrastructure](https://media.licdn.com/dms/image/v2/D4E0DAQG0r7-qFsC2SA/learning-public-crop_675_1200/B4EZg4SNTOHoAY-/0/1753290954650?e=2147483647&amp;v=beta&amp;t=5qXC2cWevHWwseDS3vED62AV7AIuUNiKy48BcM5AP1Q)

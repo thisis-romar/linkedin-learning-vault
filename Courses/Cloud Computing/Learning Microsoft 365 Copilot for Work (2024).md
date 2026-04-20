@@ -25,7 +25,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/office-365
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Microsoft 365 Copilot for Work (2024)](https://media.licdn.com/dms/image/v2/D560DAQFQVME2afs_Eg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729809959589?e=2147483647&amp;v=beta&amp;t=5ViXHXOznT6XYw44J7WZVOCEPZG5yYUWxZ4MceiZCuA)

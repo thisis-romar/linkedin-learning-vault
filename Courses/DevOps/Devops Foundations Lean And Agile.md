@@ -16,7 +16,7 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Devops Foundations Lean And Agile](https://media.licdn.com/dms/image/v2/D4E0DAQGSZV4QwZzLFA/learning-public-crop_675_1200/B4EZZuaX8dHMAc-/0/1745609130101?e=2147483647&amp;v=beta&amp;t=pJWBCDYUtVODw4AUOr11kCV3oCQEA4EVbTrihZmEcfg)

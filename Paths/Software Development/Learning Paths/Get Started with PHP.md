@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/get-started-with-php"
+url: https://www.linkedin.com/learning/paths/get-started-with-php
 course_count: 6
 linkedin_topics:
   - Software Development
@@ -12,8 +12,38 @@ tags:
   - learning-path
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Php]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PHP Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PHP with MySQL Essential Training- 1 The Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PHP with MySQL Essential Training- 2 Build a CMS]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PHP- Object-Oriented Programming]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PHP- Object-Oriented Programming with Databases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Get Started with PHP

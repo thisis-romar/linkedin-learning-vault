@@ -31,7 +31,7 @@ tags:
   - skill/learning-and-development
   - skill/generative-ai-for-learning-and-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Applications of Generative AI in Learning and Development](https://media.licdn.com/dms/image/v2/D4D0DAQHYi1lwinFVjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729634612563?e=2147483647&amp;v=beta&amp;t=Yre81IjpTfYxJc0tshLTGNTTEo556CkE97QfDpOXmFE)

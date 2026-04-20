@@ -32,7 +32,7 @@ tags:
   - skill/statistics
   - skill/probability
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Statistics Foundations 2: Probability](https://media.licdn.com/dms/image/v2/C4D0DAQEchyBcjfT2vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617218532194?e=2147483647&amp;v=beta&amp;t=kBBfeIjhOVPeNDw9f2zGFJIGq490w-gUHKEtpg81MJ8)

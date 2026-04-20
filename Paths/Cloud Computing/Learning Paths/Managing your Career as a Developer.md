@@ -2,22 +2,60 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/managing-your-career-as-a-developer"
+url: https://www.linkedin.com/learning/paths/managing-your-career-as-a-developer
 course_count: 8
 linkedin_topics:
   - Cloud Computing
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/security
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Writing a Tech Resume]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Get Ready for Your Coding Interview]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Succeeding in Web Development- Full Stack and Front End]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Tech Career Skills- Effective Technical Communication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Getting Things Done]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Effective Listening (2019)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Critical Thinking]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Resilience]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Managing your Career as a Developer

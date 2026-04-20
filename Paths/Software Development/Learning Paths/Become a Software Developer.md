@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-a-software-developer"
+url: https://www.linkedin.com/learning/paths/become-a-software-developer
 course_count: 12
 linkedin_topics:
   - Software Development
@@ -10,8 +10,62 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Programming Foundations Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations Databases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Succeeding in Web Development- Full Stack and Front End]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS Essential Training (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Python (2021)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Concepts for Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Java 11]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning C-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning SQL Programming]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Web Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become a Software Developer

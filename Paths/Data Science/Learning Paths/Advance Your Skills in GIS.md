@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-in-gis"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-in-gis
 course_count: 9
 linkedin_topics:
   - Data Science
@@ -10,8 +10,50 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Real World Gis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ArcGIS Pro Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning QGIS]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[InfraWorks and ArcGIS- AEC Collaboration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[QGIS and Python for AEC]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Foundations of Geographic Information Systems (GIS)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning ArcGIS Python Scripting]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning MapGuide Open Source]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Creating Maps with R]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills in GIS

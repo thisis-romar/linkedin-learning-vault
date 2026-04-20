@@ -25,7 +25,7 @@ tags:
   - skill/css-grid-layout
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![CSS Layouts: From Float to Flexbox and Grid](https://media.licdn.com/dms/image/v2/C4E0DAQHliL819SNhiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668687340?e=2147483647&amp;v=beta&amp;t=b48vZ4onuKXTSIizDzljCLkawojHNuI4ucBSaNTDaCY)

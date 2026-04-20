@@ -26,7 +26,7 @@ tags:
   - skill/python-programming-language
   - skill/unit-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Unit Testing in Python](https://media.licdn.com/dms/image/v2/C4E0DAQHWDGkTmekVlg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134209417?e=2147483647&amp;v=beta&amp;t=ZNDO58GhiNdg2mXCnDdbSzvfj65HO68HJoTNx83bPt0)

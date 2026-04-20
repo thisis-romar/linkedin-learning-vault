@@ -24,7 +24,7 @@ tags:
   - skill/devops
   - skill/devsecops
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Devops Foundations Devsecops](https://media.licdn.com/dms/image/v2/D560DAQGHNknL738WcA/learning-public-crop_675_1200/B56ZifSug4G4Ag-/0/1755019143485?e=2147483647&amp;v=beta&amp;t=q7YsCl2eSEB2H34Ug1Uz0-MYsc8WZ88UrvqcOBdfYPU)

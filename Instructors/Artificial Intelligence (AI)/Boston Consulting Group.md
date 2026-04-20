@@ -9,7 +9,7 @@ linkedin_topics:
 tags:
   - instructor
   - topic/artificial-intelligence
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Boston Consulting Group

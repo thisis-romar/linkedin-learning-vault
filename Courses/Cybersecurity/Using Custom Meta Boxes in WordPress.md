@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Using Custom Meta Boxes in WordPress](https://media.licdn.com/dms/image/v2/C560DAQEaanmvNCpt1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639506601351?e=2147483647&amp;v=beta&amp;t=dlaorsXV1vwvvGA0QOX7u_FiZQNZzvVQRAL5JENCi2w)

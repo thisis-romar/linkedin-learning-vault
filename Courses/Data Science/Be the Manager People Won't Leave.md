@@ -21,7 +21,7 @@ tags:
   - topic/data-science
   - skill/people-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Be the Manager People Won't Leave](https://media.licdn.com/dms/image/v2/C560DAQHVPZ-wMf1hBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1631727956532?e=2147483647&amp;v=beta&amp;t=6p6boYQiNYw-B9VuJLZziItkgmIurwFLGNtgkH_hxbM)

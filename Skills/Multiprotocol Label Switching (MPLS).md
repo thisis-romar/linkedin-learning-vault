@@ -6,7 +6,7 @@ course_count: 3
 tags:
   - skill
   - skill/multiprotocol-label-switching-mpls
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Multiprotocol Label Switching (MPLS)

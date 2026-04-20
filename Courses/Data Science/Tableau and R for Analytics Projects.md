@@ -26,7 +26,7 @@ tags:
   - skill/tableau
   - skill/data-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Tableau and R for Analytics Projects](https://media.licdn.com/dms/image/v2/D4E0DAQFFoYIleBMMdw/learning-public-crop_675_1200/B4EZpV8quNIQAY-/0/1762378559126?e=2147483647&amp;v=beta&amp;t=5jSkZdb6FaCFkkDPOQ6Xp0Y7J_lLI8l-VmdXFo3Fxrg)

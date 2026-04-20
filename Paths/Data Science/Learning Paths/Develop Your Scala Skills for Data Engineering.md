@@ -2,18 +2,48 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/develop-your-scala-skills-for-data-engineering"
+url: https://www.linkedin.com/learning/paths/develop-your-scala-skills-for-data-engineering
 course_count: 6
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Data Engineering Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On Introduction- Data Engineering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On Introduction- Scala]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Scala Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Coding Exercises- Scala]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[End-to-End Data Engineering Project]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Develop Your Scala Skills for Data Engineering

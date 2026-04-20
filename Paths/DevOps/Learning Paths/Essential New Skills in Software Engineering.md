@@ -2,18 +2,40 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/essential-new-skills-in-software-engineering"
+url: https://www.linkedin.com/learning/paths/essential-new-skills-in-software-engineering
 course_count: 4
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/devops
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Building Monorepos On Github]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[GitHub Dependabot- Dependency Updates]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Software Design- From Requirements to Release]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Essential New Skills in Software Engineering

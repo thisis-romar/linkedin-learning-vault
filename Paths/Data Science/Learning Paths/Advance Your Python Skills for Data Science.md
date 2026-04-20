@@ -2,18 +2,48 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-python-skills-for-data-science"
+url: https://www.linkedin.com/learning/paths/advance-your-python-skills-for-data-science
 course_count: 6
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Python for Data Science and Machine Learning Essential Training Part 2]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python For Data Science And Machine Learning Essential Training Part]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Science Foundations- Python Scientific Stack -CoderPad-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Data Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[More Python Tips, Tricks, and Techniques for Data Science]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Level Up- Python Data Acquisitions, Prep, and EDA]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Python Skills for Data Science

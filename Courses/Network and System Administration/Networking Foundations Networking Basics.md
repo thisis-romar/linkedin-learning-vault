@@ -27,7 +27,7 @@ tags:
   - topic/devops
   - skill/network-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Networking Foundations Networking Basics](https://media.licdn.com/dms/image/v2/C4D0DAQE_0oVM5Ci9YQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1607545228229?e=2147483647&amp;v=beta&amp;t=qmn3V8P9mJc7EP-gf9PbtpysWoWt6pqaanYUB5a8xgc)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-in-sql"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-in-sql
 course_count: 5
 linkedin_topics:
   - Data Science
@@ -14,8 +14,34 @@ tags:
   - topic/data-science
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[SQL for Data Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Hands-On Practice- Solve Business Problems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Analysis- Investigate with SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using SQL with Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On SQL Challenges- Test Your Knowledge]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills in SQL

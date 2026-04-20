@@ -26,7 +26,7 @@ tags:
   - skill/microservices
   - skill/kubernetes
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Kubernetes: Microservices](https://media.licdn.com/dms/image/v2/D560DAQHj6_u-_V4BiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713982644820?e=2147483647&amp;v=beta&amp;t=4tVKvKmN56MPSSinLxs3qOmRD6SQg_WE2UI4Jmx-BwU)

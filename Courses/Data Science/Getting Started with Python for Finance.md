@@ -27,7 +27,7 @@ tags:
   - skill/python-programming-language
   - skill/financial-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Getting Started with Python for Finance](https://media.licdn.com/dms/image/v2/D560DAQFpJhiRgrFxPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680625258153?e=2147483647&amp;v=beta&amp;t=ZFBVr4bXqEoUZrHlbmKIJb71FFUT1k2mr2px40ArJj4)

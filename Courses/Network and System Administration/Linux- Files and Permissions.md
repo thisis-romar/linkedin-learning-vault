@@ -23,7 +23,7 @@ tags:
   - topic/network-and-system-administration
   - skill/linux
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Linux: Files and Permissions](https://media.licdn.com/dms/image/v2/C560DAQHHLD8nck6tzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623695334038?e=2147483647&amp;v=beta&amp;t=RXCr8DX8NaYvhnSvsBkwdc28EsXwcn9Dpc4ajEaOJU8)

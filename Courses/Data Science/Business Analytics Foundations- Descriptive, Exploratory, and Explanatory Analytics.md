@@ -17,7 +17,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analytics Foundations: Descriptive, Exploratory, and Explanatory Analytics](https://media.licdn.com/dms/image/v2/C4E0DAQF7XhgAA2iHTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628878734552?e=2147483647&amp;v=beta&amp;t=wcO-7j39sIdoiqJAOC8fWz8Ye0oFMOfwijaccNOyIcA)

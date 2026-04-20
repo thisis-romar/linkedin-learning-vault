@@ -16,7 +16,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Programming Foundations: Memory, Pointers, and Garbage Collection](https://media.licdn.com/dms/image/v2/C4D0DAQFbN4uqlWyxgg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663000615486?e=2147483647&amp;v=beta&amp;t=JfkDQ6JgmswOu21E5DKAT2zPxX5DSIwVq-SIFD23bJ8)

@@ -29,7 +29,7 @@ tags:
   - skill/microsoft-powerpoint
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel and PowerPoint: Creating High-Impact Financial Presentations](https://media.licdn.com/dms/image/v2/D560DAQGrRvl0iYYA7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718224382576?e=2147483647&amp;v=beta&amp;t=fthfc2IsF9CnGeUVDvbFrHhKbCs_JQbviEPwX86rtLk)

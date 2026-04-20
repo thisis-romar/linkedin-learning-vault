@@ -28,7 +28,7 @@ tags:
   - skill/embedded-c
   - skill/c-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C Programming for Embedded Applications](https://media.licdn.com/dms/image/v2/C4E0DAQFepN06Mn31bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647638570276?e=2147483647&amp;v=beta&amp;t=le3nrmq-tmW8c7yFZcTuhJqlJzRiQbQPu5w2gG2xrpI)

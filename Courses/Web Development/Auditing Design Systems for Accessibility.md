@@ -25,7 +25,7 @@ tags:
   - skill/digital-accessibility
   - skill/accessibility-audits
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Auditing Design Systems for Accessibility](https://media.licdn.com/dms/image/v2/D560DAQGImVlAf-KYqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691086537263?e=2147483647&amp;v=beta&amp;t=OFUCqoFyx35GF1O4VRzXvUfvO1-6mP_24yGoeAyaB2o)

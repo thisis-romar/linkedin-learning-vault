@@ -16,7 +16,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Power BI: DAX Language, Formulas, and Calculations](https://media.licdn.com/dms/image/v2/D560DAQHnNg5EA08s6g/learning-public-crop_675_1200/B56ZwAWLKGHQAY-/0/1769532339395?e=2147483647&amp;v=beta&amp;t=U-rR08UzMmxG8yCW8uRtxCoeQl86tg5hIYtO5afuyKM)

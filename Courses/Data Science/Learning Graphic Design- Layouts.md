@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/graphic-design
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Graphic Design: Layouts](https://media.licdn.com/dms/image/v2/C4E0DAQFSyLvxM3X1JA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665588911?e=2147483647&amp;v=beta&amp;t=2jQMSsESaQYw-ic8uBRZ61imxXMSSev3RqHY6xLsN6A)

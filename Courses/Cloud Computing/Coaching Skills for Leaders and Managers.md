@@ -19,7 +19,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Coaching Skills for Leaders and Managers](https://media.licdn.com/dms/image/v2/C560DAQEDfcYbJ5pA8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567122036825?e=2147483647&amp;v=beta&amp;t=gdDRsmrY9ubbZRyFj12mH19RbCq1u3lzwg51VUEolp8)

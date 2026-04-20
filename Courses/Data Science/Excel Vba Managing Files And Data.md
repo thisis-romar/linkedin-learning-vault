@@ -25,7 +25,7 @@ tags:
   - skill/data-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel Vba Managing Files And Data](https://media.licdn.com/dms/image/v2/D4E0DAQGZy3ZRWbpI1A/learning-public-crop_675_1200/B4EZUph.CdGwAY-/0/1740158526299?e=2147483647&amp;v=beta&amp;t=qvQ6k4GnZWOcJ1VCvPa-V0fpuEGEyNegSYIWYQbJtbE)

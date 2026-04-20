@@ -28,7 +28,7 @@ tags:
   - skill/threat-vulnerability-management
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The Cybersecurity Threat Landscape](https://media.licdn.com/dms/image/v2/C4E0DAQGBM14K9ue_wA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656438189426?e=2147483647&amp;v=beta&amp;t=3P3ryZMsYuCnXVDbmLBW536_JBs4FpEY--8fdpxcP3c)

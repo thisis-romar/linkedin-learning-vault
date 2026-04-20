@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Pair Programming with GitHub Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQHcmTuHL8f5mw/learning-public-crop_675_1200/B4EZWWZJSxHMAY-/0/1741984929307?e=2147483647&amp;v=beta&amp;t=P-FBVsiEgFn40KXgkDmzL54vN0X1Yh4MMhvPoxfCt8M)

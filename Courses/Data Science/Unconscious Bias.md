@@ -30,7 +30,7 @@ tags:
   - skill/unconscious-bias-awareness-training
   - skill/diversity-and-inclusion
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Unconscious Bias](https://media.licdn.com/dms/image/v2/C560DAQFmRSjK8MfqaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651515769163?e=2147483647&amp;v=beta&amp;t=tMQeUht8B0g5ReFaywrbHvoaKMWN2lxC_61-SpnvZ8Y)

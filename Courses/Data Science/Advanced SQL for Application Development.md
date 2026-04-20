@@ -27,7 +27,7 @@ tags:
   - skill/application-development
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced SQL for Application Development](https://media.licdn.com/dms/image/v2/D4E0DAQGOJN0DZ3MYUg/learning-public-crop_675_1200/B4EZhoPUiKGUAY-/0/1754095504223?e=2147483647&amp;v=beta&amp;t=OyTlRSSvAcV8E5vTqxNet40ZBA3Sp7bDG4PLuWHkxj8)

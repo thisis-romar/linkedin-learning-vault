@@ -27,7 +27,7 @@ tags:
   - skill/storage-management
   - skill/cloud-storage
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cloud Storage Concepts: Services, Cost Control, and Security](https://media.licdn.com/dms/image/v2/D560DAQFQAW9zodTrOA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680561845407?e=2147483647&amp;v=beta&amp;t=Fzie8t5YzaKjGXcCwY8G7I5ElIL3Bp7g7Jpiv9F5QUM)

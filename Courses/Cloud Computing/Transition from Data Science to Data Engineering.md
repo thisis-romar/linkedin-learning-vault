@@ -28,7 +28,7 @@ tags:
   - skill/data-engineering
   - skill/career-transitioning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Transition from Data Science to Data Engineering](https://media.licdn.com/dms/image/v2/D560DAQEgJDzU_8BhSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708559741409?e=2147483647&amp;v=beta&amp;t=albVXnbK87NglHYYNzfOwWPH72KSUjdEt-h59DVNCYg)

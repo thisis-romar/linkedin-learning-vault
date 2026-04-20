@@ -27,7 +27,7 @@ tags:
   - skill/cybersecurity
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft Azure: Security Concepts](https://media.licdn.com/dms/image/v2/D560DAQERyAhthc0pFA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732322429791?e=2147483647&amp;v=beta&amp;t=QzYmbqQ3pbx7I-ZNu1RUvbml9Xwrsplm4Q8upoFf3zA)

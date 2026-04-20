@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![CSS Essential Training (2023)](https://media.licdn.com/dms/image/v2/D560DAQFbwOobZ3xBZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691438871844?e=2147483647&amp;v=beta&amp;t=klsoR7dlyYB5m4UfG6pT9o2eu4xK-9agetTIp67MNtQ)

@@ -16,7 +16,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Automating Your Work with Custom GPTs (No Code Required) (2025)](https://media.licdn.com/dms/image/v2/D4D0DAQESq__yB515XA/learning-public-crop_675_1200/B4DZYh4lm.GkAY-/0/1744325205095?e=2147483647&amp;v=beta&amp;t=jlXY9NN_fOrppFz2nF_0G_x5KIWvlG1rrzpjQfzMKMU)

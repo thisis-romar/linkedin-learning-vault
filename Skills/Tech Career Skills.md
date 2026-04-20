@@ -6,7 +6,7 @@ course_count: 36
 tags:
   - skill
   - skill/tech-career-skills
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Tech Career Skills

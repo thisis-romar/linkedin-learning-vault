@@ -29,7 +29,7 @@ tags:
   - skill/apache-airflow
   - skill/it-automation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Apache Airflow](https://media.licdn.com/dms/image/v2/D560DAQEnCLY1die5zA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689007956856?e=2147483647&amp;v=beta&amp;t=X7LlhPxxNEA48X3-K3en5QWJRuMSvgbkOFNXkXB5aag)

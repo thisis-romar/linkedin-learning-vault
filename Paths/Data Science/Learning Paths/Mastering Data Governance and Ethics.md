@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/mastering-data-governance-and-ethics"
+url: https://www.linkedin.com/learning/paths/mastering-data-governance-and-ethics
 course_count: 9
 linkedin_topics:
   - Data Science
@@ -10,8 +10,50 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Data Rights Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Data Governance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Steward Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Designing Data Governance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Automated Data Governance in Practice]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Ethics- Watching Out for Data Misuse]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Ethics- Making Data-Driven Decisions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Foundations Of Responsible Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible AI- Principles and Practical Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Mastering Data Governance and Ethics

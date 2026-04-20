@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-a-career-as-a-cloud-administrator"
+url: https://www.linkedin.com/learning/paths/explore-a-career-as-a-cloud-administrator
 course_count: 6
 linkedin_topics:
   - Cloud Computing
@@ -12,8 +12,38 @@ tags:
   - learning-path
   - topic/cloud-computing
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Cloud Computing Understanding Core Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Storage Concepts- Services, Cost Control, and Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Awareness- Cloud Security (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Including Sustainability in Your Cloud Strategy (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore a Career as a Cloud Administrator

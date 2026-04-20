@@ -30,7 +30,7 @@ tags:
   - skill/data-mining
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Predictive Analytics Essential Training: Data Mining](https://media.licdn.com/dms/image/v2/C560DAQHSfXCVw1wBVQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633452073257?e=2147483647&amp;v=beta&amp;t=zKJOCRy0IVTzqOjv6WrYK5nvIG16_kwtU4Fk-hiFdcY)

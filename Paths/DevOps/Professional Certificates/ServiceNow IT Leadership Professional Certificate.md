@@ -2,18 +2,40 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/servicenow-it-leadership-professional-certificate"
+url: https://www.linkedin.com/learning/paths/servicenow-it-leadership-professional-certificate
 course_count: 4
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 6
+louvain_cluster: 10
 tags:
   - professional-certificate
   - topic/devops
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Succeeding As A First Time Tech Manager]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Program Management for IT Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to IT Architecture]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Creating Your IT Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # ServiceNow IT Leadership Professional Certificate

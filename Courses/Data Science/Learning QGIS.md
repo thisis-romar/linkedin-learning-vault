@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/quantum-gis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning QGIS](https://media.licdn.com/dms/image/v2/C4E0DAQEldakfVX9iVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571245488991?e=2147483647&amp;v=beta&amp;t=rTT_uEDzJfQoByh_-Ezxzq8qKrSvgrceUNAc69rZrWs)

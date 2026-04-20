@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/aws-sagemaker
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Build an AI Application with React and AWS SageMaker](https://media.licdn.com/dms/image/v2/D560DAQG9K5NjptA6Pg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713547493798?e=2147483647&amp;v=beta&amp;t=kubxnvYjOyWeMn1vJfzqieRe2gzv-a7KWxwmaCfa_KA)

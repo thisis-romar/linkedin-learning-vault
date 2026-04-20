@@ -17,7 +17,7 @@ tags:
   - topic/artificial-intelligence
   - topic/security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Agentic AI Governance](https://media.licdn.com/dms/image/v2/D4E0DAQFdsz-QjWmURQ/learning-public-crop_675_1200/B4EZeyKqqoGcAY-/0/1751040830902?e=2147483647&amp;v=beta&amp;t=QilXymGvljMeZ4VTwDd4Ls4rvjOyOG-fLZ89eh3vR9s)

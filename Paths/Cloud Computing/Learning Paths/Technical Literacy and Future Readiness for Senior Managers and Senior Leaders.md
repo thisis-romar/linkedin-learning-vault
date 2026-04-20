@@ -2,18 +2,64 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-senior-managers-and-senior-leaders"
+url: https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-senior-managers-and-senior-leaders
 course_count: 10
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 1
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Integrating Generative AI into Business Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Amplify Your Critical Thinking with Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Foundations Of Responsible Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Digital Transformation Tips]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[How to Keep Your Team on the Bleeding Edge of AI Innovation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Challenges and Opportunities for Leadership]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Cheat Sheet for Business Leaders]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leading with Generative AI- Master Change Management for Success]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Accountability- Build Responsible and Transparent Systems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Fundamentals of Agentic AI- Business Implications and Ethical Insights]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Technical Literacy and Future Readiness for Senior Managers and Senior Leaders

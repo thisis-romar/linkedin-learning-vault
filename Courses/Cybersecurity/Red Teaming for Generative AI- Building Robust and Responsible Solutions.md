@@ -18,7 +18,7 @@ tags:
   - topic/security
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Red Teaming for Generative AI: Building Robust and Responsible Solutions](https://media.licdn.com/dms/image/v2/D4D0DAQF6ANEhXr2qsg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724092842352?e=2147483647&amp;v=beta&amp;t=FSiG4Q_b-Vl7sLRaMqyeWQhUZXiqZl36zs6BlEgC7MA)

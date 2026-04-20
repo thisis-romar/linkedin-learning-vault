@@ -34,7 +34,7 @@ tags:
   - topic/software-development
   - skill/statistics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Statistics Foundations 1: The Basics](https://media.licdn.com/dms/image/v2/C4E0DAQGldtWXmq06Cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614797593786?e=2147483647&amp;v=beta&amp;t=qyZKlvlp_rOxupPH3ur3_3ct9sL3tzGSePotVchLLMA)

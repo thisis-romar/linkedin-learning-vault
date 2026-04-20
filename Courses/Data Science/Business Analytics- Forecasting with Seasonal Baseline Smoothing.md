@@ -25,7 +25,7 @@ tags:
   - skill/business-intelligence-bi
   - skill/forecasting
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Analytics: Forecasting with Seasonal Baseline Smoothing](https://media.licdn.com/dms/image/v2/C4E0DAQHt1kNRSCL-NQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619543038116?e=2147483647&amp;v=beta&amp;t=4LgTsjE5GcXq1UtAlCY-KeaDDZ3p5GBpArWzbO_EMS8)

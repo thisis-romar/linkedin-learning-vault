@@ -2,18 +2,60 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/applying-lean-devops-and-agile-to-your-it-organization"
+url: https://www.linkedin.com/learning/paths/applying-lean-devops-and-agile-to-your-it-organization
 course_count: 9
 linkedin_topics:
   - DevOps
   - IT Help Desk
-louvain_cluster: 6
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/devops
   - topic/it-help-desk
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Devops Foundations Lean And Agile]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Lean Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Software Development- Transforming Your Organization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[DevOps Foundations- Transforming the Enterprise]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Lean Technology Strategy- Running Agile at Scale]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Lean Technology Strategy- Building High-Performing Teams]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Lean Technology Strategy- Starting Your Business Transformation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Lean Technology Strategy- Moving Fast With Defined Constraints]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Applying Lean, DevOps, and Agile to Your IT Organization

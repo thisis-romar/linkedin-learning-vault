@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-a-career-in-application-security"
+url: https://www.linkedin.com/learning/paths/explore-a-career-in-application-security
 course_count: 7
 linkedin_topics:
   - Cybersecurity
@@ -10,8 +10,42 @@ louvain_cluster: 4
 tags:
   - learning-path
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Cybersecurity Foundations Application Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Penetration Testing Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning the OWASP Top 10]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Security Testing Essential Training (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Dynamic Application Security Testing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Static Application Security Testing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Soft Skills for Information Security Professionals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore a Career in Application Security

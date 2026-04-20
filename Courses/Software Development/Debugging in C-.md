@@ -25,7 +25,7 @@ tags:
   - skill/debugging-code
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Debugging in C#](https://media.licdn.com/dms/image/v2/D560DAQGLU3_QpBMa2A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720820408514?e=2147483647&amp;v=beta&amp;t=hM2XivdDy9bXS90mywn0F6sshixgCLcnLmSkVJ7bt0w)

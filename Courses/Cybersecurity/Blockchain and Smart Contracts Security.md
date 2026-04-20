@@ -26,7 +26,7 @@ tags:
   - skill/smart-contracts
   - skill/cryptography
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Blockchain and Smart Contracts Security](https://media.licdn.com/dms/image/v2/C560DAQFi1XK4Zr4dqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1653503208284?e=2147483647&amp;v=beta&amp;t=uI0nw6DQaArZ41atAmsRSbzTPkMp-UdZdmVeTl0DjTY)

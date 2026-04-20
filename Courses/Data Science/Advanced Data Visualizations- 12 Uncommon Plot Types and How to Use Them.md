@@ -27,7 +27,7 @@ tags:
   - skill/data-visualization
   - skill/statistical-data-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Data Visualizations: 12 Uncommon Plot Types and How to Use Them](https://media.licdn.com/dms/image/v2/C4D0DAQEJmnmyihizbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674166620072?e=2147483647&amp;v=beta&amp;t=_XeQkFAyjriwExkldbz_eTz6qmkB00sgdRjMqMAZaJI)

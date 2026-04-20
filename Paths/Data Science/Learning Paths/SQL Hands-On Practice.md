@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/sql-hands-on-practice"
+url: https://www.linkedin.com/learning/paths/sql-hands-on-practice
 course_count: 9
 linkedin_topics:
   - Data Science
@@ -14,8 +14,50 @@ tags:
   - topic/data-science
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Hands On Introduction Sql]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Practice- Basic Queries]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Practice- Intermediate Queries]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Practice- Window Functions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Practice It- SQL Joins]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On SQL Challenges- Test Your Knowledge]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Analysis- Investigate with SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Hands-On Practice- Solve Business Problems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Level Up- Advanced SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # SQL Hands-On Practice

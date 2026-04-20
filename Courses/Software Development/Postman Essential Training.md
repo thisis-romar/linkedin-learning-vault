@@ -28,7 +28,7 @@ tags:
   - skill/api-testing
   - skill/test-automation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Postman Essential Training](https://media.licdn.com/dms/image/v2/C560DAQGu_qZOWzDKsQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679692293614?e=2147483647&amp;v=beta&amp;t=AQ9nvPCbqKAgtWx9hd5kZDNm1F-njRSqByG6_JUdQ94)

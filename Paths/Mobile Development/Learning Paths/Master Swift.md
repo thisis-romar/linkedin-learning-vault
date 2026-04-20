@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-swift"
+url: https://www.linkedin.com/learning/paths/master-swift
 course_count: 4
 linkedin_topics:
   - Mobile Development
@@ -12,8 +12,30 @@ tags:
   - learning-path
   - topic/mobile-development
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Programming For Non Programmers Ios 17 And Swift 5]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Swift 5 Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Swift- Delegations and Data Sources]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Swift 5- Protocol-Oriented Programming]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master Swift

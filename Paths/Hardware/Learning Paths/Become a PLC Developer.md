@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-a-plc-developer"
+url: https://www.linkedin.com/learning/paths/become-a-plc-developer
 course_count: 7
 linkedin_topics:
   - Hardware
@@ -10,8 +10,42 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/hardware
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Industrial Automation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning PLC Ladder Logic- 1 The Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning PLC Ladder Logic- 2 Diving Deeper]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PLC Memory Organization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PLC Sequencer Logic]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PLC Program Flow and Control Instructions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PLC Simulation Software- Factory I-O with Connected Component Workbench]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become a PLC Developer

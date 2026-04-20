@@ -6,7 +6,7 @@ linkedin_topic: Mobile Development
 tags:
   - moc
   - topic/mobile-development
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Mobile Development

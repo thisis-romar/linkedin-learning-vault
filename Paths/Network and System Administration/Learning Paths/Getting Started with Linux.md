@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-linux"
+url: https://www.linkedin.com/learning/paths/getting-started-with-linux
 course_count: 3
 linkedin_topics:
   - Network and System Administration
@@ -10,8 +10,26 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction to Linux (2021)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Linux- Overview and Installation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Linux- Files and Permissions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with Linux

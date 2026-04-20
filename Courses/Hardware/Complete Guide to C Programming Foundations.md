@@ -28,7 +28,7 @@ tags:
   - skill/c-programming-language
   - skill/programming-foundations
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Guide to C Programming Foundations](https://media.licdn.com/dms/image/v2/D560DAQFQjyP8ldDiwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710974971139?e=2147483647&amp;v=beta&amp;t=LgxgOsCjMTYeTAaB0QHj1uy3AOyxCUjNC5HlFLWW6y8)

@@ -30,7 +30,7 @@ tags:
   - skill/large-language-models-llm
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Orchestration: Foundations](https://media.licdn.com/dms/image/v2/D4D0DAQFEb2PuIGhkuQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736987597460?e=2147483647&amp;v=beta&amp;t=947y6yQrZK358fein0RMmDk6kDwMeK7HZqq5DoDoJy4)

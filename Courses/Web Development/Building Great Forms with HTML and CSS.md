@@ -27,7 +27,7 @@ tags:
   - skill/html
   - skill/forms-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building Great Forms with HTML and CSS](https://media.licdn.com/dms/image/v2/C4D0DAQEbTv2EPcMQvw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1590698438816?e=2147483647&amp;v=beta&amp;t=n0D5Jhj_5L1zybOt-i3fNGsqITTFuhr9BCW8mnFNZ34)

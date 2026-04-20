@@ -15,7 +15,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Vibe Coding Fundamentals Tools And Best Practices](https://media.licdn.com/dms/image/v2/D4D0DAQGpY8IbyiIIeQ/learning-public-crop_675_1200/B4DZaDsp8rGgAY-/0/1745966243879?e=2147483647&amp;v=beta&amp;t=UH7bzSr6asHZX949X4DtV18Xpa3aYpxGo0aL8AxrTHY)

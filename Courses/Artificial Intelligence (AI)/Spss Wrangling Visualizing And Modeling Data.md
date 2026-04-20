@@ -26,7 +26,7 @@ tags:
   - skill/ibm-spss
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Spss Wrangling Visualizing And Modeling Data](https://media.licdn.com/dms/image/v2/D4E0DAQFy_MxOkb2MUA/learning-public-crop_675_1200/B4EZesjtdFGcAY-/0/1750946732094?e=2147483647&amp;v=beta&amp;t=VAUW_WHFgCwQ25tNN10Q7r0JTJUebglctH_DSGDVOqc)

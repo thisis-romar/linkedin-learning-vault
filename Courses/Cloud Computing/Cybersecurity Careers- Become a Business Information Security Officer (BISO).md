@@ -30,7 +30,7 @@ tags:
   - skill/information-security-management
   - skill/tech-career-skills
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Careers: Become a Business Information Security Officer (BISO)](https://media.licdn.com/dms/image/v2/C4E0DAQHLvq2USJUnUQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658853529504?e=2147483647&amp;v=beta&amp;t=BXyh2IdLVnUcARnOHrsSCdHb26TVPAlmNnJGyDOqxPg)

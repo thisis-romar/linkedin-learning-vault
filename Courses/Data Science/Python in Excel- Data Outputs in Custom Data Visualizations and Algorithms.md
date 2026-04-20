@@ -29,7 +29,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python in Excel: Data Outputs in Custom Data Visualizations and Algorithms](https://media.licdn.com/dms/image/v2/D560DAQHYRfBFhnycFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718310054393?e=2147483647&amp;v=beta&amp;t=HMte7c-tAkAHVFCQLDz6JNJJ99G44pLIOUv7lg7edbk)

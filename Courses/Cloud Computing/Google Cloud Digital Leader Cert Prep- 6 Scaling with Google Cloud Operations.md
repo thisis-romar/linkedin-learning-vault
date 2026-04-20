@@ -27,7 +27,7 @@ tags:
   - skill/scalability
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Google Cloud Digital Leader Cert Prep: 6 Scaling with Google Cloud Operations](https://media.licdn.com/dms/image/v2/D4E0DAQGOpLpFgTUegQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711389664359?e=2147483647&amp;v=beta&amp;t=7wyq9D2lo4Cx--7E3LgxT6YrcKLlq2I7Q89dPTOUZ5w)

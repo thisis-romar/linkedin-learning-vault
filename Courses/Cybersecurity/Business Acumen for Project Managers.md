@@ -23,7 +23,7 @@ tags:
   - skill/project-management
   - skill/business-acumen
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Business Acumen for Project Managers](https://media.licdn.com/dms/image/v2/C4E0DAQFFPbbhlAz4CQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633393936793?e=2147483647&amp;v=beta&amp;t=CzumajONt4Il2_GBmbWSXm7NoorHIMDf3MULwqXq3eI)

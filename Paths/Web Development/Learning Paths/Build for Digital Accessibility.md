@@ -2,16 +2,70 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/build-for-digital-accessibility"
+url: https://www.linkedin.com/learning/paths/build-for-digital-accessibility
 course_count: 12
 linkedin_topics:
   - Web Development
-louvain_cluster: 11
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Creating Accessible And Inclusive Video]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Creating Accessible PDFs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Accessible PDFs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Accessibility and Inclusion with Figma]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Designing Accessible Components In Figma]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Accessible Layout for the Web]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Build an Image Captioning Tool for Visually Impaired Users with Gemini]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Canva- Designing Engaging, Accessible Presentations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML Forms- Accessibility]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Office Accessibility for Beginners]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React- Components, Context, and Accessibility]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Using Stark for Accessible Design Projects]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build for Digital Accessibility

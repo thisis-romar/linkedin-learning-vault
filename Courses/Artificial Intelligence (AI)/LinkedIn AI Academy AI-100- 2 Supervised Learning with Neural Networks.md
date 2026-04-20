@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-neural-networks
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![LinkedIn AI Academy AI-100: 2 Supervised Learning with Neural Networks](https://media.licdn.com/dms/image/v2/D4D0DAQEEPm6xE-zRRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683061136354?e=2147483647&amp;v=beta&amp;t=xQxRED_ORwnogHQ-dO9m_ZbLzskqBpkHt6Qe-1MD39g)

@@ -25,7 +25,7 @@ tags:
   - skill/test-driven-development
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JavaScript: Test-Driven Development (ES6)](https://media.licdn.com/dms/image/v2/C4E0DAQHXKMp0rVD01A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1574359332875?e=2147483647&amp;v=beta&amp;t=GIcScORNhcUX6tJ7B-pS-WtJ8i0HBGrn4gFrv12yvdg)

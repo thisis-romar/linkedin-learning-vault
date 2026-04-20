@@ -31,7 +31,7 @@ tags:
   - skill/tech-career-skills
   - skill/penetration-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Careers: Become a Penetration Tester](https://media.licdn.com/dms/image/v2/C560DAQG0z7ot3BZqOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1665598052340?e=2147483647&amp;v=beta&amp;t=r_MvIITtacYJmozW9SMbQkV5WTf6EVbnlCeSq34QDAY)

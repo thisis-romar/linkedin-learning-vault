@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-adversarial-networks-gans
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Generative Adversarial Networks (GANs)](https://media.licdn.com/dms/image/v2/D4E0DAQHJKIXSiJjxMg/learning-public-crop_675_1200/B4EZikYWgPGwAY-/0/1755104504794?e=2147483647&amp;v=beta&amp;t=OPXs5dlkj4EvBSdjHTjVqHD33ezT23ZiCIpnsHjVItQ)

@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/tableau
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Tableau Desktop](https://media.licdn.com/dms/image/v2/D4D0DAQH1jMgPaiEDkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725475562874?e=2147483647&amp;v=beta&amp;t=8bSHM2euwzVALC9N75j_74kQcZ5DFEGPYIXLyJgiYS4)

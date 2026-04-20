@@ -23,7 +23,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning PowerPoint Desktop (Microsoft 365)](https://media.licdn.com/dms/image/v2/C4D0DAQGqeMwrPQRAzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650041173251?e=2147483647&amp;v=beta&amp;t=9pnleKB6TxRwjVxweiETsE-NlakQSKf48PnngG5kLzw)

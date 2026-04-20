@@ -21,7 +21,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![IT Security Foundations: Core Concepts](https://media.licdn.com/dms/image/v2/C560DAQGtUScLh9G_Vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668806798851?e=2147483647&amp;v=beta&amp;t=C1vgQ4P95KfREJ3X1vxi9uAR6JQ5forLHbjVfoS7Apk)

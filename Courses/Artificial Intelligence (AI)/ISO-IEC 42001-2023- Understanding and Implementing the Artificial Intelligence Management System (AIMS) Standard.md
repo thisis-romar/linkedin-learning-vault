@@ -30,7 +30,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/it-risk-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![ISO/IEC 42001:2023: Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard](https://media.licdn.com/dms/image/v2/D560DAQE_k-_pcsQGJQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720721406341?e=2147483647&amp;v=beta&amp;t=ZQX11RX1wwmD-wnugm-tMlFH9eJzqpCgp-JhDBhGt7w)

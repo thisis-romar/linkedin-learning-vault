@@ -6,7 +6,7 @@ linkedin_topic: Cloud Computing
 tags:
   - moc
   - topic/cloud-computing
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Cloud Computing

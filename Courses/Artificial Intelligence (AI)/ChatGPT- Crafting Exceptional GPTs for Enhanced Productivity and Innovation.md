@@ -25,7 +25,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![ChatGPT: Crafting Exceptional GPTs for Enhanced Productivity and Innovation](https://media.licdn.com/dms/image/v2/D560DAQFUqm3mpYOMSg/learning-public-crop_675_1200/B56ZS92NixGsAc-/0/1738351893411?e=2147483647&amp;v=beta&amp;t=5zvzO-nOEjMdkkACC8Hho5XujaBxfAG8Yoy6V_Opv6A)

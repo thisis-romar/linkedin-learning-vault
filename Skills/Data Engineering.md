@@ -6,7 +6,7 @@ course_count: 21
 tags:
   - skill
   - skill/data-engineering
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Data Engineering

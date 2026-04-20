@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Large Language Models](https://media.licdn.com/dms/image/v2/D4D0DAQGize-99tNZlw/learning-public-crop_675_1200/B4DZWV8iVKGkAY-/0/1741977430144?e=2147483647&amp;v=beta&amp;t=ACLwhEwhziBZOyMSYJ448R9MQ7oBeJgYn7BtMLc0j4c)

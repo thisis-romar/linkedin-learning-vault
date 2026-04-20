@@ -29,7 +29,7 @@ tags:
   - skill/data-science-foundations
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Science Foundations: Python Scientific Stack [CoderPad]](https://media.licdn.com/dms/image/v2/D560DAQG2_xrJ2bSZsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667582946722?e=2147483647&amp;v=beta&amp;t=jZiEOWL9RZujkXmIVtRAtwNBWlw-7GjmPTRkk1ioGDo)

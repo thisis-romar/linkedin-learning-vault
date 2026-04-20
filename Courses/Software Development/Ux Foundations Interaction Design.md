@@ -16,7 +16,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ux Foundations Interaction Design](https://media.licdn.com/dms/image/v2/C4E0DAQH1Qv7gLQA72g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629497577555?e=2147483647&amp;v=beta&amp;t=YJFTy1hB76mO1ocVwbLW6WL6S59o3Vp67KeVBa8LANQ)

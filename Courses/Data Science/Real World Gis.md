@@ -21,7 +21,7 @@ tags:
   - topic/data-science
   - skill/geographic-information-systems-gis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Real World Gis](https://media.licdn.com/dms/image/v2/D4E0DAQGmyUYEfnh5vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693588036922?e=2147483647&amp;v=beta&amp;t=f7I9DuMJME5dNBOED-PjQdm0jftIqeMAPfJoGrVt1zI)

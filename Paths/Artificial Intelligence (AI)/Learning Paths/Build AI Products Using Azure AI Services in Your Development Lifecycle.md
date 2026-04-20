@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/build-ai-products-using-azure-ai-services-in-your-development-lifecycle"
+url: https://www.linkedin.com/learning/paths/build-ai-products-using-azure-ai-services-in-your-development-lifecycle
 course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,46 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Azure Ai For Developers Ai Design Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure AI for Developers- LLMs and SLMs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure AI for Developers- Using the Azure AI Model Catalog]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure AI for Developers- OpenAI Services and Generative AI Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure AI for Developers- Content Safety and Responsible AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure AI for Developers- Azure AI Speech]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure AI for Developers- Building AI Agents]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build AI Products Using Azure AI Services in Your Development Lifecycle

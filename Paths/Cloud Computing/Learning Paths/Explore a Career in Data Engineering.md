@@ -2,22 +2,56 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-a-career-in-data-engineering"
+url: https://www.linkedin.com/learning/paths/explore-a-career-in-data-engineering
 course_count: 7
 linkedin_topics:
   - Cloud Computing
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/data-science
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Data Engineering Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On Introduction- Data Engineering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Data Warehouses]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning SnowflakeDB]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[PySpark Essential Training- Introduction to Building Data Pipelines]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Apache Kafka Essential Training- Getting Started]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Transition from Data Science to Data Engineering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore a Career in Data Engineering

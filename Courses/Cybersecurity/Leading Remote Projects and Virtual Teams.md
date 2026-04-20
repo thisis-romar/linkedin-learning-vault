@@ -25,7 +25,7 @@ tags:
   - skill/virtual-teams
   - skill/team-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leading Remote Projects and Virtual Teams](https://media.licdn.com/dms/image/v2/C4D0DAQFtydF3cKvlYA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1594864413586?e=2147483647&amp;v=beta&amp;t=Ytjx8iyn40feaDzST-1bFRvz9AQud0QrTc8VX_O5vbo)

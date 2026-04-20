@@ -25,7 +25,7 @@ tags:
   - skill/software-design-patterns
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![JavaScript: Patterns](https://media.licdn.com/dms/image/v2/C4D0DAQHK-x5Xftt6NQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1587058479192?e=2147483647&amp;v=beta&amp;t=U0Gt3GbuVOnDnX2qplT7EQa2yol6gme3ou1amwg-D4A)

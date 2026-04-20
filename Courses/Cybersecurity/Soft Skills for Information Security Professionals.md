@@ -33,7 +33,7 @@ tags:
   - skill/tech-career-skills
   - skill/soft-skills
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Soft Skills for Information Security Professionals](https://media.licdn.com/dms/image/v2/C4E0DAQGOk-h1z609hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588015081106?e=2147483647&amp;v=beta&amp;t=gD2aZYdi1WE3d1Zp7DbCuISF-J4NROMQ9FlPhprw1lc)

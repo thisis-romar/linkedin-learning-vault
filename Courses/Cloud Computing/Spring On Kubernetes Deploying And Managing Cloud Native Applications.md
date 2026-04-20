@@ -29,7 +29,7 @@ tags:
   - skill/spring-boot
   - skill/kubernetes
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Spring On Kubernetes Deploying And Managing Cloud Native Applications](https://media.licdn.com/dms/image/v2/D4E0DAQGbScwnzErsnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726684715855?e=2147483647&amp;v=beta&amp;t=6m5UmFBAPLHndQQE3unqON2AfzkgHsLw4QWHxRVOhfc)

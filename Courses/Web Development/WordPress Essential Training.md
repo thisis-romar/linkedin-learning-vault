@@ -29,7 +29,7 @@ tags:
   - skill/wordpress
   - skill/back-end-web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![WordPress Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQHxdDia9xNA2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724879645029?e=2147483647&amp;v=beta&amp;t=oY1fEaZtRd4gtXx5BHfiESMFQpoko03RXBNs9dd2v6U)

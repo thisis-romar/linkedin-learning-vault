@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-gemini
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Programming with the Gemini Flash API](https://media.licdn.com/dms/image/v2/D4D0DAQEAH6lVQicxvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008964019?e=2147483647&amp;v=beta&amp;t=AtNgoYIgl_o00amicna3y6lADM_ckeYeLQuHg9oSoqA)

@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/robotic-process-automation-rpa
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introducing Robotic Process Automation](https://media.licdn.com/dms/image/v2/C4D0DAQFQ2pAfZMtbRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679518540418?e=2147483647&amp;v=beta&amp;t=YQTY0PLCBhf8f-7Y042Pl1jf_ezDapt87vTDJT2FHmU)

@@ -2,16 +2,54 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/build-your-skills-in-customer-service"
+url: https://www.linkedin.com/learning/paths/build-your-skills-in-customer-service
 course_count: 8
 linkedin_topics:
   - IT Help Desk
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/it-help-desk
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Customer Service Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Customer Service- Problem-Solving and Troubleshooting]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Rapport with Customers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Customer Service- Call Control Strategies]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Customer Service- Handling Abusive Customers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Creating Positive Conversations with Challenging Customers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[De-Escalating Conversations for Customer Service]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Serving Customers Using Social Media]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build Your Skills In Customer Service

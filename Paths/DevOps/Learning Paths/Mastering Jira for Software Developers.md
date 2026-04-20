@@ -2,18 +2,40 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/mastering-jira-for-software-developers"
+url: https://www.linkedin.com/learning/paths/mastering-jira-for-software-developers
 course_count: 4
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/devops
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Jira Cloud Edition]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Jira- Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Planning and Releasing Software with Jira]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Increasing Efficiency with Jira and Confluence Integrations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Mastering Jira for Software Developers

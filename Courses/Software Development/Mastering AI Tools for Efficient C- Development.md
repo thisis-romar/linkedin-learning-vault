@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Mastering AI Tools for Efficient C# Development](https://media.licdn.com/dms/image/v2/D4E0DAQHIUZH6xqAasQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723574020710?e=2147483647&amp;v=beta&amp;t=uLo-GWBvIaN6XA0uJLKV6xhulHXGLrypiz5crArO64c)

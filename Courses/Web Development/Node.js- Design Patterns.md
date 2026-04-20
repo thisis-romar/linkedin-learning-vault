@@ -25,7 +25,7 @@ tags:
   - skill/software-design-patterns
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Node.js: Design Patterns](https://media.licdn.com/dms/image/v2/C4E0DAQE6vGHZnHaXzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567116779604?e=2147483647&amp;v=beta&amp;t=m6fLqYMbRjFvaxUtfNU3aA_Ctf9qUDjiPOjwWoEvQfg)

@@ -25,7 +25,7 @@ tags:
   - skill/microsoft-excel
   - skill/financial-planning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel For Financial Planning And Analysis Fp A](https://media.licdn.com/dms/image/v2/D560DAQHDzs3b5vAKwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705707646991?e=2147483647&amp;v=beta&amp;t=BU7MzCE9nZVRgWPylFH_PWU3mOxVHW0U_BdJIeFb0o4)

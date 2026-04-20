@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/internet-of-things-iot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Awareness: IoT Devices](https://media.licdn.com/dms/image/v2/D560DAQGmx6_uRJoSGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696016243531?e=2147483647&amp;v=beta&amp;t=zqWy-A9QfULbYtPluYrTm5emoNm2hvP509ASCYwSWuc)

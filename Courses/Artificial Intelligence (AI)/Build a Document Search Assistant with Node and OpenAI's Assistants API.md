@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Build a Document Search Assistant with Node and OpenAI's Assistants API](https://media.licdn.com/dms/image/v2/D4E0DAQFSaMbZdEEuQw/learning-public-crop_675_1200/B4EZUpj70dH0AY-/0/1740159041480?e=2147483647&amp;v=beta&amp;t=H3NVnGo6IVv-kL1C-0-4w-_xxO_Dmw90i2w8jIjXykE)

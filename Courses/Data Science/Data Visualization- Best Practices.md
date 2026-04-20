@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Visualization: Best Practices](https://media.licdn.com/dms/image/v2/C560DAQHWQHMbXFonsg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639077171142?e=2147483647&amp;v=beta&amp;t=Yv_P3__ILdEKNPruShX9wr70tyxX6s1vQg8RSKQ8K2I)

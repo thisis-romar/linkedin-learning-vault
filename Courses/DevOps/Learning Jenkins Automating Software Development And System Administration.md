@@ -22,7 +22,7 @@ tags:
   - topic/devops
   - skill/jenkins
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Jenkins Automating Software Development And System Administration](https://media.licdn.com/dms/image/v2/D4E0DAQFZ3ThMkUkY5g/learning-public-crop_675_1200/B4EZfGx09oHYAc-/0/1751386640462?e=2147483647&amp;v=beta&amp;t=PhfL4qKtTQicCmDjl4I_8xnECrbq0dPOECxRgA7z0Q0)

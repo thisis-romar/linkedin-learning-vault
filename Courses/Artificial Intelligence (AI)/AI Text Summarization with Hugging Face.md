@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/hugging-face-products
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Text Summarization with Hugging Face](https://media.licdn.com/dms/image/v2/D4D0DAQFsoegl9JPPtQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244998089?e=2147483647&amp;v=beta&amp;t=vXBLNsUDreVFjATI6mrZEIAy6JXjfbbmMP_lbB30260)

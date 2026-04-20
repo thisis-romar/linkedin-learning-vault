@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On Introduction: Python](https://media.licdn.com/dms/image/v2/D560DAQGMn-0MyDgvMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666990089517?e=2147483647&amp;v=beta&amp;t=kPGoj89jEDZ85eOQ8Y9_7EAFUDEsnR5iN4g7bDhXEw4)

@@ -30,7 +30,7 @@ tags:
   - skill/ai-for-management
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leading Through AI Agent Disruption](https://media.licdn.com/dms/image/v2/D560DAQH-cY-M3We3Ng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730472481729?e=2147483647&amp;v=beta&amp;t=98dTCEbr5Wm2-fsEB-VUpsnPq_ZQH3V4Df0bL_FHB0s)

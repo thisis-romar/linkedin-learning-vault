@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On Introduction: Java](https://media.licdn.com/dms/image/v2/D560DAQF6nAhBEhw54Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666989653554?e=2147483647&amp;v=beta&amp;t=tw74qmskKZKRB94IWWhpLS1uFrYc3Kb_tjg2hqwa3zM)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/mastering-responsible-ai-from-concept-to-auditing"
+url: https://www.linkedin.com/learning/paths/mastering-responsible-ai-from-concept-to-auditing
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,42 @@ tags:
   - topic/artificial-intelligence
   - topic/security
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Foundations Of Responsible Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible AI- Principles and Practical Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to AI Governance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Compliance and Regulations for Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building a Responsible AI Program- Context, Culture, Content, and Commitment]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Auditing AI Systems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Algorithmic Auditing and Continuous Monitoring]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Mastering Responsible AI: From Concept to Auditing

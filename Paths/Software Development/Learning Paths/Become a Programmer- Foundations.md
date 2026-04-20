@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-a-programmer-foundations"
+url: https://www.linkedin.com/learning/paths/become-a-programmer-foundations
 course_count: 12
 linkedin_topics:
   - Software Development
@@ -10,8 +10,62 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Programming Foundations Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Beyond the Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Object-Oriented Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Algorithms]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Data Structures]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Design Patterns]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations Databases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Memory, Pointers, and Garbage Collection]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- APIs and Web Services]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Secure Coding (2018)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Test-Driven Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Software Testing-QA]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become a Programmer: Foundations

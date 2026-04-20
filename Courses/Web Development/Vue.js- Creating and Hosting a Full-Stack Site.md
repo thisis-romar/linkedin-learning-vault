@@ -26,7 +26,7 @@ tags:
   - skill/vue-js
   - skill/full-stack-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Vue.js: Creating and Hosting a Full-Stack Site](https://media.licdn.com/dms/image/v2/C560DAQEY1EY7FIhYaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678465685731?e=2147483647&amp;v=beta&amp;t=DP77FbMuyQDvHdf6nets4fN6RWiOTAP25LQ02f6Dc9k)

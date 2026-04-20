@@ -27,7 +27,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building an Ethereum Blockchain App: 6 Building Your First Ethereum App](https://media.licdn.com/dms/image/v2/C560DAQGu2M7qkDU4hg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628525931705?e=2147483647&amp;v=beta&amp;t=TKRXkeIQVC4pLDmFpM-7tfolGqHsLR0LpFMe29wpiTU)

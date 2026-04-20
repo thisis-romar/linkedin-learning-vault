@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/woocommerce
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![WordPress Ecommerce: WooCommerce](https://media.licdn.com/dms/image/v2/C4E0DAQGpFxmduNAEPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568064318109?e=2147483647&amp;v=beta&amp;t=uOt8Qd8E_iq92BHTFlEe8L_tKEY6Ckv-WrX0HFWZxOA)

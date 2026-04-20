@@ -26,7 +26,7 @@ tags:
   - skill/workflow-management
   - skill/jira
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Jira: Managing Custom Workflows](https://media.licdn.com/dms/image/v2/D560DAQGJQsMwQ2WQqQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705541045172?e=2147483647&amp;v=beta&amp;t=u5IghhJ488z95uTS70PBPZCwQYfjRa-Zq9j8OqfcDFQ)

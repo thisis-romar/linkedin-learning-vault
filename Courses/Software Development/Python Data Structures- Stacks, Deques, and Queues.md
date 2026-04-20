@@ -27,7 +27,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python Data Structures: Stacks, Deques, and Queues](https://media.licdn.com/dms/image/v2/D560DAQHBAYvTGZam4Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708448527135?e=2147483647&amp;v=beta&amp;t=BFa40309T7Lem7HBsJ5zq7ct_4F5TnSwC7P3X5fM8FY)

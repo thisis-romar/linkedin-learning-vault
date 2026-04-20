@@ -27,7 +27,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity for Executives](https://media.licdn.com/dms/image/v2/C560DAQHtdXQZyMfd1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660846179936?e=2147483647&amp;v=beta&amp;t=OV2vtkG9sHJD92fgEebwjV9_oG5f7RfIOwTKFbuPRN8)

@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Chat Prompts for Business Analysis](https://media.licdn.com/dms/image/v2/D560DAQGpYYPjoX6i8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722976050850?e=2147483647&amp;v=beta&amp;t=Hc5SxuuCVa6HKdBYG5WE8i2VtRkeTHh9Cj0ECO5k7hM)

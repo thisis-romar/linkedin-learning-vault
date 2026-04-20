@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Supercharge the Development Process with GitHub Extensions for Copilot Chat](https://media.licdn.com/dms/image/v2/D4D0DAQEtPfEC0eqXeQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727977143611?e=2147483647&amp;v=beta&amp;t=BbfOBvo5LM_G9RDIIGB_1D5_JB6OLGcCMV_jx0Sf1Ls)

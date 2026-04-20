@@ -21,7 +21,7 @@ tags:
   - topic/data-science
   - skill/pricing-strategy
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Strategic Pricing for Products and Services](https://media.licdn.com/dms/image/v2/C560DAQHJYXFJSDSnRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642011691219?e=2147483647&amp;v=beta&amp;t=1L7AMFArQRwVvOX-O41Tm1YA3NlkUjak05Rwo-IKiws)

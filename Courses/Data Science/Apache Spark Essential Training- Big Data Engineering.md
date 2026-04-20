@@ -33,7 +33,7 @@ tags:
   - skill/apache-spark
   - skill/data-pipelines
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Apache Spark Essential Training: Big Data Engineering](https://media.licdn.com/dms/image/v2/D4E0DAQEYVdQ6ahM3Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726090917562?e=2147483647&amp;v=beta&amp;t=7rjZ4bFbiSWLKPUqSjIy3l4_2QVZmEz0C0SxsgnWkCc)

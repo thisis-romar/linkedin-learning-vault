@@ -27,7 +27,7 @@ tags:
   - skill/microsoft-sql-server
   - skill/server-automation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Automating SQL Server with dbatools](https://media.licdn.com/dms/image/v2/D560DAQHn4vbx24fVZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667411820482?e=2147483647&amp;v=beta&amp;t=fHoMzdEPmd78Pgo-xUqfUpXIj_FO_3D791togoyLgBo)

@@ -25,7 +25,7 @@ tags:
   - skill/sql
   - skill/database-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![SQL for Testers](https://media.licdn.com/dms/image/v2/C4E0DAQHLDFql6OOJTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599847443389?e=2147483647&amp;v=beta&amp;t=hJOOS9dT89Lu79ZqAa7CenTnUGfqogKxBymZE-789SE)

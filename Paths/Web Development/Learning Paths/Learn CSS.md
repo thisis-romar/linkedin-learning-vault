@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/learn-css"
+url: https://www.linkedin.com/learning/paths/learn-css
 course_count: 12
 linkedin_topics:
   - Web Development
@@ -10,8 +10,62 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Css Fundamentals Unlock The Power Of Web Styling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS Essential Training (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS- Selectors]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS- Inheritance, Specificity, and the Cascade]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS- Images]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS- Animation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS- Display]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Responsive Layouts with CSS Flexbox]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS- Advanced Layouts with Grid]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS- Variables and Fluid Layouts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS Layouts- From Float to Flexbox and Grid]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS- Print Style Sheets]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Learn CSS

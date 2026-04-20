@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/ai-essentials-for-business-analysis"
+url: https://www.linkedin.com/learning/paths/ai-essentials-for-business-analysis
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,34 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Everyday Ai Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning AI for Business Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Chat Prompts for Business Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning ChatGPT for Business Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI-Powered Strategic Business Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # AI Essentials for Business Analysis

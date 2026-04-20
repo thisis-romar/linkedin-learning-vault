@@ -25,7 +25,7 @@ tags:
   - skill/d3-js
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Power BI Custom Visuals with d3.js](https://media.licdn.com/dms/image/v2/C560DAQE51N9VyMW78g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619811804272?e=2147483647&amp;v=beta&amp;t=KaytQ8GK6AKu9vBw29OeSFAeiJAfF9Q2y1mVvFIGA04)

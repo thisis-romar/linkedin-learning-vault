@@ -31,7 +31,7 @@ tags:
   - topic/cloud-computing
   - skill/data-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On Introduction: Data Engineering](https://media.licdn.com/dms/image/v2/D4E0DAQF2-XpACOT2ew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713900511583?e=2147483647&amp;v=beta&amp;t=CFp3O8T0c6lKkjCy01p6HDN8xloYCURODyde3QOYlNw)

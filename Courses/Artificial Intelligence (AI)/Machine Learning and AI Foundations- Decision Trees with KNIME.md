@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning and AI Foundations: Decision Trees with KNIME](https://media.licdn.com/dms/image/v2/C560DAQFHGDI-Ei5OJQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655420568390?e=2147483647&amp;v=beta&amp;t=ZfXtX5Ulqem9pZX-kF3j0JFkWGgY76ZAU29KCpfCpaI)

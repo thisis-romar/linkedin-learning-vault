@@ -26,7 +26,7 @@ tags:
   - skill/windows-system-administration
   - skill/windows-server
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Windows Server 2022: Installation and Configuration](https://media.licdn.com/dms/image/v2/C4E0DAQFN4TEX5Pu9kA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642101279693?e=2147483647&amp;v=beta&amp;t=s-MsYW1qIibq0qH2jfelTBjNF5gOhe0Z8U8i45ySH3o)

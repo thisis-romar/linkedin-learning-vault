@@ -26,7 +26,7 @@ tags:
   - skill/cloud-native-architecture
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AWS Essential Training for Architects](https://media.licdn.com/dms/image/v2/D560DAQEw5TdMKD-QKg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712262281510?e=2147483647&amp;v=beta&amp;t=1XXdSjlEWR4b1IiGcayuPEMqk61A_jTm1eW7kQvjg5g)

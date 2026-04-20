@@ -2,18 +2,44 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/improve-your-digital-transformation-skills"
+url: https://www.linkedin.com/learning/paths/improve-your-digital-transformation-skills
 course_count: 5
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 3
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Planning For The Remote First Work From Anywhere Organization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Accelerating Digital Transformation as Offices Reopen]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Digital Accessibility for the Modern Workplace]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agile Development in the New World of Work]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Everything as a Service (XaaS) is the Future of Business]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Improve Your Digital Transformation Skills

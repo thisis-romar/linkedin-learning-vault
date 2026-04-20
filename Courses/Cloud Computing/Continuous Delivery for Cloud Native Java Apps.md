@@ -29,7 +29,7 @@ tags:
   - skill/continuous-delivery-cd
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Continuous Delivery for Cloud Native Java Apps](https://media.licdn.com/dms/image/v2/C560DAQGrdDQ5bO2vug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642536526853?e=2147483647&amp;v=beta&amp;t=A4-RNm5DdHN2LseGJhPN2L2JfEhHQ4lDyVxZUItJmhg)

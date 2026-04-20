@@ -2,20 +2,50 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/working-with-data-collecting-processing-and-storing-data-for-ai"
+url: https://www.linkedin.com/learning/paths/working-with-data-collecting-processing-and-storing-data-for-ai
 course_count: 6
 linkedin_topics:
   - Cloud Computing
   - Data Science
   - Database Management
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/data-science
   - topic/database-management
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Data Planning Strategy And Compliance For Ai Initiatives]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Strategic Data Collection, Modeling, and Quality Management for AI Systems]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Preparation, Feature Engineering, and Augmentation for AI Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Secure Data Management for AI Implementation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Scalable Data Storage and Processing for AI Workloads]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Working with Data: Collecting, Processing, and Storing Data for AI

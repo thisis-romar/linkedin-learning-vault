@@ -27,7 +27,7 @@ tags:
   - skill/digital-accessibility
   - skill/wordpress
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![WordPress: Accessibility](https://media.licdn.com/dms/image/v2/D560DAQFTPDbgaebkNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686181045304?e=2147483647&amp;v=beta&amp;t=PN5YudqqOOHIILuUQizIX5Q_tNQcUNp_ProAXfwgChc)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-with-custom-gpts-copilots-and-ai-agents"
+url: https://www.linkedin.com/learning/paths/getting-started-with-custom-gpts-copilots-and-ai-agents
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,34 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Openai Chatgpt Creating Custom Gpts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ChatGPT- Publishing GPTs on the GPT Store]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ChatGPT- Crafting Exceptional GPTs for Enhanced Productivity and Innovation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Copilot Agents- Build Your Own AI Assistant in Copilot and Teams (No Code Required) (February 2025)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Getting Started with Autonomous Agents in Copilot Studio (No Code Required)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started with Custom GPTs, Copilots, and AI Agents

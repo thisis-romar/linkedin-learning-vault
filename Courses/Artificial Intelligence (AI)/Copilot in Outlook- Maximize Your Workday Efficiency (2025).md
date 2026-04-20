@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Copilot in Outlook: Maximize Your Workday Efficiency (2025)](https://media.licdn.com/dms/image/v2/D4D0DAQG0BgMvqv6JRA/learning-public-crop_675_1200/B4DZVeVSIDHkAY-/0/1741044393136?e=2147483647&amp;v=beta&amp;t=lkstJqZPklqrExqZ0B5pELn2hnHixJjf6QWU_pIcalA)

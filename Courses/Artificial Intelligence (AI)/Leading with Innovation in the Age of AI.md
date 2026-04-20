@@ -32,7 +32,7 @@ tags:
   - skill/ai-for-leadership
   - skill/leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leading with Innovation in the Age of AI](https://media.licdn.com/dms/image/v2/D560DAQEQ2YSgHz5K0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721248100559?e=2147483647&amp;v=beta&amp;t=2Ssz55RTD1ZL0aUH4zKLmqybu4Ao8GMrTgcGTPh8Mqk)

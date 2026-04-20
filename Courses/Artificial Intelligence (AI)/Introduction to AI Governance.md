@@ -38,7 +38,7 @@ tags:
   - skill/data-governance
   - skill/ai-governance
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to AI Governance](https://media.licdn.com/dms/image/v2/D560DAQHc6_dz2wETeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707166447052?e=2147483647&amp;v=beta&amp;t=6_sPQphGy-K_oNvC_225It9xnGmg4G6RipMpJIWFzhU)

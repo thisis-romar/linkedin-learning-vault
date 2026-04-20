@@ -25,7 +25,7 @@ tags:
   - skill/office-365-administration
   - skill/powershell
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PowerShell for Microsoft 365 Administration](https://media.licdn.com/dms/image/v2/C560DAQEuh7ybpgsnNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639075040486?e=2147483647&amp;v=beta&amp;t=eGWEUoCTqR6GJ6_yv7gMA82FJrhEUZRAR21qpbgSC1A)

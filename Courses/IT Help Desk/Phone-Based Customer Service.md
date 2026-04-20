@@ -25,7 +25,7 @@ tags:
   - skill/professional-phone-skills
   - skill/customer-service
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Phone-Based Customer Service](https://media.licdn.com/dms/image/v2/C4E0DAQFjSHWCcikLXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1591394884791?e=2147483647&amp;v=beta&amp;t=DxcxCq8jMxpLAXUYTt4Xga6k_ZKeFKqVAq4KkNlkfAo)

@@ -25,7 +25,7 @@ tags:
   - skill/staging-to-live
   - skill/wordpress-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![WordPress: Staging a Site](https://media.licdn.com/dms/image/v2/C560DAQF5achG5lqJSg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646680400511?e=2147483647&amp;v=beta&amp;t=ge3URsuajV5fWmMo9tqRLzHBxClATHqwk_P6mF9FRHc)

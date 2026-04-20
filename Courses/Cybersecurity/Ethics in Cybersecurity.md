@@ -17,7 +17,7 @@ tags:
   - course
   - topic/security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethics in Cybersecurity](https://media.licdn.com/dms/image/v2/D560DAQG8iLo0AGhfBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720814079251?e=2147483647&amp;v=beta&amp;t=wogpc7s6AJvH0IkQ0r4NgaZz6vsxzzFobZCoeX6iNVE)

@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/change-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leading with Generative AI: Master Change Management for Success](https://media.licdn.com/dms/image/v2/D4E0DAQFmvBf7B5-zzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736530265864?e=2147483647&amp;v=beta&amp;t=wLR35OKH7ufOOcCwMnaLMyaWlBA9-q00JbESkKfXmQU)

@@ -24,7 +24,7 @@ tags:
   - skill/strengths-development
   - skill/influencing-others
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Use Your Strengths For Impact And Influence At Work](https://media.licdn.com/dms/image/v2/D560DAQFoq6hzM0BbPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684876640638?e=2147483647&amp;v=beta&amp;t=pbUd8A3if3PWNolV9qEqZChZShzcZWDRqEOJNEcbBJM)

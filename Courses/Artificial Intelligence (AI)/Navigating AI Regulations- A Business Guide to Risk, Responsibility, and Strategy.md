@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/regulatory-compliance
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Navigating AI Regulations: A Business Guide to Risk, Responsibility, and Strategy](https://media.licdn.com/dms/image/v2/D560DAQHv_puzuKqWDQ/learning-public-crop_675_1200/B56ZfrLyxXGQAc-/0/1751997427552?e=2147483647&amp;v=beta&amp;t=kTNdEFvTmUl5SsszEKqYKAxRRRpzsqAy5ERS4Zb6K3k)

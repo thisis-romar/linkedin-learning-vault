@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Power BI Mistakes to Avoid](https://media.licdn.com/dms/image/v2/D4E0DAQHTsj7H8uVsOg/learning-public-crop_675_1200/B4EZoYUD9ZIMAY-/0/1761344504410?e=2147483647&amp;v=beta&amp;t=2ZJo0bTFw9B8QCHnr8iqCnS2AIsf6HthRg1Owi3Xlsw)

@@ -32,7 +32,7 @@ tags:
   - skill/generative-ai-for-recruiting
   - skill/recruiting
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI, Recruiting, and Talent Acquisition](https://media.licdn.com/dms/image/v2/D560DAQHxGy-CJZ5wvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695680417870?e=2147483647&amp;v=beta&amp;t=oBUjeYScixc-EKatZ6WDzDEAfWszH8YSleOKh5LgYV4)

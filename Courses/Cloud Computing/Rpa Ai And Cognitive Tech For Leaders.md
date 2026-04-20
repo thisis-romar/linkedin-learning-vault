@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/digital-transformation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Rpa Ai And Cognitive Tech For Leaders](https://media.licdn.com/dms/image/v2/C4E0DAQFh_Mmm1UhdYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669417291?e=2147483647&amp;v=beta&amp;t=5NrTyIfAsHI2HQ4DnGvDzuzuoQLEBkwvy8q9n1aQFJk)

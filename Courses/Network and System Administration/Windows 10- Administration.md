@@ -27,7 +27,7 @@ tags:
   - topic/it-help-desk
   - skill/windows-10
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Windows 10: Administration](https://media.licdn.com/dms/image/v2/C4D0DAQFqZKdHBoYpXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1603818996523?e=2147483647&amp;v=beta&amp;t=A8oeIXuglxvpOm7pMmg1vcTD2WAW_rc-xFlHwDWPTJ0)

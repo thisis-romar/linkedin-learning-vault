@@ -27,7 +27,7 @@ tags:
   - skill/mobile-software-development
   - skill/mobile-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Software Testing: Planning Tests for Mobile](https://media.licdn.com/dms/image/v2/C4E0DAQEvwCcfgu5New/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628887907716?e=2147483647&amp;v=beta&amp;t=zLmXecj1xma3Wsh-6jw5d4C9zUHUSkoytd_EMfkYa5A)

@@ -6,7 +6,7 @@ linkedin_topic: Hardware
 tags:
   - moc
   - topic/hardware
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Hardware

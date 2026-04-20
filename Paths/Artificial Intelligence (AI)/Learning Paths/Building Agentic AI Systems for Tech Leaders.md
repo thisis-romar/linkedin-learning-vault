@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/building-agentic-ai-systems-for-tech-leaders"
+url: https://www.linkedin.com/learning/paths/building-agentic-ai-systems-for-tech-leaders
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,42 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Preparing Your Organization For Ai Agents]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agentic AI Fundamentals- Architectures, Frameworks, and Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Transforming Business with AI Agents- Autonomous Efficiency and Decision-Making]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leading Through AI Agent Disruption]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Designing Agentic AI Products (No Code Required)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Agentic AI for Developers- Concepts and Application for Enterprises]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building Agentic AI Systems for Tech Leaders

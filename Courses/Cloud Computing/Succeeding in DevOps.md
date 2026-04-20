@@ -31,7 +31,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Succeeding in DevOps](https://media.licdn.com/dms/image/v2/C4E0DAQF04a2Sl6g7yw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572285915285?e=2147483647&amp;v=beta&amp;t=bqyUiNjSrn5iTbqbeKvr1lYEo_ehbRk-l0N1HLEtV_g)

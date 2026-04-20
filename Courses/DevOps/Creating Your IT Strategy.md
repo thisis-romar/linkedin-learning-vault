@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-strategic-planning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Creating Your IT Strategy](https://media.licdn.com/dms/image/v2/C4D0DAQF-ya9njt1iAg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589403154535?e=2147483647&amp;v=beta&amp;t=gpL-56UnJeWPsueTMhulpwIDTWMUZhLULVmw2yd5kC8)

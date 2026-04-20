@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/office-365-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft 365 for Administrators: Supporting Users](https://media.licdn.com/dms/image/v2/C4E0DAQG3wU7KTFdjDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581636946697?e=2147483647&amp;v=beta&amp;t=W_zRJDPMaNxDSN65_bQOJWdSKUgDoSP7EyySfd5K9n8)

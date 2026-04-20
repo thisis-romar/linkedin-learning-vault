@@ -26,7 +26,7 @@ tags:
   - skill/cascading-style-sheets-css
   - skill/interactive-web-content
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![CSS: Animation](https://media.licdn.com/dms/image/v2/C4E0DAQE9uYdz7sm7Mw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668021326670?e=2147483647&amp;v=beta&amp;t=QLJ9vKjw6QjuMcPy0oy2pjU8WAxkM5JDrid6vimzvgQ)

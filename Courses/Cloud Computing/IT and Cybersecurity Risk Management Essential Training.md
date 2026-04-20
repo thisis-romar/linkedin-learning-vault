@@ -19,7 +19,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![IT and Cybersecurity Risk Management Essential Training](https://media.licdn.com/dms/image/v2/C560DAQHLYZ-cHRHL8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643738319752?e=2147483647&amp;v=beta&amp;t=e8YKnjzHJDyDVBAur58Ctt3_MGtmi8VIsXaXdrPn_XQ)

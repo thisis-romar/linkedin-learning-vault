@@ -28,7 +28,7 @@ tags:
   - skill/digital-authentication
   - skill/php
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PHP: User Authentication](https://media.licdn.com/dms/image/v2/C4E0DAQFloSykEzyuZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630601162735?e=2147483647&amp;v=beta&amp;t=IMAwMAd1iIz9kPfdmDaShrr20m40ryqsJvlAa9tVz7U)

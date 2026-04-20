@@ -30,7 +30,7 @@ tags:
   - skill/ubuntu
   - skill/user-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ubuntu Linux: User and Group Management](https://media.licdn.com/dms/image/v2/C4E0DAQHWtw6_GGyO_Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669524687?e=2147483647&amp;v=beta&amp;t=3hDsELRr-8QbZ0aMN2K9AEyJ7vm_7n6VXu6_aiEBc0I)

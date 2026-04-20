@@ -17,7 +17,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Programming Foundations: Object-Oriented Design](https://media.licdn.com/dms/image/v2/C4E0DAQF2DX4_GzNtiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567115269548?e=2147483647&amp;v=beta&amp;t=g5LmcVPdzhfW9lqHFYmnAiAN2xMN4TIjV779tiJVtb0)

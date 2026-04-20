@@ -29,7 +29,7 @@ tags:
   - skill/sql
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced SQL for Data Science: Time Series](https://media.licdn.com/dms/image/v2/C4E0DAQG1roPdCoYYiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619133486775?e=2147483647&amp;v=beta&amp;t=7EQ9E6PiCWCM5aooupJM6MuzgfOq3qJoxusoU4YHP1M)

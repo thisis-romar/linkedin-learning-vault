@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: Denial of Service](https://media.licdn.com/dms/image/v2/C4E0DAQHF86xwF-3bUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668962818?e=2147483647&amp;v=beta&amp;t=fuxkiPUMF5ouUDq-fE3oVXsQVZkrHH56P9ZQiW1bLdM)

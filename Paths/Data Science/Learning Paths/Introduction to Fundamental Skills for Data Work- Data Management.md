@@ -2,18 +2,48 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-management"
+url: https://www.linkedin.com/learning/paths/introduction-to-fundamental-skills-for-data-work-data-management
 course_count: 6
 linkedin_topics:
   - Data Science
   - Database Management
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/data-science
   - topic/database-management
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Database Foundations Database Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Management Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Database Foundations- Administration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Data Governance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Secure Data Management for AI Implementation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Steward Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Introduction to Fundamental Skills for Data Work: Data Management

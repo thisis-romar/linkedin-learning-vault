@@ -29,7 +29,7 @@ tags:
   - skill/tech-career-skills
   - skill/interview-preparation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Nail Your DevOps Interview](https://media.licdn.com/dms/image/v2/C4E0DAQECwpzmHys7xQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572464186175?e=2147483647&amp;v=beta&amp;t=2VlIqkFdSxT2eBLkD3TyX8jl9v0MTSpKZnE7AZViB0E)

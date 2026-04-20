@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning SQL Programming](https://media.licdn.com/dms/image/v2/D4D0DAQGAqoJIz-W-wA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702690438853?e=2147483647&amp;v=beta&amp;t=qDz6L00bvr_LCysHubqU3mGGX8TwhC3El8rynmyKzmo)

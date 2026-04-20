@@ -27,7 +27,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On AI: Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)](https://media.licdn.com/dms/image/v2/D4E0DAQEk9eDDyM1BhA/learning-public-crop_675_1200/B4EZh7TqMEGoAY-/0/1754415408708?e=2147483647&amp;v=beta&amp;t=0dIpyFdMLLo4p4eAU1B14BV_ODp9xNq3_9Urb76tFBQ)

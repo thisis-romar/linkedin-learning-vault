@@ -27,7 +27,7 @@ tags:
   - topic/data-science
   - skill/microsoft-teams
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft Teams Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQHVMBETeAzKRw/learning-public-crop_675_1200/B4DZYmTInHGkAc-/0/1744399272640?e=2147483647&amp;v=beta&amp;t=ksyVQTMYkak6wR-Rv7lH0ZDnXID-IkU4ePvFJTmZpZU)

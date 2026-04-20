@@ -21,7 +21,7 @@ tags:
   - topic/data-science
   - skill/financial-modeling
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Financial Modeling Foundations (2018)](https://media.licdn.com/dms/image/v2/D4E0DAQFDG8Y4p_1BBA/learning-public-crop_675_1200/B4EZnzj.5JGcA8-/0/1760727920560?e=2147483647&amp;v=beta&amp;t=r43hCGTg2qhrC05ZzDV4B8M1E1NIq_NEoScnbUxtVRg)

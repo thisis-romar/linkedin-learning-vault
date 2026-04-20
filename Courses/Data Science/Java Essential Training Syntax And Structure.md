@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Java Essential Training Syntax And Structure](https://media.licdn.com/dms/image/v2/D560DAQHJ39iKZdeJeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724878410217?e=2147483647&amp;v=beta&amp;t=SNPFodc0nkml-jZeEtt0KAs-QEAP2ezO9qFoASAhsaY)

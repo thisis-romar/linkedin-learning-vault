@@ -26,7 +26,7 @@ tags:
   - skill/asp-net-core
   - skill/web-application-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Securing ASP.NET Core Apps: Advanced Techniques for Web Application Security](https://media.licdn.com/dms/image/v2/C560DAQFBrzLL9d6MUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675902640846?e=2147483647&amp;v=beta&amp;t=xVhuNqX8KVDIMyW5xfjRG_gRglVxHxaWZklNbQDJa2Q)

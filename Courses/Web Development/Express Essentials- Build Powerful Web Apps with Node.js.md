@@ -30,7 +30,7 @@ tags:
   - skill/web-application-development
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Express Essentials: Build Powerful Web Apps with Node.js](https://media.licdn.com/dms/image/v2/C560DAQGKtfaW13vibA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643826197423?e=2147483647&amp;v=beta&amp;t=X81OoNDAWbAW2ZkeAynmerPGMiUmmdbLuq-X-VbDMd0)

@@ -2,16 +2,66 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-as-an-it-help-desk-specialist"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-as-an-it-help-desk-specialist
 course_count: 11
 linkedin_topics:
   - IT Help Desk
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/it-help-desk
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Windows 10 Configure And Support Core Services]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Windows 10- Manage and Maintain Windows 10]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Windows 10 for IT Support- Advanced Troubleshooting]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Pc Maintenance And Performance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Computer Components and Peripherals for IT Technicians]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Service Desk- Customer Service Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Writing Customer Service Emails]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Phone-Based Customer Service]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Customer Service- Problem-Solving and Troubleshooting]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Working with Upset Customers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Innovative Customer Service Techniques]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills as an IT Help Desk Specialist

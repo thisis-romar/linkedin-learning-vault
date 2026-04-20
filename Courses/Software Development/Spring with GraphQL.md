@@ -25,7 +25,7 @@ tags:
   - skill/spring-framework
   - skill/graphql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Spring with GraphQL](https://media.licdn.com/dms/image/v2/C560DAQEn-bZc-Hdr2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657817616889?e=2147483647&amp;v=beta&amp;t=I-yHZOrfX8EuGKsxAYBurTyQAEpl0j55g6C_VfvN1aI)

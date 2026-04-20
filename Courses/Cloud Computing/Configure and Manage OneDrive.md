@@ -26,7 +26,7 @@ tags:
   - skill/microsoft-onedrive
   - skill/system-configuration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Configure and Manage OneDrive](https://media.licdn.com/dms/image/v2/D560DAQEzegTPSdUacQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687470645209?e=2147483647&amp;v=beta&amp;t=e8AG9I-OQiX0ONqeyObeM6Oem6l2rRe2G2zYr38MLos)

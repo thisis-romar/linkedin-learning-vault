@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Prompt Engineering with LangChain](https://media.licdn.com/dms/image/v2/D560DAQHu5CCKBy4pyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713212432463?e=2147483647&amp;v=beta&amp;t=IYFJ7ivG7FaMm2fPpWCfZiBWLW_ckaXzz2Q58sD-r0k)

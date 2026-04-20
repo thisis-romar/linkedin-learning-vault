@@ -2,16 +2,50 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/improve-your-ux-design-skills"
+url: https://www.linkedin.com/learning/paths/improve-your-ux-design-skills
 course_count: 7
 linkedin_topics:
   - Web Development
-louvain_cluster: 11
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Sketching For Ux Designers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[UX Deep Dive- Analyzing Data]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[UX Foundations- Storytelling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[UX Deep Dive- Usability Testing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[UX Foundations- Generational Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Empathy in UX Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Surveys and Questionnaires for UX Projects]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Improve Your UX Design Skills

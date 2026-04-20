@@ -25,7 +25,7 @@ tags:
   - skill/email-etiquette
   - skill/customer-service
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Writing Customer Service Emails](https://media.licdn.com/dms/image/v2/D560DAQHNhnO1A6_T4Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686353106982?e=2147483647&amp;v=beta&amp;t=9n9TBZFKWjFiFipbWUqJKcIhvuJx9w7yrj42DzspYjU)

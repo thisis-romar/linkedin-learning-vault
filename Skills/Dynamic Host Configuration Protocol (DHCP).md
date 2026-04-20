@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/dynamic-host-configuration-protocol-dhcp
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Dynamic Host Configuration Protocol (DHCP)

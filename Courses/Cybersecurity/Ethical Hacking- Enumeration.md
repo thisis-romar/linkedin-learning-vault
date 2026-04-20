@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: Enumeration](https://media.licdn.com/dms/image/v2/C560DAQH4q52rvtzUqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620842870509?e=2147483647&amp;v=beta&amp;t=vzdPFK7DX_NZaYLUqSdbOJjKVovvwllCVAZG35zTeFA)

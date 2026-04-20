@@ -29,7 +29,7 @@ tags:
   - skill/security-awareness
   - skill/cloud-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Awareness: Cloud Security (2022)](https://media.licdn.com/dms/image/v2/D560DAQEGAvyIJDYcWg/learning-public-crop_675_1200/B56ZgfRdMzHQAY-/0/1752871327211?e=2147483647&amp;v=beta&amp;t=cqqxPZMtXncYLxGEcDvoXKhuwS8NfJ7VDhXCO6Xmiwc)

@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/building-ai-products-implementing-responsible-ai-professional-certificate-by-linkedin-learning"
+url: https://www.linkedin.com/learning/paths/building-ai-products-implementing-responsible-ai-professional-certificate-by-linkedin-learning
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -16,8 +16,42 @@ tags:
   - topic/security
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Welcome To The Building Ai Products Implementing Responsible Ai Professional Certificate]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Implementing a Data Strategy for Responsible AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning XAI- Explainable Artificial Intelligence]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible AI and Application Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Integrating AI into the Product Architecture]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[GenAIOps Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Data Governance, Compliance, and Auditing for Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building AI Products: Implementing Responsible AI Professional Certificate by LinkedIn Learning

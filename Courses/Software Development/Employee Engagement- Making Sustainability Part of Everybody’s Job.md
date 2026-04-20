@@ -25,7 +25,7 @@ tags:
   - skill/corporate-sustainability
   - skill/job-description-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Employee Engagement: Making Sustainability Part of Everybody’s Job](https://media.licdn.com/dms/image/v2/D4D0DAQHXX0_TnTIpsw/learning-public-crop_675_1200/B4DZZkcdRXG4Ac-/0/1745441904103?e=2147483647&amp;v=beta&amp;t=Q6gWs8HHYlC5LZSe2-JcUO0Wbhl27iezfnAhReQRS00)

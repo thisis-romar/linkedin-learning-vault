@@ -26,7 +26,7 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C#: Design Patterns Part 1](https://media.licdn.com/dms/image/v2/C4E0DAQGABZchVc3mTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602606441011?e=2147483647&amp;v=beta&amp;t=xgSclet3dNidpbvP1V3N9s8QZgtVE39X_sfqUtP32VA)

@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/knowledge-graphs
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Knowledge Graph Data Engineering for Generative AI Use Cases](https://media.licdn.com/dms/image/v2/D4E0DAQE8e7XXQFryWQ/learning-public-crop_675_1200/B4EZbqbWRDHkAY-/0/1747689760566?e=2147483647&amp;v=beta&amp;t=bzdG_sDdAhC9TrpjXlY5fUPEP1lYnEb6VzMLqd4AKvE)

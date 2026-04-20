@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/cloud-strategy-professional-certificate-by-linkedin-learning"
+url: https://www.linkedin.com/learning/paths/cloud-strategy-professional-certificate-by-linkedin-learning
 course_count: 9
 linkedin_topics:
   - Cloud Computing
@@ -14,8 +14,50 @@ tags:
   - topic/cloud-computing
   - topic/security
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Security Concepts- Services and Compliance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Architecture- Core Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Architecture- Design Decisions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Security Architecture for the Enterprise]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Planning a Multicloud Solution (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud for Business- Developing a Cloud Center of Excellence]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[FinOps Essentials for Cloud Deployments]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Including Sustainability in Your Cloud Strategy (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Cloud Strategy Professional Certificate by LinkedIn Learning

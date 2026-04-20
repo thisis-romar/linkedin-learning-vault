@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/arcgis-pro
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![ArcGIS Pro Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHYF8HoQvJcgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689270148902?e=2147483647&amp;v=beta&amp;t=3gJIgmAxGWmO0biJmJZa2rNSPW8VAjaxbd7UtuLcvoQ)

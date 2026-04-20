@@ -25,7 +25,7 @@ tags:
   - skill/dashboards
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Power Bi Dashboards For Beginners](https://media.licdn.com/dms/image/v2/D560DAQGD665B0rXo0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718725456568?e=2147483647&amp;v=beta&amp;t=iDMNvfiEgR9UK4qdFIvOM81Il_aaOBkvw4fp48iSLvo)

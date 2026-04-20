@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/building-your-skills-in-spring-development"
+url: https://www.linkedin.com/learning/paths/building-your-skills-in-spring-development
 course_count: 4
 linkedin_topics:
   - Software Development
@@ -10,8 +10,30 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Spring 6 Design Patterns]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Spring with GraphQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Spring Framework in Depth]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Spring- Effective Integration Testing with Spring Boot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building Your Skills in Spring Development

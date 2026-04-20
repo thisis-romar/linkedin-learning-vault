@@ -6,7 +6,7 @@ course_count: 41
 tags:
   - skill
   - skill/microsoft-excel
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Microsoft Excel

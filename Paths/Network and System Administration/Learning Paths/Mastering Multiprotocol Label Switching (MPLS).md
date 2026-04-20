@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/mastering-multiprotocol-label-switching-mpls"
+url: https://www.linkedin.com/learning/paths/mastering-multiprotocol-label-switching-mpls
 course_count: 4
 linkedin_topics:
   - Network and System Administration
@@ -10,8 +10,30 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Mpls Foundations Getting Started With Mpls]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MPLS L3VPN Foundation and Implementation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MPLS- Traffic Engineering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[MPLS Segment Routing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Mastering Multiprotocol Label Switching (MPLS)

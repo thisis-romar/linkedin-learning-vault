@@ -30,7 +30,7 @@ tags:
   - skill/data-analysis
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![R for Data Science: Analysis and Visualization](https://media.licdn.com/dms/image/v2/C560DAQFqJNVUz0fQoQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674158733713?e=2147483647&amp;v=beta&amp;t=NAvM1qkexUSila_8hrecoe6TepNIcNlaLmLvqd6fAgs)

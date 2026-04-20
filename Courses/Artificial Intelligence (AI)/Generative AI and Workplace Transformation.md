@@ -26,7 +26,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-transformation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI and Workplace Transformation](https://media.licdn.com/dms/image/v2/D560DAQHvr9oHzs2ycA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694210060904?e=2147483647&amp;v=beta&amp;t=_B1m1PyegaOAZZNNhPO-B-6sYltHkiVnOWCkZeuCFQg)

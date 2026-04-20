@@ -21,7 +21,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel: Lookup Functions in Depth](https://media.licdn.com/dms/image/v2/D4D0DAQFmPgikXok2PA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732666105347?e=2147483647&amp;v=beta&amp;t=8IlepcWVjFYxCIELc_xxN0qsLH0SZheEHvP7T2_-RXI)

@@ -29,7 +29,7 @@ tags:
   - skill/data-literacy
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Big Data in the Age of AI](https://media.licdn.com/dms/image/v2/D560DAQGX7n4al0qACA/learning-public-crop_675_1200/B56ZyI1O3AHYAY-/0/1771822182439?e=2147483647&amp;v=beta&amp;t=vOf3EjHPP3B7fhuzuOWtA3l9csnfWE56LV9uZXUYCQ8)

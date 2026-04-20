@@ -6,7 +6,7 @@ course_count: 8
 tags:
   - skill
   - skill/natural-language-processing-nlp
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Natural Language Processing (NLP)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/prepare-for-the-excel-associate-microsoft-office-specialist-exam-for-m365-apps-mo-210"
+url: https://www.linkedin.com/learning/paths/prepare-for-the-excel-associate-microsoft-office-specialist-exam-for-m365-apps-mo-210
 course_count: 7
 linkedin_topics:
   - Data Science
@@ -10,8 +10,42 @@ louvain_cluster: 9
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Excel Essential Training (Microsoft 365)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel Introduction To Formulas And Functions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Introduction to Formatting]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel PivotTable Quick Tips]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Dashboards for Beginners (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel- Introduction to Charts and Graphs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Office Specialist- Excel Associate (Microsoft 365 Apps) Cert Prep]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)

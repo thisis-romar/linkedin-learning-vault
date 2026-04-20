@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/network-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Networking Foundations: Wide Area Networks (WANs)](https://media.licdn.com/dms/image/v2/D560DAQE4mMCTFW78Lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712791908525?e=2147483647&amp;v=beta&amp;t=aE2ZVLXxqea9VlEVjsqxpJMUPc2klkwCdzeqp6Wo6VI)

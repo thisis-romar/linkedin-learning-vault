@@ -26,7 +26,7 @@ tags:
   - skill/financial-statement-analysis
   - skill/financial-modeling
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Financial Modeling and Forecasting Financial Statements (2019)](https://media.licdn.com/dms/image/v2/C4E0DAQGSjALmrJrMbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1569606972711?e=2147483647&amp;v=beta&amp;t=O6BdrkH8goILCohd8LPDNqyyzL6-Bfl3dgmak68wQ2Y)

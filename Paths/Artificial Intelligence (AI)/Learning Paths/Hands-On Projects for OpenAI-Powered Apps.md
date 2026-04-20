@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/hands-on-projects-for-openai-powered-apps"
+url: https://www.linkedin.com/learning/paths/hands-on-projects-for-openai-powered-apps
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,34 @@ tags:
   - topic/artificial-intelligence
   - topic/network-and-system-administration
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Gpt Foundations Building Ai Powered Apps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Getting Hands-On with GPT Models- Tips and Tricks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On OpenAI API- Building a Real-World Solution]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Build a Document Search Assistant with Node and OpenAI''s Assistants API]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Hands-On Projects for OpenAI-Powered Apps

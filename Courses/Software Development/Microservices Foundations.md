@@ -23,7 +23,7 @@ tags:
   - topic/security
   - skill/microservices
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microservices Foundations](https://media.licdn.com/dms/image/v2/D560DAQE5c_GBqVVYtQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709077523412?e=2147483647&amp;v=beta&amp;t=oySZ55Awl-tpuGMc9MmTcYVtsW52836ggVv59NACB7I)

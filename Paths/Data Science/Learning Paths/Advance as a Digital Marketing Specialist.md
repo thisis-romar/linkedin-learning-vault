@@ -2,16 +2,58 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-as-a-digital-marketing-specialist"
+url: https://www.linkedin.com/learning/paths/advance-as-a-digital-marketing-specialist
 course_count: 9
 linkedin_topics:
   - Data Science
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Digital Marketing Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Marketing Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SEO Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Social Media Marketing Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Content Marketing Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Email and Newsletter Marketing Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Marketing Analytics Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Marketing Foundations- Ecommerce]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Marketing Foundations- Customer Decision Journey]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance as a Digital Marketing Specialist

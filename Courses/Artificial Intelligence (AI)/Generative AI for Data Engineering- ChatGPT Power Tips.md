@@ -31,7 +31,7 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI for Data Engineering: ChatGPT Power Tips](https://media.licdn.com/dms/image/v2/D4D0DAQFXQmNj82ohNw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732151706004?e=2147483647&amp;v=beta&amp;t=0BJqMC7BdeLMRy4P13hAme1XuUQfjlv94EmoCSSSFfQ)

@@ -16,7 +16,7 @@ tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Lean Six Sigma Foundations](https://media.licdn.com/dms/image/v2/C4D0DAQGnhWIx2tgcbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568247813946?e=2147483647&amp;v=beta&amp;t=2zQzF0viEfeZvAKCl7X9x_6e_msO4riy_eclajviJXY)

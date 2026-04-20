@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-your-python-skills"
+url: https://www.linkedin.com/learning/paths/master-your-python-skills
 course_count: 11
 linkedin_topics:
   - Software Development
@@ -10,8 +10,58 @@ louvain_cluster: 14
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Advanced Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Python- Classes and Functions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Python- Working With Data]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Data Structures- Stacks, Deques, and Queues]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Data Structures- Linked Lists]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Python- Practical Database Examples]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Unit Testing in Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Python- Working with Databases]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python- Working with Predictive Analytics (2019)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Level Up- Advanced Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Case Study- Visualize Complex Microservice Data Using Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master Your Python Skills

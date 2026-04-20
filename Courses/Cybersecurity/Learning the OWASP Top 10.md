@@ -28,7 +28,7 @@ tags:
   - skill/owasp
   - skill/web-application-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning the OWASP Top 10](https://media.licdn.com/dms/image/v2/C560DAQGSBppCTJII3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638474196848?e=2147483647&amp;v=beta&amp;t=s3ov-JYKHSr9S8zJMdon91wmNJLa1ski9OqwjTUzwuc)

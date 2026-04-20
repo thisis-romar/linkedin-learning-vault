@@ -25,7 +25,7 @@ tags:
   - topic/devops
   - skill/terraform
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Terraform](https://media.licdn.com/dms/image/v2/C560DAQHxgeea4RepGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666200700025?e=2147483647&amp;v=beta&amp;t=OrjMwXJjQOkfLe2WqCtJ1qfKPLib5_U1ws5FPeCgpYg)

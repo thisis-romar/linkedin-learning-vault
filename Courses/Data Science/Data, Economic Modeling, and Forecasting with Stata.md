@@ -27,7 +27,7 @@ tags:
   - skill/stata
   - skill/financial-forecasting
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data, Economic Modeling, and Forecasting with Stata](https://media.licdn.com/dms/image/v2/C4E0DAQHyC1qxZQ0_KA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614281665124?e=2147483647&amp;v=beta&amp;t=ekMtTNbTL9SpCBzLMbkphsWmsqCValEmaykopMFJc-g)

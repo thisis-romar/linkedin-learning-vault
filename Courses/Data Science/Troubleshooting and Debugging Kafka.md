@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/apache-kafka
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Troubleshooting and Debugging Kafka](https://media.licdn.com/dms/image/v2/D560DAQHCksw3BHDjsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689008871465?e=2147483647&amp;v=beta&amp;t=WU920LlkQbZxfYmr4GmIJy3-uVcOWsB8YVOTmuzFY68)

@@ -23,7 +23,7 @@ tags:
   - skill/adobe-xd
   - skill/user-interface-prototyping
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Adobe XD Essential Training: Prototype](https://media.licdn.com/dms/image/v2/C560DAQEXXWYA_QRuDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635877344665?e=2147483647&amp;v=beta&amp;t=5rcMogn5-W2jzc436Frp4YlETSFrWfO3lGwfDMIMFOQ)

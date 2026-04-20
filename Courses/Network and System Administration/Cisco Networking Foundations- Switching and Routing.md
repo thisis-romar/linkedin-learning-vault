@@ -27,7 +27,7 @@ tags:
   - skill/cisco-networking
   - skill/routing-protocols
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cisco Networking Foundations: Switching and Routing](https://media.licdn.com/dms/image/v2/C560DAQHcNdXQfxQLtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661796832117?e=2147483647&amp;v=beta&amp;t=jaeJ4QHP4Xi5wfipZOwwqY1T71qPRjJ2l3CBCTuKuh0)

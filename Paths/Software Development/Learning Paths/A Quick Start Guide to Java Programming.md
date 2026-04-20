@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/a-quick-start-guide-to-java-programming"
+url: https://www.linkedin.com/learning/paths/a-quick-start-guide-to-java-programming
 course_count: 5
 linkedin_topics:
   - Software Development
@@ -10,8 +10,34 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Programming Foundations Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Beyond the Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Java 17]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On Introduction- Java]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Practice It- Java]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # A Quick Start Guide to Java Programming

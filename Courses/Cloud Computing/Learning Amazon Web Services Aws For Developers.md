@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Amazon Web Services Aws For Developers](https://media.licdn.com/dms/image/v2/C560DAQGxOurbjDgqQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655842537941?e=2147483647&amp;v=beta&amp;t=2bSb2ezH08-E_4uYUEBGrXrab3lU3GW9b9p9z1fGsxY)

@@ -27,7 +27,7 @@ tags:
   - skill/test-driven-development
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C# Test-Driven Development](https://media.licdn.com/dms/image/v2/C560DAQHer6AaKu2izw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632339054345?e=2147483647&amp;v=beta&amp;t=PAsefRZzFZKcfhCMxSynhTP9lh2Eqox3FO8f_RPaLRY)

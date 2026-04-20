@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/develop-your-skills-with-the-openai-api"
+url: https://www.linkedin.com/learning/paths/develop-your-skills-with-the-openai-api
 course_count: 10
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,54 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Openai Api Introduction]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OpenAI API- Working with Files]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OpenAI API- Function Calling (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OpenAI API- Embeddings]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OpenAI API- Fine-Tuning]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OpenAI API- Image Generation with DALL-E]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OpenAI API- Vision]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OpenAI API- Speech]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OpenAI API- Moderation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[OpenAI API- Code Interpreter and Advanced Data Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Develop Your Skills with the OpenAI API

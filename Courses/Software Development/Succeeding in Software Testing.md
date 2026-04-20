@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/software-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Succeeding in Software Testing](https://media.licdn.com/dms/image/v2/C560DAQGEMvzPek7SWA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1645642371002?e=2147483647&amp;v=beta&amp;t=V8rSSDYRLWaDHvV0uH7vXwyUwyNwtM529NwMxqqHxRE)

@@ -19,7 +19,7 @@ tags:
   - topic/software-development
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Intelligent Automation Foundations](https://media.licdn.com/dms/image/v2/C560DAQEX-FBqnnLj-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651774719762?e=2147483647&amp;v=beta&amp;t=DSpHyvHBuEZ8j49VJ38WG6Koo9xiC3nG0vnPiRxOd7M)

@@ -26,7 +26,7 @@ tags:
   - skill/data-structures
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C#: Applied Data Structures](https://media.licdn.com/dms/image/v2/D560DAQHlhDcLmjPIhw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703201046259?e=2147483647&amp;v=beta&amp;t=aKmIwORZwOLbKWxDGC3xk9bxCQ4Br3bC7OFnIlEyJQs)

@@ -23,7 +23,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel: Introduction to Charts and Graphs](https://media.licdn.com/dms/image/v2/D560DAQENIptYDCQ87g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712092970143?e=2147483647&amp;v=beta&amp;t=U9mVANdTBWf6udW0xfVIWaqPdkgavi-fZ13q4WLeCno)

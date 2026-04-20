@@ -23,7 +23,7 @@ tags:
   - topic/devops
   - skill/devops
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![DevOps Foundations: Your First Project](https://media.licdn.com/dms/image/v2/D560DAQEpgiTxu5Hhzg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718999721632?e=2147483647&amp;v=beta&amp;t=AXa-UVZXmn6BchOxkEdy32o4JsYaeLwHjHmRShYWw3I)

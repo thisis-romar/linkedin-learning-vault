@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/excel-dashboards
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel: Dashboards for Beginners (2022)](https://media.licdn.com/dms/image/v2/C560DAQGTE1xmw56qPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646332884572?e=2147483647&amp;v=beta&amp;t=A_YBiv9b202EKo_aNxKfrvLQ6IrASwJfdoHtDOZi1gg)

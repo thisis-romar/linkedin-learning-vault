@@ -23,7 +23,7 @@ tags:
   - skill/business-communications
   - skill/email-etiquette
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Tips for Writing Business Emails](https://media.licdn.com/dms/image/v2/C4E0DAQF69xUl6o6wgg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118586371?e=2147483647&amp;v=beta&amp;t=zrroz047VVWNZgQnNUJIzc_6CuJ8ivWEsm21kIJshGc)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-node-js-skills"
+url: https://www.linkedin.com/learning/paths/advance-your-node-js-skills
 course_count: 8
 linkedin_topics:
   - Web Development
@@ -10,8 +10,46 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Node Js Security]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Node.js- Design Patterns]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Node.js- Testing and Code Quality]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Node.js- Debugging and Performance Tuning]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Express]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Node.js- Microservices]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Node.js]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Node.js- Scaling Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance your Node.js Skills

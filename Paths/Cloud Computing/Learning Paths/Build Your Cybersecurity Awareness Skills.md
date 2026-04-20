@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/build-your-cybersecurity-awareness-skills"
+url: https://www.linkedin.com/learning/paths/build-your-cybersecurity-awareness-skills
 course_count: 10
 linkedin_topics:
   - Cloud Computing
@@ -16,8 +16,54 @@ tags:
   - topic/security
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Cybersecurity At Work]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Awareness- AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Awareness- Cybersecurity Terminology]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Awareness- Social Engineering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Awareness- Phishing Attacks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Awareness- Cloud Security (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Awareness- Ransomware]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Awareness- IoT Devices]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Awareness- Protect Your Privacy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cybersecurity Awareness- Malware]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build Your Cybersecurity Awareness Skills

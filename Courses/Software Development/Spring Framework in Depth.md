@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/spring-framework
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Spring Framework in Depth](https://media.licdn.com/dms/image/v2/D4D0DAQHQkdsXWP-ZQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731028968463?e=2147483647&amp;v=beta&amp;t=-mjsjugJVQVObGKGZsHfNt1Pxh2dERYzXZ-sAX5je0o)

@@ -25,7 +25,7 @@ tags:
   - skill/threat-modeling
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Threat Modeling: Repudiation in Depth](https://media.licdn.com/dms/image/v2/C4E0DAQH8-fXfaBVyxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580924049084?e=2147483647&amp;v=beta&amp;t=Joe5xWPFhXDQwGbpluWFw-PoR38vGO2Ce9ypAHxcvZo)

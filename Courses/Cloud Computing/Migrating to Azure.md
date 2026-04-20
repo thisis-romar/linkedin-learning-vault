@@ -18,7 +18,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Migrating to Azure](https://media.licdn.com/dms/image/v2/C4E0DAQGeYa1VQBMDyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615309726156?e=2147483647&amp;v=beta&amp;t=26cH1vuDrmGXawS7YlKpoudC2P4s2bGtjItAg635gmk)

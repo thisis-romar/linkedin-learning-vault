@@ -30,7 +30,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning with Python: Association Rules](https://media.licdn.com/dms/image/v2/D4D0DAQGqEROTjtWi6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707245316436?e=2147483647&amp;v=beta&amp;t=R3fI7ZkwTMXbt5LGImFayQOPzqqlXGbp6e5uBeBMVt4)

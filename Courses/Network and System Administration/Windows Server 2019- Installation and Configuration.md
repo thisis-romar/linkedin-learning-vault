@@ -25,7 +25,7 @@ tags:
   - skill/server-configuration
   - skill/windows-server
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Windows Server 2019: Installation and Configuration](https://media.licdn.com/dms/image/v2/C4E0DAQH4KHbxM74BPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668826149?e=2147483647&amp;v=beta&amp;t=qqcy0Sj696N047EBY2vI4hIzhmH1qhLX9r9lUp2XrBk)

@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Functional Programming with PHP](https://media.licdn.com/dms/image/v2/C4E0DAQHFj8RRhllMwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1582824581850?e=2147483647&amp;v=beta&amp;t=VQVdHZQ48r6R9MtQAe5_Ta-5FTFYoiPH45po9FHErN8)

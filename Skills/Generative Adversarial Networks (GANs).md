@@ -6,7 +6,7 @@ course_count: 3
 tags:
   - skill
   - skill/generative-adversarial-networks-gans
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Generative Adversarial Networks (GANs)

@@ -6,7 +6,7 @@ course_count: 9
 tags:
   - skill
   - skill/django
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Django

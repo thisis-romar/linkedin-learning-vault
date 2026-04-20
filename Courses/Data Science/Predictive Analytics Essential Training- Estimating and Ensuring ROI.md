@@ -33,7 +33,7 @@ tags:
   - skill/roi-strategies
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Predictive Analytics Essential Training: Estimating and Ensuring ROI](https://media.licdn.com/dms/image/v2/C4E0DAQEp6iwGZ9dKPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621608850111?e=2147483647&amp;v=beta&amp;t=Ps6HFse2Kr047XDvBygV6lOph3oarWNIpn_FEch9V9E)

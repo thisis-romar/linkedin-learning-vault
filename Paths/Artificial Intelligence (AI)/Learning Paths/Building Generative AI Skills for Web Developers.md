@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/building-generative-ai-skills-for-web-developers"
+url: https://www.linkedin.com/learning/paths/building-generative-ai-skills-for-web-developers
 course_count: 10
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,54 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[What Is Generative AI-]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI vs. Traditional AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Prompt Engineering- How to Talk to the AIs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Prompting ChatGPT with Multimodal Techniques]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building PHP Applications with Generative AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Integrating Generative AI into JavaScript Web Projects]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Build an AI Application with React and AWS SageMaker]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Build with AI- Beyond Pair Programming with AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Programming for JavaScript Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Build a JavaScript AI App with React and the OpenAI API]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Building Generative AI Skills for Web Developers

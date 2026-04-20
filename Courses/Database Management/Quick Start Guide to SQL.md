@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Quick Start Guide to SQL](https://media.licdn.com/dms/image/v2/D560DAQFZHulkzmFrnA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725659883685?e=2147483647&amp;v=beta&amp;t=Zv-n-OcfMOZpNfyII_x1d-EXdvI4lsPEwYXG-QrDDHY)

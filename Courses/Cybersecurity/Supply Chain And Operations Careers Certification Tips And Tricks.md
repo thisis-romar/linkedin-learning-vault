@@ -23,7 +23,7 @@ tags:
   - skill/supply-chain-operations
   - skill/career-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Supply Chain And Operations Careers Certification Tips And Tricks](https://media.licdn.com/dms/image/v2/D560DAQEzD82BcxKqIg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707529774021?e=2147483647&amp;v=beta&amp;t=d_haMI8WqmYuIvSki9LnBjI_Aj-ZEpvpnLFSK252yts)

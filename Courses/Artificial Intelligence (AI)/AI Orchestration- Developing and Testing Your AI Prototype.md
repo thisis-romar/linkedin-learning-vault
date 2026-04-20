@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Orchestration: Developing and Testing Your AI Prototype](https://media.licdn.com/dms/image/v2/D4E0DAQES1rTsnPi3cQ/learning-public-crop_675_1200/B4EZWwZFpEG0Ac-/0/1742421122014?e=2147483647&amp;v=beta&amp;t=Y85moEEB3QN2DCcAk23GWziLQT4AcMYn8WNKPqqbMvs)

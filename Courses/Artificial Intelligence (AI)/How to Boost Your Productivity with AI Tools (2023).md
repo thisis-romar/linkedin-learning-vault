@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![How to Boost Your Productivity with AI Tools (2023)](https://media.licdn.com/dms/image/v2/D560DAQEyqtbenL5uPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689184260073?e=2147483647&amp;v=beta&amp;t=7sBW0t2hdFYiSW-ps9jfsLOIjYY0VCvmTxIxrZUzs5U)

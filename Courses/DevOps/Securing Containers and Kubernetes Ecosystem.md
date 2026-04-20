@@ -27,7 +27,7 @@ tags:
   - skill/kubernetes
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Securing Containers and Kubernetes Ecosystem](https://media.licdn.com/dms/image/v2/C4E0DAQHDGPzLMbnmyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1600898707127?e=2147483647&amp;v=beta&amp;t=QcCm1mdjY0iOu_Y2iHgZeiM8d3pFOs4yS7ykzqkwHjg)

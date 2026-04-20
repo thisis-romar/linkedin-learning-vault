@@ -27,7 +27,7 @@ tags:
   - skill/software-design-patterns
   - skill/microservices
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microservices: Design Patterns](https://media.licdn.com/dms/image/v2/D560DAQFKN7HJHs-plg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708468657858?e=2147483647&amp;v=beta&amp;t=EPE07Dmuw8BM7BuccZFKSJu15NIg5BbJl1mfb5COL-U)

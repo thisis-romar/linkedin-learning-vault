@@ -25,7 +25,7 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Data Analytics Part 2: Extending and Applying Core Knowledge](https://media.licdn.com/dms/image/v2/C560DAQG7DLi-4UC99w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624559649231?e=2147483647&amp;v=beta&amp;t=iTiduheAj2XDUCXDEmmfde1k8QseOoSEr-fCbWNC3_A)

@@ -29,7 +29,7 @@ tags:
   - skill/ai-for-leadership
   - skill/workflow-optimization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI and the Future of Work: Workflows and Modern Tools for Tech Leaders](https://media.licdn.com/dms/image/v2/D560DAQG88a9vCjXU8g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704926852842?e=2147483647&amp;v=beta&amp;t=TlQ-PbQlnMaeK7Agf4Q5ddyuN9uCYjfO2jbIdHsOoUc)

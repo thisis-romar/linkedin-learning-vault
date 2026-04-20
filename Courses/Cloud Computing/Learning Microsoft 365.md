@@ -23,7 +23,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-365
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning Microsoft 365](https://media.licdn.com/dms/image/v2/D4D0DAQG1Ld5Hu48pZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008948508?e=2147483647&amp;v=beta&amp;t=-_kDdzDlJdffrAiwgx8yXakcqe_mAxRHiInucTsQctI)

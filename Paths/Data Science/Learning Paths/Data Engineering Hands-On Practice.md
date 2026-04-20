@@ -2,20 +2,54 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/data-engineering-hands-on-practice"
+url: https://www.linkedin.com/learning/paths/data-engineering-hands-on-practice
 course_count: 7
 linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/data-science
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Hands-On Introduction- Data Engineering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Hands-On Advanced Python- Data Engineering Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Engineering With Dbt]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ETL in Python and SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[End-to-End Data Engineering Project]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Data Engineering Hands-On Practice

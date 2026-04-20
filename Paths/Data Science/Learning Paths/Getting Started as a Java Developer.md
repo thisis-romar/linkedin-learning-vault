@@ -2,20 +2,66 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-as-a-java-developer"
+url: https://www.linkedin.com/learning/paths/getting-started-as-a-java-developer
 course_count: 10
 linkedin_topics:
   - Data Science
   - Software Development
   - Web Development
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - learning-path
   - topic/data-science
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Java Essential Training Syntax And Structure]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java Essential Training- Objects and APIs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Spring 6 With Spring Boot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning JDBC]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Java Collections]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java Memory Management- Values and References]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java Memory Management- Garbage Collection, JVM Tuning, and Spotting Memory Leaks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java Exception Handling]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java Algorithms]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Java- Data Structures]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started as a Java Developer

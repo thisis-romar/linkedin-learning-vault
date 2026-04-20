@@ -26,7 +26,7 @@ tags:
   - skill/wireless-networking
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: Wireless Networks](https://media.licdn.com/dms/image/v2/C4E0DAQEKzuxJOFSiTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571074402112?e=2147483647&amp;v=beta&amp;t=1q2f5qWZBOD72iH8YRup0RoZiiwhUPzOvzvw00GxpP0)

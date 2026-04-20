@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/get-ahead-in-devsecops"
+url: https://www.linkedin.com/learning/paths/get-ahead-in-devsecops
 course_count: 5
 linkedin_topics:
   - Cybersecurity
@@ -12,8 +12,34 @@ tags:
   - learning-path
   - topic/security
   - topic/devops
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Devops Foundations Devsecops]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[DevSecOps- Automated Security Testing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[DevSecOps- Building a Secure Continuous Delivery Pipeline]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Application Security in DevSecOps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[DevSecOps- Tips for Success]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Get Ahead in DevSecOps

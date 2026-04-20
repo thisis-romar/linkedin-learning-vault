@@ -28,7 +28,7 @@ tags:
   - skill/powershell
   - skill/it-automation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PowerShell: Automating IT Administration](https://media.licdn.com/dms/image/v2/D560DAQEOJ1jz7OFisA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692300887654?e=2147483647&amp;v=beta&amp;t=tiv2FqKIfPekseFzWZkEalm_THkCjGtWLiDsK8ew37g)

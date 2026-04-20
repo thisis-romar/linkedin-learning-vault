@@ -2,22 +2,52 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/starting-your-career-in-tech-software-development"
+url: https://www.linkedin.com/learning/paths/starting-your-career-in-tech-software-development
 course_count: 6
 linkedin_topics:
   - Cloud Computing
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/security
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Getting Started With Technology Think Like An Engineer]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Writing a Tech Resume]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Tech Career Skills- Searching, Interviewing, and Landing a Job]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Rock Your LinkedIn Profile]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Tech Career Skills- Effective Technical Communication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Developer Career Paths and Certifications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Starting Your Career in Tech: Software Development

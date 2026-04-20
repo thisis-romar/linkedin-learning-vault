@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/scala
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Coding Exercises: Scala](https://media.licdn.com/dms/image/v2/C4D0DAQEq70puHe1nJg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661792803936?e=2147483647&amp;v=beta&amp;t=VU227eoLtuNCFDaebiBEQ5PN0UwSQX0P4dJt_MbMQmM)

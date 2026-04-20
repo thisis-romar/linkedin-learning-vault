@@ -23,7 +23,7 @@ tags:
   - topic/web-development
   - skill/angular
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Angular Essential Training](https://media.licdn.com/dms/image/v2/D560DAQG0p3shexhy_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696456346503?e=2147483647&amp;v=beta&amp;t=3Y8eyRjTW4ND7kQ6n1GPAINVjkAqTWUBl-wtk43gqfQ)

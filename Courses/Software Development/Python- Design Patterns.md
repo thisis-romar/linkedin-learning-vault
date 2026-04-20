@@ -26,7 +26,7 @@ tags:
   - skill/python-programming-language
   - skill/design-patterns
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Python: Design Patterns](https://media.licdn.com/dms/image/v2/D4D0DAQGh8swRcFJa6Q/learning-public-crop_675_1200/B4DZUB1jqVGcAY-/0/1739492572584?e=2147483647&amp;v=beta&amp;t=cSXxtUFHGPtSuSN0hyodH3llHMdDdlbJrv3yJ59_FeM)

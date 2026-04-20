@@ -16,7 +16,7 @@ tags:
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft Copilot The Art Of Prompt Writing](https://media.licdn.com/dms/image/v2/D4D0DAQEljXfFhlcqLw/learning-public-crop_675_1200/B4DZThvKDLHIAc-/0/1738954023899?e=2147483647&amp;v=beta&amp;t=A75XMgs0wOSOwSlif2YuyqvAW7P0Y29o3vJyoIXzgf8)

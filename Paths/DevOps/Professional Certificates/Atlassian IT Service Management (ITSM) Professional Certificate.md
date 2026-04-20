@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/atlassian-it-service-management-itsm-professional-certificate"
+url: https://www.linkedin.com/learning/paths/atlassian-it-service-management-itsm-professional-certificate
 course_count: 4
 linkedin_topics:
   - DevOps
@@ -12,8 +12,30 @@ tags:
   - professional-certificate
   - topic/devops
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[It Service Desk Service Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Service Management Foundations- Problem Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Service Management Foundations- Change Management]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[IT Service Desk- Monitoring and Metrics Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Atlassian IT Service Management (ITSM) Professional Certificate

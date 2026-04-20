@@ -23,7 +23,7 @@ tags:
   - topic/hardware
   - skill/programmable-logic-controller-plc
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![PLC Memory Organization](https://media.licdn.com/dms/image/v2/C560DAQEdQs8tEi3FdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615392756499?e=2147483647&amp;v=beta&amp;t=Se2aa2cjWXeW7y6Vuk6GJd6DwG5nm1nmpoTjHHlm7PY)

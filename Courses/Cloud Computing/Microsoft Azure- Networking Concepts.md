@@ -23,7 +23,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft Azure: Networking Concepts](https://media.licdn.com/dms/image/v2/D4D0DAQELE3potnsyLw/learning-public-crop_675_1200/B4DZUG8kfyHAAY-/0/1739578297037?e=2147483647&amp;v=beta&amp;t=y-8pL_5JxCsyBK2ldz6GOnUL3h-7m1qXrQD8ktYPNcQ)

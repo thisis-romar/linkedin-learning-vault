@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning AI for Business Analysis](https://media.licdn.com/dms/image/v2/D4E0DAQE1f-xThIzIZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733504337917?e=2147483647&amp;v=beta&amp;t=eWgwSfD_xqOChseV1mYXY0djzzMPPk57HG91TALAb1M)

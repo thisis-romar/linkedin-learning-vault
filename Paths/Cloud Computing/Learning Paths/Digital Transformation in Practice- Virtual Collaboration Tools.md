@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/digital-transformation-in-practice-virtual-collaboration-tools"
+url: https://www.linkedin.com/learning/paths/digital-transformation-in-practice-virtual-collaboration-tools
 course_count: 9
 linkedin_topics:
   - Cloud Computing
@@ -12,8 +12,50 @@ tags:
   - learning-path
   - topic/cloud-computing
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Working And Collaborating Online]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Teams Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Collaboration- SharePoint, Teams, Groups, and Yammer]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel Online (Microsoft 365)- Work Smarter with Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning PowerPoint Online (Microsoft 365)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Word Online (Microsoft 365)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Outlook on the Web Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Google Drive Essential Training (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Zoom Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Digital Transformation in Practice: Virtual Collaboration Tools

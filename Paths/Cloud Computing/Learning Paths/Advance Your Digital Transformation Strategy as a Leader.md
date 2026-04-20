@@ -2,18 +2,48 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-digital-transformation-strategy-as-a-leader"
+url: https://www.linkedin.com/learning/paths/advance-your-digital-transformation-strategy-as-a-leader
 course_count: 6
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 3
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Digital Transformation Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Digital Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Upskilling and Reskilling Your Workforce]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Artificial Intelligence and Business Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Planning For The Remote First Work From Anywhere Organization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Digital Accessibility for the Modern Workplace (with Audio Descriptions)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Digital Transformation Strategy as a Leader

@@ -21,7 +21,7 @@ tags:
   - topic/cloud-computing
   - skill/time-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building a Time Management Mindset](https://media.licdn.com/dms/image/v2/D4E0DAQGmk6fVb6iosw/learning-public-crop_675_1200/B4EZXzdPQhH0AY-/0/1743546283371?e=2147483647&amp;v=beta&amp;t=t9rU0p6OIsRahFWHxihVJraYFzcjp4AspjQHuqgM5yU)

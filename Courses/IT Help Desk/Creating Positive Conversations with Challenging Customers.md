@@ -26,7 +26,7 @@ tags:
   - skill/challenging-environment
   - skill/customer-service
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Creating Positive Conversations with Challenging Customers](https://media.licdn.com/dms/image/v2/C4E0DAQGZuQRAhcxfyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1645204997331?e=2147483647&amp;v=beta&amp;t=_QsbXwiUzEW7nymW_uLVQYeoxUFQMUUrVlfaJhoKGeU)

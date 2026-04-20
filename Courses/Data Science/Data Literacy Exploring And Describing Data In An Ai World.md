@@ -29,7 +29,7 @@ tags:
   - skill/data-analysis
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Literacy Exploring And Describing Data In An Ai World](https://media.licdn.com/dms/image/v2/D560DAQF21L_AbXR42Q/learning-public-crop_675_1200/B56ZyIpD.EJ4AY-/0/1771818992111?e=2147483647&amp;v=beta&amp;t=idqTmCAaGZk3DV1zAof6uf0VFFhv_WsRJB41GdnwgLc)

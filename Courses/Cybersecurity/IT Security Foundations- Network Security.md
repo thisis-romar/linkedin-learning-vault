@@ -20,7 +20,7 @@ tags:
   - topic/network-and-system-administration
   - topic/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![IT Security Foundations: Network Security](https://media.licdn.com/dms/image/v2/C560DAQGbAWaIPiK3Xg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663700741013?e=2147483647&amp;v=beta&amp;t=DqieY9A9jEQrQqOs4YkA2t-avMExTs1Q2GtcRYLslhE)

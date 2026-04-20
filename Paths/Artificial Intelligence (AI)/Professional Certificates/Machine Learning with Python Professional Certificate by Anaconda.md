@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/machine-learning-with-python-professional-certificate-by-anaconda"
+url: https://www.linkedin.com/learning/paths/machine-learning-with-python-professional-certificate-by-anaconda
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,38 @@ tags:
   - professional-certificate
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Artificial Intelligence Foundations- Machine Learning]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Python- Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Python- Decision Trees]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Python- Logistic Regression]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Python- k-Means Clustering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Processing Text with Python Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Machine Learning with Python Professional Certificate by Anaconda

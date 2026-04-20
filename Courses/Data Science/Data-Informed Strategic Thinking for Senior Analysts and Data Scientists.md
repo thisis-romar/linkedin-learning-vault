@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data-Informed Strategic Thinking for Senior Analysts and Data Scientists](https://media.licdn.com/dms/image/v2/D4E0DAQHyQKmbszFmQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723579114106?e=2147483647&amp;v=beta&amp;t=BZM-_0BA9OVgHGaamhl_ENCZSXmt_SDohbN7Kr3z200)

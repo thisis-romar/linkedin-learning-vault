@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: Footprinting and Reconnaissance](https://media.licdn.com/dms/image/v2/D4E0DAQH2SBvz5g8pzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697750217555?e=2147483647&amp;v=beta&amp;t=g9YE6XMzM_82uyZcACWBR0Sl2NNNFqj-aIAbqmLIupI)

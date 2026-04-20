@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Deep Learning with Python: Optimizing Deep Learning Models](https://media.licdn.com/dms/image/v2/D4D0DAQH8BFD--fpKJA/learning-public-crop_675_1200/B4DZT8pt8oGcAY-/0/1739405582824?e=2147483647&amp;v=beta&amp;t=FGb1-wz5ldJ6jHnlPzWqm8at1T2JPJBgOMGtr1xXpK0)

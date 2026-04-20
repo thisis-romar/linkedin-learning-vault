@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/design-and-present-your-cloud-strategy"
+url: https://www.linkedin.com/learning/paths/design-and-present-your-cloud-strategy
 course_count: 6
 linkedin_topics:
   - Cloud Computing
@@ -12,8 +12,38 @@ tags:
   - learning-path
   - topic/cloud-computing
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Cloud Architecture- Design Decisions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Design a Cloud Migration Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Framing Cloud Discussions for the C-Suite]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Presenting Cloud Migration Benefits to the C-Suite]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Planning and Implementing a Rapid Cloud Migration (RCM)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Design and Present Your Cloud Strategy

@@ -26,7 +26,7 @@ tags:
   - skill/cloud-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure Essential Training for Developers](https://media.licdn.com/dms/image/v2/C4E0DAQEutJ0-e7sxwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1582829114124?e=2147483647&amp;v=beta&amp;t=DWwW8WJC33Fv9C48BDUoGPBsUPb9fB0HoWDPAnlBdIg)

@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The OWASP Top 10 for Large Language Model (LLM) Applications: An Overview](https://media.licdn.com/dms/image/v2/D560DAQG5FnJhzlXLyw/learning-public-crop_675_1200/B56ZiAaIhGHMAk-/0/1754500991365?e=2147483647&amp;v=beta&amp;t=Mj_hHrnQ1IAHYeXCTXVjvjXbfPr1_zdIfxM3bf9rI3k)

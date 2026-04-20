@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The 80/20 Rule of Data Science](https://media.licdn.com/dms/image/v2/D4D0DAQEcI8TngOHfeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724267271010?e=2147483647&amp;v=beta&amp;t=HoBiLuSGWby-16_rSkaxbOxXDRe_KOUdx04PY91WIWQ)

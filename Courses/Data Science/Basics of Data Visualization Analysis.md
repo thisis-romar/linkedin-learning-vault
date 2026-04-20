@@ -27,7 +27,7 @@ tags:
   - skill/data-analysis
   - skill/data-visualization
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Basics of Data Visualization Analysis](https://media.licdn.com/dms/image/v2/D4E0DAQEVVcvJXVKIFA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706638056102?e=2147483647&amp;v=beta&amp;t=5bS8JWBCgqcGcLSBqBMbIIS8Ag46VktEiZ3jHIodgwI)

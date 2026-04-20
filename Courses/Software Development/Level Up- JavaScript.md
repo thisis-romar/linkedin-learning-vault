@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Level Up: JavaScript](https://media.licdn.com/dms/image/v2/D560DAQFdlZNbwSB6xA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682445111543?e=2147483647&amp;v=beta&amp;t=Ta9Zz_EQt1Z5QWgAuI-g7jJrb7xfBANxTHXT-qGQkQU)

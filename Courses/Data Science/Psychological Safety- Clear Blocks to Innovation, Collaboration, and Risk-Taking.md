@@ -27,7 +27,7 @@ tags:
   - skill/emotional-intelligence
   - skill/open-innovation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Psychological Safety: Clear Blocks to Innovation, Collaboration, and Risk-Taking](https://media.licdn.com/dms/image/v2/C4E0DAQE4BKHgZRQr6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583518424568?e=2147483647&amp;v=beta&amp;t=-2VFCXHeGZoX66iP6U2LbCaCceoTaxaKRreyd601oyU)

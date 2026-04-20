@@ -29,7 +29,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![MLOps Essentials: Model Development and Integration](https://media.licdn.com/dms/image/v2/C4D0DAQGUwtitxe_Q0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663181557273?e=2147483647&amp;v=beta&amp;t=wvtk7ypVH1ofF1EjULhi17S0xJthxAWn2sAzqUre_zs)

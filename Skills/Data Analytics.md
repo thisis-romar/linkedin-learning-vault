@@ -6,7 +6,7 @@ course_count: 16
 tags:
   - skill
   - skill/data-analytics
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Data Analytics

@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-literacy
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Learning XAI: Explainable Artificial Intelligence](https://media.licdn.com/dms/image/v2/D4E0DAQGXHk4z7Dg7nQ/learning-public-crop_675_1200/B4EZWwX5fbHcAc-/0/1742420810047?e=2147483647&amp;v=beta&amp;t=jnrnnNV_gLf6_6XAJllJE252HBiholMiH0zmqaPwLz4)

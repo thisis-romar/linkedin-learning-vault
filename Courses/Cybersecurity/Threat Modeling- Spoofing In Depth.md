@@ -23,7 +23,7 @@ tags:
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Threat Modeling: Spoofing In Depth](https://media.licdn.com/dms/image/v2/C4E0DAQEHc1Iuj6yeBQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628887768698?e=2147483647&amp;v=beta&amp;t=o1FmvN-vbRmN9HT4ojVUbcZk0ALDnxVXCocDarIUdzc)

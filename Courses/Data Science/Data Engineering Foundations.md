@@ -28,7 +28,7 @@ tags:
   - topic/database-management
   - skill/data-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Engineering Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQGFiPES2_z90A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613158188348?e=2147483647&amp;v=beta&amp;t=hcbV3DVWxbVb-JnUiu-eOIc4D_50LlCEBYyGW7H7mVY)

@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/machine-learning-statistical-foundations-professional-certificate-by-wolfram-research"
+url: https://www.linkedin.com/learning/paths/machine-learning-statistical-foundations-professional-certificate-by-wolfram-research
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,38 @@ tags:
   - topic/artificial-intelligence
   - topic/security
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Artificial Intelligence Foundations- Machine Learning]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning Foundations- Linear Algebra]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning Foundations- Calculus]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning Foundations- Probability]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning Foundations- Statistics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Built-in Machine Learning in the Wolfram Language]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Machine Learning Statistical Foundations Professional Certificate by Wolfram Research

@@ -27,7 +27,7 @@ tags:
   - skill/sales-presentations
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Using AI for Executive Sales Presentations](https://media.licdn.com/dms/image/v2/D560DAQG6GkkOhJTPig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008912100?e=2147483647&amp;v=beta&amp;t=Y2tldDYAxCFr_fZr3fr3MDJ0MeUZgWtpuzWUpTxqIqU)

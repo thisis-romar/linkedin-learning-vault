@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cybersecurity-tools
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![The AI-Driven Cybersecurity Analyst](https://media.licdn.com/dms/image/v2/D4D0DAQHbB9GXY_N8qw/learning-public-crop_675_1200/B4DZXPvlsNHYAY-/0/1742947114514?e=2147483647&amp;v=beta&amp;t=hUD4N88zf3HMXPSACveBYfpWi4R4sBkk-nEzJZs9bpI)

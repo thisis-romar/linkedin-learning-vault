@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/career-essentials-in-github-copilot-professional-certificate"
+url: https://www.linkedin.com/learning/paths/career-essentials-in-github-copilot-professional-certificate
 course_count: 4
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,30 @@ tags:
   - professional-certificate
   - topic/artificial-intelligence
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[AI Pair Programming with GitHub Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Supercharge the Development Process with GitHub Extensions for Copilot Chat]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Refactoring with GitHub Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Responsible GitHub Copilot- Creating Reliable Code Ethically]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Career Essentials in GitHub Copilot Professional Certificate

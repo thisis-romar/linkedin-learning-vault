@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Java: Hands-on with Streams, Lambda Expressions, Collections, Generics and More](https://media.licdn.com/dms/image/v2/D560DAQEn_cL1ZTUQCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902444081?e=2147483647&amp;v=beta&amp;t=z7aBpUH2DA95t1E3AsbrRH02DfLPDdbR-u3GsoWONV0)

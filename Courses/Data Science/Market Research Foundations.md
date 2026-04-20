@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/market-research
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Market Research Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQGBhYyLO49QYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578096374665?e=2147483647&amp;v=beta&amp;t=gw8hPGbnFyT0fGPqYmVBjUc22_-NIRTyaY8tRY-5Uc4)

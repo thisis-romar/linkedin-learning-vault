@@ -2,18 +2,40 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/getting-started-as-an-aws-developer"
+url: https://www.linkedin.com/learning/paths/getting-started-as-an-aws-developer
 course_count: 4
 linkedin_topics:
   - Cloud Computing
   - Cybersecurity
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Amazon Web Services Aws For Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Serverless Applications in AWS]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AWS for Developers- Identity Access Management (IAM)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AWS Quick Tips for Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Getting Started as an AWS Developer

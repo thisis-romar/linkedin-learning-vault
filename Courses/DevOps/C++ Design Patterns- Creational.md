@@ -26,7 +26,7 @@ tags:
   - skill/design-patterns
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C++ Design Patterns: Creational](https://media.licdn.com/dms/image/v2/C4E0DAQH2K0uOcqWipQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568061261682?e=2147483647&amp;v=beta&amp;t=KNCfW_gEMKn0nvczOwD78cDU4jVOIIGJeaNcNnPvOK0)

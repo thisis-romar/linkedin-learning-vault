@@ -24,7 +24,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/ai-policy-governance-and-regulation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI in Action: Global Case Studies from Public Institutions](https://media.licdn.com/dms/image/v2/D560DAQEeBHU106GVOg/learning-public-crop_675_1200/B56Z1vi3PBHEAY-/0/1775692903651?e=2147483647&amp;v=beta&amp;t=FhXd2Sth3IB42OgSZnM0LPT0UNC9Ywt7QsSu5_1GQhk)

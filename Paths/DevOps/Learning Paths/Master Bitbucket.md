@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-bitbucket"
+url: https://www.linkedin.com/learning/paths/master-bitbucket
 course_count: 3
 linkedin_topics:
   - DevOps
@@ -12,8 +12,26 @@ tags:
   - learning-path
   - topic/devops
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Bitbucket]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Bitbucket Pipelines for CI-CD]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master Bitbucket

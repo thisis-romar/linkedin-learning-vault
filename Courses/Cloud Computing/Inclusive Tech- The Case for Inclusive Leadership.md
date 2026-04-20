@@ -33,7 +33,7 @@ tags:
   - skill/tech-career-skills
   - skill/inclusive-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Inclusive Tech: The Case for Inclusive Leadership](https://media.licdn.com/dms/image/v2/C560DAQHC_lbnXrwkDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623778184058?e=2147483647&amp;v=beta&amp;t=4iTPfBl5e4dMLVMy8gl16PeM6cVaUnmhpRBNcfXcsKw)

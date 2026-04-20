@@ -19,7 +19,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
   - topic/software-development
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Jessica Rose

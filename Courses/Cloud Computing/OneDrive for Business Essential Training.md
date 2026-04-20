@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-onedrive
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![OneDrive for Business Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQGtdPqJpSRTuw/learning-public-crop_675_1200/B4DZZkd4U9H4AY-/0/1745442276988?e=2147483647&amp;v=beta&amp;t=idtf2LkqHiIAAiS0gRLyR8JHqnY_pRTGauE-KYOOMC4)

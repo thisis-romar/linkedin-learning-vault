@@ -2,22 +2,52 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/succeeding-in-your-tech-career-software-development"
+url: https://www.linkedin.com/learning/paths/succeeding-in-your-tech-career-software-development
 course_count: 6
 linkedin_topics:
   - Cloud Computing
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/security
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Tech Career Skills- Getting Promoted]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Accelerate Your Developer Career]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Conducting Code Reviews]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Inclusive Tech- Conducting Humane Code Reviews]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Tech Career Skills- Communication for Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Tech Career Skills- Effective Technical Communication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Succeeding in Your Tech Career: Software Development

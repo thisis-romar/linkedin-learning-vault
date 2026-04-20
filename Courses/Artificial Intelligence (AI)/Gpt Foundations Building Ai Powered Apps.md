@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Gpt Foundations Building Ai Powered Apps](https://media.licdn.com/dms/image/v2/D4E0DAQF8Rldj7AptpA/learning-public-crop_675_1200/B4EZfwRMnOHgAY-/0/1752082730236?e=2147483647&amp;v=beta&amp;t=6pv0Tr99EIJLxxqzeyE-RiTN2Timz4oj1teISKQl-Vw)

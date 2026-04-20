@@ -30,7 +30,7 @@ tags:
   - skill/personal-branding
   - skill/content-creation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Storytelling and Content Creation to Transform Your Personal Brand](https://media.licdn.com/dms/image/v2/D560DAQFz1xLDMkO9mQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694544933174?e=2147483647&amp;v=beta&amp;t=LuamQXCqfbttcavGEznIDFyfxZM1QB9EfxM1gQP64YE)

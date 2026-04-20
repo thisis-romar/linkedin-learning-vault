@@ -26,7 +26,7 @@ tags:
   - skill/language-integrated-query-linq
   - skill/c
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C# Essential Training 2: Generics, Collections, and LINQ](https://media.licdn.com/dms/image/v2/D560DAQEEIn0Zoh7ySw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702331417325?e=2147483647&amp;v=beta&amp;t=jEEKVyoa5ZugROjjzkNxq7pRCCia5ocmVs57mFMJfoE)

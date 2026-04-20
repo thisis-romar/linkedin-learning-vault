@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Deep Learning with TensorFlow: Insights and Innovations](https://media.licdn.com/dms/image/v2/D4D0DAQF3huhzfFmWxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727298293042?e=2147483647&amp;v=beta&amp;t=af9IfGCNoyKPJWP3Ac9Z2NwjY3ArNnirXXHptH9X7nQ)

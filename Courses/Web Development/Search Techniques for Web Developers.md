@@ -26,7 +26,7 @@ tags:
   - skill/web-application-development
   - skill/search
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Search Techniques for Web Developers](https://media.licdn.com/dms/image/v2/C560DAQEcRfIBAEJ9Lg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627407418577?e=2147483647&amp;v=beta&amp;t=RS1_gS3ArtFQFZcm9muSGbX6a6wrk9yXRC7kmZjfnNY)

@@ -19,7 +19,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Speaking Confidently and Effectively](https://media.licdn.com/dms/image/v2/C4E0DAQHOl-2agpS1Gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1605821728995?e=2147483647&amp;v=beta&amp;t=e2-AzXBF27T12NIPPhqTh6aY9dqb8VCFO0j9frhjsO4)

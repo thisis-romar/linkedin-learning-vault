@@ -2,16 +2,58 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/exploring-a-career-in-interaction-design"
+url: https://www.linkedin.com/learning/paths/exploring-a-career-in-interaction-design
 course_count: 9
 linkedin_topics:
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Ux Foundations Interaction Design]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Interaction Design- Structure]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Interaction Design- Software and Web Design Patterns]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Interaction Design for Ecommerce]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Interaction Design- Dashboards and Visualization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Interaction Design- Interface]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Interaction Design- Flow]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Interaction Design- Design Patterns as Building Blocks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Interaction Design- Projects and Platforms]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Exploring a Career in Interaction Design

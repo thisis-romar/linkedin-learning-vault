@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/build-your-wolfram-language-skills"
+url: https://www.linkedin.com/learning/paths/build-your-wolfram-language-skills
 course_count: 8
 linkedin_topics:
   - Data Science
@@ -10,8 +10,46 @@ louvain_cluster: 5
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Statistical Analysis with Wolfram Language]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Quantile and Box-Whisker Plots in the Wolfram Language]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Wavelet Analysis- Concepts with Wolfram Language]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Wavelet Analysis- Applications with Wolfram Language]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Modeling Market Prices Using Stochastic Processes with Wolfram Language]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Interacting with Blockchains in the Wolfram Language]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Built-in Machine Learning in the Wolfram Language]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Blocks for Deep Learning in the Wolfram Language]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build Your Wolfram Language Skills

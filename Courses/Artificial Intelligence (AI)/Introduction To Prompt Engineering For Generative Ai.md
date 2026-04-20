@@ -18,7 +18,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction To Prompt Engineering For Generative Ai](https://media.licdn.com/dms/image/v2/D4E0DAQEeMFMEYT5JcA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723669111714?e=2147483647&amp;v=beta&amp;t=MaRQ--is2CaO7coQMBCApDLDRT14f1i5EI06sCTrAT8)

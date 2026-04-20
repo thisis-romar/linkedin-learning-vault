@@ -26,7 +26,7 @@ tags:
   - skill/ethical-hacking
   - skill/internet-of-things-iot
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Ethical Hacking: Hacking IoT Devices](https://media.licdn.com/dms/image/v2/D4D0DAQGdBWyUOvcn7g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712000341577?e=2147483647&amp;v=beta&amp;t=CbBOtuTT9pVxu4gB4jdq1sf5OHBgAk-A_4YRFHiIP8Q)

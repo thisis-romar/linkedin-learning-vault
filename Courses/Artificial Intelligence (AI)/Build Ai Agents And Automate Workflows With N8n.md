@@ -27,7 +27,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Build Ai Agents And Automate Workflows With N8n](https://media.licdn.com/dms/image/v2/D4E0DAQGmwk8Sfhr82g/learning-public-crop_675_1200/B4EZd_sUmBHcAY-/0/1750194015319?e=2147483647&amp;v=beta&amp;t=dlJ1bHTQ9Mb9RyN54JSyKOE9ROVrmFukVdcGcdCZUKM)

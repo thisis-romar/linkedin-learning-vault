@@ -2,16 +2,46 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/master-key-financial-analyst-skills"
+url: https://www.linkedin.com/learning/paths/master-key-financial-analyst-skills
 course_count: 6
 linkedin_topics:
   - Data Science
-louvain_cluster: 13
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Starting Your Career As A Financial Analyst]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Corporate Financial Statement Analysis (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Financial Modeling Foundations (2018)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Financial Modeling and Forecasting Financial Statements (2019)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel Modeling Tips and Tricks]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data, Economic Modeling, and Forecasting with Stata]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Master Key Financial Analyst Skills

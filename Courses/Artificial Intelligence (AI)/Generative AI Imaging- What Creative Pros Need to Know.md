@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/conditional-image-generation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI Imaging: What Creative Pros Need to Know](https://media.licdn.com/dms/image/v2/D560DAQHf8YoKJmxsRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680541077730?e=2147483647&amp;v=beta&amp;t=IBBoK3aycTQMYg3k0-ombbNnm1hwtmhboR6d2JKL_G0)

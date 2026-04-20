@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/kotlin
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Kotlin Essential Training Functions Collections And I O](https://media.licdn.com/dms/image/v2/C560DAQHQxXohmsZEgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650999446186?e=2147483647&amp;v=beta&amp;t=012dHBeTDcwco_mvjkWz0aVST5nrbThJnBPW1sO0Ic8)

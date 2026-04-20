@@ -25,7 +25,7 @@ tags:
   - topic/devops
   - skill/software-development-life-cycle-sdlc
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Software Development Life Cycle (SDLC)](https://media.licdn.com/dms/image/v2/D560DAQHlSuJFuSk6lw/learning-public-crop_675_1200/B56ZbF5TqNGgAY-/0/1747076856757?e=2147483647&amp;v=beta&amp;t=NLx6YNs4pIjdw2phT1s49oqQWWJ2RKknh7A1gjuDtts)

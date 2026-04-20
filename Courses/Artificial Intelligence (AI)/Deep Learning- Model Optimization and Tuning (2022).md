@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Deep Learning: Model Optimization and Tuning (2022)](https://media.licdn.com/dms/image/v2/D4E0DAQG94hya2dyecw/learning-public-crop_675_1200/B4EZkLc0L2IwAg-/0/1756833727967?e=2147483647&amp;v=beta&amp;t=ZT9tm1YKLJB0SP_A9QUDasuV_L8YwzqQJbwqg50Sqfo)

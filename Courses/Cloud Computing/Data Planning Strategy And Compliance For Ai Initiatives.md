@@ -31,7 +31,7 @@ tags:
   - skill/data-preparation
   - skill/data-storage
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Planning Strategy And Compliance For Ai Initiatives](https://media.licdn.com/dms/image/v2/D4E0DAQGZgaphTNKkZg/learning-public-crop_675_1200/B4EZZprb10HEAg-/0/1745529716364?e=2147483647&amp;v=beta&amp;t=aFSehqi6ZEIQ3tnnZsOvQkQ4Xvi7SwvtwDsEnWEl7bU)

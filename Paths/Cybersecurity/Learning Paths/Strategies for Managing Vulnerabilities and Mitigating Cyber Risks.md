@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/strategies-for-managing-vulnerabilities-and-mitigating-cyber-risks"
+url: https://www.linkedin.com/learning/paths/strategies-for-managing-vulnerabilities-and-mitigating-cyber-risks
 course_count: 6
 linkedin_topics:
   - Cybersecurity
@@ -10,8 +10,38 @@ louvain_cluster: 4
 tags:
   - learning-path
   - topic/security
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Vulnerability Management in Cybersecurity- The Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Security Testing Essential Training (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Vulnerability Management with Nessus]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Ethical Hacking- Vulnerability Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Vulnerability Management- Assessing the Risks with CVSS v3.1]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Red Teaming for Generative AI- Building Robust and Responsible Solutions]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Strategies for Managing Vulnerabilities and Mitigating Cyber Risks

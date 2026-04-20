@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/microsoft-copilot-for-productivity-by-microsoft-and-linkedin"
+url: https://www.linkedin.com/learning/paths/microsoft-copilot-for-productivity-by-microsoft-and-linkedin
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -12,8 +12,42 @@ tags:
   - professional-certificate
   - topic/artificial-intelligence
   - topic/cloud-computing
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Microsoft 365 Copilot for Work]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Copilot The Art Of Prompt Writing]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Copilot in Teams- AI-Powered Collaboration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Copilot in Outlook- Maximize Your Workday Efficiency (2025)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Copilot in Word- Create and Refine Documents with AI]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Excel with Copilot- AI-Driven Data Analysis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Copilot in PowerPoint- From Prompt to Presentation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Microsoft Copilot for Productivity by Microsoft and LinkedIn

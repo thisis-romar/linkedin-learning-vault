@@ -28,7 +28,7 @@ tags:
   - skill/tableau
   - skill/business-analysis
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Using Tableau to Discover Powerful Business Insights](https://media.licdn.com/dms/image/v2/D4E0DAQHN27i2BlYZ_A/learning-public-crop_675_1200/B4EZg0JUUPGcAY-/0/1753221515261?e=2147483647&amp;v=beta&amp;t=iwJyQYOpEeVFLV9sMWLnMmIVVCbg2ClIBM0-HGLL6i8)

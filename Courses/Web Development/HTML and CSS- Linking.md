@@ -25,7 +25,7 @@ tags:
   - skill/html
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![HTML and CSS: Linking](https://media.licdn.com/dms/image/v2/C4E0DAQHSwnFEfxhRKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614870907082?e=2147483647&amp;v=beta&amp;t=UmQ-QeNhUFYJQxuQsWtfNJZwaH8_A0NJhsQwr8sm-N4)

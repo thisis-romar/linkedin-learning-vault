@@ -28,7 +28,7 @@ tags:
   - skill/ai-literacy
   - skill/ai-policy-governance-and-regulation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Responsible AI: Global Risks, Governance, and Human Oversight](https://media.licdn.com/dms/image/v2/D560DAQGGSQMsQIqtMg/learning-public-crop_675_1200/B56ZzpO54vKYAY-/0/1773439524748?e=2147483647&amp;v=beta&amp;t=LsN-eLVmmk3F8BOS4B4qyoTLUUoNajz8Nw_wkd54jwM)

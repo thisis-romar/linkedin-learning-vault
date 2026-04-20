@@ -30,7 +30,7 @@ tags:
   - skill/calculus
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning Foundations: Calculus](https://media.licdn.com/dms/image/v2/C4E0DAQFYJniN5M1Ueg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677878851185?e=2147483647&amp;v=beta&amp;t=DPmoUYrLrNeGw8tD3mCqcm5wOrScZewhUpnAiO72B5A)

@@ -16,7 +16,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Excel for Corporate Finance Professionals](https://media.licdn.com/dms/image/v2/D560DAQFB89D-Ted8qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696279318625?e=2147483647&amp;v=beta&amp;t=TdNJTXhjPvASHBIOxgjauQYjcbHKpcmTXsVkJFTOzmU)

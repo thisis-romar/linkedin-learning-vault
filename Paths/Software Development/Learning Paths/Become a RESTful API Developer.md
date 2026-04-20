@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/become-a-restful-api-developer"
+url: https://www.linkedin.com/learning/paths/become-a-restful-api-developer
 course_count: 5
 linkedin_topics:
   - Software Development
@@ -12,8 +12,34 @@ tags:
   - learning-path
   - topic/software-development
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Learning Rest Apis]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTTP Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Designing RESTful APIs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[API Testing and Validation]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Web Security- OAuth and OpenID Connect]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Become a RESTful API Developer

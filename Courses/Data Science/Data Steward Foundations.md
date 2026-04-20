@@ -27,7 +27,7 @@ tags:
   - skill/data-governance
   - skill/data-stewardship
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Steward Foundations](https://media.licdn.com/dms/image/v2/C560DAQE6ppB-UXs8LA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626889867307?e=2147483647&amp;v=beta&amp;t=WX-_UU79GUX6cycjtM-RDzGBuP28LzGfUENADzKQQMI)

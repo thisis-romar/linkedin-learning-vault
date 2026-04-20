@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/eslint
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![ESLint: Integrating with Your Workflow](https://media.licdn.com/dms/image/v2/C4E0DAQE3jSbsANgXew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668021071471?e=2147483647&amp;v=beta&amp;t=IOz9Xyg7J9QRHZXFAKpdJ72EWRBlAWc403E186y6F0I)

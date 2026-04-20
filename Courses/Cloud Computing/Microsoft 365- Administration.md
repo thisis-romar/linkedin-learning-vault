@@ -26,7 +26,7 @@ tags:
   - skill/microsoft-365
   - skill/cloud-administration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Microsoft 365: Administration](https://media.licdn.com/dms/image/v2/D560DAQHwT_OYiXpBMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702422331695?e=2147483647&amp;v=beta&amp;t=qX_FwIzV7GoL-dOlKoUY1yEtCGLb9S2I_5lvg4cG5Ow)

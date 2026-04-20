@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Drupal 9 Essential Training: 6 Finishing the Design](https://media.licdn.com/dms/image/v2/C4E0DAQGn9n_iwCQ4RQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615495297567?e=2147483647&amp;v=beta&amp;t=3jgd97K1pXzkVjL4badLi0LnYLvatf024JVcOGuZNvA)

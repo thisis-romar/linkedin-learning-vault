@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Python in Excel: Machine Learning](https://media.licdn.com/dms/image/v2/D4E0DAQFSH-YwI4uU_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724356795731?e=2147483647&amp;v=beta&amp;t=mcjggdxqpQ__t-mDfzw8kn77gxRob3yGfAzNSk2DbB8)

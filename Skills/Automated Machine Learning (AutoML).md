@@ -6,7 +6,7 @@ course_count: 1
 tags:
   - skill
   - skill/automated-machine-learning-automl
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Automated Machine Learning (AutoML)

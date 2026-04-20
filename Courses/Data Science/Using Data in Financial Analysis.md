@@ -27,7 +27,7 @@ tags:
   - skill/financial-analysis
   - skill/financial-forecasting
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Using Data in Financial Analysis](https://media.licdn.com/dms/image/v2/D560DAQGoTikWTxS_Bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700079884252?e=2147483647&amp;v=beta&amp;t=4wrmgcQZU0s_M9p7g8K_o8XNreNxHDAp6t5eJngjLZI)

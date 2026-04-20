@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-a-career-in-front-end-web-development"
+url: https://www.linkedin.com/learning/paths/explore-a-career-in-front-end-web-development
 course_count: 11
 linkedin_topics:
   - Web Development
@@ -10,8 +10,58 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction To Web Design And Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[HTML Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[CSS Essential Training (2023)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Search Techniques for Web Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Web Programming Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Simplifying Web Development with Accessibility Best Practices]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[React.js- Building an Interface]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Modern Browser APIs]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[jQuery Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore a Career in Front-End Web Development

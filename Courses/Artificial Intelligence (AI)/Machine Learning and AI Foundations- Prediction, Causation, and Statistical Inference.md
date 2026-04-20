@@ -26,7 +26,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning and AI Foundations: Prediction, Causation, and Statistical Inference](https://media.licdn.com/dms/image/v2/C4E0DAQFivN9qt5wTUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647451672526?e=2147483647&amp;v=beta&amp;t=1gJsLL7cUCqa1Nc1gw7iGvkHzf3YyFFS7Q-cFEm-WHo)

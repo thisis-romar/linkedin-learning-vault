@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/robotic-process-automation-rpa
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Process Discovery for Robotic Process Automation](https://media.licdn.com/dms/image/v2/C560DAQHxWEzKNHcwiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662490100152?e=2147483647&amp;v=beta&amp;t=7OBrbHMBV_a7UPGCBmN1EZrzmJ999SyR3MHluynEPeQ)

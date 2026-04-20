@@ -2,18 +2,64 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/the-top-skills-it-professionals-have-right-now"
+url: https://www.linkedin.com/learning/paths/the-top-skills-it-professionals-have-right-now
 course_count: 10
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/devops
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Networking Foundations Networking Basics]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Windows Server 2022 Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[SQL Server Intelligence- Cracking the Code of Enterprise Data]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft Entra ID Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Azure Administration Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Python Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AWS Essential Training for Architects]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Microsoft 365 for Administrators- Supporting Users]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Linux Command Line]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # The Top Skills IT Professionals Have Right Now

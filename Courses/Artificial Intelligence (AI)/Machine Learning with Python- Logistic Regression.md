@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/logistic-regression
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning with Python: Logistic Regression](https://media.licdn.com/dms/image/v2/D4D0DAQHCaIAahatY6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707245442931?e=2147483647&amp;v=beta&amp;t=jIdzp5-QT8j6P4PzTQgzBa-k8Qjhva10k_DgyvttfaA)

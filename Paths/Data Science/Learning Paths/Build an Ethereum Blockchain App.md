@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/build-an-ethereum-blockchain-app"
+url: https://www.linkedin.com/learning/paths/build-an-ethereum-blockchain-app
 course_count: 11
 linkedin_topics:
   - Data Science
@@ -10,8 +10,58 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/data-science
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Building An Ethereum Blockchain App 1 Introduction To Blockchain]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building an Ethereum Blockchain App- 2 Introduction to Ethereum]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building an Ethereum Blockchain App- 3 Ethereum Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building an Ethereum Blockchain App- 4 Ethereum Development Tools]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building an Ethereum Blockchain App- 5 Your Ethereum Wallet]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building an Ethereum Blockchain App- 6 Building Your First Ethereum App]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building an Ethereum Blockchain App- 7 Smart Contracts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building an Ethereum Blockchain App- 9 Testing Ethereum Apps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building an Ethereum Blockchain App- 10 Deployment and Maintenance]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Build an Ethereum Blockchain App

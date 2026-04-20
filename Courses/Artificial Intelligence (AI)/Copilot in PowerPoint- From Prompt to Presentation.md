@@ -18,7 +18,7 @@ tags:
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Copilot in PowerPoint: From Prompt to Presentation](https://media.licdn.com/dms/image/v2/D560DAQGEngZpbDXFcg/learning-public-crop_675_1200/B56ZrgPqFsLcAg-/0/1764698792524?e=2147483647&amp;v=beta&amp;t=3fcELqM067qhe387UsFyHPvgwoC-XMJgTsh3pYph7Co)

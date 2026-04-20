@@ -28,7 +28,7 @@ tags:
   - skill/data-engineering
   - skill/data-build-tool-dbt
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Engineering With Dbt](https://media.licdn.com/dms/image/v2/D4D0DAQHdm3MaltG0tQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705703016484?e=2147483647&amp;v=beta&amp;t=TpQ4mLz6kbZRiQ2WfE3FhJpxiuEIu7iemWGnDlGaTmA)

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-aws-development-skills-exploring-complex-application-development"
+url: https://www.linkedin.com/learning/paths/advance-your-aws-development-skills-exploring-complex-application-development
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -14,8 +14,38 @@ tags:
   - topic/artificial-intelligence
   - topic/cloud-computing
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Aws Essential Training For Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to AWS AI Services for Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AWS for Developers- CLI Tips]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AWS Security Best Practices for Developers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Serverless Apps with AI Services on AWS]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Intelligent Chatbots on AWS]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your AWS Development Skills: Exploring Complex Application Development

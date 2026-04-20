@@ -30,7 +30,7 @@ tags:
   - skill/semantic-search
   - skill/information-retrieval
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Semantic Search and Information Retrieval using GenAI](https://media.licdn.com/dms/image/v2/D4E0DAQFmH3PA62yg4w/learning-public-crop_675_1200/B4EZbZ_qUFHIAY-/0/1747414066828?e=2147483647&amp;v=beta&amp;t=GJ-M2l-IcZUUMuvTi3Exo9BuNPzZ3HpolEbX_L7TD4c)

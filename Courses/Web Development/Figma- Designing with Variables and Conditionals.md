@@ -16,7 +16,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Figma: Designing with Variables and Conditionals](https://media.licdn.com/dms/image/v2/D560DAQFzKC8XFxiUhg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709242496201?e=2147483647&amp;v=beta&amp;t=rqwJOu_pzEzfqI6uN0B9sgt96TEklCcgyBUYH_dLoiM)

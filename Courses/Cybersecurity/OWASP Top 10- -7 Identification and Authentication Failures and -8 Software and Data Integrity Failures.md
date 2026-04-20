@@ -31,7 +31,7 @@ tags:
   - skill/identity-and-access-management-iam
   - skill/data-integrity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![OWASP Top 10: #7 Identification and Authentication Failures and #8 Software and Data Integrity Failures](https://media.licdn.com/dms/image/v2/D560DAQGnb7pdkDwkiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698103237077?e=2147483647&amp;v=beta&amp;t=2cbMXy-nXNx-pCPx4P7H51UiVDrhs6dSjrgJtF3jOFU)

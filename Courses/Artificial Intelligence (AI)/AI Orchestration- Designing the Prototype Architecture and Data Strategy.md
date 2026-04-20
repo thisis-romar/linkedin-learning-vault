@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Orchestration: Designing the Prototype Architecture and Data Strategy](https://media.licdn.com/dms/image/v2/D4D0DAQHs-INNarhuTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736980752740?e=2147483647&amp;v=beta&amp;t=Mw_7vS8pH6Kk3AZftOrQnK16QKmOxNchFHkFg5eh9e8)

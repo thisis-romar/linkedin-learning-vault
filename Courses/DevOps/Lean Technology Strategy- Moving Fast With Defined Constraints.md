@@ -17,7 +17,7 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Lean Technology Strategy: Moving Fast With Defined Constraints](https://media.licdn.com/dms/image/v2/C4E0DAQE63dzt3n5REw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117545423?e=2147483647&amp;v=beta&amp;t=s7NmJxOAaYoi4MCgo4Np96RyYVEqCHdKH1jGdHUxa88)

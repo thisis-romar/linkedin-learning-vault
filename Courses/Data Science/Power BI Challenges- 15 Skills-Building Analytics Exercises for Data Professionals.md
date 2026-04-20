@@ -26,7 +26,7 @@ tags:
   - skill/microsoft-power-bi
   - skill/data-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Power BI Challenges: 15 Skills-Building Analytics Exercises for Data Professionals](https://media.licdn.com/dms/image/v2/D560DAQG9Xu7sFCpuhA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700508691866?e=2147483647&amp;v=beta&amp;t=0t7UlYk2jrANq5TYuaHRwn1RiS17l0jUdpnEPJhV9SQ)

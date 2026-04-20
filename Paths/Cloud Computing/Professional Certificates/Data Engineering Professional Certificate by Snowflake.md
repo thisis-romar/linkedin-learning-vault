@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/data-engineering-professional-certificate-by-snowflake"
+url: https://www.linkedin.com/learning/paths/data-engineering-professional-certificate-by-snowflake
 course_count: 3
 linkedin_topics:
   - Cloud Computing
@@ -16,8 +16,26 @@ tags:
   - topic/data-science
   - topic/database-management
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Intro To Snowflake For Devs Data Scientists Data Engineers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Modern Data Engineering with Snowflake]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Advanced Data Engineering with Snowflake]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Data Engineering Professional Certificate by Snowflake

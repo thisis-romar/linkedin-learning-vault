@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Playwright Essential Training: Abstractions, Fixtures, and Complex Scenarios](https://media.licdn.com/dms/image/v2/D4E0DAQE9lAhxTlWiCg/learning-public-crop_675_1200/B4EZcYCy.PHsAc-/0/1748455076488?e=2147483647&amp;v=beta&amp;t=CPHzDNayYyzEjIJFGfimqD6l_PUS5tJY7f9d8NmHDqE)

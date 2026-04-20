@@ -21,7 +21,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Statistics Foundations 3: Using Data Sets](https://media.licdn.com/dms/image/v2/C4D0DAQG3E0vJnJDuKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657749321399?e=2147483647&amp;v=beta&amp;t=Xreq-QPZ4IX_HQs-8Z0aAdk9Wgo5Hn0sIlj38NbBE9I)

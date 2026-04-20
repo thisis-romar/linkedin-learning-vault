@@ -26,7 +26,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Hands-On Natural Language Processing](https://media.licdn.com/dms/image/v2/D4E0DAQFR63o-jjWjyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726521550716?e=2147483647&amp;v=beta&amp;t=lhmEHIkzeH3VqqCUqzKT4XNNRGMESTrEx8aL985Uq6w)

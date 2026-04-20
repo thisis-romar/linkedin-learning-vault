@@ -6,7 +6,7 @@ course_count: 12
 tags:
   - skill
   - skill/customer-service
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Customer Service

@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/explore-a-career-as-a-javascript-developer"
+url: https://www.linkedin.com/learning/paths/explore-a-career-as-a-javascript-developer
 course_count: 5
 linkedin_topics:
   - Software Development
@@ -10,8 +10,34 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Programming Foundations Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Programming Foundations- Beyond the Fundamentals]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript Essential Training]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript- Five Advanced Challenges and Concepts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[JavaScript Practice- Object-Oriented Programming]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Explore a Career as a JavaScript Developer

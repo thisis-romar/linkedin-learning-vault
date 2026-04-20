@@ -30,7 +30,7 @@ tags:
   - topic/database-management
   - skill/data-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![End-to-End Data Engineering Project](https://media.licdn.com/dms/image/v2/D4D0DAQFQihfehsNCiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698869440746?e=2147483647&amp;v=beta&amp;t=sfUJ7etqCscS3Cd63lMzAdfOYdLxuNchxPewFdCXalU)

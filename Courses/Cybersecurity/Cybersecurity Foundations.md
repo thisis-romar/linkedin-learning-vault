@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Cybersecurity Foundations](https://media.licdn.com/dms/image/v2/C4D0DAQEN6tzpqeODiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679006448947?e=2147483647&amp;v=beta&amp;t=xn_WRH0g4JxZMwPIX0aTDe2_0hEXyH2_jdIa-HGh0wo)

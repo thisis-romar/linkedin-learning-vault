@@ -26,7 +26,7 @@ tags:
   - skill/risk-frameworks
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Security Frameworks Fundamentals](https://media.licdn.com/dms/image/v2/C560DAQFsAcFjG7saUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679520373754?e=2147483647&amp;v=beta&amp;t=XwPpIzq-QJxPi1KKk82DbBS-4zLbF1sZ9E3VU7Y51Fc)

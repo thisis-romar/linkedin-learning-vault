@@ -21,7 +21,7 @@ tags:
   - topic/software-development
   - skill/autocad
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Autocad 2022 Essential Training](https://media.licdn.com/dms/image/v2/C560DAQEG0xVT2vOWjw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616435734667?e=2147483647&amp;v=beta&amp;t=j7ecHThwUM-DQZ9uRJGeeizbCkAH_2N7IP67BmSfoAU)

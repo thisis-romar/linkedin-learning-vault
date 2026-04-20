@@ -25,7 +25,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/marketing-strategy
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna Yung](https://media.licdn.com/dms/image/v2/C4E0DAQEpDMQdfqEIWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677531910541?e=2147483647&amp;v=beta&amp;t=D4_99Kv1L_lx_mfc_eyHxQUV9aX7OzRaZrFcrjLSxQ4)

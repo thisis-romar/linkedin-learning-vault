@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/business-decision-making
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Removing Noise and Bias from Strategic Decision-Making](https://media.licdn.com/dms/image/v2/C4E0DAQGkURAPPR45Cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644607484634?e=2147483647&amp;v=beta&amp;t=-MuAYXmGY33GfQRIBIx1W6JfQ60QQu7h8Q_vKfk70S8)

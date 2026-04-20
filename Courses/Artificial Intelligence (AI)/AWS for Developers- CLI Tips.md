@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/aws-command-line-interface-cli
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AWS for Developers: CLI Tips](https://media.licdn.com/dms/image/v2/D560DAQEOai9Mk_3_lg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696618989101?e=2147483647&amp;v=beta&amp;t=GExiqCGKB5DhYgREzfp7ekdgycP5rCknmmHhnHKzJmc)

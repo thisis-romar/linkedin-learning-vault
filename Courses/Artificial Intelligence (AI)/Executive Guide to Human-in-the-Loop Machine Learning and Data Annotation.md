@@ -30,7 +30,7 @@ tags:
   - skill/human-in-the-loop-machine-learning
   - skill/data-annotation
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation](https://media.licdn.com/dms/image/v2/D560DAQGiePzGMx901g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702079408571?e=2147483647&amp;v=beta&amp;t=0hMvzc716f_YGqD5Z-gV8oe5jo-M8JmOd2BP2f2s-E4)

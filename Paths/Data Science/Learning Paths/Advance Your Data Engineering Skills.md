@@ -2,18 +2,64 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-data-engineering-skills-20258835"
+url: https://www.linkedin.com/learning/paths/advance-your-data-engineering-skills-20258835
 course_count: 10
 linkedin_topics:
   - Data Science
   - DevOps
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/data-science
   - topic/devops
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Data Engineering With Dbt]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Problem-Solving Strategies for Data Engineers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ETL in Python and SQL]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Fundamentals of Data Transformation for Data Engineering]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Guide to Data Lakes and Lakehouses]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning Apache Airflow]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Engineering Pipeline Management with Apache Airflow]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Engineering Project- Build Streaming Ingestion Pipelines for Snowflake with AWS]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Data Pipeline Automation with GitHub Actions Using R and Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[End-to-End Data Engineering Project]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Data Engineering Skills

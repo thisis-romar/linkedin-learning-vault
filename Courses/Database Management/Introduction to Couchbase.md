@@ -26,7 +26,7 @@ tags:
   - skill/database-development
   - skill/couchbase
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Introduction to Couchbase](https://media.licdn.com/dms/image/v2/C560DAQHhmHn_rhPxdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655146592401?e=2147483647&amp;v=beta&amp;t=s7G9TI7Oon7yRPl5ToMz4_RyqOc1VCzsgSFUZla_7qI)

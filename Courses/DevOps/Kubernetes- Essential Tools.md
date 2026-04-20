@@ -23,7 +23,7 @@ tags:
   - topic/devops
   - skill/kubernetes
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Kubernetes: Essential Tools](https://media.licdn.com/dms/image/v2/D560DAQHXiJGfHXz6tA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691433502919?e=2147483647&amp;v=beta&amp;t=9XMOArS_-YBHaPkWfM2SYqX7DDAXwaJ-k5t_Yuz78zw)

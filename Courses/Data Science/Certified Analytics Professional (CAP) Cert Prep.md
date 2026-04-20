@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Certified Analytics Professional (CAP) Cert Prep](https://media.licdn.com/dms/image/v2/C560DAQF1K4_xfOO7Iw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675116991832?e=2147483647&amp;v=beta&amp;t=hktoR8wgpJ0ILpx4zfPJyx_5bb1o9qalxhL5h_HY8Dc)

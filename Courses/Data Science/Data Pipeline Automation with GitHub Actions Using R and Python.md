@@ -31,7 +31,7 @@ tags:
   - skill/github
   - skill/data-pipelines
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Pipeline Automation with GitHub Actions Using R and Python](https://media.licdn.com/dms/image/v2/D560DAQHvVdDve6puQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713388433219?e=2147483647&amp;v=beta&amp;t=mG5AuFH5Tkyk2oiJYqBS0Zx_Z2OiYNRNGFYlNWvTuoA)

@@ -25,7 +25,7 @@ tags:
   - topic/data-science
   - skill/continuous-monitoring
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Algorithmic Auditing and Continuous Monitoring](https://media.licdn.com/dms/image/v2/D560DAQF-Fcwt-2ewCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695847845401?e=2147483647&amp;v=beta&amp;t=Dszmz_NYSskcjmG5qMR4ww64lMKfnYyYmt3cnJAIjOk)

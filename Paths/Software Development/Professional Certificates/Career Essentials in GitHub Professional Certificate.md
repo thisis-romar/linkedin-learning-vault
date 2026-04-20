@@ -2,16 +2,38 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/career-essentials-in-github-professional-certificate"
+url: https://www.linkedin.com/learning/paths/career-essentials-in-github-professional-certificate
 course_count: 4
 linkedin_topics:
   - Software Development
-louvain_cluster: 9
+louvain_cluster: 8
 tags:
   - professional-certificate
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Resume]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Practical GitHub Project Management and Collaboration]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Practical GitHub Copilot]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Practical GitHub Code Search]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Career Essentials in GitHub Professional Certificate

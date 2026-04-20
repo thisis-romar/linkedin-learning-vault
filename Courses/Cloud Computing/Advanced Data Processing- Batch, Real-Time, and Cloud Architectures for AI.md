@@ -33,7 +33,7 @@ tags:
   - skill/cloud-native-architecture
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Advanced Data Processing: Batch, Real-Time, and Cloud Architectures for AI](https://media.licdn.com/dms/image/v2/D4D0DAQE5bR1Puq69Hw/learning-public-crop_675_1200/B4DZZkfbphG4Ac-/0/1745442684244?e=2147483647&amp;v=beta&amp;t=g_DFjThjXJ4Pd3kx3O8m6gkLBkzLURaAkI8sap5zZEk)

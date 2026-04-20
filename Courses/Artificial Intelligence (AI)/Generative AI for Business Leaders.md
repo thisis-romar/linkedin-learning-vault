@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-for-leadership
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI for Business Leaders](https://media.licdn.com/dms/image/v2/C4D0DAQHsCAbXLw-NOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678753390059?e=2147483647&amp;v=beta&amp;t=-IPCbZgaT8Hdqta0_7LkU5iqDv5eXJ0PVpeT6-0BamE)

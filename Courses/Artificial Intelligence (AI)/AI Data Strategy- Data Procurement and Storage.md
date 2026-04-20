@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-storage
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Data Strategy: Data Procurement and Storage](https://media.licdn.com/dms/image/v2/D4D0DAQEyf_XnVwwjZQ/learning-public-crop_675_1200/B4DZZu_NUFH4AY-/0/1745618785783?e=2147483647&amp;v=beta&amp;t=5jBVU1DWBFmqQrXDnCgXkdzGmA-Y5c9Ip7M_20Iqkl8)

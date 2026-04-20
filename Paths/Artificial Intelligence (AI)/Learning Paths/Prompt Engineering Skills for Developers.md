@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/prompt-engineering-skills-for-developers"
+url: https://www.linkedin.com/learning/paths/prompt-engineering-skills-for-developers
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,38 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Ai And Developer Productivity]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction To Prompt Engineering For Generative Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Prompt Engineering with ChatGPT]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[ChatGPT- Perfecting Your Output with Templates in Prompts]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Prompt Engineering with LangChain]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Building Advanced AI Apps with Prompt Flow]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Prompt Engineering Skills for Developers

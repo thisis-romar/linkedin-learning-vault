@@ -27,7 +27,7 @@ tags:
   - skill/r-programming-language
   - skill/rstudio
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Your First Project in R](https://media.licdn.com/dms/image/v2/D560DAQE-8a_4wXztkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709678710971?e=2147483647&amp;v=beta&amp;t=6wGBExSdBJB7ULQGD7PUbYyD-hg1ZOI3ThoKtfuD5bA)

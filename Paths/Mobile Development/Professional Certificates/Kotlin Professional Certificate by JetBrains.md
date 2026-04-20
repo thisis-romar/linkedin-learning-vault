@@ -2,7 +2,7 @@
 type: professional-certificate
 cssclasses:
   - lle-professional-certificate
-url: "https://www.linkedin.com/learning/paths/kotlin-professional-certificate-by-jetbrains"
+url: https://www.linkedin.com/learning/paths/kotlin-professional-certificate-by-jetbrains
 course_count: 4
 linkedin_topics:
   - Mobile Development
@@ -12,8 +12,30 @@ tags:
   - professional-certificate
   - topic/mobile-development
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Kotlin Essential Training Functions Collections And I O]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Kotlin Essential Training- Object-Oriented and Async Code]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Kotlin Multiplatform Development]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Exploring Ktor with Kotlin Multiplatform and Compose]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Kotlin Professional Certificate by JetBrains

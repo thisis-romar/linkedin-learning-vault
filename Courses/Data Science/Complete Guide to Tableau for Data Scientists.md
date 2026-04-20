@@ -30,7 +30,7 @@ tags:
   - skill/data-visualization
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Guide to Tableau for Data Scientists](https://media.licdn.com/dms/image/v2/D560DAQFkUIqywlvPyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727278051479?e=2147483647&amp;v=beta&amp;t=DcicINZOmoY_uZju2jZlcTGj6ZdaUWBIiyVFEc9Fy6w)

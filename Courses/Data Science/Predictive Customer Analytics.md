@@ -27,7 +27,7 @@ tags:
   - skill/customer-analysis
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Predictive Customer Analytics](https://media.licdn.com/dms/image/v2/C560DAQEOoASdSrwRBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648058711495?e=2147483647&amp;v=beta&amp;t=8SUlEjC-H1h5fT6puH9NTY3dbiM5IuUXOD3RShS9BYE)

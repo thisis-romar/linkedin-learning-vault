@@ -26,7 +26,7 @@ tags:
   - skill/digital-authentication
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Node: Authentication](https://media.licdn.com/dms/image/v2/C560DAQFfBze87e2Uzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624987747272?e=2147483647&amp;v=beta&amp;t=zJ1fGIb-yUPXCx5HLCtiWz-rOPG-TOpwqdwabKwI40w)

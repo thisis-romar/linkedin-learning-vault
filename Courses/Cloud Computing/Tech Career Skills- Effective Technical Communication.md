@@ -36,7 +36,7 @@ tags:
   - skill/tech-career-skills
   - skill/technical-communication
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Tech Career Skills: Effective Technical Communication](https://media.licdn.com/dms/image/v2/C4E0DAQGe_XBEUaYAHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669412428?e=2147483647&amp;v=beta&amp;t=QEso6-1Lc9Ph5lSUygZxhuAC_R3CXpoXTTv-FsIkdIg)

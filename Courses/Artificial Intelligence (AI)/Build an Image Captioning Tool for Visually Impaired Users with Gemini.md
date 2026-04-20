@@ -33,7 +33,7 @@ tags:
   - skill/computer-vision
   - skill/google-gemini
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Build an Image Captioning Tool for Visually Impaired Users with Gemini](https://media.licdn.com/dms/image/v2/D560DAQHvLDVro1C27Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715978287117?e=2147483647&amp;v=beta&amp;t=CBDbKQ4y3RVI9bUIqjBK8D4RrPE71k8YjULhxmfyyPw)

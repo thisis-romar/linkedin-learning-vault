@@ -31,7 +31,7 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Prompting ChatGPT with Multimodal Techniques](https://media.licdn.com/dms/image/v2/D4E0DAQEL03xcjCpqag/learning-public-crop_675_1200/B4EZrb41vCGUAY-/0/1764625702146?e=2147483647&amp;v=beta&amp;t=NcHp6VgmBRHNkEULL2S22bTdcKofC5fYe6KICW0Zcig)

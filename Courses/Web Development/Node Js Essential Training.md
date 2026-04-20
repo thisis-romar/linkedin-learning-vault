@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Node Js Essential Training](https://media.licdn.com/dms/image/v2/C560DAQHctDFCWfBf5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654187660358?e=2147483647&amp;v=beta&amp;t=poC_kdk8J3POqy2E36qjzgrHnv9UYq9r6VBSmPWCmG8)

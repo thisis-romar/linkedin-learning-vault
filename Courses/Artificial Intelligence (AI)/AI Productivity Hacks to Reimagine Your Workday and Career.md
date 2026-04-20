@@ -16,7 +16,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Productivity Hacks to Reimagine Your Workday and Career](https://media.licdn.com/dms/image/v2/D560DAQEenBAx3uzf-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695677969449?e=2147483647&amp;v=beta&amp;t=QbWADSDlVHEcZZQgps6yIbnI2pL-BouX4o_FpLIWYp0)

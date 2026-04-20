@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-skills-in-r"
+url: https://www.linkedin.com/learning/paths/advance-your-skills-in-r
 course_count: 8
 linkedin_topics:
   - Data Science
@@ -12,8 +12,46 @@ tags:
   - learning-path
   - topic/data-science
   - topic/software-development
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Complete Guide To R Wrangling Visualizing And Modeling Data]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Complete Your First Project in R]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[R for Data Science- Analysis and Visualization]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[R Code Challenges- Data Science]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Learning the R Tidyverse]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[R Tidyverse Applications]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Creating Maps with R]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Build Advanced Charts in R]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Skills in R

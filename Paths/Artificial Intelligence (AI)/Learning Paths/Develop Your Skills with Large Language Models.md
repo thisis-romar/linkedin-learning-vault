@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/develop-your-skills-with-large-language-models"
+url: https://www.linkedin.com/learning/paths/develop-your-skills-with-large-language-models
 course_count: 9
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,50 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Introduction to Large Language Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI- Introduction to Large Language Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction To Prompt Engineering For Generative Ai]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Generative AI- Working with Large Language Models]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Introduction to Generative AI with GPT]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Gpt Foundations Building Ai Powered Apps]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[TensorFlow- Working with NLP]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[AI Text Summarization with Hugging Face]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Applied AI- Building NLP Apps with Hugging Face Transformers]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Develop Your Skills with Large Language Models

@@ -23,7 +23,7 @@ tags:
   - skill/twilio
   - skill/messaging-platforms
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Twilio Essentials Unit 1 Introducing Twilio And Programmable Messaging](https://media.licdn.com/dms/image/v2/C560DAQHUR-J9VL-J2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661383837519?e=2147483647&amp;v=beta&amp;t=ZrdnTjq1zphsfwkb_o2Ry5UuxwVWpZ75onlvqN6zle0)

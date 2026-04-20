@@ -17,7 +17,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leveraging Cloud Computing for IoT](https://media.licdn.com/dms/image/v2/C4E0DAQGdM23RWl1vNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576086606650?e=2147483647&amp;v=beta&amp;t=f_3ixjiJK8iK424NlOeMDgIcwL8XwYRuabKgOEZ4NsE)

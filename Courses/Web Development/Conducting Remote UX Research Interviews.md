@@ -25,7 +25,7 @@ tags:
   - skill/user-interviews
   - skill/ux-research
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Conducting Remote UX Research Interviews](https://media.licdn.com/dms/image/v2/C4E0DAQHL7vLStBTkKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656348274146?e=2147483647&amp;v=beta&amp;t=UMO5UOo_3dNvHflzeef4WTE3AzO236MsB99pel4hI2w)

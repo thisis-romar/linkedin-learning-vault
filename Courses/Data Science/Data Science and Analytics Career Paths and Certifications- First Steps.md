@@ -33,7 +33,7 @@ tags:
   - skill/career-path-planning
   - skill/data-science
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Data Science and Analytics Career Paths and Certifications: First Steps](https://media.licdn.com/dms/image/v2/C560DAQFZ8ZDyna79_w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644343935339?e=2147483647&amp;v=beta&amp;t=JXfjeKtjDqnTZ1Fj--0z6eo1pIXJluHFiefYL8znht0)

@@ -28,7 +28,7 @@ tags:
   - skill/ai-security
   - skill/security-testing
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Leveraging AI for Security Testing](https://media.licdn.com/dms/image/v2/D560DAQGo5RP_JFJ6pQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709593162575?e=2147483647&amp;v=beta&amp;t=KERBrm21O-jI3UTBMVVf7rIVEXVCne_VH0rZtOfqGQk)

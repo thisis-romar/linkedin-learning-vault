@@ -23,7 +23,7 @@ tags:
   - topic/data-science
   - skill/marketing-analytics
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Marketing Foundations: Analytics (2021)](https://media.licdn.com/dms/image/v2/D4D0DAQG28Ql3Bs0yPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730388803564?e=2147483647&amp;v=beta&amp;t=QGlo-65O_6reHijbEubcupnmcgVFUBliFdp0SI6ksEE)

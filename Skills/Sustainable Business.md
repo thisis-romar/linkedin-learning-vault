@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/sustainable-business
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # Sustainable Business

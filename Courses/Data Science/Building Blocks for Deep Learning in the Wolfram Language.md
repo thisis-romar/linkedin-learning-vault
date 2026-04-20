@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building Blocks for Deep Learning in the Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQGkt7O1q9cyow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703196542096?e=2147483647&amp;v=beta&amp;t=TwwE6EX1MbPtHShoYkdFKYWfFQ5NuLTvgZPhxwyND9o)

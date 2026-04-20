@@ -6,7 +6,7 @@ course_count: 1
 tags:
   - skill
   - skill/international-project-management
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 # International Project Management

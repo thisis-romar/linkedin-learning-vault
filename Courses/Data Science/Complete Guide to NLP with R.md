@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Complete Guide to NLP with R](https://media.licdn.com/dms/image/v2/D560DAQFLD7mdGLaSfw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722010134160?e=2147483647&amp;v=beta&amp;t=sRHBezRhvt01iGAc-5GnbR9a6qBcW2Q5-NYeykUGc7g)

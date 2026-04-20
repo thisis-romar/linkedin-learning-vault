@@ -26,7 +26,7 @@ tags:
   - skill/supply-chain-security
   - skill/cybersecurity
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Supply Chain Cybersecurity: Preventing Supply Chain Attacks](https://media.licdn.com/dms/image/v2/C4E0DAQFCsR1jZsjBRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648758486739?e=2147483647&amp;v=beta&amp;t=shoDLb2WVFatyDpWOlZQk5XhAPrrQ4Ng7tXv7skAInM)

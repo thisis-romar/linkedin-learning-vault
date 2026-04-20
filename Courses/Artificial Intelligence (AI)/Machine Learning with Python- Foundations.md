@@ -32,7 +32,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Machine Learning with Python: Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQEv0QXZlJat7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633371437602?e=2147483647&amp;v=beta&amp;t=Ux0MgiDufbCMgW393JLr2OFJWXK08s-q_beryGUuv1Y)

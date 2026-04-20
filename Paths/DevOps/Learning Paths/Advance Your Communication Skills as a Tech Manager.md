@@ -2,18 +2,48 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/advance-your-communication-skills-as-a-tech-manager"
+url: https://www.linkedin.com/learning/paths/advance-your-communication-skills-as-a-tech-manager
 course_count: 6
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 2
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/devops
   - topic/network-and-system-administration
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Tech Career Skills- Effective Technical Communication]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Creating Your IT Strategy]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Succeeding As A First Time Tech Manager]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Inclusive Tech- The Case for Inclusive Leadership]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[The Non Technical Skills Of Effective Data Scientists]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Framing Cloud Discussions for the C-Suite]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Advance Your Communication Skills as a Tech Manager

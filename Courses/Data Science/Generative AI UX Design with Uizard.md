@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Generative AI UX Design with Uizard](https://media.licdn.com/dms/image/v2/D4E0DAQEQX6_FncinqQ/learning-public-crop_675_1200/B4EZejAJTUHYAY-/0/1750786414131?e=2147483647&amp;v=beta&amp;t=5ryhvjNmOHYxY4ezoQV6X2nAb1cjkcTNbX7K98Fn1M0)

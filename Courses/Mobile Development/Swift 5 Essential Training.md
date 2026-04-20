@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Swift 5 Essential Training](https://media.licdn.com/dms/image/v2/C560DAQEks0fJDAIWMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568843493234?e=2147483647&amp;v=beta&amp;t=Ey2BOGas6-6UdMEFUO7hHuHTHqGxudAPCc2i_SAC6Mk)

@@ -28,7 +28,7 @@ tags:
   - skill/c
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![C# Cross-Platform Development](https://media.licdn.com/dms/image/v2/D560DAQFN2A5GUfqgSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691011036247?e=2147483647&amp;v=beta&amp;t=ykMwwWkISC0KMJQlfocVsyiEAGVFnGuuFutt19P4m0c)

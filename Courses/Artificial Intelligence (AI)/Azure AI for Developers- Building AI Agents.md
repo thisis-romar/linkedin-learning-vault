@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/semantic-kernel
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Azure AI for Developers: Building AI Agents](https://media.licdn.com/dms/image/v2/D4D0DAQEyKymcipp_aA/learning-public-crop_675_1200/B4DZT8ohaqG4AY-/0/1739405269386?e=2147483647&amp;v=beta&amp;t=NAVYcoh6dFmTD_1MQMP3ukKW-ZHO7ag-F560tDugFBg)

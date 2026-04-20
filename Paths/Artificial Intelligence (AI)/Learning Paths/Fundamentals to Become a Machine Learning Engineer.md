@@ -2,7 +2,7 @@
 type: learning-path
 cssclasses:
   - lle-learning-path
-url: "https://www.linkedin.com/learning/paths/fundamentals-to-become-a-machine-learning-engineer"
+url: https://www.linkedin.com/learning/paths/fundamentals-to-become-a-machine-learning-engineer
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
@@ -10,8 +10,42 @@ louvain_cluster: 5
 tags:
   - learning-path
   - topic/artificial-intelligence
-status: not-started
-created: 2026-04-19
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
+videos_visited: 0
+progress_status: fresh
+course_activity:
+  - course: '[[Artificial Intelligence Foundations Thinking Machines]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Artificial Intelligence Foundations- Machine Learning]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Machine Learning with Python- Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Deep Learning Getting Started]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Deep Learning- Model Optimization and Tuning (2022)]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Reinforcement Learning Foundations]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+  - course: '[[Training Neural Networks in Python]]'
+    last_opened: null
+    open_count: 0
+    videos: []
+created: '2026-04-20'
 ---
 
 # Fundamentals to Become a Machine Learning Engineer

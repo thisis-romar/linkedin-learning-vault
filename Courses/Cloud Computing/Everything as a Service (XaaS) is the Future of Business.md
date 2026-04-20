@@ -17,7 +17,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Everything as a Service (XaaS) is the Future of Business](https://media.licdn.com/dms/image/v2/C4E0DAQEn0755Tz8meg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1595977263026?e=2147483647&amp;v=beta&amp;t=tCQT9QlH9sLolyuUqHLaUwQ3YF_TYVtOFik5UCRBrsY)

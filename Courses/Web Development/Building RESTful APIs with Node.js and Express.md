@@ -30,7 +30,7 @@ tags:
   - skill/rest-apis
   - skill/node-js
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![Building RESTful APIs with Node.js and Express](https://media.licdn.com/dms/image/v2/C560DAQFBQs89Kb83rg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668018324768?e=2147483647&amp;v=beta&amp;t=RRUJY4qoTWuVmUGY_sQuO2W7xw0iCcLX6JZUMGD6Y9w)

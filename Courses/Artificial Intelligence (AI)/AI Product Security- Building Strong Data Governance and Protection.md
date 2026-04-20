@@ -33,7 +33,7 @@ tags:
   - skill/ai-governance
   - skill/data-security
 status: not-started
-created: 2026-04-19
+created: 2026-04-20
 ---
 
 ![AI Product Security: Building Strong Data Governance and Protection](https://media.licdn.com/dms/image/v2/D4D0DAQGXMEVUJF08sg/learning-public-crop_675_1200/B4DZXtJ7HmG4Ac-/0/1743440557548?e=2147483647&amp;v=beta&amp;t=mR9oJrivaOA6XnusALbRwyhSF97BorAcLWpaM5vBbQ4)
