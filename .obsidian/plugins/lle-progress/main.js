@@ -26,7 +26,7 @@ __export(main_exports, {
 });
 module.exports = __toCommonJS(main_exports);
 var import_obsidian = require("obsidian");
-var LL_VIDEO_URL_RE = /^https?:\/\/(?:www\.)?linkedin\.com\/learning\/([^\/?#]+)(?:\/([^\/?#]+))?/i;
+var LL_VIDEO_URL_RE = /^https?:\/\/(?:www\.)?linkedin\.com\/learning\/([^/?#]+)(?:\/([^/?#]+))?/i;
 var DEBOUNCE_MS = 250;
 var LleProgressPlugin = class extends import_obsidian.Plugin {
   constructor() {
