@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:\"000 Map of Content\"",
@@ -331,7 +331,7 @@
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -340,6 +340,6 @@
   "repelStrength": 20,
   "linkStrength": 0.4,
   "linkDistance": 300,
-  "scale": 0.01637899313343919,
+  "scale": 0.04972021026335205,
   "close": false
 }
