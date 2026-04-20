@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/explore-ai-for-data-engineering"
 course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Database Management
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/database-management
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Explore AI for Data Engineering

@@ -1,15 +1,17 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/career-essentials-in-cybersecurity-by-microsoft-and-linkedin"
 course_count: 4
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - professional-certificate
   - topic/security
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Career Essentials in Cybersecurity by Microsoft and LinkedIn

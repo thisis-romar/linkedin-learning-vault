@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/explore-app-development-with-the-mern-stack"
 course_count: 13
 linkedin_topics:
@@ -13,7 +15,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Explore App Development with the MERN Stack

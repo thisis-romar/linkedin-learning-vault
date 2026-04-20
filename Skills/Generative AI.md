@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 39
 tags:
   - skill
   - skill/generative-ai
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Generative AI

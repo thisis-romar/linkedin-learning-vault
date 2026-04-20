@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 11
 tags:
   - skill
   - skill/governance-risk-management-and-compliance-grc
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Governance, Risk Management, and Compliance (GRC)

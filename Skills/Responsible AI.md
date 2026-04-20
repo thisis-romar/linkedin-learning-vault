@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 30
 tags:
   - skill
   - skill/responsible-ai
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Responsible AI

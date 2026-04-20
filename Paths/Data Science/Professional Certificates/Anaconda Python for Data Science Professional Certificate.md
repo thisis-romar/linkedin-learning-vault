@@ -1,17 +1,19 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/anaconda-python-for-data-science-professional-certificate"
 course_count: 5
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - professional-certificate
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Anaconda Python for Data Science Professional Certificate

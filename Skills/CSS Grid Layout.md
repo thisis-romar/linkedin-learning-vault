@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 2
 tags:
   - skill
   - skill/css-grid-layout
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # CSS Grid Layout

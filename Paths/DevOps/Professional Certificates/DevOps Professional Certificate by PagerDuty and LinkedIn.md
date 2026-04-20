@@ -1,15 +1,17 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/devops-professional-certificate-by-pagerduty-and-linkedin"
 course_count: 3
 linkedin_topics:
   - DevOps
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - professional-certificate
   - topic/devops
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # DevOps Professional Certificate by PagerDuty and LinkedIn

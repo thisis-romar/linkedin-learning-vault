@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/improve-your-itil-skills"
 course_count: 5
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Improve Your ITIL® Skills

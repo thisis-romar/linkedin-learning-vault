@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 4
 tags:
   - skill
   - skill/artificial-neural-networks
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Artificial Neural Networks

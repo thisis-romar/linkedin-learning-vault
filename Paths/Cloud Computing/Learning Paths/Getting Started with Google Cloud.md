@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/getting-started-with-google-cloud"
 course_count: 3
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Getting Started with Google Cloud

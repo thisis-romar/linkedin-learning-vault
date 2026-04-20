@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/containerize-applications-with-docker"
 course_count: 2
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 0
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Containerize Applications with Docker

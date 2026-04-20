@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/ai-for-healthcare-essentials-for-technical-roles"
 course_count: 6
 linkedin_topics:
@@ -7,7 +9,7 @@ linkedin_topics:
   - Data Science
   - DevOps
   - Network and System Administration
-louvain_cluster: 21
+louvain_cluster: 16
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -15,7 +17,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # AI for Healthcare: Essentials for Technical Roles

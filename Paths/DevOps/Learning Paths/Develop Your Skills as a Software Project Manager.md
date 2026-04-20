@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/develop-your-skills-as-a-software-project-manager"
 course_count: 11
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Develop Your Skills as a Software Project Manager

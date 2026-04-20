@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/master-sql-for-data-science"
 course_count: 6
 linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
   - topic/database-management
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Master SQL for Data Science

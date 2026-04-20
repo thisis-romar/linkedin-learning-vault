@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 2
 tags:
   - skill
   - skill/infrastructure-as-code-iac
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Infrastructure as code (IaC)

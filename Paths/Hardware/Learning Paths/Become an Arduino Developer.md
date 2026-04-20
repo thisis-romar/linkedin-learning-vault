@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/become-an-arduino-developer"
 course_count: 11
 linkedin_topics:
   - Hardware
   - Network and System Administration
   - Software Development
-louvain_cluster: 12
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/hardware
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Become an Arduino Developer

@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/penetration-testing-professional-certificate-by-cybrary"
 course_count: 2
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - professional-certificate
   - topic/security
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Penetration Testing Professional Certificate by Cybrary

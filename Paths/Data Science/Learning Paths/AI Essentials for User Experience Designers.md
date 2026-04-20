@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/ai-essentials-for-user-experience-designers"
 course_count: 5
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/data-science
   - topic/web-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # AI Essentials for User Experience Designers

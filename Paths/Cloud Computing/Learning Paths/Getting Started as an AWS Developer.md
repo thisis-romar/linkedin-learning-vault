@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/getting-started-as-an-aws-developer"
 course_count: 4
 linkedin_topics:
   - Cloud Computing
   - Cybersecurity
-louvain_cluster: 9
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/security
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Getting Started as an AWS Developer

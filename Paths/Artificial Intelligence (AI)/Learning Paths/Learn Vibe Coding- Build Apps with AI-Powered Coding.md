@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/learn-vibe-coding-build-apps-with-ai-powered-coding"
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 18
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Learn Vibe Coding: Build Apps with AI-Powered Coding

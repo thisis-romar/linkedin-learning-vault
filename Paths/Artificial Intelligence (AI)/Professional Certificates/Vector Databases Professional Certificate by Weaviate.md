@@ -1,19 +1,21 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/vector-databases-professional-certificate-by-weaviate"
 course_count: 2
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Database Management
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - professional-certificate
   - topic/artificial-intelligence
   - topic/database-management
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Vector Databases Professional Certificate by Weaviate

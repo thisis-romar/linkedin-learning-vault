@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/mastering-executive-level-data-analytics"
 course_count: 7
 linkedin_topics:
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Mastering Executive-Level Data Analytics

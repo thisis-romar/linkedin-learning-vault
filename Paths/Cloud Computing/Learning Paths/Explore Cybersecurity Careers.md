@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/explore-cybersecurity-careers"
 course_count: 9
 linkedin_topics:
@@ -7,7 +9,7 @@ linkedin_topics:
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/cloud-computing
@@ -15,7 +17,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Explore Cybersecurity Careers

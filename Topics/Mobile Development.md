@@ -1,10 +1,12 @@
 ---
 type: topic-moc
+cssclasses:
+  - lle-topic
 linkedin_topic: Mobile Development
 tags:
   - moc
   - topic/mobile-development
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Mobile Development

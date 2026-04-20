@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/explore-a-career-as-a-javascript-developer"
 course_count: 5
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - learning-path
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Explore a Career as a JavaScript Developer

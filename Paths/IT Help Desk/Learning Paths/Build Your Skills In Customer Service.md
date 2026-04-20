@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/build-your-skills-in-customer-service"
 course_count: 8
 linkedin_topics:
   - IT Help Desk
-louvain_cluster: 19
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/it-help-desk
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Build Your Skills In Customer Service

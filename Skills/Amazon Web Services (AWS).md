@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 17
 tags:
   - skill
   - skill/amazon-web-services-aws
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Amazon Web Services (AWS)

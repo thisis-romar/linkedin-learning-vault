@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 1
 tags:
   - skill
   - skill/managing-technical-personnel
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Managing Technical Personnel

@@ -1,8 +1,10 @@
 ---
 type: moc
+cssclasses:
+  - lle-moc
 tags:
   - moc
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # LinkedIn Learning Knowledge Graph

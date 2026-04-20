@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/essential-new-skills-in-it-administration"
 course_count: 5
 linkedin_topics:
   - Cloud Computing
   - Network and System Administration
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Essential New Skills in IT Administration

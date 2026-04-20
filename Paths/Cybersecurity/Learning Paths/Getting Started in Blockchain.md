@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/getting-started-in-blockchain"
 course_count: 5
 linkedin_topics:
   - Cybersecurity
   - Data Science
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/security
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Getting Started in Blockchain

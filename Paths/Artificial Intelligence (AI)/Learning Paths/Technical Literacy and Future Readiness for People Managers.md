@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-people-managers"
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
-louvain_cluster: 4
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Technical Literacy and Future Readiness for People Managers

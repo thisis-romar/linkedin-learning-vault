@@ -1,15 +1,17 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/statistics-foundations-professional-certificate-by-wolfram-research"
 course_count: 7
 linkedin_topics:
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - professional-certificate
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Statistics Foundations Professional Certificate by Wolfram Research

@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 7
 tags:
   - skill
   - skill/ux-research
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # UX Research

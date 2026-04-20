@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/explore-a-career-in-it-support"
 course_count: 11
 linkedin_topics:
   - DevOps
   - IT Help Desk
   - Network and System Administration
-louvain_cluster: 9
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/devops
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Explore a Career in IT Support

@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 16
 tags:
   - skill
   - skill/artificial-intelligence-for-design
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Artificial Intelligence for Design

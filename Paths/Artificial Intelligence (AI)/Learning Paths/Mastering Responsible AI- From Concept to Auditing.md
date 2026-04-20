@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/mastering-responsible-ai-from-concept-to-auditing"
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cybersecurity
   - Data Science
-louvain_cluster: 2
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/security
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Mastering Responsible AI: From Concept to Auditing

@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/build-your-cloud-computing-skills"
 course_count: 3
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 10
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/cloud-computing
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Build your Cloud Computing Skills

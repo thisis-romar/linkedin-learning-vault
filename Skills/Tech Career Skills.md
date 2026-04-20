@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 36
 tags:
   - skill
   - skill/tech-career-skills
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Tech Career Skills

@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/develop-your-skills-in-agile-software-development"
 course_count: 6
 linkedin_topics:
   - DevOps
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Develop Your Skills in Agile Software Development

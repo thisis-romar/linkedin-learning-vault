@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/python-for-data-professionals-in-finance"
 course_count: 5
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 16
+louvain_cluster: 13
 tags:
   - learning-path
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Python for Data Professionals in Finance

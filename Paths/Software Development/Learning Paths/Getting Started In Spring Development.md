@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/getting-started-in-spring-development"
 course_count: 5
 linkedin_topics:
   - Software Development
   - Web Development
-louvain_cluster: 12
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Getting Started In Spring Development

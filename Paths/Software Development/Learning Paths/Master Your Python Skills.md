@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/master-your-python-skills"
 course_count: 11
 linkedin_topics:
   - Software Development
-louvain_cluster: 13
+louvain_cluster: 14
 tags:
   - learning-path
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Master Your Python Skills

@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/master-data-engineering"
 course_count: 8
 linkedin_topics:
   - Data Science
   - Software Development
   - Web Development
-louvain_cluster: 6
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/data-science
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Master Data Engineering

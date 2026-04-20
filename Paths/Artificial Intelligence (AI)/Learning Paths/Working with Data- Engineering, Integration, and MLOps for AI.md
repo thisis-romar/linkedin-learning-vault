@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/working-with-data-engineering-integration-and-mlops-for-ai"
 course_count: 5
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Working with Data: Engineering, Integration, and MLOps for AI

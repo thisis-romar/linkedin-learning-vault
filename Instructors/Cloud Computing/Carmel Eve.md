@@ -1,0 +1,25 @@
+---
+type: instructor
+cssclasses:
+  - lle-instructor
+course_count: 1
+path_reach: 1
+linkedin_topics:
+  - Cloud Computing
+  - Network and System Administration
+  - Software Development
+tags:
+  - instructor
+  - topic/cloud-computing
+  - topic/network-and-system-administration
+  - topic/software-development
+created: 2026-04-19
+---
+
+# Carmel Eve
+
+> 1 courses | 1 learning paths
+
+## Courses
+
+- [[Azure Data Lake for Developers]]

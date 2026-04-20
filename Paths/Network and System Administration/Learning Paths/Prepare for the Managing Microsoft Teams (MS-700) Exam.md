@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/prepare-for-the-managing-microsoft-teams-ms-700-exam"
 course_count: 2
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - learning-path
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Prepare for the Managing Microsoft Teams (MS-700) Exam

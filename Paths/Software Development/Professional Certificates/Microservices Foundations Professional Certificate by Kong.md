@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/microservices-foundations-professional-certificate-by-kong"
 course_count: 3
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - professional-certificate
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Microservices Foundations Professional Certificate by Kong

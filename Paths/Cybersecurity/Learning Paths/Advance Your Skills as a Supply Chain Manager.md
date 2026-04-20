@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/advance-your-skills-as-a-supply-chain-manager"
 course_count: 15
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 7
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/security
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Advance Your Skills as a Supply Chain Manager

@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 3
 tags:
   - skill
   - skill/software-development-life-cycle-sdlc
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Software Development Life Cycle (SDLC)

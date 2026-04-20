@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/managing-your-career-as-a-developer"
 course_count: 8
 linkedin_topics:
@@ -7,7 +9,7 @@ linkedin_topics:
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 0
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/cloud-computing
@@ -15,7 +17,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Managing your Career as a Developer

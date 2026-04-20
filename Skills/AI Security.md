@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 8
 tags:
   - skill
   - skill/ai-security
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # AI Security

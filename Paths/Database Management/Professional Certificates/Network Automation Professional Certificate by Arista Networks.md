@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/network-automation-professional-certificate-by-arista-networks"
 course_count: 6
 linkedin_topics:
@@ -13,7 +15,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Network Automation Professional Certificate by Arista Networks

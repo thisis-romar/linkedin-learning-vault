@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/build-an-enterprise-cloud-architecture"
 course_count: 4
 linkedin_topics:
   - Cloud Computing
   - Cybersecurity
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/security
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Build an Enterprise Cloud Architecture

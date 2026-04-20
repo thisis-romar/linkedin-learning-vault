@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/explore-react-js-development"
 course_count: 8
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Explore React.js Development

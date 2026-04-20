@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/advance-your-communication-skills-as-a-tech-manager"
 course_count: 6
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 14
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Advance Your Communication Skills as a Tech Manager

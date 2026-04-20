@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/continuous-integration-continuous-delivery-ci-cd-with-jenkins"
 course_count: 3
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - learning-path
   - topic/devops
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Continuous Integration/Continuous Delivery (CI/CD) with Jenkins

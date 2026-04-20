@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/explore-a-career-in-sql-development"
 course_count: 8
 linkedin_topics:
@@ -13,7 +15,7 @@ tags:
   - topic/database-management
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Explore a Career in SQL Development

@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 32
 tags:
   - skill
   - skill/microsoft-azure
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Microsoft Azure

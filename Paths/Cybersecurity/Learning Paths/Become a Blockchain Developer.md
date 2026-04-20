@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/become-a-blockchain-developer"
 course_count: 14
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/security
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Become a Blockchain Developer

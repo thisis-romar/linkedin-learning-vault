@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/getting-started-with-prompt-engineering"
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 11
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Getting Started with Prompt Engineering

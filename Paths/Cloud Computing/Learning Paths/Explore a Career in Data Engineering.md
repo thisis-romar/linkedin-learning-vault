@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/explore-a-career-in-data-engineering"
 course_count: 7
 linkedin_topics:
@@ -7,7 +9,7 @@ linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/cloud-computing
@@ -15,7 +17,7 @@ tags:
   - topic/database-management
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Explore a Career in Data Engineering

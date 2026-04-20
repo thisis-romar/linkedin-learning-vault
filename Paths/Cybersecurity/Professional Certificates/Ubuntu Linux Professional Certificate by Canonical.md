@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/ubuntu-linux-professional-certificate-by-canonical"
 course_count: 4
 linkedin_topics:
@@ -15,7 +17,7 @@ tags:
   - topic/network-and-system-administration
   - topic/web-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Ubuntu Linux Professional Certificate by Canonical

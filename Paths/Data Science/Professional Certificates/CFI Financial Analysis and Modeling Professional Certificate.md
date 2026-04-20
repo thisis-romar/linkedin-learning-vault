@@ -1,15 +1,17 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/cfi-financial-analysis-and-modeling-professional-certificate"
 course_count: 7
 linkedin_topics:
   - Data Science
-louvain_cluster: 16
+louvain_cluster: 13
 tags:
   - professional-certificate
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # CFI Financial Analysis and Modeling Professional Certificate

@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/master-swift"
 course_count: 4
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/mobile-development
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Master Swift

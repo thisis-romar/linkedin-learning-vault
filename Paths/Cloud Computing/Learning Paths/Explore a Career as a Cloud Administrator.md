@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/explore-a-career-as-a-cloud-administrator"
 course_count: 6
 linkedin_topics:
   - Cloud Computing
   - Cybersecurity
-louvain_cluster: 10
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/security
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Explore a Career as a Cloud Administrator

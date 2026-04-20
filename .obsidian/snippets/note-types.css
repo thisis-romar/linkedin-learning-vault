@@ -1,0 +1,95 @@
+/* Per-type accent colors for note styling */
+.lle-course        { --note-accent: #6366F1; --note-accent-rgb: 99, 102, 241; }
+.lle-learning-path { --note-accent: #22C55E; --note-accent-rgb: 34, 197, 94; }
+.lle-professional-certificate { --note-accent: #EC4899; --note-accent-rgb: 236, 72, 153; }
+.lle-instructor    { --note-accent: #A855F7; --note-accent-rgb: 168, 85, 247; }
+.lle-topic         { --note-accent: #F59E0B; --note-accent-rgb: 245, 158, 11; }
+.lle-skill         { --note-accent: #0EA5E9; --note-accent-rgb: 14, 165, 233; }
+.lle-moc           { --note-accent: #F97316; --note-accent-rgb: 249, 115, 22; }
+
+/* Level-specific accents for course notes */
+.lle-level-beginner    { --level-accent: #22C55E; }
+.lle-level-intermediate { --level-accent: #3B82F6; }
+.lle-level-advanced    { --level-accent: #EF4444; }
+
+/* Left border accent on note body */
+.lle-course .markdown-preview-view,
+.lle-learning-path .markdown-preview-view,
+.lle-professional-certificate .markdown-preview-view,
+.lle-instructor .markdown-preview-view,
+.lle-topic .markdown-preview-view,
+.lle-skill .markdown-preview-view,
+.lle-moc .markdown-preview-view {
+  border-left: 3px solid var(--note-accent);
+  padding-left: 12px;
+}
+
+/* Inline title color */
+.lle-course .inline-title,
+.lle-learning-path .inline-title,
+.lle-professional-certificate .inline-title,
+.lle-instructor .inline-title,
+.lle-topic .inline-title,
+.lle-skill .inline-title,
+.lle-moc .inline-title {
+  color: var(--note-accent);
+}
+
+/* ── Visual type banners ─────────────────────────────────── */
+.lle-course .markdown-preview-view::before,
+.lle-learning-path .markdown-preview-view::before,
+.lle-professional-certificate .markdown-preview-view::before,
+.lle-instructor .markdown-preview-view::before,
+.lle-topic .markdown-preview-view::before,
+.lle-skill .markdown-preview-view::before,
+.lle-moc .markdown-preview-view::before {
+  display: block;
+  padding: 6px 16px;
+  font-weight: 700;
+  font-size: 0.7em;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: white;
+  border-radius: 4px 4px 0 0;
+  margin: -16px -16px 16px -15px;
+}
+
+.lle-course .markdown-preview-view::before {
+  content: "■ COURSE";
+  background: linear-gradient(135deg, #6366F1, #818CF8);
+}
+.lle-learning-path .markdown-preview-view::before {
+  content: "◆ LEARNING PATH";
+  background: linear-gradient(135deg, #22C55E, #4ADE80);
+}
+.lle-professional-certificate .markdown-preview-view::before {
+  content: "★ PROFESSIONAL CERTIFICATE";
+  background: linear-gradient(135deg, #EC4899, #F472B6);
+}
+.lle-instructor .markdown-preview-view::before {
+  content: "● INSTRUCTOR";
+  background: linear-gradient(135deg, #A855F7, #C084FC);
+}
+.lle-topic .markdown-preview-view::before {
+  content: "▲ TOPIC";
+  background: linear-gradient(135deg, #F59E0B, #FBBF24);
+}
+.lle-skill .markdown-preview-view::before {
+  content: "◇ SKILL";
+  background: linear-gradient(135deg, #0EA5E9, #38BDF8);
+}
+.lle-moc .markdown-preview-view::before {
+  content: "✦ MAP OF CONTENT";
+  background: linear-gradient(135deg, #F97316, #FB923C);
+}
+
+/* Level badge for courses — colored right border */
+.lle-level-beginner .markdown-preview-view {
+  border-right: 3px solid #22C55E;
+}
+.lle-level-intermediate .markdown-preview-view {
+  border-right: 3px solid #3B82F6;
+}
+.lle-level-advanced .markdown-preview-view {
+  border-right: 3px solid #EF4444;
+}

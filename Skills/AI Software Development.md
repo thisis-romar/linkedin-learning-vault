@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 33
 tags:
   - skill
   - skill/ai-software-development
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # AI Software Development

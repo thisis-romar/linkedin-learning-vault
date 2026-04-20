@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/advancing-your-azure-developer-skills-exploring-complex-application-development"
 course_count: 7
 linkedin_topics:
   - Cloud Computing
   - Network and System Administration
   - Software Development
-louvain_cluster: 9
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Advancing Your Azure Developer Skills: Exploring Complex Application Development

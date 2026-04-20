@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 6
 tags:
   - skill
   - skill/predictive-analytics
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Predictive Analytics

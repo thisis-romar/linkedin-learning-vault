@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/advance-as-a-digital-marketing-specialist"
 course_count: 9
 linkedin_topics:
   - Data Science
-louvain_cluster: 19
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Advance as a Digital Marketing Specialist

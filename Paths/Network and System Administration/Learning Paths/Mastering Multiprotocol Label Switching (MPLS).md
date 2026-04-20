@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/mastering-multiprotocol-label-switching-mpls"
 course_count: 4
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - learning-path
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Mastering Multiprotocol Label Switching (MPLS)

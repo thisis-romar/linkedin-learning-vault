@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/responsible-ai-in-a-global-context-professional-certificate-by-the-united-nations-university"
 course_count: 3
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - professional-certificate
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Responsible AI in a Global Context Professional Certificate by the United Nations University

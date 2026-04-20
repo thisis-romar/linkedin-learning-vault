@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/infrastructure-management-on-microsoft-azure-top-skills-for-it-professionals"
 course_count: 8
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 9
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/cloud-computing
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Infrastructure Management on Microsoft Azure: Top Skills for IT Professionals

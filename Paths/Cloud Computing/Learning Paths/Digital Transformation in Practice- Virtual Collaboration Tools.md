@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/digital-transformation-in-practice-virtual-collaboration-tools"
 course_count: 9
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Digital Transformation in Practice: Virtual Collaboration Tools

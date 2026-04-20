@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/develop-your-ai-skills-with-google-gemini-and-google-cloud-platform"
 course_count: 7
 linkedin_topics:
@@ -13,7 +15,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Develop Your AI Skills with Google Gemini and Google Cloud Platform

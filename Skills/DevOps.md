@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 11
 tags:
   - skill
   - skill/devops
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # DevOps

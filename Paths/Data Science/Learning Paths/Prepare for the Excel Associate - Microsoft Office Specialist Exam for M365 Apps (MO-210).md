@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/prepare-for-the-excel-associate-microsoft-office-specialist-exam-for-m365-apps-mo-210"
 course_count: 7
 linkedin_topics:
   - Data Science
-louvain_cluster: 7
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)

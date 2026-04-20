@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/understanding-generative-ai-for-tech-leaders-23140626"
 course_count: 22
 linkedin_topics:
   - Artificial Intelligence (AI)
   - IT Help Desk
-louvain_cluster: 2
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/it-help-desk
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Understanding Generative AI for Tech Leaders

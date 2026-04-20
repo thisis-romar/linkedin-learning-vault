@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/develop-your-aws-skills"
 course_count: 4
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Develop Your AWS Skills

@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/develop-your-skills-with-the-openai-api"
 course_count: 10
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Develop Your Skills with the OpenAI API

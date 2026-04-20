@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/building-ai-products-security-essentials-professional-certificate-by-linkedin-learning"
 course_count: 5
 linkedin_topics:
@@ -13,7 +15,7 @@ tags:
   - topic/security
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Building AI Products: Security Essentials Professional Certificate by LinkedIn Learning

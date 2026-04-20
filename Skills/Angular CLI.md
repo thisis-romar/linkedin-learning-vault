@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 1
 tags:
   - skill
   - skill/angular-cli
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Angular CLI

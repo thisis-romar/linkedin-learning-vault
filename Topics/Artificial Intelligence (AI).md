@@ -1,10 +1,12 @@
 ---
 type: topic-moc
+cssclasses:
+  - lle-topic
 linkedin_topic: Artificial Intelligence (AI)
 tags:
   - moc
   - topic/artificial-intelligence
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Artificial Intelligence (AI)

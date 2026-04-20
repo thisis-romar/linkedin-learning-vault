@@ -1,0 +1,104 @@
+---
+type: course
+cssclasses:
+  - lle-course
+  - lle-level-intermediate
+slug: welcome-to-the-building-ai-products-security-essentials-professional-certificate
+url: "https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate"
+level: Intermediate
+updated: 5/2/2025
+learners: 6210
+skills:
+  - Product Security
+  - AI Software Development
+  - Artificial Intelligence (AI)
+exercise_files: false
+thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGgAZ7thKphhA/learning-public-crop_675_1200/B4EZWWZlO_GgAY-/0/1741985044109?e=2147483647&amp;v=beta&amp;t=J54Tun_JrKlRAkicU_KS2P-M1THdEBAWZbTlErbwNUY"
+linkedin_topic: Artificial Intelligence (AI)
+learning_paths:
+  - Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning
+path_count: 1
+tags:
+  - course
+  - topic/artificial-intelligence
+  - topic/security
+  - topic/data-science
+  - skill/product-security
+  - skill/ai-software-development
+  - skill/artificial-intelligence-ai
+status: not-started
+created: 2026-04-19
+---
+
+![Welcome To The Building Ai Products Security Essentials Professional Certificate](https://media.licdn.com/dms/image/v2/D4E0DAQGgAZ7thKphhA/learning-public-crop_675_1200/B4EZWWZlO_GgAY-/0/1741985044109?e=2147483647&amp;v=beta&amp;t=J54Tun_JrKlRAkicU_KS2P-M1THdEBAWZbTlErbwNUY)
+
+# Welcome To The Building Ai Products Security Essentials Professional Certificate
+
+> This course introduces a learning path—Building AI Products: Security Essentials Professional Certificate by LinkedIn Learning—that focuses on the technical foundations of building secure AI products at scale. Learn about the goals of this learning path, what each course covers, and the value proposition of completing the path. Tune in and get a guide to the essential security considerations and i
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate) | Intermediate | 6K learners
+> [Jump to Path Context ↓](#path-context)
+
+## Skills Covered
+
+- Product Security
+- AI Software Development
+- Artificial Intelligence (AI)
+
+## Table of Contents
+
+### Introduction
+
+#### Securing AI products: Your path to success
+> [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=0)** - Welcome to the Building AI Products: Security Essentials Learning Path.
+>
+> **[0:04](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=4)** As AI transforms every industry, new threats are emerging, and technical leaders must adapt to new challenges in building and scaling secure AI products.
+>
+> **[0:13](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=13)** Traditional boundaries are evolving.
+>
+> **[0:16](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=16)** Tasks once exclusive to machine learning engineers may now be handled by software developers or data analysts.
+>
+> **[0:22](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=22)** This shift demands a comprehensive understanding of responsible AI development, deployment, and security.
+>
+> **[0:30](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=30)** This learning path covers building and deploying secure AI systems, critical security considerations unique to AI, effective governance and security of AI data, and implementing AI defenses and responding to AI incidents.
+>
+> **[0:45](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=45)** Complete all courses and pass the final exam to earn your professional certificate, which you can showcase on your LinkedIn profile.
+>
+> **[0:52](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=52)** Let's begin building your expertise in AI product security.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** pass (1), let (1)
+> **Speakers:** - welcome (1)
+
+
+## Path Context
+
+### In [[Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning]]
+**1 of 5** | [[AI Product Security- Building Strong Data Governance and Protection]] →
+
+## Part of
+
+- [[Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning]]
+
+## Appears In
+
+- [[Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning]]
+
+## Related Courses
+
+_Courses sharing skills:_
+
+- [[Exploring the Future of Development with GitHub Copilot Workspace]] — Artificial Intelligence (AI), AI Software Development
+- [[AI Orchestration- Foundations]] — Artificial Intelligence (AI), AI Software Development
+- [[Welcome To The Building Ai Products Understanding The Workflow Professional Certificate]] — Artificial Intelligence (AI), AI Software Development
+- [[Advanced Python Projects- Build AI Applications]] — Artificial Intelligence (AI), AI Software Development
+- [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — Artificial Intelligence (AI), AI Software Development
+
+---
+
+[↑ Back to top](#)

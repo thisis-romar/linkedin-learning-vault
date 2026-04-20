@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 9
 tags:
   - skill
   - skill/software-testing
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Software Testing

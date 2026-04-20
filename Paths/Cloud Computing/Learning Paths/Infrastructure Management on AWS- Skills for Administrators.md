@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/infrastructure-management-on-aws-skills-for-administrators"
 course_count: 5
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/cloud-computing
   - topic/devops
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Infrastructure Management on AWS: Skills for Administrators

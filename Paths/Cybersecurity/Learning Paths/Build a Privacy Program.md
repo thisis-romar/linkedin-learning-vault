@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/build-a-privacy-program"
 course_count: 5
 linkedin_topics:
@@ -13,7 +15,7 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Build a Privacy Program

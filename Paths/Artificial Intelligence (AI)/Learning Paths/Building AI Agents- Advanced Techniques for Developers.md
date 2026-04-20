@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/building-ai-agents-advanced-techniques-for-developers"
 course_count: 4
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 20
+louvain_cluster: 15
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Building AI Agents: Advanced Techniques for Developers

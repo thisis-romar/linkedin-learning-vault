@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/generative-ai-for-supply-chain-professional-certificate-by-cscmp"
 course_count: 4
 linkedin_topics:
@@ -13,7 +15,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Generative AI for Supply Chain Professional Certificate by CSCMP

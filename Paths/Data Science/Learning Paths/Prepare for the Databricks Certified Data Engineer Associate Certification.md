@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/prepare-for-the-databricks-certified-data-engineer-associate-certification"
 course_count: 1
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - learning-path
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Prepare for the Databricks Certified Data Engineer Associate Certification

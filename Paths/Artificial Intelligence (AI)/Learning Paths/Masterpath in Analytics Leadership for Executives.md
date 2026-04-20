@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/masterpath-in-analytics-leadership-for-executives"
 course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Masterpath in Analytics Leadership for Executives

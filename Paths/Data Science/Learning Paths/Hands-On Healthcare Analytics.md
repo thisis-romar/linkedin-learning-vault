@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/hands-on-healthcare-analytics"
 course_count: 8
 linkedin_topics:
@@ -7,7 +9,7 @@ linkedin_topics:
   - DevOps
   - Network and System Administration
   - Software Development
-louvain_cluster: 21
+louvain_cluster: 16
 tags:
   - learning-path
   - topic/data-science
@@ -15,7 +17,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Hands-On Healthcare Analytics

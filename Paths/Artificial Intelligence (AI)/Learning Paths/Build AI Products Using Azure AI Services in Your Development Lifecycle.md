@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/build-ai-products-using-azure-ai-services-in-your-development-lifecycle"
 course_count: 8
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Build AI Products Using Azure AI Services in Your Development Lifecycle

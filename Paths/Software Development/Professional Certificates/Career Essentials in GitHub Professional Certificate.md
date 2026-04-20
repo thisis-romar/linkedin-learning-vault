@@ -1,15 +1,17 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/career-essentials-in-github-professional-certificate"
 course_count: 4
 linkedin_topics:
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 9
 tags:
   - professional-certificate
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Career Essentials in GitHub Professional Certificate

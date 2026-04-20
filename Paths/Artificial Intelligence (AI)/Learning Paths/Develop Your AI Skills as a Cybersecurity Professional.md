@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/develop-your-ai-skills-as-a-cybersecurity-professional"
 course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cybersecurity
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/security
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Develop Your AI Skills as a Cybersecurity Professional

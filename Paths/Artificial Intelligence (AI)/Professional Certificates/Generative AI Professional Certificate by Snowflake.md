@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/generative-ai-professional-certificate-by-snowflake"
 course_count: 3
 linkedin_topics:
@@ -17,7 +19,7 @@ tags:
   - topic/database-management
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Generative AI Professional Certificate by Snowflake

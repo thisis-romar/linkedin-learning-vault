@@ -1,17 +1,19 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/microsoft-copilot-for-productivity-by-microsoft-and-linkedin"
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
-louvain_cluster: 17
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Microsoft Copilot for Productivity by Microsoft and LinkedIn

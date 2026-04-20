@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/machine-learning-statistical-foundations-professional-certificate-by-wolfram-research"
 course_count: 6
 linkedin_topics:
@@ -13,7 +15,7 @@ tags:
   - topic/security
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Machine Learning Statistical Foundations Professional Certificate by Wolfram Research

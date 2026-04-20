@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/finance-for-managers-professional-certificate-by-linkedin-learning"
 course_count: 5
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - professional-certificate
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Finance for Managers Professional Certificate by LinkedIn Learning

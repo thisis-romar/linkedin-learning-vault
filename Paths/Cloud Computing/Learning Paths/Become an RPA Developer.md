@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/become-an-rpa-developer"
 course_count: 3
 linkedin_topics:
   - Cloud Computing
   - Network and System Administration
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Become an RPA Developer

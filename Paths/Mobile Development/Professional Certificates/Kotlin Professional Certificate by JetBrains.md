@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/kotlin-professional-certificate-by-jetbrains"
 course_count: 4
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/mobile-development
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Kotlin Professional Certificate by JetBrains

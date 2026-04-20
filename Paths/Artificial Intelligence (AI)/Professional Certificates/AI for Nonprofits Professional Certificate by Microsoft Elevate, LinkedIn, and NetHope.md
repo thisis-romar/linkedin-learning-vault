@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/ai-for-nonprofits-professional-certificate-by-microsoft-elevate-linkedin-and-nethope"
 course_count: 2
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - professional-certificate
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # AI for Nonprofits Professional Certificate by Microsoft Elevate, LinkedIn, and NetHope

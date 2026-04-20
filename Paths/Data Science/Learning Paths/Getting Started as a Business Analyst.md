@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/getting-started-as-a-business-analyst"
 course_count: 18
 linkedin_topics:
   - Data Science
-louvain_cluster: 7
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Getting Started as a Business Analyst

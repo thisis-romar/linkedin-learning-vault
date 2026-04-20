@@ -1,17 +1,19 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/servicenow-it-leadership-professional-certificate"
 course_count: 4
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 14
+louvain_cluster: 6
 tags:
   - professional-certificate
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # ServiceNow IT Leadership Professional Certificate

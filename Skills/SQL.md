@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 45
 tags:
   - skill
   - skill/sql
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # SQL

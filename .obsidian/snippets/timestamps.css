@@ -1,8 +1,8 @@
 /* Timestamp deep links in transcript callouts */
 a[href*="&t="] {
-  font-family: "SF Mono", Menlo, monospace;
+  font-family: 'SF Mono', Menlo, monospace;
   font-size: 0.85em;
-  color: #4e79a7;
+  color: #4E79A7;
   text-decoration: none;
   padding: 0 2px;
   border-radius: 2px;

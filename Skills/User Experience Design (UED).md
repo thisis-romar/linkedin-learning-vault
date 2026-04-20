@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 13
 tags:
   - skill
   - skill/user-experience-design-ued
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # User Experience Design (UED)

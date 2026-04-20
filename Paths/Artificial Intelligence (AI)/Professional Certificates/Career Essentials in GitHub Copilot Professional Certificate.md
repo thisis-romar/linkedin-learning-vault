@@ -1,17 +1,19 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/career-essentials-in-github-copilot-professional-certificate"
 course_count: 4
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 18
+louvain_cluster: 5
 tags:
   - professional-certificate
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Career Essentials in GitHub Copilot Professional Certificate

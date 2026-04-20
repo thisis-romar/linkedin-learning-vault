@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/master-c-plus-plus"
 course_count: 6
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 22
+louvain_cluster: 17
 tags:
   - learning-path
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Master C++

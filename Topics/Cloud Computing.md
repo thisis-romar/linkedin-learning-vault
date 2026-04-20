@@ -1,10 +1,12 @@
 ---
 type: topic-moc
+cssclasses:
+  - lle-topic
 linkedin_topic: Cloud Computing
 tags:
   - moc
   - topic/cloud-computing
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Cloud Computing

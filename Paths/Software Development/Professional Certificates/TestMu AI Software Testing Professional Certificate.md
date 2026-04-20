@@ -1,15 +1,17 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/testmu-ai-software-testing-professional-certificate"
 course_count: 4
 linkedin_topics:
   - Software Development
-louvain_cluster: 8
+louvain_cluster: 10
 tags:
   - professional-certificate
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # TestMu AI Software Testing Professional Certificate

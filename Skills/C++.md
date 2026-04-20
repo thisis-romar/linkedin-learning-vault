@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 12
 tags:
   - skill
   - skill/c
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # C++

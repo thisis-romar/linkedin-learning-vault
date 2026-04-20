@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/building-ai-products-understanding-the-workflow-professional-certificate-by-linkedin-learning"
 course_count: 6
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Building AI Products: Understanding the Workflow Professional Certificate by LinkedIn Learning

@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/responsible-ai-at-work-literacy-ethics-and-more"
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cybersecurity
-louvain_cluster: 2
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/security
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Responsible AI at Work: Literacy, Ethics, and More

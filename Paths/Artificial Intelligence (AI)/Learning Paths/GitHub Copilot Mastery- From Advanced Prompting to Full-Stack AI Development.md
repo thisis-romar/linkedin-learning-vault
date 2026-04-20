@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/github-copilot-mastery-from-advanced-prompting-to-full-stack-ai-development"
 course_count: 4
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # GitHub Copilot Mastery: From Advanced Prompting to Full-Stack AI Development

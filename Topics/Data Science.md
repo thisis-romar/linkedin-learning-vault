@@ -1,10 +1,12 @@
 ---
 type: topic-moc
+cssclasses:
+  - lle-topic
 linkedin_topic: Data Science
 tags:
   - moc
   - topic/data-science
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Data Science

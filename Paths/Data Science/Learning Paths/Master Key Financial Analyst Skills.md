@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/master-key-financial-analyst-skills"
 course_count: 6
 linkedin_topics:
   - Data Science
-louvain_cluster: 16
+louvain_cluster: 13
 tags:
   - learning-path
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Master Key Financial Analyst Skills

@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/advance-your-data-engineering-skills-20258835"
 course_count: 10
 linkedin_topics:
   - Data Science
   - DevOps
-louvain_cluster: 6
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/data-science
   - topic/devops
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Advance Your Data Engineering Skills

@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/prepare-for-the-red-hat-certified-system-administrator-ex200-exam"
 course_count: 2
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - learning-path
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Prepare for the Red Hat Certified System Administrator (EX200) Exam

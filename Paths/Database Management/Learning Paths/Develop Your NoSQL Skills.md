@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/develop-your-nosql-skills"
 course_count: 10
 linkedin_topics:
   - Database Management
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/database-management
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Develop Your NoSQL Skills

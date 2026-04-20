@@ -1,17 +1,19 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/ss-c-blue-prism-robotic-process-automation-professional-certificate"
 course_count: 4
 linkedin_topics:
   - Network and System Administration
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - professional-certificate
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # SS&C Blue Prism Robotic Process Automation Professional Certificate

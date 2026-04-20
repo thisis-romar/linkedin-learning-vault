@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/linkedin-s-2025-top-mba-programs-learning-path"
 course_count: 10
 linkedin_topics:
   - Data Science
-louvain_cluster: 4
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # LinkedIn’s 2025 Top MBA Programs Learning Path

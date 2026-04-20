@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/applying-lean-devops-and-agile-to-your-it-organization"
 course_count: 9
 linkedin_topics:
   - DevOps
   - IT Help Desk
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Applying Lean, DevOps, and Agile to Your IT Organization

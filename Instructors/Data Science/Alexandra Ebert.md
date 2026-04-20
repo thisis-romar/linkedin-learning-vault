@@ -1,0 +1,23 @@
+---
+type: instructor
+cssclasses:
+  - lle-instructor
+course_count: 1
+path_reach: 1
+linkedin_topics:
+  - Data Science
+  - Database Management
+tags:
+  - instructor
+  - topic/data-science
+  - topic/database-management
+created: 2026-04-19
+---
+
+# Alexandra Ebert
+
+> 1 courses | 1 learning paths
+
+## Courses
+
+- [[Synthetic Data as the Future of AI Privacy, Explainability, and Fairness- An Introduction for Data Scientists and Data Executives]]

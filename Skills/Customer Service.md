@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 12
 tags:
   - skill
   - skill/customer-service
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Customer Service

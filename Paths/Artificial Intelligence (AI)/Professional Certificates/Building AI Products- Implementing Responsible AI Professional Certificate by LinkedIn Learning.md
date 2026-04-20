@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/building-ai-products-implementing-responsible-ai-professional-certificate-by-linkedin-learning"
 course_count: 7
 linkedin_topics:
@@ -7,7 +9,7 @@ linkedin_topics:
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 2
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence
@@ -15,7 +17,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Building AI Products: Implementing Responsible AI Professional Certificate by LinkedIn Learning

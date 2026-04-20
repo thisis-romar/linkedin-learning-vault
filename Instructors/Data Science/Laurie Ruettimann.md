@@ -1,0 +1,21 @@
+---
+type: instructor
+cssclasses:
+  - lle-instructor
+course_count: 1
+path_reach: 1
+linkedin_topics:
+  - Data Science
+tags:
+  - instructor
+  - topic/data-science
+created: 2026-04-19
+---
+
+# Laurie Ruettimann
+
+> 1 courses | 1 learning paths
+
+## Courses
+
+- [[Be the Manager People Won't Leave]]

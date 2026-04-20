@@ -1,15 +1,17 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/generative-ai-for-sales-with-microsoft-365-copilot-professional-certificate"
 course_count: 6
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 17
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/cloud-computing
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Generative AI for Sales with Microsoft 365 Copilot Professional Certificate

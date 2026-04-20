@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/getting-started-as-a-c-sharp-developer"
 course_count: 9
 linkedin_topics:
   - Software Development
-louvain_cluster: 15
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Getting Started as a C# Developer

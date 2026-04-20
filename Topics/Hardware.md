@@ -1,10 +1,12 @@
 ---
 type: topic-moc
+cssclasses:
+  - lle-topic
 linkedin_topic: Hardware
 tags:
   - moc
   - topic/hardware
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Hardware

@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 24
 tags:
   - skill
   - skill/large-language-models-llm
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Large Language Models (LLM)

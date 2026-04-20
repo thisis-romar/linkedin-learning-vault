@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/the-top-skills-it-professionals-have-right-now"
 course_count: 10
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 9
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # The Top Skills IT Professionals Have Right Now

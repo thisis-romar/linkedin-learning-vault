@@ -1,15 +1,17 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/zendesk-customer-service-professional-certificate"
 course_count: 6
 linkedin_topics:
   - IT Help Desk
-louvain_cluster: 19
+louvain_cluster: 8
 tags:
   - professional-certificate
   - topic/it-help-desk
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Zendesk Customer Service Professional Certificate

@@ -1,15 +1,17 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/generative-ai-for-recruiting-professional-certificate-by-linkedin-learning"
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 4
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Generative AI for Recruiting Professional Certificate by LinkedIn Learning

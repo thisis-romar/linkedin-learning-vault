@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/foundations-of-cloud-computing-models-platforms-services-and-careers"
 course_count: 9
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 10
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/cloud-computing
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Foundations of Cloud Computing: Models, Platforms, Services, and Careers

@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/a-quick-start-guide-to-programming-in-python"
 course_count: 6
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - learning-path
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # A Quick Start Guide to Programming in Python

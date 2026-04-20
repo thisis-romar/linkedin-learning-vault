@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/build-your-drupal-skills"
 course_count: 6
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/network-and-system-administration
   - topic/web-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Build Your Drupal Skills

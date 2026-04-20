@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/working-with-data-collecting-processing-and-storing-data-for-ai"
 course_count: 6
 linkedin_topics:
   - Cloud Computing
   - Data Science
   - Database Management
-louvain_cluster: 1
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Working with Data: Collecting, Processing, and Storing Data for AI

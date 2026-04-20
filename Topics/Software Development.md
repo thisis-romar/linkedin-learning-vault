@@ -1,10 +1,12 @@
 ---
 type: topic-moc
+cssclasses:
+  - lle-topic
 linkedin_topic: Software Development
 tags:
   - moc
   - topic/software-development
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Software Development

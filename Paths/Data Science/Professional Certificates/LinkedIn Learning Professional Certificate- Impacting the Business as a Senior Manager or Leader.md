@@ -1,15 +1,17 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/linkedin-learning-professional-certificate-impacting-the-business-as-a-senior-manager-or-leader"
 course_count: 11
 linkedin_topics:
   - Data Science
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - professional-certificate
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # LinkedIn Learning Professional Certificate: Impacting the Business as a Senior Manager or Leader

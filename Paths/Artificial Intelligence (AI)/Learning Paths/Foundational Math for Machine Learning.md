@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/foundational-math-for-machine-learning"
 course_count: 4
 linkedin_topics:
@@ -13,7 +15,7 @@ tags:
   - topic/security
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Foundational Math for Machine Learning

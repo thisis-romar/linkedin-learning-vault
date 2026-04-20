@@ -1,0 +1,25 @@
+---
+type: instructor
+cssclasses:
+  - lle-instructor
+course_count: 3
+path_reach: 4
+linkedin_topics:
+  - Artificial Intelligence (AI)
+  - IT Help Desk
+tags:
+  - instructor
+  - topic/artificial-intelligence
+  - topic/it-help-desk
+created: 2026-04-19
+---
+
+# Gwendolyn Stripling
+
+> 3 courses | 4 learning paths
+
+## Courses
+
+- [[Introduction to NLP and LLMs- Principles and Practical Applications]]
+- [[Artificial Intelligence Foundations- Neural Networks]]
+- [[Introduction to Generative Adversarial Networks (GANs)]]

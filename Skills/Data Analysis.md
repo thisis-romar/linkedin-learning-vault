@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 31
 tags:
   - skill
   - skill/data-analysis
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Data Analysis

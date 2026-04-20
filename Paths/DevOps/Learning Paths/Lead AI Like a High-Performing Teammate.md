@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/lead-ai-like-a-high-performing-teammate"
 course_count: 3
 linkedin_topics:
@@ -11,7 +13,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Lead AI Like a High-Performing Teammate

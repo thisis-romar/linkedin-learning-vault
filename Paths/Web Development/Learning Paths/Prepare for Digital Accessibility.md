@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/prepare-for-digital-accessibility"
 course_count: 8
 linkedin_topics:
   - Web Development
-louvain_cluster: 11
+louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Prepare for Digital Accessibility

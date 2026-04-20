@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 1
 tags:
   - skill
   - skill/network-traffic-analysis
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Network Traffic Analysis

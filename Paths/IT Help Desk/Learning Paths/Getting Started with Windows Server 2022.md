@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/getting-started-with-windows-server-2022"
 course_count: 4
 linkedin_topics:
   - IT Help Desk
   - Network and System Administration
-louvain_cluster: 9
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Getting Started with Windows Server 2022

@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/python-for-data-professionals-in-healthcare"
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
   - Software Development
-louvain_cluster: 21
+louvain_cluster: 16
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Python for Data Professionals in Healthcare

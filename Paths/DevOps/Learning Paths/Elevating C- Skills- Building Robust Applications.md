@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/elevating-c-sharp-skills-building-robust-applications"
 course_count: 8
 linkedin_topics:
   - DevOps
   - Mobile Development
   - Software Development
-louvain_cluster: 15
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/devops
   - topic/mobile-development
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Elevating C# Skills: Building Robust Applications

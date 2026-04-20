@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/optimizing-enterprise-security-and-productivity-using-microsoft-365"
 course_count: 11
 linkedin_topics:
   - Cloud Computing
   - Network and System Administration
-louvain_cluster: 9
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Optimizing Enterprise Security and Productivity Using Microsoft 365

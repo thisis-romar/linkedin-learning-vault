@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/mastering-jira-administration"
 course_count: 7
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Mastering Jira Administration

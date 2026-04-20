@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 4
 tags:
   - skill
   - skill/microsoft-entra-id
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Microsoft Entra ID

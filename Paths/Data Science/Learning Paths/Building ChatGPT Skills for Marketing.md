@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/building-chatgpt-skills-for-marketing"
 course_count: 6
 linkedin_topics:
   - Data Science
-louvain_cluster: 2
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Building ChatGPT Skills for Marketing

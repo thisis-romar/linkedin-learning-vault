@@ -1,17 +1,19 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/java-foundations-professional-certificate-by-jetbrains"
 course_count: 5
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 12
+louvain_cluster: 10
 tags:
   - professional-certificate
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Java Foundations Professional Certificate by JetBrains

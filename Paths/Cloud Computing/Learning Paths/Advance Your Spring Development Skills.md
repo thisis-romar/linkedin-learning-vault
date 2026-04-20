@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/advance-your-spring-development-skills"
 course_count: 6
 linkedin_topics:
@@ -15,7 +17,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Advance Your Spring Development Skills

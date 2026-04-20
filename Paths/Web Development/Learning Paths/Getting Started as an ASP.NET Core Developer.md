@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/getting-started-as-an-asp-dot-net-core-developer"
 course_count: 9
 linkedin_topics:
   - Web Development
-louvain_cluster: 15
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/web-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Getting Started as an ASP.NET Core Developer

@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/technical-literacy-and-future-readiness-for-senior-managers-and-senior-leaders"
 course_count: 10
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Technical Literacy and Future Readiness for Senior Managers and Senior Leaders

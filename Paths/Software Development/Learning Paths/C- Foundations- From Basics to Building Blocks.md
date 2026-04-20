@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/c-sharp-foundations-from-basics-to-building-blocks"
 course_count: 5
 linkedin_topics:
   - Software Development
-louvain_cluster: 15
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # C# Foundations: From Basics to Building Blocks

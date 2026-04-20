@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/master-test-automation-with-playwright"
 course_count: 4
 linkedin_topics:
   - Software Development
-louvain_cluster: 12
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Master Test Automation with Playwright

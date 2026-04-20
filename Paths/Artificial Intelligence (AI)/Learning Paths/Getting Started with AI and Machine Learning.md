@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/getting-started-with-ai-and-machine-learning"
 course_count: 7
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - learning-path
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Getting Started with AI and Machine Learning

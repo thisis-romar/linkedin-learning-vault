@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/advance-your-skills-as-an-it-help-desk-specialist"
 course_count: 11
 linkedin_topics:
   - IT Help Desk
-louvain_cluster: 9
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/it-help-desk
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Advance Your Skills as an IT Help Desk Specialist

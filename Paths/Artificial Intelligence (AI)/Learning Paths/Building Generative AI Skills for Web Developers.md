@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/building-generative-ai-skills-for-web-developers"
 course_count: 10
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
   - Web Development
-louvain_cluster: 2
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Building Generative AI Skills for Web Developers

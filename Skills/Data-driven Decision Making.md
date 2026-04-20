@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 5
 tags:
   - skill
   - skill/data-driven-decision-making
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Data-driven Decision Making

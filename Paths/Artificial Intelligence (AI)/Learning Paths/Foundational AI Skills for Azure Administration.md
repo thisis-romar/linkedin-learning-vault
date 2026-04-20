@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/foundational-ai-skills-for-azure-administration"
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
-louvain_cluster: 10
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Foundational AI Skills for Azure Administration

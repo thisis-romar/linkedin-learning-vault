@@ -1,19 +1,21 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/data-engineering-foundations-professional-certificate-by-astronomer"
 course_count: 6
 linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 7
 tags:
   - professional-certificate
   - topic/data-science
   - topic/database-management
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Data Engineering Foundations Professional Certificate by Astronomer

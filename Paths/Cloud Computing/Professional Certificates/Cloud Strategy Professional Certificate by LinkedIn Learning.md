@@ -1,19 +1,21 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/cloud-strategy-professional-certificate-by-linkedin-learning"
 course_count: 9
 linkedin_topics:
   - Cloud Computing
   - Cybersecurity
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 3
 tags:
   - professional-certificate
   - topic/cloud-computing
   - topic/security
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Cloud Strategy Professional Certificate by LinkedIn Learning

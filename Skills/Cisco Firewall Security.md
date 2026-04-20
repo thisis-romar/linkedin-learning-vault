@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 1
 tags:
   - skill
   - skill/cisco-firewall-security
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Cisco Firewall Security

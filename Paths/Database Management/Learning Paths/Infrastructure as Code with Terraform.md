@@ -1,17 +1,19 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/infrastructure-as-code-with-terraform"
 course_count: 3
 linkedin_topics:
   - Database Management
   - DevOps
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/database-management
   - topic/devops
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Infrastructure as Code with Terraform

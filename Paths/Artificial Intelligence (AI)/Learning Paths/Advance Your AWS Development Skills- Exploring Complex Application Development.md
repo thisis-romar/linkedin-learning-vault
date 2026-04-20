@@ -1,19 +1,21 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/advance-your-aws-development-skills-exploring-complex-application-development"
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Advance Your AWS Development Skills: Exploring Complex Application Development

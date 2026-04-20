@@ -1,0 +1,23 @@
+---
+type: instructor
+cssclasses:
+  - lle-instructor
+course_count: 1
+path_reach: 1
+linkedin_topics:
+  - Database Management
+  - Software Development
+tags:
+  - instructor
+  - topic/database-management
+  - topic/software-development
+created: 2026-04-19
+---
+
+# Eric Johnson
+
+> 1 courses | 1 learning paths
+
+## Courses
+
+- [[SQL Server 2022 Administration]]

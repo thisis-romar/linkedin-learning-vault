@@ -1,0 +1,5190 @@
+---
+type: course
+cssclasses:
+  - lle-course
+  - lle-level-intermediate
+slug: learning-arcgis-python-scripting-21011315
+url: "https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315"
+duration_minutes: 219
+duration: 3h 39m
+level: Intermediate
+updated: 3/29/2024
+learners: 60450
+skills:
+  - Python (Programming Language)
+  - Scripting
+  - ArcGIS Pro
+exercise_files: true
+thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEQg79uzqEU9Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711579365565?e=2147483647&amp;v=beta&amp;t=wJE2v0MD-wZd2uAH8vXaCX7tSIO_1trFZWHeN-p6xnc"
+linkedin_topic: Data Science
+learning_paths:
+  - Advance Your Skills in GIS
+path_count: 1
+tags:
+  - course
+  - topic/data-science
+  - skill/python-programming-language
+  - skill/scripting
+  - skill/arcgis-pro
+status: not-started
+created: 2026-04-19
+---
+
+![Learning ArcGIS Python Scripting](https://media.licdn.com/dms/image/v2/D4D0DAQEQg79uzqEU9Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711579365565?e=2147483647&amp;v=beta&amp;t=wJE2v0MD-wZd2uAH8vXaCX7tSIO_1trFZWHeN-p6xnc)
+
+# Learning ArcGIS Python Scripting
+
+> Have you ever needed to find all the broken links in a set of map documents? Or convert units before loading map data? Python is the gateway for automating common GIS tasks. Are you ready to get up to speed? In this course, designed for experienced ArcGIS users, join instructor Jennifer Harrison—the founder of TeachMeGIS—as she shows you how to produce faster, deeper insights into your GIS data by
+
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315) | 3h 39m | Intermediate | 60K learners
+> [Jump to Path Context ↓](#path-context)
+
+## Instructor
+
+- [[Jennifer Harrison]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Scripting
+- ArcGIS Pro
+
+## Table of Contents
+
+### Introduction
+
+#### Getting started with Python in ArcGIS
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-started-with-python-in-arcgis?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-started-with-python-in-arcgis?u=76281980&t=0)** - ArcGIS is an incredibly powerful mapping software, but you can spend a lot of time managing data and projects, and as we all know, this can get tedious.
+>
+> **[0:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-started-with-python-in-arcgis?u=76281980&t=10)** The good news is that Python, which is installed automatically with ArcGIS Pro, can help.
+>
+> **[0:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-started-with-python-in-arcgis?u=76281980&t=16)** You don't have to be a hardcore Python developer.
+>
+> **[0:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-started-with-python-in-arcgis?u=76281980&t=19)** You just need to know a few key concepts, like the syntax and the objects you need to work with.
+>
+> **[0:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-started-with-python-in-arcgis?u=76281980&t=24)** With just a few lines of code, you can take tasks that used to take hours and have the software run it for you while you go to lunch.
+>
+> **[0:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-started-with-python-in-arcgis?u=76281980&t=32)** I'm Jenny Harrison.
+>
+> **[0:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-started-with-python-in-arcgis?u=76281980&t=33)** I'm the founder of TeachMeGIS, and I can't wait to share this course with you.
+>
+> **[0:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-started-with-python-in-arcgis?u=76281980&t=38)** Let's get started.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (2)
+> **Code Keywords:** let (1)
+> **UI Navigation:** go to (1)
+> **Definitions:** is an  (1)
+> **Speakers:** - arcgis (1)
+
+#### What you should know before watching this course
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/what-you-should-know-before-watching-this-course?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/what-you-should-know-before-watching-this-course?u=76281980&t=0)** - [Instructor] This course is an introduction to Python scripting for GIS professionals who have never coded before.
+>
+> **[0:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/what-you-should-know-before-watching-this-course?u=76281980&t=8)** It's not intended to be a course for Python developers to learn GIS concepts.
+>
+> **[0:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/what-you-should-know-before-watching-this-course?u=76281980&t=13)** The course starts by explaining basic object oriented scripting and then dives into the ArcGIS Python libraries.
+>
+> **[0:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/what-you-should-know-before-watching-this-course?u=76281980&t=21)** In it, we use a lot of terminology and concepts from ArcGIS Pro, so the course assumes you're already familiar with that.
+>
+> **[0:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/what-you-should-know-before-watching-this-course?u=76281980&t=29)** A couple of the videos mentioned web mapping concepts, and for those videos, you'll need to be familiar with ArcGIS web mapping, either in ArcGIS Online, or Portal for ArcGIS.
+>
+> **[0:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/what-you-should-know-before-watching-this-course?u=76281980&t=42)** Okay, so now that we've level set a bit, let's talk about how to use the exercise files.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (3)
+> **Env Vars:** gis (2)
+> **Code Keywords:** let (1)
+> **Exercise Files:** exercise files (1)
+> **Definitions:** is an  (1)
+> **Prerequisites:** you'll need (1)
+> **Speakers:** - [instructor] (1)
+
+#### ArcGIS project files throughout this course
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcgis-project-files-throughout-this-course?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcgis-project-files-throughout-this-course?u=76281980&t=0)** - [Instructor] Let me tell you how to use the exercise files for this course.
+>
+> **[0:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcgis-project-files-throughout-this-course?u=76281980&t=3)** I've provided two ArcGIS Pro projects, so you can follow along with everything that I'm doing.
+>
+> **[0:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcgis-project-files-throughout-this-course?u=76281980&t=9)** One of them, the Python Practice Project, is packaged, so you'll need to unpack the project before you can use it.
+>
+> **[0:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcgis-project-files-throughout-this-course?u=76281980&t=18)** The other one, called Motorist Assistance, it's not packaged because it has a broken link in it, so it can't be packaged, but you're going to use that one to write a script to find broken links.
+>
+> **[0:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcgis-project-files-throughout-this-course?u=76281980&t=30)** I've also provided the solution notebooks for the Python code that I wrote in any video where the script was more than a few lines, or where I thought there might be some complex syntax.
+>
+> **[0:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcgis-project-files-throughout-this-course?u=76281980&t=41)** You can look at those notebooks if you want, but really, the best way to learn is to type the code in along with me.
+>
+> **[0:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcgis-project-files-throughout-this-course?u=76281980&t=48)** So I suggest you open the ArcGIS Pro project, open a new notebook, and start coding.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (2), find (1)
+> **Code Keywords:** let (1)
+> **UI Navigation:** open the (1)
+> **Exercise Files:** exercise files (1)
+> **Prerequisites:** you'll need (1)
+> **Speakers:** - [instructor] (1)
+
+
+### 1. Introduction to Scripting and the Python Language
+
+#### Scripting overview
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=0)** - [Instructor] Are you ready to add scripting to your GIS skillset?
+>
+> **[0:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=4)** Python's a great language to learn.
+>
+> **[0:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=6)** Let me tell you a little about Python before we get into the details of writing the code.
+>
+> **[0:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=11)** First things first, let's make sure we understand what a script is.
+>
+> **[0:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=15)** Python is used for both expressions and scripts in ArcGIS.
+>
+> **[0:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=20)** These are different things, and scripts are different from programs.
+>
+> **[0:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=25)** So before learning Python for ArcGIS, it's important to understand the general differences between these types of coding.
+>
+> **[0:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=32)** It's also important to understand the term script, module, package, and library.
+>
+> **[0:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=38)** If you're already familiar with the concept of expressions versus scripting versus programming, and you already know the Python libraries that are installed with ArcGIS, feel free to move on to the later videos in this course to start writing Python scripts for ArcGIS.
+>
+> **[0:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=55)** In its most basic form, Python is used as an expression language in ArcGIS Pro to write label expressions and do field calculations.
+>
+> **[1:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=65)** I have a map open here that shows some petroleum storage tanks in Baytown, Texas.
+>
+> **[1:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=72)** I have an attribute table open, and if I right click on a column and open the field calculator, you can see that Python is one of the languages that we can use to write field calculations.
+>
+> **[1:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=85)** And if I go over to the Label pane, you can see that Python is also one of the languages we can use to write label expressions.
+>
+> **[1:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=95)** The code you write is executed in the scope of the calling routine and returns a value that's passed back to that calling routine.
+>
+> **[1:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=104)** The label expression goes to the label engine, or the field calculator expression goes to the field calculator, for example.
+>
+> **[1:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=111)** So in this case, we are using Python as an expression language, but Python is an extremely powerful and versatile scripting language.
+>
+> **[2:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=120)** Python can be used to write scripts that manage geodatabases, update map services, manage portal users, and run geoprocessing tools, among many other things.
+>
+> **[2:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=132)** So what is a script then?
+>
+> **[2:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=134)** A script is just a human-readable text file that performs a set of instructions.
+>
+> **[2:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=141)** Scripts are not compiled into executable files.
+>
+> **[2:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=145)** Instead, they're left a plain text and interpreted at runtime.
+>
+> **[2:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=150)** This makes scripts easy to maintain and modify because you can just open the original script at any time, make changes to it, and run it again.
+>
+> **[2:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=160)** For a Python script to be executed, the computer on which the script is being run must have a software called a Python Interpreter installed.
+>
+> **[2:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=169)** A Python Interpreter is automatically installed with ArcGIS Pro and ArcGIS Enterprise.
+>
+> **[2:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=174)** So if I write a Python script, I can give it to anyone else who's also running ArcGIS Pro, but I can't give it to my brother back in Kentucky and have him run it on his computer because he doesn't have a Python Compiler.
+>
+> **[3:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=187)** In a programming language, you write a script and then compile the script into a machine language to create an executable file that can run on any machine, even without the compiler being installed.
+>
+> **[3:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=200)** To run Python scripts in ArcGIS, there's no need to compile them.
+>
+> **[3:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=203)** You simply write the script and either run it inside of a notebook, attach the script to a geoprocessing tool, schedule the script to be run with a Windows Scheduler, or even just double-click the script in Windows File Explorer to run it.
+>
+> **[3:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=218)** If you write scripts outside of the ArcGIS world, there are many distributions of Python available.
+>
+> **[3:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=224)** They all consist of the Interpreter along with the standard Python library.
+>
+> **[3:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=229)** You can then augment or extend Python by adding modules and packages that provide functionality in specific areas not addressed in the standard library.
+>
+> **[3:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=239)** ArcGIS Pro and ArcGIS Enterprise install the Anaconda Distribution of Python, along with a set of packages, ArcPy and the ArcGIS API for Python.
+>
+> **[4:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=250)** These two packages let Python access components of GIS apps and data.
+>
+> **[4:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=257)** Let's talk about some of these terms, script, module, package, library.
+>
+> **[4:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=263)** We've already discussed what a script is.
+>
+> **[4:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=266)** A module is a Python script that's designed to be called by other scripts and that provides focused functionality.
+>
+> **[4:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=274)** For example, the arcgis.geoprocessing module lets you run geoprocessing tools from your scripts.
+>
+> **[4:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=281)** A package is a collection of Python modules that have related functionality, and a library is a collection of packages along with possibly some standalone scripts and additional modules that extend Python into specific areas, like geospatial analysis, data science, or machine learning.
+>
+> **[5:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=301)** But to be honest, the terms package and library are often used interchangeably, as you can see here on this Esri page about ArcGIS Python libraries.
+>
+> **[5:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=309)** The ARCGIS Python libraries are Python packages, ArcGIS Pro and ArcGIS Enterprise installations include the Python Interpreter with the standard Python library, plus the ArcGIS libraries, ArcPy, and ArcGIS API for Python, and hundreds of open source libraries, such as pandas, NumPy, and SciPy.
+>
+> **[5:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=331)** After you finish watching this course, and you get comfortable with basic Python, come back and watch this video again and get the names of those three libraries.
+>
+> **[5:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=339)** You'll want to look into those to start using them for geospatial data science.
+>
+> **[5:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=343)** So let's practice.
+>
+> **[5:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=345)** This activity assumes that you're already familiar with ArcGIS Pro.
+>
+> **[5:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=348)** Take a minute to go find out which Python packages are installed with ArcGIS Pro.
+>
+> **[5:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=353)** All you have to do is open ArcGIS Pro.
+>
+> **[5:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=355)** No need to open a project.
+>
+> **[5:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=357)** Go to Settings, and then go to Package Manager.
+>
+> **[6:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=362)** And you can see a list of all the packages included with ArcGIS Pro.
+>
+> **[6:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=367)** What functionality is provided by the Jedi package?
+>
+> **[6:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=372)** So Python is used in ArcGIS as an expression language, but it's also used as a scripting language.
+>
+> **[6:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=378)** And we're here to learn about the scripting language.
+>
+> **[6:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=380)** With that, we can create custom tools and data management scripts that can be run automatically.
+>
+> **[6:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980&t=385)** Python is already installed with ArcGIS, and the installation includes hundreds of libraries for analysis and data management.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (37), make (2), find (1)
+> **Code Keywords:** let (5), module (4), case, (1)
+> **UI Navigation:** open the (2), go to (2), click on (1), double-click (1)
+> **Env Vars:** gis (2), api (2), arcgis (1)
+> **Definitions:** is a  (4), is an  (1)
+> **Analogies:** for example (2), such as (1)
+> **Tools:** anaconda (1)
+> **Prerequisites:** install (1)
+
+#### Where Python is used in ArcGIS
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=0)** - [Instructor] Now that we understand the basics of scripting, let's take a look at the different languages used in ArcGIS.
+>
+> **[0:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=6)** There are several languages used and each has its purpose.
+>
+> **[0:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=10)** SQL, also called sequel, is for querying or filtering data, which you do in select by attributes, definition queries, and when you're creating label classes.
+>
+> **[0:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=22)** VB Script can be used for label expressions and field calculations.
+>
+> **[0:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=27)** Arcade can also be used for label expressions and field calculations, so there's some overlap there, but Arcade is cross platform, meaning it works the same whether you're running that Arcade script in Windows or on an Android device or on an iPhone.
+>
+> **[0:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=45)** Arcade can also be used to create custom popups and dynamic symbology on the fly.
+>
+> **[0:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=52)** JavaScript is used in ArcGIS Pro to create label expressions, but also used for creating custom web mapping applications.
+>
+> **[1:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=60)** There's also an ARCMaps software development kit, SDK for JavaScript, but we'll have to save that discussion for another course.
+>
+> **[1:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=68)** And then there's Python, of course.
+>
+> **[1:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=70)** Python can be used in label expressions and field calculations, but Python is also used to create scripts that are run as custom tools in ArcGIS Pro, or even published as geoprocessing services to run in ArcGIS Enterprise.
+>
+> **[1:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=86)** Python scripts can also update maps based on data path changes, manage users and groups in AGOL or Portal and automate data maintenance processes.
+>
+> **[1:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=98)** So Python scripts are used for bigger tasks.
+>
+> **[1:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=102)** They can efficiently process large amounts of data, for example, making sure all of your feature classes are in the right coordinate system, publishing feature services from your updated feature classes on a regular basis, or checking 100,000 road segments to see if there are any overlapping address ranges.
+>
+> **[2:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=123)** Python can also be used to automate processes.
+>
+> **[2:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=126)** For example, suppose there's a government website that posts updated crime stats to their website weekly in tabular form.
+>
+> **[2:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=134)** You could write a script that would download that table from the website, geocode the addresses in the table, and update the web service in one of your dashboards to point to that new crime data.
+>
+> **[2:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=146)** And then you could schedule that script to run automatically early every morning before everyone gets into the office.
+>
+> **[2:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=152)** Python can also be used to easily test alternate scenarios.
+>
+> **[2:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=157)** For example, import this pipeline dataset, buffer all the pipelines by a thousand feet, clip the soils in the area, calculate the area of the acidic soils within a thousand feet of pipelines.
+>
+> **[2:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=170)** What happens if I reduce the buffer distance to 500 feet, say, and pipeline can also be used to discover things.
+>
+> **[2:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=177)** For example, suppose someone leaves your organization and you need to go change ownership of all of that person's web services.
+>
+> **[3:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=183)** You could write a script to do that, and the script would simply prompt you for the existing owner's username and the name of the new owner at run time, and then it would go out and discover or find all the data sets owned by that old owner.
+>
+> **[3:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=198)** That makes the script reusable.
+>
+> **[3:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=200)** Now let's see where we write this Python code.
+>
+> **[3:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=203)** ArcGIS Pro has several utilities for writing Python scripts.
+>
+> **[3:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=209)** For testing simple one-liners and short scripts, ArcGIS Pro includes a Python command window.
+>
+> **[3:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=216)** You find it in here under the Analysis ribbon, Python, Python Window.
+>
+> **[3:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=224)** If the scripts involve a lot of geoprocessing, you can start by creating a model in Model Builder and then exporting that model to a Python script where you can further enhance the functionality by modifying the code.
+>
+> **[3:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=238)** Here you can see a model that's already been created, and I can go here and export it directly to a Python file or send it to the Python window if I want.
+>
+> **[4:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=251)** Python scripts can also be written from scratch and added as script tools to be run from Arc Toolbox.
+>
+> **[4:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=257)** The scripts are written in an integrated development environment, an IDE.
+>
+> **[4:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=262)** There are lots of IDEs that support Python, including IDLE, idle, which is installed with ArcGIS Pro, ArcGIS notebooks built on something called Jupyter Notebooks, Spyder, PyCharm, Visual Studio Code, and you can even use Notepad++.
+>
+> **[4:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=281)** Where you write the script doesn't matter.
+>
+> **[4:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=284)** What matters is that you import the GIS libraries, but each IDE does have its strengths.
+>
+> **[4:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=292)** For example, ArcGIS Notebooks and Visual Studio Code are two IDEs commonly used by GIS professionals.
+>
+> **[5:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=301)** Both have great syntax highlighting and code formatting, but ArcGIS Notebooks is much better for data visualization and exploration.
+>
+> **[5:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=311)** Plus, it's easy to document your code and share the entire story of what your Notebook does.
+>
+> **[5:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=317)** It's also really nice that with ArcGIS Notebooks, you create your code in little cells and the cells can be run in any order you like.
+>
+> **[5:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=325)** Unlike Visual Studio Code and most other IDEs where you have to run the entire script from top to bottom to test anything in the script.
+>
+> **[5:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=333)** ArcGIS Notebooks is installed with ArcGIS Pro, which also makes it really easy to use.
+>
+> **[5:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=339)** Visual Studio Code is another IDE with a lot of strengths.
+>
+> **[5:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=343)** It's got great code completion, nice debugging tools, and it's really easy to share the scripts.
+>
+> **[5:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=351)** It doesn't come with ArcGIS, so it's a separate install, but it is free.
+>
+> **[5:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=355)** Honestly, I go back and forth between ArcGIS Notebooks and Visual Studio Code, depending on the project.
+>
+> **[6:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=362)** Visual Studio Code is preferred for larger scripting efforts that involve scripts calling other scripts.
+>
+> **[6:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=369)** In this course, we're going to use ArcGIS Notebooks, mostly because it's available inside ArcGIS Pro, so there's nothing extra to install.
+>
+> **[6:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=377)** When you finish this course and get comfortable with basic Python scripting, you should come back to this video and make a list of the IDEs that we mentioned so you can research each one and see what will work best for your purposes.
+>
+> **[6:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=390)** Also, maybe ask around your organization and see if there's a preferred IDE that's used by other developers that might already be installed on your system.
+>
+> **[6:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=398)** Here's where you find Notebooks in ArcGIS Pro.
+>
+> **[6:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=401)** It's in analysis, Python, Python Notebook.
+>
+> **[6:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=408)** It opens as another tab in your ArcGIS Pro interface.
+>
+> **[6:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=414)** I'm going to get rid of the Python window here just to clean it up a little bit.
+>
+> **[6:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=418)** You can find your existing notebooks over here in the catalog tree, so if you close one of these notebooks, you can always reopen it by finding it in the catalog tree and right-click and open, so notebooks are stored with the project.
+>
+> **[7:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=434)** If you want to see where they actually live out on the disc, you can right-click on any of these notebooks in your catalog tree and choose show in file explorer, and it'll show exactly where that file lives.
+>
+> **[7:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=446)** But notice again, it's in the project folder.
+>
+> **[7:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=449)** If you write your Python code in Jupyter Notebooks or another IDE, you can just run the code right in the IDE to see the results.
+>
+> **[7:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=457)** But sometimes you might want to attach the script to a tool.
+>
+> **[7:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=460)** You'll learn how to do that later in the course.
+>
+> **[7:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=463)** But Python scripts don't have to be attached to tools, they can exist as standalone scripts that are run directly from Windows just by double-clicking on them.
+>
+> **[7:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=470)** They can also be scheduled to run automatically by the Windows scheduler.
+>
+> **[7:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-python-is-used-in-arcgis?u=76281980&t=474)** This is an excellent option for scripts that manage large amounts of data and may take a long time to run.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (23), find (4), make (1)
+> **Env Vars:** ide (6), gis (2), sql (1), sdk (1), agol (1)
+> **Tools:** visual studio (6), jupyter (2), pycharm (1)
+> **Analogies:** for example (5)
+> **Code Keywords:** let (2), interface (1)
+> **Cross-References:** we mentioned (1), later in (1)
+> **UI Navigation:** right-click (2)
+> **Prerequisites:** install (2)
+
+#### Where to write your scripts: ArcGIS Notebooks
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=0)** - [Instructor] Ready to write that first script?
+>
+> **[0:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=2)** Let's take a deeper look at notebooks in ArcGIS before we get into the Python syntax.
+>
+> **[0:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=8)** You can try this with me if you want.
+>
+> **[0:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=10)** I've got a project open and I'm going to create a new notebook.
+>
+> **[0:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=21)** At first glance, an IDE looks a lot like a text editor, like Notepad, but an IDE is a lot more.
+>
+> **[0:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=27)** First, it understands the scripting language you're writing in, so it can color code keywords, like import or print.
+>
+> **[0:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=39)** It can also color code functions and even text strings.
+>
+> **[0:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=45)** And sometimes it can even give you some assistance like with code completion.
+>
+> **[0:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=49)** That's where you start typing, for example, arcpy.mp, and the IDE completes the rest of the phrase for you.
+>
+> **[0:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=59)** If I hit a tab on my keyboard, it shows me a list of all of the methods of the MP module, and then I can just choose from the dropdown list.
+>
+> **[1:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=75)** Notebooks have a place to write code in these cells, a method to run the code, and a place where you can see the results of the run in this area between the cells.
+>
+> **[1:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=90)** This is also the area where the script can prompt you for information.
+>
+> **[1:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=94)** So it's waiting right now for me to type in my password.
+>
+> **[1:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=113)** A notebook stores your code plus any instructions or commentary about the code, as well as visualizations of the output all in one place.
+>
+> **[2:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=124)** Let me show you as I run these other cells how this works.
+>
+> **[2:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=129)** So I got a message saying that I'm logged in as ictjenny.
+>
+> **[2:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=134)** I'm going to run a cell that connects to a feature service, and then I'm going to run a cell that builds a map.
+>
+> **[2:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=143)** It takes a second, but now you can see the map is built right here and presented to you right in the notebook, and you can interact with the map.
+>
+> **[2:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=155)** And the entire notebook can easily be shared with others who are using ArcGIS Notebooks, making collaboration really easy.
+>
+> **[2:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=163)** It provides a Jupyter Notebooks experience for spatial analysis in ArcGIS.
+>
+> **[2:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=168)** Without notebooks, you could write Python scripts that would make changes to web maps, but then you'd need to log in to AGOL or portal, or otherwise open a web map to see the results of your script.
+>
+> **[3:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=180)** With ArcGIS Notebooks, you can visualize the results inside the notebook, and save that visualization to share with others.
+>
+> **[3:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=188)** Now, notebooks are not standalone Python scripts, which would be a file with a .py extension, but you can export a notebook to .py file.
+>
+> **[3:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=200)** In case you want to like schedule it to run automatically, for example, or attach it to a custom tool and toolbox, you export them by going to the Notebook tab, and using the Export button.
+>
+> **[3:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=220)** You'll find all of your notebooks listed over here in catalog like we saw earlier.
+>
+> **[3:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=226)** And again, the notebooks are stored with the project.
+>
+> **[3:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=231)** You can clear outputs to reset the variables and run the cells from scratch if you want.
+>
+> **[3:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=236)** It's done under the Cell menu, All Outputs, and Clear.
+>
+> **[4:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=242)** It sets the script back to ready to run state.
+>
+> **[4:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=250)** Notebooks also allows you to use cells for blocks of descriptive text, it doesn't all have to be Python code.
+>
+> **[4:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=257)** I'll go back to our new notebook.
+>
+> **[4:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=260)** It doesn't have anything in it to show you how that works.
+>
+> **[4:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=263)** So this is a script block.
+>
+> **[4:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=266)** But here's where I can insert another cell.
+>
+> **[4:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=270)** And when I insert that new cell, I'll change the type to Markdown.
+>
+> **[4:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=275)** So that's an indication that I just want to put text in there and describe what's about to happen in the script.
+>
+> **[4:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=282)** To do this, you can just type any text you want.
+>
+> **[4:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=295)** But you can also use a simple language called a markdown language to format this text.
+>
+> **[5:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=301)** Very basically, you could just put some hashtags before the text and it makes it a header.
+>
+> **[5:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=307)** It makes the font bigger.
+>
+> **[5:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=309)** One hashtag makes it really big, two makes it slightly smaller, and three is even slightly smaller than that.
+>
+> **[5:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=316)** Once you run the cell, then you can see what the text is going to look like.
+>
+> **[5:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=321)** There's a lot more you can do with Markdown.
+>
+> **[5:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=323)** You can go to the markdown website, and get help on it to see all the syntax.
+>
+> **[5:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=328)** We're formatting your comments inside your notebooks.
+>
+> **[5:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=334)** Cells do not always have to be run in order.
+>
+> **[5:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=337)** And markdown cells, don't even have to be run at all really.
+>
+> **[5:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=340)** I'm going to go back over to our Building Inventory notebook.
+>
+> **[5:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=346)** Rather than running each cell individually, you can run the entire notebook from the Cell dropdown, choose Run All.
+>
+> **[5:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=358)** Again, it stops and prompts me for my password, meaning I can share this with others and it's still secure.
+>
+> **[6:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=370)** My data is secure.
+>
+> **[6:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=377)** When you save the notebook, the notebook goes into the project folder.
+>
+> **[6:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=380)** We've talked about that already, and you'll find it over in the catalog pane.
+>
+> **[6:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=384)** So ArcGIS Notebooks is a modern IDE included with ArcGIS.
+>
+> **[6:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=390)** It's optimized for spatial analysis.
+>
+> **[6:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=392)** It makes it easy to visualize web maps, web services charts, and other analysis products.
+>
+> **[6:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=398)** And it allows you to document and share your scripts as notebooks with all the commentary to explain your script and its results.
+>
+> **[6:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=406)** ArcGIS Notebooks is built on Jupyter Notebooks, which is an incredibly powerful IDE for coding and data visualization.
+>
+> **[6:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=414)** If you want to learn more about Jupyter Notebooks outside of ArcGIS, I suggest you watch one of the many courses that introduce Jupyter Notebooks on LinkedIn Learning.
+>
+> **[7:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/where-to-write-your-scripts-arcgis-notebooks?u=76281980&t=423)** Now that we understand how to work in ArcGIS Notebooks, let's move on and write our first script.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (4), find (2), make (1)
+> **Env Vars:** ide (5), agol (1)
+> **Code Keywords:** let (3), module (1), this, (1)
+> **Tools:** jupyter (4)
+> **Definitions:** is a  (3), is an  (1)
+> **UI Navigation:** dropdown (2), go to (1)
+> **Analogies:** for example (2)
+> **Cross-References:** go back to (1)
+
+#### Write your first Python script
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=0)** - [Instructor] This video is for people who are new to Python scripting.
+>
+> **[0:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=3)** If you're already comfortable with basic Python Syntax, you can progress to later videos in this course to start writing scripts in ArcGIS.
+>
+> **[0:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=12)** In this video, I'll show you how to write and run a simple script.
+>
+> **[0:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=15)** I'm going to demonstrate how to write a simple Python script that converts feet to meters so you can get used to using the print statement and you can perform some simple mathematical calculations.
+>
+> **[0:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=28)** Since this is a very basic script, I'll put the length value into the code.
+>
+> **[0:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=32)** We call that hard coding a value.
+>
+> **[0:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=35)** Later we'll learn how to do this calculation on an attribute value or a feature property, like a lines length, to make our scripts more dynamic.
+>
+> **[0:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=44)** This script makes use of variables, the print statement, and string concatenation.
+>
+> **[0:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=51)** You're not expected to know what these things are yet, this is just a chance to type in some code and see it run.
+>
+> **[0:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=57)** If these concepts are new to you, don't worry.
+>
+> **[0:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=59)** They're going to be discussed in detail in a later video.
+>
+> **[1:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=63)** I'm in ArcGIS Pro, and I have a new blank notebook open.
+>
+> **[1:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=68)** You can follow along with me if you want.
+>
+> **[1:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=70)** Just pause the video until you get Pro open with a new notebook.
+>
+> **[1:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=74)** In Python, the print statement is used to print a message to the user.
+>
+> **[1:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=78)** So like I can print, "Working on the rivers feature class."
+>
+> **[1:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=85)** When I run it, the result shows up here in the space between the cells.
+>
+> **[1:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=91)** The print statement can print many things, like it might include plain text, the results of a geo processing tool, information about a data set, or the value of a variable that was discovered while the script was running, like the size of a file or the last edit date.
+>
+> **[1:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=109)** And you can print multiple things in one print statement.
+>
+> **[1:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=112)** When you want to print more than one thing in one print statement, you use the plus sign for string concatenation.
+>
+> **[1:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=118)** You may have seen this before in label expressions and the field calculator in ArcGIS.
+>
+> **[2:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=124)** Some notes about the plus sign in Python.
+>
+> **[2:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=128)** The plus sign is used for string concatenation, like tree plus house becomes treehouse, but it can also do math.
+>
+> **[2:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=136)** Two plus three is five.
+>
+> **[2:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=138)** It knows which action you want it to perform by looking at the values that you pass it.
+>
+> **[2:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=143)** So if you pass it two text strings, it concatenates them.
+>
+> **[2:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=147)** If you pass it two numbers, it adds them.
+>
+> **[2:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=150)** But what if it's passed a string and a number?
+>
+> **[2:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=153)** Let's see what happens.
+>
+> **[2:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=156)** You see it throws an error message because you're passing it a text string and a number, and it doesn't know whether it should be doing math or string concatenation.
+>
+> **[2:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=165)** Be careful when you're using the plus sign to always pass it only strings or only numbers.
+>
+> **[2:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=172)** And this is previewing a little bit, but there are some Python data type functions, like string and int, that will you to convert the data type on the fly.
+>
+> **[3:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=182)** It might be a little early in the course to discuss this, but I think I need to.
+>
+> **[3:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=185)** If this doesn't make sense right now, it will later in the course.
+>
+> **[3:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=189)** You can always come back and watch this video again for a review when you need these concepts.
+>
+> **[3:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=195)** So we can fix this code just by adding the string function around the three.
+>
+> **[3:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=201)** Make sure that you have a set of parentheses around the three, and a set of parentheses for the print statement.
+>
+> **[3:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=208)** So that fixes the problem.
+>
+> **[3:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=210)** To be honest, we could have just put quotes around the three as well, but there are times when we're reading these values in from a property of a feature class or a project, and we need to use the function because we don't have the value yet.
+>
+> **[3:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=223)** You'll see that as we progress through the course.
+>
+> **[3:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=226)** Now I'll write the script to do unit conversion.
+>
+> **[3:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=229)** Again, you can follow along if you like.
+>
+> **[3:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=230)** I'm going to clear all of this out first.
+>
+> **[3:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=234)** Start with a fresh, clean notebook.
+>
+> **[3:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=237)** So first I'll create a variable named numFeet, and I'll set it equal to 30.
+>
+> **[4:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=243)** We're just starting out with the number 30.
+>
+> **[4:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=245)** And then I'll put a print statement just to let the user know what we're about to do.
+>
+> **[4:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=250)** "This script converts feet to meters."
+>
+> **[4:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=253)** Notice that the print statement is all lowercase.
+>
+> **[4:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=256)** It has to be that way.
+>
+> **[4:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=257)** It won't work otherwise.
+>
+> **[4:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=259)** Also notice the set of parentheses around the entire print statement.
+>
+> **[4:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=264)** And finally, notice that I put single quotes around the text that I wanted to print.
+>
+> **[4:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=269)** You can use either single or double quotes in most places in Python.
+>
+> **[4:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=273)** There are a few cases where it matters, and I'll bring those up when it's relevant.
+>
+> **[4:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=277)** But in this case, you can use either.
+>
+> **[4:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=279)** Now I'll add the code to do the math.
+>
+> **[4:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=282)** I'll do the math right inside the print statement.
+>
+> **[4:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=284)** It doesn't have to be done this way.
+>
+> **[4:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=287)** I could create another variable to hold the calculated value, but that's kind of overkill for this tiny script.
+>
+> **[4:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=293)** So the second print statement is going to involve four bits.
+>
+> **[4:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=298)** The original number, the 30, right, stored in the variable numFeet, plus the string feet is plus the actual calculation, numFeet times .3048, that's the conversion factor from feet to meters, plus the word meters.
+>
+> **[5:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=320)** But when I run this, it's going to give us an error, right?
+>
+> **[5:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=324)** Because numFeet and this calculation are both numeric values when the rest of this is text.
+>
+> **[5:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=329)** So this is a chance to use that string function.
+>
+> **[5:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=332)** So I'll convert the variable to a string value, and then I'll convert the result of the calculation to a string value.
+>
+> **[5:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=341)** So now when I run the cell, this solves the problem, except remember that this plus sign does not put a space in there for me, right?
+>
+> **[5:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=350)** So it squished together the 30 and the feet.
+>
+> **[5:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=353)** So I can fix this by putting spaces on either side of these text strings, well, at the beginning of meters.
+>
+> **[6:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=361)** Now when I run it, looks good.
+>
+> **[6:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=364)** Another way to write this print statement, which avoids the issue of different data types, is to use commas to separate the arguments instead of the plus sign.
+>
+> **[6:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=373)** Commas don't do math, so they treat every element as a string and just mash 'em all together.
+>
+> **[6:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=379)** They assume you'll want a space between each element, so they add that in for you.
+>
+> **[6:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=383)** So I could have just done this, Print numFeet, our variable, and then a comma, feet is, and notice I'm not putting the space in there this time.
+>
+> **[6:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=394)** And then the calculation, another comma, and the word meters.
+>
+> **[6:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=399)** So when I run this guy, the output looks the same, right?
+>
+> **[6:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=404)** You can use the plus sign or you can use the comma, and as you continue to script you'll see that sometimes the plus sign is more relevant, sometimes the comma is more relevant depending on what you're doing.
+>
+> **[6:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=413)** So in this video, you learned how to use the print statement with string concatenation.
+>
+> **[6:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-your-first-python-script?u=76281980&t=418)** You also learned to create a simple variable and to use a function to convert values in a string, all while doing some simple mathematical calculations.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** pass (4), function (4), this, (3), let (2), class. (1)
+> **CLI Commands:** python (7), make (3)
+> **Code Identifiers:** numfeet (5)
+> **Definitions:** is a  (2)
+> **Cross-References:** later in (1)
+> **Warnings:** be careful (1)
+> **Speakers:** - [instructor] (1)
+
+#### Python syntax rules
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=0)** - [Instructor] This video is for people who are very new to scripting, especially Python scripting.
+>
+> **[0:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=4)** If you're already comfortable with basic Python syntax, you can progress to later videos in this course and start writing scripts in ArcGIS.
+>
+> **[0:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=13)** All scripting languages have rules that must be followed in the code.
+>
+> **[0:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=17)** These rules are called the syntax of the language.
+>
+> **[0:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=20)** Before you jump into writing Python code, you need to make sure you know a little bit about Python syntax.
+>
+> **[0:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=27)** Syntax is sort of the grammar and the punctuation of scripting.
+>
+> **[0:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=30)** It's where to put the spaces and the quotes and whether it's important to pay attention to the case of the text.
+>
+> **[0:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=36)** Let's learn a little about this Python syntax by testing out a few lines of Python code.
+>
+> **[0:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=42)** The first rule of Python syntax is that Python is case-sensitive.
+>
+> **[0:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=47)** So for example, the print statement in Python prints a message out to the user as we've seen before.
+>
+> **[0:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=55)** So I'll print the message, 23 records processed.
+>
+> **[0:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=59)** So when I run this, it works fine.
+>
+> **[1:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=61)** If I had tried to use an uppercase P though, I would've gotten an error message, see?
+>
+> **[1:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=65)** Because uppercase print means nothing to Python.
+>
+> **[1:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=68)** It has to be print and all lowercase to work.
+>
+> **[1:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=72)** Similarly, if you create a variable to hold a value, like numRecords, say, set it equal to 54, then anytime I want to use that variable throughout the rest of the script, I have to refer to it exactly by that name.
+>
+> **[1:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=86)** If I try to print NumRecords, but I use an uppercase N in the variable name, it's just not going to work.
+>
+> **[1:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=95)** It can't find that variable.
+>
+> **[1:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=97)** Change it back to a lowercase in exactly the way I created, then it's fine.
+>
+> **[1:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=103)** The second rule of Python is that Python has some reserved words like method, property, and function names that you need to protect.
+>
+> **[1:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=111)** If you're new to scripting, don't worry, these terms are going to be discussed in detail later.
+>
+> **[1:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=116)** For example, there's a function called upper, which converts a string to uppercase.
+>
+> **[2:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=122)** You can't name a variable upper because the word is already used.
+>
+> **[2:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=125)** Well, you can, but you'll lose the functionality of that upper function.
+>
+> **[2:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=130)** So for example, I can create a variable called upper, set it equal to RIVERS, and I can even print the value of that variable.
+>
+> **[2:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=140)** And all that works fine.
+>
+> **[2:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=142)** But when I try to use the upper function to force a string into uppercase, it won't work.
+>
+> **[2:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=148)** So for example, suppose I create another variable, I'll just call it string RoadName, and I'll set it equal to Main, and then I'll try to use the upper function, which goes like this, print upper and in parentheses, the thing you want to uppercase.
+>
+> **[2:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=162)** So when I try to run this guy, I get an error message because the upper function is no longer considered a function.
+>
+> **[2:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=170)** Python thinks it's a variable name and gets confused.
+>
+> **[2:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=174)** So protect these reserved words.
+>
+> **[2:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=176)** Don't use them for your variable names.
+>
+> **[2:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=178)** And the best way is to name your variables in some kind of really unique way.
+>
+> **[3:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=184)** Other than these two things, Python is very flexible in terms of syntax.
+>
+> **[3:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=188)** There are often many ways to do the same thing.
+>
+> **[3:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=191)** For example, it's very flexible with spaces.
+>
+> **[3:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=194)** I can create the variable, strFileName, and set it equal to New Orleans with a space on either side of the equal sign, and that works fine.
+>
+> **[3:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=205)** I could also just squish it all together with no spaces and that work fine too.
+>
+> **[3:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=211)** Python doesn't care. Also, spaces don't matter with math.
+>
+> **[3:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=217)** So if I print 3+4, works fine, or if I print space 3 space + space 4, space, that works fine too.
+>
+> **[3:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=229)** So it doesn't matter about spaces, case does matter and protect those reserved words.
+>
+> **[3:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=235)** Spaces are going to matter a lot once you start using special coding constructs, like conditional statements, loops, and user-defined functions.
+>
+> **[4:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=244)** But more about these things later.
+>
+> **[4:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=246)** By the way, the parentheses on the end of methods is required.
+>
+> **[4:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=250)** So if I have a variable called strRoadName, and it's equal to main, and I try to print strRoadName.title, which forces the text into title case where just the first letter is uppercase, this won't work.
+>
+> **[4:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=270)** But if I just fix it by putting a little set of parentheses on the end, problem solved, works just fine.
+>
+> **[4:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=277)** So those parentheses on the end of the method are designed to hold additional parameters if needed.
+>
+> **[4:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=283)** But even if no parameters are needed, the parentheses still have to be there.
+>
+> **[4:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=287)** Always remember that if you open parentheses or a quote, be sure to close them in pairs.
+>
+> **[4:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=292)** You'll see that notebooks tries to help you with this.
+>
+> **[4:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=295)** If I say print This string, you notice it put the close quote in there for me, so it's fine.
+>
+> **[5:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=301)** But if I accidentally leave it off, if I accidentally delete it and try to run the cell, I'm going to get an error.
+>
+> **[5:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=308)** And the error, actually, this error is telling me I'm missing parentheses.
+>
+> **[5:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=312)** Those are required by the print statement to always check your error message to make sure you understand what the problem is.
+>
+> **[5:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=320)** Now, if I run it, now, it says, "End of line found when scanning string literal."
+>
+> **[5:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=326)** Whenever you see that error message, you've missed off a quote somewhere, end of line while scanning string literal.
+>
+> **[5:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=333)** So always take a look at those error messages, read them closely, so you can figure out what's gone wrong with your script.
+>
+> **[5:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=339)** By the way, there are a lot of ways to shortcut things in Python, for example, multiple variables can be defined all at once.
+>
+> **[5:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=346)** For example, I can say, create the employee one variable, employee two, and employee three by setting it equal to Ashley, Ariani, Carlos.
+>
+> **[5:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=358)** This actually sets employee one to Ashley, employee two to Ariani, and employee three to Carlos all at one time, see?
+>
+> **[6:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=365)** So for example, if I print emp2, then it should print Ariani which it does.
+>
+> **[6:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=371)** This is really handy when reading records in from a file.
+>
+> **[6:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=375)** If you know that that text file has three columns, you can read the record in and immediately set those three values into three separate variables.
+>
+> **[6:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=384)** And by the way, you can string together several lines of code on the same line anytime if you separate them with a semicolon.
+>
+> **[6:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=392)** So x = 3, y = 4, print x + y, all on one line.
+>
+> **[6:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=399)** And it doesn't help the script at all, and it makes it a little more difficult to read later on, but you do often see that in Python.
+>
+> **[6:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=407)** So in this lesson, you saw that you must be very careful to follow the Python syntax rules when writing your scripts.
+>
+> **[6:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=413)** It matters whether things are written in uppercase or lowercase.
+>
+> **[6:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=416)** It matters that you always have pairs of quotes and parentheses.
+>
+> **[7:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=420)** Spaces don't matter all the time, but sometimes they do, and we have to know the rules and follow them, or our code won't work correctly.
+>
+> **[7:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=427)** And finally, we saw that you should read those error messages closely.
+>
+> **[7:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=431)** They'll really help you figure out what went wrong with your code.
+>
+> **[7:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=434)** There are a lot of syntax rules for Python.
+>
+> **[7:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=437)** I'm just scratching the surface here and giving you what you need to get through this course.
+>
+> **[7:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/python-syntax-rules?u=76281980&t=441)** If you want to know more though, or trying to find something specific, check out the [python.org](https://python.org) site to see the Python language reference.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (21), make (2), find (2)
+> **Code Keywords:** function (7), this, (2), let (1), this. (1), delete (1)
+> **Analogies:** for example (8)
+> **Code Identifiers:** strroadname (2), numrecords (1), strfilename (1)
+> **URLs:** [python.org](https://python.org) (1)
+> **Env Vars:** rivers (1)
+> **Speakers:** - [instructor] (1)
+
+#### Comments and pseudocode
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=0)** - [Instructor] Since you're taking this course, you're probably very new to scripting.
+>
+> **[0:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=4)** And the code you write in this course isn't going to be that complex, but as you get more and more experience, your code will get more and more complex and exciting and powerful.
+>
+> **[0:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=13)** It's good to go ahead right now and get in the habit of properly planning out your scripts and documenting them as you write them.
+>
+> **[0:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=20)** If you already know how to use comments in Python, then you can skip this video and move on to other parts of the course.
+>
+> **[0:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=26)** You can put some notes into a script to remind yourself and others what the script is doing.
+>
+> **[0:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=32)** These notes are added as comments.
+>
+> **[0:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=35)** Now, what I'm going to show you right now is how to add comments that will stay in the script.
+>
+> **[0:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=39)** I mean, they'll be exported with the script if you choose to export them from Notebooks.
+>
+> **[0:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=45)** If your code is never going to leave Notebooks, then you can document it right in the notebook with those markdown cells that we talked about earlier.
+>
+> **[0:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=52)** If you want to follow along with me, you can.
+>
+> **[0:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=55)** I'm in ArcGIS Pro, and I have a new blank notebook open.
+>
+> **[0:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=59)** This is a comment. Comments start with a hash mark.
+>
+> **[1:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=63)** Anything after the hash mark until the end of the line is completely ignored.
+>
+> **[1:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=68)** You can put a space after the hash mark if you want, like I did, but it's not required.
+>
+> **[1:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=73)** It's standard practice to put lots of comments in.
+>
+> **[1:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=75)** Generally, we put a comment block at the top of each script that explains what the script is going to do, what inputs are required by the script, who created the script, and the date it was created.
+>
+> **[1:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=86)** I'm going to add a cell here and paste in a title block that I've already created.
+>
+> **[1:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=91)** It's a good idea to create a title block like this, and then just copy it into each new script that you write, making adjustments for that particular script, so you get a standard look for all of the Python scripts that you create.
+>
+> **[1:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=103)** When using comments, by the way, that hash mark doesn't have to be the first thing on the line.
+>
+> **[1:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=108)** I can type something like this, print "The geodatabase exists", that's an executable line of code, and then I can put a hash mark and a comment after it.
+>
+> **[2:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=120)** The notebook changes the color to let me know that's a comment.
+>
+> **[2:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=122)** It's going to be ignored, but it's here for humans to read later on.
+>
+> **[2:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=126)** So I can run it, and you'll see it actually prints the statement and ignores the rest.
+>
+> **[2:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=131)** Okay, let's step back a little bit and talk about planning your script.
+>
+> **[2:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=135)** You should plan your scripts out the same way you might when writing a book report or a story, with an outline.
+>
+> **[2:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=140)** In Python that outline is called pseudo code, something that looks a little bit like code, but it's not really code.
+>
+> **[2:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=147)** It's steps written out in plain English or Spanish or Arabic, or whatever language you prefer that describes the steps of your script.
+>
+> **[2:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=157)** Pseudo code is written into the code as comments, and then the scripter can go back and fill in the code afterwards.
+>
+> **[2:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=164)** That way, the full idea of the script will be documented and the workflow well thought out before the script is written.
+>
+> **[2:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=171)** I'm going to paste in some pseudo code here into a new notebook.
+>
+> **[2:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=177)** This pseudo code explains how we'd write a script that would check the coordinate system of all the layers in a map and then project all the layers in the map into WGS 84 Web Mercator if they're not already in that coordinate system.
+>
+> **[3:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=192)** It's not code, it's just the instructions for writing the code.
+>
+> **[3:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=197)** And again, we just expand each of these and put the code underneath.
+>
+> **[3:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=203)** Sometimes each comment might be the beginning of a new cell in a notebook.
+>
+> **[3:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=208)** There are no rules for pseudo code except that it's written as comments.
+>
+> **[3:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=213)** The idea is to write in your own words what you're trying to do with your script.
+>
+> **[3:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=217)** Break it down into small bites.
+>
+> **[3:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=219)** The script will be much easier to write, and the script will be well documented.
+>
+> **[3:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=224)** If someone comes in after, say, six months to modify the script, the pseudo code will make it easy to understand what's going on.
+>
+> **[3:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=233)** I'm sure we've all been handed projects that you had to go on an expedition to figure out what's going on.
+>
+> **[3:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=238)** That's not the best practice, so try to get in the habit early of documenting your process.
+>
+> **[4:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=244)** Just a note, if you create a model in Model Builder and export it to a script, that model will include all the comments for you, so you'll know exactly what the script is doing.
+>
+> **[4:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=255)** In this video, you saw how to use hash marks to add comments in a script.
+>
+> **[4:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=260)** I also discussed the importance of planning your code and documenting that plan using pseudo code.
+>
+> **[4:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=265)** Now that you know all about planning and documenting so that your code is well organized, we're ready to jump into really writing code.
+>
+> **[4:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/comments-and-pseudo-code?u=76281980&t=273)** We'll start with how to create and use variables.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (3), make (1)
+> **Code Keywords:** this, (2), let (2)
+> **Definitions:** is a  (1), is called (1)
+> **Env Vars:** wgs (1)
+> **Cross-References:** we talked about (1)
+> **Best Practices:** best practice (1)
+> **Speakers:** - [instructor] (1)
+
+
+### 2. Strings, Numbers, and Variables
+
+#### Use variables to make scripts flexible
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=0)** - [Instructor] Variables are used as placeholders in scripts for information not yet known when the script is being written or for values that could change over time.
+>
+> **[0:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=9)** They make the scripts flexible and allow the scripts to get information at runtime.
+>
+> **[0:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=14)** Variables can be used to prompt for input from users, to get input from the properties of projects, maps, and data, and even to extract data from attribute tables and text files.
+>
+> **[0:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=26)** For example, you can write a script that looks at a water wells feature class and selects all the wells where lead has been detected.
+>
+> **[0:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=36)** But you can use a variable as a stand-in for the feature class name and also a variable for the contaminant so that way, when the user runs the script, they can specify which water wells they want to work on and which contaminant they're interested in.
+>
+> **[0:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=50)** The variables act as a placeholder and allow you to write the script without knowing what the user might pick at runtime.
+>
+> **[0:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=57)** Variables can hold text strings, such as the name of a town or the new name you want to give a map document.
+>
+> **[1:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=65)** Variables can just as easily hold numeric values, such as the maximum value you're looking for or the length of a line.
+>
+> **[1:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=73)** In object-oriented scripting languages, like Python, variables can also hold objects.
+>
+> **[1:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=79)** In RTS Pro, an object might be a map, a feature class, or a geodatabase.
+>
+> **[1:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=85)** There are many other variable data types.
+>
+> **[1:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=88)** So let's look at this in Notebooks.
+>
+> **[1:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=91)** I have a new notebook open here.
+>
+> **[1:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=92)** To create a variable, you just give it a name and assign it a value, like strLayer = "Waterlines."
+>
+> **[1:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=101)** You can use almost any name you want.
+>
+> **[1:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=103)** Although, we did see earlier in the course that you should be careful not to use a reserved word as a variable name.
+>
+> **[1:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=109)** We also learned earlier that variable names are case-sensitive.
+>
+> **[1:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=113)** Here are the other rules, so don't use reserved words.
+>
+> **[1:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=117)** Variables are case-sensitive.
+>
+> **[1:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=119)** You can't use any spaces or special characters, like commas or apostrophe or parentheses, in your variable names, and you shouldn't use underscores in your variable names as well.
+>
+> **[2:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=131)** It's allowed, but it's not recommended because a lot of the GIS parts of Python, especially those geoprocessing tools, they use underscores in their names already.
+>
+> **[2:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=141)** Not using underscores will help you distinguish your variables from other parts of the Python code.
+>
+> **[2:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=147)** I use camel case for my variables most of the time.
+>
+> **[2:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=150)** Camel case is where you start your variable name with a lowercase letter and then you use an uppercase letter at the beginning of each word.
+>
+> **[2:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=157)** A good practice is to have the first few letters indicate the type of value the variable will hold.
+>
+> **[2:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=165)** You can see that I use that camel case notation here.
+>
+> **[2:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=168)** when I created this variable, strLayer.
+>
+> **[2:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=171)** This tells me it's a string layer.
+>
+> **[2:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=173)** It's going to hold a string dataset.
+>
+> **[2:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=175)** If I had a numeric value, I might say something like numSpeedLimit.
+>
+> **[2:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=179)** That just helps me look back at the script and figure out, oh yeah, that's a numeric variable.
+>
+> **[3:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=184)** And the last rule is that variable names can't start with a number.
+>
+> **[3:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=189)** So variables are used to make a script flexible.
+>
+> **[3:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=193)** Their values can be set by reading properties of GIS datasets, reading data in from an attribute table, and even allowing the user to specify the values at runtime.
+>
+> **[3:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=203)** There are some rules with naming variables, and you have to be careful with that.
+>
+> **[3:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980&t=206)** And now that we know what variables are and how to name them, let's see the special ways to deal with variables that hold numbers.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (3), make (2)
+> **Code Keywords:** let (2), class, (1)
+> **Code Identifiers:** strlayer (2), numspeedlimit (1)
+> **Env Vars:** gis (2), rts (1)
+> **Analogies:** such as (2), for example (1)
+> **Best Practices:** recommended (1), good practice (1)
+> **Warnings:** be careful (2)
+> **Cross-References:** earlier in (1)
+
+#### Work with numeric values
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=0)** - [Instructor] When working with variables, you always have to think about whether that variable expects to hold numbers, dates, text strings, or some other kind of data, like a feature class object.
+>
+> **[0:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=10)** If you're not paying attention, Python can do some pretty funny math, like in this case.
+>
+> **[0:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=16)** I have a new notebook open and I'm going to create a couple of variables here.
+>
+> **[0:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=20)** My first variable will be numPolygons, and the second will be numLines.
+>
+> **[0:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=30)** So then I'll print numPolygons plus numLines.
+>
+> **[0:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=36)** When I run it, you see I get 102 instead of 12.
+>
+> **[0:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=40)** This happened because we put quotes around the numbers, forcing them to be treated as strings and the plus sign concatenate strings, as we learned earlier in the course.
+>
+> **[0:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=49)** To make these values be treated as numbers, just don't put quotes around them.
+>
+> **[0:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=54)** So that works.
+>
+> **[0:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=56)** When you're reading a value in from an attribute table, you may not know in advance whether it's numeric or text, but we'll see later there are some functions that'll let you determine the data type once you read a value in.
+>
+> **[1:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=66)** So numeric values can hold whole numbers, integers and floating point numbers, numbers with decimal places.
+>
+> **[1:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=74)** I'll create another variable here, Integer speed limit.
+>
+> **[1:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=78)** Remember, I'm using Camel case here with the first three characters indicating the type of value that I'm going to store in this variable.
+>
+> **[1:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=86)** So where do we use these numeric variables when writing Python scripts in the ArcGIS world?
+>
+> **[1:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=93)** Numeric variables are often used to hold values discovered by the script, such as when a script reads geometry properties like the length of a line or the area of a polygon, when it reads and edits location values, X, Y, Z, or lat longs, when it reads the number of records in a file or an attribute table, or even when it figures out whether a value in an attribute table is larger or smaller than a given number.
+>
+> **[2:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=121)** And the last example even, when we calculate statistics for feature attributes, finding mins and maxes and standard deviations.
+>
+> **[2:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=130)** So the thing is, we don't usually just assign a variable equal to a number, like I did in these little examples.
+>
+> **[2:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=136)** We usually let our script figure out these numbers when it runs like, go open that file and figure out how many records are in it, and then save the number in this variable so that we can use it later in the script.
+>
+> **[2:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=149)** Like we might say, "Okay, if the number of records is equal to zero, then delete that file."
+>
+> **[2:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=154)** When working with numbers, Python follows standard precedents for mathematical operations.
+>
+> **[2:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=161)** So if you're doing any kind of mathematical calculations in your script, just pay close attention to this order of operations.
+>
+> **[2:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=168)** Whatever's in the parentheses gets evaluated first and then exponents, followed by multiplication and division, and then addition and subtraction.
+>
+> **[2:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=177)** Let's see how this affects us.
+>
+> **[2:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=179)** I'm going to add a new cell.
+>
+> **[3:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=182)** I'm just typing some simple numbers here.
+>
+> **[3:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=184)** But remember, these variables often hold much more interesting values that are discovered at runtime.
+>
+> **[3:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=190)** X equal five, Y equal two.
+>
+> **[3:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=193)** And now we'll do the math, x plus 15 divided by Y.
+>
+> **[3:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=198)** So the x plus 15 gets evaluated first and then the result is divided by y.
+>
+> **[3:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=203)** I run it and we get an error and notice that's because I still need my parentheses for my print statement.
+>
+> **[3:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=211)** I've got to make sure I've got those parentheses in there.
+>
+> **[3:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=214)** And so you can see it prints out 10, which is the correct answer.
+>
+> **[3:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=218)** But what about this equation?
+>
+> **[3:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=220)** I'm going to print y plus eight times two divided by two plus five.
+>
+> **[3:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=226)** Remember, that variables persist across the cells, and so my Y variable is still valid, it's still set equal to two.
+>
+> **[3:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=235)** Following our rule of order of operation, you do the math and the parentheses first.
+>
+> **[4:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=241)** So you'd replace the why with two.
+>
+> **[4:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=243)** This one's a little more complicated, and if you want to challenge, try doing this math on your own to make sure you get the same answer that I got.
+>
+> **[4:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=249)** So what did you learn about working with numeric values and Python?
+>
+> **[4:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=254)** First, don't put quotes around numbers.
+>
+> **[4:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=256)** Second, make sure you know what data type is being returned by a geo processing tool, a function, a method, a property, or anything else the script is using.
+>
+> **[4:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=266)** And finally, pay attention to where the parentheses are and to the order of operations.
+>
+> **[4:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-numeric-values?u=76281980&t=270)** Now that you know how to use numbers, let's look at the special conditions for working with string variables.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (4), make (4)
+> **Code Keywords:** let (4), case. (1), delete (1), function (1), finally, (1)
+> **Code Identifiers:** numpolygons (2), numlines (2)
+> **Cross-References:** earlier in (1), later in (1)
+> **Analogies:** such as (1)
+> **Speakers:** - [instructor] (1)
+
+#### Work with strings
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=0)** - [Instructor] We have a few more basic Python rules we have to learn before we can jump into writing code for ArcGIS.
+>
+> **[0:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=6)** This video explains how to work with strings and quotes in Python scripts.
+>
+> **[0:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=11)** Many of the things we work with in GIS, like the name of a feature class, a city name read from an attribute table, or a directory path, they're all string values.
+>
+> **[0:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=21)** So let's get the basics out of the way on the proper way to handle these.
+>
+> **[0:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=25)** I've got a project open, and I'm here in a new notebook.
+>
+> **[0:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=28)** A string is just a bit of text surrounded by either single or double quotes.
+>
+> **[0:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=33)** So here, I have a string variable, strProjectName equal to "Kentucky.aprx," and again, I surrounded it with double quotes.
+>
+> **[0:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=43)** There are some differences in the quote types.
+>
+> **[0:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=45)** For everything we do in this video, you could use either single or double quotes.
+>
+> **[0:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=50)** I'll switch them up throughout the course just so you get used to seeing both.
+>
+> **[0:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=54)** To print a string, simply use the print statement and enclose the string in quotes.
+>
+> **[1:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=60)** We've done this many times already in the course.
+>
+> **[1:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=63)** So here, I've printed "Project name: Csturgis.aprx."
+>
+> **[1:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=68)** To assign a string a variable again, just enclose the string in quotes.
+>
+> **[1:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=72)** We've done this before as well.
+>
+> **[1:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=74)** I'm going to remove this stuff and start fresh again.
+>
+> **[1:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=77)** I'll make a variable strCityName equal to Sturgis, and then I'll print that variable out so you can see it works.
+>
+> **[1:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=85)** We actually call a string a string object in Python.
+>
+> **[1:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=89)** String objects have a set of methods that can be used to modify the strings on the fly.
+>
+> **[1:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=95)** We'll get to the details of the term method later in this course, but for now, just think of it as a key word that you can attach to the string and make some change to the string.
+>
+> **[1:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=104)** Here's an example.
+>
+> **[1:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=106)** I've created a variable called strCityName, set it equal to "Lafayette," and then I'm just going to print out the strCityName.
+>
+> **[1:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=114)** I'm not going to print the variable's value.
+>
+> **[1:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=116)** Instead, I'm adding this .isalpha method to the variable name, and what that does is alpha returns a true value if that variable holds only alphabetic characters A through Z.
+>
+> **[2:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=130)** If there are any numbers in there or special characters, it returns a false.
+>
+> **[2:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=134)** This is a really important method for testing out data that you read in from an attribute table or input you get from a user at runtime.
+>
+> **[2:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=142)** So if I run this, I should get a true value, but if I just change this a little bit by putting, let's say, Lafayette with a dash in there and I run it again, it returns false.
+>
+> **[2:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=153)** So the thing is that value there, Lafayette, is usually not typed right into the script.
+>
+> **[2:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=158)** It's generally fed into the script from some process.
+>
+> **[2:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=161)** Here are some cases where a city name might get discovered on the fly by the script: from a user input at runtime, like from parameters in a custom script, or read in from an attribute table, or read from a property of an object, like the name of the default geodatabase for a project, or it could even be generated by processing other strings.
+>
+> **[3:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=183)** All of the components of GIS, all the objects, have properties.
+>
+> **[3:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=187)** So projects, layers, attribute tables, maps, layouts, they all have properties.
+>
+> **[3:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=194)** Your code can read these properties and store that value in a variable to use later in the script.
+>
+> **[3:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/work-with-strings?u=76281980&t=199)** Now that we know a little bit about strings, let's look at how we would use a string variable to actually hold the property of an ArcGIS object.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** let (3), class, (1), switch (1), this . (1), this, (1)
+> **CLI Commands:** python (3), make (2)
+> **Code Identifiers:** strcityname (3), strprojectname (1)
+> **Env Vars:** gis (2)
+> **Cross-References:** later in (2)
+> **Definitions:** is a  (1)
+> **Analogies:** think of it as (1)
+> **Speakers:** - [instructor] (1)
+
+#### Working with strings in ArcGIS
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=0)** - [Instructor] We'll learn a lot more about ArcGIS objects later in this course, but I want to introduce them as we start using variables 'cause it's so important to be able to grab an object's properties and hold it as a variable.
+>
+> **[0:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=12)** To know what properties exist for a given object, you have to check the help document.
+>
+> **[0:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=17)** Here's the help for the ArcGIS Pro project object.
+>
+> **[0:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=21)** If I scroll down, I can see all the properties of this type of object and then I'll check over here on the right to see what data type that property is.
+>
+> **[0:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=31)** So let me show you how you'd write a script that will read the name of a default geodatabase from a project.
+>
+> **[0:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=37)** I'll need to use this concept of objects in ArcGIS, but you're going to learn about that later in the course.
+>
+> **[0:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=43)** So I'll just explain a little bit now.
+>
+> **[0:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=45)** I'm in a pro project named after the city of Sturgis.
+>
+> **[0:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=49)** You could test this on any project you want.
+>
+> **[0:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=51)** Name it after a city or name it after anything else.
+>
+> **[0:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=54)** The idea here is just to be able to grab the name of the default geodatabase for the project.
+>
+> **[1:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=60)** I'm going to open a new notebook and write a tiny, four-line script.
+>
+> **[1:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=65)** First, I'm going to create a variable that connects to a project and creates a project object, which I'll store in this variable that I'm going to name aprx object.
+>
+> **[1:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=76)** So the code is aprObject equal arcpy.mp.ArcGISProject.
+>
+> **[1:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=85)** And I'll pass it the parameter CURRENT.
+>
+> **[1:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=89)** This is the part we haven't learned yet, but again, don't worry, we're going to learn this soon.
+>
+> **[1:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=93)** For now, if you're following along, just type it just like this.
+>
+> **[1:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=97)** Because I'm using the keyword current.
+>
+> **[1:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=99)** It looks at the current project that is open right now.
+>
+> **[1:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=102)** That's why the script will work on whatever project you happen to have handy.
+>
+> **[1:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=107)** So what I'm doing here is I'm using a method of the ArcPy library called MP for mapping.
+>
+> **[1:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=114)** Since I'm using a part of ArcPy, I'll need to import the ArcPy library.
+>
+> **[1:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=119)** So if you're following along with me, go up to the top of the cell and import ArcPy.
+>
+> **[2:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=126)** So I'm using the .MP module of the ArcPy library to get to the ArcGISProject method.
+>
+> **[2:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=132)** The ArcGISProject method is the thing that grabs hold of one of those projects and makes an open connection to the project.
+>
+> **[2:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=140)** The current parameter tells the ArcGISProject method to grab a hold of the current project, the one I've got open right now.
+>
+> **[2:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=147)** The project object that gets created is stored in the aprx variable.
+>
+> **[2:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=153)** A project object has a default geodatabase property.
+>
+> **[2:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=157)** We saw that earlier in the help.
+>
+> **[2:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=160)** I'll bring the help back up just as a refresher.
+>
+> **[2:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=163)** Remember, we were looking at the properties of a project and we found the default geodatabase property and we see that it returns a data type of string.
+>
+> **[2:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=174)** So we'll grab hold of that value into a variable and then we'll print it out.
+>
+> **[3:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=180)** So we'll just add two more lines of code.
+>
+> **[3:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=182)** First, we'll create a variable called STR, indicating it's going to be a string, default, GDB.
+>
+> **[3:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=190)** And again, I'm just making that name up.
+>
+> **[3:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=192)** String default geodatabase equal aprxObject.
+>
+> **[3:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=197)** That's that project that I just grabbed hold of, .defaultGeodatabase.
+>
+> **[3:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=206)** So that grabs the default geodatabase name.
+>
+> **[3:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=209)** And then I'll print it out.
+>
+> **[3:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=212)** So I'll run it so you can see that it works.
+>
+> **[3:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=214)** And that gets the name of the default geodatabase.
+>
+> **[3:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=218)** Realistic useful scripts would maybe change the default geodatabase property to point to a different geodatabase or check to see what folder that default geodatabase is in, or figure out whether that default geodatabase has any feature classes in it.
+>
+> **[3:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=233)** But we'll have to learn a bit more about ArcPy before we can write those scripts.
+>
+> **[3:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=237)** In this video, I showed you how to work with strings, and I introduced you to reading in ArcGISObject properties and storing that value in a string variable.
+>
+> **[4:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-strings-in-arcgis?u=76281980&t=246)** Now let's go see a few special cases with strings like how to pass a sequel expression as a string and how to deal with directory path names.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** let (2), pass (2), else. (1), this. (1), module (1)
+> **Code Identifiers:** aprobject (1), aprxobject (1), defaultgeodatabase (1)
+> **Env Vars:** current (1), str (1), gdb (1)
+> **Cross-References:** later in (2), earlier in (1)
+> **UI Navigation:** scroll down (1)
+> **Analogies:** just like (1)
+> **Speakers:** - [instructor] (1)
+
+#### String manipulation
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=0)** - [Instructor] Python scripts have to handle a lot of different types of text: geo-database names, file paths, strings read in from attribute tables.
+>
+> **[0:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=9)** All of these things are held in string variables, we need to make sure we know how to use these strings properly to save us a lot of frustration when debugging a script.
+>
+> **[0:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=19)** As we've already learned, strings can be surrounded in single or double quotes, but each pair has to match.
+>
+> **[0:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=27)** So, here, I'm printing out the names of two different shape files.
+>
+> **[0:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=31)** In one case, I use single quotes, the other I use double quotes, that's no problem, works just fine.
+>
+> **[0:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=37)** Anything inside the quotes gets treated as literal text, exactly as it's typed.
+>
+> **[0:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=41)** Well, almost everything.
+>
+> **[0:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=43)** There are a few special escape characters that have special meaning inside the quotes, and they're prefaced with a backslash.
+>
+> **[0:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=51)** This time, I'm printing three elements, the string Roads.shp, and then a funny little thing called \n, and then Rivers.shp.
+>
+> **[1:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=60)** But watch what happens when I run it.
+>
+> **[1:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=62)** You see the roads and the rivers are printed on different lines, that's because that \n is a special escape character, it has a special meaning, it means, "Print a new line," even though its inside the double quotes.
+>
+> **[1:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=75)** There are a couple of these escape characters.
+>
+> **[1:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=77)** So, \n for a new line, \t to print a tab, and a backslash by itself will cancel out the special meaning of the next character.
+>
+> **[1:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=88)** The backslash will help you, for example, cancel out the special meaning of a quote so that you can print a quote in a string.
+>
+> **[1:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=95)** So, these are weird, right?
+>
+> **[1:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=96)** But you'll get the hang of it.
+>
+> **[1:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=98)** Let's look at another example.
+>
+> **[1:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=100)** So, I'm going to print out a list of geodatabase names, and I'm going to do that by printing the number one and a colon, and Houston GDB, and then a number two and a colon, and Austin GDB.
+>
+> **[1:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=112)** But I've got some special characters mixed in here.
+>
+> **[1:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=116)** I'll put a tab between the number and the geo-database name for each case, And I'll also put a new line between the two geo-databases.
+>
+> **[2:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=127)** So the \n puts the new line between the two geo-database names, and the \t puts a tab between the colon and the geo-database name.
+>
+> **[2:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=138)** This looks a little weird, because this is all squished together in one set of quotes, but that works perfectly fine.
+>
+> **[2:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=145)** Every time we see that backslash character, Python knows something special is about to happen.
+>
+> **[2:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=150)** These escape characters are really handy, but they can occasionally cause us some grief.
+>
+> **[2:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=156)** Watch this.
+>
+> **[2:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=157)** So, I'm printing out a simple directory path, c:\newyork\data.
+>
+> **[2:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=163)** It looks perfectly simple, should work just fine, but when I hit Run, you can see, it does print, but what happened?
+>
+> **[2:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=170)** What happened is that \n is a special character that means new line, so it printed c: new line, ewyork\data. (laughs) To avoid these situations when storing directory paths as strings, or anywhere else there might be a problem with the \n or \t, one of two things can be done.
+>
+> **[3:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=190)** First, you could use double backslashes.
+>
+> **[3:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=192)** The first backslash protects the meaning of the second backslash, saying, hey, forget the fact that \n is something special, it's just a backslash.
+>
+> **[3:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=202)** So by putting a second backslash in there and running, it works fine.
+>
+> **[3:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=206)** The second method is this little trick to use a lowercase r in front of the entire string, outside of the parentheses.
+>
+> **[3:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=215)** The lowercase r stands for raw, and it says read this whole string as raw text, don't consider that you know anything about special backslash characters.
+>
+> **[3:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=225)** So now when I run it, that works perfectly fine too.
+>
+> **[3:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=228)** And we use this a lot, you'll see it a lot in the examples that we do throughout the course.
+>
+> **[3:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=233)** What's really nice about this one, that little r, is that when you read this directory path in at runtime, you don't know if its going to have any \n's in it.
+>
+> **[4:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=243)** You can use this little r to protect that text as you're reading the values in.
+>
+> **[4:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=248)** Oh, one important note, if you're going to use that little r, you cannot end your string with a backslash out here.
+>
+> **[4:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=255)** So these special characters are important, and often overlooked, so make sure you pay attention to them in your Python script.
+>
+> **[4:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=262)** There are some other cases where a special character needs to be protected in Python.
+>
+> **[4:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=266)** Suppose, for example, a SQL query needs to be built to pass into ArcGIS.
+>
+> **[4:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=273)** Like to pass into the select geo-processing tool.
+>
+> **[4:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=278)** Over here in Pro, I can find the Select tool, and I'll just pretend to run it so that you can see the input options.
+>
+> **[4:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=289)** One of the input parameters is a SQL query.
+>
+> **[4:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=293)** But how are you going to put that into your Python code?
+>
+> **[4:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=297)** Suppose we're looking at a map with floodplain data on it, and we want to build a query that selects all of the floodplain polygons where the flood status is 100 years, so it's a 100 year floodplain.
+>
+> **[5:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=311)** But we want to put that SQL statement into a Python expression, and run this Select tool as a part of our Python.
+>
+> **[5:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=320)** To get this SQL query sent over to ArcGIS Pro, the entire thing needs to be wrapped in a set of quotes.
+>
+> **[5:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=327)** I'm going to start with a fresh notebook here, and I'll just type in the SQL expression, and store it into a string variable.
+>
+> **[5:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=338)** We'll just call it mySqlQuery, and I'm going to set it equal to FLOOD_STATUS, we're pretending FLOOD_STATUS is the name of the column in the attribute table, = 100YR'.
+>
+> **[5:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=351)** So now you can see where its a little bit weird, right?
+>
+> **[5:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=353)** Because we have an open quote, and then we hit a second open quote, but Python thought it was a close-quote for the first string.
+>
+> **[6:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=360)** And now if I try to run this, it's going to fail, because Python doesnt know what that 100YR' is.
+>
+> **[6:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=366)** So to get this SQL Query sent over to ArcGIS Pro, the entire thing needs to be wrapped in a set of quotes.
+>
+> **[6:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=372)** But that causes a problem because of the quotes that are already needed in the expression.
+>
+> **[6:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=377)** This is fixed by protecting the interior set of quotes, the ones to be sent over to ArcGIS Pro, either with a backslash, or you could use a different style of quotes.
+>
+> **[6:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=389)** So, it would look like this.
+>
+> **[6:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=391)** Again, that backslash cancels out the special meaning of that quote, so it gets treated as a literal quote.
+>
+> **[6:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=398)** And so if I print it just to make sure it worked just fine, right, so that's the SQL query that I need to pass into that tool.
+>
+> **[6:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=406)** Again, the other way I could do it is by using a different style of quotes.
+>
+> **[6:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=411)** So for example, SQL requires single quotes, so I could put double quotes around the entire expression in Python, and that way, SQL would get the single quotes that it requires, but I've still got the entire string protected in a set of double quotes.
+>
+> **[7:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=429)** So, that works too, whichever way you prefer, and you'll see it done both ways.
+>
+> **[7:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=434)** All right one more thing about string manipulation.
+>
+> **[7:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=436)** Let's look at a special way to parse characters out of a string.
+>
+> **[7:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=440)** String indexing is a way to get the individual characters in a string.
+>
+> **[7:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=444)** You basically tell Python which characters you want to retrieve from the string by listing out their character positions.
+>
+> **[7:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=451)** You can pull out one character, or a group of characters.
+>
+> **[7:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=454)** For example, to pull off just the first five digits of a zip+5 zip code, you do this.
+>
+> **[7:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=461)** I'll create a variable called strZipCode, and set it equal to a pretend zip code 77077-1234.
+>
+> **[7:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=471)** And then I'll use the print statement to pull off just the first five digits.
+>
+> **[7:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=474)** So, I'm printing strZipCode, sub, I put in square brackets there, inside the square brackets, I've put two digits, 0 for the starting position, and 5 as the ending position.
+>
+> **[8:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=487)** So when I run this, you'll see it pulls out the 77077.
+>
+> **[8:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=491)** So when you're pulling out a range of numbers like that, we call it string slicing.
+>
+> **[8:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=495)** We're going to see this again later in the course when we talk about lists, cause we use the same concept to pull out elements of a list.
+>
+> **[8:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=502)** String slices are zero-based, so in this case the first seven is in position zero, the second seven is in position one, and so on.
+>
+> **[8:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=512)** There are some shortcuts for pulling out different portions of the string, for example, you can exclude the starting position, so if I just put :3 in here, it'll pull out the first three characters from the string, like in this case, the 770.
+>
+> **[8:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=527)** Also, negative numbers can be used to pull characters from the end of the string.
+>
+> **[8:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=531)** And again, the last number can be left off.
+>
+> **[8:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=533)** For example, print (strZipCode[-4:]) says to go back four characters from the end, and pull out everything until you get to the end.
+>
+> **[9:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=543)** In this case, I get the 1234, the extension of the zip code.
+>
+> **[9:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=547)** In this video, you saw how to include special characters in a string, like including sets of quotes inside another quoted string.
+>
+> **[9:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=555)** That's going to be really useful when you start passing SQL statements into geo-processing tools with your code.
+>
+> **[9:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-manipulation?u=76281980&t=561)** You also learned how to use string slicing to pull out portions of a string.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** case, (4), this. (3), pass (3), let (2), protected (2)
+> **CLI Commands:** python (11), make (3), find (1)
+> **Env Vars:** sql (10), gdb (2), flood_status (2)
+> **Analogies:** for example (6)
+> **Definitions:** is a  (4), stands for (1)
+> **Code Identifiers:** strzipcode (3), mysqlquery (1)
+> **Cross-References:** later in (1)
+> **Warnings:** important note (1)
+
+#### String methods and functions
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=0)** - [Instructor] There are over 40 Python string methods and functions included with the Python language.
+>
+> **[0:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=6)** Before you even add any additional libraries, these functions and methods help us to manipulate string values.
+>
+> **[0:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=13)** For example, the replace method replaces a portion of a string with a different bit of text.
+>
+> **[0:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=20)** Let's see how we would use this in code.
+>
+> **[0:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=23)** If I create a variable called strRockType and I set it equal to Sandstone, that's fine.
+>
+> **[0:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=30)** If I print it right now, it's just going to say Sandstone, but watch how I would use the replace method on this string variable.
+>
+> **[0:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=37)** With these methods, if there's any information needed to tell the method how to work, that information is passed in as a parameter inside the parentheses for that method.
+>
+> **[0:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=47)** So you can see here, I'm using the replace method on the strRockType variable, and I'm replacing the word Sand with the word Lime.
+>
+> **[0:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=58)** So when I run the script, it prints Limestone instead of Sandstone.
+>
+> **[1:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=62)** So that's string manipulation using methods.
+>
+> **[1:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=65)** There are, as I said, over 40 of them.
+>
+> **[1:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=67)** You can check the ArcGIS Pro help for the exact syntax for any functions and methods that are available.
+>
+> **[1:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=75)** In ArcGIS Pro, you'll see a lot of these methods in the field calculator.
+>
+> **[1:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=80)** In ArcGIS Pro, we call them helpers, in ArcGIS Pro, but now we can use the proper name for them, right?
+>
+> **[1:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=87)** They are methods of a string object.
+>
+> **[1:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=91)** These functions are really useful when you read some data in from an attribute table, or you get some user input and you need to fix it up a little bit by making a few modifications to the string.
+>
+> **[1:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=101)** So where are string functions used in a script?
+>
+> **[1:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=104)** When you need to fix the input that someone gives you at runtime, maybe like to use the replace method to make it so that we don't have to test all upper and lowercase spellings of something.
+>
+> **[1:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=115)** There's an uppercase function and a lowercase function.
+>
+> **[1:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=118)** To see if a string that was entered will fit into an attribute table.
+>
+> **[2:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=122)** You might use the len function.
+>
+> **[2:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=125)** This one's a function rather than a method, so you don't put it after the dot of the string.
+>
+> **[2:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=130)** You actually put the string name inside the parentheses of the function.
+>
+> **[2:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=134)** So let's see how that looks.
+>
+> **[2:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=136)** So if I wanted to find out how many characters are in my string RockType variable, I could just print the length of strRockType.
+>
+> **[2:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=147)** So I have a set of parentheses for the print statements parameters, and to the print statement, I'm passing the length of the strRockType, so I have another set of parentheses for the length function.
+>
+> **[2:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=159)** It's nine characters.
+>
+> **[2:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=161)** So I might use this to see if whatever the user entered at runtime is actually going to fit into my attribute field.
+>
+> **[2:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=168)** The script can say, oh, hey, that rock type you just gave me, it's too long to fit in this attribute field.
+>
+> **[2:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=173)** Let's try again.
+>
+> **[2:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=174)** Calculations and concatenations can be done inside the parameters parentheses.
+>
+> **[3:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=180)** For example, I can change this a little bit to say print the length of Rock Type plus the strRockType variable.
+>
+> **[3:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=192)** And so that gives me 19 characters.
+>
+> **[3:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=194)** Another really useful method besides the replace is the split method.
+>
+> **[3:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=200)** The split method splits a string based on some separator.
+>
+> **[3:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=205)** The separator is passed in as a part of the arguments.
+>
+> **[3:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=208)** For example, suppose a script is needed that asks the user to enter a latitude and longitude coordinate, and the user enters both numbers at one time.
+>
+> **[3:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=218)** The value can be split apart into its components.
+>
+> **[3:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=222)** So let me show you what I mean.
+>
+> **[3:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=223)** I'm going to create a variable called strLonLat that's equal to a longitude and latitude value in quotes.
+>
+> **[3:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=233)** So there we have a variable called strLonLat.
+>
+> **[3:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=236)** It's got a longitude, a comma, and then a latitude.
+>
+> **[3:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=239)** So I'm going to split this out by defining two variables, strLon and srLat.
+>
+> **[4:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=247)** Remember when we talked about variables, we saw that we could define two variables on a single line if we like.
+>
+> **[4:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=254)** I'm going to set it equal to that strLonLat variable, but I'm going to dot split it.
+>
+> **[4:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=260)** So all I have to do is pass it the character that the string is going to be split on, and that needs to be quoted, so I put quote comma quote, so that'll pull off everything before the comma and put it in the strLon variable, and everything after the comma and put it in the strLat variable.
+>
+> **[4:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=279)** So we can test this worked by saying print Lat and the Lat variable, and then print Lon, longitude, and the longitude variable.
+>
+> **[4:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=290)** So there's a little something tricky here, the two variables at the same time, but we've talked about that already.
+>
+> **[4:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=296)** And so you see it pulls off the latitude and the longitude into their own individual variables.
+>
+> **[5:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=300)** Splitting a string is really useful if you need to read data in from a comma delimited text file, because you can immediately split it up into its individual elements just using a simple split.
+>
+> **[5:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=312)** Take a minute to try this out on your own.
+>
+> **[5:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=314)** See if you can write code that will change a file name from .csv to .txt.
+>
+> **[5:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=320)** It's not really going to change a file, it's just going to change a string that holds a filename.
+>
+> **[5:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=326)** You can write this code in any new notebook in any one of your ArcGIS projects.
+>
+> **[5:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=331)** It doesn't matter. I've given you some starter code.
+>
+> **[5:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=334)** You just have to figure out what goes in the position where all those question marks are.
+>
+> **[5:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=338)** So pause the video and give it a try.
+>
+> **[5:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=340)** So in this video, you saw how to use string methods to do a search and replace on a portion of a string.
+>
+> **[5:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=350)** You also saw how to find the length of a string and split a string into parts so that you can get to the individual components.
+>
+> **[5:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/string-methods-and-functions?u=76281980&t=358)** Remember, there's over 40 string functions and methods, so check out the online Python help documents to find out about all of the different string methods and functions.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** function (6), let (4), pass (1), from . (1), try. (1)
+> **Code Identifiers:** strrocktype (5), strlonlat (3), strlon (2), srlat (1), strlat (1)
+> **CLI Commands:** python (3), find (3), make (1)
+> **Analogies:** for example (3)
+> **Cross-References:** we talked about (1)
+> **Exercise Files:** starter code (1)
+> **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
+
+
+### 3. Getting to ArcGIS with Python
+
+#### Object-oriented programming (OOP) overview
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=0)** - [Instructor] Python is an object-oriented scripting language.
+>
+> **[0:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=3)** We need to really understand what that means.
+>
+> **[0:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=6)** Object-oriented scripting makes it easy to access the building blocks of a GIS, because everything in the GIS world is defined by certain classes, or types, of objects, such as geodatabases and maps.
+>
+> **[0:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=21)** We can write code to connect to these objects without having to understand the binary code that makes up the object itself.
+>
+> **[0:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=27)** So we can say, for example, "Hey project, how many maps do you have?"
+>
+> **[0:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=32)** Or, "Hey layer, what's that definition query someone built on you?"
+>
+> **[0:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=37)** Each type of object, project, layer, layout, et cetera, has a set of characteristics or properties.
+>
+> **[0:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=46)** The properties can be read with a print statement.
+>
+> **[0:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=49)** For example, I can say print (myMap.name).
+>
+> **[0:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=56)** So myMap is the object that connects to the map, and name is a property.
+>
+> **[1:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=63)** Of course, this is not going to work right now because I have not yet told Python how to create that myMap object.
+>
+> **[1:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=69)** So don't try this out.
+>
+> **[1:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=71)** Some of the properties can be changed with a simple assignment statement.
+>
+> **[1:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=75)** So just the way you can say x=3, you can also say myMap.name = something different.
+>
+> **[1:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=83)** And that actually changes the name of the map in the project, right?
+>
+> **[1:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=88)** So you can reset these values just like resetting a variable.
+>
+> **[1:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=93)** Each type of object also has methods.
+>
+> **[1:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=96)** Methods are things that the object knows how to do or things that you can do to the object.
+>
+> **[1:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=103)** To work with Python and ArcPy objects, you just have to know what kind of object it is and what properties and methods that class of objects supports.
+>
+> **[1:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=112)** Let's think of something in the real world that we can describe as an object.
+>
+> **[1:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=116)** Let's say I tell you that there is a class of things called phones.
+>
+> **[2:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=121)** Phones have properties and methods.
+>
+> **[2:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=124)** They all have some common properties, like a screen size, for example.
+>
+> **[2:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=128)** They also have methods.
+>
+> **[2:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=130)** Their on button can be pressed.
+>
+> **[2:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=132)** Now think of a single phone.
+>
+> **[2:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=134)** A single phone is an object of the class phones.
+>
+> **[2:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=138)** It has properties.
+>
+> **[2:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=139)** How big is the screen?
+>
+> **[2:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=141)** Who manufactured it?
+>
+> **[2:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=143)** What's the color of the case that it's in?
+>
+> **[2:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=145)** You can read the screen size, or you can change the color of the case by changing the case.
+>
+> **[2:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=151)** The phone also has methods.
+>
+> **[2:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=153)** Methods are actions that make something happen, like turn on the phone, or open the Maps app, or turn up the volume.
+>
+> **[2:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=163)** Methods may take parameters, and they may return a value.
+>
+> **[2:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=167)** The Turn On() method will return a false value if the phone is broken and won't turn on.
+>
+> **[2:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=174)** A Turn Up the Volume() method might take a parameter that indicates how much you want to turn it up.
+>
+> **[2:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=179)** And it might return a value that shows you the new volume level.
+>
+> **[3:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=184)** So let's talk about this with actual ArcGIS objects.
+>
+> **[3:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=187)** One type of object that ArcPy provides is the project class of objects.
+>
+> **[3:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=193)** When you access a single project, you're accessing a project object, which has properties and methods.
+>
+> **[3:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=202)** We looked at the help for the project class earlier in this course.
+>
+> **[3:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=205)** You might want to pause the video and open the help documentation for the project object so you can look through it as we discuss the project properties and methods.
+>
+> **[3:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=216)** This is the ArcGISProject object help documentation.
+>
+> **[3:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=221)** Remember, you can scroll down, and you'll find a list of the properties and the methods supported by this object.
+>
+> **[3:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=231)** All project objects have similar properties.
+>
+> **[3:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=234)** For example, each project object has a dateSaved property.
+>
+> **[4:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=240)** To find out when a project was last saved, print the dateSaved property.
+>
+> **[4:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=246)** To change the default geodatabase for a project, update the Default Geodatabase property by assigning it a new value.
+>
+> **[4:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=254)** Each class of object also has methods.
+>
+> **[4:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=256)** For example, a project object has an importDocument() method which can be used to import map files or even old MXD files from ArcMap.
+>
+> **[4:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=267)** The trick with learning to write Python scripts for GIS is learning the object classes and getting familiar with the properties and methods supported by each object class.
+>
+> **[4:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=276)** And you have to pay close attention to the way the property and method names are cased.
+>
+> **[4:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=281)** Noticed these are all camel cased, where the first letter is lowercase, and then uppercase letters are used at the beginning of each other word.
+>
+> **[4:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=289)** If you have time, take a minute to explore the object help for some of the objects you're familiar with in ArcGIS Pro.
+>
+> **[4:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=297)** In the ArcGIS Pro documentation, you can find a full list of all the supported ArcPy classes.
+>
+> **[5:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=304)** Now you have an idea what objects are and how you get to the properties of an object, like the date the project was last saved.
+>
+> **[5:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=312)** You saw how some of those properties can be changed and where to find help on the classes of objects available for working with ArcGIS Pro.
+>
+> **[5:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=320)** You also saw that objects have methods, and methods allow you to do something to an object or allow the object to do something.
+>
+> **[5:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=328)** With Python, you get some object classes built into the core, but you get additional class types by importing additional libraries.
+>
+> **[5:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=336)** That's how we get to the GIS objects.
+>
+> **[5:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980&t=339)** Let's see how that works.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (5), find (4), make (1)
+> **Code Identifiers:** mymap (4), datesaved (2), importdocument (1)
+> **Analogies:** for example (5), such as (1), just like (1)
+> **Code Keywords:** let (4), case. (1), class. (1)
+> **Env Vars:** gis (4), mxd (1)
+> **UI Navigation:** open the (2), scroll down (1)
+> **Definitions:** is a  (2), is an  (1)
+> **Speakers:** - [instructor] (1)
+
+#### Incorporating Python libraries in a script
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=0)** - [Instructor] One of the things that makes Python so powerful is that, being an open source language, developers all over the world have written libraries that provide special classes, functions, and other capabilities to people who are scripting with the language.
+>
+> **[0:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=16)** They're kind of like expansion packs for Python, to use a term from card games, or extensions to Python, to use a term we're familiar with in ArcGIS.
+>
+> **[0:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=26)** The concept of Python libraries was briefly introduced earlier in this course.
+>
+> **[0:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=30)** Let's look at them in a little more detail.
+>
+> **[0:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=33)** Libraries, also called packages, are usually geared toward one particular data type or software or even an industry.
+>
+> **[0:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=42)** For example, there's a sys module that makes it possible to access your operating system files and their properties, and there's a PyHealth library for use in healthcare applications.
+>
+> **[0:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=54)** There are some Python packages that get installed with ArcGIS Pro that are not specifically GIS related, but are still commonly used.
+>
+> **[1:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=63)** For example, there's a string library for working with text strings like changing the case, doing a search, or doing a search and replace on a string.
+>
+> **[1:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=74)** So these are things above and beyond what Python's core module can do with strings.
+>
+> **[1:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=79)** There's a datetime library for getting, for example, the current date and time from your computer, or calculating the difference between two dates.
+>
+> **[1:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=88)** There is an os and a sys library, both of which give you access to the operating system commands.
+>
+> **[1:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=94)** For example, there's one called os.walk, which walks recursively through a folder structure, and there's one called sys.getwindowsversion that gets your current operating system version.
+>
+> **[1:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=107)** There are many others.
+>
+> **[1:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=109)** When you have time, just do a web search for Python modules to get an idea how many are out there.
+>
+> **[1:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=115)** You may remember from earlier in the course that you can see which Python libraries are installed with Pro by going to Project, Package Manager in Pro.
+>
+> **[2:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=128)** So there are libraries that come with Python.
+>
+> **[2:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=130)** These are open source, no licenses required to use them.
+>
+> **[2:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=134)** And then Esri has written two libraries for accessing ArcGIS data and software and services.
+>
+> **[2:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=141)** ArcPy is the library that gets you to ArcGIS Pro projects, as well as any desktop data, meaning geo databases, shape files, rasters, as well as web services.
+>
+> **[2:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=154)** ArcGIS API for Python gets you access to the whole ArcGIS online mapping world, really including ArcGIS Online or Portal for ArcGIS, and any custom web mapping applications.
+>
+> **[2:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=168)** ArcPy comes with ArcGIS Pro.
+>
+> **[2:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=171)** You can use it with just a basic license level of Pro.
+>
+> **[2:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=174)** ArcGIS API for Python also comes with ArcGIS Pro as well as with ArcGIS Enterprise and with AGOL accounts.
+>
+> **[3:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=184)** There are many other geospatial libraries available.
+>
+> **[3:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=187)** You can just do an internet search for Python geospatial libraries and you'll find lots of lists of people's favorites.
+>
+> **[3:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=196)** There are also many that are not strictly for geospatial analysis, but are still very useful for GIS work, including Pandas for data analysis, Pillow for image processing, Beautiful Soup for scraping information from web pages.
+>
+> **[3:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=211)** By the way, Pandas and Pillow are included in the ArcGIS Pro install.
+>
+> **[3:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=216)** The first thing to do in order to get to the functionality in one of these libraries is to import that library into your script.
+>
+> **[3:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=224)** So every script that wants to use ArcPy needs to have a line in it that says import arcpy.
+>
+> **[3:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=232)** And if I want to get to the web-based stuff, I need to import arcgis.
+>
+> **[3:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=237)** So those are the two ArcGIS libraries.
+>
+> **[4:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=240)** All of the modules can be imported separately on individual lines like I just did, or they can be imported all at once on one line.
+>
+> **[4:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=250)** It works either way.
+>
+> **[4:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=251)** Libraries are usually imported right at the top of the script.
+>
+> **[4:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=255)** Technically, they don't actually have to be imported at the top as long as the library's imported before the objects, methods, and properties from that library are used in the script.
+>
+> **[4:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=265)** But in most scripts, you'll see the modules imported right at the top, right after the comment block.
+>
+> **[4:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=271)** It's really important to get comfortable reading the documentation for ArcPy and ArcGIS.
+>
+> **[4:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=277)** This is how you're going to really learn to use those libraries.
+>
+> **[4:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=281)** In this video, we saw that Python libraries expand the functionality of the language.
+>
+> **[4:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=286)** Many libraries are included with ArcGIS Pro, some of which are open source and not specific to GIS, but still really useful.
+>
+> **[4:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=294)** The two Esri libraries are ArcPy and the ArcGIS API for Python.
+>
+> **[5:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=300)** To use those libraries, you import them right at the top of your script.
+>
+> **[5:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/incorporating-python-libraries-in-a-script?u=76281980&t=304)** So let's go see how to use ArcPy.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (14), find (1)
+> **Env Vars:** gis (3), api (3), agol (1)
+> **Code Keywords:** let (2), module (2), case, (1)
+> **Analogies:** for example (4), kind of like (1)
+> **Cross-References:** earlier in (2)
+> **Prerequisites:** required to (1), install (1)
+> **Documentation:** the documentation (1)
+> **Definitions:** is an  (1)
+
+#### The ArcPy library
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=0)** - [Instructor] In this video, we'll dig into the ArcPy module and see how to create Python scripts that access ArcGIS Pro projects and GIS datasets.
+>
+> **[0:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=10)** The ArcPy module gives a script access to ArcGIS Pro projects, maps, data, and geo processing tools via a set of submodules, classes, and methods.
+>
+> **[0:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=25)** So ArcPy is a Python scripting library.
+>
+> **[0:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=28)** Again, it's a collection of modules, functions, and object classes.
+>
+> **[0:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=33)** It requires a license, which you get with ArcGIS Pro.
+>
+> **[0:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=37)** It gives access to ArcGIS functionality with Python, including running geo processing tools from scripts, working with projects, maps layouts, geo databases, and even accessing layers and their properties.
+>
+> **[0:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=52)** ArcPy must be imported into each script.
+>
+> **[0:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=56)** The ArcPy library, as I said, is a collection of modules.
+>
+> **[1:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=61)** arcpy.mp is the primary one for accessing the projects, and that's the one we're going to be using in this course.
+>
+> **[1:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=70)** It includes class definitions for projects and maps and layers and spatial references, and all the other building blocks of ArcGIS Pro.
+>
+> **[1:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=78)** There's also a data access module, which includes ways to get at individual features in a feature class and records in a table.
+>
+> **[1:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=87)** We would use the data access module to get to the coordinates behind the line, for example.
+>
+> **[1:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=93)** And there's an ENV module.
+>
+> **[1:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=96)** The environment module gives the script access to ArcGIS Pro environment variables, such as the current workspace and the output spatial reference.
+>
+> **[1:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=105)** There are several other modules included with ArcPy.
+>
+> **[1:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=109)** You can find them in the ArcGIS Pro help.
+>
+> **[1:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=112)** It's a really good idea to just take some time, go out and have a look at those modules that are included with ArcPy.
+>
+> **[2:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=121)** Some of these modules are available with a basic license of ArcGIS Pro, while some of them require an ArcGIS Pro extension.
+>
+> **[2:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=130)** For example, the spatial analyst module requires that the person running the script has a license to use the spatial analyst extension of ArcGIS Pro.
+>
+> **[2:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=141)** So it's not just the creator of the script who needs the license, but anyone who's going to run that script will also need that license.
+>
+> **[2:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=149)** Let's look at just one of the modules briefly, the mapping module, arcpy.mp.
+>
+> **[2:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=155)** This is the core module for working with those Pro projects and the GIS data.
+>
+> **[2:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=159)** Again, it's available automatically with all licensed levels of Pro.
+>
+> **[2:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=163)** Some of the capabilities that we get with a mapping module include like listing layers in a map, and finding broken links in a map, exporting layouts to PDF, making changes to the table of contents in a map, modifying a layer's symbology, and even publishing services to ArcGIS Online and Portal.
+>
+> **[3:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=184)** The key to all this is remembering about objects, properties, methods, and functions.
+>
+> **[3:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=189)** For example, to work with a project, you access the properties and call the methods of the project object.
+>
+> **[3:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=196)** And as you're working with these objects and their properties and the results of methods, you store these things in variables, numeric, string, date, and object variables.
+>
+> **[3:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=206)** So everything we've learned so far is essential for working with ArcPy.
+>
+> **[3:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=211)** In this video, we learned that the ArcPy Library is made up of several modules that let you access components of ArcGIS.
+>
+> **[3:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=219)** The .mp module is the one that lets you work with those Pro projects.
+>
+> **[3:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=223)** That's the one we're going to be using throughout this course.
+>
+> **[3:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcpy-library?u=76281980&t=227)** Now let's see an example of a script that uses the MP module.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** module (12), let (3), require (1)
+> **CLI Commands:** python (3), find (1)
+> **Env Vars:** gis (2), env (1), pdf (1)
+> **Analogies:** for example (3), such as (1)
+> **Definitions:** is a  (2)
+> **Speakers:** - [instructor] (1)
+
+#### Writing a script that uses ArcPy
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=0)** - [Instructor] Let's see how to write a script that uses this arcpy.mp module.
+>
+> **[0:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=4)** First, we'll write a script to access an ArcGIS Pro project, and then we'll add to it to get one of the maps in the project and look at its properties.
+>
+> **[0:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=14)** To get to a project, you have to create the project object.
+>
+> **[0:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=19)** It starts like this.
+>
+> **[0:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=20)** The ArcPy site package has an mp module, and the mp module has an ArcGISProject method.
+>
+> **[0:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=30)** The method takes the fully qualified filename of the project as input.
+>
+> **[0:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=37)** The ArcGISProject method creates the project object, which you need to grab hold of in a variable.
+>
+> **[0:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=44)** So you import ArcPy and then use arcpy.mp.ArcGISProject to create the object.
+>
+> **[0:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=53)** So this object, again, it's an open connection to the project, so now you can get to everything in that project and you store that object as a variable.
+>
+> **[1:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=62)** For the rest of the script, instead of referring to the project by its actual name, you refer to it by its object name, that variable that you created.
+>
+> **[1:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=72)** The project name is just a text string, so it needs to be quoted.
+>
+> **[1:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=77)** Also, notice the little r I put before the first double quotes.
+>
+> **[1:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=81)** This ensures that the string will be read as plaintext and no special strings like \n will be interpreted.
+>
+> **[1:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=88)** Remember we talked about that in an earlier video.
+>
+> **[1:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=91)** Many times, you'll see the project name is stored in a variable and the variable is used like this, strProjName equals, and then the string of the project name.
+>
+> **[1:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=105)** So now when you say arcpy.mp.ArcGISProject, you just have to put the variable name inside the parentheses.
+>
+> **[1:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=113)** Let me show you how this looks in a script.
+>
+> **[1:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=115)** So I'm in a brand new notebook here, and the very first thing I have to do is import ArcPy.
+>
+> **[2:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=122)** Notice the import is lowercase, the arcpy is lowercase.
+>
+> **[2:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=126)** Now I'll create a string variable to hold the name of the ArcGISProject file that I want to work on, and I'll call it strProjName.
+>
+> **[2:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=136)** I'm going to paste the path in here.
+>
+> **[2:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=139)** So now I've created the variable.
+>
+> **[2:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=142)** Now I have to actually instantiate or create the object, right?
+>
+> **[2:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=146)** So I'm going to say aprx, that's a new variable that's getting created here.
+>
+> **[2:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=151)** I'm just calling it aprx.
+>
+> **[2:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=153)** It's a very common thing to name objects, object variables, with just a couple of letters, three or four letters in all lowercase.
+>
+> **[2:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=162)** You'll see that a lot in the Python scripts.
+>
+> **[2:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=165)** I'm going to say aprx equal arcpy.mp.ArcGISProject.
+>
+> **[2:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=172)** And inside the parentheses for the ArcGISProject method, the parameter is what project do you want to work on.
+>
+> **[3:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=180)** So instead of using that long path that I typed out earlier, I'll just put the string variable name in here.
+>
+> **[3:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=187)** Now I'll run it to create that object.
+>
+> **[3:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=190)** Once it's created here in memory, I can work on that object throughout the rest of my notebook just by referring to the aprx variable rather than having to refer to this project by its entire name.
+>
+> **[3:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=204)** So once the script has access to the project, it can get to any map in the project and to the map's properties and methods.
+>
+> **[3:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=212)** Remember, you can see all the methods and properties in the ArcGIS help.
+>
+> **[3:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=217)** Here are some of the properties and methods for the project, like the name of the activeMap or the activeView or the dateSaved.
+>
+> **[3:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=226)** Some of the methods are things like create a map, list broken data sources, or list layouts.
+>
+> **[3:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=232)** I'll edit my script to use some of these properties and methods.
+>
+> **[3:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=236)** First, I'll print the home folder of the project and the date when it was last saved.
+>
+> **[4:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=243)** So I'm printing aprx dot, aprx is the project object, dot home folder, and then a \n, remember that's going to put a new line in there.
+>
+> **[4:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=255)** And then aprx.dateSaved.
+>
+> **[4:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=258)** Don't need those quotes in there.
+>
+> **[4:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=260)** So two properties of the aprx project.
+>
+> **[4:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=264)** So you can see the file path at the top, and then the date saved at the bottom.
+>
+> **[4:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=269)** So there you go.
+>
+> **[4:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=270)** There's a tiny little script that lets you use the ArcPy module to get access to an ArcGIS Pro Project and grab some of that project's properties.
+>
+> **[4:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=280)** So in this video, we learned to write a script to access an ArcGIS Pro Project.
+>
+> **[4:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=285)** First you import ArcPy, then you instantiate the project object using arcpy.mp.ArcGISProject.
+>
+> **[4:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/writing-a-script-that-uses-arcpy?u=76281980&t=294)** Once you have the project object, then you have an open connection to the project and you can get to its properties and its methods.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** module (4), let (2), this. (1), this, (1)
+> **Code Identifiers:** strprojname (2), datesaved (2), activemap (1), activeview (1)
+> **CLI Commands:** python (1)
+> **Cross-References:** we talked about (1)
+> **Speakers:** - [instructor] (1)
+
+#### ArcPy objects, properties, and methods
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=0)** - [Instructor] Let's look a little closer at some of the properties returned from the project object.
+>
+> **[0:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=5)** I'm going to use the same script that I created in the last video and build on it.
+>
+> **[0:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=10)** The script imports arcpy, and then creates a project object, which I captured in the variable called aprx.
+>
+> **[0:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=19)** Now, suppose you want to print the name of a map that was active when the project was last saved.
+>
+> **[0:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=24)** There is a .activeMap property, but when we try to print it, we get a weird result.
+>
+> **[0:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=31)** That's definitely not the name of a map.
+>
+> **[0:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=34)** Let's look at the ArcPy help documentation and see if we can figure out what went wrong.
+>
+> **[0:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=39)** Remember when we were first learning about objects, we said it's important to know what kind of value is returned by a property.
+>
+> **[0:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=47)** Well, the help shows us here that the returned value of the activeMap property is not the name of the map as a string, it's a map object.
+>
+> **[0:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=59)** We can't print a map object.
+>
+> **[1:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=61)** But if we click through here to the map object help documentation, we see that the map object has a property called name.
+>
+> **[1:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=71)** So we can get to the name of the active map using this name.property.
+>
+> **[1:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=76)** The syntax is project object.activeMap method.name property.
+>
+> **[1:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=84)** So show me the name of the active map that's in the project.
+>
+> **[1:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=87)** So the code should look like this.
+>
+> **[1:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=89)** Instead of print aprx.activeMap, it'll be print aprx.activeMap.Name.
+>
+> **[1:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=97)** So show me the name of the active map that's in the project.
+>
+> **[1:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=101)** When I try to run it, oh, I get an error message.
+>
+> **[1:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=104)** That's because I didn't pay close attention to the way that that property is spelled.
+>
+> **[1:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=108)** It's spelled with a lowercase N, not an uppercase N.
+>
+> **[1:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=111)** So you have to check that carefully in the help.
+>
+> **[1:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=114)** So again, the map is actually an object itself and it has a name property.
+>
+> **[2:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=120)** So the aprx.activeMap method returns a map object, and we get to its name property.
+>
+> **[2:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=127)** In this video, I showed you how to use the arcpy project object.
+>
+> **[2:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=131)** Working with objects is one way to manipulate GIS projects and data.
+>
+> **[2:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=136)** But don't forget, you also have access to all of the ArcGIS geo-processing tools and all of the operating system commands for manipulating data.
+>
+> **[2:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=145)** So if you can't find a property or a method to do what you want, take a look at the tools in ArcGIS Pro and the objects and methods in the Python library.
+>
+> **[2:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/arcpy-objects-properties-and-methods?u=76281980&t=154)** Let's go see how to run geo-processing tools from our scripts now.
+
+> [!info]- Semantic Content
+>
+> **Code Identifiers:** activemap (6)
+> **Code Keywords:** let (3), this. (1)
+> **CLI Commands:** find (1), python (1)
+> **Env Vars:** gis (1)
+> **Cross-References:** in the last (1)
+> **Best Practices:** don't forget (1)
+> **Speakers:** - [instructor] (1)
+
+#### Geoprocessing with Python and ArcPy
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=0)** - [Instructor] This video assumes you're already comfortable with running tools in ArcGIS Pro.
+>
+> **[0:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=4)** If you're not familiar with the incredibly powerful tools that come as a part of ArcGIS Pro's toolbox, you might want to learn more about 'em after watching this video.
+>
+> **[0:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=14)** Let's see how to run geoprocessing tools with Python code.
+>
+> **[0:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=18)** First, a reminder about geoprocessing tools.
+>
+> **[0:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=21)** ArcGIS Pro comes with hundreds of geoprocessing tools just with the basic ArcGIS Pro license.
+>
+> **[0:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=27)** With higher license levels and extensions, hundreds more are included.
+>
+> **[0:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=32)** You can find all of these tools here in Toolbox.
+>
+> **[0:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=35)** If you find a tool you're interested in and you right click on it, you can open the Help documentation.
+>
+> **[0:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=43)** If you scroll all the way down to the bottom of the Help documentation, you can see what parameters can be passed to the tool.
+>
+> **[0:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=51)** These are what you'd put in the input boxes if you ran the tool manually from the Toolbox.
+>
+> **[0:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=59)** So if I run the Buffer tool, these are the parameters.
+>
+> **[1:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=64)** Each one of these input boxes is a place for a user to enter input when they run the tool.
+>
+> **[1:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=70)** And each one can be populated with your script.
+>
+> **[1:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=75)** See back in the Help.
+>
+> **[1:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=77)** All of those parameters are listed out with a nice explanation.
+>
+> **[1:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=81)** And right up here at the top of the parameters list is a Python tab.
+>
+> **[1:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=86)** If you click the Python tab, you'll see the syntax for how you should type this tool and enter its parameters in Python code.
+>
+> **[1:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=93)** These curly braces indicate that the parameter is optional, all others are required.
+>
+> **[1:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=99)** Let me show you how you would run the Buffer tool through Python code.
+>
+> **[1:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=103)** I'm going to write the code to buffer the railroads on my map by 500 feet.
+>
+> **[1:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=109)** I'll close up the geoprocessing tool and I'll open a new notebook.
+>
+> **[1:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=115)** If you want to follow along, you can open this project package that I've provided to you.
+>
+> **[2:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=120)** First, I'll define a variable to hold the name of the file I want to work on.
+>
+> **[2:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=125)** This isn't required, but it makes the script easier to read.
+>
+> **[2:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=130)** I'm going to paste the path in here.
+>
+> **[2:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=132)** This is the path on my computer.
+>
+> **[2:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=134)** It's going to be different on your computer.
+>
+> **[2:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=136)** It'll depend on where you unpacked this project.
+>
+> **[2:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=139)** So, you need to go figure out where the railroads feature class is in your network.
+>
+> **[2:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=144)** So, this is a string variable holding the name of the feature class I want to work on.
+>
+> **[2:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=149)** I'll make a second variable to hold the output file name that I want to create.
+>
+> **[2:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=154)** I'll call this string, out feature class.
+>
+> **[2:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=158)** I'm going to set it equal to the same path, but I'm going to call it RailroadsBuffer as the output name.
+>
+> **[2:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=167)** Again, where you put this will depend on where you unpacked your package.
+>
+> **[2:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=172)** Now we need just one more line to run the buffer.
+>
+> **[2:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=175)** Let's check the Help to make sure we have the syntax right.
+>
+> **[2:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=179)** arcpy.analysis.Buffer, then we need an input feature class and an output feature class and a buffer distance.
+>
+> **[3:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=188)** Those are the only three required parameters.
+>
+> **[3:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=192)** I could put others, but I'm just going to put the three required for now.
+>
+> **[3:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=196)** So, arcpy.analysis.Buffer, the B is uppercase.
+>
+> **[3:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=202)** We saw that in the Help.
+>
+> **[3:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=204)** strFC, that's my input feature class.
+>
+> **[3:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=207)** strOutFC, that's my output feature class.
+>
+> **[3:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=211)** And 500 is my buffer distance.
+>
+> **[3:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=214)** I'm using a distance of 500 feet.
+>
+> **[3:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=216)** Of course, it assumes feet because my map is in US feet.
+>
+> **[3:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=220)** When calling a geoprocessing tool from a Python script, it's always toolboxname.toolname.
+>
+> **[3:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=228)** So, analysis.Buffer, not just buffer.
+>
+> **[3:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=231)** And inside the parentheses are all the parameters needed to run the tool.
+>
+> **[3:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=236)** I'll run the code so you can see that it works.
+>
+> **[3:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=239)** So, you may have noticed in my table of contents, I now have a RailroadsBuffer layer.
+>
+> **[4:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=246)** And if I look back at my map, I have the 500-foot buffer created around the railroads.
+>
+> **[4:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=252)** By the way, the parameters that you type into your script need to be in the exact order in which they're expected and as shown in the Help documentation.
+>
+> **[4:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=264)** I'll show you another way to handle parameters later in the course, but for now, make sure you keep 'em in the exact order.
+>
+> **[4:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=271)** Of course, this gets much more interesting when we start replacing these hardcoded values, like the feature class name or the buffer distance with variables that can change each time the script is run.
+>
+> **[4:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=282)** And we can even let the script discover the feature class name.
+>
+> **[4:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=285)** Something like, "Hey, whatever point feature class is on the active map, buffer that."
+>
+> **[4:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=290)** So in this video, we learned that all geoprocessing tools can be called from Python code.
+>
+> **[4:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=296)** That includes system tools that come with the software, models, custom Python tools, and even geo processing services.
+>
+> **[5:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=304)** You just have to be careful to get the parameters in there in the right order and with the right syntax.
+>
+> **[5:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=310)** If you're really new to scripting, you might want to look into ArcGIS Pro's Model Builder.
+>
+> **[5:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=314)** Model Builder is a graphical scripting tool that lets you create simple scripts by linking tools and data sets together in a graphic canvas.
+>
+> **[5:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=323)** The models can then be exported as Python scripts.
+>
+> **[5:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=326)** So, it gives you a good starting point for your scripts.
+>
+> **[5:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/geoprocessing-with-python-and-arcpy?u=76281980&t=329)** Let's go see how to use Model Builder to get a jumpstart on writing your scripts.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (9), make (3), find (2)
+> **Code Keywords:** let (5), class. (3)
+> **Definitions:** is a  (4)
+> **Code Identifiers:** strfc (1), stroutfc (1)
+> **UI Navigation:** click on (1), open the (1)
+> **Cross-References:** later in (1)
+> **Warnings:** be careful (1)
+> **Speakers:** - [instructor] (1)
+
+#### Model builder for jump-starting your script
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=0)** - [Instructor] Model Builder is a visual programming language built into ArcGIS Pro.
+>
+> **[0:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=4)** It lets you string together tools and datasets to create workflows without scripting.
+>
+> **[0:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=10)** Then, these models built graphically can be exported to a Python script to give you a starting point for your code.
+>
+> **[0:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=17)** Now, learning Model Builder is outside the scope of this course, but I'm going to build a model really quick to show you how easy it is, and then I'll export that model to Python.
+>
+> **[0:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=28)** I'm going to create a model that buffers these gasoline storage tanks.
+>
+> **[0:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=32)** If you want to follow along, you can open the Python Practice Project Package that I've provided in the exercise files.
+>
+> **[0:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=41)** I'll open Model Builder and I'll drop in these tanks.
+>
+> **[0:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=46)** That's the feature class I'm going to work on.
+>
+> **[0:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=49)** Then, I'll go find the Select by Attributes tool.
+>
+> **[0:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=55)** It's actually called Select Layer by Attribute, and I'll drag that into the model.
+>
+> **[1:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=61)** And then I take the tank's feature class and drag it as input into the Select Layer by Attribute as the input rows.
+>
+> **[1:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=69)** The next thing I need to do is to set the parameters for the Select Layer by Attribute tool.
+>
+> **[1:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=75)** So, I'll double click on it to build my query.
+>
+> **[1:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=78)** So, I wanted to select all of the tanks where the type has something to do with gasoline.
+>
+> **[1:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=85)** So I'm going to use the type, "contains the text" gas, and that's my SQL query.
+>
+> **[1:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=93)** All right, so now I've set up the Select Layer by Attributes.
+>
+> **[1:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=95)** Now, I'm going to go get the buffer tool.
+>
+> **[1:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=99)** I can search for it and I'll drag it in.
+>
+> **[1:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=104)** And then, I have to take the output of the Select Layer by Attributes and drag it into buffer as input.
+>
+> **[1:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=111)** So, Select Layer by Attribute will select the gasoline tanks, and then just those selected tanks will be passed over to the buffer tool.
+>
+> **[1:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=119)** So, the next thing I need to do is set the parameters for the buffer tool.
+>
+> **[2:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=122)** So, all I need to do is give it a buffer distance.
+>
+> **[2:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=124)** I'm going to use 50 feet.
+>
+> **[2:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=127)** And now my model is ready to run.
+>
+> **[2:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=128)** Once you see that the model is colored in, that means the model has enough information to run.
+>
+> **[2:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=134)** You've set all of the required parameters.
+>
+> **[2:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=136)** I'll make sure this output dataset gets added to the map.
+>
+> **[2:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=141)** And I'll give the model a name.
+>
+> **[2:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=145)** Let's call it BufferGasTanks.
+>
+> **[2:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=151)** I'll run it so you can see that it works.
+>
+> **[2:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=156)** And then, you can see that the output layer got added to the Table of Contents.
+>
+> **[2:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=161)** And if I close the model, you can see the 50-foot buffers on the tanks.
+>
+> **[2:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=170)** So, that's how a Model Builder works.
+>
+> **[2:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=172)** So now I can go back to the model and export this as a Python script.
+>
+> **[2:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=177)** So, I'm going to open it back up again and I can go to the Export button here, and just export it directly to a Python file.
+>
+> **[3:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=188)** Or if I want to, I can send it to the Python window and that'll let you see what it looks like.
+>
+> **[3:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=194)** Then, I can copy it all and paste it into a new notebook.
+>
+> **[3:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=202)** And what's nice about these Python scripts exported from Model Builders, they come in with all the comments explaining exactly what's happening in the script.
+>
+> **[3:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=213)** Notice the syntax for passing the SQL statement?
+>
+> **[3:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=216)** It's in the Select Layer by Attribute line.
+>
+> **[3:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=221)** And if I scroll over a bit so you can see it.
+>
+> **[3:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=225)** See the where_clause there?
+>
+> **[3:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=227)** TYPE LIKE '%Gas%' and it's got the single quotes around the '%Gas%' that's being passed in the SQL.
+>
+> **[3:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=236)** But it's using double quotes around the outside, like we talked about earlier in the course to protect that clause.
+>
+> **[4:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=242)** Also, notice that these parameters are prefaced with the parameter name where_clause=.
+>
+> **[4:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=250)** We didn't do that earlier when we were running our buffer geoprocessing tool because I told you, you need to be careful to put the parameters in the correct order.
+>
+> **[4:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=260)** But if you want to specify the parameter name, parameter name = value, then you don't have to worry about the order in which you get them into the parentheses.
+>
+> **[4:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=270)** So, that's the other way to specify parameters.
+>
+> **[4:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=273)** If you've got a model already built somewhere at your office, try exporting it to a Python script and explore its content.
+>
+> **[4:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=280)** Try to pick out the geoprocessing tools and understand the parameters that are being passed to it.
+>
+> **[4:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=285)** So we learned in this video, all geoprocessing tools can be called from Python code.
+>
+> **[4:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=290)** You just have to be careful to get the parameters in there in the right order and with the right syntax.
+>
+> **[4:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=296)** Now, what we haven't done yet is really talk about the ArcGIS API for Python.
+>
+> **[5:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/model-builder-for-jump-starting-your-script?u=76281980&t=301)** So, let's go have a look at that.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (10), find (1), make (1)
+> **Env Vars:** sql (3), type (1), api (1)
+> **Code Keywords:** let (3), type, (1)
+> **UI Navigation:** open the (1), click on (1), select the (1), go to (1)
+> **Cross-References:** go back to (1), we talked about (1), earlier in (1)
+> **Code Identifiers:** where_clause (2)
+> **Warnings:** be careful (2)
+> **Exercise Files:** exercise files (1)
+
+#### The ArcGIS API for Python library: Getting to web GIS
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=0)** - [Instructor] This course focuses primarily on writing Python code to manage ArcGIS Pro projects and file-based GIS data.
+>
+> **[0:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=8)** But I wanted to make sure that I can get you started on the ArcGIS API for Python too, in case you work mostly with web GIS.
+>
+> **[0:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=15)** To get the full details of working with the ArcGIS API for Python, check out the ArcGIS for developer site.
+>
+> **[0:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=22)** There's a lot out there, but I just want to give you the basics to get you started.
+>
+> **[0:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=27)** For accessing ArcGIS with Python, we import ArcPy, but for web GIS, we import ArcGIS.
+>
+> **[0:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=35)** All ArcGIS API For Python code starts with instantiating or creating the GIS object.
+>
+> **[0:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=43)** The GIS object represents a connection to an online GIS, either an organizational ArcGIS online account or an enterprise ArcGIS portal.
+>
+> **[0:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=53)** The ArcGIS library has several modules, GIS mapping, widgets, geo analytics, but we're going to focus on the GIS module.
+>
+> **[1:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=62)** To connect a web GIS, you use the GIS method of the GIS module.
+>
+> **[1:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=68)** So let me show you how that looks in code.
+>
+> **[1:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=71)** First, I'm going to create a variable to hold my username.
+>
+> **[1:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=74)** I don't have to do this, but I think it makes the code a bit more clear.
+>
+> **[1:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=78)** And then I'm going to create a variable to hold my password, but I'm not going to type my password in there.
+>
+> **[1:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=85)** That wouldn't be very secure, would it?
+>
+> **[1:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=87)** So I'll skip that and come back to that in a minute.
+>
+> **[1:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=90)** Now I'm going to create the GIS object.
+>
+> **[1:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=92)** So the way you do that is you do ArcGIS.gis.GIS and then you put the name of the portal that you're trying to connect to.
+>
+> **[1:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=103)** Not the name, but the URL of the portal you're trying to connect to.
+>
+> **[1:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=106)** And for me, that's ArcGIS Online.
+>
+> **[1:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=108)** Every time you connect to a portal, you have to put in a username and a password.
+>
+> **[1:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=112)** So I'll put in my username variable and my password variable.
+>
+> **[1:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=117)** Now I've named my object variable, gis, all lowercase.
+>
+> **[2:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=121)** This gets confusing because there are so many gis's in here, but this is kind of the standard.
+>
+> **[2:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=126)** This is how you'll see it all over the place with these Python scripts accessing web mapping.
+>
+> **[2:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=132)** So what about that password?
+>
+> **[2:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=134)** We don't want to actually type the password into a script.
+>
+> **[2:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=137)** So what we can do is we can use a nice little Python library called Get Pass that provides a way to stop the script and prompt the user for a password.
+>
+> **[2:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=146)** I'll go back up here and import get pass.
+>
+> **[2:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=149)** It's installed with ArcGIS Pro, so it's not something else that you have to download.
+>
+> **[2:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=154)** Once I've imported get pass, then I can use the get pass method of the get pass module to get my password.
+>
+> **[2:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=164)** So instead of setting my password equal to some string, I'm going to set it equal to get pass .get pass, and instead of parentheses on the end because it's a method.
+>
+> **[2:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=177)** Okay, so that'll stop and ask me for my password.
+>
+> **[3:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=181)** To give me some verification that all this has worked and the connection is valid and my username and password are accepted, I'll print out some of the properties of that gis object.
+>
+> **[3:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=190)** So I'm going to print a little text string that says logged on as, and then I'll print the property, gis.properties.user.username So I know that's a lot of objects and properties in there, but you're going to have to check the developer help to find out what all the properties and methods are just like we had to check the help for all of the ArcPy objects and properties and methods.
+>
+> **[3:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=215)** So I'll run this just to make sure it works.
+>
+> **[3:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=218)** And you see that's stopped and it's waiting for me to enter my password.
+>
+> **[3:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=224)** Okay, so now we're connected to our web mapping portal.
+>
+> **[3:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=227)** Now the trick is to learn the objects we have to work with in the web mapping world and what their properties and methods are and how to get to the web services.
+>
+> **[3:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=236)** It's a little different from how we get to GIS files.
+>
+> **[3:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=238)** To get to a web service, you use the content property of the GIS object.
+>
+> **[4:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=244)** The content property is interesting.
+>
+> **[4:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=247)** Instead of just being a string or numeric value, it's actually an object itself.
+>
+> **[4:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=252)** It's called a helper object.
+>
+> **[4:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=254)** The GIS module has four helper objects: users, groups, content and data store.
+>
+> **[4:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=262)** All of these helper objects have methods to get, search and create.
+>
+> **[4:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=268)** So for example, to see a list of all the feature services in my AGOL account that contain the string "Belize", I would use gis.content.searchBelize.
+>
+> **[4:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=281)** Let's try that.
+>
+> **[4:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=283)** gis, that's my object, .content, that's my method, .search, that's the helper, Belize, that's the string I want to search for.
+>
+> **[4:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=294)** And when I run this little cell, it returns a list of all the items in my AGOL organization that I have access to that contain the string Belize.
+>
+> **[5:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=303)** I have access to things I own and things that have been shared with the groups I belong to.
+>
+> **[5:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=310)** If you want to visualize this content in ArcGIS notebooks, you can use a loop to see all of them.
+>
+> **[5:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=315)** We haven't gotten into loops yet, but we will a little bit later in the course.
+>
+> **[5:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=319)** So I'm just going to go ahead and preview it for you.
+>
+> **[5:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=321)** My loop is going to say for and item in gis.content.search Belize, do some stuff.
+>
+> **[5:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=333)** So it's going to loop through each one of those feature services that contains the string Belize.
+>
+> **[5:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=338)** And what it's going to do is simply display the item right here in ArcGIS notebooks.
+>
+> **[5:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=344)** Now again, this is just a whirlwind tour of the ArcGIS API for Python so I know we're not getting into all the details, but I want you to have the foundation.
+>
+> **[5:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=353)** And then you can spend time learning the objects and methods that you have to work with.
+>
+> **[5:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=358)** So there you can see each one of the data sets and a little preview of the dataset.
+>
+> **[6:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=364)** Now let's see how to make a map using some of this content from Belize.
+>
+> **[6:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=368)** First, we'll need to make a temporary map here in our notebook.
+>
+> **[6:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=371)** We do that using the map method of the GIS object and setting the output to a map object variable.
+>
+> **[6:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=379)** So I'll create a map object variable called my map.
+>
+> **[6:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=381)** I'll set it equal to gis.map and I'll name my map Belize map.
+>
+> **[6:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=387)** And then to display this map, you just give the name of the map itself.
+>
+> **[6:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=391)** So when you run the cell, you get a new map displayed right here in ArcGIS notebooks.
+>
+> **[6:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=397)** And it's focused on Belize.
+>
+> **[6:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=400)** We need to learn more about loops and also learn about conditional statements before we can do more with this web content in our notebook.
+>
+> **[6:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/the-arcgis-api-for-python-library-getting-to-web-gis?u=76281980&t=408)** So I'll stop here, but if you have time, be sure to explore the ArcGIS developer's help for more about using the ArcGIS library for accessing web gis.
+
+> [!info]- Semantic Content
+>
+> **Env Vars:** gis (17), api (4), agol (2), url (1)
+> **Code Keywords:** pass (7), module (4), let (3), this, (1), for. (1)
+> **CLI Commands:** python (8), make (4), find (1)
+> **Analogies:** just like (1), for example (1)
+> **Code Identifiers:** searchbelize (1)
+> **Cross-References:** later in (1)
+> **Speakers:** - [instructor] (1)
+
+
+### 4. Using List Functions to Get to the ArcGIS Objects
+
+#### Working with lists
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=0)** - [Instructor] Let's talk about variables again because we need to learn about holding a whole list of values in a variable.
+>
+> **[0:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=6)** Variables that hold a single value, like a string, a number, or an object, those are called scalar variables.
+>
+> **[0:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=13)** We've used those often in this course.
+>
+> **[0:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=17)** So I've created a variable called strLayerName, and I've set it equal to the string Kentucky Rivers.
+>
+> **[0:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=22)** And I can print that out. We've done that many times.
+>
+> **[0:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=24)** But there are many cases where a variable will hold a list of values, for example, a list of all the layer names in a map.
+>
+> **[0:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=33)** So I'm going to create a variable called strLayers, and I'm going to set it equal to a list.
+>
+> **[0:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=39)** So I've created the variable strLayers, I've set it equal to a list of pretend layer names, ["Kentucky Rivers","State Roads","Bridges","Horse Farms"].
+>
+> **[0:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=49)** I can print out that variable, and we'll see we get the entire list.
+>
+> **[0:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=54)** Python's okay with this.
+>
+> **[0:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=55)** A list is simply a collection of elements of any kind.
+>
+> **[0:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=59)** So a list of strings, but also, it could be a list of numbers, or very importantly, a list of objects, or any combination of these.
+>
+> **[1:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=69)** Notice that I put square brackets around the list of values?
+>
+> **[1:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=73)** That's not required, but it is really the standard way to indicate that you're creating a list in Python.
+>
+> **[1:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=79)** You should get in the habit of using it.
+>
+> **[1:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=81)** That way, everyone who reads your script later will be sure to know that that's a list.
+>
+> **[1:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=86)** And it's important to use the brackets if you're going to do something funny like this.
+>
+> **[1:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=90)** I'm going to create two variables, myList and myNum.
+>
+> **[1:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=94)** I'm going to set it equal to, just playing around here, ["a","b","c"],1.
+>
+> **[1:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=101)** So I'm defining two variables here at the same time.
+>
+> **[1:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=103)** We've seen that before.
+>
+> **[1:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=105)** But the brackets ensure that the list, all of the letters, all go together into the variable myList and the number 1 stands by itself and goes into the scalar variable called myNum.
+>
+> **[1:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=117)** So if I print myNum, should get 1.
+>
+> **[2:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=121)** And if I print myList, I get the ['a', 'b', 'c'].
+>
+> **[2:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=125)** So list variables are so important because of all the arcpy methods that return lists of data to us, so we need to understand how to work with them, and also because Python has some special ways for dealing with the elements of the list, like looping through a list, which we'll see in a little bit.
+>
+> **[2:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=142)** You can get to the individual values in a list quite easily using list element notation.
+>
+> **[2:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=148)** The first element in the list is element 0, so to get to it, you would use this, print (myList[0]).
+>
+> **[2:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=159)** Or let me go back and print on my layer list, strLayers, [0].
+>
+> **[2:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=167)** Kentucky Rivers.
+>
+> **[2:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=169)** You put square brackets around the element number then, around the 0.
+>
+> **[2:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=174)** You can use this notation to both read from a list and to change a list.
+>
+> **[2:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=179)** For example, you can do this: strLayers[0] = "Guam Rivers".
+>
+> **[3:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=188)** So that's going to reset the first element of the list to a new value.
+>
+> **[3:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=192)** So now if I print strLayers, the entire list, you see that the Kentucky Rivers were replaced with Guam Rivers.
+>
+> **[3:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=200)** By the way, there's a special trick to get to the last item in the list.
+>
+> **[3:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=204)** I print strLayers[-1].
+>
+> **[3:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=207)** That gets me to the end of the list and the very last element.
+>
+> **[3:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=210)** So you use negative numbers to count back from the end of the list, the right-hand side of the list.
+>
+> **[3:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=216)** We saw this syntax earlier in the course when we were discussing how to get to the individual characters in a string.
+>
+> **[3:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=222)** It's the same concept.
+>
+> **[3:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=224)** And you can also use list slicing, similar to how a string can be sliced, by using a range of index numbers.
+>
+> **[3:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=231)** So here I'll print strLayers[2:4].
+>
+> **[3:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=236)** So that's element 2 and element 3.
+>
+> **[3:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=239)** The first index is the starting position, and the second number says, "Stop when you get to me, and don't include me."
+>
+> **[4:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=246)** So this prints elements 2 and 3.
+>
+> **[4:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=249)** Don't forget the list is zero-based, so element 2, 0, 1, 2, is Bridges.
+>
+> **[4:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=256)** There's some really helpful list functions and methods.
+>
+> **[4:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=260)** Here are just a few.
+>
+> **[4:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=261)** How about, if you want to see how many elements are in a list, you use the length function.
+>
+> **[4:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=267)** So here I'm going to print the length of strLayers.
+>
+> **[4:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=270)** And it tells me, "Oh yeah, there are four elements in the list."
+>
+> **[4:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=274)** Another useful method is the append function that lets you add elements onto a list.
+>
+> **[4:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=279)** So if I do strLayers.append and just put the new value in the parentheses and run that guy, then when I print strLayers again, you'll see that Schools has been appended onto the end of the list.
+>
+> **[4:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=295)** And finally, there's a sort method that'll let us sort a list.
+>
+> **[4:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=299)** So if I use strLayers.sort and then print strLayers, you'll see that it comes out sorted alphabetically.
+>
+> **[5:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=309)** And I can pass a reverse value into the sort as a parameter so that it prints out in reverse order.
+>
+> **[5:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=317)** strLayers.sort(), and I put the keywords reverse=True.
+>
+> **[5:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=324)** By the way, that reverse is the name of the parameter.
+>
+> **[5:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=328)** True is the value I'm passing to it.
+>
+> **[5:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=331)** True is a keyword, a boolean value, so I don't need to quote that guy.
+>
+> **[5:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=336)** I shouldn't quote it. It won't work properly if I quote it.
+>
+> **[5:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=339)** So now if I print strLayers, you'll see it's printed out in reverse alphabetical order.
+>
+> **[5:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=345)** This is good for dealing with numbers, right, when you read data in from an attribute table and you want to sort it numerically.
+>
+> **[5:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=351)** Okay, so these lists are going to be really important to us.
+>
+> **[5:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=354)** We're going to use some special list methods in arcpy to return lists of maps and layers and even lists of label classes for a layer.
+>
+> **[6:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=363)** So as you progress through the rest of the course, if you see lists pop up, you might want to come back and watch this video again to get a reminder of the syntax for working with lists and list variables.
+>
+> **[6:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980&t=374)** Let's go take a look at those list methods that create these lists for us.
+
+> [!info]- Semantic Content
+>
+> **Code Identifiers:** strlayers (14), mylist (4), mynum (3), strlayername (1)
+> **Code Keywords:** let (4), this. (2), function (2), this, (1), this: (1)
+> **CLI Commands:** python (3)
+> **Analogies:** for example (2), similar to (1)
+> **Cross-References:** earlier in (1)
+> **Definitions:** is a  (1)
+> **Best Practices:** don't forget (1)
+> **Speakers:** - [instructor] (1)
+
+#### List methods and functions
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=0)** - [Instructor] ArcGIS Pro projects can contain many maps and scenes, and layouts.
+>
+> **[0:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=9)** They can also hold many definition queries, lots of bookmarks, and even lots of label classes on different layers.
+>
+> **[0:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=25)** To get to all of these pieces of your GIS programmatically, ArcPy includes list methods to figure out which of these things exist in a project and allow your code to work with these components of your GIS.
+>
+> **[0:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=39)** ArcPy also has some list functions to get to GIS datasets outside of a project like geodatabases, rasters, shapefiles, and even files full of latitudes and longitudes.
+>
+> **[0:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=52)** These list methods and functions allow the code to discover information on the fly and provide you access to that data.
+>
+> **[1:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=60)** Let's talk about these list methods.
+>
+> **[1:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=62)** First, there are a set of list methods that are in the main ArcPy library.
+>
+> **[1:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=68)** They're used to list files and datasets, like all the files in a folder or all the feature classes in a geodatabase.
+>
+> **[1:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=76)** Arcpy.listfeatureclasses will list out all the feature classes in a geodatabase.
+>
+> **[1:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=82)** Arcpy.listfiles will list the files in a directory.
+>
+> **[1:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=86)** And even arcpy.listtables will list all the tables in a map.
+>
+> **[1:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=91)** All of these list methods are kind of unique, because the geodatabase or folder you want to work on is not set as the object of the method.
+>
+> **[1:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=100)** Instead, these always work on what's called the current workspace.
+>
+> **[1:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=105)** That's an environment setting that you set in your script.
+>
+> **[1:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=108)** It's kind of like how an ArcGIS project has a home folder where your script can have a current workspace.
+>
+> **[1:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=115)** The current workspace environment setting comes from the arcpy.env module.
+>
+> **[2:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=122)** So let me show you how that would work.
+>
+> **[2:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=124)** So first I would import ArcPy, and then I would use the arcpy.env.workspace method, and I have to set it equal to a geodatabase or a folder.
+>
+> **[2:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=137)** I'm going to set it equal to a geodatabase that I've provided to you guys in the exercise files.
+>
+> **[2:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=143)** It's called Baytown.gdb.
+>
+> **[2:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=145)** If you're following along with me, you are going to need to change the directory path to match the location of your Baytown.gdb, and that'll vary depending on where you unpack that project package.
+>
+> **[2:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=158)** Once this environment is set, then you can use those ArcPy list methods.
+>
+> **[2:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=163)** But as always, go check the Help for each list method to see what data type is returned.
+>
+> **[2:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=169)** For example, the ListFeatureClasses method returns a list of strings, the names of the feature classes in the geodatabase, not a list of feature class objects.
+>
+> **[2:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=179)** So you always have to check the Help on that.
+>
+> **[3:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=181)** So if I print arcpy.ListFeatureClasses.
+>
+> **[3:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=187)** Notice the way this is spelled, right?
+>
+> **[3:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=189)** It's an uppercase L and F, and C.
+>
+> **[3:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=192)** Now when I run this, you see it provides me a list of the names of the feature classes in that geodatabase.
+>
+> **[3:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=200)** So those methods work on the current workspace once that environment is set.
+>
+> **[3:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=205)** There's another set of list methods.
+>
+> **[3:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=207)** List methods for objects.
+>
+> **[3:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=210)** So some of the list methods for working on projects include listMaps, listLayouts, ListBrokenDataSources.
+>
+> **[3:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=218)** To use these, you have to first connect to the project by instantiating the project object.
+>
+> **[3:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=225)** So I'll make a new notebook here, and we'll work with some of the list methods for the project.
+>
+> **[3:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=233)** So again, I'll import ArcPy.
+>
+> **[3:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=236)** And this time, I'll just grab hold of an ArcGIS Pro project by instantiating or creating this aprx object.
+>
+> **[4:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=243)** And I do that if you remember with arcpy.mp.ArcGISProject.
+>
+> **[4:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=249)** And inside the parentheses, I put the name of the project I want to work on.
+>
+> **[4:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=253)** Just for something quick, I'm going to use CURRENT.
+>
+> **[4:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=256)** If you remember from the earlier videos, CURRENT means grab hold of the current project that's open right now.
+>
+> **[4:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=262)** And then I can make a variable called listOfMaps, and I'll set it equal to that project object .listMaps.
+>
+> **[4:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=272)** Now this time, this method, it's a method of an object.
+>
+> **[4:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=277)** It starts with a lowercase L, okay?
+>
+> **[4:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=279)** So always check the Help, see how these are spelled.
+>
+> **[4:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=283)** Now I can't print this list out yet, because this returns a list of objects.
+>
+> **[4:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=289)** I could print like the names of each map, but I'm going to have to work a little harder to make that happen.
+>
+> **[4:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=295)** So I'm not going to print out the whole list right now.
+>
+> **[4:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=297)** What I'll do instead is I'll print the length of the list just to see how many maps are in my current project.
+>
+> **[5:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=304)** By the way, I put these blank lines in here.
+>
+> **[5:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=307)** It's just to spread it out to make it a little easier to read.
+>
+> **[5:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=309)** You don't have to do that, and they don't impact the script at all.
+>
+> **[5:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=313)** So I'll run this, and I see there are three maps in my current project.
+>
+> **[5:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=317)** Let's check that just to be sure.
+>
+> **[5:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=319)** If I go to catalog pane, yes, in fact there are three maps, two maps in one scene, but this list map counts maps and scenes as the same thing.
+>
+> **[5:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=328)** So whether it's a 2D map or a 3D map, it gets counted.
+>
+> **[5:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=333)** We can use string index notation to get to the individual maps.
+>
+> **[5:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=337)** For example, I can say print listOfMaps[0], and then its .name, right?
+>
+> **[5:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=346)** 'Cause the listOfMaps[0] is now a single element from the list.
+>
+> **[5:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=349)** And so now I can get to its properties.
+>
+> **[5:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=352)** So that tells me the first map is called Motorist Assistance Patrol New Orleans.
+>
+> **[5:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=357)** Now I don't get any control over the order in which these maps get put into this list.
+>
+> **[6:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=364)** So referring to them by their index number is not always that useful.
+>
+> **[6:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=369)** Later I'm going to show you how to use a loop to step through all of the maps.
+>
+> **[6:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=373)** You can use search strings in the parameters for the list methods, like suppose you want to grab hold of just the map named Baytown in this project.
+>
+> **[6:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=381)** I would use list, I'm going to reset the variable listOfMaps.
+>
+> **[6:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=386)** And this time, I'm going to set it equal to aprx.listMaps.
+>
+> **[6:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=390)** I'm going to put Baytown in the quotes.
+>
+> **[6:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=392)** If I want to, I can throw an asterisk in there as a wild card in case the map is not named exactly Baytown.
+>
+> **[6:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=398)** Maybe it's Baytown, Texas.
+>
+> **[6:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=400)** And then I can print listOfMaps[0].
+>
+> **[6:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=404)** So it's still returning a list, so I still have to use list notation, even though I know there's only one map in my project named Baytown.
+>
+> **[6:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=413)** That listOfMaps[0], if you remember, it's an object.
+>
+> **[6:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=416)** So to get to its name, well we already kind of know its name, 'cause we can see it.
+>
+> **[7:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=420)** But if you want to see its name, you're going to put that name.
+>
+> **[7:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=424)** So what you're seeing up here as the output of line 44 is what you're going to see if you try to print an object.
+>
+> **[7:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=431)** It works, it doesn't throw an error message, but it's not very useful to you.
+>
+> **[7:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=435)** So on line 45, I printed the name property of that object, then I got what I expected, Baytown.
+>
+> **[7:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=441)** So whenever you see this output, something that looks like this when you're testing your code, then you may have accidentally tried to print an object instead of a string or a number.
+>
+> **[7:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=453)** So there are three rules for using these list methods.
+>
+> **[7:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=457)** Number one is they always return a list even if there's only one element.
+>
+> **[7:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=462)** Number two is most do allow these wild cards and search strings inside the parentheses.
+>
+> **[7:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=468)** And then the three is some return list of objects, like listMaps does, and some return list of strings or numbers.
+>
+> **[7:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=476)** So you always have to check the Help to see what kind of element is going to be returned by that list method.
+>
+> **[8:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=482)** Let me give you some time to look closer at these list methods.
+>
+> **[8:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=485)** Try this, pause the video, and search the Help for the project object, the map object, and the layers object.
+>
+> **[8:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=494)** Take note of each of the list methods available.
+>
+> **[8:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=497)** Check and see, for example, if there's one to let us get to bookmarks, or one to let us get to tables.
+>
+> **[8:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=504)** There's a list layers method, check it out.
+>
+> **[8:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=507)** Is it a property of a map or a project?
+>
+> **[8:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=511)** So you've got to get used to reading the Help.
+>
+> **[8:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=513)** That's the only way you're going to get comfortable with writing Python scripts using ArcPy.
+>
+> **[8:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/list-methods-and-functions?u=76281980&t=520)** Now that you know about the list methods in ArcPy, let's go see how we use Python loops to help us work through these lists.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** let (7), this, (3), throw (2), module (1)
+> **Code Identifiers:** listofmaps (6), listmaps (4), listlayouts (1)
+> **CLI Commands:** make (4), python (2)
+> **Env Vars:** gis (3), current (2)
+> **Analogies:** for example (3), kind of like (1)
+> **File Paths:** arcpy.env (2)
+> **UI Navigation:** go to (1)
+> **Exercise Files:** exercise files (1)
+
+#### Use loops to work with lists
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=0)** - [Instructor] When you have a list of data that you want to run some code on, you can use a loop to step through that list and process each element one by one.
+>
+> **[0:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=9)** A loop lets you execute a set of code over and over.
+>
+> **[0:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=12)** For example, you can do something to all the feature classes in a geo database, or all the layers in a map, or all the text files in a folder.
+>
+> **[0:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=21)** Loop blocks start with a specific line of code, for or while, and that line has to end with a colon.
+>
+> **[0:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=29)** The next line and all the lines that are a part of that loop block, must be indented.
+>
+> **[0:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=35)** It's the indention that determines what is a part of the loop.
+>
+> **[0:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=39)** You end the loop by moving the next line of code back to the margin with no indention.
+>
+> **[0:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=44)** So in this case, in this little example, the word "for" begins the loop and the line ends with a colon.
+>
+> **[0:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=53)** And then the next two lines, the print and the count statement are both a part of the for loop, so they're repeated over and over again.
+>
+> **[1:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=61)** But the final print statement, it's pulled back and lined up with the for, that only happens once, after the loop is complete.
+>
+> **[1:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=70)** Oh, and by the way, it is possible to have a loop inside of a loop, which we'll see a little bit later.
+>
+> **[1:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=75)** And so this means that it's really important to pay attention to spacing when you're working with loops.
+>
+> **[1:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=82)** Earlier in the course, when we were first talking about Python syntax, we said Python doesn't care about spacing, except sometimes it does.
+>
+> **[1:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=90)** Well here's the sometimes.
+>
+> **[1:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=91)** But it's these loops.
+>
+> **[1:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=93)** We'll also see that spacing is important when we're looking at conditional statements in just a bit.
+>
+> **[1:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=98)** There are several kinds of loops that are built into the core module of Python.
+>
+> **[1:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=104)** The first type is a counted-for loop, which makes the code repeat over and over a certain number of times.
+>
+> **[1:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=110)** Like for example, if you wanted to run a buffer tool three times and you want it to be the first one 100 feet, the second one's 200 feet, and the third one 300 feet, you could use a counted-for loop.
+>
+> **[2:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=121)** The second type of loop is a list loop, which makes your code repeat once for every element in the list.
+>
+> **[2:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=128)** That one is going to be really important for us 'cause that's the one we're going to use to get through all of those lists of properties and lists of objects.
+>
+> **[2:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=138)** The third type of loop is a while loop.
+>
+> **[2:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=140)** While loops continue executing a block of code, so long as some condition is still true.
+>
+> **[2:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=146)** I'll show you a quick example of each type of loop in Arc GS Notebooks.
+>
+> **[2:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=150)** First, a counted-for loop.
+>
+> **[2:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=153)** Now we're going to use really basic stuff here, right?
+>
+> **[2:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=156)** Not any GIS data yet, just to get comfortable with the Python syntax.
+>
+> **[2:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=161)** Remember these looping constructs are a part of Core Python, so we don't need to import Arc Pi here.
+>
+> **[2:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=167)** So here's the first line of my for-loop.
+>
+> **[2:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=170)** It says, for i, i is called an indexing variable.
+>
+> **[2:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=174)** I is a variable that gets created right here and the first time through the loop, i is going to be set to one, the first number in the range.
+>
+> **[3:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=182)** It doesn't have to be i, it could have been like for each num, this is a variable.
+>
+> **[3:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=187)** I'm creating it here. I can call it whatever I want.
+>
+> **[3:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=189)** But first time through the loop, it's going to be set to that first number one.
+>
+> **[3:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=193)** When I hit return, Notebooks automatically indent that next line 'cause it knows after that colon, there's going to be a block of code that gets indented.
+>
+> **[3:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=202)** So I'm going to say print each num, that number that I just created, and then a little message saying "Still counting".
+>
+> **[3:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=211)** So if I run this, you can see it just progresses.
+>
+> **[3:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=215)** Each time through the loop it increments that counter by one automatically, right?
+>
+> **[3:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=219)** Second time through the loop, each num becomes two, and then each num becomes three.
+>
+> **[3:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=224)** Notice it did not process for the number 10.
+>
+> **[3:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=228)** So it says 10 is sort of the cutoff.
+>
+> **[3:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=230)** As soon as you get to this number, the loop stops.
+>
+> **[3:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=233)** Now if I put one more line of code in here, but I'm going to push it back over to the end, I'm going to print all done.
+>
+> **[4:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=240)** Now that print statement is outside the loop, so it's only going to get printed once.
+>
+> **[4:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=245)** Okay, so it's the indention that tells Python that print should only be printed once it's outside the loop.
+>
+> **[4:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=252)** Now let me show you an example of a list loop.
+>
+> **[4:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=254)** I'm going to create a variable called my list and I'm going to set it equal to.
+>
+> **[4:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=258)** Remember, I'm going to use the square brackets when defining a list.
+>
+> **[4:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=262)** Not required, but it's kind of good habit.
+>
+> **[4:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=265)** I'm going to set it equal to parcels, buildings, and how about waterlines?
+>
+> **[4:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=271)** They're pretending like these are three feature classes, right?
+>
+> **[4:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=274)** And I'm going to say for STR feature class in my list colon.
+>
+> **[4:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=283)** So that's the first line of the loop.
+>
+> **[4:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=285)** Again, I have an indexing variable, STRFC.
+>
+> **[4:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=289)** This time what's going to happen is that variable is created right here and the first time through the loop it's set equal to the first value in the list, parcels.
+>
+> **[4:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=297)** The next time through the loop it'll automatically be set to buildings.
+>
+> **[5:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=301)** And then the third time through the loop, it'll be set to waterlines, and then the loop will automatically stop because it's run out of things in the list to process.
+>
+> **[5:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=310)** So I can print STR feature class because it's not really a feature class, it's just a string, right?
+>
+> **[5:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=315)** So I can print it out.
+>
+> **[5:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=317)** By the way, while I'm in here, I'm going to increment a counter.
+>
+> **[5:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=320)** I'm going to count up how many of these feature classes I find.
+>
+> **[5:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=323)** So I'm going to create a counter called num count, equal to num count plus one.
+>
+> **[5:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=329)** If I want to do that, I should go up here outside the loop and just define that variable as starting out at zero.
+>
+> **[5:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=337)** So I'll set it equal to zero.
+>
+> **[5:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=338)** First time through the loop, it becomes one.
+>
+> **[5:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=341)** Next time through the loop, two.
+>
+> **[5:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=343)** And so what I'll do is I'll go back to the beginning outside the loop after I've finished running the whole process and I'll print something like found num count feature classes in the list.
+>
+> **[5:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=357)** Okay, so I'm counting first time through the loop.
+>
+> **[5:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=359)** Num count is zero when it gets to the loop.
+>
+> **[6:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=362)** STR feature class gets set to the first element of the list, parcels.
+>
+> **[6:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=368)** So it's going to print parcels and then it's going to set num count equal to zero plus one.
+>
+> **[6:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=372)** So num count will be one now.
+>
+> **[6:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=374)** And then nothing happens with that num count, it doesn't get printed or anything.
+>
+> **[6:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=377)** It automatically goes back up to the top of the loop and string count gets set to buildings.
+>
+> **[6:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=382)** Prints buildings, and it increments a num count to two.
+>
+> **[6:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=385)** When I run this, you see it found three feature classes in the list.
+>
+> **[6:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=390)** So that's how a list loop works.
+>
+> **[6:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=393)** We're going to use these a lot as we learn to get access to projects and maps and layers and other components of our GIS.
+>
+> **[6:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=400)** So let me show you the last loop type here, the while loop.
+>
+> **[6:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=404)** So this time I'll say while X is less than 10, do some stuff.
+>
+> **[6:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=409)** I'm just going to print X, just going to print the numbers, it's not that exciting right now.
+>
+> **[6:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=414)** And then I'll increment X.
+>
+> **[6:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=417)** See the thing about the while loop, this is the one type of loop that doesn't automatically increment some index variable or automatically set the index variable equal to something else.
+>
+> **[7:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=429)** I'll go up here at the top and I'm going to set X equal to zero as a starting point.
+>
+> **[7:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=433)** The first time through the loop X is zero.
+>
+> **[7:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=435)** We're going to print zero.
+>
+> **[7:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=436)** Then we're going to add one to X.
+>
+> **[7:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=439)** And then it's just going to keep going so long as X is less than 10.
+>
+> **[7:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=442)** So basically, we could use this sort of loop to read in just the first 10 records from a file, but we've got to learn how to read and write to files first.
+>
+> **[7:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=450)** Loops are an important part of scripting, allowing you to code and process lots of data in the same way.
+>
+> **[7:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=456)** The list loop is what we use to loop through all the components of our GIS.
+>
+> **[7:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=461)** Let's go see how to write a script that uses a for loop to list out the properties of all the layers on a map.
+>
+> **[7:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-loops-to-work-with-lists?u=76281980&t=468)** So we'll bring all this together.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** let (3), this, (2), while, (1), case, (1), for, (1)
+> **Definitions:** is a  (6), means that (1), is called (1)
+> **CLI Commands:** python (6), find (1)
+> **Env Vars:** gis (3), str (3), strfc (1)
+> **Cross-References:** earlier in (1), go back to (1)
+> **Analogies:** for example (2)
+> **Speakers:** - [instructor] (1)
+
+#### Write a script using list methods and a for-loop
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=0)** - [Instructor] Now I'll show you how to write a script that lists out all the layers in a map and whether or not those layers are visible, whether they're checked on in the map.
+>
+> **[0:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=8)** This will allow us to use the looping constructs we've learned about, as well as one of the list methods in ArcPy.
+>
+> **[0:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=16)** As always, first thing we have to do is import arcpy, and then I'll instantiate the project object.
+>
+> **[0:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=22)** I'm going to create a variable called aprx and I'll set it equal to arcpy.mp.ArcGISProject.
+>
+> **[0:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=30)** We learned earlier, that's how you can make that open connection to a project.
+>
+> **[0:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=34)** Inside the parentheses goes the name of the APRX file with a fully qualified path, right, the whole path and file name.
+>
+> **[0:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=43)** If you want to follow along, you do have this project file in the exercise files.
+>
+> **[0:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=48)** I've provided it as a project package, so you'll have to unpack it, and figure out where the APRX lives in your directory structure, and change it in this directory path here.
+>
+> **[0:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=59)** So once I have the project, then I can get to the map.
+>
+> **[1:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=62)** So that's how it works, right?
+>
+> **[1:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=63)** You get the project, then you get the map, and then you get the layers.
+>
+> **[1:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=67)** So now I'll get the map: map = aprx.listMaps, and I'm going to search for just the one called "Baytown."
+>
+> **[1:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=76)** Now the tricky thing is that the listMaps is going to return a list, even if it's only got one element in it.
+>
+> **[1:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=84)** I only have one map in this project named "Baytown," but I'm still going to get a list.
+>
+> **[1:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=89)** So that just means I'll have to refer to this map using its list notation like we've learned about earlier.
+>
+> **[1:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=96)** But now that I know that, I've got the project, I've got the map, now I can get to the layers.
+>
+> **[1:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=101)** So I'll do that by creating a variable called listOfLayers, and I'll set that equal to map[0], so I get the first element from that list, the first map object, .listLayers.
+>
+> **[1:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=118)** So that'll give me a list of all the layers, then they're layer objects, right, a list of layer objects that are in that map.
+>
+> **[2:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=124)** So I got the project, I got the map, I got the list of layers now, and now I can loop through the layers.
+>
+> **[2:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=129)** and I'll do that with: for eachLayer in listOfLayers.
+>
+> **[2:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=136)** Okay, so the first time through the loop, each layer variable gets created and gets set equal to the first layer in the table of contents for this map.
+>
+> **[2:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=144)** Inside the loop, I'll just print out a few of their properties.
+>
+> **[2:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=147)** So I'll print eachLayer.name and I'll print eachLayer.visible.
+>
+> **[2:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=154)** Visible is one of the properties of a layer object.
+>
+> **[2:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=157)** It just returns a True or a False, True if the layer is visible on the map, if it's checked on on the map.
+>
+> **[2:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=164)** I'll print one more message down here at the end just to let everybody know we finished: print("All done!").
+>
+> **[2:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=172)** And so when I run this, you can see it prints out the list of layers, and they're actually printed in the same order as the table of contents over here, and they're all visible.
+>
+> **[3:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=182)** So if I turn a couple of these off, save the project, and run the code again, and it shows the Tanks.
+>
+> **[3:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=193)** Sorry, I only turned one off, but now you can see the Tanks returned False.
+>
+> **[3:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=197)** So in this video I showed you how to write a script that uses a loop to work through a list.
+>
+> **[3:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=202)** Sometimes you may find it necessary to have more than one loop in your code, and often one loop inside another loop.
+>
+> **[3:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=210)** For example, loop through all the tables in a feature class and then through all the fields in that table.
+>
+> **[3:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-list-methods-and-a-for-loop?u=76281980&t=216)** So let's go see how to use these nested loops.
+
+> [!info]- Semantic Content
+>
+> **Code Identifiers:** eachlayer (3), listmaps (2), listoflayers (2), listlayers (1)
+> **Code Keywords:** let (2), this, (1)
+> **CLI Commands:** make (1), find (1)
+> **Env Vars:** aprx (2)
+> **Exercise Files:** exercise files (1)
+> **Analogies:** for example (1)
+> **Speakers:** - [instructor] (1)
+
+#### Nested loops
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=0)** - Let me show you how Python loops can be nested, which means putting a loop inside another loop.
+>
+> **[0:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=6)** The indention is what controls the loop structure.
+>
+> **[0:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=10)** Everything that's inside the loop must be indented with the same number of spaces.
+>
+> **[0:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=15)** I'm going to write a script to make a list of all the label classes used in the layers of a map.
+>
+> **[0:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=21)** This will involve some nested loops because I'm going to have to loop through the layers and then loop through the label classes for each layer.
+>
+> **[0:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=30)** Let's review the steps to get to layer objects in a project.
+>
+> **[0:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=34)** First, we'll need to get to the project.
+>
+> **[0:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=37)** We do that with arcpy.mp.ArgGISProject, and then we need to get to the map.
+>
+> **[0:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=42)** We do that with aprx.listMaps where aprx is the object variable, holding the open connection to the project.
+>
+> **[0:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=51)** So aprx.listMaps and then we need to get the layers.
+>
+> **[0:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=55)** We do that with the list layers method of the map object.
+>
+> **[0:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=59)** And then finally, we need to get to the label classes.
+>
+> **[1:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=61)** And you do that with the list label classes method of the layer object.
+>
+> **[1:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=66)** So remember, if you need to, you can pause the video, take a minute, open up the help documentation for each of these object types and look through their methods.
+>
+> **[1:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=76)** Make sure you understand how these list methods work and what their return values are.
+>
+> **[1:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=81)** Now let's go write the code.
+>
+> **[1:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=83)** As always, the first thing to do is import arcpy, and then I need to instantiate the project object.
+>
+> **[1:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=91)** Make an open connection to the project that I want to work in.
+>
+> **[1:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=95)** This time I'm going to add an extra little step here where I set a texturing variable equal to the name of the project that I want to work with.
+>
+> **[1:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=105)** You don't have to do this, it's just, I think it makes it the script a little easier to read.
+>
+> **[1:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=112)** It makes it really easy to change the project name later on if you want to in your script.
+>
+> **[1:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=117)** So now I'll create the project object, but this time, instead of calling it a aprx I'm just going to call it prj.
+>
+> **[2:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=125)** I'm doing that just to let you know, you can use whatever variable name you want.
+>
+> **[2:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=128)** It doesn't have to be called aprx.
+>
+> **[2:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=130)** I'm going to call mine prj for project.
+>
+> **[2:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=133)** I'm going to set it equal to a arcp.MP .ArcGISProject.
+>
+> **[2:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=141)** And in here I'll put the variable holding my project name along with its full directory path, STRProjName.
+>
+> **[2:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=150)** So this creates the project object.
+>
+> **[2:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=152)** Next, I'll read the list of maps in the project and save that list to a variable.
+>
+> **[2:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=157)** So I'll call it list of maps, and I'll set that equal to Prj.listMaps.
+>
+> **[2:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=163)** And now I need to use a for loop to step through the list of map objects printing each map's name because my project has more than one map in it.
+>
+> **[2:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=173)** So I'll say for each map in list of maps.
+>
+> **[2:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=178)** I'm going to just print a message telling everybody what I'm doing.
+>
+> **[3:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=182)** Checking map, and then I'll print its name, eachMap.name for label classes.
+>
+> **[3:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=189)** Okay, so, I'm inside the loop that's working through the maps.
+>
+> **[3:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=193)** So the code so far gets me to the maps in the project.
+>
+> **[3:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=196)** I'm going to add a little more code that gets us to the layers in the map and then to the label classes.
+>
+> **[3:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=201)** So I'm going to have to use a couple more loops.
+>
+> **[3:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=204)** So first, I'm going to change this print statement just a little bit to include a count of how many maps I've worked through so far.
+>
+> **[3:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=212)** I'll make use of a variable that I'm going to call count, but in just a bit, I'll increment that counter by adding one each time I process a map.
+>
+> **[3:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=220)** So it'll basically count up how many maps I've processed.
+>
+> **[3:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=223)** So I'm going to change this just a little bit to say checking map count.
+>
+> **[3:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=229)** And then I'll put, just to make it a little more clear when it's printed out, I'll put a colon and a tab in there.
+>
+> **[3:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=235)** So right here in the script, we're in the loop that gets the first map.
+>
+> **[3:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=239)** So I'm going to go ahead and increment the counter down here.
+>
+> **[4:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=241)** Count equals count plus one.
+>
+> **[4:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=245)** I'll need to go back outside the loop higher up in the script and initialize that variable by setting count equal to zero so it has a starting point.
+>
+> **[4:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=252)** So I'll put it here.
+>
+> **[4:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=253)** Count equals zero outside the loop.
+>
+> **[4:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=256)** So we read the first map in count gets incremented by one count is now equal to one.
+>
+> **[4:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=261)** So now we need to get the list of layers in the map that we're working on.
+>
+> **[4:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=265)** We do that with list layers.
+>
+> **[4:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=267)** I'll create a variable called list of layers, and I'll set it equal to eachMap .listLayers.
+>
+> **[4:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=278)** So, each map is my looping variable.
+>
+> **[4:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=281)** It's an object holding onto the first map in the project.
+>
+> **[4:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=285)** This first time through the loop.
+>
+> **[4:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=287)** Let me call this list of layers, okay.
+>
+> **[4:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=289)** So this might be a good time to pause the video and go back and look at the help for the list layers method of the map object.
+>
+> **[4:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=296)** You should see that the type of data returned from this method is a list of objects.
+>
+> **[5:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=301)** So the variable list of layers is going to hold a list of layer objects, so then we can get to the layers properties.
+>
+> **[5:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=308)** Now I'll create another loop that will step through the list of layers.
+>
+> **[5:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=313)** I'm still indenting exactly to the same place because I'm still inside this first loop.
+>
+> **[5:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=318)** So I'll say for each layer in list of layers, that variable that I just created using the list layers method, for each layer in list of layers.
+>
+> **[5:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=332)** Now as soon as I hit return, the notebook, it indents again for me automatically 'cause it knows I've just started another loop.
+>
+> **[5:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=339)** Now I'll print layer name, each layer.name.
+>
+> **[5:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=345)** And finally, I'll add one more loop that will step through and print out any label classes for each layer as I go through this loop.
+>
+> **[5:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=353)** For each label class, that's a new variable I'm creating in this loop in each layer, that's the layer object from the higher loop .listLabelClasses.
+>
+> **[6:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=365)** That's the method that goes out and gets all the label classes for that layer.
+>
+> **[6:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=368)** Finish it up with a colon, so Python knows we're in another loop.
+>
+> **[6:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=374)** And then I'll just print out some properties of these label classes.
+>
+> **[6:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=376)** If we check the help, you can see all the properties available for label classes.
+>
+> **[6:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=381)** I'll put a little tab in there again.
+>
+> **[6:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=383)** The first property is going to be the name and then I'll do a separate print statement to print out the SQL expression.
+>
+> **[6:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=391)** I'm just going to print a line of dashes just to kind of let us know we finished processing all the label classes in that one layer.
+>
+> **[6:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=400)** And once again, I'll put a couple of print statements in here.
+>
+> **[6:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=403)** I'm going to say print finished loop three, just so you'll know we made it.
+>
+> **[6:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=409)** Then, I'll go back and print finished loop two and I'll go back all the way to the beginning, print finished loop one.
+>
+> **[7:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=421)** The loop three was processing label classes.
+>
+> **[7:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=426)** Loop two was processing layers and loop one processing maps.
+>
+> **[7:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=433)** So if you're following along with me, take a minute to check your code, make sure you've got everything typed just right.
+>
+> **[7:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=444)** Okay, so let's run it.
+>
+> **[7:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=448)** You can see there's a little error here.
+>
+> **[7:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=450)** That's because there are some maps in this project that have layers that don't support label classes.
+>
+> **[7:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=457)** It's basically the base maps.
+>
+> **[7:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=459)** We're going to see how to resolve this later in a more robust way.
+>
+> **[7:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=462)** But for now, I'll get around it by just restricting my map list to this one map called Baytown.
+>
+> **[7:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=470)** So I'll run it again.
+>
+> **[7:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=471)** And now you can see that you get the list of layers in the Baytown map, along with the SQL query and the layer name and the label name.
+>
+> **[8:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=482)** There is an error down at the bottom again, because there's one layer that doesn't support label classes.
+>
+> **[8:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=487)** But I'll show you how to resolve that when we learn about conditional statements.
+>
+> **[8:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=491)** So in this video I showed you how to use nested loops.
+>
+> **[8:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/nested-loops?u=76281980&t=493)** Just be careful with the indention.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** let (7), finally, (2), this, (1), return, (1), class, (1)
+> **CLI Commands:** make (6), python (2)
+> **Code Identifiers:** listmaps (3), eachmap (2), listlayers (1), listlabelclasses (1)
+> **Env Vars:** sql (2)
+> **Definitions:** is a  (1), is an  (1)
+> **Warnings:** be careful (1)
+> **Speakers:** - let (1)
+
+#### Conditional statements
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=0)** - [Instructor] Sometimes you need your Python code to stop and make a decision before moving on.
+>
+> **[0:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=4)** For example, suppose you write a Python script that's going to run the erase geoprocessing tool which requires at least a standard ArcGIS Pro license.
+>
+> **[0:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=14)** How do you make sure the script doesn't try to run the erase tool unless the user has a license to run it?
+>
+> **[0:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=19)** Well, you could use a conditional statement, sometimes called an if-then statement.
+>
+> **[0:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=25)** If statements let you control the flow of your script, you can use them to check that a feature class' properties match what you expect, check that projects exist before you try to use them, or check that methods return values that you can use in your script.
+>
+> **[0:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=43)** For example, suppose your script "Ask the user for a road name," then it checks to see if a road name was entered.
+>
+> **[0:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=51)** Did you get a value from them?
+>
+> **[0:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=52)** Yes, okay, good.
+>
+> **[0:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=54)** Try to select the road.
+>
+> **[0:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=56)** No, ask them again.
+>
+> **[0:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=57)** "Hey, you didn't give me the name of a road."
+>
+> **[1:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=60)** So the syntax for an if statement looks like this.
+>
+> **[1:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=63)** The key word if is at the beginning of the line, followed by some condition that has to evaluate to true or false, followed by a colon at the end, just like we had a colon at the end of our loop statements.
+>
+> **[1:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=76)** The else statement also has a colon at the end, but it doesn't get a condition.
+>
+> **[1:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=82)** The code blocks are indented under the if and under the else, just like they were indented for loops.
+>
+> **[1:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=89)** So again, the syntax, make sure you have an if at the beginning of the line, make sure you have a colon at the end.
+>
+> **[1:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=95)** Make sure all the lines that are only going to execute as a condition of that if are indented the same amount of space.
+>
+> **[1:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=103)** The else statement is not required.
+>
+> **[1:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=105)** You can totally have an if without an else, but if you have the else, it's got to follow the same syntax, put a colon at the end, indent all the lines underneath it.
+>
+> **[1:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=114)** So the question is, what are these conditional statements?
+>
+> **[1:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=118)** So to make comparisons in an if statement, to write these conditional statements, you'll need to use the comparison operators.
+>
+> **[2:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=124)** So for string or numeric comparisons, you can use equal to or not equal to, and not equal to can be spelled either of these ways, exclamation point equal or the less than greater than sign.
+>
+> **[2:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=138)** You can also use greater than, less thans, greater than or equal to, less than or equal to.
+>
+> **[2:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=144)** And you can also check if something returns a true value without having to say equals true.
+>
+> **[2:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=151)** You can just say if and put the variable or the expression there.
+>
+> **[2:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=155)** If it returns a true value, then the condition is met and the block of code under that if statement will get executed.
+>
+> **[2:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=163)** To check for the reverse of that, you can say, if not, and then put the variable or the expression in there.
+>
+> **[2:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=170)** So that'll return a true if that variable has a false value.
+>
+> **[2:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=175)** Here are some of the things other than just simple equals or not equal that can be used in a conditional statement for an if.
+>
+> **[3:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=183)** For example, if the length of string street name is greater than 50, then do some stuff.
+>
+> **[3:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=188)** If not, GetParameterAsText subzero isDigit.
+>
+> **[3:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=192)** We haven't learned GetParameterAsText yet.
+>
+> **[3:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=194)** We're going to see it soon, but basically that says if the user at runtime entered something other than a digit, then do this block of code.
+>
+> **[3:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=203)** I can check that a file exists using the isFile method from the OS library, the operating system library.
+>
+> **[3:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=214)** So operating system.path.isfile returns true if this file exists.
+>
+> **[3:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=219)** And finally I can check the ArcGIS license that the user has, whoever's running the script.
+>
+> **[3:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=226)** I do that with the CheckProduct method of the ArcPy library.
+>
+> **[3:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=230)** If arcpy.CheckProduct, ArcInfo equal, equal available means the user has a license for arc info.
+>
+> **[3:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=239)** That it's kind of strange, you have to use the old terminology for the licensing.
+>
+> **[4:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=244)** So arc info is the equivalent of the advanced license in pro.
+>
+> **[4:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=249)** I want to introduce the function that can be used to stop your script and get input from the user before I write the script.
+>
+> **[4:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=256)** The function is called input and it just stops and lets the user type something in.
+>
+> **[4:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=262)** What goes inside the parentheses is the prompt that the user will see.
+>
+> **[4:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=267)** The results need to be set equal to a variable.
+>
+> **[4:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=271)** Input always returns a string.
+>
+> **[4:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=272)** So even if you ask them to enter a number, it's still going to get quoted by the input function.
+>
+> **[4:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=278)** So let's go look at a script that'll demonstrate the use of an if conditional statement and also this input function.
+>
+> **[4:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=287)** So this first statement creates a variable, called string input, and then the input function stops and asks the user to enter a number.
+>
+> **[4:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=295)** We can test that it works by running it right here.
+>
+> **[5:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=300)** Nothing happens with that 10 yet.
+>
+> **[5:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=302)** So I'm going to add some more code to do something with that 10.
+>
+> **[5:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=305)** First, I'm going to check and see if it really was a digit that they entered.
+>
+> **[5:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=309)** So I'll say if strInput.isdigit, then do some stuff.
+>
+> **[5:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=315)** So remember we talked about these conditional statements that don't have an equal sign.
+>
+> **[5:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=320)** It's just looking to see if this particular property returns a true or a false.
+>
+> **[5:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=325)** If it returns a true, then the condition is met.
+>
+> **[5:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=329)** So if in fact they entered a number, we're just going to print a message telling them they did it right?
+>
+> **[5:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=335)** So I'm just going to print the message "You entered," followed by the strInput variable that they entered, followed by, "which is a valid number."
+>
+> **[5:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=345)** Now I'll add an else statement in case they entered anything other than a digit and I'll print a message telling them they did something wrong.
+>
+> **[5:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=355)** So I added print, "Hey, you entered," strInput, "exclamation point, That's not a number," but you can see something funny is going on with that last string, right?
+>
+> **[6:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=366)** Up to that apostrophe is red and the rest is not red, and not is being colored like a keyword.
+>
+> **[6:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=374)** So what's going on here is that issue we talked about earlier in the course with single quotes and double quotes.
+>
+> **[6:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=380)** You see, I open the quote here and Python thinks that that apostrophe is the close quote.
+>
+> **[6:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=387)** So I need to fix that by using double quotes on the outside of this string, and that'll protect that apostrophe and let it be treated as an apostrophe.
+>
+> **[6:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=397)** So I'll run this so we can see that it works.
+>
+> **[6:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=400)** If I enter the number 10a, then I got, "Hey, that's not a number," so I'll run it again.
+>
+> **[6:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=408)** Oops, I'll run it again and this time I'll enter a valid number.
+>
+> **[6:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=412)** There you go.
+>
+> **[6:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=413)** So that's how conditional statements work.
+>
+> **[6:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=417)** But of course, in real life when we're writing real code, we're generally checking values like properties of data and whether or not datasets exist rather than just, did somebody enter a number?
+>
+> **[7:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=431)** So in this video I showed you how to use input to stop and allow the user to type something in that can feed into your script.
+>
+> **[7:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=440)** I also showed you the basic syntax for an if conditional statement.
+>
+> **[7:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/conditional-statements?u=76281980&t=444)** These things are really powerful because there are a bunch of properties and methods that return true and false values like the ones that let us check what license levels are available.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** function (5), let (4), else, (3), this. (1), if. (1)
+> **CLI Commands:** make (6), python (3)
+> **Code Identifiers:** strinput (3), isdigit (1), isfile (1)
+> **Analogies:** for example (3), just like (2)
+> **Cross-References:** we talked about (2), earlier in (1)
+> **Prerequisites:** make sure you have (2), you'll need (1)
+> **UI Navigation:** select the (1), open the (1)
+> **Definitions:** is called (1), is a  (1)
+
+#### Write a script using ArcGIS API
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=0)** - [Instructor] Let's write some code to interact a little with a web map.
+>
+> **[0:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=3)** In this example, we'll use a lot of the things we've learned so far, including accessing ArcGIS, API for Python objects and their properties, getting input from the user, and checking values with conditional statements.
+>
+> **[0:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=17)** First, since I'm going to be working with web resources, I need to import the ArcGIS module.
+>
+> **[0:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=23)** I'll also import getpass to help me get the password securely.
+>
+> **[0:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=28)** We saw this earlier in the class.
+>
+> **[0:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=31)** Now, I'll make a variable to hold my username, that just makes it easy to change later on.
+>
+> **[0:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=36)** I'll also add a variable to hold my password, but I'm going to set that equal to getpass so the script will stop and ask me to type it in in a secure way.
+>
+> **[0:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=47)** Now, I'll create the GIS object.
+>
+> **[0:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=50)** You remember the way we do that, we set a object variable, I'm going to call it gis, set it equal to ArcGIS.gis.gis.
+>
+> **[1:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=60)** It looks kind of funny, but that's just how it is.
+>
+> **[1:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=62)** ArcGIS.gis.gis.
+>
+> **[1:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=66)** So the ArcGIS library, the GIS module, and the GIS method.
+>
+> **[1:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=72)** So I'll pass into this GIS method the name of my portal, which I'm going to use ArcGIS online for that.
+>
+> **[1:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=79)** So it's [http://www.arcgis.com](http://www.arcgis.com).
+>
+> **[1:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=84)** And then I have my username variable and my password.
+>
+> **[1:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=87)** I always like to stop here and just make sure it's working.
+>
+> **[1:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=90)** So I'll run the code so far.
+>
+> **[1:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=93)** And so it stops and asks me for my password, and now I'm logged into my portal.
+>
+> **[1:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=98)** Now, I'm going to display a map.
+>
+> **[1:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=99)** I'm going to put a search string in here to search for a place called Abha in Saudi Arabia.
+>
+> **[1:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=105)** The phrase I type in will be geocoded and the map will zoom to be centered on that location.
+>
+> **[1:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=111)** I'm going to type this in a new cell.
+>
+> **[1:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=113)** Remember the cells build on each other, so I'm still logged in.
+>
+> **[1:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=116)** So I'll create a variable called my map, and I'm going to set it equal to gis.map.
+>
+> **[2:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=123)** In the parentheses, I type the name of the place that I want to search for.
+>
+> **[2:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=128)** And again, what's going to happen is that the map is going to open centered on that location, and then I actually just put the name of that map object on a line by itself, and that displays the map.
+>
+> **[2:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=141)** This can take some time depending on how fast your internet connection is.
+>
+> **[2:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=145)** Now, before we go any further, let's look at some of the properties we can change for a web map object.
+>
+> **[2:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=151)** You can find the help at developers.[arcgis.com](https://arcgis.com).
+>
+> **[2:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=155)** If I scroll down, I can see the different properties supported by the web map object.
+>
+> **[2:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=161)** So for example, one of the properties that I can change is the base map property.
+>
+> **[2:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=166)** The list of base maps you have to choose from, by the way, is determined by your AGOL or portal administrator.
+>
+> **[2:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=171)** There's a base maps group in your AGOL or portal account.
+>
+> **[2:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=175)** So which ones you have access to will depend on your environment.
+>
+> **[2:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=179)** But I'm going to change the base map on this map, right?
+>
+> **[3:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=181)** So all I have to do is give the name of the map object, my map, and the base map property, and set it equal to the name of the base map I want to use.
+>
+> **[3:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=190)** I'm going to set it equal to satellite, that gives me the imagery.
+>
+> **[3:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=194)** So when I run this, it actually changes the map up above to use satellite imagery.
+>
+> **[3:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=199)** Another property that I can change is to make the map go from a 2D map to a 3D map.
+>
+> **[3:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=205)** So I'll do that with, again, specifying the my map object and this time, changing the mode property by setting it equal to 3D.
+>
+> **[3:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=217)** I'm also going to tilt it just a little bit since it's going to be in 3D.
+>
+> **[3:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=220)** That's the my map.tilt property.
+>
+> **[3:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=224)** Tilted about 25 degrees.
+>
+> **[3:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=226)** So when I run this cell, now you can see the map is in 3D.
+>
+> **[3:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=231)** So a 3D scene instead of a 2D map.
+>
+> **[3:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=235)** Might be a little hard to tell, but see I have a tool here now that lets me rotate this guy up in three dimensions.
+>
+> **[4:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=244)** So you can see the elevation change in this area.
+>
+> **[4:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=250)** Okay, so we changed the base map, we changed the mode, there are a lot of other property settings you can change on these maps.
+>
+> **[4:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=257)** You just look at the help and figure out what all the options are.
+>
+> **[4:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=260)** I'm going to regenerate the map back to 2D mode with a regular base map again.
+>
+> **[4:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=266)** To do that, I'll just go up and rerun this cell that creates the map.
+>
+> **[4:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=272)** So there it is again, back in two dimensions with the regular base map.
+>
+> **[4:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=276)** Now, let's see if we can add a layer to the map.
+>
+> **[4:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=278)** So first, I'm going to search for anything in my AGOL account that has Abha in the name.
+>
+> **[4:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=283)** You won't be able to do this with this data at your office because you don't have access to the same content I have access to, but you can test it with any of your content that's in AGOL or portal.
+>
+> **[4:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=295)** So I'm going to create a variable called search results, and I'm going to set it equal to gis, that's my GIS object, right?
+>
+> **[5:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=302)** That connects me to my organizational account, .content.search for Abha.
+>
+> **[5:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=309)** So this is just doing a text string search on the file names and the tags for the data sets.
+>
+> **[5:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=316)** And then I'm going to put a little loop in here that says for aditem in the search results, so I'm going to loop through the search results, right?
+>
+> **[5:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=327)** In case I get a whole bunch of data sets, I'm just going to display those items.
+>
+> **[5:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=333)** Now, if you're doing this on your real data, you might want to look at the search results parameters, so you can limit the number of results that come back, because if you were to search for something very common, let's say you search for roads in your portal and you have 50 roads feature services out there, then all 50 are going to be added to the map with this loop.
+>
+> **[5:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=355)** I happen to know I've only got data set out there called Abha.
+>
+> **[6:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=360)** Now, this is not going to add it to the map, okay?
+>
+> **[6:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=362)** This is just going to display it in a list down below this cell.
+>
+> **[6:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=366)** So I can see, sorry, made a little typo there.
+>
+> **[6:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=371)** Let's rerun that.
+>
+> **[6:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=373)** So you can see the layers.
+>
+> **[6:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=374)** There's actually one feature layer and one service definition, but I want to get it added onto the map and to do that, I need to go out and find out what this feature services unique identifier is in the event that there might be several named Abha scenic overlooks.
+>
+> **[6:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=388)** So I'm going to click through on this to get out to the item description for this feature service.
+>
+> **[6:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=396)** I'll need to log in to do that.
+>
+> **[6:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=398)** So now I'm on the item description page and what I need is this unique identifier down here for the item.
+>
+> **[6:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=406)** So I'm going to copy that and now I'll go back to my code and I'll get this item added to my map.
+>
+> **[6:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=414)** So I'll create a new variable, it's called scenic overlook item 'cause that's what this thing is, right?
+>
+> **[7:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=421)** It's a point feature class with some scenic overlooks.
+>
+> **[7:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=424)** Scenic overlook item equal gis.content.get, and inside the parameters for get, I'm going to put the unique identifier for that one particular feature service that I'm interested in.
+>
+> **[7:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=438)** So this goes and grabs a hold of it and saves it as an object called scenic overlook item.
+>
+> **[7:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=443)** And then I can add it to the map.
+>
+> **[7:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=445)** So I'll say my map, 'cause that's still my map object, .add layer, that scenic overlook item.
+>
+> **[7:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=451)** Bit more complex than grabbing a project and a map and a layer where you can see the names and work with the names, right?
+>
+> **[7:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=459)** With these online resources, you got to work with their IDs.
+>
+> **[7:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=463)** So when I run it and I go back and look at my map, then you can see these points with the little binoculars.
+>
+> **[7:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=473)** Those are the scenic overlook points that were just added onto the map from that extra feature service.
+>
+> **[7:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=479)** So in this code so far, we've used variables, we've reset properties, and used a for loop.
+>
+> **[8:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=485)** Now, the last thing I'll do is let the user choose where they want to look on the map.
+>
+> **[8:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=490)** So I'm looking at Abha in Saudi Arabia, I want to let the user choose whatever location they're most interested in.
+>
+> **[8:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=496)** So I'll add just a little bit more of code.
+>
+> **[8:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=499)** I'm going to add searchlocation, that's a variable I'm creating.
+>
+> **[8:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=505)** I'm going to set it equal to that input statement we learned about earlier in the course, right?
+>
+> **[8:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=510)** That stops the script and asks the user for input.
+>
+> **[8:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=513)** Where do you want to search?
+>
+> **[8:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=515)** And then before I do anything else, I'll make sure they entered something.
+>
+> **[8:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=517)** So I'll say if searchlocation is not equal to quote quote, so it's not equal to the empty string, meaning they entered something, then do some stuff, and what I want you to do is to set the location variable equal to ArcGIS.geocode.
+>
+> **[8:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=536)** This method of the ArcGIS module takes whatever the user typed in and geocodes it, right?
+>
+> **[9:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=541)** Finds its lat longs, and stores it in that location variable, so I can use it to recenter the map.
+>
+> **[9:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=547)** Put the search location variable in here, and I'm just going to tell it to only find one location in the event that there's multiple matches for whatever the user typed in.
+>
+> **[9:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=557)** Of course, this is just a sample script, you'd have to really put a lot more control in your code if you're going to push this out to wider use in production.
+>
+> **[9:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=568)** So if they entered at least something, then go geocode their location, whatever it was they typed in, got another typo in there, and then reset the map to focus on this new location, and you do that with that my map object, it has an extent property.
+>
+> **[9:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=586)** So there we go.
+>
+> **[9:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=588)** Let's run this.
+>
+> **[9:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=590)** Where do you want to search?
+>
+> **[9:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=591)** Let's say, how about I pick White Plains, Kentucky?
+>
+> **[9:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=597)** Tiny little town in Western Kentucky.
+>
+> **[9:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=599)** So we didn't even see it, it happened so fast.
+>
+> **[10:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=601)** When I scroll back up here, we're no longer in Saudi Arabia, now we're in Western Kentucky and there's White Plains.
+>
+> **[10:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=607)** So there you go.
+>
+> **[10:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=608)** There's a quick notebook that incorporates many of the things we've learned so far in the course, but using ArcGIS API for Python instead of just arcpi.
+>
+> **[10:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=618)** Of course, this is just barely peeking into the box of what you can do with Python and web resources.
+>
+> **[10:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=623)** Remember to explore the documentation at developers.[arcgis.com](https://arcgis.com).
+>
+> **[10:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-using-arcgis-api?u=76281980&t=628)** There are lots of examples out there to get you started.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** let (9), module (3), class. (1), pass (1), for. (1)
+> **Env Vars:** gis (5), agol (4), api (2)
+> **CLI Commands:** make (4), python (3), find (3)
+> **URLs:** [arcgis.com](https://arcgis.com) (2), [http://www.arcgis.com](http://www.arcgis.com) (1)
+> **Cross-References:** earlier in (2), go back to (1)
+> **Documentation:** the documentation (1)
+> **UI Navigation:** scroll down (1)
+> **Analogies:** for example (1)
+
+#### Getting to the properties of GIS data with Describe
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=0)** - [Lecturer] We've seen how to connect to web maps and web services and how to get to an ARC GIS Pro project and its maps and layers, but we haven't spent any time getting into geo databases, raster files and feature classes.
+>
+> **[0:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=13)** Let's talk about how to get to a geodatabase and work with the properties of the feature classes, the rasters, and other data types in the geodatabase.
+>
+> **[0:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=23)** Suppose you want to list out all the feature classes in a geodatabase, you'd need to use the arcpy.ListFeatureClasses function.
+>
+> **[0:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=32)** I'll need to import ArcPy first of course, but this function is a little different because you don't specify the geodatabase name in those parentheses of the function.
+>
+> **[0:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=44)** Instead, you have to set the current workspace environment setting before using this tool.
+>
+> **[0:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=50)** We talked about that a little bit earlier in the course.
+>
+> **[0:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=53)** So I'll set the current workspace.
+>
+> **[0:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=55)** The workspace setting comes from the env module of ArcPy.
+>
+> **[1:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=60)** I'm going to set the workspace to the Baytown geodatabase.
+>
+> **[1:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=64)** This is one of the geo databases I've provided for you in the exercise files, in case you want to follow along.
+>
+> **[1:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=70)** Now that I have the workspace set, I can use my list feature classes.
+>
+> **[1:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=75)** Because there are a lot of feature classes in the geodatabase, I'll loop through them.
+>
+> **[1:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=78)** So I'll say for each feature class in arcpy.ListFeatureClasses, do some stuff.
+>
+> **[1:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=85)** And I'll just print out the feature class.
+>
+> **[1:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=88)** Now before we run this, let's take a look at the help for ListFeatureClasses.
+>
+> **[1:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=92)** So we can see the returned to value.
+>
+> **[1:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=95)** I scroll down and check, the return value is a string.
+>
+> **[1:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=100)** So what this list function is giving us is a list of the names of the feature classes in the geodatabase.
+>
+> **[1:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=106)** That's why I can just print it out 'cause it's a string.
+>
+> **[1:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=111)** So these feature classes then that are returned from this list function are not objects.
+>
+> **[1:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=116)** So we can't get to their properties with some dot property methods.
+>
+> **[2:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=121)** So how do we get the things like the geometry type or the spatial reference?
+>
+> **[2:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=126)** Well, this is something a little different.
+>
+> **[2:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=128)** You use a describe function.
+>
+> **[2:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=131)** It's kind of funny, this has been used for 30 years to poke a GIS dataset and get information about it.
+>
+> **[2:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=137)** And whatever information is returned is held in something called a describe object.
+>
+> **[2:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=142)** So let me show you what the syntax looks like.
+>
+> **[2:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=144)** So I'm still inside the loop.
+>
+> **[2:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=146)** I'm going to create a variable called feature class describe.
+>
+> **[2:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=150)** I'm going to set it equal to arcpy.Describe(eachFC).
+>
+> **[2:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=157)** So that touches the feature class and gets as much information as it can about that feature class and holds all that information in the FC describe variable.
+>
+> **[2:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=167)** So then I'll print out one of the feature class properties, like I'll just do a print (fcDesc.shapeType) for example.
+>
+> **[2:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=176)** So now when we run it, it should print the name of the feature class along with the geometry type.
+>
+> **[3:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=182)** Describe is used to get the properties of all sorts of data types.
+>
+> **[3:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=186)** Let's look at the help for describe.
+>
+> **[3:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=189)** You can describe layers, tables, CAD files, feature classes, even topologies.
+>
+> **[3:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-to-the-properties-of-gis-data-with-describe?u=76281980&t=197)** So a big part of writing code for data management in ArcPy is getting familiar with the describe function and all of the objects and properties created by it.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** function (7), let (4), module (1), class. (1), this, (1)
+> **Env Vars:** gis (2), arc (1), cad (1)
+> **Code Identifiers:** eachfc (1), fcdesc (1), shapetype (1)
+> **Definitions:** is a  (3)
+> **Cross-References:** we talked about (1), earlier in (1)
+> **UI Navigation:** scroll down (1)
+> **Exercise Files:** exercise files (1)
+> **Analogies:** for example (1)
+
+#### Challenge: Properties of layers
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-properties-of-layers?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-properties-of-layers?u=76281980&t=0)** (bright upbeat music)
+>
+> **[0:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-properties-of-layers?u=76281980&t=5)** - [Instructor] Okay, are you ready for another challenge?
+>
+> **[0:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-properties-of-layers?u=76281980&t=7)** Let's give this one a try.
+>
+> **[0:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-properties-of-layers?u=76281980&t=9)** Open the Python Practice Project in ArcGIS Pro and write the code for these two tasks.
+>
+> **[0:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-properties-of-layers?u=76281980&t=15)** First, print out the names of any layers that are on the map but are not visible.
+>
+> **[0:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-properties-of-layers?u=76281980&t=20)** Second, count the number of non-visible layers.
+>
+> **[0:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-properties-of-layers?u=76281980&t=24)** You'll need to make sure that you turn off some of the layers in the project and save the project to test your code.
+>
+> **[0:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-properties-of-layers?u=76281980&t=31)** When you finished, come back and watch the solution video and you can see how I did it.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (1), make (1)
+> **Code Keywords:** let (1), try. (1)
+> **UI Navigation:** open the (1)
+> **Prerequisites:** you'll need (1)
+> **Speakers:** - [instructor] (1)
+> **Non-Speech:** (bright upbeat music) (1)
+
+#### Solution: Properties of layers
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=0)** - [Instructor] Okay, how was that?
+>
+> **[0:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=7)** Hopefully it wasn't too hard for you.
+>
+> **[0:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=8)** It brings in a lot of the things that we've learned so far in the course.
+>
+> **[0:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=12)** Let me show you how I did it.
+>
+> **[0:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=13)** But your code could look different from mine, and that's totally fine.
+>
+> **[0:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=17)** As we've talked about before, there are lots of ways to accomplish things with code, but here's what I did.
+>
+> **[0:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=22)** I imported ArcPy, then I created my project object.
+>
+> **[0:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=28)** I do that with aprx equal ArcPy.mp.ArcGISProject, and I'm using the current keyword, again, for the current project.
+>
+> **[0:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=38)** We've done this many times in the course.
+>
+> **[0:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=39)** It's such a common thing.
+>
+> **[0:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=41)** You'll probably want to have this code somewhere in a little text file that you can just paste in whenever you need it.
+>
+> **[0:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=47)** Next, I'll instantiate the map object.
+>
+> **[0:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=50)** I'll do that with listMaps.
+>
+> **[0:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=52)** I'll search for just the Baytown map, and I'll pull off the first one in case there happened to be two named Baytown in the project, which there's not in our project.
+>
+> **[1:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=62)** Next, I'll create the list of layers in that map.
+>
+> **[1:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=66)** I do that with the listLayers method of the map object, and I'll set that equal to the variable, called listOfLayers.
+>
+> **[1:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=73)** Next, I'll set up a counter variable that I can use to count the layers.
+>
+> **[1:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=77)** I'll set it equal to zero, and now I'm ready to loop through the layers and try to see what I can figure out about them.
+>
+> **[1:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=84)** So I'll have a for loop.
+>
+> **[1:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=86)** I'll say for eachLayer in listOfLayers, make sure I get that spelling right, do some stuff.
+>
+> **[1:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=95)** The first thing I'll do is I'll check to see whether the current layer I'm working on is visible or not.
+>
+> **[1:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=101)** I do that by just checking its visible property.
+>
+> **[1:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=104)** So if eachLayer.visible, equal, equal False, remember false is a key word so it doesn't need to be quoted.
+>
+> **[1:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=111)** Then do some stuff.
+>
+> **[1:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=113)** I'll increment my counter and then I'll print out eachLayer, only if it's not visible, right?
+>
+> **[1:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=119)** So the count and the print statement only get touched in the event that we found a layer that's not visible.
+>
+> **[2:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=127)** So when I finish all of that up, I'll go back over to the margin on the left to get outside the loop and I'll print the final message.
+>
+> **[2:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=135)** Print, "There are, count, layers not visible on this map."
+>
+> **[2:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=140)** So there you go.
+>
+> **[2:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=141)** It's a small amount of code, but it may take you a little while the first time you're writing these, right, because you have to look up in the help to see how these different properties are used and these different objects and what properties they even have.
+>
+> **[2:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=152)** But you'll find there's a lot of repetitive code that you can reuse in your scripting.
+>
+> **[2:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=158)** We'll run this just to make sure it works.
+>
+> **[2:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=161)** So flares is in fact the only layer in my table of contents that's not visible right now.
+>
+> **[2:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=166)** So there you go.
+>
+> **[2:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=167)** Now that we know about getting to the properties and getting to the methods, let's jump back into the course and see if we can learn about reading and writing to a text file so we can record some of this information that we're currently printing to the screen.
+>
+> **[3:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution-23437455?u=76281980&t=182)** We can record it in a little text file.
+
+> [!info]- Semantic Content
+>
+> **Code Identifiers:** eachlayer (3), listoflayers (2), listmaps (1), listlayers (1)
+> **CLI Commands:** make (2), find (1)
+> **Code Keywords:** let (2)
+> **Definitions:** is a  (1)
+> **Prerequisites:** set up (1)
+> **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
+
+
+### 5. Reading from and Writing to a File
+
+#### Read from and write to a text file
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=0)** - [Instructor] It's pretty common in the GIS world to get data in ask e-text format like a .TXT file or a comma separated values file, a CSV.
+>
+> **[0:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=11)** Python can work with these.
+>
+> **[0:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=12)** You can read data from a text file one line at a time and process it with your Python script, and you can write records out to a file as well.
+>
+> **[0:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=22)** The process goes like this.
+>
+> **[0:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=23)** Open the file with read, write, or append access.
+>
+> **[0:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=27)** Read the records or write to the file, and then close the file.
+>
+> **[0:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=32)** When the file is opened, a file handle is created.
+>
+> **[0:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=35)** A file handle is an open connection to a file.
+>
+> **[0:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=39)** For the rest of the script, when the file needs to be accessed, the file handle is used rather than the file name.
+>
+> **[0:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=45)** Kind of like an object.
+>
+> **[0:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=46)** Open a file handle with the open function.
+>
+> **[0:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=49)** The open function takes two arguments, the name of the file and an access type, read, write or append.
+>
+> **[0:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=59)** Here's an example of using read.
+>
+> **[1:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=61)** inFile is the file handle we are creating.
+>
+> **[1:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=65)** It's just like naming a variable, you can name it whatever you want, but no spaces or special characters are allowed.
+>
+> **[1:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=71)** We set that equal to the open function.
+>
+> **[1:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=73)** That's a Python function by the way, it's not a part of Arc pi, it's part of Core Python.
+>
+> **[1:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=78)** So we set that equal to the open Python function and pass in the name of the file we want to open and then we put a little r in quotes at the end, which tells Python we just need read access on this file, so that way we can't accidentally make any changes to it.
+>
+> **[1:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=95)** If you want to write to the file you open it with write access.
+>
+> **[1:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=100)** And for append, you open it with a little a on the end.
+>
+> **[1:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=104)** The syntax for these three are all very similar. Be careful.
+>
+> **[1:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=108)** The issue is that write will delete an existing file and create a new one as soon as this line is executed.
+>
+> **[1:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=115)** So you'll lose anything that was already in that file when you used a little w.
+>
+> **[1:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=119)** Be very careful with that.
+>
+> **[2:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=121)** Use append instead if you think the file might already have some content in it and you just want to add more content to that file.
+>
+> **[2:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=130)** A few other things important for working with files is that to read a record in from a file you use readline.
+>
+> **[2:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=138)** This will read an entire record as one string.
+>
+> **[2:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=141)** Let me show you how that would look in code.
+>
+> **[2:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=144)** Let me give you a quick look at the file I'll be reading in.
+>
+> **[2:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=147)** It's a simple comma separated value file, a CSV file, with the location of some chemical storage tanks.
+>
+> **[2:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=155)** This is fake data, so don't try to use it for any real analysis.
+>
+> **[2:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=159)** I've provided this little file in the exercise files for the course so that you can follow along.
+>
+> **[2:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=165)** So first, I need to open the file handle.
+>
+> **[2:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=168)** I'll create a variable called inFile, and I'll set it equal to open.
+>
+> **[2:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=173)** Inside the parentheses for the open function, I need to put the fully qualified path to the name of the file that I want to open, and then a comma and then the little r to indicate that I just want read permission on this file.
+>
+> **[3:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=187)** If you're following along, remember to change this to match the path where you put your exercise files on your system.
+>
+> **[3:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=194)** So then I'll need to read the first record and print it out.
+>
+> **[3:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=197)** And again, I do that with the readline.
+>
+> **[3:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=200)** So I'm creating a variable record one, setting it equal to the readline method on the end file file handle.
+>
+> **[3:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=209)** I don't need any parameters inside the parentheses, but the parentheses still have to be there because it's a method.
+>
+> **[3:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=215)** Now I'll just print that record out.
+>
+> **[3:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=217)** And we can run it, see that it works, so it gets the first record.
+>
+> **[3:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=221)** And then I'll read the second record and print that out.
+>
+> **[3:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=226)** So you can see it'd be kind of tedious to read these records one by one by one from a file.
+>
+> **[3:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=230)** So we'll see later.
+>
+> **[3:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=231)** We normally put this readline inside a loop.
+>
+> **[3:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=235)** You may want to use the split method to break that record into individual fields.
+>
+> **[4:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=240)** We saw this split function earlier in the course when we were talking about working with strings.
+>
+> **[4:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=245)** I'm going to modify my code just a little bit to add the split and to print out just one field from the text file.
+>
+> **[4:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=252)** So I'll modify this line here where I'm setting the variable rec two.
+>
+> **[4:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=256)** It's going to go out and read that second record, but then I'm going to take that second record and split it.
+>
+> **[4:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=261)** With the split method, you need to put inside the parentheses the character that you want to split on.
+>
+> **[4:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=266)** In our case, this is a comma separated file, so I need to put a comma.
+>
+> **[4:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=270)** And so now rec two is a list of all the fields that were in that file.
+>
+> **[4:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=275)** So I want to print out rec two, but not the entire record, just one element.
+>
+> **[4:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=280)** So it's going to print rec two, sub two, which is the third element, remember?
+>
+> **[4:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=285)** Because these lists are zero based.
+>
+> **[4:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=287)** So 0, 1, 2, it should print out the word diesel.
+>
+> **[4:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=293)** So that's how we get to the individual fields in a comma separated value file.
+>
+> **[4:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=298)** Now, if you want to write to a file, you simply use the write method on the file handle.
+>
+> **[5:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=304)** Like outFile.write and then inside the parentheses you put the text string that you want to write or the list of variables or whatever.
+>
+> **[5:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=312)** But we haven't opened a file on our script yet with write permission, so we're not going to do it.
+>
+> **[5:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=317)** We'll do it in just a bit though.
+>
+> **[5:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=319)** Oh, by the way, write doesn't actually happen until you close the file.
+>
+> **[5:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=324)** So you'll need to add that outFile.close at the end of your script to make sure that that file gets written.
+>
+> **[5:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=330)** Reading and writing the files again is a part of the Core Python, so you don't need to import any modules to be able to do this.
+>
+> **[5:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=336)** So that's how you read data in from a text file and write data back out to a text file, one line at a time.
+>
+> **[5:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980&t=343)** Let's go see how this looks in a more robust script.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** function (7), let (3), this. (2), type, (1), pass (1)
+> **CLI Commands:** python (7), make (2)
+> **Code Identifiers:** infile (2), outfile (2)
+> **Env Vars:** csv (2), gis (1), txt (1)
+> **Definitions:** is a  (3), is an  (1)
+> **UI Navigation:** open the (2)
+> **Exercise Files:** exercise files (2)
+> **Analogies:** kind of like (1), just like (1)
+
+#### Write a script that reads from and writes to a file
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=0)** - [Instructor] Let's see how manipulating data in a text file looks in a script.
+>
+> **[0:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=4)** I'm going to write a script that reads in information about the location of some chemical storage tanks.
+>
+> **[0:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=10)** It's going to select only the crude oil tanks and write those out to a separate file.
+>
+> **[0:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=15)** In addition to showing you how the read line and the write methods work, this script will also remind you about how to use conditional statements and loops.
+>
+> **[0:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=25)** Let me show you what the little text file looks like that I'm going to work with.
+>
+> **[0:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=29)** It's the same comma separated data file we saw earlier.
+>
+> **[0:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=32)** It's got an object ID column, which is basically a record number, the status of the tank, whether it's active or decommissioned, what the tank holds, crude oil, diesel, benzene, or other chemicals, and it's got a latitude and a longitude coordinate for each tank.
+>
+> **[0:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=51)** I'm going to write a script to find only the crude oil tank records and put them in a new file.
+>
+> **[0:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=56)** I've provided this CSV file for you in the exercise files for the course, so you can follow along if you want.
+>
+> **[1:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=63)** Remember, reading and writing to a text file is core Python functionality, so we don't need to import ArcPy here in our script.
+>
+> **[1:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=71)** So the first thing I have to do is create the file handles for the two files I'll be working with.
+>
+> **[1:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=77)** If you're following along, when you type this in, you'll need to update the path to match the location of where you have your exercise files.
+>
+> **[1:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=85)** So first I'll create the file handle in file, and I'll set it equal to the open function, and I'll pass into it the name of the file that we just looked at, that little CSV file.
+>
+> **[1:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=99)** I need to close the quote 'cause that string has to be quoted.
+>
+> **[1:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=104)** And then on the end, I need to add the read or write, how do I want to open this guy.
+>
+> **[1:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=109)** So this one I'm going to open with just read permission.
+>
+> **[1:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=112)** I don't want to make changes to the original file.
+>
+> **[1:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=115)** So that opens the input file with read-only access.
+>
+> **[1:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=118)** Now, we'll open the output file, which doesn't exist yet.
+>
+> **[2:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=122)** It's going to be created by this next line of code.
+>
+> **[2:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=125)** Out file is equal to open again with the same path except that the output name is going to change.
+>
+> **[2:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=134)** I'm going to call this CrudeOilTanks.csv.
+>
+> **[2:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=140)** And for this one, it's going to be open with write permission.
+>
+> **[2:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=143)** That tells Python, "Go create this file for me "and get ready to write stuff into it."
+>
+> **[2:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=148)** Now we need to add the code to read in the first record.
+>
+> **[2:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=152)** If you remember, the readLine method on the file handle is used to read in one record.
+>
+> **[2:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=157)** If we want to read all the records in and process them, we'll need to put that readLine in the loop.
+>
+> **[2:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=162)** Interestingly, the for loop works perfectly for this, and you don't even need the readLine.
+>
+> **[2:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=168)** Python just knows that if you pass a for loop, a file handle that's open with read access, that you want to step through the file one line at a time.
+>
+> **[2:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=178)** So it works like this, for eachRec in inFile.
+>
+> **[3:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=184)** That's my little loop.
+>
+> **[3:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=185)** So again, it already knows you want to step through this and read in the records one-by-one.
+>
+> **[3:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=190)** So I'll just print out the record, and that's all I need.
+>
+> **[3:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=194)** But I want to make this a little more interesting.
+>
+> **[3:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=196)** I actually want to count up how many records are being read in.
+>
+> **[3:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=199)** So I'm going to go up here and create a counter variable called recCount, and I'll set it equal to zero.
+>
+> **[3:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=206)** And then I'll go inside the loop, and I'll increment that counter each time we read a record.
+>
+> **[3:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=212)** So I'll just say recCount = recCount + 1, and that way I can print along with the record, I can print the record number, and I'll just put a little colon in between 'em.
+>
+> **[3:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=222)** I'll also add one more print statement outside the loop, so I'm going to push it back against the margin on the left, and I'll print how many records were read in total.
+>
+> **[3:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=232)** That'll be the final recCount, "records written."
+>
+> **[3:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=236)** By the way, the process of reading a file in is very similar to reading records from a database.
+>
+> **[4:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=241)** You use a loop, but the connection to the database is done a bit differently, so that's for another course, but you can find lots of documentation online if you want to look into it.
+>
+> **[4:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=251)** Let's run this so you can see that it works.
+>
+> **[4:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=255)** I'll scroll to the bottom to see how many records were read from the file.
+>
+> **[4:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=259)** So there are 260 records read from the file.
+>
+> **[4:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=263)** Now we need to do the filtering.
+>
+> **[4:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=265)** What I want to do is put only the crude oil tanks, only their records into an output file, so I'll use a conditional statement for that.
+>
+> **[4:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=274)** I'll put the conditional statement inside the loop, so that as each record is read in, it'll be checked.
+>
+> **[4:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=280)** So I'll go right here inside the for loop.
+>
+> **[4:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=282)** The first thing I'll do is split that record out that I read in, so that I can get to the individual elements in each record, because I'm trying to get to that type of tank.
+>
+> **[4:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=294)** I'll do that by creating a variable called list record, and I'll set it equal to the eachRec that I'm looping on right now, and I'll split it using a common as the delimiter.
+>
+> **[5:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=307)** So now I've split out that long record into a list, so I can use list notation to get to the individual elements and I'll make use of that in a conditional statement.
+>
+> **[5:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=317)** So I'll say if listRec [2], that's the element that held the tank type, if (listRec [2] == 'Crude'), then do some stuff.
+>
+> **[5:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=328)** And what I want you to do is increment the counter and print the record.
+>
+> **[5:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=335)** So I need to indent those two lines, so that they only happen if our condition returns a true value, meaning the third element was crude.
+>
+> **[5:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=344)** Let's run this to make sure it works.
+>
+> **[5:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=347)** So you can see now it only pulled out the crude records, the crude oil tank records.
+>
+> **[5:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=353)** And then if I scroll all the way down to the bottom, you can see there were 35 records written, so 35 out of 200 and something are crude oil tanks.
+>
+> **[6:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=362)** Now that we see it works, we can adjust the code to write the output to a file at the same time as it writes to the screen.
+>
+> **[6:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=369)** We've already got our out file opened with write permission, so we just have to add a little bit of code right here along with the print statement.
+>
+> **[6:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=378)** We'll just add a write method on the out file, file handle.
+>
+> **[6:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=384)** And finally, since we are writing to a file, we need to make sure that we close those files that we've opened.
+>
+> **[6:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=390)** We really should do it anytime.
+>
+> **[6:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=391)** If you open a file handle, be sure to close 'em down at the bottom of the script.
+>
+> **[6:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=395)** So I'm going to do inFile.close and outFile.close.
+>
+> **[6:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=399)** I'll run this code so you can see that it works.
+>
+> **[6:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=403)** And again, it lists all of the records to the screen for the crude oil tanks, and it also created a new output file out here in our data folder called crude oil tanks.
+>
+> **[6:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=415)** If you're following along, try running your code.
+>
+> **[6:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=418)** If you get any errors, check the syntax closely compared to mine.
+>
+> **[7:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=422)** I'm going to close my catalog, so you can see more of the script.
+>
+> **[7:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=425)** Make sure you have a closed quote for every open quote.
+>
+> **[7:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=428)** Make sure your file name variables are spelled correctly.
+>
+> **[7:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=431)** Be sure to check the output file too, so that you can see you actually did get the crude tank records written to it.
+>
+> **[7:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=438)** I'll open the output file for mine to make sure we got the 35 records in there.
+>
+> **[7:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=445)** And there they are, we did it.
+>
+> **[7:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=446)** There's only one thing I noticed.
+>
+> **[7:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=448)** There's no header record up at the top, no column names.
+>
+> **[7:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=451)** I bet you could figure out how to add that to the script.
+>
+> **[7:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=455)** If you want to try it on your own, pause the video here and give it a try.
+>
+> **[7:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=461)** Let me go back and add the code to write the header record in there.
+>
+> **[7:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=466)** I'm going to need to make sure to put that code outside the loop, 'cause I only want the header record written once.
+>
+> **[7:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=472)** So that's going to go up here before we start our loop.
+>
+> **[7:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=476)** And what I'm going to do is I'd like to do an outFile.write, and write that first record in.
+>
+> **[8:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=483)** But the problem is we haven't read a record yet at this point in the script, so I'm going to have to read that record first.
+>
+> **[8:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=489)** So I'm going to do strColHeaders, a new variable, equal to inFile.readline.
+>
+> **[8:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=496)** So that goes out and forces the first line to be read in.
+>
+> **[8:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=500)** Just to make sure it's working, I'll print that information to the screen.
+>
+> **[8:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=504)** I'll print that record that was just read in, and then I'll also send it out to the output file.
+>
+> **[8:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=511)** So there are the three lines of code that will get that header record written into your file.
+>
+> **[8:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=518)** I'll run it again to make sure it works.
+>
+> **[8:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=521)** Remember that write access on the out file is going to force the output file to be overwritten each time, so we won't get an error even though we know that file already exists.
+>
+> **[8:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=534)** If you're following along, again, try running your code.
+>
+> **[8:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=537)** If you get any errors, go check your syntax closely and check your output file.
+>
+> **[9:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=542)** Let's make sure that I got the header record in there this time.
+>
+> **[9:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=546)** And there you go, there's the header record with the column headers.
+>
+> **[9:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-reads-from-and-writes-to-a-file?u=76281980&t=549)** So that's how you read data in from a text file and write data back out to a text file one line at a time.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** make (12), python (3), find (2)
+> **Code Identifiers:** reccount (4), readline (3), infile (3), eachrec (2), listrec (2)
+> **Code Keywords:** let (6), pass (2), this, (2), function (1), type, (1)
+> **Prerequisites:** you'll need (1), make sure you have (1), before we start (1)
+> **Env Vars:** csv (2)
+> **UI Navigation:** open the (2)
+> **Exercise Files:** exercise files (2)
+> **File Paths:** crudeoiltanks.csv (1)
+
+#### Write a script that records broken links
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=0)** - [Instructor] Let me show you how to look at an ArcGIS Pro project, and make a list of any broken links in that project, and then save that list to a text file, all with code.
+>
+> **[0:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=11)** This script will incorporate a lot of skills that we've learned so far in the course.
+>
+> **[0:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=15)** We'll use ArcPy objects, and their properties, conditional statements, loops, and writing to a text file.
+>
+> **[0:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=22)** If you want to follow along, I've provided an ArcGIS Pro project that has a broken link.
+>
+> **[0:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=28)** It's in the exercise files for the course.
+>
+> **[0:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=30)** But you could also just run it on any of your projects that might have broken links.
+>
+> **[0:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=35)** This is the project.
+>
+> **[0:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=37)** It's called Motorist Assistance.
+>
+> **[0:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=40)** You can see that there's one broken link in it, the layer called Safe Locations.
+>
+> **[0:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=45)** So let's write the script.
+>
+> **[0:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=47)** Because I'll be accessing bits of ArcGIS, I'll need to import ArcPy.
+>
+> **[0:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=52)** Now I'll create a string variable to hold the name of the ArcGIS Pro project I want to check.
+>
+> **[0:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=58)** You don't have to do this, but I think it makes the script a lot easier to read, and I also think it makes it easier to change the name of the file you work on later on.
+>
+> **[1:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=66)** So I'll call my variable STRAPRX.
+>
+> **[1:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=70)** And I'll set it equal to the motorist assistance dot APRX project, this same one that I'm working in right now.
+>
+> **[1:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=78)** I'll also create a string variable to hold the name of the path of the output text file that I want to create.
+>
+> **[1:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=84)** If you're following along, when you create your variables, make sure you update the paths to point to wherever you put your exercise data.
+>
+> **[1:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=93)** I'll call my variable STR out file, and I'll call my output file Broken Links dot text.
+>
+> **[1:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=100)** Remember, this file is going to be created by the code.
+>
+> **[1:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=103)** Now I need to create the project object.
+>
+> **[1:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=106)** I'll create the variable called APRX, and I'll set it equal to the ArcPy dot MP dot ArcGIS project method that we learned earlier in the course.
+>
+> **[1:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=117)** Inside the parentheses goes the thing I want to connect to.
+>
+> **[2:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=121)** So I can use my STRAPRX variable.
+>
+> **[2:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=124)** Now that I have the project object, I need to get to the map I want to work on.
+>
+> **[2:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=128)** I'm going to work on a map named New Orleans.
+>
+> **[2:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=130)** The same one that we have open right here.
+>
+> **[2:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=132)** So I'll create a variable called map object, and I'll set that equal to APRX dot list maps.
+>
+> **[2:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=139)** So the list maps method of the project object.
+>
+> **[2:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=143)** And I'm going to put a search string in here to search for only New Orleans, even though it's the only map in the project, but I'm still going to search for it.
+>
+> **[2:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=152)** And I'm going to put this bracket zero on the end, so that I grab just that first New Orleans map.
+>
+> **[2:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=159)** That way, because I'm grabbing just that one, then my map object variable becomes a scalar variable that holds a single map object, it's no longer a list.
+>
+> **[2:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=169)** Right, so now I have hold of the one single map I want to work on.
+>
+> **[2:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=173)** And then I need to create the file handle to open the connection to the output file.
+>
+> **[2:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=179)** I'll call that out file.
+>
+> **[3:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=182)** I'll set it equal to the open function.
+>
+> **[3:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=184)** And inside the parentheses is the thing I want to open.
+>
+> **[3:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=188)** I can use my STR out file variable.
+>
+> **[3:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=191)** And I want to have write access, so I put the little W on the end.
+>
+> **[3:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=195)** If this file does exist, by the way, if this out file already exists, it'll be overwritten at this point, right?
+>
+> **[3:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=202)** So I have to be careful with that.
+>
+> **[3:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=203)** This helps when we're testing our script so we don't have to go out and delete the output file each time we want to rerun the script.
+>
+> **[3:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=211)** It's a good idea now to add a header to the top of that output file, to let everyone know what the file's about.
+>
+> **[3:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=218)** To get the print statement to write to the file, we use the write method, on the out file.
+>
+> **[3:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=223)** Out file dot write.
+>
+> **[3:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=225)** And inside the parentheses is the thing you want to write, like broken layers report.
+>
+> **[3:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=230)** I like to see messages printed to the screen at the same time so I know the code's working.
+>
+> **[3:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=235)** So I'll add a print statement here to print the same thing, out to the screen.
+>
+> **[3:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=239)** I changed it a little bit, so it indicates that, yeah, that stuff has been written to the file.
+>
+> **[4:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=245)** Another write statement can be added to include the name of the map that we're processing.
+>
+> **[4:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=249)** So I'll do out file dot write again and pass in that map object dot name.
+>
+> **[4:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=256)** And now the code can be written to find and print the broken links.
+>
+> **[4:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=260)** The list broken data sources method is what we want to use.
+>
+> **[4:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=264)** List broken data sources is a method for both an entire project, and also for a map.
+>
+> **[4:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=271)** Since we've already got the map we want to work on, we're just going to use it as a method on a map object.
+>
+> **[4:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=276)** But if you have a project with a whole bunch of maps, you could run list data sources at the project level.
+>
+> **[4:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=283)** The ArcGIS help has great information on list broken data sources.
+>
+> **[4:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=287)** You want to make sure you check out the help, so you understand how to use these methods on these objects.
+>
+> **[4:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=294)** So here's the list broken data sources method, and it shows that it returns a Python list of layer or table objects that have broken connections to the original source within the map.
+>
+> **[5:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=306)** List broken data sources, we're checking the spelling.
+>
+> **[5:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=309)** Notice the L is lowercase.
+>
+> **[5:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=311)** And it is in fact returning objects.
+>
+> **[5:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=314)** So, I'll create a variable called list broken.
+>
+> **[5:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=318)** And I'm going to set that equal to the map object, dot list broken data sources, same way we saw it in the help.
+>
+> **[5:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=326)** List broken data sources.
+>
+> **[5:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=330)** So that returns the list of layer objects which can be looped through.
+>
+> **[5:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=333)** So I'll have a for loop now, for each layer in list broken, do some stuff, this starts the loop, right?
+>
+> **[5:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=341)** What I want to do inside the loop is write to that out file, the layer name, if it's got a broken link, plus maybe we'll just put a dash in there.
+>
+> **[5:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=350)** We'll add to that the data source property, which'll tell us where that file was supposed to live, or where the layer is looking to find that file.
+>
+> **[5:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=359)** And it'll do this once for every broken link that it finds in that map, which, again, kind of boring for our map 'cause there's only one broken link, but we'll see that it works.
+>
+> **[6:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=369)** This is a part of letting the script discover information for us at runtime.
+>
+> **[6:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=373)** Again, I like to see the messages printed to the screen at the same time that they're getting printed to the file, so that I know the code's working.
+>
+> **[6:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=380)** So I'll add a print statement here, to print essentially the same thing.
+>
+> **[6:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=385)** Each layer dot name, plus that dash, plus each layer dot data source, and then just the string written to the file.
+>
+> **[6:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=396)** Notice the print statement and the out file dot write are both indented to the same amount, so they're both going to happen inside the loop, each time that a broken link is found.
+>
+> **[6:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=407)** The final step is to close the out file, so that the changes actually get saved.
+>
+> **[6:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=413)** That needs to be done outside the loop.
+>
+> **[6:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=416)** So I'll run the code.
+>
+> **[6:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=418)** You can see the output, it found the one broken link called safe locations.
+>
+> **[7:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=423)** And let's also check that the output file got created.
+>
+> **[7:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=426)** There it is, it's called broken links.
+>
+> **[7:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=429)** And if I open it up, it has that same information in the file.
+>
+> **[7:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=434)** Notice the issue (chuckles), there's my header.
+>
+> **[7:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=438)** Broken Link Layers Report, and then it put the rest of the data on the same line.
+>
+> **[7:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=443)** So that's okay, I can go back and make one little change to my code, up here in the print statement where I'm printing that header information, broken layers report, I can just put a back slash N in there.
+>
+> **[7:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=456)** Remember that's a special character that puts a new line into a string.
+>
+> **[7:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=460)** I'll run the code too.
+>
+> **[7:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=461)** And if you're following along, run your code.
+>
+> **[7:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=463)** If you get errors, go back and check your code, check the syntax, for matching quotes.
+>
+> **[7:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=469)** Check you're consistent with your variable names, including the case.
+>
+> **[7:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=473)** If you have any uppercase letters, be consistent when you call the variable.
+>
+> **[7:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=477)** Make sure you have a colon at the end of the for loop.
+>
+> **[8:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=480)** So now you can see, in the output file, that it put a return in there and put that broken link record on the second line.
+>
+> **[8:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=489)** So there you go, anytime you want to write something to a file instead to the screen, just open the file handle with write access, and use the write method on the file handle.
+>
+> **[8:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/write-a-script-that-records-broken-links?u=76281980&t=500)** So in this video I showed you how to write a script that discovers information about your project, and records that information to a text file.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** let (4), this, (1), function (1), delete (1), pass (1)
+> **CLI Commands:** make (5), find (2), python (1)
+> **Env Vars:** aprx (3), straprx (2), str (2)
+> **UI Navigation:** open the (2)
+> **Definitions:** is a  (2)
+> **Cross-References:** earlier in (1)
+> **Exercise Files:** exercise files (1)
+> **Warnings:** be careful (1)
+
+#### Challenge: Describe feature classes and write to a file
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=0)** (quirky music)
+>
+> **[0:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=5)** - [Instructor] Hey, ready for another challenge?
+>
+> **[0:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=7)** Okay, open the Python Practice Project in ArcGIS Pro and write the code to do this one task.
+>
+> **[0:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=15)** You're going to create a text file that lists out all the feature classes in the Baytown geodatabase that are still using the old North America Datum of 1927, abbreviated NAD27.
+>
+> **[0:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=30)** To do this, you're going to need to use that describe object that we learned about, and a little something new, it's called the spatial reference property of the describe object.
+>
+> **[0:41](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=41)** Basically, the describe object has this property called spatial reference, which is itself an object, and that spatial reference object has properties like a name.
+>
+> **[0:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=53)** You're going to need to use this in your conditional statement.
+>
+> **[0:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=57)** Check out the help documentation for ArcPy, describe spatial reference, to see examples of how to get to the name of the spatial reference.
+>
+> **[1:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=66)** So in this challenge, you're going to need to use a loop to step through the feature classes, a conditional statement to check whether the feature class is in the NAD27 Datum, and a write statement to write to the output file.
+>
+> **[1:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=80)** Don't forget to close that file at the end of the code so that everything gets saved into that file.
+>
+> **[1:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=86)** All right, let's give it a try.
+>
+> **[1:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=87)** When you finish, come back and watch the next video so you can see how I did it.
+>
+> **[1:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/challenge-describe-feature-classes-and-write-to-a-file?u=76281980&t=92)** Good luck.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** this, (1), new, (1), let (1), try. (1)
+> **Env Vars:** nad27 (2)
+> **CLI Commands:** python (1)
+> **Cross-References:** next video (1)
+> **UI Navigation:** open the (1)
+> **Best Practices:** don't forget (1)
+> **Speakers:** - [instructor] (1)
+> **Non-Speech:** (quirky music) (1)
+
+#### Solution: Describe feature classes and write to a file
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=0)** (upbeat synth music)
+>
+> **[0:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=5)** - [Instructor] Hey, how'd that go for you?
+>
+> **[0:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=7)** Did you get your script working?
+>
+> **[0:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=9)** I'm going to show you how I solved this problem.
+>
+> **[0:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=12)** But if your script looks a little different, that's okay.
+>
+> **[0:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=14)** Lots of ways to get something done in scripting, as long as it works.
+>
+> **[0:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=19)** So the way I did it is I imported arcpy, and I also imported sys.
+>
+> **[0:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=23)** I need that sys to be able to do the file writing.
+>
+> **[0:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=27)** And then I'll set my current workspace with arcpy.env.workspace.
+>
+> **[0:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=32)** I'm going to set it equal to the Baytown geodatabase.
+>
+> **[0:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=36)** Next, I'll set the output file.
+>
+> **[0:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=38)** I'll open it up and get it ready to receive some new information.
+>
+> **[0:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=42)** I'll do that with outfile = open.
+>
+> **[0:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=46)** I'm going to send the output to the same PythonPracticeProject folder.
+>
+> **[0:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=50)** And I'm going to call the file NAD27Datasets.txt.
+>
+> **[0:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=54)** I'll need to open it with write permission, so I have to put a little w on the end there.
+>
+> **[1:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=60)** So now I have my current workspace set, and I've set up my outfile.
+>
+> **[1:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=63)** Now I'm ready to loop through all the feature classes in this geodatabase.
+>
+> **[1:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=67)** So I'll do that with a for loop, for eachFc in arcpy.ListFeatureClasses().
+>
+> **[1:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=74)** Again, I don't need to specify what geodatabase I want to list from, 'cause I've already done that by setting my environment workspace, my current workspace.
+>
+> **[1:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=83)** So now that I'm inside the loop, I've grabbed the first feature class, I'm going to describe it.
+>
+> **[1:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=87)** And I'll create the variable descFC to hold all the information that I get when I poke this feature class.
+>
+> **[1:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=93)** And whatever it returns, the information it returns gets stored in the descFC object.
+>
+> **[1:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=99)** So now I need to get the spatial reference information.
+>
+> **[1:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=102)** And again, the way that works, describe object has a property called spatial reference.
+>
+> **[1:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=107)** And that's an object itself, which has a set of properties.
+>
+> **[1:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=111)** So I'm going to hit the describe object, the spatial reference property, and then the name property of that spatial reference.
+>
+> **[1:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=119)** So I'll create the variable called spatialRef.
+>
+> **[2:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=122)** And I'll set it equal to the describe object .spatialReference.Name.
+>
+> **[2:08](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=128)** So now I need to do an if condition that says, if that spatial reference contains the string NAD27, we need to print that record out.
+>
+> **[2:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=137)** But I don't really know quite what that spatial reference name looks like, how it's spelled.
+>
+> **[2:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=143)** I'm just going to print out the spatial reference so I can see what I got to work with, which is just a text string.
+>
+> **[2:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=150)** It's just the name of the spatial reference.
+>
+> **[2:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=153)** So I'll run it so we can see what the spatial reference looks like.
+>
+> **[2:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=156)** And you see that the NAD_1927 is right at the beginning of the name of the spatial reference.
+>
+> **[2:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=163)** So that helps us.
+>
+> **[2:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=165)** Now we can say if (spatialRef).
+>
+> **[2:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=169)** We can use our string slicing here to pull out just the first few characters, right?
+>
+> **[2:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=174)** So if I say position 0, 1, 2, 3, 4, 5, 6, 7, so 0, stopping on position 8, if I pull that out and it happens to be equal to NAD_1927, then I want to grab that information.
+>
+> **[3:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=193)** So then I'll print the feature class name and then maybe a colon and then the name of the spatial reference so they can get the entire spatial reference in the text file, in case it's NAD27 for some other state plane.
+>
+> **[3:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=208)** And I'll test this out before I have it write to the output file.
+>
+> **[3:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=214)** So there you can see it's listed out all of the feature classes that are in NAD27, and it's also listed out their coordinate system.
+>
+> **[3:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=224)** This is a little complicated, so I'm going to comment out that first print statement.
+>
+> **[3:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=228)** We don't need that anymore.
+>
+> **[3:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=229)** That was just for testing.
+>
+> **[3:51](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=231)** So I'll run it again.
+>
+> **[3:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=233)** Now you can see each feature class along with its coordinate system.
+>
+> **[3:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=237)** So it's good. Now I just need to write to the output file.
+>
+> **[4:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=241)** And I'll do that with outfile.write.
+>
+> **[4:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=244)** And I'll just write exactly the same string, the feature class name + ": " + the name of the spatial reference.
+>
+> **[4:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=251)** I'll also add a newline at the end of my write statement.
+>
+> **[4:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=255)** The print statement, when it prints to the screen, automatically prints a newline at the end of each print, but the write statement doesn't, so you have to explicitly put in that newline.
+>
+> **[4:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=266)** Okay, so the last thing we have to do is close the outfile.
+>
+> **[4:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=268)** We'll make sure we're pushed all the way over to the left-hand margin again.
+>
+> **[4:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=273)** We want to make sure we're completely outside the loop for this.
+>
+> **[4:36](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=276)** So we'll say outfile.close() because it's a method.
+>
+> **[4:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=283)** And now I'll run it one more time.
+>
+> **[4:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=285)** It looks the same on the screen, but we need to go make sure that that outfile got created.
+>
+> **[4:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=290)** So the file is called NAD27Datasets.
+>
+> **[4:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=295)** And there they are.
+>
+> **[4:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=296)** There you go. That's how I solved it.
+>
+> **[4:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=298)** Again, if yours looks a little different, that's fine, but make sure to check that output file and see that the information did get written to it.
+>
+> **[5:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/solution?u=76281980&t=305)** Good job.
+
+> [!info]- Semantic Content
+>
+> **Code Identifiers:** descfc (2), spatialref (2), eachfc (1), spatialreference (1)
+> **Code Keywords:** from, (1), class, (1), class. (1), if ( (1), this. (1)
+> **Env Vars:** nad27 (3), nad_1927 (2)
+> **CLI Commands:** make (4)
+> **File Paths:** arcpy.env (1), nad27datasets.txt (1)
+> **Definitions:** is a  (1), is called (1)
+> **Best Practices:** make sure to (1)
+> **Prerequisites:** set up (1)
+
+
+### 6. Attaching Your Script to a Tool in ArcGIS Pro
+
+#### Making scripts dynamic
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=0)** - [Instructor] When scripts are written to run in ArcGIS Pro, those scripts are usually not designed to work on the same project, map, or dataset every time they're run, they're flexible enough to run on different targets and with different inputs.
+>
+> **[0:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=13)** Some examples of why you might want to make a script that gets input at runtime include: allow the script to work on whatever map the user wants, you could capture the map name at runtime or let the user specify the output coordinate system that's going to be used by the script.
+>
+> **[0:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=30)** And again, you could capture that output Coordinate system at Runtime.
+>
+> **[0:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=34)** ArcGIS Pro Tools already work that way.
+>
+> **[0:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=39)** So if I run the buffer tool, pull this out so we can see it better.
+>
+> **[0:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=45)** All the options that are needed to run the buffer tool can be specified each time I run it.
+>
+> **[0:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=49)** Each one of these input boxes is a parameter for the tool.
+>
+> **[0:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=56)** When you write a Python script, you can allow input parameters too.
+>
+> **[1:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=60)** And if your script interacts with ArcGIS Pro, you'll probably want to load your script up and run it as a tool anyway so your user will be able to enter these input parameters just as if they were running a system tool in ArcGIS Pro.
+>
+> **[1:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=72)** So how do these input boxes get connected to our Python script?
+>
+> **[1:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=77)** Well, your script has to expect some parameters and capture those parameters.
+>
+> **[1:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=83)** Let's take a look at this map.
+>
+> **[1:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=85)** It has locations of petroleum storage tanks and the location of retention ponds.
+>
+> **[1:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=92)** Suppose a facility manager has been told that they need to test the soils in any areas that are close to both retention ponds and tanks, just in case the tanks might be leaking.
+>
+> **[1:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=102)** I've written a script that will buffer the tanks and the ponds and find the areas of intersection of those two buffers, and we'll say these are the areas that need to be tested often.
+>
+> **[1:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=112)** The script allows the user to choose which tanks layer and which ponds layer to work on, and also allows 'em to set the buffer distance.
+>
+> **[2:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=120)** So that makes the script flexible, they can use it on this facility or any other facility they need to work in.
+>
+> **[2:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=127)** The script also allows the user to set a name for the new feature class that's going to be created.
+>
+> **[2:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=132)** Here's the tool, Find ponds near tanks.
+>
+> **[2:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=138)** You can see the parameters here.
+>
+> **[2:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=140)** These input boxes are tied back to my script.
+>
+> **[2:23](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=143)** Right at the top of the script, I have some lines of code that will grab these values and hold onto 'em in variables so I can use those variables for the rest of the script.
+>
+> **[2:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=152)** The order of the input boxes is important.
+>
+> **[2:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=155)** These have to exactly match the order in which the script expects them.
+>
+> **[2:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=160)** Let's take a look at the script. It's behind this tool.
+>
+> **[2:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=165)** It opens in notepad.
+>
+> **[2:47](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=167)** There's a built-in list to capture the command line arguments in Python, it's called the argv list for argument values.
+>
+> **[2:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=176)** It's always there, always available, waiting to receive command line arguments if you want to use it.
+>
+> **[3:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=182)** So the way you make your script catch those input parameters is by setting variables right up at the top of the script and assigning those variables to the elements of the argv list.
+>
+> **[3:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=194)** Remember, this script was written to expect four input parameters: input tanks, input ponds, buffer distance, and output feature class name.
+>
+> **[3:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=205)** We grab those values right here with these sys.argv lines.
+>
+> **[3:30](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=210)** You refer to the arguments in order using the list index numbers.
+>
+> **[3:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=215)** For example, sys.argvi 1 is the first command line argument.
+>
+> **[3:40](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=220)** Let me back up, run the tool again.
+>
+> **[3:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=223)** So the very first argument or the first parameter the users are instructed to enter is the tank layer, second the ponds layer.
+>
+> **[3:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=232)** So if we go back and look at the script, I've set the tanks layer variable to sys.argv 1 and the ponds to sys.argv 2 You may remember that lists in Python are zero based, and I just told you that the first command line argument was element one, but that is correct.
+>
+> **[4:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=251)** It's because sys.argv sub zero, the very first element of the argv list is always the name of the script so you have to skip that element when pulling off the parameters.
+>
+> **[4:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=262)** So you always know that sys.argv 1 will be the first parameter that the user is entering at runtime.
+>
+> **[4:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=269)** So this script expects that the first parameter will be the name of the tanks layer, the second parameter, the name of the ponds layer.
+>
+> **[4:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=277)** The third parameter will be a buffer distance, and the last parameter will be the name of the output file that will be created.
+>
+> **[4:44](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=284)** ArcPy also has a way to get to these parameters.
+>
+> **[4:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=288)** In ArcPy we use get parameter or get parameter as text.
+>
+> **[4:53](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=293)** They both exist.
+>
+> **[4:55](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=295)** So for example, Get Parameter as Text subzero is the first command line argument.
+>
+> **[5:01](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=301)** You'll see both used throughout Python scripts.
+>
+> **[5:04](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=304)** In this video we discussed making Python scripts that accept command line arguments.
+>
+> **[5:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=309)** This is not relevant when running code in ArcGIS Notebooks, but it's very important if you want to attach your code to a tool to share with others through toolbox.
+>
+> **[5:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=319)** If you developed your code in ArcGIS notebooks, you can export it to a Python script, which is a dot py file, and then attach that to a tool.
+>
+> **[5:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980&t=327)** Let's go see how to attach a script to a tool in Toolbox and set up those parameters.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** python (7), make (2), find (2)
+> **Code Keywords:** let (5), include: (1)
+> **Tools:** command line (6)
+> **Definitions:** is a  (2)
+> **Analogies:** for example (2)
+> **Cross-References:** we discussed (1)
+> **Prerequisites:** set up (1)
+> **Speakers:** - [instructor] (1)
+
+#### Creating a custom toolbox
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=0)** - [Instructor] Python scripts can be loaded into toolbox as tools, but they have to be loaded into custom toolboxes.
+>
+> **[0:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=7)** They can't be added into these existing system toolboxes.
+>
+> **[0:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=11)** It's easy to create a custom toolbox, though, to hold your script tools.
+>
+> **[0:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=15)** All you have to do is decide where you want the toolbox to live and what you're going to call it.
+>
+> **[0:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=20)** I'm going to close this Geoprocessing pane, because we can't put any of our scripts in there.
+>
+> **[0:24](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=24)** Custom toolboxes can be created in any folder or any geodatabase that you have access to.
+>
+> **[0:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=31)** If a new script tool relates to only one project, I'd create it right up here in the default toolbox for the project.
+>
+> **[0:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=38)** But if it's a more generic tool that I want my entire team to use on various projects, I'd create a toolbox to hold it in a folder on my network somewhere and let everyone know where that toolbox is.
+>
+> **[0:50](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=50)** I'll just go down to my home folder for now and show you how to create a new toolbox.
+>
+> **[0:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=57)** I just right click, New, Toolbox.
+>
+> **[0:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=59)** And all I have to do is give it a name.
+>
+> **[1:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=62)** I'm going to call my Toolbox Environmental Tools.
+>
+> **[1:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=66)** Now to create the script tool, you right click on the toolbox and choose New, Script.
+>
+> **[1:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=72)** Even if you've already got the script written somewhere, this is creating the new script tool that's going to point to that script.
+>
+> **[1:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=79)** In the Wizard, you give your script a name, which can't have spaces or special characters.
+>
+> **[1:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=85)** You also have to give it a label.
+>
+> **[1:27](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=87)** The label is what shows up in toolbox.
+>
+> **[1:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=89)** It can have spaces.
+>
+> **[1:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=91)** I'm going to call my new tool FindSoilTestAreas.
+>
+> **[1:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=95)** This is the name that anyone would use if they wanted to call my tool from Model Builder or from another Python script.
+>
+> **[1:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=103)** But again, the label is what the end user is going to see listed in their toolbox.
+>
+> **[1:48](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=108)** I'll give this a description also, just in case someone opens the Help and they want to know what this tool does.
+>
+> **[1:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=114)** Find areas to run frequent soil tests (tanks near ponds).
+>
+> **[1:58](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=118)** Now all I have to do is set up the required parameters and attach to the script.
+>
+> **[2:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=123)** Before I set up the parameters, though, I'm going to go take a look at the script in my notebooks to see what parameters are required.
+>
+> **[2:10](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=130)** So I'll OK to close this up, and I'll come back and finish it in just a bit.
+>
+> **[2:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=135)** So I'll find my notebook and open it up.
+>
+> **[2:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=140)** And you can see this script was written to expect four input parameters, input tanks, input ponds, buffer distance and output feature class name.
+>
+> **[2:32](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=152)** You can see those listed right at the top of the script, and they're all set equal to an element from the sys.argv array.
+>
+> **[2:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=159)** So let's go back and look at our tool and see if we can finish configuring it.
+>
+> **[2:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=165)** So I'll right click on the tool and I'll go to Properties and go down to the Parameters tab.
+>
+> **[2:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=172)** So the Parameters tab is where I set up the input boxes that the end user is going to see when they run this tool.
+>
+> **[3:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=180)** I need one input box to ask the user for the tanks layer.
+>
+> **[3:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=185)** So I'll call that Tanks Layer, and then I tell it what type of input this box should accept.
+>
+> **[3:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=193)** Tanks Layer needs to be a layer that's on the existing map.
+>
+> **[3:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=196)** So I'm going to go and say, okay, only layers.
+>
+> **[3:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=199)** This input box will only accept layer names.
+>
+> **[3:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=202)** It's a required parameter and it's an input parameter.
+>
+> **[3:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=205)** It needs to be specified before this tool can run.
+>
+> **[3:29](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=209)** I'll do the same for the ponds layer.
+>
+> **[3:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=211)** It's also a data type layer.
+>
+> **[3:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=215)** It's also required and an input.
+>
+> **[3:39](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=219)** Now for the buffer distance, this data type is going to be something called a linear unit.
+>
+> **[3:46](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=226)** The linear unit data type presents two boxes to the end user, one to set a distance, and one for them to choose the linear units of feet or meters or something else.
+>
+> **[3:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=237)** That's also required and it's an input.
+>
+> **[4:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=240)** And finally, the last parameter was that output feature class name.
+>
+> **[4:06](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=246)** That one is not a layer.
+>
+> **[4:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=249)** Layers have to already exist on your map.
+>
+> **[4:12](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=252)** This one is going to be a data type feature class.
+>
+> **[4:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=255)** It's going to be created.
+>
+> **[4:18](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=258)** And it's required, and it's not an input parameter.
+>
+> **[4:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=261)** Instead it's an output parameter, because it's going to be created by the script.
+>
+> **[4:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=265)** And now I've set up my parameters, my placeholders for what the user wants to enter, right?
+>
+> **[4:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=271)** I'll say OK.
+>
+> **[4:34](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=274)** So I click OK, and now I have a script tool.
+>
+> **[4:37](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=277)** It's not actually attached to any script yet, but the structure is here.
+>
+> **[4:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=282)** If I try to run it, you'll see that all the input parameters are already there just waiting for the user to run the tool, but I don't have the code behind it yet to capture these input parameters.
+>
+> **[4:52](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=292)** So the last step is to attach the script.
+>
+> **[4:56](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=296)** And what I'm going to do, I've already written the script in Notebooks.
+>
+> **[4:59](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=299)** So what I've done is I've gone up here and exported this script out to a Python file.
+>
+> **[5:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=305)** I'll show you what that Python file looks like.
+>
+> **[5:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=307)** I'm going to open it with Notepad.
+>
+> **[5:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=309)** If you're familiar with IDLE, you can open in IDLE as well.
+>
+> **[5:13](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=313)** I'm just going to open in Notepad so you can see it.
+>
+> **[5:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=315)** This is what the script looks like having been exported from Notebooks.
+>
+> **[5:20](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=320)** So I'll just copy all this, and then I'm going to paste it into the script tool.
+>
+> **[5:26](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=326)** So I'll right click on my tool and choose Edit this time to open the code editor.
+>
+> **[5:33](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=333)** I'll get rid of everything that's already in there and just paste in my script.
+>
+> **[5:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=338)** Now I'll save, close it up, close up the notebook, and now I can run the tool.
+>
+> **[5:49](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=349)** I'll try it with the tanks layer and with the retention ponds layer, I'll set my buffer distance tool, let's say 500 feet, and I'll run.
+>
+> **[6:05](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=365)** So you can see the new data set got created.
+>
+> **[6:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=367)** I'll color it red so you can see it a little bit easier.
+>
+> **[6:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=369)** So these are the areas that are close to both tanks and retention ponds.
+>
+> **[6:14](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=374)** So there you go.
+>
+> **[6:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=375)** That's how you load a Python script up to a tool so your colleagues can run the script right from toolbox.
+>
+> **[6:21](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-a-custom-toolbox?u=76281980&t=381)** To share the tool, simply share the toolbox that it sits in, or you could publish it as a geoprocessing tool.
+
+> [!info]- Semantic Content
+>
+> **Code Keywords:** let (3), new, (2), else. (1), finally, (1), class. (1)
+> **CLI Commands:** python (5), find (2)
+> **UI Navigation:** click on (3), go to (1), open the (1)
+> **Prerequisites:** set up (4)
+> **Env Vars:** idle (2)
+> **Speakers:** - [instructor] (1)
+
+
+### 7. Creating Help Documentation for a Script
+
+#### Creating help documentation for a script tool
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=0)** - [Instructor] Whether you intend to share your scripts or just keep your scripts for yourself, you need to spend a few minutes to document their purpose and the proper way to use them.
+>
+> **[0:09](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=9)** This makes it easy to come back to the script at any time in the future and run it or make updates to it.
+>
+> **[0:15](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=15)** You can and should always document your script with a title block and pseudocode in the script as you're building it as you can see in this script.
+>
+> **[0:25](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=25)** Early in the course, we learned that if your code is going to stay in a notebook, you can document it with markdown cells.
+>
+> **[0:31](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=31)** So I'll insert a cell above, change the type to Markdown, and then I can just put text in here.
+>
+> **[0:38](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=38)** If you remember, that markdown code isn't executed, it's just comments.
+>
+> **[0:43](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=43)** But also remember we said if your code is going to be exported from notebooks and saved as a script that can be attached to a tool, then you should add the title block and pseudocode as comments in the script.
+>
+> **[0:54](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=54)** Comments start with a hashtag.
+>
+> **[0:57](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=57)** Comments are really great for yourself and for developers who come along behind you and need to update the script.
+>
+> **[1:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=63)** But you know, you should also document your script for the end users.
+>
+> **[1:07](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=67)** Your GIS Python scripts will likely be run through a tool and toolbox.
+>
+> **[1:11](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=71)** You can create help documents and metadata for the tool simply by filling in the item description.
+>
+> **[1:17](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=77)** Here I have a tool we created earlier in the course, Find Ponds near Tanks.
+>
+> **[1:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980&t=82)** If I right click on that and go to the Help document, you see it actually opens in the catalog window as metadata.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** make (1), python (1), find (1)
+> **UI Navigation:** click on (1), go to (1)
+> **Env Vars:** gis (1)
+> **Cross-References:** earlier in (1)
+> **Speakers:** - [instructor] (1)
+
+
+### Conclusion
+
+#### Next steps and additional resources
+> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980)
+
+> [!transcript]- Transcript
+>
+> **[0:00](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980&t=0)** - We've reached the end of the course.
+>
+> **[0:02](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980&t=2)** Congratulations.
+>
+> **[0:03](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980&t=3)** You learned a lot, like how to get to all the components that make up your GIS, the projects, the maps, the layers, and how to use their properties and methods to manipulate and manage data.
+>
+> **[0:16](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980&t=16)** But there's so much more to scripting in our GIS Pro.
+>
+> **[0:19](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980&t=19)** So if you want to continue on, here are a few suggestions.
+>
+> **[0:22](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980&t=22)** First, as we talked about, read the help documentation and look for samples online.
+>
+> **[0:28](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980&t=28)** You can also rely on the community of developers like yourself at developers.[arcgis.com](https://arcgis.com).
+>
+> **[0:35](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980&t=35)** Also, you can learn more about Python itself, but the best way I found to get the most out of it is to just start doing it.
+>
+> **[0:42](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980&t=42)** Find some of your own data and write a script.
+>
+> **[0:45](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980&t=45)** It's less work than you think.
+
+> [!info]- Semantic Content
+>
+> **CLI Commands:** make (1), python (1), find (1)
+> **Env Vars:** gis (2)
+> **Code Keywords:** continue (1)
+> **URLs:** [arcgis.com](https://arcgis.com) (1)
+> **Cross-References:** we talked about (1)
+> **Speakers:** - we (1)
+
+
+## Path Context
+
+### In [[Advance Your Skills in GIS]]
+← [[Foundations of Geographic Information Systems (GIS)]] | **7 of 9** | [[Learning MapGuide Open Source]] →
+
+## Appears In
+
+- [[Advance Your Skills in GIS]]
+
+## Related Courses
+
+_Courses sharing skills:_
+
+- [[QGIS and Python for AEC]] — Python (Programming Language)
+- [[ArcGIS Pro Essential Training]] — ArcGIS Pro
+- [[Python Data Structures- Trees]] — Python (Programming Language)
+- [[Using SQL with Python]] — Python (Programming Language)
+- [[Python- Working with Predictive Analytics (2019)]] — Python (Programming Language)
+
+---
+
+[↑ Back to top](#)

@@ -1,5 +1,7 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/cscmp-supply-chain-foundations-manufacturing-and-service-operations-professional-certificate"
 course_count: 4
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - professional-certificate
   - topic/hardware
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # CSCMP Supply Chain Foundations: Manufacturing and Service Operations Professional Certificate

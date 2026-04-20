@@ -1,10 +1,12 @@
 ---
 type: topic-moc
+cssclasses:
+  - lle-topic
 linkedin_topic: Database Management
 tags:
   - moc
   - topic/database-management
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Database Management

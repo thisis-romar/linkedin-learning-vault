@@ -1,5 +1,7 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/build-an-ethereum-blockchain-app"
 course_count: 11
 linkedin_topics:
@@ -9,7 +11,7 @@ tags:
   - learning-path
   - topic/data-science
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Build an Ethereum Blockchain App

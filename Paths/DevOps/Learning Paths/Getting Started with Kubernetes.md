@@ -1,15 +1,17 @@
 ---
 type: learning-path
+cssclasses:
+  - lle-learning-path
 url: "https://www.linkedin.com/learning/paths/getting-started-with-kubernetes"
 course_count: 6
 linkedin_topics:
   - DevOps
-louvain_cluster: 0
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/devops
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Getting Started with Kubernetes

@@ -1,10 +1,12 @@
 ---
 type: skill
+cssclasses:
+  - lle-skill
 course_count: 1
 tags:
   - skill
   - skill/office-365
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Office 365

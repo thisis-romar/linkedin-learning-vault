@@ -1,17 +1,19 @@
 ---
 type: professional-certificate
+cssclasses:
+  - lle-professional-certificate
 url: "https://www.linkedin.com/learning/paths/docker-foundations-professional-certificate"
 course_count: 3
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 0
+louvain_cluster: 5
 tags:
   - professional-certificate
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-17
+created: 2026-04-19
 ---
 
 # Docker Foundations Professional Certificate
