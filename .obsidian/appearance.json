@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
     "timestamps",
-    "note-types"
+    "note-types",
+    "graph-view"
   ]
 }
