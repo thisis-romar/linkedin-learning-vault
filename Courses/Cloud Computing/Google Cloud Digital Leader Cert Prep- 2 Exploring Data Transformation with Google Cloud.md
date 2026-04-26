@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHnsbvLOIsOEg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726251162723?e=2147483647&amp;v=beta&amp;t=fJSl0-2k8-JmDlHlrczTLIf1ChXA4NSeR0Kb_rkn4zs"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Prepare for the Google Cloud Digital Leader Certification
+  - '[[Prepare for the Google Cloud Digital Leader Certification]]'
+prev_courses:
+  - '[[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]]'
+next_courses:
+  - '[[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]]'
+path_nav: '[{"path":"Prepare for the Google Cloud Digital Leader Certification","position":2,"total":6,"prev":"Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud","next":"Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/data-transformation
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Google Cloud Digital Leader Cert Prep: 2 Exploring Data Transformation with Google Cloud](https://media.licdn.com/dms/image/v2/D4E0DAQHnsbvLOIsOEg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726251162723?e=2147483647&amp;v=beta&amp;t=fJSl0-2k8-JmDlHlrczTLIf1ChXA4NSeR0Kb_rkn4zs)

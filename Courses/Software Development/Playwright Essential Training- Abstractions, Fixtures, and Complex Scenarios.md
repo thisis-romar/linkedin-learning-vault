@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/playwright-essential-training-abstr
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQE9lAhxTlWiCg/learning-public-crop_675_1200/B4EZcYCy.PHsAc-/0/1748455076488?e=2147483647&amp;v=beta&amp;t=CPHzDNayYyzEjIJFGfimqD6l_PUS5tJY7f9d8NmHDqE"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Test Automation with Playwright
+  - '[[Master Test Automation with Playwright]]'
+prev_courses:
+  - '[[Learning Playwright]]'
+next_courses:
+  - '[[Playwright- Design Patterns]]'
+path_nav: '[{"path":"Master Test Automation with Playwright","position":2,"total":4,"prev":"Learning Playwright","next":"Playwright- Design Patterns"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Playwright Essential Training: Abstractions, Fixtures, and Complex Scenarios](https://media.licdn.com/dms/image/v2/D4E0DAQE9lAhxTlWiCg/learning-public-crop_675_1200/B4EZcYCy.PHsAc-/0/1748455076488?e=2147483647&amp;v=beta&amp;t=CPHzDNayYyzEjIJFGfimqD6l_PUS5tJY7f9d8NmHDqE)

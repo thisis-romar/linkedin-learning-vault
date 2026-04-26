@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/azure-for-developers-retrieval-augm
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQG-x1Hq4RJ1fw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736370122951?e=2147483647&amp;v=beta&amp;t=5nuq4RIL9cR3GIpBduJjWRorj4-LziTQUyuLYyeYxLQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build AI Products Using Azure AI Services in Your Development Lifecycle
+  - '[[Build AI Products Using Azure AI Services in Your Development Lifecycle]]'
+prev_courses:
+  - '[[Azure AI for Developers- OpenAI Services and Generative AI Models]]'
+next_courses:
+  - '[[Azure AI for Developers- Content Safety and Responsible AI]]'
+path_nav: '[{"path":"Build AI Products Using Azure AI Services in Your Development Lifecycle","position":5,"total":8,"prev":"Azure AI for Developers- OpenAI Services and Generative AI Models","next":"Azure AI for Developers- Content Safety and Responsible AI"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/azure-ai-foundry
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure for Developers: Retrieval-Augmented Generation (RAG) with Azure AI](https://media.licdn.com/dms/image/v2/D4E0DAQG-x1Hq4RJ1fw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736370122951?e=2147483647&amp;v=beta&amp;t=5nuq4RIL9cR3GIpBduJjWRorj4-LziTQUyuLYyeYxLQ)

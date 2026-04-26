@@ -17,9 +17,18 @@ github: "https://github.com/LinkedInLearning/databases-pf-784293"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQE3jENAPmsZ-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1592866492461?e=2147483647&amp;v=beta&amp;t=yAbEoiIyPCsSwpTaBq3oU3k4eX7zA5jpwAL90ZgNKZI"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore a Career in Database Development
-  - Become a Programmer- Foundations
-  - Become a Software Developer
+  - '[[Explore a Career in Database Development]]'
+  - '[[Become a Programmer- Foundations]]'
+  - '[[Become a Software Developer]]'
+prev_courses:
+  - null
+  - '[[Programming Foundations- Design Patterns]]'
+  - '[[Programming Foundations Fundamentals]]'
+next_courses:
+  - '[[Quick Start Guide to SQL]]'
+  - '[[Programming Foundations- Memory, Pointers, and Garbage Collection]]'
+  - '[[Succeeding in Web Development- Full Stack and Front End]]'
+path_nav: '[{"path":"Explore a Career in Database Development","position":1,"total":5,"prev":null,"next":"Quick Start Guide to SQL"},{"path":"Become a Programmer- Foundations","position":7,"total":12,"prev":"Programming Foundations- Design Patterns","next":"Programming Foundations- Memory, Pointers, and Garbage Collection"},{"path":"Become a Software Developer","position":2,"total":12,"prev":"Programming Foundations Fundamentals","next":"Succeeding in Web Development- Full Stack and Front End"}]'
 path_count: 3
 tags:
   - course
@@ -29,7 +38,7 @@ tags:
   - skill/database-development
   - skill/programming-foundations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations Databases](https://media.licdn.com/dms/image/v2/C4D0DAQE3jENAPmsZ-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1592866492461?e=2147483647&amp;v=beta&amp;t=yAbEoiIyPCsSwpTaBq3oU3k4eX7zA5jpwAL90ZgNKZI)

@@ -10,13 +10,16 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHPrIqvNrsOug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700010883148?e=2147483647&amp;v=beta&amp;t=v4NZqD46HCJpYvZ31qzKJz0IPE5iURArAUIA0f5cADA"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career as a Financial Analyst
+  - '[[Explore a Career as a Financial Analyst]]'
+prev_courses:
+  - '[[Excel for Corporate Finance Professionals]]'
+path_nav: '[{"path":"Explore a Career as a Financial Analyst","position":5,"total":5,"prev":"Excel for Corporate Finance Professionals","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leveraging Generative AI in Finance and Accounting](https://media.licdn.com/dms/image/v2/D4D0DAQHPrIqvNrsOug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700010883148?e=2147483647&amp;v=beta&amp;t=v4NZqD46HCJpYvZ31qzKJz0IPE5iURArAUIA0f5cADA)

@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGm4D3RAXC41w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727115055940?e=2147483647&amp;v=beta&amp;t=Azn0b9D87zuIJ3UtOrlnLjqxAj68CySav6WxJJY8dx0"
 linkedin_topic: Data Science
 learning_paths:
-  - Strategic Execution and Business Impact for Senior Managers and Senior Leaders
+  - '[[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]]'
+prev_courses:
+  - '[[Corporate Financial Statement Analysis (2023)]]'
+next_courses:
+  - '[[Stakeholder Management for Leaders and Managers]]'
+path_nav: '[{"path":"Strategic Execution and Business Impact for Senior Managers and Senior Leaders","position":3,"total":12,"prev":"Corporate Financial Statement Analysis (2023)","next":"Stakeholder Management for Leaders and Managers"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/data-driven-decision-making
   - skill/business-operations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data-Driven Decisions in Business Operations](https://media.licdn.com/dms/image/v2/D4E0DAQGm4D3RAXC41w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727115055940?e=2147483647&amp;v=beta&amp;t=Azn0b9D87zuIJ3UtOrlnLjqxAj68CySav6WxJJY8dx0)

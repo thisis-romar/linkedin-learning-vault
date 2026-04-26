@@ -10,14 +10,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFflwJQIq13kA/learning-public-crop_675_1200/B4DZTdUgzhHYAc-/0/1738879929842?e=2147483647&amp;v=beta&amp;t=3JRD-ql75yU-22RlAWvdGRQAbob7WM8LxGItXheP0YM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Agentic AI Systems for Developers
+  - '[[Building Agentic AI Systems for Developers]]'
+prev_courses:
+  - '[[Build AI Agents and Chatbots with LangGraph]]'
+path_nav: '[{"path":"Building Agentic AI Systems for Developers","position":6,"total":6,"prev":"Build AI Agents and Chatbots with LangGraph","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ChatGPT's Operator: Automating Everyday Tasks with AI Agents](https://media.licdn.com/dms/image/v2/D4D0DAQFflwJQIq13kA/learning-public-crop_675_1200/B4DZTdUgzhHYAc-/0/1738879929842?e=2147483647&amp;v=beta&amp;t=3JRD-ql75yU-22RlAWvdGRQAbob7WM8LxGItXheP0YM)

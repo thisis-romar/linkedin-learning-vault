@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # AI Essentials for Business Analysis
@@ -69,3 +69,7 @@ _Paths that share courses with this one:_
 - [[Build AI Aptitude as a New Manager]] (1 shared courses)
 - [[Build AI Aptitude as a Middle Manager]] (1 shared courses)
 - [[Generative AI for Marketing Professional Certificate by the American Marketing Association]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

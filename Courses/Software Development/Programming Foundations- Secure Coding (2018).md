@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHz_x3XQit9Gw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665661027?e=2147483647&amp;v=beta&amp;t=vJbz7MiTx8N0DalQyWnlCRE2Xdyu_GnLxTdQp3WQz7k"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Programmer- Foundations
+  - '[[Become a Programmer- Foundations]]'
+prev_courses:
+  - '[[Programming Foundations- APIs and Web Services]]'
+next_courses:
+  - '[[Programming Foundations- Test-Driven Development]]'
+path_nav: '[{"path":"Become a Programmer- Foundations","position":10,"total":12,"prev":"Programming Foundations- APIs and Web Services","next":"Programming Foundations- Test-Driven Development"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations: Secure Coding (2018)](https://media.licdn.com/dms/image/v2/C4E0DAQHz_x3XQit9Gw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665661027?e=2147483647&amp;v=beta&amp;t=vJbz7MiTx8N0DalQyWnlCRE2Xdyu_GnLxTdQp3WQz7k)

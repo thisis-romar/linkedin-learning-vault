@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFOdY9uHPsopg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708040450020?e=2147483647&amp;v=beta&amp;t=PhjJ_JYLasPLkaavC8M4C64UvyX1V7TXb7c33BoUJKw"
 linkedin_topic: Data Science
 learning_paths:
-  - AI Essentials for User Experience Designers
+  - '[[AI Essentials for User Experience Designers]]'
+prev_courses:
+  - '[[The Ai Driven Product Designer]]'
+next_courses:
+  - '[[Generative AI UX Design with Uizard]]'
+path_nav: '[{"path":"AI Essentials for User Experience Designers","position":2,"total":5,"prev":"The Ai Driven Product Designer","next":"Generative AI UX Design with Uizard"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using AI Tools for UX Design](https://media.licdn.com/dms/image/v2/D560DAQFOdY9uHPsopg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708040450020?e=2147483647&amp;v=beta&amp;t=PhjJ_JYLasPLkaavC8M4C64UvyX1V7TXb7c33BoUJKw)

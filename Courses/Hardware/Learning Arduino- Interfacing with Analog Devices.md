@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFyD5zHSy5t6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568660773632?e=2147483647&amp;v=beta&amp;t=XObMuw9A5C8iAra0Saz3-tdHinGa86yC2vkrqAfGjs4"
 linkedin_topic: Hardware
 learning_paths:
-  - Become an Arduino Developer
+  - '[[Become an Arduino Developer]]'
+prev_courses:
+  - '[[Electronics Foundations- Semiconductor Devices]]'
+next_courses:
+  - '[[Learning Arduino- Pulse Width Modulation]]'
+path_nav: '[{"path":"Become an Arduino Developer","position":6,"total":11,"prev":"Electronics Foundations- Semiconductor Devices","next":"Learning Arduino- Pulse Width Modulation"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Arduino: Interfacing with Analog Devices](https://media.licdn.com/dms/image/v2/C4E0DAQFyD5zHSy5t6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568660773632?e=2147483647&amp;v=beta&amp;t=XObMuw9A5C8iAra0Saz3-tdHinGa86yC2vkrqAfGjs4)

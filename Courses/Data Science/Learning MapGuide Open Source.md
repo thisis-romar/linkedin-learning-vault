@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFTal9H4RJLgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621883224657?e=2147483647&amp;v=beta&amp;t=1T2LJ0Gx9yubobZiDCcdfmteUIY4QJueORwHqX5RiqE"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in GIS
+  - '[[Advance Your Skills in GIS]]'
+prev_courses:
+  - '[[Learning ArcGIS Python Scripting]]'
+next_courses:
+  - '[[Creating Maps with R]]'
+path_nav: '[{"path":"Advance Your Skills in GIS","position":8,"total":9,"prev":"Learning ArcGIS Python Scripting","next":"Creating Maps with R"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/mapguide
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning MapGuide Open Source](https://media.licdn.com/dms/image/v2/C560DAQFTal9H4RJLgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621883224657?e=2147483647&amp;v=beta&amp;t=1T2LJ0Gx9yubobZiDCcdfmteUIY4QJueORwHqX5RiqE)

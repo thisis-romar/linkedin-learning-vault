@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEBAe2Ejf5zWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614383169024?e=2147483647&amp;v=beta&amp;t=1Af7JXg1f5g1jiF0_KXEmW4JScjR96N9F-XvzJP5grc"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Applying Lean, DevOps, and Agile to Your IT Organization
-  - Advance Your Skills as a Supply Chain Manager
+  - '[[Applying Lean, DevOps, and Agile to Your IT Organization]]'
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+prev_courses:
+  - '[[Devops Foundations Lean And Agile]]'
+  - '[[Operational Excellence Foundations]]'
+next_courses:
+  - '[[Agile Software Development]]'
+  - '[[Six Sigma Foundations]]'
+path_nav: '[{"path":"Applying Lean, DevOps, and Agile to Your IT Organization","position":2,"total":9,"prev":"Devops Foundations Lean And Agile","next":"Agile Software Development"},{"path":"Advance Your Skills as a Supply Chain Manager","position":7,"total":15,"prev":"Operational Excellence Foundations","next":"Six Sigma Foundations"}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +26,7 @@ tags:
   - topic/it-help-desk
   - topic/security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Lean Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQEBAe2Ejf5zWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614383169024?e=2147483647&amp;v=beta&amp;t=1Af7JXg1f5g1jiF0_KXEmW4JScjR96N9F-XvzJP5grc)

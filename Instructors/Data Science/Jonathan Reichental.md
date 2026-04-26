@@ -19,7 +19,7 @@ tags:
   - topic/data-science
   - topic/database-management
   - topic/software-development
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Jonathan Reichental

@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/building-a-video-transcriber-with-n
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE-HeK__tSoEA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702508337928?e=2147483647&amp;v=beta&amp;t=-bMuKzkCcu3voQwZlYlmP5R5KtIoBnRO6zo-UoKojOU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your AI Skills with Google Gemini and Google Cloud Platform
+  - '[[Develop Your AI Skills with Google Gemini and Google Cloud Platform]]'
+prev_courses:
+  - '[[Building with Google Gemini Advanced and Ultra]]'
+next_courses:
+  - '[[Google Cloud Platform for Machine Learning Essential Training]]'
+path_nav: '[{"path":"Develop Your AI Skills with Google Gemini and Google Cloud Platform","position":5,"total":7,"prev":"Building with Google Gemini Advanced and Ultra","next":"Google Cloud Platform for Machine Learning Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +37,7 @@ tags:
   - skill/machine-transcription
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Video Transcriber with Node.js and Google AI Speech-To-Text API](https://media.licdn.com/dms/image/v2/D4D0DAQE-HeK__tSoEA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702508337928?e=2147483647&amp;v=beta&amp;t=-bMuKzkCcu3voQwZlYlmP5R5KtIoBnRO6zo-UoKojOU)

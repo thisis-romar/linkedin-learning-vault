@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGZpDB3TmKYsA/learning-public-crop_675_1200/B56ZbF5SkzGgAY-/0/1747076852693?e=2147483647&amp;v=beta&amp;t=a2mR-X04ae0V5iUmry6EIX13ITVQmPN_QgoBvxlk3XI"
 linkedin_topic: Web Development
 learning_paths:
-  - Build for Digital Accessibility
+  - '[[Build for Digital Accessibility]]'
+prev_courses:
+  - '[[Microsoft Office Accessibility for Beginners]]'
+next_courses:
+  - '[[Using Stark for Accessible Design Projects]]'
+path_nav: '[{"path":"Build for Digital Accessibility","position":11,"total":12,"prev":"Microsoft Office Accessibility for Beginners","next":"Using Stark for Accessible Design Projects"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/digital-accessibility
   - skill/react-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React: Components, Context, and Accessibility](https://media.licdn.com/dms/image/v2/D560DAQGZpDB3TmKYsA/learning-public-crop_675_1200/B56ZbF5SkzGgAY-/0/1747076852693?e=2147483647&amp;v=beta&amp;t=a2mR-X04ae0V5iUmry6EIX13ITVQmPN_QgoBvxlk3XI)

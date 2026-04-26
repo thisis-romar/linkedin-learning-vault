@@ -15,9 +15,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGI7CrhTI-Ouw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706571770307?e=2147483647&amp;v=beta&amp;t=CUlQFf1RdD2uNr4buBXE37w_24bPqnuNno6iT0Z35og"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Business Analyst
-  - Get Ahead in Business Analytics and Analysis
-  - Advance Your Skills as a Supply Chain Manager
+  - '[[Getting Started as a Business Analyst]]'
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+prev_courses:
+  - '[[Business Analyst and Project Manager Collaboration (2018)]]'
+  - '[[Business Analytics- Forecasting with Seasonal Baseline Smoothing]]'
+  - '[[Measuring Business Performance]]'
+next_courses:
+  - '[[Business Analysis Foundations- Business Process Modeling]]'
+  - '[[Requirements Elicitation for Business Analysis- Stakeholder Conversations]]'
+  - '[[Supply Chain Cybersecurity- Preventing Supply Chain Attacks]]'
+path_nav: '[{"path":"Getting Started as a Business Analyst","position":7,"total":18,"prev":"Business Analyst and Project Manager Collaboration (2018)","next":"Business Analysis Foundations- Business Process Modeling"},{"path":"Get Ahead in Business Analytics and Analysis","position":16,"total":19,"prev":"Business Analytics- Forecasting with Seasonal Baseline Smoothing","next":"Requirements Elicitation for Business Analysis- Stakeholder Conversations"},{"path":"Advance Your Skills as a Supply Chain Manager","position":11,"total":15,"prev":"Measuring Business Performance","next":"Supply Chain Cybersecurity- Preventing Supply Chain Attacks"}]'
 path_count: 3
 tags:
   - course
@@ -26,7 +35,7 @@ tags:
   - skill/requirements-analysis
   - skill/requirements-gathering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Requirements Elicitation and Analysis](https://media.licdn.com/dms/image/v2/D560DAQGI7CrhTI-Ouw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706571770307?e=2147483647&amp;v=beta&amp;t=CUlQFf1RdD2uNr4buBXE37w_24bPqnuNno6iT0Z35og)

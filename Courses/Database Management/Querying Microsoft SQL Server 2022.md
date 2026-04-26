@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEscFM32sKdPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733774121568?e=2147483647&amp;v=beta&amp;t=TBC94501oOlSBQCoW1asTjxJITxEbslKKgk6iFDasAs"
 linkedin_topic: Database Management
 learning_paths:
-  - Advance Your MS SQL Server Skills
+  - '[[Advance Your MS SQL Server Skills]]'
+prev_courses:
+  - '[[Microsoft SQL Server 2022 Essential Training]]'
+next_courses:
+  - '[[Automating SQL Server with dbatools]]'
+path_nav: '[{"path":"Advance Your MS SQL Server Skills","position":3,"total":9,"prev":"Microsoft SQL Server 2022 Essential Training","next":"Automating SQL Server with dbatools"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/database-queries
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Querying Microsoft SQL Server 2022](https://media.licdn.com/dms/image/v2/D560DAQEscFM32sKdPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733774121568?e=2147483647&amp;v=beta&amp;t=TBC94501oOlSBQCoW1asTjxJITxEbslKKgk6iFDasAs)

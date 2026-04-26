@@ -6,7 +6,7 @@ course_count: 7
 tags:
   - skill
   - skill/programming-foundations
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Programming Foundations

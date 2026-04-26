@@ -21,7 +21,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHTDXpuIqUo4g/learning-public-crop_675_1200/B4EZThwkjAGgAY-/0/1738954394457?e=2147483647&amp;v=beta&amp;t=LT4SPB_5g-pS1jct-r_lugz3gc8U62rchA4lrompLIo"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Excel for Data Science
+  - '[[Master Excel for Data Science]]'
+prev_courses:
+  - '[[Statistics Foundations 1- The Basics]]'
+next_courses:
+  - '[[Learning Excel- Data Analysis]]'
+path_nav: '[{"path":"Master Excel for Data Science","position":2,"total":7,"prev":"Statistics Foundations 1- The Basics","next":"Learning Excel- Data Analysis"}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide to Excel Statistics with Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQHTDXpuIqUo4g/learning-public-crop_675_1200/B4EZThwkjAGgAY-/0/1738954394457?e=2147483647&amp;v=beta&amp;t=LT4SPB_5g-pS1jct-r_lugz3gc8U62rchA4lrompLIo)

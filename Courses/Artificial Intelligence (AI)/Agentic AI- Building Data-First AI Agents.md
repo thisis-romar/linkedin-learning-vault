@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFL4bRud3pXew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721841126256?e=2147483647&amp;v=beta&amp;t=D6WrF-aLEBaJ-TJaFNTNW3TdmYNjbt2msafQjvqvJks"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
+  - '[[Understanding Generative AI for Tech Leaders]]'
+prev_courses:
+  - '[[Introduction to Multimodal Prompting for Generative AI]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":22,"total":22,"prev":"Introduction to Multimodal Prompting for Generative AI","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agentic AI: Building Data-First AI Agents](https://media.licdn.com/dms/image/v2/D560DAQFL4bRud3pXew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721841126256?e=2147483647&amp;v=beta&amp;t=D6WrF-aLEBaJ-TJaFNTNW3TdmYNjbt2msafQjvqvJks)

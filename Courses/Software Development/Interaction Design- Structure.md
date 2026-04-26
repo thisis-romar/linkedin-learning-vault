@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHDS4rFyXcB6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117972469?e=2147483647&amp;v=beta&amp;t=5rYCdzqFhakVEqsEe4N77a9h3F8SaDs4ndoXvNv5Czw"
 linkedin_topic: Software Development
 learning_paths:
-  - Exploring a Career in Interaction Design
+  - '[[Exploring a Career in Interaction Design]]'
+prev_courses:
+  - '[[Ux Foundations Interaction Design]]'
+next_courses:
+  - '[[Interaction Design- Software and Web Design Patterns]]'
+path_nav: '[{"path":"Exploring a Career in Interaction Design","position":2,"total":9,"prev":"Ux Foundations Interaction Design","next":"Interaction Design- Software and Web Design Patterns"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Interaction Design: Structure](https://media.licdn.com/dms/image/v2/C4E0DAQHDS4rFyXcB6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117972469?e=2147483647&amp;v=beta&amp;t=5rYCdzqFhakVEqsEe4N77a9h3F8SaDs4ndoXvNv5Czw)

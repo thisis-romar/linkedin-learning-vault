@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH4uk98MNH5IA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712361684240?e=2147483647&amp;v=beta&amp;t=RoWpQoF2FnYjGfPy0dgZqqxG_ZsY0Qjg8hxViN_Bg5U"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Python in Excel Skills
+  - '[[Advance Your Python in Excel Skills]]'
+prev_courses:
+  - '[[Python In Excel Getting Started With Data Analysis]]'
+next_courses:
+  - '[[Data Cleaning and Manipulating with Python in Excel]]'
+path_nav: '[{"path":"Advance Your Python in Excel Skills","position":2,"total":7,"prev":"Python In Excel Getting Started With Data Analysis","next":"Data Cleaning and Manipulating with Python in Excel"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python in Excel: Working with pandas DataFrames](https://media.licdn.com/dms/image/v2/D560DAQH4uk98MNH5IA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712361684240?e=2147483647&amp;v=beta&amp;t=RoWpQoF2FnYjGfPy0dgZqqxG_ZsY0Qjg8hxViN_Bg5U)

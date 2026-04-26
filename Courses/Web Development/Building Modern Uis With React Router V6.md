@@ -16,7 +16,10 @@ github: "https://github.com/LinkedInLearning/building-modern-uis-with-react-rout
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQG395sowEYfug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660328061370?e=2147483647&amp;v=beta&amp;t=b5V8z7yZ8KJieecrl7pgnX8gaVHjXg8pX3d07ij63co"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your React Skills
+  - '[[Improve Your React Skills]]'
+next_courses:
+  - '[[React- Building Styles with CSS Modules]]'
+path_nav: '[{"path":"Improve Your React Skills","position":1,"total":9,"prev":null,"next":"React- Building Styles with CSS Modules"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - skill/react-js
   - skill/user-interface-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Modern Uis With React Router V6](https://media.licdn.com/dms/image/v2/C560DAQG395sowEYfug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660328061370?e=2147483647&amp;v=beta&amp;t=b5V8z7yZ8KJieecrl7pgnX8gaVHjXg8pX3d07ij63co)

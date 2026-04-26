@@ -15,9 +15,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF65hPJINtZCw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1606852319338?e=2147483647&amp;v=beta&amp;t=zx3WTxTKwHC4Ma6idGzBo0EUKwNxJmISG5mc5w9pVts"
 linkedin_topic: Data Science
 learning_paths:
-  - Master the Concepts of Data Visualization and Storytelling
-  - Introduction to Fundamental Skills for Data Work- Data Visualization
-  - Become a Data Scientist
+  - '[[Master the Concepts of Data Visualization and Storytelling]]'
+  - '[[Introduction to Fundamental Skills for Data Work- Data Visualization]]'
+  - '[[Become a Data Scientist]]'
+prev_courses:
+  - null
+  - '[[Tableau Essential Training]]'
+  - '[[Statistics Foundations 2- Probability]]'
+next_courses:
+  - '[[Picking the Right Chart for Your Data]]'
+  - '[[Power BI Data Dashboards]]'
+  - '[[Big Data in the Age of AI]]'
+path_nav: '[{"path":"Master the Concepts of Data Visualization and Storytelling","position":1,"total":7,"prev":null,"next":"Picking the Right Chart for Your Data"},{"path":"Introduction to Fundamental Skills for Data Work- Data Visualization","position":4,"total":7,"prev":"Tableau Essential Training","next":"Power BI Data Dashboards"},{"path":"Become a Data Scientist","position":7,"total":11,"prev":"Statistics Foundations 2- Probability","next":"Big Data in the Age of AI"}]'
 path_count: 3
 tags:
   - course
@@ -26,7 +35,7 @@ tags:
   - skill/data-storytelling
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Visualization Storytelling](https://media.licdn.com/dms/image/v2/C4E0DAQF65hPJINtZCw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1606852319338?e=2147483647&amp;v=beta&amp;t=zx3WTxTKwHC4Ma6idGzBo0EUKwNxJmISG5mc5w9pVts)

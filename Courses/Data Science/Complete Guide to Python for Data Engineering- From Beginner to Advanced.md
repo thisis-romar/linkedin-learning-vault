@@ -17,10 +17,21 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG4XG_e0J0VZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722276483754?e=2147483647&amp;v=beta&amp;t=eSZDY7JKslVQ7ejDUjE5aFi5hqXXu78rPqCgIDWIoko"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Collection
-  - Data Engineering Foundations Professional Certificate by Astronomer
-  - Master Data Engineering
-  - Data Engineering Hands-On Practice
+  - '[[Introduction to Fundamental Skills for Data Work- Data Collection]]'
+  - '[[Data Engineering Foundations Professional Certificate by Astronomer]]'
+  - '[[Master Data Engineering]]'
+  - '[[Data Engineering Hands-On Practice]]'
+prev_courses:
+  - '[[PySpark Essential Training- Introduction to Building Data Pipelines]]'
+  - '[[Learning SQL Programming]]'
+  - '[[Architecting Big Data Applications- Batch Mode Application Engineering]]'
+  - '[[Hands-On Advanced Python- Data Engineering Basics]]'
+next_courses:
+  - '[[Ethical Data Collection for AI Implementation]]'
+  - '[[Hands-On Introduction- Data Engineering]]'
+  - '[[Data Engineering- dbt for SQL]]'
+  - '[[Data Engineering With Dbt]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Collection","position":5,"total":6,"prev":"PySpark Essential Training- Introduction to Building Data Pipelines","next":"Ethical Data Collection for AI Implementation"},{"path":"Data Engineering Foundations Professional Certificate by Astronomer","position":2,"total":6,"prev":"Learning SQL Programming","next":"Hands-On Introduction- Data Engineering"},{"path":"Master Data Engineering","position":5,"total":8,"prev":"Architecting Big Data Applications- Batch Mode Application Engineering","next":"Data Engineering- dbt for SQL"},{"path":"Data Engineering Hands-On Practice","position":3,"total":7,"prev":"Hands-On Advanced Python- Data Engineering Basics","next":"Data Engineering With Dbt"}]'
 path_count: 4
 tags:
   - course
@@ -31,7 +42,7 @@ tags:
   - skill/python-programming-language
   - skill/data-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide to Python for Data Engineering: From Beginner to Advanced](https://media.licdn.com/dms/image/v2/D560DAQG4XG_e0J0VZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722276483754?e=2147483647&amp;v=beta&amp;t=eSZDY7JKslVQ7ejDUjE5aFi5hqXXu78rPqCgIDWIoko)

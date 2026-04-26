@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHUfFwJtXJYEg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692377629184?e=2147483647&amp;v=beta&amp;t=beUXRnlvechO_6OlRUOvbPDAu9C8YsfNs4OxLLIdJNo"
 linkedin_topic: Hardware
 learning_paths:
-  - Become a PLC Developer
+  - '[[Become a PLC Developer]]'
+prev_courses:
+  - '[[Learning Industrial Automation]]'
+next_courses:
+  - '[[Learning PLC Ladder Logic- 2 Diving Deeper]]'
+path_nav: '[{"path":"Become a PLC Developer","position":2,"total":7,"prev":"Learning Industrial Automation","next":"Learning PLC Ladder Logic- 2 Diving Deeper"}]'
 path_count: 1
 tags:
   - course
   - topic/hardware
   - skill/plc-ladder-logic
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning PLC Ladder Logic: 1 The Basics](https://media.licdn.com/dms/image/v2/D4E0DAQHUfFwJtXJYEg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692377629184?e=2147483647&amp;v=beta&amp;t=beUXRnlvechO_6OlRUOvbPDAu9C8YsfNs4OxLLIdJNo)

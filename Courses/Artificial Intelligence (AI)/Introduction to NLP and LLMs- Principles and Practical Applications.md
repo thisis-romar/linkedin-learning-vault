@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFEUOH2dE9M3A/learning-public-crop_675_1200/B4EZUAZnk0HgAY-/0/1739468470930?e=2147483647&amp;v=beta&amp;t=OAz5gVG6cgZXXoD9LHT8NppsvlzicwNrbBntaIFa7wE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
+  - '[[Understanding Generative AI for Tech Leaders]]'
+prev_courses:
+  - '[[Generative AI- Introduction to Large Language Models]]'
+next_courses:
+  - '[[Ethics in the Age of Generative AI]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":4,"total":22,"prev":"Generative AI- Introduction to Large Language Models","next":"Ethics in the Age of Generative AI"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/large-language-models-llm
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to NLP and LLMs: Principles and Practical Applications](https://media.licdn.com/dms/image/v2/D4E0DAQFEUOH2dE9M3A/learning-public-crop_675_1200/B4EZUAZnk0HgAY-/0/1739468470930?e=2147483647&amp;v=beta&amp;t=OAz5gVG6cgZXXoD9LHT8NppsvlzicwNrbBntaIFa7wE)

@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHt6E-zUzRRcA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633369796940?e=2147483647&amp;v=beta&amp;t=jV1RKFz3tBJRYWTJ6K7FEf6CWTzk322ZFVViK2rYxmc"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your React Skills
+  - '[[Improve Your React Skills]]'
+prev_courses:
+  - '[[Building Modern Uis With React Router V6]]'
+next_courses:
+  - '[[React- Securing Applications]]'
+path_nav: '[{"path":"Improve Your React Skills","position":2,"total":9,"prev":"Building Modern Uis With React Router V6","next":"React- Securing Applications"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/cascading-style-sheets-css
   - skill/react-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React: Building Styles with CSS Modules](https://media.licdn.com/dms/image/v2/C4E0DAQHt6E-zUzRRcA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633369796940?e=2147483647&amp;v=beta&amp;t=jV1RKFz3tBJRYWTJ6K7FEf6CWTzk322ZFVViK2rYxmc)

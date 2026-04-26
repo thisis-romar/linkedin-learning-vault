@@ -14,8 +14,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH2oKP36gt7_A/learning-public-crop_675_1200/B56ZqdJYQKJUAY-/0/1763573073601?e=2147483647&amp;v=beta&amp;t=CO0-6mKFQoEnAj6q2bb7tUvRtna87K_xeXvXpsjuFbY"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance Your AWS Development Skills- Exploring Complex Application Development
-  - Develop Your AWS Skills
+  - '[[Advance Your AWS Development Skills- Exploring Complex Application Development]]'
+  - '[[Develop Your AWS Skills]]'
+next_courses:
+  - '[[Introduction to AWS AI Services for Developers]]'
+  - '[[Complete Guide to AWS Software Deployment]]'
+path_nav: '[{"path":"Advance Your AWS Development Skills- Exploring Complex Application Development","position":1,"total":6,"prev":null,"next":"Introduction to AWS AI Services for Developers"},{"path":"Develop Your AWS Skills","position":1,"total":4,"prev":null,"next":"Complete Guide to AWS Software Deployment"}]'
 path_count: 2
 tags:
   - course
@@ -24,7 +28,7 @@ tags:
   - topic/software-development
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Aws Essential Training For Developers](https://media.licdn.com/dms/image/v2/D560DAQH2oKP36gt7_A/learning-public-crop_675_1200/B56ZqdJYQKJUAY-/0/1763573073601?e=2147483647&amp;v=beta&amp;t=CO0-6mKFQoEnAj6q2bb7tUvRtna87K_xeXvXpsjuFbY)

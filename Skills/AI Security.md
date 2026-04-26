@@ -6,7 +6,7 @@ course_count: 8
 tags:
   - skill
   - skill/ai-security
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # AI Security

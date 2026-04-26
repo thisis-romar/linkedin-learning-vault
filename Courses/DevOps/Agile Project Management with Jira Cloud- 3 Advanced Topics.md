@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGuiPKvTS5enQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633712631003?e=2147483647&amp;v=beta&amp;t=ySDkZBEM7o4Y3znddh9P1JZnvQzKszEqw6ynjYdrTwo"
 linkedin_topic: DevOps
 learning_paths:
-  - Atlassian Agile Project Management Professional Certificate
+  - '[[Atlassian Agile Project Management Professional Certificate]]'
+prev_courses:
+  - '[[Agile Project Management with Jira Cloud- 2 Lean and Agile Processes]]'
+next_courses:
+  - '[[Mistakes to Avoid in Agile Project Management]]'
+path_nav: '[{"path":"Atlassian Agile Project Management Professional Certificate","position":5,"total":6,"prev":"Agile Project Management with Jira Cloud- 2 Lean and Agile Processes","next":"Mistakes to Avoid in Agile Project Management"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/jira
   - skill/agile-project-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agile Project Management with Jira Cloud: 3 Advanced Topics](https://media.licdn.com/dms/image/v2/C560DAQGuiPKvTS5enQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633712631003?e=2147483647&amp;v=beta&amp;t=ySDkZBEM7o4Y3znddh9P1JZnvQzKszEqw6ynjYdrTwo)

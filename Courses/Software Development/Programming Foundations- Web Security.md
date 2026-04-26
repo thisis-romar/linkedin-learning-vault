@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFPY5XAoOMO4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690838117691?e=2147483647&amp;v=beta&amp;t=1iYoKbkOSfocRkAgbW8risB9CtZHZMLKhmg1aMJTlak"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Software Developer
+  - '[[Become a Software Developer]]'
+prev_courses:
+  - '[[Learning SQL Programming]]'
+path_nav: '[{"path":"Become a Software Developer","position":12,"total":12,"prev":"Learning SQL Programming","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/web-services-security
   - skill/programming-foundations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations: Web Security](https://media.licdn.com/dms/image/v2/D560DAQFPY5XAoOMO4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690838117691?e=2147483647&amp;v=beta&amp;t=1iYoKbkOSfocRkAgbW8risB9CtZHZMLKhmg1aMJTlak)

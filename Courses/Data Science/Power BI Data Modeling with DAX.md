@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFpAAsh-X2U1w/learning-public-crop_675_1200/B4EZh3Kg7tGwAY-/0/1754345902655?e=2147483647&amp;v=beta&amp;t=xRxrLcjdmUuwllH4EW955FjrvBo0NiumGD1KiiQp1X8"
 linkedin_topic: Data Science
 learning_paths:
-  - Moving from Data Analyst to Data Scientist
-  - Advance Your Business Analytics Skills
+  - '[[Moving from Data Analyst to Data Scientist]]'
+  - '[[Advance Your Business Analytics Skills]]'
+prev_courses:
+  - '[[Complete Guide to Tableau for Data Scientists]]'
+  - '[[Using Tableau to Discover Powerful Business Insights]]'
+next_courses:
+  - '[[Actionable Insights and Business Data in Practice]]'
+  - '[[SQL for Data Analysis]]'
+path_nav: '[{"path":"Moving from Data Analyst to Data Scientist","position":10,"total":11,"prev":"Complete Guide to Tableau for Data Scientists","next":"Actionable Insights and Business Data in Practice"},{"path":"Advance Your Business Analytics Skills","position":5,"total":11,"prev":"Using Tableau to Discover Powerful Business Insights","next":"SQL for Data Analysis"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/data-modeling
   - skill/dax
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Power BI Data Modeling with DAX](https://media.licdn.com/dms/image/v2/D4E0DAQFpAAsh-X2U1w/learning-public-crop_675_1200/B4EZh3Kg7tGwAY-/0/1754345902655?e=2147483647&amp;v=beta&amp;t=xRxrLcjdmUuwllH4EW955FjrvBo0NiumGD1KiiQp1X8)

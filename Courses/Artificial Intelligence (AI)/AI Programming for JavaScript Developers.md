@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/ai-programming-for-javascript-devel
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGSqyG8nI7k1g/learning-public-crop_675_1200/B4DZW6Gue_HYAY-/0/1742584080610?e=2147483647&amp;v=beta&amp;t=nFZVzcKHTccanZhwa2WZBn1rLuwDqbPZkLjCuij-kz4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Generative AI Skills for Web Developers
+  - '[[Building Generative AI Skills for Web Developers]]'
+prev_courses:
+  - '[[Build with AI- Beyond Pair Programming with AI]]'
+next_courses:
+  - '[[Build a JavaScript AI App with React and the OpenAI API]]'
+path_nav: '[{"path":"Building Generative AI Skills for Web Developers","position":9,"total":10,"prev":"Build with AI- Beyond Pair Programming with AI","next":"Build a JavaScript AI App with React and the OpenAI API"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/javascript
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Programming for JavaScript Developers](https://media.licdn.com/dms/image/v2/D4D0DAQGSqyG8nI7k1g/learning-public-crop_675_1200/B4DZW6Gue_HYAY-/0/1742584080610?e=2147483647&amp;v=beta&amp;t=nFZVzcKHTccanZhwa2WZBn1rLuwDqbPZkLjCuij-kz4)

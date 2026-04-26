@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/dependabot-3009234"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF-995_A-N8Ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1641250840162?e=2147483647&amp;v=beta&amp;t=jVN6_WOanS07uW55d2p6jBwSUt9XsLWJO-qZJuq-hT4"
 linkedin_topic: DevOps
 learning_paths:
-  - Essential New Skills in Software Engineering
+  - '[[Essential New Skills in Software Engineering]]'
+prev_courses:
+  - '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+next_courses:
+  - '[[Software Design- From Requirements to Release]]'
+path_nav: '[{"path":"Essential New Skills in Software Engineering","position":3,"total":4,"prev":"Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines","next":"Software Design- From Requirements to Release"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/github
   - skill/dependency-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![GitHub Dependabot: Dependency Updates](https://media.licdn.com/dms/image/v2/C560DAQF-995_A-N8Ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1641250840162?e=2147483647&amp;v=beta&amp;t=jVN6_WOanS07uW55d2p6jBwSUt9XsLWJO-qZJuq-hT4)

@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/level-up-javascript-4358091/codespa
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFdlZNbwSB6xA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682445111543?e=2147483647&amp;v=beta&amp;t=Ta9Zz_EQt1Z5QWgAuI-g7jJrb7xfBANxTHXT-qGQkQU"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your JavaScript Language Skills
+  - '[[Improve Your JavaScript Language Skills]]'
+prev_courses:
+  - '[[JavaScript- Async]]'
+next_courses:
+  - '[[JavaScript- Recursion]]'
+path_nav: '[{"path":"Improve Your JavaScript Language Skills","position":3,"total":8,"prev":"JavaScript- Async","next":"JavaScript- Recursion"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Level Up: JavaScript](https://media.licdn.com/dms/image/v2/D560DAQFdlZNbwSB6xA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682445111543?e=2147483647&amp;v=beta&amp;t=Ta9Zz_EQt1Z5QWgAuI-g7jJrb7xfBANxTHXT-qGQkQU)

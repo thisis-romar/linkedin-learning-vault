@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/essential-jigsaw-laravel-3155793"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHlII2lNyUsRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639597396787?e=2147483647&amp;v=beta&amp;t=Xkas1rylTvTv_xrRLs9pzK6TlirBpW8Pb5FkJubwR0o"
 linkedin_topic: Web Development
 learning_paths:
-  - Build Your Laravel Skills
+  - '[[Build Your Laravel Skills]]'
+prev_courses:
+  - '[[Building GraphQL Applications in Laravel]]'
+next_courses:
+  - '[[Essential Statamic for PHP and Laravel Developers]]'
+path_nav: '[{"path":"Build Your Laravel Skills","position":5,"total":7,"prev":"Building GraphQL Applications in Laravel","next":"Essential Statamic for PHP and Laravel Developers"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/laravel
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Essential Jigsaw for PHP and Laravel Developers](https://media.licdn.com/dms/image/v2/C560DAQHlII2lNyUsRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639597396787?e=2147483647&amp;v=beta&amp;t=Xkas1rylTvTv_xrRLs9pzK6TlirBpW8Pb5FkJubwR0o)

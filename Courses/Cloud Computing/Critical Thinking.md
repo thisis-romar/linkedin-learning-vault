@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGRLaOVaDrWFw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1593630205638?e=2147483647&amp;v=beta&amp;t=W8ok__3wON_o0CPpwslnQokOxWQmnNu_EWsx-3Pkr0w"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Managing your Career as a Developer
+  - '[[Managing your Career as a Developer]]'
+prev_courses:
+  - '[[Effective Listening (2019)]]'
+next_courses:
+  - '[[Building Resilience]]'
+path_nav: '[{"path":"Managing your Career as a Developer","position":7,"total":8,"prev":"Effective Listening (2019)","next":"Building Resilience"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/decision-making
   - skill/critical-thinking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Critical Thinking](https://media.licdn.com/dms/image/v2/C4E0DAQGRLaOVaDrWFw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1593630205638?e=2147483647&amp;v=beta&amp;t=W8ok__3wON_o0CPpwslnQokOxWQmnNu_EWsx-3Pkr0w)

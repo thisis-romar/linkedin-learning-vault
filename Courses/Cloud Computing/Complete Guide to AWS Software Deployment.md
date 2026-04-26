@@ -18,7 +18,12 @@ github: "https://github.com/brandon-rich-aws-deployment-course"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFs3FVasJPT7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008946435?e=2147483647&amp;v=beta&amp;t=rp_itjuIQnHTNZXxeHb1lae4ifByiNQj05k-32noIDc"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Develop Your AWS Skills
+  - '[[Develop Your AWS Skills]]'
+prev_courses:
+  - '[[Aws Essential Training For Developers]]'
+next_courses:
+  - '[[AWS- Monitoring, Logging, and Remediation (2021)]]'
+path_nav: '[{"path":"Develop Your AWS Skills","position":2,"total":4,"prev":"Aws Essential Training For Developers","next":"AWS- Monitoring, Logging, and Remediation (2021)"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/software-deployment
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide to AWS Software Deployment](https://media.licdn.com/dms/image/v2/D560DAQFs3FVasJPT7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008946435?e=2147483647&amp;v=beta&amp;t=rp_itjuIQnHTNZXxeHb1lae4ifByiNQj05k-32noIDc)

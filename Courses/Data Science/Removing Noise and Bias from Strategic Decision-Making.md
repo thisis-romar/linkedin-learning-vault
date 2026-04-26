@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGkURAPPR45Cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644607484634?e=2147483647&amp;v=beta&amp;t=-MuAYXmGY33GfQRIBIx1W6JfQ60QQu7h8Q_vKfk70S8"
 linkedin_topic: Data Science
 learning_paths:
-  - Strategic Execution and Business Impact for Senior Managers and Senior Leaders
+  - '[[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]]'
+prev_courses:
+  - '[[Strategic Pricing for Products and Services]]'
+next_courses:
+  - '[[Strategic Agility for Organizational Leaders]]'
+path_nav: '[{"path":"Strategic Execution and Business Impact for Senior Managers and Senior Leaders","position":6,"total":12,"prev":"Strategic Pricing for Products and Services","next":"Strategic Agility for Organizational Leaders"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/business-decision-making
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Removing Noise and Bias from Strategic Decision-Making](https://media.licdn.com/dms/image/v2/C4E0DAQGkURAPPR45Cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644607484634?e=2147483647&amp;v=beta&amp;t=-MuAYXmGY33GfQRIBIx1W6JfQ60QQu7h8Q_vKfk70S8)

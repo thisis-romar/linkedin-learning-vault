@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHDGPzLMbnmyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1600898707127?e=2147483647&amp;v=beta&amp;t=QcCm1mdjY0iOu_Y2iHgZeiM8d3pFOs4yS7ykzqkwHjg"
 linkedin_topic: DevOps
 learning_paths:
-  - Getting Started with Kubernetes
+  - '[[Getting Started with Kubernetes]]'
+prev_courses:
+  - '[[Kubernetes- Cloud Native Ecosystem]]'
+path_nav: '[{"path":"Getting Started with Kubernetes","position":6,"total":6,"prev":"Kubernetes- Cloud Native Ecosystem","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/kubernetes
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Securing Containers and Kubernetes Ecosystem](https://media.licdn.com/dms/image/v2/C4E0DAQHDGPzLMbnmyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1600898707127?e=2147483647&amp;v=beta&amp;t=QcCm1mdjY0iOu_Y2iHgZeiM8d3pFOs4yS7ykzqkwHjg)

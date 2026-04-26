@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGsB2LNifdsxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733160846900?e=2147483647&amp;v=beta&amp;t=AopQiMhItOLfxCmFZPlv0-cTixOutZBOWAyHERDu5o0"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Storage
+  - '[[Introduction to Fundamental Skills for Data Work- Data Storage]]'
+prev_courses:
+  - '[[Complete Guide to Data Lakes and Lakehouses]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Storage","position":6,"total":6,"prev":"Complete Guide to Data Lakes and Lakehouses","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/data-architecture
   - skill/mesh
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Mesh Architecture: Core Concepts](https://media.licdn.com/dms/image/v2/D4E0DAQGsB2LNifdsxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733160846900?e=2147483647&amp;v=beta&amp;t=AopQiMhItOLfxCmFZPlv0-cTixOutZBOWAyHERDu5o0)

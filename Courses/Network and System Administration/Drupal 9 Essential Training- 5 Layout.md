@@ -15,7 +15,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHh1CBKnlp8TA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615495254627?e=2147483647&amp;v=beta&amp;t=fOKnkyylvVVxXCQuUT7Duw0LBj365ucn5nypV92KXU0"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Build Your Drupal Skills
+  - '[[Build Your Drupal Skills]]'
+prev_courses:
+  - '[[Drupal 9 Essential Training- 4 Users and Themes]]'
+next_courses:
+  - '[[Drupal 9 Essential Training- 6 Finishing the Design]]'
+path_nav: '[{"path":"Build Your Drupal Skills","position":5,"total":6,"prev":"Drupal 9 Essential Training- 4 Users and Themes","next":"Drupal 9 Essential Training- 6 Finishing the Design"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Drupal 9 Essential Training: 5 Layout](https://media.licdn.com/dms/image/v2/C4E0DAQHh1CBKnlp8TA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615495254627?e=2147483647&amp;v=beta&amp;t=fOKnkyylvVVxXCQuUT7Duw0LBj365ucn5nypV92KXU0)

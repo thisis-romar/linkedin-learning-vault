@@ -14,7 +14,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGHoa3vDOpXPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658297446482?e=2147483647&amp;v=beta&amp;t=OPWY01WClEZui6A9LJJuaOMw2UuOv6xIE1ynvNXa8og"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your IT Service Management (ITSM) Skills
+  - '[[Develop Your IT Service Management (ITSM) Skills]]'
+next_courses:
+  - '[[IT Service Management Foundations- Measures and Metrics]]'
+path_nav: '[{"path":"Develop Your IT Service Management (ITSM) Skills","position":1,"total":5,"prev":null,"next":"IT Service Management Foundations- Measures and Metrics"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![It Service Management Foundations Tools](https://media.licdn.com/dms/image/v2/C560DAQGHoa3vDOpXPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658297446482?e=2147483647&amp;v=beta&amp;t=OPWY01WClEZui6A9LJJuaOMw2UuOv6xIE1ynvNXa8og)

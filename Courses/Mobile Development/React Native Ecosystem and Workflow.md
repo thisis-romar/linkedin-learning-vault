@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGEEn--XFsCTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635785778554?e=2147483647&amp;v=beta&amp;t=fus2y0O4KAA_AtBGz9Tb1uPfGWcoizv_ujBLpQ4WMR8"
 linkedin_topic: Mobile Development
 learning_paths:
-  - Become a React Native Developer
+  - '[[Become a React Native Developer]]'
+prev_courses:
+  - '[[Create a CRM Mobile Application with React Native]]'
+next_courses:
+  - '[[Learning React Native]]'
+path_nav: '[{"path":"Become a React Native Developer","position":4,"total":5,"prev":"Create a CRM Mobile Application with React Native","next":"Learning React Native"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/react-native
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React Native Ecosystem and Workflow](https://media.licdn.com/dms/image/v2/C560DAQGEEn--XFsCTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635785778554?e=2147483647&amp;v=beta&amp;t=fus2y0O4KAA_AtBGz9Tb1uPfGWcoizv_ujBLpQ4WMR8)

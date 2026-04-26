@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFnUEdywa2eqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735866165583?e=2147483647&amp;v=beta&amp;t=kz99oGZlJl0kBz502R6CYyIinyFxwIMLUiXQYeBba60"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Technical Literacy and Future Readiness for Senior Managers and Senior Leaders
+  - '[[Technical Literacy and Future Readiness for Senior Managers and Senior Leaders]]'
+prev_courses:
+  - '[[Foundations Of Responsible Ai]]'
+next_courses:
+  - '[[How to Keep Your Team on the Bleeding Edge of AI Innovation]]'
+path_nav: '[{"path":"Technical Literacy and Future Readiness for Senior Managers and Senior Leaders","position":4,"total":10,"prev":"Foundations Of Responsible Ai","next":"How to Keep Your Team on the Bleeding Edge of AI Innovation"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/change-management
   - skill/digital-transformation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Digital Transformation Tips](https://media.licdn.com/dms/image/v2/D4D0DAQFnUEdywa2eqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735866165583?e=2147483647&amp;v=beta&amp;t=kz99oGZlJl0kBz502R6CYyIinyFxwIMLUiXQYeBba60)

@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFScGwBIa6BMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705536093368?e=2147483647&amp;v=beta&amp;t=fstQayQRs0vRnSiWI7QKfopEFavVeld4S02SxmANd_0"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Scala Skills for Data Engineering
+  - '[[Develop Your Scala Skills for Data Engineering]]'
+prev_courses:
+  - '[[Hands-On Introduction- Scala]]'
+next_courses:
+  - '[[Coding Exercises- Scala]]'
+path_nav: '[{"path":"Develop Your Scala Skills for Data Engineering","position":4,"total":6,"prev":"Hands-On Introduction- Scala","next":"Coding Exercises- Scala"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/scala
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Scala Essential Training](https://media.licdn.com/dms/image/v2/D560DAQFScGwBIa6BMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705536093368?e=2147483647&amp;v=beta&amp;t=fstQayQRs0vRnSiWI7QKfopEFavVeld4S02SxmANd_0)

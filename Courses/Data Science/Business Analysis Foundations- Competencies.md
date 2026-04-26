@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGIRAxWWND-IQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1649697874778?e=2147483647&amp;v=beta&amp;t=DJVr8xJ-WqKRItDGMmPg-wyw_Xp01VDztCfnoTqRXfE"
 linkedin_topic: Data Science
 learning_paths:
-  - Get Ahead in Business Analytics and Analysis
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+prev_courses:
+  - '[[Business Analyst and Project Manager Collaboration (2018)]]'
+next_courses:
+  - '[[Business Analysis Foundations- Business Process Modeling]]'
+path_nav: '[{"path":"Get Ahead in Business Analytics and Analysis","position":7,"total":19,"prev":"Business Analyst and Project Manager Collaboration (2018)","next":"Business Analysis Foundations- Business Process Modeling"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/business-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analysis Foundations: Competencies](https://media.licdn.com/dms/image/v2/C4E0DAQGIRAxWWND-IQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1649697874778?e=2147483647&amp;v=beta&amp;t=DJVr8xJ-WqKRItDGMmPg-wyw_Xp01VDztCfnoTqRXfE)

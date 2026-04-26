@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQGCH40lBYPU7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1591895554783?e=2147483647&amp;v=beta&amp;t=lfvjb-x9laxtnniE9J1romsK3L1Ia_L-mBm5D5QKBW8"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Design and Present Your Cloud Strategy
-  - Introduction to Enterprise Cloud Migration Planning
+  - '[[Design and Present Your Cloud Strategy]]'
+  - '[[Introduction to Enterprise Cloud Migration Planning]]'
+prev_courses:
+  - '[[Cloud Architecture- Design Decisions]]'
+  - '[[Cloud Concepts Planning An Application Migration Strategy]]'
+next_courses:
+  - '[[Framing Cloud Discussions for the C-Suite]]'
+  - '[[Dependency Mapping for Cloud Migration]]'
+path_nav: '[{"path":"Design and Present Your Cloud Strategy","position":3,"total":6,"prev":"Cloud Architecture- Design Decisions","next":"Framing Cloud Discussions for the C-Suite"},{"path":"Introduction to Enterprise Cloud Migration Planning","position":2,"total":4,"prev":"Cloud Concepts Planning An Application Migration Strategy","next":"Dependency Mapping for Cloud Migration"}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +26,7 @@ tags:
   - topic/software-development
   - topic/devops
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Design a Cloud Migration Strategy](https://media.licdn.com/dms/image/v2/C4D0DAQGCH40lBYPU7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1591895554783?e=2147483647&amp;v=beta&amp;t=lfvjb-x9laxtnniE9J1romsK3L1Ia_L-mBm5D5QKBW8)

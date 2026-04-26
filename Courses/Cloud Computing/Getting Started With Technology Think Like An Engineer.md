@@ -14,7 +14,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFnrQm_mcgYUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634577376020?e=2147483647&amp;v=beta&amp;t=rIrOdF9L2ZU_XXLRVvxn7bKHcQ2abWyleYqbui-CGKM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Starting Your Career in Tech- Software Development
+  - '[[Starting Your Career in Tech- Software Development]]'
+next_courses:
+  - '[[Writing a Tech Resume]]'
+path_nav: '[{"path":"Starting Your Career in Tech- Software Development","position":1,"total":6,"prev":null,"next":"Writing a Tech Resume"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - topic/software-development
   - skill/software-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Getting Started With Technology Think Like An Engineer](https://media.licdn.com/dms/image/v2/C4E0DAQFnrQm_mcgYUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634577376020?e=2147483647&amp;v=beta&amp;t=rIrOdF9L2ZU_XXLRVvxn7bKHcQ2abWyleYqbui-CGKM)

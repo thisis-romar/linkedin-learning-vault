@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQELJEReeU-4_A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008999244?e=2147483647&amp;v=beta&amp;t=1E76A8wJsKma21O6mU2x-tfaIm7xcv78jDsqeYmLpcQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Transform Your Programming with AI Coding Tools
+  - '[[Transform Your Programming with AI Coding Tools]]'
+prev_courses:
+  - '[[Refactoring with GitHub Copilot]]'
+next_courses:
+  - '[[Software Testing Assistance with GitHub Copilot AI]]'
+path_nav: '[{"path":"Transform Your Programming with AI Coding Tools","position":4,"total":7,"prev":"Refactoring with GitHub Copilot","next":"Software Testing Assistance with GitHub Copilot AI"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/chatgpt
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ChatGPT and SQL](https://media.licdn.com/dms/image/v2/D560DAQELJEReeU-4_A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008999244?e=2147483647&amp;v=beta&amp;t=1E76A8wJsKma21O6mU2x-tfaIm7xcv78jDsqeYmLpcQ)

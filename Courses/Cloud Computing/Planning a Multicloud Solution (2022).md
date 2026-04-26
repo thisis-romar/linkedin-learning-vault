@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQG2JMplYIj4qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1659469560604?e=2147483647&amp;v=beta&amp;t=Bzge8_b0CaUdOdpNsomcATHHZ60k-F5u3myNsed7nBI"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Cloud Strategy Professional Certificate by LinkedIn Learning
-  - Build your Cloud Computing Skills
+  - '[[Cloud Strategy Professional Certificate by LinkedIn Learning]]'
+  - '[[Build your Cloud Computing Skills]]'
+prev_courses:
+  - '[[Cloud Security Architecture for the Enterprise]]'
+  - '[[Practical Cybersecurity for IT Professionals]]'
+next_courses:
+  - '[[Cloud for Business- Developing a Cloud Center of Excellence]]'
+  - null
+path_nav: '[{"path":"Cloud Strategy Professional Certificate by LinkedIn Learning","position":6,"total":9,"prev":"Cloud Security Architecture for the Enterprise","next":"Cloud for Business- Developing a Cloud Center of Excellence"},{"path":"Build your Cloud Computing Skills","position":3,"total":3,"prev":"Practical Cybersecurity for IT Professionals","next":null}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - topic/software-development
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Planning a Multicloud Solution (2022)](https://media.licdn.com/dms/image/v2/C560DAQG2JMplYIj4qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1659469560604?e=2147483647&amp;v=beta&amp;t=Bzge8_b0CaUdOdpNsomcATHHZ60k-F5u3myNsed7nBI)

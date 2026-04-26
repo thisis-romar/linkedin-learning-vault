@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/advance-your-skills-with-javascript
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEcH-wHrMMtCg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902498364?e=2147483647&amp;v=beta&amp;t=lumdz7uYylrY_Kv13T4dR_vIZQsdvNjhGDNyP7Lrvps"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore a Career as a JavaScript Developer
+  - '[[Explore a Career as a JavaScript Developer]]'
+prev_courses:
+  - '[[JavaScript Essential Training]]'
+next_courses:
+  - '[[JavaScript Practice- Object-Oriented Programming]]'
+path_nav: '[{"path":"Explore a Career as a JavaScript Developer","position":4,"total":5,"prev":"JavaScript Essential Training","next":"JavaScript Practice- Object-Oriented Programming"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Five Advanced Challenges and Concepts](https://media.licdn.com/dms/image/v2/D560DAQEcH-wHrMMtCg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902498364?e=2147483647&amp;v=beta&amp;t=lumdz7uYylrY_Kv13T4dR_vIZQsdvNjhGDNyP7Lrvps)

@@ -16,8 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGiZXmP1SNllQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1699569878274?e=2147483647&amp;v=beta&amp;t=sjrnMttj6wh1KMBKB-7SEYWEh8Z6k7RoLqWYajd9s2s"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build AI Aptitude as a New Manager
-  - Build AI Aptitude as a Middle Manager
+  - '[[Build AI Aptitude as a New Manager]]'
+  - '[[Build AI Aptitude as a Middle Manager]]'
+next_courses:
+  - '[[Everyday Ai Concepts]]'
+  - '[[Everyday Ai Concepts]]'
+path_nav: '[{"path":"Build AI Aptitude as a New Manager","position":1,"total":4,"prev":null,"next":"Everyday Ai Concepts"},{"path":"Build AI Aptitude as a Middle Manager","position":1,"total":5,"prev":null,"next":"Everyday Ai Concepts"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leading With A Digital Mindset In The Age Of Ai](https://media.licdn.com/dms/image/v2/D560DAQGiZXmP1SNllQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1699569878274?e=2147483647&amp;v=beta&amp;t=sjrnMttj6wh1KMBKB-7SEYWEh8Z6k7RoLqWYajd9s2s)

@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFiEQVxfaM3Mg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691161973383?e=2147483647&amp;v=beta&amp;t=FRnGt-pmxobjyMxUmxdoPc4yJnPX9EnL58wV6i9M-Uw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills in AI and Machine Learning
+  - '[[Advance Your Skills in AI and Machine Learning]]'
+prev_courses:
+  - '[[MLOps Essentials- Monitoring Model Drift and Bias]]'
+next_courses:
+  - '[[Foundations Of Responsible Ai]]'
+path_nav: '[{"path":"Advance Your Skills in AI and Machine Learning","position":13,"total":16,"prev":"MLOps Essentials- Monitoring Model Drift and Bias","next":"Foundations Of Responsible Ai"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![UX for AI: Design Practices for AI Developers](https://media.licdn.com/dms/image/v2/D4D0DAQFiEQVxfaM3Mg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691161973383?e=2147483647&amp;v=beta&amp;t=FRnGt-pmxobjyMxUmxdoPc4yJnPX9EnL58wV6i9M-Uw)

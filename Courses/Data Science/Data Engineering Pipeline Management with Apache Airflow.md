@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG7SBssjwtndA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691793089558?e=2147483647&amp;v=beta&amp;t=WKMJso1PneCLSMMIWO0udZLnnkV6quElzBCF9oJy4to"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Data Engineering Skills
+  - '[[Advance Your Data Engineering Skills]]'
+prev_courses:
+  - '[[Learning Apache Airflow]]'
+next_courses:
+  - '[[Data Engineering Project- Build Streaming Ingestion Pipelines for Snowflake with AWS]]'
+path_nav: '[{"path":"Advance Your Data Engineering Skills","position":7,"total":10,"prev":"Learning Apache Airflow","next":"Data Engineering Project- Build Streaming Ingestion Pipelines for Snowflake with AWS"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/apache-airflow
   - skill/workflow-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Engineering Pipeline Management with Apache Airflow](https://media.licdn.com/dms/image/v2/D560DAQG7SBssjwtndA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691793089558?e=2147483647&amp;v=beta&amp;t=WKMJso1PneCLSMMIWO0udZLnnkV6quElzBCF9oJy4to)

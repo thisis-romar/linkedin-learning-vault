@@ -14,7 +14,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHnQhv-MUQ5sQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668837277?e=2147483647&amp;v=beta&amp;t=_iGyrHNWcPlKf5fEl3YFDhtixO4d3FN4k1-PGjlMLU4"
 linkedin_topic: DevOps
 learning_paths:
-  - Develop Your Skills as a Software Project Manager
+  - '[[Develop Your Skills as a Software Project Manager]]'
+prev_courses:
+  - '[[Scrum- Advanced]]'
+next_courses:
+  - '[[Agile Foundations]]'
+path_nav: '[{"path":"Develop Your Skills as a Software Project Manager","position":6,"total":11,"prev":"Scrum- Advanced","next":"Agile Foundations"}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +27,7 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Characteristics of a Great Scrum Master](https://media.licdn.com/dms/image/v2/C4E0DAQHnQhv-MUQ5sQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668837277?e=2147483647&amp;v=beta&amp;t=_iGyrHNWcPlKf5fEl3YFDhtixO4d3FN4k1-PGjlMLU4)

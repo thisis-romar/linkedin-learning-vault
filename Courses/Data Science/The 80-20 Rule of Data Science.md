@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEcI8TngOHfeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724267271010?e=2147483647&amp;v=beta&amp;t=HoBiLuSGWby-16_rSkaxbOxXDRe_KOUdx04PY91WIWQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Strategy and Planning
+  - '[[Introduction to Fundamental Skills for Data Work- Data Strategy and Planning]]'
+prev_courses:
+  - '[[Using AI to Improve Ops for Your Data Organization]]'
+next_courses:
+  - '[[Data Science Team Lifecycle Management]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Strategy and Planning","position":6,"total":10,"prev":"Using AI to Improve Ops for Your Data Organization","next":"Data Science Team Lifecycle Management"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The 80/20 Rule of Data Science](https://media.licdn.com/dms/image/v2/D4D0DAQEcI8TngOHfeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724267271010?e=2147483647&amp;v=beta&amp;t=HoBiLuSGWby-16_rSkaxbOxXDRe_KOUdx04PY91WIWQ)

@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Master Key Financial Analyst Skills
@@ -72,3 +72,7 @@ _Paths that share courses with this one:_
 - [[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]] (1 shared courses)
 - [[Explore a Career as a Financial Analyst]] (1 shared courses)
 - [[CFI Financial Analysis and Modeling Professional Certificate]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

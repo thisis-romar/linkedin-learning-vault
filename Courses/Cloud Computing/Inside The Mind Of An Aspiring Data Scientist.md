@@ -15,7 +15,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHEzwxGNN3Ltw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1640287454194?e=2147483647&amp;v=beta&amp;t=O0tERLWf6g8rSWUUPkffXgkRQ-Jy_M1x6g5-6fybiKA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Starting Your Career in Tech- Data Science
+  - '[[Starting Your Career in Tech- Data Science]]'
+next_courses:
+  - '[[Data Science and Analytics Career Paths and Certifications- First Steps]]'
+path_nav: '[{"path":"Starting Your Career in Tech- Data Science","position":1,"total":8,"prev":null,"next":"Data Science and Analytics Career Paths and Certifications- First Steps"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/critical-thinking
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Inside The Mind Of An Aspiring Data Scientist](https://media.licdn.com/dms/image/v2/C560DAQHEzwxGNN3Ltw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1640287454194?e=2147483647&amp;v=beta&amp;t=O0tERLWf6g8rSWUUPkffXgkRQ-Jy_M1x6g5-6fybiKA)

@@ -19,10 +19,21 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEp6iwGZ9dKPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621608850111?e=2147483647&amp;v=beta&amp;t=Ps6HFse2Kr047XDvBygV6lOph3oarWNIpn_FEch9V9E"
 linkedin_topic: Data Science
 learning_paths:
-  - Masterpath in Analytics Leadership for Executives
-  - Get Ahead in Business Analytics and Analysis
-  - Advance Your Skills in Predictive Analytics
-  - Advance Your Business Analytics Skills
+  - '[[Masterpath in Analytics Leadership for Executives]]'
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+  - '[[Advance Your Skills in Predictive Analytics]]'
+  - '[[Advance Your Business Analytics Skills]]'
+prev_courses:
+  - '[[Executive Guide to AutoML]]'
+  - '[[Business Analytics Foundations- Predictive, Prescriptive, and Experimental Analytics]]'
+  - '[[Data Science Foundations- Data Assessment for Predictive Modeling]]'
+  - '[[Predictive Analytics Essential Training For Executives]]'
+next_courses:
+  - '[[Data-Driven Decision-Making for Business Professionals]]'
+  - '[[Business Analytics- Forecasting with Exponential Smoothing]]'
+  - '[[Statistics Foundations 3- Using Data Sets]]'
+  - '[[Using Tableau to Discover Powerful Business Insights]]'
+path_nav: '[{"path":"Masterpath in Analytics Leadership for Executives","position":5,"total":8,"prev":"Executive Guide to AutoML","next":"Data-Driven Decision-Making for Business Professionals"},{"path":"Get Ahead in Business Analytics and Analysis","position":13,"total":19,"prev":"Business Analytics Foundations- Predictive, Prescriptive, and Experimental Analytics","next":"Business Analytics- Forecasting with Exponential Smoothing"},{"path":"Advance Your Skills in Predictive Analytics","position":7,"total":8,"prev":"Data Science Foundations- Data Assessment for Predictive Modeling","next":"Statistics Foundations 3- Using Data Sets"},{"path":"Advance Your Business Analytics Skills","position":3,"total":11,"prev":"Predictive Analytics Essential Training For Executives","next":"Using Tableau to Discover Powerful Business Insights"}]'
 path_count: 4
 tags:
   - course
@@ -33,7 +44,7 @@ tags:
   - skill/roi-strategies
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Predictive Analytics Essential Training: Estimating and Ensuring ROI](https://media.licdn.com/dms/image/v2/C4E0DAQEp6iwGZ9dKPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621608850111?e=2147483647&amp;v=beta&amp;t=Ps6HFse2Kr047XDvBygV6lOph3oarWNIpn_FEch9V9E)

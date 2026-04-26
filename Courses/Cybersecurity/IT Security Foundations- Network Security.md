@@ -10,9 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGbAWaIPiK3Xg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663700741013?e=2147483647&amp;v=beta&amp;t=DqieY9A9jEQrQqOs4YkA2t-avMExTs1Q2GtcRYLslhE"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an IT Security Specialist
-  - Network Administration- Build Core Skills for Network Management and Security
-  - Cybersecurity Fundamentals
+  - '[[Become an IT Security Specialist]]'
+  - '[[Network Administration- Build Core Skills for Network Management and Security]]'
+  - '[[Cybersecurity Fundamentals]]'
+prev_courses:
+  - '[[IT Security Foundations- Operating System Security]]'
+  - '[[Learning Network Troubleshooting- Practical Network Diagnostics and Solutions]]'
+  - '[[IT Security Foundations- Operating System Security]]'
+next_courses:
+  - '[[TLS for Beginners- Securing Network Communications]]'
+  - null
+  - '[[Introduction to Identity and Access Management]]'
+path_nav: '[{"path":"Become an IT Security Specialist","position":4,"total":12,"prev":"IT Security Foundations- Operating System Security","next":"TLS for Beginners- Securing Network Communications"},{"path":"Network Administration- Build Core Skills for Network Management and Security","position":6,"total":6,"prev":"Learning Network Troubleshooting- Practical Network Diagnostics and Solutions","next":null},{"path":"Cybersecurity Fundamentals","position":8,"total":12,"prev":"IT Security Foundations- Operating System Security","next":"Introduction to Identity and Access Management"}]'
 path_count: 3
 tags:
   - course
@@ -20,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - topic/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![IT Security Foundations: Network Security](https://media.licdn.com/dms/image/v2/C560DAQGbAWaIPiK3Xg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663700741013?e=2147483647&amp;v=beta&amp;t=DqieY9A9jEQrQqOs4YkA2t-avMExTs1Q2GtcRYLslhE)

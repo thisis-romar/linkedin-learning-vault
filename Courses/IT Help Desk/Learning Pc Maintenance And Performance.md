@@ -8,8 +8,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG78ioRCWY3-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719601864327?e=2147483647&amp;v=beta&amp;t=HnMaVuqtiv05HKXOpUMMg_hCvjy-elfQgntstP5rqA8"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Explore a Career in IT Support
-  - Advance Your Skills as an IT Help Desk Specialist
+  - '[[Explore a Career in IT Support]]'
+  - '[[Advance Your Skills as an IT Help Desk Specialist]]'
+prev_courses:
+  - null
+  - '[[Windows 10 for IT Support- Advanced Troubleshooting]]'
+next_courses:
+  - '[[Computer Components and Peripherals for IT Technicians]]'
+  - '[[Computer Components and Peripherals for IT Technicians]]'
+path_nav: '[{"path":"Explore a Career in IT Support","position":1,"total":11,"prev":null,"next":"Computer Components and Peripherals for IT Technicians"},{"path":"Advance Your Skills as an IT Help Desk Specialist","position":4,"total":11,"prev":"Windows 10 for IT Support- Advanced Troubleshooting","next":"Computer Components and Peripherals for IT Technicians"}]'
 path_count: 2
 tags:
   - course
@@ -17,7 +24,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Pc Maintenance And Performance](https://media.licdn.com/dms/image/v2/D560DAQG78ioRCWY3-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719601864327?e=2147483647&amp;v=beta&amp;t=HnMaVuqtiv05HKXOpUMMg_hCvjy-elfQgntstP5rqA8)

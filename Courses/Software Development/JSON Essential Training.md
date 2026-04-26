@@ -17,8 +17,15 @@ github: "https://github.com/LinkedInLearning/json-essential-training-2887317"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEXmiSIYftM5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629482233685?e=2147483647&amp;v=beta&amp;t=LbyNWNKqesH6hUgtM8CxYPr8orwhN_B1w6ERy1mpidY"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore Web Development with Vanilla JavaScript
-  - Become a JavaScript Developer
+  - '[[Explore Web Development with Vanilla JavaScript]]'
+  - '[[Become a JavaScript Developer]]'
+prev_courses:
+  - '[[JavaScript- Modern Browser APIs]]'
+  - '[[Developing for Web Performance]]'
+next_courses:
+  - '[[JavaScript- Ajax and Fetch]]'
+  - '[[JavaScript- Ajax and Fetch]]'
+path_nav: '[{"path":"Explore Web Development with Vanilla JavaScript","position":4,"total":8,"prev":"JavaScript- Modern Browser APIs","next":"JavaScript- Ajax and Fetch"},{"path":"Become a JavaScript Developer","position":11,"total":13,"prev":"Developing for Web Performance","next":"JavaScript- Ajax and Fetch"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - topic/network-and-system-administration
   - skill/json
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JSON Essential Training](https://media.licdn.com/dms/image/v2/C560DAQEXmiSIYftM5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629482233685?e=2147483647&amp;v=beta&amp;t=LbyNWNKqesH6hUgtM8CxYPr8orwhN_B1w6ERy1mpidY)

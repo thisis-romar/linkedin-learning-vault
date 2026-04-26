@@ -21,8 +21,15 @@ github: "https://github.com/LinkedInLearning/introduction-to-multimodal-promptin
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEL96ao5DSQNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008136967?e=2147483647&amp;v=beta&amp;t=LuWWW9Db3Jvjl3B1Kb3LWebXJST3zpPGXxwlHL_j1vY"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
-  - Getting Started with Prompt Engineering
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[Getting Started with Prompt Engineering]]'
+prev_courses:
+  - '[[RAG and Fine-Tuning Explained]]'
+  - '[[Prompt Engineering With Gemini]]'
+next_courses:
+  - '[[Agentic AI- Building Data-First AI Agents]]'
+  - '[[Prompt Engineering and AI Agents with ChatGPT]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":21,"total":22,"prev":"RAG and Fine-Tuning Explained","next":"Agentic AI- Building Data-First AI Agents"},{"path":"Getting Started with Prompt Engineering","position":4,"total":6,"prev":"Prompt Engineering With Gemini","next":"Prompt Engineering and AI Agents with ChatGPT"}]'
 path_count: 2
 tags:
   - course
@@ -34,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Multimodal Prompting for Generative AI](https://media.licdn.com/dms/image/v2/D560DAQEL96ao5DSQNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008136967?e=2147483647&amp;v=beta&amp;t=LuWWW9Db3Jvjl3B1Kb3LWebXJST3zpPGXxwlHL_j1vY)

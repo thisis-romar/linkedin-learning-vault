@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGd0LwOE0tQbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1636570299215?e=2147483647&amp;v=beta&amp;t=QI9RYwyqdsuKcscTsADd_Sq7YMolFN55PMM8iEntHh4"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Prepare for the Managing Microsoft Teams (MS-700) Exam
+  - '[[Prepare for the Managing Microsoft Teams (MS-700) Exam]]'
+next_courses:
+  - '[[Microsoft 365 Teams Administrator Associate Cert Prep (MS-700)- Managing Collaboration Tools]]'
+path_nav: '[{"path":"Prepare for the Managing Microsoft Teams (MS-700) Exam","position":1,"total":2,"prev":null,"next":"Microsoft 365 Teams Administrator Associate Cert Prep (MS-700)- Managing Collaboration Tools"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - skill/microsoft-teams
   - skill/system-deployment
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft 365 Teams Administrator Associate Cert Prep Ms 700 Plan Configure And Deploy](https://media.licdn.com/dms/image/v2/C560DAQGd0LwOE0tQbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1636570299215?e=2147483647&amp;v=beta&amp;t=QI9RYwyqdsuKcscTsADd_Sq7YMolFN55PMM8iEntHh4)

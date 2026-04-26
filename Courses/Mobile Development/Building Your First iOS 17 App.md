@@ -16,14 +16,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHzDn7mXPkf8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696272691927?e=2147483647&amp;v=beta&amp;t=59PTaYG43-7-gzNEAM5VGpAkuDZrUwz0n1nz6YSVt04"
 linkedin_topic: Mobile Development
 learning_paths:
-  - Get Started with iOS App Development
+  - '[[Get Started with iOS App Development]]'
+prev_courses:
+  - '[[iOS 17 Development Essential Training]]'
+path_nav: '[{"path":"Get Started with iOS App Development","position":4,"total":4,"prev":"iOS 17 Development Essential Training","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/mobile-development
   - skill/ios-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Your First iOS 17 App](https://media.licdn.com/dms/image/v2/D560DAQHzDn7mXPkf8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696272691927?e=2147483647&amp;v=beta&amp;t=59PTaYG43-7-gzNEAM5VGpAkuDZrUwz0n1nz6YSVt04)

@@ -25,7 +25,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Prepare for the Linux Professional Institute LPIC-1 (101-500 and 102-500) Exams
@@ -44,3 +44,7 @@ created: '2026-04-20'
 ## Topics
 
 - [[Network and System Administration]]
+
+---
+
+Part of [[000 Map of Content]] · [[Network and System Administration]]

@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/CSS-advanced-layouts-with-Grid-5945
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFOaU21-ZRu1w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730501541268?e=2147483647&amp;v=beta&amp;t=kOleIg_3SjFTudBCCB9LnYC2T_7BxgtjGTk1kAZGpD8"
 linkedin_topic: Web Development
 learning_paths:
-  - Learn CSS
+  - '[[Learn CSS]]'
+prev_courses:
+  - '[[Advanced Responsive Layouts with CSS Flexbox]]'
+next_courses:
+  - '[[CSS- Variables and Fluid Layouts]]'
+path_nav: '[{"path":"Learn CSS","position":9,"total":12,"prev":"Advanced Responsive Layouts with CSS Flexbox","next":"CSS- Variables and Fluid Layouts"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/front-end-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![CSS: Advanced Layouts with Grid](https://media.licdn.com/dms/image/v2/D560DAQFOaU21-ZRu1w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730501541268?e=2147483647&amp;v=beta&amp;t=kOleIg_3SjFTudBCCB9LnYC2T_7BxgtjGTk1kAZGpD8)

@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHNhnO1A6_T4Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686353106982?e=2147483647&amp;v=beta&amp;t=9n9TBZFKWjFiFipbWUqJKcIhvuJx9w7yrj42DzspYjU"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Advance Your Skills as an IT Help Desk Specialist
+  - '[[Advance Your Skills as an IT Help Desk Specialist]]'
+prev_courses:
+  - '[[IT Service Desk- Customer Service Fundamentals]]'
+next_courses:
+  - '[[Phone-Based Customer Service]]'
+path_nav: '[{"path":"Advance Your Skills as an IT Help Desk Specialist","position":7,"total":11,"prev":"IT Service Desk- Customer Service Fundamentals","next":"Phone-Based Customer Service"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/email-etiquette
   - skill/customer-service
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Writing Customer Service Emails](https://media.licdn.com/dms/image/v2/D560DAQHNhnO1A6_T4Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686353106982?e=2147483647&amp;v=beta&amp;t=9n9TBZFKWjFiFipbWUqJKcIhvuJx9w7yrj42DzspYjU)

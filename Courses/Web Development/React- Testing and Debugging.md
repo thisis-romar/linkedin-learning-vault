@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHBryMEI_iM-g/learning-public-crop_675_1200/B4EZYbJj22HcAY-/0/1744212213875?e=2147483647&amp;v=beta&amp;t=o3URCyLQJOCiA-wJb7KVYCcHv_jxaK-eK2YJEVGTp48"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your React Skills
+  - '[[Improve Your React Skills]]'
+prev_courses:
+  - '[[Building Modern Projects with React]]'
+next_courses:
+  - '[[React- Authentication]]'
+path_nav: '[{"path":"Improve Your React Skills","position":5,"total":9,"prev":"Building Modern Projects with React","next":"React- Authentication"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/debugging
   - skill/react-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React: Testing and Debugging](https://media.licdn.com/dms/image/v2/D4E0DAQHBryMEI_iM-g/learning-public-crop_675_1200/B4EZYbJj22HcAY-/0/1744212213875?e=2147483647&amp;v=beta&amp;t=o3URCyLQJOCiA-wJb7KVYCcHv_jxaK-eK2YJEVGTp48)

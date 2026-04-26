@@ -10,7 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFJS_yVK4ftTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622828485537?e=2147483647&amp;v=beta&amp;t=6m0zPtxaUCo7qwnY8aaY35KbuFgtwX7xBNQuw73V-qI"
 linkedin_topic: DevOps
 learning_paths:
-  - Explore a Career in IT Support
+  - '[[Explore a Career in IT Support]]'
+prev_courses:
+  - '[[Windows 10 for IT Support- Troubleshooting Basics]]'
+next_courses:
+  - '[[IT Service Desk Careers and Certifications]]'
+path_nav: '[{"path":"Explore a Career in IT Support","position":10,"total":11,"prev":"Windows 10 for IT Support- Troubleshooting Basics","next":"IT Service Desk Careers and Certifications"}]'
 path_count: 1
 tags:
   - course
@@ -18,7 +23,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![IT Support for a Hybrid Workforce](https://media.licdn.com/dms/image/v2/C560DAQFJS_yVK4ftTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622828485537?e=2147483647&amp;v=beta&amp;t=6m0zPtxaUCo7qwnY8aaY35KbuFgtwX7xBNQuw73V-qI)

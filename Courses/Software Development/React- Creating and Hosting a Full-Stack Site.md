@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/react-creating-and-hosting-a-full-s
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQF0BLWJuFKYYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731708035316?e=2147483647&amp;v=beta&amp;t=cergr_ZvFSb-MogqOrOpAr9xN1xpI5kjb5Av4uDTk1w"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore React.js Development
+  - '[[Explore React.js Development]]'
+prev_courses:
+  - '[[React.js- Building an Interface]]'
+next_courses:
+  - '[[React Hooks]]'
+path_nav: '[{"path":"Explore React.js Development","position":3,"total":8,"prev":"React.js- Building an Interface","next":"React Hooks"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/full-stack-development
   - skill/react-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React: Creating and Hosting a Full-Stack Site](https://media.licdn.com/dms/image/v2/D4E0DAQF0BLWJuFKYYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731708035316?e=2147483647&amp;v=beta&amp;t=cergr_ZvFSb-MogqOrOpAr9xN1xpI5kjb5Av4uDTk1w)

@@ -6,7 +6,7 @@ linkedin_topic: Hardware
 tags:
   - moc
   - topic/hardware
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Hardware
@@ -31,3 +31,7 @@ created: 2026-04-20
 - [[PLC Sequencer Logic]] — 1 paths
 - [[PLC Program Flow and Control Instructions]] — 1 paths
 - [[PLC Simulation Software- Factory I-O with Connected Component Workbench]] — 1 paths
+
+---
+
+Part of [[000 Map of Content]]

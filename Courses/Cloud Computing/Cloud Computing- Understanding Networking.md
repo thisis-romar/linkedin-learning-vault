@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGvYJXudczV6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709157556433?e=2147483647&amp;v=beta&amp;t=9TXeFW4EW7R0jy2W9xDJGpxMZ875O7WDKUF3UGjuMeI"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Foundations of Cloud Computing- Models, Platforms, Services, and Careers
+  - '[[Foundations of Cloud Computing- Models, Platforms, Services, and Careers]]'
+prev_courses:
+  - '[[Cloud Storage Concepts- Services, Cost Control, and Security]]'
+next_courses:
+  - '[[Cloud Concepts- Hybrid Cloud]]'
+path_nav: '[{"path":"Foundations of Cloud Computing- Models, Platforms, Services, and Careers","position":7,"total":9,"prev":"Cloud Storage Concepts- Services, Cost Control, and Security","next":"Cloud Concepts- Hybrid Cloud"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/network-administration
   - skill/computer-networking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Computing: Understanding Networking](https://media.licdn.com/dms/image/v2/D560DAQGvYJXudczV6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709157556433?e=2147483647&amp;v=beta&amp;t=9TXeFW4EW7R0jy2W9xDJGpxMZ875O7WDKUF3UGjuMeI)

@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGQrfdJenHEiw/learning-public-crop_675_1200/B4EZka4gefHgAY-/0/1757092645787?e=2147483647&amp;v=beta&amp;t=LCfvsXpwKG4LWpf1Y86wKJD5KZziHhdBpozguWrc4Ac"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Technical Literacy and Future Readiness for People Managers
+  - '[[Technical Literacy and Future Readiness for People Managers]]'
+prev_courses:
+  - '[[Responsible AI for Managers]]'
+next_courses:
+  - '[[Data Decision-Making and Communication for Leaders with Nancy Duarte]]'
+path_nav: '[{"path":"Technical Literacy and Future Readiness for People Managers","position":3,"total":5,"prev":"Responsible AI for Managers","next":"Data Decision-Making and Communication for Leaders with Nancy Duarte"}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Manager's Guide to Building a Strategic Plan with ChatGPT (No Code Required)](https://media.licdn.com/dms/image/v2/D4E0DAQGQrfdJenHEiw/learning-public-crop_675_1200/B4EZka4gefHgAY-/0/1757092645787?e=2147483647&amp;v=beta&amp;t=LCfvsXpwKG4LWpf1Y86wKJD5KZziHhdBpozguWrc4Ac)

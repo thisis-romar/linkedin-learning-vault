@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGy6ak9gCh6EA/learning-public-crop_675_1200/B4EZbaHVwdGcAc-/0/1747416079622?e=2147483647&amp;v=beta&amp;t=hzdneffla9nn0g9EWrfoBcVeXyiV5XJ_1OLHuW2k5qE"
 linkedin_topic: Mobile Development
 learning_paths:
-  - Kotlin Professional Certificate by JetBrains
+  - '[[Kotlin Professional Certificate by JetBrains]]'
+prev_courses:
+  - '[[Kotlin Essential Training- Object-Oriented and Async Code]]'
+next_courses:
+  - '[[Exploring Ktor with Kotlin Multiplatform and Compose]]'
+path_nav: '[{"path":"Kotlin Professional Certificate by JetBrains","position":3,"total":4,"prev":"Kotlin Essential Training- Object-Oriented and Async Code","next":"Exploring Ktor with Kotlin Multiplatform and Compose"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/kotlin
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Kotlin Multiplatform Development](https://media.licdn.com/dms/image/v2/D4E0DAQGy6ak9gCh6EA/learning-public-crop_675_1200/B4EZbaHVwdGcAc-/0/1747416079622?e=2147483647&amp;v=beta&amp;t=hzdneffla9nn0g9EWrfoBcVeXyiV5XJ_1OLHuW2k5qE)

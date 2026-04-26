@@ -15,7 +15,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEaXb6rABKJ-A/learning-public-crop_675_1200/B4DZYmTQaKH4Ac-/0/1744399304630?e=2147483647&amp;v=beta&amp;t=uXS_OpeiO55gs-OW03VD6t4OUU7wAXHEXtgyrGBHZ2o"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Starting Your Career in Tech- Software Development
+  - '[[Starting Your Career in Tech- Software Development]]'
+prev_courses:
+  - '[[Tech Career Skills- Searching, Interviewing, and Landing a Job]]'
+next_courses:
+  - '[[Tech Career Skills- Effective Technical Communication]]'
+path_nav: '[{"path":"Starting Your Career in Tech- Software Development","position":4,"total":6,"prev":"Tech Career Skills- Searching, Interviewing, and Landing a Job","next":"Tech Career Skills- Effective Technical Communication"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/professional-networking
   - skill/linkedin
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Rock Your LinkedIn Profile](https://media.licdn.com/dms/image/v2/D4D0DAQEaXb6rABKJ-A/learning-public-crop_675_1200/B4DZYmTQaKH4Ac-/0/1744399304630?e=2147483647&amp;v=beta&amp;t=uXS_OpeiO55gs-OW03VD6t4OUU7wAXHEXtgyrGBHZ2o)

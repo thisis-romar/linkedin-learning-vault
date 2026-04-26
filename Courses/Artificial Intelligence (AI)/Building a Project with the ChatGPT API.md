@@ -20,7 +20,10 @@ github: "https://github.com/LinkedInLearning/building-a-project-with-the-chatgpt
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFcICjaYZlNsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703108198308?e=2147483647&amp;v=beta&amp;t=xpfc5YPCA8XfzzvHmUlfTsKfXGXyZq4eUVh89CmxTlk"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Improve Your Programming Skills with Artificial Intelligence
+  - '[[Improve Your Programming Skills with Artificial Intelligence]]'
+prev_courses:
+  - '[[AI Pair Programming with GitHub Copilot]]'
+path_nav: '[{"path":"Improve Your Programming Skills with Artificial Intelligence","position":4,"total":4,"prev":"AI Pair Programming with GitHub Copilot","next":null}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/application-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Project with the ChatGPT API](https://media.licdn.com/dms/image/v2/D560DAQFcICjaYZlNsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703108198308?e=2147483647&amp;v=beta&amp;t=xpfc5YPCA8XfzzvHmUlfTsKfXGXyZq4eUVh89CmxTlk)

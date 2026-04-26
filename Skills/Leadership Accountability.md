@@ -6,7 +6,7 @@ course_count: 1
 tags:
   - skill
   - skill/leadership-accountability
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Leadership Accountability

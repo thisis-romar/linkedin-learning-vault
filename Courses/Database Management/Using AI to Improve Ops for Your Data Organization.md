@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEQIaqAbqxJ2Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723231235728?e=2147483647&amp;v=beta&amp;t=Jxs35piAxwTcjk7C1Fb3H7HrvPILqDcVrJ1Rw8llUhQ"
 linkedin_topic: Database Management
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Strategy and Planning
-  - Explore AI for Data Engineering
+  - '[[Introduction to Fundamental Skills for Data Work- Data Strategy and Planning]]'
+  - '[[Explore AI for Data Engineering]]'
+prev_courses:
+  - '[[AI Fundamentals for Data Professionals]]'
+  - '[[Data-Centric AI- Best Practices, Responsible AI, and More]]'
+next_courses:
+  - '[[The 80-20 Rule of Data Science]]'
+  - '[[Generative AI for Data Engineering- ChatGPT Power Tips]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Strategy and Planning","position":5,"total":10,"prev":"AI Fundamentals for Data Professionals","next":"The 80-20 Rule of Data Science"},{"path":"Explore AI for Data Engineering","position":3,"total":8,"prev":"Data-Centric AI- Best Practices, Responsible AI, and More","next":"Generative AI for Data Engineering- ChatGPT Power Tips"}]'
 path_count: 2
 tags:
   - course
@@ -20,7 +27,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using AI to Improve Ops for Your Data Organization](https://media.licdn.com/dms/image/v2/D560DAQEQIaqAbqxJ2Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723231235728?e=2147483647&amp;v=beta&amp;t=Jxs35piAxwTcjk7C1Fb3H7HrvPILqDcVrJ1Rw8llUhQ)

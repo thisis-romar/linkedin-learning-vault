@@ -7,7 +7,7 @@ course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -39,7 +39,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Learn Vibe Coding: Build Apps with AI-Powered Coding
@@ -69,3 +69,7 @@ _Paths that share courses with this one:_
 
 - [[Building Generative AI Skills for Web Developers]] (1 shared courses)
 - [[Transform Your Programming with AI Coding Tools]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

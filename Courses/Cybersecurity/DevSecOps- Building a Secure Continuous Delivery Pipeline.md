@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHRreYyiMwCMg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669242306?e=2147483647&amp;v=beta&amp;t=gqBWb-8bD0XCnPS7WxUfT2TQ7Hdec59TcUVYUAY-7lA"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Get Ahead in DevSecOps
+  - '[[Get Ahead in DevSecOps]]'
+prev_courses:
+  - '[[DevSecOps- Automated Security Testing]]'
+next_courses:
+  - '[[Application Security in DevSecOps]]'
+path_nav: '[{"path":"Get Ahead in DevSecOps","position":3,"total":5,"prev":"DevSecOps- Automated Security Testing","next":"Application Security in DevSecOps"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - skill/devsecops
   - skill/continuous-delivery-cd
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![DevSecOps: Building a Secure Continuous Delivery Pipeline](https://media.licdn.com/dms/image/v2/C4E0DAQHRreYyiMwCMg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669242306?e=2147483647&amp;v=beta&amp;t=gqBWb-8bD0XCnPS7WxUfT2TQ7Hdec59TcUVYUAY-7lA)

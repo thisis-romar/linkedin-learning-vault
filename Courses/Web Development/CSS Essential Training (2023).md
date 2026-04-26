@@ -16,12 +16,27 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFbwOobZ3xBZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691438871844?e=2147483647&amp;v=beta&amp;t=klsoR7dlyYB5m4UfG6pT9o2eu4xK-9agetTIp67MNtQ"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore a Career as a Web Developer
-  - Explore a Career in Front-End Web Development
-  - Learn CSS
-  - Become a Full-Stack Web Developer
-  - Become a Software Developer
-  - Getting Started with WordPress
+  - '[[Explore a Career as a Web Developer]]'
+  - '[[Explore a Career in Front-End Web Development]]'
+  - '[[Learn CSS]]'
+  - '[[Become a Full-Stack Web Developer]]'
+  - '[[Become a Software Developer]]'
+  - '[[Getting Started with WordPress]]'
+prev_courses:
+  - '[[HTML Essential Training]]'
+  - '[[HTML Essential Training]]'
+  - '[[Css Fundamentals Unlock The Power Of Web Styling]]'
+  - null
+  - '[[HTML Essential Training]]'
+  - '[[Learning Git and GitHub]]'
+next_courses:
+  - '[[JavaScript Essential Training]]'
+  - '[[JavaScript Essential Training]]'
+  - '[[CSS- Selectors]]'
+  - '[[JavaScript Essential Training]]'
+  - '[[JavaScript Essential Training]]'
+  - '[[Making Sense of the CSS Box Model]]'
+path_nav: '[{"path":"Explore a Career as a Web Developer","position":4,"total":5,"prev":"HTML Essential Training","next":"JavaScript Essential Training"},{"path":"Explore a Career in Front-End Web Development","position":3,"total":11,"prev":"HTML Essential Training","next":"JavaScript Essential Training"},{"path":"Learn CSS","position":2,"total":12,"prev":"Css Fundamentals Unlock The Power Of Web Styling","next":"CSS- Selectors"},{"path":"Become a Full-Stack Web Developer","position":1,"total":12,"prev":null,"next":"JavaScript Essential Training"},{"path":"Become a Software Developer","position":5,"total":12,"prev":"HTML Essential Training","next":"JavaScript Essential Training"},{"path":"Getting Started with WordPress","position":3,"total":10,"prev":"Learning Git and GitHub","next":"Making Sense of the CSS Box Model"}]'
 path_count: 6
 tags:
   - course
@@ -29,7 +44,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![CSS Essential Training (2023)](https://media.licdn.com/dms/image/v2/D560DAQFbwOobZ3xBZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691438871844?e=2147483647&amp;v=beta&amp;t=klsoR7dlyYB5m4UfG6pT9o2eu4xK-9agetTIp67MNtQ)

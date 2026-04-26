@@ -16,12 +16,27 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGOk-h1z609hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588015081106?e=2147483647&amp;v=beta&amp;t=gD2aZYdi1WE3d1Zp7DbCuISF-J4NROMQ9FlPhprw1lc"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Explore a Career in Application Security
-  - The IT Professional's Path to Cybersecurity
-  - Become an IT Security Specialist
-  - Explore a Career in Computer Forensics
-  - Starting Your Career in Tech- Cybersecurity
-  - Cybersecurity for Sales Professionals
+  - '[[Explore a Career in Application Security]]'
+  - '[[The IT Professional''s Path to Cybersecurity]]'
+  - '[[Become an IT Security Specialist]]'
+  - '[[Explore a Career in Computer Forensics]]'
+  - '[[Starting Your Career in Tech- Cybersecurity]]'
+  - '[[Cybersecurity for Sales Professionals]]'
+prev_courses:
+  - '[[Static Application Security Testing]]'
+  - '[[IT and Cybersecurity Risk Management Essential Training]]'
+  - '[[Ethics in Cybersecurity]]'
+  - '[[Learning Autopsy for Digital Forensics]]'
+  - '[[Cybersecurity Careers and Certifications]]'
+  - '[[Cybersecurity for Executives]]'
+next_courses:
+  - null
+  - null
+  - null
+  - '[[Ethics in Cybersecurity]]'
+  - null
+  - '[[Solution Sales]]'
+path_nav: '[{"path":"Explore a Career in Application Security","position":7,"total":7,"prev":"Static Application Security Testing","next":null},{"path":"The IT Professional''s Path to Cybersecurity","position":5,"total":5,"prev":"IT and Cybersecurity Risk Management Essential Training","next":null},{"path":"Become an IT Security Specialist","position":12,"total":12,"prev":"Ethics in Cybersecurity","next":null},{"path":"Explore a Career in Computer Forensics","position":8,"total":9,"prev":"Learning Autopsy for Digital Forensics","next":"Ethics in Cybersecurity"},{"path":"Starting Your Career in Tech- Cybersecurity","position":5,"total":5,"prev":"Cybersecurity Careers and Certifications","next":null},{"path":"Cybersecurity for Sales Professionals","position":6,"total":7,"prev":"Cybersecurity for Executives","next":"Solution Sales"}]'
 path_count: 6
 tags:
   - course
@@ -33,7 +48,7 @@ tags:
   - skill/tech-career-skills
   - skill/soft-skills
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Soft Skills for Information Security Professionals](https://media.licdn.com/dms/image/v2/C4E0DAQGOk-h1z609hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588015081106?e=2147483647&amp;v=beta&amp;t=gD2aZYdi1WE3d1Zp7DbCuISF-J4NROMQ9FlPhprw1lc)

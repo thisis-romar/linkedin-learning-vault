@@ -16,9 +16,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEFPcdVUWRPlw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687299300554?e=2147483647&amp;v=beta&amp;t=2VHEbZZtyLZUhAgU_e8_SDFKsH78sYOJM2cFgpzlC74"
 linkedin_topic: Data Science
 learning_paths:
-  - Data Engineering Foundations Professional Certificate by Astronomer
-  - Introduction to Fundamental Skills for Data Work- Data Storage
-  - Explore a Career in Data Engineering
+  - '[[Data Engineering Foundations Professional Certificate by Astronomer]]'
+  - '[[Introduction to Fundamental Skills for Data Work- Data Storage]]'
+  - '[[Explore a Career in Data Engineering]]'
+prev_courses:
+  - '[[Learning Apache Airflow]]'
+  - '[[Relational Databases Essential Training]]'
+  - '[[Hands-On Introduction- Data Engineering]]'
+next_courses:
+  - '[[Learning Data Governance]]'
+  - '[[NoSQL Essential Training]]'
+  - '[[Learning SnowflakeDB]]'
+path_nav: '[{"path":"Data Engineering Foundations Professional Certificate by Astronomer","position":5,"total":6,"prev":"Learning Apache Airflow","next":"Learning Data Governance"},{"path":"Introduction to Fundamental Skills for Data Work- Data Storage","position":3,"total":6,"prev":"Relational Databases Essential Training","next":"NoSQL Essential Training"},{"path":"Explore a Career in Data Engineering","position":3,"total":7,"prev":"Hands-On Introduction- Data Engineering","next":"Learning SnowflakeDB"}]'
 path_count: 3
 tags:
   - course
@@ -28,7 +37,7 @@ tags:
   - topic/cloud-computing
   - skill/data-warehousing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Data Warehouses](https://media.licdn.com/dms/image/v2/D560DAQEFPcdVUWRPlw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687299300554?e=2147483647&amp;v=beta&amp;t=2VHEbZZtyLZUhAgU_e8_SDFKsH78sYOJM2cFgpzlC74)

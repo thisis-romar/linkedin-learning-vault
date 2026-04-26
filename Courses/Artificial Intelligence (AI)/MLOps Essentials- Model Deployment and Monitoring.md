@@ -19,8 +19,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGm06LVfo8Q0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664994853235?e=2147483647&amp;v=beta&amp;t=_Bk25N4f8tuifFE5UHaLbCtUQxKH41v-IiJGQdFetPY"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security
-  - Advance Your Skills in AI and Machine Learning
+  - '[[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]]'
+  - '[[Advance Your Skills in AI and Machine Learning]]'
+prev_courses:
+  - '[[MLOps Essentials- Model Development and Integration]]'
+  - '[[MLOps Essentials- Model Development and Integration]]'
+next_courses:
+  - '[[MLOps Essentials- Monitoring Model Drift and Bias]]'
+  - '[[MLOps Essentials- Monitoring Model Drift and Bias]]'
+path_nav: '[{"path":"MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security","position":8,"total":10,"prev":"MLOps Essentials- Model Development and Integration","next":"MLOps Essentials- Monitoring Model Drift and Bias"},{"path":"Advance Your Skills in AI and Machine Learning","position":11,"total":16,"prev":"MLOps Essentials- Model Development and Integration","next":"MLOps Essentials- Monitoring Model Drift and Bias"}]'
 path_count: 2
 tags:
   - course
@@ -31,7 +38,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![MLOps Essentials: Model Deployment and Monitoring](https://media.licdn.com/dms/image/v2/C560DAQGm06LVfo8Q0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664994853235?e=2147483647&amp;v=beta&amp;t=_Bk25N4f8tuifFE5UHaLbCtUQxKH41v-IiJGQdFetPY)

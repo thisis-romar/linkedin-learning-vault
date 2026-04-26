@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFpq7UNi-fgQQ/learning-public-crop_675_1200/B4EZZaM0imHMAY-/0/1745270033295?e=2147483647&amp;v=beta&amp;t=XUOoN9iNLq8rpoh_JIUZIguL7qfqvpfXyMLsb6gskIE"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in GIS
+  - '[[Advance Your Skills in GIS]]'
+prev_courses:
+  - '[[QGIS and Python for AEC]]'
+next_courses:
+  - '[[Learning ArcGIS Python Scripting]]'
+path_nav: '[{"path":"Advance Your Skills in GIS","position":6,"total":9,"prev":"QGIS and Python for AEC","next":"Learning ArcGIS Python Scripting"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/geographic-information-systems-gis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Foundations of Geographic Information Systems (GIS)](https://media.licdn.com/dms/image/v2/D4E0DAQFpq7UNi-fgQQ/learning-public-crop_675_1200/B4EZZaM0imHMAY-/0/1745270033295?e=2147483647&amp;v=beta&amp;t=XUOoN9iNLq8rpoh_JIUZIguL7qfqvpfXyMLsb6gskIE)

@@ -6,7 +6,7 @@ linkedin_topic: Network and System Administration
 tags:
   - moc
   - topic/network-and-system-administration
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Network and System Administration
@@ -72,3 +72,7 @@ created: 2026-04-20
 - [[Windows 10- Administration]] — 2 paths
 - [[Windows 10- Security]] — 2 paths
 - [[Windows 10 for IT Support- Troubleshooting Basics]] — 2 paths
+
+---
+
+Part of [[000 Map of Content]]

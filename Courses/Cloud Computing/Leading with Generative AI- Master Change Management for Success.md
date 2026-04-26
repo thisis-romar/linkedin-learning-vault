@@ -18,8 +18,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFmvBf7B5-zzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736530265864?e=2147483647&amp;v=beta&amp;t=wLR35OKH7ufOOcCwMnaLMyaWlBA9-q00JbESkKfXmQU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Technical Literacy and Future Readiness for Senior Managers and Senior Leaders
-  - LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader
+  - '[[Technical Literacy and Future Readiness for Senior Managers and Senior Leaders]]'
+  - '[[LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader]]'
+prev_courses:
+  - '[[AI Cheat Sheet for Business Leaders]]'
+  - '[[Strengthen Your Decision-Making with Generative AI]]'
+next_courses:
+  - '[[AI Accountability- Build Responsible and Transparent Systems]]'
+  - '[[Learning Design Thinking- Lead Change in Your Organization]]'
+path_nav: '[{"path":"Technical Literacy and Future Readiness for Senior Managers and Senior Leaders","position":8,"total":10,"prev":"AI Cheat Sheet for Business Leaders","next":"AI Accountability- Build Responsible and Transparent Systems"},{"path":"LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader","position":8,"total":11,"prev":"Strengthen Your Decision-Making with Generative AI","next":"Learning Design Thinking- Lead Change in Your Organization"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/change-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leading with Generative AI: Master Change Management for Success](https://media.licdn.com/dms/image/v2/D4E0DAQFmvBf7B5-zzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736530265864?e=2147483647&amp;v=beta&amp;t=wLR35OKH7ufOOcCwMnaLMyaWlBA9-q00JbESkKfXmQU)

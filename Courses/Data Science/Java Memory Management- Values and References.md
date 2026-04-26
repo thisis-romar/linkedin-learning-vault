@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHNqyFy0rQSiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710461282859?e=2147483647&amp;v=beta&amp;t=LjUM--S07MjJJulmAJyTDydJrHCeGx4UeNVs489gpBI"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Java Developer
+  - '[[Getting Started as a Java Developer]]'
+prev_courses:
+  - '[[Learning Java Collections]]'
+next_courses:
+  - '[[Java Memory Management- Garbage Collection, JVM Tuning, and Spotting Memory Leaks]]'
+path_nav: '[{"path":"Getting Started as a Java Developer","position":6,"total":10,"prev":"Learning Java Collections","next":"Java Memory Management- Garbage Collection, JVM Tuning, and Spotting Memory Leaks"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/memory-management
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Java Memory Management: Values and References](https://media.licdn.com/dms/image/v2/D560DAQHNqyFy0rQSiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710461282859?e=2147483647&amp;v=beta&amp;t=LjUM--S07MjJJulmAJyTDydJrHCeGx4UeNVs489gpBI)

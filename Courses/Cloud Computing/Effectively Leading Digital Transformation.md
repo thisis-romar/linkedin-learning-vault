@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEgK74eSGpfkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696014828986?e=2147483647&amp;v=beta&amp;t=p5WrrQaMgJeBfvY7u-oUhPuYxBMcdWGnoMI-RgzLWxQ"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation for Tech Leaders
+  - '[[Digital Transformation for Tech Leaders]]'
+prev_courses:
+  - '[[Digital Transformation Foundations]]'
+next_courses:
+  - '[[Foundations of the Fourth Industrial Revolution (Industry 4.0)]]'
+path_nav: '[{"path":"Digital Transformation for Tech Leaders","position":2,"total":15,"prev":"Digital Transformation Foundations","next":"Foundations of the Fourth Industrial Revolution (Industry 4.0)"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Effectively Leading Digital Transformation](https://media.licdn.com/dms/image/v2/D560DAQEgK74eSGpfkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696014828986?e=2147483647&amp;v=beta&amp;t=p5WrrQaMgJeBfvY7u-oUhPuYxBMcdWGnoMI-RgzLWxQ)

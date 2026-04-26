@@ -19,7 +19,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHUqCPEmlrWMw/learning-public-crop_675_1200/B4EZb4xRIlGUAY-/0/1747930387743?e=2147483647&amp;v=beta&amp;t=MB7KK_CZ5Nk3r-wlTm2UZ9Uk10d_pv-PmYYsCiYTbf8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Generative AI Professional Certificate by Snowflake
+  - '[[Generative AI Professional Certificate by Snowflake]]'
+prev_courses:
+  - '[[Introduction to Gen AI with Snowflake]]'
+path_nav: '[{"path":"Generative AI Professional Certificate by Snowflake","position":3,"total":3,"prev":"Introduction to Gen AI with Snowflake","next":null}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +36,7 @@ tags:
   - skill/application-development
   - skill/snowflake
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Generative AI Apps to Talk to Your Data](https://media.licdn.com/dms/image/v2/D4E0DAQHUqCPEmlrWMw/learning-public-crop_675_1200/B4EZb4xRIlGUAY-/0/1747930387743?e=2147483647&amp;v=beta&amp;t=MB7KK_CZ5Nk3r-wlTm2UZ9Uk10d_pv-PmYYsCiYTbf8)

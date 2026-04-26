@@ -8,14 +8,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQG9vHFWWRICbA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608574648575?e=2147483647&amp;v=beta&amp;t=C-HUd-4ctv2YlfdiQpl6orcLic_Trrwnh8_OM8c1Wkk"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - VoIP- From Fundamentals to Troubleshooting
+  - '[[VoIP- From Fundamentals to Troubleshooting]]'
+next_courses:
+  - '[[Analyzing VoIP Traffic with Wireshark]]'
+path_nav: '[{"path":"VoIP- From Fundamentals to Troubleshooting","position":1,"total":3,"prev":null,"next":"Analyzing VoIP Traffic with Wireshark"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Voip And Unified Communications](https://media.licdn.com/dms/image/v2/C4E0DAQG9vHFWWRICbA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608574648575?e=2147483647&amp;v=beta&amp;t=C-HUd-4ctv2YlfdiQpl6orcLic_Trrwnh8_OM8c1Wkk)

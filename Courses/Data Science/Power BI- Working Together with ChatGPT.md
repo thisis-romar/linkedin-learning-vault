@@ -19,8 +19,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHnubpIAJTZew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702591567718?e=2147483647&amp;v=beta&amp;t=EqNB5UpBY8hhritN8v5NcOzRLcCSoS-XFWdIcKaR3Jk"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Dashboards and Data Viz in Power BI
-  - Master Microsoft Power BI
+  - '[[Master Dashboards and Data Viz in Power BI]]'
+  - '[[Master Microsoft Power BI]]'
+prev_courses:
+  - '[[Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals]]'
+  - null
+next_courses:
+  - null
+  - '[[Power BI Data Methods]]'
+path_nav: '[{"path":"Master Dashboards and Data Viz in Power BI","position":6,"total":6,"prev":"Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals","next":null},{"path":"Master Microsoft Power BI","position":1,"total":6,"prev":null,"next":"Power BI Data Methods"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/microsoft-power-bi
   - skill/chatgpt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Power BI: Working Together with ChatGPT](https://media.licdn.com/dms/image/v2/D560DAQHnubpIAJTZew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702591567718?e=2147483647&amp;v=beta&amp;t=EqNB5UpBY8hhritN8v5NcOzRLcCSoS-XFWdIcKaR3Jk)

@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/c-sharp-cross-platform-development-
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFN2A5GUfqgSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691011036247?e=2147483647&amp;v=beta&amp;t=ykMwwWkISC0KMJQlfocVsyiEAGVFnGuuFutt19P4m0c"
 linkedin_topic: DevOps
 learning_paths:
-  - Elevating C- Skills- Building Robust Applications
+  - '[[Elevating C- Skills- Building Robust Applications]]'
+prev_courses:
+  - '[[C- Exception and Error Handling]]'
+next_courses:
+  - '[[C- Unit Testing with xUnit]]'
+path_nav: '[{"path":"Elevating C- Skills- Building Robust Applications","position":6,"total":8,"prev":"C- Exception and Error Handling","next":"C- Unit Testing with xUnit"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/c
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C# Cross-Platform Development](https://media.licdn.com/dms/image/v2/D560DAQFN2A5GUfqgSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691011036247?e=2147483647&amp;v=beta&amp;t=ykMwwWkISC0KMJQlfocVsyiEAGVFnGuuFutt19P4m0c)

@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEbEZmQhrYSWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709605150351?e=2147483647&amp;v=beta&amp;t=gyiXVt3rtKWGA-moEPVMXEoP-gUkzCXShUr2HHoGyGU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying Generative AI as a Business Professional
+  - '[[Applying Generative AI as a Business Professional]]'
+prev_courses:
+  - '[[Automating Your Work with Custom GPTs (No Code Required) (2025)]]'
+next_courses:
+  - '[[Amplify Your Critical Thinking with Generative AI]]'
+path_nav: '[{"path":"Applying Generative AI as a Business Professional","position":4,"total":6,"prev":"Automating Your Work with Custom GPTs (No Code Required) (2025)","next":"Amplify Your Critical Thinking with Generative AI"}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Amplify Your Communication Skills with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQEbEZmQhrYSWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709605150351?e=2147483647&amp;v=beta&amp;t=gyiXVt3rtKWGA-moEPVMXEoP-gUkzCXShUr2HHoGyGU)

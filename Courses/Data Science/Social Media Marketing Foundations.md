@@ -16,15 +16,22 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHDMR3tjKhRsg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683671501337?e=2147483647&amp;v=beta&amp;t=-ILaj3P_4cYhDA2thZ38nPRZBxg9807GYqhntE02N7M"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance as a Digital Marketing Specialist
-  - Become a Marketing Coordinator
+  - '[[Advance as a Digital Marketing Specialist]]'
+  - '[[Become a Marketing Coordinator]]'
+prev_courses:
+  - '[[SEO Foundations]]'
+  - '[[Market Research Foundations]]'
+next_courses:
+  - '[[Content Marketing Foundations]]'
+  - '[[Email and Newsletter Marketing Foundations]]'
+path_nav: '[{"path":"Advance as a Digital Marketing Specialist","position":4,"total":9,"prev":"SEO Foundations","next":"Content Marketing Foundations"},{"path":"Become a Marketing Coordinator","position":5,"total":9,"prev":"Market Research Foundations","next":"Email and Newsletter Marketing Foundations"}]'
 path_count: 2
 tags:
   - course
   - topic/data-science
   - skill/social-media-marketing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Social Media Marketing Foundations](https://media.licdn.com/dms/image/v2/D560DAQHDMR3tjKhRsg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683671501337?e=2147483647&amp;v=beta&amp;t=-ILaj3P_4cYhDA2thZ38nPRZBxg9807GYqhntE02N7M)

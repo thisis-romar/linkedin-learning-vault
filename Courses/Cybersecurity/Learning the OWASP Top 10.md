@@ -17,10 +17,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGSBppCTJII3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638474196848?e=2147483647&amp;v=beta&amp;t=s3ov-JYKHSr9S8zJMdon91wmNJLa1ski9OqwjTUzwuc"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Navigating the Cybersecurity Threat Landscape
-  - Become a Cybersecurity Professional
-  - Explore a Career in Application Security
-  - Master the OWASP Top 10
+  - '[[Navigating the Cybersecurity Threat Landscape]]'
+  - '[[Become a Cybersecurity Professional]]'
+  - '[[Explore a Career in Application Security]]'
+  - '[[Master the OWASP Top 10]]'
+prev_courses:
+  - '[[Demystifying Advanced and Complex Security Topics]]'
+  - '[[The Cybersecurity Threat Landscape]]'
+  - '[[Penetration Testing Essential Training]]'
+  - null
+next_courses:
+  - '[[Introduction to Identity and Access Management]]'
+  - '[[Cybersecurity Careers and Certifications]]'
+  - '[[Security Testing Essential Training (2022)]]'
+  - '[[OWASP Top 10- -1 Broken Access Control and -2 Cryptographic Failures]]'
+path_nav: '[{"path":"Navigating the Cybersecurity Threat Landscape","position":3,"total":8,"prev":"Demystifying Advanced and Complex Security Topics","next":"Introduction to Identity and Access Management"},{"path":"Become a Cybersecurity Professional","position":3,"total":5,"prev":"The Cybersecurity Threat Landscape","next":"Cybersecurity Careers and Certifications"},{"path":"Explore a Career in Application Security","position":3,"total":7,"prev":"Penetration Testing Essential Training","next":"Security Testing Essential Training (2022)"},{"path":"Master the OWASP Top 10","position":1,"total":6,"prev":null,"next":"OWASP Top 10- -1 Broken Access Control and -2 Cryptographic Failures"}]'
 path_count: 4
 tags:
   - course
@@ -28,7 +39,7 @@ tags:
   - skill/owasp
   - skill/web-application-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning the OWASP Top 10](https://media.licdn.com/dms/image/v2/C560DAQGSBppCTJII3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638474196848?e=2147483647&amp;v=beta&amp;t=s3ov-JYKHSr9S8zJMdon91wmNJLa1ski9OqwjTUzwuc)

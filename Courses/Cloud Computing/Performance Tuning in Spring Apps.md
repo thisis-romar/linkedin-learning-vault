@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/performance-spring-3158745"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFAnne7qoYl0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637107876135?e=2147483647&amp;v=beta&amp;t=89O1e2iFpTdBcYMpzUWDtC7Rp0O_kt60du8VXdWgvW8"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance Your Spring Development Skills
+  - '[[Advance Your Spring Development Skills]]'
+prev_courses:
+  - '[[Spring On Kubernetes Deploying And Managing Cloud Native Applications]]'
+next_courses:
+  - '[[Spring Boot Observability- Deep Dive into Logging, Metrics, and Tracing]]'
+path_nav: '[{"path":"Advance Your Spring Development Skills","position":2,"total":6,"prev":"Spring On Kubernetes Deploying And Managing Cloud Native Applications","next":"Spring Boot Observability- Deep Dive into Logging, Metrics, and Tracing"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/spring-framework
   - skill/performance-tuning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Performance Tuning in Spring Apps](https://media.licdn.com/dms/image/v2/C560DAQFAnne7qoYl0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637107876135?e=2147483647&amp;v=beta&amp;t=89O1e2iFpTdBcYMpzUWDtC7Rp0O_kt60du8VXdWgvW8)

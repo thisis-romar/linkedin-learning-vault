@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/snake-game-python-2896343"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHnKo9bVeGWvg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634664629182?e=2147483647&amp;v=beta&amp;t=tce3cMRiOhSI0qMKw5At4vvqIV1ZIrudnLjf6DKUoNo"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
+  - '[[Python Hands-On Practice]]'
+prev_courses:
+  - '[[Python Practice- Object-Oriented Programming]]'
+next_courses:
+  - '[[Python Projects- Create an Interactive Quiz Application]]'
+path_nav: '[{"path":"Python Hands-On Practice","position":6,"total":14,"prev":"Python Practice- Object-Oriented Programming","next":"Python Projects- Create an Interactive Quiz Application"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/game-programming
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building the Classic Snake Game with Python](https://media.licdn.com/dms/image/v2/C560DAQHnKo9bVeGWvg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634664629182?e=2147483647&amp;v=beta&amp;t=tce3cMRiOhSI0qMKw5At4vvqIV1ZIrudnLjf6DKUoNo)

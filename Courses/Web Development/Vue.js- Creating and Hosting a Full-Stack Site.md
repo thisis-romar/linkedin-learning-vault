@@ -18,7 +18,10 @@ github: "https://github.com/LinkedInLearning/vuejs-creating-and-hosting-a-full-s
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEY1EY7FIhYaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678465685731?e=2147483647&amp;v=beta&amp;t=DP77FbMuyQDvHdf6nets4fN6RWiOTAP25LQ02f6Dc9k"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore Web Development with Vue.js
+  - '[[Explore Web Development with Vue.js]]'
+prev_courses:
+  - '[[Vue.js- Testing and Debugging]]'
+path_nav: '[{"path":"Explore Web Development with Vue.js","position":3,"total":3,"prev":"Vue.js- Testing and Debugging","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/vue-js
   - skill/full-stack-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Vue.js: Creating and Hosting a Full-Stack Site](https://media.licdn.com/dms/image/v2/C560DAQEY1EY7FIhYaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678465685731?e=2147483647&amp;v=beta&amp;t=DP77FbMuyQDvHdf6nets4fN6RWiOTAP25LQ02f6Dc9k)

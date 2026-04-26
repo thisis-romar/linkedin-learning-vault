@@ -7,7 +7,7 @@ course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 15
+louvain_cluster: 16
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -43,7 +43,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Building Agentic AI Systems for Developers
@@ -74,3 +74,7 @@ _Paths that share courses with this one:_
 
 - [[Building Agentic AI Systems for Tech Leaders]] (1 shared courses)
 - [[Building AI Agents- Advanced Techniques for Developers]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

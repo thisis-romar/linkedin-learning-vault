@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/openai-api-image-generation-with-da
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGxFE7zT3GMqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705102392664?e=2147483647&amp;v=beta&amp;t=c3rGlUy2B3DH9c11z2tWjRNg05BirMEcYcoAJWq3evA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your Skills with the OpenAI API
+  - '[[Develop Your Skills with the OpenAI API]]'
+prev_courses:
+  - '[[OpenAI API- Fine-Tuning]]'
+next_courses:
+  - '[[OpenAI API- Vision]]'
+path_nav: '[{"path":"Develop Your Skills with the OpenAI API","position":6,"total":10,"prev":"OpenAI API- Fine-Tuning","next":"OpenAI API- Vision"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![OpenAI API: Image Generation with DALL-E](https://media.licdn.com/dms/image/v2/D560DAQGxFE7zT3GMqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705102392664?e=2147483647&amp;v=beta&amp;t=c3rGlUy2B3DH9c11z2tWjRNg05BirMEcYcoAJWq3evA)

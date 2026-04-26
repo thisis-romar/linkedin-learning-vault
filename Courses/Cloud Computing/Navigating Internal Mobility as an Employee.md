@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGus_xltPdhWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646073323111?e=2147483647&amp;v=beta&amp;t=PADsg7ekU5HwakcxeaVEsP_gjWC18htKz-7ariu2knE"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Branding and Skill Building to Advance Your Tech Career
+  - '[[Branding and Skill Building to Advance Your Tech Career]]'
+prev_courses:
+  - '[[Figuring Out Your Next Move]]'
+path_nav: '[{"path":"Branding and Skill Building to Advance Your Tech Career","position":6,"total":6,"prev":"Figuring Out Your Next Move","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/internal-mobility
   - skill/career-path-planning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Navigating Internal Mobility as an Employee](https://media.licdn.com/dms/image/v2/C560DAQGus_xltPdhWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646073323111?e=2147483647&amp;v=beta&amp;t=PADsg7ekU5HwakcxeaVEsP_gjWC18htKz-7ariu2knE)

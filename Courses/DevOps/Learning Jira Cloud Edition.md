@@ -14,8 +14,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE5YQJIs9wiyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702339479063?e=2147483647&amp;v=beta&amp;t=K-QDOgmH0MwjJhr3kfLnMXRrX3xcyCm08yMUM2Y5mps"
 linkedin_topic: DevOps
 learning_paths:
-  - Mastering Jira for Software Developers
-  - Mastering Jira Administration
+  - '[[Mastering Jira for Software Developers]]'
+  - '[[Mastering Jira Administration]]'
+next_courses:
+  - '[[Learning Jira- Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development]]'
+  - '[[Jira- Basic Administration]]'
+path_nav: '[{"path":"Mastering Jira for Software Developers","position":1,"total":4,"prev":null,"next":"Learning Jira- Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development"},{"path":"Mastering Jira Administration","position":1,"total":7,"prev":null,"next":"Jira- Basic Administration"}]'
 path_count: 2
 tags:
   - course
@@ -24,7 +28,7 @@ tags:
   - topic/network-and-system-administration
   - skill/jira
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Jira Cloud Edition](https://media.licdn.com/dms/image/v2/D4D0DAQE5YQJIs9wiyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702339479063?e=2147483647&amp;v=beta&amp;t=K-QDOgmH0MwjJhr3kfLnMXRrX3xcyCm08yMUM2Y5mps)

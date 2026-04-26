@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGkfrZWdy9W5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614972368978?e=2147483647&amp;v=beta&amp;t=NuMtkI3nF7R21RZjbzOpRUMU2nAsstrFlKSu4k5SClM"
 linkedin_topic: Data Science
 learning_paths:
-  - Get Ahead in Business Analytics and Analysis
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+prev_courses:
+  - '[[Business Analysis for Busy Professionals]]'
+next_courses:
+  - '[[Business Analyst and Project Manager Collaboration (2018)]]'
+path_nav: '[{"path":"Get Ahead in Business Analytics and Analysis","position":5,"total":19,"prev":"Business Analysis for Busy Professionals","next":"Business Analyst and Project Manager Collaboration (2018)"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/project-management
   - skill/business-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analysis for Project Managers](https://media.licdn.com/dms/image/v2/C4E0DAQGkfrZWdy9W5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614972368978?e=2147483647&amp;v=beta&amp;t=NuMtkI3nF7R21RZjbzOpRUMU2nAsstrFlKSu4k5SClM)

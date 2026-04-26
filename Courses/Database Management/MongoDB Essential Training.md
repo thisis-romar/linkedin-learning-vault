@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/mongoDB-essential-training-3023263 
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFYT-OXtGVtSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652204728246?e=2147483647&amp;v=beta&amp;t=8E2xX9JTsTymVeo_n5HKlbvsmknNhgoZPIgLl92dE0c"
 linkedin_topic: Database Management
 learning_paths:
-  - Explore App Development with the MERN Stack
+  - '[[Explore App Development with the MERN Stack]]'
+prev_courses:
+  - '[[Node.js- Securing RESTful APIs]]'
+next_courses:
+  - '[[Learning Full-Stack JavaScript Development- MongoDB, Node, and React]]'
+path_nav: '[{"path":"Explore App Development with the MERN Stack","position":12,"total":13,"prev":"Node.js- Securing RESTful APIs","next":"Learning Full-Stack JavaScript Development- MongoDB, Node, and React"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - topic/web-development
   - skill/mongodb
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![MongoDB Essential Training](https://media.licdn.com/dms/image/v2/C560DAQFYT-OXtGVtSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652204728246?e=2147483647&amp;v=beta&amp;t=8E2xX9JTsTymVeo_n5HKlbvsmknNhgoZPIgLl92dE0c)

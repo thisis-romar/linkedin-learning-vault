@@ -7,16 +7,16 @@ course_count: 19
 linkedin_topics:
   - Cybersecurity
   - Network and System Administration
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/security
   - topic/network-and-system-administration
   - status/in-progress
-last_activity: 2026-04-20T20:58:57.403Z
-activity_total: 4
-courses_visited: 3
-videos_visited: 1
+last_activity: 2026-04-22T19:57:13.260Z
+activity_total: 3
+courses_visited: 2
+videos_visited: 0
 progress_status: in-progress
 course_activity:
   - course: "[[Ethical Hacking Introduction To Ethical Hacking]]"
@@ -95,22 +95,15 @@ course_activity:
     last_opened:
     open_count: 0
     videos: []
-  - course: ethical-hacking-wireless-networks
-    last_opened: 2026-04-20T20:57:01.506Z
-    open_count: 1
-    videos:
-      - video: capturing-wireless-packets-with-acrylic-analyzer-2
-        last_clicked: 2026-04-20T20:57:03.735Z
-        click_count: 1
-  - course: ethical-hacking-hacking-web-servers-and-web-applications
-    last_opened: 2026-04-20T20:58:57.403Z
+  - course: ethical-hacking-evading-ids-firewalls-and-honeypots
+    last_opened: 2026-04-22T19:57:13.260Z
     open_count: 2
     videos: []
-  - course: ethical-hacking-mobile-devices-and-platforms
-    last_opened: 2026-04-20T20:58:55.372Z
+  - course: ethical-hacking-session-hijacking
+    last_opened: 2026-04-22T19:57:03.057Z
     open_count: 1
     videos: []
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Become an Ethical Hacker
@@ -153,3 +146,7 @@ created: 2026-04-20
 _Paths that share courses with this one:_
 
 - [[Strategies for Managing Vulnerabilities and Mitigating Cyber Risks]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cybersecurity]]

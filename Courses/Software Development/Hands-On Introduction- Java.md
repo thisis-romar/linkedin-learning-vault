@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/hands-on-java-3080245/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF6nAhBEhw54Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666989653554?e=2147483647&amp;v=beta&amp;t=tw74qmskKZKRB94IWWhpLS1uFrYc3Kb_tjg2hqwa3zM"
 linkedin_topic: Software Development
 learning_paths:
-  - A Quick Start Guide to Java Programming
+  - '[[A Quick Start Guide to Java Programming]]'
+prev_courses:
+  - '[[Learning Java 17]]'
+next_courses:
+  - '[[Practice It- Java]]'
+path_nav: '[{"path":"A Quick Start Guide to Java Programming","position":4,"total":5,"prev":"Learning Java 17","next":"Practice It- Java"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On Introduction: Java](https://media.licdn.com/dms/image/v2/D560DAQF6nAhBEhw54Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666989653554?e=2147483647&amp;v=beta&amp;t=tw74qmskKZKRB94IWWhpLS1uFrYc3Kb_tjg2hqwa3zM)

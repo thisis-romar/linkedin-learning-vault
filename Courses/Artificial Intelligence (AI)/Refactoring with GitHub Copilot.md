@@ -20,9 +20,18 @@ github: "https://github.com/LinkedInLearning/refactoring-with-github-copilot-395
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHywlZzgjyv-g/learning-public-crop_675_1200/B56ZS91qhWGQAc-/0/1738351749959?e=2147483647&amp;v=beta&amp;t=uhRCAWKC_kXsujNL0xKosLJmWR997knTqSFNTgogd9s"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Transform Your Programming with AI Coding Tools
-  - Career Essentials in GitHub Copilot Professional Certificate
-  - Master GitHub Copilot
+  - '[[Transform Your Programming with AI Coding Tools]]'
+  - '[[Career Essentials in GitHub Copilot Professional Certificate]]'
+  - '[[Master GitHub Copilot]]'
+prev_courses:
+  - '[[Using AI in the Design to Full-Stack Development Life Cycle]]'
+  - '[[Supercharge the Development Process with GitHub Extensions for Copilot Chat]]'
+  - '[[Creating a Book Search Engine from Scratch Using Java and GitHub Copilot]]'
+next_courses:
+  - '[[ChatGPT and SQL]]'
+  - '[[Responsible GitHub Copilot- Creating Reliable Code Ethically]]'
+  - '[[Software Testing Assistance with GitHub Copilot AI]]'
+path_nav: '[{"path":"Transform Your Programming with AI Coding Tools","position":3,"total":7,"prev":"Using AI in the Design to Full-Stack Development Life Cycle","next":"ChatGPT and SQL"},{"path":"Career Essentials in GitHub Copilot Professional Certificate","position":3,"total":4,"prev":"Supercharge the Development Process with GitHub Extensions for Copilot Chat","next":"Responsible GitHub Copilot- Creating Reliable Code Ethically"},{"path":"Master GitHub Copilot","position":7,"total":8,"prev":"Creating a Book Search Engine from Scratch Using Java and GitHub Copilot","next":"Software Testing Assistance with GitHub Copilot AI"}]'
 path_count: 3
 tags:
   - course
@@ -33,7 +42,7 @@ tags:
   - skill/php
   - skill/code-refactoring
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Refactoring with GitHub Copilot](https://media.licdn.com/dms/image/v2/D560DAQHywlZzgjyv-g/learning-public-crop_675_1200/B56ZS91qhWGQAc-/0/1738351749959?e=2147483647&amp;v=beta&amp;t=uhRCAWKC_kXsujNL0xKosLJmWR997knTqSFNTgogd9s)

@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQErSQeaN7SJLA/learning-public-crop_675_1200/B4EZnzNWEYKkAY-/0/1760721986568?e=2147483647&amp;v=beta&amp;t=6z4hNFkhHBHOradMqvdG3GaiCTjMZ1a5ZcibnqS7wv8"
 linkedin_topic: Software Development
 learning_paths:
-  - Career Essentials in Sustainable Tech by Microsoft and LinkedIn
+  - '[[Career Essentials in Sustainable Tech by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Sustainability as an Innovation Opportunity]]'
+next_courses:
+  - '[[Microsoft Cloud for Sustainability- ESG and the Future of Business]]'
+path_nav: '[{"path":"Career Essentials in Sustainable Tech by Microsoft and LinkedIn","position":3,"total":7,"prev":"Sustainability as an Innovation Opportunity","next":"Microsoft Cloud for Sustainability- ESG and the Future of Business"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/sustainability
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Including Sustainability in Your Cloud Strategy](https://media.licdn.com/dms/image/v2/D4E0DAQErSQeaN7SJLA/learning-public-crop_675_1200/B4EZnzNWEYKkAY-/0/1760721986568?e=2147483647&amp;v=beta&amp;t=6z4hNFkhHBHOradMqvdG3GaiCTjMZ1a5ZcibnqS7wv8)

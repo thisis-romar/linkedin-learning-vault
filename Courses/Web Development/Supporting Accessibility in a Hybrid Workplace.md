@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQH9IaE9-gq-ZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670536168179?e=2147483647&amp;v=beta&amp;t=oofZ9YqT8vVzhG6TwmiMnEjczhfWfjHjiQs5SxscKYU"
 linkedin_topic: Web Development
 learning_paths:
-  - Maintain Digital Accessibility
+  - '[[Maintain Digital Accessibility]]'
+prev_courses:
+  - '[[Making A Case For Accessibility In Your Organization]]'
+next_courses:
+  - '[[Auditing Design Systems for Accessibility]]'
+path_nav: '[{"path":"Maintain Digital Accessibility","position":2,"total":3,"prev":"Making A Case For Accessibility In Your Organization","next":"Auditing Design Systems for Accessibility"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/workplace-organization
   - skill/diversity-equity-inclusion-and-belonging-deib
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Supporting Accessibility in a Hybrid Workplace](https://media.licdn.com/dms/image/v2/C4E0DAQH9IaE9-gq-ZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670536168179?e=2147483647&amp;v=beta&amp;t=oofZ9YqT8vVzhG6TwmiMnEjczhfWfjHjiQs5SxscKYU)

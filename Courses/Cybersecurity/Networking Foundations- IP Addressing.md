@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEBmjDcG5jG-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615489458811?e=2147483647&amp;v=beta&amp;t=J3OLKeP8vzk1rYNNRew4BuCE0hM7K5iCyumpZZVjM04"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Network Administration- Build Core Skills for Network Management and Security
-  - Networking and Administration Fundamentals
+  - '[[Network Administration- Build Core Skills for Network Management and Security]]'
+  - '[[Networking and Administration Fundamentals]]'
+prev_courses:
+  - '[[Networking Foundations Networking Basics]]'
+  - '[[Networking Foundations Networking Basics]]'
+next_courses:
+  - '[[Networking Foundations- Local Area Networks (LANs)]]'
+  - '[[Server Administration Essential Training]]'
+path_nav: '[{"path":"Network Administration- Build Core Skills for Network Management and Security","position":2,"total":6,"prev":"Networking Foundations Networking Basics","next":"Networking Foundations- Local Area Networks (LANs)"},{"path":"Networking and Administration Fundamentals","position":4,"total":10,"prev":"Networking Foundations Networking Basics","next":"Server Administration Essential Training"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - topic/cloud-computing
   - skill/ip-addressing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Networking Foundations: IP Addressing](https://media.licdn.com/dms/image/v2/C4E0DAQEBmjDcG5jG-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615489458811?e=2147483647&amp;v=beta&amp;t=J3OLKeP8vzk1rYNNRew4BuCE0hM7K5iCyumpZZVjM04)

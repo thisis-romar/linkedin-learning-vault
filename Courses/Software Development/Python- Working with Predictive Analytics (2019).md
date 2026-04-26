@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQG3bGexV7b4AA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134533264?e=2147483647&amp;v=beta&amp;t=vjpaM5PUTUUEblsVs0IGP6vPzfLmqaVGfwB2Uh9D3zw"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Your Python Skills
+  - '[[Master Your Python Skills]]'
+prev_courses:
+  - '[[Advanced Python- Working with Databases]]'
+next_courses:
+  - '[[Level Up- Advanced Python]]'
+path_nav: '[{"path":"Master Your Python Skills","position":9,"total":11,"prev":"Advanced Python- Working with Databases","next":"Level Up- Advanced Python"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python: Working with Predictive Analytics (2019)](https://media.licdn.com/dms/image/v2/C4E0DAQG3bGexV7b4AA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134533264?e=2147483647&amp;v=beta&amp;t=vjpaM5PUTUUEblsVs0IGP6vPzfLmqaVGfwB2Uh9D3zw)

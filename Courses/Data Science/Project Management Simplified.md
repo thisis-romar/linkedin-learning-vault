@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF9Ffx0ZFkVew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584382503938?e=2147483647&amp;v=beta&amp;t=JIcWEaFpo4fpfvPHNJuIp-KEu6YgNpVF9PX1YH-1DqA"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Marketing Coordinator
+  - '[[Become a Marketing Coordinator]]'
+prev_courses:
+  - '[[Introduction to Graphic Design- Concepts]]'
+next_courses:
+  - '[[Customer Service Foundations]]'
+path_nav: '[{"path":"Become a Marketing Coordinator","position":8,"total":9,"prev":"Introduction to Graphic Design- Concepts","next":"Customer Service Foundations"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/project-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Project Management Simplified](https://media.licdn.com/dms/image/v2/C4E0DAQF9Ffx0ZFkVew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584382503938?e=2147483647&amp;v=beta&amp;t=JIcWEaFpo4fpfvPHNJuIp-KEu6YgNpVF9PX1YH-1DqA)

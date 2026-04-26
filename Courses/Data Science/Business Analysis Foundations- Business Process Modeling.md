@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFdnTylFTNevg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1593633041617?e=2147483647&amp;v=beta&amp;t=mMPy9EUp2B0ZVaeipu7oEelBL2DiYQ3oqqketec1cZw"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Business Analyst
-  - Get Ahead in Business Analytics and Analysis
+  - '[[Getting Started as a Business Analyst]]'
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+prev_courses:
+  - '[[Requirements Elicitation and Analysis]]'
+  - '[[Business Analysis Foundations- Competencies]]'
+next_courses:
+  - '[[Requirements Elicitation for Business Analysis- Stakeholder Conversations]]'
+  - '[[Business Analysis Foundations- Strategy Analysis]]'
+path_nav: '[{"path":"Getting Started as a Business Analyst","position":8,"total":18,"prev":"Requirements Elicitation and Analysis","next":"Requirements Elicitation for Business Analysis- Stakeholder Conversations"},{"path":"Get Ahead in Business Analytics and Analysis","position":8,"total":19,"prev":"Business Analysis Foundations- Competencies","next":"Business Analysis Foundations- Strategy Analysis"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/business-process-management
   - skill/business-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analysis Foundations: Business Process Modeling](https://media.licdn.com/dms/image/v2/C4E0DAQFdnTylFTNevg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1593633041617?e=2147483647&amp;v=beta&amp;t=mMPy9EUp2B0ZVaeipu7oEelBL2DiYQ3oqqketec1cZw)

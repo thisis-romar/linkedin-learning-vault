@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/openai-api-working-with-files-45560
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFOZf2CmFd-fg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706825069771?e=2147483647&amp;v=beta&amp;t=fihFsN396gI0FkbniTmZtEI7A4mv40QcIsBByBHJw2M"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your Skills with the OpenAI API
+  - '[[Develop Your Skills with the OpenAI API]]'
+prev_courses:
+  - '[[Openai Api Introduction]]'
+next_courses:
+  - '[[OpenAI API- Function Calling (2023)]]'
+path_nav: '[{"path":"Develop Your Skills with the OpenAI API","position":2,"total":10,"prev":"Openai Api Introduction","next":"OpenAI API- Function Calling (2023)"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![OpenAI API: Working with Files](https://media.licdn.com/dms/image/v2/D4E0DAQFOZf2CmFd-fg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706825069771?e=2147483647&amp;v=beta&amp;t=fihFsN396gI0FkbniTmZtEI7A4mv40QcIsBByBHJw2M)

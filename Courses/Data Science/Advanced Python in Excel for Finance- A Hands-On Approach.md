@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFBsL-MKkHq2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723067844312?e=2147483647&amp;v=beta&amp;t=El9VTKfiahd-4mlvImfI4HAQgLyVdxRB-6yyYi8pL0M"
 linkedin_topic: Data Science
 learning_paths:
-  - Python for Data Professionals in Finance
+  - '[[Python for Data Professionals in Finance]]'
+prev_courses:
+  - '[[Python in Excel for Financial Professionals]]'
+next_courses:
+  - '[[Practical Python for Algorithmic Trading]]'
+path_nav: '[{"path":"Python for Data Professionals in Finance","position":3,"total":5,"prev":"Python in Excel for Financial Professionals","next":"Practical Python for Algorithmic Trading"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/microsoft-excel
   - skill/financial-modeling
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Python in Excel for Finance: A Hands-On Approach](https://media.licdn.com/dms/image/v2/D560DAQFBsL-MKkHq2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723067844312?e=2147483647&amp;v=beta&amp;t=El9VTKfiahd-4mlvImfI4HAQgLyVdxRB-6yyYi8pL0M)

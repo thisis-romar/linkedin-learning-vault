@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/php-techniques-pagination-2884225"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGTEjxoHoClkw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647638529487?e=2147483647&amp;v=beta&amp;t=ijjXafCHfCB21Avkq9_pWqoL2WdXW0K5OpbPFwicpdY"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your PHP Skills
+  - '[[Advance Your PHP Skills]]'
+prev_courses:
+  - '[[PHP- User Authentication]]'
+next_courses:
+  - '[[Advanced PHP- Debugging Techniques]]'
+path_nav: '[{"path":"Advance Your PHP Skills","position":6,"total":7,"prev":"PHP- User Authentication","next":"Advanced PHP- Debugging Techniques"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![PHP Techniques: Pagination](https://media.licdn.com/dms/image/v2/C4E0DAQGTEjxoHoClkw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647638529487?e=2147483647&amp;v=beta&amp;t=ijjXafCHfCB21Avkq9_pWqoL2WdXW0K5OpbPFwicpdY)

@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE6o_Qe0bAf8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680800481821?e=2147483647&amp;v=beta&amp;t=msC2GFOe5y5EsgG-spq8VqIA2P9IgJSGkE-7KDYvKBM"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Advance Your Skills as an IT Help Desk Specialist
+  - '[[Advance Your Skills as an IT Help Desk Specialist]]'
+prev_courses:
+  - '[[Customer Service- Problem-Solving and Troubleshooting]]'
+next_courses:
+  - '[[Innovative Customer Service Techniques]]'
+path_nav: '[{"path":"Advance Your Skills as an IT Help Desk Specialist","position":10,"total":11,"prev":"Customer Service- Problem-Solving and Troubleshooting","next":"Innovative Customer Service Techniques"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/escalation-resolution
   - skill/customer-service
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Working with Upset Customers](https://media.licdn.com/dms/image/v2/D560DAQE6o_Qe0bAf8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680800481821?e=2147483647&amp;v=beta&amp;t=msC2GFOe5y5EsgG-spq8VqIA2P9IgJSGkE-7KDYvKBM)

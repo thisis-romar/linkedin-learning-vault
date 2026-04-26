@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFp10iebFeFwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008950985?e=2147483647&amp;v=beta&amp;t=jeVMmpzlCZzjy9Q41Y95SDhtoWix7c3FGfHOJbGjH20"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying Generative AI as a Creative Professional
+  - '[[Applying Generative AI as a Creative Professional]]'
+prev_courses:
+  - '[[Stable Diffusion- Tips, Tricks, and Techniques]]'
+next_courses:
+  - '[[Leveraging AI in Adobe Photoshop and Creative Cloud (2023)]]'
+path_nav: '[{"path":"Applying Generative AI as a Creative Professional","position":5,"total":7,"prev":"Stable Diffusion- Tips, Tricks, and Techniques","next":"Leveraging AI in Adobe Photoshop and Creative Cloud (2023)"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Adobe Firefly Essential Training (2024)](https://media.licdn.com/dms/image/v2/D560DAQFp10iebFeFwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008950985?e=2147483647&amp;v=beta&amp;t=jeVMmpzlCZzjy9Q41Y95SDhtoWix7c3FGfHOJbGjH20)

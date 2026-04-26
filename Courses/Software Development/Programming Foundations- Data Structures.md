@@ -10,15 +10,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEbMUqPXFmo3Q/learning-public-crop_675_1200/B4EZS4gxWyHoAg-/0/1738262386940?e=2147483647&amp;v=beta&amp;t=4V8QRSAfBZCIob_xSd_b2KONijT15H_N745p6yFZrFw"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Programmer- Foundations
-  - Getting Started with Python
+  - '[[Become a Programmer- Foundations]]'
+  - '[[Getting Started with Python]]'
+prev_courses:
+  - '[[Programming Foundations- Algorithms]]'
+  - '[[Learning the Python 3 Standard Library]]'
+next_courses:
+  - '[[Programming Foundations- Design Patterns]]'
+  - '[[Level Up- Python]]'
+path_nav: '[{"path":"Become a Programmer- Foundations","position":5,"total":12,"prev":"Programming Foundations- Algorithms","next":"Programming Foundations- Design Patterns"},{"path":"Getting Started with Python","position":5,"total":8,"prev":"Learning the Python 3 Standard Library","next":"Level Up- Python"}]'
 path_count: 2
 tags:
   - course
   - topic/software-development
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations: Data Structures](https://media.licdn.com/dms/image/v2/D4E0DAQEbMUqPXFmo3Q/learning-public-crop_675_1200/B4EZS4gxWyHoAg-/0/1738262386940?e=2147483647&amp;v=beta&amp;t=4V8QRSAfBZCIob_xSd_b2KONijT15H_N745p6yFZrFw)

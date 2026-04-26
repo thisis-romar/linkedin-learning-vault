@@ -15,7 +15,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHwCbFZsfziTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567112429138?e=2147483647&amp;v=beta&amp;t=YQujamArcO0YmtVs6Uf-oVu_zBWH7xsh7WOF0QhJMfU"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Build a Privacy Program
+  - '[[Build a Privacy Program]]'
+next_courses:
+  - '[[Understanding and Prioritizing Data Privacy]]'
+path_nav: '[{"path":"Build a Privacy Program","position":1,"total":5,"prev":null,"next":"Understanding and Prioritizing Data Privacy"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/privacy
   - skill/privacy-issues
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Creating A Culture Of Privacy](https://media.licdn.com/dms/image/v2/C4E0DAQHwCbFZsfziTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567112429138?e=2147483647&amp;v=beta&amp;t=YQujamArcO0YmtVs6Uf-oVu_zBWH7xsh7WOF0QhJMfU)

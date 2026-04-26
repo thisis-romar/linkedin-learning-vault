@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF2CyoY8WT7aw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621371775308?e=2147483647&amp;v=beta&amp;t=bc9Qedujt56PIWV2eMYuTmAjuJVZgNut-0iSgpAd-ec"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Understanding Digital Accessibility
-  - Advance Your Digital Transformation Strategy as a Leader
+  - '[[Understanding Digital Accessibility]]'
+  - '[[Advance Your Digital Transformation Strategy as a Leader]]'
+prev_courses:
+  - '[[Accessibility-First Design]]'
+  - '[[Planning For The Remote First Work From Anywhere Organization]]'
+next_courses:
+  - '[[Inclusive Learning Design]]'
+  - null
+path_nav: '[{"path":"Understanding Digital Accessibility","position":4,"total":5,"prev":"Accessibility-First Design","next":"Inclusive Learning Design"},{"path":"Advance Your Digital Transformation Strategy as a Leader","position":6,"total":6,"prev":"Planning For The Remote First Work From Anywhere Organization","next":null}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +26,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Digital Accessibility for the Modern Workplace (with Audio Descriptions)](https://media.licdn.com/dms/image/v2/C4E0DAQF2CyoY8WT7aw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621371775308?e=2147483647&amp;v=beta&amp;t=bc9Qedujt56PIWV2eMYuTmAjuJVZgNut-0iSgpAd-ec)

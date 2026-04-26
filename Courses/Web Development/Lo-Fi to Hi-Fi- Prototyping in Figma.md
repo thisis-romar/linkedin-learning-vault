@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGoBjOAjI9yQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668799442072?e=2147483647&amp;v=beta&amp;t=fuvPaDBuvTEq2gE1-4j2R7iOq2BfyuFJ3q0qG2t1xvc"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your UX Prototyping Skills
+  - '[[Improve Your UX Prototyping Skills]]'
+prev_courses:
+  - '[[Adobe XD Essential Training- Prototype]]'
+next_courses:
+  - '[[ProtoPie for UX Design]]'
+path_nav: '[{"path":"Improve Your UX Prototyping Skills","position":3,"total":6,"prev":"Adobe XD Essential Training- Prototype","next":"ProtoPie for UX Design"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/user-interface-prototyping
   - skill/figma-software
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Lo-Fi to Hi-Fi: Prototyping in Figma](https://media.licdn.com/dms/image/v2/C4E0DAQGoBjOAjI9yQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668799442072?e=2147483647&amp;v=beta&amp;t=fuvPaDBuvTEq2gE1-4j2R7iOq2BfyuFJ3q0qG2t1xvc)

@@ -19,7 +19,12 @@ github: "https://github.com/guyernest/advanced-rag"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHm8KWdGtJ1lA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737652635356?e=2147483647&amp;v=beta&amp;t=HOvvWxkDkc31NHYL42lXRBP0dw5soo71ynibySf8kXk"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Become an AI Engineer
+  - '[[Become an AI Engineer]]'
+prev_courses:
+  - '[[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]]'
+next_courses:
+  - '[[Fine-Tuning for LLMs- from Beginner to Advanced]]'
+path_nav: '[{"path":"Become an AI Engineer","position":6,"total":10,"prev":"LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)","next":"Fine-Tuning for LLMs- from Beginner to Advanced"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced LLMs with Retrieval Augmented Generation (RAG): Practical Projects for AI Applications](https://media.licdn.com/dms/image/v2/D4D0DAQHm8KWdGtJ1lA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737652635356?e=2147483647&amp;v=beta&amp;t=HOvvWxkDkc31NHYL42lXRBP0dw5soo71ynibySf8kXk)

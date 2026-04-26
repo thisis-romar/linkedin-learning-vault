@@ -6,7 +6,7 @@ course_count: 3
 tags:
   - skill
   - skill/artificial-intelligence-foundations
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Artificial Intelligence Foundations

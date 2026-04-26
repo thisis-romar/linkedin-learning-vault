@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-as-a-digital-marketing-spec
 course_count: 9
 linkedin_topics:
   - Data Science
-louvain_cluster: 7
+louvain_cluster: 14
 tags:
   - learning-path
   - topic/data-science
@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance as a Digital Marketing Specialist
@@ -85,3 +85,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Become a Marketing Coordinator]] (5 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

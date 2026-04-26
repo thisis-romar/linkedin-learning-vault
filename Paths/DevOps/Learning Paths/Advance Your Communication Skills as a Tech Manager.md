@@ -7,7 +7,7 @@ course_count: 6
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - learning-path
   - topic/devops
@@ -43,7 +43,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Communication Skills as a Tech Manager
@@ -77,3 +77,7 @@ _Paths that share courses with this one:_
 - [[Managing and Leading Developers]] (2 shared courses)
 - [[Succeeding in Your Tech Career- Software Development]] (1 shared courses)
 - [[Design and Present Your Cloud Strategy]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

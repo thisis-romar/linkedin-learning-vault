@@ -45,7 +45,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Understanding AI for Creative Professionals
@@ -79,3 +79,7 @@ _Paths that share courses with this one:_
 - [[Applying Generative AI as a Creative Professional]] (2 shared courses)
 - [[Building ChatGPT Skills for Business Professionals]] (2 shared courses)
 - [[Building AI Literacy]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

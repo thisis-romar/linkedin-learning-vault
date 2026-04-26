@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGiePzGMx901g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702079408571?e=2147483647&amp;v=beta&amp;t=0hMvzc716f_YGqD5Z-gV8oe5jo-M8JmOd2BP2f2s-E4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Masterpath in Analytics Leadership for Executives
+  - '[[Masterpath in Analytics Leadership for Executives]]'
+prev_courses:
+  - '[[Executive Guide to Predictive Modeling Strategy at Scale]]'
+next_courses:
+  - '[[Executive Guide to AutoML]]'
+path_nav: '[{"path":"Masterpath in Analytics Leadership for Executives","position":3,"total":8,"prev":"Executive Guide to Predictive Modeling Strategy at Scale","next":"Executive Guide to AutoML"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/human-in-the-loop-machine-learning
   - skill/data-annotation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation](https://media.licdn.com/dms/image/v2/D560DAQGiePzGMx901g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702079408571?e=2147483647&amp;v=beta&amp;t=0hMvzc716f_YGqD5Z-gV8oe5jo-M8JmOd2BP2f2s-E4)

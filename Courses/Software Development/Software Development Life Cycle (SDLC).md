@@ -16,8 +16,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHlSuJFuSk6lw/learning-public-crop_675_1200/B56ZbF5TqNGgAY-/0/1747076856757?e=2147483647&amp;v=beta&amp;t=NLx6YNs4pIjdw2phT1s49oqQWWJ2RKknh7A1gjuDtts"
 linkedin_topic: Software Development
 learning_paths:
-  - Software Development Fundamentals
-  - Getting Started with Continuous Integration - Continuous Delivery (CI-CD)
+  - '[[Software Development Fundamentals]]'
+  - '[[Getting Started with Continuous Integration - Continuous Delivery (CI-CD)]]'
+prev_courses:
+  - '[[Computer Science Principles- Programming]]'
+  - null
+next_courses:
+  - '[[HTML Essential Training]]'
+  - '[[DevOps Foundations- Continuous Delivery-Continuous Integration]]'
+path_nav: '[{"path":"Software Development Fundamentals","position":4,"total":10,"prev":"Computer Science Principles- Programming","next":"HTML Essential Training"},{"path":"Getting Started with Continuous Integration - Continuous Delivery (CI-CD)","position":1,"total":3,"prev":null,"next":"DevOps Foundations- Continuous Delivery-Continuous Integration"}]'
 path_count: 2
 tags:
   - course
@@ -25,7 +32,7 @@ tags:
   - topic/devops
   - skill/software-development-life-cycle-sdlc
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Software Development Life Cycle (SDLC)](https://media.licdn.com/dms/image/v2/D560DAQHlSuJFuSk6lw/learning-public-crop_675_1200/B56ZbF5TqNGgAY-/0/1747076856757?e=2147483647&amp;v=beta&amp;t=NLx6YNs4pIjdw2phT1s49oqQWWJ2RKknh7A1gjuDtts)

@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQE6q6oYZ-mdhQ/learning-public-crop_675_1200/B4EZYcb5jbHMAc-/0/1744233798227?e=2147483647&amp;v=beta&amp;t=N-gCi3lQBXKFOfl4wQvj79JHYlCWKzeT15XPN10orKA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Responsible AI Framework for Your Enterprise AI Product]]'
+next_courses:
+  - '[[AI Data Strategy- Data Procurement and Storage]]'
+path_nav: '[{"path":"Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning","position":4,"total":6,"prev":"Responsible AI Framework for Your Enterprise AI Product","next":"AI Data Strategy- Data Procurement and Storage"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/product-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Product Development: Technical Feasibility and Prototyping](https://media.licdn.com/dms/image/v2/D4E0DAQE6q6oYZ-mdhQ/learning-public-crop_675_1200/B4EZYcb5jbHMAc-/0/1744233798227?e=2147483647&amp;v=beta&amp;t=N-gCi3lQBXKFOfl4wQvj79JHYlCWKzeT15XPN10orKA)

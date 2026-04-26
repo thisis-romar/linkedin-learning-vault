@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGmwr56kiqd9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683670168415?e=2147483647&amp;v=beta&amp;t=FZQiANaIeO4N7QIa84itQlddEEL_CHMmfgQyXqfv47c"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Business Analyst
+  - '[[Getting Started as a Business Analyst]]'
+prev_courses:
+  - '[[Data Science Foundations- Fundamentals]]'
+next_courses:
+  - '[[Business Analysis Foundations- Communication]]'
+path_nav: '[{"path":"Getting Started as a Business Analyst","position":14,"total":18,"prev":"Data Science Foundations- Fundamentals","next":"Business Analysis Foundations- Communication"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leadership Foundations](https://media.licdn.com/dms/image/v2/D560DAQGmwr56kiqd9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683670168415?e=2147483647&amp;v=beta&amp;t=FZQiANaIeO4N7QIa84itQlddEEL_CHMmfgQyXqfv47c)

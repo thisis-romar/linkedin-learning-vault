@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/building-nlp-pipelines-with-spacy-3
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGSkPQj_ARTiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682109018848?e=2147483647&amp;v=beta&amp;t=lM2LLL8LtXPGQkV_R3QLy3GIbwTXrRviITV5K423u_w"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills in Natural Language Processing
+  - '[[Advance Your Skills in Natural Language Processing]]'
+prev_courses:
+  - '[[Hands-On Natural Language Processing]]'
+next_courses:
+  - '[[Deep Learning with TensorFlow- Insights and Innovations]]'
+path_nav: '[{"path":"Advance Your Skills in Natural Language Processing","position":3,"total":6,"prev":"Hands-On Natural Language Processing","next":"Deep Learning with TensorFlow- Insights and Innovations"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/natural-language-processing-nlp
   - skill/spacy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building NLP Pipelines with spaCy](https://media.licdn.com/dms/image/v2/D560DAQGSkPQj_ARTiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682109018848?e=2147483647&amp;v=beta&amp;t=lM2LLL8LtXPGQkV_R3QLy3GIbwTXrRviITV5K423u_w)

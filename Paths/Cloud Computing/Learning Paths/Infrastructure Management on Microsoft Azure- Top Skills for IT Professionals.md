@@ -49,7 +49,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Infrastructure Management on Microsoft Azure: Top Skills for IT Professionals
@@ -82,3 +82,7 @@ _Paths that share courses with this one:_
 - [[Advance Your Skills with Microsoft Entra ID]] (2 shared courses)
 - [[Networking and Administration Fundamentals]] (1 shared courses)
 - [[The Top Skills IT Professionals Have Right Now]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

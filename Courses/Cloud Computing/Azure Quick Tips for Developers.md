@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFm71t-4Ap50w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662051741994?e=2147483647&amp;v=beta&amp;t=b3v-XlYbIf5HQSqlQRTch4H6z-nwkkRr924kGBXs74s"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Getting Started as an Azure Developer
+  - '[[Getting Started as an Azure Developer]]'
+prev_courses:
+  - '[[Azure Essential Training for Developers]]'
+next_courses:
+  - '[[Building a Web Application on Microsoft Azure]]'
+path_nav: '[{"path":"Getting Started as an Azure Developer","position":3,"total":7,"prev":"Azure Essential Training for Developers","next":"Building a Web Application on Microsoft Azure"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/cloud-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure Quick Tips for Developers](https://media.licdn.com/dms/image/v2/C4E0DAQFm71t-4Ap50w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662051741994?e=2147483647&amp;v=beta&amp;t=b3v-XlYbIf5HQSqlQRTch4H6z-nwkkRr924kGBXs74s)

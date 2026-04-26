@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF7tuWV4wA3Rw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1570220025396?e=2147483647&amp;v=beta&amp;t=Okmaq4PUouqD3DfD1EpWNIep6tMKiyUTDYubyeswl8s"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Starting Your Career in Tech- Cybersecurity
+  - '[[Starting Your Career in Tech- Cybersecurity]]'
+prev_courses:
+  - '[[Writing a Tech Resume]]'
+next_courses:
+  - '[[Cybersecurity Careers and Certifications]]'
+path_nav: '[{"path":"Starting Your Career in Tech- Cybersecurity","position":3,"total":5,"prev":"Writing a Tech Resume","next":"Cybersecurity Careers and Certifications"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/interview-preparation
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Nail Your Cybersecurity Interview](https://media.licdn.com/dms/image/v2/C4E0DAQF7tuWV4wA3Rw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1570220025396?e=2147483647&amp;v=beta&amp;t=Okmaq4PUouqD3DfD1EpWNIep6tMKiyUTDYubyeswl8s)

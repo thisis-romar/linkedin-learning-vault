@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHqgTJEhPZf5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619542953405?e=2147483647&amp;v=beta&amp;t=ibmKSc1Ulh9zarrQnYYLm657m1l3BVpOEq9h9_eGY7k"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Business Analyst
-  - Get Ahead in Business Analytics and Analysis
+  - '[[Getting Started as a Business Analyst]]'
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+prev_courses:
+  - '[[Business Benefits Realization Foundations]]'
+  - '[[Business Analysis for Project Managers]]'
+next_courses:
+  - '[[Requirements Elicitation and Analysis]]'
+  - '[[Business Analysis Foundations- Competencies]]'
+path_nav: '[{"path":"Getting Started as a Business Analyst","position":6,"total":18,"prev":"Business Benefits Realization Foundations","next":"Requirements Elicitation and Analysis"},{"path":"Get Ahead in Business Analytics and Analysis","position":6,"total":19,"prev":"Business Analysis for Project Managers","next":"Business Analysis Foundations- Competencies"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/cross-team-collaboration
   - skill/project-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analyst and Project Manager Collaboration (2018)](https://media.licdn.com/dms/image/v2/C4E0DAQHqgTJEhPZf5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619542953405?e=2147483647&amp;v=beta&amp;t=ibmKSc1Ulh9zarrQnYYLm657m1l3BVpOEq9h9_eGY7k)

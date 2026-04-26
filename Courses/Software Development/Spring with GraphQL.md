@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEn-bZc-Hdr2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657817616889?e=2147483647&amp;v=beta&amp;t=I-yHZOrfX8EuGKsxAYBurTyQAEpl0j55g6C_VfvN1aI"
 linkedin_topic: Software Development
 learning_paths:
-  - Building Your Skills in Spring Development
+  - '[[Building Your Skills in Spring Development]]'
+prev_courses:
+  - '[[Spring 6 Design Patterns]]'
+next_courses:
+  - '[[Spring Framework in Depth]]'
+path_nav: '[{"path":"Building Your Skills in Spring Development","position":2,"total":4,"prev":"Spring 6 Design Patterns","next":"Spring Framework in Depth"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/spring-framework
   - skill/graphql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Spring with GraphQL](https://media.licdn.com/dms/image/v2/C560DAQEn-bZc-Hdr2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657817616889?e=2147483647&amp;v=beta&amp;t=I-yHZOrfX8EuGKsxAYBurTyQAEpl0j55g6C_VfvN1aI)

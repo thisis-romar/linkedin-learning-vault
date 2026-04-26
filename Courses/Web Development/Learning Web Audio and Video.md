@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFqwMRtOdtvLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597422032215?e=2147483647&amp;v=beta&amp;t=kXq1JbiVYCdzKk6De6bxvI5Op_419cu4wU2EUIySwds"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in HTML
+  - '[[Advance Your Skills in HTML]]'
+prev_courses:
+  - '[[Building Great Forms with HTML and CSS]]'
+next_courses:
+  - '[[HTML- Structured Semantic Data]]'
+path_nav: '[{"path":"Advance Your Skills in HTML","position":9,"total":11,"prev":"Building Great Forms with HTML and CSS","next":"HTML- Structured Semantic Data"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/web-standards
   - skill/interactive-web-content
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Web Audio and Video](https://media.licdn.com/dms/image/v2/C4D0DAQFqwMRtOdtvLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597422032215?e=2147483647&amp;v=beta&amp;t=kXq1JbiVYCdzKk6De6bxvI5Op_419cu4wU2EUIySwds)

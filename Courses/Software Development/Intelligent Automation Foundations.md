@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEX-FBqnnLj-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651774719762?e=2147483647&amp;v=beta&amp;t=DSpHyvHBuEZ8j49VJ38WG6Koo9xiC3nG0vnPiRxOd7M"
 linkedin_topic: Software Development
 learning_paths:
-  - Digital Transformation for Tech Leaders
-  - SS&C Blue Prism Robotic Process Automation Professional Certificate
+  - '[[Digital Transformation for Tech Leaders]]'
+  - '[[SS&C Blue Prism Robotic Process Automation Professional Certificate]]'
+prev_courses:
+  - '[[Introduction to IT Automation]]'
+  - '[[Process Discovery for Robotic Process Automation]]'
+next_courses:
+  - '[[IoT Foundations- Fundamentals]]'
+  - null
+path_nav: '[{"path":"Digital Transformation for Tech Leaders","position":5,"total":15,"prev":"Introduction to IT Automation","next":"IoT Foundations- Fundamentals"},{"path":"SS&C Blue Prism Robotic Process Automation Professional Certificate","position":4,"total":4,"prev":"Process Discovery for Robotic Process Automation","next":null}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +26,7 @@ tags:
   - topic/software-development
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Intelligent Automation Foundations](https://media.licdn.com/dms/image/v2/C560DAQEX-FBqnnLj-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651774719762?e=2147483647&amp;v=beta&amp;t=DSpHyvHBuEZ8j49VJ38WG6Koo9xiC3nG0vnPiRxOd7M)

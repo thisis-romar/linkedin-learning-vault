@@ -6,7 +6,7 @@ course_count: 5
 tags:
   - skill
   - skill/rest-apis
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # REST APIs

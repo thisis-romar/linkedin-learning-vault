@@ -15,8 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQH35TucPZN6vQ/learning-public-crop_675_1200/B4EZdBv2DTHcAg-/0/1749154751617?e=2147483647&amp;v=beta&amp;t=q_UaIWdmfbPqvVkBDcZ6TVAPWRdRQv0im9axI3POqiU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Generative AI Professional Certificate by Snowflake
-  - Data Engineering Professional Certificate by Snowflake
+  - '[[Generative AI Professional Certificate by Snowflake]]'
+  - '[[Data Engineering Professional Certificate by Snowflake]]'
+next_courses:
+  - '[[Introduction to Gen AI with Snowflake]]'
+  - '[[Introduction to Modern Data Engineering with Snowflake]]'
+path_nav: '[{"path":"Generative AI Professional Certificate by Snowflake","position":1,"total":3,"prev":null,"next":"Introduction to Gen AI with Snowflake"},{"path":"Data Engineering Professional Certificate by Snowflake","position":1,"total":3,"prev":null,"next":"Introduction to Modern Data Engineering with Snowflake"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +32,7 @@ tags:
   - skill/data-engineering
   - skill/snowflake
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Intro To Snowflake For Devs Data Scientists Data Engineers](https://media.licdn.com/dms/image/v2/D4E0DAQH35TucPZN6vQ/learning-public-crop_675_1200/B4EZdBv2DTHcAg-/0/1749154751617?e=2147483647&amp;v=beta&amp;t=q_UaIWdmfbPqvVkBDcZ6TVAPWRdRQv0im9axI3POqiU)

@@ -15,7 +15,10 @@ github: "https://github.com/LinkedInLearning/top-5-things-to-know-in-advanced-sq
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG_j9tunegTdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692730198805?e=2147483647&amp;v=beta&amp;t=-XcdVOOA36tbBgp5o9zEYLiYLY70z3iDw1gEqqV5No4"
 linkedin_topic: Data Science
 learning_paths:
-  - Master SQL Development
+  - '[[Master SQL Development]]'
+next_courses:
+  - '[[Advanced SQL- Logical Query Processing, Part 1]]'
+path_nav: '[{"path":"Master SQL Development","position":1,"total":8,"prev":null,"next":"Advanced SQL- Logical Query Processing, Part 1"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Top Five Things To Know In Advanced Sql](https://media.licdn.com/dms/image/v2/D560DAQG_j9tunegTdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692730198805?e=2147483647&amp;v=beta&amp;t=-XcdVOOA36tbBgp5o9zEYLiYLY70z3iDw1gEqqV5No4)

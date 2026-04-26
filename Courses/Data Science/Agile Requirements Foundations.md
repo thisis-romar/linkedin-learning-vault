@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFsjlQgvpSPvQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568245272495?e=2147483647&amp;v=beta&amp;t=oPrGyodqjd6FCCRnGRavAxW73v8-meJAE30GOSmDzFY"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Business Analyst
+  - '[[Getting Started as a Business Analyst]]'
+prev_courses:
+  - '[[Business Analysis Foundations]]'
+next_courses:
+  - '[[Business Benefits Realization Foundations]]'
+path_nav: '[{"path":"Getting Started as a Business Analyst","position":4,"total":18,"prev":"Business Analysis Foundations","next":"Business Benefits Realization Foundations"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/agile-methodologies
   - skill/requirements-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agile Requirements Foundations](https://media.licdn.com/dms/image/v2/C4D0DAQFsjlQgvpSPvQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568245272495?e=2147483647&amp;v=beta&amp;t=oPrGyodqjd6FCCRnGRavAxW73v8-meJAE30GOSmDzFY)

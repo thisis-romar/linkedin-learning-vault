@@ -14,11 +14,24 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEwFKbg0l36uQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709333281748?e=2147483647&amp;v=beta&amp;t=tsCvyq3rM_NwZPcd_67QInyeTsLjp8gEuaHbnYtIpF0"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Explore a Career as a Cloud Administrator
-  - Master Digital Transformation
-  - Foundations of Cloud Computing- Models, Platforms, Services, and Careers
-  - The Top 10 Most Popular Courses among IT Professionals
-  - Essential New Skills in IT Administration
+  - '[[Explore a Career as a Cloud Administrator]]'
+  - '[[Master Digital Transformation]]'
+  - '[[Foundations of Cloud Computing- Models, Platforms, Services, and Careers]]'
+  - '[[The Top 10 Most Popular Courses among IT Professionals]]'
+  - '[[Essential New Skills in IT Administration]]'
+prev_courses:
+  - null
+  - '[[Cloud Architecture- Core Concepts]]'
+  - null
+  - '[[Strategic Thinking]]'
+  - '[[Learning Virtualization]]'
+next_courses:
+  - '[[Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment]]'
+  - '[[IoT Foundations- Fundamentals]]'
+  - '[[Cloud Computing Terms Every Beginner Should Know]]'
+  - '[[Python Essential Training]]'
+  - '[[A Beginner''s Guide to Public Cloud Options]]'
+path_nav: '[{"path":"Explore a Career as a Cloud Administrator","position":1,"total":6,"prev":null,"next":"Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment"},{"path":"Master Digital Transformation","position":6,"total":13,"prev":"Cloud Architecture- Core Concepts","next":"IoT Foundations- Fundamentals"},{"path":"Foundations of Cloud Computing- Models, Platforms, Services, and Careers","position":1,"total":9,"prev":null,"next":"Cloud Computing Terms Every Beginner Should Know"},{"path":"The Top 10 Most Popular Courses among IT Professionals","position":4,"total":10,"prev":"Strategic Thinking","next":"Python Essential Training"},{"path":"Essential New Skills in IT Administration","position":4,"total":5,"prev":"Learning Virtualization","next":"A Beginner''s Guide to Public Cloud Options"}]'
 path_count: 5
 tags:
   - course
@@ -29,7 +42,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Computing Understanding Core Concepts](https://media.licdn.com/dms/image/v2/D4D0DAQEwFKbg0l36uQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709333281748?e=2147483647&amp;v=beta&amp;t=tsCvyq3rM_NwZPcd_67QInyeTsLjp8gEuaHbnYtIpF0)

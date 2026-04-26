@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEenBAx3uzf-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695677969449?e=2147483647&amp;v=beta&amp;t=QbWADSDlVHEcZZQgps6yIbnI2pL-BouX4o_FpLIWYp0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build Your Generative AI Productivity Skills with Microsoft and LinkedIn
+  - '[[Build Your Generative AI Productivity Skills with Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Microsoft Copilot The Art Of Prompt Writing]]'
+next_courses:
+  - '[[Integrating Generative AI into the Creative Process]]'
+path_nav: '[{"path":"Build Your Generative AI Productivity Skills with Microsoft and LinkedIn","position":2,"total":5,"prev":"Microsoft Copilot The Art Of Prompt Writing","next":"Integrating Generative AI into the Creative Process"}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Productivity Hacks to Reimagine Your Workday and Career](https://media.licdn.com/dms/image/v2/D560DAQEenBAx3uzf-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695677969449?e=2147483647&amp;v=beta&amp;t=QbWADSDlVHEcZZQgps6yIbnI2pL-BouX4o_FpLIWYp0)

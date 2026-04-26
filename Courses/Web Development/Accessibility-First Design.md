@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQED7fR1aK5CVA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679335655739?e=2147483647&amp;v=beta&amp;t=A38WvZfWB4caPWRmcrIZc2HBap_Sm5MQwW9lE2G8Hm4"
 linkedin_topic: Web Development
 learning_paths:
-  - Understanding Digital Accessibility
+  - '[[Understanding Digital Accessibility]]'
+prev_courses:
+  - '[[Accessibility and AI- Bridging the Disability Divide]]'
+next_courses:
+  - '[[Digital Accessibility for the Modern Workplace (with Audio Descriptions)]]'
+path_nav: '[{"path":"Understanding Digital Accessibility","position":3,"total":5,"prev":"Accessibility and AI- Bridging the Disability Divide","next":"Digital Accessibility for the Modern Workplace (with Audio Descriptions)"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Accessibility-First Design](https://media.licdn.com/dms/image/v2/C4E0DAQED7fR1aK5CVA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679335655739?e=2147483647&amp;v=beta&amp;t=A38WvZfWB4caPWRmcrIZc2HBap_Sm5MQwW9lE2G8Hm4)

@@ -16,10 +16,21 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEyqtbenL5uPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689184260073?e=2147483647&amp;v=beta&amp;t=7sBW0t2hdFYiSW-ps9jfsLOIjYY0VCvmTxIxrZUzs5U"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Become an AI-Powered Recruiter
-  - Applying Generative AI as a Business Professional
-  - Build AI Aptitude as a New Manager
-  - Branding and Skill Building to Advance Your Tech Career
+  - '[[Become an AI-Powered Recruiter]]'
+  - '[[Applying Generative AI as a Business Professional]]'
+  - '[[Build AI Aptitude as a New Manager]]'
+  - '[[Branding and Skill Building to Advance Your Tech Career]]'
+prev_courses:
+  - '[[Navigating AI Through an Intersectional DEI Lens]]'
+  - '[[Introduction To Prompt Engineering For Generative Ai]]'
+  - '[[Responsible AI- Principles and Practical Applications]]'
+  - '[[Accelerating Your Career with Personal Branding]]'
+next_courses:
+  - null
+  - '[[Automating Your Work with Custom GPTs (No Code Required) (2025)]]'
+  - null
+  - '[[Figuring Out Your Next Move]]'
+path_nav: '[{"path":"Become an AI-Powered Recruiter","position":5,"total":5,"prev":"Navigating AI Through an Intersectional DEI Lens","next":null},{"path":"Applying Generative AI as a Business Professional","position":2,"total":6,"prev":"Introduction To Prompt Engineering For Generative Ai","next":"Automating Your Work with Custom GPTs (No Code Required) (2025)"},{"path":"Build AI Aptitude as a New Manager","position":4,"total":4,"prev":"Responsible AI- Principles and Practical Applications","next":null},{"path":"Branding and Skill Building to Advance Your Tech Career","position":4,"total":6,"prev":"Accelerating Your Career with Personal Branding","next":"Figuring Out Your Next Move"}]'
 path_count: 4
 tags:
   - course
@@ -32,7 +43,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![How to Boost Your Productivity with AI Tools (2023)](https://media.licdn.com/dms/image/v2/D560DAQEyqtbenL5uPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689184260073?e=2147483647&amp;v=beta&amp;t=7sBW0t2hdFYiSW-ps9jfsLOIjYY0VCvmTxIxrZUzs5U)

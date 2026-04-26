@@ -10,7 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFrGrlB_Qi-lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708044970719?e=2147483647&amp;v=beta&amp;t=mfgldZRpyT7ZNohMnGELmDCko20Z3CFGXe2E-nGY9dY"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - The Top 10 Most Popular Courses among IT Professionals
+  - '[[The Top 10 Most Popular Courses among IT Professionals]]'
+prev_courses:
+  - '[[Agile Software Development]]'
+next_courses:
+  - '[[Excel Essential Training (Microsoft 365)]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among IT Professionals","position":7,"total":10,"prev":"Agile Software Development","next":"Excel Essential Training (Microsoft 365)"}]'
 path_count: 1
 tags:
   - course
@@ -19,7 +24,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Communicating with Confidence](https://media.licdn.com/dms/image/v2/D560DAQFrGrlB_Qi-lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708044970719?e=2147483647&amp;v=beta&amp;t=mfgldZRpyT7ZNohMnGELmDCko20Z3CFGXe2E-nGY9dY)

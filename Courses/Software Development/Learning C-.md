@@ -16,15 +16,22 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHyukppmcS41g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694721037740?e=2147483647&amp;v=beta&amp;t=lYMcOW-aab-eECYL0l_1ssUd1KkAJuO037RYI7LpvVQ"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Software Developer
-  - Software Development Fundamentals
+  - '[[Become a Software Developer]]'
+  - '[[Software Development Fundamentals]]'
+prev_courses:
+  - '[[Learning Java 11]]'
+  - '[[HTML Essential Training]]'
+next_courses:
+  - '[[Learning SQL Programming]]'
+  - '[[C Sharp Algorithms]]'
+path_nav: '[{"path":"Become a Software Developer","position":10,"total":12,"prev":"Learning Java 11","next":"Learning SQL Programming"},{"path":"Software Development Fundamentals","position":6,"total":10,"prev":"HTML Essential Training","next":"C Sharp Algorithms"}]'
 path_count: 2
 tags:
   - course
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning C#](https://media.licdn.com/dms/image/v2/D560DAQHyukppmcS41g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694721037740?e=2147483647&amp;v=beta&amp;t=lYMcOW-aab-eECYL0l_1ssUd1KkAJuO037RYI7LpvVQ)

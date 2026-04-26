@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/python-in-excel-data-outputs-in-cus
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHYRfBFhnycFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718310054393?e=2147483647&amp;v=beta&amp;t=HMte7c-tAkAHVFCQLDz6JNJJ99G44pLIOUv7lg7edbk"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Python in Excel Skills
+  - '[[Advance Your Python in Excel Skills]]'
+prev_courses:
+  - '[[Data Cleaning and Manipulating with Python in Excel]]'
+next_courses:
+  - '[[Advanced Python in Excel- Data Analysis and Visualization]]'
+path_nav: '[{"path":"Advance Your Python in Excel Skills","position":4,"total":7,"prev":"Data Cleaning and Manipulating with Python in Excel","next":"Advanced Python in Excel- Data Analysis and Visualization"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python in Excel: Data Outputs in Custom Data Visualizations and Algorithms](https://media.licdn.com/dms/image/v2/D560DAQHYRfBFhnycFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718310054393?e=2147483647&amp;v=beta&amp;t=HMte7c-tAkAHVFCQLDz6JNJJ99G44pLIOUv7lg7edbk)

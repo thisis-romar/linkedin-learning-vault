@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQE6vGHZnHaXzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567116779604?e=2147483647&amp;v=beta&amp;t=m6fLqYMbRjFvaxUtfNU3aA_Ctf9qUDjiPOjwWoEvQfg"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance your Node.js Skills
+  - '[[Advance your Node.js Skills]]'
+prev_courses:
+  - '[[Node Js Security]]'
+next_courses:
+  - '[[Node.js- Testing and Code Quality]]'
+path_nav: '[{"path":"Advance your Node.js Skills","position":2,"total":8,"prev":"Node Js Security","next":"Node.js- Testing and Code Quality"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/software-design-patterns
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Node.js: Design Patterns](https://media.licdn.com/dms/image/v2/C4E0DAQE6vGHZnHaXzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567116779604?e=2147483647&amp;v=beta&amp;t=m6fLqYMbRjFvaxUtfNU3aA_Ctf9qUDjiPOjwWoEvQfg)

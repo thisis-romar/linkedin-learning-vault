@@ -8,7 +8,7 @@ linkedin_topics:
   - Cloud Computing
   - Data Science
   - Database Management
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/cloud-computing
@@ -45,7 +45,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Working with Data: Collecting, Processing, and Storing Data for AI
@@ -78,3 +78,7 @@ _Paths that share courses with this one:_
 - [[Introduction to Fundamental Skills for Data Work- Data Management]] (1 shared courses)
 - [[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]] (1 shared courses)
 - [[Introduction to Fundamental Skills for Data Work- Data Collection]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

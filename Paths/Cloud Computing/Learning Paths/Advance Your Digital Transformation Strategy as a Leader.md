@@ -7,7 +7,7 @@ course_count: 6
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/cloud-computing
@@ -43,7 +43,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Digital Transformation Strategy as a Leader
@@ -76,3 +76,7 @@ _Paths that share courses with this one:_
 - [[Improve Your Digital Transformation Skills]] (1 shared courses)
 - [[Digital Transformation for Tech Leaders]] (1 shared courses)
 - [[Generative AI for Supply Chain Professional Certificate by CSCMP]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

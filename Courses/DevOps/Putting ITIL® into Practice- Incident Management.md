@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHAsNa5abKkUw/learning-public-crop_675_1200/B4EZZtw_IFHQAY-/0/1745598281115?e=2147483647&amp;v=beta&amp;t=CwQhBB1q03FHa9GivEhldsFgDVjwla10G8MbZNiABNM"
 linkedin_topic: DevOps
 learning_paths:
-  - Improve Your ITIL® Skills
+  - '[[Improve Your ITIL® Skills]]'
+prev_courses:
+  - '[[Putting ITIL® into Practice- Change Enablement]]'
+path_nav: '[{"path":"Improve Your ITIL® Skills","position":5,"total":5,"prev":"Putting ITIL® into Practice- Change Enablement","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/itil
   - skill/cybersecurity-incident-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Putting ITIL® into Practice: Incident Management](https://media.licdn.com/dms/image/v2/D4E0DAQHAsNa5abKkUw/learning-public-crop_675_1200/B4EZZtw_IFHQAY-/0/1745598281115?e=2147483647&amp;v=beta&amp;t=CwQhBB1q03FHa9GivEhldsFgDVjwla10G8MbZNiABNM)

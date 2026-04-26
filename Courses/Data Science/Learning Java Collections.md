@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/java-collections-2421704"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGoBE1qOqZWYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632758718519?e=2147483647&amp;v=beta&amp;t=jS6Sttg7CC_Ih1guav7yWTsnm9o81ZF1hfmdgzzhIgI"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Java Developer
+  - '[[Getting Started as a Java Developer]]'
+prev_courses:
+  - '[[Learning JDBC]]'
+next_courses:
+  - '[[Java Memory Management- Values and References]]'
+path_nav: '[{"path":"Getting Started as a Java Developer","position":5,"total":10,"prev":"Learning JDBC","next":"Java Memory Management- Values and References"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/java-frameworks
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Java Collections](https://media.licdn.com/dms/image/v2/C560DAQGoBE1qOqZWYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632758718519?e=2147483647&amp;v=beta&amp;t=jS6Sttg7CC_Ih1guav7yWTsnm9o81ZF1hfmdgzzhIgI)

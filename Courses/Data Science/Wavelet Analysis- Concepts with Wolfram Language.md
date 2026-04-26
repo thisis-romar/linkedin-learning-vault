@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFiaBB_pigY-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703566623914?e=2147483647&amp;v=beta&amp;t=HRnpld-3VXy-rRNqi5rgAwlcIpy6qp_5cFSdUYV73Qk"
 linkedin_topic: Data Science
 learning_paths:
-  - Build Your Wolfram Language Skills
+  - '[[Build Your Wolfram Language Skills]]'
+prev_courses:
+  - '[[Quantile and Box-Whisker Plots in the Wolfram Language]]'
+next_courses:
+  - '[[Wavelet Analysis- Applications with Wolfram Language]]'
+path_nav: '[{"path":"Build Your Wolfram Language Skills","position":3,"total":8,"prev":"Quantile and Box-Whisker Plots in the Wolfram Language","next":"Wavelet Analysis- Applications with Wolfram Language"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/data-analysis
   - skill/wavelets
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Wavelet Analysis: Concepts with Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQFiaBB_pigY-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703566623914?e=2147483647&amp;v=beta&amp;t=HRnpld-3VXy-rRNqi5rgAwlcIpy6qp_5cFSdUYV73Qk)

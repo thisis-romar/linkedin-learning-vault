@@ -17,7 +17,10 @@ github: "https://github.com/LinkedInLearning/advance-your-skills-in-java-4452104
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEn_cL1ZTUQCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902444081?e=2147483647&amp;v=beta&amp;t=z7aBpUH2DA95t1E3AsbrRH02DfLPDdbR-u3GsoWONV0"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Java Skills
+  - '[[Advance Your Java Skills]]'
+prev_courses:
+  - '[[Data Science for Java Developers]]'
+path_nav: '[{"path":"Advance Your Java Skills","position":4,"total":4,"prev":"Data Science for Java Developers","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Java: Hands-on with Streams, Lambda Expressions, Collections, Generics and More](https://media.licdn.com/dms/image/v2/D560DAQEn_cL1ZTUQCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902444081?e=2147483647&amp;v=beta&amp;t=z7aBpUH2DA95t1E3AsbrRH02DfLPDdbR-u3GsoWONV0)

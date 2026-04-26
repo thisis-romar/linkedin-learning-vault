@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGSjALmrJrMbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1569606972711?e=2147483647&amp;v=beta&amp;t=O6BdrkH8goILCohd8LPDNqyyzL6-Bfl3dgmak68wQ2Y"
 linkedin_topic: Data Science
 learning_paths:
-  - CFI Financial Analysis and Modeling Professional Certificate
-  - Master Key Financial Analyst Skills
+  - '[[CFI Financial Analysis and Modeling Professional Certificate]]'
+  - '[[Master Key Financial Analyst Skills]]'
+prev_courses:
+  - '[[Excel For Financial Planning And Analysis Fp A]]'
+  - '[[Financial Modeling Foundations (2018)]]'
+next_courses:
+  - '[[Financial Forecasting with Analytics Essential Training]]'
+  - '[[Excel Modeling Tips and Tricks]]'
+path_nav: '[{"path":"CFI Financial Analysis and Modeling Professional Certificate","position":2,"total":7,"prev":"Excel For Financial Planning And Analysis Fp A","next":"Financial Forecasting with Analytics Essential Training"},{"path":"Master Key Financial Analyst Skills","position":4,"total":6,"prev":"Financial Modeling Foundations (2018)","next":"Excel Modeling Tips and Tricks"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/financial-statement-analysis
   - skill/financial-modeling
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Financial Modeling and Forecasting Financial Statements (2019)](https://media.licdn.com/dms/image/v2/C4E0DAQGSjALmrJrMbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1569606972711?e=2147483647&amp;v=beta&amp;t=O6BdrkH8goILCohd8LPDNqyyzL6-Bfl3dgmak68wQ2Y)

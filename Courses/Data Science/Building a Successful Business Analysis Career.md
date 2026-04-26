@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE99rczPvp5Yw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707525791244?e=2147483647&amp;v=beta&amp;t=bIfz1UBwxSPvnULIKN-rnpUhoO82GpRXSpB_aTmeQ5s"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Business Analyst
+  - '[[Getting Started as a Business Analyst]]'
+prev_courses:
+  - '[[What Is Business Analysis]]'
+next_courses:
+  - '[[Business Analysis Foundations]]'
+path_nav: '[{"path":"Getting Started as a Business Analyst","position":2,"total":18,"prev":"What Is Business Analysis","next":"Business Analysis Foundations"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/career-path-planning
   - skill/business-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Successful Business Analysis Career](https://media.licdn.com/dms/image/v2/D560DAQE99rczPvp5Yw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707525791244?e=2147483647&amp;v=beta&amp;t=bIfz1UBwxSPvnULIKN-rnpUhoO82GpRXSpB_aTmeQ5s)

@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Mastering Data Governance and Ethics
@@ -89,3 +89,7 @@ _Paths that share courses with this one:_
 - [[Advance Your Skills in AI and Machine Learning]] (2 shared courses)
 - [[Responsible AI at Work- Literacy, Ethics, and More]] (1 shared courses)
 - [[Technical Literacy and Future Readiness for Aspiring Managers]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

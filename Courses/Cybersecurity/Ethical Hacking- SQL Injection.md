@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFjzkwOhEHRkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635179468495?e=2147483647&amp;v=beta&amp;t=wjDhneIXwCuOs1LgVGK-b9o8Bi8_ZTxQ06gni-AZMSU"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an Ethical Hacker
+  - '[[Become an Ethical Hacker]]'
+prev_courses:
+  - '[[Ethical Hacking- Cloud Computing]]'
+path_nav: '[{"path":"Become an Ethical Hacker","position":19,"total":19,"prev":"Ethical Hacking- Cloud Computing","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/sql-injection
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethical Hacking: SQL Injection](https://media.licdn.com/dms/image/v2/C4D0DAQFjzkwOhEHRkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635179468495?e=2147483647&amp;v=beta&amp;t=wjDhneIXwCuOs1LgVGK-b9o8Bi8_ZTxQ06gni-AZMSU)

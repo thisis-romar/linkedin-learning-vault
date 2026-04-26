@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF2QDZxqGhZCg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620230928794?e=2147483647&amp;v=beta&amp;t=w6xKHYfvRQFpzbyQMaRs7mSEDT6-dPAVhwSomXqW_1o"
 linkedin_topic: Data Science
 learning_paths:
-  - Database Foundations- From Concepts to Applications
-  - Advance Your Database Administration Skills
+  - '[[Database Foundations- From Concepts to Applications]]'
+  - '[[Advance Your Database Administration Skills]]'
+prev_courses:
+  - '[[Database Foundations- Administration]]'
+  - '[[Database Foundations- Administration]]'
+next_courses:
+  - null
+  - '[[SQL Server Fundamentals- Master Basic Query Techniques]]'
+path_nav: '[{"path":"Database Foundations- From Concepts to Applications","position":5,"total":5,"prev":"Database Foundations- Administration","next":null},{"path":"Advance Your Database Administration Skills","position":5,"total":11,"prev":"Database Foundations- Administration","next":"SQL Server Fundamentals- Master Basic Query Techniques"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/database-development
   - skill/database-applications
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Database Foundations: Application Development](https://media.licdn.com/dms/image/v2/C4E0DAQF2QDZxqGhZCg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620230928794?e=2147483647&amp;v=beta&amp;t=w6xKHYfvRQFpzbyQMaRs7mSEDT6-dPAVhwSomXqW_1o)

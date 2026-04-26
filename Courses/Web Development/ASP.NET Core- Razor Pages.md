@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/asp-net-core-razor-pages-2476438"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQG_sOyeCs-0JQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655920911407?e=2147483647&amp;v=beta&amp;t=O6fB7HCf-3S4TgDZ07jep1_exvbexYywbY8cEvTp3yU"
 linkedin_topic: Web Development
 learning_paths:
-  - Getting Started as an ASP.NET Core Developer
+  - '[[Getting Started as an ASP.NET Core Developer]]'
+prev_courses:
+  - '[[C- and .NET Essential Training]]'
+next_courses:
+  - '[[Building Angular and ASP.NET Core Applications]]'
+path_nav: '[{"path":"Getting Started as an ASP.NET Core Developer","position":3,"total":9,"prev":"C- and .NET Essential Training","next":"Building Angular and ASP.NET Core Applications"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/asp-net-core
   - skill/asp-net-razor
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ASP.NET Core: Razor Pages](https://media.licdn.com/dms/image/v2/C560DAQG_sOyeCs-0JQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655920911407?e=2147483647&amp;v=beta&amp;t=O6fB7HCf-3S4TgDZ07jep1_exvbexYywbY8cEvTp3yU)

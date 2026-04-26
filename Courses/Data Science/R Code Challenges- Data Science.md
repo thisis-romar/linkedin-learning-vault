@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHtFNVHKSaikA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721939711133?e=2147483647&amp;v=beta&amp;t=McNeGQ_cT2wim78sqzFYP0Is5sB6s1Lsb1NxRx4RBNY"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started with R for Data Science
-  - Advance Your Skills in R
+  - '[[Getting Started with R for Data Science]]'
+  - '[[Advance Your Skills in R]]'
+prev_courses:
+  - '[[R for Data Science- Analysis and Visualization]]'
+  - '[[R for Data Science- Analysis and Visualization]]'
+next_courses:
+  - null
+  - '[[Learning the R Tidyverse]]'
+path_nav: '[{"path":"Getting Started with R for Data Science","position":4,"total":4,"prev":"R for Data Science- Analysis and Visualization","next":null},{"path":"Advance Your Skills in R","position":4,"total":8,"prev":"R for Data Science- Analysis and Visualization","next":"Learning the R Tidyverse"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/r-programming-language
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![R Code Challenges: Data Science](https://media.licdn.com/dms/image/v2/D560DAQHtFNVHKSaikA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721939711133?e=2147483647&amp;v=beta&amp;t=McNeGQ_cT2wim78sqzFYP0Is5sB6s1Lsb1NxRx4RBNY)

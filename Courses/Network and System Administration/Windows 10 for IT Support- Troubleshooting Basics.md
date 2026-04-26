@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQE7k6yBQxLEgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662757917918?e=2147483647&amp;v=beta&amp;t=zUn6uY6Sr5rEU6X8nrwZJbBd-vVzfdQK10L8nzneUPU"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Optimizing Enterprise Security and Productivity Using Microsoft 365
-  - Explore a Career in IT Support
+  - '[[Optimizing Enterprise Security and Productivity Using Microsoft 365]]'
+  - '[[Explore a Career in IT Support]]'
+prev_courses:
+  - '[[Office 365 for Administrators- Troubleshooting Issues for Users (Office 365-Microsoft 365)]]'
+  - '[[Troubleshooting Common PC Issues for Users]]'
+next_courses:
+  - null
+  - '[[IT Support for a Hybrid Workforce]]'
+path_nav: '[{"path":"Optimizing Enterprise Security and Productivity Using Microsoft 365","position":11,"total":11,"prev":"Office 365 for Administrators- Troubleshooting Issues for Users (Office 365-Microsoft 365)","next":null},{"path":"Explore a Career in IT Support","position":9,"total":11,"prev":"Troubleshooting Common PC Issues for Users","next":"IT Support for a Hybrid Workforce"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/technical-support
   - skill/windows-10
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows 10 for IT Support: Troubleshooting Basics](https://media.licdn.com/dms/image/v2/C560DAQE7k6yBQxLEgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662757917918?e=2147483647&amp;v=beta&amp;t=zUn6uY6Sr5rEU6X8nrwZJbBd-vVzfdQK10L8nzneUPU)

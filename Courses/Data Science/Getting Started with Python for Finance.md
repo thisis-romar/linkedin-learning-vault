@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFpJhiRgrFxPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680625258153?e=2147483647&amp;v=beta&amp;t=ZFBVr4bXqEoUZrHlbmKIJb71FFUT1k2mr2px40ArJj4"
 linkedin_topic: Data Science
 learning_paths:
-  - CFI Financial Analysis and Modeling Professional Certificate
-  - Python for Data Professionals in Finance
+  - '[[CFI Financial Analysis and Modeling Professional Certificate]]'
+  - '[[Python for Data Professionals in Finance]]'
+prev_courses:
+  - '[[SQL for Finance Professionals]]'
+  - null
+next_courses:
+  - '[[Using Data in Financial Analysis]]'
+  - '[[Python in Excel for Financial Professionals]]'
+path_nav: '[{"path":"CFI Financial Analysis and Modeling Professional Certificate","position":5,"total":7,"prev":"SQL for Finance Professionals","next":"Using Data in Financial Analysis"},{"path":"Python for Data Professionals in Finance","position":1,"total":5,"prev":null,"next":"Python in Excel for Financial Professionals"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/financial-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Getting Started with Python for Finance](https://media.licdn.com/dms/image/v2/D560DAQFpJhiRgrFxPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680625258153?e=2147483647&amp;v=beta&amp;t=ZFBVr4bXqEoUZrHlbmKIJb71FFUT1k2mr2px40ArJj4)

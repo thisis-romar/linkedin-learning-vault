@@ -15,8 +15,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFcLL__CkaZnQ/learning-public-crop_675_1200/B4EZj3etoTGUAo-/0/1756498680660?e=2147483647&amp;v=beta&amp;t=Ma-bqyhgK956wIM-2NLiLClj7mGwdHvavFEBt0RH2xM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Technical Literacy and Future Readiness for Aspiring Managers
-  - Building AI Literacy
+  - '[[Technical Literacy and Future Readiness for Aspiring Managers]]'
+  - '[[Building AI Literacy]]'
+prev_courses:
+  - '[[Responsible AI- Principles and Practical Applications]]'
+  - '[[Introduction To Artificial Intelligence]]'
+next_courses:
+  - '[[Prompt Engineering- How to Talk to the AIs]]'
+  - '[[What Is Generative AI-]]'
+path_nav: '[{"path":"Technical Literacy and Future Readiness for Aspiring Managers","position":3,"total":5,"prev":"Responsible AI- Principles and Practical Applications","next":"Prompt Engineering- How to Talk to the AIs"},{"path":"Building AI Literacy","position":2,"total":7,"prev":"Introduction To Artificial Intelligence","next":"What Is Generative AI-"}]'
 path_count: 2
 tags:
   - course
@@ -24,7 +31,7 @@ tags:
   - skill/ai-productivity
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![How to Boost Your Productivity with AI Tools](https://media.licdn.com/dms/image/v2/D4E0DAQFcLL__CkaZnQ/learning-public-crop_675_1200/B4EZj3etoTGUAo-/0/1756498680660?e=2147483647&amp;v=beta&amp;t=Ma-bqyhgK956wIM-2NLiLClj7mGwdHvavFEBt0RH2xM)

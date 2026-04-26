@@ -17,10 +17,21 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHN27i2BlYZ_A/learning-public-crop_675_1200/B4EZg0JUUPGcAY-/0/1753221515261?e=2147483647&amp;v=beta&amp;t=iwJyQYOpEeVFLV9sMWLnMmIVVCbg2ClIBM0-HGLL6i8"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Data Analysis Skills
-  - Become a Business Intelligence Specialist
-  - Develop Your Tableau Skills
-  - Advance Your Business Analytics Skills
+  - '[[Develop Your Data Analysis Skills]]'
+  - '[[Become a Business Intelligence Specialist]]'
+  - '[[Develop Your Tableau Skills]]'
+  - '[[Advance Your Business Analytics Skills]]'
+prev_courses:
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+  - null
+  - '[[Predictive Analytics Essential Training- Estimating and Ensuring ROI]]'
+next_courses:
+  - '[[Python Data Analysis]]'
+  - '[[Marketing Analytics- Setting and Measuring KPIs]]'
+  - '[[Complete Guide to Tableau for Data Scientists]]'
+  - '[[Power BI Data Modeling with DAX]]'
+path_nav: '[{"path":"Develop Your Data Analysis Skills","position":4,"total":10,"prev":"Statistics Foundations 2- Probability","next":"Python Data Analysis"},{"path":"Become a Business Intelligence Specialist","position":6,"total":9,"prev":"Data Literacy Exploring And Describing Data In An Ai World","next":"Marketing Analytics- Setting and Measuring KPIs"},{"path":"Develop Your Tableau Skills","position":1,"total":4,"prev":null,"next":"Complete Guide to Tableau for Data Scientists"},{"path":"Advance Your Business Analytics Skills","position":4,"total":11,"prev":"Predictive Analytics Essential Training- Estimating and Ensuring ROI","next":"Power BI Data Modeling with DAX"}]'
 path_count: 4
 tags:
   - course
@@ -28,7 +39,7 @@ tags:
   - skill/tableau
   - skill/business-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using Tableau to Discover Powerful Business Insights](https://media.licdn.com/dms/image/v2/D4E0DAQHN27i2BlYZ_A/learning-public-crop_675_1200/B4EZg0JUUPGcAY-/0/1753221515261?e=2147483647&amp;v=beta&amp;t=iwJyQYOpEeVFLV9sMWLnMmIVVCbg2ClIBM0-HGLL6i8)

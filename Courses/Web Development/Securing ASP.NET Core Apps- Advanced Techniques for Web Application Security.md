@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/aspdotnet-core-security-4310099"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFBrzLL9d6MUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675902640846?e=2147483647&amp;v=beta&amp;t=xVhuNqX8KVDIMyW5xfjRG_gRglVxHxaWZklNbQDJa2Q"
 linkedin_topic: Web Development
 learning_paths:
-  - Getting Started as an ASP.NET Core Developer
+  - '[[Getting Started as an ASP.NET Core Developer]]'
+prev_courses:
+  - '[[Building Angular and ASP.NET Core Applications]]'
+next_courses:
+  - '[[ASP.NET Core- Token-Based Authentication]]'
+path_nav: '[{"path":"Getting Started as an ASP.NET Core Developer","position":5,"total":9,"prev":"Building Angular and ASP.NET Core Applications","next":"ASP.NET Core- Token-Based Authentication"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/asp-net-core
   - skill/web-application-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Securing ASP.NET Core Apps: Advanced Techniques for Web Application Security](https://media.licdn.com/dms/image/v2/C560DAQFBrzLL9d6MUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675902640846?e=2147483647&amp;v=beta&amp;t=xVhuNqX8KVDIMyW5xfjRG_gRglVxHxaWZklNbQDJa2Q)

@@ -107,7 +107,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Understanding Generative AI for Tech Leaders
@@ -157,3 +157,7 @@ _Paths that share courses with this one:_
 - [[AI Regulations for Tech Leaders- The EU AI Act and More]] (3 shared courses)
 - [[AI Regulations for Business Leaders- The EU AI Act and More]] (2 shared courses)
 - [[Responsible AI Foundations]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

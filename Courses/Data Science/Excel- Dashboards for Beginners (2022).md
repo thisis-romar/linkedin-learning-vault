@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGTE1xmw56qPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646332884572?e=2147483647&amp;v=beta&amp;t=A_YBiv9b202EKo_aNxKfrvLQ6IrASwJfdoHtDOZi1gg"
 linkedin_topic: Data Science
 learning_paths:
-  - Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)
+  - '[[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)]]'
+prev_courses:
+  - '[[Excel PivotTable Quick Tips]]'
+next_courses:
+  - '[[Excel- Introduction to Charts and Graphs]]'
+path_nav: '[{"path":"Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)","position":5,"total":7,"prev":"Excel PivotTable Quick Tips","next":"Excel- Introduction to Charts and Graphs"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/excel-dashboards
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel: Dashboards for Beginners (2022)](https://media.licdn.com/dms/image/v2/C560DAQGTE1xmw56qPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646332884572?e=2147483647&amp;v=beta&amp;t=A_YBiv9b202EKo_aNxKfrvLQ6IrASwJfdoHtDOZi1gg)

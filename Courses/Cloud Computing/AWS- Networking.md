@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQENU-CAySYwBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626294896925?e=2147483647&amp;v=beta&amp;t=TxAgk1P_aWZmwf23iF7tTYviyA_b8LV6f-VxOpXdaf4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Infrastructure Management on AWS- Skills for Administrators
+  - '[[Infrastructure Management on AWS- Skills for Administrators]]'
+prev_courses:
+  - '[[Amazon EC2 Essential Training]]'
+next_courses:
+  - '[[Complete Guide to AWS Security and Compliance Management]]'
+path_nav: '[{"path":"Infrastructure Management on AWS- Skills for Administrators","position":3,"total":5,"prev":"Amazon EC2 Essential Training","next":"Complete Guide to AWS Security and Compliance Management"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/cloud-administration
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AWS: Networking](https://media.licdn.com/dms/image/v2/C560DAQENU-CAySYwBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626294896925?e=2147483647&amp;v=beta&amp;t=TxAgk1P_aWZmwf23iF7tTYviyA_b8LV6f-VxOpXdaf4)

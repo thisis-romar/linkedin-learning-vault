@@ -20,7 +20,10 @@ github: "https://github.com/LinkedInLearning/rag-for-cybersecurity-use-cases-and
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQE11amsuV0i8w/learning-public-crop_675_1200/B4EZXYZ2LIGgAY-/0/1743092409901?e=2147483647&amp;v=beta&amp;t=FkPyTXmH20AleuXGeZnNeYfloYHyPMUKNWug92hnOaw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Leverage AI as a Cybersecurity Analyst
+  - '[[Leverage AI as a Cybersecurity Analyst]]'
+prev_courses:
+  - '[[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]]'
+path_nav: '[{"path":"Leverage AI as a Cybersecurity Analyst","position":7,"total":7,"prev":"Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents","next":null}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![RAG for Cybersecurity: Use Cases and Implementation](https://media.licdn.com/dms/image/v2/D4E0DAQE11amsuV0i8w/learning-public-crop_675_1200/B4EZXYZ2LIGgAY-/0/1743092409901?e=2147483647&amp;v=beta&amp;t=FkPyTXmH20AleuXGeZnNeYfloYHyPMUKNWug92hnOaw)

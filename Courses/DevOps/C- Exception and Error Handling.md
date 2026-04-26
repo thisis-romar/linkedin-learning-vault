@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/c-sharp-exception-and-error-handlin
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEHKuZhVdeGtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710284097660?e=2147483647&amp;v=beta&amp;t=bSBiVautAOtppfk3qFH7KdswMz5hbF2GKQY63uU-euE"
 linkedin_topic: DevOps
 learning_paths:
-  - Elevating C- Skills- Building Robust Applications
+  - '[[Elevating C- Skills- Building Robust Applications]]'
+prev_courses:
+  - '[[C- Test-Driven Development]]'
+next_courses:
+  - '[[C- Cross-Platform Development]]'
+path_nav: '[{"path":"Elevating C- Skills- Building Robust Applications","position":5,"total":8,"prev":"C- Test-Driven Development","next":"C- Cross-Platform Development"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/debugging
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C# Exception and Error Handling](https://media.licdn.com/dms/image/v2/D560DAQEHKuZhVdeGtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710284097660?e=2147483647&amp;v=beta&amp;t=bSBiVautAOtppfk3qFH7KdswMz5hbF2GKQY63uU-euE)

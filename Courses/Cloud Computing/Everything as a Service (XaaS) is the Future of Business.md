@@ -10,14 +10,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEn0755Tz8meg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1595977263026?e=2147483647&amp;v=beta&amp;t=tCQT9QlH9sLolyuUqHLaUwQ3YF_TYVtOFik5UCRBrsY"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Improve Your Digital Transformation Skills
+  - '[[Improve Your Digital Transformation Skills]]'
+prev_courses:
+  - '[[Agile Development in the New World of Work]]'
+path_nav: '[{"path":"Improve Your Digital Transformation Skills","position":5,"total":5,"prev":"Agile Development in the New World of Work","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Everything as a Service (XaaS) is the Future of Business](https://media.licdn.com/dms/image/v2/C4E0DAQEn0755Tz8meg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1595977263026?e=2147483647&amp;v=beta&amp;t=tCQT9QlH9sLolyuUqHLaUwQ3YF_TYVtOFik5UCRBrsY)

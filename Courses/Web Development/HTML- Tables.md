@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEbYbJfxltcqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579284727023?e=2147483647&amp;v=beta&amp;t=SqSG-3VkApF_ZtGugV2jZnAdPnbbB0YF-bDrO21RKVo"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in HTML
+  - '[[Advance Your Skills in HTML]]'
+prev_courses:
+  - '[[HTML- Images and Figures]]'
+next_courses:
+  - '[[HTML- Metadata in the Head]]'
+path_nav: '[{"path":"Advance Your Skills in HTML","position":5,"total":11,"prev":"HTML- Images and Figures","next":"HTML- Metadata in the Head"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![HTML: Tables](https://media.licdn.com/dms/image/v2/C4E0DAQEbYbJfxltcqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579284727023?e=2147483647&amp;v=beta&amp;t=SqSG-3VkApF_ZtGugV2jZnAdPnbbB0YF-bDrO21RKVo)

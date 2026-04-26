@@ -10,14 +10,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGHpHNyTXJrNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568070586410?e=2147483647&amp;v=beta&amp;t=3QA96DHE05FKZQRVbOFzGK2c2hTdgv_-r-tWsZep-Hk"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an IT Security Specialist
-  - Improve Your Threat Modeling Skills
+  - '[[Become an IT Security Specialist]]'
+  - '[[Improve Your Threat Modeling Skills]]'
+prev_courses:
+  - '[[Vulnerability Management in Cybersecurity- The Basics]]'
+  - null
+next_courses:
+  - '[[Artificial Intelligence for Cybersecurity]]'
+  - '[[Threat Modeling- Spoofing In Depth]]'
+path_nav: '[{"path":"Become an IT Security Specialist","position":9,"total":12,"prev":"Vulnerability Management in Cybersecurity- The Basics","next":"Artificial Intelligence for Cybersecurity"},{"path":"Improve Your Threat Modeling Skills","position":1,"total":6,"prev":null,"next":"Threat Modeling- Spoofing In Depth"}]'
 path_count: 2
 tags:
   - course
   - topic/security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Threat Modeling for Security Professionals](https://media.licdn.com/dms/image/v2/C4E0DAQGHpHNyTXJrNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568070586410?e=2147483647&amp;v=beta&amp;t=3QA96DHE05FKZQRVbOFzGK2c2hTdgv_-r-tWsZep-Hk)

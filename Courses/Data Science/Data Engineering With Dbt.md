@@ -16,8 +16,15 @@ github: "https://github.com/LinkedInLearning/data-engineering-with-data-build-to
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHdm3MaltG0tQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705703016484?e=2147483647&amp;v=beta&amp;t=TpQ4mLz6kbZRiQ2WfE3FhJpxiuEIu7iemWGnDlGaTmA"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Data Engineering Skills
-  - Data Engineering Hands-On Practice
+  - '[[Advance Your Data Engineering Skills]]'
+  - '[[Data Engineering Hands-On Practice]]'
+prev_courses:
+  - null
+  - '[[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]'
+next_courses:
+  - '[[Problem-Solving Strategies for Data Engineers]]'
+  - '[[ETL in Python and SQL]]'
+path_nav: '[{"path":"Advance Your Data Engineering Skills","position":1,"total":10,"prev":null,"next":"Problem-Solving Strategies for Data Engineers"},{"path":"Data Engineering Hands-On Practice","position":4,"total":7,"prev":"Complete Guide to Python for Data Engineering- From Beginner to Advanced","next":"ETL in Python and SQL"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/data-engineering
   - skill/data-build-tool-dbt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Engineering With Dbt](https://media.licdn.com/dms/image/v2/D4D0DAQHdm3MaltG0tQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705703016484?e=2147483647&amp;v=beta&amp;t=TpQ4mLz6kbZRiQ2WfE3FhJpxiuEIu7iemWGnDlGaTmA)

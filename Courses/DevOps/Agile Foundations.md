@@ -15,9 +15,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFeIomnMEqrng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567122972439?e=2147483647&amp;v=beta&amp;t=v57Dj3hkjYef94zh2sLkW-xwlPcjrxn1gemANJBz5e4"
 linkedin_topic: DevOps
 learning_paths:
-  - Master Digital Transformation
-  - Develop Your Skills as a Software Project Manager
-  - Atlassian Agile Project Management Professional Certificate
+  - '[[Master Digital Transformation]]'
+  - '[[Develop Your Skills as a Software Project Manager]]'
+  - '[[Atlassian Agile Project Management Professional Certificate]]'
+prev_courses:
+  - '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+  - '[[Characteristics of a Great Scrum Master]]'
+  - null
+next_courses:
+  - '[[Design Thinking- Understanding the Process]]'
+  - '[[Learning Jira Software]]'
+  - '[[Scrum- The Basics]]'
+path_nav: '[{"path":"Master Digital Transformation","position":9,"total":13,"prev":"Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines","next":"Design Thinking- Understanding the Process"},{"path":"Develop Your Skills as a Software Project Manager","position":7,"total":11,"prev":"Characteristics of a Great Scrum Master","next":"Learning Jira Software"},{"path":"Atlassian Agile Project Management Professional Certificate","position":1,"total":6,"prev":null,"next":"Scrum- The Basics"}]'
 path_count: 3
 tags:
   - course
@@ -27,7 +36,7 @@ tags:
   - skill/agile-project-management
   - skill/agile-methodologies
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agile Foundations](https://media.licdn.com/dms/image/v2/C560DAQFeIomnMEqrng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567122972439?e=2147483647&amp;v=beta&amp;t=v57Dj3hkjYef94zh2sLkW-xwlPcjrxn1gemANJBz5e4)

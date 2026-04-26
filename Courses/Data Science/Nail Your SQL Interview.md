@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQHuW_atKGwa5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650041965675?e=2147483647&amp;v=beta&amp;t=2x83z68lrSu2_IcKFxSLBnuoPsSnXGVZS2Ei2sTYkxk"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career in SQL Development
+  - '[[Explore a Career in SQL Development]]'
+prev_courses:
+  - '[[SQL Hands-On Practice- Solve Business Problems]]'
+next_courses:
+  - '[[Finding New Career Paths with SQL]]'
+path_nav: '[{"path":"Explore a Career in SQL Development","position":7,"total":8,"prev":"SQL Hands-On Practice- Solve Business Problems","next":"Finding New Career Paths with SQL"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/interview-preparation
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Nail Your SQL Interview](https://media.licdn.com/dms/image/v2/C4D0DAQHuW_atKGwa5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650041965675?e=2147483647&amp;v=beta&amp;t=2x83z68lrSu2_IcKFxSLBnuoPsSnXGVZS2Ei2sTYkxk)

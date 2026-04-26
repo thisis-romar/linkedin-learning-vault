@@ -6,7 +6,7 @@ course_count: 3
 tags:
   - skill
   - skill/software-development-life-cycle-sdlc
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Software Development Life Cycle (SDLC)

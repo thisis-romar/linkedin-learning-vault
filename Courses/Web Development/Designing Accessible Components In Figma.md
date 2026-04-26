@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFwb1J1h7dTIA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668634087377?e=2147483647&amp;v=beta&amp;t=zc0jEsWGPGCatR_URS6J0b1H1X_ubBn6p0I8imSzZQ0"
 linkedin_topic: Web Development
 learning_paths:
-  - Build for Digital Accessibility
+  - '[[Build for Digital Accessibility]]'
+prev_courses:
+  - '[[Accessibility and Inclusion with Figma]]'
+next_courses:
+  - '[[Accessible Layout for the Web]]'
+path_nav: '[{"path":"Build for Digital Accessibility","position":5,"total":12,"prev":"Accessibility and Inclusion with Figma","next":"Accessible Layout for the Web"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/figma-software
   - skill/computer-accessibility
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Designing Accessible Components In Figma](https://media.licdn.com/dms/image/v2/C560DAQFwb1J1h7dTIA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668634087377?e=2147483647&amp;v=beta&amp;t=zc0jEsWGPGCatR_URS6J0b1H1X_ubBn6p0I8imSzZQ0)

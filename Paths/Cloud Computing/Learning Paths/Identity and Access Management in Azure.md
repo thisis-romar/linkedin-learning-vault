@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Identity and Access Management in Azure
@@ -70,3 +70,7 @@ _Paths that share courses with this one:_
 - [[Build an Enterprise Cloud Architecture]] (1 shared courses)
 - [[Cloud Strategy Professional Certificate by LinkedIn Learning]] (1 shared courses)
 - [[Azure Administration for Beginners- Management Tools, Services, and Security]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFsAcFjG7saUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679520373754?e=2147483647&amp;v=beta&amp;t=XwPpIzq-QJxPi1KKk82DbBS-4zLbF1sZ9E3VU7Y51Fc"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Cybersecurity Fundamentals
+  - '[[Cybersecurity Fundamentals]]'
+prev_courses:
+  - '[[Cybersecurity Foundations- Security Architecture]]'
+next_courses:
+  - '[[IT Security Foundations- Operating System Security]]'
+path_nav: '[{"path":"Cybersecurity Fundamentals","position":6,"total":12,"prev":"Cybersecurity Foundations- Security Architecture","next":"IT Security Foundations- Operating System Security"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/risk-frameworks
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Security Frameworks Fundamentals](https://media.licdn.com/dms/image/v2/C560DAQFsAcFjG7saUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679520373754?e=2147483647&amp;v=beta&amp;t=XwPpIzq-QJxPi1KKk82DbBS-4zLbF1sZ9E3VU7Y51Fc)

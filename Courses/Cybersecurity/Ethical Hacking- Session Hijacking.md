@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHTYIatFDHt5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568158504841?e=2147483647&amp;v=beta&amp;t=PJLEA7eblGawp6qtmh0iC7vsEE2gab15mAL7YdzIZLU"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an Ethical Hacker
+  - '[[Become an Ethical Hacker]]'
+prev_courses:
+  - '[[Ethical Hacking- Denial of Service]]'
+next_courses:
+  - '[[Ethical Hacking- Evading IDS, Firewalls, and Honeypots]]'
+path_nav: '[{"path":"Become an Ethical Hacker","position":11,"total":19,"prev":"Ethical Hacking- Denial of Service","next":"Ethical Hacking- Evading IDS, Firewalls, and Honeypots"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethical Hacking: Session Hijacking](https://media.licdn.com/dms/image/v2/C4E0DAQHTYIatFDHt5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568158504841?e=2147483647&amp;v=beta&amp;t=PJLEA7eblGawp6qtmh0iC7vsEE2gab15mAL7YdzIZLU)

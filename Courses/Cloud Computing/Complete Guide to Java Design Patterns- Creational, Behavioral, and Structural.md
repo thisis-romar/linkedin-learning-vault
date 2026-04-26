@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/guide-to-java-design-patterns-45123
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEyFMOVuMzMew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711582600788?e=2147483647&amp;v=beta&amp;t=YBz0MV8GpITY1ZTexxO46TKWdUq2WVinqDqnejxcwz8"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Building Your Java Skills
+  - '[[Building Your Java Skills]]'
+prev_courses:
+  - '[[Java- Testing with JUnit]]'
+next_courses:
+  - '[[Continuous Delivery for Cloud Native Java Apps]]'
+path_nav: '[{"path":"Building Your Java Skills","position":4,"total":6,"prev":"Java- Testing with JUnit","next":"Continuous Delivery for Cloud Native Java Apps"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/software-design-patterns
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide to Java Design Patterns: Creational, Behavioral, and Structural](https://media.licdn.com/dms/image/v2/D4D0DAQEyFMOVuMzMew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711582600788?e=2147483647&amp;v=beta&amp;t=YBz0MV8GpITY1ZTexxO46TKWdUq2WVinqDqnejxcwz8)

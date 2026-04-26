@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHhxjeoncIteA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737677724846?e=2147483647&amp;v=beta&amp;t=igLAIsTseGbk-Xokwf26PTDyNkrVAZr3cgZe-8izIMQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Leverage AI as a Cybersecurity Analyst
+  - '[[Leverage AI as a Cybersecurity Analyst]]'
+next_courses:
+  - '[[The AI-Driven Cybersecurity Analyst]]'
+path_nav: '[{"path":"Leverage AI as a Cybersecurity Analyst","position":1,"total":7,"prev":null,"next":"The AI-Driven Cybersecurity Analyst"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989](https://media.licdn.com/dms/image/v2/D4E0DAQHhxjeoncIteA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737677724846?e=2147483647&amp;v=beta&amp;t=igLAIsTseGbk-Xokwf26PTDyNkrVAZr3cgZe-8izIMQ)

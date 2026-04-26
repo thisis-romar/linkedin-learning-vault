@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHjivPM2MHi0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656091209822?e=2147483647&amp;v=beta&amp;t=_NbplTQXpAbqAQSZJimXstAxzMHPmIBcCms_Oqp5mXc"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - CISO Leadership- Managing a Cybersecurity Program
+  - '[[CISO Leadership- Managing a Cybersecurity Program]]'
+prev_courses:
+  - '[[Cybersecurity Outsourcing- Vendor Selection and Management]]'
+next_courses:
+  - '[[Building a Cybersecurity Awareness Program]]'
+path_nav: '[{"path":"CISO Leadership- Managing a Cybersecurity Program","position":6,"total":8,"prev":"Cybersecurity Outsourcing- Vendor Selection and Management","next":"Building a Cybersecurity Awareness Program"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/tech-career-skills
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Your Cybersecurity Talent Pipeline](https://media.licdn.com/dms/image/v2/C560DAQHjivPM2MHi0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656091209822?e=2147483647&amp;v=beta&amp;t=_NbplTQXpAbqAQSZJimXstAxzMHPmIBcCms_Oqp5mXc)

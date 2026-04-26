@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/advanced-laravel-4380124"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFlZrRMt3ahvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686070664741?e=2147483647&amp;v=beta&amp;t=ub86ycLJnTNHJBGYPhhHoYry1d2fIBI2FGsp8Kgd4XY"
 linkedin_topic: Web Development
 learning_paths:
-  - Build Your Laravel Skills
+  - '[[Build Your Laravel Skills]]'
+prev_courses:
+  - '[[Laravel Essential Training]]'
+next_courses:
+  - '[[Building RESTful APIs in Laravel]]'
+path_nav: '[{"path":"Build Your Laravel Skills","position":2,"total":7,"prev":"Laravel Essential Training","next":"Building RESTful APIs in Laravel"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/laravel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Laravel](https://media.licdn.com/dms/image/v2/D560DAQFlZrRMt3ahvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686070664741?e=2147483647&amp;v=beta&amp;t=ub86ycLJnTNHJBGYPhhHoYry1d2fIBI2FGsp8Kgd4XY)

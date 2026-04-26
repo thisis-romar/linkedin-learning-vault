@@ -47,7 +47,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Introduction to Fundamental Skills for Data Work: Data Visualization
@@ -82,3 +82,7 @@ _Paths that share courses with this one:_
 - [[Explore a Career as a Power BI Specialist]] (1 shared courses)
 - [[Moving from Data Analyst to Data Scientist]] (1 shared courses)
 - [[Master Dashboards and Data Viz in Power BI]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

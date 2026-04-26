@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFo3pQinIqAVg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1609964110780?e=2147483647&amp;v=beta&amp;t=QSIGEWFOmNwfT8Fve3CvGSglBgtCFZoEUhviCiNw_n0"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore Web Development with Angular
+  - '[[Explore Web Development with Angular]]'
+prev_courses:
+  - '[[Angular Essential Training]]'
+next_courses:
+  - '[[Angular- Testing and Debugging]]'
+path_nav: '[{"path":"Explore Web Development with Angular","position":2,"total":6,"prev":"Angular Essential Training","next":"Angular- Testing and Debugging"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/web-development
   - skill/angular-cli
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning the Angular CLI](https://media.licdn.com/dms/image/v2/C4E0DAQFo3pQinIqAVg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1609964110780?e=2147483647&amp;v=beta&amp;t=QSIGEWFOmNwfT8Fve3CvGSglBgtCFZoEUhviCiNw_n0)

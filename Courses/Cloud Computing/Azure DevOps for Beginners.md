@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH12e1KVuTKRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725380577627?e=2147483647&amp;v=beta&amp;t=NE0fA7tD47YT56mwrZNsse39SGP-SBRw_Pk0RKSpIB4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Getting Started as an Azure Developer
+  - '[[Getting Started as an Azure Developer]]'
+prev_courses:
+  - '[[Azure Storage Essential Training (2021)]]'
+next_courses:
+  - '[[Developing Ci Cd Solutions With Azure Devops]]'
+path_nav: '[{"path":"Getting Started as an Azure Developer","position":6,"total":7,"prev":"Azure Storage Essential Training (2021)","next":"Developing Ci Cd Solutions With Azure Devops"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/devops
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure DevOps for Beginners](https://media.licdn.com/dms/image/v2/D560DAQH12e1KVuTKRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725380577627?e=2147483647&amp;v=beta&amp;t=NE0fA7tD47YT56mwrZNsse39SGP-SBRw_Pk0RKSpIB4)

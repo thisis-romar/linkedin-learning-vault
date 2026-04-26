@@ -10,16 +10,25 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG5VnozORNgkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702587022790?e=2147483647&amp;v=beta&amp;t=n1BwL6VnZRkDQQVPhQWmfeCmD34_kd-Z3LR29eC0mKk"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an IT Security Specialist
-  - Cybersecurity Fundamentals
-  - Explore a Career in Computer Forensics
+  - '[[Become an IT Security Specialist]]'
+  - '[[Cybersecurity Fundamentals]]'
+  - '[[Explore a Career in Computer Forensics]]'
+prev_courses:
+  - '[[Cybersecurity with Cloud Computing]]'
+  - '[[Cybersecurity with Cloud Computing]]'
+  - '[[The Cybersecurity Threat Landscape]]'
+next_courses:
+  - '[[Vulnerability Management in Cybersecurity- The Basics]]'
+  - null
+  - '[[Operating System Forensics]]'
+path_nav: '[{"path":"Become an IT Security Specialist","position":7,"total":12,"prev":"Cybersecurity with Cloud Computing","next":"Vulnerability Management in Cybersecurity- The Basics"},{"path":"Cybersecurity Fundamentals","position":12,"total":12,"prev":"Cybersecurity with Cloud Computing","next":null},{"path":"Explore a Career in Computer Forensics","position":2,"total":9,"prev":"The Cybersecurity Threat Landscape","next":"Operating System Forensics"}]'
 path_count: 3
 tags:
   - course
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Foundations: Computer Forensics](https://media.licdn.com/dms/image/v2/D560DAQG5VnozORNgkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702587022790?e=2147483647&amp;v=beta&amp;t=n1BwL6VnZRkDQQVPhQWmfeCmD34_kd-Z3LR29eC0mKk)

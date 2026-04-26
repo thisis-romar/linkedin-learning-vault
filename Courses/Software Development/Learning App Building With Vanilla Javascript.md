@@ -15,8 +15,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFOZxWc6nErRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118219619?e=2147483647&amp;v=beta&amp;t=7O-1IBj_oFEwB4zKYZScGTd2MzxX0i4NWHzUip-zmqE"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore Web Development with Vanilla JavaScript
-  - Become a JavaScript Developer
+  - '[[Explore Web Development with Vanilla JavaScript]]'
+  - '[[Become a JavaScript Developer]]'
+prev_courses:
+  - null
+  - '[[JavaScript- Classes]]'
+next_courses:
+  - '[[Learning Functional Programming with JavaScript ES6+]]'
+  - '[[HTML Essential Training]]'
+path_nav: '[{"path":"Explore Web Development with Vanilla JavaScript","position":1,"total":8,"prev":null,"next":"Learning Functional Programming with JavaScript ES6+"},{"path":"Become a JavaScript Developer","position":8,"total":13,"prev":"JavaScript- Classes","next":"HTML Essential Training"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/javascript
   - skill/vanilla
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning App Building With Vanilla Javascript](https://media.licdn.com/dms/image/v2/C4E0DAQFOZxWc6nErRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118219619?e=2147483647&amp;v=beta&amp;t=7O-1IBj_oFEwB4zKYZScGTd2MzxX0i4NWHzUip-zmqE)

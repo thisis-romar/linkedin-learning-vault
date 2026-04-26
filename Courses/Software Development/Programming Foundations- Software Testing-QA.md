@@ -10,15 +10,24 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHiVNzWsHDZ3A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117712599?e=2147483647&amp;v=beta&amp;t=3SR0C8cBBVaiHkI4XNT8FcgYUqPe2cbyUfLJpfZ9yx8"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Programmer- Foundations
-  - TestMu AI Software Testing Professional Certificate
-  - Getting Started with Software Testing
+  - '[[Become a Programmer- Foundations]]'
+  - '[[TestMu AI Software Testing Professional Certificate]]'
+  - '[[Getting Started with Software Testing]]'
+prev_courses:
+  - '[[Programming Foundations- Test-Driven Development]]'
+  - null
+  - null
+next_courses:
+  - null
+  - '[[Software Testing Tips Weekly]]'
+  - '[[Understanding Manual Testing]]'
+path_nav: '[{"path":"Become a Programmer- Foundations","position":12,"total":12,"prev":"Programming Foundations- Test-Driven Development","next":null},{"path":"TestMu AI Software Testing Professional Certificate","position":1,"total":4,"prev":null,"next":"Software Testing Tips Weekly"},{"path":"Getting Started with Software Testing","position":1,"total":12,"prev":null,"next":"Understanding Manual Testing"}]'
 path_count: 3
 tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations: Software Testing/QA](https://media.licdn.com/dms/image/v2/C4E0DAQHiVNzWsHDZ3A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117712599?e=2147483647&amp;v=beta&amp;t=3SR0C8cBBVaiHkI4XNT8FcgYUqPe2cbyUfLJpfZ9yx8)

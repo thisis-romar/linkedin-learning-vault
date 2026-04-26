@@ -20,7 +20,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHYi1lwinFVjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729634612563?e=2147483647&amp;v=beta&amp;t=Yre81IjpTfYxJc0tshLTGNTTEo556CkE97QfDpOXmFE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Become an AI-Powered Learning and Development Professional
+  - '[[Become an AI-Powered Learning and Development Professional]]'
+prev_courses:
+  - '[[The Future of Workforce Learning- AI-Powered Personalization for Skill Development]]'
+next_courses:
+  - '[[A Practical Guide to Upskilling Your Organization on AI]]'
+path_nav: '[{"path":"Become an AI-Powered Learning and Development Professional","position":4,"total":5,"prev":"The Future of Workforce Learning- AI-Powered Personalization for Skill Development","next":"A Practical Guide to Upskilling Your Organization on AI"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/learning-and-development
   - skill/generative-ai-for-learning-and-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Applications of Generative AI in Learning and Development](https://media.licdn.com/dms/image/v2/D4D0DAQHYi1lwinFVjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729634612563?e=2147483647&amp;v=beta&amp;t=Yre81IjpTfYxJc0tshLTGNTTEo556CkE97QfDpOXmFE)

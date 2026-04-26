@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFeob8hnSjKMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727131962285?e=2147483647&amp;v=beta&amp;t=wi1Org_76UJ4ULeSdDTWVq95tDEDiPIS0kq3DRqD6O4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Agentic AI Systems for Tech Leaders
+  - '[[Building Agentic AI Systems for Tech Leaders]]'
+prev_courses:
+  - '[[Preparing Your Organization For Ai Agents]]'
+next_courses:
+  - '[[Transforming Business with AI Agents- Autonomous Efficiency and Decision-Making]]'
+path_nav: '[{"path":"Building Agentic AI Systems for Tech Leaders","position":2,"total":7,"prev":"Preparing Your Organization For Ai Agents","next":"Transforming Business with AI Agents- Autonomous Efficiency and Decision-Making"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agentic AI Fundamentals: Architectures, Frameworks, and Applications](https://media.licdn.com/dms/image/v2/D4E0DAQFeob8hnSjKMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727131962285?e=2147483647&amp;v=beta&amp;t=wi1Org_76UJ4ULeSdDTWVq95tDEDiPIS0kq3DRqD6O4)

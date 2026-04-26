@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF8NWzeyXK4_w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1601591246933?e=2147483647&amp;v=beta&amp;t=EOeGxWQEE_x-6t2Sr5sVavcnrGlYm9berwUVWLPsje8"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills as a Django Developer
+  - '[[Advance Your Skills as a Django Developer]]'
+prev_courses:
+  - '[[Building a Paid Membership Site with Django]]'
+next_courses:
+  - '[[Advanced Django Project- Build High-Traffic Websites with Django]]'
+path_nav: '[{"path":"Advance Your Skills as a Django Developer","position":5,"total":6,"prev":"Building a Paid Membership Site with Django","next":"Advanced Django Project- Build High-Traffic Websites with Django"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/django
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Securing Django Applications](https://media.licdn.com/dms/image/v2/C4E0DAQF8NWzeyXK4_w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1601591246933?e=2147483647&amp;v=beta&amp;t=EOeGxWQEE_x-6t2Sr5sVavcnrGlYm9berwUVWLPsje8)

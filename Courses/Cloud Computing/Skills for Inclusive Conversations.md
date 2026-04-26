@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEbQFMEkzfpyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568060997696?e=2147483647&amp;v=beta&amp;t=zaYi3iZPIMOrkqUpGKjiH5RXqb4ZjlBsCGmV-M3iC2s"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Improve Your Technical Communication Skills
+  - '[[Improve Your Technical Communication Skills]]'
+prev_courses:
+  - '[[Inclusive Tech- Conducting Humane Code Reviews]]'
+next_courses:
+  - '[[Tech Career Skills- Communication for Developers]]'
+path_nav: '[{"path":"Improve Your Technical Communication Skills","position":3,"total":5,"prev":"Inclusive Tech- Conducting Humane Code Reviews","next":"Tech Career Skills- Communication for Developers"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/interpersonal-communication
   - skill/diversity-and-inclusion
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Skills for Inclusive Conversations](https://media.licdn.com/dms/image/v2/C4E0DAQEbQFMEkzfpyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568060997696?e=2147483647&amp;v=beta&amp;t=zaYi3iZPIMOrkqUpGKjiH5RXqb4ZjlBsCGmV-M3iC2s)

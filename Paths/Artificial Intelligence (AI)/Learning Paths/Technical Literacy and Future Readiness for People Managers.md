@@ -39,7 +39,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Technical Literacy and Future Readiness for People Managers
@@ -69,3 +69,7 @@ _Paths that share courses with this one:_
 
 - [[Generative AI for Recruiting Professional Certificate by LinkedIn Learning]] (1 shared courses)
 - [[LinkedIn’s 2025 Top MBA Programs Learning Path]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

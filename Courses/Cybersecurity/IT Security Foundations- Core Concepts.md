@@ -10,9 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGtUScLh9G_Vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668806798851?e=2147483647&amp;v=beta&amp;t=C1vgQ4P95KfREJ3X1vxi9uAR6JQ5forLHbjVfoS7Apk"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - The IT Professional's Path to Cybersecurity
-  - Become an IT Security Specialist
-  - Cybersecurity Fundamentals
+  - '[[The IT Professional''s Path to Cybersecurity]]'
+  - '[[Become an IT Security Specialist]]'
+  - '[[Cybersecurity Fundamentals]]'
+prev_courses:
+  - '[[Practical Cybersecurity for IT Professionals]]'
+  - null
+  - '[[Computer Science Principles- The Internet]]'
+next_courses:
+  - '[[IT and Cybersecurity Risk Management Essential Training]]'
+  - '[[Cybersecurity Foundations]]'
+  - '[[Cybersecurity Foundations]]'
+path_nav: '[{"path":"The IT Professional''s Path to Cybersecurity","position":3,"total":5,"prev":"Practical Cybersecurity for IT Professionals","next":"IT and Cybersecurity Risk Management Essential Training"},{"path":"Become an IT Security Specialist","position":1,"total":12,"prev":null,"next":"Cybersecurity Foundations"},{"path":"Cybersecurity Fundamentals","position":3,"total":12,"prev":"Computer Science Principles- The Internet","next":"Cybersecurity Foundations"}]'
 path_count: 3
 tags:
   - course
@@ -21,7 +30,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![IT Security Foundations: Core Concepts](https://media.licdn.com/dms/image/v2/C560DAQGtUScLh9G_Vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668806798851?e=2147483647&amp;v=beta&amp;t=C1vgQ4P95KfREJ3X1vxi9uAR6JQ5forLHbjVfoS7Apk)

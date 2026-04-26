@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHruy-utfvsCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626117142879?e=2147483647&amp;v=beta&amp;t=fNocRdL2VOHR0D_MSyg5v4XklnWSjVxh58ORoRX2H_w"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance Your Spring Development Skills
+  - '[[Advance Your Spring Development Skills]]'
+prev_courses:
+  - '[[Advanced Spring- Spring Boot Actuator]]'
+next_courses:
+  - '[[Advanced Spring- Effective Integration Testing with Spring Boot]]'
+path_nav: '[{"path":"Advance Your Spring Development Skills","position":5,"total":6,"prev":"Advanced Spring- Spring Boot Actuator","next":"Advanced Spring- Effective Integration Testing with Spring Boot"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/spring-framework
   - skill/software-architectural-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Spring: Application Events](https://media.licdn.com/dms/image/v2/C560DAQHruy-utfvsCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626117142879?e=2147483647&amp;v=beta&amp;t=fNocRdL2VOHR0D_MSyg5v4XklnWSjVxh58ORoRX2H_w)

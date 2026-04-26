@@ -10,9 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQENDo0afVgyhw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690922397149?e=2147483647&amp;v=beta&amp;t=PlN19dIVekKVKpzAKQUfBNQMzmPisNvAwifUrerZg08"
 linkedin_topic: Data Science
 learning_paths:
-  - AI for Healthcare- Essentials for Technical Roles
-  - Hands-On Healthcare Analytics
-  - Python for Data Professionals in Healthcare
+  - '[[AI for Healthcare- Essentials for Technical Roles]]'
+  - '[[Hands-On Healthcare Analytics]]'
+  - '[[Python for Data Professionals in Healthcare]]'
+prev_courses:
+  - '[[Machine Learning Fundamentals for Healthcare]]'
+  - '[[Machine Learning Fundamentals for Healthcare]]'
+  - '[[Python Data Analysis for Healthcare]]'
+next_courses:
+  - '[[Advanced AI- NLP Techniques for Clinical Datasets]]'
+  - null
+  - '[[An Introduction to How Generative AI Will Transform Healthcare]]'
+path_nav: '[{"path":"AI for Healthcare- Essentials for Technical Roles","position":4,"total":6,"prev":"Machine Learning Fundamentals for Healthcare","next":"Advanced AI- NLP Techniques for Clinical Datasets"},{"path":"Hands-On Healthcare Analytics","position":8,"total":8,"prev":"Machine Learning Fundamentals for Healthcare","next":null},{"path":"Python for Data Professionals in Healthcare","position":3,"total":5,"prev":"Python Data Analysis for Healthcare","next":"An Introduction to How Generative AI Will Transform Healthcare"}]'
 path_count: 3
 tags:
   - course
@@ -22,7 +31,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-on Data Science and AI for Healthcare](https://media.licdn.com/dms/image/v2/D560DAQENDo0afVgyhw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690922397149?e=2147483647&amp;v=beta&amp;t=PlN19dIVekKVKpzAKQUfBNQMzmPisNvAwifUrerZg08)

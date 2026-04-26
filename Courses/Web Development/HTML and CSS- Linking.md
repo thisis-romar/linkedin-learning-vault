@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHSwnFEfxhRKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614870907082?e=2147483647&amp;v=beta&amp;t=UmQ-QeNhUFYJQxuQsWtfNJZwaH8_A0NJhsQwr8sm-N4"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in HTML
+  - '[[Advance Your Skills in HTML]]'
+prev_courses:
+  - '[[Crafting Meaningful HTML]]'
+next_courses:
+  - '[[HTML- Images and Figures]]'
+path_nav: '[{"path":"Advance Your Skills in HTML","position":3,"total":11,"prev":"Crafting Meaningful HTML","next":"HTML- Images and Figures"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/html
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![HTML and CSS: Linking](https://media.licdn.com/dms/image/v2/C4E0DAQHSwnFEfxhRKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614870907082?e=2147483647&amp;v=beta&amp;t=UmQ-QeNhUFYJQxuQsWtfNJZwaH8_A0NJhsQwr8sm-N4)

@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH-aE9xH5t7Ig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694208112276?e=2147483647&amp;v=beta&amp;t=iR1o8Ro5APuHsIJ2nZCq3bo0kiXCeBeRW75tprfUquA"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation
+  - '[[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]]'
+prev_courses:
+  - '[[Learning Data Analytics- 1 Foundations]]'
+next_courses:
+  - '[[Predictive Analytics Essential Training- Data Mining]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation","position":5,"total":9,"prev":"Learning Data Analytics- 1 Foundations","next":"Predictive Analytics Essential Training- Data Mining"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/data-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Analyst Mindset: 10 Nontechnical Ways to Influence Decisions](https://media.licdn.com/dms/image/v2/D560DAQH-aE9xH5t7Ig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694208112276?e=2147483647&amp;v=beta&amp;t=iR1o8Ro5APuHsIJ2nZCq3bo0kiXCeBeRW75tprfUquA)

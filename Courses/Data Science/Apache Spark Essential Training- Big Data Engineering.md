@@ -19,9 +19,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEYVdQ6ahM3Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726090917562?e=2147483647&amp;v=beta&amp;t=7rjZ4bFbiSWLKPUqSjIy3l4_2QVZmEz0C0SxsgnWkCc"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Processing
-  - Moving from Data Scientist to Data Analyst
-  - Advance Your Data Skills in Apache Spark
+  - '[[Introduction to Fundamental Skills for Data Work- Data Processing]]'
+  - '[[Moving from Data Scientist to Data Analyst]]'
+  - '[[Advance Your Data Skills in Apache Spark]]'
+prev_courses:
+  - '[[Data Cleaning in Python Essential Training]]'
+  - '[[Deep Learning Getting Started]]'
+  - null
+next_courses:
+  - '[[ETL in Python and SQL]]'
+  - '[[Python- Working with Predictive Analytics]]'
+  - '[[Introduction to Spark SQL and DataFrames]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Processing","position":5,"total":7,"prev":"Data Cleaning in Python Essential Training","next":"ETL in Python and SQL"},{"path":"Moving from Data Scientist to Data Analyst","position":7,"total":10,"prev":"Deep Learning Getting Started","next":"Python- Working with Predictive Analytics"},{"path":"Advance Your Data Skills in Apache Spark","position":1,"total":6,"prev":null,"next":"Introduction to Spark SQL and DataFrames"}]'
 path_count: 3
 tags:
   - course
@@ -33,7 +42,7 @@ tags:
   - skill/apache-spark
   - skill/data-pipelines
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Apache Spark Essential Training: Big Data Engineering](https://media.licdn.com/dms/image/v2/D4E0DAQEYVdQ6ahM3Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726090917562?e=2147483647&amp;v=beta&amp;t=7rjZ4bFbiSWLKPUqSjIy3l4_2QVZmEz0C0SxsgnWkCc)

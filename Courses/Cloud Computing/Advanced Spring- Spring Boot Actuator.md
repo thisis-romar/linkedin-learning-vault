@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/spring-boot-actuator-3010189"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQG75ufonreaEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643410169109?e=2147483647&amp;v=beta&amp;t=StKwKToKmzc-3CfC_zc4cpqU2Nv_b2ydQaBfaeLve9c"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance Your Spring Development Skills
+  - '[[Advance Your Spring Development Skills]]'
+prev_courses:
+  - '[[Spring Boot Observability- Deep Dive into Logging, Metrics, and Tracing]]'
+next_courses:
+  - '[[Advanced Spring- Application Events]]'
+path_nav: '[{"path":"Advance Your Spring Development Skills","position":4,"total":6,"prev":"Spring Boot Observability- Deep Dive into Logging, Metrics, and Tracing","next":"Advanced Spring- Application Events"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/spring-framework
   - skill/spring-boot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Spring: Spring Boot Actuator](https://media.licdn.com/dms/image/v2/C4E0DAQG75ufonreaEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643410169109?e=2147483647&amp;v=beta&amp;t=StKwKToKmzc-3CfC_zc4cpqU2Nv_b2ydQaBfaeLve9c)

@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/integrating-generative-ai-into-java
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEc-uT6Iq7H0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713900257957?e=2147483647&amp;v=beta&amp;t=jS4X5UCH1mNyzRlgpWE-LpsZTTMPDnHd8b79qBhINMc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Generative AI Skills for Web Developers
+  - '[[Building Generative AI Skills for Web Developers]]'
+prev_courses:
+  - '[[Building PHP Applications with Generative AI]]'
+next_courses:
+  - '[[Build an AI Application with React and AWS SageMaker]]'
+path_nav: '[{"path":"Building Generative AI Skills for Web Developers","position":6,"total":10,"prev":"Building PHP Applications with Generative AI","next":"Build an AI Application with React and AWS SageMaker"}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +37,7 @@ tags:
   - skill/javascript
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Integrating Generative AI into JavaScript Web Projects](https://media.licdn.com/dms/image/v2/D4E0DAQEc-uT6Iq7H0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713900257957?e=2147483647&amp;v=beta&amp;t=jS4X5UCH1mNyzRlgpWE-LpsZTTMPDnHd8b79qBhINMc)

@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHtdXQZyMfd1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660846179936?e=2147483647&amp;v=beta&amp;t=OV2vtkG9sHJD92fgEebwjV9_oG5f7RfIOwTKFbuPRN8"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Cybersecurity for Sales Professionals
+  - '[[Cybersecurity for Sales Professionals]]'
+prev_courses:
+  - '[[The Cybersecurity Threat Landscape]]'
+next_courses:
+  - '[[Soft Skills for Information Security Professionals]]'
+path_nav: '[{"path":"Cybersecurity for Sales Professionals","position":5,"total":7,"prev":"The Cybersecurity Threat Landscape","next":"Soft Skills for Information Security Professionals"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity for Executives](https://media.licdn.com/dms/image/v2/C560DAQHtdXQZyMfd1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660846179936?e=2147483647&amp;v=beta&amp;t=OV2vtkG9sHJD92fgEebwjV9_oG5f7RfIOwTKFbuPRN8)

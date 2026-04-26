@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEZnbqGrq9Q2A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727466690407?e=2147483647&amp;v=beta&amp;t=Qln5SOZD1BgJHwn38u6zApZaupUVXBSjrEgqVEfhqXs"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Generative AI for Recruiting Professional Certificate by LinkedIn Learning
+  - '[[Generative AI for Recruiting Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Generative AI, Recruiting, and Talent Acquisition]]'
+next_courses:
+  - '[[Harnessing AI for Effective Interviewing]]'
+path_nav: '[{"path":"Generative AI for Recruiting Professional Certificate by LinkedIn Learning","position":2,"total":6,"prev":"Generative AI, Recruiting, and Talent Acquisition","next":"Harnessing AI for Effective Interviewing"}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Harnessing AI in the Recruiting Lifecycle](https://media.licdn.com/dms/image/v2/D4E0DAQEZnbqGrq9Q2A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727466690407?e=2147483647&amp;v=beta&amp;t=Qln5SOZD1BgJHwn38u6zApZaupUVXBSjrEgqVEfhqXs)

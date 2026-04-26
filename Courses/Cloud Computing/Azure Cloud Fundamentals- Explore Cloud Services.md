@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGEEvcmAKCc0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702586113429?e=2147483647&amp;v=beta&amp;t=89b3cTtetpcr5sF32q_sUSQn2oxiL0hawiqyVIK8sAQ"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Azure Administration for Beginners- Management Tools, Services, and Security
+  - '[[Azure Administration for Beginners- Management Tools, Services, and Security]]'
+prev_courses:
+  - '[[Azure Understanding The Big Picture]]'
+next_courses:
+  - '[[Azure Management Basics- Portal, PowerShell, Bicep, and CLI]]'
+path_nav: '[{"path":"Azure Administration for Beginners- Management Tools, Services, and Security","position":2,"total":5,"prev":"Azure Understanding The Big Picture","next":"Azure Management Basics- Portal, PowerShell, Bicep, and CLI"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/cloud-services
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure Cloud Fundamentals: Explore Cloud Services](https://media.licdn.com/dms/image/v2/D560DAQGEEvcmAKCc0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702586113429?e=2147483647&amp;v=beta&amp;t=89b3cTtetpcr5sF32q_sUSQn2oxiL0hawiqyVIK8sAQ)

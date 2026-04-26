@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/responsible-ai-and-application-deve
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQH8YXrRGvmTgg/learning-public-crop_675_1200/B4DZWRytTjGcAY-/0/1741907744735?e=2147483647&amp;v=beta&amp;t=MLoGdonkd05PP_KUL2FdMuAVHLr6N_p15mXkQKULhZA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Learning XAI- Explainable Artificial Intelligence]]'
+next_courses:
+  - '[[Integrating AI into the Product Architecture]]'
+path_nav: '[{"path":"Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning","position":4,"total":7,"prev":"Learning XAI- Explainable Artificial Intelligence","next":"Integrating AI into the Product Architecture"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Responsible AI and Application Development](https://media.licdn.com/dms/image/v2/D4D0DAQH8YXrRGvmTgg/learning-public-crop_675_1200/B4DZWRytTjGcAY-/0/1741907744735?e=2147483647&amp;v=beta&amp;t=MLoGdonkd05PP_KUL2FdMuAVHLr6N_p15mXkQKULhZA)

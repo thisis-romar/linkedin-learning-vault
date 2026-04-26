@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHxdj3nqXxX6g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722897951098?e=2147483647&amp;v=beta&amp;t=B_aD9_PB1EVfR0JBbxk2vGM8NFRVaRYEohpGjfzK0_g"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Getting Started with Prompt Engineering
+  - '[[Getting Started with Prompt Engineering]]'
+prev_courses:
+  - '[[Introduction to Multimodal Prompting for Generative AI]]'
+next_courses:
+  - '[[AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation]]'
+path_nav: '[{"path":"Getting Started with Prompt Engineering","position":5,"total":6,"prev":"Introduction to Multimodal Prompting for Generative AI","next":"AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Prompt Engineering and AI Agents with ChatGPT](https://media.licdn.com/dms/image/v2/D4D0DAQHxdj3nqXxX6g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722897951098?e=2147483647&amp;v=beta&amp;t=B_aD9_PB1EVfR0JBbxk2vGM8NFRVaRYEohpGjfzK0_g)

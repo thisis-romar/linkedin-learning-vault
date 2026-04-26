@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQErpGUJP8F42g/learning-public-crop_675_1200/B4EZbVp80uGcAg-/0/1747341266505?e=2147483647&amp;v=beta&amp;t=8045qr00agtT1jMLhhN1yDG464uoyz_HO7uB12f7kuo"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Learn Vibe Coding- Build Apps with AI-Powered Coding
+  - '[[Learn Vibe Coding- Build Apps with AI-Powered Coding]]'
+prev_courses:
+  - '[[Structure Vibe Coding to Save Build Time]]'
+next_courses:
+  - '[[Build with AI- Beyond Pair Programming with AI]]'
+path_nav: '[{"path":"Learn Vibe Coding- Build Apps with AI-Powered Coding","position":3,"total":5,"prev":"Structure Vibe Coding to Save Build Time","next":"Build with AI- Beyond Pair Programming with AI"}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Vibe Code Your Way to a Full Stack App with Bolt](https://media.licdn.com/dms/image/v2/D4E0DAQErpGUJP8F42g/learning-public-crop_675_1200/B4EZbVp80uGcAg-/0/1747341266505?e=2147483647&amp;v=beta&amp;t=8045qr00agtT1jMLhhN1yDG464uoyz_HO7uB12f7kuo)

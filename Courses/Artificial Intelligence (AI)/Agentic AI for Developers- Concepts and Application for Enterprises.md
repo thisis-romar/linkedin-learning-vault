@@ -20,8 +20,15 @@ github: "https://github.com/LinkedInLearning/agentic-ai-for-developers-concepts-
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHzCdkrNwuB5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726507433613?e=2147483647&amp;v=beta&amp;t=4ZNKsRbW5OIA5pSeAPoJj_XODyVfzCJQPvJmzCRSay4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Agentic AI Systems for Tech Leaders
-  - Building Agentic AI Systems for Developers
+  - '[[Building Agentic AI Systems for Tech Leaders]]'
+  - '[[Building Agentic AI Systems for Developers]]'
+prev_courses:
+  - '[[Designing Agentic AI Products (No Code Required)]]'
+  - null
+next_courses:
+  - '[[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]]'
+  - '[[Introduction to Agentic AI- Getting Started with AutoGen Studio]]'
+path_nav: '[{"path":"Building Agentic AI Systems for Tech Leaders","position":6,"total":7,"prev":"Designing Agentic AI Products (No Code Required)","next":"Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization"},{"path":"Building Agentic AI Systems for Developers","position":1,"total":6,"prev":null,"next":"Introduction to Agentic AI- Getting Started with AutoGen Studio"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agentic AI for Developers: Concepts and Application for Enterprises](https://media.licdn.com/dms/image/v2/D560DAQHzCdkrNwuB5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726507433613?e=2147483647&amp;v=beta&amp;t=4ZNKsRbW5OIA5pSeAPoJj_XODyVfzCJQPvJmzCRSay4)

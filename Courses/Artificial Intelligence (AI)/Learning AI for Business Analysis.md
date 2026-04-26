@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQE1f-xThIzIZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733504337917?e=2147483647&amp;v=beta&amp;t=eWgwSfD_xqOChseV1mYXY0djzzMPPk57HG91TALAb1M"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI Essentials for Business Analysis
+  - '[[AI Essentials for Business Analysis]]'
+prev_courses:
+  - '[[Everyday Ai Concepts]]'
+next_courses:
+  - '[[AI Chat Prompts for Business Analysis]]'
+path_nav: '[{"path":"AI Essentials for Business Analysis","position":2,"total":5,"prev":"Everyday Ai Concepts","next":"AI Chat Prompts for Business Analysis"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning AI for Business Analysis](https://media.licdn.com/dms/image/v2/D4E0DAQE1f-xThIzIZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733504337917?e=2147483647&amp;v=beta&amp;t=eWgwSfD_xqOChseV1mYXY0djzzMPPk57HG91TALAb1M)

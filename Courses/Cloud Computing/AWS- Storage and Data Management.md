@@ -19,7 +19,10 @@ github: "https://github.com/LinkedInLearning/aws-storage-and-data-management-308
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFOfnWsuTJ7WA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671825403910?e=2147483647&amp;v=beta&amp;t=0-dg5x7Vwo-_AUu-1EqkZ882Xz9EdIZP8Tvc7YBl_dU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Infrastructure Management on AWS- Skills for Administrators
+  - '[[Infrastructure Management on AWS- Skills for Administrators]]'
+prev_courses:
+  - '[[Complete Guide to AWS Security and Compliance Management]]'
+path_nav: '[{"path":"Infrastructure Management on AWS- Skills for Administrators","position":5,"total":5,"prev":"Complete Guide to AWS Security and Compliance Management","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/data-management
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AWS: Storage and Data Management](https://media.licdn.com/dms/image/v2/C560DAQFOfnWsuTJ7WA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671825403910?e=2147483647&amp;v=beta&amp;t=0-dg5x7Vwo-_AUu-1EqkZ882Xz9EdIZP8Tvc7YBl_dU)

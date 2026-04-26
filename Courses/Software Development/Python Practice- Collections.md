@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFCrLcz8K9sJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692643564786?e=2147483647&amp;v=beta&amp;t=k_-vXGjaevWvfYyAzHvMgQU-2Dx6uvdcfHxxHznPHyQ"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
+  - '[[Python Hands-On Practice]]'
+prev_courses:
+  - '[[Python Practice- Operations]]'
+next_courses:
+  - '[[Python Practice- Object-Oriented Programming]]'
+path_nav: '[{"path":"Python Hands-On Practice","position":4,"total":14,"prev":"Python Practice- Operations","next":"Python Practice- Object-Oriented Programming"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Practice: Collections](https://media.licdn.com/dms/image/v2/D560DAQFCrLcz8K9sJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692643564786?e=2147483647&amp;v=beta&amp;t=k_-vXGjaevWvfYyAzHvMgQU-2Dx6uvdcfHxxHznPHyQ)

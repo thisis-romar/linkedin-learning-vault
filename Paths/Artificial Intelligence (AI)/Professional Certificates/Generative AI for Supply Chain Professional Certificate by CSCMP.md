@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - professional-certificate
   - topic/artificial-intelligence
@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Generative AI for Supply Chain Professional Certificate by CSCMP
@@ -69,3 +69,7 @@ _Paths that share courses with this one:_
 - [[Fundamentals to Become a Machine Learning Engineer]] (1 shared courses)
 - [[Advance Your Skills as a Supply Chain Manager]] (1 shared courses)
 - [[Getting Started with AI and Machine Learning]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

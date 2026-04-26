@@ -14,14 +14,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFDG8Y4p_1BBA/learning-public-crop_675_1200/B4EZnzj.5JGcA8-/0/1760727920560?e=2147483647&amp;v=beta&amp;t=r43hCGTg2qhrC05ZzDV4B8M1E1NIq_NEoScnbUxtVRg"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Key Financial Analyst Skills
+  - '[[Master Key Financial Analyst Skills]]'
+prev_courses:
+  - '[[Corporate Financial Statement Analysis (2023)]]'
+next_courses:
+  - '[[Financial Modeling and Forecasting Financial Statements (2019)]]'
+path_nav: '[{"path":"Master Key Financial Analyst Skills","position":3,"total":6,"prev":"Corporate Financial Statement Analysis (2023)","next":"Financial Modeling and Forecasting Financial Statements (2019)"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/financial-modeling
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Financial Modeling Foundations (2018)](https://media.licdn.com/dms/image/v2/D4E0DAQFDG8Y4p_1BBA/learning-public-crop_675_1200/B4EZnzj.5JGcA8-/0/1760727920560?e=2147483647&amp;v=beta&amp;t=r43hCGTg2qhrC05ZzDV4B8M1E1NIq_NEoScnbUxtVRg)

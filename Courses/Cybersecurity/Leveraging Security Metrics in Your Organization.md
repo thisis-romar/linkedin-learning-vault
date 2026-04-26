@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF54PFWnjZ7Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624651412738?e=2147483647&amp;v=beta&amp;t=HmXmp-A4Iw49PsbrgaWhO9TQnh-FO625nJWyOyjhOKw"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - CISO Leadership- Managing a Cybersecurity Program
+  - '[[CISO Leadership- Managing a Cybersecurity Program]]'
+prev_courses:
+  - '[[Building and Managing a Cybersecurity Program]]'
+next_courses:
+  - '[[CISO Foundations- Influencing the Board and C-Suite]]'
+path_nav: '[{"path":"CISO Leadership- Managing a Cybersecurity Program","position":3,"total":8,"prev":"Building and Managing a Cybersecurity Program","next":"CISO Foundations- Influencing the Board and C-Suite"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/budget-analysis
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leveraging Security Metrics in Your Organization](https://media.licdn.com/dms/image/v2/C560DAQF54PFWnjZ7Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624651412738?e=2147483647&amp;v=beta&amp;t=HmXmp-A4Iw49PsbrgaWhO9TQnh-FO625nJWyOyjhOKw)

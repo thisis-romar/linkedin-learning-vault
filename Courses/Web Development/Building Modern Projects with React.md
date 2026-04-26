@@ -20,8 +20,15 @@ github: "https://github.com/LinkedInLearning/building-modern-projects-with-react
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGOgABK85NgGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730769070369?e=2147483647&amp;v=beta&amp;t=i6A0EJqAi0ZU1REHNfJU7kiqyFlg70mYNUGbXpb9stg"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore React.js Development
-  - Improve Your React Skills
+  - '[[Explore React.js Development]]'
+  - '[[Improve Your React Skills]]'
+prev_courses:
+  - '[[React- Accessibility]]'
+  - '[[React- Securing Applications]]'
+next_courses:
+  - '[[React- Authentication]]'
+  - '[[React- Testing and Debugging]]'
+path_nav: '[{"path":"Explore React.js Development","position":6,"total":8,"prev":"React- Accessibility","next":"React- Authentication"},{"path":"Improve Your React Skills","position":4,"total":9,"prev":"React- Securing Applications","next":"React- Testing and Debugging"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/javascript
   - skill/react-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Modern Projects with React](https://media.licdn.com/dms/image/v2/D560DAQGOgABK85NgGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730769070369?e=2147483647&amp;v=beta&amp;t=i6A0EJqAi0ZU1REHNfJU7kiqyFlg70mYNUGbXpb9stg)

@@ -15,12 +15,27 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGBM14K9ue_wA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656438189426?e=2147483647&amp;v=beta&amp;t=3P3ryZMsYuCnXVDbmLBW536_JBs4FpEY--8fdpxcP3c"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Navigating the Cybersecurity Threat Landscape
-  - Become a Cybersecurity Professional
-  - Career Essentials in Cybersecurity by Microsoft and LinkedIn
-  - Explore a Career in Computer Forensics
-  - Cybersecurity for Sales Professionals
-  - CISO Leadership- Managing a Cybersecurity Program
+  - '[[Navigating the Cybersecurity Threat Landscape]]'
+  - '[[Become a Cybersecurity Professional]]'
+  - '[[Career Essentials in Cybersecurity by Microsoft and LinkedIn]]'
+  - '[[Explore a Career in Computer Forensics]]'
+  - '[[Cybersecurity for Sales Professionals]]'
+  - '[[CISO Leadership- Managing a Cybersecurity Program]]'
+prev_courses:
+  - null
+  - '[[Cybersecurity Foundations]]'
+  - null
+  - null
+  - '[[Cybersecurity Awareness- Social Engineering]]'
+  - null
+next_courses:
+  - '[[Demystifying Advanced and Complex Security Topics]]'
+  - '[[Learning the OWASP Top 10]]'
+  - '[[Cybersecurity Awareness- Cybersecurity Terminology]]'
+  - '[[Cybersecurity Foundations- Computer Forensics]]'
+  - '[[Cybersecurity for Executives]]'
+  - '[[Building and Managing a Cybersecurity Program]]'
+path_nav: '[{"path":"Navigating the Cybersecurity Threat Landscape","position":1,"total":8,"prev":null,"next":"Demystifying Advanced and Complex Security Topics"},{"path":"Become a Cybersecurity Professional","position":2,"total":5,"prev":"Cybersecurity Foundations","next":"Learning the OWASP Top 10"},{"path":"Career Essentials in Cybersecurity by Microsoft and LinkedIn","position":1,"total":4,"prev":null,"next":"Cybersecurity Awareness- Cybersecurity Terminology"},{"path":"Explore a Career in Computer Forensics","position":1,"total":9,"prev":null,"next":"Cybersecurity Foundations- Computer Forensics"},{"path":"Cybersecurity for Sales Professionals","position":4,"total":7,"prev":"Cybersecurity Awareness- Social Engineering","next":"Cybersecurity for Executives"},{"path":"CISO Leadership- Managing a Cybersecurity Program","position":1,"total":8,"prev":null,"next":"Building and Managing a Cybersecurity Program"}]'
 path_count: 6
 tags:
   - course
@@ -28,7 +43,7 @@ tags:
   - skill/threat-vulnerability-management
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The Cybersecurity Threat Landscape](https://media.licdn.com/dms/image/v2/C4E0DAQGBM14K9ue_wA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656438189426?e=2147483647&amp;v=beta&amp;t=3P3ryZMsYuCnXVDbmLBW536_JBs4FpEY--8fdpxcP3c)

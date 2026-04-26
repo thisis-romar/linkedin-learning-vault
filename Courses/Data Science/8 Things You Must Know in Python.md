@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEuGjrSsMFT2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733774083145?e=2147483647&amp;v=beta&amp;t=ezQ6YUN41b0qQcZt2EGP_7aJjzj0pq6QNuwACNk__EQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started with Python
+  - '[[Getting Started with Python]]'
+prev_courses:
+  - '[[Level Up- Python]]'
+next_courses:
+  - '[[Python Practice- Real-World Coding Challenges]]'
+path_nav: '[{"path":"Getting Started with Python","position":7,"total":8,"prev":"Level Up- Python","next":"Python Practice- Real-World Coding Challenges"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![8 Things You Must Know in Python](https://media.licdn.com/dms/image/v2/D560DAQEuGjrSsMFT2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733774083145?e=2147483647&amp;v=beta&amp;t=ezQ6YUN41b0qQcZt2EGP_7aJjzj0pq6QNuwACNk__EQ)

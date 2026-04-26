@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/stakeholder-engagement
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Stakeholder Engagement

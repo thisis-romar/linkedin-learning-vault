@@ -20,7 +20,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQETfg1FS6Ddug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727129495332?e=2147483647&amp;v=beta&amp;t=N0mHXgJiGkQgJF_WSRhi9Lxw7EpFW-1onQtKPrdk9pQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security
+  - '[[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]]'
+prev_courses:
+  - '[[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]]'
+next_courses:
+  - '[[Data Preparation, Feature Engineering, and Augmentation for AI Models]]'
+path_nav: '[{"path":"MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security","position":4,"total":10,"prev":"Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios","next":"Data Preparation, Feature Engineering, and Augmentation for AI Models"}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/hugging-face-products
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![MLOps Tools: MLflow and Hugging Face](https://media.licdn.com/dms/image/v2/D4E0DAQETfg1FS6Ddug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727129495332?e=2147483647&amp;v=beta&amp;t=N0mHXgJiGkQgJF_WSRhi9Lxw7EpFW-1onQtKPrdk9pQ)

@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFdr7FKcBslUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729900117724?e=2147483647&amp;v=beta&amp;t=bK_kwqqAXkoMsElicr6GtE4FJng00-fAxW_lOWrJHAc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Agentic AI Systems for Tech Leaders
+  - '[[Building Agentic AI Systems for Tech Leaders]]'
+prev_courses:
+  - '[[Agentic AI for Developers- Concepts and Application for Enterprises]]'
+path_nav: '[{"path":"Building Agentic AI Systems for Tech Leaders","position":7,"total":7,"prev":"Agentic AI for Developers- Concepts and Application for Enterprises","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leveraging Agentic AI in Cloud Computing: Strategy and Tool Optimization](https://media.licdn.com/dms/image/v2/D560DAQFdr7FKcBslUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729900117724?e=2147483647&amp;v=beta&amp;t=bK_kwqqAXkoMsElicr6GtE4FJng00-fAxW_lOWrJHAc)

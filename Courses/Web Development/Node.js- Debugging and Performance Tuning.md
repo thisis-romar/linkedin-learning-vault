@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHbNVU0i38wEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665518619?e=2147483647&amp;v=beta&amp;t=4KUT7Pt4NBoyiPn5h96nThBUhLSncGdUW91AzRmRIiU"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance your Node.js Skills
+  - '[[Advance your Node.js Skills]]'
+prev_courses:
+  - '[[Node.js- Testing and Code Quality]]'
+next_courses:
+  - '[[Advanced Express]]'
+path_nav: '[{"path":"Advance your Node.js Skills","position":4,"total":8,"prev":"Node.js- Testing and Code Quality","next":"Advanced Express"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/performance-tuning
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Node.js: Debugging and Performance Tuning](https://media.licdn.com/dms/image/v2/C4E0DAQHbNVU0i38wEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665518619?e=2147483647&amp;v=beta&amp;t=4KUT7Pt4NBoyiPn5h96nThBUhLSncGdUW91AzRmRIiU)

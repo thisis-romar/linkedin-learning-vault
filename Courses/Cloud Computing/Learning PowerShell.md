@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFxHzcSpPEySg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580334496275?e=2147483647&amp;v=beta&amp;t=hn8Kw-OVTcWy6hLm4mrUpj-qpbrTuq2H5ch7LpG7grc"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Networking and Administration Fundamentals
+  - '[[Networking and Administration Fundamentals]]'
+prev_courses:
+  - '[[Learning Virtualization]]'
+next_courses:
+  - '[[PowerShell- Automating IT Administration]]'
+path_nav: '[{"path":"Networking and Administration Fundamentals","position":8,"total":10,"prev":"Learning Virtualization","next":"PowerShell- Automating IT Administration"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/network-and-system-administration
   - skill/powershell
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning PowerShell](https://media.licdn.com/dms/image/v2/C4E0DAQFxHzcSpPEySg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580334496275?e=2147483647&amp;v=beta&amp;t=hn8Kw-OVTcWy6hLm4mrUpj-qpbrTuq2H5ch7LpG7grc)

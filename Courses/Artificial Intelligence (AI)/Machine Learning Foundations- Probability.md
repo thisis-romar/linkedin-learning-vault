@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEpHdKA4omnwg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690400093393?e=2147483647&amp;v=beta&amp;t=-WzhjmTdH_MA61RJjqAW6AWshhWWjqEwfOeVFQiyVW0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Machine Learning Statistical Foundations Professional Certificate by Wolfram Research
-  - Foundational Math for Machine Learning
+  - '[[Machine Learning Statistical Foundations Professional Certificate by Wolfram Research]]'
+  - '[[Foundational Math for Machine Learning]]'
+prev_courses:
+  - '[[Machine Learning Foundations- Calculus]]'
+  - '[[Machine Learning Foundations- Calculus]]'
+next_courses:
+  - '[[Machine Learning Foundations- Statistics]]'
+  - '[[Machine Learning Foundations- Statistics]]'
+path_nav: '[{"path":"Machine Learning Statistical Foundations Professional Certificate by Wolfram Research","position":4,"total":6,"prev":"Machine Learning Foundations- Calculus","next":"Machine Learning Foundations- Statistics"},{"path":"Foundational Math for Machine Learning","position":3,"total":4,"prev":"Machine Learning Foundations- Calculus","next":"Machine Learning Foundations- Statistics"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/probability
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning Foundations: Probability](https://media.licdn.com/dms/image/v2/D4D0DAQEpHdKA4omnwg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690400093393?e=2147483647&amp;v=beta&amp;t=-WzhjmTdH_MA61RJjqAW6AWshhWWjqEwfOeVFQiyVW0)

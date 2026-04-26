@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFWrAiIPlnf1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715874851813?e=2147483647&amp;v=beta&amp;t=GU9yTcbN1Bt0HwhBVbjeXNOQbKYtJzelZXW6hOalAVI"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Foundations of Cloud Computing- Models, Platforms, Services, and Careers
-  - Cloud Strategy Professional Certificate by LinkedIn Learning
+  - '[[Foundations of Cloud Computing- Models, Platforms, Services, and Careers]]'
+  - '[[Cloud Strategy Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Cloud Computing- Understanding Private Cloud Options]]'
+  - '[[Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment]]'
+next_courses:
+  - '[[Cloud Storage Concepts- Services, Cost Control, and Security]]'
+  - '[[Cloud Architecture- Core Concepts]]'
+path_nav: '[{"path":"Foundations of Cloud Computing- Models, Platforms, Services, and Careers","position":5,"total":9,"prev":"Cloud Computing- Understanding Private Cloud Options","next":"Cloud Storage Concepts- Services, Cost Control, and Security"},{"path":"Cloud Strategy Professional Certificate by LinkedIn Learning","position":2,"total":9,"prev":"Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment","next":"Cloud Architecture- Core Concepts"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/cloud-security
   - skill/it-compliance
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Security Concepts: Services and Compliance](https://media.licdn.com/dms/image/v2/D4D0DAQFWrAiIPlnf1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715874851813?e=2147483647&amp;v=beta&amp;t=GU9yTcbN1Bt0HwhBVbjeXNOQbKYtJzelZXW6hOalAVI)

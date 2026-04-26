@@ -12,15 +12,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFOIpOclKGO1A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711150083053?e=2147483647&amp;v=beta&amp;t=6Jvt0FoydzRf316ezr9f-lGnHGgHS1pkW9oobHKe90k"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your Sustainability Skills
-  - Career Essentials in Sustainable Tech by Microsoft and LinkedIn
+  - '[[Improve Your Sustainability Skills]]'
+  - '[[Career Essentials in Sustainable Tech by Microsoft and LinkedIn]]'
+next_courses:
+  - '[[Introduction to ESG- Environmental, Social, and Governance]]'
+  - '[[Sustainability as an Innovation Opportunity]]'
+path_nav: '[{"path":"Improve Your Sustainability Skills","position":1,"total":8,"prev":null,"next":"Introduction to ESG- Environmental, Social, and Governance"},{"path":"Career Essentials in Sustainable Tech by Microsoft and LinkedIn","position":1,"total":7,"prev":null,"next":"Sustainability as an Innovation Opportunity"}]'
 path_count: 2
 tags:
   - course
   - topic/software-development
   - skill/environmental-sustainability
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Sustainability Foundations Core Concepts](https://media.licdn.com/dms/image/v2/D560DAQFOIpOclKGO1A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711150083053?e=2147483647&amp;v=beta&amp;t=6Jvt0FoydzRf316ezr9f-lGnHGgHS1pkW9oobHKe90k)

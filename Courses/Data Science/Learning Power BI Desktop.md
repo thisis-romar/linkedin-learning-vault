@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFzT1pUhkbBwg/learning-public-crop_675_1200/B4DZWv8D88GcAk-/0/1742413512788?e=2147483647&amp;v=beta&amp;t=NQu2jqppSbYvZkd7cfUXzHzSnHGhxhR71LU6FK7CyQI"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Power BI Specialist
+  - '[[Become a Power BI Specialist]]'
+prev_courses:
+  - '[[Getting Started With Power Bi]]'
+next_courses:
+  - '[[Power Bi Essential Training]]'
+path_nav: '[{"path":"Become a Power BI Specialist","position":2,"total":5,"prev":"Getting Started With Power Bi","next":"Power Bi Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/data-analytics
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Power BI Desktop](https://media.licdn.com/dms/image/v2/D4D0DAQFzT1pUhkbBwg/learning-public-crop_675_1200/B4DZWv8D88GcAk-/0/1742413512788?e=2147483647&amp;v=beta&amp;t=NQu2jqppSbYvZkd7cfUXzHzSnHGhxhR71LU6FK7CyQI)

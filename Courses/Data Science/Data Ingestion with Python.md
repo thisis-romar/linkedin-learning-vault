@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGS5aDB3_uTbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703116291273?e=2147483647&amp;v=beta&amp;t=4a99Pt2L-0He9uLVObjaIUAfeju8706PW2vHsgwsvAs"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Collection
+  - '[[Introduction to Fundamental Skills for Data Work- Data Collection]]'
+prev_courses:
+  - '[[Strategic Data Collection, Modeling, and Quality Management for AI Systems]]'
+next_courses:
+  - '[[Data Cleaning and Manipulating with Python in Excel]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Collection","position":2,"total":6,"prev":"Strategic Data Collection, Modeling, and Quality Management for AI Systems","next":"Data Cleaning and Manipulating with Python in Excel"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/data-ingestion
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Ingestion with Python](https://media.licdn.com/dms/image/v2/D560DAQGS5aDB3_uTbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703116291273?e=2147483647&amp;v=beta&amp;t=4a99Pt2L-0He9uLVObjaIUAfeju8706PW2vHsgwsvAs)

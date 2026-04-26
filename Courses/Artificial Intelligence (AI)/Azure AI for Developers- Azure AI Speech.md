@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEXlWepR8yU4Q/learning-public-crop_675_1200/B4EZWwZ0VUGwAc-/0/1742421313178?e=2147483647&amp;v=beta&amp;t=y4hFqFwyxO1zugxtYr60RpHtUbj9arqhQ2ulYXGCbCk"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build AI Products Using Azure AI Services in Your Development Lifecycle
+  - '[[Build AI Products Using Azure AI Services in Your Development Lifecycle]]'
+prev_courses:
+  - '[[Azure AI for Developers- Content Safety and Responsible AI]]'
+next_courses:
+  - '[[Azure AI for Developers- Building AI Agents]]'
+path_nav: '[{"path":"Build AI Products Using Azure AI Services in Your Development Lifecycle","position":7,"total":8,"prev":"Azure AI for Developers- Content Safety and Responsible AI","next":"Azure AI for Developers- Building AI Agents"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure AI for Developers: Azure AI Speech](https://media.licdn.com/dms/image/v2/D4E0DAQEXlWepR8yU4Q/learning-public-crop_675_1200/B4EZWwZ0VUGwAc-/0/1742421313178?e=2147483647&amp;v=beta&amp;t=y4hFqFwyxO1zugxtYr60RpHtUbj9arqhQ2ulYXGCbCk)

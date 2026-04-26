@@ -16,9 +16,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHnNlXXSDM8jg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1665594694262?e=2147483647&amp;v=beta&amp;t=bjQ8QTqZEBdo2FF5qW90UZivUthZNSzr9PxN4Nf7Lg4"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Navigating the Cybersecurity Threat Landscape
-  - Cybersecurity Fundamentals
-  - Networking and Administration Fundamentals
+  - '[[Navigating the Cybersecurity Threat Landscape]]'
+  - '[[Cybersecurity Fundamentals]]'
+  - '[[Networking and Administration Fundamentals]]'
+prev_courses:
+  - '[[Learning the OWASP Top 10]]'
+  - '[[IT Security Foundations- Network Security]]'
+  - '[[Server Administration Essential Training]]'
+next_courses:
+  - '[[Supply Chain Cybersecurity- Preventing Supply Chain Attacks]]'
+  - '[[TLS for Beginners- Securing Network Communications]]'
+  - '[[Learning Virtualization]]'
+path_nav: '[{"path":"Navigating the Cybersecurity Threat Landscape","position":4,"total":8,"prev":"Learning the OWASP Top 10","next":"Supply Chain Cybersecurity- Preventing Supply Chain Attacks"},{"path":"Cybersecurity Fundamentals","position":9,"total":12,"prev":"IT Security Foundations- Network Security","next":"TLS for Beginners- Securing Network Communications"},{"path":"Networking and Administration Fundamentals","position":6,"total":10,"prev":"Server Administration Essential Training","next":"Learning Virtualization"}]'
 path_count: 3
 tags:
   - course
@@ -27,7 +36,7 @@ tags:
   - topic/network-and-system-administration
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Identity and Access Management](https://media.licdn.com/dms/image/v2/C560DAQHnNlXXSDM8jg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1665594694262?e=2147483647&amp;v=beta&amp;t=bjQ8QTqZEBdo2FF5qW90UZivUthZNSzr9PxN4Nf7Lg4)

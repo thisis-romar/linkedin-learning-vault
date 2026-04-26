@@ -39,7 +39,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Anaconda Python for Data Science Professional Certificate
@@ -72,3 +72,7 @@ _Paths that share courses with this one:_
 - [[Moving from Data Analyst to Data Scientist]] (2 shared courses)
 - [[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]] (1 shared courses)
 - [[Explore a Career in Data Analysis]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

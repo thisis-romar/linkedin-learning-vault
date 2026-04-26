@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGdgiKpsUcTLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732668205114?e=2147483647&amp;v=beta&amp;t=i_Hm9pIEuGG3bryjFlFDETpTUUovMAj3HuyDxLs5Rhs"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Agentic AI Systems for Developers
+  - '[[Building Agentic AI Systems for Developers]]'
+prev_courses:
+  - '[[Agentic AI for Developers- Concepts and Application for Enterprises]]'
+next_courses:
+  - '[[Building AI Agents with AutoGen]]'
+path_nav: '[{"path":"Building Agentic AI Systems for Developers","position":2,"total":6,"prev":"Agentic AI for Developers- Concepts and Application for Enterprises","next":"Building AI Agents with AutoGen"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Agentic AI: Getting Started with AutoGen Studio](https://media.licdn.com/dms/image/v2/D4D0DAQGdgiKpsUcTLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732668205114?e=2147483647&amp;v=beta&amp;t=i_Hm9pIEuGG3bryjFlFDETpTUUovMAj3HuyDxLs5Rhs)

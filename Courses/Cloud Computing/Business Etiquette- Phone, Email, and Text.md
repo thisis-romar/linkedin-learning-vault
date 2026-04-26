@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEeIR2p0mtCvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701901089763?e=2147483647&amp;v=beta&amp;t=V7SCY3k2U3cCIAu5XFpwNdaW0UpfK1gYsnupUHLgVR0"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Career Essentials in Administrative Assistance by Microsoft and LinkedIn
+  - '[[Career Essentials in Administrative Assistance by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Administrative Professional Foundations]]'
+path_nav: '[{"path":"Career Essentials in Administrative Assistance by Microsoft and LinkedIn","position":7,"total":7,"prev":"Administrative Professional Foundations","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/professional-communication
   - skill/email-etiquette
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Etiquette: Phone, Email, and Text](https://media.licdn.com/dms/image/v2/D4D0DAQEeIR2p0mtCvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701901089763?e=2147483647&amp;v=beta&amp;t=V7SCY3k2U3cCIAu5XFpwNdaW0UpfK1gYsnupUHLgVR0)

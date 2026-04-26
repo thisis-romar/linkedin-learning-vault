@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQH2SBvz5g8pzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697750217555?e=2147483647&amp;v=beta&amp;t=g9YE6XMzM_82uyZcACWBR0Sl2NNNFqj-aIAbqmLIupI"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an Ethical Hacker
+  - '[[Become an Ethical Hacker]]'
+prev_courses:
+  - '[[Ethical Hacking Introduction To Ethical Hacking]]'
+next_courses:
+  - '[[Ethical Hacking- Scanning Networks]]'
+path_nav: '[{"path":"Become an Ethical Hacker","position":2,"total":19,"prev":"Ethical Hacking Introduction To Ethical Hacking","next":"Ethical Hacking- Scanning Networks"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethical Hacking: Footprinting and Reconnaissance](https://media.licdn.com/dms/image/v2/D4E0DAQH2SBvz5g8pzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697750217555?e=2147483647&amp;v=beta&amp;t=g9YE6XMzM_82uyZcACWBR0Sl2NNNFqj-aIAbqmLIupI)

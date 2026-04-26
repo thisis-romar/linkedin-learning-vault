@@ -18,8 +18,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHm5KkexQ4gig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729105321825?e=2147483647&amp;v=beta&amp;t=UZY-E3R3Io2EliR4zKPUHDM5hFD4ekF9YtwWoFPVjyc"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Build a Privacy Program
-  - Advance Your Data Privacy Skills
+  - '[[Build a Privacy Program]]'
+  - '[[Advance Your Data Privacy Skills]]'
+prev_courses:
+  - '[[Creating A Culture Of Privacy]]'
+  - null
+next_courses:
+  - '[[Building a Privacy Program in the Age of GenAI]]'
+  - '[[Privacy in the New World of Work]]'
+path_nav: '[{"path":"Build a Privacy Program","position":2,"total":5,"prev":"Creating A Culture Of Privacy","next":"Building a Privacy Program in the Age of GenAI"},{"path":"Advance Your Data Privacy Skills","position":1,"total":4,"prev":null,"next":"Privacy in the New World of Work"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/data-privacy
   - skill/privacy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Understanding and Prioritizing Data Privacy](https://media.licdn.com/dms/image/v2/D560DAQHm5KkexQ4gig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729105321825?e=2147483647&amp;v=beta&amp;t=UZY-E3R3Io2EliR4zKPUHDM5hFD4ekF9YtwWoFPVjyc)

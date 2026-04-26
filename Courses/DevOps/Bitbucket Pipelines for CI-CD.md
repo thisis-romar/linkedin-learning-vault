@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/bitbucket-for-ci-cd-3806095"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEGSbU6WPTNPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008984232?e=2147483647&amp;v=beta&amp;t=vjos-qKDnw-IDpu_CahtK0LMVrZuKNMpUWv0TK3IOiA"
 linkedin_topic: DevOps
 learning_paths:
-  - Master Bitbucket
+  - '[[Master Bitbucket]]'
+prev_courses:
+  - '[[Learning Bitbucket]]'
+next_courses:
+  - '[[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations]]'
+path_nav: '[{"path":"Master Bitbucket","position":2,"total":3,"prev":"Learning Bitbucket","next":"Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/bitbucket
   - skill/continuous-integration-and-continuous-delivery-ci-cd
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Bitbucket Pipelines for CI/CD](https://media.licdn.com/dms/image/v2/D560DAQEGSbU6WPTNPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008984232?e=2147483647&amp;v=beta&amp;t=vjos-qKDnw-IDpu_CahtK0LMVrZuKNMpUWv0TK3IOiA)

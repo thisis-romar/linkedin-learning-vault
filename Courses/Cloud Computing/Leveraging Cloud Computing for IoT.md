@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGdM23RWl1vNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576086606650?e=2147483647&amp;v=beta&amp;t=f_3ixjiJK8iK424NlOeMDgIcwL8XwYRuabKgOEZ4NsE"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation for Tech Leaders
+  - '[[Digital Transformation for Tech Leaders]]'
+prev_courses:
+  - '[[IoT Foundations- Standards and Ecosystems]]'
+next_courses:
+  - '[[Building and Managing a Cybersecurity Program]]'
+path_nav: '[{"path":"Digital Transformation for Tech Leaders","position":8,"total":15,"prev":"IoT Foundations- Standards and Ecosystems","next":"Building and Managing a Cybersecurity Program"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leveraging Cloud Computing for IoT](https://media.licdn.com/dms/image/v2/C4E0DAQGdM23RWl1vNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576086606650?e=2147483647&amp;v=beta&amp;t=f_3ixjiJK8iK424NlOeMDgIcwL8XwYRuabKgOEZ4NsE)

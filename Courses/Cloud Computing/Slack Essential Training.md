@@ -14,7 +14,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGaSPamiefHXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615578818321?e=2147483647&amp;v=beta&amp;t=BlPgopJALPZcS4D9sSDHkXjhqZ5p0tjou-NUFYynRZ4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Succeed as a Remote Software Developer
+  - '[[Succeed as a Remote Software Developer]]'
+prev_courses:
+  - '[[Learning Git and GitHub]]'
+next_courses:
+  - '[[Microsoft Teams Essential Training]]'
+path_nav: '[{"path":"Succeed as a Remote Software Developer","position":3,"total":6,"prev":"Learning Git and GitHub","next":"Microsoft Teams Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/slack
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Slack Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQGaSPamiefHXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615578818321?e=2147483647&amp;v=beta&amp;t=BlPgopJALPZcS4D9sSDHkXjhqZ5p0tjou-NUFYynRZ4)

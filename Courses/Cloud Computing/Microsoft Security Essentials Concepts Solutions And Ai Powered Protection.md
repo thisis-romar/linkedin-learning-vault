@@ -16,7 +16,8 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGX31PuKYN17g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733343014640?e=2147483647&amp;v=beta&amp;t=gTX8GVRQt6L7GsJ6HhDOt613m5l7KSv-J8XO9cPDio8"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Microsoft Security Essentials Professional Certificate by Microsoft and LinkedIn
+  - '[[Microsoft Security Essentials Professional Certificate by Microsoft and LinkedIn]]'
+path_nav: '[{"path":"Microsoft Security Essentials Professional Certificate by Microsoft and LinkedIn","position":1,"total":1,"prev":null,"next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +27,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/microsoft-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft Security Essentials Concepts Solutions And Ai Powered Protection](https://media.licdn.com/dms/image/v2/D4E0DAQGX31PuKYN17g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733343014640?e=2147483647&amp;v=beta&amp;t=gTX8GVRQt6L7GsJ6HhDOt613m5l7KSv-J8XO9cPDio8)

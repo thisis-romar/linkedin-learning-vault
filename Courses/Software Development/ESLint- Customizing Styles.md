@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/eslint-styles-2255010/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFwVAvDC1FHrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668021352865?e=2147483647&amp;v=beta&amp;t=9OlJwMeG71YYvKadZjYizeZxzOaoIZ-bd2hbODW4xMQ"
 linkedin_topic: Software Development
 learning_paths:
-  - Advance Your JavaScript Skills
+  - '[[Advance Your JavaScript Skills]]'
+prev_courses:
+  - '[[ESLint- Checking for Syntax and Logic Errors]]'
+next_courses:
+  - '[[Foundational JavaScript Security]]'
+path_nav: '[{"path":"Advance Your JavaScript Skills","position":6,"total":10,"prev":"ESLint- Checking for Syntax and Logic Errors","next":"Foundational JavaScript Security"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/eslint
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ESLint: Customizing Styles](https://media.licdn.com/dms/image/v2/C4E0DAQFwVAvDC1FHrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668021352865?e=2147483647&amp;v=beta&amp;t=9OlJwMeG71YYvKadZjYizeZxzOaoIZ-bd2hbODW4xMQ)

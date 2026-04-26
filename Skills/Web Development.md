@@ -6,7 +6,7 @@ course_count: 13
 tags:
   - skill
   - skill/web-development
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Web Development

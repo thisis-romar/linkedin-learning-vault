@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFBMEg-zgdgzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708645009439?e=2147483647&amp;v=beta&amp;t=VofyB7kbTxUhSBsX5vcvxtDjPxbCM5BuY-Iy36SWdG8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your AI Skills with Google Gemini and Google Cloud Platform
+  - '[[Develop Your AI Skills with Google Gemini and Google Cloud Platform]]'
+prev_courses:
+  - '[[Building a Video Transcriber with Node.js and Google AI Speech-To-Text API]]'
+next_courses:
+  - '[[Learning Vertex AI- MLOps with Google Cloud]]'
+path_nav: '[{"path":"Develop Your AI Skills with Google Gemini and Google Cloud Platform","position":6,"total":7,"prev":"Building a Video Transcriber with Node.js and Google AI Speech-To-Text API","next":"Learning Vertex AI- MLOps with Google Cloud"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Google Cloud Platform for Machine Learning Essential Training](https://media.licdn.com/dms/image/v2/D560DAQFBMEg-zgdgzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708645009439?e=2147483647&amp;v=beta&amp;t=VofyB7kbTxUhSBsX5vcvxtDjPxbCM5BuY-Iy36SWdG8)

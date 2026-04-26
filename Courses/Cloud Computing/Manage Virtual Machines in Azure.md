@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHJBAcloDFwGQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689359465292?e=2147483647&amp;v=beta&amp;t=h7r5Tg9LOE2IJyBYS8doBYcUkcXV40H2LJ91DjVjeLU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals
+  - '[[Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals]]'
+prev_courses:
+  - '[[Azure Administration Essential Training]]'
+next_courses:
+  - '[[Microsoft Azure- Security Concepts]]'
+path_nav: '[{"path":"Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals","position":2,"total":8,"prev":"Azure Administration Essential Training","next":"Microsoft Azure- Security Concepts"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/virtual-machines
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Manage Virtual Machines in Azure](https://media.licdn.com/dms/image/v2/D560DAQHJBAcloDFwGQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689359465292?e=2147483647&amp;v=beta&amp;t=h7r5Tg9LOE2IJyBYS8doBYcUkcXV40H2LJ91DjVjeLU)

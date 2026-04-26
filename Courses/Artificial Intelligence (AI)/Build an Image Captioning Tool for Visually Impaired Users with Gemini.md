@@ -20,8 +20,15 @@ github: "https://github.com/LinkedInLearning/build-an-image-captioning-tool-for-
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHvLDVro1C27Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715978287117?e=2147483647&amp;v=beta&amp;t=CBDbKQ4y3RVI9bUIqjBK8D4RrPE71k8YjULhxmfyyPw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build for Digital Accessibility
-  - A Developer's Guide to Google Gemini
+  - '[[Build for Digital Accessibility]]'
+  - '[[A Developer''s Guide to Google Gemini]]'
+prev_courses:
+  - '[[Accessible Layout for the Web]]'
+  - '[[Building with Google Gemini Advanced and Ultra]]'
+next_courses:
+  - '[[Canva- Designing Engaging, Accessible Presentations]]'
+  - null
+path_nav: '[{"path":"Build for Digital Accessibility","position":7,"total":12,"prev":"Accessible Layout for the Web","next":"Canva- Designing Engaging, Accessible Presentations"},{"path":"A Developer''s Guide to Google Gemini","position":8,"total":8,"prev":"Building with Google Gemini Advanced and Ultra","next":null}]'
 path_count: 2
 tags:
   - course
@@ -33,7 +40,7 @@ tags:
   - skill/computer-vision
   - skill/google-gemini
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Build an Image Captioning Tool for Visually Impaired Users with Gemini](https://media.licdn.com/dms/image/v2/D560DAQHvLDVro1C27Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715978287117?e=2147483647&amp;v=beta&amp;t=CBDbKQ4y3RVI9bUIqjBK8D4RrPE71k8YjULhxmfyyPw)

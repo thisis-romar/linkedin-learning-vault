@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/python-challenge-project-3099414/co
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGBiWCh_f2DDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1673648477738?e=2147483647&amp;v=beta&amp;t=mZDgENO0_pzEg2eOYbXeTDyecOo2UVbx8QqtjyPmBC8"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
-  - Getting Started with Python
+  - '[[Python Hands-On Practice]]'
+  - '[[Getting Started with Python]]'
+prev_courses:
+  - '[[Python Projects]]'
+  - '[[8 Things You Must Know in Python]]'
+next_courses:
+  - '[[Build Three Real-World Python Applications]]'
+  - null
+path_nav: '[{"path":"Python Hands-On Practice","position":10,"total":14,"prev":"Python Projects","next":"Build Three Real-World Python Applications"},{"path":"Getting Started with Python","position":8,"total":8,"prev":"8 Things You Must Know in Python","next":null}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/coding-practices
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Practice: Real-World Coding Challenges](https://media.licdn.com/dms/image/v2/C560DAQGBiWCh_f2DDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1673648477738?e=2147483647&amp;v=beta&amp;t=mZDgENO0_pzEg2eOYbXeTDyecOo2UVbx8QqtjyPmBC8)

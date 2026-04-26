@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/azure-ai-for-developers-content-saf
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEFZbe31FbXUA/learning-public-crop_675_1200/B56ZbF5ZwWHgAg-/0/1747076882132?e=2147483647&amp;v=beta&amp;t=qgOzYYJ7ZQyO9W_3U-Ptv7y2OlHQaozW1N9P38OTJIo"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build AI Products Using Azure AI Services in Your Development Lifecycle
+  - '[[Build AI Products Using Azure AI Services in Your Development Lifecycle]]'
+prev_courses:
+  - '[[Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI]]'
+next_courses:
+  - '[[Azure AI for Developers- Azure AI Speech]]'
+path_nav: '[{"path":"Build AI Products Using Azure AI Services in Your Development Lifecycle","position":6,"total":8,"prev":"Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI","next":"Azure AI for Developers- Azure AI Speech"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/large-language-models-llm
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure AI for Developers: Content Safety and Responsible AI](https://media.licdn.com/dms/image/v2/D560DAQEFZbe31FbXUA/learning-public-crop_675_1200/B56ZbF5ZwWHgAg-/0/1747076882132?e=2147483647&amp;v=beta&amp;t=qgOzYYJ7ZQyO9W_3U-Ptv7y2OlHQaozW1N9P38OTJIo)

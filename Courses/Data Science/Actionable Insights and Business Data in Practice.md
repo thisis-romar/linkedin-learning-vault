@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGkbxybAA3GKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686856002542?e=2147483647&amp;v=beta&amp;t=rCNZEoBOlibvKWkoYotOLg8xqeNdUAVQtaUo0E8AJeQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Moving from Data Analyst to Data Scientist
+  - '[[Moving from Data Analyst to Data Scientist]]'
+prev_courses:
+  - '[[Power BI Data Modeling with DAX]]'
+path_nav: '[{"path":"Moving from Data Analyst to Data Scientist","position":11,"total":11,"prev":"Power BI Data Modeling with DAX","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/data-analysis
   - skill/business-data-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Actionable Insights and Business Data in Practice](https://media.licdn.com/dms/image/v2/D560DAQGkbxybAA3GKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686856002542?e=2147483647&amp;v=beta&amp;t=rCNZEoBOlibvKWkoYotOLg8xqeNdUAVQtaUo0E8AJeQ)

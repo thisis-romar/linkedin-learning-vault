@@ -14,7 +14,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFLGH9-sTY3vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663360544743?e=2147483647&amp;v=beta&amp;t=-H4pGudE5RdYcLzCUcnu27NhNd25x8LRIQh5SQnHnVA"
 linkedin_topic: Database Management
 learning_paths:
-  - Develop Your NoSQL Skills
+  - '[[Develop Your NoSQL Skills]]'
+next_courses:
+  - '[[NoSQL Essential Training]]'
+path_nav: '[{"path":"Develop Your NoSQL Skills","position":1,"total":10,"prev":null,"next":"NoSQL Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +25,7 @@ tags:
   - topic/software-development
   - skill/nosql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction To Nosql](https://media.licdn.com/dms/image/v2/C4E0DAQFLGH9-sTY3vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663360544743?e=2147483647&amp;v=beta&amp;t=-H4pGudE5RdYcLzCUcnu27NhNd25x8LRIQh5SQnHnVA)

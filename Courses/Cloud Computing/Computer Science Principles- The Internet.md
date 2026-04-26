@@ -16,9 +16,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQElGJzUhFVsOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118502014?e=2147483647&amp;v=beta&amp;t=cto-tvVIGi0pVizzJ5NxPsCcXpubZPy_A8lWc3rD-no"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Cybersecurity Fundamentals
-  - Networking and Administration Fundamentals
-  - Software Development Fundamentals
+  - '[[Cybersecurity Fundamentals]]'
+  - '[[Networking and Administration Fundamentals]]'
+  - '[[Software Development Fundamentals]]'
+prev_courses:
+  - '[[Computer Science Principles Digital Information]]'
+  - '[[Computer Science Principles Digital Information]]'
+  - '[[Computer Science Principles Digital Information]]'
+next_courses:
+  - '[[IT Security Foundations- Core Concepts]]'
+  - '[[Networking Foundations Networking Basics]]'
+  - '[[Computer Science Principles- Programming]]'
+path_nav: '[{"path":"Cybersecurity Fundamentals","position":2,"total":12,"prev":"Computer Science Principles Digital Information","next":"IT Security Foundations- Core Concepts"},{"path":"Networking and Administration Fundamentals","position":2,"total":10,"prev":"Computer Science Principles Digital Information","next":"Networking Foundations Networking Basics"},{"path":"Software Development Fundamentals","position":2,"total":10,"prev":"Computer Science Principles Digital Information","next":"Computer Science Principles- Programming"}]'
 path_count: 3
 tags:
   - course
@@ -28,7 +37,7 @@ tags:
   - topic/software-development
   - skill/computer-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Computer Science Principles: The Internet](https://media.licdn.com/dms/image/v2/C4E0DAQElGJzUhFVsOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118502014?e=2147483647&amp;v=beta&amp;t=cto-tvVIGi0pVizzJ5NxPsCcXpubZPy_A8lWc3rD-no)

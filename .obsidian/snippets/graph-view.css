@@ -2,49 +2,40 @@
  * Enabled via Appearance → CSS snippets → graph-view. */
 
 .graph-view.color-line {
-  /* Dimmer default edges so arrows + hub connections pop */
   color: rgba(128, 128, 128, 0.35);
 }
 
 .graph-view.color-line-highlight,
 .graph-view.color-line-selection {
-  /* Selected/highlighted edges stay vivid */
   color: rgba(255, 255, 255, 0.95);
 }
 
 .graph-view.color-arrow {
-  /* Arrows on directed edges — slightly brighter than default for legibility */
   color: rgba(200, 200, 200, 0.85);
 }
 
 .graph-view.color-circle,
 .graph-view.color-fill {
-  /* Base node colour when no color-group matches (fallback) */
   color: rgba(180, 180, 180, 0.9);
 }
 
 .graph-view.color-fill-unresolved {
-  /* Unresolved [[broken wikilinks]] — previously nearly invisible; flag them red */
   color: rgba(239, 68, 68, 0.9);
 }
 
 .graph-view.color-fill-tag {
-  /* Tag nodes (if tags are toggled back on in graph filter) — cyan tint */
   color: rgba(14, 165, 233, 0.9);
 }
 
 .graph-view.color-fill-attachment {
-  /* Attachment nodes — amber */
   color: rgba(245, 158, 11, 0.85);
 }
 
 .graph-view.color-text {
-  /* Labels — slightly more opaque for readability at mid zoom */
   color: rgba(255, 255, 255, 0.85);
 }
 
 .graph-view.color-fill-focused,
 .graph-view.color-circle-focused {
-  /* Hovered/focused node — pop with warm accent */
   color: rgba(255, 165, 0, 1);
 }

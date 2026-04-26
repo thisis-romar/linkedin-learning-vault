@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEnCLY1die5zA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689007956856?e=2147483647&amp;v=beta&amp;t=X7LlhPxxNEA48X3-K3en5QWJRuMSvgbkOFNXkXB5aag"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Data Engineering Skills
-  - Data Engineering Foundations Professional Certificate by Astronomer
+  - '[[Advance Your Data Engineering Skills]]'
+  - '[[Data Engineering Foundations Professional Certificate by Astronomer]]'
+prev_courses:
+  - '[[Complete Guide to Data Lakes and Lakehouses]]'
+  - '[[Hands-On Introduction- Data Engineering]]'
+next_courses:
+  - '[[Data Engineering Pipeline Management with Apache Airflow]]'
+  - '[[Introduction to Data Warehouses]]'
+path_nav: '[{"path":"Advance Your Data Engineering Skills","position":6,"total":10,"prev":"Complete Guide to Data Lakes and Lakehouses","next":"Data Engineering Pipeline Management with Apache Airflow"},{"path":"Data Engineering Foundations Professional Certificate by Astronomer","position":4,"total":6,"prev":"Hands-On Introduction- Data Engineering","next":"Introduction to Data Warehouses"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/apache-airflow
   - skill/it-automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Apache Airflow](https://media.licdn.com/dms/image/v2/D560DAQEnCLY1die5zA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689007956856?e=2147483647&amp;v=beta&amp;t=X7LlhPxxNEA48X3-K3en5QWJRuMSvgbkOFNXkXB5aag)

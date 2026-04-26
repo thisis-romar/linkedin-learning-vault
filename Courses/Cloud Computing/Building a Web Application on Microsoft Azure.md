@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/building-a-web-application-on-micro
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH3FlqFYlaSpQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696444981713?e=2147483647&amp;v=beta&amp;t=1FPowhH8nsHjgbZXKG-cKF2H9SuvuqssLlmlAgfrv8M"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Getting Started as an Azure Developer
+  - '[[Getting Started as an Azure Developer]]'
+prev_courses:
+  - '[[Azure Quick Tips for Developers]]'
+next_courses:
+  - '[[Azure Storage Essential Training (2021)]]'
+path_nav: '[{"path":"Getting Started as an Azure Developer","position":4,"total":7,"prev":"Azure Quick Tips for Developers","next":"Azure Storage Essential Training (2021)"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/microsoft-azure
   - skill/web-application-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Web Application on Microsoft Azure](https://media.licdn.com/dms/image/v2/D560DAQH3FlqFYlaSpQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696444981713?e=2147483647&amp;v=beta&amp;t=1FPowhH8nsHjgbZXKG-cKF2H9SuvuqssLlmlAgfrv8M)

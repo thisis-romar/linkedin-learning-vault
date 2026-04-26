@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEV4RkoH9zuHg/learning-public-crop_675_1200/B4DZaN9fm0G8AY-/0/1746138430499?e=2147483647&amp;v=beta&amp;t=3H5Pnjzkj66ZvWkUY_q8YPaWFiBjZ-pjfHpm-5bEDak"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Visualization
+  - '[[Introduction to Fundamental Skills for Data Work- Data Visualization]]'
+prev_courses:
+  - '[[Basics of Data Visualization Analysis]]'
+next_courses:
+  - '[[Data Visualization Storytelling]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Visualization","position":3,"total":7,"prev":"Basics of Data Visualization Analysis","next":"Data Visualization Storytelling"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/data-analytics
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Tableau Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQEV4RkoH9zuHg/learning-public-crop_675_1200/B4DZaN9fm0G8AY-/0/1746138430499?e=2147483647&amp;v=beta&amp;t=3H5Pnjzkj66ZvWkUY_q8YPaWFiBjZ-pjfHpm-5bEDak)

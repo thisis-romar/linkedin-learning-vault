@@ -15,12 +15,27 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF21L_AbXR42Q/learning-public-crop_675_1200/B56ZyIpD.EJ4AY-/0/1771818992111?e=2147483647&amp;v=beta&amp;t=idqTmCAaGZk3DV1zAof6uf0VFFhv_WsRJB41GdnwgLc"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation
-  - Introduction to Fundamental Skills for Data Work- Data Strategy and Planning
-  - Develop Your Data Analysis Skills
-  - Become a Business Intelligence Specialist
-  - Become a Data Analyst
-  - Become a Data Scientist
+  - '[[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]]'
+  - '[[Introduction to Fundamental Skills for Data Work- Data Strategy and Planning]]'
+  - '[[Develop Your Data Analysis Skills]]'
+  - '[[Become a Business Intelligence Specialist]]'
+  - '[[Become a Data Analyst]]'
+  - '[[Become a Data Scientist]]'
+prev_courses:
+  - null
+  - null
+  - null
+  - '[[Power Bi Essential Training]]'
+  - '[[Learning Excel- Data Analysis]]'
+  - '[[Learning Data Governance]]'
+next_courses:
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Decision Intelligence- Data Stories]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Using Tableau to Discover Powerful Business Insights]]'
+  - '[[Learning Data Analytics- 1 Foundations]]'
+  - '[[Lessons from Data Scientists]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation","position":1,"total":9,"prev":null,"next":"Statistics Foundations 1- The Basics"},{"path":"Introduction to Fundamental Skills for Data Work- Data Strategy and Planning","position":1,"total":10,"prev":null,"next":"Decision Intelligence- Data Stories"},{"path":"Develop Your Data Analysis Skills","position":1,"total":10,"prev":null,"next":"Statistics Foundations 1- The Basics"},{"path":"Become a Business Intelligence Specialist","position":5,"total":9,"prev":"Power Bi Essential Training","next":"Using Tableau to Discover Powerful Business Insights"},{"path":"Become a Data Analyst","position":3,"total":12,"prev":"Learning Excel- Data Analysis","next":"Learning Data Analytics- 1 Foundations"},{"path":"Become a Data Scientist","position":10,"total":11,"prev":"Learning Data Governance","next":"Lessons from Data Scientists"}]'
 path_count: 6
 tags:
   - course
@@ -29,7 +44,7 @@ tags:
   - skill/data-analysis
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Literacy Exploring And Describing Data In An Ai World](https://media.licdn.com/dms/image/v2/D560DAQF21L_AbXR42Q/learning-public-crop_675_1200/B56ZyIpD.EJ4AY-/0/1771818992111?e=2147483647&amp;v=beta&amp;t=idqTmCAaGZk3DV1zAof6uf0VFFhv_WsRJB41GdnwgLc)

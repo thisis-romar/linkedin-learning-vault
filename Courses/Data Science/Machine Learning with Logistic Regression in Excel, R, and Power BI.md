@@ -21,7 +21,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF32uee6WTXTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635973062525?e=2147483647&amp;v=beta&amp;t=OfQbNnodDZ0te3kzmywU4sQDH-OGQ3UP1HA2_tdenJ4"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Advanced Excel Data & Analytics Skills
+  - '[[Master Advanced Excel Data & Analytics Skills]]'
+prev_courses:
+  - '[[From Excel to SQL]]'
+next_courses:
+  - '[[Excel- Economic Analysis and Data Analytics]]'
+path_nav: '[{"path":"Master Advanced Excel Data & Analytics Skills","position":6,"total":7,"prev":"From Excel to SQL","next":"Excel- Economic Analysis and Data Analytics"}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +38,7 @@ tags:
   - skill/microsoft-excel
   - skill/logistic-regression
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning with Logistic Regression in Excel, R, and Power BI](https://media.licdn.com/dms/image/v2/C560DAQF32uee6WTXTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635973062525?e=2147483647&amp;v=beta&amp;t=OfQbNnodDZ0te3kzmywU4sQDH-OGQ3UP1HA2_tdenJ4)

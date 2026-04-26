@@ -19,8 +19,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFkUIqywlvPyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727278051479?e=2147483647&amp;v=beta&amp;t=DcicINZOmoY_uZju2jZlcTGj6ZdaUWBIiyVFEc9Fy6w"
 linkedin_topic: Data Science
 learning_paths:
-  - Moving from Data Analyst to Data Scientist
-  - Develop Your Tableau Skills
+  - '[[Moving from Data Analyst to Data Scientist]]'
+  - '[[Develop Your Tableau Skills]]'
+prev_courses:
+  - '[[Statistics Foundations 4- Advanced Topics]]'
+  - '[[Using Tableau to Discover Powerful Business Insights]]'
+next_courses:
+  - '[[Power BI Data Modeling with DAX]]'
+  - '[[Creating Interactive Tableau Dashboards]]'
+path_nav: '[{"path":"Moving from Data Analyst to Data Scientist","position":9,"total":11,"prev":"Statistics Foundations 4- Advanced Topics","next":"Power BI Data Modeling with DAX"},{"path":"Develop Your Tableau Skills","position":2,"total":4,"prev":"Using Tableau to Discover Powerful Business Insights","next":"Creating Interactive Tableau Dashboards"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/data-visualization
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide to Tableau for Data Scientists](https://media.licdn.com/dms/image/v2/D560DAQFkUIqywlvPyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727278051479?e=2147483647&amp;v=beta&amp;t=DcicINZOmoY_uZju2jZlcTGj6ZdaUWBIiyVFEc9Fy6w)

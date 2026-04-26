@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHeo-shvzaqqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580760379764?e=2147483647&amp;v=beta&amp;t=uWAjmlUMhhWMpo7enY9w0C4Y-BWmN5cK5zo4I5CMQow"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore Web Development with Node.js
-  - Explore App Development with the MERN Stack
+  - '[[Explore Web Development with Node.js]]'
+  - '[[Explore App Development with the MERN Stack]]'
+prev_courses:
+  - '[[Building RESTful APIs with Node.js and Express]]'
+  - '[[Node Js Security]]'
+next_courses:
+  - '[[Node- Authentication]]'
+  - '[[MongoDB Essential Training]]'
+path_nav: '[{"path":"Explore Web Development with Node.js","position":9,"total":11,"prev":"Building RESTful APIs with Node.js and Express","next":"Node- Authentication"},{"path":"Explore App Development with the MERN Stack","position":11,"total":13,"prev":"Node Js Security","next":"MongoDB Essential Training"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/rest-apis
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Node.js: Securing RESTful APIs](https://media.licdn.com/dms/image/v2/C4E0DAQHeo-shvzaqqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580760379764?e=2147483647&amp;v=beta&amp;t=uWAjmlUMhhWMpo7enY9w0C4Y-BWmN5cK5zo4I5CMQow)

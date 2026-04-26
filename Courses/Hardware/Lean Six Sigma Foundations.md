@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQGnhWIx2tgcbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568247813946?e=2147483647&amp;v=beta&amp;t=2zQzF0viEfeZvAKCl7X9x_6e_msO4riy_eclajviJXY"
 linkedin_topic: Hardware
 learning_paths:
-  - CSCMP Supply Chain Foundations- Manufacturing and Service Operations Professional Certificate
+  - '[[CSCMP Supply Chain Foundations- Manufacturing and Service Operations Professional Certificate]]'
+prev_courses:
+  - '[[Process Improvement Foundations]]'
+next_courses:
+  - '[[Learning Industrial Automation]]'
+path_nav: '[{"path":"CSCMP Supply Chain Foundations- Manufacturing and Service Operations Professional Certificate","position":2,"total":4,"prev":"Process Improvement Foundations","next":"Learning Industrial Automation"}]'
 path_count: 1
 tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Lean Six Sigma Foundations](https://media.licdn.com/dms/image/v2/C4D0DAQGnhWIx2tgcbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568247813946?e=2147483647&amp;v=beta&amp;t=2zQzF0viEfeZvAKCl7X9x_6e_msO4riy_eclajviJXY)

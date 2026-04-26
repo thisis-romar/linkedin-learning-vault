@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEstYqHCE2X1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632340359788?e=2147483647&amp;v=beta&amp;t=Ahpn_sTuxSjKMIULt0OFtNq9ykVf0h8FDD7sTiWUCY4"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
+  - '[[Python Hands-On Practice]]'
+prev_courses:
+  - '[[Create an Open-Source Project in Python]]'
+next_courses:
+  - '[[Python Practice- Real-World Coding Challenges]]'
+path_nav: '[{"path":"Python Hands-On Practice","position":9,"total":14,"prev":"Create an Open-Source Project in Python","next":"Python Practice- Real-World Coding Challenges"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/software-projects
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Projects](https://media.licdn.com/dms/image/v2/C560DAQEstYqHCE2X1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632340359788?e=2147483647&amp;v=beta&amp;t=Ahpn_sTuxSjKMIULt0OFtNq9ykVf0h8FDD7sTiWUCY4)

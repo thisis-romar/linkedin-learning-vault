@@ -14,14 +14,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF2tFnHsWBbiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1610746897809?e=2147483647&amp;v=beta&amp;t=Wm9f5vThmJQa6bFbkl9T-w-QUH72Pbiq9YwNurJ-9jY"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills as a Supply Chain Manager
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+prev_courses:
+  - '[[Business Acumen for Project Managers]]'
+next_courses:
+  - '[[Leading Remote Projects and Virtual Teams]]'
+path_nav: '[{"path":"Advance Your Skills as a Supply Chain Manager","position":3,"total":15,"prev":"Business Acumen for Project Managers","next":"Leading Remote Projects and Virtual Teams"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/international-project-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Project Management: International Projects](https://media.licdn.com/dms/image/v2/C4E0DAQF2tFnHsWBbiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1610746897809?e=2147483647&amp;v=beta&amp;t=Wm9f5vThmJQa6bFbkl9T-w-QUH72Pbiq9YwNurJ-9jY)

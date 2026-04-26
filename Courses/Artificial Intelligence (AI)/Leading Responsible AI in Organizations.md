@@ -10,14 +10,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGAzr3RwcnrGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707874444981?e=2147483647&amp;v=beta&amp;t=agRc5pFjykSE7ocbU9dilngVoh13lhasaJ5C1BuonpA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI for Organizational Leaders by Microsoft and LinkedIn
-  - Technical Literacy and Future Readiness for Senior Executives
+  - '[[AI for Organizational Leaders by Microsoft and LinkedIn]]'
+  - '[[Technical Literacy and Future Readiness for Senior Executives]]'
+prev_courses:
+  - '[[AI Literacy for Business Leaders]]'
+  - '[[Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy]]'
+next_courses:
+  - null
+  - '[[Investing in Human Skills in the Age of AI]]'
+path_nav: '[{"path":"AI for Organizational Leaders by Microsoft and LinkedIn","position":6,"total":6,"prev":"AI Literacy for Business Leaders","next":null},{"path":"Technical Literacy and Future Readiness for Senior Executives","position":5,"total":6,"prev":"Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy","next":"Investing in Human Skills in the Age of AI"}]'
 path_count: 2
 tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leading Responsible AI in Organizations](https://media.licdn.com/dms/image/v2/D4D0DAQGAzr3RwcnrGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707874444981?e=2147483647&amp;v=beta&amp;t=agRc5pFjykSE7ocbU9dilngVoh13lhasaJ5C1BuonpA)

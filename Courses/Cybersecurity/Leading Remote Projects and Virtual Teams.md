@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFtydF3cKvlYA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1594864413586?e=2147483647&amp;v=beta&amp;t=Ytjx8iyn40feaDzST-1bFRvz9AQud0QrTc8VX_O5vbo"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills as a Supply Chain Manager
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+prev_courses:
+  - '[[Project Management- International Projects]]'
+next_courses:
+  - '[[Project Management Foundations- Integration]]'
+path_nav: '[{"path":"Advance Your Skills as a Supply Chain Manager","position":4,"total":15,"prev":"Project Management- International Projects","next":"Project Management Foundations- Integration"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/virtual-teams
   - skill/team-leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leading Remote Projects and Virtual Teams](https://media.licdn.com/dms/image/v2/C4D0DAQFtydF3cKvlYA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1594864413586?e=2147483647&amp;v=beta&amp;t=Ytjx8iyn40feaDzST-1bFRvz9AQud0QrTc8VX_O5vbo)

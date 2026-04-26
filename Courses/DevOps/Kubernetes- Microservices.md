@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/kubernetes-microservices-3808182"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHj6_u-_V4BiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713982644820?e=2147483647&amp;v=beta&amp;t=4tVKvKmN56MPSSinLxs3qOmRD6SQg_WE2UI4Jmx-BwU"
 linkedin_topic: DevOps
 learning_paths:
-  - Getting Started with Kubernetes
+  - '[[Getting Started with Kubernetes]]'
+prev_courses:
+  - '[[Kubernetes- Essential Tools]]'
+next_courses:
+  - '[[Kubernetes- Cloud Native Ecosystem]]'
+path_nav: '[{"path":"Getting Started with Kubernetes","position":4,"total":6,"prev":"Kubernetes- Essential Tools","next":"Kubernetes- Cloud Native Ecosystem"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/microservices
   - skill/kubernetes
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Kubernetes: Microservices](https://media.licdn.com/dms/image/v2/D560DAQHj6_u-_V4BiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713982644820?e=2147483647&amp;v=beta&amp;t=4tVKvKmN56MPSSinLxs3qOmRD6SQg_WE2UI4Jmx-BwU)

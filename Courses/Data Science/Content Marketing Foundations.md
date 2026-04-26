@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHehYSk7nXSbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579212205888?e=2147483647&amp;v=beta&amp;t=89n5ZD9JrdT7cOmPiB_SFgfiELLNR-1gGgwDQiQYtBw"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance as a Digital Marketing Specialist
+  - '[[Advance as a Digital Marketing Specialist]]'
+prev_courses:
+  - '[[Social Media Marketing Foundations]]'
+next_courses:
+  - '[[Email and Newsletter Marketing Foundations]]'
+path_nav: '[{"path":"Advance as a Digital Marketing Specialist","position":5,"total":9,"prev":"Social Media Marketing Foundations","next":"Email and Newsletter Marketing Foundations"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/content-marketing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Content Marketing Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQHehYSk7nXSbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579212205888?e=2147483647&amp;v=beta&amp;t=89n5ZD9JrdT7cOmPiB_SFgfiELLNR-1gGgwDQiQYtBw)

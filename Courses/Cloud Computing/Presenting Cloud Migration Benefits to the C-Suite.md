@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFulTzf8hVmsQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637086823057?e=2147483647&amp;v=beta&amp;t=WtmRHNqSNnLDoocGt7exj4SL0TPFWV2uMmtxyxZb3Ms"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Design and Present Your Cloud Strategy
+  - '[[Design and Present Your Cloud Strategy]]'
+prev_courses:
+  - '[[Framing Cloud Discussions for the C-Suite]]'
+next_courses:
+  - '[[Planning and Implementing a Rapid Cloud Migration (RCM)]]'
+path_nav: '[{"path":"Design and Present Your Cloud Strategy","position":5,"total":6,"prev":"Framing Cloud Discussions for the C-Suite","next":"Planning and Implementing a Rapid Cloud Migration (RCM)"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Presenting Cloud Migration Benefits to the C-Suite](https://media.licdn.com/dms/image/v2/C560DAQFulTzf8hVmsQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637086823057?e=2147483647&amp;v=beta&amp;t=WtmRHNqSNnLDoocGt7exj4SL0TPFWV2uMmtxyxZb3Ms)

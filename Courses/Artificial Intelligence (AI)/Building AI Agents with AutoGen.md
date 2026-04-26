@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEaGkD0drYEfw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734115533562?e=2147483647&amp;v=beta&amp;t=j4Qna4rUwAkVN5mXU2KPJx8D7pnDubEPcz6-7uva8gs"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Agentic AI Systems for Developers
+  - '[[Building Agentic AI Systems for Developers]]'
+prev_courses:
+  - '[[Introduction to Agentic AI- Getting Started with AutoGen Studio]]'
+next_courses:
+  - '[[Hands-On Agentic AI- Building AI Agents with LlamaIndex]]'
+path_nav: '[{"path":"Building Agentic AI Systems for Developers","position":3,"total":6,"prev":"Introduction to Agentic AI- Getting Started with AutoGen Studio","next":"Hands-On Agentic AI- Building AI Agents with LlamaIndex"}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building AI Agents with AutoGen](https://media.licdn.com/dms/image/v2/D4D0DAQEaGkD0drYEfw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734115533562?e=2147483647&amp;v=beta&amp;t=j4Qna4rUwAkVN5mXU2KPJx8D7pnDubEPcz6-7uva8gs)

@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE8Fx7C7IrsAQ/learning-public-crop_675_1200/B4DZsyfJ.TGwAY-/0/1766078587630?e=2147483647&amp;v=beta&amp;t=qcm9MzSvDrT9CM1_LFefCHveS7nNusqY9G7nr_A8sSM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Responsible AI Foundations Professional Certificate by All Tech Is Human
+  - '[[Responsible AI Foundations Professional Certificate by All Tech Is Human]]'
+prev_courses:
+  - '[[Governing Agentic Ai Systems By All Tech Is Human]]'
+next_courses:
+  - '[[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]]'
+path_nav: '[{"path":"Responsible AI Foundations Professional Certificate by All Tech Is Human","position":2,"total":4,"prev":"Governing Agentic Ai Systems By All Tech Is Human","next":"Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![History of Responsible AI: From Principles to Professionalization by All Tech Is Human](https://media.licdn.com/dms/image/v2/D4D0DAQE8Fx7C7IrsAQ/learning-public-crop_675_1200/B4DZsyfJ.TGwAY-/0/1766078587630?e=2147483647&amp;v=beta&amp;t=qcm9MzSvDrT9CM1_LFefCHveS7nNusqY9G7nr_A8sSM)

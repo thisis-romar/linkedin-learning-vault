@@ -19,7 +19,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHuhXQ3CLrSUg/learning-public-crop_675_1200/B4EZjiT7_mHgAc-/0/1756143534415?e=2147483647&amp;v=beta&amp;t=G0J2d-SPcvf1rz0vMpjoe5niteNUr9Xkfbm7PnHsgGs"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your Skills with Large Language Models
+  - '[[Develop Your Skills with Large Language Models]]'
+prev_courses:
+  - '[[AI Text Summarization with Hugging Face]]'
+path_nav: '[{"path":"Develop Your Skills with Large Language Models","position":9,"total":9,"prev":"AI Text Summarization with Hugging Face","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/hugging-face-products
   - skill/applied-machine-learning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Applied AI: Building NLP Apps with Hugging Face Transformers](https://media.licdn.com/dms/image/v2/D4E0DAQHuhXQ3CLrSUg/learning-public-crop_675_1200/B4EZjiT7_mHgAc-/0/1756143534415?e=2147483647&amp;v=beta&amp;t=G0J2d-SPcvf1rz0vMpjoe5niteNUr9Xkfbm7PnHsgGs)

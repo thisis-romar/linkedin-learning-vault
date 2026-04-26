@@ -10,16 +10,25 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF0HJtyRnPmSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709675887057?e=2147483647&amp;v=beta&amp;t=7IrqI8iG8co_6syAtmQMWevsrCuaFqaQkNaRIJoOBo4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build Your Generative AI Productivity Skills with Microsoft and LinkedIn
-  - Microsoft Copilot for Productivity by Microsoft and LinkedIn
-  - Generative AI for Sales with Microsoft 365 Copilot Professional Certificate
+  - '[[Build Your Generative AI Productivity Skills with Microsoft and LinkedIn]]'
+  - '[[Microsoft Copilot for Productivity by Microsoft and LinkedIn]]'
+  - '[[Generative AI for Sales with Microsoft 365 Copilot Professional Certificate]]'
+prev_courses:
+  - '[[Copilot in PowerPoint- From Prompt to Presentation]]'
+  - '[[Copilot in Word- Create and Refine Documents with AI]]'
+  - '[[Learning Microsoft 365 Copilot for Work (2024)]]'
+next_courses:
+  - null
+  - '[[Copilot in PowerPoint- From Prompt to Presentation]]'
+  - '[[Copilot in PowerPoint- From Prompt to Presentation (2024)]]'
+path_nav: '[{"path":"Build Your Generative AI Productivity Skills with Microsoft and LinkedIn","position":5,"total":5,"prev":"Copilot in PowerPoint- From Prompt to Presentation","next":null},{"path":"Microsoft Copilot for Productivity by Microsoft and LinkedIn","position":6,"total":7,"prev":"Copilot in Word- Create and Refine Documents with AI","next":"Copilot in PowerPoint- From Prompt to Presentation"},{"path":"Generative AI for Sales with Microsoft 365 Copilot Professional Certificate","position":4,"total":6,"prev":"Learning Microsoft 365 Copilot for Work (2024)","next":"Copilot in PowerPoint- From Prompt to Presentation (2024)"}]'
 path_count: 3
 tags:
   - course
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel with Copilot: AI-Driven Data Analysis](https://media.licdn.com/dms/image/v2/D560DAQF0HJtyRnPmSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709675887057?e=2147483647&amp;v=beta&amp;t=7IrqI8iG8co_6syAtmQMWevsrCuaFqaQkNaRIJoOBo4)

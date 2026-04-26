@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEGdgfUjZurzQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619542985489?e=2147483647&amp;v=beta&amp;t=J20O6QP05AVALZy1hIZ8MyUQ7Q09dlyBiSJutU3OqAo"
 linkedin_topic: Data Science
 learning_paths:
-  - Get Ahead in Business Analytics and Analysis
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+prev_courses:
+  - '[[Predictive Analytics Essential Training- Estimating and Ensuring ROI]]'
+next_courses:
+  - '[[Business Analytics- Forecasting with Seasonal Baseline Smoothing]]'
+path_nav: '[{"path":"Get Ahead in Business Analytics and Analysis","position":14,"total":19,"prev":"Predictive Analytics Essential Training- Estimating and Ensuring ROI","next":"Business Analytics- Forecasting with Seasonal Baseline Smoothing"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/business-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analytics: Forecasting with Exponential Smoothing](https://media.licdn.com/dms/image/v2/C4E0DAQEGdgfUjZurzQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619542985489?e=2147483647&amp;v=beta&amp;t=J20O6QP05AVALZy1hIZ8MyUQ7Q09dlyBiSJutU3OqAo)

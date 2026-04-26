@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHmIRNYr7q8xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679431052151?e=2147483647&amp;v=beta&amp;t=9vklnqfYskH5uxT7tHkHswfntap1QZ2Wa4PBjJQBgZk"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Build an Enterprise Cloud Architecture
+  - '[[Build an Enterprise Cloud Architecture]]'
+prev_courses:
+  - '[[Cloud Security Architecture for the Enterprise]]'
+path_nav: '[{"path":"Build an Enterprise Cloud Architecture","position":4,"total":4,"prev":"Cloud Security Architecture for the Enterprise","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/technical-documentation
   - skill/diagramming
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Cloud Architecture Diagram](https://media.licdn.com/dms/image/v2/C4E0DAQHmIRNYr7q8xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679431052151?e=2147483647&amp;v=beta&amp;t=9vklnqfYskH5uxT7tHkHswfntap1QZ2Wa4PBjJQBgZk)

@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEw5TdMKD-QKg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712262281510?e=2147483647&amp;v=beta&amp;t=1XXdSjlEWR4b1IiGcayuPEMqk61A_jTm1eW7kQvjg5g"
 linkedin_topic: DevOps
 learning_paths:
-  - The Top Skills IT Professionals Have Right Now
+  - '[[The Top Skills IT Professionals Have Right Now]]'
+prev_courses:
+  - '[[Python Essential Training]]'
+next_courses:
+  - '[[Microsoft 365 for Administrators- Supporting Users]]'
+path_nav: '[{"path":"The Top Skills IT Professionals Have Right Now","position":8,"total":10,"prev":"Python Essential Training","next":"Microsoft 365 for Administrators- Supporting Users"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/cloud-native-architecture
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AWS Essential Training for Architects](https://media.licdn.com/dms/image/v2/D560DAQEw5TdMKD-QKg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712262281510?e=2147483647&amp;v=beta&amp;t=1XXdSjlEWR4b1IiGcayuPEMqk61A_jTm1eW7kQvjg5g)

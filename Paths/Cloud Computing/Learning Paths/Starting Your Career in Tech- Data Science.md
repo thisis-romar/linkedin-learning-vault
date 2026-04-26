@@ -55,7 +55,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Starting Your Career in Tech: Data Science
@@ -93,3 +93,7 @@ _Paths that share courses with this one:_
 - [[Explore a Career in Data Analysis]] (1 shared courses)
 - [[Getting Started as a Business Analyst]] (1 shared courses)
 - [[Become a Business Intelligence Specialist]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

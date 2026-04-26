@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFpm7wKg0o82A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616002667822?e=2147483647&amp;v=beta&amp;t=Y78LSSeYuss2iTCX9qmYO_l8k2zox5gK9sSStSKOG4U"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Network Administration- Build Core Skills for Network Management and Security
+  - '[[Network Administration- Build Core Skills for Network Management and Security]]'
+prev_courses:
+  - '[[Networking Foundations- Wide Area Networks (WANs)]]'
+next_courses:
+  - '[[IT Security Foundations- Network Security]]'
+path_nav: '[{"path":"Network Administration- Build Core Skills for Network Management and Security","position":5,"total":6,"prev":"Networking Foundations- Wide Area Networks (WANs)","next":"IT Security Foundations- Network Security"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/network-troubleshooting
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Network Troubleshooting: Practical Network Diagnostics and Solutions](https://media.licdn.com/dms/image/v2/C4E0DAQFpm7wKg0o82A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616002667822?e=2147483647&amp;v=beta&amp;t=Y78LSSeYuss2iTCX9qmYO_l8k2zox5gK9sSStSKOG4U)

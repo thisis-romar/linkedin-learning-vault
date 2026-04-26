@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF4qOwzwd8iMg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663692236119?e=2147483647&amp;v=beta&amp;t=Ea-1GHa2PKaMUJtYik7ExpZi2SxxBgYwtU4713TSJIk"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your AWS Development Skills- Exploring Complex Application Development
+  - '[[Advance Your AWS Development Skills- Exploring Complex Application Development]]'
+prev_courses:
+  - '[[AWS for Developers- CLI Tips]]'
+next_courses:
+  - '[[Building Serverless Apps with AI Services on AWS]]'
+path_nav: '[{"path":"Advance Your AWS Development Skills- Exploring Complex Application Development","position":4,"total":6,"prev":"AWS for Developers- CLI Tips","next":"Building Serverless Apps with AI Services on AWS"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/software-development
   - skill/aws-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AWS Security Best Practices for Developers](https://media.licdn.com/dms/image/v2/C4E0DAQF4qOwzwd8iMg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663692236119?e=2147483647&amp;v=beta&amp;t=Ea-1GHa2PKaMUJtYik7ExpZi2SxxBgYwtU4713TSJIk)

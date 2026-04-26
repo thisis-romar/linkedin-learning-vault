@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGD665B0rXo0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718725456568?e=2147483647&amp;v=beta&amp;t=iDMNvfiEgR9UK4qdFIvOM81Il_aaOBkvw4fp48iSLvo"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Dashboards and Data Viz in Power BI
+  - '[[Master Dashboards and Data Viz in Power BI]]'
+next_courses:
+  - '[[Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques]]'
+path_nav: '[{"path":"Master Dashboards and Data Viz in Power BI","position":1,"total":6,"prev":null,"next":"Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/dashboards
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Power Bi Dashboards For Beginners](https://media.licdn.com/dms/image/v2/D560DAQGD665B0rXo0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718725456568?e=2147483647&amp;v=beta&amp;t=iDMNvfiEgR9UK4qdFIvOM81Il_aaOBkvw4fp48iSLvo)

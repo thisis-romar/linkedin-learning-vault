@@ -9,7 +9,7 @@ linkedin_topics:
 tags:
   - instructor
   - topic/security
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # David Oates

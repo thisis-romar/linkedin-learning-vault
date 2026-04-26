@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/openai-api-vision-4562029"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG0Mu6DAHu0uw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706311523814?e=2147483647&amp;v=beta&amp;t=RbGohYp2_VGkD8tBlx28uUOhPvnykmDj2ymyB1jTitw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your Skills with the OpenAI API
+  - '[[Develop Your Skills with the OpenAI API]]'
+prev_courses:
+  - '[[OpenAI API- Image Generation with DALL-E]]'
+next_courses:
+  - '[[OpenAI API- Speech]]'
+path_nav: '[{"path":"Develop Your Skills with the OpenAI API","position":7,"total":10,"prev":"OpenAI API- Image Generation with DALL-E","next":"OpenAI API- Speech"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/computer-vision
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![OpenAI API: Vision](https://media.licdn.com/dms/image/v2/D560DAQG0Mu6DAHu0uw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706311523814?e=2147483647&amp;v=beta&amp;t=RbGohYp2_VGkD8tBlx28uUOhPvnykmDj2ymyB1jTitw)

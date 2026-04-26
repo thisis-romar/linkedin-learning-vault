@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQE3BMUZBYYfJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644966154242?e=2147483647&amp;v=beta&amp;t=npGnvgcw3abA8ToRQTR0sh7dWphxbhkZ4sUP7tFiuh0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills as a Machine Learning Specialist
-  - Learning Codeless Machine Learning with KNIME
+  - '[[Advance Your Skills as a Machine Learning Specialist]]'
+  - '[[Learning Codeless Machine Learning with KNIME]]'
+prev_courses:
+  - '[[Machine Learning with Python- Logistic Regression]]'
+  - '[[Data Science Foundations- Data Assessment for Predictive Modeling]]'
+next_courses:
+  - '[[Machine Learning and AI Foundations- Decision Trees with KNIME]]'
+  - '[[Machine Learning and AI Foundations- Advanced Decision Trees with KNIME]]'
+path_nav: '[{"path":"Advance Your Skills as a Machine Learning Specialist","position":5,"total":9,"prev":"Machine Learning with Python- Logistic Regression","next":"Machine Learning and AI Foundations- Decision Trees with KNIME"},{"path":"Learning Codeless Machine Learning with KNIME","position":4,"total":5,"prev":"Data Science Foundations- Data Assessment for Predictive Modeling","next":"Machine Learning and AI Foundations- Advanced Decision Trees with KNIME"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning and AI Foundations: Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions](https://media.licdn.com/dms/image/v2/C560DAQE3BMUZBYYfJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644966154242?e=2147483647&amp;v=beta&amp;t=npGnvgcw3abA8ToRQTR0sh7dWphxbhkZ4sUP7tFiuh0)

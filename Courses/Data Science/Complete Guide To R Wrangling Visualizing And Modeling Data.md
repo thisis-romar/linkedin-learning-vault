@@ -17,9 +17,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF4IlE2N3NLNw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710373799323?e=2147483647&amp;v=beta&amp;t=PAyVn9yMRMLTGBzgMFRtjohB8JvsUJYp2WnwrlSoyTE"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started with R for Data Science
-  - Become a Data Analyst
-  - Advance Your Skills in R
+  - '[[Getting Started with R for Data Science]]'
+  - '[[Become a Data Analyst]]'
+  - '[[Advance Your Skills in R]]'
+prev_courses:
+  - null
+  - '[[SQL- Data Reporting and Analysis]]'
+  - null
+next_courses:
+  - '[[Data Wrangling in R]]'
+  - '[[Data Cleaning in Python Essential Training]]'
+  - '[[Complete Your First Project in R]]'
+path_nav: '[{"path":"Getting Started with R for Data Science","position":1,"total":4,"prev":null,"next":"Data Wrangling in R"},{"path":"Become a Data Analyst","position":11,"total":12,"prev":"SQL- Data Reporting and Analysis","next":"Data Cleaning in Python Essential Training"},{"path":"Advance Your Skills in R","position":1,"total":8,"prev":null,"next":"Complete Your First Project in R"}]'
 path_count: 3
 tags:
   - course
@@ -30,7 +39,7 @@ tags:
   - skill/data-modeling
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide To R Wrangling Visualizing And Modeling Data](https://media.licdn.com/dms/image/v2/D560DAQF4IlE2N3NLNw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710373799323?e=2147483647&amp;v=beta&amp;t=PAyVn9yMRMLTGBzgMFRtjohB8JvsUJYp2WnwrlSoyTE)

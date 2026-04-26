@@ -8,20 +8,39 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHOrK1DQuBmOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729721861447?e=2147483647&amp;v=beta&amp;t=FpBaOe-Rr8H0Y3vPliPCMy1vEp16ogtbje6gqsd3IV0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI Boot Camp for Small and Medium-Sized Businesses (SMBs)
-  - Understanding AI for Creative Professionals
-  - Build AI Aptitude as a New Manager
-  - Build AI Aptitude as a Middle Manager
-  - AI Essentials for Business Analysis
-  - Generative AI for Marketing Professional Certificate by the American Marketing Association
-  - Career Essentials in Generative AI by Microsoft and LinkedIn
-  - AI Essentials for Sales Professionals
+  - '[[AI Boot Camp for Small and Medium-Sized Businesses (SMBs)]]'
+  - '[[Understanding AI for Creative Professionals]]'
+  - '[[Build AI Aptitude as a New Manager]]'
+  - '[[Build AI Aptitude as a Middle Manager]]'
+  - '[[AI Essentials for Business Analysis]]'
+  - '[[Generative AI for Marketing Professional Certificate by the American Marketing Association]]'
+  - '[[Career Essentials in Generative AI by Microsoft and LinkedIn]]'
+  - '[[AI Essentials for Sales Professionals]]'
+prev_courses:
+  - null
+  - null
+  - '[[Leading With A Digital Mindset In The Age Of Ai]]'
+  - '[[Leading With A Digital Mindset In The Age Of Ai]]'
+  - null
+  - null
+  - '[[Ethics in the Age of Generative AI]]'
+  - null
+next_courses:
+  - '[[Everyday AI Business Tools]]'
+  - '[[What Is Generative AI-]]'
+  - '[[Responsible AI- Principles and Practical Applications]]'
+  - '[[Generative AI for Business Leaders]]'
+  - '[[Learning AI for Business Analysis]]'
+  - '[[Introduction To Prompt Engineering For Generative Ai]]'
+  - null
+  - '[[Better Relationships and More Sales- Using ChatGPT to Sell]]'
+path_nav: '[{"path":"AI Boot Camp for Small and Medium-Sized Businesses (SMBs)","position":1,"total":6,"prev":null,"next":"Everyday AI Business Tools"},{"path":"Understanding AI for Creative Professionals","position":1,"total":7,"prev":null,"next":"What Is Generative AI-"},{"path":"Build AI Aptitude as a New Manager","position":2,"total":4,"prev":"Leading With A Digital Mindset In The Age Of Ai","next":"Responsible AI- Principles and Practical Applications"},{"path":"Build AI Aptitude as a Middle Manager","position":2,"total":5,"prev":"Leading With A Digital Mindset In The Age Of Ai","next":"Generative AI for Business Leaders"},{"path":"AI Essentials for Business Analysis","position":1,"total":5,"prev":null,"next":"Learning AI for Business Analysis"},{"path":"Generative AI for Marketing Professional Certificate by the American Marketing Association","position":1,"total":6,"prev":null,"next":"Introduction To Prompt Engineering For Generative Ai"},{"path":"Career Essentials in Generative AI by Microsoft and LinkedIn","position":5,"total":5,"prev":"Ethics in the Age of Generative AI","next":null},{"path":"AI Essentials for Sales Professionals","position":1,"total":5,"prev":null,"next":"Better Relationships and More Sales- Using ChatGPT to Sell"}]'
 path_count: 8
 tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Everyday Ai Concepts](https://media.licdn.com/dms/image/v2/D560DAQHOrK1DQuBmOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729721861447?e=2147483647&amp;v=beta&amp;t=FpBaOe-Rr8H0Y3vPliPCMy1vEp16ogtbje6gqsd3IV0)

@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGppR-5xOfs1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616615611487?e=2147483647&amp;v=beta&amp;t=J1MJf3v_FV49f2mKjYb6TZ95wpYDR6AkRQIVy32lRYk"
 linkedin_topic: Data Science
 learning_paths:
-  - Finance for Managers Professional Certificate by LinkedIn Learning
+  - '[[Finance for Managers Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Finance For Non Financial Managers]]'
+next_courses:
+  - '[[Running a Profitable Business- Understanding Financial Ratios]]'
+path_nav: '[{"path":"Finance for Managers Professional Certificate by LinkedIn Learning","position":2,"total":5,"prev":"Finance For Non Financial Managers","next":"Running a Profitable Business- Understanding Financial Ratios"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/financial-statements
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Reading Corporate Financial Statements](https://media.licdn.com/dms/image/v2/C4E0DAQGppR-5xOfs1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616615611487?e=2147483647&amp;v=beta&amp;t=J1MJf3v_FV49f2mKjYb6TZ95wpYDR6AkRQIVy32lRYk)

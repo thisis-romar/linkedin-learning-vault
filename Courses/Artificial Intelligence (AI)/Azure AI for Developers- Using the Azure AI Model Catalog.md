@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/azure-ai-for-developers-using-the-a
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHtG0urzUqfMQ/learning-public-crop_675_1200/B4EZaIpPiPHIAc-/0/1746049235387?e=2147483647&amp;v=beta&amp;t=VtBKmlshNIEQSmla1meb_TddrUTMdek1P4TZfj6EaWI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build AI Products Using Azure AI Services in Your Development Lifecycle
+  - '[[Build AI Products Using Azure AI Services in Your Development Lifecycle]]'
+prev_courses:
+  - '[[Azure AI for Developers- LLMs and SLMs]]'
+next_courses:
+  - '[[Azure AI for Developers- OpenAI Services and Generative AI Models]]'
+path_nav: '[{"path":"Build AI Products Using Azure AI Services in Your Development Lifecycle","position":3,"total":8,"prev":"Azure AI for Developers- LLMs and SLMs","next":"Azure AI for Developers- OpenAI Services and Generative AI Models"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/software-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure AI for Developers: Using the Azure AI Model Catalog](https://media.licdn.com/dms/image/v2/D4E0DAQHtG0urzUqfMQ/learning-public-crop_675_1200/B4EZaIpPiPHIAc-/0/1746049235387?e=2147483647&amp;v=beta&amp;t=VtBKmlshNIEQSmla1meb_TddrUTMdek1P4TZfj6EaWI)

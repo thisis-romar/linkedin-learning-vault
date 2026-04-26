@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG5FnJhzlXLyw/learning-public-crop_675_1200/B56ZiAaIhGHMAk-/0/1754500991365?e=2147483647&amp;v=beta&amp;t=Mj_hHrnQ1IAHYeXCTXVjvjXbfPr1_zdIfxM3bf9rI3k"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Leverage AI as a Cybersecurity Analyst
+  - '[[Leverage AI as a Cybersecurity Analyst]]'
+prev_courses:
+  - '[[The AI-Driven Cybersecurity Analyst]]'
+next_courses:
+  - '[[AI Product Security- Incident Response]]'
+path_nav: '[{"path":"Leverage AI as a Cybersecurity Analyst","position":3,"total":7,"prev":"The AI-Driven Cybersecurity Analyst","next":"AI Product Security- Incident Response"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The OWASP Top 10 for Large Language Model (LLM) Applications: An Overview](https://media.licdn.com/dms/image/v2/D560DAQG5FnJhzlXLyw/learning-public-crop_675_1200/B56ZiAaIhGHMAk-/0/1754500991365?e=2147483647&amp;v=beta&amp;t=Mj_hHrnQ1IAHYeXCTXVjvjXbfPr1_zdIfxM3bf9rI3k)

@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFJbkeDZ7SFsQ/learning-public-crop_675_1200/B4EZoYEE94J0AY-/0/1761340314316?e=2147483647&amp;v=beta&amp;t=n6xZbdij6Uw6pzM0-oagh74Ahfsm2t2Qc954OfXtfyg"
 linkedin_topic: DevOps
 learning_paths:
-  - Mastering Jira for Software Developers
+  - '[[Mastering Jira for Software Developers]]'
+prev_courses:
+  - '[[Learning Jira Cloud Edition]]'
+next_courses:
+  - '[[Planning and Releasing Software with Jira]]'
+path_nav: '[{"path":"Mastering Jira for Software Developers","position":2,"total":4,"prev":"Learning Jira Cloud Edition","next":"Planning and Releasing Software with Jira"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/jira
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Jira: Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development](https://media.licdn.com/dms/image/v2/D4E0DAQFJbkeDZ7SFsQ/learning-public-crop_675_1200/B4EZoYEE94J0AY-/0/1761340314316?e=2147483647&amp;v=beta&amp;t=n6xZbdij6Uw6pzM0-oagh74Ahfsm2t2Qc954OfXtfyg)

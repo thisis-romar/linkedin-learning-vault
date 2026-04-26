@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGr1JVqAreS-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669233744?e=2147483647&amp;v=beta&amp;t=tHfCTkSGT5n2qopnyT_lvKcQhtLFpjGhMGdHdZFFRqQ"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Cisco Network Security- Safeguarding Network Integrity and Data
+  - '[[Cisco Network Security- Safeguarding Network Integrity and Data]]'
+prev_courses:
+  - '[[Cisco Network Security- Intrusion Detection and Prevention]]'
+path_nav: '[{"path":"Cisco Network Security- Safeguarding Network Integrity and Data","position":7,"total":7,"prev":"Cisco Network Security- Intrusion Detection and Prevention","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/endpoint-security
   - skill/cisco-networking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cisco Network Security: Content and Endpoint Security](https://media.licdn.com/dms/image/v2/C4E0DAQGr1JVqAreS-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669233744?e=2147483647&amp;v=beta&amp;t=tHfCTkSGT5n2qopnyT_lvKcQhtLFpjGhMGdHdZFFRqQ)

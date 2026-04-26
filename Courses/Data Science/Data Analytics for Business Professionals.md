@@ -17,11 +17,24 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGDjytYY4DQrw/learning-public-crop_675_1200/B4EZVsoYu0HUAY-/0/1741284282778?e=2147483647&amp;v=beta&amp;t=pwrhuLaYahIBKutaBUeSrK9LcrPlmiV4V1o960kMm0A"
 linkedin_topic: Data Science
 learning_paths:
-  - Masterpath in Analytics Leadership for Executives
-  - Become a Business Intelligence Specialist
-  - Career Essentials in Data Analysis by Microsoft and LinkedIn
-  - Advance Your Skills as a Supply Chain Manager
-  - Advance Your Business Analytics Skills
+  - '[[Masterpath in Analytics Leadership for Executives]]'
+  - '[[Become a Business Intelligence Specialist]]'
+  - '[[Career Essentials in Data Analysis by Microsoft and LinkedIn]]'
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+  - '[[Advance Your Business Analytics Skills]]'
+prev_courses:
+  - '[[Data-Driven Decision-Making for Business Professionals]]'
+  - '[[The Non Technical Skills Of Effective Data Scientists]]'
+  - '[[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]]'
+  - '[[Six Sigma Foundations]]'
+  - null
+next_courses:
+  - '[[Executive Guide to Deploying, Monitoring, and Maintaining Models]]'
+  - '[[Excel- Economic Analysis and Data Analytics]]'
+  - '[[Data Visualization for Data Analysts and Analytics]]'
+  - '[[Measuring Business Performance]]'
+  - '[[Predictive Analytics Essential Training For Executives]]'
+path_nav: '[{"path":"Masterpath in Analytics Leadership for Executives","position":7,"total":8,"prev":"Data-Driven Decision-Making for Business Professionals","next":"Executive Guide to Deploying, Monitoring, and Maintaining Models"},{"path":"Become a Business Intelligence Specialist","position":2,"total":9,"prev":"The Non Technical Skills Of Effective Data Scientists","next":"Excel- Economic Analysis and Data Analytics"},{"path":"Career Essentials in Data Analysis by Microsoft and LinkedIn","position":4,"total":5,"prev":"Learning Data Analytics Part 2- Extending and Applying Core Knowledge","next":"Data Visualization for Data Analysts and Analytics"},{"path":"Advance Your Skills as a Supply Chain Manager","position":9,"total":15,"prev":"Six Sigma Foundations","next":"Measuring Business Performance"},{"path":"Advance Your Business Analytics Skills","position":1,"total":11,"prev":null,"next":"Predictive Analytics Essential Training For Executives"}]'
 path_count: 5
 tags:
   - course
@@ -31,7 +44,7 @@ tags:
   - skill/business-analytics
   - skill/data-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Analytics for Business Professionals](https://media.licdn.com/dms/image/v2/D4E0DAQGDjytYY4DQrw/learning-public-crop_675_1200/B4EZVsoYu0HUAY-/0/1741284282778?e=2147483647&amp;v=beta&amp;t=pwrhuLaYahIBKutaBUeSrK9LcrPlmiV4V1o960kMm0A)

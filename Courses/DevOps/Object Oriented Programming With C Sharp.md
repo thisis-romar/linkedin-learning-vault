@@ -16,7 +16,10 @@ github: "https://github.com/LinkedInLearning/object-oriented-programming-with-c-
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQGKWU3GX_YEGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670017170734?e=2147483647&amp;v=beta&amp;t=b8FGcliiH_m3b1RKNbS_mTA7QoOETpP4ws0LWmlyyNs"
 linkedin_topic: DevOps
 learning_paths:
-  - Elevating C- Skills- Building Robust Applications
+  - '[[Elevating C- Skills- Building Robust Applications]]'
+next_courses:
+  - '[[C- Delegates, Events, and Lambdas]]'
+path_nav: '[{"path":"Elevating C- Skills- Building Robust Applications","position":1,"total":8,"prev":null,"next":"C- Delegates, Events, and Lambdas"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/object-oriented-programming-oop
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Object Oriented Programming With C Sharp](https://media.licdn.com/dms/image/v2/C4D0DAQGKWU3GX_YEGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670017170734?e=2147483647&amp;v=beta&amp;t=b8FGcliiH_m3b1RKNbS_mTA7QoOETpP4ws0LWmlyyNs)

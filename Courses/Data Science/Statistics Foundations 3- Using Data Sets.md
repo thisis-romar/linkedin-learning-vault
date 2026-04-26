@@ -10,18 +10,31 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQG3E0vJnJDuKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657749321399?e=2147483647&amp;v=beta&amp;t=Xreq-QPZ4IX_HQs-8Z0aAdk9Wgo5Hn0sIlj38NbBE9I"
 linkedin_topic: Data Science
 learning_paths:
-  - Statistics Foundations Professional Certificate by Wolfram Research
-  - Advance Your Skills in Predictive Analytics
-  - Build Your Analytical Skills with Statistical Analysis
-  - Moving from Data Analyst to Data Scientist
-  - Anaconda Python for Data Science Professional Certificate
+  - '[[Statistics Foundations Professional Certificate by Wolfram Research]]'
+  - '[[Advance Your Skills in Predictive Analytics]]'
+  - '[[Build Your Analytical Skills with Statistical Analysis]]'
+  - '[[Moving from Data Analyst to Data Scientist]]'
+  - '[[Anaconda Python for Data Science Professional Certificate]]'
+prev_courses:
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Predictive Analytics Essential Training- Estimating and Ensuring ROI]]'
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+next_courses:
+  - '[[Statistics Foundations 4- Advanced Topics]]'
+  - null
+  - '[[Statistics Foundations 4- Advanced Topics]]'
+  - '[[Statistics Foundations 4- Advanced Topics]]'
+  - '[[Learning Python (2021)]]'
+path_nav: '[{"path":"Statistics Foundations Professional Certificate by Wolfram Research","position":3,"total":7,"prev":"Statistics Foundations 2- Probability","next":"Statistics Foundations 4- Advanced Topics"},{"path":"Advance Your Skills in Predictive Analytics","position":8,"total":8,"prev":"Predictive Analytics Essential Training- Estimating and Ensuring ROI","next":null},{"path":"Build Your Analytical Skills with Statistical Analysis","position":3,"total":4,"prev":"Statistics Foundations 2- Probability","next":"Statistics Foundations 4- Advanced Topics"},{"path":"Moving from Data Analyst to Data Scientist","position":7,"total":11,"prev":"Statistics Foundations 2- Probability","next":"Statistics Foundations 4- Advanced Topics"},{"path":"Anaconda Python for Data Science Professional Certificate","position":3,"total":5,"prev":"Statistics Foundations 1- The Basics","next":"Learning Python (2021)"}]'
 path_count: 5
 tags:
   - course
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Statistics Foundations 3: Using Data Sets](https://media.licdn.com/dms/image/v2/C4D0DAQG3E0vJnJDuKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657749321399?e=2147483647&amp;v=beta&amp;t=Xreq-QPZ4IX_HQs-8Z0aAdk9Wgo5Hn0sIlj38NbBE9I)

@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQH7WzdT8xZtLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602860356984?e=2147483647&amp;v=beta&amp;t=nq9HIO7d69cXYHqEFwISzC0eSvcZDnHx6taNLhDK0YA"
 linkedin_topic: Hardware
 learning_paths:
-  - Become a PLC Developer
+  - '[[Become a PLC Developer]]'
+prev_courses:
+  - '[[PLC Sequencer Logic]]'
+next_courses:
+  - '[[PLC Simulation Software- Factory I-O with Connected Component Workbench]]'
+path_nav: '[{"path":"Become a PLC Developer","position":6,"total":7,"prev":"PLC Sequencer Logic","next":"PLC Simulation Software- Factory I-O with Connected Component Workbench"}]'
 path_count: 1
 tags:
   - course
   - topic/hardware
   - skill/plc-ladder-logic
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![PLC Program Flow and Control Instructions](https://media.licdn.com/dms/image/v2/C4E0DAQH7WzdT8xZtLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602860356984?e=2147483647&amp;v=beta&amp;t=nq9HIO7d69cXYHqEFwISzC0eSvcZDnHx6taNLhDK0YA)

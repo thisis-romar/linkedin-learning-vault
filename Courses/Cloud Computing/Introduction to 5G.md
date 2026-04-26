@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEUwT2MSLSZJQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568057978003?e=2147483647&amp;v=beta&amp;t=1htPiGuDm8TRSCH6JHuA-LLp6hLjJa6DRMm2PjPR8lQ"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation for Tech Leaders
+  - '[[Digital Transformation for Tech Leaders]]'
+prev_courses:
+  - '[[Blockchain- Beyond the Basics]]'
+next_courses:
+  - '[[Assessing Digital Maturity]]'
+path_nav: '[{"path":"Digital Transformation for Tech Leaders","position":13,"total":15,"prev":"Blockchain- Beyond the Basics","next":"Assessing Digital Maturity"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/5g
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to 5G](https://media.licdn.com/dms/image/v2/C4E0DAQEUwT2MSLSZJQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568057978003?e=2147483647&amp;v=beta&amp;t=1htPiGuDm8TRSCH6JHuA-LLp6hLjJa6DRMm2PjPR8lQ)

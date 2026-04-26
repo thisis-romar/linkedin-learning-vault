@@ -10,15 +10,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFhRSWoiaaqLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651076841233?e=2147483647&amp;v=beta&amp;t=ak7CeNBtS2PMTyNCOYd3o28Egi0fXKu7vW5xBEpq3nI"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an IT Security Specialist
-  - Cybersecurity Fundamentals
+  - '[[Become an IT Security Specialist]]'
+  - '[[Cybersecurity Fundamentals]]'
+prev_courses:
+  - '[[Cybersecurity Foundations]]'
+  - '[[Security Frameworks Fundamentals]]'
+next_courses:
+  - '[[IT Security Foundations- Network Security]]'
+  - '[[IT Security Foundations- Network Security]]'
+path_nav: '[{"path":"Become an IT Security Specialist","position":3,"total":12,"prev":"Cybersecurity Foundations","next":"IT Security Foundations- Network Security"},{"path":"Cybersecurity Fundamentals","position":7,"total":12,"prev":"Security Frameworks Fundamentals","next":"IT Security Foundations- Network Security"}]'
 path_count: 2
 tags:
   - course
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![IT Security Foundations: Operating System Security](https://media.licdn.com/dms/image/v2/C560DAQFhRSWoiaaqLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651076841233?e=2147483647&amp;v=beta&amp;t=ak7CeNBtS2PMTyNCOYd3o28Egi0fXKu7vW5xBEpq3nI)

@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGoTikWTxS_Bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700079884252?e=2147483647&amp;v=beta&amp;t=4wrmgcQZU0s_M9p7g8K_o8XNreNxHDAp6t5eJngjLZI"
 linkedin_topic: Data Science
 learning_paths:
-  - CFI Financial Analysis and Modeling Professional Certificate
+  - '[[CFI Financial Analysis and Modeling Professional Certificate]]'
+prev_courses:
+  - '[[Getting Started with Python for Finance]]'
+next_courses:
+  - '[[Excel and PowerPoint- Creating High-Impact Financial Presentations]]'
+path_nav: '[{"path":"CFI Financial Analysis and Modeling Professional Certificate","position":6,"total":7,"prev":"Getting Started with Python for Finance","next":"Excel and PowerPoint- Creating High-Impact Financial Presentations"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/financial-analysis
   - skill/financial-forecasting
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using Data in Financial Analysis](https://media.licdn.com/dms/image/v2/D560DAQGoTikWTxS_Bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700079884252?e=2147483647&amp;v=beta&amp;t=4wrmgcQZU0s_M9p7g8K_o8XNreNxHDAp6t5eJngjLZI)

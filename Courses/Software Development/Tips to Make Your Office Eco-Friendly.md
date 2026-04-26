@@ -15,7 +15,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH0Yy4gOl3p1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685052444936?e=2147483647&amp;v=beta&amp;t=lmhU-4w952THtB6ZpQiW_9tDG6xdg8ZnhH4t3gD_fmE"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your Sustainability Skills
+  - '[[Improve Your Sustainability Skills]]'
+prev_courses:
+  - '[[Employee Engagement- Making Sustainability Part of Everybody’s Job]]'
+next_courses:
+  - '[[Digital Sustainability- How to Reduce Your Digital Footprint]]'
+path_nav: '[{"path":"Improve Your Sustainability Skills","position":6,"total":8,"prev":"Employee Engagement- Making Sustainability Part of Everybody’s Job","next":"Digital Sustainability- How to Reduce Your Digital Footprint"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/sustainable-business
   - skill/workplace-transformation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Tips to Make Your Office Eco-Friendly](https://media.licdn.com/dms/image/v2/D560DAQH0Yy4gOl3p1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685052444936?e=2147483647&amp;v=beta&amp;t=lmhU-4w952THtB6ZpQiW_9tDG6xdg8ZnhH4t3gD_fmE)

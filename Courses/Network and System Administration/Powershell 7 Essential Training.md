@@ -14,14 +14,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEEzQM_uSV9WA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608062286712?e=2147483647&amp;v=beta&amp;t=2nqMZgS7GaFxNW-EkbJ-jg6yt21_KLoZLa-9JoN7vRM"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Powershell- Automate IT Tasks and Microsoft 365 Administration
+  - '[[Powershell- Automate IT Tasks and Microsoft 365 Administration]]'
+next_courses:
+  - '[[PowerShell- Automating IT Administration]]'
+path_nav: '[{"path":"Powershell- Automate IT Tasks and Microsoft 365 Administration","position":1,"total":3,"prev":null,"next":"PowerShell- Automating IT Administration"}]'
 path_count: 1
 tags:
   - course
   - topic/network-and-system-administration
   - skill/powershell
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Powershell 7 Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQEEzQM_uSV9WA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608062286712?e=2147483647&amp;v=beta&amp;t=2nqMZgS7GaFxNW-EkbJ-jg6yt21_KLoZLa-9JoN7vRM)

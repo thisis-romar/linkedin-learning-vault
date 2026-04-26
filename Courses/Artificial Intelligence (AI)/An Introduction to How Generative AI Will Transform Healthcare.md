@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEVAN76mOQ6lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708990552481?e=2147483647&amp;v=beta&amp;t=mexXi2BrYlzUWBqyFOvQ5TiTBkdezJv_HXMK5dVgAfE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI for Healthcare- Essentials for Technical Roles
-  - Python for Data Professionals in Healthcare
+  - '[[AI for Healthcare- Essentials for Technical Roles]]'
+  - '[[Python for Data Professionals in Healthcare]]'
+prev_courses:
+  - '[[Ai Applications In Healthcare A Conversation With Dr Matthew Lungren]]'
+  - '[[Hands-on Data Science and AI for Healthcare]]'
+next_courses:
+  - '[[Machine Learning Fundamentals for Healthcare]]'
+  - '[[Machine Learning Fundamentals for Healthcare]]'
+path_nav: '[{"path":"AI for Healthcare- Essentials for Technical Roles","position":2,"total":6,"prev":"Ai Applications In Healthcare A Conversation With Dr Matthew Lungren","next":"Machine Learning Fundamentals for Healthcare"},{"path":"Python for Data Professionals in Healthcare","position":4,"total":5,"prev":"Hands-on Data Science and AI for Healthcare","next":"Machine Learning Fundamentals for Healthcare"}]'
 path_count: 2
 tags:
   - course
@@ -21,7 +28,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![An Introduction to How Generative AI Will Transform Healthcare](https://media.licdn.com/dms/image/v2/D560DAQEVAN76mOQ6lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708990552481?e=2147483647&amp;v=beta&amp;t=mexXi2BrYlzUWBqyFOvQ5TiTBkdezJv_HXMK5dVgAfE)

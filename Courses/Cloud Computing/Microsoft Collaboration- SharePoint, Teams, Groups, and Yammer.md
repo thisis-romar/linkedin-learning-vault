@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQHpZ5YYOwNb7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667931400491?e=2147483647&amp;v=beta&amp;t=KlI87gVgcB2BUnrv4Zz3q-doyv7cHhUw5Ycs4yOz5MA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation in Practice- Virtual Collaboration Tools
+  - '[[Digital Transformation in Practice- Virtual Collaboration Tools]]'
+prev_courses:
+  - '[[Microsoft Teams Essential Training]]'
+next_courses:
+  - '[[Excel Online (Microsoft 365)- Work Smarter with Copilot]]'
+path_nav: '[{"path":"Digital Transformation in Practice- Virtual Collaboration Tools","position":3,"total":9,"prev":"Microsoft Teams Essential Training","next":"Excel Online (Microsoft 365)- Work Smarter with Copilot"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/virtual-collaboration
   - skill/microsoft-products
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft Collaboration: SharePoint, Teams, Groups, and Yammer](https://media.licdn.com/dms/image/v2/C4D0DAQHpZ5YYOwNb7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667931400491?e=2147483647&amp;v=beta&amp;t=KlI87gVgcB2BUnrv4Zz3q-doyv7cHhUw5Ycs4yOz5MA)

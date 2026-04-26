@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFDTZSsBSyl0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621904980802?e=2147483647&amp;v=beta&amp;t=5S8auhDiZk2nec7bTbndcuXBp77PDAxrXCaN-n7V3ps"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance as a Tech Leader
+  - '[[Advance as a Tech Leader]]'
+prev_courses:
+  - '[[Inclusive Tech- The Case for Inclusive Leadership]]'
+path_nav: '[{"path":"Advance as a Tech Leader","position":8,"total":8,"prev":"Inclusive Tech- The Case for Inclusive Leadership","next":null}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +33,7 @@ tags:
   - skill/diversity-and-inclusion
   - skill/technology-leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Inclusive Tech: Leadership and Management](https://media.licdn.com/dms/image/v2/C4E0DAQFDTZSsBSyl0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621904980802?e=2147483647&amp;v=beta&amp;t=5S8auhDiZk2nec7bTbndcuXBp77PDAxrXCaN-n7V3ps)

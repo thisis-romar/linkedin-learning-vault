@@ -14,8 +14,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE5c_GBqVVYtQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709077523412?e=2147483647&amp;v=beta&amp;t=oySZ55Awl-tpuGMc9MmTcYVtsW52836ggVv59NACB7I"
 linkedin_topic: Software Development
 learning_paths:
-  - Microservices Foundations Professional Certificate by Kong
-  - Getting Started with Microservices
+  - '[[Microservices Foundations Professional Certificate by Kong]]'
+  - '[[Getting Started with Microservices]]'
+next_courses:
+  - '[[Microservices- Design Patterns]]'
+  - '[[Microservices- Design Patterns]]'
+path_nav: '[{"path":"Microservices Foundations Professional Certificate by Kong","position":1,"total":3,"prev":null,"next":"Microservices- Design Patterns"},{"path":"Getting Started with Microservices","position":1,"total":3,"prev":null,"next":"Microservices- Design Patterns"}]'
 path_count: 2
 tags:
   - course
@@ -23,7 +27,7 @@ tags:
   - topic/security
   - skill/microservices
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microservices Foundations](https://media.licdn.com/dms/image/v2/D560DAQE5c_GBqVVYtQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709077523412?e=2147483647&amp;v=beta&amp;t=oySZ55Awl-tpuGMc9MmTcYVtsW52836ggVv59NACB7I)

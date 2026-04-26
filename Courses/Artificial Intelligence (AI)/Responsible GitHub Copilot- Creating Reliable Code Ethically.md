@@ -17,9 +17,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGgFgJMm98eKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736186054165?e=2147483647&amp;v=beta&amp;t=t2HKxA8B6gKwi9B1Kbjui5umAr0tD6Wgb4UCRglBYzc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Transform Your Programming with AI Coding Tools
-  - Career Essentials in GitHub Copilot Professional Certificate
-  - Master GitHub Copilot
+  - '[[Transform Your Programming with AI Coding Tools]]'
+  - '[[Career Essentials in GitHub Copilot Professional Certificate]]'
+  - '[[Master GitHub Copilot]]'
+prev_courses:
+  - '[[Software Testing Assistance with GitHub Copilot AI]]'
+  - '[[Refactoring with GitHub Copilot]]'
+  - '[[Delivering and Analyzing a Software Pilot- GitHub Copilot]]'
+next_courses:
+  - '[[Delivering and Analyzing a Software Pilot- GitHub Copilot]]'
+  - null
+  - '[[Creating a Book Search Engine from Scratch Using Java and GitHub Copilot]]'
+path_nav: '[{"path":"Transform Your Programming with AI Coding Tools","position":6,"total":7,"prev":"Software Testing Assistance with GitHub Copilot AI","next":"Delivering and Analyzing a Software Pilot- GitHub Copilot"},{"path":"Career Essentials in GitHub Copilot Professional Certificate","position":4,"total":4,"prev":"Refactoring with GitHub Copilot","next":null},{"path":"Master GitHub Copilot","position":5,"total":8,"prev":"Delivering and Analyzing a Software Pilot- GitHub Copilot","next":"Creating a Book Search Engine from Scratch Using Java and GitHub Copilot"}]'
 path_count: 3
 tags:
   - course
@@ -28,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Responsible GitHub Copilot: Creating Reliable Code Ethically](https://media.licdn.com/dms/image/v2/D4D0DAQGgFgJMm98eKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736186054165?e=2147483647&amp;v=beta&amp;t=t2HKxA8B6gKwi9B1Kbjui5umAr0tD6Wgb4UCRglBYzc)

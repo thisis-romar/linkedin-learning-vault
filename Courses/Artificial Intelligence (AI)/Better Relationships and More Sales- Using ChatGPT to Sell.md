@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGk_mVunucFHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712352202431?e=2147483647&amp;v=beta&amp;t=O2HOiFLjuRzmWemMWNWP0NRwJz9K62Dc_Uv6Cj5w73E"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI Essentials for Sales Professionals
+  - '[[AI Essentials for Sales Professionals]]'
+prev_courses:
+  - '[[Everyday Ai Concepts]]'
+next_courses:
+  - '[[The AI-Driven Sales Professional- Streamline Systems and Exceed Targets]]'
+path_nav: '[{"path":"AI Essentials for Sales Professionals","position":2,"total":5,"prev":"Everyday Ai Concepts","next":"The AI-Driven Sales Professional- Streamline Systems and Exceed Targets"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Better Relationships and More Sales: Using ChatGPT to Sell](https://media.licdn.com/dms/image/v2/D560DAQGk_mVunucFHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712352202431?e=2147483647&amp;v=beta&amp;t=O2HOiFLjuRzmWemMWNWP0NRwJz9K62Dc_Uv6Cj5w73E)

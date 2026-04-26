@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/automating-sql-server-with-dbatools
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHn4vbx24fVZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667411820482?e=2147483647&amp;v=beta&amp;t=fHoMzdEPmd78Pgo-xUqfUpXIj_FO_3D791togoyLgBo"
 linkedin_topic: Database Management
 learning_paths:
-  - Advance Your MS SQL Server Skills
+  - '[[Advance Your MS SQL Server Skills]]'
+prev_courses:
+  - '[[Querying Microsoft SQL Server 2022]]'
+next_courses:
+  - '[[Implementing a Data Warehouse with SQL Server 2022]]'
+path_nav: '[{"path":"Advance Your MS SQL Server Skills","position":4,"total":9,"prev":"Querying Microsoft SQL Server 2022","next":"Implementing a Data Warehouse with SQL Server 2022"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/microsoft-sql-server
   - skill/server-automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Automating SQL Server with dbatools](https://media.licdn.com/dms/image/v2/D560DAQHn4vbx24fVZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667411820482?e=2147483647&amp;v=beta&amp;t=fHoMzdEPmd78Pgo-xUqfUpXIj_FO_3D791togoyLgBo)

@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFxxlGVXhyRcw/learning-public-crop_675_1200/B4EZXd1Yk7H0AY-/0/1743183514630?e=2147483647&amp;v=beta&amp;t=sxrWgVuwhP6Q-gfWrWFKwXQ2OwbyFW7rsWzLhxwfPxc"
 linkedin_topic: Data Science
 learning_paths:
-  - AI Essentials for User Experience Designers
+  - '[[AI Essentials for User Experience Designers]]'
+next_courses:
+  - '[[Using AI Tools for UX Design]]'
+path_nav: '[{"path":"AI Essentials for User Experience Designers","position":1,"total":5,"prev":null,"next":"Using AI Tools for UX Design"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The Ai Driven Product Designer](https://media.licdn.com/dms/image/v2/D4E0DAQFxxlGVXhyRcw/learning-public-crop_675_1200/B4EZXd1Yk7H0AY-/0/1743183514630?e=2147483647&amp;v=beta&amp;t=sxrWgVuwhP6Q-gfWrWFKwXQ2OwbyFW7rsWzLhxwfPxc)

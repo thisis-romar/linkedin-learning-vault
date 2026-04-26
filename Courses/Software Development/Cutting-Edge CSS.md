@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/cutting-edge-css-2894333"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFYWtT8RGNRSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639417840343?e=2147483647&amp;v=beta&amp;t=Y-op1Zcu2Pu-xY3WKsdipwiBGQLFRMEdQzlgQZzC87I"
 linkedin_topic: Software Development
 learning_paths:
-  - The Top Skills Engineering Professionals Have Right Now
+  - '[[The Top Skills Engineering Professionals Have Right Now]]'
+prev_courses:
+  - '[[Git from Scratch]]'
+next_courses:
+  - '[[SOLIDWORKS 2024 Essential Training]]'
+path_nav: '[{"path":"The Top Skills Engineering Professionals Have Right Now","position":6,"total":9,"prev":"Git from Scratch","next":"SOLIDWORKS 2024 Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/responsive-web-design
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cutting-Edge CSS](https://media.licdn.com/dms/image/v2/C4E0DAQFYWtT8RGNRSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639417840343?e=2147483647&amp;v=beta&amp;t=Y-op1Zcu2Pu-xY3WKsdipwiBGQLFRMEdQzlgQZzC87I)

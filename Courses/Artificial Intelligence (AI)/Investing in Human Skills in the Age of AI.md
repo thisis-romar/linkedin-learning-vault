@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEU0BlxjPItig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725035639557?e=2147483647&amp;v=beta&amp;t=_vY2cuUfvrZXEGDoK8oSPk7c90Rox3czTNNFzD6PtRI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Technical Literacy and Future Readiness for Senior Executives
+  - '[[Technical Literacy and Future Readiness for Senior Executives]]'
+prev_courses:
+  - '[[Leading Responsible AI in Organizations]]'
+path_nav: '[{"path":"Technical Literacy and Future Readiness for Senior Executives","position":6,"total":6,"prev":"Leading Responsible AI in Organizations","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/emotional-intelligence
   - skill/critical-thinking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Investing in Human Skills in the Age of AI](https://media.licdn.com/dms/image/v2/D560DAQEU0BlxjPItig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725035639557?e=2147483647&amp;v=beta&amp;t=_vY2cuUfvrZXEGDoK8oSPk7c90Rox3czTNNFzD6PtRI)

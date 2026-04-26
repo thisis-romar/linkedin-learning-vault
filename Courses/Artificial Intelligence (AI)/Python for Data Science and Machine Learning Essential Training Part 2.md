@@ -20,9 +20,18 @@ github: "https://github.com/LinkedInLearning/python-for-data-science-and-machine
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFegskomg_xPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721845430135?e=2147483647&amp;v=beta&amp;t=4emRXKD9iouCsMXP41dfztrC3sqyi39kt53-98xG26M"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Become an AI Engineer
-  - Introduction to Fundamental Skills for Data Work- Data Processing
-  - Advance Your Python Skills for Data Science
+  - '[[Become an AI Engineer]]'
+  - '[[Introduction to Fundamental Skills for Data Work- Data Processing]]'
+  - '[[Advance Your Python Skills for Data Science]]'
+prev_courses:
+  - '[[Python For Data Science And Machine Learning Essential Training Part]]'
+  - '[[Python For Data Science And Machine Learning Essential Training Part]]'
+  - null
+next_courses:
+  - '[[Generative AI- Introduction to Large Language Models]]'
+  - '[[Data Cleaning in Python Essential Training]]'
+  - '[[Python For Data Science And Machine Learning Essential Training Part]]'
+path_nav: '[{"path":"Become an AI Engineer","position":2,"total":10,"prev":"Python For Data Science And Machine Learning Essential Training Part","next":"Generative AI- Introduction to Large Language Models"},{"path":"Introduction to Fundamental Skills for Data Work- Data Processing","position":3,"total":7,"prev":"Python For Data Science And Machine Learning Essential Training Part","next":"Data Cleaning in Python Essential Training"},{"path":"Advance Your Python Skills for Data Science","position":1,"total":6,"prev":null,"next":"Python For Data Science And Machine Learning Essential Training Part"}]'
 path_count: 3
 tags:
   - course
@@ -34,7 +43,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python for Data Science and Machine Learning Essential Training Part 2](https://media.licdn.com/dms/image/v2/D560DAQFegskomg_xPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721845430135?e=2147483647&amp;v=beta&amp;t=4emRXKD9iouCsMXP41dfztrC3sqyi39kt53-98xG26M)

@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFh_Mmm1UhdYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669417291?e=2147483647&amp;v=beta&amp;t=5NrTyIfAsHI2HQ4DnGvDzuzuoQLEBkwvy8q9n1aQFJk"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Master Digital Transformation
-  - Become an RPA Developer
+  - '[[Master Digital Transformation]]'
+  - '[[Become an RPA Developer]]'
+prev_courses:
+  - null
+  - '[[Process Mining for Robotic Process Automation]]'
+next_courses:
+  - '[[Digital Transformation for Leaders in the AI Era]]'
+  - null
+path_nav: '[{"path":"Master Digital Transformation","position":1,"total":13,"prev":null,"next":"Digital Transformation for Leaders in the AI Era"},{"path":"Become an RPA Developer","position":3,"total":3,"prev":"Process Mining for Robotic Process Automation","next":null}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/digital-transformation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Rpa Ai And Cognitive Tech For Leaders](https://media.licdn.com/dms/image/v2/C4E0DAQFh_Mmm1UhdYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669417291?e=2147483647&amp;v=beta&amp;t=5NrTyIfAsHI2HQ4DnGvDzuzuoQLEBkwvy8q9n1aQFJk)

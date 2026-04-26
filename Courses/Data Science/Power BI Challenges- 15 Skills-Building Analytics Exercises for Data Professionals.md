@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG9Xu7sFCpuhA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700508691866?e=2147483647&amp;v=beta&amp;t=0t7UlYk2jrANq5TYuaHRwn1RiS17l0jUdpnEPJhV9SQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Dashboards and Data Viz in Power BI
-  - Master Microsoft Power BI
+  - '[[Master Dashboards and Data Viz in Power BI]]'
+  - '[[Master Microsoft Power BI]]'
+prev_courses:
+  - '[[Advanced Power BI Custom Visuals with d3.js]]'
+  - '[[Power BI- Integrating AI]]'
+next_courses:
+  - '[[Power BI- Working Together with ChatGPT]]'
+  - null
+path_nav: '[{"path":"Master Dashboards and Data Viz in Power BI","position":5,"total":6,"prev":"Advanced Power BI Custom Visuals with d3.js","next":"Power BI- Working Together with ChatGPT"},{"path":"Master Microsoft Power BI","position":6,"total":6,"prev":"Power BI- Integrating AI","next":null}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/microsoft-power-bi
   - skill/data-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Power BI Challenges: 15 Skills-Building Analytics Exercises for Data Professionals](https://media.licdn.com/dms/image/v2/D560DAQG9Xu7sFCpuhA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700508691866?e=2147483647&amp;v=beta&amp;t=0t7UlYk2jrANq5TYuaHRwn1RiS17l0jUdpnEPJhV9SQ)

@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFqZKdHBoYpXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1603818996523?e=2147483647&amp;v=beta&amp;t=A8oeIXuglxvpOm7pMmg1vcTD2WAW_rc-xFlHwDWPTJ0"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Optimizing Enterprise Security and Productivity Using Microsoft 365
-  - Explore a Career in IT Support
+  - '[[Optimizing Enterprise Security and Productivity Using Microsoft 365]]'
+  - '[[Explore a Career in IT Support]]'
+prev_courses:
+  - '[[Microsoft 365- Administration]]'
+  - '[[Windows 10- Supporting Users Essential Training]]'
+next_courses:
+  - '[[Microsoft Entra ID Fundamentals]]'
+  - '[[Windows 10- Security]]'
+path_nav: '[{"path":"Optimizing Enterprise Security and Productivity Using Microsoft 365","position":4,"total":11,"prev":"Microsoft 365- Administration","next":"Microsoft Entra ID Fundamentals"},{"path":"Explore a Career in IT Support","position":5,"total":11,"prev":"Windows 10- Supporting Users Essential Training","next":"Windows 10- Security"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - topic/it-help-desk
   - skill/windows-10
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows 10: Administration](https://media.licdn.com/dms/image/v2/C4D0DAQFqZKdHBoYpXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1603818996523?e=2147483647&amp;v=beta&amp;t=A8oeIXuglxvpOm7pMmg1vcTD2WAW_rc-xFlHwDWPTJ0)

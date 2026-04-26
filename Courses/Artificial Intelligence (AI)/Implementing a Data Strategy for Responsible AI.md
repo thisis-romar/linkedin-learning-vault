@@ -18,8 +18,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHsm6JlzymJKg/learning-public-crop_675_1200/B4DZW137wvGkAc-/0/1742513093978?e=2147483647&amp;v=beta&amp;t=eJ19CbJNGd2i1F0man-LJ7pHSI_VxOZp6L9T-mSbyVs"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Responsible AI Foundations
-  - Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning
+  - '[[Responsible AI Foundations]]'
+  - '[[Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Using Generative AI Ethically at Work]]'
+  - '[[Welcome To The Building Ai Products Implementing Responsible Ai Professional Certificate]]'
+next_courses:
+  - '[[The State of AI and Copyright]]'
+  - '[[Learning XAI- Explainable Artificial Intelligence]]'
+path_nav: '[{"path":"Responsible AI Foundations","position":3,"total":5,"prev":"Using Generative AI Ethically at Work","next":"The State of AI and Copyright"},{"path":"Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning","position":2,"total":7,"prev":"Welcome To The Building Ai Products Implementing Responsible Ai Professional Certificate","next":"Learning XAI- Explainable Artificial Intelligence"}]'
 path_count: 2
 tags:
   - course
@@ -31,7 +38,7 @@ tags:
   - skill/data-strategies
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Implementing a Data Strategy for Responsible AI](https://media.licdn.com/dms/image/v2/D4D0DAQHsm6JlzymJKg/learning-public-crop_675_1200/B4DZW137wvGkAc-/0/1742513093978?e=2147483647&amp;v=beta&amp;t=eJ19CbJNGd2i1F0man-LJ7pHSI_VxOZp6L9T-mSbyVs)

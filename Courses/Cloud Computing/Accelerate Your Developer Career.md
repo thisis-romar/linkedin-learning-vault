@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGhircV8uPN0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1631036965360?e=2147483647&amp;v=beta&amp;t=DE-VA5L7ato_zqgW0Ch-ncELVNI_Uis2O092EKdFjGs"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance as a Tech Leader
-  - Succeeding in Your Tech Career- Software Development
+  - '[[Advance as a Tech Leader]]'
+  - '[[Succeeding in Your Tech Career- Software Development]]'
+prev_courses:
+  - '[[Tech Career Skills- Moving from Developer to Engineering Manager]]'
+  - '[[Tech Career Skills- Getting Promoted]]'
+next_courses:
+  - '[[Leadership in Tech]]'
+  - '[[Programming Foundations- Conducting Code Reviews]]'
+path_nav: '[{"path":"Advance as a Tech Leader","position":5,"total":8,"prev":"Tech Career Skills- Moving from Developer to Engineering Manager","next":"Leadership in Tech"},{"path":"Succeeding in Your Tech Career- Software Development","position":2,"total":6,"prev":"Tech Career Skills- Getting Promoted","next":"Programming Foundations- Conducting Code Reviews"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Accelerate Your Developer Career](https://media.licdn.com/dms/image/v2/C560DAQGhircV8uPN0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1631036965360?e=2147483647&amp;v=beta&amp;t=DE-VA5L7ato_zqgW0Ch-ncELVNI_Uis2O092EKdFjGs)

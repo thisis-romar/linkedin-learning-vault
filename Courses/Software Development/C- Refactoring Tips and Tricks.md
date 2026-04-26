@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQECvctNUeYZPQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694200036676?e=2147483647&amp;v=beta&amp;t=yrLUQyPchW2JE01Xrf6pG9GPAZdJKWnLS2giMi6L4dc"
 linkedin_topic: Software Development
 learning_paths:
-  - C- Foundations- From Basics to Building Blocks
+  - '[[C- Foundations- From Basics to Building Blocks]]'
+prev_courses:
+  - '[[Debugging in C-]]'
+next_courses:
+  - '[[Mastering AI Tools for Efficient C- Development]]'
+path_nav: '[{"path":"C- Foundations- From Basics to Building Blocks","position":4,"total":5,"prev":"Debugging in C-","next":"Mastering AI Tools for Efficient C- Development"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C# Refactoring Tips and Tricks](https://media.licdn.com/dms/image/v2/D4E0DAQECvctNUeYZPQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694200036676?e=2147483647&amp;v=beta&amp;t=yrLUQyPchW2JE01Xrf6pG9GPAZdJKWnLS2giMi6L4dc)

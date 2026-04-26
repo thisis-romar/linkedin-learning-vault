@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/deep-learning-with-python-optimizin
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQH8BFD--fpKJA/learning-public-crop_675_1200/B4DZT8pt8oGcAY-/0/1739405582824?e=2147483647&amp;v=beta&amp;t=FGb1-wz5ldJ6jHnlPzWqm8at1T2JPJBgOMGtr1xXpK0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills in Deep Learning and Neural Networks
+  - '[[Advance Your Skills in Deep Learning and Neural Networks]]'
+prev_courses:
+  - '[[AI Workshop- Build a Neural Network with PyTorch Lightning (2023)]]'
+next_courses:
+  - '[[Introduction to Generative Adversarial Networks (GANs)]]'
+path_nav: '[{"path":"Advance Your Skills in Deep Learning and Neural Networks","position":5,"total":8,"prev":"AI Workshop- Build a Neural Network with PyTorch Lightning (2023)","next":"Introduction to Generative Adversarial Networks (GANs)"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Deep Learning with Python: Optimizing Deep Learning Models](https://media.licdn.com/dms/image/v2/D4D0DAQH8BFD--fpKJA/learning-public-crop_675_1200/B4DZT8pt8oGcAY-/0/1739405582824?e=2147483647&amp;v=beta&amp;t=FGb1-wz5ldJ6jHnlPzWqm8at1T2JPJBgOMGtr1xXpK0)

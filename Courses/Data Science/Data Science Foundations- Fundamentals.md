@@ -10,12 +10,27 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFpVoNDHqbSWw/learning-public-crop_675_1200/B4EZVIovtaHcAY-/0/1740680396250?e=2147483647&amp;v=beta&amp;t=UhUAe66lLpRQn_9_9hpV9wScF3tRJNIy5QU9kXiCI18"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career in Data Analysis
-  - Getting Started as a Business Analyst
-  - Mastering Executive-Level Data Analytics
-  - Starting Your Career in Tech- Data Science
-  - Become a Data Scientist
-  - Data Science Professional Certificate by KNIME
+  - '[[Explore a Career in Data Analysis]]'
+  - '[[Getting Started as a Business Analyst]]'
+  - '[[Mastering Executive-Level Data Analytics]]'
+  - '[[Starting Your Career in Tech- Data Science]]'
+  - '[[Become a Data Scientist]]'
+  - '[[Data Science Professional Certificate by KNIME]]'
+prev_courses:
+  - '[[Introduction To Career Skills In Data Analytics]]'
+  - '[[PowerPoint Essential Training (Microsoft 365)]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Introduction to Data Science]]'
+  - '[[Data Science and Analytics Career Paths and Certifications- First Steps]]'
+  - null
+next_courses:
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Leadership Foundations]]'
+  - '[[Predictive Analytics Essential Training For Executives]]'
+  - '[[The Non Technical Skills Of Effective Data Scientists]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Low Code-No-Code Data Literacy with KNIME- From Basic to Advanced]]'
+path_nav: '[{"path":"Explore a Career in Data Analysis","position":2,"total":6,"prev":"Introduction To Career Skills In Data Analytics","next":"Statistics Foundations 1- The Basics"},{"path":"Getting Started as a Business Analyst","position":13,"total":18,"prev":"PowerPoint Essential Training (Microsoft 365)","next":"Leadership Foundations"},{"path":"Mastering Executive-Level Data Analytics","position":3,"total":7,"prev":"Statistics Foundations 1- The Basics","next":"Predictive Analytics Essential Training For Executives"},{"path":"Starting Your Career in Tech- Data Science","position":4,"total":8,"prev":"Introduction to Data Science","next":"The Non Technical Skills Of Effective Data Scientists"},{"path":"Become a Data Scientist","position":4,"total":11,"prev":"Data Science and Analytics Career Paths and Certifications- First Steps","next":"Statistics Foundations 1- The Basics"},{"path":"Data Science Professional Certificate by KNIME","position":1,"total":6,"prev":null,"next":"Low Code-No-Code Data Literacy with KNIME- From Basic to Advanced"}]'
 path_count: 6
 tags:
   - course
@@ -24,7 +39,7 @@ tags:
   - topic/security
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Science Foundations: Fundamentals](https://media.licdn.com/dms/image/v2/D4E0DAQFpVoNDHqbSWw/learning-public-crop_675_1200/B4EZVIovtaHcAY-/0/1740680396250?e=2147483647&amp;v=beta&amp;t=UhUAe66lLpRQn_9_9hpV9wScF3tRJNIy5QU9kXiCI18)

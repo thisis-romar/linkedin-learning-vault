@@ -15,9 +15,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHJjgIrzzfWBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730843593856?e=2147483647&amp;v=beta&amp;t=Z92hzunwnw24a659e1-NQvoaoCr5x-20P6s-XiOOUkM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying AI as a Tech Leader
-  - Building AI Literacy
-  - Data Science Professional Certificate by KNIME
+  - '[[Applying AI as a Tech Leader]]'
+  - '[[Building AI Literacy]]'
+  - '[[Data Science Professional Certificate by KNIME]]'
+prev_courses:
+  - null
+  - null
+  - '[[Low Code-No-Code Data Literacy with KNIME- From Basic to Advanced]]'
+next_courses:
+  - '[[Generative AI for Business Leaders]]'
+  - '[[How to Boost Your Productivity with AI Tools]]'
+  - '[[Machine Learning and AI Foundations- Classification Modeling]]'
+path_nav: '[{"path":"Applying AI as a Tech Leader","position":1,"total":8,"prev":null,"next":"Generative AI for Business Leaders"},{"path":"Building AI Literacy","position":1,"total":7,"prev":null,"next":"How to Boost Your Productivity with AI Tools"},{"path":"Data Science Professional Certificate by KNIME","position":3,"total":6,"prev":"Low Code-No-Code Data Literacy with KNIME- From Basic to Advanced","next":"Machine Learning and AI Foundations- Classification Modeling"}]'
 path_count: 3
 tags:
   - course
@@ -26,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-literacy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction To Artificial Intelligence](https://media.licdn.com/dms/image/v2/D560DAQHJjgIrzzfWBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730843593856?e=2147483647&amp;v=beta&amp;t=Z92hzunwnw24a659e1-NQvoaoCr5x-20P6s-XiOOUkM)

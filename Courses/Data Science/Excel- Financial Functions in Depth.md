@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGwreXlLP0Krg/learning-public-crop_675_1200/B4DZYXiDMdG4AY-/0/1744151524792?e=2147483647&amp;v=beta&amp;t=7McD0MndjNmoVh1FeFRBLt9hB3_YdDFf1fy1192Ng8Q"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills with Excel Formulas and Functions
+  - '[[Advance Your Skills with Excel Formulas and Functions]]'
+prev_courses:
+  - '[[Excel- Lookup Functions in Depth]]'
+next_courses:
+  - '[[Excel- Advanced Formulas and Functions (2023)]]'
+path_nav: '[{"path":"Advance Your Skills with Excel Formulas and Functions","position":4,"total":5,"prev":"Excel- Lookup Functions in Depth","next":"Excel- Advanced Formulas and Functions (2023)"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/financial-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel: Financial Functions in Depth](https://media.licdn.com/dms/image/v2/D4D0DAQGwreXlLP0Krg/learning-public-crop_675_1200/B4DZYXiDMdG4AY-/0/1744151524792?e=2147483647&amp;v=beta&amp;t=7McD0MndjNmoVh1FeFRBLt9hB3_YdDFf1fy1192Ng8Q)

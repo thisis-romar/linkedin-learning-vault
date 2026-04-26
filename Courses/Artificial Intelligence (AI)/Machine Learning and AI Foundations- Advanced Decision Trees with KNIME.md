@@ -19,7 +19,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFnMHfZVRGQYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668018019156?e=2147483647&amp;v=beta&amp;t=HxliPaHM2yHLhRyVHfRpgFVfpvAWUrcKz2UMggHrIRM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Learning Codeless Machine Learning with KNIME
+  - '[[Learning Codeless Machine Learning with KNIME]]'
+prev_courses:
+  - '[[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]]'
+path_nav: '[{"path":"Learning Codeless Machine Learning with KNIME","position":5,"total":5,"prev":"Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions","next":null}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning and AI Foundations: Advanced Decision Trees with KNIME](https://media.licdn.com/dms/image/v2/C560DAQFnMHfZVRGQYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668018019156?e=2147483647&amp;v=beta&amp;t=HxliPaHM2yHLhRyVHfRpgFVfpvAWUrcKz2UMggHrIRM)

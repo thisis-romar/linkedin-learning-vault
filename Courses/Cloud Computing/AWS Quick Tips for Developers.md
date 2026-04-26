@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFx0el_PyVw9w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668497463?e=2147483647&amp;v=beta&amp;t=vRRGtd4b9BYc4pyoM6tHtgFJiC3VWXQjcLDUxiQCQmg"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Getting Started as an AWS Developer
+  - '[[Getting Started as an AWS Developer]]'
+prev_courses:
+  - '[[AWS for Developers- Identity Access Management (IAM)]]'
+path_nav: '[{"path":"Getting Started as an AWS Developer","position":4,"total":4,"prev":"AWS for Developers- Identity Access Management (IAM)","next":null}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - topic/security
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AWS Quick Tips for Developers](https://media.licdn.com/dms/image/v2/C4E0DAQFx0el_PyVw9w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668497463?e=2147483647&amp;v=beta&amp;t=vRRGtd4b9BYc4pyoM6tHtgFJiC3VWXQjcLDUxiQCQmg)

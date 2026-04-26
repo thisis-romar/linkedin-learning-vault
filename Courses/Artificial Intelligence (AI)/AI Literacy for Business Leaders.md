@@ -10,18 +10,31 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEch-jmFh4Rtg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706660296634?e=2147483647&amp;v=beta&amp;t=WkVtFdXKZo5TqjLYuibup6EuUJt8CmodWKoX52zYDZI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI for Organizational Leaders by Microsoft and LinkedIn
-  - Become an AI-Powered Learning and Development Professional
-  - LinkedIn’s 2025 Top MBA Programs Learning Path
-  - Technical Literacy and Future Readiness for Senior Executives
-  - Build AI Aptitude as a Senior Manager
+  - '[[AI for Organizational Leaders by Microsoft and LinkedIn]]'
+  - '[[Become an AI-Powered Learning and Development Professional]]'
+  - '[[LinkedIn’s 2025 Top MBA Programs Learning Path]]'
+  - '[[Technical Literacy and Future Readiness for Senior Executives]]'
+  - '[[Build AI Aptitude as a Senior Manager]]'
+prev_courses:
+  - '[[Integrating Generative AI into Business Strategy]]'
+  - '[[Leading Talent Development In The Era Of Ai]]'
+  - '[[Nano Tips for Getting Unstuck as an Entrepreneur with Terry Rice]]'
+  - null
+  - '[[Generative AI and Workplace Transformation]]'
+next_courses:
+  - '[[Leading Responsible AI in Organizations]]'
+  - '[[The Future of Workforce Learning- AI-Powered Personalization for Skill Development]]'
+  - '[[Integrating Generative AI into Business Strategy]]'
+  - '[[Leading with Innovation in the Age of AI]]'
+  - '[[Integrating Generative AI into Business Strategy]]'
+path_nav: '[{"path":"AI for Organizational Leaders by Microsoft and LinkedIn","position":5,"total":6,"prev":"Integrating Generative AI into Business Strategy","next":"Leading Responsible AI in Organizations"},{"path":"Become an AI-Powered Learning and Development Professional","position":2,"total":5,"prev":"Leading Talent Development In The Era Of Ai","next":"The Future of Workforce Learning- AI-Powered Personalization for Skill Development"},{"path":"LinkedIn’s 2025 Top MBA Programs Learning Path","position":9,"total":10,"prev":"Nano Tips for Getting Unstuck as an Entrepreneur with Terry Rice","next":"Integrating Generative AI into Business Strategy"},{"path":"Technical Literacy and Future Readiness for Senior Executives","position":1,"total":6,"prev":null,"next":"Leading with Innovation in the Age of AI"},{"path":"Build AI Aptitude as a Senior Manager","position":3,"total":6,"prev":"Generative AI and Workplace Transformation","next":"Integrating Generative AI into Business Strategy"}]'
 path_count: 5
 tags:
   - course
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Literacy for Business Leaders](https://media.licdn.com/dms/image/v2/D560DAQEch-jmFh4Rtg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706660296634?e=2147483647&amp;v=beta&amp;t=WkVtFdXKZo5TqjLYuibup6EuUJt8CmodWKoX52zYDZI)

@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFa6NvpE0yXFQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621011058765?e=2147483647&amp;v=beta&amp;t=2D8IpuU_ApvsNPWo6aF_2Zmo7NuMbhSyI3gDwbqaem8"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Networking and Administration Fundamentals
-  - Essential New Skills in IT Administration
+  - '[[Networking and Administration Fundamentals]]'
+  - '[[Essential New Skills in IT Administration]]'
+prev_courses:
+  - '[[Introduction to Identity and Access Management]]'
+  - '[[Server Administration Essential Training]]'
+next_courses:
+  - '[[Learning PowerShell]]'
+  - '[[Cloud Computing Understanding Core Concepts]]'
+path_nav: '[{"path":"Networking and Administration Fundamentals","position":7,"total":10,"prev":"Introduction to Identity and Access Management","next":"Learning PowerShell"},{"path":"Essential New Skills in IT Administration","position":3,"total":5,"prev":"Server Administration Essential Training","next":"Cloud Computing Understanding Core Concepts"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - topic/network-and-system-administration
   - skill/virtualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Virtualization](https://media.licdn.com/dms/image/v2/C560DAQFa6NvpE0yXFQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621011058765?e=2147483647&amp;v=beta&amp;t=2D8IpuU_ApvsNPWo6aF_2Zmo7NuMbhSyI3gDwbqaem8)

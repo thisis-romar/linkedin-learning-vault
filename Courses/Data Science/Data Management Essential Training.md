@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFW4dpBsSvoow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734136974842?e=2147483647&amp;v=beta&amp;t=KBNYc420ZvEscs1kra6bHaouh8z8nvODggbNcp5aku4"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Management
+  - '[[Introduction to Fundamental Skills for Data Work- Data Management]]'
+prev_courses:
+  - '[[Database Foundations Database Management]]'
+next_courses:
+  - '[[Database Foundations- Administration]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Management","position":2,"total":6,"prev":"Database Foundations Database Management","next":"Database Foundations- Administration"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/database-management
   - skill/data-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Management Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQFW4dpBsSvoow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734136974842?e=2147483647&amp;v=beta&amp;t=KBNYc420ZvEscs1kra6bHaouh8z8nvODggbNcp5aku4)

@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHVpQyMe5jlww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707176262296?e=2147483647&amp;v=beta&amp;t=KaS6XyA-2MCaVUB4LqJCHU-7cBc5aHdso57bgURijJc"
 linkedin_topic: Data Science
 learning_paths:
-  - Building ChatGPT Skills for Marketing
+  - '[[Building ChatGPT Skills for Marketing]]'
+prev_courses:
+  - '[[Using AI as Your SEO Assistant]]'
+next_courses:
+  - '[[Nano Tips For Marketing Using AI Tools with Sam Dey]]'
+path_nav: '[{"path":"Building ChatGPT Skills for Marketing","position":4,"total":6,"prev":"Using AI as Your SEO Assistant","next":"Nano Tips For Marketing Using AI Tools with Sam Dey"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Nano Tips for Using ChatGPT for Marketers with Ross Simmonds](https://media.licdn.com/dms/image/v2/D4D0DAQHVpQyMe5jlww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707176262296?e=2147483647&amp;v=beta&amp;t=KaS6XyA-2MCaVUB4LqJCHU-7cBc5aHdso57bgURijJc)

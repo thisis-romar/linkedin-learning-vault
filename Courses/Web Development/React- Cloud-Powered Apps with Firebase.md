@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQG9TFjCCF4UaQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1600186691621?e=2147483647&amp;v=beta&amp;t=IwjzkWlF2qjuxcNKrsgcTw1rZa1mZe9rhFDHs-LJSss"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your React Skills
+  - '[[Improve Your React Skills]]'
+prev_courses:
+  - '[[Building a GraphQL Project with React.js]]'
+path_nav: '[{"path":"Improve Your React Skills","position":9,"total":9,"prev":"Building a GraphQL Project with React.js","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/react-js
   - skill/firebase
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React: Cloud-Powered Apps with Firebase](https://media.licdn.com/dms/image/v2/C560DAQG9TFjCCF4UaQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1600186691621?e=2147483647&amp;v=beta&amp;t=IwjzkWlF2qjuxcNKrsgcTw1rZa1mZe9rhFDHs-LJSss)

@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEcxOyUngc96w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732642712919?e=2147483647&amp;v=beta&amp;t=w3F8-GEnr4TOCZ1KywlF1dIYfBJO2KsTy7T4TXGGhRs"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Build Your Cybersecurity Awareness Skills
+  - '[[Build Your Cybersecurity Awareness Skills]]'
+prev_courses:
+  - '[[Cybersecurity Awareness- Social Engineering]]'
+next_courses:
+  - '[[Cybersecurity Awareness- Cloud Security (2022)]]'
+path_nav: '[{"path":"Build Your Cybersecurity Awareness Skills","position":5,"total":10,"prev":"Cybersecurity Awareness- Social Engineering","next":"Cybersecurity Awareness- Cloud Security (2022)"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/phishing
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Awareness: Phishing Attacks](https://media.licdn.com/dms/image/v2/D4E0DAQEcxOyUngc96w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732642712919?e=2147483647&amp;v=beta&amp;t=w3F8-GEnr4TOCZ1KywlF1dIYfBJO2KsTy7T4TXGGhRs)

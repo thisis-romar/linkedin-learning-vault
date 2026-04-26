@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHv-LXoPC8_1Q/learning-public-crop_675_1200/B4DZYh33BxG8AY-/0/1744325014343?e=2147483647&amp;v=beta&amp;t=vB0e8AfKvZcVoPoNkelwatt3R2d3Xw-8Bza1dD4xE2s"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Generative AI for Recruiting Professional Certificate by LinkedIn Learning
+  - '[[Generative AI for Recruiting Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Responsible AI for Managers]]'
+next_courses:
+  - '[[A First Look at the LinkedIn Hiring Assistant in Recruiter]]'
+path_nav: '[{"path":"Generative AI for Recruiting Professional Certificate by LinkedIn Learning","position":5,"total":6,"prev":"Responsible AI for Managers","next":"A First Look at the LinkedIn Hiring Assistant in Recruiter"}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethical AI for Hiring and Talent Acquisition: A Conversation with Don Phin](https://media.licdn.com/dms/image/v2/D4D0DAQHv-LXoPC8_1Q/learning-public-crop_675_1200/B4DZYh33BxG8AY-/0/1744325014343?e=2147483647&amp;v=beta&amp;t=vB0e8AfKvZcVoPoNkelwatt3R2d3Xw-8Bza1dD4xE2s)

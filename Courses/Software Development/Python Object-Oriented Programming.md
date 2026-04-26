@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/python-object-oriented-programming-
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGDodIrzxv0mA/learning-public-crop_675_1200/B56ZS92ByDGQAc-/0/1738351845105?e=2147483647&amp;v=beta&amp;t=L07OE1pDo94yPJZbYwrw7KPuTP-lHkkMt5Nqsn-Gn8Q"
 linkedin_topic: Software Development
 learning_paths:
-  - OpenEDG Python Institute- Programming with Python Professional Certificate
-  - Getting Started with Python
+  - '[[OpenEDG Python Institute- Programming with Python Professional Certificate]]'
+  - '[[Getting Started with Python]]'
+prev_courses:
+  - '[[Python Essential Training]]'
+  - '[[Learning Python]]'
+next_courses:
+  - '[[Level Up- Python]]'
+  - '[[Learning the Python 3 Standard Library]]'
+path_nav: '[{"path":"OpenEDG Python Institute- Programming with Python Professional Certificate","position":2,"total":3,"prev":"Python Essential Training","next":"Level Up- Python"},{"path":"Getting Started with Python","position":3,"total":8,"prev":"Learning Python","next":"Learning the Python 3 Standard Library"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/object-oriented-programming-oop
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Object-Oriented Programming](https://media.licdn.com/dms/image/v2/D560DAQGDodIrzxv0mA/learning-public-crop_675_1200/B56ZS92ByDGQAc-/0/1738351845105?e=2147483647&amp;v=beta&amp;t=L07OE1pDo94yPJZbYwrw7KPuTP-lHkkMt5Nqsn-Gn8Q)

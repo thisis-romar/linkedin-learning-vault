@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEkvllFruJSwA/learning-public-crop_675_1200/B4EZoYIV13IIAY-/0/1761341431475?e=2147483647&amp;v=beta&amp;t=lT0b7gqCApsj_Y5WRiEq2NbCtkkBOQ3tTobpt-fMoR4"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Microsoft Power BI
+  - '[[Master Microsoft Power BI]]'
+prev_courses:
+  - '[[Power BI Dataflows Essential Training]]'
+next_courses:
+  - '[[Power BI- Integrating AI]]'
+path_nav: '[{"path":"Master Microsoft Power BI","position":4,"total":6,"prev":"Power BI Dataflows Essential Training","next":"Power BI- Integrating AI"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Power BI Top Skills](https://media.licdn.com/dms/image/v2/D4E0DAQEkvllFruJSwA/learning-public-crop_675_1200/B4EZoYIV13IIAY-/0/1761341431475?e=2147483647&amp;v=beta&amp;t=lT0b7gqCApsj_Y5WRiEq2NbCtkkBOQ3tTobpt-fMoR4)

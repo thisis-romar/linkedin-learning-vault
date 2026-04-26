@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGm1K4R1IJsxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694541586465?e=2147483647&amp;v=beta&amp;t=QPeebqW846-zd9AAGAEyCjja6ZGiv7xj-QW84VSBvBc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Foundational AI Skills for Azure Administration
+  - '[[Foundational AI Skills for Azure Administration]]'
+prev_courses:
+  - '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
+next_courses:
+  - '[[Azure AI- The Big Picture]]'
+path_nav: '[{"path":"Foundational AI Skills for Azure Administration","position":3,"total":6,"prev":"Understanding Generative AI in Cloud Computing- Services and Use Cases","next":"Azure AI- The Big Picture"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/azure-ai-studio
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure AI Studio First Look](https://media.licdn.com/dms/image/v2/D560DAQGm1K4R1IJsxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694541586465?e=2147483647&amp;v=beta&amp;t=QPeebqW846-zd9AAGAEyCjja6ZGiv7xj-QW84VSBvBc)

@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGqjOoQsarMbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1669829521019?e=2147483647&amp;v=beta&amp;t=49EhSz43yqEEFohPdqwuzvIuXC7aG4Fsaf_6QIUUreY"
 linkedin_topic: Database Management
 learning_paths:
-  - Develop Your NoSQL Skills
+  - '[[Develop Your NoSQL Skills]]'
+prev_courses:
+  - '[[Graph Databases- Neo4j for Complex Data Relationships]]'
+next_courses:
+  - '[[Introduction to Couchbase]]'
+path_nav: '[{"path":"Develop Your NoSQL Skills","position":6,"total":10,"prev":"Graph Databases- Neo4j for Complex Data Relationships","next":"Introduction to Couchbase"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/redis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Redis Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQGqjOoQsarMbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1669829521019?e=2147483647&amp;v=beta&amp;t=49EhSz43yqEEFohPdqwuzvIuXC7aG4Fsaf_6QIUUreY)

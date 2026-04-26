@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQENrwibTkyuQQ/learning-public-crop_675_1200/B4EZYSD0PAHcAY-/0/1744059713243?e=2147483647&amp;v=beta&amp;t=Ypk_Vbq1dDlSNpYT2jI2ZKaUI3Kk-YMR567h8B0ASjo"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI Boot Camp for Small and Medium-Sized Businesses (SMBs)
+  - '[[AI Boot Camp for Small and Medium-Sized Businesses (SMBs)]]'
+prev_courses:
+  - '[[Leveraging AI for Small and Medium Business Growth]]'
+next_courses:
+  - '[[Creating a Responsible Generative AI Use Policy]]'
+path_nav: '[{"path":"AI Boot Camp for Small and Medium-Sized Businesses (SMBs)","position":5,"total":6,"prev":"Leveraging AI for Small and Medium Business Growth","next":"Creating a Responsible Generative AI Use Policy"}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The Startup/SMB Guide to Integrating and Managing AI Agents](https://media.licdn.com/dms/image/v2/D4E0DAQENrwibTkyuQQ/learning-public-crop_675_1200/B4EZYSD0PAHcAY-/0/1744059713243?e=2147483647&amp;v=beta&amp;t=Ypk_Vbq1dDlSNpYT2jI2ZKaUI3Kk-YMR567h8B0ASjo)

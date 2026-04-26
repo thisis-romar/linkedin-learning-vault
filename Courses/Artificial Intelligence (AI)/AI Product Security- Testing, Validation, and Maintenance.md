@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGu4bPC5fagBQ/learning-public-crop_675_1200/B4EZUFbQZaGgAY-/0/1739552786889?e=2147483647&amp;v=beta&amp;t=raI-sRcW-tcuij59L1dLZ4_BOO9GxEuru25rWkW44r0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[AI Product Security- Incident Response]]'
+path_nav: '[{"path":"Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning","position":5,"total":5,"prev":"AI Product Security- Incident Response","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/product-security
   - skill/security-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Product Security: Testing, Validation, and Maintenance](https://media.licdn.com/dms/image/v2/D4E0DAQGu4bPC5fagBQ/learning-public-crop_675_1200/B4EZUFbQZaGgAY-/0/1739552786889?e=2147483647&amp;v=beta&amp;t=raI-sRcW-tcuij59L1dLZ4_BOO9GxEuru25rWkW44r0)

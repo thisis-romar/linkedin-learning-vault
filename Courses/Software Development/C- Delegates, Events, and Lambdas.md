@@ -17,8 +17,15 @@ github: "https://github.com/LinkedInLearning/c-sharp-delegates-events-and-lambda
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFKly2MCihgYw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642535785778?e=2147483647&amp;v=beta&amp;t=6i9V1OUzqaOx9JScjKsrMEgApKMLmJhuMWYLM5kWapk"
 linkedin_topic: Software Development
 learning_paths:
-  - Elevating C- Skills- Building Robust Applications
-  - Getting Started as a C- Developer
+  - '[[Elevating C- Skills- Building Robust Applications]]'
+  - '[[Getting Started as a C- Developer]]'
+prev_courses:
+  - '[[Object Oriented Programming With C Sharp]]'
+  - '[[C Sharp Algorithms]]'
+next_courses:
+  - '[[C- Interfaces and Generics]]'
+  - '[[C- Interfaces and Generics]]'
+path_nav: '[{"path":"Elevating C- Skills- Building Robust Applications","position":2,"total":8,"prev":"Object Oriented Programming With C Sharp","next":"C- Interfaces and Generics"},{"path":"Getting Started as a C- Developer","position":5,"total":9,"prev":"C Sharp Algorithms","next":"C- Interfaces and Generics"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C#: Delegates, Events, and Lambdas](https://media.licdn.com/dms/image/v2/C560DAQFKly2MCihgYw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642535785778?e=2147483647&amp;v=beta&amp;t=6i9V1OUzqaOx9JScjKsrMEgApKMLmJhuMWYLM5kWapk)

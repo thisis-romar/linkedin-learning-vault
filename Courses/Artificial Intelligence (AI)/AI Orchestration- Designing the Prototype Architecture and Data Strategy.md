@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHs-INNarhuTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736980752740?e=2147483647&amp;v=beta&amp;t=Mw_7vS8pH6Kk3AZftOrQnK16QKmOxNchFHkFg5eh9e8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[AI Orchestration- Planning and Orchestrating for Observability]]'
+next_courses:
+  - '[[AI Orchestration- Developing and Testing Your AI Prototype]]'
+path_nav: '[{"path":"Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning","position":3,"total":5,"prev":"AI Orchestration- Planning and Orchestrating for Observability","next":"AI Orchestration- Developing and Testing Your AI Prototype"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Orchestration: Designing the Prototype Architecture and Data Strategy](https://media.licdn.com/dms/image/v2/D4D0DAQHs-INNarhuTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736980752740?e=2147483647&amp;v=beta&amp;t=Mw_7vS8pH6Kk3AZftOrQnK16QKmOxNchFHkFg5eh9e8)

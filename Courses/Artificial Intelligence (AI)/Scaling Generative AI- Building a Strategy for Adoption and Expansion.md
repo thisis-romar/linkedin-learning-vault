@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGbONvUh6x1eA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705538619863?e=2147483647&amp;v=beta&amp;t=Q_U8LzTkV-LHW5yBYu5IZWGKEzwoFahQMkvz6eE0Lw0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying AI as a Tech Leader
-  - Understanding Generative AI for Tech Leaders
+  - '[[Applying AI as a Tech Leader]]'
+  - '[[Understanding Generative AI for Tech Leaders]]'
+prev_courses:
+  - '[[Building a Generative AI Tech Strategy]]'
+  - '[[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]]'
+next_courses:
+  - '[[Building a Responsible AI Program- Context, Culture, Content, and Commitment]]'
+  - '[[Building a Generative AI Tech Strategy]]'
+path_nav: '[{"path":"Applying AI as a Tech Leader","position":6,"total":8,"prev":"Building a Generative AI Tech Strategy","next":"Building a Responsible AI Program- Context, Culture, Content, and Commitment"},{"path":"Understanding Generative AI for Tech Leaders","position":18,"total":22,"prev":"AI and the Future of Work- Workflows and Modern Tools for Tech Leaders","next":"Building a Generative AI Tech Strategy"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/expansion-strategies
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Scaling Generative AI: Building a Strategy for Adoption and Expansion](https://media.licdn.com/dms/image/v2/D560DAQGbONvUh6x1eA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705538619863?e=2147483647&amp;v=beta&amp;t=Q_U8LzTkV-LHW5yBYu5IZWGKEzwoFahQMkvz6eE0Lw0)

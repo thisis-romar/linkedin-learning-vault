@@ -16,9 +16,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHWQHMbXFonsg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639077171142?e=2147483647&amp;v=beta&amp;t=Yv_P3__ILdEKNPruShX9wr70tyxX6s1vQg8RSKQ8K2I"
 linkedin_topic: Data Science
 learning_paths:
-  - Visual Communication for Business Professionals
-  - Master the Concepts of Data Visualization and Storytelling
-  - Introduction to Fundamental Skills for Data Work- Data Visualization
+  - '[[Visual Communication for Business Professionals]]'
+  - '[[Master the Concepts of Data Visualization and Storytelling]]'
+  - '[[Introduction to Fundamental Skills for Data Work- Data Visualization]]'
+prev_courses:
+  - '[[Visual Communication For Business The Marketer S Secret Weapon]]'
+  - '[[Learning Data Visualization]]'
+  - null
+next_courses:
+  - '[[Introduction to Graphic Design- Concepts]]'
+  - '[[Data Visualization for Data Analysts and Analytics]]'
+  - '[[Basics of Data Visualization Analysis]]'
+path_nav: '[{"path":"Visual Communication for Business Professionals","position":2,"total":5,"prev":"Visual Communication For Business The Marketer S Secret Weapon","next":"Introduction to Graphic Design- Concepts"},{"path":"Master the Concepts of Data Visualization and Storytelling","position":4,"total":7,"prev":"Learning Data Visualization","next":"Data Visualization for Data Analysts and Analytics"},{"path":"Introduction to Fundamental Skills for Data Work- Data Visualization","position":1,"total":7,"prev":null,"next":"Basics of Data Visualization Analysis"}]'
 path_count: 3
 tags:
   - course
@@ -26,7 +35,7 @@ tags:
   - topic/software-development
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Visualization: Best Practices](https://media.licdn.com/dms/image/v2/C560DAQHWQHMbXFonsg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639077171142?e=2147483647&amp;v=beta&amp;t=Yv_P3__ILdEKNPruShX9wr70tyxX6s1vQg8RSKQ8K2I)

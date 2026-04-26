@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHy23Sv6I1VRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1676672978750?e=2147483647&amp;v=beta&amp;t=vdWfR_6bLWzADGPi_gBI5VBGmM188ih3tfkOFrHaUAM"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Explore a Career in Application Security
+  - '[[Explore a Career in Application Security]]'
+prev_courses:
+  - '[[Security Testing Essential Training (2022)]]'
+next_courses:
+  - '[[Static Application Security Testing]]'
+path_nav: '[{"path":"Explore a Career in Application Security","position":5,"total":7,"prev":"Security Testing Essential Training (2022)","next":"Static Application Security Testing"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/application-security-assessments
   - skill/security-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Dynamic Application Security Testing](https://media.licdn.com/dms/image/v2/C560DAQHy23Sv6I1VRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1676672978750?e=2147483647&amp;v=beta&amp;t=vdWfR_6bLWzADGPi_gBI5VBGmM188ih3tfkOFrHaUAM)

@@ -15,8 +15,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFPY5XAoOMO4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690838117691?e=2147483647&amp;v=beta&amp;t=1iYoKbkOSfocRkAgbW8risB9CtZHZMLKhmg1aMJTlak"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in WordPress
-  - Build Your WordPress Ecommerce Skills
+  - '[[Advance Your Skills in WordPress]]'
+  - '[[Build Your WordPress Ecommerce Skills]]'
+prev_courses:
+  - null
+  - '[[WordPress Ecommerce- WooCommerce]]'
+next_courses:
+  - '[[WordPress- Internationalization]]'
+  - '[[WordPress- SEO]]'
+path_nav: '[{"path":"Advance Your Skills in WordPress","position":1,"total":8,"prev":null,"next":"WordPress- Internationalization"},{"path":"Build Your WordPress Ecommerce Skills","position":3,"total":6,"prev":"WordPress Ecommerce- WooCommerce","next":"WordPress- SEO"}]'
 path_count: 2
 tags:
   - course
@@ -25,7 +32,7 @@ tags:
   - skill/web-application-security
   - skill/wordpress
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Wordpress Building A Secure Site](https://media.licdn.com/dms/image/v2/D560DAQFPY5XAoOMO4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690838117691?e=2147483647&amp;v=beta&amp;t=1iYoKbkOSfocRkAgbW8risB9CtZHZMLKhmg1aMJTlak)

@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/hands-on-introduction-scala-4413550
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQELF_sWWhlfzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705617575948?e=2147483647&amp;v=beta&amp;t=cAx9x4WqbGhEO-4SyL9Hm1jCcQLLesNJMxHVJEToxKI"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Scala Skills for Data Engineering
+  - '[[Develop Your Scala Skills for Data Engineering]]'
+prev_courses:
+  - '[[Hands-On Introduction- Data Engineering]]'
+next_courses:
+  - '[[Scala Essential Training]]'
+path_nav: '[{"path":"Develop Your Scala Skills for Data Engineering","position":3,"total":6,"prev":"Hands-On Introduction- Data Engineering","next":"Scala Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/software-development
   - skill/scala
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On Introduction: Scala](https://media.licdn.com/dms/image/v2/D560DAQELF_sWWhlfzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705617575948?e=2147483647&amp;v=beta&amp;t=cAx9x4WqbGhEO-4SyL9Hm1jCcQLLesNJMxHVJEToxKI)

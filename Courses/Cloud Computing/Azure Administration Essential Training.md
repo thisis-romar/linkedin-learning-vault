@@ -17,9 +17,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQE-R4loEMduuw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670446335554?e=2147483647&amp;v=beta&amp;t=hxE_SXza9BjjH8eAGS4G0BWVX_WGH4kewXga4OKcc30"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Networking and Administration Fundamentals
-  - Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals
-  - The Top Skills IT Professionals Have Right Now
+  - '[[Networking and Administration Fundamentals]]'
+  - '[[Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals]]'
+  - '[[The Top Skills IT Professionals Have Right Now]]'
+prev_courses:
+  - '[[PowerShell- Automating IT Administration]]'
+  - null
+  - '[[Microsoft Entra ID Fundamentals]]'
+next_courses:
+  - null
+  - '[[Manage Virtual Machines in Azure]]'
+  - '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+path_nav: '[{"path":"Networking and Administration Fundamentals","position":10,"total":10,"prev":"PowerShell- Automating IT Administration","next":null},{"path":"Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals","position":1,"total":8,"prev":null,"next":"Manage Virtual Machines in Azure"},{"path":"The Top Skills IT Professionals Have Right Now","position":5,"total":10,"prev":"Microsoft Entra ID Fundamentals","next":"Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines"}]'
 path_count: 3
 tags:
   - course
@@ -30,7 +39,7 @@ tags:
   - skill/cloud-administration
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure Administration Essential Training](https://media.licdn.com/dms/image/v2/C560DAQE-R4loEMduuw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670446335554?e=2147483647&amp;v=beta&amp;t=hxE_SXza9BjjH8eAGS4G0BWVX_WGH4kewXga4OKcc30)

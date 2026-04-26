@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/c-sharp-applied-data-structures-281
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHlhDcLmjPIhw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703201046259?e=2147483647&amp;v=beta&amp;t=aKmIwORZwOLbKWxDGC3xk9bxCQ4Br3bC7OFnIlEyJQs"
 linkedin_topic: Software Development
 learning_paths:
-  - C- Excellence- Architecting High-Performance Solutions
+  - '[[C- Excellence- Architecting High-Performance Solutions]]'
+prev_courses:
+  - '[[C Sharp Algorithms]]'
+next_courses:
+  - '[[Advanced C- Language Features]]'
+path_nav: '[{"path":"C- Excellence- Architecting High-Performance Solutions","position":2,"total":6,"prev":"C Sharp Algorithms","next":"Advanced C- Language Features"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/data-structures
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C#: Applied Data Structures](https://media.licdn.com/dms/image/v2/D560DAQHlhDcLmjPIhw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703201046259?e=2147483647&amp;v=beta&amp;t=aKmIwORZwOLbKWxDGC3xk9bxCQ4Br3bC7OFnIlEyJQs)

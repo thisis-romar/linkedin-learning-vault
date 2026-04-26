@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFudXWd13cM1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589904875160?e=2147483647&amp;v=beta&amp;t=8yqy06KXCZH9xVjljq3fq2I5SF1YxkQlV_GDgx--nnM"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in User Experience Design
+  - '[[Advance Your Skills in User Experience Design]]'
+prev_courses:
+  - '[[Sketching For Ux Designers]]'
+next_courses:
+  - '[[Practical Accessibility For Designers]]'
+path_nav: '[{"path":"Advance Your Skills in User Experience Design","position":3,"total":9,"prev":"Sketching For Ux Designers","next":"Practical Accessibility For Designers"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![UX Deep Dive: Mapping](https://media.licdn.com/dms/image/v2/C560DAQFudXWd13cM1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589904875160?e=2147483647&amp;v=beta&amp;t=8yqy06KXCZH9xVjljq3fq2I5SF1YxkQlV_GDgx--nnM)

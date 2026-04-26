@@ -19,8 +19,15 @@ github: "https://github.com/LinkedInLearning/complete-guide-to-python-data-analy
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGSYAIAZElfSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733965184177?e=2147483647&amp;v=beta&amp;t=OXv45ZLLtcgntIsvH0mJG8ztMyetqZ0fUfscSXvDt50"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Data Analysis Skills
-  - Advance Your Python Skills for Data Science
+  - '[[Develop Your Data Analysis Skills]]'
+  - '[[Advance Your Python Skills for Data Science]]'
+prev_courses:
+  - '[[Using Tableau to Discover Powerful Business Insights]]'
+  - '[[Data Science Foundations- Python Scientific Stack -CoderPad-]]'
+next_courses:
+  - '[[Data Science Foundations- Data Mining in R]]'
+  - '[[More Python Tips, Tricks, and Techniques for Data Science]]'
+path_nav: '[{"path":"Develop Your Data Analysis Skills","position":5,"total":10,"prev":"Using Tableau to Discover Powerful Business Insights","next":"Data Science Foundations- Data Mining in R"},{"path":"Advance Your Python Skills for Data Science","position":4,"total":6,"prev":"Data Science Foundations- Python Scientific Stack -CoderPad-","next":"More Python Tips, Tricks, and Techniques for Data Science"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/data-analysis
   - skill/statistical-data-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Data Analysis](https://media.licdn.com/dms/image/v2/D4D0DAQGSYAIAZElfSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733965184177?e=2147483647&amp;v=beta&amp;t=OXv45ZLLtcgntIsvH0mJG8ztMyetqZ0fUfscSXvDt50)

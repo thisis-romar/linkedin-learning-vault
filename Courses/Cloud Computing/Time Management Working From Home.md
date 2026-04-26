@@ -13,7 +13,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQEz0gn8a-yEXw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651077495981?e=2147483647&amp;v=beta&amp;t=xzwkgF8jGEjTghrCIkzlJNMCNQ_6H3KX6-WsmuuB_pE"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Succeed as a Remote Software Developer
+  - '[[Succeed as a Remote Software Developer]]'
+next_courses:
+  - '[[Learning Git and GitHub]]'
+path_nav: '[{"path":"Succeed as a Remote Software Developer","position":1,"total":6,"prev":null,"next":"Learning Git and GitHub"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - skill/time-management
   - skill/virtual-work
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Time Management Working From Home](https://media.licdn.com/dms/image/v2/C4D0DAQEz0gn8a-yEXw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651077495981?e=2147483647&amp;v=beta&amp;t=xzwkgF8jGEjTghrCIkzlJNMCNQ_6H3KX6-WsmuuB_pE)

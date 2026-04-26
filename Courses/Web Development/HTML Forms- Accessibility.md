@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/html-forms-accessibility-4465343/co
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHXPotL4VZwdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711408278458?e=2147483647&amp;v=beta&amp;t=0L_tfokgcJHp30RCNjq2_yZdSL7Rsz79os0RFsz2U_Y"
 linkedin_topic: Web Development
 learning_paths:
-  - Build for Digital Accessibility
+  - '[[Build for Digital Accessibility]]'
+prev_courses:
+  - '[[Canva- Designing Engaging, Accessible Presentations]]'
+next_courses:
+  - '[[Microsoft Office Accessibility for Beginners]]'
+path_nav: '[{"path":"Build for Digital Accessibility","position":9,"total":12,"prev":"Canva- Designing Engaging, Accessible Presentations","next":"Microsoft Office Accessibility for Beginners"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/digital-accessibility
   - skill/html
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![HTML Forms: Accessibility](https://media.licdn.com/dms/image/v2/D560DAQHXPotL4VZwdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711408278458?e=2147483647&amp;v=beta&amp;t=0L_tfokgcJHp30RCNjq2_yZdSL7Rsz79os0RFsz2U_Y)

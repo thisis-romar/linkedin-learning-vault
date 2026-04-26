@@ -17,7 +17,10 @@ github: "https://github.com/LinkedInLearning/advanced-terraform-3099246"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGfrjsVMJJlFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1673639139822?e=2147483647&amp;v=beta&amp;t=sKBfCsU0ZMfvCz_7xb-GJukI1OCLngtnMWsBDsrDU58"
 linkedin_topic: Database Management
 learning_paths:
-  - Infrastructure as Code with Terraform
+  - '[[Infrastructure as Code with Terraform]]'
+prev_courses:
+  - '[[Learning Terraform]]'
+path_nav: '[{"path":"Infrastructure as Code with Terraform","position":3,"total":3,"prev":"Learning Terraform","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - topic/devops
   - skill/terraform
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Terraform](https://media.licdn.com/dms/image/v2/C560DAQGfrjsVMJJlFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1673639139822?e=2147483647&amp;v=beta&amp;t=sKBfCsU0ZMfvCz_7xb-GJukI1OCLngtnMWsBDsrDU58)

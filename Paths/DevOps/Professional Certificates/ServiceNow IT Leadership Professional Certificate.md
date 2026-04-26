@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - professional-certificate
   - topic/devops
@@ -35,7 +35,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # ServiceNow IT Leadership Professional Certificate
@@ -65,3 +65,7 @@ _Paths that share courses with this one:_
 - [[Advance Your Communication Skills as a Tech Manager]] (2 shared courses)
 - [[Advance as a Tech Leader]] (1 shared courses)
 - [[Managing and Leading Developers]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

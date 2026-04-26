@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/transact-sql-t-sql
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Transact-SQL (T-SQL)

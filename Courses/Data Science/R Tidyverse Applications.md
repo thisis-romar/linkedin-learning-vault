@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/R-Tidyverse-Applications-5902139"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEp1pHIgntiFQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722974816242?e=2147483647&amp;v=beta&amp;t=B_wOqROSj33k_k-5quXZECGj5jiStz9d160yU2WujPg"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in R
+  - '[[Advance Your Skills in R]]'
+prev_courses:
+  - '[[Learning the R Tidyverse]]'
+next_courses:
+  - '[[Creating Maps with R]]'
+path_nav: '[{"path":"Advance Your Skills in R","position":6,"total":8,"prev":"Learning the R Tidyverse","next":"Creating Maps with R"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/r-programming-language
   - skill/tidyverse
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![R Tidyverse Applications](https://media.licdn.com/dms/image/v2/D560DAQEp1pHIgntiFQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722974816242?e=2147483647&amp;v=beta&amp;t=B_wOqROSj33k_k-5quXZECGj5jiStz9d160yU2WujPg)

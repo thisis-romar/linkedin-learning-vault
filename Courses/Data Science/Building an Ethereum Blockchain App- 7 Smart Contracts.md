@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHNvNsDD1K55Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628526726270?e=2147483647&amp;v=beta&amp;t=cBvLEEOmU76oqDmWLjBbj3nzLYcsE5uUy266gRSg2lk"
 linkedin_topic: Data Science
 learning_paths:
-  - Build an Ethereum Blockchain App
-  - Become a Blockchain Developer
+  - '[[Build an Ethereum Blockchain App]]'
+  - '[[Become a Blockchain Developer]]'
+prev_courses:
+  - '[[Building an Ethereum Blockchain App- 6 Building Your First Ethereum App]]'
+  - '[[Building an Ethereum Blockchain App- 6 Building Your First Ethereum App]]'
+next_courses:
+  - '[[Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp]]'
+  - '[[Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp]]'
+path_nav: '[{"path":"Build an Ethereum Blockchain App","position":7,"total":11,"prev":"Building an Ethereum Blockchain App- 6 Building Your First Ethereum App","next":"Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp"},{"path":"Become a Blockchain Developer","position":7,"total":14,"prev":"Building an Ethereum Blockchain App- 6 Building Your First Ethereum App","next":"Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building an Ethereum Blockchain App: 7 Smart Contracts](https://media.licdn.com/dms/image/v2/C560DAQHNvNsDD1K55Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628526726270?e=2147483647&amp;v=beta&amp;t=cBvLEEOmU76oqDmWLjBbj3nzLYcsE5uUy266gRSg2lk)

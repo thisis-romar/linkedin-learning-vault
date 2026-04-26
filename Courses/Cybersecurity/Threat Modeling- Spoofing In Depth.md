@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEHc1Iuj6yeBQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628887768698?e=2147483647&amp;v=beta&amp;t=o1FmvN-vbRmN9HT4ojVUbcZk0ALDnxVXCocDarIUdzc"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Improve Your Threat Modeling Skills
+  - '[[Improve Your Threat Modeling Skills]]'
+prev_courses:
+  - '[[Learning Threat Modeling for Security Professionals]]'
+next_courses:
+  - '[[Threat Modeling- Tampering in Depth]]'
+path_nav: '[{"path":"Improve Your Threat Modeling Skills","position":2,"total":6,"prev":"Learning Threat Modeling for Security Professionals","next":"Threat Modeling- Tampering in Depth"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Threat Modeling: Spoofing In Depth](https://media.licdn.com/dms/image/v2/C4E0DAQEHc1Iuj6yeBQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628887768698?e=2147483647&amp;v=beta&amp;t=o1FmvN-vbRmN9HT4ojVUbcZk0ALDnxVXCocDarIUdzc)

@@ -15,7 +15,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEDp8zu12cDKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714428048520?e=2147483647&amp;v=beta&amp;t=XsNFy4-eflffYe8USFN7kpKcYvbwNmKzWt4u7uRADss"
 linkedin_topic: Mobile Development
 learning_paths:
-  - Master Swift
+  - '[[Master Swift]]'
+next_courses:
+  - '[[Swift 5 Essential Training]]'
+path_nav: '[{"path":"Master Swift","position":1,"total":4,"prev":null,"next":"Swift 5 Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - skill/swift-programming-language
   - skill/ios-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming For Non Programmers Ios 17 And Swift 5](https://media.licdn.com/dms/image/v2/D560DAQEDp8zu12cDKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714428048520?e=2147483647&amp;v=beta&amp;t=XsNFy4-eflffYe8USFN7kpKcYvbwNmKzWt4u7uRADss)

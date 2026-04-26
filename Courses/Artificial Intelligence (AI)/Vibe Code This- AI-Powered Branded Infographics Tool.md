@@ -20,7 +20,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFKTTNnna0vew/learning-public-crop_675_1200/B4EZsUfZmEHgAY-/0/1765575334963?e=2147483647&amp;v=beta&amp;t=gyNQrzwGV8SWYxTsPNIOa1HnhiISDYSRHfI_tE4IvRc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Vibe Code This
+  - '[[Vibe Code This]]'
+prev_courses:
+  - '[[Vibe Code This Interactive Dashboard Tooling For Your Team]]'
+path_nav: '[{"path":"Vibe Code This","position":2,"total":2,"prev":"Vibe Code This Interactive Dashboard Tooling For Your Team","next":null}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +35,7 @@ tags:
   - skill/infographics
   - skill/google-gemini
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Vibe Code This: AI-Powered Branded Infographics Tool](https://media.licdn.com/dms/image/v2/D4E0DAQFKTTNnna0vew/learning-public-crop_675_1200/B4EZsUfZmEHgAY-/0/1765575334963?e=2147483647&amp;v=beta&amp;t=gyNQrzwGV8SWYxTsPNIOa1HnhiISDYSRHfI_tE4IvRc)

@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEx3-oxJmkZ6w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719253887535?e=2147483647&amp;v=beta&amp;t=PUBXMBFuUvT3w9g7QgOFtf84jL6hjoWayXTMy-2QOO4"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Business Analyst
+  - '[[Getting Started as a Business Analyst]]'
+prev_courses:
+  - '[[Leadership Foundations]]'
+next_courses:
+  - '[[Communication within Teams (2021)]]'
+path_nav: '[{"path":"Getting Started as a Business Analyst","position":15,"total":18,"prev":"Leadership Foundations","next":"Communication within Teams (2021)"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/stakeholder-engagement
   - skill/business-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analysis Foundations: Communication](https://media.licdn.com/dms/image/v2/D560DAQEx3-oxJmkZ6w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719253887535?e=2147483647&amp;v=beta&amp;t=PUBXMBFuUvT3w9g7QgOFtf84jL6hjoWayXTMy-2QOO4)

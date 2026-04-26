@@ -19,8 +19,15 @@ github: "https://github.com/LinkedInLearning/power-bi-integrating-ai-3918467"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGO1pcjVw3clg/learning-public-crop_675_1200/B56ZgfQ3K3HQAc-/0/1752871171037?e=2147483647&amp;v=beta&amp;t=MlCg90U9FgA6KxNRJozL_hjkyQsFUxotSuWTStR31Qg"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Business Intelligence Specialist
-  - Master Microsoft Power BI
+  - '[[Become a Business Intelligence Specialist]]'
+  - '[[Master Microsoft Power BI]]'
+prev_courses:
+  - '[[Data Visualization for Data Analysts and Analytics]]'
+  - '[[Power BI Top Skills]]'
+next_courses:
+  - null
+  - '[[Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals]]'
+path_nav: '[{"path":"Become a Business Intelligence Specialist","position":9,"total":9,"prev":"Data Visualization for Data Analysts and Analytics","next":null},{"path":"Master Microsoft Power BI","position":5,"total":6,"prev":"Power BI Top Skills","next":"Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Power BI: Integrating AI](https://media.licdn.com/dms/image/v2/D560DAQGO1pcjVw3clg/learning-public-crop_675_1200/B56ZgfQ3K3HQAc-/0/1752871171037?e=2147483647&amp;v=beta&amp;t=MlCg90U9FgA6KxNRJozL_hjkyQsFUxotSuWTStR31Qg)

@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFnP97nRX4AYA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703205476130?e=2147483647&amp;v=beta&amp;t=xnfD16OWf92TaIaeX1R8HOzhnDGOkIJk2cJcM_glu_k"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Starting Your Career in Tech- Data Science
+  - '[[Starting Your Career in Tech- Data Science]]'
+prev_courses:
+  - '[[The Non Technical Skills Of Effective Data Scientists]]'
+next_courses:
+  - '[[Get a Remote Data Science Job]]'
+path_nav: '[{"path":"Starting Your Career in Tech- Data Science","position":6,"total":8,"prev":"The Non Technical Skills Of Effective Data Scientists","next":"Get a Remote Data Science Job"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![15 Tips for Landing a Data Science Job](https://media.licdn.com/dms/image/v2/D560DAQFnP97nRX4AYA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703205476130?e=2147483647&amp;v=beta&amp;t=xnfD16OWf92TaIaeX1R8HOzhnDGOkIJk2cJcM_glu_k)

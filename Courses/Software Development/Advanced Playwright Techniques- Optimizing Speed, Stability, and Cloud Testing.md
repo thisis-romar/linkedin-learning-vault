@@ -17,14 +17,17 @@ github: "https://github.com/LinkedInLearning/advanced-playwright-techniques-5210
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGHxE52KnuJdQ/learning-public-crop_675_1200/B4DZZkgSNWG8AY-/0/1745442907701?e=2147483647&amp;v=beta&amp;t=ms2XvyG0D7-kDyb_SrHN9vj3sYqlE5CRYUbtZ38PXN8"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Test Automation with Playwright
+  - '[[Master Test Automation with Playwright]]'
+prev_courses:
+  - '[[Playwright- Design Patterns]]'
+path_nav: '[{"path":"Master Test Automation with Playwright","position":4,"total":4,"prev":"Playwright- Design Patterns","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing](https://media.licdn.com/dms/image/v2/D4D0DAQGHxE52KnuJdQ/learning-public-crop_675_1200/B4DZZkgSNWG8AY-/0/1745442907701?e=2147483647&amp;v=beta&amp;t=ms2XvyG0D7-kDyb_SrHN9vj3sYqlE5CRYUbtZ38PXN8)

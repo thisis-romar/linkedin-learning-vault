@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/databases-for-nodejs-developers-597
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFkeukZTMUzWQ/learning-public-crop_675_1200/B4EZUlDKTpH0Ag-/0/1740083340781?e=2147483647&amp;v=beta&amp;t=JohyAmMw_Ip6e--vO1-xAmdMmy70m7PhjEBxiESeQJE"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore Web Development with Node.js
+  - '[[Explore Web Development with Node.js]]'
+prev_courses:
+  - '[[Node.js- Testing and Code Quality]]'
+next_courses:
+  - '[[Express Essentials- Build Powerful Web Apps with Node.js]]'
+path_nav: '[{"path":"Explore Web Development with Node.js","position":4,"total":11,"prev":"Node.js- Testing and Code Quality","next":"Express Essentials- Build Powerful Web Apps with Node.js"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/database-development
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Databases for Node.js Developers](https://media.licdn.com/dms/image/v2/D4E0DAQFkeukZTMUzWQ/learning-public-crop_675_1200/B4EZUlDKTpH0Ag-/0/1740083340781?e=2147483647&amp;v=beta&amp;t=JohyAmMw_Ip6e--vO1-xAmdMmy70m7PhjEBxiESeQJE)

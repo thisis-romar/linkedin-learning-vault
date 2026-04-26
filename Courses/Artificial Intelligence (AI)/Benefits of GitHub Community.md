@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQF9w67FF89rCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696284079755?e=2147483647&amp;v=beta&amp;t=9882xBlULltpeTV7Lbj0kARTmwruz41rq94XAUzzYCE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Prepare for the GitHub Foundations Certification
+  - '[[Prepare for the GitHub Foundations Certification]]'
+prev_courses:
+  - '[[GitHub Foundations- Privacy, Security, and Administration]]'
+path_nav: '[{"path":"Prepare for the GitHub Foundations Certification","position":7,"total":7,"prev":"GitHub Foundations- Privacy, Security, and Administration","next":null}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Benefits of GitHub Community](https://media.licdn.com/dms/image/v2/D4D0DAQF9w67FF89rCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696284079755?e=2147483647&amp;v=beta&amp;t=9882xBlULltpeTV7Lbj0kARTmwruz41rq94XAUzzYCE)

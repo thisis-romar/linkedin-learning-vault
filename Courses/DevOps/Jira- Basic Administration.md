@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEy1G1z5kc95w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671662391309?e=2147483647&amp;v=beta&amp;t=uhQ8JbwgdsK9AmUYSAmyiTDq75wHezAkaxZf0EVkM8A"
 linkedin_topic: DevOps
 learning_paths:
-  - Mastering Jira Administration
+  - '[[Mastering Jira Administration]]'
+prev_courses:
+  - '[[Learning Jira Cloud Edition]]'
+next_courses:
+  - '[[Jira Service Management- Administration]]'
+path_nav: '[{"path":"Mastering Jira Administration","position":2,"total":7,"prev":"Learning Jira Cloud Edition","next":"Jira Service Management- Administration"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/system-administration
   - skill/jira
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Jira: Basic Administration](https://media.licdn.com/dms/image/v2/C560DAQEy1G1z5kc95w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671662391309?e=2147483647&amp;v=beta&amp;t=uhQ8JbwgdsK9AmUYSAmyiTDq75wHezAkaxZf0EVkM8A)

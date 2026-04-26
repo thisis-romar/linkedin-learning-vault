@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF9TniyjeEAFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655937477081?e=2147483647&amp;v=beta&amp;t=l2jHiAZyNqcpKtfi4L2ErjYvQ1Dc3jnLZtDrMv52LZ8"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Optimizing Enterprise Security and Productivity Using Microsoft 365
+  - '[[Optimizing Enterprise Security and Productivity Using Microsoft 365]]'
+prev_courses:
+  - '[[Microsoft Entra ID Fundamentals]]'
+next_courses:
+  - '[[Windows 10- Security]]'
+path_nav: '[{"path":"Optimizing Enterprise Security and Productivity Using Microsoft 365","position":6,"total":11,"prev":"Microsoft Entra ID Fundamentals","next":"Windows 10- Security"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Securing Cloud Resources with Microsoft Defender for Cloud](https://media.licdn.com/dms/image/v2/C560DAQF9TniyjeEAFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655937477081?e=2147483647&amp;v=beta&amp;t=l2jHiAZyNqcpKtfi4L2ErjYvQ1Dc3jnLZtDrMv52LZ8)

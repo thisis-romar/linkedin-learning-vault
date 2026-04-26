@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHUKjyvLhzVPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670004565373?e=2147483647&amp;v=beta&amp;t=6iAZrnS6kNYgmTr10X-hdU-8gSsRSVND4J4vOMA0SAM"
 linkedin_topic: Data Science
 learning_paths:
-  - Master the Concepts of Data Visualization and Storytelling
-  - Become a Data Analyst
+  - '[[Master the Concepts of Data Visualization and Storytelling]]'
+  - '[[Become a Data Analyst]]'
+prev_courses:
+  - '[[Picking the Right Chart for Your Data]]'
+  - '[[Power Bi Essential Training]]'
+next_courses:
+  - '[[Data Visualization- Best Practices]]'
+  - '[[Tableau 2024.1- Essential Training]]'
+path_nav: '[{"path":"Master the Concepts of Data Visualization and Storytelling","position":3,"total":7,"prev":"Picking the Right Chart for Your Data","next":"Data Visualization- Best Practices"},{"path":"Become a Data Analyst","position":8,"total":12,"prev":"Power Bi Essential Training","next":"Tableau 2024.1- Essential Training"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/data-visualization
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Data Visualization](https://media.licdn.com/dms/image/v2/C560DAQHUKjyvLhzVPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670004565373?e=2147483647&amp;v=beta&amp;t=6iAZrnS6kNYgmTr10X-hdU-8gSsRSVND4J4vOMA0SAM)

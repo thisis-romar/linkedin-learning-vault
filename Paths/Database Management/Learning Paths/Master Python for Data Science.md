@@ -7,7 +7,7 @@ course_count: 8
 linkedin_topics:
   - Database Management
   - Software Development
-louvain_cluster: 14
+louvain_cluster: 15
 tags:
   - learning-path
   - topic/database-management
@@ -51,7 +51,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Master Python for Data Science
@@ -85,3 +85,7 @@ _Paths that share courses with this one:_
 - [[Master Your Python Skills]] (4 shared courses)
 - [[Moving from Data Scientist to Data Analyst]] (1 shared courses)
 - [[Advance Your Skills in Python]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Database Management]]

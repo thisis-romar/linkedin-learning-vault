@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHOipzpS91UiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117835966?e=2147483647&amp;v=beta&amp;t=zehj-BdbpnIDe9oLizDYNMWV_c3M3BqBJBwhsnEYnns"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your SPSS Skills
+  - '[[Develop Your SPSS Skills]]'
+prev_courses:
+  - '[[Spss Wrangling Visualizing And Modeling Data]]'
+next_courses:
+  - '[[Machine Learning and AI Foundations- Classification Modeling]]'
+path_nav: '[{"path":"Develop Your SPSS Skills","position":2,"total":6,"prev":"Spss Wrangling Visualizing And Modeling Data","next":"Machine Learning and AI Foundations- Classification Modeling"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/linear-regression
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning & AI Foundations: Linear Regression](https://media.licdn.com/dms/image/v2/C4E0DAQHOipzpS91UiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117835966?e=2147483647&amp;v=beta&amp;t=zehj-BdbpnIDe9oLizDYNMWV_c3M3BqBJBwhsnEYnns)

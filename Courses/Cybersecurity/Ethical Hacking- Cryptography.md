@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGG4-UYH329Zw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719250386965?e=2147483647&amp;v=beta&amp;t=8wGTn97slTVByJdl9jlgYOlWQwVb1gg2NQTtcHE5KRY"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an Ethical Hacker
+  - '[[Become an Ethical Hacker]]'
+prev_courses:
+  - '[[Ethical Hacking- Hacking IoT Devices]]'
+next_courses:
+  - '[[Ethical Hacking- Cloud Computing]]'
+path_nav: '[{"path":"Become an Ethical Hacker","position":17,"total":19,"prev":"Ethical Hacking- Hacking IoT Devices","next":"Ethical Hacking- Cloud Computing"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/ethical-hacking
   - skill/cryptography
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethical Hacking: Cryptography](https://media.licdn.com/dms/image/v2/D560DAQGG4-UYH329Zw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719250386965?e=2147483647&amp;v=beta&amp;t=8wGTn97slTVByJdl9jlgYOlWQwVb1gg2NQTtcHE5KRY)

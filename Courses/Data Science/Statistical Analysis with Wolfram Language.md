@@ -10,14 +10,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFHu9hsHaSRRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703195493894?e=2147483647&amp;v=beta&amp;t=yi4rIDEj2FNEADffmEPER1WjsggE1gxEpWNYziqpqvE"
 linkedin_topic: Data Science
 learning_paths:
-  - Statistics Foundations Professional Certificate by Wolfram Research
-  - Build Your Wolfram Language Skills
+  - '[[Statistics Foundations Professional Certificate by Wolfram Research]]'
+  - '[[Build Your Wolfram Language Skills]]'
+prev_courses:
+  - '[[Excel Statistics Essential Training- 2]]'
+  - null
+next_courses:
+  - null
+  - '[[Quantile and Box-Whisker Plots in the Wolfram Language]]'
+path_nav: '[{"path":"Statistics Foundations Professional Certificate by Wolfram Research","position":7,"total":7,"prev":"Excel Statistics Essential Training- 2","next":null},{"path":"Build Your Wolfram Language Skills","position":1,"total":8,"prev":null,"next":"Quantile and Box-Whisker Plots in the Wolfram Language"}]'
 path_count: 2
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Statistical Analysis with Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQFHu9hsHaSRRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703195493894?e=2147483647&amp;v=beta&amp;t=yi4rIDEj2FNEADffmEPER1WjsggE1gxEpWNYziqpqvE)

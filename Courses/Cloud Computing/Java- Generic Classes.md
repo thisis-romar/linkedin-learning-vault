@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF4tQxK1or_Qg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644347162461?e=2147483647&amp;v=beta&amp;t=82M3Js_qxbEHJ5o5nibZaO8oOAvz54kUEsiIibnqYCA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Building Your Java Skills
+  - '[[Building Your Java Skills]]'
+prev_courses:
+  - '[[Java Lambdas And Streams]]'
+next_courses:
+  - '[[Java- Testing with JUnit]]'
+path_nav: '[{"path":"Building Your Java Skills","position":2,"total":6,"prev":"Java Lambdas And Streams","next":"Java- Testing with JUnit"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/generic-programming
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Java: Generic Classes](https://media.licdn.com/dms/image/v2/C560DAQF4tQxK1or_Qg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644347162461?e=2147483647&amp;v=beta&amp;t=82M3Js_qxbEHJ5o5nibZaO8oOAvz54kUEsiIibnqYCA)

@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFtlgzD59tnZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669856812?e=2147483647&amp;v=beta&amp;t=4WUW7jfU6-xRe4ocxrobi7IiL9JHGK-tYJ94wDXYV8k"
 linkedin_topic: DevOps
 learning_paths:
-  - Atlassian IT Service Management (ITSM) Professional Certificate
+  - '[[Atlassian IT Service Management (ITSM) Professional Certificate]]'
+prev_courses:
+  - '[[IT Service Management Foundations- Change Management]]'
+path_nav: '[{"path":"Atlassian IT Service Management (ITSM) Professional Certificate","position":4,"total":4,"prev":"IT Service Management Foundations- Change Management","next":null}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![IT Service Desk: Monitoring and Metrics Fundamentals](https://media.licdn.com/dms/image/v2/C4E0DAQFtlgzD59tnZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669856812?e=2147483647&amp;v=beta&amp;t=4WUW7jfU6-xRe4ocxrobi7IiL9JHGK-tYJ94wDXYV8k)

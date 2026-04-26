@@ -16,7 +16,8 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGV9XdiKGomAg/learning-public-crop_675_1200/B4EZVy5hT6HgAY-/0/1741389436793?e=2147483647&amp;v=beta&amp;t=540XKFsgq4lfZNtW86QhOthcuRiwGdnOwYzGvW6c6Bc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Prepare for the Google Cloud Professional Machine Learning Engineer Certification
+  - '[[Prepare for the Google Cloud Professional Machine Learning Engineer Certification]]'
+path_nav: '[{"path":"Prepare for the Google Cloud Professional Machine Learning Engineer Certification","position":1,"total":1,"prev":null,"next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Google Cloud Professional Machine Learning Engineer Cert Prep](https://media.licdn.com/dms/image/v2/D4E0DAQGV9XdiKGomAg/learning-public-crop_675_1200/B4EZVy5hT6HgAY-/0/1741389436793?e=2147483647&amp;v=beta&amp;t=540XKFsgq4lfZNtW86QhOthcuRiwGdnOwYzGvW6c6Bc)

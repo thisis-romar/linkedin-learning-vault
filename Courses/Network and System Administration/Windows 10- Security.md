@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQG-86S2j1G6kQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626716915412?e=2147483647&amp;v=beta&amp;t=CT3A3M7V5NyZEDSXeAvUQAU9q9APuU1cFU6uIOMJ4s4"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Optimizing Enterprise Security and Productivity Using Microsoft 365
-  - Explore a Career in IT Support
+  - '[[Optimizing Enterprise Security and Productivity Using Microsoft 365]]'
+  - '[[Explore a Career in IT Support]]'
+prev_courses:
+  - '[[Securing Cloud Resources with Microsoft Defender for Cloud]]'
+  - '[[Windows 10- Administration]]'
+next_courses:
+  - '[[Configure and Manage OneDrive]]'
+  - '[[Windows 10- Networking]]'
+path_nav: '[{"path":"Optimizing Enterprise Security and Productivity Using Microsoft 365","position":7,"total":11,"prev":"Securing Cloud Resources with Microsoft Defender for Cloud","next":"Configure and Manage OneDrive"},{"path":"Explore a Career in IT Support","position":6,"total":11,"prev":"Windows 10- Administration","next":"Windows 10- Networking"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - topic/it-help-desk
   - skill/windows-10
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows 10: Security](https://media.licdn.com/dms/image/v2/C560DAQG-86S2j1G6kQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626716915412?e=2147483647&amp;v=beta&amp;t=CT3A3M7V5NyZEDSXeAvUQAU9q9APuU1cFU6uIOMJ4s4)

@@ -19,8 +19,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFD5fYFdNH9Ug/learning-public-crop_675_1200/B4EZbqSXHjGkAY-/0/1747687404255?e=2147483647&amp;v=beta&amp;t=hbl-sUxDJgry-wXj7Pvl1DAZmttLLP28qxi6g_DutVM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security
-  - Working with Data- Engineering, Integration, and MLOps for AI
+  - '[[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]]'
+  - '[[Working with Data- Engineering, Integration, and MLOps for AI]]'
+prev_courses:
+  - '[[Data Preparation, Feature Engineering, and Augmentation for AI Models]]'
+  - '[[Semantic Search and Information Retrieval using GenAI]]'
+next_courses:
+  - '[[MLOps Essentials- Model Development and Integration]]'
+  - null
+path_nav: '[{"path":"MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security","position":6,"total":10,"prev":"Data Preparation, Feature Engineering, and Augmentation for AI Models","next":"MLOps Essentials- Model Development and Integration"},{"path":"Working with Data- Engineering, Integration, and MLOps for AI","position":5,"total":5,"prev":"Semantic Search and Information Retrieval using GenAI","next":null}]'
 path_count: 2
 tags:
   - course
@@ -31,7 +38,7 @@ tags:
   - skill/data-pipelines
   - skill/orchestration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![MLOps and Data Pipeline Orchestration for AI Systems](https://media.licdn.com/dms/image/v2/D4E0DAQFD5fYFdNH9Ug/learning-public-crop_675_1200/B4EZbqSXHjGkAY-/0/1747687404255?e=2147483647&amp;v=beta&amp;t=hbl-sUxDJgry-wXj7Pvl1DAZmttLLP28qxi6g_DutVM)

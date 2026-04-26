@@ -21,7 +21,12 @@ github: "https://github.com/LinkedInLearning/end-to-end-javascript-testing-with-
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEwSS43LqkZMg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732149411297?e=2147483647&amp;v=beta&amp;t=NIDnqTi_E4T7tK1aCMXFecm-Pf606qR71fG-Giv4Pbo"
 linkedin_topic: Software Development
 learning_paths:
-  - Advance Your JavaScript Skills
+  - '[[Advance Your JavaScript Skills]]'
+prev_courses:
+  - '[[Learning JavaScript Debugging]]'
+next_courses:
+  - '[[JavaScript- Modern Browser APIs]]'
+path_nav: '[{"path":"Advance Your JavaScript Skills","position":9,"total":10,"prev":"Learning JavaScript Debugging","next":"JavaScript- Modern Browser APIs"}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +37,7 @@ tags:
   - skill/javascript
   - skill/end-to-end-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![End-to-End JavaScript Testing with Cypress.io](https://media.licdn.com/dms/image/v2/D4D0DAQEwSS43LqkZMg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732149411297?e=2147483647&amp;v=beta&amp;t=NIDnqTi_E4T7tK1aCMXFecm-Pf606qR71fG-Giv4Pbo)

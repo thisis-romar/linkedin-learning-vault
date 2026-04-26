@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEVwWtJieNR-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1636135464973?e=2147483647&amp;v=beta&amp;t=kwTyKN4qvb70c412Dr2osX41zXPmIXIKENz6CSVNv4w"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance as a Tech Leader
-  - Succeeding in Your Tech Career- Software Development
+  - '[[Advance as a Tech Leader]]'
+  - '[[Succeeding in Your Tech Career- Software Development]]'
+prev_courses:
+  - '[[Tech Career Skills- Effective Technical Communication]]'
+  - null
+next_courses:
+  - '[[Tech Career Skills- Moving from Developer to Engineering Manager]]'
+  - '[[Accelerate Your Developer Career]]'
+path_nav: '[{"path":"Advance as a Tech Leader","position":3,"total":8,"prev":"Tech Career Skills- Effective Technical Communication","next":"Tech Career Skills- Moving from Developer to Engineering Manager"},{"path":"Succeeding in Your Tech Career- Software Development","position":1,"total":6,"prev":null,"next":"Accelerate Your Developer Career"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Tech Career Skills: Getting Promoted](https://media.licdn.com/dms/image/v2/C560DAQEVwWtJieNR-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1636135464973?e=2147483647&amp;v=beta&amp;t=kwTyKN4qvb70c412Dr2osX41zXPmIXIKENz6CSVNv4w)

@@ -16,7 +16,10 @@ github: "https://github.com/LinkedInLearning/learning-linux-command-line-3005201
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFKBIqdHlpLgQ/learning-public-crop_675_1200/B4EZjohj_CGYAY-/0/1756247769738?e=2147483647&amp;v=beta&amp;t=SwNwvjs-GlmU-hOVIUVJA3cB6sHvgoD0SaeCgHZWJik"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Ubuntu Linux Professional Certificate by Canonical
+  - '[[Ubuntu Linux Professional Certificate by Canonical]]'
+next_courses:
+  - '[[Ubuntu Linux- Operating System Basics]]'
+path_nav: '[{"path":"Ubuntu Linux Professional Certificate by Canonical","position":1,"total":4,"prev":null,"next":"Ubuntu Linux- Operating System Basics"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/linux-system-administration
   - skill/cli
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Linux Command Line](https://media.licdn.com/dms/image/v2/D4E0DAQFKBIqdHlpLgQ/learning-public-crop_675_1200/B4EZjohj_CGYAY-/0/1756247769738?e=2147483647&amp;v=beta&amp;t=SwNwvjs-GlmU-hOVIUVJA3cB6sHvgoD0SaeCgHZWJik)

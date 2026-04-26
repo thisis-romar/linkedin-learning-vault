@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-your-wolfram-language-skills
 course_count: 8
 linkedin_topics:
   - Data Science
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/data-science
@@ -49,7 +49,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Build Your Wolfram Language Skills
@@ -81,3 +81,7 @@ _Paths that share courses with this one:_
 
 - [[Statistics Foundations Professional Certificate by Wolfram Research]] (1 shared courses)
 - [[Machine Learning Statistical Foundations Professional Certificate by Wolfram Research]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

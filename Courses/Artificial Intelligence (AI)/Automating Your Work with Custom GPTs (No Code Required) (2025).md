@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQESq__yB515XA/learning-public-crop_675_1200/B4DZYh4lm.GkAY-/0/1744325205095?e=2147483647&amp;v=beta&amp;t=jlXY9NN_fOrppFz2nF_0G_x5KIWvlG1rrzpjQfzMKMU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying Generative AI as a Business Professional
+  - '[[Applying Generative AI as a Business Professional]]'
+prev_courses:
+  - '[[How to Boost Your Productivity with AI Tools (2023)]]'
+next_courses:
+  - '[[Amplify Your Communication Skills with Generative AI]]'
+path_nav: '[{"path":"Applying Generative AI as a Business Professional","position":3,"total":6,"prev":"How to Boost Your Productivity with AI Tools (2023)","next":"Amplify Your Communication Skills with Generative AI"}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Automating Your Work with Custom GPTs (No Code Required) (2025)](https://media.licdn.com/dms/image/v2/D4D0DAQESq__yB515XA/learning-public-crop_675_1200/B4DZYh4lm.GkAY-/0/1744325205095?e=2147483647&amp;v=beta&amp;t=jlXY9NN_fOrppFz2nF_0G_x5KIWvlG1rrzpjQfzMKMU)

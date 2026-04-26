@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGOPzldiGaNBg/learning-public-crop_675_1200/B4DZb6i23OG0Ac-/0/1747960164499?e=2147483647&amp;v=beta&amp;t=zHpCmjpVNOjS1pPfNEJIdMpma-hYaepsL4Op8aYMMEA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI Essentials for Sales Professionals
+  - '[[AI Essentials for Sales Professionals]]'
+prev_courses:
+  - '[[Better Relationships and More Sales- Using ChatGPT to Sell]]'
+next_courses:
+  - '[[Sales Strategy- Key Account Growth with AI]]'
+path_nav: '[{"path":"AI Essentials for Sales Professionals","position":3,"total":5,"prev":"Better Relationships and More Sales- Using ChatGPT to Sell","next":"Sales Strategy- Key Account Growth with AI"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/sales
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The AI-Driven Sales Professional: Streamline Systems and Exceed Targets](https://media.licdn.com/dms/image/v2/D4D0DAQGOPzldiGaNBg/learning-public-crop_675_1200/B4DZb6i23OG0Ac-/0/1747960164499?e=2147483647&amp;v=beta&amp;t=zHpCmjpVNOjS1pPfNEJIdMpma-hYaepsL4Op8aYMMEA)

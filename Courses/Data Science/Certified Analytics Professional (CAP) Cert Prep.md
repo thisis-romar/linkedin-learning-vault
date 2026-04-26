@@ -16,14 +16,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF1K4_xfOO7Iw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675116991832?e=2147483647&amp;v=beta&amp;t=hktoR8wgpJ0ILpx4zfPJyx_5bb1o9qalxhL5h_HY8Dc"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Data Analytics Specialist
+  - '[[Become a Data Analytics Specialist]]'
+prev_courses:
+  - '[[Excel and ChatGPT- Data Analysis Power Tips]]'
+path_nav: '[{"path":"Become a Data Analytics Specialist","position":10,"total":10,"prev":"Excel and ChatGPT- Data Analysis Power Tips","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Certified Analytics Professional (CAP) Cert Prep](https://media.licdn.com/dms/image/v2/C560DAQF1K4_xfOO7Iw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675116991832?e=2147483647&amp;v=beta&amp;t=hktoR8wgpJ0ILpx4zfPJyx_5bb1o9qalxhL5h_HY8Dc)

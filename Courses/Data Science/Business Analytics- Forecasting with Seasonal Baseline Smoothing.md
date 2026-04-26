@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHt1kNRSCL-NQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619543038116?e=2147483647&amp;v=beta&amp;t=4LgTsjE5GcXq1UtAlCY-KeaDDZ3p5GBpArWzbO_EMS8"
 linkedin_topic: Data Science
 learning_paths:
-  - Get Ahead in Business Analytics and Analysis
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+prev_courses:
+  - '[[Business Analytics- Forecasting with Exponential Smoothing]]'
+next_courses:
+  - '[[Requirements Elicitation and Analysis]]'
+path_nav: '[{"path":"Get Ahead in Business Analytics and Analysis","position":15,"total":19,"prev":"Business Analytics- Forecasting with Exponential Smoothing","next":"Requirements Elicitation and Analysis"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/business-intelligence-bi
   - skill/forecasting
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analytics: Forecasting with Seasonal Baseline Smoothing](https://media.licdn.com/dms/image/v2/C4E0DAQHt1kNRSCL-NQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619543038116?e=2147483647&amp;v=beta&amp;t=4LgTsjE5GcXq1UtAlCY-KeaDDZ3p5GBpArWzbO_EMS8)

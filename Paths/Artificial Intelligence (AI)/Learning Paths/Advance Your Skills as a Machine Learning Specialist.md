@@ -7,7 +7,7 @@ course_count: 9
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -55,7 +55,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Skills as a Machine Learning Specialist
@@ -92,3 +92,7 @@ _Paths that share courses with this one:_
 - [[Learning Codeless Machine Learning with KNIME]] (2 shared courses)
 - [[Fundamentals to Become a Machine Learning Engineer]] (1 shared courses)
 - [[Advance Your Skills in AI and Machine Learning]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

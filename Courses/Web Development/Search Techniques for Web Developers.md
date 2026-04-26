@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEcRfIBAEJ9Lg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627407418577?e=2147483647&amp;v=beta&amp;t=RS1_gS3ArtFQFZcm9muSGbX6a6wrk9yXRC7kmZjfnNY"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore a Career in Front-End Web Development
-  - Become a Full-Stack Web Developer
+  - '[[Explore a Career in Front-End Web Development]]'
+  - '[[Become a Full-Stack Web Developer]]'
+prev_courses:
+  - '[[JavaScript Essential Training]]'
+  - '[[HTML Essential Training]]'
+next_courses:
+  - '[[Web Programming Foundations]]'
+  - '[[Learning ECMAScript 6+ (ES6+)]]'
+path_nav: '[{"path":"Explore a Career in Front-End Web Development","position":5,"total":11,"prev":"JavaScript Essential Training","next":"Web Programming Foundations"},{"path":"Become a Full-Stack Web Developer","position":4,"total":12,"prev":"HTML Essential Training","next":"Learning ECMAScript 6+ (ES6+)"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/web-application-development
   - skill/search
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Search Techniques for Web Developers](https://media.licdn.com/dms/image/v2/C560DAQEcRfIBAEJ9Lg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627407418577?e=2147483647&amp;v=beta&amp;t=RS1_gS3ArtFQFZcm9muSGbX6a6wrk9yXRC7kmZjfnNY)

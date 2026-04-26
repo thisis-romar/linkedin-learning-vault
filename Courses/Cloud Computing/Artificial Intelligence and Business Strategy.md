@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGrKyRKPbnErQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646242166320?e=2147483647&amp;v=beta&amp;t=73NIGV_fXfanUPncrnryipzAou_QelSFbWyx-v98zpk"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance Your Digital Transformation Strategy as a Leader
-  - Generative AI for Supply Chain Professional Certificate by CSCMP
+  - '[[Advance Your Digital Transformation Strategy as a Leader]]'
+  - '[[Generative AI for Supply Chain Professional Certificate by CSCMP]]'
+prev_courses:
+  - '[[Upskilling and Reskilling Your Workforce]]'
+  - '[[Using Generative Artificial Intelligence (AI) in Supply Chains]]'
+next_courses:
+  - '[[Planning For The Remote First Work From Anywhere Organization]]'
+  - '[[Digital Transformation in Supply Chains]]'
+path_nav: '[{"path":"Advance Your Digital Transformation Strategy as a Leader","position":4,"total":6,"prev":"Upskilling and Reskilling Your Workforce","next":"Planning For The Remote First Work From Anywhere Organization"},{"path":"Generative AI for Supply Chain Professional Certificate by CSCMP","position":3,"total":4,"prev":"Using Generative Artificial Intelligence (AI) in Supply Chains","next":"Digital Transformation in Supply Chains"}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +26,7 @@ tags:
   - topic/software-development
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Artificial Intelligence and Business Strategy](https://media.licdn.com/dms/image/v2/C4E0DAQGrKyRKPbnErQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646242166320?e=2147483647&amp;v=beta&amp;t=73NIGV_fXfanUPncrnryipzAou_QelSFbWyx-v98zpk)

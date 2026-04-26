@@ -17,9 +17,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGLqDpZ_D9_nA/learning-public-crop_675_1200/B4EZiu6Du3HIAY-/0/1755281112853?e=2147483647&amp;v=beta&amp;t=DtspwDseZEn10xY7PymFH-ylht9RLXzIhDvMfA4mrrA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Career Essentials in Administrative Assistance by Microsoft and LinkedIn
-  - Microsoft Copilot for Productivity by Microsoft and LinkedIn
-  - Career Essentials in Generative AI by Microsoft and LinkedIn
+  - '[[Career Essentials in Administrative Assistance by Microsoft and LinkedIn]]'
+  - '[[Microsoft Copilot for Productivity by Microsoft and LinkedIn]]'
+  - '[[Career Essentials in Generative AI by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Communication Foundations]]'
+  - null
+  - '[[Your Top Ai Questions Answered Ai Literacy For Everyone]]'
+next_courses:
+  - '[[Tips for Writing Business Emails]]'
+  - '[[Microsoft Copilot The Art Of Prompt Writing]]'
+  - '[[Ethics in the Age of Generative AI]]'
+path_nav: '[{"path":"Career Essentials in Administrative Assistance by Microsoft and LinkedIn","position":2,"total":7,"prev":"Communication Foundations","next":"Tips for Writing Business Emails"},{"path":"Microsoft Copilot for Productivity by Microsoft and LinkedIn","position":1,"total":7,"prev":null,"next":"Microsoft Copilot The Art Of Prompt Writing"},{"path":"Career Essentials in Generative AI by Microsoft and LinkedIn","position":3,"total":5,"prev":"Your Top Ai Questions Answered Ai Literacy For Everyone","next":"Ethics in the Age of Generative AI"}]'
 path_count: 3
 tags:
   - course
@@ -30,7 +39,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Microsoft 365 Copilot for Work](https://media.licdn.com/dms/image/v2/D4E0DAQGLqDpZ_D9_nA/learning-public-crop_675_1200/B4EZiu6Du3HIAY-/0/1755281112853?e=2147483647&amp;v=beta&amp;t=DtspwDseZEn10xY7PymFH-ylht9RLXzIhDvMfA4mrrA)

@@ -19,8 +19,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF6IUEHzKfKnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696012674652?e=2147483647&amp;v=beta&amp;t=iJrbkmm8miD8Y602D7B4KgnjvnMk3PhOmyfSIhBEneA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
-  - Advance Your Skills in AI and Machine Learning
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[Advance Your Skills in AI and Machine Learning]]'
+prev_courses:
+  - '[[Generative AI Approaches to Business Challenges]]'
+  - '[[AI Workshop- Hands-on with GANs with Deep Convolutional Networks]]'
+next_courses:
+  - '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
+  - '[[MLOps Essentials- Model Development and Integration]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":8,"total":22,"prev":"Generative AI Approaches to Business Challenges","next":"Understanding Generative AI in Cloud Computing- Services and Use Cases"},{"path":"Advance Your Skills in AI and Machine Learning","position":9,"total":16,"prev":"AI Workshop- Hands-on with GANs with Deep Convolutional Networks","next":"MLOps Essentials- Model Development and Integration"}]'
 path_count: 2
 tags:
   - course
@@ -31,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/it-automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Exploring AIOps](https://media.licdn.com/dms/image/v2/D560DAQF6IUEHzKfKnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696012674652?e=2147483647&amp;v=beta&amp;t=iJrbkmm8miD8Y602D7B4KgnjvnMk3PhOmyfSIhBEneA)

@@ -18,9 +18,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQG94hya2dyecw/learning-public-crop_675_1200/B4EZkLc0L2IwAg-/0/1756833727967?e=2147483647&amp;v=beta&amp;t=ZT9tm1YKLJB0SP_A9QUDasuV_L8YwzqQJbwqg50Sqfo"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Fundamentals to Become a Machine Learning Engineer
-  - Advance Your Skills in AI and Machine Learning
-  - Advance Your Skills as a Machine Learning Specialist
+  - '[[Fundamentals to Become a Machine Learning Engineer]]'
+  - '[[Advance Your Skills in AI and Machine Learning]]'
+  - '[[Advance Your Skills as a Machine Learning Specialist]]'
+prev_courses:
+  - '[[Deep Learning Getting Started]]'
+  - '[[Applied Machine Learning Ensemble Learning]]'
+  - '[[Machine Learning and AI Foundations- Prediction, Causation, and Statistical Inference]]'
+next_courses:
+  - '[[Reinforcement Learning Foundations]]'
+  - '[[Reinforcement Learning Foundations]]'
+  - null
+path_nav: '[{"path":"Fundamentals to Become a Machine Learning Engineer","position":5,"total":7,"prev":"Deep Learning Getting Started","next":"Reinforcement Learning Foundations"},{"path":"Advance Your Skills in AI and Machine Learning","position":2,"total":16,"prev":"Applied Machine Learning Ensemble Learning","next":"Reinforcement Learning Foundations"},{"path":"Advance Your Skills as a Machine Learning Specialist","position":9,"total":9,"prev":"Machine Learning and AI Foundations- Prediction, Causation, and Statistical Inference","next":null}]'
 path_count: 3
 tags:
   - course
@@ -30,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Deep Learning: Model Optimization and Tuning (2022)](https://media.licdn.com/dms/image/v2/D4E0DAQG94hya2dyecw/learning-public-crop_675_1200/B4EZkLc0L2IwAg-/0/1756833727967?e=2147483647&amp;v=beta&amp;t=ZT9tm1YKLJB0SP_A9QUDasuV_L8YwzqQJbwqg50Sqfo)

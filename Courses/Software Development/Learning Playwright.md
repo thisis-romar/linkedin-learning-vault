@@ -16,8 +16,15 @@ github: "https://github.com/LinkedInLearning/learning-playwright-5911873"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQH9KXFauT3_nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730827611420?e=2147483647&amp;v=beta&amp;t=Hgonc3KqLVcsREG50BjKBFZ07NP2DY-pksa9-Oweu7Q"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Test Automation with Playwright
-  - Getting Started with Software Testing
+  - '[[Master Test Automation with Playwright]]'
+  - '[[Getting Started with Software Testing]]'
+prev_courses:
+  - null
+  - '[[Learning Selenium- Structure, Scale, Run, and Optimize Automated Tests]]'
+next_courses:
+  - '[[Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios]]'
+  - '[[JMeter- Performance and Load Testing]]'
+path_nav: '[{"path":"Master Test Automation with Playwright","position":1,"total":4,"prev":null,"next":"Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios"},{"path":"Getting Started with Software Testing","position":6,"total":12,"prev":"Learning Selenium- Structure, Scale, Run, and Optimize Automated Tests","next":"JMeter- Performance and Load Testing"}]'
 path_count: 2
 tags:
   - course
@@ -25,7 +32,7 @@ tags:
   - skill/test-automation-tools
   - skill/automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Playwright](https://media.licdn.com/dms/image/v2/D4D0DAQH9KXFauT3_nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730827611420?e=2147483647&amp;v=beta&amp;t=Hgonc3KqLVcsREG50BjKBFZ07NP2DY-pksa9-Oweu7Q)

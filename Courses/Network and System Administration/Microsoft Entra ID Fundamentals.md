@@ -16,12 +16,27 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGdM-I2OouHxg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008944060?e=2147483647&amp;v=beta&amp;t=M4_Ml1E55Odn2dujrAcYvFXtAsj40gCFhF3oobqCBUM"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Optimizing Enterprise Security and Productivity Using Microsoft 365
-  - Explore a Career in IT Support
-  - Azure Administration for Beginners- Management Tools, Services, and Security
-  - The Top Skills IT Professionals Have Right Now
-  - Identity and Access Management in Azure
-  - Advance Your Skills with Microsoft Entra ID
+  - '[[Optimizing Enterprise Security and Productivity Using Microsoft 365]]'
+  - '[[Explore a Career in IT Support]]'
+  - '[[Azure Administration for Beginners- Management Tools, Services, and Security]]'
+  - '[[The Top Skills IT Professionals Have Right Now]]'
+  - '[[Identity and Access Management in Azure]]'
+  - '[[Advance Your Skills with Microsoft Entra ID]]'
+prev_courses:
+  - '[[Windows 10- Administration]]'
+  - '[[Computer Components and Peripherals for IT Technicians]]'
+  - '[[Azure Management Basics- Portal, PowerShell, Bicep, and CLI]]'
+  - '[[SQL Server Intelligence- Cracking the Code of Enterprise Data]]'
+  - null
+  - null
+next_courses:
+  - '[[Securing Cloud Resources with Microsoft Defender for Cloud]]'
+  - '[[Windows 10- Supporting Users Essential Training]]'
+  - '[[Azure Networking and Security for Beginners- Tools and Services]]'
+  - '[[Azure Administration Essential Training]]'
+  - '[[Microsoft Azure- Identity and Access Management]]'
+  - '[[Planning for Microsoft Entra ID]]'
+path_nav: '[{"path":"Optimizing Enterprise Security and Productivity Using Microsoft 365","position":5,"total":11,"prev":"Windows 10- Administration","next":"Securing Cloud Resources with Microsoft Defender for Cloud"},{"path":"Explore a Career in IT Support","position":3,"total":11,"prev":"Computer Components and Peripherals for IT Technicians","next":"Windows 10- Supporting Users Essential Training"},{"path":"Azure Administration for Beginners- Management Tools, Services, and Security","position":4,"total":5,"prev":"Azure Management Basics- Portal, PowerShell, Bicep, and CLI","next":"Azure Networking and Security for Beginners- Tools and Services"},{"path":"The Top Skills IT Professionals Have Right Now","position":4,"total":10,"prev":"SQL Server Intelligence- Cracking the Code of Enterprise Data","next":"Azure Administration Essential Training"},{"path":"Identity and Access Management in Azure","position":1,"total":4,"prev":null,"next":"Microsoft Azure- Identity and Access Management"},{"path":"Advance Your Skills with Microsoft Entra ID","position":1,"total":3,"prev":null,"next":"Planning for Microsoft Entra ID"}]'
 path_count: 6
 tags:
   - course
@@ -33,7 +48,7 @@ tags:
   - topic/software-development
   - skill/microsoft-entra-id
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft Entra ID Fundamentals](https://media.licdn.com/dms/image/v2/D560DAQGdM-I2OouHxg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008944060?e=2147483647&amp;v=beta&amp;t=M4_Ml1E55Odn2dujrAcYvFXtAsj40gCFhF3oobqCBUM)

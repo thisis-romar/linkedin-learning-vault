@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGkW8sKlvpD8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244900036?e=2147483647&amp;v=beta&amp;t=kgcJg172G0Ffnl_R7FccMyBG55mvsYU_6lxFvVwZvJU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your SPSS Skills
+  - '[[Develop Your SPSS Skills]]'
+prev_courses:
+  - '[[Machine Learning and AI Foundations- Classification Modeling]]'
+next_courses:
+  - '[[Machine Learning and AI- Advanced Decision Trees with SPSS]]'
+path_nav: '[{"path":"Develop Your SPSS Skills","position":4,"total":6,"prev":"Machine Learning and AI Foundations- Classification Modeling","next":"Machine Learning and AI- Advanced Decision Trees with SPSS"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning and AI Foundations: Decision Trees with SPSS](https://media.licdn.com/dms/image/v2/D4D0DAQGkW8sKlvpD8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244900036?e=2147483647&amp;v=beta&amp;t=kgcJg172G0Ffnl_R7FccMyBG55mvsYU_6lxFvVwZvJU)

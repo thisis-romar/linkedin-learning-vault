@@ -14,14 +14,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEFR5kAepYKVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567114990426?e=2147483647&amp;v=beta&amp;t=C4CYHAn-e7QI0pQfNpYafbsRB50NUATJf_gsbn5RRMc"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Getting Started with Windows Server 2019
+  - '[[Getting Started with Windows Server 2019]]'
+next_courses:
+  - '[[Windows Server 2019- Installation and Configuration]]'
+path_nav: '[{"path":"Getting Started with Windows Server 2019","position":1,"total":4,"prev":null,"next":"Windows Server 2019- Installation and Configuration"}]'
 path_count: 1
 tags:
   - course
   - topic/network-and-system-administration
   - skill/windows-server
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows Server 2019 Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQEFR5kAepYKVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567114990426?e=2147483647&amp;v=beta&amp;t=C4CYHAn-e7QI0pQfNpYafbsRB50NUATJf_gsbn5RRMc)

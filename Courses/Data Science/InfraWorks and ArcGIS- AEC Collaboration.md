@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C510DAQGnzGKIi0xKqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581552165870?e=2147483647&amp;v=beta&amp;t=0Vz2AJjKmX0aiWItWhHzSbsOfAj-6I_pXXh6CnTuqSM"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in GIS
+  - '[[Advance Your Skills in GIS]]'
+prev_courses:
+  - '[[Learning QGIS]]'
+next_courses:
+  - '[[QGIS and Python for AEC]]'
+path_nav: '[{"path":"Advance Your Skills in GIS","position":4,"total":9,"prev":"Learning QGIS","next":"QGIS and Python for AEC"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/arcgis-products
   - skill/autodesk-infraworks
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![InfraWorks and ArcGIS: AEC Collaboration](https://media.licdn.com/dms/image/v2/C510DAQGnzGKIi0xKqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581552165870?e=2147483647&amp;v=beta&amp;t=0Vz2AJjKmX0aiWItWhHzSbsOfAj-6I_pXXh6CnTuqSM)

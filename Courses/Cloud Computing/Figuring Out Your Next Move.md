@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQElmVV_G5THiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567716747636?e=2147483647&amp;v=beta&amp;t=KmWYFzTMJmsgluPEd-WtBeqRdaXfQB34TJwDyWANuFY"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Branding and Skill Building to Advance Your Tech Career
+  - '[[Branding and Skill Building to Advance Your Tech Career]]'
+prev_courses:
+  - '[[How to Boost Your Productivity with AI Tools (2023)]]'
+next_courses:
+  - '[[Navigating Internal Mobility as an Employee]]'
+path_nav: '[{"path":"Branding and Skill Building to Advance Your Tech Career","position":5,"total":6,"prev":"How to Boost Your Productivity with AI Tools (2023)","next":"Navigating Internal Mobility as an Employee"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - topic/software-development
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Figuring Out Your Next Move](https://media.licdn.com/dms/image/v2/C4E0DAQElmVV_G5THiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567716747636?e=2147483647&amp;v=beta&amp;t=KmWYFzTMJmsgluPEd-WtBeqRdaXfQB34TJwDyWANuFY)

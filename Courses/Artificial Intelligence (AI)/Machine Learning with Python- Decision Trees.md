@@ -19,9 +19,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF5DDnnvDIQiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652891297458?e=2147483647&amp;v=beta&amp;t=DTaqIbbpDj86GHOC8bSWAzfTgEXGbBGU8qCiHperQwg"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop with Python for AI and Machine Learning
-  - Advance Your Skills as a Machine Learning Specialist
-  - Machine Learning with Python Professional Certificate by Anaconda
+  - '[[Develop with Python for AI and Machine Learning]]'
+  - '[[Advance Your Skills as a Machine Learning Specialist]]'
+  - '[[Machine Learning with Python Professional Certificate by Anaconda]]'
+prev_courses:
+  - '[[Machine Learning with Python- Foundations]]'
+  - null
+  - '[[Machine Learning with Python- Foundations]]'
+next_courses:
+  - '[[Machine Learning with Python- Logistic Regression]]'
+  - '[[Machine Learning with Python- k-Means Clustering]]'
+  - '[[Machine Learning with Python- Logistic Regression]]'
+path_nav: '[{"path":"Develop with Python for AI and Machine Learning","position":2,"total":6,"prev":"Machine Learning with Python- Foundations","next":"Machine Learning with Python- Logistic Regression"},{"path":"Advance Your Skills as a Machine Learning Specialist","position":1,"total":9,"prev":null,"next":"Machine Learning with Python- k-Means Clustering"},{"path":"Machine Learning with Python Professional Certificate by Anaconda","position":3,"total":6,"prev":"Machine Learning with Python- Foundations","next":"Machine Learning with Python- Logistic Regression"}]'
 path_count: 3
 tags:
   - course
@@ -32,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning with Python: Decision Trees](https://media.licdn.com/dms/image/v2/C4E0DAQF5DDnnvDIQiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652891297458?e=2147483647&amp;v=beta&amp;t=DTaqIbbpDj86GHOC8bSWAzfTgEXGbBGU8qCiHperQwg)

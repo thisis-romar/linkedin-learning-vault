@@ -20,7 +20,10 @@ github: "https://github.com/LinkedInLearning/build-a-javascript-ai-app-with-reac
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFDc6TdaL8EZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695234022487?e=2147483647&amp;v=beta&amp;t=Qo0PBkJ6jyIDIwrWJ_EmFEj8u-AHIUPRstgPpSSTBuY"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Generative AI Skills for Web Developers
+  - '[[Building Generative AI Skills for Web Developers]]'
+prev_courses:
+  - '[[AI Programming for JavaScript Developers]]'
+path_nav: '[{"path":"Building Generative AI Skills for Web Developers","position":10,"total":10,"prev":"AI Programming for JavaScript Developers","next":null}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +35,7 @@ tags:
   - skill/react-js
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Build a JavaScript AI App with React and the OpenAI API](https://media.licdn.com/dms/image/v2/D4D0DAQFDc6TdaL8EZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695234022487?e=2147483647&amp;v=beta&amp;t=Qo0PBkJ6jyIDIwrWJ_EmFEj8u-AHIUPRstgPpSSTBuY)

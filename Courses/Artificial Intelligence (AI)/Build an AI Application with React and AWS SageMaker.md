@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG9K5NjptA6Pg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713547493798?e=2147483647&amp;v=beta&amp;t=kubxnvYjOyWeMn1vJfzqieRe2gzv-a7KWxwmaCfa_KA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Generative AI Skills for Web Developers
+  - '[[Building Generative AI Skills for Web Developers]]'
+prev_courses:
+  - '[[Integrating Generative AI into JavaScript Web Projects]]'
+next_courses:
+  - '[[Build with AI- Beyond Pair Programming with AI]]'
+path_nav: '[{"path":"Building Generative AI Skills for Web Developers","position":7,"total":10,"prev":"Integrating Generative AI into JavaScript Web Projects","next":"Build with AI- Beyond Pair Programming with AI"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/aws-sagemaker
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Build an AI Application with React and AWS SageMaker](https://media.licdn.com/dms/image/v2/D560DAQG9K5NjptA6Pg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713547493798?e=2147483647&amp;v=beta&amp;t=kubxnvYjOyWeMn1vJfzqieRe2gzv-a7KWxwmaCfa_KA)

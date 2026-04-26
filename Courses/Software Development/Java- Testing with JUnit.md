@@ -19,8 +19,15 @@ github: "https://github.com/LinkedInLearning/java-testing-with-junit-revision-20
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHciFIlwhPI0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716233428910?e=2147483647&amp;v=beta&amp;t=JQGenIAFFeZoWTSjKt1MLIMkvphCkwABakw9VNbkcxg"
 linkedin_topic: Software Development
 learning_paths:
-  - Building Your Java Skills
-  - Getting Started with Software Testing
+  - '[[Building Your Java Skills]]'
+  - '[[Getting Started with Software Testing]]'
+prev_courses:
+  - '[[Java- Generic Classes]]'
+  - '[[International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep]]'
+next_courses:
+  - '[[Complete Guide to Java Design Patterns- Creational, Behavioral, and Structural]]'
+  - '[[SQL for Testers]]'
+path_nav: '[{"path":"Building Your Java Skills","position":3,"total":6,"prev":"Java- Generic Classes","next":"Complete Guide to Java Design Patterns- Creational, Behavioral, and Structural"},{"path":"Getting Started with Software Testing","position":11,"total":12,"prev":"International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep","next":"SQL for Testers"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/junit
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Java: Testing with JUnit](https://media.licdn.com/dms/image/v2/D560DAQHciFIlwhPI0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716233428910?e=2147483647&amp;v=beta&amp;t=JQGenIAFFeZoWTSjKt1MLIMkvphCkwABakw9VNbkcxg)

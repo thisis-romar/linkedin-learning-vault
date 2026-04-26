@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFSyLvxM3X1JA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665588911?e=2147483647&amp;v=beta&amp;t=2jQMSsESaQYw-ic8uBRZ61imxXMSSev3RqHY6xLsN6A"
 linkedin_topic: Data Science
 learning_paths:
-  - Visual Communication for Business Professionals
+  - '[[Visual Communication for Business Professionals]]'
+prev_courses:
+  - '[[Introduction to Graphic Design- Concepts]]'
+next_courses:
+  - '[[The 33 Laws of Typography]]'
+path_nav: '[{"path":"Visual Communication for Business Professionals","position":4,"total":5,"prev":"Introduction to Graphic Design- Concepts","next":"The 33 Laws of Typography"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/graphic-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Graphic Design: Layouts](https://media.licdn.com/dms/image/v2/C4E0DAQFSyLvxM3X1JA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665588911?e=2147483647&amp;v=beta&amp;t=2jQMSsESaQYw-ic8uBRZ61imxXMSSev3RqHY6xLsN6A)

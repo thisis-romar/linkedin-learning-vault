@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFepN06Mn31bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647638570276?e=2147483647&amp;v=beta&amp;t=le3nrmq-tmW8c7yFZcTuhJqlJzRiQbQPu5w2gG2xrpI"
 linkedin_topic: Software Development
 learning_paths:
-  - The Top Skills Engineering Professionals Have Right Now
-  - Become an Arduino Developer
+  - '[[The Top Skills Engineering Professionals Have Right Now]]'
+  - '[[Become an Arduino Developer]]'
+prev_courses:
+  - '[[Test Automation Foundations]]'
+  - '[[Complete Guide to C Programming Foundations]]'
+next_courses:
+  - null
+  - '[[Arduino- Prototyping]]'
+path_nav: '[{"path":"The Top Skills Engineering Professionals Have Right Now","position":9,"total":9,"prev":"Test Automation Foundations","next":null},{"path":"Become an Arduino Developer","position":9,"total":11,"prev":"Complete Guide to C Programming Foundations","next":"Arduino- Prototyping"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/embedded-c
   - skill/c-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C Programming for Embedded Applications](https://media.licdn.com/dms/image/v2/C4E0DAQFepN06Mn31bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647638570276?e=2147483647&amp;v=beta&amp;t=le3nrmq-tmW8c7yFZcTuhJqlJzRiQbQPu5w2gG2xrpI)

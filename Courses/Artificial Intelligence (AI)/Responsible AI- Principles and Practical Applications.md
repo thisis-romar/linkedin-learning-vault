@@ -18,13 +18,30 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGqvNybNKSEMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666985466726?e=2147483647&amp;v=beta&amp;t=rogHWrwNZuO6vy0MaduyRMdtqtNxmPb_IcT1F0u7Hag"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Mastering Responsible AI- From Concept to Auditing
-  - Responsible AI at Work- Literacy, Ethics, and More
-  - Technical Literacy and Future Readiness for Aspiring Managers
-  - Build AI Aptitude as a New Manager
-  - Build AI Aptitude as a Middle Manager
-  - Mastering Data Governance and Ethics
-  - Advance Your Skills in AI and Machine Learning
+  - '[[Mastering Responsible AI- From Concept to Auditing]]'
+  - '[[Responsible AI at Work- Literacy, Ethics, and More]]'
+  - '[[Technical Literacy and Future Readiness for Aspiring Managers]]'
+  - '[[Build AI Aptitude as a New Manager]]'
+  - '[[Build AI Aptitude as a Middle Manager]]'
+  - '[[Mastering Data Governance and Ethics]]'
+  - '[[Advance Your Skills in AI and Machine Learning]]'
+prev_courses:
+  - '[[Foundations Of Responsible Ai]]'
+  - '[[Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy]]'
+  - '[[Developing A Learning Mindset In The Age Of Ai]]'
+  - '[[Everyday Ai Concepts]]'
+  - '[[Generative AI for Business Leaders]]'
+  - '[[Foundations Of Responsible Ai]]'
+  - '[[Foundations Of Responsible Ai]]'
+next_courses:
+  - '[[Introduction to AI Governance]]'
+  - '[[Introduction to Agentic AI Governance]]'
+  - '[[How to Boost Your Productivity with AI Tools]]'
+  - '[[How to Boost Your Productivity with AI Tools (2023)]]'
+  - '[[Generative AI Approaches to Business Challenges]]'
+  - null
+  - '[[Introduction to AI Governance]]'
+path_nav: '[{"path":"Mastering Responsible AI- From Concept to Auditing","position":2,"total":7,"prev":"Foundations Of Responsible Ai","next":"Introduction to AI Governance"},{"path":"Responsible AI at Work- Literacy, Ethics, and More","position":5,"total":6,"prev":"Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy","next":"Introduction to Agentic AI Governance"},{"path":"Technical Literacy and Future Readiness for Aspiring Managers","position":2,"total":5,"prev":"Developing A Learning Mindset In The Age Of Ai","next":"How to Boost Your Productivity with AI Tools"},{"path":"Build AI Aptitude as a New Manager","position":3,"total":4,"prev":"Everyday Ai Concepts","next":"How to Boost Your Productivity with AI Tools (2023)"},{"path":"Build AI Aptitude as a Middle Manager","position":4,"total":5,"prev":"Generative AI for Business Leaders","next":"Generative AI Approaches to Business Challenges"},{"path":"Mastering Data Governance and Ethics","position":9,"total":9,"prev":"Foundations Of Responsible Ai","next":null},{"path":"Advance Your Skills in AI and Machine Learning","position":15,"total":16,"prev":"Foundations Of Responsible Ai","next":"Introduction to AI Governance"}]'
 path_count: 7
 tags:
   - course
@@ -35,7 +52,7 @@ tags:
   - skill/business-process-automation
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Responsible AI: Principles and Practical Applications](https://media.licdn.com/dms/image/v2/D560DAQGqvNybNKSEMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666985466726?e=2147483647&amp;v=beta&amp;t=rogHWrwNZuO6vy0MaduyRMdtqtNxmPb_IcT1F0u7Hag)

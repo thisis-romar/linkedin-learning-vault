@@ -8,15 +8,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEljXfFhlcqLw/learning-public-crop_675_1200/B4DZThvKDLHIAc-/0/1738954023899?e=2147483647&amp;v=beta&amp;t=A75XMgs0wOSOwSlif2YuyqvAW7P0Y29o3vJyoIXzgf8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build Your Generative AI Productivity Skills with Microsoft and LinkedIn
-  - Microsoft Copilot for Productivity by Microsoft and LinkedIn
+  - '[[Build Your Generative AI Productivity Skills with Microsoft and LinkedIn]]'
+  - '[[Microsoft Copilot for Productivity by Microsoft and LinkedIn]]'
+prev_courses:
+  - null
+  - '[[Learning Microsoft 365 Copilot for Work]]'
+next_courses:
+  - '[[AI Productivity Hacks to Reimagine Your Workday and Career]]'
+  - '[[Copilot in Teams- AI-Powered Collaboration]]'
+path_nav: '[{"path":"Build Your Generative AI Productivity Skills with Microsoft and LinkedIn","position":1,"total":5,"prev":null,"next":"AI Productivity Hacks to Reimagine Your Workday and Career"},{"path":"Microsoft Copilot for Productivity by Microsoft and LinkedIn","position":2,"total":7,"prev":"Learning Microsoft 365 Copilot for Work","next":"Copilot in Teams- AI-Powered Collaboration"}]'
 path_count: 2
 tags:
   - course
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft Copilot The Art Of Prompt Writing](https://media.licdn.com/dms/image/v2/D4D0DAQEljXfFhlcqLw/learning-public-crop_675_1200/B4DZThvKDLHIAc-/0/1738954023899?e=2147483647&amp;v=beta&amp;t=A75XMgs0wOSOwSlif2YuyqvAW7P0Y29o3vJyoIXzgf8)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-in-ai-and-machi
 course_count: 16
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -81,7 +81,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Skills in AI and Machine Learning
@@ -124,3 +124,7 @@ _Paths that share courses with this one:_
 - [[Advance Your Skills in Deep Learning and Neural Networks]] (3 shared courses)
 - [[Fundamentals to Become a Machine Learning Engineer]] (3 shared courses)
 - [[Understanding Generative AI for Tech Leaders]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

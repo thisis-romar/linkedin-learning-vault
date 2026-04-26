@@ -29,7 +29,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Twilio Programmable Messaging and Voice Professional Certificate
@@ -49,3 +49,7 @@ created: '2026-04-20'
 ## Topics
 
 - [[Software Development]]
+
+---
+
+Part of [[000 Map of Content]] · [[Software Development]]

@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/c-design-patterns-part-2-2873342"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGZvQHGYeZ0Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618509686303?e=2147483647&amp;v=beta&amp;t=-V2x7OIgWecnWnjKybTAgqbBAuCo0DAfpNvn0dk2DW0"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started as a C- Developer
+  - '[[Getting Started as a C- Developer]]'
+prev_courses:
+  - '[[C- Design Patterns Part 1]]'
+next_courses:
+  - '[[Nail Your C- Interview]]'
+path_nav: '[{"path":"Getting Started as a C- Developer","position":8,"total":9,"prev":"C- Design Patterns Part 1","next":"Nail Your C- Interview"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C#: Design Patterns Part 2](https://media.licdn.com/dms/image/v2/C4E0DAQGZvQHGYeZ0Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618509686303?e=2147483647&amp;v=beta&amp;t=-V2x7OIgWecnWnjKybTAgqbBAuCo0DAfpNvn0dk2DW0)

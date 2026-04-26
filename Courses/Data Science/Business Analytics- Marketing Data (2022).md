@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHCjNKkew5HHg/learning-public-crop_675_1200/B4EZoYWZyJGcAY-/0/1761345117651?e=2147483647&amp;v=beta&amp;t=HB1Sf0Ztr8xP5kXFtbRL2rboUUFTDWJNhZm3UkpkNPQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Get Ahead in Business Analytics and Analysis
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+prev_courses:
+  - '[[Requirements Elicitation for Business Analysis- Stakeholder Conversations]]'
+next_courses:
+  - '[[Business Analytics- Sales Data (2022)]]'
+path_nav: '[{"path":"Get Ahead in Business Analytics and Analysis","position":18,"total":19,"prev":"Requirements Elicitation for Business Analysis- Stakeholder Conversations","next":"Business Analytics- Sales Data (2022)"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/marketing-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analytics: Marketing Data (2022)](https://media.licdn.com/dms/image/v2/D4E0DAQHCjNKkew5HHg/learning-public-crop_675_1200/B4EZoYWZyJGcAY-/0/1761345117651?e=2147483647&amp;v=beta&amp;t=HB1Sf0Ztr8xP5kXFtbRL2rboUUFTDWJNhZm3UkpkNPQ)

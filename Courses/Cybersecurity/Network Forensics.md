@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHM5cX6efqsgw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731113345222?e=2147483647&amp;v=beta&amp;t=LZ2Xs4EhCvkuZS-Q2zWN1ilB4jU3Zk7nUFnJ8PG4qLA"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Explore a Career in Computer Forensics
+  - '[[Explore a Career in Computer Forensics]]'
+prev_courses:
+  - '[[Operating System Forensics]]'
+next_courses:
+  - '[[Wireshark- Malware and Forensics]]'
+path_nav: '[{"path":"Explore a Career in Computer Forensics","position":4,"total":9,"prev":"Operating System Forensics","next":"Wireshark- Malware and Forensics"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/network-forensics
   - skill/network-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Network Forensics](https://media.licdn.com/dms/image/v2/D4D0DAQHM5cX6efqsgw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731113345222?e=2147483647&amp;v=beta&amp;t=LZ2Xs4EhCvkuZS-Q2zWN1ilB4jU3Zk7nUFnJ8PG4qLA)

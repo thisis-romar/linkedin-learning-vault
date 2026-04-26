@@ -8,14 +8,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHkN5mxyIRw4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660760563867?e=2147483647&amp;v=beta&amp;t=Qdxf3yUdHJMFPFqIaWOJBHw3P3pQbZRN4JOV5FVUwVo"
 linkedin_topic: Web Development
 learning_paths:
-  - Prepare for Digital Accessibility
-  - Advance Your Skills in User Experience Design
+  - '[[Prepare for Digital Accessibility]]'
+  - '[[Advance Your Skills in User Experience Design]]'
+prev_courses:
+  - null
+  - '[[UX Deep Dive- Mapping]]'
+next_courses:
+  - '[[UX Foundations- Accessibility]]'
+  - '[[Ux Foundations Interaction Design]]'
+path_nav: '[{"path":"Prepare for Digital Accessibility","position":1,"total":8,"prev":null,"next":"UX Foundations- Accessibility"},{"path":"Advance Your Skills in User Experience Design","position":4,"total":9,"prev":"UX Deep Dive- Mapping","next":"Ux Foundations Interaction Design"}]'
 path_count: 2
 tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Practical Accessibility For Designers](https://media.licdn.com/dms/image/v2/C4E0DAQHkN5mxyIRw4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660760563867?e=2147483647&amp;v=beta&amp;t=Qdxf3yUdHJMFPFqIaWOJBHw3P3pQbZRN4JOV5FVUwVo)

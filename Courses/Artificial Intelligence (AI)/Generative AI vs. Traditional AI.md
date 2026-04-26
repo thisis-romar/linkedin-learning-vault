@@ -18,9 +18,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQF-8-MuR5p61g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697645643991?e=2147483647&amp;v=beta&amp;t=OT8hT8JSKHThPglPz60eIQl_FmHi6HGdUN5hvVRoSrI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
-  - Building Generative AI Skills for Web Developers
-  - Building Generative AI Skills for Developers
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[Building Generative AI Skills for Web Developers]]'
+  - '[[Building Generative AI Skills for Developers]]'
+prev_courses:
+  - '[[What Is Generative AI-]]'
+  - '[[What Is Generative AI-]]'
+  - null
+next_courses:
+  - '[[Generative AI- Introduction to Large Language Models]]'
+  - '[[Prompt Engineering- How to Talk to the AIs]]'
+  - '[[Introduction to Large Language Models]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":2,"total":22,"prev":"What Is Generative AI-","next":"Generative AI- Introduction to Large Language Models"},{"path":"Building Generative AI Skills for Web Developers","position":2,"total":10,"prev":"What Is Generative AI-","next":"Prompt Engineering- How to Talk to the AIs"},{"path":"Building Generative AI Skills for Developers","position":1,"total":7,"prev":null,"next":"Introduction to Large Language Models"}]'
 path_count: 3
 tags:
   - course
@@ -32,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/traditional-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI vs. Traditional AI](https://media.licdn.com/dms/image/v2/D4E0DAQF-8-MuR5p61g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697645643991?e=2147483647&amp;v=beta&amp;t=OT8hT8JSKHThPglPz60eIQl_FmHi6HGdUN5hvVRoSrI)

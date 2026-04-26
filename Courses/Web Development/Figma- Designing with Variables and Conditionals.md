@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFzKC8XFxiUhg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709242496201?e=2147483647&amp;v=beta&amp;t=rqwJOu_pzEzfqI6uN0B9sgt96TEklCcgyBUYH_dLoiM"
 linkedin_topic: Web Development
 learning_paths:
-  - Design User Experiences with Figma
+  - '[[Design User Experiences with Figma]]'
+prev_courses:
+  - '[[Accessibility and Inclusion with Figma]]'
+next_courses:
+  - '[[Designing Microinteractions with Figma]]'
+path_nav: '[{"path":"Design User Experiences with Figma","position":4,"total":6,"prev":"Accessibility and Inclusion with Figma","next":"Designing Microinteractions with Figma"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Figma: Designing with Variables and Conditionals](https://media.licdn.com/dms/image/v2/D560DAQFzKC8XFxiUhg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709242496201?e=2147483647&amp;v=beta&amp;t=rqwJOu_pzEzfqI6uN0B9sgt96TEklCcgyBUYH_dLoiM)

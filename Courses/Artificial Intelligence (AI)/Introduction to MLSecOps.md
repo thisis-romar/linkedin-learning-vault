@@ -19,8 +19,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHs1T-HUespIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712095544658?e=2147483647&amp;v=beta&amp;t=6JO_HCVWm9oBz2uMB4BcFNSDAxrhjnuPCB7KQnbQ_3s"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security
-  - Develop Your AI Skills as a Cybersecurity Professional
+  - '[[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]]'
+  - '[[Develop Your AI Skills as a Cybersecurity Professional]]'
+prev_courses:
+  - '[[MLOps Essentials- Monitoring Model Drift and Bias]]'
+  - '[[Red Teaming for Generative AI- Building Robust and Responsible Solutions]]'
+next_courses:
+  - null
+  - '[[Leveraging AI for Security Testing]]'
+path_nav: '[{"path":"MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security","position":10,"total":10,"prev":"MLOps Essentials- Monitoring Model Drift and Bias","next":null},{"path":"Develop Your AI Skills as a Cybersecurity Professional","position":6,"total":8,"prev":"Red Teaming for Generative AI- Building Robust and Responsible Solutions","next":"Leveraging AI for Security Testing"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to MLSecOps](https://media.licdn.com/dms/image/v2/D560DAQHs1T-HUespIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712095544658?e=2147483647&amp;v=beta&amp;t=6JO_HCVWm9oBz2uMB4BcFNSDAxrhjnuPCB7KQnbQ_3s)

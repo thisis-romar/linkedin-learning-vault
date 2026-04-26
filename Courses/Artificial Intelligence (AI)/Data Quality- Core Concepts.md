@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE-F9EAjv69uQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732063834035?e=2147483647&amp;v=beta&amp;t=anjsXxzSWBJJpjN3pZPxwdes26CrhC3murEUQsr_TGE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Processing
+  - '[[Introduction to Fundamental Skills for Data Work- Data Processing]]'
+prev_courses:
+  - '[[ETL in Python and SQL]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Processing","position":7,"total":7,"prev":"ETL in Python and SQL","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/data-management
   - skill/data-quality
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Quality: Core Concepts](https://media.licdn.com/dms/image/v2/D4D0DAQE-F9EAjv69uQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732063834035?e=2147483647&amp;v=beta&amp;t=anjsXxzSWBJJpjN3pZPxwdes26CrhC3murEUQsr_TGE)

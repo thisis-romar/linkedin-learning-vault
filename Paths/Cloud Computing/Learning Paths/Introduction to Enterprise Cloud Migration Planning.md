@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Introduction to Enterprise Cloud Migration Planning
@@ -66,3 +66,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Design and Present Your Cloud Strategy]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

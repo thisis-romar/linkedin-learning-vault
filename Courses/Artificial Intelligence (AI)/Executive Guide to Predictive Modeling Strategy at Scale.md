@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEZ9BpB52FHPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567800423045?e=2147483647&amp;v=beta&amp;t=ckrFgDiJ9cwJIkjjRH2fn412NP8SMXOXrFdxAOPYIek"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Masterpath in Analytics Leadership for Executives
+  - '[[Masterpath in Analytics Leadership for Executives]]'
+prev_courses:
+  - '[[Predictive Analytics Essential Training For Executives]]'
+next_courses:
+  - '[[Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation]]'
+path_nav: '[{"path":"Masterpath in Analytics Leadership for Executives","position":2,"total":8,"prev":"Predictive Analytics Essential Training For Executives","next":"Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/predictive-modeling
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Executive Guide to Predictive Modeling Strategy at Scale](https://media.licdn.com/dms/image/v2/C560DAQEZ9BpB52FHPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567800423045?e=2147483647&amp;v=beta&amp;t=ckrFgDiJ9cwJIkjjRH2fn412NP8SMXOXrFdxAOPYIek)

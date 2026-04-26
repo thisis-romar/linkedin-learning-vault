@@ -8,7 +8,7 @@ linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - professional-certificate
   - topic/data-science
@@ -45,7 +45,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Data Engineering Foundations Professional Certificate by Astronomer
@@ -80,3 +80,7 @@ _Paths that share courses with this one:_
 - [[Explore a Career in Database Development]] (1 shared courses)
 - [[Develop Your Scala Skills for Data Engineering]] (1 shared courses)
 - [[Introduction to Fundamental Skills for Data Work- Data Management]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

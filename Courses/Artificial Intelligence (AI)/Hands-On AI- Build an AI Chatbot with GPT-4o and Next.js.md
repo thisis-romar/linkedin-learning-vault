@@ -21,7 +21,12 @@ github: "https://github.com/LinkedInLearning/building-a-modern-ai-chat-applicati
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQG35oVjgWP9cA/learning-public-crop_675_1200/B4EZc3qeSZH0Ao-/0/1748985570771?e=2147483647&amp;v=beta&amp;t=59hJHD4ViN-SdcPPRWe_J1fAvYIJmC8WVStCt2nB6OQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Hands-On Projects for OpenAI-Powered Apps
+  - '[[Hands-On Projects for OpenAI-Powered Apps]]'
+prev_courses:
+  - '[[Hands-On OpenAI API- Building a Real-World Solution]]'
+next_courses:
+  - '[[Build a Document Search Assistant with Node and OpenAI''s Assistants API]]'
+path_nav: '[{"path":"Hands-On Projects for OpenAI-Powered Apps","position":4,"total":5,"prev":"Hands-On OpenAI API- Building a Real-World Solution","next":"Build a Document Search Assistant with Node and OpenAI''s Assistants API"}]'
 path_count: 1
 tags:
   - course
@@ -34,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On AI: Build an AI Chatbot with GPT-4o and Next.js](https://media.licdn.com/dms/image/v2/D4E0DAQG35oVjgWP9cA/learning-public-crop_675_1200/B4EZc3qeSZH0Ao-/0/1748985570771?e=2147483647&amp;v=beta&amp;t=59hJHD4ViN-SdcPPRWe_J1fAvYIJmC8WVStCt2nB6OQ)

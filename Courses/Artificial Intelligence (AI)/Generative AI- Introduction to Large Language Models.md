@@ -18,11 +18,24 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHl9dh24URR-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1699557412106?e=2147483647&amp;v=beta&amp;t=t1VIIG9eW33JaJ8dySiFCKyN-YEQsL3hiJx73tohfSc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
-  - Become an AI Engineer
-  - Develop Your Skills with Large Language Models
-  - Master Retrieval-Augmented Generation (RAG)
-  - Data Science Professional Certificate by KNIME
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[Become an AI Engineer]]'
+  - '[[Develop Your Skills with Large Language Models]]'
+  - '[[Master Retrieval-Augmented Generation (RAG)]]'
+  - '[[Data Science Professional Certificate by KNIME]]'
+prev_courses:
+  - '[[Generative AI vs. Traditional AI]]'
+  - '[[Python for Data Science and Machine Learning Essential Training Part 2]]'
+  - '[[Introduction to Large Language Models]]'
+  - '[[Vector Databases in Practice- Deep Dive]]'
+  - '[[Machine Learning and AI Foundations- Classification Modeling]]'
+next_courses:
+  - '[[Introduction to NLP and LLMs- Principles and Practical Applications]]'
+  - '[[The AI Ecosystem for Developers- Models, Datasets, and APIs]]'
+  - '[[Introduction To Prompt Engineering For Generative Ai]]'
+  - '[[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]]'
+  - '[[The Non Technical Skills Of Effective Data Scientists]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":3,"total":22,"prev":"Generative AI vs. Traditional AI","next":"Introduction to NLP and LLMs- Principles and Practical Applications"},{"path":"Become an AI Engineer","position":3,"total":10,"prev":"Python for Data Science and Machine Learning Essential Training Part 2","next":"The AI Ecosystem for Developers- Models, Datasets, and APIs"},{"path":"Develop Your Skills with Large Language Models","position":2,"total":9,"prev":"Introduction to Large Language Models","next":"Introduction To Prompt Engineering For Generative Ai"},{"path":"Master Retrieval-Augmented Generation (RAG)","position":3,"total":7,"prev":"Vector Databases in Practice- Deep Dive","next":"LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)"},{"path":"Data Science Professional Certificate by KNIME","position":5,"total":6,"prev":"Machine Learning and AI Foundations- Classification Modeling","next":"The Non Technical Skills Of Effective Data Scientists"}]'
 path_count: 5
 tags:
   - course
@@ -35,7 +48,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI: Introduction to Large Language Models](https://media.licdn.com/dms/image/v2/D560DAQHl9dh24URR-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1699557412106?e=2147483647&amp;v=beta&amp;t=t1VIIG9eW33JaJ8dySiFCKyN-YEQsL3hiJx73tohfSc)

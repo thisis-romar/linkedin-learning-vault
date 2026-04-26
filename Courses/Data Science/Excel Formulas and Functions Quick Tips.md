@@ -14,14 +14,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGOmmKsj8ZwZg/learning-public-crop_675_1200/B4EZXYyFgPHcAg-/0/1743098764145?e=2147483647&amp;v=beta&amp;t=e4Nsh1G8SuFjU5lYzvVObLSzm-MgTSSK5L3scS9VIF0"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills with Excel Formulas and Functions
+  - '[[Advance Your Skills with Excel Formulas and Functions]]'
+prev_courses:
+  - '[[Excel Introduction To Formulas And Functions]]'
+next_courses:
+  - '[[Excel- Lookup Functions in Depth]]'
+path_nav: '[{"path":"Advance Your Skills with Excel Formulas and Functions","position":2,"total":5,"prev":"Excel Introduction To Formulas And Functions","next":"Excel- Lookup Functions in Depth"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel Formulas and Functions Quick Tips](https://media.licdn.com/dms/image/v2/D4E0DAQGOmmKsj8ZwZg/learning-public-crop_675_1200/B4EZXYyFgPHcAg-/0/1743098764145?e=2147483647&amp;v=beta&amp;t=e4Nsh1G8SuFjU5lYzvVObLSzm-MgTSSK5L3scS9VIF0)

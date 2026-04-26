@@ -20,7 +20,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQECBABslYCCGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703012612412?e=2147483647&amp;v=beta&amp;t=7-GlejfhI-Db5pJMwCMe7I2sBiNZqOgE7agzhxAhSfI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your AI Skills with Google Gemini and Google Cloud Platform
+  - '[[Develop Your AI Skills with Google Gemini and Google Cloud Platform]]'
+prev_courses:
+  - '[[Prompt Engineering with Gemini (2024)]]'
+next_courses:
+  - '[[Building with Google Gemini Advanced and Ultra]]'
+path_nav: '[{"path":"Develop Your AI Skills with Google Gemini and Google Cloud Platform","position":3,"total":7,"prev":"Prompt Engineering with Gemini (2024)","next":"Building with Google Gemini Advanced and Ultra"}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +38,7 @@ tags:
   - skill/google-gemini
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Multimodal Prompting with Google's Project Gemini](https://media.licdn.com/dms/image/v2/D4D0DAQECBABslYCCGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703012612412?e=2147483647&amp;v=beta&amp;t=7-GlejfhI-Db5pJMwCMe7I2sBiNZqOgE7agzhxAhSfI)

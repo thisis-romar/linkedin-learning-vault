@@ -10,15 +10,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGPYQA_TsFDIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731633331929?e=2147483647&amp;v=beta&amp;t=nbUepgdlyqqHygAAHiTeFEGqNr6GFvKtxRUj9NOo5Dg"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI Boot Camp for Small and Medium-Sized Businesses (SMBs)
-  - Mastering Executive-Level Data Analytics
+  - '[[AI Boot Camp for Small and Medium-Sized Businesses (SMBs)]]'
+  - '[[Mastering Executive-Level Data Analytics]]'
+prev_courses:
+  - '[[Everyday Ai Concepts]]'
+  - '[[Predictive Analytics Essential Training For Executives]]'
+next_courses:
+  - '[[Using Generative AI Ethically at Work]]'
+  - '[[AI in Business Essential Training]]'
+path_nav: '[{"path":"AI Boot Camp for Small and Medium-Sized Businesses (SMBs)","position":2,"total":6,"prev":"Everyday Ai Concepts","next":"Using Generative AI Ethically at Work"},{"path":"Mastering Executive-Level Data Analytics","position":5,"total":7,"prev":"Predictive Analytics Essential Training For Executives","next":"AI in Business Essential Training"}]'
 path_count: 2
 tags:
   - course
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Everyday AI Business Tools](https://media.licdn.com/dms/image/v2/D4E0DAQGPYQA_TsFDIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731633331929?e=2147483647&amp;v=beta&amp;t=nbUepgdlyqqHygAAHiTeFEGqNr6GFvKtxRUj9NOo5Dg)

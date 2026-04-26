@@ -17,8 +17,15 @@ github: "https://github.com/LinkedInLearning/learning-jdbc-2725172"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQELGCBArDCkxg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728506593128?e=2147483647&amp;v=beta&amp;t=QZavY1s7ezWzBCxyr4UqF-uajftjI1IbfHDDZFzLg-g"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Java Developer
-  - Java Foundations Professional Certificate by JetBrains
+  - '[[Getting Started as a Java Developer]]'
+  - '[[Java Foundations Professional Certificate by JetBrains]]'
+prev_courses:
+  - '[[Learning Spring 6 With Spring Boot]]'
+  - '[[Java- Data Structures]]'
+next_courses:
+  - '[[Learning Java Collections]]'
+  - null
+path_nav: '[{"path":"Getting Started as a Java Developer","position":4,"total":10,"prev":"Learning Spring 6 With Spring Boot","next":"Learning Java Collections"},{"path":"Java Foundations Professional Certificate by JetBrains","position":5,"total":5,"prev":"Java- Data Structures","next":null}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - topic/web-development
   - skill/java-database-connectivity-jdbc
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning JDBC](https://media.licdn.com/dms/image/v2/D560DAQELGCBArDCkxg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728506593128?e=2147483647&amp;v=beta&amp;t=QZavY1s7ezWzBCxyr4UqF-uajftjI1IbfHDDZFzLg-g)

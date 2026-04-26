@@ -14,14 +14,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHjUKCxwq_Ciw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656092319307?e=2147483647&amp;v=beta&amp;t=95IrNDbR2RY9qkesxk5VxR6sQhcemjC5_Nm1DMMhVxg"
 linkedin_topic: Web Development
 learning_paths:
-  - Learn CSS
+  - '[[Learn CSS]]'
+next_courses:
+  - '[[CSS Essential Training (2023)]]'
+path_nav: '[{"path":"Learn CSS","position":1,"total":12,"prev":null,"next":"CSS Essential Training (2023)"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Css Fundamentals Unlock The Power Of Web Styling](https://media.licdn.com/dms/image/v2/C560DAQHjUKCxwq_Ciw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656092319307?e=2147483647&amp;v=beta&amp;t=95IrNDbR2RY9qkesxk5VxR6sQhcemjC5_Nm1DMMhVxg)

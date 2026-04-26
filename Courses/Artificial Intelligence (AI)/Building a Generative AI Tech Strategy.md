@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHNS5GWoP1-dg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714603187708?e=2147483647&amp;v=beta&amp;t=tmvr1lhJiHYb43ugCCqUPzA2mE3jyv6USwid7eKoGxA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying AI as a Tech Leader
-  - Understanding Generative AI for Tech Leaders
+  - '[[Applying AI as a Tech Leader]]'
+  - '[[Understanding Generative AI for Tech Leaders]]'
+prev_courses:
+  - '[[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]]'
+  - '[[Scaling Generative AI- Building a Strategy for Adoption and Expansion]]'
+next_courses:
+  - '[[Scaling Generative AI- Building a Strategy for Adoption and Expansion]]'
+  - '[[RAG and Fine-Tuning Explained]]'
+path_nav: '[{"path":"Applying AI as a Tech Leader","position":5,"total":8,"prev":"AI and the Future of Work- Workflows and Modern Tools for Tech Leaders","next":"Scaling Generative AI- Building a Strategy for Adoption and Expansion"},{"path":"Understanding Generative AI for Tech Leaders","position":19,"total":22,"prev":"Scaling Generative AI- Building a Strategy for Adoption and Expansion","next":"RAG and Fine-Tuning Explained"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/it-strategy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Generative AI Tech Strategy](https://media.licdn.com/dms/image/v2/D560DAQHNS5GWoP1-dg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714603187708?e=2147483647&amp;v=beta&amp;t=tmvr1lhJiHYb43ugCCqUPzA2mE3jyv6USwid7eKoGxA)

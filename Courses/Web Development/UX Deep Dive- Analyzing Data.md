@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHqF_LIR_8vXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597179288976?e=2147483647&amp;v=beta&amp;t=8ZhjqM8L3FhijlT6IG1Mbocfasya6daXGtLRHd6gs7I"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your UX Design Skills
+  - '[[Improve Your UX Design Skills]]'
+prev_courses:
+  - '[[Sketching For Ux Designers]]'
+next_courses:
+  - '[[UX Foundations- Storytelling]]'
+path_nav: '[{"path":"Improve Your UX Design Skills","position":2,"total":7,"prev":"Sketching For Ux Designers","next":"UX Foundations- Storytelling"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![UX Deep Dive: Analyzing Data](https://media.licdn.com/dms/image/v2/C560DAQHqF_LIR_8vXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597179288976?e=2147483647&amp;v=beta&amp;t=8ZhjqM8L3FhijlT6IG1Mbocfasya6daXGtLRHd6gs7I)

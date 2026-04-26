@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEJ9TTMVczZgw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708447720851?e=2147483647&amp;v=beta&amp;t=JMkqh1L9P9L2I5MB2-80PtiKhLGNImzdZ_eKHTCRkxY"
 linkedin_topic: DevOps
 learning_paths:
-  - Improve Your ITIL® Skills
+  - '[[Improve Your ITIL® Skills]]'
+prev_courses:
+  - '[[Putting ITIL® into Practice- Problem Management Techniques]]'
+next_courses:
+  - '[[Putting ITIL® into Practice- Change Enablement]]'
+path_nav: '[{"path":"Improve Your ITIL® Skills","position":3,"total":5,"prev":"Putting ITIL® into Practice- Problem Management Techniques","next":"Putting ITIL® into Practice- Change Enablement"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/devops
   - skill/itil-process-implementation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Putting ITIL® into Practice: DevOps for ITIL® Practitioners](https://media.licdn.com/dms/image/v2/D560DAQEJ9TTMVczZgw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708447720851?e=2147483647&amp;v=beta&amp;t=JMkqh1L9P9L2I5MB2-80PtiKhLGNImzdZ_eKHTCRkxY)

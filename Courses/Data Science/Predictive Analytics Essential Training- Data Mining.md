@@ -18,10 +18,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHSfXCVw1wBVQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633452073257?e=2147483647&amp;v=beta&amp;t=zKJOCRy0IVTzqOjv6WrYK5nvIG16_kwtU4Fk-hiFdcY"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation
-  - Advance Your Skills in Predictive Analytics
-  - Become a Data Analyst
-  - Advance Your Business Analytics Skills
+  - '[[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]]'
+  - '[[Advance Your Skills in Predictive Analytics]]'
+  - '[[Become a Data Analyst]]'
+  - '[[Advance Your Business Analytics Skills]]'
+prev_courses:
+  - '[[Data Analyst Mindset- 10 Nontechnical Ways to Influence Decisions]]'
+  - '[[Predictive Analytics Essential Training For Executives]]'
+  - '[[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]]'
+  - '[[SQL Hands-On Practice- Solve Business Problems]]'
+next_courses:
+  - '[[SQL- Data Reporting and Analysis]]'
+  - '[[Predictive Customer Analytics]]'
+  - '[[Power Bi Essential Training]]'
+  - '[[Predictive Customer Analytics]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation","position":6,"total":9,"prev":"Data Analyst Mindset- 10 Nontechnical Ways to Influence Decisions","next":"SQL- Data Reporting and Analysis"},{"path":"Advance Your Skills in Predictive Analytics","position":2,"total":8,"prev":"Predictive Analytics Essential Training For Executives","next":"Predictive Customer Analytics"},{"path":"Become a Data Analyst","position":6,"total":12,"prev":"Learning Data Analytics Part 2- Extending and Applying Core Knowledge","next":"Power Bi Essential Training"},{"path":"Advance Your Business Analytics Skills","position":8,"total":11,"prev":"SQL Hands-On Practice- Solve Business Problems","next":"Predictive Customer Analytics"}]'
 path_count: 4
 tags:
   - course
@@ -30,7 +41,7 @@ tags:
   - skill/data-mining
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Predictive Analytics Essential Training: Data Mining](https://media.licdn.com/dms/image/v2/C560DAQHSfXCVw1wBVQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633452073257?e=2147483647&amp;v=beta&amp;t=zKJOCRy0IVTzqOjv6WrYK5nvIG16_kwtU4Fk-hiFdcY)

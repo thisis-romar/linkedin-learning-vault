@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/become-a-marketing-coordinator
 course_count: 9
 linkedin_topics:
   - Data Science
-louvain_cluster: 7
+louvain_cluster: 14
 tags:
   - learning-path
   - topic/data-science
@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Become a Marketing Coordinator
@@ -88,3 +88,7 @@ _Paths that share courses with this one:_
 - [[Visual Communication for Business Professionals]] (1 shared courses)
 - [[Build Your Skills In Customer Service]] (1 shared courses)
 - [[Zendesk Customer Service Professional Certificate]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

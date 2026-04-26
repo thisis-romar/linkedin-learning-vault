@@ -127,12 +127,15 @@ var LleProgressPlugin = class extends import_obsidian.Plugin {
     for (const pathRel of paths) {
       const file = this.app.vault.getAbstractFileByPath(pathRel);
       if (!(file instanceof import_obsidian.TFile)) continue;
-      await this.app.fileManager.processFrontMatter(file, (fm) => {
-        const activity = this.ensureCourseActivity(fm, courseSlug);
-        activity.open_count = (activity.open_count ?? 0) + 1;
-        activity.last_opened = now;
-        this.recomputeDerived(fm, now);
-      });
+      await this.app.fileManager.processFrontMatter(
+        file,
+        (fm) => {
+          const activity = this.ensureCourseActivity(fm, courseSlug);
+          activity.open_count = (activity.open_count ?? 0) + 1;
+          activity.last_opened = now;
+          this.recomputeDerived(fm, now);
+        }
+      );
     }
   }
   async recordVideoClick(courseSlug, videoSlug) {
@@ -142,18 +145,23 @@ var LleProgressPlugin = class extends import_obsidian.Plugin {
     for (const pathRel of paths) {
       const file = this.app.vault.getAbstractFileByPath(pathRel);
       if (!(file instanceof import_obsidian.TFile)) continue;
-      await this.app.fileManager.processFrontMatter(file, (fm) => {
-        const activity = this.ensureCourseActivity(fm, courseSlug);
-        const video = this.ensureVideoActivity(activity, videoSlug);
-        video.click_count = (video.click_count ?? 0) + 1;
-        video.last_clicked = now;
-        this.recomputeDerived(fm, now);
-      });
+      await this.app.fileManager.processFrontMatter(
+        file,
+        (fm) => {
+          const activity = this.ensureCourseActivity(fm, courseSlug);
+          const video = this.ensureVideoActivity(activity, videoSlug);
+          video.click_count = (video.click_count ?? 0) + 1;
+          video.last_clicked = now;
+          this.recomputeDerived(fm, now);
+        }
+      );
     }
   }
   ensureCourseActivity(fm, courseSlug) {
     if (!Array.isArray(fm.course_activity)) fm.course_activity = [];
-    let entry = fm.course_activity.find((c) => this.slugMatches(c.course, courseSlug));
+    let entry = fm.course_activity.find(
+      (c) => this.slugMatches(c.course, courseSlug)
+    );
     if (!entry) {
       entry = {
         course: courseSlug,

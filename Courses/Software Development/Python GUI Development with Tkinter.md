@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFxbZbVAeKrYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669861459?e=2147483647&amp;v=beta&amp;t=7wpokv5Km5RV3bO2RGrFjE6RV-qExMtzWUyESxiR1H4"
 linkedin_topic: Software Development
 learning_paths:
-  - Advance Your Skills in Python
+  - '[[Advance Your Skills in Python]]'
+prev_courses:
+  - '[[Python Automation and Testing]]'
+next_courses:
+  - '[[Create an Open-Source Project in Python]]'
+path_nav: '[{"path":"Advance Your Skills in Python","position":5,"total":7,"prev":"Python Automation and Testing","next":"Create an Open-Source Project in Python"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/tkinter
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python GUI Development with Tkinter](https://media.licdn.com/dms/image/v2/C4E0DAQFxbZbVAeKrYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669861459?e=2147483647&amp;v=beta&amp;t=7wpokv5Km5RV3bO2RGrFjE6RV-qExMtzWUyESxiR1H4)

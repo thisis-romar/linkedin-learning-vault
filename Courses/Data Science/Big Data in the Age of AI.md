@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGX7n4al0qACA/learning-public-crop_675_1200/B56ZyI1O3AHYAY-/0/1771822182439?e=2147483647&amp;v=beta&amp;t=vOf3EjHPP3B7fhuzuOWtA3l9csnfWE56LV9uZXUYCQ8"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Data Scientist
+  - '[[Become a Data Scientist]]'
+prev_courses:
+  - '[[Data Visualization Storytelling]]'
+next_courses:
+  - '[[Learning Data Governance]]'
+path_nav: '[{"path":"Become a Data Scientist","position":8,"total":11,"prev":"Data Visualization Storytelling","next":"Learning Data Governance"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/data-literacy
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Big Data in the Age of AI](https://media.licdn.com/dms/image/v2/D560DAQGX7n4al0qACA/learning-public-crop_675_1200/B56ZyI1O3AHYAY-/0/1771822182439?e=2147483647&amp;v=beta&amp;t=vOf3EjHPP3B7fhuzuOWtA3l9csnfWE56LV9uZXUYCQ8)

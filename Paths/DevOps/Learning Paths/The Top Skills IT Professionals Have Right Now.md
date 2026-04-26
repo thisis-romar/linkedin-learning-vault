@@ -59,7 +59,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # The Top Skills IT Professionals Have Right Now
@@ -97,3 +97,7 @@ _Paths that share courses with this one:_
 - [[Master Digital Transformation]] (1 shared courses)
 - [[Optimizing Enterprise Security and Productivity Using Microsoft 365]] (1 shared courses)
 - [[Explore a Career in IT Support]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

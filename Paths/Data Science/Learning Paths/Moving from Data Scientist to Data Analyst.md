@@ -59,7 +59,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Moving from Data Scientist to Data Analyst
@@ -97,3 +97,7 @@ _Paths that share courses with this one:_
 - [[Master the Concepts of Data Visualization and Storytelling]] (1 shared courses)
 - [[Explore a Career in SQL Development]] (1 shared courses)
 - [[Become a Business Intelligence Specialist]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

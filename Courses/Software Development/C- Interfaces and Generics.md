@@ -17,8 +17,15 @@ github: "https://github.com/LinkedInLearning/C-sharp-Interfaces-and-generics-315
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEcsgjIa7rZSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634834103497?e=2147483647&amp;v=beta&amp;t=hVHXRMAZp-qAWMJKcjOIA79h6HYGXOcPJAukQ3mjPfc"
 linkedin_topic: Software Development
 learning_paths:
-  - Elevating C- Skills- Building Robust Applications
-  - Getting Started as a C- Developer
+  - '[[Elevating C- Skills- Building Robust Applications]]'
+  - '[[Getting Started as a C- Developer]]'
+prev_courses:
+  - '[[C- Delegates, Events, and Lambdas]]'
+  - '[[C- Delegates, Events, and Lambdas]]'
+next_courses:
+  - '[[C- Test-Driven Development]]'
+  - '[[C- Design Patterns Part 1]]'
+path_nav: '[{"path":"Elevating C- Skills- Building Robust Applications","position":3,"total":8,"prev":"C- Delegates, Events, and Lambdas","next":"C- Test-Driven Development"},{"path":"Getting Started as a C- Developer","position":6,"total":9,"prev":"C- Delegates, Events, and Lambdas","next":"C- Design Patterns Part 1"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C#: Interfaces and Generics](https://media.licdn.com/dms/image/v2/C560DAQEcsgjIa7rZSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634834103497?e=2147483647&amp;v=beta&amp;t=hVHXRMAZp-qAWMJKcjOIA79h6HYGXOcPJAukQ3mjPfc)

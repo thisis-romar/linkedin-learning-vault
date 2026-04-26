@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFZHulkzmFrnA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725659883685?e=2147483647&amp;v=beta&amp;t=Zv-n-OcfMOZpNfyII_x1d-EXdvI4lsPEwYXG-QrDDHY"
 linkedin_topic: Database Management
 learning_paths:
-  - Explore a Career in Database Development
+  - '[[Explore a Career in Database Development]]'
+prev_courses:
+  - '[[Programming Foundations Databases]]'
+next_courses:
+  - '[[Learning SQL Programming]]'
+path_nav: '[{"path":"Explore a Career in Database Development","position":2,"total":5,"prev":"Programming Foundations Databases","next":"Learning SQL Programming"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Quick Start Guide to SQL](https://media.licdn.com/dms/image/v2/D560DAQFZHulkzmFrnA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725659883685?e=2147483647&amp;v=beta&amp;t=Zv-n-OcfMOZpNfyII_x1d-EXdvI4lsPEwYXG-QrDDHY)

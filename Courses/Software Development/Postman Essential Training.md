@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/postman-essential-training-4362153"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGu_qZOWzDKsQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679692293614?e=2147483647&amp;v=beta&amp;t=AQ9nvPCbqKAgtWx9hd5kZDNm1F-njRSqByG6_JUdQ94"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started with Software Testing
+  - '[[Getting Started with Software Testing]]'
+prev_courses:
+  - '[[API Testing Foundations]]'
+next_courses:
+  - '[[International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep]]'
+path_nav: '[{"path":"Getting Started with Software Testing","position":9,"total":12,"prev":"API Testing Foundations","next":"International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/api-testing
   - skill/test-automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Postman Essential Training](https://media.licdn.com/dms/image/v2/C560DAQGu_qZOWzDKsQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679692293614?e=2147483647&amp;v=beta&amp;t=AQ9nvPCbqKAgtWx9hd5kZDNm1F-njRSqByG6_JUdQ94)

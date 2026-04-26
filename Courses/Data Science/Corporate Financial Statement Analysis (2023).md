@@ -17,9 +17,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEHmPby0ue4RQ/learning-public-crop_675_1200/B4EZua0lPrHcAY-/0/1767829034282?e=2147483647&amp;v=beta&amp;t=au2rSN4wCGNOCGCRpsKcou4r5Ndoq-zmYGUdt904720"
 linkedin_topic: Data Science
 learning_paths:
-  - Strategic Execution and Business Impact for Senior Managers and Senior Leaders
-  - Explore a Career as a Financial Analyst
-  - Master Key Financial Analyst Skills
+  - '[[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]]'
+  - '[[Explore a Career as a Financial Analyst]]'
+  - '[[Master Key Financial Analyst Skills]]'
+prev_courses:
+  - '[[Business Finance Introduction To Financial Modeling]]'
+  - '[[Learning Data Analytics- 1 Foundations]]'
+  - '[[Starting Your Career As A Financial Analyst]]'
+next_courses:
+  - '[[Data-Driven Decisions in Business Operations]]'
+  - '[[Excel for Corporate Finance Professionals]]'
+  - '[[Financial Modeling Foundations (2018)]]'
+path_nav: '[{"path":"Strategic Execution and Business Impact for Senior Managers and Senior Leaders","position":2,"total":12,"prev":"Business Finance Introduction To Financial Modeling","next":"Data-Driven Decisions in Business Operations"},{"path":"Explore a Career as a Financial Analyst","position":3,"total":5,"prev":"Learning Data Analytics- 1 Foundations","next":"Excel for Corporate Finance Professionals"},{"path":"Master Key Financial Analyst Skills","position":2,"total":6,"prev":"Starting Your Career As A Financial Analyst","next":"Financial Modeling Foundations (2018)"}]'
 path_count: 3
 tags:
   - course
@@ -27,7 +36,7 @@ tags:
   - skill/financial-statement-analysis
   - skill/corporate-finance
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Corporate Financial Statement Analysis (2023)](https://media.licdn.com/dms/image/v2/D4E0DAQEHmPby0ue4RQ/learning-public-crop_675_1200/B4EZua0lPrHcAY-/0/1767829034282?e=2147483647&amp;v=beta&amp;t=au2rSN4wCGNOCGCRpsKcou4r5Ndoq-zmYGUdt904720)

@@ -45,7 +45,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Building AI Literacy
@@ -79,3 +79,7 @@ _Paths that share courses with this one:_
 - [[Understanding Generative AI for Tech Leaders]] (2 shared courses)
 - [[Building ChatGPT Skills for Business Professionals]] (2 shared courses)
 - [[Understanding AI for Creative Professionals]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

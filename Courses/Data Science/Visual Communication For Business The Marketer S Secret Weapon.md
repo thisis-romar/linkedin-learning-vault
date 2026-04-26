@@ -12,14 +12,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEQmHk42Mg1XQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568066589245?e=2147483647&amp;v=beta&amp;t=WmfKX3z0fZgJMqmPNgnUSdDQ3bOOd97ZM19H9E6aZFI"
 linkedin_topic: Data Science
 learning_paths:
-  - Visual Communication for Business Professionals
+  - '[[Visual Communication for Business Professionals]]'
+next_courses:
+  - '[[Data Visualization- Best Practices]]'
+path_nav: '[{"path":"Visual Communication for Business Professionals","position":1,"total":5,"prev":null,"next":"Data Visualization- Best Practices"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Visual Communication For Business The Marketer S Secret Weapon](https://media.licdn.com/dms/image/v2/C4E0DAQEQmHk42Mg1XQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568066589245?e=2147483647&amp;v=beta&amp;t=WmfKX3z0fZgJMqmPNgnUSdDQ3bOOd97ZM19H9E6aZFI)

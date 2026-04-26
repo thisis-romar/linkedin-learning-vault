@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEFLbl9QHJO2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722011200013?e=2147483647&amp;v=beta&amp;t=ZtwuRFzr9WRj02hKOeLknDCG62pvDR7f8VjyNqCjiKs"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Master Retrieval-Augmented Generation (RAG)
+  - '[[Master Retrieval-Augmented Generation (RAG)]]'
+prev_courses:
+  - '[[Advanced RAG Applications with Vector Databases]]'
+next_courses:
+  - '[[Hands-On AI- RAG using LlamaIndex]]'
+path_nav: '[{"path":"Master Retrieval-Augmented Generation (RAG)","position":6,"total":7,"prev":"Advanced RAG Applications with Vector Databases","next":"Hands-On AI- RAG using LlamaIndex"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/azure-ai-foundry
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)](https://media.licdn.com/dms/image/v2/D560DAQEFLbl9QHJO2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722011200013?e=2147483647&amp;v=beta&amp;t=ZtwuRFzr9WRj02hKOeLknDCG62pvDR7f8VjyNqCjiKs)

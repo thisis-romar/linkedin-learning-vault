@@ -18,8 +18,12 @@ github: "https://github.com/LinkedInLearning/level-up-advanced-sql-4311094/codes
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHtM4L47HiTTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678834688263?e=2147483647&amp;v=beta&amp;t=7CBLHsw2w23u97x8-tYOP5jk2qRXptwQ3xTm2n8Y7xU"
 linkedin_topic: Data Science
 learning_paths:
-  - Master SQL Development
-  - SQL Hands-On Practice
+  - '[[Master SQL Development]]'
+  - '[[SQL Hands-On Practice]]'
+prev_courses:
+  - '[[Advanced SQL for Data Scientists]]'
+  - '[[SQL Hands-On Practice- Solve Business Problems]]'
+path_nav: '[{"path":"Master SQL Development","position":8,"total":8,"prev":"Advanced SQL for Data Scientists","next":null},{"path":"SQL Hands-On Practice","position":9,"total":9,"prev":"SQL Hands-On Practice- Solve Business Problems","next":null}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +33,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Level Up: Advanced SQL](https://media.licdn.com/dms/image/v2/C4E0DAQHtM4L47HiTTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678834688263?e=2147483647&amp;v=beta&amp;t=7CBLHsw2w23u97x8-tYOP5jk2qRXptwQ3xTm2n8Y7xU)

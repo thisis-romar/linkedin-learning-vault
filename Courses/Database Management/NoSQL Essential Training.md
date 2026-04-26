@@ -16,10 +16,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGDAZgolayHEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613158104255?e=2147483647&amp;v=beta&amp;t=qvsFRZs41z_HFa1q7QEMqNVLaplFZEGnzEx4gvGS0D0"
 linkedin_topic: Database Management
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Storage
-  - Become a Full-Stack Web Developer
-  - Develop Your NoSQL Skills
-  - Advance Your Database Administration Skills
+  - '[[Introduction to Fundamental Skills for Data Work- Data Storage]]'
+  - '[[Become a Full-Stack Web Developer]]'
+  - '[[Develop Your NoSQL Skills]]'
+  - '[[Advance Your Database Administration Skills]]'
+prev_courses:
+  - '[[Introduction to Data Warehouses]]'
+  - '[[SQL Essential Training]]'
+  - '[[Introduction To Nosql]]'
+  - '[[Cloud Architecture- Core Concepts]]'
+next_courses:
+  - '[[Complete Guide to Data Lakes and Lakehouses]]'
+  - '[[Learning Rest Apis]]'
+  - '[[Learning MongoDB]]'
+  - null
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Storage","position":4,"total":6,"prev":"Introduction to Data Warehouses","next":"Complete Guide to Data Lakes and Lakehouses"},{"path":"Become a Full-Stack Web Developer","position":10,"total":12,"prev":"SQL Essential Training","next":"Learning Rest Apis"},{"path":"Develop Your NoSQL Skills","position":2,"total":10,"prev":"Introduction To Nosql","next":"Learning MongoDB"},{"path":"Advance Your Database Administration Skills","position":11,"total":11,"prev":"Cloud Architecture- Core Concepts","next":null}]'
 path_count: 4
 tags:
   - course
@@ -29,7 +40,7 @@ tags:
   - topic/web-development
   - skill/nosql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![NoSQL Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQGDAZgolayHEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613158104255?e=2147483647&amp;v=beta&amp;t=qvsFRZs41z_HFa1q7QEMqNVLaplFZEGnzEx4gvGS0D0)

@@ -16,10 +16,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFMCycApffsMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732234285462?e=2147483647&amp;v=beta&amp;t=_c4nx89z7jbIJeS-Yj62y9KjaMx1IM-_TvNYiZ2kgac"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - ServiceNow IT Leadership Professional Certificate
-  - Advance as a Tech Leader
-  - Managing and Leading Developers
-  - Advance Your Communication Skills as a Tech Manager
+  - '[[ServiceNow IT Leadership Professional Certificate]]'
+  - '[[Advance as a Tech Leader]]'
+  - '[[Managing and Leading Developers]]'
+  - '[[Advance Your Communication Skills as a Tech Manager]]'
+prev_courses:
+  - null
+  - null
+  - '[[Tech Career Skills- Effective Technical Communication]]'
+  - '[[Creating Your IT Strategy]]'
+next_courses:
+  - '[[Program Management for IT Professionals]]'
+  - '[[Tech Career Skills- Effective Technical Communication]]'
+  - '[[Agile Software Development- Creating an Agile Culture]]'
+  - '[[Inclusive Tech- The Case for Inclusive Leadership]]'
+path_nav: '[{"path":"ServiceNow IT Leadership Professional Certificate","position":1,"total":4,"prev":null,"next":"Program Management for IT Professionals"},{"path":"Advance as a Tech Leader","position":1,"total":8,"prev":null,"next":"Tech Career Skills- Effective Technical Communication"},{"path":"Managing and Leading Developers","position":3,"total":8,"prev":"Tech Career Skills- Effective Technical Communication","next":"Agile Software Development- Creating an Agile Culture"},{"path":"Advance Your Communication Skills as a Tech Manager","position":3,"total":6,"prev":"Creating Your IT Strategy","next":"Inclusive Tech- The Case for Inclusive Leadership"}]'
 path_count: 4
 tags:
   - course
@@ -33,7 +44,7 @@ tags:
   - skill/management-development
   - skill/management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Succeeding As A First Time Tech Manager](https://media.licdn.com/dms/image/v2/D4D0DAQFMCycApffsMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732234285462?e=2147483647&amp;v=beta&amp;t=_c4nx89z7jbIJeS-Yj62y9KjaMx1IM-_TvNYiZ2kgac)

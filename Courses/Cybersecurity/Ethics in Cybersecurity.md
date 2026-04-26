@@ -10,14 +10,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG8iLo0AGhfBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720814079251?e=2147483647&amp;v=beta&amp;t=wogpc7s6AJvH0IkQ0r4NgaZz6vsxzzFobZCoeX6iNVE"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an IT Security Specialist
-  - Explore a Career in Computer Forensics
+  - '[[Become an IT Security Specialist]]'
+  - '[[Explore a Career in Computer Forensics]]'
+prev_courses:
+  - '[[Artificial Intelligence for Cybersecurity]]'
+  - '[[Soft Skills for Information Security Professionals]]'
+next_courses:
+  - '[[Soft Skills for Information Security Professionals]]'
+  - null
+path_nav: '[{"path":"Become an IT Security Specialist","position":11,"total":12,"prev":"Artificial Intelligence for Cybersecurity","next":"Soft Skills for Information Security Professionals"},{"path":"Explore a Career in Computer Forensics","position":9,"total":9,"prev":"Soft Skills for Information Security Professionals","next":null}]'
 path_count: 2
 tags:
   - course
   - topic/security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethics in Cybersecurity](https://media.licdn.com/dms/image/v2/D560DAQG8iLo0AGhfBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720814079251?e=2147483647&amp;v=beta&amp;t=wogpc7s6AJvH0IkQ0r4NgaZz6vsxzzFobZCoeX6iNVE)

@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/advanced-python-working-with-data-4
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHbBRqu7lDW8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724260657260?e=2147483647&amp;v=beta&amp;t=fFGaBqQ24gVxJcQyKxRB8rhls85NIr71EKpUrRY478k"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Your Python Skills
-  - Master Python for Data Science
+  - '[[Master Your Python Skills]]'
+  - '[[Master Python for Data Science]]'
+prev_courses:
+  - '[[Advanced Python- Classes and Functions]]'
+  - '[[Python Statistics Essential Training]]'
+next_courses:
+  - '[[Python Data Structures- Stacks, Deques, and Queues]]'
+  - '[[Advanced Python- Working with Databases]]'
+path_nav: '[{"path":"Master Your Python Skills","position":3,"total":11,"prev":"Advanced Python- Classes and Functions","next":"Python Data Structures- Stacks, Deques, and Queues"},{"path":"Master Python for Data Science","position":2,"total":8,"prev":"Python Statistics Essential Training","next":"Advanced Python- Working with Databases"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/data-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Python: Working With Data](https://media.licdn.com/dms/image/v2/D4E0DAQHbBRqu7lDW8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724260657260?e=2147483647&amp;v=beta&amp;t=fFGaBqQ24gVxJcQyKxRB8rhls85NIr71EKpUrRY478k)

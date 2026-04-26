@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHLDFql6OOJTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599847443389?e=2147483647&amp;v=beta&amp;t=hJOOS9dT89Lu79ZqAa7CenTnUGfqogKxBymZE-789SE"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started with Software Testing
+  - '[[Getting Started with Software Testing]]'
+prev_courses:
+  - '[[Java- Testing with JUnit]]'
+path_nav: '[{"path":"Getting Started with Software Testing","position":12,"total":12,"prev":"Java- Testing with JUnit","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/sql
   - skill/database-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL for Testers](https://media.licdn.com/dms/image/v2/C4E0DAQHLDFql6OOJTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599847443389?e=2147483647&amp;v=beta&amp;t=hJOOS9dT89Lu79ZqAa7CenTnUGfqogKxBymZE-789SE)

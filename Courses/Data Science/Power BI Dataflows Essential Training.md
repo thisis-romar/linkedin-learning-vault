@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHCRS5q7KoX8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583864338105?e=2147483647&amp;v=beta&amp;t=tNhypYJ1555_e-_qErpNkZepTJu6RE6RnDVRS8EUO2g"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Microsoft Power BI
+  - '[[Master Microsoft Power BI]]'
+prev_courses:
+  - '[[Power BI Data Methods]]'
+next_courses:
+  - '[[Power BI Top Skills]]'
+path_nav: '[{"path":"Master Microsoft Power BI","position":3,"total":6,"prev":"Power BI Data Methods","next":"Power BI Top Skills"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Power BI Dataflows Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQHCRS5q7KoX8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583864338105?e=2147483647&amp;v=beta&amp;t=tNhypYJ1555_e-_qErpNkZepTJu6RE6RnDVRS8EUO2g)

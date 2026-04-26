@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-your-generative-ai-productivi
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 1
+louvain_cluster: 17
 tags:
   - professional-certificate
   - topic/artificial-intelligence
@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Build Your Generative AI Productivity Skills with Microsoft and LinkedIn
@@ -67,3 +67,7 @@ _Paths that share courses with this one:_
 - [[Microsoft Copilot for Productivity by Microsoft and LinkedIn]] (3 shared courses)
 - [[Understanding AI for Creative Professionals]] (1 shared courses)
 - [[Generative AI for Sales with Microsoft 365 Copilot Professional Certificate]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

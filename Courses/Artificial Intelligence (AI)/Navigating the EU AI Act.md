@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHwNPi5Ey3fFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726009053071?e=2147483647&amp;v=beta&amp;t=hRu1mpELnB8TcNriJBBoxYmZnr-XYSOUiDZi5wWDVKc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI Regulations for Tech Leaders- The EU AI Act and More
+  - '[[AI Regulations for Tech Leaders- The EU AI Act and More]]'
+prev_courses:
+  - '[[Compliance and Regulations for Generative AI]]'
+next_courses:
+  - '[[Ethics in the Age of Generative AI]]'
+path_nav: '[{"path":"AI Regulations for Tech Leaders- The EU AI Act and More","position":3,"total":4,"prev":"Compliance and Regulations for Generative AI","next":"Ethics in the Age of Generative AI"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Navigating the EU AI Act](https://media.licdn.com/dms/image/v2/D4E0DAQHwNPi5Ey3fFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726009053071?e=2147483647&amp;v=beta&amp;t=hRu1mpELnB8TcNriJBBoxYmZnr-XYSOUiDZi5wWDVKc)

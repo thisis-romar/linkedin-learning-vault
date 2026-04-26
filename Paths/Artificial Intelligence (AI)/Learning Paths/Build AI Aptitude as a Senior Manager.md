@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-ai-aptitude-as-a-senior-manag
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 3
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Build AI Aptitude as a Senior Manager
@@ -74,3 +74,7 @@ _Paths that share courses with this one:_
 - [[Technical Literacy and Future Readiness for Senior Managers and Senior Leaders]] (2 shared courses)
 - [[Technical Literacy and Future Readiness for Senior Executives]] (2 shared courses)
 - [[Become an AI-Powered Learning and Development Professional]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

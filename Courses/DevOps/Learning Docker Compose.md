@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFwAV1IoJuh4Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648228730190?e=2147483647&amp;v=beta&amp;t=UDGSNEdQiarrcYq7yrPvpQh4bEBzohvyc5R0gT4Mjf8"
 linkedin_topic: DevOps
 learning_paths:
-  - Docker Foundations Professional Certificate
+  - '[[Docker Foundations Professional Certificate]]'
+prev_courses:
+  - '[[Docker- Your First Project]]'
+path_nav: '[{"path":"Docker Foundations Professional Certificate","position":3,"total":3,"prev":"Docker- Your First Project","next":null}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - topic/network-and-system-administration
   - skill/docker-products
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Docker Compose](https://media.licdn.com/dms/image/v2/C560DAQFwAV1IoJuh4Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648228730190?e=2147483647&amp;v=beta&amp;t=UDGSNEdQiarrcYq7yrPvpQh4bEBzohvyc5R0gT4Mjf8)

@@ -16,8 +16,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFQVi_TEoO-OA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690486911691?e=2147483647&amp;v=beta&amp;t=FhTJcLaJXFGJkDfkSJLU3kMp-GblBDwmDRvX_Z2MYWw"
 linkedin_topic: Data Science
 learning_paths:
-  - Starting Your Career in Tech- Data Science
-  - Anaconda Python for Data Science Professional Certificate
+  - '[[Starting Your Career in Tech- Data Science]]'
+  - '[[Anaconda Python for Data Science Professional Certificate]]'
+prev_courses:
+  - '[[Data Science and Analytics Career Paths and Certifications- First Steps]]'
+  - null
+next_courses:
+  - '[[Data Science Foundations- Fundamentals]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+path_nav: '[{"path":"Starting Your Career in Tech- Data Science","position":3,"total":8,"prev":"Data Science and Analytics Career Paths and Certifications- First Steps","next":"Data Science Foundations- Fundamentals"},{"path":"Anaconda Python for Data Science Professional Certificate","position":1,"total":5,"prev":null,"next":"Statistics Foundations 1- The Basics"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - topic/software-development
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Data Science](https://media.licdn.com/dms/image/v2/D560DAQFQVi_TEoO-OA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690486911691?e=2147483647&amp;v=beta&amp;t=FhTJcLaJXFGJkDfkSJLU3kMp-GblBDwmDRvX_Z2MYWw)

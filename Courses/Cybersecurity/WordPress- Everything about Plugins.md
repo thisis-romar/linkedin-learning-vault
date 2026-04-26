@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFj8wPR8I9Erg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671818417007?e=2147483647&amp;v=beta&amp;t=ornzaailb5Pgdp_BoQo01xAy3Yz14d7k6P0Vh1zy3-E"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills in WordPress
+  - '[[Advance Your Skills in WordPress]]'
+prev_courses:
+  - '[[WordPress Essential Training]]'
+next_courses:
+  - '[[WordPress- REST API]]'
+path_nav: '[{"path":"Advance Your Skills in WordPress","position":6,"total":8,"prev":"WordPress Essential Training","next":"WordPress- REST API"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![WordPress: Everything about Plugins](https://media.licdn.com/dms/image/v2/C560DAQFj8wPR8I9Erg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671818417007?e=2147483647&amp;v=beta&amp;t=ornzaailb5Pgdp_BoQo01xAy3Yz14d7k6P0Vh1zy3-E)

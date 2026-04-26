@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGfBniDoj9Rrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729786631991?e=2147483647&amp;v=beta&amp;t=ve29VFiS3XMdQZlehVOGQ8aQu49nQahVfH3DMATky04"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Agentic AI Systems for Tech Leaders
+  - '[[Building Agentic AI Systems for Tech Leaders]]'
+next_courses:
+  - '[[Agentic AI Fundamentals- Architectures, Frameworks, and Applications]]'
+path_nav: '[{"path":"Building Agentic AI Systems for Tech Leaders","position":1,"total":7,"prev":null,"next":"Agentic AI Fundamentals- Architectures, Frameworks, and Applications"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/organizational-change-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Preparing Your Organization For Ai Agents](https://media.licdn.com/dms/image/v2/D560DAQGfBniDoj9Rrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729786631991?e=2147483647&amp;v=beta&amp;t=ve29VFiS3XMdQZlehVOGQ8aQu49nQahVfH3DMATky04)

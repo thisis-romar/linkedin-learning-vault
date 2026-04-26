@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHXX0_TnTIpsw/learning-public-crop_675_1200/B4DZZkcdRXG4Ac-/0/1745441904103?e=2147483647&amp;v=beta&amp;t=Q6gWs8HHYlC5LZSe2-JcUO0Wbhl27iezfnAhReQRS00"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your Sustainability Skills
+  - '[[Improve Your Sustainability Skills]]'
+prev_courses:
+  - '[[Driving Sustainability at Your Organization]]'
+next_courses:
+  - '[[Tips to Make Your Office Eco-Friendly]]'
+path_nav: '[{"path":"Improve Your Sustainability Skills","position":5,"total":8,"prev":"Driving Sustainability at Your Organization","next":"Tips to Make Your Office Eco-Friendly"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/corporate-sustainability
   - skill/job-description-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Employee Engagement: Making Sustainability Part of Everybody’s Job](https://media.licdn.com/dms/image/v2/D4D0DAQHXX0_TnTIpsw/learning-public-crop_675_1200/B4DZZkcdRXG4Ac-/0/1745441904103?e=2147483647&amp;v=beta&amp;t=Q6gWs8HHYlC5LZSe2-JcUO0Wbhl27iezfnAhReQRS00)

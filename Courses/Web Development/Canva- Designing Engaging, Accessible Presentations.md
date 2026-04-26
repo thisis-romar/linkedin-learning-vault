@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHNC5bxkmq1ng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721952030728?e=2147483647&amp;v=beta&amp;t=LrKQU8VJaqykVzJ_zXOxIMm0IYRN_h7zoHH3Uks7DEs"
 linkedin_topic: Web Development
 learning_paths:
-  - Build for Digital Accessibility
+  - '[[Build for Digital Accessibility]]'
+prev_courses:
+  - '[[Build an Image Captioning Tool for Visually Impaired Users with Gemini]]'
+next_courses:
+  - '[[HTML Forms- Accessibility]]'
+path_nav: '[{"path":"Build for Digital Accessibility","position":8,"total":12,"prev":"Build an Image Captioning Tool for Visually Impaired Users with Gemini","next":"HTML Forms- Accessibility"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/presentation-design
   - skill/canva
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Canva: Designing Engaging, Accessible Presentations](https://media.licdn.com/dms/image/v2/D560DAQHNC5bxkmq1ng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721952030728?e=2147483647&amp;v=beta&amp;t=LrKQU8VJaqykVzJ_zXOxIMm0IYRN_h7zoHH3Uks7DEs)

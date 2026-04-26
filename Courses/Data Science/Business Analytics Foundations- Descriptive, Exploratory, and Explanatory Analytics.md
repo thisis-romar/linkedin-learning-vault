@@ -10,14 +10,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF7XhgAA2iHTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628878734552?e=2147483647&amp;v=beta&amp;t=wcO-7j39sIdoiqJAOC8fWz8Ye0oFMOfwijaccNOyIcA"
 linkedin_topic: Data Science
 learning_paths:
-  - Get Ahead in Business Analytics and Analysis
-  - Advance Your Skills in Predictive Analytics
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+  - '[[Advance Your Skills in Predictive Analytics]]'
+prev_courses:
+  - '[[Business Analysis- Essential Tools and Techniques (2021)]]'
+  - '[[Predictive Customer Analytics]]'
+next_courses:
+  - '[[Business Analytics Foundations- Predictive, Prescriptive, and Experimental Analytics]]'
+  - '[[Python- Working with Predictive Analytics]]'
+path_nav: '[{"path":"Get Ahead in Business Analytics and Analysis","position":11,"total":19,"prev":"Business Analysis- Essential Tools and Techniques (2021)","next":"Business Analytics Foundations- Predictive, Prescriptive, and Experimental Analytics"},{"path":"Advance Your Skills in Predictive Analytics","position":4,"total":8,"prev":"Predictive Customer Analytics","next":"Python- Working with Predictive Analytics"}]'
 path_count: 2
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analytics Foundations: Descriptive, Exploratory, and Explanatory Analytics](https://media.licdn.com/dms/image/v2/C4E0DAQF7XhgAA2iHTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628878734552?e=2147483647&amp;v=beta&amp;t=wcO-7j39sIdoiqJAOC8fWz8Ye0oFMOfwijaccNOyIcA)

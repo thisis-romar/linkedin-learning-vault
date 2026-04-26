@@ -39,7 +39,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Explore a Career in Database Development
@@ -71,3 +71,7 @@ _Paths that share courses with this one:_
 - [[Become a Programmer- Foundations]] (1 shared courses)
 - [[Explore a Career in SQL Development]] (1 shared courses)
 - [[Data Engineering Foundations Professional Certificate by Astronomer]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Database Management]]

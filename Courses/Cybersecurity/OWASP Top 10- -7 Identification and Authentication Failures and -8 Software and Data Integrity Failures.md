@@ -20,7 +20,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGnb7pdkDwkiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698103237077?e=2147483647&amp;v=beta&amp;t=2cbMXy-nXNx-pCPx4P7H51UiVDrhs6dSjrgJtF3jOFU"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Master the OWASP Top 10
+  - '[[Master the OWASP Top 10]]'
+prev_courses:
+  - '[[OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components]]'
+next_courses:
+  - '[[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]]'
+path_nav: '[{"path":"Master the OWASP Top 10","position":5,"total":6,"prev":"OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components","next":"OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/identity-and-access-management-iam
   - skill/data-integrity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![OWASP Top 10: #7 Identification and Authentication Failures and #8 Software and Data Integrity Failures](https://media.licdn.com/dms/image/v2/D560DAQGnb7pdkDwkiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698103237077?e=2147483647&amp;v=beta&amp;t=2cbMXy-nXNx-pCPx4P7H51UiVDrhs6dSjrgJtF3jOFU)

@@ -14,7 +14,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHjKgUr1b58_A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711409101651?e=2147483647&amp;v=beta&amp;t=sE-SZpSmhRW_c0DteXuyJgJnsGoyuXeZWwM35HnBp3s"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation in Practice- Virtual Collaboration Tools
+  - '[[Digital Transformation in Practice- Virtual Collaboration Tools]]'
+prev_courses:
+  - '[[Learning Word Online (Microsoft 365)]]'
+next_courses:
+  - '[[Google Drive Essential Training (2023)]]'
+path_nav: '[{"path":"Digital Transformation in Practice- Virtual Collaboration Tools","position":7,"total":9,"prev":"Learning Word Online (Microsoft 365)","next":"Google Drive Essential Training (2023)"}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +27,7 @@ tags:
   - topic/software-development
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Outlook on the Web Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHjKgUr1b58_A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711409101651?e=2147483647&amp;v=beta&amp;t=sE-SZpSmhRW_c0DteXuyJgJnsGoyuXeZWwM35HnBp3s)

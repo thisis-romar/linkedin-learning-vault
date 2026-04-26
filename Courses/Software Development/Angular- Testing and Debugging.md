@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/Angular-2875342"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHE8peKcX_-XA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619631876852?e=2147483647&amp;v=beta&amp;t=TR_-M5cw5CjbnUMaTtkSmj4HWyaRd8SRPeYMwpUWJQU"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore Web Development with Angular
+  - '[[Explore Web Development with Angular]]'
+prev_courses:
+  - '[[Learning the Angular CLI]]'
+next_courses:
+  - '[[Angular- Creating and Hosting a Full-Stack Site]]'
+path_nav: '[{"path":"Explore Web Development with Angular","position":3,"total":6,"prev":"Learning the Angular CLI","next":"Angular- Creating and Hosting a Full-Stack Site"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/debugging-code
   - skill/angular
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Angular: Testing and Debugging](https://media.licdn.com/dms/image/v2/C560DAQHE8peKcX_-XA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619631876852?e=2147483647&amp;v=beta&amp;t=TR_-M5cw5CjbnUMaTtkSmj4HWyaRd8SRPeYMwpUWJQU)

@@ -19,9 +19,18 @@ github: "https://github.com/LinkedInLearning/vector-databases-in-practice-deep-d
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQExzIHfNrjPEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710796088760?e=2147483647&amp;v=beta&amp;t=zPT5HbEEOP1hqMzL_wzXM5L6Kg2qzovDoTUdf0o0tLo"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Vector Databases Professional Certificate by Weaviate
-  - Explore AI for Data Engineering
-  - Master Retrieval-Augmented Generation (RAG)
+  - '[[Vector Databases Professional Certificate by Weaviate]]'
+  - '[[Explore AI for Data Engineering]]'
+  - '[[Master Retrieval-Augmented Generation (RAG)]]'
+prev_courses:
+  - '[[Introduction To Ai Native Vector Databases]]'
+  - '[[Introduction To Ai Native Vector Databases]]'
+  - '[[RAG and Fine-Tuning Explained]]'
+next_courses:
+  - null
+  - '[[GraphRAG Essential Training]]'
+  - '[[Generative AI- Introduction to Large Language Models]]'
+path_nav: '[{"path":"Vector Databases Professional Certificate by Weaviate","position":2,"total":2,"prev":"Introduction To Ai Native Vector Databases","next":null},{"path":"Explore AI for Data Engineering","position":6,"total":8,"prev":"Introduction To Ai Native Vector Databases","next":"GraphRAG Essential Training"},{"path":"Master Retrieval-Augmented Generation (RAG)","position":2,"total":7,"prev":"RAG and Fine-Tuning Explained","next":"Generative AI- Introduction to Large Language Models"}]'
 path_count: 3
 tags:
   - course
@@ -32,7 +41,7 @@ tags:
   - skill/vector-databases
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Vector Databases in Practice: Deep Dive](https://media.licdn.com/dms/image/v2/D560DAQExzIHfNrjPEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710796088760?e=2147483647&amp;v=beta&amp;t=zPT5HbEEOP1hqMzL_wzXM5L6Kg2qzovDoTUdf0o0tLo)

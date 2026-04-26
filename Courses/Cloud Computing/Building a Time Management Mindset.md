@@ -14,14 +14,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGmk6fVb6iosw/learning-public-crop_675_1200/B4EZXzdPQhH0AY-/0/1743546283371?e=2147483647&amp;v=beta&amp;t=t9rU0p6OIsRahFWHxihVJraYFzcjp4AspjQHuqgM5yU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Career Essentials in Administrative Assistance by Microsoft and LinkedIn
+  - '[[Career Essentials in Administrative Assistance by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Tips for Writing Business Emails]]'
+next_courses:
+  - '[[Learning Microsoft 365]]'
+path_nav: '[{"path":"Career Essentials in Administrative Assistance by Microsoft and LinkedIn","position":4,"total":7,"prev":"Tips for Writing Business Emails","next":"Learning Microsoft 365"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - skill/time-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Time Management Mindset](https://media.licdn.com/dms/image/v2/D4E0DAQGmk6fVb6iosw/learning-public-crop_675_1200/B4EZXzdPQhH0AY-/0/1743546283371?e=2147483647&amp;v=beta&amp;t=t9rU0p6OIsRahFWHxihVJraYFzcjp4AspjQHuqgM5yU)

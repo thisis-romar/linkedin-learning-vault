@@ -9,7 +9,7 @@ linkedin_topics:
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - learning-path
   - topic/cloud-computing
@@ -55,7 +55,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance as a Tech Leader
@@ -93,3 +93,7 @@ _Paths that share courses with this one:_
 - [[Advance Your Communication Skills as a Tech Manager]] (3 shared courses)
 - [[ServiceNow IT Leadership Professional Certificate]] (1 shared courses)
 - [[Improve Your Technical Communication Skills]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

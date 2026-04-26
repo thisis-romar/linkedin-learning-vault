@@ -17,11 +17,24 @@ github: "https://github.com/LinkedInLearning/hands-on-introduction-data-engineer
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQF2-XpACOT2ew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713900511583?e=2147483647&amp;v=beta&amp;t=CFp3O8T0c6lKkjCy01p6HDN8xloYCURODyde3QOYlNw"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Scala Skills for Data Engineering
-  - Develop Your Rust Skills for Data Engineering
-  - Data Engineering Foundations Professional Certificate by Astronomer
-  - Data Engineering Hands-On Practice
-  - Explore a Career in Data Engineering
+  - '[[Develop Your Scala Skills for Data Engineering]]'
+  - '[[Develop Your Rust Skills for Data Engineering]]'
+  - '[[Data Engineering Foundations Professional Certificate by Astronomer]]'
+  - '[[Data Engineering Hands-On Practice]]'
+  - '[[Explore a Career in Data Engineering]]'
+prev_courses:
+  - '[[Data Engineering Foundations]]'
+  - '[[Data Engineering Foundations]]'
+  - '[[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]'
+  - null
+  - '[[Data Engineering Foundations]]'
+next_courses:
+  - '[[Hands-On Introduction- Scala]]'
+  - '[[Rust Essential Training]]'
+  - '[[Learning Apache Airflow]]'
+  - '[[Hands-On Advanced Python- Data Engineering Basics]]'
+  - '[[Introduction to Data Warehouses]]'
+path_nav: '[{"path":"Develop Your Scala Skills for Data Engineering","position":2,"total":6,"prev":"Data Engineering Foundations","next":"Hands-On Introduction- Scala"},{"path":"Develop Your Rust Skills for Data Engineering","position":2,"total":6,"prev":"Data Engineering Foundations","next":"Rust Essential Training"},{"path":"Data Engineering Foundations Professional Certificate by Astronomer","position":3,"total":6,"prev":"Complete Guide to Python for Data Engineering- From Beginner to Advanced","next":"Learning Apache Airflow"},{"path":"Data Engineering Hands-On Practice","position":1,"total":7,"prev":null,"next":"Hands-On Advanced Python- Data Engineering Basics"},{"path":"Explore a Career in Data Engineering","position":2,"total":7,"prev":"Data Engineering Foundations","next":"Introduction to Data Warehouses"}]'
 path_count: 5
 tags:
   - course
@@ -31,7 +44,7 @@ tags:
   - topic/cloud-computing
   - skill/data-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On Introduction: Data Engineering](https://media.licdn.com/dms/image/v2/D4E0DAQF2-XpACOT2ew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713900511583?e=2147483647&amp;v=beta&amp;t=CFp3O8T0c6lKkjCy01p6HDN8xloYCURODyde3QOYlNw)

@@ -10,13 +10,16 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFAwRoAKWf9yg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584485746573?e=2147483647&amp;v=beta&amp;t=xyw7oOGea6fc1IynyQa7UoGqt2VZHmI_lGK7ANDIjG4"
 linkedin_topic: Hardware
 learning_paths:
-  - CSCMP Supply Chain Foundations- Manufacturing and Service Operations Professional Certificate
+  - '[[CSCMP Supply Chain Foundations- Manufacturing and Service Operations Professional Certificate]]'
+prev_courses:
+  - '[[Learning Industrial Automation]]'
+path_nav: '[{"path":"CSCMP Supply Chain Foundations- Manufacturing and Service Operations Professional Certificate","position":4,"total":4,"prev":"Learning Industrial Automation","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel: Value Stream Mapping](https://media.licdn.com/dms/image/v2/C4E0DAQFAwRoAKWf9yg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584485746573?e=2147483647&amp;v=beta&amp;t=xyw7oOGea6fc1IynyQa7UoGqt2VZHmI_lGK7ANDIjG4)

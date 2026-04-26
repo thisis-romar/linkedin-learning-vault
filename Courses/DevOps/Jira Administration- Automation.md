@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF4RCJpNVFiUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729015553323?e=2147483647&amp;v=beta&amp;t=KCk5B6KpJmrLdmUXeWewhgUirGf7X2x4sOa7T7Q0K-8"
 linkedin_topic: DevOps
 learning_paths:
-  - Mastering Jira Administration
+  - '[[Mastering Jira Administration]]'
+prev_courses:
+  - '[[Jira- Managing Custom Workflows]]'
+next_courses:
+  - '[[Increasing Efficiency with Jira and Confluence Integrations]]'
+path_nav: '[{"path":"Mastering Jira Administration","position":6,"total":7,"prev":"Jira- Managing Custom Workflows","next":"Increasing Efficiency with Jira and Confluence Integrations"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/jira
   - skill/automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Jira Administration: Automation](https://media.licdn.com/dms/image/v2/D560DAQF4RCJpNVFiUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729015553323?e=2147483647&amp;v=beta&amp;t=KCk5B6KpJmrLdmUXeWewhgUirGf7X2x4sOa7T7Q0K-8)

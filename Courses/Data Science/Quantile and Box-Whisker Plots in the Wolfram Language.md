@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHzyFqfSdlQhQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704746115603?e=2147483647&amp;v=beta&amp;t=xz95swpSRdsr8y-hS1TKPIL_Yr2dYWhTSqA6QgIzv9s"
 linkedin_topic: Data Science
 learning_paths:
-  - Build Your Wolfram Language Skills
+  - '[[Build Your Wolfram Language Skills]]'
+prev_courses:
+  - '[[Statistical Analysis with Wolfram Language]]'
+next_courses:
+  - '[[Wavelet Analysis- Concepts with Wolfram Language]]'
+path_nav: '[{"path":"Build Your Wolfram Language Skills","position":2,"total":8,"prev":"Statistical Analysis with Wolfram Language","next":"Wavelet Analysis- Concepts with Wolfram Language"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - skill/wolfram-language
   - skill/data-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Quantile and Box-Whisker Plots in the Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQHzyFqfSdlQhQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704746115603?e=2147483647&amp;v=beta&amp;t=xz95swpSRdsr8y-hS1TKPIL_Yr2dYWhTSqA6QgIzv9s)

@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQEbTv2EPcMQvw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1590698438816?e=2147483647&amp;v=beta&amp;t=n0D5Jhj_5L1zybOt-i3fNGsqITTFuhr9BCW8mnFNZ34"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in HTML
+  - '[[Advance Your Skills in HTML]]'
+prev_courses:
+  - '[[HTML & CSS- Creating Forms]]'
+next_courses:
+  - '[[Learning Web Audio and Video]]'
+path_nav: '[{"path":"Advance Your Skills in HTML","position":8,"total":11,"prev":"HTML & CSS- Creating Forms","next":"Learning Web Audio and Video"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/html
   - skill/forms-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Great Forms with HTML and CSS](https://media.licdn.com/dms/image/v2/C4D0DAQEbTv2EPcMQvw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1590698438816?e=2147483647&amp;v=beta&amp;t=n0D5Jhj_5L1zybOt-i3fNGsqITTFuhr9BCW8mnFNZ34)

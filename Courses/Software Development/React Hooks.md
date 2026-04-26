@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQED93Y_n4EFGg/learning-public-crop_675_1200/B4DZW6GmJ6G4AY-/0/1742584046483?e=2147483647&amp;v=beta&amp;t=zk4ez_mB2zcz3ZaD6NYH5gHRXalf7TbzJXXH_indJvs"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore React.js Development
+  - '[[Explore React.js Development]]'
+prev_courses:
+  - '[[React- Creating and Hosting a Full-Stack Site]]'
+next_courses:
+  - '[[React- Accessibility]]'
+path_nav: '[{"path":"Explore React.js Development","position":4,"total":8,"prev":"React- Creating and Hosting a Full-Stack Site","next":"React- Accessibility"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/web-development
   - skill/react-hooks
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React Hooks](https://media.licdn.com/dms/image/v2/D4D0DAQED93Y_n4EFGg/learning-public-crop_675_1200/B4DZW6GmJ6G4AY-/0/1742584046483?e=2147483647&amp;v=beta&amp;t=zk4ez_mB2zcz3ZaD6NYH5gHRXalf7TbzJXXH_indJvs)

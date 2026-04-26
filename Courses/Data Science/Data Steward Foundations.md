@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQE6ppB-UXs8LA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626889867307?e=2147483647&amp;v=beta&amp;t=WX-_UU79GUX6cycjtM-RDzGBuP28LzGfUENADzKQQMI"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Management
-  - Mastering Data Governance and Ethics
+  - '[[Introduction to Fundamental Skills for Data Work- Data Management]]'
+  - '[[Mastering Data Governance and Ethics]]'
+prev_courses:
+  - '[[Secure Data Management for AI Implementation]]'
+  - '[[Learning Data Governance]]'
+next_courses:
+  - null
+  - '[[Designing Data Governance]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Management","position":6,"total":6,"prev":"Secure Data Management for AI Implementation","next":null},{"path":"Mastering Data Governance and Ethics","position":3,"total":9,"prev":"Learning Data Governance","next":"Designing Data Governance"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/data-governance
   - skill/data-stewardship
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Steward Foundations](https://media.licdn.com/dms/image/v2/C560DAQE6ppB-UXs8LA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626889867307?e=2147483647&amp;v=beta&amp;t=WX-_UU79GUX6cycjtM-RDzGBuP28LzGfUENADzKQQMI)

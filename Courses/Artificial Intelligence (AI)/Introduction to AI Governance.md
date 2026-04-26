@@ -19,13 +19,30 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHc6_dz2wETeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707166447052?e=2147483647&amp;v=beta&amp;t=6_sPQphGy-K_oNvC_225It9xnGmg4G6RipMpJIWFzhU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying AI as a Tech Leader
-  - Understanding Generative AI for Tech Leaders
-  - AI Regulations for Business Leaders- The EU AI Act and More
-  - AI Regulations for Tech Leaders- The EU AI Act and More
-  - Responsible AI Foundations
-  - Mastering Responsible AI- From Concept to Auditing
-  - Advance Your Skills in AI and Machine Learning
+  - '[[Applying AI as a Tech Leader]]'
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[AI Regulations for Business Leaders- The EU AI Act and More]]'
+  - '[[AI Regulations for Tech Leaders- The EU AI Act and More]]'
+  - '[[Responsible AI Foundations]]'
+  - '[[Mastering Responsible AI- From Concept to Auditing]]'
+  - '[[Advance Your Skills in AI and Machine Learning]]'
+prev_courses:
+  - '[[Building a Responsible AI Program- Context, Culture, Content, and Commitment]]'
+  - '[[Introduction to Auditing AI Systems]]'
+  - null
+  - null
+  - '[[The State of AI and Copyright]]'
+  - '[[Responsible AI- Principles and Practical Applications]]'
+  - '[[Responsible AI- Principles and Practical Applications]]'
+next_courses:
+  - null
+  - '[[Compliance and Regulations for Generative AI]]'
+  - '[[Ethics in the Age of Generative AI]]'
+  - '[[Compliance and Regulations for Generative AI]]'
+  - null
+  - '[[Compliance and Regulations for Generative AI]]'
+  - null
+path_nav: '[{"path":"Applying AI as a Tech Leader","position":8,"total":8,"prev":"Building a Responsible AI Program- Context, Culture, Content, and Commitment","next":null},{"path":"Understanding Generative AI for Tech Leaders","position":15,"total":22,"prev":"Introduction to Auditing AI Systems","next":"Compliance and Regulations for Generative AI"},{"path":"AI Regulations for Business Leaders- The EU AI Act and More","position":1,"total":4,"prev":null,"next":"Ethics in the Age of Generative AI"},{"path":"AI Regulations for Tech Leaders- The EU AI Act and More","position":1,"total":4,"prev":null,"next":"Compliance and Regulations for Generative AI"},{"path":"Responsible AI Foundations","position":5,"total":5,"prev":"The State of AI and Copyright","next":null},{"path":"Mastering Responsible AI- From Concept to Auditing","position":3,"total":7,"prev":"Responsible AI- Principles and Practical Applications","next":"Compliance and Regulations for Generative AI"},{"path":"Advance Your Skills in AI and Machine Learning","position":16,"total":16,"prev":"Responsible AI- Principles and Practical Applications","next":null}]'
 path_count: 7
 tags:
   - course
@@ -38,7 +55,7 @@ tags:
   - skill/data-governance
   - skill/ai-governance
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to AI Governance](https://media.licdn.com/dms/image/v2/D560DAQHc6_dz2wETeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707166447052?e=2147483647&amp;v=beta&amp;t=6_sPQphGy-K_oNvC_225It9xnGmg4G6RipMpJIWFzhU)

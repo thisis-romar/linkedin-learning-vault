@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF-T1GpCdCroQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622849290891?e=2147483647&amp;v=beta&amp;t=XPPas-HZ6qijtjMWsh3ZmwdAnBOCra5dMGd9zPyoPgw"
 linkedin_topic: DevOps
 learning_paths:
-  - Master C++
+  - '[[Master C++]]'
+prev_courses:
+  - '[[Test-Driven Development in C++]]'
+next_courses:
+  - '[[C++ Design Patterns- Creational]]'
+path_nav: '[{"path":"Master C++","position":4,"total":6,"prev":"Test-Driven Development in C++","next":"C++ Design Patterns- Creational"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C++ Design Patterns: Behavioral](https://media.licdn.com/dms/image/v2/C560DAQF-T1GpCdCroQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622849290891?e=2147483647&amp;v=beta&amp;t=XPPas-HZ6qijtjMWsh3ZmwdAnBOCra5dMGd9zPyoPgw)

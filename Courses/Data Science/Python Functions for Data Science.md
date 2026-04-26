@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGnFiXiVWQong/learning-public-crop_675_1200/B56ZrwV5.nL8AY-/0/1764968865986?e=2147483647&amp;v=beta&amp;t=FS5a1mj0v5I-XnALS8VwfOTkLuhu3d63sUVvDz-LQLc"
 linkedin_topic: Data Science
 learning_paths:
-  - Moving from Data Analyst to Data Scientist
+  - '[[Moving from Data Analyst to Data Scientist]]'
+prev_courses:
+  - '[[Data Wrangling in R]]'
+next_courses:
+  - '[[Basics of Data Visualization Analysis]]'
+path_nav: '[{"path":"Moving from Data Analyst to Data Scientist","position":3,"total":11,"prev":"Data Wrangling in R","next":"Basics of Data Visualization Analysis"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/data-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Functions for Data Science](https://media.licdn.com/dms/image/v2/D560DAQGnFiXiVWQong/learning-public-crop_675_1200/B56ZrwV5.nL8AY-/0/1764968865986?e=2147483647&amp;v=beta&amp;t=FS5a1mj0v5I-XnALS8VwfOTkLuhu3d63sUVvDz-LQLc)

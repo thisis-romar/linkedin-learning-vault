@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/hands-on-ai-image-processing-with-p
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFGuLG0_BvB7w/learning-public-crop_675_1200/B4EZdlJCsLGcAc-/0/1749748558953?e=2147483647&amp;v=beta&amp;t=GwP95RSMdaJECVUjyGsOXH_EOlGrjnEeB7OIi-jKN5o"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Getting Started with AI and Machine Learning
+  - '[[Getting Started with AI and Machine Learning]]'
+prev_courses:
+  - '[[Deep Learning Getting Started]]'
+next_courses:
+  - '[[Reinforcement Learning Foundations]]'
+path_nav: '[{"path":"Getting Started with AI and Machine Learning","position":4,"total":7,"prev":"Deep Learning Getting Started","next":"Reinforcement Learning Foundations"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/computer-vision
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On AI: Image Processing with Python](https://media.licdn.com/dms/image/v2/D4E0DAQFGuLG0_BvB7w/learning-public-crop_675_1200/B4EZdlJCsLGcAc-/0/1749748558953?e=2147483647&amp;v=beta&amp;t=GwP95RSMdaJECVUjyGsOXH_EOlGrjnEeB7OIi-jKN5o)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/technical-literacy-and-future-readi
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 3
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Technical Literacy and Future Readiness for Senior Executives
@@ -74,3 +74,7 @@ _Paths that share courses with this one:_
 - [[Master Digital Transformation]] (1 shared courses)
 - [[AI Regulations for Business Leaders- The EU AI Act and More]] (1 shared courses)
 - [[Responsible AI at Work- Literacy, Ethics, and More]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

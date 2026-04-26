@@ -10,13 +10,16 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFnkMv4zQvhjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731436655084?e=2147483647&amp;v=beta&amp;t=Qgy0cI6AYYPFY5q60tnwoUkxPZSplRG1A8eKrGtH5HU"
 linkedin_topic: Web Development
 learning_paths:
-  - Prepare for Digital Accessibility
+  - '[[Prepare for Digital Accessibility]]'
+prev_courses:
+  - '[[Simplifying Web Development with Accessibility Best Practices]]'
+path_nav: '[{"path":"Prepare for Digital Accessibility","position":8,"total":8,"prev":"Simplifying Web Development with Accessibility Best Practices","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using AI for Accessible Design Workflows](https://media.licdn.com/dms/image/v2/D4E0DAQFnkMv4zQvhjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731436655084?e=2147483647&amp;v=beta&amp;t=Qgy0cI6AYYPFY5q60tnwoUkxPZSplRG1A8eKrGtH5HU)

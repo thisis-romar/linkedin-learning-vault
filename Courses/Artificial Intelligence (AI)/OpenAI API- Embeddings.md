@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/openai-api-embeddings-3836239"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE9xBCnX-ribQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706053833371?e=2147483647&amp;v=beta&amp;t=PHi2llEvmWZ5FBrQUEGAg4se_z_lvEYuD_s73S4jsT4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your Skills with the OpenAI API
+  - '[[Develop Your Skills with the OpenAI API]]'
+prev_courses:
+  - '[[OpenAI API- Function Calling (2023)]]'
+next_courses:
+  - '[[OpenAI API- Fine-Tuning]]'
+path_nav: '[{"path":"Develop Your Skills with the OpenAI API","position":4,"total":10,"prev":"OpenAI API- Function Calling (2023)","next":"OpenAI API- Fine-Tuning"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![OpenAI API: Embeddings](https://media.licdn.com/dms/image/v2/D560DAQE9xBCnX-ribQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706053833371?e=2147483647&amp;v=beta&amp;t=PHi2llEvmWZ5FBrQUEGAg4se_z_lvEYuD_s73S4jsT4)

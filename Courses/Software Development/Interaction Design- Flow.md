@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C510DAQEwrwNBxVnNEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583354233184?e=2147483647&amp;v=beta&amp;t=NDUFZLocl7p1vi0m_G7m578r6jqZdMpqnEOAij4M7Rk"
 linkedin_topic: Software Development
 learning_paths:
-  - Exploring a Career in Interaction Design
+  - '[[Exploring a Career in Interaction Design]]'
+prev_courses:
+  - '[[Interaction Design- Interface]]'
+next_courses:
+  - '[[Interaction Design- Design Patterns as Building Blocks]]'
+path_nav: '[{"path":"Exploring a Career in Interaction Design","position":7,"total":9,"prev":"Interaction Design- Interface","next":"Interaction Design- Design Patterns as Building Blocks"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Interaction Design: Flow](https://media.licdn.com/dms/image/v2/C510DAQEwrwNBxVnNEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583354233184?e=2147483647&amp;v=beta&amp;t=NDUFZLocl7p1vi0m_G7m578r6jqZdMpqnEOAij4M7Rk)

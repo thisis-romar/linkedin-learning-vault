@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/practical-python-for-algorithmic-tr
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGJu6wunUGBDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690825887820?e=2147483647&amp;v=beta&amp;t=WzT3lm10MFL6SpZcfh5Z_kj4-4m5x4Z5hIo62L4-nB8"
 linkedin_topic: Data Science
 learning_paths:
-  - Python for Data Professionals in Finance
+  - '[[Python for Data Professionals in Finance]]'
+prev_courses:
+  - '[[Advanced Python in Excel for Finance- A Hands-On Approach]]'
+next_courses:
+  - '[[Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training]]'
+path_nav: '[{"path":"Python for Data Professionals in Finance","position":4,"total":5,"prev":"Advanced Python in Excel for Finance- A Hands-On Approach","next":"Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/algorithmic-trading
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Practical Python for Algorithmic Trading](https://media.licdn.com/dms/image/v2/D560DAQGJu6wunUGBDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690825887820?e=2147483647&amp;v=beta&amp;t=WzT3lm10MFL6SpZcfh5Z_kj4-4m5x4Z5hIo62L4-nB8)

@@ -14,15 +14,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFnSmisuneXVA/learning-public-crop_675_1200/B4EZlZfSJbHgAY-/0/1758142997337?e=2147483647&amp;v=beta&amp;t=2olnUg1DuyqFziWpU27CQFTb2FtXgRQUUB0wpqlU04c"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance as a Digital Marketing Specialist
-  - Become a Marketing Coordinator
+  - '[[Advance as a Digital Marketing Specialist]]'
+  - '[[Become a Marketing Coordinator]]'
+prev_courses:
+  - null
+  - '[[Marketing Foundations]]'
+next_courses:
+  - '[[Marketing Foundations]]'
+  - '[[Marketing Analytics Foundations]]'
+path_nav: '[{"path":"Advance as a Digital Marketing Specialist","position":1,"total":9,"prev":null,"next":"Marketing Foundations"},{"path":"Become a Marketing Coordinator","position":2,"total":9,"prev":"Marketing Foundations","next":"Marketing Analytics Foundations"}]'
 path_count: 2
 tags:
   - course
   - topic/data-science
   - skill/digital-marketing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Digital Marketing Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQFnSmisuneXVA/learning-public-crop_675_1200/B4EZlZfSJbHgAY-/0/1758142997337?e=2147483647&amp;v=beta&amp;t=2olnUg1DuyqFziWpU27CQFTb2FtXgRQUUB0wpqlU04c)

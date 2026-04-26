@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHRVJv64vl5vw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727207319739?e=2147483647&amp;v=beta&amp;t=vgCdRgO7nVfvUfDnTMDqXWCbfrZCQ1x0wBFLBDQIyNc"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Storage
+  - '[[Introduction to Fundamental Skills for Data Work- Data Storage]]'
+prev_courses:
+  - '[[Database Design Fundamentals]]'
+next_courses:
+  - '[[Introduction to Data Warehouses]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Storage","position":2,"total":6,"prev":"Database Design Fundamentals","next":"Introduction to Data Warehouses"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/software-development
   - skill/relational-databases
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Relational Databases Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHRVJv64vl5vw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727207319739?e=2147483647&amp;v=beta&amp;t=vgCdRgO7nVfvUfDnTMDqXWCbfrZCQ1x0wBFLBDQIyNc)

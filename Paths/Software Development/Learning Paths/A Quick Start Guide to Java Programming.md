@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # A Quick Start Guide to Java Programming
@@ -69,3 +69,7 @@ _Paths that share courses with this one:_
 - [[Explore a Career as a JavaScript Developer]] (2 shared courses)
 - [[A Quick Start Guide to Programming in Python]] (2 shared courses)
 - [[Career Essentials in Software Development by Microsoft and LinkedIn]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Software Development]]

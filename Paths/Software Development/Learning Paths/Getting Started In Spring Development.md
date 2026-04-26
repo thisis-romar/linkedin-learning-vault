@@ -7,7 +7,7 @@ course_count: 5
 linkedin_topics:
   - Software Development
   - Web Development
-louvain_cluster: 11
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/software-development
@@ -39,7 +39,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Getting Started In Spring Development
@@ -68,3 +68,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Getting Started as a Java Developer]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Software Development]]

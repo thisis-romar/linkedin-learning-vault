@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/learning-neo4j-2483130"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHW5qTGHHzVxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660756613039?e=2147483647&amp;v=beta&amp;t=V7xR7ohFtweeH1uqB7RQgDW7ALDy-DkndokTo9QqkDM"
 linkedin_topic: Database Management
 learning_paths:
-  - Develop Your NoSQL Skills
+  - '[[Develop Your NoSQL Skills]]'
+prev_courses:
+  - '[[Learning MongoDB]]'
+next_courses:
+  - '[[Graph Databases- Neo4j for Complex Data Relationships]]'
+path_nav: '[{"path":"Develop Your NoSQL Skills","position":4,"total":10,"prev":"Learning MongoDB","next":"Graph Databases- Neo4j for Complex Data Relationships"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/software-development
   - skill/neo4j
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Neo4j](https://media.licdn.com/dms/image/v2/C560DAQHW5qTGHHzVxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660756613039?e=2147483647&amp;v=beta&amp;t=V7xR7ohFtweeH1uqB7RQgDW7ALDy-DkndokTo9QqkDM)

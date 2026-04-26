@@ -16,12 +16,27 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE39da4k5PRQg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902865604?e=2147483647&amp;v=beta&amp;t=u2jP4AXKwzQWrz-Wl-NrpPQkV2lYzA3LiMSjRKxjnkg"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Data Analysis Skills
-  - Explore a Career in SQL Development
-  - Advance Your Business Analytics Skills
-  - SQL Hands-On Practice
-  - Advance Your Skills in SQL
-  - Master SQL for Data Science
+  - '[[Develop Your Data Analysis Skills]]'
+  - '[[Explore a Career in SQL Development]]'
+  - '[[Advance Your Business Analytics Skills]]'
+  - '[[SQL Hands-On Practice]]'
+  - '[[Advance Your Skills in SQL]]'
+  - '[[Master SQL for Data Science]]'
+prev_courses:
+  - '[[SQL Tips and Tricks for Data Science]]'
+  - '[[SQL for Data Analysis]]'
+  - '[[SQL for Data Analysis]]'
+  - '[[Data Analysis- Investigate with SQL]]'
+  - '[[SQL for Data Analysis]]'
+  - '[[Intermediate SQL- Data Reporting and Analysis]]'
+next_courses:
+  - '[[Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques]]'
+  - '[[Nail Your SQL Interview]]'
+  - '[[Predictive Analytics Essential Training- Data Mining]]'
+  - '[[Level Up- Advanced SQL]]'
+  - '[[Data Analysis- Investigate with SQL]]'
+  - '[[Advanced SQL for Data Scientists]]'
+path_nav: '[{"path":"Develop Your Data Analysis Skills","position":8,"total":10,"prev":"SQL Tips and Tricks for Data Science","next":"Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques"},{"path":"Explore a Career in SQL Development","position":6,"total":8,"prev":"SQL for Data Analysis","next":"Nail Your SQL Interview"},{"path":"Advance Your Business Analytics Skills","position":7,"total":11,"prev":"SQL for Data Analysis","next":"Predictive Analytics Essential Training- Data Mining"},{"path":"SQL Hands-On Practice","position":8,"total":9,"prev":"Data Analysis- Investigate with SQL","next":"Level Up- Advanced SQL"},{"path":"Advance Your Skills in SQL","position":2,"total":5,"prev":"SQL for Data Analysis","next":"Data Analysis- Investigate with SQL"},{"path":"Master SQL for Data Science","position":3,"total":6,"prev":"Intermediate SQL- Data Reporting and Analysis","next":"Advanced SQL for Data Scientists"}]'
 path_count: 6
 tags:
   - course
@@ -30,7 +45,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL Hands-On Practice: Solve Business Problems](https://media.licdn.com/dms/image/v2/D560DAQE39da4k5PRQg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902865604?e=2147483647&amp;v=beta&amp;t=u2jP4AXKwzQWrz-Wl-NrpPQkV2lYzA3LiMSjRKxjnkg)

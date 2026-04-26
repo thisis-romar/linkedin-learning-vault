@@ -14,7 +14,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHSCgje1Y3Afg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597935046264?e=2147483647&amp;v=beta&amp;t=N_kwR8ju6u_VUeO3SDsZfyWl3UZePVB4DfwsVMbmTcg"
 linkedin_topic: Database Management
 learning_paths:
-  - Network Automation Professional Certificate by Arista Networks
+  - '[[Network Automation Professional Certificate by Arista Networks]]'
+next_courses:
+  - '[[Python Quick Start]]'
+path_nav: '[{"path":"Network Automation Professional Certificate by Arista Networks","position":1,"total":6,"prev":null,"next":"Python Quick Start"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ansible
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Ansible](https://media.licdn.com/dms/image/v2/C4E0DAQHSCgje1Y3Afg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597935046264?e=2147483647&amp;v=beta&amp;t=N_kwR8ju6u_VUeO3SDsZfyWl3UZePVB4DfwsVMbmTcg)

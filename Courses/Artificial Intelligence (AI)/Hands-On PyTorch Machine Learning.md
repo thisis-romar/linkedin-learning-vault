@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGM57qo8MaAsQ/learning-public-crop_675_1200/B4EZnE26nyJ0AY-/0/1759944354943?e=2147483647&amp;v=beta&amp;t=6Gon_PksM4AZpJXmCMprUC3cFMbFn47i6HwIOvmxVGQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Getting Started with AI and Machine Learning
+  - '[[Getting Started with AI and Machine Learning]]'
+prev_courses:
+  - '[[Reinforcement Learning Foundations]]'
+next_courses:
+  - '[[Artificial Intelligence Foundations- Neural Networks]]'
+path_nav: '[{"path":"Getting Started with AI and Machine Learning","position":6,"total":7,"prev":"Reinforcement Learning Foundations","next":"Artificial Intelligence Foundations- Neural Networks"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/pytorch
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On PyTorch Machine Learning](https://media.licdn.com/dms/image/v2/D4E0DAQGM57qo8MaAsQ/learning-public-crop_675_1200/B4EZnE26nyJ0AY-/0/1759944354943?e=2147483647&amp;v=beta&amp;t=6Gon_PksM4AZpJXmCMprUC3cFMbFn47i6HwIOvmxVGQ)

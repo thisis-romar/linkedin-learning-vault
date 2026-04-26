@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGm5ZqP9Mh3Eg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703199238629?e=2147483647&amp;v=beta&amp;t=of5PDyD901Ye3RrFUoxVTTIC_Jcy7cLIpHLcEGIRDnM"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - CISO Leadership- Managing a Cybersecurity Program
+  - '[[CISO Leadership- Managing a Cybersecurity Program]]'
+prev_courses:
+  - '[[Building Your Cybersecurity Talent Pipeline]]'
+next_courses:
+  - '[[Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack]]'
+path_nav: '[{"path":"CISO Leadership- Managing a Cybersecurity Program","position":7,"total":8,"prev":"Building Your Cybersecurity Talent Pipeline","next":"Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/information-security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Cybersecurity Awareness Program](https://media.licdn.com/dms/image/v2/D560DAQGm5ZqP9Mh3Eg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703199238629?e=2147483647&amp;v=beta&amp;t=of5PDyD901Ye3RrFUoxVTTIC_Jcy7cLIpHLcEGIRDnM)

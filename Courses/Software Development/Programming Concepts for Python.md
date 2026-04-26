@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/programming-concepts-python-2702196
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF5tQ0NTwTQ3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698098378404?e=2147483647&amp;v=beta&amp;t=k-HFT6ZNyxctmneqP5BNNrZDWCC1KUbJKULSg6Nx9vo"
 linkedin_topic: Software Development
 learning_paths:
-  - A Quick Start Guide to Programming in Python
-  - Become a Software Developer
+  - '[[A Quick Start Guide to Programming in Python]]'
+  - '[[Become a Software Developer]]'
+prev_courses:
+  - '[[Python Essential Training]]'
+  - '[[Learning Python (2021)]]'
+next_courses:
+  - '[[Hands-On Introduction- Python]]'
+  - '[[Learning Java 11]]'
+path_nav: '[{"path":"A Quick Start Guide to Programming in Python","position":4,"total":6,"prev":"Python Essential Training","next":"Hands-On Introduction- Python"},{"path":"Become a Software Developer","position":8,"total":12,"prev":"Learning Python (2021)","next":"Learning Java 11"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/programming-concepts
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Concepts for Python](https://media.licdn.com/dms/image/v2/D560DAQF5tQ0NTwTQ3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698098378404?e=2147483647&amp;v=beta&amp;t=k-HFT6ZNyxctmneqP5BNNrZDWCC1KUbJKULSg6Nx9vo)

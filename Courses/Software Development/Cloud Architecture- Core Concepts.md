@@ -17,10 +17,21 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGvM2MSfCqa6g/learning-public-crop_675_1200/B56ZbF5ccoGkAY-/0/1747076893242?e=2147483647&amp;v=beta&amp;t=Ecc0y6qx22aXd14auyRGFzQsXfsED3syDkjMBfW5jE4"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Digital Transformation
-  - Digital Transformation for Tech Leaders
-  - Cloud Strategy Professional Certificate by LinkedIn Learning
-  - Advance Your Database Administration Skills
+  - '[[Master Digital Transformation]]'
+  - '[[Digital Transformation for Tech Leaders]]'
+  - '[[Cloud Strategy Professional Certificate by LinkedIn Learning]]'
+  - '[[Advance Your Database Administration Skills]]'
+prev_courses:
+  - '[[Leading with Innovation in the Age of AI]]'
+  - '[[Assessing Digital Maturity]]'
+  - '[[Cloud Security Concepts- Services and Compliance]]'
+  - '[[Advanced SQL Project- Design and Manage a Database]]'
+next_courses:
+  - '[[Cloud Computing Understanding Core Concepts]]'
+  - null
+  - '[[Cloud Architecture- Design Decisions]]'
+  - '[[NoSQL Essential Training]]'
+path_nav: '[{"path":"Master Digital Transformation","position":5,"total":13,"prev":"Leading with Innovation in the Age of AI","next":"Cloud Computing Understanding Core Concepts"},{"path":"Digital Transformation for Tech Leaders","position":15,"total":15,"prev":"Assessing Digital Maturity","next":null},{"path":"Cloud Strategy Professional Certificate by LinkedIn Learning","position":3,"total":9,"prev":"Cloud Security Concepts- Services and Compliance","next":"Cloud Architecture- Design Decisions"},{"path":"Advance Your Database Administration Skills","position":10,"total":11,"prev":"Advanced SQL Project- Design and Manage a Database","next":"NoSQL Essential Training"}]'
 path_count: 4
 tags:
   - course
@@ -32,7 +43,7 @@ tags:
   - skill/cloud-security
   - skill/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Architecture: Core Concepts](https://media.licdn.com/dms/image/v2/D560DAQGvM2MSfCqa6g/learning-public-crop_675_1200/B56ZbF5ccoGkAY-/0/1747076893242?e=2147483647&amp;v=beta&amp;t=Ecc0y6qx22aXd14auyRGFzQsXfsED3syDkjMBfW5jE4)

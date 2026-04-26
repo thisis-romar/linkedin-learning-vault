@@ -17,9 +17,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHBw8wDaw_IHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713457300053?e=2147483647&amp;v=beta&amp;t=zV8-kg6hvhpKDhEWV7dA-SJZhwm_c8y8QWLaBIluD9c"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
-  - AI Regulations for Tech Leaders- The EU AI Act and More
-  - Mastering Responsible AI- From Concept to Auditing
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[AI Regulations for Tech Leaders- The EU AI Act and More]]'
+  - '[[Mastering Responsible AI- From Concept to Auditing]]'
+prev_courses:
+  - '[[Introduction to AI Governance]]'
+  - '[[Introduction to AI Governance]]'
+  - '[[Introduction to AI Governance]]'
+next_courses:
+  - '[[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]]'
+  - '[[Navigating the EU AI Act]]'
+  - '[[Building a Responsible AI Program- Context, Culture, Content, and Commitment]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":16,"total":22,"prev":"Introduction to AI Governance","next":"AI and the Future of Work- Workflows and Modern Tools for Tech Leaders"},{"path":"AI Regulations for Tech Leaders- The EU AI Act and More","position":2,"total":4,"prev":"Introduction to AI Governance","next":"Navigating the EU AI Act"},{"path":"Mastering Responsible AI- From Concept to Auditing","position":4,"total":7,"prev":"Introduction to AI Governance","next":"Building a Responsible AI Program- Context, Culture, Content, and Commitment"}]'
 path_count: 3
 tags:
   - course
@@ -32,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/regulatory-compliance
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Compliance and Regulations for Generative AI](https://media.licdn.com/dms/image/v2/D4D0DAQHBw8wDaw_IHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713457300053?e=2147483647&amp;v=beta&amp;t=zV8-kg6hvhpKDhEWV7dA-SJZhwm_c8y8QWLaBIluD9c)

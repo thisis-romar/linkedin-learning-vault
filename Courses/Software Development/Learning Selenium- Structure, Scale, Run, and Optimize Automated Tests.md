@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/learning-selenium-structure-scale-r
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGblcfQboVDhA/learning-public-crop_675_1200/B56ZiFYB7uH0AY-/0/1754584326185?e=2147483647&amp;v=beta&amp;t=NjRx9jtLJZh04d4RmoKVzN2MizAHQUlChsJ0460S6Gw"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started with Software Testing
+  - '[[Getting Started with Software Testing]]'
+prev_courses:
+  - '[[Software Testing- Planning Tests for Mobile]]'
+next_courses:
+  - '[[Learning Playwright]]'
+path_nav: '[{"path":"Getting Started with Software Testing","position":5,"total":12,"prev":"Software Testing- Planning Tests for Mobile","next":"Learning Playwright"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/selenium
   - skill/test-automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Selenium: Structure, Scale, Run, and Optimize Automated Tests](https://media.licdn.com/dms/image/v2/D560DAQGblcfQboVDhA/learning-public-crop_675_1200/B56ZiFYB7uH0AY-/0/1754584326185?e=2147483647&amp;v=beta&amp;t=NjRx9jtLJZh04d4RmoKVzN2MizAHQUlChsJ0460S6Gw)

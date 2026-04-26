@@ -10,14 +10,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE_ANjrzwRsMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698269406260?e=2147483647&amp;v=beta&amp;t=U8zGZl8pEp_WV_Yq4cR7WwTFuX8zMmNr8sxIkyYxtEU"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a RESTful API Developer
+  - '[[Become a RESTful API Developer]]'
+prev_courses:
+  - '[[API Testing and Validation]]'
+path_nav: '[{"path":"Become a RESTful API Developer","position":5,"total":5,"prev":"API Testing and Validation","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Web Security: OAuth and OpenID Connect](https://media.licdn.com/dms/image/v2/D560DAQE_ANjrzwRsMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698269406260?e=2147483647&amp;v=beta&amp;t=U8zGZl8pEp_WV_Yq4cR7WwTFuX8zMmNr8sxIkyYxtEU)

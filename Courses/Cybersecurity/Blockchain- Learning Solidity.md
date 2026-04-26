@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHUJvpNCRtrIQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696014871160?e=2147483647&amp;v=beta&amp;t=JcBanBnYhQ35mO9wiZmn2eibKhKvYvmELFI2eIyZwYc"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become a Blockchain Developer
+  - '[[Become a Blockchain Developer]]'
+prev_courses:
+  - '[[Blockchain for Developers- Hyperledger Fabric on Azure]]'
+next_courses:
+  - '[[Blockchain Programming in iOS Using Swift]]'
+path_nav: '[{"path":"Become a Blockchain Developer","position":13,"total":14,"prev":"Blockchain for Developers- Hyperledger Fabric on Azure","next":"Blockchain Programming in iOS Using Swift"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/solidity
   - skill/blockchain
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Blockchain: Learning Solidity](https://media.licdn.com/dms/image/v2/D560DAQHUJvpNCRtrIQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696014871160?e=2147483647&amp;v=beta&amp;t=JcBanBnYhQ35mO9wiZmn2eibKhKvYvmELFI2eIyZwYc)

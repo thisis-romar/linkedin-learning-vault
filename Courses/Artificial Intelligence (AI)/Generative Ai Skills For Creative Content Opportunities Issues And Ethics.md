@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHHsn5rOhwxog/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687906359678?e=2147483647&amp;v=beta&amp;t=HUkNhDPpRmNjjIxfw4cHd3dN6_F1Vf-HAhrVw1zH1gI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying Generative AI as a Creative Professional
+  - '[[Applying Generative AI as a Creative Professional]]'
+next_courses:
+  - '[[Generative AI Imaging- What Creative Pros Need to Know]]'
+path_nav: '[{"path":"Applying Generative AI as a Creative Professional","position":1,"total":7,"prev":null,"next":"Generative AI Imaging- What Creative Pros Need to Know"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/media-ethics
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative Ai Skills For Creative Content Opportunities Issues And Ethics](https://media.licdn.com/dms/image/v2/D560DAQHHsn5rOhwxog/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687906359678?e=2147483647&amp;v=beta&amp;t=HUkNhDPpRmNjjIxfw4cHd3dN6_F1Vf-HAhrVw1zH1gI)

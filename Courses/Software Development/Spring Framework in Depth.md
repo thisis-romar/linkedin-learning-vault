@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/spring-framework-in-depth-5945181"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHQkdsXWP-ZQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731028968463?e=2147483647&amp;v=beta&amp;t=-mjsjugJVQVObGKGZsHfNt1Pxh2dERYzXZ-sAX5je0o"
 linkedin_topic: Software Development
 learning_paths:
-  - Building Your Skills in Spring Development
+  - '[[Building Your Skills in Spring Development]]'
+prev_courses:
+  - '[[Spring with GraphQL]]'
+next_courses:
+  - '[[Advanced Spring- Effective Integration Testing with Spring Boot]]'
+path_nav: '[{"path":"Building Your Skills in Spring Development","position":3,"total":4,"prev":"Spring with GraphQL","next":"Advanced Spring- Effective Integration Testing with Spring Boot"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/spring-framework
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Spring Framework in Depth](https://media.licdn.com/dms/image/v2/D4D0DAQHQkdsXWP-ZQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731028968463?e=2147483647&amp;v=beta&amp;t=-mjsjugJVQVObGKGZsHfNt1Pxh2dERYzXZ-sAX5je0o)

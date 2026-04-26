@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGQMZS-HGbqBw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660078703986?e=2147483647&amp;v=beta&amp;t=LJ9yF7aM1TMxPxnzeNhDEOvEsDupgcXqrieAoW8glxo"
 linkedin_topic: Database Management
 learning_paths:
-  - Network Automation Professional Certificate by Arista Networks
+  - '[[Network Automation Professional Certificate by Arista Networks]]'
+prev_courses:
+  - '[[NetOps (DevOps for Network Engineers)- Automating Networks]]'
+next_courses:
+  - '[[Terraform- Managing Network Infrastructure]]'
+path_nav: '[{"path":"Network Automation Professional Certificate by Arista Networks","position":5,"total":6,"prev":"NetOps (DevOps for Network Engineers)- Automating Networks","next":"Terraform- Managing Network Infrastructure"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/network-and-system-administration
   - skill/hybrid-cloud
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hybrid Multicloud Networking: Practical Concepts](https://media.licdn.com/dms/image/v2/C4E0DAQGQMZS-HGbqBw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660078703986?e=2147483647&amp;v=beta&amp;t=LJ9yF7aM1TMxPxnzeNhDEOvEsDupgcXqrieAoW8glxo)

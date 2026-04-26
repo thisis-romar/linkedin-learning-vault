@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/introduction-to-mongodb-4315215/cod
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQEsJpdBqzECvg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671062548655?e=2147483647&amp;v=beta&amp;t=G7L-vUq-M65pZ0WBntVZ6tgV9GLuE0iuXanTQZBJcLs"
 linkedin_topic: Database Management
 learning_paths:
-  - Develop Your NoSQL Skills
+  - '[[Develop Your NoSQL Skills]]'
+prev_courses:
+  - '[[NoSQL Essential Training]]'
+next_courses:
+  - '[[Introduction to Neo4j]]'
+path_nav: '[{"path":"Develop Your NoSQL Skills","position":3,"total":10,"prev":"NoSQL Essential Training","next":"Introduction to Neo4j"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/software-development
   - skill/mongodb
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning MongoDB](https://media.licdn.com/dms/image/v2/C4D0DAQEsJpdBqzECvg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671062548655?e=2147483647&amp;v=beta&amp;t=G7L-vUq-M65pZ0WBntVZ6tgV9GLuE0iuXanTQZBJcLs)

@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFni2WiXwJ-qg/learning-public-crop_675_1200/B4EZoYGJT1GoAc-/0/1761340856365?e=2147483647&amp;v=beta&amp;t=Ukun8HOs0BT99Hy8770JHn_wMa1RoLuBAEVsebVH0OI"
 linkedin_topic: Data Science
 learning_paths:
-  - Get Ahead in Business Analytics and Analysis
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+prev_courses:
+  - '[[Business Analytics- Marketing Data (2022)]]'
+path_nav: '[{"path":"Get Ahead in Business Analytics and Analysis","position":19,"total":19,"prev":"Business Analytics- Marketing Data (2022)","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/business-analytics
   - skill/sales-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analytics: Sales Data (2022)](https://media.licdn.com/dms/image/v2/D4E0DAQFni2WiXwJ-qg/learning-public-crop_675_1200/B4EZoYGJT1GoAc-/0/1761340856365?e=2147483647&amp;v=beta&amp;t=Ukun8HOs0BT99Hy8770JHn_wMa1RoLuBAEVsebVH0OI)

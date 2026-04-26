@@ -21,7 +21,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEtJoc6PfO21Q/learning-public-crop_675_1200/B4EZaNoHLFHEAY-/0/1746132825739?e=2147483647&amp;v=beta&amp;t=OJiguxsXEWRhIerl8ffwEPYf-XipOYxSqDeEejLxAPc"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Tableau Skills
+  - '[[Develop Your Tableau Skills]]'
+prev_courses:
+  - '[[Complete Guide to Tableau for Data Scientists]]'
+next_courses:
+  - '[[Tableau and R for Analytics Projects]]'
+path_nav: '[{"path":"Develop Your Tableau Skills","position":3,"total":4,"prev":"Complete Guide to Tableau for Data Scientists","next":"Tableau and R for Analytics Projects"}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +38,7 @@ tags:
   - skill/data-analytics
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Creating Interactive Tableau Dashboards](https://media.licdn.com/dms/image/v2/D4E0DAQEtJoc6PfO21Q/learning-public-crop_675_1200/B4EZaNoHLFHEAY-/0/1746132825739?e=2147483647&amp;v=beta&amp;t=OJiguxsXEWRhIerl8ffwEPYf-XipOYxSqDeEejLxAPc)

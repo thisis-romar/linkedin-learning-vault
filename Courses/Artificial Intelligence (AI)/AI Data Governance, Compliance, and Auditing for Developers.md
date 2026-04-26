@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEWj65SFSLFxg/learning-public-crop_675_1200/B4EZZpsyldHcAc-/0/1745530071787?e=2147483647&amp;v=beta&amp;t=we_NA_AfB0WMb_fZQa3aBYD1i0mkaBFKNxMkGF8UOFc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[GenAIOps Foundations]]'
+path_nav: '[{"path":"Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning","position":7,"total":7,"prev":"GenAIOps Foundations","next":null}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +33,7 @@ tags:
   - skill/data-governance
   - skill/ai-governance
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Data Governance, Compliance, and Auditing for Developers](https://media.licdn.com/dms/image/v2/D4E0DAQEWj65SFSLFxg/learning-public-crop_675_1200/B4EZZpsyldHcAc-/0/1745530071787?e=2147483647&amp;v=beta&amp;t=we_NA_AfB0WMb_fZQa3aBYD1i0mkaBFKNxMkGF8UOFc)

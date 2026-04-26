@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGJbeH8CObhAw/learning-public-crop_675_1200/B4EZTXHm7gHMAc-/0/1738775883722?e=2147483647&amp;v=beta&amp;t=mwwf-O2dSOaRVCZsbWVqMhfeoMyJ9Zpu-qVrYm4owWY"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Build a Privacy Program
+  - '[[Build a Privacy Program]]'
+prev_courses:
+  - '[[Understanding and Prioritizing Data Privacy]]'
+next_courses:
+  - '[[Privacy, Governance, and Compliance- Data Classification and Inventory]]'
+path_nav: '[{"path":"Build a Privacy Program","position":3,"total":5,"prev":"Understanding and Prioritizing Data Privacy","next":"Privacy, Governance, and Compliance- Data Classification and Inventory"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/privacy
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Privacy Program in the Age of GenAI](https://media.licdn.com/dms/image/v2/D4E0DAQGJbeH8CObhAw/learning-public-crop_675_1200/B4EZTXHm7gHMAc-/0/1738775883722?e=2147483647&amp;v=beta&amp;t=mwwf-O2dSOaRVCZsbWVqMhfeoMyJ9Zpu-qVrYm4owWY)

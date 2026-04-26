@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/strategic-execution-and-business-im
 course_count: 12
 linkedin_topics:
   - Data Science
-louvain_cluster: 3
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/data-science
@@ -65,7 +65,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Strategic Execution and Business Impact for Senior Managers and Senior Leaders
@@ -104,3 +104,7 @@ _Paths that share courses with this one:_
 - [[Introduction to Fundamental Skills for Data Work- Data Strategy and Planning]] (1 shared courses)
 - [[Explore a Career as a Financial Analyst]] (1 shared courses)
 - [[Master Key Financial Analyst Skills]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

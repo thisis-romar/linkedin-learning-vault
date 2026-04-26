@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEL9q77puecnQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584471062411?e=2147483647&amp;v=beta&amp;t=SSdEBuns4xpCGT55BNVXe1ecP0jMNu2mPXBvqzVHy7E"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Get Ahead in DevSecOps
+  - '[[Get Ahead in DevSecOps]]'
+prev_courses:
+  - '[[Application Security in DevSecOps]]'
+path_nav: '[{"path":"Get Ahead in DevSecOps","position":5,"total":5,"prev":"Application Security in DevSecOps","next":null}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - topic/devops
   - skill/devsecops
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![DevSecOps: Tips for Success](https://media.licdn.com/dms/image/v2/C560DAQEL9q77puecnQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584471062411?e=2147483647&amp;v=beta&amp;t=SSdEBuns4xpCGT55BNVXe1ecP0jMNu2mPXBvqzVHy7E)

@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHQ8Npt7hsEeA/learning-public-crop_675_1200/B4DZYhuOqeHwAY-/0/1744322489723?e=2147483647&amp;v=beta&amp;t=PJebZah1_PymfmREvJuxv849tcVVIlDpayVnB-l-udk"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Working with Data- Engineering, Integration, and MLOps for AI
+  - '[[Working with Data- Engineering, Integration, and MLOps for AI]]'
+prev_courses:
+  - '[[Data Integration And Api Development For Ai Applications]]'
+next_courses:
+  - '[[Knowledge Graph Data Engineering for Generative AI Use Cases]]'
+path_nav: '[{"path":"Working with Data- Engineering, Integration, and MLOps for AI","position":2,"total":5,"prev":"Data Integration And Api Development For Ai Applications","next":"Knowledge Graph Data Engineering for Generative AI Use Cases"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-governance
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Versioning, Lineage, and Quality Monitoring for AI](https://media.licdn.com/dms/image/v2/D4D0DAQHQ8Npt7hsEeA/learning-public-crop_675_1200/B4DZYhuOqeHwAY-/0/1744322489723?e=2147483647&amp;v=beta&amp;t=PJebZah1_PymfmREvJuxv849tcVVIlDpayVnB-l-udk)

@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEvB5wLbR4zvQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708542020138?e=2147483647&amp;v=beta&amp;t=pQUvw4TSboNJdDDg8JNVqmmJGJi5vafv5Png3ykWtX0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Microsoft Copilot for Productivity by Microsoft and LinkedIn
+  - '[[Microsoft Copilot for Productivity by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Microsoft Copilot The Art Of Prompt Writing]]'
+next_courses:
+  - '[[Copilot in Outlook- Maximize Your Workday Efficiency (2025)]]'
+path_nav: '[{"path":"Microsoft Copilot for Productivity by Microsoft and LinkedIn","position":3,"total":7,"prev":"Microsoft Copilot The Art Of Prompt Writing","next":"Copilot in Outlook- Maximize Your Workday Efficiency (2025)"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/microsoft-teams
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Copilot in Teams: AI-Powered Collaboration](https://media.licdn.com/dms/image/v2/D4D0DAQEvB5wLbR4zvQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708542020138?e=2147483647&amp;v=beta&amp;t=pQUvw4TSboNJdDDg8JNVqmmJGJi5vafv5Png3ykWtX0)

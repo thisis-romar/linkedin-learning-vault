@@ -16,15 +16,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEL7fM_V2QpOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719432933113?e=2147483647&amp;v=beta&amp;t=Zi4UxLxSrBtVTVB-LJDa4Simdb3QNQXBsEuhkMHwCFQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Visual Communication for Business Professionals
-  - Become a Marketing Coordinator
+  - '[[Visual Communication for Business Professionals]]'
+  - '[[Become a Marketing Coordinator]]'
+prev_courses:
+  - '[[Data Visualization- Best Practices]]'
+  - '[[Email and Newsletter Marketing Foundations]]'
+next_courses:
+  - '[[Learning Graphic Design- Layouts]]'
+  - '[[Project Management Simplified]]'
+path_nav: '[{"path":"Visual Communication for Business Professionals","position":3,"total":5,"prev":"Data Visualization- Best Practices","next":"Learning Graphic Design- Layouts"},{"path":"Become a Marketing Coordinator","position":7,"total":9,"prev":"Email and Newsletter Marketing Foundations","next":"Project Management Simplified"}]'
 path_count: 2
 tags:
   - course
   - topic/data-science
   - skill/graphic-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Graphic Design: Concepts](https://media.licdn.com/dms/image/v2/D560DAQEL7fM_V2QpOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719432933113?e=2147483647&amp;v=beta&amp;t=Zi4UxLxSrBtVTVB-LJDa4Simdb3QNQXBsEuhkMHwCFQ)

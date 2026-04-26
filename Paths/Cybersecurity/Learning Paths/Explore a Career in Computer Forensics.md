@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/explore-a-career-in-computer-forens
 course_count: 9
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/security
@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Explore a Career in Computer Forensics
@@ -89,3 +89,7 @@ _Paths that share courses with this one:_
 - [[Navigating the Cybersecurity Threat Landscape]] (1 shared courses)
 - [[Become a Cybersecurity Professional]] (1 shared courses)
 - [[Career Essentials in Cybersecurity by Microsoft and LinkedIn]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cybersecurity]]

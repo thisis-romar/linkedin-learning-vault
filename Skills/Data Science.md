@@ -6,7 +6,7 @@ course_count: 26
 tags:
   - skill
   - skill/data-science
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Data Science

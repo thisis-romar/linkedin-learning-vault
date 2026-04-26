@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGQNLVC95Gqtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597164586340?e=2147483647&amp;v=beta&amp;t=4-eWHR3TjttHcQrqrIfY-ChKi1WzklyuXzfJQsrnnao"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Improve Your Threat Modeling Skills
+  - '[[Improve Your Threat Modeling Skills]]'
+prev_courses:
+  - '[[Threat Modeling- Repudiation in Depth]]'
+next_courses:
+  - '[[Threat Modeling- Denial of Service and Expansion of Authority]]'
+path_nav: '[{"path":"Improve Your Threat Modeling Skills","position":5,"total":6,"prev":"Threat Modeling- Repudiation in Depth","next":"Threat Modeling- Denial of Service and Expansion of Authority"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Threat Modeling: Information Disclosure in Depth](https://media.licdn.com/dms/image/v2/C4E0DAQGQNLVC95Gqtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597164586340?e=2147483647&amp;v=beta&amp;t=4-eWHR3TjttHcQrqrIfY-ChKi1WzklyuXzfJQsrnnao)

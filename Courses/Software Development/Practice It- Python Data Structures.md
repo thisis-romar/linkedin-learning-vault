@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/practice-it-python-data-structs-248
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQErSxSAz69Qaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666989847354?e=2147483647&amp;v=beta&amp;t=SBJ-vJsjZIegL_be-StDxLJAv84KGIHSrFI_yB1ZrSE"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
+  - '[[Python Hands-On Practice]]'
+prev_courses:
+  - '[[Hands-On Introduction- Python]]'
+next_courses:
+  - '[[Python Practice- Operations]]'
+path_nav: '[{"path":"Python Hands-On Practice","position":2,"total":14,"prev":"Hands-On Introduction- Python","next":"Python Practice- Operations"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Practice It: Python Data Structures](https://media.licdn.com/dms/image/v2/D560DAQErSxSAz69Qaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666989847354?e=2147483647&amp;v=beta&amp;t=SBJ-vJsjZIegL_be-StDxLJAv84KGIHSrFI_yB1ZrSE)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/become-an-ai-powered-learning-and-d
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 3
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Become an AI-Powered Learning and Development Professional
@@ -68,3 +68,7 @@ _Paths that share courses with this one:_
 - [[LinkedIn’s 2025 Top MBA Programs Learning Path]] (1 shared courses)
 - [[Technical Literacy and Future Readiness for Senior Executives]] (1 shared courses)
 - [[Build AI Aptitude as a Senior Manager]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

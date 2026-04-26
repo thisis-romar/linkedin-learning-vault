@@ -8,7 +8,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH6m5EBkLn5Sw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716398773401?e=2147483647&amp;v=beta&amp;t=ttEURzXsHE-pyUKXL4cEB1XwgQ3VcRmE9O9pJUNLc-U"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI for Healthcare- Essentials for Technical Roles
+  - '[[AI for Healthcare- Essentials for Technical Roles]]'
+next_courses:
+  - '[[An Introduction to How Generative AI Will Transform Healthcare]]'
+path_nav: '[{"path":"AI for Healthcare- Essentials for Technical Roles","position":1,"total":6,"prev":null,"next":"An Introduction to How Generative AI Will Transform Healthcare"}]'
 path_count: 1
 tags:
   - course
@@ -17,7 +20,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ai Applications In Healthcare A Conversation With Dr Matthew Lungren](https://media.licdn.com/dms/image/v2/D560DAQH6m5EBkLn5Sw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716398773401?e=2147483647&amp;v=beta&amp;t=ttEURzXsHE-pyUKXL4cEB1XwgQ3VcRmE9O9pJUNLc-U)

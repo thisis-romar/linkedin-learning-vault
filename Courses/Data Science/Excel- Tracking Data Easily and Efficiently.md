@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH995Sl9bdWVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690838910432?e=2147483647&amp;v=beta&amp;t=ji250aFXmWNl_v8kPxHaBEQL2IJOs7yzknJeFic3xuQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Excel for Data Science
+  - '[[Master Excel for Data Science]]'
+prev_courses:
+  - '[[Excel for Business Analysts]]'
+next_courses:
+  - '[[Excel- Filtering Data for Beginners]]'
+path_nav: '[{"path":"Master Excel for Data Science","position":5,"total":7,"prev":"Excel for Business Analysts","next":"Excel- Filtering Data for Beginners"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-tracking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel: Tracking Data Easily and Efficiently](https://media.licdn.com/dms/image/v2/D560DAQH995Sl9bdWVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690838910432?e=2147483647&amp;v=beta&amp;t=ji250aFXmWNl_v8kPxHaBEQL2IJOs7yzknJeFic3xuQ)

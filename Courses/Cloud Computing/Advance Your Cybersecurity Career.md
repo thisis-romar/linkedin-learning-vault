@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQH8V_1fJ51xLA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663880162126?e=2147483647&amp;v=beta&amp;t=-WNMd0r9JV9fWmc73iAeCmCqlr-104yCTcnY4nnSSyQ"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Explore Cybersecurity Careers
+  - '[[Explore Cybersecurity Careers]]'
+prev_courses:
+  - '[[Cybersecurity Careers- Become a Security Auditor]]'
+next_courses:
+  - '[[Cybersecurity Careers- Become a Business Information Security Officer (BISO)]]'
+path_nav: '[{"path":"Explore Cybersecurity Careers","position":7,"total":9,"prev":"Cybersecurity Careers- Become a Security Auditor","next":"Cybersecurity Careers- Become a Business Information Security Officer (BISO)"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/career-development
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advance Your Cybersecurity Career](https://media.licdn.com/dms/image/v2/C4D0DAQH8V_1fJ51xLA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663880162126?e=2147483647&amp;v=beta&amp;t=-WNMd0r9JV9fWmc73iAeCmCqlr-104yCTcnY4nnSSyQ)

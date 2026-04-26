@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/extract-transform-load-etl
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Extract, Transform, Load (ETL)

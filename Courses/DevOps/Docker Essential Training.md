@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFmWhsD1BB8VQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681335606583?e=2147483647&amp;v=beta&amp;t=LUj6fbYPMlaU3XLZG02950aS4A6M8MqF0CDByZwYE8U"
 linkedin_topic: DevOps
 learning_paths:
-  - Containerize Applications with Docker
+  - '[[Containerize Applications with Docker]]'
+prev_courses:
+  - '[[Learning Docker]]'
+path_nav: '[{"path":"Containerize Applications with Docker","position":2,"total":2,"prev":"Learning Docker","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/containerization
   - skill/docker-products
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Docker Essential Training](https://media.licdn.com/dms/image/v2/D560DAQFmWhsD1BB8VQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681335606583?e=2147483647&amp;v=beta&amp;t=LUj6fbYPMlaU3XLZG02950aS4A6M8MqF0CDByZwYE8U)

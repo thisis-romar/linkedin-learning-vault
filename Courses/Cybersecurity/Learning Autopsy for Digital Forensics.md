@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGUv76gCM-4cA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643742664904?e=2147483647&amp;v=beta&amp;t=Ca4DShYlHixAmhuvnORyuQDFnPPDRCvL1sU7TcNNmnM"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Explore a Career in Computer Forensics
+  - '[[Explore a Career in Computer Forensics]]'
+prev_courses:
+  - '[[Protecting Your Network with Open-Source Software]]'
+next_courses:
+  - '[[Soft Skills for Information Security Professionals]]'
+path_nav: '[{"path":"Explore a Career in Computer Forensics","position":7,"total":9,"prev":"Protecting Your Network with Open-Source Software","next":"Soft Skills for Information Security Professionals"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/digital-forensics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Autopsy for Digital Forensics](https://media.licdn.com/dms/image/v2/C560DAQGUv76gCM-4cA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643742664904?e=2147483647&amp;v=beta&amp;t=Ca4DShYlHixAmhuvnORyuQDFnPPDRCvL1sU7TcNNmnM)

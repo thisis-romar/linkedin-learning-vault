@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHwJxEZODK75Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902130493?e=2147483647&amp;v=beta&amp;t=ywuBJw3sYDK7dQ7jicKvYjhFu5JlKqstCma-1MVjiBs"
 linkedin_topic: Data Science
 learning_paths:
-  - SQL Hands-On Practice
+  - '[[SQL Hands-On Practice]]'
+prev_courses:
+  - '[[SQL Practice- Basic Queries]]'
+next_courses:
+  - '[[SQL Practice- Window Functions]]'
+path_nav: '[{"path":"SQL Hands-On Practice","position":3,"total":9,"prev":"SQL Practice- Basic Queries","next":"SQL Practice- Window Functions"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL Practice: Intermediate Queries](https://media.licdn.com/dms/image/v2/D560DAQHwJxEZODK75Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902130493?e=2147483647&amp;v=beta&amp;t=ywuBJw3sYDK7dQ7jicKvYjhFu5JlKqstCma-1MVjiBs)

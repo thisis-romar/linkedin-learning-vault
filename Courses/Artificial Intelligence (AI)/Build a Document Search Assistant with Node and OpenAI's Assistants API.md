@@ -20,7 +20,10 @@ github: "https://github.com/LinkedInLearning/document-search-assistant-with-node
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFSaMbZdEEuQw/learning-public-crop_675_1200/B4EZUpj70dH0AY-/0/1740159041480?e=2147483647&amp;v=beta&amp;t=H3NVnGo6IVv-kL1C-0-4w-_xxO_Dmw90i2w8jIjXykE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Hands-On Projects for OpenAI-Powered Apps
+  - '[[Hands-On Projects for OpenAI-Powered Apps]]'
+prev_courses:
+  - '[[Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js]]'
+path_nav: '[{"path":"Hands-On Projects for OpenAI-Powered Apps","position":5,"total":5,"prev":"Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js","next":null}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Build a Document Search Assistant with Node and OpenAI's Assistants API](https://media.licdn.com/dms/image/v2/D4E0DAQFSaMbZdEEuQw/learning-public-crop_675_1200/B4EZUpj70dH0AY-/0/1740159041480?e=2147483647&amp;v=beta&amp;t=H3NVnGo6IVv-kL1C-0-4w-_xxO_Dmw90i2w8jIjXykE)

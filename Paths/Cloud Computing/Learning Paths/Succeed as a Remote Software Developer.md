@@ -9,7 +9,7 @@ linkedin_topics:
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/cloud-computing
@@ -47,7 +47,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Succeed as a Remote Software Developer
@@ -83,3 +83,7 @@ _Paths that share courses with this one:_
 - [[Getting Started with Microsoft 365]] (1 shared courses)
 - [[Getting Started with Agile Software Development]] (1 shared courses)
 - [[Prepare for the GitHub Foundations Certification]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

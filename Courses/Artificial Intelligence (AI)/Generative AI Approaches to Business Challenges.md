@@ -16,8 +16,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQH1WNdNUCL2iQ/learning-public-crop_675_1200/B4EZUaI0DHGYAc-/0/1739900273240?e=2147483647&amp;v=beta&amp;t=w-4LWtPUBBYiFWQdNoPL9fxA6IEAkfpdr8MhMhtXMjc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
-  - Build AI Aptitude as a Middle Manager
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[Build AI Aptitude as a Middle Manager]]'
+prev_courses:
+  - '[[Building a Responsible AI Program- Context, Culture, Content, and Commitment]]'
+  - '[[Responsible AI- Principles and Practical Applications]]'
+next_courses:
+  - '[[Exploring AIOps]]'
+  - null
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":7,"total":22,"prev":"Building a Responsible AI Program- Context, Culture, Content, and Commitment","next":"Exploring AIOps"},{"path":"Build AI Aptitude as a Middle Manager","position":5,"total":5,"prev":"Responsible AI- Principles and Practical Applications","next":null}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-strategy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI Approaches to Business Challenges](https://media.licdn.com/dms/image/v2/D4E0DAQH1WNdNUCL2iQ/learning-public-crop_675_1200/B4EZUaI0DHGYAc-/0/1739900273240?e=2147483647&amp;v=beta&amp;t=w-4LWtPUBBYiFWQdNoPL9fxA6IEAkfpdr8MhMhtXMjc)

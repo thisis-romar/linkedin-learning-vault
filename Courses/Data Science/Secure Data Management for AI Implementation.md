@@ -19,8 +19,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFaOJuzsD37dw/learning-public-crop_675_1200/B4DZWmXFzLHYAY-/0/1742252826072?e=2147483647&amp;v=beta&amp;t=0HlVubzti3pTdKmgKsy8juzWDUDrfLbRnWp2sZLLtuE"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Management
-  - Working with Data- Collecting, Processing, and Storing Data for AI
+  - '[[Introduction to Fundamental Skills for Data Work- Data Management]]'
+  - '[[Working with Data- Collecting, Processing, and Storing Data for AI]]'
+prev_courses:
+  - '[[Learning Data Governance]]'
+  - '[[Data Preparation, Feature Engineering, and Augmentation for AI Models]]'
+next_courses:
+  - '[[Data Steward Foundations]]'
+  - '[[Scalable Data Storage and Processing for AI Workloads]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Management","position":5,"total":6,"prev":"Learning Data Governance","next":"Data Steward Foundations"},{"path":"Working with Data- Collecting, Processing, and Storing Data for AI","position":4,"total":6,"prev":"Data Preparation, Feature Engineering, and Augmentation for AI Models","next":"Scalable Data Storage and Processing for AI Workloads"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/ai-security
   - skill/data-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Secure Data Management for AI Implementation](https://media.licdn.com/dms/image/v2/D4D0DAQFaOJuzsD37dw/learning-public-crop_675_1200/B4DZWmXFzLHYAY-/0/1742252826072?e=2147483647&amp;v=beta&amp;t=0HlVubzti3pTdKmgKsy8juzWDUDrfLbRnWp2sZLLtuE)

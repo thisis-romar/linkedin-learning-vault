@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEW7lWItY5MAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682442844043?e=2147483647&amp;v=beta&amp;t=tN9bxL5mCKMSFV-uyBK2V-6bidoy53ohxPN0kiPVp70"
 linkedin_topic: Data Science
 learning_paths:
-  - SQL Hands-On Practice
-  - Advance Your Skills in SQL
+  - '[[SQL Hands-On Practice]]'
+  - '[[Advance Your Skills in SQL]]'
+prev_courses:
+  - '[[Hands-On SQL Challenges- Test Your Knowledge]]'
+  - '[[SQL Hands-On Practice- Solve Business Problems]]'
+next_courses:
+  - '[[SQL Hands-On Practice- Solve Business Problems]]'
+  - '[[Using SQL with Python]]'
+path_nav: '[{"path":"SQL Hands-On Practice","position":7,"total":9,"prev":"Hands-On SQL Challenges- Test Your Knowledge","next":"SQL Hands-On Practice- Solve Business Problems"},{"path":"Advance Your Skills in SQL","position":3,"total":5,"prev":"SQL Hands-On Practice- Solve Business Problems","next":"Using SQL with Python"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Analysis: Investigate with SQL](https://media.licdn.com/dms/image/v2/D560DAQEW7lWItY5MAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682442844043?e=2147483647&amp;v=beta&amp;t=tN9bxL5mCKMSFV-uyBK2V-6bidoy53ohxPN0kiPVp70)

@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFH2Kn1JVpbtg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735073943757?e=2147483647&amp;v=beta&amp;t=9kbV3cNEQsHDvn5XKXZObsFeEpM6KLx4Wi7swppRVcI"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your IT Service Management (ITSM) Skills
+  - '[[Develop Your IT Service Management (ITSM) Skills]]'
+prev_courses:
+  - '[[IT Service Management Foundations- Problem Management]]'
+path_nav: '[{"path":"Develop Your IT Service Management (ITSM) Skills","position":5,"total":5,"prev":"IT Service Management Foundations- Problem Management","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/it-service-management
   - skill/capacity-planning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![IT Service Management Foundations: Capacity and Availability Management](https://media.licdn.com/dms/image/v2/D4D0DAQFH2Kn1JVpbtg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735073943757?e=2147483647&amp;v=beta&amp;t=9kbV3cNEQsHDvn5XKXZObsFeEpM6KLx4Wi7swppRVcI)

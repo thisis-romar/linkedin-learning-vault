@@ -7,7 +7,7 @@ course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
-louvain_cluster: 1
+louvain_cluster: 17
 tags:
   - professional-certificate
   - topic/artificial-intelligence
@@ -47,7 +47,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Microsoft Copilot for Productivity by Microsoft and LinkedIn
@@ -81,3 +81,7 @@ _Paths that share courses with this one:_
 - [[Career Essentials in Administrative Assistance by Microsoft and LinkedIn]] (1 shared courses)
 - [[Career Essentials in Generative AI by Microsoft and LinkedIn]] (1 shared courses)
 - [[Generative AI for Sales with Microsoft 365 Copilot Professional Certificate]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

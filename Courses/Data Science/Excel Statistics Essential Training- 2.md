@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEuHafUW6Iylg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696279038859?e=2147483647&amp;v=beta&amp;t=UpPvGVrMkRh8YiRsBUa8j_fDum9EsWXw86AH14Hf7Dc"
 linkedin_topic: Data Science
 learning_paths:
-  - Statistics Foundations Professional Certificate by Wolfram Research
+  - '[[Statistics Foundations Professional Certificate by Wolfram Research]]'
+prev_courses:
+  - '[[Excel Statistics Essential Training- 1]]'
+next_courses:
+  - '[[Statistical Analysis with Wolfram Language]]'
+path_nav: '[{"path":"Statistics Foundations Professional Certificate by Wolfram Research","position":6,"total":7,"prev":"Excel Statistics Essential Training- 1","next":"Statistical Analysis with Wolfram Language"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel Statistics Essential Training: 2](https://media.licdn.com/dms/image/v2/D560DAQEuHafUW6Iylg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696279038859?e=2147483647&amp;v=beta&amp;t=UpPvGVrMkRh8YiRsBUa8j_fDum9EsWXw86AH14Hf7Dc)

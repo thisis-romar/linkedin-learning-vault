@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/learning-npm-the-node-package-manag
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFg7WtswO2x6w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679938394111?e=2147483647&amp;v=beta&amp;t=LT14fGNBKJt3K2tLYLBOZn33aw1Qko0tB6FO0fgBkfk"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore Web Development with Node.js
-  - Explore App Development with the MERN Stack
+  - '[[Explore Web Development with Node.js]]'
+  - '[[Explore App Development with the MERN Stack]]'
+prev_courses:
+  - '[[Node Js Essential Training]]'
+  - '[[Node Js Essential Training]]'
+next_courses:
+  - '[[Node.js- Testing and Code Quality]]'
+  - '[[Express Essentials- Build Powerful Web Apps with Node.js]]'
+path_nav: '[{"path":"Explore Web Development with Node.js","position":2,"total":11,"prev":"Node Js Essential Training","next":"Node.js- Testing and Code Quality"},{"path":"Explore App Development with the MERN Stack","position":4,"total":13,"prev":"Node Js Essential Training","next":"Express Essentials- Build Powerful Web Apps with Node.js"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/package-management
   - skill/npm
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning npm: A Package Manager](https://media.licdn.com/dms/image/v2/C4D0DAQFg7WtswO2x6w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679938394111?e=2147483647&amp;v=beta&amp;t=LT14fGNBKJt3K2tLYLBOZn33aw1Qko0tB6FO0fgBkfk)

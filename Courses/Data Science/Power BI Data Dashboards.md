@@ -10,16 +10,25 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG4J7DA_UoQSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692815305620?e=2147483647&amp;v=beta&amp;t=cUakCMDdOj0L3O4mebacNS7cvEYMRxkflgjPm9ejwpo"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career as a Power BI Specialist
-  - Introduction to Fundamental Skills for Data Work- Data Visualization
-  - Master Dashboards and Data Viz in Power BI
+  - '[[Explore a Career as a Power BI Specialist]]'
+  - '[[Introduction to Fundamental Skills for Data Work- Data Visualization]]'
+  - '[[Master Dashboards and Data Viz in Power BI]]'
+prev_courses:
+  - '[[Advanced Power BI- DAX Language, Formulas, and Calculations]]'
+  - '[[Data Visualization Storytelling]]'
+  - '[[Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques]]'
+next_courses:
+  - '[[Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques]]'
+  - '[[Python for Data Visualization]]'
+  - '[[Advanced Power BI Custom Visuals with d3.js]]'
+path_nav: '[{"path":"Explore a Career as a Power BI Specialist","position":4,"total":5,"prev":"Advanced Power BI- DAX Language, Formulas, and Calculations","next":"Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques"},{"path":"Introduction to Fundamental Skills for Data Work- Data Visualization","position":5,"total":7,"prev":"Data Visualization Storytelling","next":"Python for Data Visualization"},{"path":"Master Dashboards and Data Viz in Power BI","position":3,"total":6,"prev":"Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques","next":"Advanced Power BI Custom Visuals with d3.js"}]'
 path_count: 3
 tags:
   - course
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Power BI Data Dashboards](https://media.licdn.com/dms/image/v2/D560DAQG4J7DA_UoQSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692815305620?e=2147483647&amp;v=beta&amp;t=cUakCMDdOj0L3O4mebacNS7cvEYMRxkflgjPm9ejwpo)

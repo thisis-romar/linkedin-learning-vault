@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEHsYtpVILu1w/learning-public-crop_675_1200/B4EZXyMEIQHUAc-/0/1743525004079?e=2147483647&amp;v=beta&amp;t=C_vjyiEDajdUefJ5iC_mKtGN3yf1m1R9qSTSs43VhJc"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Technical Literacy and Future Readiness for Senior Managers and Senior Leaders
+  - '[[Technical Literacy and Future Readiness for Senior Managers and Senior Leaders]]'
+prev_courses:
+  - '[[AI Challenges and Opportunities for Leadership]]'
+next_courses:
+  - '[[Leading with Generative AI- Master Change Management for Success]]'
+path_nav: '[{"path":"Technical Literacy and Future Readiness for Senior Managers and Senior Leaders","position":7,"total":10,"prev":"AI Challenges and Opportunities for Leadership","next":"Leading with Generative AI- Master Change Management for Success"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Cheat Sheet for Business Leaders](https://media.licdn.com/dms/image/v2/D4E0DAQEHsYtpVILu1w/learning-public-crop_675_1200/B4EZXyMEIQHUAc-/0/1743525004079?e=2147483647&amp;v=beta&amp;t=C_vjyiEDajdUefJ5iC_mKtGN3yf1m1R9qSTSs43VhJc)

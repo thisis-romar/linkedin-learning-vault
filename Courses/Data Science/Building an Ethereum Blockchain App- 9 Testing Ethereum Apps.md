@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGoHY4aAXRivA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628619895946?e=2147483647&amp;v=beta&amp;t=rjgPq0bYe1tqaRSoDuTvlVNxVH0LioCklBA3W5NP1vw"
 linkedin_topic: Data Science
 learning_paths:
-  - Build an Ethereum Blockchain App
-  - Become a Blockchain Developer
+  - '[[Build an Ethereum Blockchain App]]'
+  - '[[Become a Blockchain Developer]]'
+prev_courses:
+  - '[[Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp]]'
+  - '[[Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp]]'
+next_courses:
+  - '[[Building an Ethereum Blockchain App- 10 Deployment and Maintenance]]'
+  - '[[Building an Ethereum Blockchain App- 10 Deployment and Maintenance]]'
+path_nav: '[{"path":"Build an Ethereum Blockchain App","position":9,"total":11,"prev":"Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp","next":"Building an Ethereum Blockchain App- 10 Deployment and Maintenance"},{"path":"Become a Blockchain Developer","position":9,"total":14,"prev":"Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp","next":"Building an Ethereum Blockchain App- 10 Deployment and Maintenance"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building an Ethereum Blockchain App: 9 Testing Ethereum Apps](https://media.licdn.com/dms/image/v2/C560DAQGoHY4aAXRivA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628619895946?e=2147483647&amp;v=beta&amp;t=rjgPq0bYe1tqaRSoDuTvlVNxVH0LioCklBA3W5NP1vw)

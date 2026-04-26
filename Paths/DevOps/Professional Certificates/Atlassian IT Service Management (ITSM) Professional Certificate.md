@@ -35,7 +35,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Atlassian IT Service Management (ITSM) Professional Certificate
@@ -63,3 +63,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Develop Your IT Service Management (ITSM) Skills]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

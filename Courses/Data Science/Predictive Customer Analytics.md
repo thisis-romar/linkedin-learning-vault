@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/predictive-consumer-analytics-30182
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEOoASdSrwRBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648058711495?e=2147483647&amp;v=beta&amp;t=8SUlEjC-H1h5fT6puH9NTY3dbiM5IuUXOD3RShS9BYE"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in Predictive Analytics
-  - Advance Your Business Analytics Skills
+  - '[[Advance Your Skills in Predictive Analytics]]'
+  - '[[Advance Your Business Analytics Skills]]'
+prev_courses:
+  - '[[Predictive Analytics Essential Training- Data Mining]]'
+  - '[[Predictive Analytics Essential Training- Data Mining]]'
+next_courses:
+  - '[[Business Analytics Foundations- Descriptive, Exploratory, and Explanatory Analytics]]'
+  - '[[Data Science Foundations- Data Assessment for Predictive Modeling]]'
+path_nav: '[{"path":"Advance Your Skills in Predictive Analytics","position":3,"total":8,"prev":"Predictive Analytics Essential Training- Data Mining","next":"Business Analytics Foundations- Descriptive, Exploratory, and Explanatory Analytics"},{"path":"Advance Your Business Analytics Skills","position":9,"total":11,"prev":"Predictive Analytics Essential Training- Data Mining","next":"Data Science Foundations- Data Assessment for Predictive Modeling"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/customer-analysis
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Predictive Customer Analytics](https://media.licdn.com/dms/image/v2/C560DAQEOoASdSrwRBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648058711495?e=2147483647&amp;v=beta&amp;t=8SUlEjC-H1h5fT6puH9NTY3dbiM5IuUXOD3RShS9BYE)

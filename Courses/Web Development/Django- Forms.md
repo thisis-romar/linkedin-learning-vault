@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGIybL6hwI1ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118168888?e=2147483647&amp;v=beta&amp;t=6sXjFadBV2wV4s_I-hxSAyfkKqWCZ5rsWnoEIi8P748"
 linkedin_topic: Web Development
 learning_paths:
-  - Become a Django Developer
+  - '[[Become a Django Developer]]'
+prev_courses:
+  - '[[Django Essential Training]]'
+next_courses:
+  - '[[Deploying Django Apps- Make Your Site Go Live]]'
+path_nav: '[{"path":"Become a Django Developer","position":2,"total":4,"prev":"Django Essential Training","next":"Deploying Django Apps- Make Your Site Go Live"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/django
   - skill/forms
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Django: Forms](https://media.licdn.com/dms/image/v2/C4E0DAQGIybL6hwI1ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118168888?e=2147483647&amp;v=beta&amp;t=6sXjFadBV2wV4s_I-hxSAyfkKqWCZ5rsWnoEIi8P748)

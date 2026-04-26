@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHYF8HoQvJcgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689270148902?e=2147483647&amp;v=beta&amp;t=3gJIgmAxGWmO0biJmJZa2rNSPW8VAjaxbd7UtuLcvoQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in GIS
+  - '[[Advance Your Skills in GIS]]'
+prev_courses:
+  - '[[Real World Gis]]'
+next_courses:
+  - '[[Learning QGIS]]'
+path_nav: '[{"path":"Advance Your Skills in GIS","position":2,"total":9,"prev":"Real World Gis","next":"Learning QGIS"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/arcgis-pro
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ArcGIS Pro Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHYF8HoQvJcgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689270148902?e=2147483647&amp;v=beta&amp;t=3gJIgmAxGWmO0biJmJZa2rNSPW8VAjaxbd7UtuLcvoQ)

@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/python-data-structures-linked-lists
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGux-kR88_Z9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712710126604?e=2147483647&amp;v=beta&amp;t=aKsQLLn30aLMbPLAMK-bZbxQal72aUj4Kc1JdM9J-1M"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Your Python Skills
-  - Master Python for Data Science
+  - '[[Master Your Python Skills]]'
+  - '[[Master Python for Data Science]]'
+prev_courses:
+  - '[[Python Data Structures- Stacks, Deques, and Queues]]'
+  - '[[Python Data Structures and Algorithms]]'
+next_courses:
+  - '[[Advanced Python- Practical Database Examples]]'
+  - '[[Python Data Structures- Stacks, Deques, and Queues]]'
+path_nav: '[{"path":"Master Your Python Skills","position":5,"total":11,"prev":"Python Data Structures- Stacks, Deques, and Queues","next":"Advanced Python- Practical Database Examples"},{"path":"Master Python for Data Science","position":5,"total":8,"prev":"Python Data Structures and Algorithms","next":"Python Data Structures- Stacks, Deques, and Queues"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Data Structures: Linked Lists](https://media.licdn.com/dms/image/v2/D4D0DAQGux-kR88_Z9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712710126604?e=2147483647&amp;v=beta&amp;t=aKsQLLn30aLMbPLAMK-bZbxQal72aUj4Kc1JdM9J-1M)

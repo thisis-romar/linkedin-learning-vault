@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFFqJDW-FWhIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657656223890?e=2147483647&amp;v=beta&amp;t=JdeVmO1hfSdNGzMdqGa0NpHzxlZS9iX8UOgiDNdXGJY"
 linkedin_topic: Web Development
 learning_paths:
-  - Build Your WordPress Ecommerce Skills
+  - '[[Build Your WordPress Ecommerce Skills]]'
+prev_courses:
+  - '[[Wordpress Building A Secure Site]]'
+next_courses:
+  - '[[WordPress- Speeding Up Your Site]]'
+path_nav: '[{"path":"Build Your WordPress Ecommerce Skills","position":4,"total":6,"prev":"Wordpress Building A Secure Site","next":"WordPress- Speeding Up Your Site"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/search-engine-optimization-seo
   - skill/wordpress
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![WordPress: SEO](https://media.licdn.com/dms/image/v2/C560DAQFFqJDW-FWhIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657656223890?e=2147483647&amp;v=beta&amp;t=JdeVmO1hfSdNGzMdqGa0NpHzxlZS9iX8UOgiDNdXGJY)

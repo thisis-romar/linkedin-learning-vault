@@ -14,10 +14,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHVMBETeAzKRw/learning-public-crop_675_1200/B4DZYmTInHGkAc-/0/1744399272640?e=2147483647&amp;v=beta&amp;t=ksyVQTMYkak6wR-Rv7lH0ZDnXID-IkU4ePvFJTmZpZU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation in Practice- Virtual Collaboration Tools
-  - Working Smarter with Microsoft 365
-  - Succeed as a Remote Software Developer
-  - Getting Started with Microsoft 365
+  - '[[Digital Transformation in Practice- Virtual Collaboration Tools]]'
+  - '[[Working Smarter with Microsoft 365]]'
+  - '[[Succeed as a Remote Software Developer]]'
+  - '[[Getting Started with Microsoft 365]]'
+prev_courses:
+  - '[[Working And Collaborating Online]]'
+  - '[[Word Essential Training (Microsoft 365) (2023)]]'
+  - '[[Slack Essential Training]]'
+  - '[[Learning Word Desktop (Microsoft 365)]]'
+next_courses:
+  - '[[Microsoft Collaboration- SharePoint, Teams, Groups, and Yammer]]'
+  - '[[OneDrive for Business Essential Training]]'
+  - '[[Trello Essential Training]]'
+  - '[[OneDrive for Business Essential Training]]'
+path_nav: '[{"path":"Digital Transformation in Practice- Virtual Collaboration Tools","position":2,"total":9,"prev":"Working And Collaborating Online","next":"Microsoft Collaboration- SharePoint, Teams, Groups, and Yammer"},{"path":"Working Smarter with Microsoft 365","position":5,"total":9,"prev":"Word Essential Training (Microsoft 365) (2023)","next":"OneDrive for Business Essential Training"},{"path":"Succeed as a Remote Software Developer","position":4,"total":6,"prev":"Slack Essential Training","next":"Trello Essential Training"},{"path":"Getting Started with Microsoft 365","position":5,"total":6,"prev":"Learning Word Desktop (Microsoft 365)","next":"OneDrive for Business Essential Training"}]'
 path_count: 4
 tags:
   - course
@@ -27,7 +38,7 @@ tags:
   - topic/data-science
   - skill/microsoft-teams
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft Teams Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQHVMBETeAzKRw/learning-public-crop_675_1200/B4DZYmTInHGkAc-/0/1744399272640?e=2147483647&amp;v=beta&amp;t=ksyVQTMYkak6wR-Rv7lH0ZDnXID-IkU4ePvFJTmZpZU)

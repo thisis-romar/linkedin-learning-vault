@@ -7,7 +7,7 @@ course_count: 10
 linkedin_topics:
   - Data Science
   - DevOps
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/data-science
@@ -59,7 +59,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Data Engineering Skills
@@ -97,3 +97,7 @@ _Paths that share courses with this one:_
 - [[Develop Your Rust Skills for Data Engineering]] (1 shared courses)
 - [[Data Engineering Foundations Professional Certificate by Astronomer]] (1 shared courses)
 - [[Introduction to Fundamental Skills for Data Work- Data Storage]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

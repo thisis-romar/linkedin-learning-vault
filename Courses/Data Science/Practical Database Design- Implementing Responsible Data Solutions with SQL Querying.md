@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEJyvvVXH1rHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719007502300?e=2147483647&amp;v=beta&amp;t=gyN7XQNU3wtCS5fWULS6ESFqVhIiHFXxNwGLb73qBuk"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Database Administration Skills
+  - '[[Advance Your Database Administration Skills]]'
+prev_courses:
+  - '[[SQL Server Fundamentals- Master Basic Query Techniques]]'
+next_courses:
+  - '[[Advanced SQL for Query Tuning and Performance Optimization]]'
+path_nav: '[{"path":"Advance Your Database Administration Skills","position":7,"total":11,"prev":"SQL Server Fundamentals- Master Basic Query Techniques","next":"Advanced SQL for Query Tuning and Performance Optimization"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/database-design
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Practical Database Design: Implementing Responsible Data Solutions with SQL Querying](https://media.licdn.com/dms/image/v2/D560DAQEJyvvVXH1rHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719007502300?e=2147483647&amp;v=beta&amp;t=gyN7XQNU3wtCS5fWULS6ESFqVhIiHFXxNwGLb73qBuk)

@@ -10,13 +10,16 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGqIodryoMLJg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687801954408?e=2147483647&amp;v=beta&amp;t=lBHAigFvvtSxMSVND5B6gT4znCRIZUZpmdc45s49geY"
 linkedin_topic: Web Development
 learning_paths:
-  - Design User Experiences with Figma
+  - '[[Design User Experiences with Figma]]'
+prev_courses:
+  - '[[Designing Microinteractions with Figma]]'
+path_nav: '[{"path":"Design User Experiences with Figma","position":6,"total":6,"prev":"Designing Microinteractions with Figma","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Figma: From Design to CSS Implementation](https://media.licdn.com/dms/image/v2/D560DAQGqIodryoMLJg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687801954408?e=2147483647&amp;v=beta&amp;t=lBHAigFvvtSxMSVND5B6gT4znCRIZUZpmdc45s49geY)

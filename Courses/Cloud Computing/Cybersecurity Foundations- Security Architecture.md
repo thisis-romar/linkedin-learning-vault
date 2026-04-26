@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF28QcnoHGCtg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668461277698?e=2147483647&amp;v=beta&amp;t=tYtJikQJKn2iRjPyyXHDgYhlcbysNCF6Cv86UI9OOKY"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Cybersecurity Fundamentals
+  - '[[Cybersecurity Fundamentals]]'
+prev_courses:
+  - '[[Cybersecurity Foundations]]'
+next_courses:
+  - '[[Security Frameworks Fundamentals]]'
+path_nav: '[{"path":"Cybersecurity Fundamentals","position":5,"total":12,"prev":"Cybersecurity Foundations","next":"Security Frameworks Fundamentals"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/security-architecture-design
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Foundations: Security Architecture](https://media.licdn.com/dms/image/v2/C560DAQF28QcnoHGCtg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668461277698?e=2147483647&amp;v=beta&amp;t=tYtJikQJKn2iRjPyyXHDgYhlcbysNCF6Cv86UI9OOKY)

@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFd1TpRuZ0oZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702499734967?e=2147483647&amp;v=beta&amp;t=4oSzXryGxVHQQ4kax1V5gnewvpQDaRyTmSqAqxQTqcI"
 linkedin_topic: Database Management
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Strategy and Planning
-  - Explore AI for Data Engineering
+  - '[[Introduction to Fundamental Skills for Data Work- Data Strategy and Planning]]'
+  - '[[Explore AI for Data Engineering]]'
+prev_courses:
+  - '[[Decision Intelligence]]'
+  - null
+next_courses:
+  - '[[Using AI to Improve Ops for Your Data Organization]]'
+  - '[[Data-Centric AI- Best Practices, Responsible AI, and More]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Strategy and Planning","position":4,"total":10,"prev":"Decision Intelligence","next":"Using AI to Improve Ops for Your Data Organization"},{"path":"Explore AI for Data Engineering","position":1,"total":8,"prev":null,"next":"Data-Centric AI- Best Practices, Responsible AI, and More"}]'
 path_count: 2
 tags:
   - course
@@ -20,7 +27,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Fundamentals for Data Professionals](https://media.licdn.com/dms/image/v2/D4D0DAQFd1TpRuZ0oZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702499734967?e=2147483647&amp;v=beta&amp;t=4oSzXryGxVHQQ4kax1V5gnewvpQDaRyTmSqAqxQTqcI)

@@ -8,7 +8,7 @@ linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/data-science
@@ -49,7 +49,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Data Engineering Hands-On Practice
@@ -85,3 +85,7 @@ _Paths that share courses with this one:_
 - [[Develop Your Rust Skills for Data Engineering]] (2 shared courses)
 - [[Data Engineering Foundations Professional Certificate by Astronomer]] (2 shared courses)
 - [[Master Data Engineering]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

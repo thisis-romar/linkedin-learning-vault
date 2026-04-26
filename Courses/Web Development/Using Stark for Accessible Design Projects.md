@@ -19,7 +19,10 @@ github: "https://github.com/LinkedInLearning/using-stark-for-accessible-design-p
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEwq_86Hrjgag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721061371788?e=2147483647&amp;v=beta&amp;t=7XvTKMORh2MasviBtdGNxTILbVpwOTr_xWt9XWEkbL8"
 linkedin_topic: Web Development
 learning_paths:
-  - Build for Digital Accessibility
+  - '[[Build for Digital Accessibility]]'
+prev_courses:
+  - '[[React- Components, Context, and Accessibility]]'
+path_nav: '[{"path":"Build for Digital Accessibility","position":12,"total":12,"prev":"React- Components, Context, and Accessibility","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/stark-accessibility-software
   - skill/accessible-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using Stark for Accessible Design Projects](https://media.licdn.com/dms/image/v2/D4D0DAQEwq_86Hrjgag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721061371788?e=2147483647&amp;v=beta&amp;t=7XvTKMORh2MasviBtdGNxTILbVpwOTr_xWt9XWEkbL8)

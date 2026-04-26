@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFQJGb3OwvKEQ/learning-public-crop_675_1200/B4DZX8rOjyHAAc-/0/1743700945448?e=2147483647&amp;v=beta&amp;t=hEAQ0rkVxHmzs45U1iyjYQAYvmfpLwxsmgc--r7z7mY"
 linkedin_topic: Database Management
 learning_paths:
-  - Develop Your NoSQL Skills
+  - '[[Develop Your NoSQL Skills]]'
+prev_courses:
+  - '[[Introduction to Couchbase]]'
+next_courses:
+  - '[[Elasticsearch in Depth]]'
+path_nav: '[{"path":"Develop Your NoSQL Skills","position":8,"total":10,"prev":"Introduction to Couchbase","next":"Elasticsearch in Depth"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/elasticsearch
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Elasticsearch Essential Training (2023)](https://media.licdn.com/dms/image/v2/D4D0DAQFQJGb3OwvKEQ/learning-public-crop_675_1200/B4DZX8rOjyHAAc-/0/1743700945448?e=2147483647&amp;v=beta&amp;t=hEAQ0rkVxHmzs45U1iyjYQAYvmfpLwxsmgc--r7z7mY)

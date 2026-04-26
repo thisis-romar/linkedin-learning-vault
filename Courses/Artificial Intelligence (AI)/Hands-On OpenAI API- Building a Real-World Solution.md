@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/hands-on-openai-api-building-a-real
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQH1trVwWKdtyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709333885301?e=2147483647&amp;v=beta&amp;t=eF5iTlfk5-4UA5K68mmOSZE_7Tx9CG0uQspF3LN5lrU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Hands-On Projects for OpenAI-Powered Apps
+  - '[[Hands-On Projects for OpenAI-Powered Apps]]'
+prev_courses:
+  - '[[Getting Hands-On with GPT Models- Tips and Tricks]]'
+next_courses:
+  - '[[Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js]]'
+path_nav: '[{"path":"Hands-On Projects for OpenAI-Powered Apps","position":3,"total":5,"prev":"Getting Hands-On with GPT Models- Tips and Tricks","next":"Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js"}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/technical-solution-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On OpenAI API: Building a Real-World Solution](https://media.licdn.com/dms/image/v2/D4D0DAQH1trVwWKdtyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709333885301?e=2147483647&amp;v=beta&amp;t=eF5iTlfk5-4UA5K68mmOSZE_7Tx9CG0uQspF3LN5lrU)

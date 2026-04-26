@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHrUSyKAHYmVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700606318538?e=2147483647&amp;v=beta&amp;t=JVLMDm4vIWBGEdPzlpPBlr0nlMJFf3oDoEKgI4IRtkA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Getting Started as an AWS Developer
+  - '[[Getting Started as an AWS Developer]]'
+prev_courses:
+  - '[[Learning Amazon Web Services Aws For Developers]]'
+next_courses:
+  - '[[AWS for Developers- Identity Access Management (IAM)]]'
+path_nav: '[{"path":"Getting Started as an AWS Developer","position":2,"total":4,"prev":"Learning Amazon Web Services Aws For Developers","next":"AWS for Developers- Identity Access Management (IAM)"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/serverless-computing
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Serverless Applications in AWS](https://media.licdn.com/dms/image/v2/D560DAQHrUSyKAHYmVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700606318538?e=2147483647&amp;v=beta&amp;t=JVLMDm4vIWBGEdPzlpPBlr0nlMJFf3oDoEKgI4IRtkA)

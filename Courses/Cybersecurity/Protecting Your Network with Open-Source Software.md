@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF4Rqy_zT2XWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719436460654?e=2147483647&amp;v=beta&amp;t=gBoEWy_qQGu8mqh--H3uHjovOPqjKaRbjEuNsYT5e-c"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Explore a Career in Computer Forensics
+  - '[[Explore a Career in Computer Forensics]]'
+prev_courses:
+  - '[[Wireshark- Malware and Forensics]]'
+next_courses:
+  - '[[Learning Autopsy for Digital Forensics]]'
+path_nav: '[{"path":"Explore a Career in Computer Forensics","position":6,"total":9,"prev":"Wireshark- Malware and Forensics","next":"Learning Autopsy for Digital Forensics"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/open-source-software
   - skill/network-security-implementation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Protecting Your Network with Open-Source Software](https://media.licdn.com/dms/image/v2/D560DAQF4Rqy_zT2XWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719436460654?e=2147483647&amp;v=beta&amp;t=gBoEWy_qQGu8mqh--H3uHjovOPqjKaRbjEuNsYT5e-c)

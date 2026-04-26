@@ -18,7 +18,12 @@ github: "https://github.com/coding-geographies/dockerized-pytest-course"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHWDGkTmekVlg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134209417?e=2147483647&amp;v=beta&amp;t=ZNDO58GhiNdg2mXCnDdbSzvfj65HO68HJoTNx83bPt0"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Your Python Skills
+  - '[[Master Your Python Skills]]'
+prev_courses:
+  - '[[Advanced Python- Practical Database Examples]]'
+next_courses:
+  - '[[Advanced Python- Working with Databases]]'
+path_nav: '[{"path":"Master Your Python Skills","position":7,"total":11,"prev":"Advanced Python- Practical Database Examples","next":"Advanced Python- Working with Databases"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/unit-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Unit Testing in Python](https://media.licdn.com/dms/image/v2/C4E0DAQHWDGkTmekVlg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134209417?e=2147483647&amp;v=beta&amp;t=ZNDO58GhiNdg2mXCnDdbSzvfj65HO68HJoTNx83bPt0)

@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFfzyF5w7z1jg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118421027?e=2147483647&amp;v=beta&amp;t=hCs3GbtwGtigkt-MH50rhR3mVPxC0VbeF3Khe3ekAb0"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore Web Development with Vanilla JavaScript
+  - '[[Explore Web Development with Vanilla JavaScript]]'
+prev_courses:
+  - '[[JavaScript- Service Workers]]'
+next_courses:
+  - '[[Vanilla JavaScript- Building on the Document Object Model (DOM)]]'
+path_nav: '[{"path":"Explore Web Development with Vanilla JavaScript","position":7,"total":8,"prev":"JavaScript- Service Workers","next":"Vanilla JavaScript- Building on the Document Object Model (DOM)"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Vanilla JavaScript: Web Performance Optimization APIs](https://media.licdn.com/dms/image/v2/C4E0DAQFfzyF5w7z1jg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118421027?e=2147483647&amp;v=beta&amp;t=hCs3GbtwGtigkt-MH50rhR3mVPxC0VbeF3Khe3ekAb0)

@@ -14,14 +14,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFZ_19kQx7WFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646268620428?e=2147483647&amp;v=beta&amp;t=jGLbV57tV5XjmaU3cASomAZkLrkyUSwJffLcdMpLuTk"
 linkedin_topic: Software Development
 learning_paths:
-  - The Top Skills Engineering Professionals Have Right Now
+  - '[[The Top Skills Engineering Professionals Have Right Now]]'
+prev_courses:
+  - '[[Java Essential Training- Objects and APIs]]'
+next_courses:
+  - '[[Git from Scratch]]'
+path_nav: '[{"path":"The Top Skills Engineering Professionals Have Right Now","position":4,"total":9,"prev":"Java Essential Training- Objects and APIs","next":"Git from Scratch"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/solidworks
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SOLIDWORKS 2022 Essential Training](https://media.licdn.com/dms/image/v2/C560DAQFZ_19kQx7WFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646268620428?e=2147483647&amp;v=beta&amp;t=jGLbV57tV5XjmaU3cASomAZkLrkyUSwJffLcdMpLuTk)

@@ -19,8 +19,15 @@ github: "https://github.com/LinkedInLearning/practical-python-for-data-professio
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHlUfLfnIMhFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351896347?e=2147483647&amp;v=beta&amp;t=GlqHr_UvDDpzs1w25Lf0OxMMIBbUttMj-d0dajGDuDI"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
-  - Moving from Data Scientist to Data Analyst
+  - '[[Python Hands-On Practice]]'
+  - '[[Moving from Data Scientist to Data Analyst]]'
+prev_courses:
+  - '[[Build Three Real-World Python Applications]]'
+  - '[[R for Data Science- Analysis and Visualization]]'
+next_courses:
+  - '[[Case Study- Visualize Complex Microservice Data Using Python]]'
+  - '[[Data Visualization for Data Analysts and Analytics]]'
+path_nav: '[{"path":"Python Hands-On Practice","position":12,"total":14,"prev":"Build Three Real-World Python Applications","next":"Case Study- Visualize Complex Microservice Data Using Python"},{"path":"Moving from Data Scientist to Data Analyst","position":3,"total":10,"prev":"R for Data Science- Analysis and Visualization","next":"Data Visualization for Data Analysts and Analytics"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/big-data
   - skill/data-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python for Data Analysis: Solve Real-World Challenges](https://media.licdn.com/dms/image/v2/D560DAQHlUfLfnIMhFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351896347?e=2147483647&amp;v=beta&amp;t=GlqHr_UvDDpzs1w25Lf0OxMMIBbUttMj-d0dajGDuDI)

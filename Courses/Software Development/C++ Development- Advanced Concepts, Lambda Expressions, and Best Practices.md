@@ -16,8 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQH4ZYfcBcdlTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675206346003?e=2147483647&amp;v=beta&amp;t=U6a8XoOvSlyC-Q7cTqHRKd3yYkUEVZpD0e76DhHRI1s"
 linkedin_topic: Software Development
 learning_paths:
-  - Master C++
-  - C++ Programming Professional Certificate by OpenEDG C++ Institute
+  - '[[Master C++]]'
+  - '[[C++ Programming Professional Certificate by OpenEDG C++ Institute]]'
+prev_courses:
+  - '[[C++ Design Patterns- Creational]]'
+  - '[[C++ Design Patterns- Structural]]'
+path_nav: '[{"path":"Master C++","position":6,"total":6,"prev":"C++ Design Patterns- Creational","next":null},{"path":"C++ Programming Professional Certificate by OpenEDG C++ Institute","position":3,"total":3,"prev":"C++ Design Patterns- Structural","next":null}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +30,7 @@ tags:
   - topic/data-science
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C++ Development: Advanced Concepts, Lambda Expressions, and Best Practices](https://media.licdn.com/dms/image/v2/C560DAQH4ZYfcBcdlTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675206346003?e=2147483647&amp;v=beta&amp;t=U6a8XoOvSlyC-Q7cTqHRKd3yYkUEVZpD0e76DhHRI1s)

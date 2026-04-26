@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGurQq8eHdOVw/learning-public-crop_675_1200/B4EZbKb.rQHwAc-/0/1747153054737?e=2147483647&amp;v=beta&amp;t=-udZOO2os87WLKGZRgQBzJVWiNoMTKRwldAlnY3m24U"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your AI Skills with Google Gemini and Google Cloud Platform
-  - A Developer's Guide to Google Gemini
+  - '[[Develop Your AI Skills with Google Gemini and Google Cloud Platform]]'
+  - '[[A Developer''s Guide to Google Gemini]]'
+prev_courses:
+  - null
+  - '[[Programming with the Gemini Flash API]]'
+next_courses:
+  - '[[Prompt Engineering with Gemini (2024)]]'
+  - '[[Advanced Gemini for Developers]]'
+path_nav: '[{"path":"Develop Your AI Skills with Google Gemini and Google Cloud Platform","position":1,"total":7,"prev":null,"next":"Prompt Engineering with Gemini (2024)"},{"path":"A Developer''s Guide to Google Gemini","position":5,"total":8,"prev":"Programming with the Gemini Flash API","next":"Advanced Gemini for Developers"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Google Gemini For Developers](https://media.licdn.com/dms/image/v2/D4E0DAQGurQq8eHdOVw/learning-public-crop_675_1200/B4EZbKb.rQHwAc-/0/1747153054737?e=2147483647&amp;v=beta&amp;t=-udZOO2os87WLKGZRgQBzJVWiNoMTKRwldAlnY3m24U)

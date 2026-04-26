@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGOpLpFgTUegQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711389664359?e=2147483647&amp;v=beta&amp;t=7wyq9D2lo4Cx--7E3LgxT6YrcKLlq2I7Q89dPTOUZ5w"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Prepare for the Google Cloud Digital Leader Certification
+  - '[[Prepare for the Google Cloud Digital Leader Certification]]'
+prev_courses:
+  - '[[Google Cloud Digital Leader Cert Prep- 5 Trust and Security with Google Cloud]]'
+path_nav: '[{"path":"Prepare for the Google Cloud Digital Leader Certification","position":6,"total":6,"prev":"Google Cloud Digital Leader Cert Prep- 5 Trust and Security with Google Cloud","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/scalability
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Google Cloud Digital Leader Cert Prep: 6 Scaling with Google Cloud Operations](https://media.licdn.com/dms/image/v2/D4E0DAQGOpLpFgTUegQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711389664359?e=2147483647&amp;v=beta&amp;t=7wyq9D2lo4Cx--7E3LgxT6YrcKLlq2I7Q89dPTOUZ5w)

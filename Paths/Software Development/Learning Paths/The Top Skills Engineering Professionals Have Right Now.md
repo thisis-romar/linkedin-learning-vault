@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/the-top-skills-engineering-professi
 course_count: 9
 linkedin_topics:
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/software-development
@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # The Top Skills Engineering Professionals Have Right Now
@@ -89,3 +89,7 @@ _Paths that share courses with this one:_
 - [[Explore a Career as a JavaScript Developer]] (1 shared courses)
 - [[Explore a Career in Front-End Web Development]] (1 shared courses)
 - [[TestMu AI Test Automation Professional Certificate]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Software Development]]

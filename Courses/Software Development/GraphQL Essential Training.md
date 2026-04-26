@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFJzRqUCfCnzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709679371916?e=2147483647&amp;v=beta&amp;t=DaYDFmvjAqhKCVT3MiTN-6iGWwdpY0fK72Rc6aFm0z8"
 linkedin_topic: Software Development
 learning_paths:
-  - Stay Ahead in GraphQL
+  - '[[Stay Ahead in GraphQL]]'
+prev_courses:
+  - '[[Learning Graphql]]'
+next_courses:
+  - '[[Migrating from REST to GraphQL]]'
+path_nav: '[{"path":"Stay Ahead in GraphQL","position":2,"total":3,"prev":"Learning Graphql","next":"Migrating from REST to GraphQL"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/web-development
   - skill/graphql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![GraphQL Essential Training](https://media.licdn.com/dms/image/v2/D560DAQFJzRqUCfCnzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709679371916?e=2147483647&amp;v=beta&amp;t=DaYDFmvjAqhKCVT3MiTN-6iGWwdpY0fK72Rc6aFm0z8)

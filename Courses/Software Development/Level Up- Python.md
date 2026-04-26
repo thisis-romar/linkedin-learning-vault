@@ -17,9 +17,18 @@ github: "https://github.com/LinkedInLearning/level-up-python-3210418/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGnwvqIftQDEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668016084325?e=2147483647&amp;v=beta&amp;t=dFt6FEqbWzFRhssfqXg6vrZFm7aXoRpl1993YJS__RY"
 linkedin_topic: Software Development
 learning_paths:
-  - A Quick Start Guide to Programming in Python
-  - OpenEDG Python Institute- Programming with Python Professional Certificate
-  - Getting Started with Python
+  - '[[A Quick Start Guide to Programming in Python]]'
+  - '[[OpenEDG Python Institute- Programming with Python Professional Certificate]]'
+  - '[[Getting Started with Python]]'
+prev_courses:
+  - '[[Hands-On Introduction- Python]]'
+  - '[[Python Object-Oriented Programming]]'
+  - '[[Programming Foundations- Data Structures]]'
+next_courses:
+  - null
+  - null
+  - '[[8 Things You Must Know in Python]]'
+path_nav: '[{"path":"A Quick Start Guide to Programming in Python","position":6,"total":6,"prev":"Hands-On Introduction- Python","next":null},{"path":"OpenEDG Python Institute- Programming with Python Professional Certificate","position":3,"total":3,"prev":"Python Object-Oriented Programming","next":null},{"path":"Getting Started with Python","position":6,"total":8,"prev":"Programming Foundations- Data Structures","next":"8 Things You Must Know in Python"}]'
 path_count: 3
 tags:
   - course
@@ -27,7 +36,7 @@ tags:
   - topic/data-science
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Level Up: Python](https://media.licdn.com/dms/image/v2/C4E0DAQGnwvqIftQDEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668016084325?e=2147483647&amp;v=beta&amp;t=dFt6FEqbWzFRhssfqXg6vrZFm7aXoRpl1993YJS__RY)

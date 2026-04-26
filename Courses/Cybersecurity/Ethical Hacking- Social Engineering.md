@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHdtwBvHAVNRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576191498892?e=2147483647&amp;v=beta&amp;t=XxAiyGRjlC0IB4NYHn-HRjfkuU_Mn0QO6ZNsprUnFlM"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an Ethical Hacker
+  - '[[Become an Ethical Hacker]]'
+prev_courses:
+  - '[[Ethical Hacking- Sniffers]]'
+next_courses:
+  - '[[Ethical Hacking- Denial of Service]]'
+path_nav: '[{"path":"Become an Ethical Hacker","position":9,"total":19,"prev":"Ethical Hacking- Sniffers","next":"Ethical Hacking- Denial of Service"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethical Hacking: Social Engineering](https://media.licdn.com/dms/image/v2/C4E0DAQHdtwBvHAVNRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576191498892?e=2147483647&amp;v=beta&amp;t=XxAiyGRjlC0IB4NYHn-HRjfkuU_Mn0QO6ZNsprUnFlM)

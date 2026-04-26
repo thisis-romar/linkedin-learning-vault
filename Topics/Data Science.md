@@ -6,7 +6,7 @@ linkedin_topic: Data Science
 tags:
   - moc
   - topic/data-science
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Data Science
@@ -150,3 +150,7 @@ created: 2026-04-20
 - [[SQL Hands-On Practice- Solve Business Problems]] — 6 paths
 - [[Statistics Foundations 3- Using Data Sets]] — 5 paths
 - [[Hands-On Introduction- Data Engineering]] — 5 paths
+
+---
+
+Part of [[000 Map of Content]]

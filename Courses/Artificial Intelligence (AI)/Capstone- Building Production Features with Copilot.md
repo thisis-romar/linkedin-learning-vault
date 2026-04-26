@@ -21,7 +21,10 @@ github: "https://github.com/paiml/GitHub-Copilot-Mastery-Capstone"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFU4QN0jCeNSA/learning-public-crop_675_1200/B4EZq32w6IHUAY-/0/1764021178841?e=2147483647&amp;v=beta&amp;t=4VF2e5EUVMTxkkGLxZzTG33EPeEdA9b3_qwxyUZjct8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development
+  - '[[GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development]]'
+prev_courses:
+  - '[[Responsible AI Development with GitHub Copilot]]'
+path_nav: '[{"path":"GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development","position":4,"total":4,"prev":"Responsible AI Development with GitHub Copilot","next":null}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +36,7 @@ tags:
   - skill/github-copilot
   - skill/capstone
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Capstone: Building Production Features with Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQFU4QN0jCeNSA/learning-public-crop_675_1200/B4EZq32w6IHUAY-/0/1764021178841?e=2147483647&amp;v=beta&amp;t=4VF2e5EUVMTxkkGLxZzTG33EPeEdA9b3_qwxyUZjct8)

@@ -6,7 +6,7 @@ linkedin_topic: IT Help Desk
 tags:
   - moc
   - topic/it-help-desk
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # IT Help Desk
@@ -36,3 +36,7 @@ created: 2026-04-20
 - [[What Is Generative AI-]] — 1 paths
 - [[Generative AI vs. Traditional AI]] — 1 paths
 - [[Generative AI- Introduction to Large Language Models]] — 1 paths
+
+---
+
+Part of [[000 Map of Content]]

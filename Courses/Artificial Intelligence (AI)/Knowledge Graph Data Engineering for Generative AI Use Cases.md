@@ -20,7 +20,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQE8e7XXQFryWQ/learning-public-crop_675_1200/B4EZbqbWRDHkAY-/0/1747689760566?e=2147483647&amp;v=beta&amp;t=bzdG_sDdAhC9TrpjXlY5fUPEP1lYnEb6VzMLqd4AKvE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Working with Data- Engineering, Integration, and MLOps for AI
+  - '[[Working with Data- Engineering, Integration, and MLOps for AI]]'
+prev_courses:
+  - '[[Data Versioning, Lineage, and Quality Monitoring for AI]]'
+next_courses:
+  - '[[Semantic Search and Information Retrieval using GenAI]]'
+path_nav: '[{"path":"Working with Data- Engineering, Integration, and MLOps for AI","position":3,"total":5,"prev":"Data Versioning, Lineage, and Quality Monitoring for AI","next":"Semantic Search and Information Retrieval using GenAI"}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/knowledge-graphs
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Knowledge Graph Data Engineering for Generative AI Use Cases](https://media.licdn.com/dms/image/v2/D4E0DAQE8e7XXQFryWQ/learning-public-crop_675_1200/B4EZbqbWRDHkAY-/0/1747689760566?e=2147483647&amp;v=beta&amp;t=bzdG_sDdAhC9TrpjXlY5fUPEP1lYnEb6VzMLqd4AKvE)

@@ -6,7 +6,7 @@ course_count: 339
 tags:
   - skill
   - skill/artificial-intelligence-ai
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Artificial Intelligence (AI)

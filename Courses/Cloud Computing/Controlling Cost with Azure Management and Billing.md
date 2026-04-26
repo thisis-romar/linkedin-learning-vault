@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGqGEF_98p6ZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686855323962?e=2147483647&amp;v=beta&amp;t=pKzASYM1u1Xy5jgdQA8SYhzbit8zjoirz1V_gexZS4w"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals
+  - '[[Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals]]'
+prev_courses:
+  - '[[Manage Storage in Azure]]'
+path_nav: '[{"path":"Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals","position":8,"total":8,"prev":"Manage Storage in Azure","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/cost-management
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Controlling Cost with Azure Management and Billing](https://media.licdn.com/dms/image/v2/D560DAQGqGEF_98p6ZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686855323962?e=2147483647&amp;v=beta&amp;t=pKzASYM1u1Xy5jgdQA8SYhzbit8zjoirz1V_gexZS4w)

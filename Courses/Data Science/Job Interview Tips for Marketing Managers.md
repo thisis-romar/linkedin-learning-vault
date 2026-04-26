@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFRUjdyNW8-FQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617138178983?e=2147483647&amp;v=beta&amp;t=3PWJDvATYfFQ1CNoExBlNmVEYy7oJz6Yb_RidY_pLYs"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career as a Marketing Manager
+  - '[[Explore a Career as a Marketing Manager]]'
+prev_courses:
+  - '[[Be the Manager People Won''t Leave]]'
+next_courses:
+  - '[[The Habits of Successful Marketers]]'
+path_nav: '[{"path":"Explore a Career as a Marketing Manager","position":3,"total":5,"prev":"Be the Manager People Won''t Leave","next":"The Habits of Successful Marketers"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/interviewing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Job Interview Tips for Marketing Managers](https://media.licdn.com/dms/image/v2/C4E0DAQFRUjdyNW8-FQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617138178983?e=2147483647&amp;v=beta&amp;t=3PWJDvATYfFQ1CNoExBlNmVEYy7oJz6Yb_RidY_pLYs)

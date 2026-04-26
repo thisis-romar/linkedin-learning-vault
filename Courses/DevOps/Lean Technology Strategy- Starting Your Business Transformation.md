@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHIpHUwGr5iBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117985088?e=2147483647&amp;v=beta&amp;t=-7G0or3i0aTjd4Af6SY-C_XuxBSObWcyJxY9KkUgpSM"
 linkedin_topic: DevOps
 learning_paths:
-  - Applying Lean, DevOps, and Agile to Your IT Organization
+  - '[[Applying Lean, DevOps, and Agile to Your IT Organization]]'
+prev_courses:
+  - '[[Lean Technology Strategy- Building High-Performing Teams]]'
+next_courses:
+  - '[[Lean Technology Strategy- Moving Fast With Defined Constraints]]'
+path_nav: '[{"path":"Applying Lean, DevOps, and Agile to Your IT Organization","position":8,"total":9,"prev":"Lean Technology Strategy- Building High-Performing Teams","next":"Lean Technology Strategy- Moving Fast With Defined Constraints"}]'
 path_count: 1
 tags:
   - course
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Lean Technology Strategy: Starting Your Business Transformation](https://media.licdn.com/dms/image/v2/C4E0DAQHIpHUwGr5iBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117985088?e=2147483647&amp;v=beta&amp;t=-7G0or3i0aTjd4Af6SY-C_XuxBSObWcyJxY9KkUgpSM)

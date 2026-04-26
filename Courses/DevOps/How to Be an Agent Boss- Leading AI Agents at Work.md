@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEjaLbQibQykQ/learning-public-crop_675_1200/B4EZspW6tNHMAY-/0/1765925432505?e=2147483647&amp;v=beta&amp;t=OTmDX4mG7nfOaXYJtRgc__pj8FIXqHCxGDpq0hTHt8E"
 linkedin_topic: DevOps
 learning_paths:
-  - Lead AI Like a High-Performing Teammate
+  - '[[Lead AI Like a High-Performing Teammate]]'
+prev_courses:
+  - '[[From Tool to Teammates- Working Smarter with AI]]'
+path_nav: '[{"path":"Lead AI Like a High-Performing Teammate","position":3,"total":3,"prev":"From Tool to Teammates- Working Smarter with AI","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![How to Be an Agent Boss: Leading AI Agents at Work](https://media.licdn.com/dms/image/v2/D4E0DAQEjaLbQibQykQ/learning-public-crop_675_1200/B4EZspW6tNHMAY-/0/1765925432505?e=2147483647&amp;v=beta&amp;t=OTmDX4mG7nfOaXYJtRgc__pj8FIXqHCxGDpq0hTHt8E)

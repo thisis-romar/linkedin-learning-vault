@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-prompt-enginee
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 1
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Getting Started with Prompt Engineering
@@ -74,3 +74,7 @@ _Paths that share courses with this one:_
 - [[Prompt Engineering Skills for Developers]] (1 shared courses)
 - [[Develop Your Skills with Large Language Models]] (1 shared courses)
 - [[A Developer's Guide to Google Gemini]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

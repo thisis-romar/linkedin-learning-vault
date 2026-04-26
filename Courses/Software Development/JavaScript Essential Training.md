@@ -17,16 +17,39 @@ github: "https://github.com/LinkedInLearning/javascript-essential-training-28320
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEpoG_WHDxd4Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694720796291?e=2147483647&amp;v=beta&amp;t=tB95xLxaoXvwHidL8xjDPJrWoh26qQsRsDAFxdrhFIA"
 linkedin_topic: Software Development
 learning_paths:
-  - The Top 10 Most Popular Courses among Engineering Professionals
-  - Explore a Career as a Web Developer
-  - Explore a Career as a JavaScript Developer
-  - Explore a Career in Front-End Web Development
-  - JavaScript Foundations Professional Certificate by Mozilla
-  - Become a Full-Stack Web Developer
-  - Become a JavaScript Developer
-  - The Top Skills Engineering Professionals Have Right Now
-  - Become a Software Developer
-  - Getting Started with WordPress
+  - '[[The Top 10 Most Popular Courses among Engineering Professionals]]'
+  - '[[Explore a Career as a Web Developer]]'
+  - '[[Explore a Career as a JavaScript Developer]]'
+  - '[[Explore a Career in Front-End Web Development]]'
+  - '[[JavaScript Foundations Professional Certificate by Mozilla]]'
+  - '[[Become a Full-Stack Web Developer]]'
+  - '[[Become a JavaScript Developer]]'
+  - '[[The Top Skills Engineering Professionals Have Right Now]]'
+  - '[[Become a Software Developer]]'
+  - '[[Getting Started with WordPress]]'
+prev_courses:
+  - '[[Python Essential Training]]'
+  - '[[CSS Essential Training (2023)]]'
+  - '[[Programming Foundations- Beyond the Fundamentals]]'
+  - '[[CSS Essential Training (2023)]]'
+  - '[[Learning The Javascript Language]]'
+  - '[[CSS Essential Training (2023)]]'
+  - null
+  - '[[Autocad 2022 Essential Training]]'
+  - '[[CSS Essential Training (2023)]]'
+  - '[[WordPress- Accessibility]]'
+next_courses:
+  - '[[Learning Kubernetes]]'
+  - null
+  - '[[JavaScript- Five Advanced Challenges and Concepts]]'
+  - '[[Search Techniques for Web Developers]]'
+  - null
+  - '[[HTML Essential Training]]'
+  - '[[Learning The Javascript Language]]'
+  - '[[Java Essential Training- Objects and APIs]]'
+  - '[[Learning Python (2021)]]'
+  - '[[WordPress- Staging a Site]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among Engineering Professionals","position":6,"total":10,"prev":"Python Essential Training","next":"Learning Kubernetes"},{"path":"Explore a Career as a Web Developer","position":5,"total":5,"prev":"CSS Essential Training (2023)","next":null},{"path":"Explore a Career as a JavaScript Developer","position":3,"total":5,"prev":"Programming Foundations- Beyond the Fundamentals","next":"JavaScript- Five Advanced Challenges and Concepts"},{"path":"Explore a Career in Front-End Web Development","position":4,"total":11,"prev":"CSS Essential Training (2023)","next":"Search Techniques for Web Developers"},{"path":"JavaScript Foundations Professional Certificate by Mozilla","position":2,"total":2,"prev":"Learning The Javascript Language","next":null},{"path":"Become a Full-Stack Web Developer","position":2,"total":12,"prev":"CSS Essential Training (2023)","next":"HTML Essential Training"},{"path":"Become a JavaScript Developer","position":1,"total":13,"prev":null,"next":"Learning The Javascript Language"},{"path":"The Top Skills Engineering Professionals Have Right Now","position":2,"total":9,"prev":"Autocad 2022 Essential Training","next":"Java Essential Training- Objects and APIs"},{"path":"Become a Software Developer","position":6,"total":12,"prev":"CSS Essential Training (2023)","next":"Learning Python (2021)"},{"path":"Getting Started with WordPress","position":8,"total":10,"prev":"WordPress- Accessibility","next":"WordPress- Staging a Site"}]'
 path_count: 10
 tags:
   - course
@@ -37,7 +60,7 @@ tags:
   - topic/network-and-system-administration
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript Essential Training](https://media.licdn.com/dms/image/v2/D560DAQEpoG_WHDxd4Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694720796291?e=2147483647&amp;v=beta&amp;t=tB95xLxaoXvwHidL8xjDPJrWoh26qQsRsDAFxdrhFIA)

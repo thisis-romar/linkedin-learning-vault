@@ -19,8 +19,15 @@ github: "https://github.com/LinkedInLearning/creating-maps-with-R-2825608"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGrpSQgWVw0eA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663712355561?e=2147483647&amp;v=beta&amp;t=6K3AomiKQEy1LJeCX_AXI84Xr2_ImE-gXazPs8PKfGY"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in R
-  - Advance Your Skills in GIS
+  - '[[Advance Your Skills in R]]'
+  - '[[Advance Your Skills in GIS]]'
+prev_courses:
+  - '[[R Tidyverse Applications]]'
+  - '[[Learning MapGuide Open Source]]'
+next_courses:
+  - '[[Build Advanced Charts in R]]'
+  - null
+path_nav: '[{"path":"Advance Your Skills in R","position":7,"total":8,"prev":"R Tidyverse Applications","next":"Build Advanced Charts in R"},{"path":"Advance Your Skills in GIS","position":9,"total":9,"prev":"Learning MapGuide Open Source","next":null}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/r-programming-language
   - skill/data-mapping
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Creating Maps with R](https://media.licdn.com/dms/image/v2/C560DAQGrpSQgWVw0eA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663712355561?e=2147483647&amp;v=beta&amp;t=6K3AomiKQEy1LJeCX_AXI84Xr2_ImE-gXazPs8PKfGY)

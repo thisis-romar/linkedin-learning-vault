@@ -14,14 +14,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHdN0e3vJKDpQ/learning-public-crop_675_1200/B56ZbF5UuRGkAY-/0/1747076861533?e=2147483647&amp;v=beta&amp;t=19W5OcUTcULII8Qk1ApBLeqcmGZCyzh14SHA59mdMxs"
 linkedin_topic: Software Development
 learning_paths:
-  - Advance Your JavaScript Skills
+  - '[[Advance Your JavaScript Skills]]'
+next_courses:
+  - '[[JavaScript- Best Practices for Data]]'
+path_nav: '[{"path":"Advance Your JavaScript Skills","position":1,"total":10,"prev":null,"next":"JavaScript- Best Practices for Data"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Javascript Best Practices For Code Formatting](https://media.licdn.com/dms/image/v2/D560DAQHdN0e3vJKDpQ/learning-public-crop_675_1200/B56ZbF5UuRGkAY-/0/1747076861533?e=2147483647&amp;v=beta&amp;t=19W5OcUTcULII8Qk1ApBLeqcmGZCyzh14SHA59mdMxs)

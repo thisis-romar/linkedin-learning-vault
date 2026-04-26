@@ -19,7 +19,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQE6Tsl_hateww/learning-public-crop_675_1200/B4EZl4cdeBGoAY-/0/1758662352119?e=2147483647&amp;v=beta&amp;t=JcBECtFfdSuCQsLQRDO_Z2ofJeEz7q8tE3yWYbFJmHw"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Collection
+  - '[[Introduction to Fundamental Skills for Data Work- Data Collection]]'
+prev_courses:
+  - '[[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Collection","position":6,"total":6,"prev":"Complete Guide to Python for Data Engineering- From Beginner to Advanced","next":null}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-ethics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethical Data Collection for AI Implementation](https://media.licdn.com/dms/image/v2/D4E0DAQE6Tsl_hateww/learning-public-crop_675_1200/B4EZl4cdeBGoAY-/0/1758662352119?e=2147483647&amp;v=beta&amp;t=JcBECtFfdSuCQsLQRDO_Z2ofJeEz7q8tE3yWYbFJmHw)

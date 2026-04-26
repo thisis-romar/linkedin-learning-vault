@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQG2ycdBYKwa8w/learning-public-crop_675_1200/B4EZZAtm5dHgAY-/0/1744842420588?e=2147483647&amp;v=beta&amp;t=gXoBuKpYBTLL-a5qo5_A47aSA9bFkcZOaWVFnRHa-eI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Responsible AI and Application Development]]'
+next_courses:
+  - '[[GenAIOps Foundations]]'
+path_nav: '[{"path":"Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning","position":5,"total":7,"prev":"Responsible AI and Application Development","next":"GenAIOps Foundations"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/product-design
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Integrating AI into the Product Architecture](https://media.licdn.com/dms/image/v2/D4E0DAQG2ycdBYKwa8w/learning-public-crop_675_1200/B4EZZAtm5dHgAY-/0/1744842420588?e=2147483647&amp;v=beta&amp;t=gXoBuKpYBTLL-a5qo5_A47aSA9bFkcZOaWVFnRHa-eI)

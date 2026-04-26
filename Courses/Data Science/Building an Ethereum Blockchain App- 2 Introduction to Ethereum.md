@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHIlm0ceayLYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628184029599?e=2147483647&amp;v=beta&amp;t=JflYOVbsW2x9R454TLJ-icVT3g-4wB2ElxJ5hcwk_DQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Build an Ethereum Blockchain App
-  - Become a Blockchain Developer
+  - '[[Build an Ethereum Blockchain App]]'
+  - '[[Become a Blockchain Developer]]'
+prev_courses:
+  - '[[Building An Ethereum Blockchain App 1 Introduction To Blockchain]]'
+  - '[[Building An Ethereum Blockchain App 1 Introduction To Blockchain]]'
+next_courses:
+  - '[[Building an Ethereum Blockchain App- 3 Ethereum Development]]'
+  - '[[Building an Ethereum Blockchain App- 3 Ethereum Development]]'
+path_nav: '[{"path":"Build an Ethereum Blockchain App","position":2,"total":11,"prev":"Building An Ethereum Blockchain App 1 Introduction To Blockchain","next":"Building an Ethereum Blockchain App- 3 Ethereum Development"},{"path":"Become a Blockchain Developer","position":2,"total":14,"prev":"Building An Ethereum Blockchain App 1 Introduction To Blockchain","next":"Building an Ethereum Blockchain App- 3 Ethereum Development"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/ethereum
   - skill/application-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building an Ethereum Blockchain App: 2 Introduction to Ethereum](https://media.licdn.com/dms/image/v2/C560DAQHIlm0ceayLYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628184029599?e=2147483647&amp;v=beta&amp;t=JflYOVbsW2x9R454TLJ-icVT3g-4wB2ElxJ5hcwk_DQ)

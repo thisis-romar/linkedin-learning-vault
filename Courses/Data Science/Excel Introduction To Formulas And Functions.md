@@ -15,8 +15,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEfshAM47JHag/learning-public-crop_675_1200/B4EZka3zGaIQAY-/0/1757092459593?e=2147483647&amp;v=beta&amp;t=hItNh8pzjXChkzLwar3_KVO6p1qm0rU-bZoPH-UMQxo"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills with Excel Formulas and Functions
-  - Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)
+  - '[[Advance Your Skills with Excel Formulas and Functions]]'
+  - '[[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)]]'
+prev_courses:
+  - null
+  - '[[Excel Essential Training (Microsoft 365)]]'
+next_courses:
+  - '[[Excel Formulas and Functions Quick Tips]]'
+  - '[[Excel- Introduction to Formatting]]'
+path_nav: '[{"path":"Advance Your Skills with Excel Formulas and Functions","position":1,"total":5,"prev":null,"next":"Excel Formulas and Functions Quick Tips"},{"path":"Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)","position":2,"total":7,"prev":"Excel Essential Training (Microsoft 365)","next":"Excel- Introduction to Formatting"}]'
 path_count: 2
 tags:
   - course
@@ -24,7 +31,7 @@ tags:
   - skill/excel-formulas
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel Introduction To Formulas And Functions](https://media.licdn.com/dms/image/v2/D4E0DAQEfshAM47JHag/learning-public-crop_675_1200/B4EZka3zGaIQAY-/0/1757092459593?e=2147483647&amp;v=beta&amp;t=hItNh8pzjXChkzLwar3_KVO6p1qm0rU-bZoPH-UMQxo)

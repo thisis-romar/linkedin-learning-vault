@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQG1Ld5Hu48pZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008948508?e=2147483647&amp;v=beta&amp;t=-_kDdzDlJdffrAiwgx8yXakcqe_mAxRHiInucTsQctI"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Career Essentials in Administrative Assistance by Microsoft and LinkedIn
+  - '[[Career Essentials in Administrative Assistance by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Building a Time Management Mindset]]'
+next_courses:
+  - '[[Administrative Professional Foundations]]'
+path_nav: '[{"path":"Career Essentials in Administrative Assistance by Microsoft and LinkedIn","position":5,"total":7,"prev":"Building a Time Management Mindset","next":"Administrative Professional Foundations"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - skill/microsoft-365
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Microsoft 365](https://media.licdn.com/dms/image/v2/D4D0DAQG1Ld5Hu48pZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008948508?e=2147483647&amp;v=beta&amp;t=-_kDdzDlJdffrAiwgx8yXakcqe_mAxRHiInucTsQctI)

@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGDTPNpjfUqXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008957097?e=2147483647&amp;v=beta&amp;t=5XC1FzoWP5K5KbMZjfo8GwZ7EG-cqoShQrudMZSUqIE"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started as a C- Developer
+  - '[[Getting Started as a C- Developer]]'
+prev_courses:
+  - '[[C- Design Patterns Part 2]]'
+path_nav: '[{"path":"Getting Started as a C- Developer","position":9,"total":9,"prev":"C- Design Patterns Part 2","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/interview-preparation
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Nail Your C# Interview](https://media.licdn.com/dms/image/v2/D560DAQGDTPNpjfUqXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008957097?e=2147483647&amp;v=beta&amp;t=5XC1FzoWP5K5KbMZjfo8GwZ7EG-cqoShQrudMZSUqIE)

@@ -15,12 +15,27 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQH_x_tk2JlvNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1585762672741?e=2147483647&amp;v=beta&amp;t=wMz-HLsXvB4a5FrJly6jfXvwqzn0Qq6uRETRw_6AJYY"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Business Intelligence Specialist
-  - Become a Data Analyst
-  - Starting Your Career in Tech- Data Science
-  - Become a Data Scientist
-  - Data Science Professional Certificate by KNIME
-  - Advance Your Communication Skills as a Tech Manager
+  - '[[Become a Business Intelligence Specialist]]'
+  - '[[Become a Data Analyst]]'
+  - '[[Starting Your Career in Tech- Data Science]]'
+  - '[[Become a Data Scientist]]'
+  - '[[Data Science Professional Certificate by KNIME]]'
+  - '[[Advance Your Communication Skills as a Tech Manager]]'
+prev_courses:
+  - null
+  - null
+  - '[[Data Science Foundations- Fundamentals]]'
+  - '[[A Day In The Life Of A Data Scientist]]'
+  - '[[Generative AI- Introduction to Large Language Models]]'
+  - '[[Inclusive Tech- The Case for Inclusive Leadership]]'
+next_courses:
+  - '[[Data Analytics for Business Professionals]]'
+  - '[[Learning Excel- Data Analysis]]'
+  - '[[15 Tips for Landing a Data Science Job]]'
+  - '[[Data Science and Analytics Career Paths and Certifications- First Steps]]'
+  - null
+  - '[[Framing Cloud Discussions for the C-Suite]]'
+path_nav: '[{"path":"Become a Business Intelligence Specialist","position":1,"total":9,"prev":null,"next":"Data Analytics for Business Professionals"},{"path":"Become a Data Analyst","position":1,"total":12,"prev":null,"next":"Learning Excel- Data Analysis"},{"path":"Starting Your Career in Tech- Data Science","position":5,"total":8,"prev":"Data Science Foundations- Fundamentals","next":"15 Tips for Landing a Data Science Job"},{"path":"Become a Data Scientist","position":2,"total":11,"prev":"A Day In The Life Of A Data Scientist","next":"Data Science and Analytics Career Paths and Certifications- First Steps"},{"path":"Data Science Professional Certificate by KNIME","position":6,"total":6,"prev":"Generative AI- Introduction to Large Language Models","next":null},{"path":"Advance Your Communication Skills as a Tech Manager","position":5,"total":6,"prev":"Inclusive Tech- The Case for Inclusive Leadership","next":"Framing Cloud Discussions for the C-Suite"}]'
 path_count: 6
 tags:
   - course
@@ -33,7 +48,7 @@ tags:
   - skill/soft-skills
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The Non Technical Skills Of Effective Data Scientists](https://media.licdn.com/dms/image/v2/C4E0DAQH_x_tk2JlvNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1585762672741?e=2147483647&amp;v=beta&amp;t=wMz-HLsXvB4a5FrJly6jfXvwqzn0Qq6uRETRw_6AJYY)

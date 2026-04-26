@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFYyCXjRas0qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567113931299?e=2147483647&amp;v=beta&amp;t=hqcbSWu_HbeGES9s1bx4XD2l5-pTSlRjUHImpNkOiRg"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Learning Codeless Machine Learning with KNIME
+  - '[[Learning Codeless Machine Learning with KNIME]]'
+next_courses:
+  - '[[Machine Learning and AI Foundations- Decision Trees with KNIME]]'
+path_nav: '[{"path":"Learning Codeless Machine Learning with KNIME","position":1,"total":5,"prev":null,"next":"Machine Learning and AI Foundations- Decision Trees with KNIME"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction To Machine Learning With Knime](https://media.licdn.com/dms/image/v2/C4E0DAQFYyCXjRas0qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567113931299?e=2147483647&amp;v=beta&amp;t=hqcbSWu_HbeGES9s1bx4XD2l5-pTSlRjUHImpNkOiRg)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-data-skills-in-apache-
 course_count: 6
 linkedin_topics:
   - Data Science
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/data-science
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Data Skills in Apache Spark
@@ -74,3 +74,7 @@ _Paths that share courses with this one:_
 - [[Master Data Engineering]] (1 shared courses)
 - [[Moving from Data Scientist to Data Analyst]] (1 shared courses)
 - [[Explore a Career in Data Engineering]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

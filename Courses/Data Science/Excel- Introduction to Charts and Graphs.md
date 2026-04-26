@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQENIptYDCQ87g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712092970143?e=2147483647&amp;v=beta&amp;t=U9mVANdTBWf6udW0xfVIWaqPdkgavi-fZ13q4WLeCno"
 linkedin_topic: Data Science
 learning_paths:
-  - Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)
+  - '[[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)]]'
+prev_courses:
+  - '[[Excel- Dashboards for Beginners (2022)]]'
+next_courses:
+  - '[[Microsoft Office Specialist- Excel Associate (Microsoft 365 Apps) Cert Prep]]'
+path_nav: '[{"path":"Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)","position":6,"total":7,"prev":"Excel- Dashboards for Beginners (2022)","next":"Microsoft Office Specialist- Excel Associate (Microsoft 365 Apps) Cert Prep"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel: Introduction to Charts and Graphs](https://media.licdn.com/dms/image/v2/D560DAQENIptYDCQ87g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712092970143?e=2147483647&amp;v=beta&amp;t=U9mVANdTBWf6udW0xfVIWaqPdkgavi-fZ13q4WLeCno)

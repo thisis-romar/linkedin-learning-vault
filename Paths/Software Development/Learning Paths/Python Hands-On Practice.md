@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/python-hands-on-practice
 course_count: 14
 linkedin_topics:
   - Software Development
-louvain_cluster: 14
+louvain_cluster: 15
 tags:
   - learning-path
   - topic/software-development
@@ -73,7 +73,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Python Hands-On Practice
@@ -114,3 +114,7 @@ _Paths that share courses with this one:_
 - [[A Quick Start Guide to Programming in Python]] (1 shared courses)
 - [[Moving from Data Scientist to Data Analyst]] (1 shared courses)
 - [[Getting Started with Python]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Software Development]]

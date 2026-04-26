@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGGor2paUUm6w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702077125639?e=2147483647&amp;v=beta&amp;t=81DwIQXC9YE_3wWHzqvLVGZudHbiOJi62JKd4rihuS8"
 linkedin_topic: Data Science
 learning_paths:
-  - Mastering Data Governance and Ethics
+  - '[[Mastering Data Governance and Ethics]]'
+prev_courses:
+  - '[[Data Steward Foundations]]'
+next_courses:
+  - '[[Automated Data Governance in Practice]]'
+path_nav: '[{"path":"Mastering Data Governance and Ethics","position":4,"total":9,"prev":"Data Steward Foundations","next":"Automated Data Governance in Practice"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/program-design
   - skill/data-governance
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Designing Data Governance](https://media.licdn.com/dms/image/v2/D560DAQGGor2paUUm6w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702077125639?e=2147483647&amp;v=beta&amp;t=81DwIQXC9YE_3wWHzqvLVGZudHbiOJi62JKd4rihuS8)

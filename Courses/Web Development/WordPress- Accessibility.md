@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFTPDbgaebkNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686181045304?e=2147483647&amp;v=beta&amp;t=PN5YudqqOOHIILuUQizIX5Q_tNQcUNp_ProAXfwgChc"
 linkedin_topic: Web Development
 learning_paths:
-  - Getting Started with WordPress
+  - '[[Getting Started with WordPress]]'
+prev_courses:
+  - '[[Creating Block Patterns in WordPress]]'
+next_courses:
+  - '[[JavaScript Essential Training]]'
+path_nav: '[{"path":"Getting Started with WordPress","position":7,"total":10,"prev":"Creating Block Patterns in WordPress","next":"JavaScript Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/digital-accessibility
   - skill/wordpress
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![WordPress: Accessibility](https://media.licdn.com/dms/image/v2/D560DAQFTPDbgaebkNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686181045304?e=2147483647&amp;v=beta&amp;t=PN5YudqqOOHIILuUQizIX5Q_tNQcUNp_ProAXfwgChc)

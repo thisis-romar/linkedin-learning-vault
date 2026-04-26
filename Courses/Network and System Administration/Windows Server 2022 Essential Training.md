@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGYpV6N5w4Wyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655141216714?e=2147483647&amp;v=beta&amp;t=zKJKL8ogTKVTK72Svvi7EEond0Zc0wh9h7lXASH_aRA"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - The Top Skills IT Professionals Have Right Now
-  - Getting Started with Windows Server 2022
+  - '[[The Top Skills IT Professionals Have Right Now]]'
+  - '[[Getting Started with Windows Server 2022]]'
+prev_courses:
+  - '[[Networking Foundations Networking Basics]]'
+  - null
+next_courses:
+  - '[[SQL Server Intelligence- Cracking the Code of Enterprise Data]]'
+  - '[[Windows Server 2022- Installation and Configuration]]'
+path_nav: '[{"path":"The Top Skills IT Professionals Have Right Now","position":2,"total":10,"prev":"Networking Foundations Networking Basics","next":"SQL Server Intelligence- Cracking the Code of Enterprise Data"},{"path":"Getting Started with Windows Server 2022","position":1,"total":4,"prev":null,"next":"Windows Server 2022- Installation and Configuration"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - topic/it-help-desk
   - skill/windows-server
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows Server 2022 Essential Training](https://media.licdn.com/dms/image/v2/C560DAQGYpV6N5w4Wyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655141216714?e=2147483647&amp;v=beta&amp;t=zKJKL8ogTKVTK72Svvi7EEond0Zc0wh9h7lXASH_aRA)

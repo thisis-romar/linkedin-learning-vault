@@ -14,14 +14,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQG7bROPW6GYIQ/learning-public-crop_675_1200/B4EZYlrQL8HcAc-/0/1744388817972?e=2147483647&amp;v=beta&amp;t=Vhin7bMHdPhTqynLRqXnLX--bo5UlVGxHyqxXh3WBA4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Working Smarter with Microsoft 365
+  - '[[Working Smarter with Microsoft 365]]'
+prev_courses:
+  - '[[Excel Essential Training (Microsoft 365)]]'
+next_courses:
+  - '[[PowerPoint Essential Training (Microsoft 365)]]'
+path_nav: '[{"path":"Working Smarter with Microsoft 365","position":2,"total":9,"prev":"Excel Essential Training (Microsoft 365)","next":"PowerPoint Essential Training (Microsoft 365)"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Outlook Essential Training (Microsoft 365)](https://media.licdn.com/dms/image/v2/D4E0DAQG7bROPW6GYIQ/learning-public-crop_675_1200/B4EZYlrQL8HcAc-/0/1744388817972?e=2147483647&amp;v=beta&amp;t=Vhin7bMHdPhTqynLRqXnLX--bo5UlVGxHyqxXh3WBA4)

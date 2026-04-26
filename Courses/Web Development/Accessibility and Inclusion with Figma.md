@@ -15,8 +15,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGej-kCGWen5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702942360733?e=2147483647&amp;v=beta&amp;t=-fsVDINc_vFNf80PIB-w7699jpxo_qaZhgXoIApODMQ"
 linkedin_topic: Web Development
 learning_paths:
-  - Build for Digital Accessibility
-  - Design User Experiences with Figma
+  - '[[Build for Digital Accessibility]]'
+  - '[[Design User Experiences with Figma]]'
+prev_courses:
+  - '[[Advanced Accessible PDFs]]'
+  - '[[UX Foundations- Prototyping]]'
+next_courses:
+  - '[[Designing Accessible Components In Figma]]'
+  - '[[Figma- Designing with Variables and Conditionals]]'
+path_nav: '[{"path":"Build for Digital Accessibility","position":4,"total":12,"prev":"Advanced Accessible PDFs","next":"Designing Accessible Components In Figma"},{"path":"Design User Experiences with Figma","position":3,"total":6,"prev":"UX Foundations- Prototyping","next":"Figma- Designing with Variables and Conditionals"}]'
 path_count: 2
 tags:
   - course
@@ -24,7 +31,7 @@ tags:
   - skill/digital-accessibility
   - skill/figma-software
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Accessibility and Inclusion with Figma](https://media.licdn.com/dms/image/v2/D4E0DAQGej-kCGWen5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702942360733?e=2147483647&amp;v=beta&amp;t=-fsVDINc_vFNf80PIB-w7699jpxo_qaZhgXoIApODMQ)

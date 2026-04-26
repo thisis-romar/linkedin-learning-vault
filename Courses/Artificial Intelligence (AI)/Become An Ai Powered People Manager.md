@@ -8,14 +8,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEudnED4s7pjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712945780150?e=2147483647&amp;v=beta&amp;t=BwcIMQRmfwHFC1_Hcev1f2AKgf9HJ1Hbi0Zr63Ehsls"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Technical Literacy and Future Readiness for People Managers
+  - '[[Technical Literacy and Future Readiness for People Managers]]'
+next_courses:
+  - '[[Responsible AI for Managers]]'
+path_nav: '[{"path":"Technical Literacy and Future Readiness for People Managers","position":1,"total":5,"prev":null,"next":"Responsible AI for Managers"}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Become An Ai Powered People Manager](https://media.licdn.com/dms/image/v2/D560DAQEudnED4s7pjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712945780150?e=2147483647&amp;v=beta&amp;t=BwcIMQRmfwHFC1_Hcev1f2AKgf9HJ1Hbi0Zr63Ehsls)

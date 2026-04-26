@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/4515339-building-php-applications-a
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFNS19neoqiYw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712337853048?e=2147483647&amp;v=beta&amp;t=4MYtPZ6gF_yOeIclOpcBdMphzUqvsb4F6ljcfbTLpv8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Generative AI Skills for Web Developers
+  - '[[Building Generative AI Skills for Web Developers]]'
+prev_courses:
+  - '[[Prompting ChatGPT with Multimodal Techniques]]'
+next_courses:
+  - '[[Integrating Generative AI into JavaScript Web Projects]]'
+path_nav: '[{"path":"Building Generative AI Skills for Web Developers","position":5,"total":10,"prev":"Prompting ChatGPT with Multimodal Techniques","next":"Integrating Generative AI into JavaScript Web Projects"}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building PHP Applications with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQFNS19neoqiYw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712337853048?e=2147483647&amp;v=beta&amp;t=4MYtPZ6gF_yOeIclOpcBdMphzUqvsb4F6ljcfbTLpv8)

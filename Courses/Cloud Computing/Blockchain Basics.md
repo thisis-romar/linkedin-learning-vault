@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGRdiet-86L8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638210338294?e=2147483647&amp;v=beta&amp;t=KKg29gKi7Vk3SiGS3CsyT-sI086CZD1uG6lBea_SGfU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation for Tech Leaders
-  - Getting Started in Blockchain
+  - '[[Digital Transformation for Tech Leaders]]'
+  - '[[Getting Started in Blockchain]]'
+prev_courses:
+  - '[[Understanding Zero Trust]]'
+  - '[[Cryptocurrency Foundations 17185357]]'
+next_courses:
+  - '[[Blockchain- Beyond the Basics]]'
+  - '[[Blockchain- Beyond the Basics]]'
+path_nav: '[{"path":"Digital Transformation for Tech Leaders","position":11,"total":15,"prev":"Understanding Zero Trust","next":"Blockchain- Beyond the Basics"},{"path":"Getting Started in Blockchain","position":2,"total":5,"prev":"Cryptocurrency Foundations 17185357","next":"Blockchain- Beyond the Basics"}]'
 path_count: 2
 tags:
   - course
@@ -20,7 +27,7 @@ tags:
   - topic/security
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Blockchain Basics](https://media.licdn.com/dms/image/v2/C560DAQGRdiet-86L8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638210338294?e=2147483647&amp;v=beta&amp;t=KKg29gKi7Vk3SiGS3CsyT-sI086CZD1uG6lBea_SGfU)

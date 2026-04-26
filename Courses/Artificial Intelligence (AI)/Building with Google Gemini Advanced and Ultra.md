@@ -18,8 +18,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHRlgkRZR_N9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709245833557?e=2147483647&amp;v=beta&amp;t=MehWANnuStDTSGu-TWdJcn6iy--bwEPpajB_83V7oL0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your AI Skills with Google Gemini and Google Cloud Platform
-  - A Developer's Guide to Google Gemini
+  - '[[Develop Your AI Skills with Google Gemini and Google Cloud Platform]]'
+  - '[[A Developer''s Guide to Google Gemini]]'
+prev_courses:
+  - '[[Multimodal Prompting with Google''s Project Gemini]]'
+  - '[[Advanced Gemini for Developers]]'
+next_courses:
+  - '[[Building a Video Transcriber with Node.js and Google AI Speech-To-Text API]]'
+  - '[[Build an Image Captioning Tool for Visually Impaired Users with Gemini]]'
+path_nav: '[{"path":"Develop Your AI Skills with Google Gemini and Google Cloud Platform","position":4,"total":7,"prev":"Multimodal Prompting with Google''s Project Gemini","next":"Building a Video Transcriber with Node.js and Google AI Speech-To-Text API"},{"path":"A Developer''s Guide to Google Gemini","position":7,"total":8,"prev":"Advanced Gemini for Developers","next":"Build an Image Captioning Tool for Visually Impaired Users with Gemini"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/gemini
   - skill/google-gemini
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building with Google Gemini Advanced and Ultra](https://media.licdn.com/dms/image/v2/D4D0DAQHRlgkRZR_N9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709245833557?e=2147483647&amp;v=beta&amp;t=MehWANnuStDTSGu-TWdJcn6iy--bwEPpajB_83V7oL0)

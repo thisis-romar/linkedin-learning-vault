@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGGWqFe6cl1fw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567028999882?e=2147483647&amp;v=beta&amp;t=c-oqQavAdRfrCLSSxCKmOfn3frfNz2_x7sF8r7EUw58"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills as a Supply Chain Manager
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+prev_courses:
+  - '[[Leading Remote Projects and Virtual Teams]]'
+next_courses:
+  - '[[Operational Excellence Foundations]]'
+path_nav: '[{"path":"Advance Your Skills as a Supply Chain Manager","position":5,"total":15,"prev":"Leading Remote Projects and Virtual Teams","next":"Operational Excellence Foundations"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/project-integration-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Project Management Foundations: Integration](https://media.licdn.com/dms/image/v2/C560DAQGGWqFe6cl1fw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567028999882?e=2147483647&amp;v=beta&amp;t=c-oqQavAdRfrCLSSxCKmOfn3frfNz2_x7sF8r7EUw58)

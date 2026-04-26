@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/build-three-real-world-python-appli
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFYSovTCZGW8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687366065111?e=2147483647&amp;v=beta&amp;t=5eyNnzqwIsutURFWP-n6VBABrTyyu-QoIBOuTJUXHEM"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
-  - Advance Your Skills in Python
+  - '[[Python Hands-On Practice]]'
+  - '[[Advance Your Skills in Python]]'
+prev_courses:
+  - '[[Python Practice- Real-World Coding Challenges]]'
+  - '[[Create an Open-Source Project in Python]]'
+next_courses:
+  - '[[Python for Data Analysis- Solve Real-World Challenges]]'
+  - null
+path_nav: '[{"path":"Python Hands-On Practice","position":11,"total":14,"prev":"Python Practice- Real-World Coding Challenges","next":"Python for Data Analysis- Solve Real-World Challenges"},{"path":"Advance Your Skills in Python","position":7,"total":7,"prev":"Create an Open-Source Project in Python","next":null}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/application-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Build Three Real-World Python Applications](https://media.licdn.com/dms/image/v2/D4D0DAQFYSovTCZGW8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687366065111?e=2147483647&amp;v=beta&amp;t=5eyNnzqwIsutURFWP-n6VBABrTyyu-QoIBOuTJUXHEM)

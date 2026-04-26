@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQG3wU7KTFdjDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581636946697?e=2147483647&amp;v=beta&amp;t=W_zRJDPMaNxDSN65_bQOJWdSKUgDoSP7EyySfd5K9n8"
 linkedin_topic: DevOps
 learning_paths:
-  - The Top Skills IT Professionals Have Right Now
+  - '[[The Top Skills IT Professionals Have Right Now]]'
+prev_courses:
+  - '[[AWS Essential Training for Architects]]'
+next_courses:
+  - '[[Learning Linux Command Line]]'
+path_nav: '[{"path":"The Top Skills IT Professionals Have Right Now","position":9,"total":10,"prev":"AWS Essential Training for Architects","next":"Learning Linux Command Line"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/office-365-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft 365 for Administrators: Supporting Users](https://media.licdn.com/dms/image/v2/C4E0DAQG3wU7KTFdjDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581636946697?e=2147483647&amp;v=beta&amp;t=W_zRJDPMaNxDSN65_bQOJWdSKUgDoSP7EyySfd5K9n8)

@@ -17,7 +17,10 @@ github: "https://github.com/LinkedInLearning/spring-on-kubernetes-deploying-and-
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGbScwnzErsnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726684715855?e=2147483647&amp;v=beta&amp;t=6m5UmFBAPLHndQQE3unqON2AfzkgHsLw4QWHxRVOhfc"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance Your Spring Development Skills
+  - '[[Advance Your Spring Development Skills]]'
+next_courses:
+  - '[[Performance Tuning in Spring Apps]]'
+path_nav: '[{"path":"Advance Your Spring Development Skills","position":1,"total":6,"prev":null,"next":"Performance Tuning in Spring Apps"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/spring-boot
   - skill/kubernetes
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Spring On Kubernetes Deploying And Managing Cloud Native Applications](https://media.licdn.com/dms/image/v2/D4E0DAQGbScwnzErsnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726684715855?e=2147483647&amp;v=beta&amp;t=6m5UmFBAPLHndQQE3unqON2AfzkgHsLw4QWHxRVOhfc)

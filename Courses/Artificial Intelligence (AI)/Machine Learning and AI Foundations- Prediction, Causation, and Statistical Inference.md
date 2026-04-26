@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFivN9qt5wTUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647451672526?e=2147483647&amp;v=beta&amp;t=1gJsLL7cUCqa1Nc1gw7iGvkHzf3YyFFS7Q-cFEm-WHo"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills as a Machine Learning Specialist
+  - '[[Advance Your Skills as a Machine Learning Specialist]]'
+prev_courses:
+  - '[[Machine Learning and AI Foundations- Causal Inference and Modeling]]'
+next_courses:
+  - '[[Deep Learning- Model Optimization and Tuning (2022)]]'
+path_nav: '[{"path":"Advance Your Skills as a Machine Learning Specialist","position":8,"total":9,"prev":"Machine Learning and AI Foundations- Causal Inference and Modeling","next":"Deep Learning- Model Optimization and Tuning (2022)"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning and AI Foundations: Prediction, Causation, and Statistical Inference](https://media.licdn.com/dms/image/v2/C4E0DAQFivN9qt5wTUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647451672526?e=2147483647&amp;v=beta&amp;t=1gJsLL7cUCqa1Nc1gw7iGvkHzf3YyFFS7Q-cFEm-WHo)

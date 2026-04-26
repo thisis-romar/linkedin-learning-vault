@@ -14,7 +14,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHo0SYemZodQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1575307734721?e=2147483647&amp;v=beta&amp;t=Odtp2xzNapKfy4fzDoU_3Ma9xlfmtI-r_86iIdvq79g"
 linkedin_topic: DevOps
 learning_paths:
-  - Atlassian IT Service Management (ITSM) Professional Certificate
+  - '[[Atlassian IT Service Management (ITSM) Professional Certificate]]'
+next_courses:
+  - '[[IT Service Management Foundations- Problem Management]]'
+path_nav: '[{"path":"Atlassian IT Service Management (ITSM) Professional Certificate","position":1,"total":4,"prev":null,"next":"IT Service Management Foundations- Problem Management"}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![It Service Desk Service Management](https://media.licdn.com/dms/image/v2/C4E0DAQHo0SYemZodQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1575307734721?e=2147483647&amp;v=beta&amp;t=Odtp2xzNapKfy4fzDoU_3Ma9xlfmtI-r_86iIdvq79g)

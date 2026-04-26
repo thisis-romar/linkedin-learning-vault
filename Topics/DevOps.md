@@ -6,7 +6,7 @@ linkedin_topic: DevOps
 tags:
   - moc
   - topic/devops
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # DevOps
@@ -66,3 +66,7 @@ created: 2026-04-20
 - [[Agile Software Development- Scrum for Developers]] — 3 paths
 - [[Python Essential Training]] — 2 paths
 - [[Learning Kubernetes]] — 2 paths
+
+---
+
+Part of [[000 Map of Content]]

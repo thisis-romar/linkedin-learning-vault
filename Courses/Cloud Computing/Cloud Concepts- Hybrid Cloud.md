@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHea0Wo1GGy5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639684767566?e=2147483647&amp;v=beta&amp;t=H6TdJVJg9l0o4tZMDFgTIIT2cHKbPb7wZ3li2mpSQ0Q"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Foundations of Cloud Computing- Models, Platforms, Services, and Careers
+  - '[[Foundations of Cloud Computing- Models, Platforms, Services, and Careers]]'
+prev_courses:
+  - '[[Cloud Computing- Understanding Networking]]'
+next_courses:
+  - '[[Cloud Computing Careers and Certifications]]'
+path_nav: '[{"path":"Foundations of Cloud Computing- Models, Platforms, Services, and Careers","position":8,"total":9,"prev":"Cloud Computing- Understanding Networking","next":"Cloud Computing Careers and Certifications"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/cloud-administration
   - skill/hybrid-cloud
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Concepts: Hybrid Cloud](https://media.licdn.com/dms/image/v2/C560DAQHea0Wo1GGy5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639684767566?e=2147483647&amp;v=beta&amp;t=H6TdJVJg9l0o4tZMDFgTIIT2cHKbPb7wZ3li2mpSQ0Q)

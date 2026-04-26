@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHSc-vsuiJYPQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713559196213?e=2147483647&amp;v=beta&amp;t=jrQ_pSoJFLYwKslcPPX7LN4VshrKsRPwXLVnk5X9TbE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[AI Product Security- Foundations and Proactive Security for AI]]'
+path_nav: '[{"path":"Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning","position":6,"total":6,"prev":"AI Product Security- Foundations and Proactive Security for AI","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/cost-management
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Pricing and ROI: A Technical Breakdown](https://media.licdn.com/dms/image/v2/D560DAQHSc-vsuiJYPQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713559196213?e=2147483647&amp;v=beta&amp;t=jrQ_pSoJFLYwKslcPPX7LN4VshrKsRPwXLVnk5X9TbE)

@@ -15,14 +15,17 @@ github: "https://github.com/LinkedInLearning/advanced-python-3912165/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGl3s1fBLp7kg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732065162293?e=2147483647&amp;v=beta&amp;t=KbQYiJVRNDEiEEN-pdbOl9sdQXiL-VKGcEKbP35w7Wg"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Your Python Skills
+  - '[[Master Your Python Skills]]'
+next_courses:
+  - '[[Advanced Python- Classes and Functions]]'
+path_nav: '[{"path":"Master Your Python Skills","position":1,"total":11,"prev":null,"next":"Advanced Python- Classes and Functions"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Python](https://media.licdn.com/dms/image/v2/D4D0DAQGl3s1fBLp7kg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732065162293?e=2147483647&amp;v=beta&amp;t=KbQYiJVRNDEiEEN-pdbOl9sdQXiL-VKGcEKbP35w7Wg)

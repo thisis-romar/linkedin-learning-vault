@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-your-excel-skills
 course_count: 3
 linkedin_topics:
   - Data Science
-louvain_cluster: 9
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/data-science
@@ -29,7 +29,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Build Your Excel Skills
@@ -59,3 +59,7 @@ _Paths that share courses with this one:_
 - [[Working Smarter with Microsoft 365]] (1 shared courses)
 - [[Advance Your Skills with Excel Formulas and Functions]] (1 shared courses)
 - [[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

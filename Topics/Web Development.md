@@ -6,7 +6,7 @@ linkedin_topic: Web Development
 tags:
   - moc
   - topic/web-development
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Web Development
@@ -74,3 +74,7 @@ created: 2026-04-20
 - [[Sketching For Ux Designers]] — 3 paths
 - [[React- Authentication]] — 3 paths
 - [[Git Essential Training]] — 2 paths
+
+---
+
+Part of [[000 Map of Content]]

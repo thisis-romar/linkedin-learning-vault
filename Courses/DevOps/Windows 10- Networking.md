@@ -10,7 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG_rHbE8mg1-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687392262501?e=2147483647&amp;v=beta&amp;t=OT3G-Lelt6QAGcvzRwovRqebCT_u0MRSFLLGoWikm2Q"
 linkedin_topic: DevOps
 learning_paths:
-  - Explore a Career in IT Support
+  - '[[Explore a Career in IT Support]]'
+prev_courses:
+  - '[[Windows 10- Security]]'
+next_courses:
+  - '[[Troubleshooting Common PC Issues for Users]]'
+path_nav: '[{"path":"Explore a Career in IT Support","position":7,"total":11,"prev":"Windows 10- Security","next":"Troubleshooting Common PC Issues for Users"}]'
 path_count: 1
 tags:
   - course
@@ -18,7 +23,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows 10: Networking](https://media.licdn.com/dms/image/v2/D560DAQG_rHbE8mg1-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687392262501?e=2147483647&amp;v=beta&amp;t=OT3G-Lelt6QAGcvzRwovRqebCT_u0MRSFLLGoWikm2Q)

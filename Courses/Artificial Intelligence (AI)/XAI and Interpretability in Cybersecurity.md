@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEBmT8MHAC0jQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730853686120?e=2147483647&amp;v=beta&amp;t=kXWYc73q27p7IoTAWikZlhMs4hVZM5hFD6t-Jl7B4UI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Leverage AI as a Cybersecurity Analyst
+  - '[[Leverage AI as a Cybersecurity Analyst]]'
+prev_courses:
+  - '[[AI Product Security- Incident Response]]'
+next_courses:
+  - '[[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]]'
+path_nav: '[{"path":"Leverage AI as a Cybersecurity Analyst","position":5,"total":7,"prev":"AI Product Security- Incident Response","next":"Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![XAI and Interpretability in Cybersecurity](https://media.licdn.com/dms/image/v2/D560DAQEBmT8MHAC0jQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730853686120?e=2147483647&amp;v=beta&amp;t=kXWYc73q27p7IoTAWikZlhMs4hVZM5hFD6t-Jl7B4UI)

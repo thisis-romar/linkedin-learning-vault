@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/complete-your-first-project-in-R-38
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE-8a_4wXztkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709678710971?e=2147483647&amp;v=beta&amp;t=6wGBExSdBJB7ULQGD7PUbYyD-hg1ZOI3ThoKtfuD5bA"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in R
+  - '[[Advance Your Skills in R]]'
+prev_courses:
+  - '[[Complete Guide To R Wrangling Visualizing And Modeling Data]]'
+next_courses:
+  - '[[R for Data Science- Analysis and Visualization]]'
+path_nav: '[{"path":"Advance Your Skills in R","position":2,"total":8,"prev":"Complete Guide To R Wrangling Visualizing And Modeling Data","next":"R for Data Science- Analysis and Visualization"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/r-programming-language
   - skill/rstudio
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Your First Project in R](https://media.licdn.com/dms/image/v2/D560DAQE-8a_4wXztkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709678710971?e=2147483647&amp;v=beta&amp;t=6wGBExSdBJB7ULQGD7PUbYyD-hg1ZOI3ThoKtfuD5bA)

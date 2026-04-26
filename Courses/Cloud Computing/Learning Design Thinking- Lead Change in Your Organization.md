@@ -15,8 +15,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQH6qMgEZmMaBw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734556201647?e=2147483647&amp;v=beta&amp;t=u7UhVCyswBrZezY6_Yf1YQolO38XuATjf6mK15EOAXM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Master Digital Transformation
-  - LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader
+  - '[[Master Digital Transformation]]'
+  - '[[LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader]]'
+prev_courses:
+  - '[[Design Thinking- Implementing the Process]]'
+  - '[[Leading with Generative AI- Master Change Management for Success]]'
+next_courses:
+  - '[[Design Thinking- Prototyping]]'
+  - '[[Building Accountability into Your Culture]]'
+path_nav: '[{"path":"Master Digital Transformation","position":12,"total":13,"prev":"Design Thinking- Implementing the Process","next":"Design Thinking- Prototyping"},{"path":"LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader","position":9,"total":11,"prev":"Leading with Generative AI- Master Change Management for Success","next":"Building Accountability into Your Culture"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/design-thinking
   - skill/organizational-change-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Design Thinking: Lead Change in Your Organization](https://media.licdn.com/dms/image/v2/D4D0DAQH6qMgEZmMaBw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734556201647?e=2147483647&amp;v=beta&amp;t=u7UhVCyswBrZezY6_Yf1YQolO38XuATjf6mK15EOAXM)

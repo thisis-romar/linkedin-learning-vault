@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEwo_BeSeIl5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644609662926?e=2147483647&amp;v=beta&amp;t=LHDUl_dk1XwZV5AO-U_k688tnbWbsg49b0kSMJU1llQ"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Master Digital Transformation
-  - Digital Transformation for Tech Leaders
+  - '[[Master Digital Transformation]]'
+  - '[[Digital Transformation for Tech Leaders]]'
+prev_courses:
+  - '[[Cloud Computing Understanding Core Concepts]]'
+  - '[[Intelligent Automation Foundations]]'
+next_courses:
+  - '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+  - '[[IoT Foundations- Standards and Ecosystems]]'
+path_nav: '[{"path":"Master Digital Transformation","position":7,"total":13,"prev":"Cloud Computing Understanding Core Concepts","next":"Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines"},{"path":"Digital Transformation for Tech Leaders","position":6,"total":15,"prev":"Intelligent Automation Foundations","next":"IoT Foundations- Standards and Ecosystems"}]'
 path_count: 2
 tags:
   - course
@@ -25,7 +32,7 @@ tags:
   - topic/software-development
   - skill/internet-of-things-iot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![IoT Foundations: Fundamentals](https://media.licdn.com/dms/image/v2/C4E0DAQEwo_BeSeIl5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644609662926?e=2147483647&amp;v=beta&amp;t=LHDUl_dk1XwZV5AO-U_k688tnbWbsg49b0kSMJU1llQ)

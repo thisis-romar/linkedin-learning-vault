@@ -18,8 +18,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEQFgJ7wFPlyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704320950065?e=2147483647&amp;v=beta&amp;t=UjKqEFu_jc7UNY1rhU47dgBJ9Y1q-aWx3GUb5_qxraI"
 linkedin_topic: Data Science
 learning_paths:
-  - Build Your Wolfram Language Skills
-  - Machine Learning Statistical Foundations Professional Certificate by Wolfram Research
+  - '[[Build Your Wolfram Language Skills]]'
+  - '[[Machine Learning Statistical Foundations Professional Certificate by Wolfram Research]]'
+prev_courses:
+  - '[[Interacting with Blockchains in the Wolfram Language]]'
+  - '[[Machine Learning Foundations- Statistics]]'
+next_courses:
+  - '[[Building Blocks for Deep Learning in the Wolfram Language]]'
+  - null
+path_nav: '[{"path":"Build Your Wolfram Language Skills","position":7,"total":8,"prev":"Interacting with Blockchains in the Wolfram Language","next":"Building Blocks for Deep Learning in the Wolfram Language"},{"path":"Machine Learning Statistical Foundations Professional Certificate by Wolfram Research","position":6,"total":6,"prev":"Machine Learning Foundations- Statistics","next":null}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Built-in Machine Learning in the Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQEQFgJ7wFPlyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704320950065?e=2147483647&amp;v=beta&amp;t=UjKqEFu_jc7UNY1rhU47dgBJ9Y1q-aWx3GUb5_qxraI)

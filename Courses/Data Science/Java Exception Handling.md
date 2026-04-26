@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/java-exception-handling-2884226"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQHZ6d8egwHeEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627922020189?e=2147483647&amp;v=beta&amp;t=FV4yYg2MgveFeqnpH9GYQ-ZKwH9wpQuNT3HWaDygNR8"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Java Developer
+  - '[[Getting Started as a Java Developer]]'
+prev_courses:
+  - '[[Java Memory Management- Garbage Collection, JVM Tuning, and Spotting Memory Leaks]]'
+next_courses:
+  - '[[Java Algorithms]]'
+path_nav: '[{"path":"Getting Started as a Java Developer","position":8,"total":10,"prev":"Java Memory Management- Garbage Collection, JVM Tuning, and Spotting Memory Leaks","next":"Java Algorithms"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/exception-management
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Java Exception Handling](https://media.licdn.com/dms/image/v2/C4D0DAQHZ6d8egwHeEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627922020189?e=2147483647&amp;v=beta&amp;t=FV4yYg2MgveFeqnpH9GYQ-ZKwH9wpQuNT3HWaDygNR8)

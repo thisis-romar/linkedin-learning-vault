@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/c-sharp-advanced-object-oriented-pr
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFEKONg7FNiDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696534679389?e=2147483647&amp;v=beta&amp;t=Ve3tWqEBMkLSRk-m7x-KMhzhSvfdW7rMBasGSrwyQT0"
 linkedin_topic: Software Development
 learning_paths:
-  - C- Excellence- Architecting High-Performance Solutions
+  - '[[C- Excellence- Architecting High-Performance Solutions]]'
+prev_courses:
+  - '[[Advanced C- Language Features]]'
+next_courses:
+  - '[[Asynchronous Programming in C-]]'
+path_nav: '[{"path":"C- Excellence- Architecting High-Performance Solutions","position":4,"total":6,"prev":"Advanced C- Language Features","next":"Asynchronous Programming in C-"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced C#: Object-Oriented Programming](https://media.licdn.com/dms/image/v2/D560DAQFEKONg7FNiDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696534679389?e=2147483647&amp;v=beta&amp;t=Ve3tWqEBMkLSRk-m7x-KMhzhSvfdW7rMBasGSrwyQT0)

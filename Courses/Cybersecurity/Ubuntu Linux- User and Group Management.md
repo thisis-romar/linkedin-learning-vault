@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHWtw6_GGyO_Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669524687?e=2147483647&amp;v=beta&amp;t=3hDsELRr-8QbZ0aMN2K9AEyJ7vm_7n6VXu6_aiEBc0I"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Ubuntu Linux Professional Certificate by Canonical
+  - '[[Ubuntu Linux Professional Certificate by Canonical]]'
+prev_courses:
+  - '[[Ubuntu Linux- Storage Management]]'
+path_nav: '[{"path":"Ubuntu Linux Professional Certificate by Canonical","position":4,"total":4,"prev":"Ubuntu Linux- Storage Management","next":null}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +33,7 @@ tags:
   - skill/ubuntu
   - skill/user-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ubuntu Linux: User and Group Management](https://media.licdn.com/dms/image/v2/C4E0DAQHWtw6_GGyO_Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669524687?e=2147483647&amp;v=beta&amp;t=3hDsELRr-8QbZ0aMN2K9AEyJ7vm_7n6VXu6_aiEBc0I)

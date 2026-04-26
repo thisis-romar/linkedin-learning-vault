@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFhyrkzs0O68w/learning-public-crop_675_1200/B4EZZFzGY5HMAc-/0/1744927745867?e=2147483647&amp;v=beta&amp;t=GZYYWhPTrpn3kQRlH5-A2C5R5cv9OhwLjvuRg9QlvqI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning]]'
+next_courses:
+  - '[[Implementing a Data Strategy for Responsible AI]]'
+path_nav: '[{"path":"Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning","position":1,"total":7,"prev":null,"next":"Implementing a Data Strategy for Responsible AI"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Welcome To The Building Ai Products Implementing Responsible Ai Professional Certificate](https://media.licdn.com/dms/image/v2/D4E0DAQFhyrkzs0O68w/learning-public-crop_675_1200/B4EZZFzGY5HMAc-/0/1744927745867?e=2147483647&amp;v=beta&amp;t=GZYYWhPTrpn3kQRlH5-A2C5R5cv9OhwLjvuRg9QlvqI)

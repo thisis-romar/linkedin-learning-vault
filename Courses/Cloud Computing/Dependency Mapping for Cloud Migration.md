@@ -10,7 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQExFUbbwyl7gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702676695674?e=2147483647&amp;v=beta&amp;t=ZMqWSx9MWR75DowzCbSQcb0FxRVZ9syMDSIBN3hQ3AM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Introduction to Enterprise Cloud Migration Planning
+  - '[[Introduction to Enterprise Cloud Migration Planning]]'
+prev_courses:
+  - '[[Design a Cloud Migration Strategy]]'
+next_courses:
+  - '[[Planning and Implementing a Rapid Cloud Migration (RCM)]]'
+path_nav: '[{"path":"Introduction to Enterprise Cloud Migration Planning","position":3,"total":4,"prev":"Design a Cloud Migration Strategy","next":"Planning and Implementing a Rapid Cloud Migration (RCM)"}]'
 path_count: 1
 tags:
   - course
@@ -18,7 +23,7 @@ tags:
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Dependency Mapping for Cloud Migration](https://media.licdn.com/dms/image/v2/D4D0DAQExFUbbwyl7gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702676695674?e=2147483647&amp;v=beta&amp;t=ZMqWSx9MWR75DowzCbSQcb0FxRVZ9syMDSIBN3hQ3AM)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/testmu-ai-test-automation-professio
 course_count: 2
 linkedin_topics:
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 10
 tags:
   - professional-certificate
   - topic/software-development
@@ -25,7 +25,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # TestMu AI Test Automation Professional Certificate
@@ -51,3 +51,7 @@ _Paths that share courses with this one:_
 
 - [[The Top Skills Engineering Professionals Have Right Now]] (1 shared courses)
 - [[Getting Started with Software Testing]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Software Development]]

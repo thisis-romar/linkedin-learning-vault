@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQE51N9VyMW78g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619811804272?e=2147483647&amp;v=beta&amp;t=KaytQ8GK6AKu9vBw29OeSFAeiJAfF9Q2y1mVvFIGA04"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Dashboards and Data Viz in Power BI
+  - '[[Master Dashboards and Data Viz in Power BI]]'
+prev_courses:
+  - '[[Power BI Data Dashboards]]'
+next_courses:
+  - '[[Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals]]'
+path_nav: '[{"path":"Master Dashboards and Data Viz in Power BI","position":4,"total":6,"prev":"Power BI Data Dashboards","next":"Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/d3-js
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Power BI Custom Visuals with d3.js](https://media.licdn.com/dms/image/v2/C560DAQE51N9VyMW78g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619811804272?e=2147483647&amp;v=beta&amp;t=KaytQ8GK6AKu9vBw29OeSFAeiJAfF9Q2y1mVvFIGA04)

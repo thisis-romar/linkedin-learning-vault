@@ -18,9 +18,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEE981IlqLpkw/learning-public-crop_675_1200/B4EZW6KfLyG0AY-/0/1742585067102?e=2147483647&amp;v=beta&amp;t=7PKDQXLXCqk8_0WsWYakx0LWigxq0CMXCN8PUAZj4cQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning
-  - Become an AI Engineer
-  - Building Generative AI Skills for Developers
+  - '[[Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning]]'
+  - '[[Become an AI Engineer]]'
+  - '[[Building Generative AI Skills for Developers]]'
+prev_courses:
+  - '[[Integrating AI into the Product Architecture]]'
+  - '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
+  - '[[RAG Fine-Tuning- Advanced Techniques for Accuracy and Model Performance]]'
+next_courses:
+  - '[[AI Data Governance, Compliance, and Auditing for Developers]]'
+  - '[[Foundations Of Responsible Ai]]'
+  - null
+path_nav: '[{"path":"Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning","position":6,"total":7,"prev":"Integrating AI into the Product Architecture","next":"AI Data Governance, Compliance, and Auditing for Developers"},{"path":"Become an AI Engineer","position":9,"total":10,"prev":"Understanding Generative AI in Cloud Computing- Services and Use Cases","next":"Foundations Of Responsible Ai"},{"path":"Building Generative AI Skills for Developers","position":7,"total":7,"prev":"RAG Fine-Tuning- Advanced Techniques for Accuracy and Model Performance","next":null}]'
 path_count: 3
 tags:
   - course
@@ -32,7 +41,7 @@ tags:
   - skill/generative-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![GenAIOps Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQEE981IlqLpkw/learning-public-crop_675_1200/B4EZW6KfLyG0AY-/0/1742585067102?e=2147483647&amp;v=beta&amp;t=7PKDQXLXCqk8_0WsWYakx0LWigxq0CMXCN8PUAZj4cQ)

@@ -18,9 +18,18 @@ github: "https://github.com/LinkedInLearning/pyspark-essential-training-build-ro
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGsKtO4wEvWjw/learning-public-crop_675_1200/B56ZfrMgDbHQAY-/0/1751997613067?e=2147483647&amp;v=beta&amp;t=5401mig8RZRgtYV9iIGIkZRTFfk3zrwvzDtX7kGTPPo"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Collection
-  - Explore a Career in Data Engineering
-  - Advance Your Data Skills in Apache Spark
+  - '[[Introduction to Fundamental Skills for Data Work- Data Collection]]'
+  - '[[Explore a Career in Data Engineering]]'
+  - '[[Advance Your Data Skills in Apache Spark]]'
+prev_courses:
+  - '[[Data Cleaning and Manipulating with Python in Excel]]'
+  - '[[Learning SnowflakeDB]]'
+  - '[[Big Data Analytics with Hadoop and Apache Spark]]'
+next_courses:
+  - '[[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]'
+  - '[[Apache Kafka Essential Training- Getting Started]]'
+  - null
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Collection","position":4,"total":6,"prev":"Data Cleaning and Manipulating with Python in Excel","next":"Complete Guide to Python for Data Engineering- From Beginner to Advanced"},{"path":"Explore a Career in Data Engineering","position":5,"total":7,"prev":"Learning SnowflakeDB","next":"Apache Kafka Essential Training- Getting Started"},{"path":"Advance Your Data Skills in Apache Spark","position":6,"total":6,"prev":"Big Data Analytics with Hadoop and Apache Spark","next":null}]'
 path_count: 3
 tags:
   - course
@@ -31,7 +40,7 @@ tags:
   - skill/pyspark
   - skill/data-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![PySpark Essential Training: Introduction to Building Data Pipelines](https://media.licdn.com/dms/image/v2/D560DAQGsKtO4wEvWjw/learning-public-crop_675_1200/B56ZfrMgDbHQAY-/0/1751997613067?e=2147483647&amp;v=beta&amp;t=5401mig8RZRgtYV9iIGIkZRTFfk3zrwvzDtX7kGTPPo)

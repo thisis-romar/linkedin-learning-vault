@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGvr7XUO6wwyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695928337362?e=2147483647&amp;v=beta&amp;t=e0pwLKizaDt5vwqc-Tp3rM3jt02-QSku33L89K32mW8"
 linkedin_topic: Database Management
 learning_paths:
-  - Advance Your MS SQL Server Skills
+  - '[[Advance Your MS SQL Server Skills]]'
+prev_courses:
+  - '[[SQL Server 2022 Administration]]'
+next_courses:
+  - '[[SQL Server Integration Services]]'
+path_nav: '[{"path":"Advance Your MS SQL Server Skills","position":7,"total":9,"prev":"SQL Server 2022 Administration","next":"SQL Server Integration Services"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/sql
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL Server Containerization: Modern Deployment Strategies for Data-Driven Organizations](https://media.licdn.com/dms/image/v2/D560DAQGvr7XUO6wwyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695928337362?e=2147483647&amp;v=beta&amp;t=e0pwLKizaDt5vwqc-Tp3rM3jt02-QSku33L89K32mW8)

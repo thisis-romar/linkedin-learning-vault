@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHCgk8qhAKWLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117960994?e=2147483647&amp;v=beta&amp;t=xnZd_KNUpkZnUpNnG_V4fZRpJiYTSW3rZeV0-2pNDrE"
 linkedin_topic: Web Development
 learning_paths:
-  - Learn CSS
+  - '[[Learn CSS]]'
+prev_courses:
+  - '[[CSS- Display]]'
+next_courses:
+  - '[[CSS- Advanced Layouts with Grid]]'
+path_nav: '[{"path":"Learn CSS","position":8,"total":12,"prev":"CSS- Display","next":"CSS- Advanced Layouts with Grid"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/responsive-web-design
   - skill/css-flexbox
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Responsive Layouts with CSS Flexbox](https://media.licdn.com/dms/image/v2/C4E0DAQHCgk8qhAKWLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117960994?e=2147483647&amp;v=beta&amp;t=xnZd_KNUpkZnUpNnG_V4fZRpJiYTSW3rZeV0-2pNDrE)

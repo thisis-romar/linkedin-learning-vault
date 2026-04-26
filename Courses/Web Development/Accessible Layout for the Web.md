@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/accessible-layout-for-the-web-44880
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH23NLY2hQeNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712947676463?e=2147483647&amp;v=beta&amp;t=C-M4iKqJzuhkZ9Xse2yvyx_OVMdOoLjaRPSZ-F3OSYY"
 linkedin_topic: Web Development
 learning_paths:
-  - Build for Digital Accessibility
+  - '[[Build for Digital Accessibility]]'
+prev_courses:
+  - '[[Designing Accessible Components In Figma]]'
+next_courses:
+  - '[[Build an Image Captioning Tool for Visually Impaired Users with Gemini]]'
+path_nav: '[{"path":"Build for Digital Accessibility","position":6,"total":12,"prev":"Designing Accessible Components In Figma","next":"Build an Image Captioning Tool for Visually Impaired Users with Gemini"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/web-accessibility
   - skill/web-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Accessible Layout for the Web](https://media.licdn.com/dms/image/v2/D560DAQH23NLY2hQeNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712947676463?e=2147483647&amp;v=beta&amp;t=C-M4iKqJzuhkZ9Xse2yvyx_OVMdOoLjaRPSZ-F3OSYY)

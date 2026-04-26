@@ -16,14 +16,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEpgiTxu5Hhzg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718999721632?e=2147483647&amp;v=beta&amp;t=AXa-UVZXmn6BchOxkEdy32o4JsYaeLwHjHmRShYWw3I"
 linkedin_topic: DevOps
 learning_paths:
-  - Getting Started with DevOps
+  - '[[Getting Started with DevOps]]'
+prev_courses:
+  - '[[DevOps Foundations- Monitoring and Observability]]'
+path_nav: '[{"path":"Getting Started with DevOps","position":5,"total":5,"prev":"DevOps Foundations- Monitoring and Observability","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/devops
   - skill/devops
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![DevOps Foundations: Your First Project](https://media.licdn.com/dms/image/v2/D560DAQEpgiTxu5Hhzg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718999721632?e=2147483647&amp;v=beta&amp;t=AXa-UVZXmn6BchOxkEdy32o4JsYaeLwHjHmRShYWw3I)

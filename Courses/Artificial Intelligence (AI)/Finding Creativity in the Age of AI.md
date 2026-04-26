@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEXPGOJaQ0aBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727811801975?e=2147483647&amp;v=beta&amp;t=PK7TNiYwJAplnzDbWk2IXY5AFN6ULFSn5xss9ma0cV4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying Generative AI as a Creative Professional
-  - Understanding AI for Creative Professionals
+  - '[[Applying Generative AI as a Creative Professional]]'
+  - '[[Understanding AI for Creative Professionals]]'
+prev_courses:
+  - '[[Leveraging AI in Adobe Photoshop and Creative Cloud (2023)]]'
+  - '[[What Is Generative AI-]]'
+next_courses:
+  - null
+  - '[[Ethics in the Age of Generative AI]]'
+path_nav: '[{"path":"Applying Generative AI as a Creative Professional","position":7,"total":7,"prev":"Leveraging AI in Adobe Photoshop and Creative Cloud (2023)","next":null},{"path":"Understanding AI for Creative Professionals","position":3,"total":7,"prev":"What Is Generative AI-","next":"Ethics in the Age of Generative AI"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/creativity
   - skill/creativity-skills
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Finding Creativity in the Age of AI](https://media.licdn.com/dms/image/v2/D560DAQEXPGOJaQ0aBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727811801975?e=2147483647&amp;v=beta&amp;t=PK7TNiYwJAplnzDbWk2IXY5AFN6ULFSn5xss9ma0cV4)

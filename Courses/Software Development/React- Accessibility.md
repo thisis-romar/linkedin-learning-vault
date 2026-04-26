@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGvZdsTgi_Srg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608665304497?e=2147483647&amp;v=beta&amp;t=TiWXpu9PMDzy_JO8gRLrc3dEymnfPzXqIAwSfFYZ5ns"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore React.js Development
+  - '[[Explore React.js Development]]'
+prev_courses:
+  - '[[React Hooks]]'
+next_courses:
+  - '[[Building Modern Projects with React]]'
+path_nav: '[{"path":"Explore React.js Development","position":5,"total":8,"prev":"React Hooks","next":"Building Modern Projects with React"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/react-js
   - skill/accessible-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React: Accessibility](https://media.licdn.com/dms/image/v2/C4E0DAQGvZdsTgi_Srg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608665304497?e=2147483647&amp;v=beta&amp;t=TiWXpu9PMDzy_JO8gRLrc3dEymnfPzXqIAwSfFYZ5ns)

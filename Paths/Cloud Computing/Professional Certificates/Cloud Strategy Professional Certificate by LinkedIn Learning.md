@@ -57,7 +57,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Cloud Strategy Professional Certificate by LinkedIn Learning
@@ -95,3 +95,7 @@ _Paths that share courses with this one:_
 - [[Build an Enterprise Cloud Architecture]] (2 shared courses)
 - [[Master Digital Transformation]] (1 shared courses)
 - [[Foundations of Cloud Computing- Models, Platforms, Services, and Careers]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

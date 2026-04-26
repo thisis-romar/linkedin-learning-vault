@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGznvMzGXwAWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671650523568?e=2147483647&amp;v=beta&amp;t=GSpV3J8ZSdkcFSJuXMRaQ3Fr2g_ItNr4Hf7ehug0as8"
 linkedin_topic: Software Development
 learning_paths:
-  - C- Excellence- Architecting High-Performance Solutions
+  - '[[C- Excellence- Architecting High-Performance Solutions]]'
+prev_courses:
+  - '[[Asynchronous Programming in C-]]'
+path_nav: '[{"path":"C- Excellence- Architecting High-Performance Solutions","position":6,"total":6,"prev":"Asynchronous Programming in C-","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/framework-design
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C# Framework Design](https://media.licdn.com/dms/image/v2/C560DAQGznvMzGXwAWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671650523568?e=2147483647&amp;v=beta&amp;t=GSpV3J8ZSdkcFSJuXMRaQ3Fr2g_ItNr4Hf7ehug0as8)

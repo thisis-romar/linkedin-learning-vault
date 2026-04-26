@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQH2K0uOcqWipQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568061261682?e=2147483647&amp;v=beta&amp;t=KNCfW_gEMKn0nvczOwD78cDU4jVOIIGJeaNcNnPvOK0"
 linkedin_topic: DevOps
 learning_paths:
-  - Master C++
+  - '[[Master C++]]'
+prev_courses:
+  - '[[C++ Design Patterns- Behavioral]]'
+next_courses:
+  - '[[C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices]]'
+path_nav: '[{"path":"Master C++","position":5,"total":6,"prev":"C++ Design Patterns- Behavioral","next":"C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/design-patterns
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C++ Design Patterns: Creational](https://media.licdn.com/dms/image/v2/C4E0DAQH2K0uOcqWipQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568061261682?e=2147483647&amp;v=beta&amp;t=KNCfW_gEMKn0nvczOwD78cDU4jVOIIGJeaNcNnPvOK0)

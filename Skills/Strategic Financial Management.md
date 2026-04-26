@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/strategic-financial-management
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Strategic Financial Management

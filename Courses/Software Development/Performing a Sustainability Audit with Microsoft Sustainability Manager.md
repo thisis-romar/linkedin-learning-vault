@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHf-0PhG9Y_ng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727465768247?e=2147483647&amp;v=beta&amp;t=DhQhKXR9EFQJMXbRnRvBk7BWBINjCJP-Orp0RR_bJwA"
 linkedin_topic: Software Development
 learning_paths:
-  - Career Essentials in Sustainable Tech by Microsoft and LinkedIn
+  - '[[Career Essentials in Sustainable Tech by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Introduction to ESG- Environmental, Social, and Governance]]'
+path_nav: '[{"path":"Career Essentials in Sustainable Tech by Microsoft and LinkedIn","position":7,"total":7,"prev":"Introduction to ESG- Environmental, Social, and Governance","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/sustainability
   - skill/microsoft-s-cloud-for-sustainability
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Performing a Sustainability Audit with Microsoft Sustainability Manager](https://media.licdn.com/dms/image/v2/D4E0DAQHf-0PhG9Y_ng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727465768247?e=2147483647&amp;v=beta&amp;t=DhQhKXR9EFQJMXbRnRvBk7BWBINjCJP-Orp0RR_bJwA)

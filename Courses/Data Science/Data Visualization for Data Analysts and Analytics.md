@@ -10,19 +10,34 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFZjD_YqAd38g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719009007927?e=2147483647&amp;v=beta&amp;t=5_Z11HxxtZlZAkEassl49FrQLVMx6OmLgcrPumaNTMI"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career in Data Analysis
-  - Master the Concepts of Data Visualization and Storytelling
-  - Become a Business Intelligence Specialist
-  - Career Essentials in Data Analysis by Microsoft and LinkedIn
-  - Moving from Data Scientist to Data Analyst
-  - Advance Your Business Analytics Skills
+  - '[[Explore a Career in Data Analysis]]'
+  - '[[Master the Concepts of Data Visualization and Storytelling]]'
+  - '[[Become a Business Intelligence Specialist]]'
+  - '[[Career Essentials in Data Analysis by Microsoft and LinkedIn]]'
+  - '[[Moving from Data Scientist to Data Analyst]]'
+  - '[[Advance Your Business Analytics Skills]]'
+prev_courses:
+  - '[[Learning Data Analytics- 1 Foundations]]'
+  - '[[Data Visualization- Best Practices]]'
+  - '[[Marketing Analytics- Setting and Measuring KPIs]]'
+  - '[[Data Analytics for Business Professionals]]'
+  - '[[Python for Data Analysis- Solve Real-World Challenges]]'
+  - '[[Data Science Foundations- Data Assessment for Predictive Modeling]]'
+next_courses:
+  - null
+  - '[[Advanced Data Visualizations- 12 Uncommon Plot Types and How to Use Them]]'
+  - '[[Power BI- Integrating AI]]'
+  - null
+  - '[[Python Statistics Essential Training]]'
+  - null
+path_nav: '[{"path":"Explore a Career in Data Analysis","position":6,"total":6,"prev":"Learning Data Analytics- 1 Foundations","next":null},{"path":"Master the Concepts of Data Visualization and Storytelling","position":5,"total":7,"prev":"Data Visualization- Best Practices","next":"Advanced Data Visualizations- 12 Uncommon Plot Types and How to Use Them"},{"path":"Become a Business Intelligence Specialist","position":8,"total":9,"prev":"Marketing Analytics- Setting and Measuring KPIs","next":"Power BI- Integrating AI"},{"path":"Career Essentials in Data Analysis by Microsoft and LinkedIn","position":5,"total":5,"prev":"Data Analytics for Business Professionals","next":null},{"path":"Moving from Data Scientist to Data Analyst","position":4,"total":10,"prev":"Python for Data Analysis- Solve Real-World Challenges","next":"Python Statistics Essential Training"},{"path":"Advance Your Business Analytics Skills","position":11,"total":11,"prev":"Data Science Foundations- Data Assessment for Predictive Modeling","next":null}]'
 path_count: 6
 tags:
   - course
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Visualization for Data Analysts and Analytics](https://media.licdn.com/dms/image/v2/D560DAQFZjD_YqAd38g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719009007927?e=2147483647&amp;v=beta&amp;t=5_Z11HxxtZlZAkEassl49FrQLVMx6OmLgcrPumaNTMI)

@@ -8,15 +8,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQH1Qv7gLQA72g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629497577555?e=2147483647&amp;v=beta&amp;t=YJFTy1hB76mO1ocVwbLW6WL6S59o3Vp67KeVBa8LANQ"
 linkedin_topic: Software Development
 learning_paths:
-  - Exploring a Career in Interaction Design
-  - Advance Your Skills in User Experience Design
+  - '[[Exploring a Career in Interaction Design]]'
+  - '[[Advance Your Skills in User Experience Design]]'
+prev_courses:
+  - null
+  - '[[Practical Accessibility For Designers]]'
+next_courses:
+  - '[[Interaction Design- Structure]]'
+  - '[[Design Powered by Data- Getting Started with UX Web Analytics (2022)]]'
+path_nav: '[{"path":"Exploring a Career in Interaction Design","position":1,"total":9,"prev":null,"next":"Interaction Design- Structure"},{"path":"Advance Your Skills in User Experience Design","position":5,"total":9,"prev":"Practical Accessibility For Designers","next":"Design Powered by Data- Getting Started with UX Web Analytics (2022)"}]'
 path_count: 2
 tags:
   - course
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ux Foundations Interaction Design](https://media.licdn.com/dms/image/v2/C4E0DAQH1Qv7gLQA72g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629497577555?e=2147483647&amp;v=beta&amp;t=YJFTy1hB76mO1ocVwbLW6WL6S59o3Vp67KeVBa8LANQ)

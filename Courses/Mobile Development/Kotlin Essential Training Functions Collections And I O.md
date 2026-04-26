@@ -15,7 +15,10 @@ github: "https://github.com/LinkedInLearning/kotlin-essential-training-functions
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHQxXohmsZEgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650999446186?e=2147483647&amp;v=beta&amp;t=012dHBeTDcwco_mvjkWz0aVST5nrbThJnBPW1sO0Ic8"
 linkedin_topic: Mobile Development
 learning_paths:
-  - Kotlin Professional Certificate by JetBrains
+  - '[[Kotlin Professional Certificate by JetBrains]]'
+next_courses:
+  - '[[Kotlin Essential Training- Object-Oriented and Async Code]]'
+path_nav: '[{"path":"Kotlin Professional Certificate by JetBrains","position":1,"total":4,"prev":null,"next":"Kotlin Essential Training- Object-Oriented and Async Code"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - topic/software-development
   - skill/kotlin
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Kotlin Essential Training Functions Collections And I O](https://media.licdn.com/dms/image/v2/C560DAQHQxXohmsZEgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650999446186?e=2147483647&amp;v=beta&amp;t=012dHBeTDcwco_mvjkWz0aVST5nrbThJnBPW1sO0Ic8)

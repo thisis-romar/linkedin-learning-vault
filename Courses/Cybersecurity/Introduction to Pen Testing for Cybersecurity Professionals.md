@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEga5DedSCCqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675979486651?e=2147483647&amp;v=beta&amp;t=_3DOw3h4aRFdaPOGdhjd1Xm4fVL03-WFlyps9eXi904"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become a Penetration Tester
+  - '[[Become a Penetration Tester]]'
+prev_courses:
+  - '[[Cybersecurity Careers- Become a Penetration Tester]]'
+next_courses:
+  - '[[Penetration Testing Essential Training]]'
+path_nav: '[{"path":"Become a Penetration Tester","position":2,"total":8,"prev":"Cybersecurity Careers- Become a Penetration Tester","next":"Penetration Testing Essential Training"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/penetration-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Pen Testing for Cybersecurity Professionals](https://media.licdn.com/dms/image/v2/C4E0DAQEga5DedSCCqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675979486651?e=2147483647&amp;v=beta&amp;t=_3DOw3h4aRFdaPOGdhjd1Xm4fVL03-WFlyps9eXi904)

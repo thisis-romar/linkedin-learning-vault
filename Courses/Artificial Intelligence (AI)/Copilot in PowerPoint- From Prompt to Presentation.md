@@ -10,15 +10,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGEngZpbDXFcg/learning-public-crop_675_1200/B56ZrgPqFsLcAg-/0/1764698792524?e=2147483647&amp;v=beta&amp;t=3fcELqM067qhe387UsFyHPvgwoC-XMJgTsh3pYph7Co"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build Your Generative AI Productivity Skills with Microsoft and LinkedIn
-  - Microsoft Copilot for Productivity by Microsoft and LinkedIn
+  - '[[Build Your Generative AI Productivity Skills with Microsoft and LinkedIn]]'
+  - '[[Microsoft Copilot for Productivity by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Integrating Generative AI into the Creative Process]]'
+  - '[[Excel with Copilot- AI-Driven Data Analysis]]'
+next_courses:
+  - '[[Excel with Copilot- AI-Driven Data Analysis]]'
+  - null
+path_nav: '[{"path":"Build Your Generative AI Productivity Skills with Microsoft and LinkedIn","position":4,"total":5,"prev":"Integrating Generative AI into the Creative Process","next":"Excel with Copilot- AI-Driven Data Analysis"},{"path":"Microsoft Copilot for Productivity by Microsoft and LinkedIn","position":7,"total":7,"prev":"Excel with Copilot- AI-Driven Data Analysis","next":null}]'
 path_count: 2
 tags:
   - course
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Copilot in PowerPoint: From Prompt to Presentation](https://media.licdn.com/dms/image/v2/D560DAQGEngZpbDXFcg/learning-public-crop_675_1200/B56ZrgPqFsLcAg-/0/1764698792524?e=2147483647&amp;v=beta&amp;t=3fcELqM067qhe387UsFyHPvgwoC-XMJgTsh3pYph7Co)

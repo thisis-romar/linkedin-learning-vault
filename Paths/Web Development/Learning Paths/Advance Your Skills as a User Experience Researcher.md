@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-as-a-user-exper
 course_count: 7
 linkedin_topics:
   - Web Development
-louvain_cluster: 12
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/web-development
@@ -45,7 +45,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Skills as a User Experience Researcher
@@ -75,3 +75,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Advance Your Skills in User Experience Design]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Web Development]]

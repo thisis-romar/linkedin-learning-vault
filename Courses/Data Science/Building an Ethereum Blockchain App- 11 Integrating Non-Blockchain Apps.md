@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQGLbdUj13DFng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629737907530?e=2147483647&amp;v=beta&amp;t=nHR05oydI0A59mbjG8gmXaveqvFCOm7E5dEprnF9mI0"
 linkedin_topic: Data Science
 learning_paths:
-  - Build an Ethereum Blockchain App
-  - Become a Blockchain Developer
+  - '[[Build an Ethereum Blockchain App]]'
+  - '[[Become a Blockchain Developer]]'
+prev_courses:
+  - '[[Building an Ethereum Blockchain App- 10 Deployment and Maintenance]]'
+  - '[[Building an Ethereum Blockchain App- 10 Deployment and Maintenance]]'
+next_courses:
+  - null
+  - '[[Blockchain for Developers- Hyperledger Fabric on Azure]]'
+path_nav: '[{"path":"Build an Ethereum Blockchain App","position":11,"total":11,"prev":"Building an Ethereum Blockchain App- 10 Deployment and Maintenance","next":null},{"path":"Become a Blockchain Developer","position":11,"total":14,"prev":"Building an Ethereum Blockchain App- 10 Deployment and Maintenance","next":"Blockchain for Developers- Hyperledger Fabric on Azure"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building an Ethereum Blockchain App: 11 Integrating Non-Blockchain Apps](https://media.licdn.com/dms/image/v2/C4D0DAQGLbdUj13DFng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629737907530?e=2147483647&amp;v=beta&amp;t=nHR05oydI0A59mbjG8gmXaveqvFCOm7E5dEprnF9mI0)

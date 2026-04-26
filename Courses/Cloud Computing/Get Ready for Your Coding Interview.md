@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFrq1wSWkhVZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634577405359?e=2147483647&amp;v=beta&amp;t=FpZTEA6FHlVRbIXMqcm5AidQewzVxvjD3a0ILxXuc_o"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Managing your Career as a Developer
+  - '[[Managing your Career as a Developer]]'
+prev_courses:
+  - '[[Writing a Tech Resume]]'
+next_courses:
+  - '[[Succeeding in Web Development- Full Stack and Front End]]'
+path_nav: '[{"path":"Managing your Career as a Developer","position":2,"total":8,"prev":"Writing a Tech Resume","next":"Succeeding in Web Development- Full Stack and Front End"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/interview-preparation
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Get Ready for Your Coding Interview](https://media.licdn.com/dms/image/v2/C4E0DAQFrq1wSWkhVZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634577405359?e=2147483647&amp;v=beta&amp;t=FpZTEA6FHlVRbIXMqcm5AidQewzVxvjD3a0ILxXuc_o)

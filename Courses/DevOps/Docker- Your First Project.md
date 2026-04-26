@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/docker-your-first-project-4485003"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHjKrL64jLnaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701991509593?e=2147483647&amp;v=beta&amp;t=hCiiqB_dyO1JNWdc_-KIeNorA1CSObEYz-J49JpeeZQ"
 linkedin_topic: DevOps
 learning_paths:
-  - Docker Foundations Professional Certificate
+  - '[[Docker Foundations Professional Certificate]]'
+prev_courses:
+  - '[[Learning Docker]]'
+next_courses:
+  - '[[Learning Docker Compose]]'
+path_nav: '[{"path":"Docker Foundations Professional Certificate","position":2,"total":3,"prev":"Learning Docker","next":"Learning Docker Compose"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/network-and-system-administration
   - skill/docker-products
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Docker: Your First Project](https://media.licdn.com/dms/image/v2/D560DAQHjKrL64jLnaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701991509593?e=2147483647&amp;v=beta&amp;t=hCiiqB_dyO1JNWdc_-KIeNorA1CSObEYz-J49JpeeZQ)

@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF5PQbuYzhUSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661967949779?e=2147483647&amp;v=beta&amp;t=5UFJGwsW3xQouKKUNOBApjH7FqX8tKzFLCk5GbEHcFg"
 linkedin_topic: Data Science
 learning_paths:
-  - Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)
+  - '[[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)]]'
+prev_courses:
+  - '[[Excel- Introduction to Charts and Graphs]]'
+path_nav: '[{"path":"Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)","position":7,"total":7,"prev":"Excel- Introduction to Charts and Graphs","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/microsoft-office
   - skill/microsoft-365
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps) Cert Prep](https://media.licdn.com/dms/image/v2/C560DAQF5PQbuYzhUSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661967949779?e=2147483647&amp;v=beta&amp;t=5UFJGwsW3xQouKKUNOBApjH7FqX8tKzFLCk5GbEHcFg)

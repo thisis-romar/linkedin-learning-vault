@@ -7,7 +7,7 @@ course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -47,7 +47,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Transform Your Programming with AI Coding Tools
@@ -81,3 +81,7 @@ _Paths that share courses with this one:_
 - [[Career Essentials in GitHub Copilot Professional Certificate]] (2 shared courses)
 - [[Learn Vibe Coding- Build Apps with AI-Powered Coding]] (1 shared courses)
 - [[Building Generative AI Skills for Web Developers]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

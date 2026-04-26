@@ -18,9 +18,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFEZRGBDXpACg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708559021759?e=2147483647&amp;v=beta&amp;t=ZeBU9WKvFl8bsqczkk0x86BBL5bBcNP5Vxeht0v-_7o"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Become an AI Engineer
-  - Building Generative AI Skills for Developers
-  - Master Retrieval-Augmented Generation (RAG)
+  - '[[Become an AI Engineer]]'
+  - '[[Building Generative AI Skills for Developers]]'
+  - '[[Master Retrieval-Augmented Generation (RAG)]]'
+prev_courses:
+  - '[[The AI Ecosystem for Developers- Models, Datasets, and APIs]]'
+  - '[[Generative AI- Working with Large Language Models]]'
+  - '[[Generative AI- Introduction to Large Language Models]]'
+next_courses:
+  - '[[Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications]]'
+  - '[[Advanced RAG Applications with Vector Databases]]'
+  - '[[Advanced RAG Applications with Vector Databases]]'
+path_nav: '[{"path":"Become an AI Engineer","position":5,"total":10,"prev":"The AI Ecosystem for Developers- Models, Datasets, and APIs","next":"Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications"},{"path":"Building Generative AI Skills for Developers","position":4,"total":7,"prev":"Generative AI- Working with Large Language Models","next":"Advanced RAG Applications with Vector Databases"},{"path":"Master Retrieval-Augmented Generation (RAG)","position":4,"total":7,"prev":"Generative AI- Introduction to Large Language Models","next":"Advanced RAG Applications with Vector Databases"}]'
 path_count: 3
 tags:
   - course
@@ -31,7 +40,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![LLM Foundations: Vector Databases for Caching and Retrieval Augmented Generation (RAG)](https://media.licdn.com/dms/image/v2/D560DAQFEZRGBDXpACg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708559021759?e=2147483647&amp;v=beta&amp;t=ZeBU9WKvFl8bsqczkk0x86BBL5bBcNP5Vxeht0v-_7o)

@@ -19,8 +19,15 @@ github: "https://github.com/LinkedInLearning/complete-guide-to-data-lakes-and-la
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQElOqYYEDkjrA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723753479181?e=2147483647&amp;v=beta&amp;t=wBOLtenTAKhLM4I2eXPz02P3sfkYp8m3Z_q6folBx0g"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Data Engineering Skills
-  - Introduction to Fundamental Skills for Data Work- Data Storage
+  - '[[Advance Your Data Engineering Skills]]'
+  - '[[Introduction to Fundamental Skills for Data Work- Data Storage]]'
+prev_courses:
+  - '[[Fundamentals of Data Transformation for Data Engineering]]'
+  - '[[NoSQL Essential Training]]'
+next_courses:
+  - '[[Learning Apache Airflow]]'
+  - '[[Data Mesh Architecture- Core Concepts]]'
+path_nav: '[{"path":"Advance Your Data Engineering Skills","position":5,"total":10,"prev":"Fundamentals of Data Transformation for Data Engineering","next":"Learning Apache Airflow"},{"path":"Introduction to Fundamental Skills for Data Work- Data Storage","position":5,"total":6,"prev":"NoSQL Essential Training","next":"Data Mesh Architecture- Core Concepts"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/data-engineering
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide to Data Lakes and Lakehouses](https://media.licdn.com/dms/image/v2/D4E0DAQElOqYYEDkjrA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723753479181?e=2147483647&amp;v=beta&amp;t=wBOLtenTAKhLM4I2eXPz02P3sfkYp8m3Z_q6folBx0g)

@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF4NEWWGf1tcQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687557331718?e=2147483647&amp;v=beta&amp;t=MABpY_1ytFXWM_92NTshGo6LrB2NOjQ5Dowgyzk1ErM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying Generative AI as a Creative Professional
+  - '[[Applying Generative AI as a Creative Professional]]'
+prev_courses:
+  - '[[Midjourney- Tips and Techniques for Creating Images]]'
+next_courses:
+  - '[[Adobe Firefly Essential Training (2024)]]'
+path_nav: '[{"path":"Applying Generative AI as a Creative Professional","position":4,"total":7,"prev":"Midjourney- Tips and Techniques for Creating Images","next":"Adobe Firefly Essential Training (2024)"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/stable-diffusion
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Stable Diffusion: Tips, Tricks, and Techniques](https://media.licdn.com/dms/image/v2/D560DAQF4NEWWGf1tcQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687557331718?e=2147483647&amp;v=beta&amp;t=MABpY_1ytFXWM_92NTshGo6LrB2NOjQ5Dowgyzk1ErM)

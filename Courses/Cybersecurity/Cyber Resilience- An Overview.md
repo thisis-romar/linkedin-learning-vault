@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHbHMaU8WFxwg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713219819241?e=2147483647&amp;v=beta&amp;t=A-KRjNf1GHWbuWFlHy5uBExiDkXkNus7ooIAJpjK8tc"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Navigating the Cybersecurity Threat Landscape
+  - '[[Navigating the Cybersecurity Threat Landscape]]'
+prev_courses:
+  - '[[Cybersecurity- Key Policies and Resources]]'
+next_courses:
+  - '[[Transitioning to a Career in Cybersecurity]]'
+path_nav: '[{"path":"Navigating the Cybersecurity Threat Landscape","position":7,"total":8,"prev":"Cybersecurity- Key Policies and Resources","next":"Transitioning to a Career in Cybersecurity"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cyber Resilience: An Overview](https://media.licdn.com/dms/image/v2/D560DAQHbHMaU8WFxwg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713219819241?e=2147483647&amp;v=beta&amp;t=A-KRjNf1GHWbuWFlHy5uBExiDkXkNus7ooIAJpjK8tc)

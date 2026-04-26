@@ -35,7 +35,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Data Engineering Professional Certificate by Snowflake
@@ -64,3 +64,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Generative AI Professional Certificate by Snowflake]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

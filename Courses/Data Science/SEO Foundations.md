@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFcaT0OrfFkgg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651603813925?e=2147483647&amp;v=beta&amp;t=DzhR43s2JaWsBMj857tzPBuHEztpctQt9lZen-U-uH4"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance as a Digital Marketing Specialist
+  - '[[Advance as a Digital Marketing Specialist]]'
+prev_courses:
+  - '[[Marketing Foundations]]'
+next_courses:
+  - '[[Social Media Marketing Foundations]]'
+path_nav: '[{"path":"Advance as a Digital Marketing Specialist","position":3,"total":9,"prev":"Marketing Foundations","next":"Social Media Marketing Foundations"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/search-engine-optimization-seo
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SEO Foundations](https://media.licdn.com/dms/image/v2/C560DAQFcaT0OrfFkgg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651603813925?e=2147483647&amp;v=beta&amp;t=DzhR43s2JaWsBMj857tzPBuHEztpctQt9lZen-U-uH4)

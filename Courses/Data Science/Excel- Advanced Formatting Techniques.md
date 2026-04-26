@@ -16,15 +16,22 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEeekevgHLNKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648232416811?e=2147483647&amp;v=beta&amp;t=3d1GrCDeBd1uCR_OTTY1C9ZeRNk7dseBod8SHKkMlWQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Build Your Excel Skills
-  - Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)
+  - '[[Build Your Excel Skills]]'
+  - '[[Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)]]'
+prev_courses:
+  - '[[Excel- Advanced Formulas and Functions (2023)]]'
+  - '[[Excel- Advanced Formulas and Functions (2023)]]'
+next_courses:
+  - null
+  - '[[Excel- PivotTables in Depth]]'
+path_nav: '[{"path":"Build Your Excel Skills","position":3,"total":3,"prev":"Excel- Advanced Formulas and Functions (2023)","next":null},{"path":"Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)","position":4,"total":7,"prev":"Excel- Advanced Formulas and Functions (2023)","next":"Excel- PivotTables in Depth"}]'
 path_count: 2
 tags:
   - course
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel: Advanced Formatting Techniques](https://media.licdn.com/dms/image/v2/C560DAQEeekevgHLNKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648232416811?e=2147483647&amp;v=beta&amp;t=3d1GrCDeBd1uCR_OTTY1C9ZeRNk7dseBod8SHKkMlWQ)

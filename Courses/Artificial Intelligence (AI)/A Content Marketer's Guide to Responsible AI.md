@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGJNpyyGwdSZA/learning-public-crop_675_1200/B4DZTdu_f4HIAY-/0/1738886871620?e=2147483647&amp;v=beta&amp;t=Tt-MJLQOKxFKY9uv_CwJP9wXfoFmyOYuZleK_h3sybA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Generative AI for Marketing Professional Certificate by the American Marketing Association
+  - '[[Generative AI for Marketing Professional Certificate by the American Marketing Association]]'
+prev_courses:
+  - '[[Introduction To Prompt Engineering For Generative Ai]]'
+next_courses:
+  - '[[Generative AI for Digital Marketers]]'
+path_nav: '[{"path":"Generative AI for Marketing Professional Certificate by the American Marketing Association","position":3,"total":6,"prev":"Introduction To Prompt Engineering For Generative Ai","next":"Generative AI for Digital Marketers"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/content-marketing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![A Content Marketer's Guide to Responsible AI](https://media.licdn.com/dms/image/v2/D4D0DAQGJNpyyGwdSZA/learning-public-crop_675_1200/B4DZTdu_f4HIAY-/0/1738886871620?e=2147483647&amp;v=beta&amp;t=Tt-MJLQOKxFKY9uv_CwJP9wXfoFmyOYuZleK_h3sybA)

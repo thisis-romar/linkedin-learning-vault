@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQE1LvNesh6fIg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663090796489?e=2147483647&amp;v=beta&amp;t=JOjohJQBaSeQdeEFF8-U2hUKzgAYfE42OHHHhoISkoA"
 linkedin_topic: Database Management
 learning_paths:
-  - Develop Your NoSQL Skills
+  - '[[Develop Your NoSQL Skills]]'
+prev_courses:
+  - '[[Introduction to Neo4j]]'
+next_courses:
+  - '[[Redis Essential Training]]'
+path_nav: '[{"path":"Develop Your NoSQL Skills","position":5,"total":10,"prev":"Introduction to Neo4j","next":"Redis Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/neo4j
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Graph Databases: Neo4j for Complex Data Relationships](https://media.licdn.com/dms/image/v2/C4E0DAQE1LvNesh6fIg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663090796489?e=2147483647&amp;v=beta&amp;t=JOjohJQBaSeQdeEFF8-U2hUKzgAYfE42OHHHhoISkoA)

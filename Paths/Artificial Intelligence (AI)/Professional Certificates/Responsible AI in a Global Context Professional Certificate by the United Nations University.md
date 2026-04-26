@@ -29,7 +29,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Responsible AI in a Global Context Professional Certificate by the United Nations University
@@ -49,3 +49,7 @@ created: '2026-04-20'
 ## Topics
 
 - [[Artificial Intelligence (AI)]]
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

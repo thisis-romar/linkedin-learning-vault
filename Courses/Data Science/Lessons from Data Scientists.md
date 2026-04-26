@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFDTgmJbDLlAQ/learning-public-crop_675_1200/B4EZqDSp8WHMAc-/0/1763139297349?e=2147483647&amp;v=beta&amp;t=x-2C_6seIZ8nzty9Lxrb2i75ceqBldRUwkfHSNNpt9s"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Data Scientist
+  - '[[Become a Data Scientist]]'
+prev_courses:
+  - '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+path_nav: '[{"path":"Become a Data Scientist","position":11,"total":11,"prev":"Data Literacy Exploring And Describing Data In An Ai World","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Lessons from Data Scientists](https://media.licdn.com/dms/image/v2/D4E0DAQFDTgmJbDLlAQ/learning-public-crop_675_1200/B4EZqDSp8WHMAc-/0/1763139297349?e=2147483647&amp;v=beta&amp;t=x-2C_6seIZ8nzty9Lxrb2i75ceqBldRUwkfHSNNpt9s)

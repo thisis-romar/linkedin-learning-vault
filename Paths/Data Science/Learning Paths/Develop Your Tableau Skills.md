@@ -33,7 +33,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Develop Your Tableau Skills
@@ -63,3 +63,7 @@ _Paths that share courses with this one:_
 - [[Become a Business Intelligence Specialist]] (1 shared courses)
 - [[Moving from Data Analyst to Data Scientist]] (1 shared courses)
 - [[Advance Your Business Analytics Skills]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

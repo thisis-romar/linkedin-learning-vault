@@ -7,7 +7,7 @@ course_count: 6
 linkedin_topics:
   - Data Science
   - Database Management
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/data-science
@@ -43,7 +43,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Introduction to Fundamental Skills for Data Work: Data Management
@@ -77,3 +77,7 @@ _Paths that share courses with this one:_
 - [[Advance Your Database Administration Skills]] (2 shared courses)
 - [[Working with Data- Collecting, Processing, and Storing Data for AI]] (1 shared courses)
 - [[Data Engineering Foundations Professional Certificate by Astronomer]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

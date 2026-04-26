@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHcNdXQfxQLtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661796832117?e=2147483647&amp;v=beta&amp;t=jaeJ4QHP4Xi5wfipZOwwqY1T71qPRjJ2l3CBCTuKuh0"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Getting Started with Cisco Networks
+  - '[[Getting Started with Cisco Networks]]'
+prev_courses:
+  - '[[Cisco Networking Foundations- IP Addressing]]'
+next_courses:
+  - '[[Cisco Networking Foundations- Wireless Networks, Services, Security, and Virtualization]]'
+path_nav: '[{"path":"Getting Started with Cisco Networks","position":3,"total":4,"prev":"Cisco Networking Foundations- IP Addressing","next":"Cisco Networking Foundations- Wireless Networks, Services, Security, and Virtualization"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/cisco-networking
   - skill/routing-protocols
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cisco Networking Foundations: Switching and Routing](https://media.licdn.com/dms/image/v2/C560DAQHcNdXQfxQLtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661796832117?e=2147483647&amp;v=beta&amp;t=jaeJ4QHP4Xi5wfipZOwwqY1T71qPRjJ2l3CBCTuKuh0)

@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEUNycPzHkCbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642215818811?e=2147483647&amp;v=beta&amp;t=4Adw7ijC5fl16vwg1JPpNolh2gnReglD9aYJ_n4kwv4"
 linkedin_topic: Data Science
 learning_paths:
-  - Strategic Execution and Business Impact for Senior Managers and Senior Leaders
+  - '[[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]]'
+prev_courses:
+  - '[[Product Management- Building a Product Strategy]]'
+path_nav: '[{"path":"Strategic Execution and Business Impact for Senior Managers and Senior Leaders","position":12,"total":12,"prev":"Product Management- Building a Product Strategy","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/product-management
   - skill/product-road-mapping
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Product Management: Building a Product Roadmap](https://media.licdn.com/dms/image/v2/C4E0DAQEUNycPzHkCbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642215818811?e=2147483647&amp;v=beta&amp;t=4Adw7ijC5fl16vwg1JPpNolh2gnReglD9aYJ_n4kwv4)

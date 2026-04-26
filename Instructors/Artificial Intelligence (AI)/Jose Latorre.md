@@ -11,7 +11,7 @@ tags:
   - instructor
   - topic/artificial-intelligence
   - topic/software-development
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Jose Latorre

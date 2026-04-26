@@ -7,7 +7,7 @@ course_count: 10
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -59,7 +59,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # MLOps Essentials for Developers and AI Engineers: Tools, Pipelines, Security
@@ -97,3 +97,7 @@ _Paths that share courses with this one:_
 - [[Working with Data- Collecting, Processing, and Storing Data for AI]] (1 shared courses)
 - [[Foundational AI Skills for Azure Administration]] (1 shared courses)
 - [[Working with Data- Engineering, Integration, and MLOps for AI]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFAl58bn8cZRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660585110453?e=2147483647&amp;v=beta&amp;t=Flj-NtLzxO4jsf1_MdAMNHrmKmgbMKey_NnmXoYi_pk"
 linkedin_topic: Web Development
 learning_paths:
-  - Learn CSS
+  - '[[Learn CSS]]'
+prev_courses:
+  - '[[CSS Essential Training (2023)]]'
+next_courses:
+  - '[[CSS- Inheritance, Specificity, and the Cascade]]'
+path_nav: '[{"path":"Learn CSS","position":3,"total":12,"prev":"CSS Essential Training (2023)","next":"CSS- Inheritance, Specificity, and the Cascade"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![CSS: Selectors](https://media.licdn.com/dms/image/v2/C4E0DAQFAl58bn8cZRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660585110453?e=2147483647&amp;v=beta&amp;t=Flj-NtLzxO4jsf1_MdAMNHrmKmgbMKey_NnmXoYi_pk)

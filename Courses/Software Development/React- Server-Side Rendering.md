@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGLmMPM0FdTeA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617047890732?e=2147483647&amp;v=beta&amp;t=tUX8Byl7T7sAtmJrhRIdZYgPb-VObMctA0TZo3L8HeU"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore React.js Development
+  - '[[Explore React.js Development]]'
+prev_courses:
+  - '[[React- Authentication]]'
+path_nav: '[{"path":"Explore React.js Development","position":8,"total":8,"prev":"React- Authentication","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/next-js
   - skill/react-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React: Server-Side Rendering](https://media.licdn.com/dms/image/v2/C4E0DAQGLmMPM0FdTeA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617047890732?e=2147483647&amp;v=beta&amp;t=tUX8Byl7T7sAtmJrhRIdZYgPb-VObMctA0TZo3L8HeU)

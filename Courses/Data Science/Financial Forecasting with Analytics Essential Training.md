@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFQClLAfPXEDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632162638847?e=2147483647&amp;v=beta&amp;t=GQEWT0M5hW0ZRYFrmnGzkXFoWy1ktmC-9cZNyN1mSto"
 linkedin_topic: Data Science
 learning_paths:
-  - CFI Financial Analysis and Modeling Professional Certificate
+  - '[[CFI Financial Analysis and Modeling Professional Certificate]]'
+prev_courses:
+  - '[[Financial Modeling and Forecasting Financial Statements (2019)]]'
+next_courses:
+  - '[[SQL for Finance Professionals]]'
+path_nav: '[{"path":"CFI Financial Analysis and Modeling Professional Certificate","position":3,"total":7,"prev":"Financial Modeling and Forecasting Financial Statements (2019)","next":"SQL for Finance Professionals"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/business-analytics
   - skill/financial-forecasting
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Financial Forecasting with Analytics Essential Training](https://media.licdn.com/dms/image/v2/C560DAQFQClLAfPXEDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632162638847?e=2147483647&amp;v=beta&amp;t=GQEWT0M5hW0ZRYFrmnGzkXFoWy1ktmC-9cZNyN1mSto)

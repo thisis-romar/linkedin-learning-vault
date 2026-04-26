@@ -21,7 +21,12 @@ github: "https://github.com/LinkedInLearning/fine-tuning-llms-for-cybersecurity-
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHVfuZo09vpTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729015930936?e=2147483647&amp;v=beta&amp;t=dWExLTYF_PhRlYGJG1Ep_Hmv-2ggQOSMNgr3IxnEW3Q"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Leverage AI as a Cybersecurity Analyst
+  - '[[Leverage AI as a Cybersecurity Analyst]]'
+prev_courses:
+  - '[[XAI and Interpretability in Cybersecurity]]'
+next_courses:
+  - '[[RAG for Cybersecurity- Use Cases and Implementation]]'
+path_nav: '[{"path":"Leverage AI as a Cybersecurity Analyst","position":6,"total":7,"prev":"XAI and Interpretability in Cybersecurity","next":"RAG for Cybersecurity- Use Cases and Implementation"}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +38,7 @@ tags:
   - skill/large-language-models-llm
   - skill/ai-for-cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Fine-Tuning LLMs for Cybersecurity: Mistral, Llama, AutoTrain, AutoGen, and LLM Agents](https://media.licdn.com/dms/image/v2/D560DAQHVfuZo09vpTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729015930936?e=2147483647&amp;v=beta&amp;t=dWExLTYF_PhRlYGJG1Ep_Hmv-2ggQOSMNgr3IxnEW3Q)

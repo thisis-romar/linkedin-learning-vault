@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGaGhEpKIt0Sw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687558181011?e=2147483647&amp;v=beta&amp;t=7WIoA9tNVRQEDBcL-pmHtkfD0rshi5OF34QkEWlX4M4"
 linkedin_topic: Data Science
 learning_paths:
-  - LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader
+  - '[[LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader]]'
+prev_courses:
+  - '[[Making The Move To Executive Leadership]]'
+next_courses:
+  - '[[Strategic Financial Intelligence for Business Leaders]]'
+path_nav: '[{"path":"LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader","position":2,"total":11,"prev":"Making The Move To Executive Leadership","next":"Strategic Financial Intelligence for Business Leaders"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/influencing-others
   - skill/leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Influence Skills for Leaders and Managers](https://media.licdn.com/dms/image/v2/D560DAQGaGhEpKIt0Sw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687558181011?e=2147483647&amp;v=beta&amp;t=7WIoA9tNVRQEDBcL-pmHtkfD0rshi5OF34QkEWlX4M4)

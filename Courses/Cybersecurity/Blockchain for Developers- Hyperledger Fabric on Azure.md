@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEMPgq7Nw9Nww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623348837256?e=2147483647&amp;v=beta&amp;t=NZWkyJhuHXyfvvmGSgC1qLA6LjZH2puaz50H2F8dUr8"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become a Blockchain Developer
+  - '[[Become a Blockchain Developer]]'
+prev_courses:
+  - '[[Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps]]'
+next_courses:
+  - '[[Blockchain- Learning Solidity]]'
+path_nav: '[{"path":"Become a Blockchain Developer","position":12,"total":14,"prev":"Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps","next":"Blockchain- Learning Solidity"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/blockchain-architecture
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Blockchain for Developers: Hyperledger Fabric on Azure](https://media.licdn.com/dms/image/v2/C560DAQEMPgq7Nw9Nww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623348837256?e=2147483647&amp;v=beta&amp;t=NZWkyJhuHXyfvvmGSgC1qLA6LjZH2puaz50H2F8dUr8)

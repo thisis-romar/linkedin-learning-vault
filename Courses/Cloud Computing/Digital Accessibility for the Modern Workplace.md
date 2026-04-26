@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEW682MuL-nLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618868923381?e=2147483647&amp;v=beta&amp;t=pHUF3UC93ktZE8sSQXqvPk9nZHZHfFcwEWY--YoBk8s"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Improve Your Digital Transformation Skills
+  - '[[Improve Your Digital Transformation Skills]]'
+prev_courses:
+  - '[[Accelerating Digital Transformation as Offices Reopen]]'
+next_courses:
+  - '[[Agile Development in the New World of Work]]'
+path_nav: '[{"path":"Improve Your Digital Transformation Skills","position":3,"total":5,"prev":"Accelerating Digital Transformation as Offices Reopen","next":"Agile Development in the New World of Work"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Digital Accessibility for the Modern Workplace](https://media.licdn.com/dms/image/v2/C4E0DAQEW682MuL-nLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618868923381?e=2147483647&amp;v=beta&amp;t=pHUF3UC93ktZE8sSQXqvPk9nZHZHfFcwEWY--YoBk8s)

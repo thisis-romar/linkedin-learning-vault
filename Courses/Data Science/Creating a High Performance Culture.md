@@ -16,14 +16,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQH7til33V_20g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686004703649?e=2147483647&amp;v=beta&amp;t=rj34i7smN0lpk_oEdyOZnyQeNfGnMPOTvAFO5KGQ0lA"
 linkedin_topic: Data Science
 learning_paths:
-  - LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader
+  - '[[LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader]]'
+prev_courses:
+  - '[[Building Accountability into Your Culture]]'
+path_nav: '[{"path":"LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader","position":11,"total":11,"prev":"Building Accountability into Your Culture","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/high-performance-cultures
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Creating a High Performance Culture](https://media.licdn.com/dms/image/v2/D4E0DAQH7til33V_20g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686004703649?e=2147483647&amp;v=beta&amp;t=rj34i7smN0lpk_oEdyOZnyQeNfGnMPOTvAFO5KGQ0lA)

@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGZgaphTNKkZg/learning-public-crop_675_1200/B4EZZprb10HEAg-/0/1745529716364?e=2147483647&amp;v=beta&amp;t=aFSehqi6ZEIQ3tnnZsOvQkQ4Xvi7SwvtwDsEnWEl7bU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Working with Data- Collecting, Processing, and Storing Data for AI
+  - '[[Working with Data- Collecting, Processing, and Storing Data for AI]]'
+next_courses:
+  - '[[Strategic Data Collection, Modeling, and Quality Management for AI Systems]]'
+path_nav: '[{"path":"Working with Data- Collecting, Processing, and Storing Data for AI","position":1,"total":6,"prev":null,"next":"Strategic Data Collection, Modeling, and Quality Management for AI Systems"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +34,7 @@ tags:
   - skill/data-preparation
   - skill/data-storage
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Planning Strategy And Compliance For Ai Initiatives](https://media.licdn.com/dms/image/v2/D4E0DAQGZgaphTNKkZg/learning-public-crop_675_1200/B4EZZprb10HEAg-/0/1745529716364?e=2147483647&amp;v=beta&amp;t=aFSehqi6ZEIQ3tnnZsOvQkQ4Xvi7SwvtwDsEnWEl7bU)

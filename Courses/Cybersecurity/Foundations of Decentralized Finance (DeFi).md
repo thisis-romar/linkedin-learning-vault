@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGhvO-VcL7c7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1653581151064?e=2147483647&amp;v=beta&amp;t=JSM62rVxO3DbsQWuulxLz_836zQ9WfiUmx-Qon3AJnA"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Getting Started in Blockchain
+  - '[[Getting Started in Blockchain]]'
+prev_courses:
+  - '[[Blockchain- Beyond the Basics]]'
+next_courses:
+  - '[[Blockchain and Smart Contracts Security]]'
+path_nav: '[{"path":"Getting Started in Blockchain","position":4,"total":5,"prev":"Blockchain- Beyond the Basics","next":"Blockchain and Smart Contracts Security"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - skill/decentralization
   - skill/finance
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Foundations of Decentralized Finance (DeFi)](https://media.licdn.com/dms/image/v2/C4E0DAQGhvO-VcL7c7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1653581151064?e=2147483647&amp;v=beta&amp;t=JSM62rVxO3DbsQWuulxLz_836zQ9WfiUmx-Qon3AJnA)

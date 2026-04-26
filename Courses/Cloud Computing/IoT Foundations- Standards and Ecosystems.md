@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGBuSI2uP5gNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638813310048?e=2147483647&amp;v=beta&amp;t=_nUoTFC5xAm7jpKIdKF85FWEoMwi0mPkLIxjJ8q1pbM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation for Tech Leaders
+  - '[[Digital Transformation for Tech Leaders]]'
+prev_courses:
+  - '[[IoT Foundations- Fundamentals]]'
+next_courses:
+  - '[[Leveraging Cloud Computing for IoT]]'
+path_nav: '[{"path":"Digital Transformation for Tech Leaders","position":7,"total":15,"prev":"IoT Foundations- Fundamentals","next":"Leveraging Cloud Computing for IoT"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![IoT Foundations: Standards and Ecosystems](https://media.licdn.com/dms/image/v2/C560DAQGBuSI2uP5gNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638813310048?e=2147483647&amp;v=beta&amp;t=_nUoTFC5xAm7jpKIdKF85FWEoMwi0mPkLIxjJ8q1pbM)

@@ -49,7 +49,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Applying AI as a Tech Leader
@@ -84,3 +84,7 @@ _Paths that share courses with this one:_
 - [[Building AI Literacy]] (2 shared courses)
 - [[Become an AI-Powered Recruiter]] (1 shared courses)
 - [[AI Regulations for Business Leaders- The EU AI Act and More]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

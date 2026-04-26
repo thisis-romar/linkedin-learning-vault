@@ -16,7 +16,10 @@ github: "https://github.com/LinkedInLearning/django-esst-2894047/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFTuPPdaSLTcw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733262351081?e=2147483647&amp;v=beta&amp;t=XLe1gkFdRncIi5ol51Ol3-FzcGdvmqaoleeCVU3tSCA"
 linkedin_topic: Web Development
 learning_paths:
-  - Become a Django Developer
+  - '[[Become a Django Developer]]'
+next_courses:
+  - '[[Django- Forms]]'
+path_nav: '[{"path":"Become a Django Developer","position":1,"total":4,"prev":null,"next":"Django- Forms"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - skill/python-programming-language
   - skill/django
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Django Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQFTuPPdaSLTcw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733262351081?e=2147483647&amp;v=beta&amp;t=XLe1gkFdRncIi5ol51Ol3-FzcGdvmqaoleeCVU3tSCA)

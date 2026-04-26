@@ -10,14 +10,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGGUnvlQabHMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693344324699?e=2147483647&amp;v=beta&amp;t=OzIVEzKbfoBNE5L0ixO2ZNVVX5CmagOCFJS9DunLtWM"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Strategy and Planning
+  - '[[Introduction to Fundamental Skills for Data Work- Data Strategy and Planning]]'
+prev_courses:
+  - '[[Data-Informed Strategic Thinking for Senior Analysts and Data Scientists]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Strategy and Planning","position":10,"total":10,"prev":"Data-Informed Strategic Thinking for Senior Analysts and Data Scientists","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Synthetic Data as the Future of AI Privacy, Explainability, and Fairness: An Introduction for Data Scientists and Data Executives](https://media.licdn.com/dms/image/v2/D560DAQGGUnvlQabHMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693344324699?e=2147483647&amp;v=beta&amp;t=OzIVEzKbfoBNE5L0ixO2ZNVVX5CmagOCFJS9DunLtWM)

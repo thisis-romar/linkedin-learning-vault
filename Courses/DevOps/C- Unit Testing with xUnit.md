@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/c-sharp-unit-testing-with-xunit-440
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFbkepEwSX3vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691084155010?e=2147483647&amp;v=beta&amp;t=JCv0g-b98lkNnkBiom6gDHCI9YwS6YnMx-w5v4RYCug"
 linkedin_topic: DevOps
 learning_paths:
-  - Elevating C- Skills- Building Robust Applications
+  - '[[Elevating C- Skills- Building Robust Applications]]'
+prev_courses:
+  - '[[C- Cross-Platform Development]]'
+next_courses:
+  - '[[C- Practice- Generic Collections]]'
+path_nav: '[{"path":"Elevating C- Skills- Building Robust Applications","position":7,"total":8,"prev":"C- Cross-Platform Development","next":"C- Practice- Generic Collections"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/c
   - skill/unit-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C# Unit Testing with xUnit](https://media.licdn.com/dms/image/v2/D560DAQFbkepEwSX3vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691084155010?e=2147483647&amp;v=beta&amp;t=JCv0g-b98lkNnkBiom6gDHCI9YwS6YnMx-w5v4RYCug)

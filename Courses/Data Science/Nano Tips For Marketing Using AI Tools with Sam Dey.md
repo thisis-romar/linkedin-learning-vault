@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFFPLZZQcPBkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706131834975?e=2147483647&amp;v=beta&amp;t=gqPny4qJV4VwAmCThxDjA7nvuiC2chzh-ITjTMea6L0"
 linkedin_topic: Data Science
 learning_paths:
-  - Building ChatGPT Skills for Marketing
+  - '[[Building ChatGPT Skills for Marketing]]'
+prev_courses:
+  - '[[Nano Tips for Using ChatGPT for Marketers with Ross Simmonds]]'
+next_courses:
+  - '[[Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna Yung]]'
+path_nav: '[{"path":"Building ChatGPT Skills for Marketing","position":5,"total":6,"prev":"Nano Tips for Using ChatGPT for Marketers with Ross Simmonds","next":"Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna Yung"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/ai-for-marketing
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Nano Tips For Marketing Using AI Tools with Sam Dey](https://media.licdn.com/dms/image/v2/D560DAQFFPLZZQcPBkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706131834975?e=2147483647&amp;v=beta&amp;t=gqPny4qJV4VwAmCThxDjA7nvuiC2chzh-ITjTMea6L0)

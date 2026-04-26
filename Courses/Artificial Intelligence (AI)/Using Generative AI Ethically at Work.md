@@ -16,8 +16,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQErDXqo3Ydpaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736802500961?e=2147483647&amp;v=beta&amp;t=9jodqyXGqC9tNmjSYSMCxABn1fvrOFN9j-D0UzM0QLU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Responsible AI Foundations
-  - AI Boot Camp for Small and Medium-Sized Businesses (SMBs)
+  - '[[Responsible AI Foundations]]'
+  - '[[AI Boot Camp for Small and Medium-Sized Businesses (SMBs)]]'
+prev_courses:
+  - '[[Ethics in the Age of Generative AI]]'
+  - '[[Everyday AI Business Tools]]'
+next_courses:
+  - '[[Implementing a Data Strategy for Responsible AI]]'
+  - '[[Leveraging AI for Small and Medium Business Growth]]'
+path_nav: '[{"path":"Responsible AI Foundations","position":2,"total":5,"prev":"Ethics in the Age of Generative AI","next":"Implementing a Data Strategy for Responsible AI"},{"path":"AI Boot Camp for Small and Medium-Sized Businesses (SMBs)","position":3,"total":6,"prev":"Everyday AI Business Tools","next":"Leveraging AI for Small and Medium Business Growth"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using Generative AI Ethically at Work](https://media.licdn.com/dms/image/v2/D4E0DAQErDXqo3Ydpaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736802500961?e=2147483647&amp;v=beta&amp;t=9jodqyXGqC9tNmjSYSMCxABn1fvrOFN9j-D0UzM0QLU)

@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGioJ473fzHuQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669791879?e=2147483647&amp;v=beta&amp;t=hS27rzezTdIQUJxzm2xerXVmvMuiIUfPi7JuEbLOTJE"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Programmer- Foundations
+  - '[[Become a Programmer- Foundations]]'
+prev_courses:
+  - '[[Programming Foundations- Data Structures]]'
+next_courses:
+  - '[[Programming Foundations Databases]]'
+path_nav: '[{"path":"Become a Programmer- Foundations","position":6,"total":12,"prev":"Programming Foundations- Data Structures","next":"Programming Foundations Databases"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations: Design Patterns](https://media.licdn.com/dms/image/v2/C4E0DAQGioJ473fzHuQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669791879?e=2147483647&amp;v=beta&amp;t=hS27rzezTdIQUJxzm2xerXVmvMuiIUfPi7JuEbLOTJE)

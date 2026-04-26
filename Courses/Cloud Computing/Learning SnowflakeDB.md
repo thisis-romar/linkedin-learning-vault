@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFBJUUwGNne4A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648064590188?e=2147483647&amp;v=beta&amp;t=vZiBoz6XQ8AiNotis8LsPXUVoHtmPJl3kKrRb296svI"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Explore a Career in Data Engineering
+  - '[[Explore a Career in Data Engineering]]'
+prev_courses:
+  - '[[Introduction to Data Warehouses]]'
+next_courses:
+  - '[[PySpark Essential Training- Introduction to Building Data Pipelines]]'
+path_nav: '[{"path":"Explore a Career in Data Engineering","position":4,"total":7,"prev":"Introduction to Data Warehouses","next":"PySpark Essential Training- Introduction to Building Data Pipelines"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/databases
   - skill/snowflake
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning SnowflakeDB](https://media.licdn.com/dms/image/v2/C4D0DAQFBJUUwGNne4A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648064590188?e=2147483647&amp;v=beta&amp;t=vZiBoz6XQ8AiNotis8LsPXUVoHtmPJl3kKrRb296svI)

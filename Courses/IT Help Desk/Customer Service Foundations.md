@@ -13,9 +13,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQErGYVPm1g5-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677264776907?e=2147483647&amp;v=beta&amp;t=AiT8JFMFJHAbrX_BIdeYJi3mg5igJk5dGcmkIi2FKB8"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Build Your Skills In Customer Service
-  - Zendesk Customer Service Professional Certificate
-  - Become a Marketing Coordinator
+  - '[[Build Your Skills In Customer Service]]'
+  - '[[Zendesk Customer Service Professional Certificate]]'
+  - '[[Become a Marketing Coordinator]]'
+prev_courses:
+  - null
+  - null
+  - '[[Project Management Simplified]]'
+next_courses:
+  - '[[Customer Service- Problem-Solving and Troubleshooting]]'
+  - '[[Customer Service- Problem-Solving and Troubleshooting]]'
+  - null
+path_nav: '[{"path":"Build Your Skills In Customer Service","position":1,"total":8,"prev":null,"next":"Customer Service- Problem-Solving and Troubleshooting"},{"path":"Zendesk Customer Service Professional Certificate","position":1,"total":6,"prev":null,"next":"Customer Service- Problem-Solving and Troubleshooting"},{"path":"Become a Marketing Coordinator","position":9,"total":9,"prev":"Project Management Simplified","next":null}]'
 path_count: 3
 tags:
   - course
@@ -24,7 +33,7 @@ tags:
   - skill/customer-service
   - skill/customer-support
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Customer Service Foundations](https://media.licdn.com/dms/image/v2/C560DAQErGYVPm1g5-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677264776907?e=2147483647&amp;v=beta&amp;t=AiT8JFMFJHAbrX_BIdeYJi3mg5igJk5dGcmkIi2FKB8)

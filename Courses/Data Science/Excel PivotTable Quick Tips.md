@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHFM0wQMsWD0Q/learning-public-crop_675_1200/B56ZhSFQw_G4Ac-/0/1753723768152?e=2147483647&amp;v=beta&amp;t=iOtQSL_4FWirioT8HKejK0Hycr5f4MwKcHckpZAR3iE"
 linkedin_topic: Data Science
 learning_paths:
-  - Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)
+  - '[[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)]]'
+prev_courses:
+  - '[[Excel- Introduction to Formatting]]'
+next_courses:
+  - '[[Excel- Dashboards for Beginners (2022)]]'
+path_nav: '[{"path":"Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)","position":4,"total":7,"prev":"Excel- Introduction to Formatting","next":"Excel- Dashboards for Beginners (2022)"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/excel-pivot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel PivotTable Quick Tips](https://media.licdn.com/dms/image/v2/D560DAQHFM0wQMsWD0Q/learning-public-crop_675_1200/B56ZhSFQw_G4Ac-/0/1753723768152?e=2147483647&amp;v=beta&amp;t=iOtQSL_4FWirioT8HKejK0Hycr5f4MwKcHckpZAR3iE)

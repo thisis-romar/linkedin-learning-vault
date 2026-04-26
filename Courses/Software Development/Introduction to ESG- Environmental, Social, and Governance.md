@@ -15,8 +15,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEaM3Ad6Pr8-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663182985086?e=2147483647&amp;v=beta&amp;t=Z13F6ihOcgKY958GXrvT1FKemESqvgAbdhuRyJMq2M8"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your Sustainability Skills
-  - Career Essentials in Sustainable Tech by Microsoft and LinkedIn
+  - '[[Improve Your Sustainability Skills]]'
+  - '[[Career Essentials in Sustainable Tech by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Sustainability Foundations Core Concepts]]'
+  - '[[An Introduction to AI and Sustainability]]'
+next_courses:
+  - '[[The Importance of Biodiversity to Business]]'
+  - '[[Performing a Sustainability Audit with Microsoft Sustainability Manager]]'
+path_nav: '[{"path":"Improve Your Sustainability Skills","position":2,"total":8,"prev":"Sustainability Foundations Core Concepts","next":"The Importance of Biodiversity to Business"},{"path":"Career Essentials in Sustainable Tech by Microsoft and LinkedIn","position":6,"total":7,"prev":"An Introduction to AI and Sustainability","next":"Performing a Sustainability Audit with Microsoft Sustainability Manager"}]'
 path_count: 2
 tags:
   - course
@@ -24,7 +31,7 @@ tags:
   - skill/sustainable-business-strategy
   - skill/environmental-social-and-governance-esg
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to ESG: Environmental, Social, and Governance](https://media.licdn.com/dms/image/v2/C560DAQEaM3Ad6Pr8-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663182985086?e=2147483647&amp;v=beta&amp;t=Z13F6ihOcgKY958GXrvT1FKemESqvgAbdhuRyJMq2M8)

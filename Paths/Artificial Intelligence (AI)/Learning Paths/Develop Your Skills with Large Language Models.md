@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Develop Your Skills with Large Language Models
@@ -89,3 +89,7 @@ _Paths that share courses with this one:_
 - [[Hands-On Projects for OpenAI-Powered Apps]] (1 shared courses)
 - [[Applying Generative AI as a Business Professional]] (1 shared courses)
 - [[Become an AI Engineer]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

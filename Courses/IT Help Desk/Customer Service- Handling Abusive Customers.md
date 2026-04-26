@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFtUbFcrY63Vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731633528824?e=2147483647&amp;v=beta&amp;t=dLYe60es3r3lsilSQ8jADW7yLSMs9IdJs5nk-tjRc9A"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Build Your Skills In Customer Service
-  - Zendesk Customer Service Professional Certificate
+  - '[[Build Your Skills In Customer Service]]'
+  - '[[Zendesk Customer Service Professional Certificate]]'
+prev_courses:
+  - '[[Customer Service- Call Control Strategies]]'
+  - '[[Building Rapport with Customers (2022)]]'
+next_courses:
+  - '[[Creating Positive Conversations with Challenging Customers]]'
+  - '[[Creating Positive Conversations with Challenging Customers]]'
+path_nav: '[{"path":"Build Your Skills In Customer Service","position":5,"total":8,"prev":"Customer Service- Call Control Strategies","next":"Creating Positive Conversations with Challenging Customers"},{"path":"Zendesk Customer Service Professional Certificate","position":4,"total":6,"prev":"Building Rapport with Customers (2022)","next":"Creating Positive Conversations with Challenging Customers"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/customer-relations
   - skill/customer-service
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Customer Service: Handling Abusive Customers](https://media.licdn.com/dms/image/v2/D4E0DAQFtUbFcrY63Vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731633528824?e=2147483647&amp;v=beta&amp;t=dLYe60es3r3lsilSQ8jADW7yLSMs9IdJs5nk-tjRc9A)

@@ -20,7 +20,10 @@ github: "https://github.com/LinkedInLearning/mastering-ai-tools-for-efficient-c-
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHIUZH6xqAasQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723574020710?e=2147483647&amp;v=beta&amp;t=uLo-GWBvIaN6XA0uJLKV6xhulHXGLrypiz5crArO64c"
 linkedin_topic: Software Development
 learning_paths:
-  - C- Foundations- From Basics to Building Blocks
+  - '[[C- Foundations- From Basics to Building Blocks]]'
+prev_courses:
+  - '[[C- Refactoring Tips and Tricks]]'
+path_nav: '[{"path":"C- Foundations- From Basics to Building Blocks","position":5,"total":5,"prev":"C- Refactoring Tips and Tricks","next":null}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Mastering AI Tools for Efficient C# Development](https://media.licdn.com/dms/image/v2/D4E0DAQHIUZH6xqAasQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723574020710?e=2147483647&amp;v=beta&amp;t=uLo-GWBvIaN6XA0uJLKV6xhulHXGLrypiz5crArO64c)

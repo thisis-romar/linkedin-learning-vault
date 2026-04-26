@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/python-working-with-predictive-anal
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGnpbINgk4ROw/learning-public-crop_675_1200/B4EZUki09UHMAY-/0/1740074864720?e=2147483647&amp;v=beta&amp;t=9b9vA2zFDZ8I5mfSvuZbDRA8gi2-XqtKYgPlAspSe2I"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in Predictive Analytics
-  - Moving from Data Scientist to Data Analyst
+  - '[[Advance Your Skills in Predictive Analytics]]'
+  - '[[Moving from Data Scientist to Data Analyst]]'
+prev_courses:
+  - '[[Business Analytics Foundations- Descriptive, Exploratory, and Explanatory Analytics]]'
+  - '[[Apache Spark Essential Training- Big Data Engineering]]'
+next_courses:
+  - '[[Data Science Foundations- Data Assessment for Predictive Modeling]]'
+  - '[[Complete Guide to NLP with R]]'
+path_nav: '[{"path":"Advance Your Skills in Predictive Analytics","position":5,"total":8,"prev":"Business Analytics Foundations- Descriptive, Exploratory, and Explanatory Analytics","next":"Data Science Foundations- Data Assessment for Predictive Modeling"},{"path":"Moving from Data Scientist to Data Analyst","position":8,"total":10,"prev":"Apache Spark Essential Training- Big Data Engineering","next":"Complete Guide to NLP with R"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python: Working with Predictive Analytics](https://media.licdn.com/dms/image/v2/D4E0DAQGnpbINgk4ROw/learning-public-crop_675_1200/B4EZUki09UHMAY-/0/1740074864720?e=2147483647&amp;v=beta&amp;t=9b9vA2zFDZ8I5mfSvuZbDRA8gi2-XqtKYgPlAspSe2I)

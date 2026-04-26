@@ -20,9 +20,18 @@ github: "https://github.com/LinkedInLearning/machine-learning-with-python-logist
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHCaIAahatY6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707245442931?e=2147483647&amp;v=beta&amp;t=jIdzp5-QT8j6P4PzTQgzBa-k8Qjhva10k_DgyvttfaA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop with Python for AI and Machine Learning
-  - Advance Your Skills as a Machine Learning Specialist
-  - Machine Learning with Python Professional Certificate by Anaconda
+  - '[[Develop with Python for AI and Machine Learning]]'
+  - '[[Advance Your Skills as a Machine Learning Specialist]]'
+  - '[[Machine Learning with Python Professional Certificate by Anaconda]]'
+prev_courses:
+  - '[[Machine Learning with Python- Decision Trees]]'
+  - '[[Machine Learning with Python- Association Rules]]'
+  - '[[Machine Learning with Python- Decision Trees]]'
+next_courses:
+  - '[[Machine Learning with Python- k-Means Clustering]]'
+  - '[[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]]'
+  - '[[Machine Learning with Python- k-Means Clustering]]'
+path_nav: '[{"path":"Develop with Python for AI and Machine Learning","position":3,"total":6,"prev":"Machine Learning with Python- Decision Trees","next":"Machine Learning with Python- k-Means Clustering"},{"path":"Advance Your Skills as a Machine Learning Specialist","position":4,"total":9,"prev":"Machine Learning with Python- Association Rules","next":"Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions"},{"path":"Machine Learning with Python Professional Certificate by Anaconda","position":4,"total":6,"prev":"Machine Learning with Python- Decision Trees","next":"Machine Learning with Python- k-Means Clustering"}]'
 path_count: 3
 tags:
   - course
@@ -33,7 +42,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/logistic-regression
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning with Python: Logistic Regression](https://media.licdn.com/dms/image/v2/D4D0DAQHCaIAahatY6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707245442931?e=2147483647&amp;v=beta&amp;t=jIdzp5-QT8j6P4PzTQgzBa-k8Qjhva10k_DgyvttfaA)

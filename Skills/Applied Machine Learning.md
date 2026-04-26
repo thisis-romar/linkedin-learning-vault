@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/applied-machine-learning
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Applied Machine Learning

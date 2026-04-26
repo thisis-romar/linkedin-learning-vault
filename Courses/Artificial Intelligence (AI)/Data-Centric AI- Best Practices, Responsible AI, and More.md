@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/data-centric-ai-4516168/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGn4QusQySJTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706055106661?e=2147483647&amp;v=beta&amp;t=B2lGBAIZqZNndoW5xw0GhmyDfqOhU69_LKQwb3zExGc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Explore AI for Data Engineering
+  - '[[Explore AI for Data Engineering]]'
+prev_courses:
+  - '[[AI Fundamentals for Data Professionals]]'
+next_courses:
+  - '[[Using AI to Improve Ops for Your Data Organization]]'
+path_nav: '[{"path":"Explore AI for Data Engineering","position":2,"total":8,"prev":"AI Fundamentals for Data Professionals","next":"Using AI to Improve Ops for Your Data Organization"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data-Centric AI: Best Practices, Responsible AI, and More](https://media.licdn.com/dms/image/v2/D560DAQGn4QusQySJTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706055106661?e=2147483647&amp;v=beta&amp;t=B2lGBAIZqZNndoW5xw0GhmyDfqOhU69_LKQwb3zExGc)

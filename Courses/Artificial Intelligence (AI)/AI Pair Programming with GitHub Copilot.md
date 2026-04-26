@@ -18,9 +18,18 @@ github: "https://github.com/LinkedInLearning/ai-pair-programming-with-github-cop
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHcmTuHL8f5mw/learning-public-crop_675_1200/B4EZWWZJSxHMAY-/0/1741984929307?e=2147483647&amp;v=beta&amp;t=P-FBVsiEgFn40KXgkDmzL54vN0X1Yh4MMhvPoxfCt8M"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Improve Your Programming Skills with Artificial Intelligence
-  - Career Essentials in GitHub Copilot Professional Certificate
-  - Master GitHub Copilot
+  - '[[Improve Your Programming Skills with Artificial Intelligence]]'
+  - '[[Career Essentials in GitHub Copilot Professional Certificate]]'
+  - '[[Master GitHub Copilot]]'
+prev_courses:
+  - '[[Machine Learning with Python- Foundations]]'
+  - null
+  - null
+next_courses:
+  - '[[Building a Project with the ChatGPT API]]'
+  - '[[Supercharge the Development Process with GitHub Extensions for Copilot Chat]]'
+  - '[[Exploring the Future of Development with GitHub Copilot Workspace]]'
+path_nav: '[{"path":"Improve Your Programming Skills with Artificial Intelligence","position":3,"total":4,"prev":"Machine Learning with Python- Foundations","next":"Building a Project with the ChatGPT API"},{"path":"Career Essentials in GitHub Copilot Professional Certificate","position":1,"total":4,"prev":null,"next":"Supercharge the Development Process with GitHub Extensions for Copilot Chat"},{"path":"Master GitHub Copilot","position":1,"total":8,"prev":null,"next":"Exploring the Future of Development with GitHub Copilot Workspace"}]'
 path_count: 3
 tags:
   - course
@@ -30,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Pair Programming with GitHub Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQHcmTuHL8f5mw/learning-public-crop_675_1200/B4EZWWZJSxHMAY-/0/1741984929307?e=2147483647&amp;v=beta&amp;t=P-FBVsiEgFn40KXgkDmzL54vN0X1Yh4MMhvPoxfCt8M)

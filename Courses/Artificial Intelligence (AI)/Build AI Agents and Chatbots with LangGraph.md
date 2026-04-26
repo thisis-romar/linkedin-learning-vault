@@ -10,15 +10,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQG43w2UoFGhqA/learning-public-crop_675_1200/B4DZSa0e5nG4Ac-/0/1737764237244?e=2147483647&amp;v=beta&amp;t=UXmQzVGx5Bl45kFaiIPMtIv7FGkn5fR8fMOFwfoTF0k"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Agentic AI Systems for Developers
-  - Building AI Agents- Advanced Techniques for Developers
+  - '[[Building Agentic AI Systems for Developers]]'
+  - '[[Building AI Agents- Advanced Techniques for Developers]]'
+prev_courses:
+  - '[[Hands-On Agentic AI- Building AI Agents with LlamaIndex]]'
+  - '[[Build Ai Agents And Automate Workflows With N8n]]'
+next_courses:
+  - '[[ChatGPT''s Operator- Automating Everyday Tasks with AI Agents]]'
+  - '[[Model Context Protocol (MCP)- Hands-On with Agentic AI]]'
+path_nav: '[{"path":"Building Agentic AI Systems for Developers","position":5,"total":6,"prev":"Hands-On Agentic AI- Building AI Agents with LlamaIndex","next":"ChatGPT''s Operator- Automating Everyday Tasks with AI Agents"},{"path":"Building AI Agents- Advanced Techniques for Developers","position":2,"total":4,"prev":"Build Ai Agents And Automate Workflows With N8n","next":"Model Context Protocol (MCP)- Hands-On with Agentic AI"}]'
 path_count: 2
 tags:
   - course
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Build AI Agents and Chatbots with LangGraph](https://media.licdn.com/dms/image/v2/D4D0DAQG43w2UoFGhqA/learning-public-crop_675_1200/B4DZSa0e5nG4Ac-/0/1737764237244?e=2147483647&amp;v=beta&amp;t=UXmQzVGx5Bl45kFaiIPMtIv7FGkn5fR8fMOFwfoTF0k)

@@ -6,7 +6,7 @@ course_count: 4
 tags:
   - skill
   - skill/artificial-neural-networks
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Artificial Neural Networks

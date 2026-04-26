@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFXQmNj82ohNw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732151706004?e=2147483647&amp;v=beta&amp;t=0BJqMC7BdeLMRy4P13hAme1XuUQfjlv94EmoCSSSFfQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Explore AI for Data Engineering
+  - '[[Explore AI for Data Engineering]]'
+prev_courses:
+  - '[[Using AI to Improve Ops for Your Data Organization]]'
+next_courses:
+  - '[[Introduction To Ai Native Vector Databases]]'
+path_nav: '[{"path":"Explore AI for Data Engineering","position":4,"total":8,"prev":"Using AI to Improve Ops for Your Data Organization","next":"Introduction To Ai Native Vector Databases"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI for Data Engineering: ChatGPT Power Tips](https://media.licdn.com/dms/image/v2/D4D0DAQFXQmNj82ohNw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732151706004?e=2147483647&amp;v=beta&amp;t=0BJqMC7BdeLMRy4P13hAme1XuUQfjlv94EmoCSSSFfQ)

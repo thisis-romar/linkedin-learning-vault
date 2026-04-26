@@ -19,8 +19,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHRuxY7gftAZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705185013802?e=2147483647&amp;v=beta&amp;t=fCmK3AS7UeR_s8w3lxENghrvAsjz-ZsdvEieVde1_t8"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Navigating the Cybersecurity Threat Landscape
-  - The IT Professional's Path to Cybersecurity
+  - '[[Navigating the Cybersecurity Threat Landscape]]'
+  - '[[The IT Professional''s Path to Cybersecurity]]'
+prev_courses:
+  - '[[Cyber Resilience- An Overview]]'
+  - null
+next_courses:
+  - null
+  - '[[Practical Cybersecurity for IT Professionals]]'
+path_nav: '[{"path":"Navigating the Cybersecurity Threat Landscape","position":8,"total":8,"prev":"Cyber Resilience- An Overview","next":null},{"path":"The IT Professional''s Path to Cybersecurity","position":1,"total":5,"prev":null,"next":"Practical Cybersecurity for IT Professionals"}]'
 path_count: 2
 tags:
   - course
@@ -33,7 +40,7 @@ tags:
   - skill/cybersecurity
   - skill/career-transitioning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Transitioning to a Career in Cybersecurity](https://media.licdn.com/dms/image/v2/D560DAQHRuxY7gftAZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705185013802?e=2147483647&amp;v=beta&amp;t=fCmK3AS7UeR_s8w3lxENghrvAsjz-ZsdvEieVde1_t8)

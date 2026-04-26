@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEa6pQza9mxrA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683072588848?e=2147483647&amp;v=beta&amp;t=DzVl8fz-lgBYke8LdDuUBY205-8YHT89bQSW_EoWCvI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - LinkedIn's AI Academy
+  - '[[LinkedIn''s AI Academy]]'
+next_courses:
+  - '[[LinkedIn AI Academy AI-100- 2 Supervised Learning with Neural Networks]]'
+path_nav: '[{"path":"LinkedIn''s AI Academy","position":1,"total":3,"prev":null,"next":"LinkedIn AI Academy AI-100- 2 Supervised Learning with Neural Networks"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-literacy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Linkedin Ai Academy Ai 100 1 Demystifying Ai](https://media.licdn.com/dms/image/v2/D4D0DAQEa6pQza9mxrA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683072588848?e=2147483647&amp;v=beta&amp;t=DzVl8fz-lgBYke8LdDuUBY205-8YHT89bQSW_EoWCvI)

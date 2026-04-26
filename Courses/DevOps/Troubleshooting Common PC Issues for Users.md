@@ -10,7 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFJK35QAWgmsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622144518472?e=2147483647&amp;v=beta&amp;t=cqvyHrYKjK1yOVFdeGRxAt9GArsGvfXdKhsDyZ_Bm1Q"
 linkedin_topic: DevOps
 learning_paths:
-  - Explore a Career in IT Support
+  - '[[Explore a Career in IT Support]]'
+prev_courses:
+  - '[[Windows 10- Networking]]'
+next_courses:
+  - '[[Windows 10 for IT Support- Troubleshooting Basics]]'
+path_nav: '[{"path":"Explore a Career in IT Support","position":8,"total":11,"prev":"Windows 10- Networking","next":"Windows 10 for IT Support- Troubleshooting Basics"}]'
 path_count: 1
 tags:
   - course
@@ -18,7 +23,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Troubleshooting Common PC Issues for Users](https://media.licdn.com/dms/image/v2/C560DAQFJK35QAWgmsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622144518472?e=2147483647&amp;v=beta&amp;t=cqvyHrYKjK1yOVFdeGRxAt9GArsGvfXdKhsDyZ_Bm1Q)

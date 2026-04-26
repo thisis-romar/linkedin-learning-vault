@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEpm8u5Dr8Pyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704745109030?e=2147483647&amp;v=beta&amp;t=MbOq0DZsQAie-Bck3b8p_ZR-Il0DNlhkN0OYmq3zYOw"
 linkedin_topic: Data Science
 learning_paths:
-  - Build Your Wolfram Language Skills
+  - '[[Build Your Wolfram Language Skills]]'
+prev_courses:
+  - '[[Wavelet Analysis- Concepts with Wolfram Language]]'
+next_courses:
+  - '[[Modeling Market Prices Using Stochastic Processes with Wolfram Language]]'
+path_nav: '[{"path":"Build Your Wolfram Language Skills","position":4,"total":8,"prev":"Wavelet Analysis- Concepts with Wolfram Language","next":"Modeling Market Prices Using Stochastic Processes with Wolfram Language"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/data-analysis
   - skill/wavelets
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Wavelet Analysis: Applications with Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQEpm8u5Dr8Pyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704745109030?e=2147483647&amp;v=beta&amp;t=MbOq0DZsQAie-Bck3b8p_ZR-Il0DNlhkN0OYmq3zYOw)

@@ -10,7 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQE1knp7LibUCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611696632946?e=2147483647&amp;v=beta&amp;t=0IWVucb1KvT1xojB_0-VjEc2Gx36l0kftKQE-b7otrs"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advancing Your Azure Developer Skills- Exploring Complex Application Development
+  - '[[Advancing Your Azure Developer Skills- Exploring Complex Application Development]]'
+prev_courses:
+  - '[[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]]'
+next_courses:
+  - '[[Microsoft Azure Synapse for Developers]]'
+path_nav: '[{"path":"Advancing Your Azure Developer Skills- Exploring Complex Application Development","position":5,"total":7,"prev":"Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security","next":"Microsoft Azure Synapse for Developers"}]'
 path_count: 1
 tags:
   - course
@@ -18,7 +23,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Developing Chatbots with Azure](https://media.licdn.com/dms/image/v2/C4E0DAQE1knp7LibUCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611696632946?e=2147483647&amp;v=beta&amp;t=0IWVucb1KvT1xojB_0-VjEc2Gx36l0kftKQE-b7otrs)

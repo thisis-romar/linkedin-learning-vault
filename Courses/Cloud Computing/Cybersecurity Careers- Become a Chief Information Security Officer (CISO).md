@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFbD6_b4xW3wQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664304366478?e=2147483647&amp;v=beta&amp;t=1ZtITwq6VxGqinV6eCPLJl5wt9EtR-u8BJ-WdsrkLGU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Explore Cybersecurity Careers
+  - '[[Explore Cybersecurity Careers]]'
+prev_courses:
+  - '[[Cybersecurity Careers- Become a Business Information Security Officer (BISO)]]'
+path_nav: '[{"path":"Explore Cybersecurity Careers","position":9,"total":9,"prev":"Cybersecurity Careers- Become a Business Information Security Officer (BISO)","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/tech-career-skills
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Careers: Become a Chief Information Security Officer (CISO)](https://media.licdn.com/dms/image/v2/C560DAQFbD6_b4xW3wQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664304366478?e=2147483647&amp;v=beta&amp;t=1ZtITwq6VxGqinV6eCPLJl5wt9EtR-u8BJ-WdsrkLGU)

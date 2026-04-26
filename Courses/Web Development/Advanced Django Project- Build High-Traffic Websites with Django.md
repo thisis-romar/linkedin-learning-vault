@@ -17,14 +17,17 @@ github: "https://github.com/LinkedInLearning/advanced_django_3000142"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHAN9_TtAzwNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1641428255827?e=2147483647&amp;v=beta&amp;t=OoNht7OMh7OnP5UaLtCek_xaeQ_WnzIyhRG7q929WbE"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills as a Django Developer
+  - '[[Advance Your Skills as a Django Developer]]'
+prev_courses:
+  - '[[Securing Django Applications]]'
+path_nav: '[{"path":"Advance Your Skills as a Django Developer","position":6,"total":6,"prev":"Securing Django Applications","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/django
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Django Project: Build High-Traffic Websites with Django](https://media.licdn.com/dms/image/v2/C560DAQHAN9_TtAzwNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1641428255827?e=2147483647&amp;v=beta&amp;t=OoNht7OMh7OnP5UaLtCek_xaeQ_WnzIyhRG7q929WbE)

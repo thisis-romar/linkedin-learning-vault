@@ -7,7 +7,7 @@ course_count: 13
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 3
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/cloud-computing
@@ -71,7 +71,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Master Digital Transformation
@@ -112,3 +112,7 @@ _Paths that share courses with this one:_
 - [[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]] (1 shared courses)
 - [[Foundations of Cloud Computing- Models, Platforms, Services, and Careers]] (1 shared courses)
 - [[Become an RPA Developer]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

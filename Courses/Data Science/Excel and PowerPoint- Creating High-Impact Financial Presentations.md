@@ -19,7 +19,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGrRvl0iYYA7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718224382576?e=2147483647&amp;v=beta&amp;t=fthfc2IsF9CnGeUVDvbFrHhKbCs_JQbviEPwX86rtLk"
 linkedin_topic: Data Science
 learning_paths:
-  - CFI Financial Analysis and Modeling Professional Certificate
+  - '[[CFI Financial Analysis and Modeling Professional Certificate]]'
+prev_courses:
+  - '[[Using Data in Financial Analysis]]'
+path_nav: '[{"path":"CFI Financial Analysis and Modeling Professional Certificate","position":7,"total":7,"prev":"Using Data in Financial Analysis","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/microsoft-powerpoint
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel and PowerPoint: Creating High-Impact Financial Presentations](https://media.licdn.com/dms/image/v2/D560DAQGrRvl0iYYA7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718224382576?e=2147483647&amp;v=beta&amp;t=fthfc2IsF9CnGeUVDvbFrHhKbCs_JQbviEPwX86rtLk)

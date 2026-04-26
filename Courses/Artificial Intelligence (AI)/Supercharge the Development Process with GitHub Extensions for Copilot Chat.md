@@ -14,8 +14,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEtPfEC0eqXeQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727977143611?e=2147483647&amp;v=beta&amp;t=BbfOBvo5LM_G9RDIIGB_1D5_JB6OLGcCMV_jx0Sf1Ls"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Career Essentials in GitHub Copilot Professional Certificate
-  - Master GitHub Copilot
+  - '[[Career Essentials in GitHub Copilot Professional Certificate]]'
+  - '[[Master GitHub Copilot]]'
+prev_courses:
+  - '[[AI Pair Programming with GitHub Copilot]]'
+  - '[[Exploring the Future of Development with GitHub Copilot Workspace]]'
+next_courses:
+  - '[[Refactoring with GitHub Copilot]]'
+  - '[[Delivering and Analyzing a Software Pilot- GitHub Copilot]]'
+path_nav: '[{"path":"Career Essentials in GitHub Copilot Professional Certificate","position":2,"total":4,"prev":"AI Pair Programming with GitHub Copilot","next":"Refactoring with GitHub Copilot"},{"path":"Master GitHub Copilot","position":3,"total":8,"prev":"Exploring the Future of Development with GitHub Copilot Workspace","next":"Delivering and Analyzing a Software Pilot- GitHub Copilot"}]'
 path_count: 2
 tags:
   - course
@@ -23,7 +30,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Supercharge the Development Process with GitHub Extensions for Copilot Chat](https://media.licdn.com/dms/image/v2/D4D0DAQEtPfEC0eqXeQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727977143611?e=2147483647&amp;v=beta&amp;t=BbfOBvo5LM_G9RDIIGB_1D5_JB6OLGcCMV_jx0Sf1Ls)

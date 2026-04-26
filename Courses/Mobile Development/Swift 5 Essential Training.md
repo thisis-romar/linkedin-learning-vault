@@ -14,8 +14,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEks0fJDAIWMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568843493234?e=2147483647&amp;v=beta&amp;t=Ey2BOGas6-6UdMEFUO7hHuHTHqGxudAPCc2i_SAC6Mk"
 linkedin_topic: Mobile Development
 learning_paths:
-  - Get Started with iOS App Development
-  - Master Swift
+  - '[[Get Started with iOS App Development]]'
+  - '[[Master Swift]]'
+prev_courses:
+  - null
+  - '[[Programming For Non Programmers Ios 17 And Swift 5]]'
+next_courses:
+  - '[[Xcode 15 Essential Training]]'
+  - '[[Swift- Delegations and Data Sources]]'
+path_nav: '[{"path":"Get Started with iOS App Development","position":1,"total":4,"prev":null,"next":"Xcode 15 Essential Training"},{"path":"Master Swift","position":2,"total":4,"prev":"Programming For Non Programmers Ios 17 And Swift 5","next":"Swift- Delegations and Data Sources"}]'
 path_count: 2
 tags:
   - course
@@ -23,7 +30,7 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Swift 5 Essential Training](https://media.licdn.com/dms/image/v2/C560DAQEks0fJDAIWMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568843493234?e=2147483647&amp;v=beta&amp;t=Ey2BOGas6-6UdMEFUO7hHuHTHqGxudAPCc2i_SAC6Mk)

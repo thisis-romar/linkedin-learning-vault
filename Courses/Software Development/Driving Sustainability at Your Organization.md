@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGI6oRBR7AV3A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709595212232?e=2147483647&amp;v=beta&amp;t=zqRnBNFBMQgkHit5CzOboHzfVowNnh0qtyXShrZ3dEs"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your Sustainability Skills
+  - '[[Improve Your Sustainability Skills]]'
+prev_courses:
+  - '[[The Importance of Biodiversity to Business]]'
+next_courses:
+  - '[[Employee Engagement- Making Sustainability Part of Everybody’s Job]]'
+path_nav: '[{"path":"Improve Your Sustainability Skills","position":4,"total":8,"prev":"The Importance of Biodiversity to Business","next":"Employee Engagement- Making Sustainability Part of Everybody’s Job"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/organizational-leadership
   - skill/sustainable-business-strategy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Driving Sustainability at Your Organization](https://media.licdn.com/dms/image/v2/D4E0DAQGI6oRBR7AV3A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709595212232?e=2147483647&amp;v=beta&amp;t=zqRnBNFBMQgkHit5CzOboHzfVowNnh0qtyXShrZ3dEs)

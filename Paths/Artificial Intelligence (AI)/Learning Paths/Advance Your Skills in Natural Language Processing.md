@@ -43,7 +43,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Skills in Natural Language Processing
@@ -74,3 +74,7 @@ _Paths that share courses with this one:_
 
 - [[Building Generative AI Skills for Developers]] (1 shared courses)
 - [[Develop Your Skills with Large Language Models]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

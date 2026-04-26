@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/learning-xai-explainable-artificial
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGXHk4z7Dg7nQ/learning-public-crop_675_1200/B4EZWwX5fbHcAc-/0/1742420810047?e=2147483647&amp;v=beta&amp;t=jnrnnNV_gLf6_6XAJllJE252HBiholMiH0zmqaPwLz4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Implementing a Data Strategy for Responsible AI]]'
+next_courses:
+  - '[[Responsible AI and Application Development]]'
+path_nav: '[{"path":"Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning","position":3,"total":7,"prev":"Implementing a Data Strategy for Responsible AI","next":"Responsible AI and Application Development"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-literacy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning XAI: Explainable Artificial Intelligence](https://media.licdn.com/dms/image/v2/D4E0DAQGXHk4z7Dg7nQ/learning-public-crop_675_1200/B4EZWwX5fbHcAc-/0/1742420810047?e=2147483647&amp;v=beta&amp;t=jnrnnNV_gLf6_6XAJllJE252HBiholMiH0zmqaPwLz4)

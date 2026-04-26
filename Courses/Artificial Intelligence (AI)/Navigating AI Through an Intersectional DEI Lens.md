@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFnc-4UNdKncA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708651317451?e=2147483647&amp;v=beta&amp;t=eO0zmvrlxrxHuHKy3Amc8bZQtrr1M75RasryZnmwmRI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Become an AI-Powered Recruiter
+  - '[[Become an AI-Powered Recruiter]]'
+prev_courses:
+  - '[[Generative AI, Recruiting, and Talent Acquisition]]'
+next_courses:
+  - '[[How to Boost Your Productivity with AI Tools (2023)]]'
+path_nav: '[{"path":"Become an AI-Powered Recruiter","position":4,"total":5,"prev":"Generative AI, Recruiting, and Talent Acquisition","next":"How to Boost Your Productivity with AI Tools (2023)"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/diversity-equity-inclusion-and-belonging-deib
   - skill/ai-for-hr
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Navigating AI Through an Intersectional DEI Lens](https://media.licdn.com/dms/image/v2/D4E0DAQFnc-4UNdKncA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708651317451?e=2147483647&amp;v=beta&amp;t=eO0zmvrlxrxHuHKy3Amc8bZQtrr1M75RasryZnmwmRI)

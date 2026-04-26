@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQE6-0tyxuH2Og/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597852457143?e=2147483647&amp;v=beta&amp;t=cXvpZzOxccuTOlqtWfDikKsRP-w5fpM4XA-S34y3PTI"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore Web Development with Angular
+  - '[[Explore Web Development with Angular]]'
+prev_courses:
+  - '[[Angular- Testing and Debugging]]'
+next_courses:
+  - '[[Angular- Cloud-Powered Apps with Firebase]]'
+path_nav: '[{"path":"Explore Web Development with Angular","position":4,"total":6,"prev":"Angular- Testing and Debugging","next":"Angular- Cloud-Powered Apps with Firebase"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/web-development
   - skill/angular
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Angular: Creating and Hosting a Full-Stack Site](https://media.licdn.com/dms/image/v2/C4D0DAQE6-0tyxuH2Og/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597852457143?e=2147483647&amp;v=beta&amp;t=cXvpZzOxccuTOlqtWfDikKsRP-w5fpM4XA-S34y3PTI)

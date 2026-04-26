@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEGAvyIJDYcWg/learning-public-crop_675_1200/B56ZgfRdMzHQAY-/0/1752871327211?e=2147483647&amp;v=beta&amp;t=cqqxPZMtXncYLxGEcDvoXKhuwS8NfJ7VDhXCO6Xmiwc"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Explore a Career as a Cloud Administrator
-  - Build Your Cybersecurity Awareness Skills
+  - '[[Explore a Career as a Cloud Administrator]]'
+  - '[[Build Your Cybersecurity Awareness Skills]]'
+prev_courses:
+  - '[[Cloud Storage Concepts- Services, Cost Control, and Security]]'
+  - '[[Cybersecurity Awareness- Phishing Attacks]]'
+next_courses:
+  - '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
+  - '[[Cybersecurity Awareness- Ransomware]]'
+path_nav: '[{"path":"Explore a Career as a Cloud Administrator","position":4,"total":6,"prev":"Cloud Storage Concepts- Services, Cost Control, and Security","next":"Understanding Generative AI in Cloud Computing- Services and Use Cases"},{"path":"Build Your Cybersecurity Awareness Skills","position":6,"total":10,"prev":"Cybersecurity Awareness- Phishing Attacks","next":"Cybersecurity Awareness- Ransomware"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/security-awareness
   - skill/cloud-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Awareness: Cloud Security (2022)](https://media.licdn.com/dms/image/v2/D560DAQEGAvyIJDYcWg/learning-public-crop_675_1200/B56ZgfRdMzHQAY-/0/1752871327211?e=2147483647&amp;v=beta&amp;t=cqqxPZMtXncYLxGEcDvoXKhuwS8NfJ7VDhXCO6Xmiwc)

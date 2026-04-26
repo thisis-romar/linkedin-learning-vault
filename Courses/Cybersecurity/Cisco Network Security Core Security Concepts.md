@@ -15,7 +15,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHwk3F66wSmOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1606333471779?e=2147483647&amp;v=beta&amp;t=Pk-jiBW5VG3p_Oxg_gVlyfsq4i2fpiuHomBg60kuMpw"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Cisco Network Security- Safeguarding Network Integrity and Data
+  - '[[Cisco Network Security- Safeguarding Network Integrity and Data]]'
+next_courses:
+  - '[[Cisco Network Security- Secure Access]]'
+path_nav: '[{"path":"Cisco Network Security- Safeguarding Network Integrity and Data","position":1,"total":7,"prev":null,"next":"Cisco Network Security- Secure Access"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - skill/network-security
   - skill/cisco-networking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cisco Network Security Core Security Concepts](https://media.licdn.com/dms/image/v2/C4E0DAQHwk3F66wSmOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1606333471779?e=2147483647&amp;v=beta&amp;t=Pk-jiBW5VG3p_Oxg_gVlyfsq4i2fpiuHomBg60kuMpw)

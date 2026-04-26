@@ -7,7 +7,7 @@ course_count: 7
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops
@@ -47,7 +47,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Mastering Jira Administration
@@ -78,3 +78,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Mastering Jira for Software Developers]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

@@ -17,10 +17,21 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHtai2uKxMcWA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568066318011?e=2147483647&amp;v=beta&amp;t=Kxr23tPSI4oAxVChhhky4PCVZ2xq3mwJNmEuj3nhfOI"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore a Career in Front-End Web Development
-  - Explore Web Development with Vanilla JavaScript
-  - Become a JavaScript Developer
-  - Advance Your JavaScript Skills
+  - '[[Explore a Career in Front-End Web Development]]'
+  - '[[Explore Web Development with Vanilla JavaScript]]'
+  - '[[Become a JavaScript Developer]]'
+  - '[[Advance Your JavaScript Skills]]'
+prev_courses:
+  - '[[React.js- Building an Interface]]'
+  - '[[Learning Functional Programming with JavaScript ES6+]]'
+  - '[[JavaScript- Ajax and Fetch]]'
+  - '[[End-to-End JavaScript Testing with Cypress.io]]'
+next_courses:
+  - '[[jQuery Essential Training]]'
+  - '[[JSON Essential Training]]'
+  - null
+  - null
+path_nav: '[{"path":"Explore a Career in Front-End Web Development","position":10,"total":11,"prev":"React.js- Building an Interface","next":"jQuery Essential Training"},{"path":"Explore Web Development with Vanilla JavaScript","position":3,"total":8,"prev":"Learning Functional Programming with JavaScript ES6+","next":"JSON Essential Training"},{"path":"Become a JavaScript Developer","position":13,"total":13,"prev":"JavaScript- Ajax and Fetch","next":null},{"path":"Advance Your JavaScript Skills","position":10,"total":10,"prev":"End-to-End JavaScript Testing with Cypress.io","next":null}]'
 path_count: 4
 tags:
   - course
@@ -30,7 +41,7 @@ tags:
   - skill/javascript
   - skill/application-programming-interfaces-api
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Modern Browser APIs](https://media.licdn.com/dms/image/v2/C4E0DAQHtai2uKxMcWA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568066318011?e=2147483647&amp;v=beta&amp;t=Kxr23tPSI4oAxVChhhky4PCVZ2xq3mwJNmEuj3nhfOI)

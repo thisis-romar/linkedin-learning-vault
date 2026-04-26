@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFnONLlXjvw0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707171588330?e=2147483647&amp;v=beta&amp;t=92Qg-Knuo5NLnsx3Ayar6RreY7SfZIbD3BmWrigTrXw"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Generative AI for Sales with Microsoft 365 Copilot Professional Certificate
+  - '[[Generative AI for Sales with Microsoft 365 Copilot Professional Certificate]]'
+prev_courses:
+  - '[[Excel with Copilot- AI-Driven Data Analysis]]'
+next_courses:
+  - '[[Microsoft 365 Copilot- Helpful Tips for Sales Professionals]]'
+path_nav: '[{"path":"Generative AI for Sales with Microsoft 365 Copilot Professional Certificate","position":5,"total":6,"prev":"Excel with Copilot- AI-Driven Data Analysis","next":"Microsoft 365 Copilot- Helpful Tips for Sales Professionals"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Copilot in PowerPoint: From Prompt to Presentation (2024)](https://media.licdn.com/dms/image/v2/D560DAQFnONLlXjvw0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707171588330?e=2147483647&amp;v=beta&amp;t=92Qg-Knuo5NLnsx3Ayar6RreY7SfZIbD3BmWrigTrXw)

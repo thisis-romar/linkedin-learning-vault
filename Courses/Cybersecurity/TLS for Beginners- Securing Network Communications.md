@@ -10,15 +10,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHxXQM9HsuLfg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715892606980?e=2147483647&amp;v=beta&amp;t=12Mu0DYuPdr366ciLJd1tGoiO2RY-Qsh_jDVuMakpTw"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an IT Security Specialist
-  - Cybersecurity Fundamentals
+  - '[[Become an IT Security Specialist]]'
+  - '[[Cybersecurity Fundamentals]]'
+prev_courses:
+  - '[[IT Security Foundations- Network Security]]'
+  - '[[Introduction to Identity and Access Management]]'
+next_courses:
+  - '[[Cybersecurity with Cloud Computing]]'
+  - '[[Cybersecurity with Cloud Computing]]'
+path_nav: '[{"path":"Become an IT Security Specialist","position":5,"total":12,"prev":"IT Security Foundations- Network Security","next":"Cybersecurity with Cloud Computing"},{"path":"Cybersecurity Fundamentals","position":10,"total":12,"prev":"Introduction to Identity and Access Management","next":"Cybersecurity with Cloud Computing"}]'
 path_count: 2
 tags:
   - course
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![TLS for Beginners: Securing Network Communications](https://media.licdn.com/dms/image/v2/D560DAQHxXQM9HsuLfg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715892606980?e=2147483647&amp;v=beta&amp;t=12Mu0DYuPdr366ciLJd1tGoiO2RY-Qsh_jDVuMakpTw)

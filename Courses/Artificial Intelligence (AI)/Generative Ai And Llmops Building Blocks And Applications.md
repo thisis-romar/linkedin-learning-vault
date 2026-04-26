@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFXjydWD3OcVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708641310292?e=2147483647&amp;v=beta&amp;t=3eI1N8YL_ZOR6b0PmPIi9rcnB2ax0CmxgzfgcstY9AI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Manage Your LLMs with LLMOps
+  - '[[Manage Your LLMs with LLMOps]]'
+next_courses:
+  - '[[LLMOps in Practice- A Deep Dive]]'
+path_nav: '[{"path":"Manage Your LLMs with LLMOps","position":1,"total":4,"prev":null,"next":"LLMOps in Practice- A Deep Dive"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative Ai And Llmops Building Blocks And Applications](https://media.licdn.com/dms/image/v2/D4E0DAQFXjydWD3OcVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708641310292?e=2147483647&amp;v=beta&amp;t=3eI1N8YL_ZOR6b0PmPIi9rcnB2ax0CmxgzfgcstY9AI)

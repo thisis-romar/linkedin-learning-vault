@@ -18,7 +18,10 @@ github: "https://github.com/LinkedInLearning/vanilla-js-DOM-2876283"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEL1YDA4pMuSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624636988037?e=2147483647&amp;v=beta&amp;t=8rrIP4NN2s_q3nQuIvT0KiT86gGqhsjREA3oLRT4JuY"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore Web Development with Vanilla JavaScript
+  - '[[Explore Web Development with Vanilla JavaScript]]'
+prev_courses:
+  - '[[Vanilla JavaScript- Web Performance Optimization APIs]]'
+path_nav: '[{"path":"Explore Web Development with Vanilla JavaScript","position":8,"total":8,"prev":"Vanilla JavaScript- Web Performance Optimization APIs","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/document-object-model-dom
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Vanilla JavaScript: Building on the Document Object Model (DOM)](https://media.licdn.com/dms/image/v2/C560DAQEL1YDA4pMuSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624636988037?e=2147483647&amp;v=beta&amp;t=8rrIP4NN2s_q3nQuIvT0KiT86gGqhsjREA3oLRT4JuY)

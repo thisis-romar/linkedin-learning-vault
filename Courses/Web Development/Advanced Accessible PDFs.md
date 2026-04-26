@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQH5SqlUTeF5Ug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679534675284?e=2147483647&amp;v=beta&amp;t=0nbI4Ce96_vagfYv9YmoFv9dvBV9U45Ux-p6eHXdOM8"
 linkedin_topic: Web Development
 learning_paths:
-  - Build for Digital Accessibility
+  - '[[Build for Digital Accessibility]]'
+prev_courses:
+  - '[[Creating Accessible PDFs]]'
+next_courses:
+  - '[[Accessibility and Inclusion with Figma]]'
+path_nav: '[{"path":"Build for Digital Accessibility","position":3,"total":12,"prev":"Creating Accessible PDFs","next":"Accessibility and Inclusion with Figma"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/pdf-management
   - skill/it-accessibility
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Accessible PDFs](https://media.licdn.com/dms/image/v2/C560DAQH5SqlUTeF5Ug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679534675284?e=2147483647&amp;v=beta&amp;t=0nbI4Ce96_vagfYv9YmoFv9dvBV9U45Ux-p6eHXdOM8)

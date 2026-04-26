@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHAQAdBkVz6hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684955127919?e=2147483647&amp;v=beta&amp;t=eRsqVQJpWM95caoU6-nGHoxe4dXQvpSnfMptiA2He1Y"
 linkedin_topic: Database Management
 learning_paths:
-  - Advance Your MS SQL Server Skills
+  - '[[Advance Your MS SQL Server Skills]]'
+prev_courses:
+  - '[[Implementing a Data Warehouse with SQL Server 2022]]'
+next_courses:
+  - '[[SQL Server Containerization- Modern Deployment Strategies for Data-Driven Organizations]]'
+path_nav: '[{"path":"Advance Your MS SQL Server Skills","position":6,"total":9,"prev":"Implementing a Data Warehouse with SQL Server 2022","next":"SQL Server Containerization- Modern Deployment Strategies for Data-Driven Organizations"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL Server 2022 Administration](https://media.licdn.com/dms/image/v2/D560DAQHAQAdBkVz6hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684955127919?e=2147483647&amp;v=beta&amp;t=eRsqVQJpWM95caoU6-nGHoxe4dXQvpSnfMptiA2He1Y)

@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQE1PjhgUpJ9-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568073920612?e=2147483647&amp;v=beta&amp;t=51ECuHjRfwT305vGerHs1HGctUQJNlkxZX_r-oty8d0"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started with Software Testing
+  - '[[Getting Started with Software Testing]]'
+prev_courses:
+  - '[[Learning Playwright]]'
+next_courses:
+  - '[[API Testing Foundations]]'
+path_nav: '[{"path":"Getting Started with Software Testing","position":7,"total":12,"prev":"Learning Playwright","next":"API Testing Foundations"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/load-testing
   - skill/jmeter
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JMeter: Performance and Load Testing](https://media.licdn.com/dms/image/v2/C4E0DAQE1PjhgUpJ9-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568073920612?e=2147483647&amp;v=beta&amp;t=51ECuHjRfwT305vGerHs1HGctUQJNlkxZX_r-oty8d0)

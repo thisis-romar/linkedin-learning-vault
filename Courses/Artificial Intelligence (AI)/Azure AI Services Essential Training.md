@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHrS3lLowhHkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734556436730?e=2147483647&amp;v=beta&amp;t=ybzRPlMMvMPyu4sx961DhzC4PMoL9jckyMcIo36veSg"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Foundational AI Skills for Azure Administration
+  - '[[Foundational AI Skills for Azure Administration]]'
+prev_courses:
+  - '[[Azure AI- The Big Picture]]'
+next_courses:
+  - '[[Apply Ethical AI Principles Using the Responsible AI Dashboard]]'
+path_nav: '[{"path":"Foundational AI Skills for Azure Administration","position":5,"total":6,"prev":"Azure AI- The Big Picture","next":"Apply Ethical AI Principles Using the Responsible AI Dashboard"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure AI Services Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQHrS3lLowhHkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734556436730?e=2147483647&amp;v=beta&amp;t=ybzRPlMMvMPyu4sx961DhzC4PMoL9jckyMcIo36veSg)

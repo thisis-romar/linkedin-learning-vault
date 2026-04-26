@@ -6,7 +6,7 @@ course_count: 5
 tags:
   - skill
   - skill/career-path-planning
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Career Path Planning

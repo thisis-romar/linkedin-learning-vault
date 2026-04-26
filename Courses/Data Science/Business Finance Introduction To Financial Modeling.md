@@ -14,7 +14,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQELq15JO8HXPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729722671043?e=2147483647&amp;v=beta&amp;t=7h7hmfy-8oytUyf0PervrTzicNTw7E1NM6Y-GrVqaLg"
 linkedin_topic: Data Science
 learning_paths:
-  - Strategic Execution and Business Impact for Senior Managers and Senior Leaders
+  - '[[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]]'
+next_courses:
+  - '[[Corporate Financial Statement Analysis (2023)]]'
+path_nav: '[{"path":"Strategic Execution and Business Impact for Senior Managers and Senior Leaders","position":1,"total":12,"prev":null,"next":"Corporate Financial Statement Analysis (2023)"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - skill/corporate-finance
   - skill/financial-modeling
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Finance Introduction To Financial Modeling](https://media.licdn.com/dms/image/v2/D560DAQELq15JO8HXPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729722671043?e=2147483647&amp;v=beta&amp;t=7h7hmfy-8oytUyf0PervrTzicNTw7E1NM6Y-GrVqaLg)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/software-development-fundamentals
 course_count: 10
 linkedin_topics:
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/software-development
@@ -57,7 +57,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Software Development Fundamentals
@@ -94,3 +94,7 @@ _Paths that share courses with this one:_
 - [[Become a Software Developer]] (2 shared courses)
 - [[Getting Started with WordPress]] (2 shared courses)
 - [[C- Excellence- Architecting High-Performance Solutions]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Software Development]]

@@ -6,7 +6,7 @@ linkedin_topic: Mobile Development
 tags:
   - moc
   - topic/mobile-development
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Mobile Development
@@ -33,3 +33,7 @@ created: 2026-04-20
 - [[C- Unit Testing with xUnit]] — 1 paths
 - [[C- Practice- Generic Collections]] — 1 paths
 - [[Xcode 15 Essential Training]] — 1 paths
+
+---
+
+Part of [[000 Map of Content]]

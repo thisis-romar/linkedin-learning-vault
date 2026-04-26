@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/php-user-authentication-2892138"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFloSykEzyuZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630601162735?e=2147483647&amp;v=beta&amp;t=IMAwMAd1iIz9kPfdmDaShrr20m40ryqsJvlAa9tVz7U"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your PHP Skills
+  - '[[Advance Your PHP Skills]]'
+prev_courses:
+  - '[[PHP- Creating Secure Websites]]'
+next_courses:
+  - '[[PHP Techniques- Pagination]]'
+path_nav: '[{"path":"Advance Your PHP Skills","position":5,"total":7,"prev":"PHP- Creating Secure Websites","next":"PHP Techniques- Pagination"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/digital-authentication
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![PHP: User Authentication](https://media.licdn.com/dms/image/v2/C4E0DAQFloSykEzyuZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630601162735?e=2147483647&amp;v=beta&amp;t=IMAwMAd1iIz9kPfdmDaShrr20m40ryqsJvlAa9tVz7U)

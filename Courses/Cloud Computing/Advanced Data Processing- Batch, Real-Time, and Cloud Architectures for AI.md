@@ -20,7 +20,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE5bR1Puq69Hw/learning-public-crop_675_1200/B4DZZkfbphG4Ac-/0/1745442684244?e=2147483647&amp;v=beta&amp;t=g_DFjThjXJ4Pd3kx3O8m6gkLBkzLURaAkI8sap5zZEk"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Working with Data- Collecting, Processing, and Storing Data for AI
+  - '[[Working with Data- Collecting, Processing, and Storing Data for AI]]'
+prev_courses:
+  - '[[Scalable Data Storage and Processing for AI Workloads]]'
+path_nav: '[{"path":"Working with Data- Collecting, Processing, and Storing Data for AI","position":6,"total":6,"prev":"Scalable Data Storage and Processing for AI Workloads","next":null}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +36,7 @@ tags:
   - skill/cloud-native-architecture
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Data Processing: Batch, Real-Time, and Cloud Architectures for AI](https://media.licdn.com/dms/image/v2/D4D0DAQE5bR1Puq69Hw/learning-public-crop_675_1200/B4DZZkfbphG4Ac-/0/1745442684244?e=2147483647&amp;v=beta&amp;t=g_DFjThjXJ4Pd3kx3O8m6gkLBkzLURaAkI8sap5zZEk)

@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQG28KHopi6kWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619735443478?e=2147483647&amp;v=beta&amp;t=U5fUSj6XbdM7tR_q9ix_WGa_Pig5SqY8AUCIGx1QaWA"
 linkedin_topic: Data Science
 learning_paths:
-  - Master SQL Development
+  - '[[Master SQL Development]]'
+prev_courses:
+  - '[[Top Five Things To Know In Advanced Sql]]'
+next_courses:
+  - '[[Advanced SQL- Logical Query Processing, Part 2]]'
+path_nav: '[{"path":"Master SQL Development","position":2,"total":8,"prev":"Top Five Things To Know In Advanced Sql","next":"Advanced SQL- Logical Query Processing, Part 2"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced SQL: Logical Query Processing, Part 1](https://media.licdn.com/dms/image/v2/C4E0DAQG28KHopi6kWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619735443478?e=2147483647&amp;v=beta&amp;t=U5fUSj6XbdM7tR_q9ix_WGa_Pig5SqY8AUCIGx1QaWA)

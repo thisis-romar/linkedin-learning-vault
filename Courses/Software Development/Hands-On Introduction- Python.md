@@ -17,16 +17,25 @@ github: "https://github.com/LinkedInLearning/hands-on-python-3084712/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGMn-0MyDgvMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666990089517?e=2147483647&amp;v=beta&amp;t=kPGoj89jEDZ85eOQ8Y9_7EAFUDEsnR5iN4g7bDhXEw4"
 linkedin_topic: Software Development
 learning_paths:
-  - A Quick Start Guide to Programming in Python
-  - Python Hands-On Practice
-  - Advance Your Skills in Python
+  - '[[A Quick Start Guide to Programming in Python]]'
+  - '[[Python Hands-On Practice]]'
+  - '[[Advance Your Skills in Python]]'
+prev_courses:
+  - '[[Programming Concepts for Python]]'
+  - null
+  - null
+next_courses:
+  - '[[Level Up- Python]]'
+  - '[[Practice It- Python Data Structures]]'
+  - '[[Python- Design Patterns]]'
+path_nav: '[{"path":"A Quick Start Guide to Programming in Python","position":5,"total":6,"prev":"Programming Concepts for Python","next":"Level Up- Python"},{"path":"Python Hands-On Practice","position":1,"total":14,"prev":null,"next":"Practice It- Python Data Structures"},{"path":"Advance Your Skills in Python","position":1,"total":7,"prev":null,"next":"Python- Design Patterns"}]'
 path_count: 3
 tags:
   - course
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On Introduction: Python](https://media.licdn.com/dms/image/v2/D560DAQGMn-0MyDgvMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666990089517?e=2147483647&amp;v=beta&amp;t=kPGoj89jEDZ85eOQ8Y9_7EAFUDEsnR5iN4g7bDhXEw4)

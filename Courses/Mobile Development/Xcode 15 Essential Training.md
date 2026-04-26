@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGYik8ZFXnpIQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711149305087?e=2147483647&amp;v=beta&amp;t=3E-HNHG1MtzPh9Djjvq4OlC2WYTf6amA4kqydT1VHxo"
 linkedin_topic: Mobile Development
 learning_paths:
-  - Get Started with iOS App Development
+  - '[[Get Started with iOS App Development]]'
+prev_courses:
+  - '[[Swift 5 Essential Training]]'
+next_courses:
+  - '[[iOS 17 Development Essential Training]]'
+path_nav: '[{"path":"Get Started with iOS App Development","position":2,"total":4,"prev":"Swift 5 Essential Training","next":"iOS 17 Development Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/xcode
   - skill/ios-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Xcode 15 Essential Training](https://media.licdn.com/dms/image/v2/D560DAQGYik8ZFXnpIQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711149305087?e=2147483647&amp;v=beta&amp;t=3E-HNHG1MtzPh9Djjvq4OlC2WYTf6amA4kqydT1VHxo)

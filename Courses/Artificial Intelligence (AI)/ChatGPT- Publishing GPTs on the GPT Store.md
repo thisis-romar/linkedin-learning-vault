@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHiK69n7JAOYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705194262010?e=2147483647&amp;v=beta&amp;t=Kpt4S9Ij2xn0Ec7zoz_SE6EagkZ0P8oE9YMWMe8Dmzw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Getting Started with Custom GPTs, Copilots, and AI Agents
+  - '[[Getting Started with Custom GPTs, Copilots, and AI Agents]]'
+prev_courses:
+  - '[[Openai Chatgpt Creating Custom Gpts]]'
+next_courses:
+  - '[[ChatGPT- Crafting Exceptional GPTs for Enhanced Productivity and Innovation]]'
+path_nav: '[{"path":"Getting Started with Custom GPTs, Copilots, and AI Agents","position":2,"total":5,"prev":"Openai Chatgpt Creating Custom Gpts","next":"ChatGPT- Crafting Exceptional GPTs for Enhanced Productivity and Innovation"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ChatGPT: Publishing GPTs on the GPT Store](https://media.licdn.com/dms/image/v2/D560DAQHiK69n7JAOYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705194262010?e=2147483647&amp;v=beta&amp;t=Kpt4S9Ij2xn0Ec7zoz_SE6EagkZ0P8oE9YMWMe8Dmzw)

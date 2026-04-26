@@ -18,7 +18,10 @@ github: "https://github.com/LinkedInLearning/advanced-nlp-with-python-for-machin
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGTubKeur8sMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008930353?e=2147483647&amp;v=beta&amp;t=PZUtYX6-bOg6xbI_5l58ZD_rgUmE9NdkRfkR2tgE86s"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills in Natural Language Processing
+  - '[[Advance Your Skills in Natural Language Processing]]'
+next_courses:
+  - '[[Hands-On Natural Language Processing]]'
+path_nav: '[{"path":"Advance Your Skills in Natural Language Processing","position":1,"total":6,"prev":null,"next":"Hands-On Natural Language Processing"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Nlp With Python For Machine Learning](https://media.licdn.com/dms/image/v2/D560DAQGTubKeur8sMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008930353?e=2147483647&amp;v=beta&amp;t=PZUtYX6-bOg6xbI_5l58ZD_rgUmE9NdkRfkR2tgE86s)

@@ -20,8 +20,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHxGy-CJZ5wvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695680417870?e=2147483647&amp;v=beta&amp;t=oBUjeYScixc-EKatZ6WDzDEAfWszH8YSleOKh5LgYV4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Become an AI-Powered Recruiter
-  - Generative AI for Recruiting Professional Certificate by LinkedIn Learning
+  - '[[Become an AI-Powered Recruiter]]'
+  - '[[Generative AI for Recruiting Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Generative AI in HR]]'
+  - null
+next_courses:
+  - '[[Navigating AI Through an Intersectional DEI Lens]]'
+  - '[[Harnessing AI in the Recruiting Lifecycle]]'
+path_nav: '[{"path":"Become an AI-Powered Recruiter","position":3,"total":5,"prev":"Generative AI in HR","next":"Navigating AI Through an Intersectional DEI Lens"},{"path":"Generative AI for Recruiting Professional Certificate by LinkedIn Learning","position":1,"total":6,"prev":null,"next":"Harnessing AI in the Recruiting Lifecycle"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/generative-ai-for-recruiting
   - skill/recruiting
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI, Recruiting, and Talent Acquisition](https://media.licdn.com/dms/image/v2/D560DAQHxGy-CJZ5wvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695680417870?e=2147483647&amp;v=beta&amp;t=oBUjeYScixc-EKatZ6WDzDEAfWszH8YSleOKh5LgYV4)

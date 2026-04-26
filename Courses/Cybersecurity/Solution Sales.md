@@ -16,14 +16,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHJXVEV0MBrKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1569622270306?e=2147483647&amp;v=beta&amp;t=0TVz1iZ53B4Q9xNWSOfu2MVeVxN4IuMXK4MtJlaV_6Y"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Cybersecurity for Sales Professionals
+  - '[[Cybersecurity for Sales Professionals]]'
+prev_courses:
+  - '[[Soft Skills for Information Security Professionals]]'
+path_nav: '[{"path":"Cybersecurity for Sales Professionals","position":7,"total":7,"prev":"Soft Skills for Information Security Professionals","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/solution-selling
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Solution Sales](https://media.licdn.com/dms/image/v2/C4E0DAQHJXVEV0MBrKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1569622270306?e=2147483647&amp;v=beta&amp;t=0TVz1iZ53B4Q9xNWSOfu2MVeVxN4IuMXK4MtJlaV_6Y)

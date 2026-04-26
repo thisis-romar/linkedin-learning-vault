@@ -16,8 +16,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQF-ya9njt1iAg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589403154535?e=2147483647&amp;v=beta&amp;t=gpL-56UnJeWPsueTMhulpwIDTWMUZhLULVmw2yd5kC8"
 linkedin_topic: DevOps
 learning_paths:
-  - ServiceNow IT Leadership Professional Certificate
-  - Advance Your Communication Skills as a Tech Manager
+  - '[[ServiceNow IT Leadership Professional Certificate]]'
+  - '[[Advance Your Communication Skills as a Tech Manager]]'
+prev_courses:
+  - '[[Introduction to IT Architecture]]'
+  - '[[Tech Career Skills- Effective Technical Communication]]'
+next_courses:
+  - null
+  - '[[Succeeding As A First Time Tech Manager]]'
+path_nav: '[{"path":"ServiceNow IT Leadership Professional Certificate","position":4,"total":4,"prev":"Introduction to IT Architecture","next":null},{"path":"Advance Your Communication Skills as a Tech Manager","position":2,"total":6,"prev":"Tech Career Skills- Effective Technical Communication","next":"Succeeding As A First Time Tech Manager"}]'
 path_count: 2
 tags:
   - course
@@ -25,7 +32,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-strategic-planning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Creating Your IT Strategy](https://media.licdn.com/dms/image/v2/C4D0DAQF-ya9njt1iAg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589403154535?e=2147483647&amp;v=beta&amp;t=gpL-56UnJeWPsueTMhulpwIDTWMUZhLULVmw2yd5kC8)

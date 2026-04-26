@@ -15,7 +15,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGHNknL738WcA/learning-public-crop_675_1200/B56ZifSug4G4Ag-/0/1755019143485?e=2147483647&amp;v=beta&amp;t=q7YsCl2eSEB2H34Ug1Uz0-MYsc8WZ88UrvqcOBdfYPU"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Get Ahead in DevSecOps
+  - '[[Get Ahead in DevSecOps]]'
+next_courses:
+  - '[[DevSecOps- Automated Security Testing]]'
+path_nav: '[{"path":"Get Ahead in DevSecOps","position":1,"total":5,"prev":null,"next":"DevSecOps- Automated Security Testing"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - skill/devops
   - skill/devsecops
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Devops Foundations Devsecops](https://media.licdn.com/dms/image/v2/D560DAQGHNknL738WcA/learning-public-crop_675_1200/B56ZifSug4G4Ag-/0/1755019143485?e=2147483647&amp;v=beta&amp;t=q7YsCl2eSEB2H34Ug1Uz0-MYsc8WZ88UrvqcOBdfYPU)

@@ -16,9 +16,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGbRg1XEBD8lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725395859168?e=2147483647&amp;v=beta&amp;t=0QgSKDrLBSy9cfUj4w0wO6ISl-ijyshjyNHJo9sUT18"
 linkedin_topic: Software Development
 learning_paths:
-  - The Top Skills Engineering Professionals Have Right Now
-  - Getting Started as a Java Developer
-  - Java Foundations Professional Certificate by JetBrains
+  - '[[The Top Skills Engineering Professionals Have Right Now]]'
+  - '[[Getting Started as a Java Developer]]'
+  - '[[Java Foundations Professional Certificate by JetBrains]]'
+prev_courses:
+  - '[[JavaScript Essential Training]]'
+  - '[[Java Essential Training Syntax And Structure]]'
+  - '[[Java Essential Training Syntax And Structure]]'
+next_courses:
+  - '[[SOLIDWORKS 2022 Essential Training]]'
+  - '[[Learning Spring 6 With Spring Boot]]'
+  - '[[Java Object-Oriented Programming]]'
+path_nav: '[{"path":"The Top Skills Engineering Professionals Have Right Now","position":3,"total":9,"prev":"JavaScript Essential Training","next":"SOLIDWORKS 2022 Essential Training"},{"path":"Getting Started as a Java Developer","position":2,"total":10,"prev":"Java Essential Training Syntax And Structure","next":"Learning Spring 6 With Spring Boot"},{"path":"Java Foundations Professional Certificate by JetBrains","position":2,"total":5,"prev":"Java Essential Training Syntax And Structure","next":"Java Object-Oriented Programming"}]'
 path_count: 3
 tags:
   - course
@@ -27,7 +36,7 @@ tags:
   - topic/web-development
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Java Essential Training: Objects and APIs](https://media.licdn.com/dms/image/v2/D4D0DAQGbRg1XEBD8lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725395859168?e=2147483647&amp;v=beta&amp;t=0QgSKDrLBSy9cfUj4w0wO6ISl-ijyshjyNHJo9sUT18)

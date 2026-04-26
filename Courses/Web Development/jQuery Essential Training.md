@@ -17,7 +17,10 @@ github: "https://github.com/LinkedInLearning/jquery-essential-training-5915453"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHPrtoXQNMIaQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728430867016?e=2147483647&amp;v=beta&amp;t=whwLQwvrwmoJge40s0Z1883kxvvxr2dLnx1Tk6guRO8"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore a Career in Front-End Web Development
+  - '[[Explore a Career in Front-End Web Development]]'
+prev_courses:
+  - '[[JavaScript- Modern Browser APIs]]'
+path_nav: '[{"path":"Explore a Career in Front-End Web Development","position":11,"total":11,"prev":"JavaScript- Modern Browser APIs","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/jquery
   - skill/front-end-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![jQuery Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHPrtoXQNMIaQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728430867016?e=2147483647&amp;v=beta&amp;t=whwLQwvrwmoJge40s0Z1883kxvvxr2dLnx1Tk6guRO8)

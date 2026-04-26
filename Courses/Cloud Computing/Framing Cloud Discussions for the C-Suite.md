@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHX6MO5cwhOuw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629133124517?e=2147483647&amp;v=beta&amp;t=8ryrVNUYfIXV8A4_2vy2aTJZxQsYSmC_nlyFTG-17JA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Design and Present Your Cloud Strategy
-  - Advance Your Communication Skills as a Tech Manager
+  - '[[Design and Present Your Cloud Strategy]]'
+  - '[[Advance Your Communication Skills as a Tech Manager]]'
+prev_courses:
+  - '[[Design a Cloud Migration Strategy]]'
+  - '[[The Non Technical Skills Of Effective Data Scientists]]'
+next_courses:
+  - '[[Presenting Cloud Migration Benefits to the C-Suite]]'
+  - null
+path_nav: '[{"path":"Design and Present Your Cloud Strategy","position":4,"total":6,"prev":"Design a Cloud Migration Strategy","next":"Presenting Cloud Migration Benefits to the C-Suite"},{"path":"Advance Your Communication Skills as a Tech Manager","position":6,"total":6,"prev":"The Non Technical Skills Of Effective Data Scientists","next":null}]'
 path_count: 2
 tags:
   - course
@@ -20,7 +27,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Framing Cloud Discussions for the C-Suite](https://media.licdn.com/dms/image/v2/C560DAQHX6MO5cwhOuw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629133124517?e=2147483647&amp;v=beta&amp;t=8ryrVNUYfIXV8A4_2vy2aTJZxQsYSmC_nlyFTG-17JA)

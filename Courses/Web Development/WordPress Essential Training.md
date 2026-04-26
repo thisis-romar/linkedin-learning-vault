@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHxdDia9xNA2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724879645029?e=2147483647&amp;v=beta&amp;t=oY1fEaZtRd4gtXx5BHfiESMFQpoko03RXBNs9dd2v6U"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in WordPress
-  - Getting Started with WordPress
+  - '[[Advance Your Skills in WordPress]]'
+  - '[[Getting Started with WordPress]]'
+prev_courses:
+  - '[[Using Custom Meta Boxes in WordPress]]'
+  - null
+next_courses:
+  - '[[WordPress- Everything about Plugins]]'
+  - '[[Learning Git and GitHub]]'
+path_nav: '[{"path":"Advance Your Skills in WordPress","position":5,"total":8,"prev":"Using Custom Meta Boxes in WordPress","next":"WordPress- Everything about Plugins"},{"path":"Getting Started with WordPress","position":1,"total":10,"prev":null,"next":"Learning Git and GitHub"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/wordpress
   - skill/back-end-web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![WordPress Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQHxdDia9xNA2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724879645029?e=2147483647&amp;v=beta&amp;t=oY1fEaZtRd4gtXx5BHfiESMFQpoko03RXBNs9dd2v6U)

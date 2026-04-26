@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFNSSp1_JJtVg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696022453326?e=2147483647&amp;v=beta&amp;t=Ys0mSMllhARC46F_RLfOWWxIQLx3egJ3OWt-PlMQ78Y"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Build Your Cybersecurity Awareness Skills
-  - Cybersecurity for Sales Professionals
+  - '[[Build Your Cybersecurity Awareness Skills]]'
+  - '[[Cybersecurity for Sales Professionals]]'
+prev_courses:
+  - '[[Cybersecurity Awareness- Cybersecurity Terminology]]'
+  - '[[Cybersecurity Awareness- Cybersecurity Terminology]]'
+next_courses:
+  - '[[Cybersecurity Awareness- Phishing Attacks]]'
+  - '[[The Cybersecurity Threat Landscape]]'
+path_nav: '[{"path":"Build Your Cybersecurity Awareness Skills","position":4,"total":10,"prev":"Cybersecurity Awareness- Cybersecurity Terminology","next":"Cybersecurity Awareness- Phishing Attacks"},{"path":"Cybersecurity for Sales Professionals","position":3,"total":7,"prev":"Cybersecurity Awareness- Cybersecurity Terminology","next":"The Cybersecurity Threat Landscape"}]'
 path_count: 2
 tags:
   - course
@@ -20,7 +27,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Awareness: Social Engineering](https://media.licdn.com/dms/image/v2/D560DAQFNSSp1_JJtVg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696022453326?e=2147483647&amp;v=beta&amp;t=Ys0mSMllhARC46F_RLfOWWxIQLx3egJ3OWt-PlMQ78Y)

@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHxWEzKNHcwiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662490100152?e=2147483647&amp;v=beta&amp;t=7OBrbHMBV_a7UPGCBmN1EZrzmJ999SyR3MHluynEPeQ"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - SS&C Blue Prism Robotic Process Automation Professional Certificate
+  - '[[SS&C Blue Prism Robotic Process Automation Professional Certificate]]'
+prev_courses:
+  - '[[Process Mining for Robotic Process Automation]]'
+next_courses:
+  - '[[Intelligent Automation Foundations]]'
+path_nav: '[{"path":"SS&C Blue Prism Robotic Process Automation Professional Certificate","position":3,"total":4,"prev":"Process Mining for Robotic Process Automation","next":"Intelligent Automation Foundations"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/robotic-process-automation-rpa
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Process Discovery for Robotic Process Automation](https://media.licdn.com/dms/image/v2/C560DAQHxWEzKNHcwiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662490100152?e=2147483647&amp;v=beta&amp;t=7OBrbHMBV_a7UPGCBmN1EZrzmJ999SyR3MHluynEPeQ)

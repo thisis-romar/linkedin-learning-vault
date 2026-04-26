@@ -10,14 +10,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF2DX4_GzNtiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567115269548?e=2147483647&amp;v=beta&amp;t=g5LmcVPdzhfW9lqHFYmnAiAN2xMN4TIjV779tiJVtb0"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Programmer- Foundations
-  - Career Essentials in Software Development by Microsoft and LinkedIn
+  - '[[Become a Programmer- Foundations]]'
+  - '[[Career Essentials in Software Development by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Programming Foundations- Beyond the Fundamentals]]'
+  - '[[Programming Foundations- Beyond the Fundamentals]]'
+next_courses:
+  - '[[Programming Foundations- Algorithms]]'
+  - null
+path_nav: '[{"path":"Become a Programmer- Foundations","position":3,"total":12,"prev":"Programming Foundations- Beyond the Fundamentals","next":"Programming Foundations- Algorithms"},{"path":"Career Essentials in Software Development by Microsoft and LinkedIn","position":4,"total":4,"prev":"Programming Foundations- Beyond the Fundamentals","next":null}]'
 path_count: 2
 tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations: Object-Oriented Design](https://media.licdn.com/dms/image/v2/C4E0DAQF2DX4_GzNtiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567115269548?e=2147483647&amp;v=beta&amp;t=g5LmcVPdzhfW9lqHFYmnAiAN2xMN4TIjV779tiJVtb0)

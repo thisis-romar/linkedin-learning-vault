@@ -6,7 +6,7 @@ linkedin_topic: Cloud Computing
 tags:
   - moc
   - topic/cloud-computing
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Cloud Computing
@@ -93,3 +93,7 @@ created: 2026-04-20
 - [[Inclusive Tech- Conducting Humane Code Reviews]] — 3 paths
 - [[Cloud Architecture- Design Decisions]] — 3 paths
 - [[Cloud Security Architecture for the Enterprise]] — 3 paths
+
+---
+
+Part of [[000 Map of Content]]

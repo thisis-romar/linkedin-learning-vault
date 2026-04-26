@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/building-a-website-with-nodejs-and-
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHNu_2nM0E_OA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578674895854?e=2147483647&amp;v=beta&amp;t=iO17C7utFWESU09K9yMep2zfuYV8o3OVaaBJIGMHIBY"
 linkedin_topic: Database Management
 learning_paths:
-  - Explore App Development with the MERN Stack
+  - '[[Explore App Development with the MERN Stack]]'
+prev_courses:
+  - '[[Node.js- Testing and Code Quality]]'
+next_courses:
+  - '[[Building RESTful APIs with Node.js and Express]]'
+path_nav: '[{"path":"Explore App Development with the MERN Stack","position":7,"total":13,"prev":"Node.js- Testing and Code Quality","next":"Building RESTful APIs with Node.js and Express"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/express-js
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Website with Node.js and Express.js](https://media.licdn.com/dms/image/v2/C560DAQHNu_2nM0E_OA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578674895854?e=2147483647&amp;v=beta&amp;t=iO17C7utFWESU09K9yMep2zfuYV8o3OVaaBJIGMHIBY)

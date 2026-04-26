@@ -10,11 +10,24 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGIo14Yl1Ccyg/learning-public-crop_675_1200/B4EZThmaL3HcAY-/0/1738951730202?e=2147483647&amp;v=beta&amp;t=2el620LSWnQ-M3BvTXG1yKHBcGq9Y7py3hJvLydzNTo"
 linkedin_topic: Data Science
 learning_paths:
-  - The Top 10 Most Popular Courses among IT Professionals
-  - Working Smarter with Microsoft 365
-  - Build Your Excel Skills
-  - Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)
-  - Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)
+  - '[[The Top 10 Most Popular Courses among IT Professionals]]'
+  - '[[Working Smarter with Microsoft 365]]'
+  - '[[Build Your Excel Skills]]'
+  - '[[Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)]]'
+  - '[[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)]]'
+prev_courses:
+  - '[[Communicating with Confidence]]'
+  - null
+  - null
+  - null
+  - null
+next_courses:
+  - '[[Cybersecurity Foundations]]'
+  - '[[Outlook Essential Training (Microsoft 365)]]'
+  - '[[Excel- Advanced Formulas and Functions (2023)]]'
+  - '[[Excel- Tips and Tricks (2023)]]'
+  - '[[Excel Introduction To Formulas And Functions]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among IT Professionals","position":8,"total":10,"prev":"Communicating with Confidence","next":"Cybersecurity Foundations"},{"path":"Working Smarter with Microsoft 365","position":1,"total":9,"prev":null,"next":"Outlook Essential Training (Microsoft 365)"},{"path":"Build Your Excel Skills","position":1,"total":3,"prev":null,"next":"Excel- Advanced Formulas and Functions (2023)"},{"path":"Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)","position":1,"total":7,"prev":null,"next":"Excel- Tips and Tricks (2023)"},{"path":"Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)","position":1,"total":7,"prev":null,"next":"Excel Introduction To Formulas And Functions"}]'
 path_count: 5
 tags:
   - course
@@ -23,7 +36,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel Essential Training (Microsoft 365)](https://media.licdn.com/dms/image/v2/D4E0DAQGIo14Yl1Ccyg/learning-public-crop_675_1200/B4EZThmaL3HcAY-/0/1738951730202?e=2147483647&amp;v=beta&amp;t=2el620LSWnQ-M3BvTXG1yKHBcGq9Y7py3hJvLydzNTo)

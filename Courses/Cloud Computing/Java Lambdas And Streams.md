@@ -15,7 +15,10 @@ github: "https://github.com/LinkedInLearning/java-lambdas-streams-2453107"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE9ni67NPykmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351910833?e=2147483647&amp;v=beta&amp;t=DolbyuGsb_3Of4uo0GVDGqcJu-SRq0kXnefCWxCAeXg"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Building Your Java Skills
+  - '[[Building Your Java Skills]]'
+next_courses:
+  - '[[Java- Generic Classes]]'
+path_nav: '[{"path":"Building Your Java Skills","position":1,"total":6,"prev":null,"next":"Java- Generic Classes"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Java Lambdas And Streams](https://media.licdn.com/dms/image/v2/D560DAQE9ni67NPykmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351910833?e=2147483647&amp;v=beta&amp;t=DolbyuGsb_3Of4uo0GVDGqcJu-SRq0kXnefCWxCAeXg)

@@ -21,7 +21,12 @@ github: "https://github.com/LinkedInLearning/using-ai-in-the-design-to-full-stac
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEpwEOxJDMD-A/learning-public-crop_675_1200/B4DZVegT0sG8Ac-/0/1741047283297?e=2147483647&amp;v=beta&amp;t=bTgekdZQvIw8ZOuOmTNs-u8Z7GmDh7VGR2mxuFcXhBo"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Transform Your Programming with AI Coding Tools
+  - '[[Transform Your Programming with AI Coding Tools]]'
+prev_courses:
+  - '[[Build with AI- Beyond Pair Programming with AI]]'
+next_courses:
+  - '[[Refactoring with GitHub Copilot]]'
+path_nav: '[{"path":"Transform Your Programming with AI Coding Tools","position":2,"total":7,"prev":"Build with AI- Beyond Pair Programming with AI","next":"Refactoring with GitHub Copilot"}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/firebase
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using AI in the Design to Full-Stack Development Life Cycle](https://media.licdn.com/dms/image/v2/D4D0DAQEpwEOxJDMD-A/learning-public-crop_675_1200/B4DZVegT0sG8Ac-/0/1741047283297?e=2147483647&amp;v=beta&amp;t=bTgekdZQvIw8ZOuOmTNs-u8Z7GmDh7VGR2mxuFcXhBo)

@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/data-pipeline-automation-with-githu
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHvVdDve6puQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713388433219?e=2147483647&amp;v=beta&amp;t=mG5AuFH5Tkyk2oiJYqBS0Zx_Z2OiYNRNGFYlNWvTuoA"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Data Engineering Skills
+  - '[[Advance Your Data Engineering Skills]]'
+prev_courses:
+  - '[[Data Engineering Project- Build Streaming Ingestion Pipelines for Snowflake with AWS]]'
+next_courses:
+  - '[[End-to-End Data Engineering Project]]'
+path_nav: '[{"path":"Advance Your Data Engineering Skills","position":9,"total":10,"prev":"Data Engineering Project- Build Streaming Ingestion Pipelines for Snowflake with AWS","next":"End-to-End Data Engineering Project"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/github
   - skill/data-pipelines
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Pipeline Automation with GitHub Actions Using R and Python](https://media.licdn.com/dms/image/v2/D560DAQHvVdDve6puQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713388433219?e=2147483647&amp;v=beta&amp;t=mG5AuFH5Tkyk2oiJYqBS0Zx_Z2OiYNRNGFYlNWvTuoA)

@@ -16,14 +16,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFaDTDoJostiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692903082788?e=2147483647&amp;v=beta&amp;t=G_Umkq2gwOUQY-kQE9Q5I_1JzvD5zj8gLRI8DZsr4Bc"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore a Career as a JavaScript Developer
+  - '[[Explore a Career as a JavaScript Developer]]'
+prev_courses:
+  - '[[JavaScript- Five Advanced Challenges and Concepts]]'
+path_nav: '[{"path":"Explore a Career as a JavaScript Developer","position":5,"total":5,"prev":"JavaScript- Five Advanced Challenges and Concepts","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript Practice: Object-Oriented Programming](https://media.licdn.com/dms/image/v2/D560DAQFaDTDoJostiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692903082788?e=2147483647&amp;v=beta&amp;t=G_Umkq2gwOUQY-kQE9Q5I_1JzvD5zj8gLRI8DZsr4Bc)

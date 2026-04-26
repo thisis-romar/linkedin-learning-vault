@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/ai-for-organizational-leaders-by-mi
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 3
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # AI for Organizational Leaders by Microsoft and LinkedIn
@@ -74,3 +74,7 @@ _Paths that share courses with this one:_
 - [[LinkedIn’s 2025 Top MBA Programs Learning Path]] (2 shared courses)
 - [[Technical Literacy and Future Readiness for Senior Executives]] (2 shared courses)
 - [[Applying AI as a Tech Leader]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

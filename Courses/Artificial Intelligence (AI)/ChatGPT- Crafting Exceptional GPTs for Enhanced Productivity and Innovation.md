@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFUqm3mpYOMSg/learning-public-crop_675_1200/B56ZS92NixGsAc-/0/1738351893411?e=2147483647&amp;v=beta&amp;t=5zvzO-nOEjMdkkACC8Hho5XujaBxfAG8Yoy6V_Opv6A"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Getting Started with Custom GPTs, Copilots, and AI Agents
+  - '[[Getting Started with Custom GPTs, Copilots, and AI Agents]]'
+prev_courses:
+  - '[[ChatGPT- Publishing GPTs on the GPT Store]]'
+next_courses:
+  - '[[Copilot Agents- Build Your Own AI Assistant in Copilot and Teams (No Code Required) (February 2025)]]'
+path_nav: '[{"path":"Getting Started with Custom GPTs, Copilots, and AI Agents","position":3,"total":5,"prev":"ChatGPT- Publishing GPTs on the GPT Store","next":"Copilot Agents- Build Your Own AI Assistant in Copilot and Teams (No Code Required) (February 2025)"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ChatGPT: Crafting Exceptional GPTs for Enhanced Productivity and Innovation](https://media.licdn.com/dms/image/v2/D560DAQFUqm3mpYOMSg/learning-public-crop_675_1200/B56ZS92NixGsAc-/0/1738351893411?e=2147483647&amp;v=beta&amp;t=5zvzO-nOEjMdkkACC8Hho5XujaBxfAG8Yoy6V_Opv6A)

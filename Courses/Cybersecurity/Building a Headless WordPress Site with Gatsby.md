@@ -18,7 +18,10 @@ github: "https://github.com/LinkedInLearning/headless-wordpress-gatsby-3022691"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHfCK_-CVNrTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647886030952?e=2147483647&amp;v=beta&amp;t=9ZTxNHE0CK1_q_WHOnJbnP-kUEVpp221YMw6JYpalI4"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills in WordPress
+  - '[[Advance Your Skills in WordPress]]'
+prev_courses:
+  - '[[WordPress- REST API]]'
+path_nav: '[{"path":"Advance Your Skills in WordPress","position":8,"total":8,"prev":"WordPress- REST API","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/wordpress-development
   - skill/gatsbyjs
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Headless WordPress Site with Gatsby](https://media.licdn.com/dms/image/v2/C4E0DAQHfCK_-CVNrTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647886030952?e=2147483647&amp;v=beta&amp;t=9ZTxNHE0CK1_q_WHOnJbnP-kUEVpp221YMw6JYpalI4)

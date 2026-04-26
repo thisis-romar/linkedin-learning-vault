@@ -18,8 +18,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHf8YoKJmxsRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680541077730?e=2147483647&amp;v=beta&amp;t=IBBoK3aycTQMYg3k0-ombbNnm1hwtmhboR6d2JKL_G0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying Generative AI as a Creative Professional
-  - Understanding AI for Creative Professionals
+  - '[[Applying Generative AI as a Creative Professional]]'
+  - '[[Understanding AI for Creative Professionals]]'
+prev_courses:
+  - '[[Generative Ai Skills For Creative Content Opportunities Issues And Ethics]]'
+  - '[[Ethics in the Age of Generative AI]]'
+next_courses:
+  - '[[Midjourney- Tips and Techniques for Creating Images]]'
+  - '[[Generative AI for Digital Marketers]]'
+path_nav: '[{"path":"Applying Generative AI as a Creative Professional","position":2,"total":7,"prev":"Generative Ai Skills For Creative Content Opportunities Issues And Ethics","next":"Midjourney- Tips and Techniques for Creating Images"},{"path":"Understanding AI for Creative Professionals","position":5,"total":7,"prev":"Ethics in the Age of Generative AI","next":"Generative AI for Digital Marketers"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/conditional-image-generation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI Imaging: What Creative Pros Need to Know](https://media.licdn.com/dms/image/v2/D560DAQHf8YoKJmxsRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680541077730?e=2147483647&amp;v=beta&amp;t=IBBoK3aycTQMYg3k0-ombbNnm1hwtmhboR6d2JKL_G0)

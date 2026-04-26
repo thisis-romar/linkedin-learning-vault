@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGhAAbEq9iM4Q/learning-public-crop_675_1200/B4DZZApE5gG8AY-/0/1744841233017?e=2147483647&amp;v=beta&amp;t=ETlTkqGimQmbQXqSUJTi9dbDdCJZ3jYa9P0Sa2QDJNw"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Build Your Cybersecurity Awareness Skills
+  - '[[Build Your Cybersecurity Awareness Skills]]'
+prev_courses:
+  - '[[Cybersecurity At Work]]'
+next_courses:
+  - '[[Cybersecurity Awareness- Cybersecurity Terminology]]'
+path_nav: '[{"path":"Build Your Cybersecurity Awareness Skills","position":2,"total":10,"prev":"Cybersecurity At Work","next":"Cybersecurity Awareness- Cybersecurity Terminology"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Awareness: AI](https://media.licdn.com/dms/image/v2/D4D0DAQGhAAbEq9iM4Q/learning-public-crop_675_1200/B4DZZApE5gG8AY-/0/1744841233017?e=2147483647&amp;v=beta&amp;t=ETlTkqGimQmbQXqSUJTi9dbDdCJZ3jYa9P0Sa2QDJNw)

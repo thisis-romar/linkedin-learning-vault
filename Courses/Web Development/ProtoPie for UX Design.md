@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEqLK7R7bdWHg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634060303945?e=2147483647&amp;v=beta&amp;t=VMi_D0BVPl_HVc9Zol5g6z_DG4AkF956zQbQJ9StPlI"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your UX Prototyping Skills
+  - '[[Improve Your UX Prototyping Skills]]'
+prev_courses:
+  - '[[Lo-Fi to Hi-Fi- Prototyping in Figma]]'
+next_courses:
+  - '[[Sketching For Ux Designers]]'
+path_nav: '[{"path":"Improve Your UX Prototyping Skills","position":4,"total":6,"prev":"Lo-Fi to Hi-Fi- Prototyping in Figma","next":"Sketching For Ux Designers"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/protopie
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ProtoPie for UX Design](https://media.licdn.com/dms/image/v2/C560DAQEqLK7R7bdWHg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634060303945?e=2147483647&amp;v=beta&amp;t=VMi_D0BVPl_HVc9Zol5g6z_DG4AkF956zQbQJ9StPlI)

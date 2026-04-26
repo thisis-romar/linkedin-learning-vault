@@ -16,17 +16,42 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGldtWXmq06Cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614797593786?e=2147483647&amp;v=beta&amp;t=qyZKlvlp_rOxupPH3ur3_3ct9sL3tzGSePotVchLLMA"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation
-  - Statistics Foundations Professional Certificate by Wolfram Research
-  - Explore a Career in Data Analysis
-  - Develop Your Data Analysis Skills
-  - Mastering Executive-Level Data Analytics
-  - Build Your Analytical Skills with Statistical Analysis
-  - Moving from Data Analyst to Data Scientist
-  - Become a Data Analytics Specialist
-  - Anaconda Python for Data Science Professional Certificate
-  - Master Excel for Data Science
-  - Become a Data Scientist
+  - '[[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]]'
+  - '[[Statistics Foundations Professional Certificate by Wolfram Research]]'
+  - '[[Explore a Career in Data Analysis]]'
+  - '[[Develop Your Data Analysis Skills]]'
+  - '[[Mastering Executive-Level Data Analytics]]'
+  - '[[Build Your Analytical Skills with Statistical Analysis]]'
+  - '[[Moving from Data Analyst to Data Scientist]]'
+  - '[[Become a Data Analytics Specialist]]'
+  - '[[Anaconda Python for Data Science Professional Certificate]]'
+  - '[[Master Excel for Data Science]]'
+  - '[[Become a Data Scientist]]'
+prev_courses:
+  - '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+  - null
+  - '[[Data Science Foundations- Fundamentals]]'
+  - '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+  - '[[Learning Data Governance]]'
+  - null
+  - '[[Basics of Data Visualization Analysis]]'
+  - '[[Data Analytics- Dashboards vs. Data Stories]]'
+  - '[[Introduction to Data Science]]'
+  - null
+  - '[[Data Science Foundations- Fundamentals]]'
+next_courses:
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Data Science Foundations- Fundamentals]]'
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Statistics Foundations 3- Using Data Sets]]'
+  - '[[Complete Guide to Excel Statistics with Copilot]]'
+  - '[[Statistics Foundations 2- Probability]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation","position":2,"total":9,"prev":"Data Literacy Exploring And Describing Data In An Ai World","next":"Statistics Foundations 2- Probability"},{"path":"Statistics Foundations Professional Certificate by Wolfram Research","position":1,"total":7,"prev":null,"next":"Statistics Foundations 2- Probability"},{"path":"Explore a Career in Data Analysis","position":3,"total":6,"prev":"Data Science Foundations- Fundamentals","next":"Statistics Foundations 2- Probability"},{"path":"Develop Your Data Analysis Skills","position":2,"total":10,"prev":"Data Literacy Exploring And Describing Data In An Ai World","next":"Statistics Foundations 2- Probability"},{"path":"Mastering Executive-Level Data Analytics","position":2,"total":7,"prev":"Learning Data Governance","next":"Data Science Foundations- Fundamentals"},{"path":"Build Your Analytical Skills with Statistical Analysis","position":1,"total":4,"prev":null,"next":"Statistics Foundations 2- Probability"},{"path":"Moving from Data Analyst to Data Scientist","position":5,"total":11,"prev":"Basics of Data Visualization Analysis","next":"Statistics Foundations 2- Probability"},{"path":"Become a Data Analytics Specialist","position":6,"total":10,"prev":"Data Analytics- Dashboards vs. Data Stories","next":"Statistics Foundations 2- Probability"},{"path":"Anaconda Python for Data Science Professional Certificate","position":2,"total":5,"prev":"Introduction to Data Science","next":"Statistics Foundations 3- Using Data Sets"},{"path":"Master Excel for Data Science","position":1,"total":7,"prev":null,"next":"Complete Guide to Excel Statistics with Copilot"},{"path":"Become a Data Scientist","position":5,"total":11,"prev":"Data Science Foundations- Fundamentals","next":"Statistics Foundations 2- Probability"}]'
 path_count: 11
 tags:
   - course
@@ -34,7 +59,7 @@ tags:
   - topic/software-development
   - skill/statistics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Statistics Foundations 1: The Basics](https://media.licdn.com/dms/image/v2/C4E0DAQGldtWXmq06Cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614797593786?e=2147483647&amp;v=beta&amp;t=qyZKlvlp_rOxupPH3ur3_3ct9sL3tzGSePotVchLLMA)

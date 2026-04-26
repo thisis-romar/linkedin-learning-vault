@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEkrUJuLfFUWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637690787097?e=2147483647&amp;v=beta&amp;t=2vEEP-G4rTTwqTKWS6WzxNLzhpdpWfywV_DCzU5TBpg"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance as a Digital Marketing Specialist
+  - '[[Advance as a Digital Marketing Specialist]]'
+prev_courses:
+  - '[[Marketing Analytics Foundations]]'
+next_courses:
+  - '[[Marketing Foundations- Customer Decision Journey]]'
+path_nav: '[{"path":"Advance as a Digital Marketing Specialist","position":8,"total":9,"prev":"Marketing Analytics Foundations","next":"Marketing Foundations- Customer Decision Journey"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/e-commerce
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Marketing Foundations: Ecommerce](https://media.licdn.com/dms/image/v2/C560DAQEkrUJuLfFUWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637690787097?e=2147483647&amp;v=beta&amp;t=2vEEP-G4rTTwqTKWS6WzxNLzhpdpWfywV_DCzU5TBpg)

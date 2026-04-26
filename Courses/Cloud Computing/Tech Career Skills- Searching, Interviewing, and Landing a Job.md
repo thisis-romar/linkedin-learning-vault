@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFt-vtlJ7YweA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589564799693?e=2147483647&amp;v=beta&amp;t=Hr1FcfCLENFz6GfAEXfc7e-w31R91zCJXkd199wHXbw"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Starting Your Career in Tech- Software Development
+  - '[[Starting Your Career in Tech- Software Development]]'
+prev_courses:
+  - '[[Writing a Tech Resume]]'
+next_courses:
+  - '[[Rock Your LinkedIn Profile]]'
+path_nav: '[{"path":"Starting Your Career in Tech- Software Development","position":3,"total":6,"prev":"Writing a Tech Resume","next":"Rock Your LinkedIn Profile"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/job-search-strategies
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Tech Career Skills: Searching, Interviewing, and Landing a Job](https://media.licdn.com/dms/image/v2/C4E0DAQFt-vtlJ7YweA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589564799693?e=2147483647&amp;v=beta&amp;t=Hr1FcfCLENFz6GfAEXfc7e-w31R91zCJXkd199wHXbw)

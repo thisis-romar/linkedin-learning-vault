@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGOJN0DZ3MYUg/learning-public-crop_675_1200/B4EZhoPUiKGUAY-/0/1754095504223?e=2147483647&amp;v=beta&amp;t=OyTlRSSvAcV8E5vTqxNet40ZBA3Sp7bDG4PLuWHkxj8"
 linkedin_topic: Data Science
 learning_paths:
-  - Master SQL Development
+  - '[[Master SQL Development]]'
+prev_courses:
+  - '[[Advanced SQL for Query Tuning and Performance Optimization]]'
+next_courses:
+  - '[[Advanced SQL for Data Scientists]]'
+path_nav: '[{"path":"Master SQL Development","position":6,"total":8,"prev":"Advanced SQL for Query Tuning and Performance Optimization","next":"Advanced SQL for Data Scientists"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/application-development
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced SQL for Application Development](https://media.licdn.com/dms/image/v2/D4E0DAQGOJN0DZ3MYUg/learning-public-crop_675_1200/B4EZhoPUiKGUAY-/0/1754095504223?e=2147483647&amp;v=beta&amp;t=OyTlRSSvAcV8E5vTqxNet40ZBA3Sp7bDG4PLuWHkxj8)

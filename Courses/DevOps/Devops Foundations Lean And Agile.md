@@ -8,15 +8,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGSZV4QwZzLFA/learning-public-crop_675_1200/B4EZZuaX8dHMAc-/0/1745609130101?e=2147483647&amp;v=beta&amp;t=pJWBCDYUtVODw4AUOr11kCV3oCQEA4EVbTrihZmEcfg"
 linkedin_topic: DevOps
 learning_paths:
-  - Applying Lean, DevOps, and Agile to Your IT Organization
-  - Develop Your Skills in Agile Software Development
+  - '[[Applying Lean, DevOps, and Agile to Your IT Organization]]'
+  - '[[Develop Your Skills in Agile Software Development]]'
+prev_courses:
+  - null
+  - '[[Devops Foundations]]'
+next_courses:
+  - '[[Lean Foundations]]'
+  - '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+path_nav: '[{"path":"Applying Lean, DevOps, and Agile to Your IT Organization","position":1,"total":9,"prev":null,"next":"Lean Foundations"},{"path":"Develop Your Skills in Agile Software Development","position":2,"total":6,"prev":"Devops Foundations","next":"Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines"}]'
 path_count: 2
 tags:
   - course
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Devops Foundations Lean And Agile](https://media.licdn.com/dms/image/v2/D4E0DAQGSZV4QwZzLFA/learning-public-crop_675_1200/B4EZZuaX8dHMAc-/0/1745609130101?e=2147483647&amp;v=beta&amp;t=pJWBCDYUtVODw4AUOr11kCV3oCQEA4EVbTrihZmEcfg)

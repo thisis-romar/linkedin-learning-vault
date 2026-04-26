@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG6GkkOhJTPig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008912100?e=2147483647&amp;v=beta&amp;t=Y2tldDYAxCFr_fZr3fr3MDJ0MeUZgWtpuzWUpTxqIqU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI Essentials for Sales Professionals
+  - '[[AI Essentials for Sales Professionals]]'
+prev_courses:
+  - '[[Sales Strategy- Key Account Growth with AI]]'
+path_nav: '[{"path":"AI Essentials for Sales Professionals","position":5,"total":5,"prev":"Sales Strategy- Key Account Growth with AI","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/sales-presentations
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using AI for Executive Sales Presentations](https://media.licdn.com/dms/image/v2/D560DAQG6GkkOhJTPig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008912100?e=2147483647&amp;v=beta&amp;t=Y2tldDYAxCFr_fZr3fr3MDJ0MeUZgWtpuzWUpTxqIqU)

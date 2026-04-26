@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHp9iAHclkIBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693851737005?e=2147483647&amp;v=beta&amp;t=-_l9H3OGTOsGVL5q68WUFoTXRd9lkpuhzCxUADnfXso"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Explore a Career in IT Support
-  - Advance Your Skills as an IT Help Desk Specialist
+  - '[[Explore a Career in IT Support]]'
+  - '[[Advance Your Skills as an IT Help Desk Specialist]]'
+prev_courses:
+  - '[[Learning Pc Maintenance And Performance]]'
+  - '[[Learning Pc Maintenance And Performance]]'
+next_courses:
+  - '[[Microsoft Entra ID Fundamentals]]'
+  - '[[IT Service Desk- Customer Service Fundamentals]]'
+path_nav: '[{"path":"Explore a Career in IT Support","position":2,"total":11,"prev":"Learning Pc Maintenance And Performance","next":"Microsoft Entra ID Fundamentals"},{"path":"Advance Your Skills as an IT Help Desk Specialist","position":5,"total":11,"prev":"Learning Pc Maintenance And Performance","next":"IT Service Desk- Customer Service Fundamentals"}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +26,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Computer Components and Peripherals for IT Technicians](https://media.licdn.com/dms/image/v2/D560DAQHp9iAHclkIBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693851737005?e=2147483647&amp;v=beta&amp;t=-_l9H3OGTOsGVL5q68WUFoTXRd9lkpuhzCxUADnfXso)

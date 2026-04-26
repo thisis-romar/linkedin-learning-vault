@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFNVeSXHWNEgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700611999130?e=2147483647&amp;v=beta&amp;t=uedN6NXjcV_HFRBOFrJaLkdyRkv0W4G4SmGgSBifWRg"
 linkedin_topic: Software Development
 learning_paths:
-  - Software Development Fundamentals
+  - '[[Software Development Fundamentals]]'
+prev_courses:
+  - '[[Computer Science Principles- The Internet]]'
+next_courses:
+  - '[[Software Development Life Cycle (SDLC)]]'
+path_nav: '[{"path":"Software Development Fundamentals","position":3,"total":10,"prev":"Computer Science Principles- The Internet","next":"Software Development Life Cycle (SDLC)"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/computer-science
   - skill/programming
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Computer Science Principles: Programming](https://media.licdn.com/dms/image/v2/D4E0DAQFNVeSXHWNEgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700611999130?e=2147483647&amp;v=beta&amp;t=uedN6NXjcV_HFRBOFrJaLkdyRkv0W4G4SmGgSBifWRg)

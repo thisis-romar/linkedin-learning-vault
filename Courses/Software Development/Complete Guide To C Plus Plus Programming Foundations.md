@@ -16,8 +16,12 @@ github: "https://github.com/LinkedInLearning/complete-guide-to-cpp-programming-f
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH50vvvBb4fjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728602707442?e=2147483647&amp;v=beta&amp;t=yMWsb5TyfFuhbVxl1cm6CDDW388xu0wRGx5Jr8HtnFw"
 linkedin_topic: Software Development
 learning_paths:
-  - Master C++
-  - Getting Started with C++
+  - '[[Master C++]]'
+  - '[[Getting Started with C++]]'
+next_courses:
+  - '[[Complete Guide to Parallel and Concurrent Programming with C++]]'
+  - '[[Introducing Functional Programming in C++]]'
+path_nav: '[{"path":"Master C++","position":1,"total":6,"prev":null,"next":"Complete Guide to Parallel and Concurrent Programming with C++"},{"path":"Getting Started with C++","position":1,"total":5,"prev":null,"next":"Introducing Functional Programming in C++"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +30,7 @@ tags:
   - skill/programming-foundations
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide To C Plus Plus Programming Foundations](https://media.licdn.com/dms/image/v2/D560DAQH50vvvBb4fjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728602707442?e=2147483647&amp;v=beta&amp;t=yMWsb5TyfFuhbVxl1cm6CDDW388xu0wRGx5Jr8HtnFw)

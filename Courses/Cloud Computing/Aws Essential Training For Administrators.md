@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFXU6taFkdJuw/learning-public-crop_675_1200/B56ZrbafvrMIAY-/0/1764617747985?e=2147483647&amp;v=beta&amp;t=QzH5fv2XogLD0YfjuMHX8JcfUDVd1S-zYzvwjd5mU6M"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Infrastructure Management on AWS- Skills for Administrators
+  - '[[Infrastructure Management on AWS- Skills for Administrators]]'
+next_courses:
+  - '[[Amazon EC2 Essential Training]]'
+path_nav: '[{"path":"Infrastructure Management on AWS- Skills for Administrators","position":1,"total":5,"prev":null,"next":"Amazon EC2 Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - skill/cloud-administration
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Aws Essential Training For Administrators](https://media.licdn.com/dms/image/v2/D560DAQFXU6taFkdJuw/learning-public-crop_675_1200/B56ZrbafvrMIAY-/0/1764617747985?e=2147483647&amp;v=beta&amp;t=QzH5fv2XogLD0YfjuMHX8JcfUDVd1S-zYzvwjd5mU6M)

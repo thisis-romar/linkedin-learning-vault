@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/advance-your-sql-skills-for-data-en
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHyyrhbhSEAOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695671472229?e=2147483647&amp;v=beta&amp;t=8xdAfDbipieM8f2bx4ZpUCrBRheDNq5YqT1rnaKVIVM"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Data Engineering
+  - '[[Master Data Engineering]]'
+prev_courses:
+  - '[[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]'
+next_courses:
+  - '[[Advanced Snowflake- Deep Dive Cloud Data Warehousing and Analytics]]'
+path_nav: '[{"path":"Master Data Engineering","position":6,"total":8,"prev":"Complete Guide to Python for Data Engineering- From Beginner to Advanced","next":"Advanced Snowflake- Deep Dive Cloud Data Warehousing and Analytics"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/sql
   - skill/data-build-tool-dbt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Engineering: dbt for SQL](https://media.licdn.com/dms/image/v2/D560DAQHyyrhbhSEAOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695671472229?e=2147483647&amp;v=beta&amp;t=8xdAfDbipieM8f2bx4ZpUCrBRheDNq5YqT1rnaKVIVM)

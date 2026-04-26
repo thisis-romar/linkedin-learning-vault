@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQH0CzFeraiXWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620678936944?e=2147483647&amp;v=beta&amp;t=H-GGFJpuxObnSk03o7D4MD3LRT19N2UsNLwvWByd3FY"
 linkedin_topic: Software Development
 learning_paths:
-  - Advance Your Skills in Python
+  - '[[Advance Your Skills in Python]]'
+prev_courses:
+  - '[[Python Data Structures and Algorithms]]'
+next_courses:
+  - '[[Python GUI Development with Tkinter]]'
+path_nav: '[{"path":"Advance Your Skills in Python","position":4,"total":7,"prev":"Python Data Structures and Algorithms","next":"Python GUI Development with Tkinter"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/test-automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Automation and Testing](https://media.licdn.com/dms/image/v2/C4E0DAQH0CzFeraiXWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620678936944?e=2147483647&amp;v=beta&amp;t=H-GGFJpuxObnSk03o7D4MD3LRT19N2UsNLwvWByd3FY)

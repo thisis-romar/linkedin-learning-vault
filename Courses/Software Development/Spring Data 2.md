@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/spring-spring-data-2-2508603"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFKjea5yMgDKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674159455671?e=2147483647&amp;v=beta&amp;t=VEfAQCp9Lwovj4D65lA7bj2lOTNFrbmdROfgPBjVtzs"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started In Spring Development
+  - '[[Getting Started In Spring Development]]'
+prev_courses:
+  - '[[Creating Spring Boot Microservices]]'
+next_courses:
+  - '[[Spring 6- Spring Security]]'
+path_nav: '[{"path":"Getting Started In Spring Development","position":3,"total":5,"prev":"Creating Spring Boot Microservices","next":"Spring 6- Spring Security"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/web-development
   - skill/spring-data
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Spring Data 2](https://media.licdn.com/dms/image/v2/C4D0DAQFKjea5yMgDKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674159455671?e=2147483647&amp;v=beta&amp;t=VEfAQCp9Lwovj4D65lA7bj2lOTNFrbmdROfgPBjVtzs)

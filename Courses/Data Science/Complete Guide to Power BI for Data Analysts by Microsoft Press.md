@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFsKBwggqdoog/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707847933583?e=2147483647&amp;v=beta&amp;t=pnf6tQ0e8LmJu5Iq0aYfUPIxjDXSddH7EJHbRRYe7YA"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career as a Power BI Specialist
+  - '[[Explore a Career as a Power BI Specialist]]'
+prev_courses:
+  - '[[Power Bi Essential Training]]'
+next_courses:
+  - '[[Advanced Power BI- DAX Language, Formulas, and Calculations]]'
+path_nav: '[{"path":"Explore a Career as a Power BI Specialist","position":2,"total":5,"prev":"Power Bi Essential Training","next":"Advanced Power BI- DAX Language, Formulas, and Calculations"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide to Power BI for Data Analysts by Microsoft Press](https://media.licdn.com/dms/image/v2/D4D0DAQFsKBwggqdoog/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707847933583?e=2147483647&amp;v=beta&amp;t=pnf6tQ0e8LmJu5Iq0aYfUPIxjDXSddH7EJHbRRYe7YA)

@@ -6,7 +6,7 @@ course_count: 17
 tags:
   - skill
   - skill/amazon-web-services-aws
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Amazon Web Services (AWS)

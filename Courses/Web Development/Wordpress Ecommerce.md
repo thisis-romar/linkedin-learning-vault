@@ -14,14 +14,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHvTQMinejtvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117836614?e=2147483647&amp;v=beta&amp;t=dOE_DK1oKuNMeK4dpO-YZLYjERfwdrnDHO5G0kHMhgg"
 linkedin_topic: Web Development
 learning_paths:
-  - Build Your WordPress Ecommerce Skills
+  - '[[Build Your WordPress Ecommerce Skills]]'
+next_courses:
+  - '[[WordPress Ecommerce- WooCommerce]]'
+path_nav: '[{"path":"Build Your WordPress Ecommerce Skills","position":1,"total":6,"prev":null,"next":"WordPress Ecommerce- WooCommerce"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/wordpress
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Wordpress Ecommerce](https://media.licdn.com/dms/image/v2/C4E0DAQHvTQMinejtvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117836614?e=2147483647&amp;v=beta&amp;t=dOE_DK1oKuNMeK4dpO-YZLYjERfwdrnDHO5G0kHMhgg)

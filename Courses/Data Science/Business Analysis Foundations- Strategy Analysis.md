@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQGzz1pbqyRJvw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648152857090?e=2147483647&amp;v=beta&amp;t=Xti_PpWnI7uQflbnH8UmjsrmPUi4Hy6ZtffzS52s1EI"
 linkedin_topic: Data Science
 learning_paths:
-  - Get Ahead in Business Analytics and Analysis
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+prev_courses:
+  - '[[Business Analysis Foundations- Business Process Modeling]]'
+next_courses:
+  - '[[Business Analysis- Essential Tools and Techniques (2021)]]'
+path_nav: '[{"path":"Get Ahead in Business Analytics and Analysis","position":9,"total":19,"prev":"Business Analysis Foundations- Business Process Modeling","next":"Business Analysis- Essential Tools and Techniques (2021)"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analysis Foundations: Strategy Analysis](https://media.licdn.com/dms/image/v2/C4D0DAQGzz1pbqyRJvw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648152857090?e=2147483647&amp;v=beta&amp;t=Xti_PpWnI7uQflbnH8UmjsrmPUi4Hy6ZtffzS52s1EI)

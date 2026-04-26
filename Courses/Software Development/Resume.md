@@ -15,8 +15,12 @@ github: "https://github.com/LinkedInLearning/github-practical-actions-4412872"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHTXEX1TA50Kw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685056279542?e=2147483647&amp;v=beta&amp;t=rFP5VzvoJw1X6KjvDo1yQmNSPJ6QpxGsJiz35rh2WKQ"
 linkedin_topic: Software Development
 learning_paths:
-  - Prepare for the GitHub Foundations Certification
-  - Career Essentials in GitHub Professional Certificate
+  - '[[Prepare for the GitHub Foundations Certification]]'
+  - '[[Career Essentials in GitHub Professional Certificate]]'
+next_courses:
+  - '[[Learning Git and GitHub]]'
+  - '[[Practical GitHub Project Management and Collaboration]]'
+path_nav: '[{"path":"Prepare for the GitHub Foundations Certification","position":1,"total":7,"prev":null,"next":"Learning Git and GitHub"},{"path":"Career Essentials in GitHub Professional Certificate","position":1,"total":4,"prev":null,"next":"Practical GitHub Project Management and Collaboration"}]'
 path_count: 2
 tags:
   - course
@@ -24,7 +28,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Resume](https://media.licdn.com/dms/image/v2/D560DAQHTXEX1TA50Kw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685056279542?e=2147483647&amp;v=beta&amp;t=rFP5VzvoJw1X6KjvDo1yQmNSPJ6QpxGsJiz35rh2WKQ)

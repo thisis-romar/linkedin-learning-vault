@@ -7,7 +7,7 @@ course_count: 3
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops
@@ -31,7 +31,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Getting Started with Continuous Integration / Continuous Delivery (CI/CD)
@@ -60,3 +60,7 @@ _Paths that share courses with this one:_
 - [[DevOps Professional Certificate by PagerDuty and LinkedIn]] (1 shared courses)
 - [[Getting Started with DevOps]] (1 shared courses)
 - [[Software Development Fundamentals]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

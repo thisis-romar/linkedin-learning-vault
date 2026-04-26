@@ -25,7 +25,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # AI for Nonprofits Professional Certificate by Microsoft Elevate, LinkedIn, and NetHope
@@ -44,3 +44,7 @@ created: '2026-04-20'
 ## Topics
 
 - [[Artificial Intelligence (AI)]]
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

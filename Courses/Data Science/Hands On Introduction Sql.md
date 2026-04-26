@@ -15,7 +15,10 @@ github: "https://github.com/LinkedInLearning/hands-on-sql-3086685/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFce8T-RjMmAg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667324559752?e=2147483647&amp;v=beta&amp;t=FiYoxpiVs6Llxkp2UZOQZPHtpSMbiNmw2i1UESIeMpg"
 linkedin_topic: Data Science
 learning_paths:
-  - SQL Hands-On Practice
+  - '[[SQL Hands-On Practice]]'
+next_courses:
+  - '[[SQL Practice- Basic Queries]]'
+path_nav: '[{"path":"SQL Hands-On Practice","position":1,"total":9,"prev":null,"next":"SQL Practice- Basic Queries"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands On Introduction Sql](https://media.licdn.com/dms/image/v2/D560DAQFce8T-RjMmAg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667324559752?e=2147483647&amp;v=beta&amp;t=FiYoxpiVs6Llxkp2UZOQZPHtpSMbiNmw2i1UESIeMpg)

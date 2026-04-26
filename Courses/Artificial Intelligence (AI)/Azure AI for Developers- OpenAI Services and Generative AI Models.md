@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/azure-openai-generative-ai-models-a
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE6duOe6-u4jg/learning-public-crop_675_1200/B4DZaigMnzGwAg-/0/1746483071814?e=2147483647&amp;v=beta&amp;t=w4NdGIIy1bsyOz0okYdTWwfGxMP4AZ0yDKDtFClzAT8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build AI Products Using Azure AI Services in Your Development Lifecycle
+  - '[[Build AI Products Using Azure AI Services in Your Development Lifecycle]]'
+prev_courses:
+  - '[[Azure AI for Developers- Using the Azure AI Model Catalog]]'
+next_courses:
+  - '[[Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI]]'
+path_nav: '[{"path":"Build AI Products Using Azure AI Services in Your Development Lifecycle","position":4,"total":8,"prev":"Azure AI for Developers- Using the Azure AI Model Catalog","next":"Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure AI for Developers: OpenAI Services and Generative AI Models](https://media.licdn.com/dms/image/v2/D4D0DAQE6duOe6-u4jg/learning-public-crop_675_1200/B4DZaigMnzGwAg-/0/1746483071814?e=2147483647&amp;v=beta&amp;t=w4NdGIIy1bsyOz0okYdTWwfGxMP4AZ0yDKDtFClzAT8)

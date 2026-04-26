@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE0PyG36XKe-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691431562795?e=2147483647&amp;v=beta&amp;t=N-iXDePBE29bwTSXoEz5qtWBDP-WW2YI3jT82PPT3ug"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your UX Prototyping Skills
+  - '[[Improve Your UX Prototyping Skills]]'
+prev_courses:
+  - '[[Sketching For Ux Designers]]'
+path_nav: '[{"path":"Improve Your UX Prototyping Skills","position":6,"total":6,"prev":"Sketching For Ux Designers","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/user-experience-ux
   - skill/principle-for-mac
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Principle for UX Design](https://media.licdn.com/dms/image/v2/D560DAQE0PyG36XKe-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691431562795?e=2147483647&amp;v=beta&amp;t=N-iXDePBE29bwTSXoEz5qtWBDP-WW2YI3jT82PPT3ug)

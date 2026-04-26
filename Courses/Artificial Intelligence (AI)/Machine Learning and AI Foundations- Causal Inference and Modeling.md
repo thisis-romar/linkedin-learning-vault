@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFOdsFRUJdSkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658347193726?e=2147483647&amp;v=beta&amp;t=4zj7gi5P0HGmvn3Gfku2qHqJeSq7Z7p74_6fMSjdVyo"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills as a Machine Learning Specialist
+  - '[[Advance Your Skills as a Machine Learning Specialist]]'
+prev_courses:
+  - '[[Machine Learning and AI Foundations- Decision Trees with KNIME]]'
+next_courses:
+  - '[[Machine Learning and AI Foundations- Prediction, Causation, and Statistical Inference]]'
+path_nav: '[{"path":"Advance Your Skills as a Machine Learning Specialist","position":7,"total":9,"prev":"Machine Learning and AI Foundations- Decision Trees with KNIME","next":"Machine Learning and AI Foundations- Prediction, Causation, and Statistical Inference"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/causal-inference
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning and AI Foundations: Causal Inference and Modeling](https://media.licdn.com/dms/image/v2/C560DAQFOdsFRUJdSkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658347193726?e=2147483647&amp;v=beta&amp;t=4zj7gi5P0HGmvn3Gfku2qHqJeSq7Z7p74_6fMSjdVyo)

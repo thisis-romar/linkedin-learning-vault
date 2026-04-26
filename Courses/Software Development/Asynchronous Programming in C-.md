@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHOVzhhX-Hnzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691013027545?e=2147483647&amp;v=beta&amp;t=-SY2yhceanWM4BElINp4e7qXKCvoNenyD2wr-nTxmos"
 linkedin_topic: Software Development
 learning_paths:
-  - C- Excellence- Architecting High-Performance Solutions
+  - '[[C- Excellence- Architecting High-Performance Solutions]]'
+prev_courses:
+  - '[[Advanced C- Object-Oriented Programming]]'
+next_courses:
+  - '[[C- Framework Design]]'
+path_nav: '[{"path":"C- Excellence- Architecting High-Performance Solutions","position":5,"total":6,"prev":"Advanced C- Object-Oriented Programming","next":"C- Framework Design"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Asynchronous Programming in C#](https://media.licdn.com/dms/image/v2/D560DAQHOVzhhX-Hnzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691013027545?e=2147483647&amp;v=beta&amp;t=-SY2yhceanWM4BElINp4e7qXKCvoNenyD2wr-nTxmos)

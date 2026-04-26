@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEEIn0Zoh7ySw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702331417325?e=2147483647&amp;v=beta&amp;t=jEEKVyoa5ZugROjjzkNxq7pRCCia5ocmVs57mFMJfoE"
 linkedin_topic: Software Development
 learning_paths:
-  - C- Foundations- From Basics to Building Blocks
-  - Getting Started as a C- Developer
+  - '[[C- Foundations- From Basics to Building Blocks]]'
+  - '[[Getting Started as a C- Developer]]'
+prev_courses:
+  - '[[C Sharp Essential Training 1 Types And Control Flow]]'
+  - '[[C Sharp Essential Training 1 Types And Control Flow]]'
+next_courses:
+  - '[[Debugging in C-]]'
+  - '[[C- and .NET Essential Training]]'
+path_nav: '[{"path":"C- Foundations- From Basics to Building Blocks","position":2,"total":5,"prev":"C Sharp Essential Training 1 Types And Control Flow","next":"Debugging in C-"},{"path":"Getting Started as a C- Developer","position":2,"total":9,"prev":"C Sharp Essential Training 1 Types And Control Flow","next":"C- and .NET Essential Training"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/language-integrated-query-linq
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C# Essential Training 2: Generics, Collections, and LINQ](https://media.licdn.com/dms/image/v2/D560DAQEEIn0Zoh7ySw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702331417325?e=2147483647&amp;v=beta&amp;t=jEEKVyoa5ZugROjjzkNxq7pRCCia5ocmVs57mFMJfoE)

@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHGHvNnPJP-bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648239343283?e=2147483647&amp;v=beta&amp;t=ClY1fA7D_BU1ci3oTIBtBvHnpGyVa-2DtfcvWiQLycU"
 linkedin_topic: Data Science
 learning_paths:
-  - Finance for Managers Professional Certificate by LinkedIn Learning
+  - '[[Finance for Managers Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Running a Profitable Business- Understanding Financial Ratios]]'
+next_courses:
+  - '[[Running a Profitable Business- Understanding Cash Flow]]'
+path_nav: '[{"path":"Finance for Managers Professional Certificate by LinkedIn Learning","position":4,"total":5,"prev":"Running a Profitable Business- Understanding Financial Ratios","next":"Running a Profitable Business- Understanding Cash Flow"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/break-even-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Running a Profitable Business: Calculating Breakeven](https://media.licdn.com/dms/image/v2/C4E0DAQHGHvNnPJP-bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648239343283?e=2147483647&amp;v=beta&amp;t=ClY1fA7D_BU1ci3oTIBtBvHnpGyVa-2DtfcvWiQLycU)

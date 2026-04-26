@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/linkedin-s-2025-top-mba-programs-le
 course_count: 10
 linkedin_topics:
   - Data Science
-louvain_cluster: 3
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/data-science
@@ -57,7 +57,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # LinkedIn’s 2025 Top MBA Programs Learning Path
@@ -94,3 +94,7 @@ _Paths that share courses with this one:_
 - [[The Top 10 Most Popular Courses among Engineering Professionals]] (1 shared courses)
 - [[Technical Literacy and Future Readiness for People Managers]] (1 shared courses)
 - [[The Top 10 Most Popular Courses among IT Professionals]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

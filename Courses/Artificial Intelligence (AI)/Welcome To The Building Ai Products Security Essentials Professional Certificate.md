@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGgAZ7thKphhA/learning-public-crop_675_1200/B4EZWWZlO_GgAY-/0/1741985044109?e=2147483647&amp;v=beta&amp;t=J54Tun_JrKlRAkicU_KS2P-M1THdEBAWZbTlErbwNUY"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning]]'
+next_courses:
+  - '[[AI Product Security- Building Strong Data Governance and Protection]]'
+path_nav: '[{"path":"Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning","position":1,"total":5,"prev":null,"next":"AI Product Security- Building Strong Data Governance and Protection"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Welcome To The Building Ai Products Security Essentials Professional Certificate](https://media.licdn.com/dms/image/v2/D4E0DAQGgAZ7thKphhA/learning-public-crop_675_1200/B4EZWWZlO_GgAY-/0/1741985044109?e=2147483647&amp;v=beta&amp;t=J54Tun_JrKlRAkicU_KS2P-M1THdEBAWZbTlErbwNUY)

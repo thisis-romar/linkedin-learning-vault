@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Courses/Cybersecurity/Ethical Hacking- Hacking Web Servers and Web Applications.md",
+                    "file": "Paths/Cybersecurity/Learning Paths/Become an Ethical Hacker.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ethical Hacking- Hacking Web Servers and Web Applications"
+                  "title": "Become an Ethical Hacker"
                 }
               }
             ]
@@ -37,10 +37,14 @@
                 "id": "1c800f3ae24ef441",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Courses/Cybersecurity/Blockchain for Developers- Hyperledger Fabric on Azure.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Blockchain for Developers- Hyperledger Fabric on Azure"
                 }
               }
             ]
@@ -195,9 +199,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Courses/Cybersecurity/Blockchain for Developers- Hyperledger Fabric on Azure.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Blockchain for Developers- Hyperledger Fabric on Azure"
             }
           }
         ],
@@ -220,6 +226,19 @@
   },
   "active": "1c800f3ae24ef441",
   "lastOpenFiles": [
+    "Courses/Data Science/Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps.md",
+    "Courses/Data Science/Building an Ethereum Blockchain App- 10 Deployment and Maintenance.md",
+    "Courses/Data Science/Building an Ethereum Blockchain App- 9 Testing Ethereum Apps.md",
+    "Courses/Data Science/Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp.md",
+    "Courses/Data Science/Building an Ethereum Blockchain App- 7 Smart Contracts.md",
+    "Courses/Data Science/Building an Ethereum Blockchain App- 6 Building Your First Ethereum App.md",
+    "Courses/Data Science/Building an Ethereum Blockchain App- 5 Your Ethereum Wallet.md",
+    "Courses/Data Science/Building an Ethereum Blockchain App- 4 Ethereum Development Tools.md",
+    "Courses/Data Science/Building an Ethereum Blockchain App- 3 Ethereum Development.md",
+    "Courses/Data Science/Building an Ethereum Blockchain App- 2 Introduction to Ethereum.md",
+    "Paths/Cybersecurity/Learning Paths/Become an Ethical Hacker.md",
+    "Courses/Cybersecurity/Ethical Hacking- Evading IDS, Firewalls, and Honeypots.md",
+    "Courses/Cybersecurity/Ethical Hacking- Session Hijacking.md",
     "Paths/Artificial Intelligence (AI)/Learning Paths/A Developer's Guide to Google Gemini.md",
     "Courses/Cybersecurity/Ethical Hacking- Hacking Web Servers and Web Applications.md",
     "Courses/Cybersecurity/Ethical Hacking- Mobile Devices and Platforms.md",
@@ -233,19 +252,6 @@
     "Courses/Artificial Intelligence (AI)/AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation.md",
     "Skills/Artificial Intelligence (AI).md",
     "Courses/Cloud Computing/Blockchain Basics.md",
-    "Courses/Cloud Computing/Azure Quick Tips for Developers.md",
-    "Courses/Cloud Computing/Artificial Intelligence and Business Strategy.md",
-    "Courses/Artificial Intelligence (AI)/Leading with Innovation in the Age of AI.md",
-    "Paths/Cloud Computing/Learning Paths/Master Digital Transformation.md",
-    "Skills/Software Development.md",
-    "Skills/Cloud Computing.md",
-    "Courses/Cloud Computing/IoT Foundations- Fundamentals.md",
-    "Courses/Cloud Computing/Cloud Computing Understanding Core Concepts.md",
-    "Courses/Cloud Computing/Cloud Computing Terms Every Beginner Should Know.md",
-    "Courses/Cloud Computing/Azure Networking and Security for Beginners- Tools and Services.md",
-    "Courses/Cloud Computing/Azure Data Lake for Developers.md",
-    "Courses/Cloud Computing/Computer Science Principles- The Internet.md",
-    "Courses/Cybersecurity/Cybersecurity At Work.md",
     "Courses/Network and System Administration",
     "Courses/Database Management",
     "Courses/Artificial Intelligence (AI)",

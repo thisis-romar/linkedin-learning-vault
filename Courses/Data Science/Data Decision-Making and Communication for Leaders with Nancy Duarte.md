@@ -10,15 +10,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHR66FceHMXUg/learning-public-crop_675_1200/B4EZWQUELnG0Ag-/0/1741882934866?e=2147483647&amp;v=beta&amp;t=5ruVm6rZL3nN3ZF4Px7Cn1YAamQuYWxp0HpdUeiK874"
 linkedin_topic: Data Science
 learning_paths:
-  - Technical Literacy and Future Readiness for People Managers
-  - LinkedIn’s 2025 Top MBA Programs Learning Path
+  - '[[Technical Literacy and Future Readiness for People Managers]]'
+  - '[[LinkedIn’s 2025 Top MBA Programs Learning Path]]'
+prev_courses:
+  - '[[Manager''s Guide to Building a Strategic Plan with ChatGPT (No Code Required)]]'
+  - '[[Strategic Financial Management in Corporations]]'
+next_courses:
+  - '[[Strategic AI Prompting for Managers- Leading Smarter with Generative AI]]'
+  - '[[Nano Tips for Getting Unstuck as an Entrepreneur with Terry Rice]]'
+path_nav: '[{"path":"Technical Literacy and Future Readiness for People Managers","position":4,"total":5,"prev":"Manager''s Guide to Building a Strategic Plan with ChatGPT (No Code Required)","next":"Strategic AI Prompting for Managers- Leading Smarter with Generative AI"},{"path":"LinkedIn’s 2025 Top MBA Programs Learning Path","position":7,"total":10,"prev":"Strategic Financial Management in Corporations","next":"Nano Tips for Getting Unstuck as an Entrepreneur with Terry Rice"}]'
 path_count: 2
 tags:
   - course
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Decision-Making and Communication for Leaders with Nancy Duarte](https://media.licdn.com/dms/image/v2/D4E0DAQHR66FceHMXUg/learning-public-crop_675_1200/B4EZWQUELnG0Ag-/0/1741882934866?e=2147483647&amp;v=beta&amp;t=5ruVm6rZL3nN3ZF4Px7Cn1YAamQuYWxp0HpdUeiK874)

@@ -18,8 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGwt7j7bSD2xQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664811377633?e=2147483647&amp;v=beta&amp;t=zsxq_9_HXS-FTennvRd8Dl-8VntnWDT6Lo1Aq7umoHo"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Explore a Career as a Cloud Administrator
-  - Cloud Strategy Professional Certificate by LinkedIn Learning
+  - '[[Explore a Career as a Cloud Administrator]]'
+  - '[[Cloud Strategy Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
+  - '[[FinOps Essentials for Cloud Deployments]]'
+path_nav: '[{"path":"Explore a Career as a Cloud Administrator","position":6,"total":6,"prev":"Understanding Generative AI in Cloud Computing- Services and Use Cases","next":null},{"path":"Cloud Strategy Professional Certificate by LinkedIn Learning","position":9,"total":9,"prev":"FinOps Essentials for Cloud Deployments","next":null}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +34,7 @@ tags:
   - skill/sustainable-systems
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Including Sustainability in Your Cloud Strategy (2022)](https://media.licdn.com/dms/image/v2/C4E0DAQGwt7j7bSD2xQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664811377633?e=2147483647&amp;v=beta&amp;t=zsxq_9_HXS-FTennvRd8Dl-8VntnWDT6Lo1Aq7umoHo)

@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGQm0H2C8ECxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671648514840?e=2147483647&amp;v=beta&amp;t=SFiAu88ybDE3eihcIg8gxBlelxb6BjP7nI3SiCTQWEc"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Explore Cybersecurity Careers
+  - '[[Explore Cybersecurity Careers]]'
+prev_courses:
+  - '[[Cybersecurity Careers- Become a Penetration Tester]]'
+next_courses:
+  - '[[Cybersecurity Careers- Become a Security Auditor]]'
+path_nav: '[{"path":"Explore Cybersecurity Careers","position":5,"total":9,"prev":"Cybersecurity Careers- Become a Penetration Tester","next":"Cybersecurity Careers- Become a Security Auditor"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/tech-career-skills
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Careers: Become an Identity and Access Management Manager](https://media.licdn.com/dms/image/v2/C560DAQGQm0H2C8ECxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671648514840?e=2147483647&amp;v=beta&amp;t=SFiAu88ybDE3eihcIg8gxBlelxb6BjP7nI3SiCTQWEc)

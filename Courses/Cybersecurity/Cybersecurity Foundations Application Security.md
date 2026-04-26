@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGrScfI1TRbQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687297743417?e=2147483647&amp;v=beta&amp;t=YiOsK9XA-HeDW9xluX6AGmIF1VM7w_syhNvLLF7vnBk"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Explore a Career in Application Security
+  - '[[Explore a Career in Application Security]]'
+next_courses:
+  - '[[Penetration Testing Essential Training]]'
+path_nav: '[{"path":"Explore a Career in Application Security","position":1,"total":7,"prev":null,"next":"Penetration Testing Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - skill/application-security
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Foundations Application Security](https://media.licdn.com/dms/image/v2/D560DAQGrScfI1TRbQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687297743417?e=2147483647&amp;v=beta&amp;t=YiOsK9XA-HeDW9xluX6AGmIF1VM7w_syhNvLLF7vnBk)

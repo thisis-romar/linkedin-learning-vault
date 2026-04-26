@@ -21,7 +21,12 @@ github: "https://github.com/paiml/ghcp-for-systems-level-development"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEiOE4zLSamSA/learning-public-crop_675_1200/B4EZq3xl0EHgAg-/0/1764019822781?e=2147483647&amp;v=beta&amp;t=q7q7NxNA-jEl2tx_EWMP0t-pMCrhKuEYepSex2HPb4k"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development
+  - '[[GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development]]'
+prev_courses:
+  - '[[Advanced Prompting With Github Copilot]]'
+next_courses:
+  - '[[Responsible AI Development with GitHub Copilot]]'
+path_nav: '[{"path":"GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development","position":2,"total":4,"prev":"Advanced Prompting With Github Copilot","next":"Responsible AI Development with GitHub Copilot"}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +38,7 @@ tags:
   - skill/infrastructure-as-code-iac
   - skill/code-refactoring
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![GitHub Copilot for System-Level Development](https://media.licdn.com/dms/image/v2/D4E0DAQEiOE4zLSamSA/learning-public-crop_675_1200/B4EZq3xl0EHgAg-/0/1764019822781?e=2147483647&amp;v=beta&amp;t=q7q7NxNA-jEl2tx_EWMP0t-pMCrhKuEYepSex2HPb4k)

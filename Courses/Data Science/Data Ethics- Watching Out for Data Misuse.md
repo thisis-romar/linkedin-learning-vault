@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQERmbln7meJKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623697959847?e=2147483647&amp;v=beta&amp;t=vCY7bHKmfvnPlAohhIrtte7Gx_XRTE-6yOMl4oVsS2A"
 linkedin_topic: Data Science
 learning_paths:
-  - Mastering Data Governance and Ethics
+  - '[[Mastering Data Governance and Ethics]]'
+prev_courses:
+  - '[[Automated Data Governance in Practice]]'
+next_courses:
+  - '[[Data Ethics- Making Data-Driven Decisions]]'
+path_nav: '[{"path":"Mastering Data Governance and Ethics","position":6,"total":9,"prev":"Automated Data Governance in Practice","next":"Data Ethics- Making Data-Driven Decisions"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/data-ethics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Ethics: Watching Out for Data Misuse](https://media.licdn.com/dms/image/v2/C560DAQERmbln7meJKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623697959847?e=2147483647&amp;v=beta&amp;t=vCY7bHKmfvnPlAohhIrtte7Gx_XRTE-6yOMl4oVsS2A)

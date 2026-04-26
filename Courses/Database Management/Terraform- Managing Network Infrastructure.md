@@ -18,7 +18,10 @@ github: "https://github.com/LinkedInLearning/terraform-managing-network-infrastr
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFNSWOD_FUtrg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684432483878?e=2147483647&amp;v=beta&amp;t=OxVRq2kJ7lmhC_xFklVhGpTq_Pc-20bPvkmBoSgPFv0"
 linkedin_topic: Database Management
 learning_paths:
-  - Network Automation Professional Certificate by Arista Networks
+  - '[[Network Automation Professional Certificate by Arista Networks]]'
+prev_courses:
+  - '[[Hybrid Multicloud Networking- Practical Concepts]]'
+path_nav: '[{"path":"Network Automation Professional Certificate by Arista Networks","position":6,"total":6,"prev":"Hybrid Multicloud Networking- Practical Concepts","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/terraform
   - skill/infrastructure-as-code-iac
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Terraform: Managing Network Infrastructure](https://media.licdn.com/dms/image/v2/D560DAQFNSWOD_FUtrg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684432483878?e=2147483647&amp;v=beta&amp;t=OxVRq2kJ7lmhC_xFklVhGpTq_Pc-20bPvkmBoSgPFv0)

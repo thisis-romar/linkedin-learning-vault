@@ -16,16 +16,25 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQG7DLi-4UC99w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624559649231?e=2147483647&amp;v=beta&amp;t=iTiduheAj2XDUCXDEmmfde1k8QseOoSEr-fCbWNC3_A"
 linkedin_topic: Data Science
 learning_paths:
-  - Career Essentials in Data Analysis by Microsoft and LinkedIn
-  - Become a Data Analytics Specialist
-  - Become a Data Analyst
+  - '[[Career Essentials in Data Analysis by Microsoft and LinkedIn]]'
+  - '[[Become a Data Analytics Specialist]]'
+  - '[[Become a Data Analyst]]'
+prev_courses:
+  - '[[Learning Data Analytics- 1 Foundations]]'
+  - '[[Learning Data Analytics- 1 Foundations]]'
+  - '[[Learning Data Analytics- 1 Foundations]]'
+next_courses:
+  - '[[Data Analytics for Business Professionals]]'
+  - '[[Data Analytics- Dashboards vs. Data Stories]]'
+  - '[[Predictive Analytics Essential Training- Data Mining]]'
+path_nav: '[{"path":"Career Essentials in Data Analysis by Microsoft and LinkedIn","position":3,"total":5,"prev":"Learning Data Analytics- 1 Foundations","next":"Data Analytics for Business Professionals"},{"path":"Become a Data Analytics Specialist","position":4,"total":10,"prev":"Learning Data Analytics- 1 Foundations","next":"Data Analytics- Dashboards vs. Data Stories"},{"path":"Become a Data Analyst","position":5,"total":12,"prev":"Learning Data Analytics- 1 Foundations","next":"Predictive Analytics Essential Training- Data Mining"}]'
 path_count: 3
 tags:
   - course
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Data Analytics Part 2: Extending and Applying Core Knowledge](https://media.licdn.com/dms/image/v2/C560DAQG7DLi-4UC99w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624559649231?e=2147483647&amp;v=beta&amp;t=iTiduheAj2XDUCXDEmmfde1k8QseOoSEr-fCbWNC3_A)

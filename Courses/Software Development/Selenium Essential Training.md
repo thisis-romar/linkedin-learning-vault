@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQE-vCuZH-c_Ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589403094822?e=2147483647&amp;v=beta&amp;t=Dfn3Q8ThGlU8d8iM-wEPr7hvX5vjHsLBSwP8FmNGO0E"
 linkedin_topic: Software Development
 learning_paths:
-  - TestMu AI Test Automation Professional Certificate
+  - '[[TestMu AI Test Automation Professional Certificate]]'
+prev_courses:
+  - '[[Test Automation Foundations]]'
+path_nav: '[{"path":"TestMu AI Test Automation Professional Certificate","position":2,"total":2,"prev":"Test Automation Foundations","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/selenium
   - skill/test-automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Selenium Essential Training](https://media.licdn.com/dms/image/v2/C4D0DAQE-vCuZH-c_Ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589403094822?e=2147483647&amp;v=beta&amp;t=Dfn3Q8ThGlU8d8iM-wEPr7hvX5vjHsLBSwP8FmNGO0E)

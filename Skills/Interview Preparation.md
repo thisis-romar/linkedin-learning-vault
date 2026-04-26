@@ -6,7 +6,7 @@ course_count: 8
 tags:
   - skill
   - skill/interview-preparation
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Interview Preparation

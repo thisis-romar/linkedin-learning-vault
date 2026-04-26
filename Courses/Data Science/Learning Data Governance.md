@@ -16,11 +16,24 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGerkj6j_o8Pg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630429984595?e=2147483647&amp;v=beta&amp;t=oSwO0sHTGLSxNq_utJ5M3B4WF54rEieyCW5FFxWyfOg"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Management
-  - Data Engineering Foundations Professional Certificate by Astronomer
-  - Mastering Executive-Level Data Analytics
-  - Mastering Data Governance and Ethics
-  - Become a Data Scientist
+  - '[[Introduction to Fundamental Skills for Data Work- Data Management]]'
+  - '[[Data Engineering Foundations Professional Certificate by Astronomer]]'
+  - '[[Mastering Executive-Level Data Analytics]]'
+  - '[[Mastering Data Governance and Ethics]]'
+  - '[[Become a Data Scientist]]'
+prev_courses:
+  - '[[Database Foundations- Administration]]'
+  - '[[Introduction to Data Warehouses]]'
+  - null
+  - '[[Data Rights Foundations]]'
+  - '[[Big Data in the Age of AI]]'
+next_courses:
+  - '[[Secure Data Management for AI Implementation]]'
+  - null
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Data Steward Foundations]]'
+  - '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Management","position":4,"total":6,"prev":"Database Foundations- Administration","next":"Secure Data Management for AI Implementation"},{"path":"Data Engineering Foundations Professional Certificate by Astronomer","position":6,"total":6,"prev":"Introduction to Data Warehouses","next":null},{"path":"Mastering Executive-Level Data Analytics","position":1,"total":7,"prev":null,"next":"Statistics Foundations 1- The Basics"},{"path":"Mastering Data Governance and Ethics","position":2,"total":9,"prev":"Data Rights Foundations","next":"Data Steward Foundations"},{"path":"Become a Data Scientist","position":9,"total":11,"prev":"Big Data in the Age of AI","next":"Data Literacy Exploring And Describing Data In An Ai World"}]'
 path_count: 5
 tags:
   - course
@@ -29,7 +42,7 @@ tags:
   - topic/software-development
   - skill/data-governance
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Data Governance](https://media.licdn.com/dms/image/v2/C560DAQGerkj6j_o8Pg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630429984595?e=2147483647&amp;v=beta&amp;t=oSwO0sHTGLSxNq_utJ5M3B4WF54rEieyCW5FFxWyfOg)

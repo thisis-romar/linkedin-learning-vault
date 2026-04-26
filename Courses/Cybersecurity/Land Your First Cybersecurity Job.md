@@ -18,9 +18,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQH9V0JrrJyMjw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1653327986176?e=2147483647&amp;v=beta&amp;t=BzbsD1P4lXMVUbzZGd5vM3bKQjB-WcEcFMUoDhixMdQ"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become a Cybersecurity Professional
-  - Explore Cybersecurity Careers
-  - Starting Your Career in Tech- Cybersecurity
+  - '[[Become a Cybersecurity Professional]]'
+  - '[[Explore Cybersecurity Careers]]'
+  - '[[Starting Your Career in Tech- Cybersecurity]]'
+prev_courses:
+  - '[[Cybersecurity Careers and Certifications]]'
+  - null
+  - null
+next_courses:
+  - null
+  - '[[Cybersecurity Careers and Certifications]]'
+  - '[[Writing a Tech Resume]]'
+path_nav: '[{"path":"Become a Cybersecurity Professional","position":5,"total":5,"prev":"Cybersecurity Careers and Certifications","next":null},{"path":"Explore Cybersecurity Careers","position":1,"total":9,"prev":null,"next":"Cybersecurity Careers and Certifications"},{"path":"Starting Your Career in Tech- Cybersecurity","position":1,"total":5,"prev":null,"next":"Writing a Tech Resume"}]'
 path_count: 3
 tags:
   - course
@@ -32,7 +41,7 @@ tags:
   - skill/cybersecurity
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Land Your First Cybersecurity Job](https://media.licdn.com/dms/image/v2/C560DAQH9V0JrrJyMjw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1653327986176?e=2147483647&amp;v=beta&amp;t=BzbsD1P4lXMVUbzZGd5vM3bKQjB-WcEcFMUoDhixMdQ)

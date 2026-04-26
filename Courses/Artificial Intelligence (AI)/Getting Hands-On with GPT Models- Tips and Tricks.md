@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFIfHHuNXRfxw/learning-public-crop_675_1200/B4EZei_GFCHsAY-/0/1750786139288?e=2147483647&amp;v=beta&amp;t=pOiWDVmbWGXmOfuKs-uIf3tlUnTCkRTgBpRQojBLyJM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Hands-On Projects for OpenAI-Powered Apps
+  - '[[Hands-On Projects for OpenAI-Powered Apps]]'
+prev_courses:
+  - '[[Gpt Foundations Building Ai Powered Apps]]'
+next_courses:
+  - '[[Hands-On OpenAI API- Building a Real-World Solution]]'
+path_nav: '[{"path":"Hands-On Projects for OpenAI-Powered Apps","position":2,"total":5,"prev":"Gpt Foundations Building Ai Powered Apps","next":"Hands-On OpenAI API- Building a Real-World Solution"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Getting Hands-On with GPT Models: Tips and Tricks](https://media.licdn.com/dms/image/v2/D4E0DAQFIfHHuNXRfxw/learning-public-crop_675_1200/B4EZei_GFCHsAY-/0/1750786139288?e=2147483647&amp;v=beta&amp;t=pOiWDVmbWGXmOfuKs-uIf3tlUnTCkRTgBpRQojBLyJM)

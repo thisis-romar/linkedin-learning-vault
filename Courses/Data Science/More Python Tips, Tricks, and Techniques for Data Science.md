@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE3cDnAJ16QlQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726086903104?e=2147483647&amp;v=beta&amp;t=0-KWDw7fjT57ZIVgGCqV9Hk66YUrFWar4Ca-s_Qhf_k"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Python Skills for Data Science
+  - '[[Advance Your Python Skills for Data Science]]'
+prev_courses:
+  - '[[Python Data Analysis]]'
+next_courses:
+  - '[[Level Up- Python Data Acquisitions, Prep, and EDA]]'
+path_nav: '[{"path":"Advance Your Python Skills for Data Science","position":5,"total":6,"prev":"Python Data Analysis","next":"Level Up- Python Data Acquisitions, Prep, and EDA"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![More Python Tips, Tricks, and Techniques for Data Science](https://media.licdn.com/dms/image/v2/D560DAQE3cDnAJ16QlQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726086903104?e=2147483647&amp;v=beta&amp;t=0-KWDw7fjT57ZIVgGCqV9Hk66YUrFWar4Ca-s_Qhf_k)

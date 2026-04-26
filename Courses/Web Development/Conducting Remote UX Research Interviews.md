@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHL7vLStBTkKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656348274146?e=2147483647&amp;v=beta&amp;t=UMO5UOo_3dNvHflzeef4WTE3AzO236MsB99pel4hI2w"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills as a User Experience Researcher
+  - '[[Advance Your Skills as a User Experience Researcher]]'
+prev_courses:
+  - '[[Figma for UX Research- Presentations that Stand Out]]'
+path_nav: '[{"path":"Advance Your Skills as a User Experience Researcher","position":7,"total":7,"prev":"Figma for UX Research- Presentations that Stand Out","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/user-interviews
   - skill/ux-research
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Conducting Remote UX Research Interviews](https://media.licdn.com/dms/image/v2/C4E0DAQHL7vLStBTkKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656348274146?e=2147483647&amp;v=beta&amp;t=UMO5UOo_3dNvHflzeef4WTE3AzO236MsB99pel4hI2w)

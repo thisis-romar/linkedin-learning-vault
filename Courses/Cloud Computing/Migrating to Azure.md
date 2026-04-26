@@ -10,7 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGeYa1VQBMDyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615309726156?e=2147483647&amp;v=beta&amp;t=26cH1vuDrmGXawS7YlKpoudC2P4s2bGtjItAg635gmk"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advancing Your Azure Developer Skills- Exploring Complex Application Development
+  - '[[Advancing Your Azure Developer Skills- Exploring Complex Application Development]]'
+prev_courses:
+  - '[[Developing Ci Cd Solutions With Azure Devops]]'
+next_courses:
+  - '[[Azure Data Lake for Developers]]'
+path_nav: '[{"path":"Advancing Your Azure Developer Skills- Exploring Complex Application Development","position":2,"total":7,"prev":"Developing Ci Cd Solutions With Azure Devops","next":"Azure Data Lake for Developers"}]'
 path_count: 1
 tags:
   - course
@@ -18,7 +23,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Migrating to Azure](https://media.licdn.com/dms/image/v2/C4E0DAQGeYa1VQBMDyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615309726156?e=2147483647&amp;v=beta&amp;t=26cH1vuDrmGXawS7YlKpoudC2P4s2bGtjItAg635gmk)

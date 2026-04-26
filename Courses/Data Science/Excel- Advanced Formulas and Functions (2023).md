@@ -16,16 +16,25 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHqXcCF5d8sWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679434079033?e=2147483647&amp;v=beta&amp;t=V7AYahSkmUNtc_-izynzQAhQnpQurWnij1WyJWIJn9k"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills with Excel Formulas and Functions
-  - Build Your Excel Skills
-  - Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)
+  - '[[Advance Your Skills with Excel Formulas and Functions]]'
+  - '[[Build Your Excel Skills]]'
+  - '[[Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)]]'
+prev_courses:
+  - '[[Excel- Financial Functions in Depth]]'
+  - '[[Excel Essential Training (Microsoft 365)]]'
+  - '[[Excel- Tips and Tricks (2023)]]'
+next_courses:
+  - null
+  - '[[Excel- Advanced Formatting Techniques]]'
+  - '[[Excel- Advanced Formatting Techniques]]'
+path_nav: '[{"path":"Advance Your Skills with Excel Formulas and Functions","position":5,"total":5,"prev":"Excel- Financial Functions in Depth","next":null},{"path":"Build Your Excel Skills","position":2,"total":3,"prev":"Excel Essential Training (Microsoft 365)","next":"Excel- Advanced Formatting Techniques"},{"path":"Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)","position":3,"total":7,"prev":"Excel- Tips and Tricks (2023)","next":"Excel- Advanced Formatting Techniques"}]'
 path_count: 3
 tags:
   - course
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel: Advanced Formulas and Functions (2023)](https://media.licdn.com/dms/image/v2/C4E0DAQHqXcCF5d8sWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679434079033?e=2147483647&amp;v=beta&amp;t=V7AYahSkmUNtc_-izynzQAhQnpQurWnij1WyJWIJn9k)

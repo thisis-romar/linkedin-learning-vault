@@ -18,9 +18,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHNxBr2sOH8ow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712267299315?e=2147483647&amp;v=beta&amp;t=DJH8i475ufUXDYuM1ik8MiZx4xGPD92CQDYe3fWcbnU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying AI as a Tech Leader
-  - Understanding Generative AI for Tech Leaders
-  - Mastering Responsible AI- From Concept to Auditing
+  - '[[Applying AI as a Tech Leader]]'
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[Mastering Responsible AI- From Concept to Auditing]]'
+prev_courses:
+  - '[[Scaling Generative AI- Building a Strategy for Adoption and Expansion]]'
+  - '[[Ethics in the Age of Generative AI]]'
+  - '[[Compliance and Regulations for Generative AI]]'
+next_courses:
+  - '[[Introduction to AI Governance]]'
+  - '[[Generative AI Approaches to Business Challenges]]'
+  - '[[Introduction to Auditing AI Systems]]'
+path_nav: '[{"path":"Applying AI as a Tech Leader","position":7,"total":8,"prev":"Scaling Generative AI- Building a Strategy for Adoption and Expansion","next":"Introduction to AI Governance"},{"path":"Understanding Generative AI for Tech Leaders","position":6,"total":22,"prev":"Ethics in the Age of Generative AI","next":"Generative AI Approaches to Business Challenges"},{"path":"Mastering Responsible AI- From Concept to Auditing","position":5,"total":7,"prev":"Compliance and Regulations for Generative AI","next":"Introduction to Auditing AI Systems"}]'
 path_count: 3
 tags:
   - course
@@ -32,7 +41,7 @@ tags:
   - skill/ethical-leadership
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Responsible AI Program: Context, Culture, Content, and Commitment](https://media.licdn.com/dms/image/v2/D4E0DAQHNxBr2sOH8ow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712267299315?e=2147483647&amp;v=beta&amp;t=DJH8i475ufUXDYuM1ik8MiZx4xGPD92CQDYe3fWcbnU)

@@ -18,9 +18,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHWXzP1EhG6xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611181236412?e=2147483647&amp;v=beta&amp;t=95vksPogY88U7T5Qa5Ic1FSbmji1q24X4xfQNaSLJ_8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Fundamentals to Become a Machine Learning Engineer
-  - Advance Your Skills in AI and Machine Learning
-  - Getting Started with AI and Machine Learning
+  - '[[Fundamentals to Become a Machine Learning Engineer]]'
+  - '[[Advance Your Skills in AI and Machine Learning]]'
+  - '[[Getting Started with AI and Machine Learning]]'
+prev_courses:
+  - '[[Deep Learning- Model Optimization and Tuning (2022)]]'
+  - '[[Deep Learning- Model Optimization and Tuning (2022)]]'
+  - '[[Hands-On AI- Image Processing with Python]]'
+next_courses:
+  - '[[Training Neural Networks in Python]]'
+  - '[[Introduction to Attention-Based Neural Networks]]'
+  - '[[Hands-On PyTorch Machine Learning]]'
+path_nav: '[{"path":"Fundamentals to Become a Machine Learning Engineer","position":6,"total":7,"prev":"Deep Learning- Model Optimization and Tuning (2022)","next":"Training Neural Networks in Python"},{"path":"Advance Your Skills in AI and Machine Learning","position":3,"total":16,"prev":"Deep Learning- Model Optimization and Tuning (2022)","next":"Introduction to Attention-Based Neural Networks"},{"path":"Getting Started with AI and Machine Learning","position":5,"total":7,"prev":"Hands-On AI- Image Processing with Python","next":"Hands-On PyTorch Machine Learning"}]'
 path_count: 3
 tags:
   - course
@@ -29,7 +38,7 @@ tags:
   - skill/reinforcement-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Reinforcement Learning Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQHWXzP1EhG6xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611181236412?e=2147483647&amp;v=beta&amp;t=95vksPogY88U7T5Qa5Ic1FSbmji1q24X4xfQNaSLJ_8)

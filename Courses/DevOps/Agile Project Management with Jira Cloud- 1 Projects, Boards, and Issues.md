@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQH_EJZKQzQRMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633624673369?e=2147483647&amp;v=beta&amp;t=E9TLuAANcsbfaTrUENMJBQRHtDUnVOFP2WFHJybdQ8Q"
 linkedin_topic: DevOps
 learning_paths:
-  - Atlassian Agile Project Management Professional Certificate
+  - '[[Atlassian Agile Project Management Professional Certificate]]'
+prev_courses:
+  - '[[Scrum- The Basics]]'
+next_courses:
+  - '[[Agile Project Management with Jira Cloud- 2 Lean and Agile Processes]]'
+path_nav: '[{"path":"Atlassian Agile Project Management Professional Certificate","position":3,"total":6,"prev":"Scrum- The Basics","next":"Agile Project Management with Jira Cloud- 2 Lean and Agile Processes"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/jira
   - skill/agile-project-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues](https://media.licdn.com/dms/image/v2/C560DAQH_EJZKQzQRMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633624673369?e=2147483647&amp;v=beta&amp;t=E9TLuAANcsbfaTrUENMJBQRHtDUnVOFP2WFHJybdQ8Q)

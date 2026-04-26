@@ -13,7 +13,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
   - topic/web-development
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Chris Nodder

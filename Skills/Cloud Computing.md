@@ -6,7 +6,7 @@ course_count: 14
 tags:
   - skill
   - skill/cloud-computing
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Cloud Computing

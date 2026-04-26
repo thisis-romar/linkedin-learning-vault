@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHUdP_8C67__Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715125641500?e=2147483647&amp;v=beta&amp;t=DpQebVY-l1om2yZviwVSu-k1O8KiglUNhhWiEnql16E"
 linkedin_topic: Data Science
 learning_paths:
-  - Data Science Professional Certificate by KNIME
+  - '[[Data Science Professional Certificate by KNIME]]'
+prev_courses:
+  - '[[Data Science Foundations- Fundamentals]]'
+next_courses:
+  - '[[Introduction To Artificial Intelligence]]'
+path_nav: '[{"path":"Data Science Professional Certificate by KNIME","position":2,"total":6,"prev":"Data Science Foundations- Fundamentals","next":"Introduction To Artificial Intelligence"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/knime
   - skill/data-literacy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Low Code/No-Code Data Literacy with KNIME: From Basic to Advanced](https://media.licdn.com/dms/image/v2/D560DAQHUdP_8C67__Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715125641500?e=2147483647&amp;v=beta&amp;t=DpQebVY-l1om2yZviwVSu-k1O8KiglUNhhWiEnql16E)

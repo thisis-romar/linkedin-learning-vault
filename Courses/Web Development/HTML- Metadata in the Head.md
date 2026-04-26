@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQGtJg65REXNLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1592866545568?e=2147483647&amp;v=beta&amp;t=x-YRRi1yhasBAACFk9AgfEfN3-sU3YHvuXOB19LGjFI"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in HTML
+  - '[[Advance Your Skills in HTML]]'
+prev_courses:
+  - '[[HTML- Tables]]'
+next_courses:
+  - '[[HTML & CSS- Creating Forms]]'
+path_nav: '[{"path":"Advance Your Skills in HTML","position":6,"total":11,"prev":"HTML- Tables","next":"HTML & CSS- Creating Forms"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/metadata
   - skill/html
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![HTML: Metadata in the Head](https://media.licdn.com/dms/image/v2/C4D0DAQGtJg65REXNLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1592866545568?e=2147483647&amp;v=beta&amp;t=x-YRRi1yhasBAACFk9AgfEfN3-sU3YHvuXOB19LGjFI)

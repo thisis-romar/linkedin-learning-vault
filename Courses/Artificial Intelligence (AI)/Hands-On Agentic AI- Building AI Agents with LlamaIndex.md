@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGxSwR9TaIogg/learning-public-crop_675_1200/B4DZSQi2mXHkAY-/0/1737591844026?e=2147483647&amp;v=beta&amp;t=Rw0qlNICyBQFSAihmmUvCIW9pxOnht5S31u3CUkWEeI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Agentic AI Systems for Developers
+  - '[[Building Agentic AI Systems for Developers]]'
+prev_courses:
+  - '[[Building AI Agents with AutoGen]]'
+next_courses:
+  - '[[Build AI Agents and Chatbots with LangGraph]]'
+path_nav: '[{"path":"Building Agentic AI Systems for Developers","position":4,"total":6,"prev":"Building AI Agents with AutoGen","next":"Build AI Agents and Chatbots with LangGraph"}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On Agentic AI: Building AI Agents with LlamaIndex](https://media.licdn.com/dms/image/v2/D4D0DAQGxSwR9TaIogg/learning-public-crop_675_1200/B4DZSQi2mXHkAY-/0/1737591844026?e=2147483647&amp;v=beta&amp;t=Rw0qlNICyBQFSAihmmUvCIW9pxOnht5S31u3CUkWEeI)

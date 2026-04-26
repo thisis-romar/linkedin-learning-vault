@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/advanced-python-language-features-4
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEpM0FMFQ7drw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731707897651?e=2147483647&amp;v=beta&amp;t=oSAkOkzdaGrEGI-T9AjPq8IChhfH9_SRA2D0m084va0"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Your Python Skills
+  - '[[Master Your Python Skills]]'
+prev_courses:
+  - '[[Advanced Python]]'
+next_courses:
+  - '[[Advanced Python- Working With Data]]'
+path_nav: '[{"path":"Master Your Python Skills","position":2,"total":11,"prev":"Advanced Python","next":"Advanced Python- Working With Data"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Python: Classes and Functions](https://media.licdn.com/dms/image/v2/D4E0DAQEpM0FMFQ7drw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731707897651?e=2147483647&amp;v=beta&amp;t=oSAkOkzdaGrEGI-T9AjPq8IChhfH9_SRA2D0m084va0)

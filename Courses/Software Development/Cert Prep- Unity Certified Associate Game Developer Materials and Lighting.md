@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFmQ5ZNu1UcDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611705919415?e=2147483647&amp;v=beta&amp;t=jV9lFVX8kxZgQ7PZ7LQdvHoF7m3NTBG-Ow4erfd9Xh0"
 linkedin_topic: Software Development
 learning_paths:
-  - Prepare for Unity Certification
+  - '[[Prepare for Unity Certification]]'
+prev_courses:
+  - '[[Cert Prep- Unity Certified Associate Game Developer Scripting with C-]]'
+next_courses:
+  - '[[Cert Prep- Unity Certified Associate Game Developer Audio and Effects]]'
+path_nav: '[{"path":"Prepare for Unity Certification","position":4,"total":7,"prev":"Cert Prep- Unity Certified Associate Game Developer Scripting with C-","next":"Cert Prep- Unity Certified Associate Game Developer Audio and Effects"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/unity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cert Prep: Unity Certified Associate Game Developer Materials and Lighting](https://media.licdn.com/dms/image/v2/C4E0DAQFmQ5ZNu1UcDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611705919415?e=2147483647&amp;v=beta&amp;t=jV9lFVX8kxZgQ7PZ7LQdvHoF7m3NTBG-Ow4erfd9Xh0)

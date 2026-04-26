@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFVEwRUQ-idOQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660581463282?e=2147483647&amp;v=beta&amp;t=at1jmnwdiA5ZMRZy8RiLpZ4JRe8e5Er6V860PUD5sKY"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Getting Started with Windows Server 2022
+  - '[[Getting Started with Windows Server 2022]]'
+prev_courses:
+  - '[[Windows Server 2022- Install and Configure Active Directory]]'
+path_nav: '[{"path":"Getting Started with Windows Server 2022","position":4,"total":4,"prev":"Windows Server 2022- Install and Configure Active Directory","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/dynamic-host-configuration-protocol-dhcp
   - skill/windows-server
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows Server 2022: DHCP and DNS](https://media.licdn.com/dms/image/v2/C4E0DAQFVEwRUQ-idOQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660581463282?e=2147483647&amp;v=beta&amp;t=at1jmnwdiA5ZMRZy8RiLpZ4JRe8e5Er6V860PUD5sKY)

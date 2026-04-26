@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/ai-orchestration-planning-and-orche
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHZpYXImv9IJg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735839023766?e=2147483647&amp;v=beta&amp;t=VvhiwjP_RbU7PZcMhAwat1NfO0oibXIWQKoFw_XO-5A"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Welcome To The Building Ai Products Architecture And Orchestration Professional Certificate]]'
+next_courses:
+  - '[[AI Orchestration- Designing the Prototype Architecture and Data Strategy]]'
+path_nav: '[{"path":"Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning","position":2,"total":5,"prev":"Welcome To The Building Ai Products Architecture And Orchestration Professional Certificate","next":"AI Orchestration- Designing the Prototype Architecture and Data Strategy"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/software-observability
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Orchestration: Planning and Orchestrating for Observability](https://media.licdn.com/dms/image/v2/D4D0DAQHZpYXImv9IJg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735839023766?e=2147483647&amp;v=beta&amp;t=VvhiwjP_RbU7PZcMhAwat1NfO0oibXIWQKoFw_XO-5A)

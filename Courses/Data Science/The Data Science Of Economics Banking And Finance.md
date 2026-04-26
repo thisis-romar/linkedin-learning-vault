@@ -15,7 +15,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGG7C3XytgA3Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715275982013?e=2147483647&amp;v=beta&amp;t=Pbtd1dAoFsZpR2OanG2jbA-wiredu-hxFCZUzqoTd28"
 linkedin_topic: Data Science
 learning_paths:
-  - SQL for Data Professionals in Finance
+  - '[[SQL for Data Professionals in Finance]]'
+next_courses:
+  - '[[SQL for Finance Professionals]]'
+path_nav: '[{"path":"SQL for Data Professionals in Finance","position":1,"total":4,"prev":null,"next":"SQL for Finance Professionals"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/banking
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The Data Science Of Economics Banking And Finance](https://media.licdn.com/dms/image/v2/D4D0DAQGG7C3XytgA3Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715275982013?e=2147483647&amp;v=beta&amp;t=Pbtd1dAoFsZpR2OanG2jbA-wiredu-hxFCZUzqoTd28)

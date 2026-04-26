@@ -10,13 +10,16 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEh_LWPp26jPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671563366782?e=2147483647&amp;v=beta&amp;t=UntSRS3xQMBCIxx474PtaYxxg3NalygPwpJnbvbnxOw"
 linkedin_topic: Web Development
 learning_paths:
-  - Understanding Digital Accessibility
+  - '[[Understanding Digital Accessibility]]'
+prev_courses:
+  - '[[Digital Accessibility for the Modern Workplace (with Audio Descriptions)]]'
+path_nav: '[{"path":"Understanding Digital Accessibility","position":5,"total":5,"prev":"Digital Accessibility for the Modern Workplace (with Audio Descriptions)","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Inclusive Learning Design](https://media.licdn.com/dms/image/v2/C560DAQEh_LWPp26jPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671563366782?e=2147483647&amp;v=beta&amp;t=UntSRS3xQMBCIxx474PtaYxxg3NalygPwpJnbvbnxOw)

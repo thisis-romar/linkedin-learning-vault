@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/openai-api-fine-tuning-2719505/code
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFE_LhqtfTWIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713563299935?e=2147483647&amp;v=beta&amp;t=o-NCkVi1PRVuCx-Fps7sZuldwCH0U4OmrYzPSu6iywk"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your Skills with the OpenAI API
+  - '[[Develop Your Skills with the OpenAI API]]'
+prev_courses:
+  - '[[OpenAI API- Embeddings]]'
+next_courses:
+  - '[[OpenAI API- Image Generation with DALL-E]]'
+path_nav: '[{"path":"Develop Your Skills with the OpenAI API","position":5,"total":10,"prev":"OpenAI API- Embeddings","next":"OpenAI API- Image Generation with DALL-E"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![OpenAI API: Fine-Tuning](https://media.licdn.com/dms/image/v2/D4D0DAQFE_LhqtfTWIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713563299935?e=2147483647&amp;v=beta&amp;t=o-NCkVi1PRVuCx-Fps7sZuldwCH0U4OmrYzPSu6iywk)

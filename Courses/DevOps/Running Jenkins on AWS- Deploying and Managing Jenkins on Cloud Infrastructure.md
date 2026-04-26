@@ -17,14 +17,17 @@ github: "https://github.com/LinkedInLearning/running-jenkins-on-aws-3978678"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQG0r7-qFsC2SA/learning-public-crop_675_1200/B4EZg4SNTOHoAY-/0/1753290954650?e=2147483647&amp;v=beta&amp;t=5qXC2cWevHWwseDS3vED62AV7AIuUNiKy48BcM5AP1Q"
 linkedin_topic: DevOps
 learning_paths:
-  - Continuous Integration-Continuous Delivery (CI-CD) with Jenkins
+  - '[[Continuous Integration-Continuous Delivery (CI-CD) with Jenkins]]'
+prev_courses:
+  - '[[Jenkins Essential Training]]'
+path_nav: '[{"path":"Continuous Integration-Continuous Delivery (CI-CD) with Jenkins","position":3,"total":3,"prev":"Jenkins Essential Training","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/devops
   - skill/jenkins
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Running Jenkins on AWS: Deploying and Managing Jenkins on Cloud Infrastructure](https://media.licdn.com/dms/image/v2/D4E0DAQG0r7-qFsC2SA/learning-public-crop_675_1200/B4EZg4SNTOHoAY-/0/1753290954650?e=2147483647&amp;v=beta&amp;t=5qXC2cWevHWwseDS3vED62AV7AIuUNiKy48BcM5AP1Q)

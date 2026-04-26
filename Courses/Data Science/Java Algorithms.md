@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHIBQUJ2bLBXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702927839806?e=2147483647&amp;v=beta&amp;t=mj2w570_ktC82avVy24WsyFjrpCC-dxHXaqhuWFoqcU"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Java Developer
+  - '[[Getting Started as a Java Developer]]'
+prev_courses:
+  - '[[Java Exception Handling]]'
+next_courses:
+  - '[[Java- Data Structures]]'
+path_nav: '[{"path":"Getting Started as a Java Developer","position":9,"total":10,"prev":"Java Exception Handling","next":"Java- Data Structures"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/algorithms
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Java Algorithms](https://media.licdn.com/dms/image/v2/D560DAQHIBQUJ2bLBXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702927839806?e=2147483647&amp;v=beta&amp;t=mj2w570_ktC82avVy24WsyFjrpCC-dxHXaqhuWFoqcU)

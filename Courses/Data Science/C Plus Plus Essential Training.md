@@ -14,7 +14,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQH9DHDlH2Ei4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661965908511?e=2147483647&amp;v=beta&amp;t=V6UjwbN20mEGb1MWEOrmu-RUV2wRmi3IvZnf6A_CBD8"
 linkedin_topic: Data Science
 learning_paths:
-  - C++ Programming Professional Certificate by OpenEDG C++ Institute
+  - '[[C++ Programming Professional Certificate by OpenEDG C++ Institute]]'
+next_courses:
+  - '[[C++ Design Patterns- Structural]]'
+path_nav: '[{"path":"C++ Programming Professional Certificate by OpenEDG C++ Institute","position":1,"total":3,"prev":null,"next":"C++ Design Patterns- Structural"}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +25,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C Plus Plus Essential Training](https://media.licdn.com/dms/image/v2/C560DAQH9DHDlH2Ei4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661965908511?e=2147483647&amp;v=beta&amp;t=V6UjwbN20mEGb1MWEOrmu-RUV2wRmi3IvZnf6A_CBD8)

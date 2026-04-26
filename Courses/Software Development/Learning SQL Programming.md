@@ -17,9 +17,18 @@ github: "https://github.com/LinkedInLearning/learningsql-2875059"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGAqoJIz-W-wA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702690438853?e=2147483647&amp;v=beta&amp;t=qDz6L00bvr_LCysHubqU3mGGX8TwhC3El8rynmyKzmo"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore a Career in Database Development
-  - Data Engineering Foundations Professional Certificate by Astronomer
-  - Become a Software Developer
+  - '[[Explore a Career in Database Development]]'
+  - '[[Data Engineering Foundations Professional Certificate by Astronomer]]'
+  - '[[Become a Software Developer]]'
+prev_courses:
+  - '[[Quick Start Guide to SQL]]'
+  - null
+  - '[[Learning C-]]'
+next_courses:
+  - '[[Learning MySQL Development]]'
+  - '[[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]'
+  - '[[Programming Foundations- Web Security]]'
+path_nav: '[{"path":"Explore a Career in Database Development","position":3,"total":5,"prev":"Quick Start Guide to SQL","next":"Learning MySQL Development"},{"path":"Data Engineering Foundations Professional Certificate by Astronomer","position":1,"total":6,"prev":null,"next":"Complete Guide to Python for Data Engineering- From Beginner to Advanced"},{"path":"Become a Software Developer","position":11,"total":12,"prev":"Learning C-","next":"Programming Foundations- Web Security"}]'
 path_count: 3
 tags:
   - course
@@ -28,7 +37,7 @@ tags:
   - topic/data-science
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning SQL Programming](https://media.licdn.com/dms/image/v2/D4D0DAQGAqoJIz-W-wA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702690438853?e=2147483647&amp;v=beta&amp;t=qDz6L00bvr_LCysHubqU3mGGX8TwhC3El8rynmyKzmo)

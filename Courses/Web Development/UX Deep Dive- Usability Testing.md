@@ -14,15 +14,22 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGtb-Q8JCY7yA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588621854430?e=2147483647&amp;v=beta&amp;t=4t3wUfWUWeHIVA38QI5rr90Scnld1DQN0flKGBxp99Y"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your UX Design Skills
-  - Improve Your UX Prototyping Skills
+  - '[[Improve Your UX Design Skills]]'
+  - '[[Improve Your UX Prototyping Skills]]'
+prev_courses:
+  - '[[UX Foundations- Storytelling]]'
+  - null
+next_courses:
+  - '[[UX Foundations- Generational Design]]'
+  - '[[Adobe XD Essential Training- Prototype]]'
+path_nav: '[{"path":"Improve Your UX Design Skills","position":4,"total":7,"prev":"UX Foundations- Storytelling","next":"UX Foundations- Generational Design"},{"path":"Improve Your UX Prototyping Skills","position":1,"total":6,"prev":null,"next":"Adobe XD Essential Training- Prototype"}]'
 path_count: 2
 tags:
   - course
   - topic/web-development
   - skill/usability-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![UX Deep Dive: Usability Testing](https://media.licdn.com/dms/image/v2/C560DAQGtb-Q8JCY7yA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588621854430?e=2147483647&amp;v=beta&amp;t=4t3wUfWUWeHIVA38QI5rr90Scnld1DQN0flKGBxp99Y)

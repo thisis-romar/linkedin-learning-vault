@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHaZo3bXXOvxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666118840440?e=2147483647&amp;v=beta&amp;t=5tcfeftYvSQXg6Q39pNukVup4iH_gKm11UNPj6v2uOs"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Cloud Strategy Professional Certificate by LinkedIn Learning
+  - '[[Cloud Strategy Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Cloud for Business- Developing a Cloud Center of Excellence]]'
+next_courses:
+  - '[[Including Sustainability in Your Cloud Strategy (2022)]]'
+path_nav: '[{"path":"Cloud Strategy Professional Certificate by LinkedIn Learning","position":8,"total":9,"prev":"Cloud for Business- Developing a Cloud Center of Excellence","next":"Including Sustainability in Your Cloud Strategy (2022)"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/system-deployment
   - skill/financial-operations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![FinOps Essentials for Cloud Deployments](https://media.licdn.com/dms/image/v2/C560DAQHaZo3bXXOvxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666118840440?e=2147483647&amp;v=beta&amp;t=5tcfeftYvSQXg6Q39pNukVup4iH_gKm11UNPj6v2uOs)

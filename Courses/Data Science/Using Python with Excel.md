@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQENrV8UgGZ-Iw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690919454982?e=2147483647&amp;v=beta&amp;t=NY6sWyz6S_iNa30ChUHPWBh-7TgOc0rNlOXfbRRA9Hc"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Advanced Excel Data & Analytics Skills
+  - '[[Master Advanced Excel Data & Analytics Skills]]'
+prev_courses:
+  - '[[Excel- Working Together with Power Query and Power Pivot]]'
+next_courses:
+  - '[[From Excel to SQL]]'
+path_nav: '[{"path":"Master Advanced Excel Data & Analytics Skills","position":4,"total":7,"prev":"Excel- Working Together with Power Query and Power Pivot","next":"From Excel to SQL"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using Python with Excel](https://media.licdn.com/dms/image/v2/D560DAQENrV8UgGZ-Iw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690919454982?e=2147483647&amp;v=beta&amp;t=NY6sWyz6S_iNa30ChUHPWBh-7TgOc0rNlOXfbRRA9Hc)

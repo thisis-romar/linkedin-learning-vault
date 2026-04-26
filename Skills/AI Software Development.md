@@ -6,7 +6,7 @@ course_count: 33
 tags:
   - skill
   - skill/ai-software-development
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # AI Software Development

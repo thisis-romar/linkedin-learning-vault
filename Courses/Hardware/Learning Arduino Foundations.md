@@ -14,7 +14,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFrtDsbkms6Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668426746?e=2147483647&amp;v=beta&amp;t=UDSaVVk82L_-1dCcOPpTxGiiyaIcS6ArvYZp26m9Cb4"
 linkedin_topic: Hardware
 learning_paths:
-  - Become an Arduino Developer
+  - '[[Become an Arduino Developer]]'
+next_courses:
+  - '[[Electronics Foundations- Fundamentals]]'
+path_nav: '[{"path":"Become an Arduino Developer","position":1,"total":11,"prev":null,"next":"Electronics Foundations- Fundamentals"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Arduino Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQFrtDsbkms6Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668426746?e=2147483647&amp;v=beta&amp;t=UDSaVVk82L_-1dCcOPpTxGiiyaIcS6ArvYZp26m9Cb4)

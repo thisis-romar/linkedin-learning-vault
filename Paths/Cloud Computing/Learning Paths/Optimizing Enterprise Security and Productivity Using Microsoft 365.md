@@ -63,7 +63,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Optimizing Enterprise Security and Productivity Using Microsoft 365
@@ -102,3 +102,7 @@ _Paths that share courses with this one:_
 - [[The Top Skills IT Professionals Have Right Now]] (1 shared courses)
 - [[Identity and Access Management in Azure]] (1 shared courses)
 - [[Advance Your Skills with Microsoft Entra ID]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFbN4uqlWyxgg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663000615486?e=2147483647&amp;v=beta&amp;t=JfkDQ6JgmswOu21E5DKAT2zPxX5DSIwVq-SIFD23bJ8"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Programmer- Foundations
+  - '[[Become a Programmer- Foundations]]'
+prev_courses:
+  - '[[Programming Foundations Databases]]'
+next_courses:
+  - '[[Programming Foundations- APIs and Web Services]]'
+path_nav: '[{"path":"Become a Programmer- Foundations","position":8,"total":12,"prev":"Programming Foundations Databases","next":"Programming Foundations- APIs and Web Services"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations: Memory, Pointers, and Garbage Collection](https://media.licdn.com/dms/image/v2/C4D0DAQFbN4uqlWyxgg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663000615486?e=2147483647&amp;v=beta&amp;t=JfkDQ6JgmswOu21E5DKAT2zPxX5DSIwVq-SIFD23bJ8)

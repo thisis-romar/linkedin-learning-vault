@@ -19,7 +19,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGNj0oA1ccRkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662645118935?e=2147483647&amp;v=beta&amp;t=ZStBusfFobd7cSAQm5sPTt6kKro_eE-tYW01_1vc2AA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Getting Started with Cloud Development
+  - '[[Getting Started with Cloud Development]]'
+prev_courses:
+  - '[[Azure Understanding The Big Picture]]'
+path_nav: '[{"path":"Getting Started with Cloud Development","position":4,"total":4,"prev":"Azure Understanding The Big Picture","next":null}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +33,7 @@ tags:
   - skill/cloud-development
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leveraging Google Cloud Developer and DevOps Tools](https://media.licdn.com/dms/image/v2/C4E0DAQGNj0oA1ccRkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662645118935?e=2147483647&amp;v=beta&amp;t=ZStBusfFobd7cSAQm5sPTt6kKro_eE-tYW01_1vc2AA)

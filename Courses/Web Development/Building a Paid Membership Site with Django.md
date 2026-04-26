@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHCswQe7k_ZlA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669117023?e=2147483647&amp;v=beta&amp;t=HJQfzd3o-clYeXEdKIGEDB7AcywiJlMYWH8ud6SjK6g"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills as a Django Developer
+  - '[[Advance Your Skills as a Django Developer]]'
+prev_courses:
+  - '[[Building RESTful Web APIs with Django]]'
+next_courses:
+  - '[[Securing Django Applications]]'
+path_nav: '[{"path":"Advance Your Skills as a Django Developer","position":4,"total":6,"prev":"Building RESTful Web APIs with Django","next":"Securing Django Applications"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/django
   - skill/membership-systems
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Paid Membership Site with Django](https://media.licdn.com/dms/image/v2/C4E0DAQHCswQe7k_ZlA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669117023?e=2147483647&amp;v=beta&amp;t=HJQfzd3o-clYeXEdKIGEDB7AcywiJlMYWH8ud6SjK6g)

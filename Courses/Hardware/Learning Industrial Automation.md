@@ -10,14 +10,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQH7-WAsAUGMQw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638212551748?e=2147483647&amp;v=beta&amp;t=lfwpoXtom98EyFjnoLmTNZE6xfInlHjyPL138d4SA90"
 linkedin_topic: Hardware
 learning_paths:
-  - CSCMP Supply Chain Foundations- Manufacturing and Service Operations Professional Certificate
-  - Become a PLC Developer
+  - '[[CSCMP Supply Chain Foundations- Manufacturing and Service Operations Professional Certificate]]'
+  - '[[Become a PLC Developer]]'
+prev_courses:
+  - '[[Lean Six Sigma Foundations]]'
+  - null
+next_courses:
+  - '[[Excel- Value Stream Mapping]]'
+  - '[[Learning PLC Ladder Logic- 1 The Basics]]'
+path_nav: '[{"path":"CSCMP Supply Chain Foundations- Manufacturing and Service Operations Professional Certificate","position":3,"total":4,"prev":"Lean Six Sigma Foundations","next":"Excel- Value Stream Mapping"},{"path":"Become a PLC Developer","position":1,"total":7,"prev":null,"next":"Learning PLC Ladder Logic- 1 The Basics"}]'
 path_count: 2
 tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Industrial Automation](https://media.licdn.com/dms/image/v2/C4E0DAQH7-WAsAUGMQw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638212551748?e=2147483647&amp;v=beta&amp;t=lfwpoXtom98EyFjnoLmTNZE6xfInlHjyPL138d4SA90)

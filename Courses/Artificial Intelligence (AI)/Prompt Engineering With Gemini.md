@@ -15,8 +15,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQExPVvaiVwKuw/learning-public-crop_675_1200/B4EZfmDFTWHYAc-/0/1751911257653?e=2147483647&amp;v=beta&amp;t=yhs_EU8x5NQTW7hP9n9B_Pec6u_Sr_rI9JwYDQCln3Q"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - A Developer's Guide to Google Gemini
-  - Getting Started with Prompt Engineering
+  - '[[A Developer''s Guide to Google Gemini]]'
+  - '[[Getting Started with Prompt Engineering]]'
+prev_courses:
+  - null
+  - '[[Top Ten AI Prompts]]'
+next_courses:
+  - '[[Exploring Million-Token Models with Google Gemini Pro 1.5]]'
+  - '[[Introduction to Multimodal Prompting for Generative AI]]'
+path_nav: '[{"path":"A Developer''s Guide to Google Gemini","position":1,"total":8,"prev":null,"next":"Exploring Million-Token Models with Google Gemini Pro 1.5"},{"path":"Getting Started with Prompt Engineering","position":3,"total":6,"prev":"Top Ten AI Prompts","next":"Introduction to Multimodal Prompting for Generative AI"}]'
 path_count: 2
 tags:
   - course
@@ -25,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Prompt Engineering With Gemini](https://media.licdn.com/dms/image/v2/D4E0DAQExPVvaiVwKuw/learning-public-crop_675_1200/B4EZfmDFTWHYAc-/0/1751911257653?e=2147483647&amp;v=beta&amp;t=yhs_EU8x5NQTW7hP9n9B_Pec6u_Sr_rI9JwYDQCln3Q)

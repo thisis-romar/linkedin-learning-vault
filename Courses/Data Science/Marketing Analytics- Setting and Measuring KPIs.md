@@ -15,7 +15,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFXCwcmJUsy3A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731546873347?e=2147483647&amp;v=beta&amp;t=kJVc6Q_Cbk_i_g6g5OY5_kRFURdSZy85fGhDCpcNjw4"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Business Intelligence Specialist
+  - '[[Become a Business Intelligence Specialist]]'
+prev_courses:
+  - '[[Using Tableau to Discover Powerful Business Insights]]'
+next_courses:
+  - '[[Data Visualization for Data Analysts and Analytics]]'
+path_nav: '[{"path":"Become a Business Intelligence Specialist","position":7,"total":9,"prev":"Using Tableau to Discover Powerful Business Insights","next":"Data Visualization for Data Analysts and Analytics"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/marketing-analytics
   - skill/kpi-reporting
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Marketing Analytics: Setting and Measuring KPIs](https://media.licdn.com/dms/image/v2/D4D0DAQFXCwcmJUsy3A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731546873347?e=2147483647&amp;v=beta&amp;t=kJVc6Q_Cbk_i_g6g5OY5_kRFURdSZy85fGhDCpcNjw4)

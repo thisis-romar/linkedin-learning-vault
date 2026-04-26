@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF5p_NAXcm1WQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619112752812?e=2147483647&amp;v=beta&amp;t=4SG22rrTCNYeQzSkBbKte2ri88rOINgsvxiFxvh4d7U"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Getting Started with Linux
+  - '[[Getting Started with Linux]]'
+prev_courses:
+  - '[[Introduction to Linux (2021)]]'
+next_courses:
+  - '[[Linux- Files and Permissions]]'
+path_nav: '[{"path":"Getting Started with Linux","position":2,"total":3,"prev":"Introduction to Linux (2021)","next":"Linux- Files and Permissions"}]'
 path_count: 1
 tags:
   - course
   - topic/network-and-system-administration
   - skill/linux
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Linux: Overview and Installation](https://media.licdn.com/dms/image/v2/C560DAQF5p_NAXcm1WQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619112752812?e=2147483647&amp;v=beta&amp;t=4SG22rrTCNYeQzSkBbKte2ri88rOINgsvxiFxvh4d7U)

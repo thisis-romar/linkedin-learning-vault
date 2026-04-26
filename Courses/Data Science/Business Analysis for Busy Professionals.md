@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFOdSFaLNTrQg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637602798045?e=2147483647&amp;v=beta&amp;t=ZhqZMl-4h7-HmL47xIgKM-Sl7jZc2t6Yj89YRCWzCGU"
 linkedin_topic: Data Science
 learning_paths:
-  - Get Ahead in Business Analytics and Analysis
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+prev_courses:
+  - '[[Learning Digital Business Analysis]]'
+next_courses:
+  - '[[Business Analysis for Project Managers]]'
+path_nav: '[{"path":"Get Ahead in Business Analytics and Analysis","position":4,"total":19,"prev":"Learning Digital Business Analysis","next":"Business Analysis for Project Managers"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analysis for Busy Professionals](https://media.licdn.com/dms/image/v2/C560DAQFOdSFaLNTrQg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637602798045?e=2147483647&amp;v=beta&amp;t=ZhqZMl-4h7-HmL47xIgKM-Sl7jZc2t6Yj89YRCWzCGU)

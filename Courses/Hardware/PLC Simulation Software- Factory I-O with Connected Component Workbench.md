@@ -19,7 +19,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFLO0GUYTDZnA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664216279875?e=2147483647&amp;v=beta&amp;t=_0jCWXWIOpKcK0jd0Sfbkv24quflvLK1KihAnEIyMsA"
 linkedin_topic: Hardware
 learning_paths:
-  - Become a PLC Developer
+  - '[[Become a PLC Developer]]'
+prev_courses:
+  - '[[PLC Program Flow and Control Instructions]]'
+path_nav: '[{"path":"Become a PLC Developer","position":7,"total":7,"prev":"PLC Program Flow and Control Instructions","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/simulation-software
   - skill/plc-programming
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![PLC Simulation Software: Factory I/O with Connected Component Workbench](https://media.licdn.com/dms/image/v2/C560DAQFLO0GUYTDZnA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664216279875?e=2147483647&amp;v=beta&amp;t=_0jCWXWIOpKcK0jd0Sfbkv24quflvLK1KihAnEIyMsA)

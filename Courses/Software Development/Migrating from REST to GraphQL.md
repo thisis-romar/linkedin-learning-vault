@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGPRFMsUkMSOQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709073643074?e=2147483647&amp;v=beta&amp;t=EzvLMf_VfMzWbXeB9ERVcN-_yl1a9EFc5QDzsZ4DRdM"
 linkedin_topic: Software Development
 learning_paths:
-  - Stay Ahead in GraphQL
+  - '[[Stay Ahead in GraphQL]]'
+prev_courses:
+  - '[[GraphQL Essential Training]]'
+path_nav: '[{"path":"Stay Ahead in GraphQL","position":3,"total":3,"prev":"GraphQL Essential Training","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/graphql
   - skill/representational-state-transfer-rest
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Migrating from REST to GraphQL](https://media.licdn.com/dms/image/v2/D560DAQGPRFMsUkMSOQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709073643074?e=2147483647&amp;v=beta&amp;t=EzvLMf_VfMzWbXeB9ERVcN-_yl1a9EFc5QDzsZ4DRdM)

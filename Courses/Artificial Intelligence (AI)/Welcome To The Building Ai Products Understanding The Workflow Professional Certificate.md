@@ -13,7 +13,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQH4k-wIndPwQA/learning-public-crop_675_1200/B4EZThkF_qGwAY-/0/1738951123550?e=2147483647&amp;v=beta&amp;t=3ghxqyQe5cQc3fLuzxWZdkEjt9nU7RxQUsom6Zt0LjM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]]'
+next_courses:
+  - '[[AI Foundations- Ideating and Prototyping]]'
+path_nav: '[{"path":"Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning","position":1,"total":6,"prev":null,"next":"AI Foundations- Ideating and Prototyping"}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +25,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Welcome To The Building Ai Products Understanding The Workflow Professional Certificate](https://media.licdn.com/dms/image/v2/D4E0DAQH4k-wIndPwQA/learning-public-crop_675_1200/B4EZThkF_qGwAY-/0/1738951123550?e=2147483647&amp;v=beta&amp;t=3ghxqyQe5cQc3fLuzxWZdkEjt9nU7RxQUsom6Zt0LjM)

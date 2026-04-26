@@ -16,10 +16,21 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHmDY4p3jhrEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694720627032?e=2147483647&amp;v=beta&amp;t=SyOBWIIO_0CQuXfmL5ZjNdoQDXcjhsBcKjfg4oDdHsM"
 linkedin_topic: Data Science
 learning_paths:
-  - The Top 10 Most Popular Courses among Engineering Professionals
-  - The Top 10 Most Popular Courses among IT Professionals
-  - Explore a Career in SQL Development
-  - Become a Full-Stack Web Developer
+  - '[[The Top 10 Most Popular Courses among Engineering Professionals]]'
+  - '[[The Top 10 Most Popular Courses among IT Professionals]]'
+  - '[[Explore a Career in SQL Development]]'
+  - '[[Become a Full-Stack Web Developer]]'
+prev_courses:
+  - '[[Git Essential Training]]'
+  - null
+  - '[[Choosing A Database Postgresql Mysql Mongo And Cloud]]'
+  - '[[Node Js Essential Training]]'
+next_courses:
+  - '[[Programming Foundations- Algorithms]]'
+  - '[[Unconscious Bias]]'
+  - '[[SQL Queries Made Easy]]'
+  - '[[NoSQL Essential Training]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among Engineering Professionals","position":9,"total":10,"prev":"Git Essential Training","next":"Programming Foundations- Algorithms"},{"path":"The Top 10 Most Popular Courses among IT Professionals","position":1,"total":10,"prev":null,"next":"Unconscious Bias"},{"path":"Explore a Career in SQL Development","position":2,"total":8,"prev":"Choosing A Database Postgresql Mysql Mongo And Cloud","next":"SQL Queries Made Easy"},{"path":"Become a Full-Stack Web Developer","position":9,"total":12,"prev":"Node Js Essential Training","next":"NoSQL Essential Training"}]'
 path_count: 4
 tags:
   - course
@@ -32,7 +43,7 @@ tags:
   - topic/database-management
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHmDY4p3jhrEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694720627032?e=2147483647&amp;v=beta&amp;t=SyOBWIIO_0CQuXfmL5ZjNdoQDXcjhsBcKjfg4oDdHsM)

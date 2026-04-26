@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHJedElBO8qIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691188888679?e=2147483647&amp;v=beta&amp;t=M6CQ3IFs0FXdjgeC-OWAAsngHStFc6v-6Lez9PN6rhw"
 linkedin_topic: DevOps
 learning_paths:
-  - Elevating C- Skills- Building Robust Applications
+  - '[[Elevating C- Skills- Building Robust Applications]]'
+prev_courses:
+  - '[[C- Unit Testing with xUnit]]'
+path_nav: '[{"path":"Elevating C- Skills- Building Robust Applications","position":8,"total":8,"prev":"C- Unit Testing with xUnit","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C# Practice: Generic Collections](https://media.licdn.com/dms/image/v2/D4E0DAQHJedElBO8qIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691188888679?e=2147483647&amp;v=beta&amp;t=M6CQ3IFs0FXdjgeC-OWAAsngHStFc6v-6Lez9PN6rhw)

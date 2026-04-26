@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFVdYfCaK5eZA/learning-public-crop_675_1200/B56ZfrBhrHHEAY-/0/1751994735576?e=2147483647&amp;v=beta&amp;t=YbndIB0M19OZeHHDC3v4jtVGhCVihjamVtyO48U2Sk8"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Explore a Career in Application Security
-  - Strategies for Managing Vulnerabilities and Mitigating Cyber Risks
+  - '[[Explore a Career in Application Security]]'
+  - '[[Strategies for Managing Vulnerabilities and Mitigating Cyber Risks]]'
+prev_courses:
+  - '[[Learning the OWASP Top 10]]'
+  - '[[Vulnerability Management in Cybersecurity- The Basics]]'
+next_courses:
+  - '[[Dynamic Application Security Testing]]'
+  - '[[Vulnerability Management with Nessus]]'
+path_nav: '[{"path":"Explore a Career in Application Security","position":4,"total":7,"prev":"Learning the OWASP Top 10","next":"Dynamic Application Security Testing"},{"path":"Strategies for Managing Vulnerabilities and Mitigating Cyber Risks","position":2,"total":6,"prev":"Vulnerability Management in Cybersecurity- The Basics","next":"Vulnerability Management with Nessus"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/network-security
   - skill/security-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Security Testing Essential Training (2022)](https://media.licdn.com/dms/image/v2/D560DAQFVdYfCaK5eZA/learning-public-crop_675_1200/B56ZfrBhrHHEAY-/0/1751994735576?e=2147483647&amp;v=beta&amp;t=YbndIB0M19OZeHHDC3v4jtVGhCVihjamVtyO48U2Sk8)

@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHf7b_qQ2iYNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714681644931?e=2147483647&amp;v=beta&amp;t=ST-SgJnVWuIDjjpVmrYYspSCRdGqlP8kLoa-n7-2Hd4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Become an AI-Powered Learning and Development Professional
+  - '[[Become an AI-Powered Learning and Development Professional]]'
+prev_courses:
+  - '[[Applications of Generative AI in Learning and Development]]'
+path_nav: '[{"path":"Become an AI-Powered Learning and Development Professional","position":5,"total":5,"prev":"Applications of Generative AI in Learning and Development","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-recruiting
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![A Practical Guide to Upskilling Your Organization on AI](https://media.licdn.com/dms/image/v2/D4D0DAQHf7b_qQ2iYNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714681644931?e=2147483647&amp;v=beta&amp;t=ST-SgJnVWuIDjjpVmrYYspSCRdGqlP8kLoa-n7-2Hd4)

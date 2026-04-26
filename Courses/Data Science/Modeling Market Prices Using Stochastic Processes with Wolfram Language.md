@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFTrSYvOvR1oQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704408406387?e=2147483647&amp;v=beta&amp;t=nqR14K2P2k35YMPJjzY2M6DR8P7iYTKLlsz9JS50pWE"
 linkedin_topic: Data Science
 learning_paths:
-  - Build Your Wolfram Language Skills
+  - '[[Build Your Wolfram Language Skills]]'
+prev_courses:
+  - '[[Wavelet Analysis- Applications with Wolfram Language]]'
+next_courses:
+  - '[[Interacting with Blockchains in the Wolfram Language]]'
+path_nav: '[{"path":"Build Your Wolfram Language Skills","position":5,"total":8,"prev":"Wavelet Analysis- Applications with Wolfram Language","next":"Interacting with Blockchains in the Wolfram Language"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/wolfram-language
   - skill/financial-modeling
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Modeling Market Prices Using Stochastic Processes with Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQFTrSYvOvR1oQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704408406387?e=2147483647&amp;v=beta&amp;t=nqR14K2P2k35YMPJjzY2M6DR8P7iYTKLlsz9JS50pWE)

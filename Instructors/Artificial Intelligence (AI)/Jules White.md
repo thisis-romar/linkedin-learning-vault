@@ -15,7 +15,7 @@ tags:
   - topic/cloud-computing
   - topic/data-science
   - topic/software-development
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Jules White

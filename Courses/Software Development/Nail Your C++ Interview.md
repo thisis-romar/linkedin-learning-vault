@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFPrN235tALQw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117662822?e=2147483647&amp;v=beta&amp;t=0OgWnIfhwB1aVSeOEVKKV8quRwmKWAYzSzNI8Aa4lyc"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started with C++
+  - '[[Getting Started with C++]]'
+prev_courses:
+  - '[[Web Servers and APIs using C++]]'
+path_nav: '[{"path":"Getting Started with C++","position":5,"total":5,"prev":"Web Servers and APIs using C++","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/interview-preparation
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Nail Your C++ Interview](https://media.licdn.com/dms/image/v2/C4E0DAQFPrN235tALQw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117662822?e=2147483647&amp;v=beta&amp;t=0OgWnIfhwB1aVSeOEVKKV8quRwmKWAYzSzNI8Aa4lyc)

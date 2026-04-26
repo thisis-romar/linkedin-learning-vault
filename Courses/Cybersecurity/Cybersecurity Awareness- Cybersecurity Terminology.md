@@ -17,9 +17,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFAhw3ziR_meA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661795123072?e=2147483647&amp;v=beta&amp;t=LyFjK4EtIQd4w93bsgrNN95irjnqVvZEubJCuapOYns"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Career Essentials in Cybersecurity by Microsoft and LinkedIn
-  - Build Your Cybersecurity Awareness Skills
-  - Cybersecurity for Sales Professionals
+  - '[[Career Essentials in Cybersecurity by Microsoft and LinkedIn]]'
+  - '[[Build Your Cybersecurity Awareness Skills]]'
+  - '[[Cybersecurity for Sales Professionals]]'
+prev_courses:
+  - '[[The Cybersecurity Threat Landscape]]'
+  - '[[Cybersecurity Awareness- AI]]'
+  - '[[Cybersecurity At Work]]'
+next_courses:
+  - '[[Cybersecurity Foundations]]'
+  - '[[Cybersecurity Awareness- Social Engineering]]'
+  - '[[Cybersecurity Awareness- Social Engineering]]'
+path_nav: '[{"path":"Career Essentials in Cybersecurity by Microsoft and LinkedIn","position":2,"total":4,"prev":"The Cybersecurity Threat Landscape","next":"Cybersecurity Foundations"},{"path":"Build Your Cybersecurity Awareness Skills","position":3,"total":10,"prev":"Cybersecurity Awareness- AI","next":"Cybersecurity Awareness- Social Engineering"},{"path":"Cybersecurity for Sales Professionals","position":2,"total":7,"prev":"Cybersecurity At Work","next":"Cybersecurity Awareness- Social Engineering"}]'
 path_count: 3
 tags:
   - course
@@ -30,7 +39,7 @@ tags:
   - skill/information-security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Awareness: Cybersecurity Terminology](https://media.licdn.com/dms/image/v2/C560DAQFAhw3ziR_meA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661795123072?e=2147483647&amp;v=beta&amp;t=LyFjK4EtIQd4w93bsgrNN95irjnqVvZEubJCuapOYns)

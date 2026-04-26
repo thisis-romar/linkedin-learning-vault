@@ -14,9 +14,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHctDFCWfBf5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654187660358?e=2147483647&amp;v=beta&amp;t=poC_kdk8J3POqy2E36qjzgrHnv9UYq9r6VBSmPWCmG8"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore Web Development with Node.js
-  - Become a Full-Stack Web Developer
-  - Explore App Development with the MERN Stack
+  - '[[Explore Web Development with Node.js]]'
+  - '[[Become a Full-Stack Web Developer]]'
+  - '[[Explore App Development with the MERN Stack]]'
+prev_courses:
+  - null
+  - '[[React Essential Training]]'
+  - '[[React- Authentication]]'
+next_courses:
+  - '[[Learning npm- A Package Manager]]'
+  - '[[SQL Essential Training]]'
+  - '[[Learning npm- A Package Manager]]'
+path_nav: '[{"path":"Explore Web Development with Node.js","position":1,"total":11,"prev":null,"next":"Learning npm- A Package Manager"},{"path":"Become a Full-Stack Web Developer","position":8,"total":12,"prev":"React Essential Training","next":"SQL Essential Training"},{"path":"Explore App Development with the MERN Stack","position":3,"total":13,"prev":"React- Authentication","next":"Learning npm- A Package Manager"}]'
 path_count: 3
 tags:
   - course
@@ -25,7 +34,7 @@ tags:
   - topic/software-development
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Node Js Essential Training](https://media.licdn.com/dms/image/v2/C560DAQHctDFCWfBf5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654187660358?e=2147483647&amp;v=beta&amp;t=poC_kdk8J3POqy2E36qjzgrHnv9UYq9r6VBSmPWCmG8)

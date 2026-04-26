@@ -19,7 +19,10 @@ github: "https://github.com/LinkedInLearning/advanced-python-projects-build-ai-a
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHIPR3VAGQGiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713466120470?e=2147483647&amp;v=beta&amp;t=O9urdkF2PIoZQA21mxBP7VxuCcLRPQ31yIQv6RNX3Eg"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop with Python for AI and Machine Learning
+  - '[[Develop with Python for AI and Machine Learning]]'
+prev_courses:
+  - '[[Machine Learning with Python- Association Rules]]'
+path_nav: '[{"path":"Develop with Python for AI and Machine Learning","position":6,"total":6,"prev":"Machine Learning with Python- Association Rules","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Python Projects: Build AI Applications](https://media.licdn.com/dms/image/v2/D560DAQHIPR3VAGQGiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713466120470?e=2147483647&amp;v=beta&amp;t=O9urdkF2PIoZQA21mxBP7VxuCcLRPQ31yIQv6RNX3Eg)

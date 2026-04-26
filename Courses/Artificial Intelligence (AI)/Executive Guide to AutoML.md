@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGu0bi4H4k6Kw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680198412162?e=2147483647&amp;v=beta&amp;t=5nG7gPDk8PRjIhYNiwxqszVJFF1BTEw3NjPSjAuDJuo"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Masterpath in Analytics Leadership for Executives
+  - '[[Masterpath in Analytics Leadership for Executives]]'
+prev_courses:
+  - '[[Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation]]'
+next_courses:
+  - '[[Predictive Analytics Essential Training- Estimating and Ensuring ROI]]'
+path_nav: '[{"path":"Masterpath in Analytics Leadership for Executives","position":4,"total":8,"prev":"Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation","next":"Predictive Analytics Essential Training- Estimating and Ensuring ROI"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/automated-machine-learning-automl
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Executive Guide to AutoML](https://media.licdn.com/dms/image/v2/D560DAQGu0bi4H4k6Kw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680198412162?e=2147483647&amp;v=beta&amp;t=5nG7gPDk8PRjIhYNiwxqszVJFF1BTEw3NjPSjAuDJuo)

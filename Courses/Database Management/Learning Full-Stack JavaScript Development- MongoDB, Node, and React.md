@@ -21,7 +21,10 @@ github: "https://github.com/LinkedInLearning/learning-full-stack-javascript-deve
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGx_lsYcLsXOA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671474208254?e=2147483647&amp;v=beta&amp;t=iy_3Nlypi8En0a_U0sUmOq5eQRz1i_5Yc6FQkc02OZA"
 linkedin_topic: Database Management
 learning_paths:
-  - Explore App Development with the MERN Stack
+  - '[[Explore App Development with the MERN Stack]]'
+prev_courses:
+  - '[[MongoDB Essential Training]]'
+path_nav: '[{"path":"Explore App Development with the MERN Stack","position":13,"total":13,"prev":"MongoDB Essential Training","next":null}]'
 path_count: 1
 tags:
   - course
@@ -34,7 +37,7 @@ tags:
   - skill/react-js
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Full-Stack JavaScript Development: MongoDB, Node, and React](https://media.licdn.com/dms/image/v2/C560DAQGx_lsYcLsXOA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671474208254?e=2147483647&amp;v=beta&amp;t=iy_3Nlypi8En0a_U0sUmOq5eQRz1i_5Yc6FQkc02OZA)

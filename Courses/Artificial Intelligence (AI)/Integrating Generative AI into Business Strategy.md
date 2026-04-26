@@ -10,10 +10,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEcOVJOBn2aMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704764400565?e=2147483647&amp;v=beta&amp;t=w3HFY88QAGlt0GHUG8eybGc3N8IVF_sClTOQo4tJVco"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI for Organizational Leaders by Microsoft and LinkedIn
-  - LinkedIn’s 2025 Top MBA Programs Learning Path
-  - Technical Literacy and Future Readiness for Senior Managers and Senior Leaders
-  - Build AI Aptitude as a Senior Manager
+  - '[[AI for Organizational Leaders by Microsoft and LinkedIn]]'
+  - '[[LinkedIn’s 2025 Top MBA Programs Learning Path]]'
+  - '[[Technical Literacy and Future Readiness for Senior Managers and Senior Leaders]]'
+  - '[[Build AI Aptitude as a Senior Manager]]'
+prev_courses:
+  - '[[AI Challenges and Opportunities for Leadership]]'
+  - '[[AI Literacy for Business Leaders]]'
+  - null
+  - '[[AI Literacy for Business Leaders]]'
+next_courses:
+  - '[[AI Literacy for Business Leaders]]'
+  - null
+  - '[[Amplify Your Critical Thinking with Generative AI]]'
+  - '[[Artificial Intelligence Case Studies in Different Business Industries]]'
+path_nav: '[{"path":"AI for Organizational Leaders by Microsoft and LinkedIn","position":4,"total":6,"prev":"AI Challenges and Opportunities for Leadership","next":"AI Literacy for Business Leaders"},{"path":"LinkedIn’s 2025 Top MBA Programs Learning Path","position":10,"total":10,"prev":"AI Literacy for Business Leaders","next":null},{"path":"Technical Literacy and Future Readiness for Senior Managers and Senior Leaders","position":1,"total":10,"prev":null,"next":"Amplify Your Critical Thinking with Generative AI"},{"path":"Build AI Aptitude as a Senior Manager","position":4,"total":6,"prev":"AI Literacy for Business Leaders","next":"Artificial Intelligence Case Studies in Different Business Industries"}]'
 path_count: 4
 tags:
   - course
@@ -22,7 +33,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Integrating Generative AI into Business Strategy](https://media.licdn.com/dms/image/v2/D560DAQEcOVJOBn2aMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704764400565?e=2147483647&amp;v=beta&amp;t=w3HFY88QAGlt0GHUG8eybGc3N8IVF_sClTOQo4tJVco)

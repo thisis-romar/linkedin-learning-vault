@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Cybersecurity
   - Data Science
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Foundational Math for Machine Learning
@@ -67,3 +67,7 @@ _Paths that share courses with this one:_
 
 - [[Machine Learning Statistical Foundations Professional Certificate by Wolfram Research]] (4 shared courses)
 - [[Getting Started with AI and Machine Learning]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

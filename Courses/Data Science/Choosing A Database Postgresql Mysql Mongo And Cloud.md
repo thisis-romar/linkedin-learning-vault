@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQE2oMuzWAT5sQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616445994252?e=2147483647&amp;v=beta&amp;t=3MDeVHpprZVcNp5-hJPjYZzvOEbVq-YzgY56xvl9gR8"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career in SQL Development
+  - '[[Explore a Career in SQL Development]]'
+next_courses:
+  - '[[SQL Essential Training]]'
+path_nav: '[{"path":"Explore a Career in SQL Development","position":1,"total":8,"prev":null,"next":"SQL Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/postgresql
   - skill/mysql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Choosing A Database Postgresql Mysql Mongo And Cloud](https://media.licdn.com/dms/image/v2/C4D0DAQE2oMuzWAT5sQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616445994252?e=2147483647&amp;v=beta&amp;t=3MDeVHpprZVcNp5-hJPjYZzvOEbVq-YzgY56xvl9gR8)

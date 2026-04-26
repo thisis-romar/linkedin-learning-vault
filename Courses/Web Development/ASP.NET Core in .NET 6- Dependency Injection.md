@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/asp-net-core-in-dotnet-6-dependency
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQE_rmyIpbOtCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651080063253?e=2147483647&amp;v=beta&amp;t=kuP6Mr4L0IBNaW_8tWzLSbEDa8uxtLDzrEOjgObUNpo"
 linkedin_topic: Web Development
 learning_paths:
-  - Getting Started as an ASP.NET Core Developer
+  - '[[Getting Started as an ASP.NET Core Developer]]'
+prev_courses:
+  - '[[ASP.NET Core- Token-Based Authentication]]'
+next_courses:
+  - '[[ASP.NET Core- Building a GraphQL API]]'
+path_nav: '[{"path":"Getting Started as an ASP.NET Core Developer","position":7,"total":9,"prev":"ASP.NET Core- Token-Based Authentication","next":"ASP.NET Core- Building a GraphQL API"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/asp-net-core
   - skill/dependency-injection
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ASP.NET Core in .NET 6: Dependency Injection](https://media.licdn.com/dms/image/v2/C4D0DAQE_rmyIpbOtCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651080063253?e=2147483647&amp;v=beta&amp;t=kuP6Mr4L0IBNaW_8tWzLSbEDa8uxtLDzrEOjgObUNpo)

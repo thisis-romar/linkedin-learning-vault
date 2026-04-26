@@ -19,7 +19,10 @@ github: "https://github.com/microsoft/ResponsibleAIAccelerator"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFEFjtfzTZzug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701470647846?e=2147483647&amp;v=beta&amp;t=INW3W59nm879LOsGUlG0l9imJ3EBn3aCXmtOcDr5nfc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Foundational AI Skills for Azure Administration
+  - '[[Foundational AI Skills for Azure Administration]]'
+prev_courses:
+  - '[[Azure AI Services Essential Training]]'
+path_nav: '[{"path":"Foundational AI Skills for Azure Administration","position":6,"total":6,"prev":"Azure AI Services Essential Training","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Apply Ethical AI Principles Using the Responsible AI Dashboard](https://media.licdn.com/dms/image/v2/D560DAQFEFjtfzTZzug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701470647846?e=2147483647&amp;v=beta&amp;t=INW3W59nm879LOsGUlG0l9imJ3EBn3aCXmtOcDr5nfc)

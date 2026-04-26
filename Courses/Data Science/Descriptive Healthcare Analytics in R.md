@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEsqKudPj6CQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729286231125?e=2147483647&amp;v=beta&amp;t=N4WYT_GHuxYmK0n38WwIFquO1QH4DjqeHmF-v-yVgRo"
 linkedin_topic: Data Science
 learning_paths:
-  - Hands-On Healthcare Analytics
+  - '[[Hands-On Healthcare Analytics]]'
+prev_courses:
+  - '[[SQL for Healthcare Professionals]]'
+next_courses:
+  - '[[Machine Learning Fundamentals for Healthcare]]'
+path_nav: '[{"path":"Hands-On Healthcare Analytics","position":6,"total":8,"prev":"SQL for Healthcare Professionals","next":"Machine Learning Fundamentals for Healthcare"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/r-programming-language
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Descriptive Healthcare Analytics in R](https://media.licdn.com/dms/image/v2/D560DAQEsqKudPj6CQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729286231125?e=2147483647&amp;v=beta&amp;t=N4WYT_GHuxYmK0n38WwIFquO1QH4DjqeHmF-v-yVgRo)

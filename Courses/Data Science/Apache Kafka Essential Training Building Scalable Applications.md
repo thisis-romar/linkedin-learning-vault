@@ -15,7 +15,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGMQEGnvQbYow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687364802921?e=2147483647&amp;v=beta&amp;t=sRAArkg-mxnPMFWPRrNqyZOVzYM-ifXQcfTiwYKD-H8"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Data Engineering
+  - '[[Master Data Engineering]]'
+next_courses:
+  - '[[Troubleshooting and Debugging Kafka]]'
+path_nav: '[{"path":"Master Data Engineering","position":1,"total":8,"prev":null,"next":"Troubleshooting and Debugging Kafka"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/apache-kafka
   - skill/scalable-web-applications
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Apache Kafka Essential Training Building Scalable Applications](https://media.licdn.com/dms/image/v2/D4D0DAQGMQEGnvQbYow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687364802921?e=2147483647&amp;v=beta&amp;t=sRAArkg-mxnPMFWPRrNqyZOVzYM-ifXQcfTiwYKD-H8)

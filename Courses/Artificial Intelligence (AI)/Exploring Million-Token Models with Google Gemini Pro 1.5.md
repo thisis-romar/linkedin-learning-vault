@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEN1p4G_REgGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713473090290?e=2147483647&amp;v=beta&amp;t=EaFp8l6We_yOE8ry8DgKaB70ZvG1xrxKjwAazZhe2FU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - A Developer's Guide to Google Gemini
+  - '[[A Developer''s Guide to Google Gemini]]'
+prev_courses:
+  - '[[Prompt Engineering With Gemini]]'
+next_courses:
+  - '[[Getting Started with the Google Gemini API]]'
+path_nav: '[{"path":"A Developer''s Guide to Google Gemini","position":2,"total":8,"prev":"Prompt Engineering With Gemini","next":"Getting Started with the Google Gemini API"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Exploring Million-Token Models with Google Gemini Pro 1.5](https://media.licdn.com/dms/image/v2/D4D0DAQEN1p4G_REgGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713473090290?e=2147483647&amp;v=beta&amp;t=EaFp8l6We_yOE8ry8DgKaB70ZvG1xrxKjwAazZhe2FU)

@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFSNTNumnDGdg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581532514983?e=2147483647&amp;v=beta&amp;t=3hKY0PVYyLRk2oM7Y6IUJwTjgBKWThfQNbbmcFMU37M"
 linkedin_topic: Hardware
 learning_paths:
-  - Become a PLC Developer
+  - '[[Become a PLC Developer]]'
+prev_courses:
+  - '[[PLC Memory Organization]]'
+next_courses:
+  - '[[PLC Program Flow and Control Instructions]]'
+path_nav: '[{"path":"Become a PLC Developer","position":5,"total":7,"prev":"PLC Memory Organization","next":"PLC Program Flow and Control Instructions"}]'
 path_count: 1
 tags:
   - course
   - topic/hardware
   - skill/plc-ladder-logic
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![PLC Sequencer Logic](https://media.licdn.com/dms/image/v2/C4E0DAQFSNTNumnDGdg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581532514983?e=2147483647&amp;v=beta&amp;t=3hKY0PVYyLRk2oM7Y6IUJwTjgBKWThfQNbbmcFMU37M)

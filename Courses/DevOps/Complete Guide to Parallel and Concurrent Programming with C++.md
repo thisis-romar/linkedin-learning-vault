@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEnCWmh3NCa-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736554366422?e=2147483647&amp;v=beta&amp;t=xJ9SrMbcj1y53RO3qsBAn07oMF3RpKhjs9n8I3BjH7c"
 linkedin_topic: DevOps
 learning_paths:
-  - Master C++
+  - '[[Master C++]]'
+prev_courses:
+  - '[[Complete Guide To C Plus Plus Programming Foundations]]'
+next_courses:
+  - '[[Test-Driven Development in C++]]'
+path_nav: '[{"path":"Master C++","position":2,"total":6,"prev":"Complete Guide To C Plus Plus Programming Foundations","next":"Test-Driven Development in C++"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/c
   - skill/parallel-programming
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide to Parallel and Concurrent Programming with C++](https://media.licdn.com/dms/image/v2/D4D0DAQEnCWmh3NCa-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736554366422?e=2147483647&amp;v=beta&amp;t=xJ9SrMbcj1y53RO3qsBAn07oMF3RpKhjs9n8I3BjH7c)

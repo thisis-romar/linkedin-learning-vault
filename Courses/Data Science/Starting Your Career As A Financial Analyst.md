@@ -13,7 +13,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFPMDynUHrmfg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652376784923?e=2147483647&amp;v=beta&amp;t=fYY8fO15WRu-BoJbFagTEMWY1dGcRgyWfSFcMgUmFak"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Key Financial Analyst Skills
+  - '[[Master Key Financial Analyst Skills]]'
+next_courses:
+  - '[[Corporate Financial Statement Analysis (2023)]]'
+path_nav: '[{"path":"Master Key Financial Analyst Skills","position":1,"total":6,"prev":null,"next":"Corporate Financial Statement Analysis (2023)"}]'
 path_count: 1
 tags:
   - course
@@ -21,7 +24,7 @@ tags:
   - skill/financial-analysis
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Starting Your Career As A Financial Analyst](https://media.licdn.com/dms/image/v2/C560DAQFPMDynUHrmfg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652376784923?e=2147483647&amp;v=beta&amp;t=fYY8fO15WRu-BoJbFagTEMWY1dGcRgyWfSFcMgUmFak)

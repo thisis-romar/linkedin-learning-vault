@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEL03xcjCpqag/learning-public-crop_675_1200/B4EZrb41vCGUAY-/0/1764625702146?e=2147483647&amp;v=beta&amp;t=NcHp6VgmBRHNkEULL2S22bTdcKofC5fYe6KICW0Zcig"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Generative AI Skills for Web Developers
+  - '[[Building Generative AI Skills for Web Developers]]'
+prev_courses:
+  - '[[Prompt Engineering- How to Talk to the AIs]]'
+next_courses:
+  - '[[Building PHP Applications with Generative AI]]'
+path_nav: '[{"path":"Building Generative AI Skills for Web Developers","position":4,"total":10,"prev":"Prompt Engineering- How to Talk to the AIs","next":"Building PHP Applications with Generative AI"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Prompting ChatGPT with Multimodal Techniques](https://media.licdn.com/dms/image/v2/D4E0DAQEL03xcjCpqag/learning-public-crop_675_1200/B4EZrb41vCGUAY-/0/1764625702146?e=2147483647&amp;v=beta&amp;t=NcHp6VgmBRHNkEULL2S22bTdcKofC5fYe6KICW0Zcig)

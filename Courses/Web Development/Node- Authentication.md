@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/node-authentication-2881188"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFfBze87e2Uzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624987747272?e=2147483647&amp;v=beta&amp;t=zJ1fGIb-yUPXCx5HLCtiWz-rOPG-TOpwqdwabKwI40w"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore Web Development with Node.js
+  - '[[Explore Web Development with Node.js]]'
+prev_courses:
+  - '[[Node.js- Securing RESTful APIs]]'
+next_courses:
+  - '[[Node.js- Microservices]]'
+path_nav: '[{"path":"Explore Web Development with Node.js","position":10,"total":11,"prev":"Node.js- Securing RESTful APIs","next":"Node.js- Microservices"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/digital-authentication
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Node: Authentication](https://media.licdn.com/dms/image/v2/C560DAQFfBze87e2Uzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624987747272?e=2147483647&amp;v=beta&amp;t=zJ1fGIb-yUPXCx5HLCtiWz-rOPG-TOpwqdwabKwI40w)

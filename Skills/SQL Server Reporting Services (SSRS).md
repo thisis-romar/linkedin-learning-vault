@@ -6,7 +6,7 @@ course_count: 1
 tags:
   - skill
   - skill/sql-server-reporting-services-ssrs
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # SQL Server Reporting Services (SSRS)

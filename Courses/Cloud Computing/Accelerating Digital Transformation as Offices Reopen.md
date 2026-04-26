@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHmG-G0u-q1yA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623783763739?e=2147483647&amp;v=beta&amp;t=NKtPXfg127121YAjUwvRU_9Faa3fxaO2MuBTtDm9LQ4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Improve Your Digital Transformation Skills
+  - '[[Improve Your Digital Transformation Skills]]'
+prev_courses:
+  - '[[Planning For The Remote First Work From Anywhere Organization]]'
+next_courses:
+  - '[[Digital Accessibility for the Modern Workplace]]'
+path_nav: '[{"path":"Improve Your Digital Transformation Skills","position":2,"total":5,"prev":"Planning For The Remote First Work From Anywhere Organization","next":"Digital Accessibility for the Modern Workplace"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Accelerating Digital Transformation as Offices Reopen](https://media.licdn.com/dms/image/v2/C560DAQHmG-G0u-q1yA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623783763739?e=2147483647&amp;v=beta&amp;t=NKtPXfg127121YAjUwvRU_9Faa3fxaO2MuBTtDm9LQ4)

@@ -10,14 +10,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFe7xyJkJNWMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1699056399160?e=2147483647&amp;v=beta&amp;t=zCwlBKy7veDJmKP9XNPHy_Stij5rbI_3Nla3e88vxnI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding AI for Creative Professionals
-  - Build Your Generative AI Productivity Skills with Microsoft and LinkedIn
+  - '[[Understanding AI for Creative Professionals]]'
+  - '[[Build Your Generative AI Productivity Skills with Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Generative AI for Digital Marketers]]'
+  - '[[AI Productivity Hacks to Reimagine Your Workday and Career]]'
+next_courses:
+  - null
+  - '[[Copilot in PowerPoint- From Prompt to Presentation]]'
+path_nav: '[{"path":"Understanding AI for Creative Professionals","position":7,"total":7,"prev":"Generative AI for Digital Marketers","next":null},{"path":"Build Your Generative AI Productivity Skills with Microsoft and LinkedIn","position":3,"total":5,"prev":"AI Productivity Hacks to Reimagine Your Workday and Career","next":"Copilot in PowerPoint- From Prompt to Presentation"}]'
 path_count: 2
 tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Integrating Generative AI into the Creative Process](https://media.licdn.com/dms/image/v2/D4D0DAQFe7xyJkJNWMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1699056399160?e=2147483647&amp;v=beta&amp;t=zCwlBKy7veDJmKP9XNPHy_Stij5rbI_3Nla3e88vxnI)

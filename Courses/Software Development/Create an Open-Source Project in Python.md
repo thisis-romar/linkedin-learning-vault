@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/creating-an-open-source-project-in-
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEh8rkWx4V2MQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680032934598?e=2147483647&amp;v=beta&amp;t=97RGy2nr1Ul4q6Bx7siDs87h-kuPfHldBdK4mlS9AM0"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
-  - Advance Your Skills in Python
+  - '[[Python Hands-On Practice]]'
+  - '[[Advance Your Skills in Python]]'
+prev_courses:
+  - '[[Python Projects- Create an Interactive Quiz Application]]'
+  - '[[Python GUI Development with Tkinter]]'
+next_courses:
+  - '[[Python Projects]]'
+  - '[[Build Three Real-World Python Applications]]'
+path_nav: '[{"path":"Python Hands-On Practice","position":8,"total":14,"prev":"Python Projects- Create an Interactive Quiz Application","next":"Python Projects"},{"path":"Advance Your Skills in Python","position":6,"total":7,"prev":"Python GUI Development with Tkinter","next":"Build Three Real-World Python Applications"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/open-source-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Create an Open-Source Project in Python](https://media.licdn.com/dms/image/v2/C560DAQEh8rkWx4V2MQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680032934598?e=2147483647&amp;v=beta&amp;t=97RGy2nr1Ul4q6Bx7siDs87h-kuPfHldBdK4mlS9AM0)

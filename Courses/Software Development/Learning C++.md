@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/learning-cpp-4489005/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFFyyr75fh80g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706572609334?e=2147483647&amp;v=beta&amp;t=kibo-DzGRpI3g_EbIAlFJPOY7L5soeY_IF_JT-zKkb0"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started with C++
+  - '[[Getting Started with C++]]'
+prev_courses:
+  - '[[Introducing Functional Programming in C++]]'
+next_courses:
+  - '[[Web Servers and APIs using C++]]'
+path_nav: '[{"path":"Getting Started with C++","position":3,"total":5,"prev":"Introducing Functional Programming in C++","next":"Web Servers and APIs using C++"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning C++](https://media.licdn.com/dms/image/v2/D4E0DAQFFyyr75fh80g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706572609334?e=2147483647&amp;v=beta&amp;t=kibo-DzGRpI3g_EbIAlFJPOY7L5soeY_IF_JT-zKkb0)

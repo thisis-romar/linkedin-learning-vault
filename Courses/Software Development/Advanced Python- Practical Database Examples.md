@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/advanced-python-practical-database-
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGTOqAc5WFE5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683311050722?e=2147483647&amp;v=beta&amp;t=gDIBPsu4C6-ge6rqmOrATTut_YekAZGbkQiCxpWChZg"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Your Python Skills
+  - '[[Master Your Python Skills]]'
+prev_courses:
+  - '[[Python Data Structures- Linked Lists]]'
+next_courses:
+  - '[[Unit Testing in Python]]'
+path_nav: '[{"path":"Master Your Python Skills","position":6,"total":11,"prev":"Python Data Structures- Linked Lists","next":"Unit Testing in Python"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/database-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Python: Practical Database Examples](https://media.licdn.com/dms/image/v2/D560DAQGTOqAc5WFE5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683311050722?e=2147483647&amp;v=beta&amp;t=gDIBPsu4C6-ge6rqmOrATTut_YekAZGbkQiCxpWChZg)

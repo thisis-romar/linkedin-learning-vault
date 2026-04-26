@@ -10,16 +10,25 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFV-kzpUBiKUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685564273312?e=2147483647&amp;v=beta&amp;t=RW4qB0XoCwL-kR7GG1wBFADHTesjxJW_XyQS2qPNb3M"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding AI for Creative Professionals
-  - Building ChatGPT Skills for Marketing
-  - Generative AI for Marketing Professional Certificate by the American Marketing Association
+  - '[[Understanding AI for Creative Professionals]]'
+  - '[[Building ChatGPT Skills for Marketing]]'
+  - '[[Generative AI for Marketing Professional Certificate by the American Marketing Association]]'
+prev_courses:
+  - '[[Generative AI Imaging- What Creative Pros Need to Know]]'
+  - null
+  - '[[A Content Marketer''s Guide to Responsible AI]]'
+next_courses:
+  - '[[Integrating Generative AI into the Creative Process]]'
+  - '[[How to Research and Write Using Generative AI Tools (2023)]]'
+  - '[[Writing Great Content with Gen AI That Doesn''t Sound Fake]]'
+path_nav: '[{"path":"Understanding AI for Creative Professionals","position":6,"total":7,"prev":"Generative AI Imaging- What Creative Pros Need to Know","next":"Integrating Generative AI into the Creative Process"},{"path":"Building ChatGPT Skills for Marketing","position":1,"total":6,"prev":null,"next":"How to Research and Write Using Generative AI Tools (2023)"},{"path":"Generative AI for Marketing Professional Certificate by the American Marketing Association","position":4,"total":6,"prev":"A Content Marketer''s Guide to Responsible AI","next":"Writing Great Content with Gen AI That Doesn''t Sound Fake"}]'
 path_count: 3
 tags:
   - course
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI for Digital Marketers](https://media.licdn.com/dms/image/v2/D560DAQFV-kzpUBiKUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685564273312?e=2147483647&amp;v=beta&amp;t=RW4qB0XoCwL-kR7GG1wBFADHTesjxJW_XyQS2qPNb3M)

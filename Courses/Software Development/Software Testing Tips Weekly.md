@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGdRZf6yDlDMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581706854222?e=2147483647&amp;v=beta&amp;t=57WmnZN7NnzGhaaqH-xjpdmaQD9Q4DvRazqr1DWhwSE"
 linkedin_topic: Software Development
 learning_paths:
-  - TestMu AI Software Testing Professional Certificate
+  - '[[TestMu AI Software Testing Professional Certificate]]'
+prev_courses:
+  - '[[Programming Foundations- Software Testing-QA]]'
+next_courses:
+  - '[[Agile Testing]]'
+path_nav: '[{"path":"TestMu AI Software Testing Professional Certificate","position":2,"total":4,"prev":"Programming Foundations- Software Testing-QA","next":"Agile Testing"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/software-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Software Testing Tips Weekly](https://media.licdn.com/dms/image/v2/C4E0DAQGdRZf6yDlDMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581706854222?e=2147483647&amp;v=beta&amp;t=57WmnZN7NnzGhaaqH-xjpdmaQD9Q4DvRazqr1DWhwSE)

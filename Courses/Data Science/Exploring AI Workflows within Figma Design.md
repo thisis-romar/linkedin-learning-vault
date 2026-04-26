@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQE0Sb6uLox8sA/learning-public-crop_675_1200/B4EZdqJERzHgAo-/0/1749832451429?e=2147483647&amp;v=beta&amp;t=VuAmt8Ss0W0RxCFxdnPSdFHrT6kKluxFmi2ZQ4F2cT8"
 linkedin_topic: Data Science
 learning_paths:
-  - AI Essentials for User Experience Designers
+  - '[[AI Essentials for User Experience Designers]]'
+prev_courses:
+  - '[[Generative AI UX Design with Uizard]]'
+next_courses:
+  - '[[Using AI in Research Projects]]'
+path_nav: '[{"path":"AI Essentials for User Experience Designers","position":4,"total":5,"prev":"Generative AI UX Design with Uizard","next":"Using AI in Research Projects"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Exploring AI Workflows within Figma Design](https://media.licdn.com/dms/image/v2/D4E0DAQE0Sb6uLox8sA/learning-public-crop_675_1200/B4EZdqJERzHgAo-/0/1749832451429?e=2147483647&amp;v=beta&amp;t=VuAmt8Ss0W0RxCFxdnPSdFHrT6kKluxFmi2ZQ4F2cT8)

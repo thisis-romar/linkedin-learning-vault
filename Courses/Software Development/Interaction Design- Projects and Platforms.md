@@ -10,13 +10,16 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGzebhqDV9ExQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117820084?e=2147483647&amp;v=beta&amp;t=j7G1qcVb6N6PPSFiuqKXjuGNpanGo2IJDBY5QxudVas"
 linkedin_topic: Software Development
 learning_paths:
-  - Exploring a Career in Interaction Design
+  - '[[Exploring a Career in Interaction Design]]'
+prev_courses:
+  - '[[Interaction Design- Design Patterns as Building Blocks]]'
+path_nav: '[{"path":"Exploring a Career in Interaction Design","position":9,"total":9,"prev":"Interaction Design- Design Patterns as Building Blocks","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Interaction Design: Projects and Platforms](https://media.licdn.com/dms/image/v2/C4E0DAQGzebhqDV9ExQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117820084?e=2147483647&amp;v=beta&amp;t=j7G1qcVb6N6PPSFiuqKXjuGNpanGo2IJDBY5QxudVas)

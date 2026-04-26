@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEbhIwyLpvDuA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728672186430?e=2147483647&amp;v=beta&amp;t=S-vJ9zkO7wCQ-p8t4DJafNHrFDAPH4C8zebSHxT54xI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Prompt Engineering Skills for Developers
+  - '[[Prompt Engineering Skills for Developers]]'
+prev_courses:
+  - '[[Prompt Engineering with ChatGPT]]'
+next_courses:
+  - '[[Prompt Engineering with LangChain]]'
+path_nav: '[{"path":"Prompt Engineering Skills for Developers","position":4,"total":6,"prev":"Prompt Engineering with ChatGPT","next":"Prompt Engineering with LangChain"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ChatGPT: Perfecting Your Output with Templates in Prompts](https://media.licdn.com/dms/image/v2/D4D0DAQEbhIwyLpvDuA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728672186430?e=2147483647&amp;v=beta&amp;t=S-vJ9zkO7wCQ-p8t4DJafNHrFDAPH4C8zebSHxT54xI)

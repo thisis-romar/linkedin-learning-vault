@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEjfTWkFZh_ig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627498422761?e=2147483647&amp;v=beta&amp;t=j3ifch3k7efTJip2URw5xJ00HNxCNIRQvBaNUnzL6BY"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Develop Your AWS Skills
+  - '[[Develop Your AWS Skills]]'
+prev_courses:
+  - '[[Complete Guide to AWS Software Deployment]]'
+next_courses:
+  - '[[Cloud Computing Careers and Certifications]]'
+path_nav: '[{"path":"Develop Your AWS Skills","position":3,"total":4,"prev":"Complete Guide to AWS Software Deployment","next":"Cloud Computing Careers and Certifications"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/system-monitoring
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AWS: Monitoring, Logging, and Remediation (2021)](https://media.licdn.com/dms/image/v2/C560DAQEjfTWkFZh_ig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627498422761?e=2147483647&amp;v=beta&amp;t=j3ifch3k7efTJip2URw5xJ00HNxCNIRQvBaNUnzL6BY)

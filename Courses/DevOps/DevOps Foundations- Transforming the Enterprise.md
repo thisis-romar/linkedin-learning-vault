@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHsgDGz0eQUxA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1569955973652?e=2147483647&amp;v=beta&amp;t=jmi_w10fS0k77kCB4SUUOE0GNnToXOM5434-tEBRxhE"
 linkedin_topic: DevOps
 learning_paths:
-  - Applying Lean, DevOps, and Agile to Your IT Organization
-  - Starting Your Career in Tech- DevOps
+  - '[[Applying Lean, DevOps, and Agile to Your IT Organization]]'
+  - '[[Starting Your Career in Tech- DevOps]]'
+prev_courses:
+  - '[[Agile Software Development- Transforming Your Organization]]'
+  - '[[DevOps Tips]]'
+next_courses:
+  - '[[Lean Technology Strategy- Running Agile at Scale]]'
+  - null
+path_nav: '[{"path":"Applying Lean, DevOps, and Agile to Your IT Organization","position":5,"total":9,"prev":"Agile Software Development- Transforming Your Organization","next":"Lean Technology Strategy- Running Agile at Scale"},{"path":"Starting Your Career in Tech- DevOps","position":5,"total":5,"prev":"DevOps Tips","next":null}]'
 path_count: 2
 tags:
   - course
@@ -22,7 +29,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![DevOps Foundations: Transforming the Enterprise](https://media.licdn.com/dms/image/v2/C4E0DAQHsgDGz0eQUxA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1569955973652?e=2147483647&amp;v=beta&amp;t=jmi_w10fS0k77kCB4SUUOE0GNnToXOM5434-tEBRxhE)

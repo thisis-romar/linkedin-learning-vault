@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEKzuxJOFSiTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571074402112?e=2147483647&amp;v=beta&amp;t=1q2f5qWZBOD72iH8YRup0RoZiiwhUPzOvzvw00GxpP0"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an Ethical Hacker
+  - '[[Become an Ethical Hacker]]'
+prev_courses:
+  - '[[Ethical Hacking- Hacking Web Servers and Web Applications]]'
+next_courses:
+  - '[[Ethical Hacking- Mobile Devices and Platforms]]'
+path_nav: '[{"path":"Become an Ethical Hacker","position":14,"total":19,"prev":"Ethical Hacking- Hacking Web Servers and Web Applications","next":"Ethical Hacking- Mobile Devices and Platforms"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/wireless-networking
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethical Hacking: Wireless Networks](https://media.licdn.com/dms/image/v2/C4E0DAQEKzuxJOFSiTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571074402112?e=2147483647&amp;v=beta&amp;t=1q2f5qWZBOD72iH8YRup0RoZiiwhUPzOvzvw00GxpP0)

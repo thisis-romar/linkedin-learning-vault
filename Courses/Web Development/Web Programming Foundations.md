@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHsspzzrmnv6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117745019?e=2147483647&amp;v=beta&amp;t=-GW3_82shsL5imuhcywAXOPcfylFrzpxqc7A57zDR-g"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore a Career in Front-End Web Development
+  - '[[Explore a Career in Front-End Web Development]]'
+prev_courses:
+  - '[[Search Techniques for Web Developers]]'
+next_courses:
+  - '[[Simplifying Web Development with Accessibility Best Practices]]'
+path_nav: '[{"path":"Explore a Career in Front-End Web Development","position":6,"total":11,"prev":"Search Techniques for Web Developers","next":"Simplifying Web Development with Accessibility Best Practices"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/front-end-development
   - skill/programming-foundations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Web Programming Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQHsspzzrmnv6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117745019?e=2147483647&amp;v=beta&amp;t=-GW3_82shsL5imuhcywAXOPcfylFrzpxqc7A57zDR-g)

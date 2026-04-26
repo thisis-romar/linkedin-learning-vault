@@ -17,9 +17,18 @@ github: "https://github.com/LinkedInLearning/advanced-sql-query-tuning-performan
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHhgQSU6L_R7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697652769241?e=2147483647&amp;v=beta&amp;t=xwvycQ_PCeWV4s2nJNE2HENhzWC6IdLHh0V2t3wGxtE"
 linkedin_topic: Data Science
 learning_paths:
-  - Master SQL Development
-  - Master SQL for Data Science
-  - Advance Your Database Administration Skills
+  - '[[Master SQL Development]]'
+  - '[[Master SQL for Data Science]]'
+  - '[[Advance Your Database Administration Skills]]'
+prev_courses:
+  - '[[Advanced SQL – Window Functions]]'
+  - '[[Advanced SQL for Data Scientists]]'
+  - '[[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]]'
+next_courses:
+  - '[[Advanced SQL for Application Development]]'
+  - '[[Advanced SQL for Data Science- Time Series]]'
+  - '[[Advanced SQL Project- Design and Manage a Database]]'
+path_nav: '[{"path":"Master SQL Development","position":5,"total":8,"prev":"Advanced SQL – Window Functions","next":"Advanced SQL for Application Development"},{"path":"Master SQL for Data Science","position":5,"total":6,"prev":"Advanced SQL for Data Scientists","next":"Advanced SQL for Data Science- Time Series"},{"path":"Advance Your Database Administration Skills","position":8,"total":11,"prev":"Practical Database Design- Implementing Responsible Data Solutions with SQL Querying","next":"Advanced SQL Project- Design and Manage a Database"}]'
 path_count: 3
 tags:
   - course
@@ -28,7 +37,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced SQL for Query Tuning and Performance Optimization](https://media.licdn.com/dms/image/v2/D560DAQHhgQSU6L_R7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697652769241?e=2147483647&amp;v=beta&amp;t=xwvycQ_PCeWV4s2nJNE2HENhzWC6IdLHh0V2t3wGxtE)

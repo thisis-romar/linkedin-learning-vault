@@ -8,13 +8,16 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFeJa1JN818CQ/learning-public-crop_675_1200/B4EZXULPNNHgAY-/0/1743021471214?e=2147483647&amp;v=beta&amp;t=CQzLcF6HPb_doqyspGhT3tCh86ltmUZZeuwj-9u5LxM"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career as a Financial Analyst
+  - '[[Explore a Career as a Financial Analyst]]'
+next_courses:
+  - '[[Learning Data Analytics- 1 Foundations]]'
+path_nav: '[{"path":"Explore a Career as a Financial Analyst","position":1,"total":5,"prev":null,"next":"Learning Data Analytics- 1 Foundations"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Finance Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQFeJa1JN818CQ/learning-public-crop_675_1200/B4EZXULPNNHgAY-/0/1743021471214?e=2147483647&amp;v=beta&amp;t=CQzLcF6HPb_doqyspGhT3tCh86ltmUZZeuwj-9u5LxM)

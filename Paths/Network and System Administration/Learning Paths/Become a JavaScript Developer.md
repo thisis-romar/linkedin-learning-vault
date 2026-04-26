@@ -73,7 +73,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Become a JavaScript Developer
@@ -115,3 +115,7 @@ _Paths that share courses with this one:_
 - [[Become a Full-Stack Web Developer]] (3 shared courses)
 - [[Explore a Career as a Web Developer]] (2 shared courses)
 - [[Advance Your Skills in HTML]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Network and System Administration]]

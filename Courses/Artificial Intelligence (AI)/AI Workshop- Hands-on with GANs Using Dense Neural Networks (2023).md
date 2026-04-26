@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEcm6S7SoEdQQ/learning-public-crop_675_1200/B4EZj3dmcYIMAY-/0/1756498389566?e=2147483647&amp;v=beta&amp;t=I9gSHIkkxtudmaX2aZWwb8QHem-ZmqcsHxL9WXxH_DI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills in Deep Learning and Neural Networks
-  - Advance Your Skills in AI and Machine Learning
+  - '[[Advance Your Skills in Deep Learning and Neural Networks]]'
+  - '[[Advance Your Skills in AI and Machine Learning]]'
+prev_courses:
+  - '[[Introduction to Generative Adversarial Networks (GANs)]]'
+  - '[[Introduction to Generative Adversarial Networks (GANs)]]'
+next_courses:
+  - '[[AI Workshop- Hands-on with GANs with Deep Convolutional Networks]]'
+  - '[[AI Workshop- Hands-on with GANs with Deep Convolutional Networks]]'
+path_nav: '[{"path":"Advance Your Skills in Deep Learning and Neural Networks","position":7,"total":8,"prev":"Introduction to Generative Adversarial Networks (GANs)","next":"AI Workshop- Hands-on with GANs with Deep Convolutional Networks"},{"path":"Advance Your Skills in AI and Machine Learning","position":7,"total":16,"prev":"Introduction to Generative Adversarial Networks (GANs)","next":"AI Workshop- Hands-on with GANs with Deep Convolutional Networks"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/artificial-neural-networks
   - skill/generative-adversarial-networks-gans
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Workshop: Hands-on with GANs Using Dense Neural Networks (2023)](https://media.licdn.com/dms/image/v2/D4E0DAQEcm6S7SoEdQQ/learning-public-crop_675_1200/B4EZj3dmcYIMAY-/0/1756498389566?e=2147483647&amp;v=beta&amp;t=I9gSHIkkxtudmaX2aZWwb8QHem-ZmqcsHxL9WXxH_DI)

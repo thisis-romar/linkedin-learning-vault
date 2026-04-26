@@ -16,10 +16,21 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFK_x_qDpO55Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705688041751?e=2147483647&amp;v=beta&amp;t=tS5Y2Il8w9vSGgsllmuy8tKczb9lItCRb1kUSuS9M2w"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills in Deep Learning and Neural Networks
-  - Fundamentals to Become a Machine Learning Engineer
-  - Moving from Data Scientist to Data Analyst
-  - Getting Started with AI and Machine Learning
+  - '[[Advance Your Skills in Deep Learning and Neural Networks]]'
+  - '[[Fundamentals to Become a Machine Learning Engineer]]'
+  - '[[Moving from Data Scientist to Data Analyst]]'
+  - '[[Getting Started with AI and Machine Learning]]'
+prev_courses:
+  - null
+  - '[[Machine Learning with Python- Foundations]]'
+  - '[[Python Statistics Essential Training]]'
+  - '[[Machine Learning Foundations- Linear Algebra]]'
+next_courses:
+  - '[[Artificial Intelligence Foundations- Neural Networks]]'
+  - '[[Deep Learning- Model Optimization and Tuning (2022)]]'
+  - '[[Apache Spark Essential Training- Big Data Engineering]]'
+  - '[[Hands-On AI- Image Processing with Python]]'
+path_nav: '[{"path":"Advance Your Skills in Deep Learning and Neural Networks","position":1,"total":8,"prev":null,"next":"Artificial Intelligence Foundations- Neural Networks"},{"path":"Fundamentals to Become a Machine Learning Engineer","position":4,"total":7,"prev":"Machine Learning with Python- Foundations","next":"Deep Learning- Model Optimization and Tuning (2022)"},{"path":"Moving from Data Scientist to Data Analyst","position":6,"total":10,"prev":"Python Statistics Essential Training","next":"Apache Spark Essential Training- Big Data Engineering"},{"path":"Getting Started with AI and Machine Learning","position":3,"total":7,"prev":"Machine Learning Foundations- Linear Algebra","next":"Hands-On AI- Image Processing with Python"}]'
 path_count: 4
 tags:
   - course
@@ -30,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Deep Learning Getting Started](https://media.licdn.com/dms/image/v2/D560DAQFK_x_qDpO55Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705688041751?e=2147483647&amp;v=beta&amp;t=tS5Y2Il8w9vSGgsllmuy8tKczb9lItCRb1kUSuS9M2w)

@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGfP7G_UdypoQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650305730733?e=2147483647&amp;v=beta&amp;t=8rJjSFjV5pkTMzkNyoc4Byv6dLAxSsrVJZR8zfzwe4k"
 linkedin_topic: Database Management
 learning_paths:
-  - Network Automation Professional Certificate by Arista Networks
+  - '[[Network Automation Professional Certificate by Arista Networks]]'
+prev_courses:
+  - '[[Introduction to Linux (2021)]]'
+next_courses:
+  - '[[Hybrid Multicloud Networking- Practical Concepts]]'
+path_nav: '[{"path":"Network Automation Professional Certificate by Arista Networks","position":4,"total":6,"prev":"Introduction to Linux (2021)","next":"Hybrid Multicloud Networking- Practical Concepts"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/devops
   - skill/netops
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![NetOps (DevOps for Network Engineers): Automating Networks](https://media.licdn.com/dms/image/v2/C560DAQGfP7G_UdypoQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650305730733?e=2147483647&amp;v=beta&amp;t=8rJjSFjV5pkTMzkNyoc4Byv6dLAxSsrVJZR8zfzwe4k)

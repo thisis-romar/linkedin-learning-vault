@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFYLUkSWYIveg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733350326024?e=2147483647&amp;v=beta&amp;t=-DEEY8XhDNT7DiYGsQvcDUzrUn371yaanjKWjcoNWHo"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Excel for Data Science
+  - '[[Master Excel for Data Science]]'
+prev_courses:
+  - '[[Excel- Filtering Data for Beginners]]'
+path_nav: '[{"path":"Master Excel for Data Science","position":7,"total":7,"prev":"Excel- Filtering Data for Beginners","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/microsoft-power-query
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel: Power Query for Beginners](https://media.licdn.com/dms/image/v2/D4E0DAQFYLUkSWYIveg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733350326024?e=2147483647&amp;v=beta&amp;t=-DEEY8XhDNT7DiYGsQvcDUzrUn371yaanjKWjcoNWHo)

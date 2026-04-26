@@ -16,15 +16,22 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEs-5ilV5t5IA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665801430?e=2147483647&amp;v=beta&amp;t=fpFV5ai-XBvBeCymP5dNGdv5PYSX3t6MBY1E3STCcuE"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore Web Development with Node.js
-  - Advance your Node.js Skills
+  - '[[Explore Web Development with Node.js]]'
+  - '[[Advance your Node.js Skills]]'
+prev_courses:
+  - '[[Express Essentials- Build Powerful Web Apps with Node.js]]'
+  - '[[Node.js- Debugging and Performance Tuning]]'
+next_courses:
+  - '[[Node.js- Web Servers, Tests, and Deployment]]'
+  - '[[Node.js- Microservices]]'
+path_nav: '[{"path":"Explore Web Development with Node.js","position":6,"total":11,"prev":"Express Essentials- Build Powerful Web Apps with Node.js","next":"Node.js- Web Servers, Tests, and Deployment"},{"path":"Advance your Node.js Skills","position":5,"total":8,"prev":"Node.js- Debugging and Performance Tuning","next":"Node.js- Microservices"}]'
 path_count: 2
 tags:
   - course
   - topic/web-development
   - skill/express-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Express](https://media.licdn.com/dms/image/v2/C4E0DAQEs-5ilV5t5IA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665801430?e=2147483647&amp;v=beta&amp;t=fpFV5ai-XBvBeCymP5dNGdv5PYSX3t6MBY1E3STCcuE)

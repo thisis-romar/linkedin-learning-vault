@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEaPuuqI4TOOQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568661390988?e=2147483647&amp;v=beta&amp;t=Vt79jS3fHLum9Wu404dh95269UzD_6q-fCSS-_I_XVM"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance your Node.js Skills
+  - '[[Advance your Node.js Skills]]'
+prev_courses:
+  - '[[Advanced Node.js]]'
+path_nav: '[{"path":"Advance your Node.js Skills","position":8,"total":8,"prev":"Advanced Node.js","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/scalability
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Node.js: Scaling Applications](https://media.licdn.com/dms/image/v2/C4E0DAQEaPuuqI4TOOQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568661390988?e=2147483647&amp;v=beta&amp;t=Vt79jS3fHLum9Wu404dh95269UzD_6q-fCSS-_I_XVM)

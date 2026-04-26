@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQF3eB2Kr1sDGQ/learning-public-crop_675_1200/B4EZb0wdpRHcAY-/0/1747863067825?e=2147483647&amp;v=beta&amp;t=flbMfv7yDJSkC4vIZA-8jL3yT4zmGCIHgKKwow91l7s"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Working with Data- Engineering, Integration, and MLOps for AI
+  - '[[Working with Data- Engineering, Integration, and MLOps for AI]]'
+next_courses:
+  - '[[Data Versioning, Lineage, and Quality Monitoring for AI]]'
+path_nav: '[{"path":"Working with Data- Engineering, Integration, and MLOps for AI","position":1,"total":5,"prev":null,"next":"Data Versioning, Lineage, and Quality Monitoring for AI"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/application-programming-interfaces-api
   - skill/data-integration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Integration And Api Development For Ai Applications](https://media.licdn.com/dms/image/v2/D4E0DAQF3eB2Kr1sDGQ/learning-public-crop_675_1200/B4EZb0wdpRHcAY-/0/1747863067825?e=2147483647&amp;v=beta&amp;t=flbMfv7yDJSkC4vIZA-8jL3yT4zmGCIHgKKwow91l7s)

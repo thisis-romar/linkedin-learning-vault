@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE8E7oMwSMsOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694720556757?e=2147483647&amp;v=beta&amp;t=j2AhaizeL3wiRqfBHmet8Db9R1n7QM5ZkqtSGAF3sEI"
 linkedin_topic: Software Development
 learning_paths:
-  - A Quick Start Guide to Java Programming
+  - '[[A Quick Start Guide to Java Programming]]'
+prev_courses:
+  - '[[Programming Foundations- Beyond the Fundamentals]]'
+next_courses:
+  - '[[Hands-On Introduction- Java]]'
+path_nav: '[{"path":"A Quick Start Guide to Java Programming","position":3,"total":5,"prev":"Programming Foundations- Beyond the Fundamentals","next":"Hands-On Introduction- Java"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Java 17](https://media.licdn.com/dms/image/v2/D560DAQE8E7oMwSMsOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694720556757?e=2147483647&amp;v=beta&amp;t=j2AhaizeL3wiRqfBHmet8Db9R1n7QM5ZkqtSGAF3sEI)

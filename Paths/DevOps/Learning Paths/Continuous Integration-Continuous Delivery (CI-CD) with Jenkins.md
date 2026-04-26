@@ -29,7 +29,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Continuous Integration/Continuous Delivery (CI/CD) with Jenkins
@@ -49,3 +49,7 @@ created: '2026-04-20'
 ## Topics
 
 - [[DevOps]]
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEwj8XFayAkAQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719268835474?e=2147483647&amp;v=beta&amp;t=76S-SQZEYeVPrCVjI0S4FGqmNtlzjFbWkVahJ-XDRbY"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
-  - Master Retrieval-Augmented Generation (RAG)
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[Master Retrieval-Augmented Generation (RAG)]]'
+prev_courses:
+  - '[[Building a Generative AI Tech Strategy]]'
+  - null
+next_courses:
+  - '[[Introduction to Multimodal Prompting for Generative AI]]'
+  - '[[Vector Databases in Practice- Deep Dive]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":20,"total":22,"prev":"Building a Generative AI Tech Strategy","next":"Introduction to Multimodal Prompting for Generative AI"},{"path":"Master Retrieval-Augmented Generation (RAG)","position":1,"total":7,"prev":null,"next":"Vector Databases in Practice- Deep Dive"}]'
 path_count: 2
 tags:
   - course
@@ -31,7 +38,7 @@ tags:
   - skill/retrieval-augmented-generation-rag
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![RAG and Fine-Tuning Explained](https://media.licdn.com/dms/image/v2/D560DAQEwj8XFayAkAQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719268835474?e=2147483647&amp;v=beta&amp;t=76S-SQZEYeVPrCVjI0S4FGqmNtlzjFbWkVahJ-XDRbY)

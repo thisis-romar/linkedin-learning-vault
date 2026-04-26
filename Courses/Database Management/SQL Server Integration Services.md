@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGQfihJtXG1jQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134123709?e=2147483647&amp;v=beta&amp;t=tl5I-AiD_kJMfkHl0Sg6gtNSmML7WIBC_ooesbpb6_A"
 linkedin_topic: Database Management
 learning_paths:
-  - Advance Your MS SQL Server Skills
+  - '[[Advance Your MS SQL Server Skills]]'
+prev_courses:
+  - '[[SQL Server Containerization- Modern Deployment Strategies for Data-Driven Organizations]]'
+next_courses:
+  - '[[SQL Server- Reporting Services]]'
+path_nav: '[{"path":"Advance Your MS SQL Server Skills","position":8,"total":9,"prev":"SQL Server Containerization- Modern Deployment Strategies for Data-Driven Organizations","next":"SQL Server- Reporting Services"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/sql-server-integration-services-ssis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL Server Integration Services](https://media.licdn.com/dms/image/v2/C4E0DAQGQfihJtXG1jQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134123709?e=2147483647&amp;v=beta&amp;t=tl5I-AiD_kJMfkHl0Sg6gtNSmML7WIBC_ooesbpb6_A)

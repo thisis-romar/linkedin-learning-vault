@@ -10,15 +10,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGOAnX93z3bDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619133874813?e=2147483647&amp;v=beta&amp;t=Ynte0u_g15vJwqrxxyniDWuCJc8FQeJmi46AU8BPKVc"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - VoIP- From Fundamentals to Troubleshooting
-  - Wireshark- Network Traffic Analysis
+  - '[[VoIP- From Fundamentals to Troubleshooting]]'
+  - '[[Wireshark- Network Traffic Analysis]]'
+prev_courses:
+  - '[[Learning Voip And Unified Communications]]'
+  - '[[Wireshark- Malware and Forensics]]'
+next_courses:
+  - '[[Troubleshooting VOIP- Identify and Resolve Common VOIP Issues]]'
+  - null
+path_nav: '[{"path":"VoIP- From Fundamentals to Troubleshooting","position":2,"total":3,"prev":"Learning Voip And Unified Communications","next":"Troubleshooting VOIP- Identify and Resolve Common VOIP Issues"},{"path":"Wireshark- Network Traffic Analysis","position":5,"total":5,"prev":"Wireshark- Malware and Forensics","next":null}]'
 path_count: 2
 tags:
   - course
   - topic/security
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Analyzing VoIP Traffic with Wireshark](https://media.licdn.com/dms/image/v2/C4E0DAQGOAnX93z3bDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619133874813?e=2147483647&amp;v=beta&amp;t=Ynte0u_g15vJwqrxxyniDWuCJc8FQeJmi46AU8BPKVc)

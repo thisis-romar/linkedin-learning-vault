@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFpg8o2AT0C3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654102478012?e=2147483647&amp;v=beta&amp;t=YaYqtqrQ1Kid9xKXlW--n1P2eVRdPuhri87gTpQn1Hk"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Cloud Strategy Professional Certificate by LinkedIn Learning
+  - '[[Cloud Strategy Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Planning a Multicloud Solution (2022)]]'
+next_courses:
+  - '[[FinOps Essentials for Cloud Deployments]]'
+path_nav: '[{"path":"Cloud Strategy Professional Certificate by LinkedIn Learning","position":7,"total":9,"prev":"Planning a Multicloud Solution (2022)","next":"FinOps Essentials for Cloud Deployments"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/software-development
   - skill/cloud-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud for Business: Developing a Cloud Center of Excellence](https://media.licdn.com/dms/image/v2/C560DAQFpg8o2AT0C3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654102478012?e=2147483647&amp;v=beta&amp;t=YaYqtqrQ1Kid9xKXlW--n1P2eVRdPuhri87gTpQn1Hk)

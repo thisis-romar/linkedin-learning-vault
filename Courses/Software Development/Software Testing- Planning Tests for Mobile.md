@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEvwCcfgu5New/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628887907716?e=2147483647&amp;v=beta&amp;t=zLmXecj1xma3Wsh-6jw5d4C9zUHUSkoytd_EMfkYa5A"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started with Software Testing
+  - '[[Getting Started with Software Testing]]'
+prev_courses:
+  - '[[Test Automation Foundations]]'
+next_courses:
+  - '[[Learning Selenium- Structure, Scale, Run, and Optimize Automated Tests]]'
+path_nav: '[{"path":"Getting Started with Software Testing","position":4,"total":12,"prev":"Test Automation Foundations","next":"Learning Selenium- Structure, Scale, Run, and Optimize Automated Tests"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/mobile-software-development
   - skill/mobile-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Software Testing: Planning Tests for Mobile](https://media.licdn.com/dms/image/v2/C4E0DAQEvwCcfgu5New/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628887907716?e=2147483647&amp;v=beta&amp;t=zLmXecj1xma3Wsh-6jw5d4C9zUHUSkoytd_EMfkYa5A)

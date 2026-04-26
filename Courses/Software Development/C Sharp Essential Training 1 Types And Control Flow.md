@@ -15,8 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHrULBndWclgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702408532921?e=2147483647&amp;v=beta&amp;t=gw_wwiJC83BwTC2GOWAnwJSGoF20lpXPKgqT1bBomXU"
 linkedin_topic: Software Development
 learning_paths:
-  - C- Foundations- From Basics to Building Blocks
-  - Getting Started as a C- Developer
+  - '[[C- Foundations- From Basics to Building Blocks]]'
+  - '[[Getting Started as a C- Developer]]'
+next_courses:
+  - '[[C- Essential Training 2- Generics, Collections, and LINQ]]'
+  - '[[C- Essential Training 2- Generics, Collections, and LINQ]]'
+path_nav: '[{"path":"C- Foundations- From Basics to Building Blocks","position":1,"total":5,"prev":null,"next":"C- Essential Training 2- Generics, Collections, and LINQ"},{"path":"Getting Started as a C- Developer","position":1,"total":9,"prev":null,"next":"C- Essential Training 2- Generics, Collections, and LINQ"}]'
 path_count: 2
 tags:
   - course
@@ -24,7 +28,7 @@ tags:
   - skill/control-flow
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C Sharp Essential Training 1 Types And Control Flow](https://media.licdn.com/dms/image/v2/D560DAQHrULBndWclgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702408532921?e=2147483647&amp;v=beta&amp;t=gw_wwiJC83BwTC2GOWAnwJSGoF20lpXPKgqT1bBomXU)

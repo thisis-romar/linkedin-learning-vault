@@ -16,9 +16,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFbnU_pGsqnsQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622761357976?e=2147483647&amp;v=beta&amp;t=Q9sdZvorjgGXIs4l5Jnb1jCB3sdexSRe4A8KdUZVWes"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore Web Development with Node.js
-  - Advance your Node.js Skills
-  - Explore App Development with the MERN Stack
+  - '[[Explore Web Development with Node.js]]'
+  - '[[Advance your Node.js Skills]]'
+  - '[[Explore App Development with the MERN Stack]]'
+prev_courses:
+  - '[[Learning npm- A Package Manager]]'
+  - '[[Node.js- Design Patterns]]'
+  - '[[Express Essentials- Build Powerful Web Apps with Node.js]]'
+next_courses:
+  - '[[Databases for Node.js Developers]]'
+  - '[[Node.js- Debugging and Performance Tuning]]'
+  - '[[Building a Website with Node.js and Express.js]]'
+path_nav: '[{"path":"Explore Web Development with Node.js","position":3,"total":11,"prev":"Learning npm- A Package Manager","next":"Databases for Node.js Developers"},{"path":"Advance your Node.js Skills","position":3,"total":8,"prev":"Node.js- Design Patterns","next":"Node.js- Debugging and Performance Tuning"},{"path":"Explore App Development with the MERN Stack","position":6,"total":13,"prev":"Express Essentials- Build Powerful Web Apps with Node.js","next":"Building a Website with Node.js and Express.js"}]'
 path_count: 3
 tags:
   - course
@@ -27,7 +36,7 @@ tags:
   - topic/software-development
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Node.js: Testing and Code Quality](https://media.licdn.com/dms/image/v2/C560DAQFbnU_pGsqnsQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622761357976?e=2147483647&amp;v=beta&amp;t=Q9sdZvorjgGXIs4l5Jnb1jCB3sdexSRe4A8KdUZVWes)

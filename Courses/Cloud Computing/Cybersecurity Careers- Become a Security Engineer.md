@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFrHNEVmBHzQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684968237112?e=2147483647&amp;v=beta&amp;t=wnVGabMIbEosBJcOSck7bEqlmbGCufNmHwWmEw32o3U"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Explore Cybersecurity Careers
+  - '[[Explore Cybersecurity Careers]]'
+prev_courses:
+  - '[[Cybersecurity Careers and Certifications]]'
+next_courses:
+  - '[[Cybersecurity Careers- Become a Penetration Tester]]'
+path_nav: '[{"path":"Explore Cybersecurity Careers","position":3,"total":9,"prev":"Cybersecurity Careers and Certifications","next":"Cybersecurity Careers- Become a Penetration Tester"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/security-engineering
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Careers: Become a Security Engineer](https://media.licdn.com/dms/image/v2/D560DAQFrHNEVmBHzQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684968237112?e=2147483647&amp;v=beta&amp;t=wnVGabMIbEosBJcOSck7bEqlmbGCufNmHwWmEw32o3U)

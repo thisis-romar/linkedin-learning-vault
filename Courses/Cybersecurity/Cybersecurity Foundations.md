@@ -14,11 +14,24 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQEN6tzpqeODiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679006448947?e=2147483647&amp;v=beta&amp;t=xn_WRH0g4JxZMwPIX0aTDe2_0hEXyH2_jdIa-HGh0wo"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become a Cybersecurity Professional
-  - Career Essentials in Cybersecurity by Microsoft and LinkedIn
-  - Become an IT Security Specialist
-  - The Top 10 Most Popular Courses among IT Professionals
-  - Cybersecurity Fundamentals
+  - '[[Become a Cybersecurity Professional]]'
+  - '[[Career Essentials in Cybersecurity by Microsoft and LinkedIn]]'
+  - '[[Become an IT Security Specialist]]'
+  - '[[The Top 10 Most Popular Courses among IT Professionals]]'
+  - '[[Cybersecurity Fundamentals]]'
+prev_courses:
+  - null
+  - '[[Cybersecurity Awareness- Cybersecurity Terminology]]'
+  - '[[IT Security Foundations- Core Concepts]]'
+  - '[[Excel Essential Training (Microsoft 365)]]'
+  - '[[IT Security Foundations- Core Concepts]]'
+next_courses:
+  - '[[The Cybersecurity Threat Landscape]]'
+  - '[[Microsoft Security Copilot]]'
+  - '[[IT Security Foundations- Operating System Security]]'
+  - '[[Speaking Confidently and Effectively]]'
+  - '[[Cybersecurity Foundations- Security Architecture]]'
+path_nav: '[{"path":"Become a Cybersecurity Professional","position":1,"total":5,"prev":null,"next":"The Cybersecurity Threat Landscape"},{"path":"Career Essentials in Cybersecurity by Microsoft and LinkedIn","position":3,"total":4,"prev":"Cybersecurity Awareness- Cybersecurity Terminology","next":"Microsoft Security Copilot"},{"path":"Become an IT Security Specialist","position":2,"total":12,"prev":"IT Security Foundations- Core Concepts","next":"IT Security Foundations- Operating System Security"},{"path":"The Top 10 Most Popular Courses among IT Professionals","position":9,"total":10,"prev":"Excel Essential Training (Microsoft 365)","next":"Speaking Confidently and Effectively"},{"path":"Cybersecurity Fundamentals","position":4,"total":12,"prev":"IT Security Foundations- Core Concepts","next":"Cybersecurity Foundations- Security Architecture"}]'
 path_count: 5
 tags:
   - course
@@ -28,7 +41,7 @@ tags:
   - topic/software-development
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Foundations](https://media.licdn.com/dms/image/v2/C4D0DAQEN6tzpqeODiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679006448947?e=2147483647&amp;v=beta&amp;t=xn_WRH0g4JxZMwPIX0aTDe2_0hEXyH2_jdIa-HGh0wo)

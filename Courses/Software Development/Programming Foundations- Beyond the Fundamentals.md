@@ -10,19 +10,34 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGO4PYOXpAFSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1585331963232?e=2147483647&amp;v=beta&amp;t=sZFhA29IlWnLLuMljOVE5QuOqOm-PiK4YBOjrWLV4MM"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Programmer- Foundations
-  - Explore a Career as a Web Developer
-  - Explore a Career as a JavaScript Developer
-  - A Quick Start Guide to Programming in Python
-  - Career Essentials in Software Development by Microsoft and LinkedIn
-  - A Quick Start Guide to Java Programming
+  - '[[Become a Programmer- Foundations]]'
+  - '[[Explore a Career as a Web Developer]]'
+  - '[[Explore a Career as a JavaScript Developer]]'
+  - '[[A Quick Start Guide to Programming in Python]]'
+  - '[[Career Essentials in Software Development by Microsoft and LinkedIn]]'
+  - '[[A Quick Start Guide to Java Programming]]'
+prev_courses:
+  - '[[Programming Foundations Fundamentals]]'
+  - '[[Programming Foundations Fundamentals]]'
+  - '[[Programming Foundations Fundamentals]]'
+  - '[[Programming Foundations Fundamentals]]'
+  - '[[Programming Foundations Fundamentals]]'
+  - '[[Programming Foundations Fundamentals]]'
+next_courses:
+  - '[[Programming Foundations- Object-Oriented Design]]'
+  - '[[HTML Essential Training]]'
+  - '[[JavaScript Essential Training]]'
+  - '[[Python Essential Training]]'
+  - '[[Programming Foundations- Object-Oriented Design]]'
+  - '[[Learning Java 17]]'
+path_nav: '[{"path":"Become a Programmer- Foundations","position":2,"total":12,"prev":"Programming Foundations Fundamentals","next":"Programming Foundations- Object-Oriented Design"},{"path":"Explore a Career as a Web Developer","position":2,"total":5,"prev":"Programming Foundations Fundamentals","next":"HTML Essential Training"},{"path":"Explore a Career as a JavaScript Developer","position":2,"total":5,"prev":"Programming Foundations Fundamentals","next":"JavaScript Essential Training"},{"path":"A Quick Start Guide to Programming in Python","position":2,"total":6,"prev":"Programming Foundations Fundamentals","next":"Python Essential Training"},{"path":"Career Essentials in Software Development by Microsoft and LinkedIn","position":3,"total":4,"prev":"Programming Foundations Fundamentals","next":"Programming Foundations- Object-Oriented Design"},{"path":"A Quick Start Guide to Java Programming","position":2,"total":5,"prev":"Programming Foundations Fundamentals","next":"Learning Java 17"}]'
 path_count: 6
 tags:
   - course
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations: Beyond the Fundamentals](https://media.licdn.com/dms/image/v2/C4E0DAQGO4PYOXpAFSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1585331963232?e=2147483647&amp;v=beta&amp;t=sZFhA29IlWnLLuMljOVE5QuOqOm-PiK4YBOjrWLV4MM)

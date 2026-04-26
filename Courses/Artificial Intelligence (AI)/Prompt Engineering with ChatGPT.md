@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEbvCcHVeK8sQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713398114484?e=2147483647&amp;v=beta&amp;t=UUj7lyCKIyutn6Rg8ujKgpsZq3fm6H2l-MtdH0syEQw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building ChatGPT Skills for Business Professionals
-  - Prompt Engineering Skills for Developers
+  - '[[Building ChatGPT Skills for Business Professionals]]'
+  - '[[Prompt Engineering Skills for Developers]]'
+prev_courses:
+  - '[[How to Research and Write Using Generative AI Tools (2023)]]'
+  - '[[Introduction To Prompt Engineering For Generative Ai]]'
+next_courses:
+  - '[[Nano Tips for Using ChatGPT for Business with Rachel Woods]]'
+  - '[[ChatGPT- Perfecting Your Output with Templates in Prompts]]'
+path_nav: '[{"path":"Building ChatGPT Skills for Business Professionals","position":3,"total":6,"prev":"How to Research and Write Using Generative AI Tools (2023)","next":"Nano Tips for Using ChatGPT for Business with Rachel Woods"},{"path":"Prompt Engineering Skills for Developers","position":3,"total":6,"prev":"Introduction To Prompt Engineering For Generative Ai","next":"ChatGPT- Perfecting Your Output with Templates in Prompts"}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +26,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Prompt Engineering with ChatGPT](https://media.licdn.com/dms/image/v2/D560DAQEbvCcHVeK8sQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713398114484?e=2147483647&amp;v=beta&amp;t=UUj7lyCKIyutn6Rg8ujKgpsZq3fm6H2l-MtdH0syEQw)

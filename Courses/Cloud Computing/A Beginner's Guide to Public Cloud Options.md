@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE1N56XuZkLkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721255730975?e=2147483647&amp;v=beta&amp;t=QRCokT69Tq0VCl-zB8khFP-WYY0LPLRNdDP9R7H-MUM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Foundations of Cloud Computing- Models, Platforms, Services, and Careers
-  - Essential New Skills in IT Administration
+  - '[[Foundations of Cloud Computing- Models, Platforms, Services, and Careers]]'
+  - '[[Essential New Skills in IT Administration]]'
+prev_courses:
+  - '[[Cloud Computing Terms Every Beginner Should Know]]'
+  - '[[Cloud Computing Understanding Core Concepts]]'
+next_courses:
+  - '[[Cloud Computing- Understanding Private Cloud Options]]'
+  - null
+path_nav: '[{"path":"Foundations of Cloud Computing- Models, Platforms, Services, and Careers","position":3,"total":9,"prev":"Cloud Computing Terms Every Beginner Should Know","next":"Cloud Computing- Understanding Private Cloud Options"},{"path":"Essential New Skills in IT Administration","position":5,"total":5,"prev":"Cloud Computing Understanding Core Concepts","next":null}]'
 path_count: 2
 tags:
   - course
@@ -25,7 +32,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![A Beginner's Guide to Public Cloud Options](https://media.licdn.com/dms/image/v2/D560DAQE1N56XuZkLkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721255730975?e=2147483647&amp;v=beta&amp;t=QRCokT69Tq0VCl-zB8khFP-WYY0LPLRNdDP9R7H-MUM)

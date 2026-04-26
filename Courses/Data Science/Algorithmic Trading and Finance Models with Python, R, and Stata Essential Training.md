@@ -20,7 +20,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFJgcd_nDs-ZA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734050016906?e=2147483647&amp;v=beta&amp;t=79J1t0-36oNhMLV5sYIdY-ekFsjwXACDBe2WuasezcQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Python for Data Professionals in Finance
+  - '[[Python for Data Professionals in Finance]]'
+prev_courses:
+  - '[[Practical Python for Algorithmic Trading]]'
+path_nav: '[{"path":"Python for Data Professionals in Finance","position":5,"total":5,"prev":"Practical Python for Algorithmic Trading","next":null}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +35,7 @@ tags:
   - skill/stata
   - skill/financial-modeling
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQFJgcd_nDs-ZA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734050016906?e=2147483647&amp;v=beta&amp;t=79J1t0-36oNhMLV5sYIdY-ekFsjwXACDBe2WuasezcQ)

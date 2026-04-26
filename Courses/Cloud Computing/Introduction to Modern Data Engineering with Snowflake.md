@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFi5IifLXJFgg/learning-public-crop_675_1200/B4EZdBuLDWHQAY-/0/1749154313181?e=2147483647&amp;v=beta&amp;t=uh67W9qBUl-sFzSCdb7niYITg0Sk0FgZ_2K1mxkNUbA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Data Engineering Professional Certificate by Snowflake
+  - '[[Data Engineering Professional Certificate by Snowflake]]'
+prev_courses:
+  - '[[Intro To Snowflake For Devs Data Scientists Data Engineers]]'
+next_courses:
+  - '[[Advanced Data Engineering with Snowflake]]'
+path_nav: '[{"path":"Data Engineering Professional Certificate by Snowflake","position":2,"total":3,"prev":"Intro To Snowflake For Devs Data Scientists Data Engineers","next":"Advanced Data Engineering with Snowflake"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/data-engineering
   - skill/snowflake
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Modern Data Engineering with Snowflake](https://media.licdn.com/dms/image/v2/D4E0DAQFi5IifLXJFgg/learning-public-crop_675_1200/B4EZdBuLDWHQAY-/0/1749154313181?e=2147483647&amp;v=beta&amp;t=uh67W9qBUl-sFzSCdb7niYITg0Sk0FgZ_2K1mxkNUbA)

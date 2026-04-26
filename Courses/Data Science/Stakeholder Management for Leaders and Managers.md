@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFu0uoT52A8GQ/learning-public-crop_675_1200/B4DZSQkbz4GkAc-/0/1737592258149?e=2147483647&amp;v=beta&amp;t=5v-g6hkjSGe4RLR1mS7wz85GAYHuIhBGzH_OLKyWvnQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Strategic Execution and Business Impact for Senior Managers and Senior Leaders
+  - '[[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]]'
+prev_courses:
+  - '[[Data-Driven Decisions in Business Operations]]'
+next_courses:
+  - '[[Strategic Pricing for Products and Services]]'
+path_nav: '[{"path":"Strategic Execution and Business Impact for Senior Managers and Senior Leaders","position":4,"total":12,"prev":"Data-Driven Decisions in Business Operations","next":"Strategic Pricing for Products and Services"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/stakeholder-management
   - skill/team-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Stakeholder Management for Leaders and Managers](https://media.licdn.com/dms/image/v2/D4D0DAQFu0uoT52A8GQ/learning-public-crop_675_1200/B4DZSQkbz4GkAc-/0/1737592258149?e=2147483647&amp;v=beta&amp;t=5v-g6hkjSGe4RLR1mS7wz85GAYHuIhBGzH_OLKyWvnQ)

@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHygexut8bMMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635186525102?e=2147483647&amp;v=beta&amp;t=PUChXOd3hEVFLxFL4P-3ZFBGhpCnPMLyjywoxjCeiRg"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your JavaScript Language Skills
+  - '[[Improve Your JavaScript Language Skills]]'
+prev_courses:
+  - '[[Learning Functional Programming with JavaScript ES6+]]'
+next_courses:
+  - '[[Level Up- JavaScript]]'
+path_nav: '[{"path":"Improve Your JavaScript Language Skills","position":2,"total":8,"prev":"Learning Functional Programming with JavaScript ES6+","next":"Level Up- JavaScript"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Async](https://media.licdn.com/dms/image/v2/C4E0DAQHygexut8bMMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635186525102?e=2147483647&amp;v=beta&amp;t=PUChXOd3hEVFLxFL4P-3ZFBGhpCnPMLyjywoxjCeiRg)

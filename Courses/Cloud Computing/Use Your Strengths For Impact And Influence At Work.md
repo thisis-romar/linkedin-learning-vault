@@ -13,7 +13,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFoq6hzM0BbPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684876640638?e=2147483647&amp;v=beta&amp;t=pbUd8A3if3PWNolV9qEqZChZShzcZWDRqEOJNEcbBJM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Branding and Skill Building to Advance Your Tech Career
+  - '[[Branding and Skill Building to Advance Your Tech Career]]'
+next_courses:
+  - '[[Storytelling and Content Creation to Transform Your Personal Brand]]'
+path_nav: '[{"path":"Branding and Skill Building to Advance Your Tech Career","position":1,"total":6,"prev":null,"next":"Storytelling and Content Creation to Transform Your Personal Brand"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - skill/strengths-development
   - skill/influencing-others
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Use Your Strengths For Impact And Influence At Work](https://media.licdn.com/dms/image/v2/D560DAQFoq6hzM0BbPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684876640638?e=2147483647&amp;v=beta&amp;t=pbUd8A3if3PWNolV9qEqZChZShzcZWDRqEOJNEcbBJM)

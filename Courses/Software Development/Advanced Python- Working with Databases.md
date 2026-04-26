@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/advanced-python-working-with-databa
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGxhz_OMvM_mQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683668063867?e=2147483647&amp;v=beta&amp;t=HKWHjSXUO99KgnvNd2yEm5Ys3sbkYjuRVDgY8BXxEWk"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Your Python Skills
-  - Master Python for Data Science
+  - '[[Master Your Python Skills]]'
+  - '[[Master Python for Data Science]]'
+prev_courses:
+  - '[[Unit Testing in Python]]'
+  - '[[Advanced Python- Working With Data]]'
+next_courses:
+  - '[[Python- Working with Predictive Analytics (2019)]]'
+  - '[[Python Data Structures and Algorithms]]'
+path_nav: '[{"path":"Master Your Python Skills","position":8,"total":11,"prev":"Unit Testing in Python","next":"Python- Working with Predictive Analytics (2019)"},{"path":"Master Python for Data Science","position":3,"total":8,"prev":"Advanced Python- Working With Data","next":"Python Data Structures and Algorithms"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/databases
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Python: Working with Databases](https://media.licdn.com/dms/image/v2/D560DAQGxhz_OMvM_mQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683668063867?e=2147483647&amp;v=beta&amp;t=HKWHjSXUO99KgnvNd2yEm5Ys3sbkYjuRVDgY8BXxEWk)

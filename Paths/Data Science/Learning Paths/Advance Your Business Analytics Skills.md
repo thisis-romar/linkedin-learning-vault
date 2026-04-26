@@ -61,7 +61,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Business Analytics Skills
@@ -99,3 +99,7 @@ _Paths that share courses with this one:_
 - [[Become a Business Intelligence Specialist]] (3 shared courses)
 - [[Develop Your Data Analysis Skills]] (2 shared courses)
 - [[Explore a Career in SQL Development]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

@@ -20,7 +20,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHyS4nS85rA4g/learning-public-crop_675_1200/B4EZXYz8qNHgAc-/0/1743099252030?e=2147483647&amp;v=beta&amp;t=YxTJxwwg6wJZztD81ut9mtz07Pv609aCBQfU7V_wvbQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[AI Orchestration- Developing and Testing Your AI Prototype]]'
+path_nav: '[{"path":"Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning","position":5,"total":5,"prev":"AI Orchestration- Developing and Testing Your AI Prototype","next":null}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +35,7 @@ tags:
   - skill/computer-system-validation
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Orchestration: Validation and User Feedback and Performance Metrics](https://media.licdn.com/dms/image/v2/D4E0DAQHyS4nS85rA4g/learning-public-crop_675_1200/B4EZXYz8qNHgAc-/0/1743099252030?e=2147483647&amp;v=beta&amp;t=YxTJxwwg6wJZztD81ut9mtz07Pv609aCBQfU7V_wvbQ)

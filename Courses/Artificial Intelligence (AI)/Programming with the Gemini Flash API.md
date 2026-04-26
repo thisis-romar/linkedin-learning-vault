@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/gemini-flash-api-2724024"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEAH6lVQicxvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008964019?e=2147483647&amp;v=beta&amp;t=AtNgoYIgl_o00amicna3y6lADM_ckeYeLQuHg9oSoqA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - A Developer's Guide to Google Gemini
+  - '[[A Developer''s Guide to Google Gemini]]'
+prev_courses:
+  - '[[Getting Started with the Google Gemini API]]'
+next_courses:
+  - '[[Google Gemini For Developers]]'
+path_nav: '[{"path":"A Developer''s Guide to Google Gemini","position":4,"total":8,"prev":"Getting Started with the Google Gemini API","next":"Google Gemini For Developers"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-gemini
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming with the Gemini Flash API](https://media.licdn.com/dms/image/v2/D4D0DAQEAH6lVQicxvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008964019?e=2147483647&amp;v=beta&amp;t=AtNgoYIgl_o00amicna3y6lADM_ckeYeLQuHg9oSoqA)

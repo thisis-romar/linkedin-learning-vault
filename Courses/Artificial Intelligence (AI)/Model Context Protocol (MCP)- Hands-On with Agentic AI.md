@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/model-context-protocol-mcp-hands-on
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEo2bybtTuBiQ/learning-public-crop_675_1200/B4DZW1p2_tG4Ac-/0/1742509404424?e=2147483647&amp;v=beta&amp;t=dltG64iWzxT4jhuX8znCpFVFa-4vJ0PlH6acDiPV93s"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Agents- Advanced Techniques for Developers
+  - '[[Building AI Agents- Advanced Techniques for Developers]]'
+prev_courses:
+  - '[[Build AI Agents and Chatbots with LangGraph]]'
+next_courses:
+  - '[[Hands-On AI- Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)]]'
+path_nav: '[{"path":"Building AI Agents- Advanced Techniques for Developers","position":3,"total":4,"prev":"Build AI Agents and Chatbots with LangGraph","next":"Hands-On AI- Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/anthropic-claude
   - skill/application-programming-interfaces-api
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Model Context Protocol (MCP): Hands-On with Agentic AI](https://media.licdn.com/dms/image/v2/D4D0DAQEo2bybtTuBiQ/learning-public-crop_675_1200/B4DZW1p2_tG4Ac-/0/1742509404424?e=2147483647&amp;v=beta&amp;t=dltG64iWzxT4jhuX8znCpFVFa-4vJ0PlH6acDiPV93s)

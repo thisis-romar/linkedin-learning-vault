@@ -18,10 +18,21 @@ github: "https://github.com/linkedinlearning/learning-git-github-2421501"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG-PWt9Z7vqCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697832655105?e=2147483647&amp;v=beta&amp;t=y4RW4ep4W-ugmPxb52IiKv9s4k8DiOHmlj9DwjG6WmM"
 linkedin_topic: Software Development
 learning_paths:
-  - Succeed as a Remote Software Developer
-  - Prepare for the GitHub Foundations Certification
-  - Software Development Fundamentals
-  - Getting Started with WordPress
+  - '[[Succeed as a Remote Software Developer]]'
+  - '[[Prepare for the GitHub Foundations Certification]]'
+  - '[[Software Development Fundamentals]]'
+  - '[[Getting Started with WordPress]]'
+prev_courses:
+  - '[[Time Management Working From Home]]'
+  - '[[Resume]]'
+  - '[[C Sharp Algorithms]]'
+  - '[[WordPress Essential Training]]'
+next_courses:
+  - '[[Slack Essential Training]]'
+  - '[[GitHub Issues and Projects for Teams]]'
+  - '[[Program Databases with Transact-SQL]]'
+  - '[[CSS Essential Training (2023)]]'
+path_nav: '[{"path":"Succeed as a Remote Software Developer","position":2,"total":6,"prev":"Time Management Working From Home","next":"Slack Essential Training"},{"path":"Prepare for the GitHub Foundations Certification","position":2,"total":7,"prev":"Resume","next":"GitHub Issues and Projects for Teams"},{"path":"Software Development Fundamentals","position":8,"total":10,"prev":"C Sharp Algorithms","next":"Program Databases with Transact-SQL"},{"path":"Getting Started with WordPress","position":2,"total":10,"prev":"WordPress Essential Training","next":"CSS Essential Training (2023)"}]'
 path_count: 4
 tags:
   - course
@@ -34,7 +45,7 @@ tags:
   - skill/git
   - skill/github
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Git and GitHub](https://media.licdn.com/dms/image/v2/D560DAQG-PWt9Z7vqCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697832655105?e=2147483647&amp;v=beta&amp;t=y4RW4ep4W-ugmPxb52IiKv9s4k8DiOHmlj9DwjG6WmM)

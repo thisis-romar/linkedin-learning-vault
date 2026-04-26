@@ -15,7 +15,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGlG0YgmwssAg/learning-public-crop_675_1200/B4EZekETDxG4Ac-/0/1750804279820?e=2147483647&amp;v=beta&amp;t=zlceYtdAny40Zw3Ul1-XoOOMnh1E8G0YfJRICgHA4Yw"
 linkedin_topic: Data Science
 learning_paths:
-  - LinkedIn’s 2025 Top MBA Programs Learning Path
+  - '[[LinkedIn’s 2025 Top MBA Programs Learning Path]]'
+prev_courses:
+  - '[[Interpersonal Communication]]'
+next_courses:
+  - '[[Strategic Thinking]]'
+path_nav: '[{"path":"LinkedIn’s 2025 Top MBA Programs Learning Path","position":3,"total":10,"prev":"Interpersonal Communication","next":"Strategic Thinking"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/job-searching
   - skill/networking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill](https://media.licdn.com/dms/image/v2/D4E0DAQGlG0YgmwssAg/learning-public-crop_675_1200/B4EZekETDxG4Ac-/0/1750804279820?e=2147483647&amp;v=beta&amp;t=zlceYtdAny40Zw3Ul1-XoOOMnh1E8G0YfJRICgHA4Yw)

@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGLU3_QpBMa2A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720820408514?e=2147483647&amp;v=beta&amp;t=hM2XivdDy9bXS90mywn0F6sshixgCLcnLmSkVJ7bt0w"
 linkedin_topic: Software Development
 learning_paths:
-  - C- Foundations- From Basics to Building Blocks
+  - '[[C- Foundations- From Basics to Building Blocks]]'
+prev_courses:
+  - '[[C- Essential Training 2- Generics, Collections, and LINQ]]'
+next_courses:
+  - '[[C- Refactoring Tips and Tricks]]'
+path_nav: '[{"path":"C- Foundations- From Basics to Building Blocks","position":3,"total":5,"prev":"C- Essential Training 2- Generics, Collections, and LINQ","next":"C- Refactoring Tips and Tricks"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/debugging-code
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Debugging in C#](https://media.licdn.com/dms/image/v2/D560DAQGLU3_QpBMa2A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720820408514?e=2147483647&amp;v=beta&amp;t=hM2XivdDy9bXS90mywn0F6sshixgCLcnLmSkVJ7bt0w)

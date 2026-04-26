@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFnOxWt9_bH0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661193633042?e=2147483647&amp;v=beta&amp;t=YvxdkzPtZ2ZCEBcncSPI9ytSt_Uf2OUjp0RSLgMg0YY"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Master the OWASP Top 10
+  - '[[Master the OWASP Top 10]]'
+prev_courses:
+  - '[[OWASP Top 10- -1 Broken Access Control and -2 Cryptographic Failures]]'
+next_courses:
+  - '[[OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components]]'
+path_nav: '[{"path":"Master the OWASP Top 10","position":3,"total":6,"prev":"OWASP Top 10- -1 Broken Access Control and -2 Cryptographic Failures","next":"OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/web-application-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![OWASP Top 10: #3 Injection and #4 Insecure Design](https://media.licdn.com/dms/image/v2/C4E0DAQFnOxWt9_bH0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661193633042?e=2147483647&amp;v=beta&amp;t=YvxdkzPtZ2ZCEBcncSPI9ytSt_Uf2OUjp0RSLgMg0YY)

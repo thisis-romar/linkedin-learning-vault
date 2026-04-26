@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQF5jBKDROa9mw/learning-public-crop_675_1200/B4DZTOSUFSGcAY-/0/1738627695794?e=2147483647&amp;v=beta&amp;t=fJb6ugCjYgKw3Je8Cg2dPVWsZJAcPD-DwWtrheLmguU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[AI Orchestration- Foundations]]'
+next_courses:
+  - '[[AI Product Security- Foundations and Proactive Security for AI]]'
+path_nav: '[{"path":"Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning","position":4,"total":6,"prev":"AI Orchestration- Foundations","next":"AI Product Security- Foundations and Proactive Security for AI"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Implement and Evaluate Cloud AI Solutions: Foundations of Responsible AI](https://media.licdn.com/dms/image/v2/D4D0DAQF5jBKDROa9mw/learning-public-crop_675_1200/B4DZTOSUFSGcAY-/0/1738627695794?e=2147483647&amp;v=beta&amp;t=fJb6ugCjYgKw3Je8Cg2dPVWsZJAcPD-DwWtrheLmguU)

@@ -15,9 +15,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHZokrKJL6ULg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702603208967?e=2147483647&amp;v=beta&amp;t=qrRiP3Zr6KY9yBSihnpoJKwirgkPaBp1r93ksUAtNb0"
 linkedin_topic: Software Development
 learning_paths:
-  - C- Excellence- Architecting High-Performance Solutions
-  - Getting Started as a C- Developer
-  - Software Development Fundamentals
+  - '[[C- Excellence- Architecting High-Performance Solutions]]'
+  - '[[Getting Started as a C- Developer]]'
+  - '[[Software Development Fundamentals]]'
+prev_courses:
+  - null
+  - '[[C- and .NET Essential Training]]'
+  - '[[Learning C-]]'
+next_courses:
+  - '[[C- Applied Data Structures]]'
+  - '[[C- Delegates, Events, and Lambdas]]'
+  - '[[Learning Git and GitHub]]'
+path_nav: '[{"path":"C- Excellence- Architecting High-Performance Solutions","position":1,"total":6,"prev":null,"next":"C- Applied Data Structures"},{"path":"Getting Started as a C- Developer","position":4,"total":9,"prev":"C- and .NET Essential Training","next":"C- Delegates, Events, and Lambdas"},{"path":"Software Development Fundamentals","position":7,"total":10,"prev":"Learning C-","next":"Learning Git and GitHub"}]'
 path_count: 3
 tags:
   - course
@@ -25,7 +34,7 @@ tags:
   - skill/algorithms
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C Sharp Algorithms](https://media.licdn.com/dms/image/v2/D4D0DAQHZokrKJL6ULg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702603208967?e=2147483647&amp;v=beta&amp;t=qrRiP3Zr6KY9yBSihnpoJKwirgkPaBp1r93ksUAtNb0)

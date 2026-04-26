@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQEJmnmyihizbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674166620072?e=2147483647&amp;v=beta&amp;t=_XeQkFAyjriwExkldbz_eTz6qmkB00sgdRjMqMAZaJI"
 linkedin_topic: Data Science
 learning_paths:
-  - Master the Concepts of Data Visualization and Storytelling
+  - '[[Master the Concepts of Data Visualization and Storytelling]]'
+prev_courses:
+  - '[[Data Visualization for Data Analysts and Analytics]]'
+next_courses:
+  - '[[Visualizing Advanced Charts and Graphs]]'
+path_nav: '[{"path":"Master the Concepts of Data Visualization and Storytelling","position":6,"total":7,"prev":"Data Visualization for Data Analysts and Analytics","next":"Visualizing Advanced Charts and Graphs"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/data-visualization
   - skill/statistical-data-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Data Visualizations: 12 Uncommon Plot Types and How to Use Them](https://media.licdn.com/dms/image/v2/C4D0DAQEJmnmyihizbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674166620072?e=2147483647&amp;v=beta&amp;t=_XeQkFAyjriwExkldbz_eTz6qmkB00sgdRjMqMAZaJI)

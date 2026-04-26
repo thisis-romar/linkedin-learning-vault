@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFQVME2afs_Eg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729809959589?e=2147483647&amp;v=beta&amp;t=5ViXHXOznT6XYw44J7WZVOCEPZG5yYUWxZ4MceiZCuA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Generative AI for Sales with Microsoft 365 Copilot Professional Certificate
+  - '[[Generative AI for Sales with Microsoft 365 Copilot Professional Certificate]]'
+prev_courses:
+  - '[[How to Generate Marketing Leads with AI]]'
+next_courses:
+  - '[[Excel with Copilot- AI-Driven Data Analysis]]'
+path_nav: '[{"path":"Generative AI for Sales with Microsoft 365 Copilot Professional Certificate","position":3,"total":6,"prev":"How to Generate Marketing Leads with AI","next":"Excel with Copilot- AI-Driven Data Analysis"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/office-365
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Microsoft 365 Copilot for Work (2024)](https://media.licdn.com/dms/image/v2/D560DAQFQVME2afs_Eg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729809959589?e=2147483647&amp;v=beta&amp;t=5ViXHXOznT6XYw44J7WZVOCEPZG5yYUWxZ4MceiZCuA)

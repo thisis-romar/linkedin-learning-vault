@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQHDE6DaQd5C5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567195851956?e=2147483647&amp;v=beta&amp;t=y7lHGWIvdS0hbi_uJ7ASXtMt0GOEOmt927UwEdrJVJM"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Build Your Skills In Customer Service
+  - '[[Build Your Skills In Customer Service]]'
+prev_courses:
+  - '[[Creating Positive Conversations with Challenging Customers]]'
+next_courses:
+  - '[[Serving Customers Using Social Media]]'
+path_nav: '[{"path":"Build Your Skills In Customer Service","position":7,"total":8,"prev":"Creating Positive Conversations with Challenging Customers","next":"Serving Customers Using Social Media"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/customer-escalation-management
   - skill/customer-service
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![De-Escalating Conversations for Customer Service](https://media.licdn.com/dms/image/v2/C4D0DAQHDE6DaQd5C5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567195851956?e=2147483647&amp;v=beta&amp;t=y7lHGWIvdS0hbi_uJ7ASXtMt0GOEOmt927UwEdrJVJM)

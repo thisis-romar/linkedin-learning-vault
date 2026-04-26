@@ -8,17 +8,30 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEeMFMEYT5JcA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723669111714?e=2147483647&amp;v=beta&amp;t=MaRQ--is2CaO7coQMBCApDLDRT14f1i5EI06sCTrAT8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying Generative AI as a Business Professional
-  - Prompt Engineering Skills for Developers
-  - Develop Your Skills with Large Language Models
-  - Generative AI for Marketing Professional Certificate by the American Marketing Association
-  - Getting Started with Prompt Engineering
+  - '[[Applying Generative AI as a Business Professional]]'
+  - '[[Prompt Engineering Skills for Developers]]'
+  - '[[Develop Your Skills with Large Language Models]]'
+  - '[[Generative AI for Marketing Professional Certificate by the American Marketing Association]]'
+  - '[[Getting Started with Prompt Engineering]]'
+prev_courses:
+  - null
+  - '[[Ai And Developer Productivity]]'
+  - '[[Generative AI- Introduction to Large Language Models]]'
+  - '[[Everyday Ai Concepts]]'
+  - null
+next_courses:
+  - '[[How to Boost Your Productivity with AI Tools (2023)]]'
+  - '[[Prompt Engineering with ChatGPT]]'
+  - '[[Generative AI- Working with Large Language Models]]'
+  - '[[A Content Marketer''s Guide to Responsible AI]]'
+  - '[[Top Ten AI Prompts]]'
+path_nav: '[{"path":"Applying Generative AI as a Business Professional","position":1,"total":6,"prev":null,"next":"How to Boost Your Productivity with AI Tools (2023)"},{"path":"Prompt Engineering Skills for Developers","position":2,"total":6,"prev":"Ai And Developer Productivity","next":"Prompt Engineering with ChatGPT"},{"path":"Develop Your Skills with Large Language Models","position":3,"total":9,"prev":"Generative AI- Introduction to Large Language Models","next":"Generative AI- Working with Large Language Models"},{"path":"Generative AI for Marketing Professional Certificate by the American Marketing Association","position":2,"total":6,"prev":"Everyday Ai Concepts","next":"A Content Marketer''s Guide to Responsible AI"},{"path":"Getting Started with Prompt Engineering","position":1,"total":6,"prev":null,"next":"Top Ten AI Prompts"}]'
 path_count: 5
 tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction To Prompt Engineering For Generative Ai](https://media.licdn.com/dms/image/v2/D4E0DAQEeMFMEYT5JcA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723669111714?e=2147483647&amp;v=beta&amp;t=MaRQ--is2CaO7coQMBCApDLDRT14f1i5EI06sCTrAT8)

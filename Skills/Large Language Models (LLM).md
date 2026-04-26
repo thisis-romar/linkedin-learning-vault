@@ -6,7 +6,7 @@ course_count: 24
 tags:
   - skill
   - skill/large-language-models-llm
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Large Language Models (LLM)

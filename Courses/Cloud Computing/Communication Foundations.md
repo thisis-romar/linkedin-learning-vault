@@ -13,7 +13,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHKwoWZ8QK6Hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700601056751?e=2147483647&amp;v=beta&amp;t=aCB0k3ELSGIFYrocfiGn_cJsi-xovxi7ko8EJZUZBpY"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Career Essentials in Administrative Assistance by Microsoft and LinkedIn
+  - '[[Career Essentials in Administrative Assistance by Microsoft and LinkedIn]]'
+next_courses:
+  - '[[Learning Microsoft 365 Copilot for Work]]'
+path_nav: '[{"path":"Career Essentials in Administrative Assistance by Microsoft and LinkedIn","position":1,"total":7,"prev":null,"next":"Learning Microsoft 365 Copilot for Work"}]'
 path_count: 1
 tags:
   - course
@@ -21,7 +24,7 @@ tags:
   - skill/interpersonal-communication
   - skill/professional-communication
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Communication Foundations](https://media.licdn.com/dms/image/v2/D560DAQHKwoWZ8QK6Hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700601056751?e=2147483647&amp;v=beta&amp;t=aCB0k3ELSGIFYrocfiGn_cJsi-xovxi7ko8EJZUZBpY)

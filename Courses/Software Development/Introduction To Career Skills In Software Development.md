@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFt0EsmROBMVA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660148069110?e=2147483647&amp;v=beta&amp;t=QapDThME8oMJP2qvhga84mr0CHm4BDzAT0Y11hM0TB0"
 linkedin_topic: Software Development
 learning_paths:
-  - Career Essentials in Software Development by Microsoft and LinkedIn
+  - '[[Career Essentials in Software Development by Microsoft and LinkedIn]]'
+next_courses:
+  - '[[Programming Foundations Fundamentals]]'
+path_nav: '[{"path":"Career Essentials in Software Development by Microsoft and LinkedIn","position":1,"total":4,"prev":null,"next":"Programming Foundations Fundamentals"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction To Career Skills In Software Development](https://media.licdn.com/dms/image/v2/C560DAQFt0EsmROBMVA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660148069110?e=2147483647&amp;v=beta&amp;t=QapDThME8oMJP2qvhga84mr0CHm4BDzAT0Y11hM0TB0)

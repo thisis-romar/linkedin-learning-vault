@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF-Fcwt-2ewCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695847845401?e=2147483647&amp;v=beta&amp;t=Dszmz_NYSskcjmG5qMR4ww64lMKfnYyYmt3cnJAIjOk"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Mastering Responsible AI- From Concept to Auditing
+  - '[[Mastering Responsible AI- From Concept to Auditing]]'
+prev_courses:
+  - '[[Introduction to Auditing AI Systems]]'
+path_nav: '[{"path":"Mastering Responsible AI- From Concept to Auditing","position":7,"total":7,"prev":"Introduction to Auditing AI Systems","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - topic/data-science
   - skill/continuous-monitoring
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Algorithmic Auditing and Continuous Monitoring](https://media.licdn.com/dms/image/v2/D560DAQF-Fcwt-2ewCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695847845401?e=2147483647&amp;v=beta&amp;t=Dszmz_NYSskcjmG5qMR4ww64lMKfnYyYmt3cnJAIjOk)

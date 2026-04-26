@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE_2nqqsEL3YA/learning-public-crop_675_1200/B4DZg98QqGHAAc-/0/1753385864731?e=2147483647&amp;v=beta&amp;t=K9lXeGO78NRb4L8Qpj0FDdJ3Rkt628QLvVNQIg7m0DE"
 linkedin_topic: Database Management
 learning_paths:
-  - Master Python for Data Science
+  - '[[Master Python for Data Science]]'
+prev_courses:
+  - '[[Python Data Structures- Trees]]'
+path_nav: '[{"path":"Master Python for Data Science","position":8,"total":8,"prev":"Python Data Structures- Trees","next":null}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - topic/software-development
   - skill/pandas-software
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Pandas](https://media.licdn.com/dms/image/v2/D4D0DAQE_2nqqsEL3YA/learning-public-crop_675_1200/B4DZg98QqGHAAc-/0/1753385864731?e=2147483647&amp;v=beta&amp;t=K9lXeGO78NRb4L8Qpj0FDdJ3Rkt628QLvVNQIg7m0DE)

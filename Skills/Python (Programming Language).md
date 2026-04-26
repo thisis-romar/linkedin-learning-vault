@@ -6,7 +6,7 @@ course_count: 86
 tags:
   - skill
   - skill/python-programming-language
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Python (Programming Language)

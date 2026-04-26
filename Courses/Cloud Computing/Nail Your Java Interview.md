@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF3DaHHmTVoeA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712877366579?e=2147483647&amp;v=beta&amp;t=5UMCKuQfzn_eJ7S8_6RK82CeNC-K-QRmbSqTgurQVKo"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Building Your Java Skills
+  - '[[Building Your Java Skills]]'
+prev_courses:
+  - '[[Continuous Delivery for Cloud Native Java Apps]]'
+path_nav: '[{"path":"Building Your Java Skills","position":6,"total":6,"prev":"Continuous Delivery for Cloud Native Java Apps","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/interview-preparation
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Nail Your Java Interview](https://media.licdn.com/dms/image/v2/D560DAQF3DaHHmTVoeA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712877366579?e=2147483647&amp;v=beta&amp;t=5UMCKuQfzn_eJ7S8_6RK82CeNC-K-QRmbSqTgurQVKo)

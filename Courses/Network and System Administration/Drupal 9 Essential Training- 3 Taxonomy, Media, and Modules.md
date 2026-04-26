@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHrnj1mzUv0yQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615309549607?e=2147483647&amp;v=beta&amp;t=LFJN9ehKypPI2ewoVwXSdTROggkpH4T9jEWTMNswCb8"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Build Your Drupal Skills
+  - '[[Build Your Drupal Skills]]'
+prev_courses:
+  - '[[Drupal 9 Essential Training- 2 Content and Fields]]'
+next_courses:
+  - '[[Drupal 9 Essential Training- 4 Users and Themes]]'
+path_nav: '[{"path":"Build Your Drupal Skills","position":3,"total":6,"prev":"Drupal 9 Essential Training- 2 Content and Fields","next":"Drupal 9 Essential Training- 4 Users and Themes"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Drupal 9 Essential Training: 3 Taxonomy, Media, and Modules](https://media.licdn.com/dms/image/v2/C4E0DAQHrnj1mzUv0yQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615309549607?e=2147483647&amp;v=beta&amp;t=LFJN9ehKypPI2ewoVwXSdTROggkpH4T9jEWTMNswCb8)

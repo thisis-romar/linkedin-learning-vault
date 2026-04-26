@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQHK-x5Xftt6NQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1587058479192?e=2147483647&amp;v=beta&amp;t=U0Gt3GbuVOnDnX2qplT7EQa2yol6gme3ou1amwg-D4A"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your JavaScript Language Skills
+  - '[[Improve Your JavaScript Language Skills]]'
+prev_courses:
+  - '[[JavaScript- Maps and Sets]]'
+next_courses:
+  - '[[JavaScript Patterns- Modern Solutions to Common Challenges]]'
+path_nav: '[{"path":"Improve Your JavaScript Language Skills","position":7,"total":8,"prev":"JavaScript- Maps and Sets","next":"JavaScript Patterns- Modern Solutions to Common Challenges"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/software-design-patterns
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Patterns](https://media.licdn.com/dms/image/v2/C4D0DAQHK-x5Xftt6NQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1587058479192?e=2147483647&amp;v=beta&amp;t=U0Gt3GbuVOnDnX2qplT7EQa2yol6gme3ou1amwg-D4A)

@@ -16,8 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF9vZn-1sn78Q/learning-public-crop_675_1200/B56ZrBOK43HYAY-/0/1764178309251?e=2147483647&amp;v=beta&amp;t=vYl9oTScmclGVTN-a2Uj7DsxdPdRbZ7M0U3JpQi3R7k"
 linkedin_topic: Software Development
 learning_paths:
-  - Succeed as a Remote Software Developer
-  - Getting Started with Agile Software Development
+  - '[[Succeed as a Remote Software Developer]]'
+  - '[[Getting Started with Agile Software Development]]'
+prev_courses:
+  - '[[Trello Essential Training]]'
+  - '[[Agile Software Development- Transforming Your Organization]]'
+path_nav: '[{"path":"Succeed as a Remote Software Developer","position":6,"total":6,"prev":"Trello Essential Training","next":null},{"path":"Getting Started with Agile Software Development","position":10,"total":10,"prev":"Agile Software Development- Transforming Your Organization","next":null}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +32,7 @@ tags:
   - topic/devops
   - skill/agile-software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agile Software Development: Remote Teams (2019)](https://media.licdn.com/dms/image/v2/D560DAQF9vZn-1sn78Q/learning-public-crop_675_1200/B56ZrBOK43HYAY-/0/1764178309251?e=2147483647&amp;v=beta&amp;t=vYl9oTScmclGVTN-a2Uj7DsxdPdRbZ7M0U3JpQi3R7k)

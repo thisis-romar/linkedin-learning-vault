@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHwT_OYiXpBMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702422331695?e=2147483647&amp;v=beta&amp;t=qX_FwIzV7GoL-dOlKoUY1yEtCGLb9S2I_5lvg4cG5Ow"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Optimizing Enterprise Security and Productivity Using Microsoft 365
+  - '[[Optimizing Enterprise Security and Productivity Using Microsoft 365]]'
+prev_courses:
+  - '[[Microsoft 365 Essential Training for Administrators]]'
+next_courses:
+  - '[[Windows 10- Administration]]'
+path_nav: '[{"path":"Optimizing Enterprise Security and Productivity Using Microsoft 365","position":3,"total":11,"prev":"Microsoft 365 Essential Training for Administrators","next":"Windows 10- Administration"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/microsoft-365
   - skill/cloud-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft 365: Administration](https://media.licdn.com/dms/image/v2/D560DAQHwT_OYiXpBMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702422331695?e=2147483647&amp;v=beta&amp;t=qX_FwIzV7GoL-dOlKoUY1yEtCGLb9S2I_5lvg4cG5Ow)

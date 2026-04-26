@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/c-sharp-dot-net-programming-2453257
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFHiX0T9gzFUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724260774336?e=2147483647&amp;v=beta&amp;t=5ILnAHWlvAeRyOXdtf4IeK8ZFRINR4StZgvSvaxDXZc"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started as an ASP.NET Core Developer
-  - Getting Started as a C- Developer
+  - '[[Getting Started as an ASP.NET Core Developer]]'
+  - '[[Getting Started as a C- Developer]]'
+prev_courses:
+  - '[[Learning Asp Dot Net Core Mvc Razor Pages Web Apis Other Foundations]]'
+  - '[[C- Essential Training 2- Generics, Collections, and LINQ]]'
+next_courses:
+  - '[[ASP.NET Core- Razor Pages]]'
+  - '[[C Sharp Algorithms]]'
+path_nav: '[{"path":"Getting Started as an ASP.NET Core Developer","position":2,"total":9,"prev":"Learning Asp Dot Net Core Mvc Razor Pages Web Apis Other Foundations","next":"ASP.NET Core- Razor Pages"},{"path":"Getting Started as a C- Developer","position":3,"total":9,"prev":"C- Essential Training 2- Generics, Collections, and LINQ","next":"C Sharp Algorithms"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/-net-framework
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C# and .NET Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQFHiX0T9gzFUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724260774336?e=2147483647&amp;v=beta&amp;t=5ILnAHWlvAeRyOXdtf4IeK8ZFRINR4StZgvSvaxDXZc)

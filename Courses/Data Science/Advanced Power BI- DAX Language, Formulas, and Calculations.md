@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHnNg5EA08s6g/learning-public-crop_675_1200/B56ZwAWLKGHQAY-/0/1769532339395?e=2147483647&amp;v=beta&amp;t=U-rR08UzMmxG8yCW8uRtxCoeQl86tg5hIYtO5afuyKM"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career as a Power BI Specialist
+  - '[[Explore a Career as a Power BI Specialist]]'
+prev_courses:
+  - '[[Complete Guide to Power BI for Data Analysts by Microsoft Press]]'
+next_courses:
+  - '[[Power BI Data Dashboards]]'
+path_nav: '[{"path":"Explore a Career as a Power BI Specialist","position":3,"total":5,"prev":"Complete Guide to Power BI for Data Analysts by Microsoft Press","next":"Power BI Data Dashboards"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Power BI: DAX Language, Formulas, and Calculations](https://media.licdn.com/dms/image/v2/D560DAQHnNg5EA08s6g/learning-public-crop_675_1200/B56ZwAWLKGHQAY-/0/1769532339395?e=2147483647&amp;v=beta&amp;t=U-rR08UzMmxG8yCW8uRtxCoeQl86tg5hIYtO5afuyKM)

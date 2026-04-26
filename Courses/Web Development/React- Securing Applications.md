@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQE_xNcW-E00pA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1586288300783?e=2147483647&amp;v=beta&amp;t=jkRP2lOvAvGruEd5x36bkL2ivgyRXQ2m-SNAfHqFdmc"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore App Development with the MERN Stack
-  - Improve Your React Skills
+  - '[[Explore App Development with the MERN Stack]]'
+  - '[[Improve Your React Skills]]'
+prev_courses:
+  - '[[Building RESTful APIs with Node.js and Express]]'
+  - '[[React- Building Styles with CSS Modules]]'
+next_courses:
+  - '[[Node Js Security]]'
+  - '[[Building Modern Projects with React]]'
+path_nav: '[{"path":"Explore App Development with the MERN Stack","position":9,"total":13,"prev":"Building RESTful APIs with Node.js and Express","next":"Node Js Security"},{"path":"Improve Your React Skills","position":3,"total":9,"prev":"React- Building Styles with CSS Modules","next":"Building Modern Projects with React"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/react-js
   - skill/secure-authentication
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React: Securing Applications](https://media.licdn.com/dms/image/v2/C4E0DAQE_xNcW-E00pA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1586288300783?e=2147483647&amp;v=beta&amp;t=jkRP2lOvAvGruEd5x36bkL2ivgyRXQ2m-SNAfHqFdmc)

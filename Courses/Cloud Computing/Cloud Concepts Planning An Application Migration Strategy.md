@@ -8,7 +8,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHpuXUlWpgR6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728413422915?e=2147483647&amp;v=beta&amp;t=ByOZ6ahO04weuMNw578lnaMC7REtA2hNwn7VLNNvh7o"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Introduction to Enterprise Cloud Migration Planning
+  - '[[Introduction to Enterprise Cloud Migration Planning]]'
+next_courses:
+  - '[[Design a Cloud Migration Strategy]]'
+path_nav: '[{"path":"Introduction to Enterprise Cloud Migration Planning","position":1,"total":4,"prev":null,"next":"Design a Cloud Migration Strategy"}]'
 path_count: 1
 tags:
   - course
@@ -16,7 +19,7 @@ tags:
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Concepts Planning An Application Migration Strategy](https://media.licdn.com/dms/image/v2/D4E0DAQHpuXUlWpgR6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728413422915?e=2147483647&amp;v=beta&amp;t=ByOZ6ahO04weuMNw578lnaMC7REtA2hNwn7VLNNvh7o)

@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEVVcvJXVKIFA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706638056102?e=2147483647&amp;v=beta&amp;t=5bS8JWBCgqcGcLSBqBMbIIS8Ag46VktEiZ3jHIodgwI"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Visualization
-  - Moving from Data Analyst to Data Scientist
+  - '[[Introduction to Fundamental Skills for Data Work- Data Visualization]]'
+  - '[[Moving from Data Analyst to Data Scientist]]'
+prev_courses:
+  - '[[Data Visualization- Best Practices]]'
+  - '[[Python Functions for Data Science]]'
+next_courses:
+  - '[[Tableau Essential Training]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Visualization","position":2,"total":7,"prev":"Data Visualization- Best Practices","next":"Tableau Essential Training"},{"path":"Moving from Data Analyst to Data Scientist","position":4,"total":11,"prev":"Python Functions for Data Science","next":"Statistics Foundations 1- The Basics"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/data-analysis
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Basics of Data Visualization Analysis](https://media.licdn.com/dms/image/v2/D4E0DAQEVVcvJXVKIFA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706638056102?e=2147483647&amp;v=beta&amp;t=5bS8JWBCgqcGcLSBqBMbIIS8Ag46VktEiZ3jHIodgwI)

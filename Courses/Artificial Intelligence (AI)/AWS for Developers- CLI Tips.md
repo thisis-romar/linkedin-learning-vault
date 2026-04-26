@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/aws-for-developers-cli-tips-4469953
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEOai9Mk_3_lg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696618989101?e=2147483647&amp;v=beta&amp;t=GExiqCGKB5DhYgREzfp7ekdgycP5rCknmmHhnHKzJmc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your AWS Development Skills- Exploring Complex Application Development
+  - '[[Advance Your AWS Development Skills- Exploring Complex Application Development]]'
+prev_courses:
+  - '[[Introduction to AWS AI Services for Developers]]'
+next_courses:
+  - '[[AWS Security Best Practices for Developers]]'
+path_nav: '[{"path":"Advance Your AWS Development Skills- Exploring Complex Application Development","position":3,"total":6,"prev":"Introduction to AWS AI Services for Developers","next":"AWS Security Best Practices for Developers"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - topic/software-development
   - skill/aws-command-line-interface-cli
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AWS for Developers: CLI Tips](https://media.licdn.com/dms/image/v2/D560DAQEOai9Mk_3_lg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696618989101?e=2147483647&amp;v=beta&amp;t=GExiqCGKB5DhYgREzfp7ekdgycP5rCknmmHhnHKzJmc)

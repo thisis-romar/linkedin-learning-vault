@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C510DAQErdG7cyqqxlA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1573752417155?e=2147483647&amp;v=beta&amp;t=UGuGG6jtZs5eWyfmqg2T0xrk5H_XHx9ynyceYu2YZ7M"
 linkedin_topic: Web Development
 learning_paths:
-  - Getting Started with WordPress
+  - '[[Getting Started with WordPress]]'
+prev_courses:
+  - '[[CSS Essential Training (2023)]]'
+next_courses:
+  - '[[HTML Essential Training]]'
+path_nav: '[{"path":"Getting Started with WordPress","position":4,"total":10,"prev":"CSS Essential Training (2023)","next":"HTML Essential Training"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Making Sense of the CSS Box Model](https://media.licdn.com/dms/image/v2/C510DAQErdG7cyqqxlA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1573752417155?e=2147483647&amp;v=beta&amp;t=UGuGG6jtZs5eWyfmqg2T0xrk5H_XHx9ynyceYu2YZ7M)

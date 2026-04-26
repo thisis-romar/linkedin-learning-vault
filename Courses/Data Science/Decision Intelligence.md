@@ -17,9 +17,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHm5OeeZN1I6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693509050887?e=2147483647&amp;v=beta&amp;t=r6eUf8rJNh98Yv7OyU0wM9caTqxJ5_Q2HNg9nzzlsKs"
 linkedin_topic: Data Science
 learning_paths:
-  - Strategic Execution and Business Impact for Senior Managers and Senior Leaders
-  - Introduction to Fundamental Skills for Data Work- Data Strategy and Planning
-  - LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader
+  - '[[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]]'
+  - '[[Introduction to Fundamental Skills for Data Work- Data Strategy and Planning]]'
+  - '[[LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader]]'
+prev_courses:
+  - '[[Organizational Leadership in the Era of AI]]'
+  - '[[Decision Intelligence- Data Stories]]'
+  - '[[Strategic Financial Intelligence for Business Leaders]]'
+next_courses:
+  - '[[Sharpen Your Decision-Making with Nuanced Thinking Techniques]]'
+  - '[[AI Fundamentals for Data Professionals]]'
+  - '[[Psychological Safety- Clear Blocks to Innovation, Collaboration, and Risk-Taking]]'
+path_nav: '[{"path":"Strategic Execution and Business Impact for Senior Managers and Senior Leaders","position":9,"total":12,"prev":"Organizational Leadership in the Era of AI","next":"Sharpen Your Decision-Making with Nuanced Thinking Techniques"},{"path":"Introduction to Fundamental Skills for Data Work- Data Strategy and Planning","position":3,"total":10,"prev":"Decision Intelligence- Data Stories","next":"AI Fundamentals for Data Professionals"},{"path":"LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader","position":4,"total":11,"prev":"Strategic Financial Intelligence for Business Leaders","next":"Psychological Safety- Clear Blocks to Innovation, Collaboration, and Risk-Taking"}]'
 path_count: 3
 tags:
   - course
@@ -28,7 +37,7 @@ tags:
   - skill/data-driven-decision-making
   - skill/decision-making
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Decision Intelligence](https://media.licdn.com/dms/image/v2/D560DAQHm5OeeZN1I6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693509050887?e=2147483647&amp;v=beta&amp;t=r6eUf8rJNh98Yv7OyU0wM9caTqxJ5_Q2HNg9nzzlsKs)

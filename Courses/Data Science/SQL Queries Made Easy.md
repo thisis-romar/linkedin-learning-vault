@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF6AvXSi8LgNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725038985144?e=2147483647&amp;v=beta&amp;t=Jrz8IDYgc_cAvIQSccmKUhN0ZUYY8cAb6X3yK6ZElQ0"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career in SQL Development
+  - '[[Explore a Career in SQL Development]]'
+prev_courses:
+  - '[[SQL Essential Training]]'
+next_courses:
+  - '[[SQL Server Intelligence- Cracking the Code of Enterprise Data]]'
+path_nav: '[{"path":"Explore a Career in SQL Development","position":3,"total":8,"prev":"SQL Essential Training","next":"SQL Server Intelligence- Cracking the Code of Enterprise Data"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL Queries Made Easy](https://media.licdn.com/dms/image/v2/D560DAQF6AvXSi8LgNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725038985144?e=2147483647&amp;v=beta&amp;t=Jrz8IDYgc_cAvIQSccmKUhN0ZUYY8cAb6X3yK6ZElQ0)

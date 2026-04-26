@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/ciso-leadership-managing-a-cybersec
 course_count: 8
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 3
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/security
@@ -49,7 +49,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # CISO Leadership: Managing a Cybersecurity Program
@@ -84,3 +84,7 @@ _Paths that share courses with this one:_
 - [[Career Essentials in Cybersecurity by Microsoft and LinkedIn]] (1 shared courses)
 - [[Digital Transformation for Tech Leaders]] (1 shared courses)
 - [[Explore a Career in Computer Forensics]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cybersecurity]]

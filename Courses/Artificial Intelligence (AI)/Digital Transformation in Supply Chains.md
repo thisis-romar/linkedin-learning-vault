@@ -17,8 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQF8f50kxxrstw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648746554372?e=2147483647&amp;v=beta&amp;t=9UPmTC7YlrHs3xA1Yxz5-jl35NoWmQ1GVtLqAFKV-U4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Generative AI for Supply Chain Professional Certificate by CSCMP
-  - Advance Your Skills as a Supply Chain Manager
+  - '[[Generative AI for Supply Chain Professional Certificate by CSCMP]]'
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+prev_courses:
+  - '[[Artificial Intelligence and Business Strategy]]'
+  - '[[Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment]]'
+path_nav: '[{"path":"Generative AI for Supply Chain Professional Certificate by CSCMP","position":4,"total":4,"prev":"Artificial Intelligence and Business Strategy","next":null},{"path":"Advance Your Skills as a Supply Chain Manager","position":15,"total":15,"prev":"Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment","next":null}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +33,7 @@ tags:
   - skill/supply-chain-management
   - skill/digital-transformation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Digital Transformation in Supply Chains](https://media.licdn.com/dms/image/v2/C4D0DAQF8f50kxxrstw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648746554372?e=2147483647&amp;v=beta&amp;t=9UPmTC7YlrHs3xA1Yxz5-jl35NoWmQ1GVtLqAFKV-U4)

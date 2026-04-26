@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/react-graphql-2875095"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEeQnVkhv1BeA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615224399373?e=2147483647&amp;v=beta&amp;t=omfC7AlJchzaaonrEuBif0RWx3OFHrvZ5ReLmn-grlQ"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your React Skills
+  - '[[Improve Your React Skills]]'
+prev_courses:
+  - '[[React- Software Architecture]]'
+next_courses:
+  - '[[React- Cloud-Powered Apps with Firebase]]'
+path_nav: '[{"path":"Improve Your React Skills","position":8,"total":9,"prev":"React- Software Architecture","next":"React- Cloud-Powered Apps with Firebase"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/react-js
   - skill/graphql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a GraphQL Project with React.js](https://media.licdn.com/dms/image/v2/C4E0DAQEeQnVkhv1BeA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615224399373?e=2147483647&amp;v=beta&amp;t=omfC7AlJchzaaonrEuBif0RWx3OFHrvZ5ReLmn-grlQ)

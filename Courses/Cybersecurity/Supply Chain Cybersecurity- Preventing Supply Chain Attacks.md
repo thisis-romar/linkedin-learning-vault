@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFCsR1jZsjBRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648758486739?e=2147483647&amp;v=beta&amp;t=shoDLb2WVFatyDpWOlZQk5XhAPrrQ4Ng7tXv7skAInM"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Navigating the Cybersecurity Threat Landscape
-  - Advance Your Skills as a Supply Chain Manager
+  - '[[Navigating the Cybersecurity Threat Landscape]]'
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+prev_courses:
+  - '[[Introduction to Identity and Access Management]]'
+  - '[[Requirements Elicitation and Analysis]]'
+next_courses:
+  - '[[Cybersecurity- Key Policies and Resources]]'
+  - '[[Fundamentals of Sustainable Supply Chains]]'
+path_nav: '[{"path":"Navigating the Cybersecurity Threat Landscape","position":5,"total":8,"prev":"Introduction to Identity and Access Management","next":"Cybersecurity- Key Policies and Resources"},{"path":"Advance Your Skills as a Supply Chain Manager","position":12,"total":15,"prev":"Requirements Elicitation and Analysis","next":"Fundamentals of Sustainable Supply Chains"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/supply-chain-security
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Supply Chain Cybersecurity: Preventing Supply Chain Attacks](https://media.licdn.com/dms/image/v2/C4E0DAQFCsR1jZsjBRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648758486739?e=2147483647&amp;v=beta&amp;t=shoDLb2WVFatyDpWOlZQk5XhAPrrQ4Ng7tXv7skAInM)

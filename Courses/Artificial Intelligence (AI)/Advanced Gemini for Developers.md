@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEshb8nqs80JA/learning-public-crop_675_1200/B4EZbPqixaHcAY-/0/1747240759192?e=2147483647&amp;v=beta&amp;t=EQn4fkXcLjum3XMCLiWtSqsP6g0aA_mhH7mw1h2mMtA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - A Developer's Guide to Google Gemini
+  - '[[A Developer''s Guide to Google Gemini]]'
+prev_courses:
+  - '[[Google Gemini For Developers]]'
+next_courses:
+  - '[[Building with Google Gemini Advanced and Ultra]]'
+path_nav: '[{"path":"A Developer''s Guide to Google Gemini","position":6,"total":8,"prev":"Google Gemini For Developers","next":"Building with Google Gemini Advanced and Ultra"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Gemini for Developers](https://media.licdn.com/dms/image/v2/D4E0DAQEshb8nqs80JA/learning-public-crop_675_1200/B4EZbPqixaHcAY-/0/1747240759192?e=2147483647&amp;v=beta&amp;t=EQn4fkXcLjum3XMCLiWtSqsP6g0aA_mhH7mw1h2mMtA)

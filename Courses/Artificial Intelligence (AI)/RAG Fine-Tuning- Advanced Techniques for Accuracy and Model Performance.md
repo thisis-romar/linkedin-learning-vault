@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHWChs2YOX_7w/learning-public-crop_675_1200/B4EZUAdM1dGgAc-/0/1739469410037?e=2147483647&amp;v=beta&amp;t=9DendI5y4TqLIKYtyEG9GDtObmYzPltUYENNRtVO_vY"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Generative AI Skills for Developers
+  - '[[Building Generative AI Skills for Developers]]'
+prev_courses:
+  - '[[Advanced RAG Applications with Vector Databases]]'
+next_courses:
+  - '[[GenAIOps Foundations]]'
+path_nav: '[{"path":"Building Generative AI Skills for Developers","position":6,"total":7,"prev":"Advanced RAG Applications with Vector Databases","next":"GenAIOps Foundations"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/retrieval-augmented-generation-rag
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![RAG Fine-Tuning: Advanced Techniques for Accuracy and Model Performance](https://media.licdn.com/dms/image/v2/D4E0DAQHWChs2YOX_7w/learning-public-crop_675_1200/B4EZUAdM1dGgAc-/0/1739469410037?e=2147483647&amp;v=beta&amp;t=9DendI5y4TqLIKYtyEG9GDtObmYzPltUYENNRtVO_vY)

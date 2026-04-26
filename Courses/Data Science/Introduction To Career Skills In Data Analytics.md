@@ -8,14 +8,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGJPu6Bpt_6gw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660147884175?e=2147483647&amp;v=beta&amp;t=kQ5PYdjHkCHJKUBySW8sc4bq-Muan8C1jcqz__M_MT8"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career in Data Analysis
-  - Career Essentials in Data Analysis by Microsoft and LinkedIn
+  - '[[Explore a Career in Data Analysis]]'
+  - '[[Career Essentials in Data Analysis by Microsoft and LinkedIn]]'
+next_courses:
+  - '[[Data Science Foundations- Fundamentals]]'
+  - '[[Learning Data Analytics- 1 Foundations]]'
+path_nav: '[{"path":"Explore a Career in Data Analysis","position":1,"total":6,"prev":null,"next":"Data Science Foundations- Fundamentals"},{"path":"Career Essentials in Data Analysis by Microsoft and LinkedIn","position":1,"total":5,"prev":null,"next":"Learning Data Analytics- 1 Foundations"}]'
 path_count: 2
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction To Career Skills In Data Analytics](https://media.licdn.com/dms/image/v2/C560DAQGJPu6Bpt_6gw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660147884175?e=2147483647&amp;v=beta&amp;t=kQ5PYdjHkCHJKUBySW8sc4bq-Muan8C1jcqz__M_MT8)

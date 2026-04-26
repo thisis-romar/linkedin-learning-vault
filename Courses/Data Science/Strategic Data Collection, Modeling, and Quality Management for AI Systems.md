@@ -19,8 +19,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFse636pRif1g/learning-public-crop_675_1200/B4DZWW5B43H4Ac-/0/1741993287498?e=2147483647&amp;v=beta&amp;t=FuFVbo5bhEHH7Q7XC_9QElK83gk5Yig7HQXoWSgrC70"
 linkedin_topic: Data Science
 learning_paths:
-  - Working with Data- Collecting, Processing, and Storing Data for AI
-  - Introduction to Fundamental Skills for Data Work- Data Collection
+  - '[[Working with Data- Collecting, Processing, and Storing Data for AI]]'
+  - '[[Introduction to Fundamental Skills for Data Work- Data Collection]]'
+prev_courses:
+  - '[[Data Planning Strategy And Compliance For Ai Initiatives]]'
+  - null
+next_courses:
+  - '[[Data Preparation, Feature Engineering, and Augmentation for AI Models]]'
+  - '[[Data Ingestion with Python]]'
+path_nav: '[{"path":"Working with Data- Collecting, Processing, and Storing Data for AI","position":2,"total":6,"prev":"Data Planning Strategy And Compliance For Ai Initiatives","next":"Data Preparation, Feature Engineering, and Augmentation for AI Models"},{"path":"Introduction to Fundamental Skills for Data Work- Data Collection","position":1,"total":6,"prev":null,"next":"Data Ingestion with Python"}]'
 path_count: 2
 tags:
   - course
@@ -33,7 +40,7 @@ tags:
   - skill/data-quality
   - skill/data-cleaning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Strategic Data Collection, Modeling, and Quality Management for AI Systems](https://media.licdn.com/dms/image/v2/D4D0DAQFse636pRif1g/learning-public-crop_675_1200/B4DZWW5B43H4Ac-/0/1741993287498?e=2147483647&amp;v=beta&amp;t=FuFVbo5bhEHH7Q7XC_9QElK83gk5Yig7HQXoWSgrC70)

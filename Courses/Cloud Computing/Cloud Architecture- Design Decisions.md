@@ -10,9 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFXZOc2UQrUTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737159098691?e=2147483647&amp;v=beta&amp;t=NLFGUalWGZn9NZYSyoa2Ux58Hmq4R7lPxEjuPLJ8pXM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Design and Present Your Cloud Strategy
-  - Build an Enterprise Cloud Architecture
-  - Cloud Strategy Professional Certificate by LinkedIn Learning
+  - '[[Design and Present Your Cloud Strategy]]'
+  - '[[Build an Enterprise Cloud Architecture]]'
+  - '[[Cloud Strategy Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment]]'
+  - null
+  - '[[Cloud Architecture- Core Concepts]]'
+next_courses:
+  - '[[Design a Cloud Migration Strategy]]'
+  - '[[Cloud Architecture- Advanced Concepts]]'
+  - '[[Cloud Security Architecture for the Enterprise]]'
+path_nav: '[{"path":"Design and Present Your Cloud Strategy","position":2,"total":6,"prev":"Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment","next":"Design a Cloud Migration Strategy"},{"path":"Build an Enterprise Cloud Architecture","position":1,"total":4,"prev":null,"next":"Cloud Architecture- Advanced Concepts"},{"path":"Cloud Strategy Professional Certificate by LinkedIn Learning","position":4,"total":9,"prev":"Cloud Architecture- Core Concepts","next":"Cloud Security Architecture for the Enterprise"}]'
 path_count: 3
 tags:
   - course
@@ -20,7 +29,7 @@ tags:
   - topic/software-development
   - topic/security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Architecture: Design Decisions](https://media.licdn.com/dms/image/v2/D4D0DAQFXZOc2UQrUTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737159098691?e=2147483647&amp;v=beta&amp;t=NLFGUalWGZn9NZYSyoa2Ux58Hmq4R7lPxEjuPLJ8pXM)

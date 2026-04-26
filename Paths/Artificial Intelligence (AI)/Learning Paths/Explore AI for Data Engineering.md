@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Database Management
   - Software Development
-louvain_cluster: 3
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Explore AI for Data Engineering
@@ -89,3 +89,7 @@ _Paths that share courses with this one:_
 - [[Vector Databases Professional Certificate by Weaviate]] (2 shared courses)
 - [[Master Retrieval-Augmented Generation (RAG)]] (2 shared courses)
 - [[Building Generative AI Skills for Developers]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

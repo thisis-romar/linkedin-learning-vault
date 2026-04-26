@@ -16,8 +16,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQH257Ak0HzYQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729632133892?e=2147483647&amp;v=beta&amp;t=6SjIfwx5wQAR2dJVS_X1NjiMHdEuj11HURTH8Flcbvg"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Transform Your Programming with AI Coding Tools
-  - Master GitHub Copilot
+  - '[[Transform Your Programming with AI Coding Tools]]'
+  - '[[Master GitHub Copilot]]'
+prev_courses:
+  - '[[Responsible GitHub Copilot- Creating Reliable Code Ethically]]'
+  - '[[Supercharge the Development Process with GitHub Extensions for Copilot Chat]]'
+next_courses:
+  - null
+  - '[[Responsible GitHub Copilot- Creating Reliable Code Ethically]]'
+path_nav: '[{"path":"Transform Your Programming with AI Coding Tools","position":7,"total":7,"prev":"Responsible GitHub Copilot- Creating Reliable Code Ethically","next":null},{"path":"Master GitHub Copilot","position":4,"total":8,"prev":"Supercharge the Development Process with GitHub Extensions for Copilot Chat","next":"Responsible GitHub Copilot- Creating Reliable Code Ethically"}]'
 path_count: 2
 tags:
   - course
@@ -25,7 +32,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Delivering and Analyzing a Software Pilot: GitHub Copilot](https://media.licdn.com/dms/image/v2/D4D0DAQH257Ak0HzYQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729632133892?e=2147483647&amp;v=beta&amp;t=6SjIfwx5wQAR2dJVS_X1NjiMHdEuj11HURTH8Flcbvg)

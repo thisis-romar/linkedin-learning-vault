@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHwhOyy4T_E4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626807009888?e=2147483647&amp;v=beta&amp;t=yQECZR2VKEpjDC2NgOT4PC7xVLoI6VGaJ34hJU4W0So"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started with R for Data Science
-  - Moving from Data Analyst to Data Scientist
+  - '[[Getting Started with R for Data Science]]'
+  - '[[Moving from Data Analyst to Data Scientist]]'
+prev_courses:
+  - '[[Complete Guide To R Wrangling Visualizing And Modeling Data]]'
+  - '[[Intermediate Sql For Data Scientists]]'
+next_courses:
+  - '[[R for Data Science- Analysis and Visualization]]'
+  - '[[Python Functions for Data Science]]'
+path_nav: '[{"path":"Getting Started with R for Data Science","position":2,"total":4,"prev":"Complete Guide To R Wrangling Visualizing And Modeling Data","next":"R for Data Science- Analysis and Visualization"},{"path":"Moving from Data Analyst to Data Scientist","position":2,"total":11,"prev":"Intermediate Sql For Data Scientists","next":"Python Functions for Data Science"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/data-wrangling
   - skill/r-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Wrangling in R](https://media.licdn.com/dms/image/v2/C560DAQHwhOyy4T_E4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626807009888?e=2147483647&amp;v=beta&amp;t=yQECZR2VKEpjDC2NgOT4PC7xVLoI6VGaJ34hJU4W0So)

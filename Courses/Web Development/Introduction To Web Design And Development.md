@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEOlQminMI55A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1645210969272?e=2147483647&amp;v=beta&amp;t=CAUuoMZ3nFfHsnGK9KRHYtIkWNDAcn5q9P_nZUlIt00"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore a Career in Front-End Web Development
+  - '[[Explore a Career in Front-End Web Development]]'
+next_courses:
+  - '[[HTML Essential Training]]'
+path_nav: '[{"path":"Explore a Career in Front-End Web Development","position":1,"total":11,"prev":null,"next":"HTML Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/html
   - skill/web-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction To Web Design And Development](https://media.licdn.com/dms/image/v2/C560DAQEOlQminMI55A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1645210969272?e=2147483647&amp;v=beta&amp;t=CAUuoMZ3nFfHsnGK9KRHYtIkWNDAcn5q9P_nZUlIt00)

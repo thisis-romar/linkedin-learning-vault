@@ -10,7 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQE5r4OF5kAUqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652379348816?e=2147483647&amp;v=beta&amp;t=6g5u8XgaGZhr0TAqeD0yEuT4Lg4T0y-LkHe_hgBZ7zc"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Managing and Leading Developers
+  - '[[Managing and Leading Developers]]'
+prev_courses:
+  - '[[Inclusive Tech- Conducting Humane Code Reviews]]'
+next_courses:
+  - '[[The Manager''s Guide to Difficult Conversations]]'
+path_nav: '[{"path":"Managing and Leading Developers","position":6,"total":8,"prev":"Inclusive Tech- Conducting Humane Code Reviews","next":"The Manager''s Guide to Difficult Conversations"}]'
 path_count: 1
 tags:
   - course
@@ -19,7 +24,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Trust](https://media.licdn.com/dms/image/v2/C560DAQE5r4OF5kAUqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652379348816?e=2147483647&amp;v=beta&amp;t=6g5u8XgaGZhr0TAqeD0yEuT4Lg4T0y-LkHe_hgBZ7zc)

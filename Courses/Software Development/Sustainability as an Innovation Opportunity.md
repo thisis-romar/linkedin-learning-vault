@@ -14,7 +14,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGmCO8KYU11-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657656842545?e=2147483647&amp;v=beta&amp;t=cfBzCSb38co-4ASXom_aiURJGl1o9iuRL0YsM7xa-4o"
 linkedin_topic: Software Development
 learning_paths:
-  - Career Essentials in Sustainable Tech by Microsoft and LinkedIn
+  - '[[Career Essentials in Sustainable Tech by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Sustainability Foundations Core Concepts]]'
+next_courses:
+  - '[[Including Sustainability in Your Cloud Strategy]]'
+path_nav: '[{"path":"Career Essentials in Sustainable Tech by Microsoft and LinkedIn","position":2,"total":7,"prev":"Sustainability Foundations Core Concepts","next":"Including Sustainability in Your Cloud Strategy"}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +27,7 @@ tags:
   - skill/business-innovation
   - skill/sustainable-business-strategy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Sustainability as an Innovation Opportunity](https://media.licdn.com/dms/image/v2/C560DAQGmCO8KYU11-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657656842545?e=2147483647&amp;v=beta&amp;t=cfBzCSb38co-4ASXom_aiURJGl1o9iuRL0YsM7xa-4o)

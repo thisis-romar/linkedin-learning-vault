@@ -14,9 +14,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGJFjBHlbRjaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687911200974?e=2147483647&amp;v=beta&amp;t=UTkulsN-j1uuWiLXWOWH9LU8yvvXRhhy0bciWN-xk_Y"
 linkedin_topic: Data Science
 learning_paths:
-  - The Top 10 Most Popular Courses among Engineering Professionals
-  - The Top 10 Most Popular Courses among IT Professionals
-  - LinkedIn’s 2025 Top MBA Programs Learning Path
+  - '[[The Top 10 Most Popular Courses among Engineering Professionals]]'
+  - '[[The Top 10 Most Popular Courses among IT Professionals]]'
+  - '[[LinkedIn’s 2025 Top MBA Programs Learning Path]]'
+prev_courses:
+  - '[[Unconscious Bias]]'
+  - '[[Unconscious Bias]]'
+  - '[[The Smart Way to Grow Your Network with LinkedIn''s Andrew McCaskill]]'
+next_courses:
+  - '[[Python Essential Training]]'
+  - '[[Cloud Computing Understanding Core Concepts]]'
+  - '[[Strategic Negotiation]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among Engineering Professionals","position":4,"total":10,"prev":"Unconscious Bias","next":"Python Essential Training"},{"path":"The Top 10 Most Popular Courses among IT Professionals","position":3,"total":10,"prev":"Unconscious Bias","next":"Cloud Computing Understanding Core Concepts"},{"path":"LinkedIn’s 2025 Top MBA Programs Learning Path","position":4,"total":10,"prev":"The Smart Way to Grow Your Network with LinkedIn''s Andrew McCaskill","next":"Strategic Negotiation"}]'
 path_count: 3
 tags:
   - course
@@ -28,7 +37,7 @@ tags:
   - topic/security
   - skill/strategic-thinking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Strategic Thinking](https://media.licdn.com/dms/image/v2/D560DAQGJFjBHlbRjaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687911200974?e=2147483647&amp;v=beta&amp;t=UTkulsN-j1uuWiLXWOWH9LU8yvvXRhhy0bciWN-xk_Y)

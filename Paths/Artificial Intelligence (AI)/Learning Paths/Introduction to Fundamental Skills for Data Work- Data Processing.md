@@ -7,7 +7,7 @@ course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -47,7 +47,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Introduction to Fundamental Skills for Data Work: Data Processing
@@ -82,3 +82,7 @@ _Paths that share courses with this one:_
 - [[Develop Your Scala Skills for Data Engineering]] (1 shared courses)
 - [[Advance Your Data Engineering Skills]] (1 shared courses)
 - [[Develop Your Rust Skills for Data Engineering]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

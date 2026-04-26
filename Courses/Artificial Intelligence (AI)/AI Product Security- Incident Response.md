@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGXwBp1METrSQ/learning-public-crop_675_1200/B4DZVuNUz.HYAY-/0/1741310742075?e=2147483647&amp;v=beta&amp;t=p5t0l_r-aE4liV2jO3SEAp54NknzW5zA7dIKob5TpGI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning
-  - Leverage AI as a Cybersecurity Analyst
+  - '[[Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning]]'
+  - '[[Leverage AI as a Cybersecurity Analyst]]'
+prev_courses:
+  - '[[AI Product Security- Secure Architecture, Deployment, and Infrastructure]]'
+  - '[[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]]'
+next_courses:
+  - '[[AI Product Security- Testing, Validation, and Maintenance]]'
+  - '[[XAI and Interpretability in Cybersecurity]]'
+path_nav: '[{"path":"Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning","position":4,"total":5,"prev":"AI Product Security- Secure Architecture, Deployment, and Infrastructure","next":"AI Product Security- Testing, Validation, and Maintenance"},{"path":"Leverage AI as a Cybersecurity Analyst","position":4,"total":7,"prev":"The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview","next":"XAI and Interpretability in Cybersecurity"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/security-incident-response
   - skill/incident-response
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Product Security: Incident Response](https://media.licdn.com/dms/image/v2/D4D0DAQGXwBp1METrSQ/learning-public-crop_675_1200/B4DZVuNUz.HYAY-/0/1741310742075?e=2147483647&amp;v=beta&amp;t=p5t0l_r-aE4liV2jO3SEAp54NknzW5zA7dIKob5TpGI)

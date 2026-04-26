@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH_NwxyHmZEPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697135500744?e=2147483647&amp;v=beta&amp;t=zvdfcU9vhqSn3AfHHTuHk_ZY8cpWjogM8YXdQduDdB0"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Rust Skills for Data Engineering
+  - '[[Develop Your Rust Skills for Data Engineering]]'
+prev_courses:
+  - '[[Rust Essential Training]]'
+next_courses:
+  - '[[Level Up- Rust]]'
+path_nav: '[{"path":"Develop Your Rust Skills for Data Engineering","position":4,"total":6,"prev":"Rust Essential Training","next":"Level Up- Rust"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/data-engineering
   - skill/rust-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Rust for Data Engineering](https://media.licdn.com/dms/image/v2/D560DAQH_NwxyHmZEPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697135500744?e=2147483647&amp;v=beta&amp;t=zvdfcU9vhqSn3AfHHTuHk_ZY8cpWjogM8YXdQduDdB0)

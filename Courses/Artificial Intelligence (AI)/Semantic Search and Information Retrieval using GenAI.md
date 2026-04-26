@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFmH3PA62yg4w/learning-public-crop_675_1200/B4EZbZ_qUFHIAY-/0/1747414066828?e=2147483647&amp;v=beta&amp;t=GJ-M2l-IcZUUMuvTi3Exo9BuNPzZ3HpolEbX_L7TD4c"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Working with Data- Engineering, Integration, and MLOps for AI
+  - '[[Working with Data- Engineering, Integration, and MLOps for AI]]'
+prev_courses:
+  - '[[Knowledge Graph Data Engineering for Generative AI Use Cases]]'
+next_courses:
+  - '[[MLOps and Data Pipeline Orchestration for AI Systems]]'
+path_nav: '[{"path":"Working with Data- Engineering, Integration, and MLOps for AI","position":4,"total":5,"prev":"Knowledge Graph Data Engineering for Generative AI Use Cases","next":"MLOps and Data Pipeline Orchestration for AI Systems"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/semantic-search
   - skill/information-retrieval
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Semantic Search and Information Retrieval using GenAI](https://media.licdn.com/dms/image/v2/D4E0DAQFmH3PA62yg4w/learning-public-crop_675_1200/B4EZbZ_qUFHIAY-/0/1747414066828?e=2147483647&amp;v=beta&amp;t=GJ-M2l-IcZUUMuvTi3Exo9BuNPzZ3HpolEbX_L7TD4c)

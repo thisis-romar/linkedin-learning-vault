@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEL4Aak8rq8Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668578987?e=2147483647&amp;v=beta&amp;t=6Fe1yoRtt-RvyMbaIXofmTMm6ubRbZyrf0SsKMeskk4"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - CISO Leadership- Managing a Cybersecurity Program
+  - '[[CISO Leadership- Managing a Cybersecurity Program]]'
+prev_courses:
+  - '[[CISO Foundations- Influencing the Board and C-Suite]]'
+next_courses:
+  - '[[Building Your Cybersecurity Talent Pipeline]]'
+path_nav: '[{"path":"CISO Leadership- Managing a Cybersecurity Program","position":5,"total":8,"prev":"CISO Foundations- Influencing the Board and C-Suite","next":"Building Your Cybersecurity Talent Pipeline"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/third-party-vendor-management
   - skill/security-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Outsourcing: Vendor Selection and Management](https://media.licdn.com/dms/image/v2/C4E0DAQEL4Aak8rq8Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668578987?e=2147483647&amp;v=beta&amp;t=6Fe1yoRtt-RvyMbaIXofmTMm6ubRbZyrf0SsKMeskk4)

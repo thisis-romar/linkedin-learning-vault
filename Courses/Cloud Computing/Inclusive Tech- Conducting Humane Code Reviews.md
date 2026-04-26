@@ -18,9 +18,18 @@ github: "https://github.com/LinkedInLearning/inclusive-tech-conducting-humane-co
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEXt2Yqz9B8XA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608238138221?e=2147483647&amp;v=beta&amp;t=BTj21OoXOSt-qTEiQU06d_XpOcKhoFR3SkfsN1XE-24"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Succeeding in Your Tech Career- Software Development
-  - Managing and Leading Developers
-  - Improve Your Technical Communication Skills
+  - '[[Succeeding in Your Tech Career- Software Development]]'
+  - '[[Managing and Leading Developers]]'
+  - '[[Improve Your Technical Communication Skills]]'
+prev_courses:
+  - '[[Programming Foundations- Conducting Code Reviews]]'
+  - '[[Agile Software Development- Creating an Agile Culture]]'
+  - '[[Tech Career Skills- Effective Technical Communication]]'
+next_courses:
+  - '[[Tech Career Skills- Communication for Developers]]'
+  - '[[Building Trust]]'
+  - '[[Skills for Inclusive Conversations]]'
+path_nav: '[{"path":"Succeeding in Your Tech Career- Software Development","position":4,"total":6,"prev":"Programming Foundations- Conducting Code Reviews","next":"Tech Career Skills- Communication for Developers"},{"path":"Managing and Leading Developers","position":5,"total":8,"prev":"Agile Software Development- Creating an Agile Culture","next":"Building Trust"},{"path":"Improve Your Technical Communication Skills","position":2,"total":5,"prev":"Tech Career Skills- Effective Technical Communication","next":"Skills for Inclusive Conversations"}]'
 path_count: 3
 tags:
   - course
@@ -31,7 +40,7 @@ tags:
   - skill/code-review
   - skill/tech-career-skills
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Inclusive Tech: Conducting Humane Code Reviews](https://media.licdn.com/dms/image/v2/C4E0DAQEXt2Yqz9B8XA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608238138221?e=2147483647&amp;v=beta&amp;t=BTj21OoXOSt-qTEiQU06d_XpOcKhoFR3SkfsN1XE-24)

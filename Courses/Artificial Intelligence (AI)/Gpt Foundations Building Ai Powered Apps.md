@@ -16,8 +16,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQF8Rldj7AptpA/learning-public-crop_675_1200/B4EZfwRMnOHgAY-/0/1752082730236?e=2147483647&amp;v=beta&amp;t=6pv0Tr99EIJLxxqzeyE-RiTN2Timz4oj1teISKQl-Vw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Hands-On Projects for OpenAI-Powered Apps
-  - Develop Your Skills with Large Language Models
+  - '[[Hands-On Projects for OpenAI-Powered Apps]]'
+  - '[[Develop Your Skills with Large Language Models]]'
+prev_courses:
+  - null
+  - '[[Introduction to Generative AI with GPT]]'
+next_courses:
+  - '[[Getting Hands-On with GPT Models- Tips and Tricks]]'
+  - '[[TensorFlow- Working with NLP]]'
+path_nav: '[{"path":"Hands-On Projects for OpenAI-Powered Apps","position":1,"total":5,"prev":null,"next":"Getting Hands-On with GPT Models- Tips and Tricks"},{"path":"Develop Your Skills with Large Language Models","position":6,"total":9,"prev":"Introduction to Generative AI with GPT","next":"TensorFlow- Working with NLP"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Gpt Foundations Building Ai Powered Apps](https://media.licdn.com/dms/image/v2/D4E0DAQF8Rldj7AptpA/learning-public-crop_675_1200/B4EZfwRMnOHgAY-/0/1752082730236?e=2147483647&amp;v=beta&amp;t=6pv0Tr99EIJLxxqzeyE-RiTN2Timz4oj1teISKQl-Vw)

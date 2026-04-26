@@ -16,14 +16,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFmOUUovGUzwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568071736152?e=2147483647&amp;v=beta&amp;t=BXyzWR3Q9l7UVr4eoM5XPCmLGO_nL6Pz4uMz0hq-2ts"
 linkedin_topic: Data Science
 learning_paths:
-  - Visual Communication for Business Professionals
+  - '[[Visual Communication for Business Professionals]]'
+prev_courses:
+  - '[[Learning Graphic Design- Layouts]]'
+path_nav: '[{"path":"Visual Communication for Business Professionals","position":5,"total":5,"prev":"Learning Graphic Design- Layouts","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/typography
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The 33 Laws of Typography](https://media.licdn.com/dms/image/v2/C4E0DAQFmOUUovGUzwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568071736152?e=2147483647&amp;v=beta&amp;t=BXyzWR3Q9l7UVr4eoM5XPCmLGO_nL6Pz4uMz0hq-2ts)

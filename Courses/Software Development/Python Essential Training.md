@@ -17,12 +17,27 @@ github: "https://github.com/LinkedInLearning/python-ET-4314028"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEruxcXLwzu_A/learning-public-crop_675_1200/B56Z1oT93iKkAY-/0/1775571558434?e=2147483647&amp;v=beta&amp;t=J1obbigq6mj2wpN2b9Fu7Zyt6mkPdO5-NlYw1yByIOU"
 linkedin_topic: Software Development
 learning_paths:
-  - The Top 10 Most Popular Courses among Engineering Professionals
-  - The Top 10 Most Popular Courses among IT Professionals
-  - A Quick Start Guide to Programming in Python
-  - The Top Skills IT Professionals Have Right Now
-  - OpenEDG Python Institute- Programming with Python Professional Certificate
-  - Getting Started with Python
+  - '[[The Top 10 Most Popular Courses among Engineering Professionals]]'
+  - '[[The Top 10 Most Popular Courses among IT Professionals]]'
+  - '[[A Quick Start Guide to Programming in Python]]'
+  - '[[The Top Skills IT Professionals Have Right Now]]'
+  - '[[OpenEDG Python Institute- Programming with Python Professional Certificate]]'
+  - '[[Getting Started with Python]]'
+prev_courses:
+  - '[[Strategic Thinking]]'
+  - '[[Cloud Computing Understanding Core Concepts]]'
+  - '[[Programming Foundations- Beyond the Fundamentals]]'
+  - '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+  - null
+  - null
+next_courses:
+  - '[[JavaScript Essential Training]]'
+  - '[[Agile Software Development]]'
+  - '[[Programming Concepts for Python]]'
+  - '[[AWS Essential Training for Architects]]'
+  - '[[Python Object-Oriented Programming]]'
+  - '[[Learning Python]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among Engineering Professionals","position":5,"total":10,"prev":"Strategic Thinking","next":"JavaScript Essential Training"},{"path":"The Top 10 Most Popular Courses among IT Professionals","position":5,"total":10,"prev":"Cloud Computing Understanding Core Concepts","next":"Agile Software Development"},{"path":"A Quick Start Guide to Programming in Python","position":3,"total":6,"prev":"Programming Foundations- Beyond the Fundamentals","next":"Programming Concepts for Python"},{"path":"The Top Skills IT Professionals Have Right Now","position":7,"total":10,"prev":"Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines","next":"AWS Essential Training for Architects"},{"path":"OpenEDG Python Institute- Programming with Python Professional Certificate","position":1,"total":3,"prev":null,"next":"Python Object-Oriented Programming"},{"path":"Getting Started with Python","position":1,"total":8,"prev":null,"next":"Learning Python"}]'
 path_count: 6
 tags:
   - course
@@ -35,7 +50,7 @@ tags:
   - topic/network-and-system-administration
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Essential Training](https://media.licdn.com/dms/image/v2/D560DAQEruxcXLwzu_A/learning-public-crop_675_1200/B56Z1oT93iKkAY-/0/1775571558434?e=2147483647&amp;v=beta&amp;t=J1obbigq6mj2wpN2b9Fu7Zyt6mkPdO5-NlYw1yByIOU)

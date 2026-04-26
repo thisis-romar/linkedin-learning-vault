@@ -39,7 +39,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Ubuntu Linux Professional Certificate by Canonical
@@ -63,3 +63,7 @@ created: '2026-04-20'
 - [[IT Help Desk]]
 - [[Network and System Administration]]
 - [[Web Development]]
+
+---
+
+Part of [[000 Map of Content]] · [[Cybersecurity]]

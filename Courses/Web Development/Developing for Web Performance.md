@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHIiPicCZzGvw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617217001062?e=2147483647&amp;v=beta&amp;t=hwZbP64jQfNcsQYBTYPfWmwdfQ-x_AzNcAfbWP2sqGQ"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in HTML
-  - Become a JavaScript Developer
+  - '[[Advance Your Skills in HTML]]'
+  - '[[Become a JavaScript Developer]]'
+prev_courses:
+  - '[[HTML- Structured Semantic Data]]'
+  - '[[HTML Essential Training]]'
+next_courses:
+  - null
+  - '[[JSON Essential Training]]'
+path_nav: '[{"path":"Advance Your Skills in HTML","position":11,"total":11,"prev":"HTML- Structured Semantic Data","next":null},{"path":"Become a JavaScript Developer","position":10,"total":13,"prev":"HTML Essential Training","next":"JSON Essential Training"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - topic/software-development
   - skill/web-application-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Developing for Web Performance](https://media.licdn.com/dms/image/v2/C4E0DAQHIiPicCZzGvw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617217001062?e=2147483647&amp;v=beta&amp;t=hwZbP64jQfNcsQYBTYPfWmwdfQ-x_AzNcAfbWP2sqGQ)

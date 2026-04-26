@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE-6T9z9Au1Kg/learning-public-crop_675_1200/B4DZetNEzxH4Ag-/0/1750957575729?e=2147483647&amp;v=beta&amp;t=tTd6MY_7V_HjbXZhb0mZ0ZQYWKX7vFhoaFbH4rDJbUE"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation
+  - '[[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]]'
+prev_courses:
+  - '[[Power BI Data Methods]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation","position":9,"total":9,"prev":"Power BI Data Methods","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/roi-strategies
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Program Evaluation for Data Science](https://media.licdn.com/dms/image/v2/D4D0DAQE-6T9z9Au1Kg/learning-public-crop_675_1200/B4DZetNEzxH4Ag-/0/1750957575729?e=2147483647&amp;v=beta&amp;t=tTd6MY_7V_HjbXZhb0mZ0ZQYWKX7vFhoaFbH4rDJbUE)

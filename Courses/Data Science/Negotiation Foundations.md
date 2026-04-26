@@ -14,14 +14,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFLrBWs9hKDLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658275286215?e=2147483647&amp;v=beta&amp;t=riCbBaf1fyv7TNw8mwuiBxcHLEe7rf9coza689ZOUSI"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Business Analyst
+  - '[[Getting Started as a Business Analyst]]'
+prev_courses:
+  - '[[Interpersonal Communication]]'
+path_nav: '[{"path":"Getting Started as a Business Analyst","position":18,"total":18,"prev":"Interpersonal Communication","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/negotiation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Negotiation Foundations](https://media.licdn.com/dms/image/v2/C560DAQFLrBWs9hKDLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658275286215?e=2147483647&amp;v=beta&amp;t=riCbBaf1fyv7TNw8mwuiBxcHLEe7rf9coza689ZOUSI)

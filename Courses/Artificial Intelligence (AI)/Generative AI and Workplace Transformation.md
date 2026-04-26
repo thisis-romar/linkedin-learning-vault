@@ -16,8 +16,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHvr9oHzs2ycA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694210060904?e=2147483647&amp;v=beta&amp;t=_B1m1PyegaOAZZNNhPO-B-6sYltHkiVnOWCkZeuCFQg"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Technical Literacy and Future Readiness for Senior Executives
-  - Build AI Aptitude as a Senior Manager
+  - '[[Technical Literacy and Future Readiness for Senior Executives]]'
+  - '[[Build AI Aptitude as a Senior Manager]]'
+prev_courses:
+  - '[[Leading with Innovation in the Age of AI]]'
+  - '[[AI Challenges and Opportunities for Leadership]]'
+next_courses:
+  - '[[Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy]]'
+  - '[[AI Literacy for Business Leaders]]'
+path_nav: '[{"path":"Technical Literacy and Future Readiness for Senior Executives","position":3,"total":6,"prev":"Leading with Innovation in the Age of AI","next":"Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy"},{"path":"Build AI Aptitude as a Senior Manager","position":2,"total":6,"prev":"AI Challenges and Opportunities for Leadership","next":"AI Literacy for Business Leaders"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-transformation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI and Workplace Transformation](https://media.licdn.com/dms/image/v2/D560DAQHvr9oHzs2ycA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694210060904?e=2147483647&amp;v=beta&amp;t=_B1m1PyegaOAZZNNhPO-B-6sYltHkiVnOWCkZeuCFQg)

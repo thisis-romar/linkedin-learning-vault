@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE3WsFphPrNDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685033610572?e=2147483647&amp;v=beta&amp;t=fNXSi9QRTsyi1RS-EtPfRQcRjgy57QOfDLBeqAw3O_g"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build AI Aptitude as a Senior Manager
+  - '[[Build AI Aptitude as a Senior Manager]]'
+prev_courses:
+  - '[[Integrating Generative AI into Business Strategy]]'
+next_courses:
+  - '[[Responsible AI to the Rescue]]'
+path_nav: '[{"path":"Build AI Aptitude as a Senior Manager","position":5,"total":6,"prev":"Integrating Generative AI into Business Strategy","next":"Responsible AI to the Rescue"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Artificial Intelligence Case Studies in Different Business Industries](https://media.licdn.com/dms/image/v2/D560DAQE3WsFphPrNDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685033610572?e=2147483647&amp;v=beta&amp;t=fNXSi9QRTsyi1RS-EtPfRQcRjgy57QOfDLBeqAw3O_g)

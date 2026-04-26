@@ -20,7 +20,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF1xGXvb6Sp1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694203739228?e=2147483647&amp;v=beta&amp;t=RbCfjWanqdcdVJ5pNz2hcIZMFXalOcC7lfdyNiukN1c"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Become an AI-Powered Recruiter
+  - '[[Become an AI-Powered Recruiter]]'
+prev_courses:
+  - '[[What Is Generative AI-]]'
+next_courses:
+  - '[[Generative AI, Recruiting, and Talent Acquisition]]'
+path_nav: '[{"path":"Become an AI-Powered Recruiter","position":2,"total":5,"prev":"What Is Generative AI-","next":"Generative AI, Recruiting, and Talent Acquisition"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/generative-ai-for-hr
   - skill/ai-for-hr
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI in HR](https://media.licdn.com/dms/image/v2/D560DAQF1xGXvb6Sp1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694203739228?e=2147483647&amp;v=beta&amp;t=RbCfjWanqdcdVJ5pNz2hcIZMFXalOcC7lfdyNiukN1c)

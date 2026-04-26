@@ -6,7 +6,7 @@ course_count: 23
 tags:
   - skill
   - skill/data-visualization
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Data Visualization

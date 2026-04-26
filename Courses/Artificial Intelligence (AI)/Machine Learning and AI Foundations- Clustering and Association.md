@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQESH_ejD_5LfQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244928378?e=2147483647&amp;v=beta&amp;t=L9-ZdmsgChOHq_pRQ2lBpHkykKmBXpe-gOkNi4wffoc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your SPSS Skills
+  - '[[Develop Your SPSS Skills]]'
+prev_courses:
+  - '[[Machine Learning and AI- Advanced Decision Trees with SPSS]]'
+path_nav: '[{"path":"Develop Your SPSS Skills","position":6,"total":6,"prev":"Machine Learning and AI- Advanced Decision Trees with SPSS","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning and AI Foundations: Clustering and Association](https://media.licdn.com/dms/image/v2/D4D0DAQESH_ejD_5LfQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244928378?e=2147483647&amp;v=beta&amp;t=L9-ZdmsgChOHq_pRQ2lBpHkykKmBXpe-gOkNi4wffoc)

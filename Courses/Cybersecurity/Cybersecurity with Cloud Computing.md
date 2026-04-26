@@ -10,15 +10,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQEWS3tcPuXpfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1595272110364?e=2147483647&amp;v=beta&amp;t=OaoOZUfwdBoralWJA8V_mOuGb42SHSehSnmw1qpy6Ak"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an IT Security Specialist
-  - Cybersecurity Fundamentals
+  - '[[Become an IT Security Specialist]]'
+  - '[[Cybersecurity Fundamentals]]'
+prev_courses:
+  - '[[TLS for Beginners- Securing Network Communications]]'
+  - '[[TLS for Beginners- Securing Network Communications]]'
+next_courses:
+  - '[[Cybersecurity Foundations- Computer Forensics]]'
+  - '[[Cybersecurity Foundations- Computer Forensics]]'
+path_nav: '[{"path":"Become an IT Security Specialist","position":6,"total":12,"prev":"TLS for Beginners- Securing Network Communications","next":"Cybersecurity Foundations- Computer Forensics"},{"path":"Cybersecurity Fundamentals","position":11,"total":12,"prev":"TLS for Beginners- Securing Network Communications","next":"Cybersecurity Foundations- Computer Forensics"}]'
 path_count: 2
 tags:
   - course
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity with Cloud Computing](https://media.licdn.com/dms/image/v2/C4D0DAQEWS3tcPuXpfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1595272110364?e=2147483647&amp;v=beta&amp;t=OaoOZUfwdBoralWJA8V_mOuGb42SHSehSnmw1qpy6Ak)

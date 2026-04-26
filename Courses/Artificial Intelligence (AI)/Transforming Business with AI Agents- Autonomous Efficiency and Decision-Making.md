@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGN52zdpc6G5A/learning-public-crop_675_1200/B4DZVNz36CG8AY-/0/1740767199289?e=2147483647&amp;v=beta&amp;t=pRKRi9672WJBlSW1HZjQdg8Rt5RQnQqiQVnwHtgpW4g"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Agentic AI Systems for Tech Leaders
+  - '[[Building Agentic AI Systems for Tech Leaders]]'
+prev_courses:
+  - '[[Agentic AI Fundamentals- Architectures, Frameworks, and Applications]]'
+next_courses:
+  - '[[Leading Through AI Agent Disruption]]'
+path_nav: '[{"path":"Building Agentic AI Systems for Tech Leaders","position":3,"total":7,"prev":"Agentic AI Fundamentals- Architectures, Frameworks, and Applications","next":"Leading Through AI Agent Disruption"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Transforming Business with AI Agents: Autonomous Efficiency and Decision-Making](https://media.licdn.com/dms/image/v2/D4D0DAQGN52zdpc6G5A/learning-public-crop_675_1200/B4DZVNz36CG8AY-/0/1740767199289?e=2147483647&amp;v=beta&amp;t=pRKRi9672WJBlSW1HZjQdg8Rt5RQnQqiQVnwHtgpW4g)

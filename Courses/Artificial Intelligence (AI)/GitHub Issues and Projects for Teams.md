@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/github-issues-and-projects-for-team
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEElWFICQNCyQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666992103588?e=2147483647&amp;v=beta&amp;t=ePSrIK7-WfM0DlcgSucs0tLBH_MM58ORwNy6XV0Z4G4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Prepare for the GitHub Foundations Certification
+  - '[[Prepare for the GitHub Foundations Certification]]'
+prev_courses:
+  - '[[Learning Git and GitHub]]'
+next_courses:
+  - '[[Practical GitHub Copilot]]'
+path_nav: '[{"path":"Prepare for the GitHub Foundations Certification","position":3,"total":7,"prev":"Learning Git and GitHub","next":"Practical GitHub Copilot"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/github
   - skill/issue-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![GitHub Issues and Projects for Teams](https://media.licdn.com/dms/image/v2/D560DAQEElWFICQNCyQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666992103588?e=2147483647&amp;v=beta&amp;t=ePSrIK7-WfM0DlcgSucs0tLBH_MM58ORwNy6XV0Z4G4)

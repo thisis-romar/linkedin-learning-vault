@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH7193iBIAhRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902250796?e=2147483647&amp;v=beta&amp;t=wYPtpWYN0JZsAvinlsPMrB-UXjQyO_mi4Lxme3YxQdU"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
+  - '[[Python Hands-On Practice]]'
+prev_courses:
+  - '[[Python Practice- Collections]]'
+next_courses:
+  - '[[Building the Classic Snake Game with Python]]'
+path_nav: '[{"path":"Python Hands-On Practice","position":5,"total":14,"prev":"Python Practice- Collections","next":"Building the Classic Snake Game with Python"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/object-oriented-programming-oop
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Practice: Object-Oriented Programming](https://media.licdn.com/dms/image/v2/D560DAQH7193iBIAhRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902250796?e=2147483647&amp;v=beta&amp;t=wYPtpWYN0JZsAvinlsPMrB-UXjQyO_mi4Lxme3YxQdU)

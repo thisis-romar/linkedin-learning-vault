@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHTXnj2VZDqug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616091714882?e=2147483647&amp;v=beta&amp;t=UE_fyy-WEBPt_Z60CkP_qtmkjH_zgAgVQWefN2tBxyE"
 linkedin_topic: Software Development
 learning_paths:
-  - Exploring a Career in Interaction Design
+  - '[[Exploring a Career in Interaction Design]]'
+prev_courses:
+  - '[[Interaction Design for Ecommerce]]'
+next_courses:
+  - '[[Interaction Design- Interface]]'
+path_nav: '[{"path":"Exploring a Career in Interaction Design","position":5,"total":9,"prev":"Interaction Design for Ecommerce","next":"Interaction Design- Interface"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Interaction Design: Dashboards and Visualization](https://media.licdn.com/dms/image/v2/C560DAQHTXnj2VZDqug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616091714882?e=2147483647&amp;v=beta&amp;t=UE_fyy-WEBPt_Z60CkP_qtmkjH_zgAgVQWefN2tBxyE)

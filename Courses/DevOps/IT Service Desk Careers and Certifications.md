@@ -10,7 +10,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHGLPXP2useuQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1673026768427?e=2147483647&amp;v=beta&amp;t=uRlouRkIWJsU0TCZLkOhykCKBu-DoZN-FCo2y8pJ2ww"
 linkedin_topic: DevOps
 learning_paths:
-  - Explore a Career in IT Support
+  - '[[Explore a Career in IT Support]]'
+prev_courses:
+  - '[[IT Support for a Hybrid Workforce]]'
+path_nav: '[{"path":"Explore a Career in IT Support","position":11,"total":11,"prev":"IT Support for a Hybrid Workforce","next":null}]'
 path_count: 1
 tags:
   - course
@@ -18,7 +21,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![IT Service Desk Careers and Certifications](https://media.licdn.com/dms/image/v2/C560DAQHGLPXP2useuQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1673026768427?e=2147483647&amp;v=beta&amp;t=uRlouRkIWJsU0TCZLkOhykCKBu-DoZN-FCo2y8pJ2ww)

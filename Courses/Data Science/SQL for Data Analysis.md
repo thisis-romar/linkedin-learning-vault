@@ -18,10 +18,21 @@ github: "https://github.com/LinkedInLearning/sql-for-data-analysis-3271025/codes
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHW625ALPsQSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689272470053?e=2147483647&amp;v=beta&amp;t=CZ2IqWXVSN8-jp_yCFfWY-BjIDzkXWYWmWqYreq-RC4"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career in SQL Development
-  - Moving from Data Scientist to Data Analyst
-  - Advance Your Business Analytics Skills
-  - Advance Your Skills in SQL
+  - '[[Explore a Career in SQL Development]]'
+  - '[[Moving from Data Scientist to Data Analyst]]'
+  - '[[Advance Your Business Analytics Skills]]'
+  - '[[Advance Your Skills in SQL]]'
+prev_courses:
+  - '[[SQL Server Intelligence- Cracking the Code of Enterprise Data]]'
+  - null
+  - '[[Power BI Data Modeling with DAX]]'
+  - null
+next_courses:
+  - '[[SQL Hands-On Practice- Solve Business Problems]]'
+  - '[[R for Data Science- Analysis and Visualization]]'
+  - '[[SQL Hands-On Practice- Solve Business Problems]]'
+  - '[[SQL Hands-On Practice- Solve Business Problems]]'
+path_nav: '[{"path":"Explore a Career in SQL Development","position":5,"total":8,"prev":"SQL Server Intelligence- Cracking the Code of Enterprise Data","next":"SQL Hands-On Practice- Solve Business Problems"},{"path":"Moving from Data Scientist to Data Analyst","position":1,"total":10,"prev":null,"next":"R for Data Science- Analysis and Visualization"},{"path":"Advance Your Business Analytics Skills","position":6,"total":11,"prev":"Power BI Data Modeling with DAX","next":"SQL Hands-On Practice- Solve Business Problems"},{"path":"Advance Your Skills in SQL","position":1,"total":5,"prev":null,"next":"SQL Hands-On Practice- Solve Business Problems"}]'
 path_count: 4
 tags:
   - course
@@ -31,7 +42,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL for Data Analysis](https://media.licdn.com/dms/image/v2/D560DAQHW625ALPsQSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689272470053?e=2147483647&amp;v=beta&amp;t=CZ2IqWXVSN8-jp_yCFfWY-BjIDzkXWYWmWqYreq-RC4)

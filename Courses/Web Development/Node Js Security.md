@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGe81EA6OuC2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735859654493?e=2147483647&amp;v=beta&amp;t=BmDfA1LgQbro68KxrpyJdNXKzQFG7M5s9zeFzEcOzG0"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance your Node.js Skills
-  - Explore App Development with the MERN Stack
+  - '[[Advance your Node.js Skills]]'
+  - '[[Explore App Development with the MERN Stack]]'
+prev_courses:
+  - null
+  - '[[React- Securing Applications]]'
+next_courses:
+  - '[[Node.js- Design Patterns]]'
+  - '[[Node.js- Securing RESTful APIs]]'
+path_nav: '[{"path":"Advance your Node.js Skills","position":1,"total":8,"prev":null,"next":"Node.js- Design Patterns"},{"path":"Explore App Development with the MERN Stack","position":10,"total":13,"prev":"React- Securing Applications","next":"Node.js- Securing RESTful APIs"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/node-js
   - skill/back-end-web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Node Js Security](https://media.licdn.com/dms/image/v2/D4D0DAQGe81EA6OuC2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735859654493?e=2147483647&amp;v=beta&amp;t=BmDfA1LgQbro68KxrpyJdNXKzQFG7M5s9zeFzEcOzG0)

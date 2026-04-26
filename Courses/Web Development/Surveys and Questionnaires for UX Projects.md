@@ -14,14 +14,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C510DAQHZ7DEoctPdtA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576170702529?e=2147483647&amp;v=beta&amp;t=NFkmerWieb4SZcaseuSuYZkFahXRiMVGrzdHv6i9Jnw"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your UX Design Skills
+  - '[[Improve Your UX Design Skills]]'
+prev_courses:
+  - '[[Empathy in UX Design]]'
+path_nav: '[{"path":"Improve Your UX Design Skills","position":7,"total":7,"prev":"Empathy in UX Design","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/user-experience-ux
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Surveys and Questionnaires for UX Projects](https://media.licdn.com/dms/image/v2/C510DAQHZ7DEoctPdtA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576170702529?e=2147483647&amp;v=beta&amp;t=NFkmerWieb4SZcaseuSuYZkFahXRiMVGrzdHv6i9Jnw)

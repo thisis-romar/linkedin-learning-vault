@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGxAtBe6O-xHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635955168190?e=2147483647&amp;v=beta&amp;t=LCUgpm_teuJT951XyrjMsCVLY10iHJ7yBsqwEA0khA4"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a RESTful API Developer
+  - '[[Become a RESTful API Developer]]'
+prev_courses:
+  - '[[HTTP Essential Training]]'
+next_courses:
+  - '[[API Testing and Validation]]'
+path_nav: '[{"path":"Become a RESTful API Developer","position":3,"total":5,"prev":"HTTP Essential Training","next":"API Testing and Validation"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Designing RESTful APIs](https://media.licdn.com/dms/image/v2/C4E0DAQGxAtBe6O-xHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635955168190?e=2147483647&amp;v=beta&amp;t=LCUgpm_teuJT951XyrjMsCVLY10iHJ7yBsqwEA0khA4)

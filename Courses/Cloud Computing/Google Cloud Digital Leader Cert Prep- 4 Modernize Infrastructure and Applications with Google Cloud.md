@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHLwR3BjjXqWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711389580529?e=2147483647&amp;v=beta&amp;t=IYySmd42QkFB2-ptpyaB8FXKypT-Hh-j2t6EbF_Ppj8"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Prepare for the Google Cloud Digital Leader Certification
+  - '[[Prepare for the Google Cloud Digital Leader Certification]]'
+prev_courses:
+  - '[[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]]'
+next_courses:
+  - '[[Google Cloud Digital Leader Cert Prep- 5 Trust and Security with Google Cloud]]'
+path_nav: '[{"path":"Prepare for the Google Cloud Digital Leader Certification","position":4,"total":6,"prev":"Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence","next":"Google Cloud Digital Leader Cert Prep- 5 Trust and Security with Google Cloud"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/it-infrastructure-management
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Google Cloud Digital Leader Cert Prep: 4 Modernize Infrastructure and Applications with Google Cloud](https://media.licdn.com/dms/image/v2/D4E0DAQHLwR3BjjXqWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711389580529?e=2147483647&amp;v=beta&amp;t=IYySmd42QkFB2-ptpyaB8FXKypT-Hh-j2t6EbF_Ppj8)

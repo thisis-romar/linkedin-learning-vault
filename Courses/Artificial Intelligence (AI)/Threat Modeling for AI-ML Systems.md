@@ -19,7 +19,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFuAEZJ16cTRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713811065983?e=2147483647&amp;v=beta&amp;t=hVIcNFGfvmPRSKMjo-x-S1SzuJLHW1NLnubttLM11vQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your AI Skills as a Cybersecurity Professional
+  - '[[Develop Your AI Skills as a Cybersecurity Professional]]'
+prev_courses:
+  - '[[Leveraging AI for Security Testing]]'
+path_nav: '[{"path":"Develop Your AI Skills as a Cybersecurity Professional","position":8,"total":8,"prev":"Leveraging AI for Security Testing","next":null}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Threat Modeling for AI/ML Systems](https://media.licdn.com/dms/image/v2/D560DAQFuAEZJ16cTRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713811065983?e=2147483647&amp;v=beta&amp;t=hVIcNFGfvmPRSKMjo-x-S1SzuJLHW1NLnubttLM11vQ)

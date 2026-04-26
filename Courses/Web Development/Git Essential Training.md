@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/git-essential-training-5988161/code
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFtri24YywCRA/learning-public-crop_675_1200/B4DZaSCsxDGwAc-/0/1746206904098?e=2147483647&amp;v=beta&amp;t=kWaRJNyIgQ-qsLPNYMvXiqqQgEhud2WqEhf2m-L3f5M"
 linkedin_topic: Web Development
 learning_paths:
-  - The Top 10 Most Popular Courses among Engineering Professionals
-  - Become a Full-Stack Web Developer
+  - '[[The Top 10 Most Popular Courses among Engineering Professionals]]'
+  - '[[Become a Full-Stack Web Developer]]'
+prev_courses:
+  - '[[Learning Kubernetes]]'
+  - '[[Learning ECMAScript 6+ (ES6+)]]'
+next_courses:
+  - '[[SQL Essential Training]]'
+  - '[[React Essential Training]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among Engineering Professionals","position":8,"total":10,"prev":"Learning Kubernetes","next":"SQL Essential Training"},{"path":"Become a Full-Stack Web Developer","position":6,"total":12,"prev":"Learning ECMAScript 6+ (ES6+)","next":"React Essential Training"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/git
   - skill/version-control
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Git Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQFtri24YywCRA/learning-public-crop_675_1200/B4DZaSCsxDGwAc-/0/1746206904098?e=2147483647&amp;v=beta&amp;t=kWaRJNyIgQ-qsLPNYMvXiqqQgEhud2WqEhf2m-L3f5M)

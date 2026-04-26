@@ -21,9 +21,18 @@ github: "https://github.com/LinkedInLearning/generative-AI-working-with-large-la
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQG2yukDqW63ng/learning-public-crop_675_1200/B4DZWV8al1HYAY-/0/1741977398303?e=2147483647&amp;v=beta&amp;t=Xex0OtLCWwCSjtwZ0oQftd1kfJBM6b7gf-U-nhwE2RM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Generative AI Skills for Developers
-  - Develop Your Skills with Large Language Models
-  - Advance Your Skills in Natural Language Processing
+  - '[[Building Generative AI Skills for Developers]]'
+  - '[[Develop Your Skills with Large Language Models]]'
+  - '[[Advance Your Skills in Natural Language Processing]]'
+prev_courses:
+  - '[[Introduction to Large Language Models]]'
+  - '[[Introduction To Prompt Engineering For Generative Ai]]'
+  - '[[AI Workshop- Build a Neural Network with PyTorch Lightning]]'
+next_courses:
+  - '[[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]]'
+  - '[[Introduction to Generative AI with GPT]]'
+  - null
+path_nav: '[{"path":"Building Generative AI Skills for Developers","position":3,"total":7,"prev":"Introduction to Large Language Models","next":"LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)"},{"path":"Develop Your Skills with Large Language Models","position":4,"total":9,"prev":"Introduction To Prompt Engineering For Generative Ai","next":"Introduction to Generative AI with GPT"},{"path":"Advance Your Skills in Natural Language Processing","position":6,"total":6,"prev":"AI Workshop- Build a Neural Network with PyTorch Lightning","next":null}]'
 path_count: 3
 tags:
   - course
@@ -35,7 +44,7 @@ tags:
   - skill/natural-language-processing-nlp
   - skill/transformer-models
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI: Working with Large Language Models](https://media.licdn.com/dms/image/v2/D4D0DAQG2yukDqW63ng/learning-public-crop_675_1200/B4DZWV8al1HYAY-/0/1741977398303?e=2147483647&amp;v=beta&amp;t=Xex0OtLCWwCSjtwZ0oQftd1kfJBM6b7gf-U-nhwE2RM)

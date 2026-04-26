@@ -14,14 +14,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGVXRo65orm4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580243627728?e=2147483647&amp;v=beta&amp;t=6w-Tg7aWo08Y7ABXGcGD2QqPgbnVvbBxZ72lMfs-5mE"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Prepare for the Linux Professional Institute LPIC-1 (101-500 and 102-500) Exams
+  - '[[Prepare for the Linux Professional Institute LPIC-1 (101-500 and 102-500) Exams]]'
+next_courses:
+  - '[[LPIC-1 Exam 102 (Version 5.0) Cert Prep]]'
+path_nav: '[{"path":"Prepare for the Linux Professional Institute LPIC-1 (101-500 and 102-500) Exams","position":1,"total":2,"prev":null,"next":"LPIC-1 Exam 102 (Version 5.0) Cert Prep"}]'
 path_count: 1
 tags:
   - course
   - topic/network-and-system-administration
   - skill/linux-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Lpic 1 Exam 101 Version 5 0 Cert Prep](https://media.licdn.com/dms/image/v2/C4E0DAQGVXRo65orm4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580243627728?e=2147483647&amp;v=beta&amp;t=6w-Tg7aWo08Y7ABXGcGD2QqPgbnVvbBxZ72lMfs-5mE)

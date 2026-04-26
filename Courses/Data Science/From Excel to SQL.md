@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHOp8dIbBOOQw/learning-public-crop_675_1200/B56ZhCIkwsHUBg-/0/1753456201030?e=2147483647&amp;v=beta&amp;t=PSNhQ6Ydw-SLk9Ur6aE1qFVyEjmxXqTs1Orx9UKyoGs"
 linkedin_topic: Data Science
 learning_paths:
-  - SQL for Data Professionals in Finance
-  - Master Advanced Excel Data & Analytics Skills
+  - '[[SQL for Data Professionals in Finance]]'
+  - '[[Master Advanced Excel Data & Analytics Skills]]'
+prev_courses:
+  - '[[SQL for Finance Professionals]]'
+  - '[[Using Python with Excel]]'
+next_courses:
+  - '[[SQL for Finance- Income Statement Project]]'
+  - '[[Machine Learning with Logistic Regression in Excel, R, and Power BI]]'
+path_nav: '[{"path":"SQL for Data Professionals in Finance","position":3,"total":4,"prev":"SQL for Finance Professionals","next":"SQL for Finance- Income Statement Project"},{"path":"Master Advanced Excel Data & Analytics Skills","position":5,"total":7,"prev":"Using Python with Excel","next":"Machine Learning with Logistic Regression in Excel, R, and Power BI"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/microsoft-excel
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![From Excel to SQL](https://media.licdn.com/dms/image/v2/D560DAQHOp8dIbBOOQw/learning-public-crop_675_1200/B56ZhCIkwsHUBg-/0/1753456201030?e=2147483647&amp;v=beta&amp;t=PSNhQ6Ydw-SLk9Ur6aE1qFVyEjmxXqTs1Orx9UKyoGs)

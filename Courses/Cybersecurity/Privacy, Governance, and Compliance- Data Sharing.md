@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGBtJkdep0rMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678488324257?e=2147483647&amp;v=beta&amp;t=nc5LaivGoPlvflURcyattYswYMueqTdFzdANrOAtGL4"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Build a Privacy Program
+  - '[[Build a Privacy Program]]'
+prev_courses:
+  - '[[Privacy, Governance, and Compliance- Data Classification and Inventory]]'
+path_nav: '[{"path":"Build a Privacy Program","position":5,"total":5,"prev":"Privacy, Governance, and Compliance- Data Classification and Inventory","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/data-privacy
   - skill/privacy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Privacy, Governance, and Compliance: Data Sharing](https://media.licdn.com/dms/image/v2/C4E0DAQGBtJkdep0rMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678488324257?e=2147483647&amp;v=beta&amp;t=nc5LaivGoPlvflURcyattYswYMueqTdFzdANrOAtGL4)

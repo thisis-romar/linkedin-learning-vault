@@ -14,7 +14,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQE9PNZRpDp7Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571676617507?e=2147483647&amp;v=beta&amp;t=yHfj1a9jwsD5C52A_XL6IosXcsOVpb2Gzj_StH2Suaw"
 linkedin_topic: DevOps
 learning_paths:
-  - Improve Your ITIL® Skills
+  - '[[Improve Your ITIL® Skills]]'
+next_courses:
+  - '[[Putting ITIL® into Practice- Problem Management Techniques]]'
+path_nav: '[{"path":"Improve Your ITIL® Skills","position":1,"total":5,"prev":null,"next":"Putting ITIL® into Practice- Problem Management Techniques"}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Putting Itil Into Practice Applying Itil 4 Foundation Concepts](https://media.licdn.com/dms/image/v2/C4E0DAQE9PNZRpDp7Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571676617507?e=2147483647&amp;v=beta&amp;t=yHfj1a9jwsD5C52A_XL6IosXcsOVpb2Gzj_StH2Suaw)

@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEpDMQdfqEIWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677531910541?e=2147483647&amp;v=beta&amp;t=D4_99Kv1L_lx_mfc_eyHxQUV9aX7OzRaZrFcrjLSxQ4"
 linkedin_topic: Data Science
 learning_paths:
-  - Building ChatGPT Skills for Marketing
+  - '[[Building ChatGPT Skills for Marketing]]'
+prev_courses:
+  - '[[Nano Tips For Marketing Using AI Tools with Sam Dey]]'
+path_nav: '[{"path":"Building ChatGPT Skills for Marketing","position":6,"total":6,"prev":"Nano Tips For Marketing Using AI Tools with Sam Dey","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/marketing-strategy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna Yung](https://media.licdn.com/dms/image/v2/C4E0DAQEpDMQdfqEIWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677531910541?e=2147483647&amp;v=beta&amp;t=D4_99Kv1L_lx_mfc_eyHxQUV9aX7OzRaZrFcrjLSxQ4)

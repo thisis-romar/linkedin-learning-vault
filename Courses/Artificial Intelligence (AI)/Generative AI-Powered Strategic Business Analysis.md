@@ -20,7 +20,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEWv1fm0QFeWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737506474686?e=2147483647&amp;v=beta&amp;t=yGeecvsfmYjg40xquaZs2rBU21F2f7bJg6N4iDRxyS4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI Essentials for Business Analysis
+  - '[[AI Essentials for Business Analysis]]'
+prev_courses:
+  - '[[Learning ChatGPT for Business Analysis]]'
+path_nav: '[{"path":"AI Essentials for Business Analysis","position":5,"total":5,"prev":"Learning ChatGPT for Business Analysis","next":null}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +34,7 @@ tags:
   - skill/business-strategy
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI-Powered Strategic Business Analysis](https://media.licdn.com/dms/image/v2/D4D0DAQEWv1fm0QFeWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737506474686?e=2147483647&amp;v=beta&amp;t=yGeecvsfmYjg40xquaZs2rBU21F2f7bJg6N4iDRxyS4)

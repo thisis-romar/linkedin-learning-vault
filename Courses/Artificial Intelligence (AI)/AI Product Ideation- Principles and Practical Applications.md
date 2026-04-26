@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGbNQBqdOr9BQ/learning-public-crop_675_1200/B4DZYXN4taGwAY-/0/1744146238683?e=2147483647&amp;v=beta&amp;t=_fu2LqaV4Au9ucbTg08y4x8zMjTvRWVKCjOg-Op_2Zk"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Welcome To The Building Ai Products Prototyping Essentials Professional Certificate]]'
+next_courses:
+  - '[[Responsible AI Framework for Your Enterprise AI Product]]'
+path_nav: '[{"path":"Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning","position":2,"total":6,"prev":"Welcome To The Building Ai Products Prototyping Essentials Professional Certificate","next":"Responsible AI Framework for Your Enterprise AI Product"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/product-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Product Ideation: Principles and Practical Applications](https://media.licdn.com/dms/image/v2/D4D0DAQGbNQBqdOr9BQ/learning-public-crop_675_1200/B4DZYXN4taGwAY-/0/1744146238683?e=2147483647&amp;v=beta&amp;t=_fu2LqaV4Au9ucbTg08y4x8zMjTvRWVKCjOg-Op_2Zk)

@@ -7,7 +7,7 @@ course_count: 11
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops
@@ -63,7 +63,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Develop Your Skills as a Software Project Manager
@@ -102,3 +102,7 @@ _Paths that share courses with this one:_
 - [[Atlassian Agile Project Management Professional Certificate]] (2 shared courses)
 - [[Master Digital Transformation]] (1 shared courses)
 - [[Applying Lean, DevOps, and Agile to Your IT Organization]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

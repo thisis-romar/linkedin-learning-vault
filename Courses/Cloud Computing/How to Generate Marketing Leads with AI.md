@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHQN6Z_24pDRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700092883793?e=2147483647&amp;v=beta&amp;t=TCnqNOWTidadVL97KNfxMXT9wwVIYUbAhQaUTy-oYGI"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Generative AI for Sales with Microsoft 365 Copilot Professional Certificate
+  - '[[Generative AI for Sales with Microsoft 365 Copilot Professional Certificate]]'
+prev_courses:
+  - '[[Sales Strategy Using Ai And Automation To Sell More]]'
+next_courses:
+  - '[[Learning Microsoft 365 Copilot for Work (2024)]]'
+path_nav: '[{"path":"Generative AI for Sales with Microsoft 365 Copilot Professional Certificate","position":2,"total":6,"prev":"Sales Strategy Using Ai And Automation To Sell More","next":"Learning Microsoft 365 Copilot for Work (2024)"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/lead-generation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![How to Generate Marketing Leads with AI](https://media.licdn.com/dms/image/v2/D4E0DAQHQN6Z_24pDRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700092883793?e=2147483647&amp;v=beta&amp;t=TCnqNOWTidadVL97KNfxMXT9wwVIYUbAhQaUTy-oYGI)

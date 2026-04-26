@@ -6,7 +6,7 @@ linkedin_topic: Artificial Intelligence (AI)
 tags:
   - moc
   - topic/artificial-intelligence
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Artificial Intelligence (AI)
@@ -119,3 +119,7 @@ created: 2026-04-20
 - [[AI Literacy for Business Leaders]] — 4 paths
 - [[Machine Learning with Python- Foundations]] — 4 paths
 - [[Generative AI for Business Leaders]] — 3 paths
+
+---
+
+Part of [[000 Map of Content]]

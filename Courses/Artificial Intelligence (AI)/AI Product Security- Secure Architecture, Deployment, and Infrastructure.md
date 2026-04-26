@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGZcCyudKC9PQ/learning-public-crop_675_1200/B4EZWmDkGVHUAY-/0/1742247707786?e=2147483647&amp;v=beta&amp;t=bROP_xRXIHMFtHIbRkUN57HvJJROxUQ1rKjbmps5o4A"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[AI Product Security- Building Strong Data Governance and Protection]]'
+next_courses:
+  - '[[AI Product Security- Incident Response]]'
+path_nav: '[{"path":"Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning","position":3,"total":5,"prev":"AI Product Security- Building Strong Data Governance and Protection","next":"AI Product Security- Incident Response"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/ai-security
   - skill/security-architecture-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Product Security: Secure Architecture, Deployment, and Infrastructure](https://media.licdn.com/dms/image/v2/D4E0DAQGZcCyudKC9PQ/learning-public-crop_675_1200/B4EZWmDkGVHUAY-/0/1742247707786?e=2147483647&amp;v=beta&amp;t=bROP_xRXIHMFtHIbRkUN57HvJJROxUQ1rKjbmps5o4A)

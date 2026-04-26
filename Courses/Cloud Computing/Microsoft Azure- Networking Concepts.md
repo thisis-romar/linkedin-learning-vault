@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQELE3potnsyLw/learning-public-crop_675_1200/B4DZUG8kfyHAAY-/0/1739578297037?e=2147483647&amp;v=beta&amp;t=y-8pL_5JxCsyBK2ldz6GOnUL3h-7m1qXrQD8ktYPNcQ"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals
+  - '[[Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals]]'
+prev_courses:
+  - '[[Deploying Microsoft Entra ID]]'
+next_courses:
+  - '[[Manage Storage in Azure]]'
+path_nav: '[{"path":"Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals","position":6,"total":8,"prev":"Deploying Microsoft Entra ID","next":"Manage Storage in Azure"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft Azure: Networking Concepts](https://media.licdn.com/dms/image/v2/D4D0DAQELE3potnsyLw/learning-public-crop_675_1200/B4DZUG8kfyHAAY-/0/1739578297037?e=2147483647&amp;v=beta&amp;t=y-8pL_5JxCsyBK2ldz6GOnUL3h-7m1qXrQD8ktYPNcQ)

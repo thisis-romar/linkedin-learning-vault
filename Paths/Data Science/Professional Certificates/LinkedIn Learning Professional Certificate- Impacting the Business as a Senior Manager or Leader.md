@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/linkedin-learning-professional-cert
 course_count: 11
 linkedin_topics:
   - Data Science
-louvain_cluster: 3
+louvain_cluster: 8
 tags:
   - professional-certificate
   - topic/data-science
@@ -61,7 +61,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # LinkedIn Learning Professional Certificate: Impacting the Business as a Senior Manager or Leader
@@ -98,3 +98,7 @@ _Paths that share courses with this one:_
 - [[Master Digital Transformation]] (1 shared courses)
 - [[Introduction to Fundamental Skills for Data Work- Data Strategy and Planning]] (1 shared courses)
 - [[Technical Literacy and Future Readiness for Senior Managers and Senior Leaders]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

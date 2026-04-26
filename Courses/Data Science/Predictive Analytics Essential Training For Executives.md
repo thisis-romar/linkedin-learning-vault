@@ -16,10 +16,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHRpJHDY-40Ig/learning-public-crop_675_1200/B4EZThn2aJHUAg-/0/1738952108007?e=2147483647&amp;v=beta&amp;t=sIJASebNDg-n40SLgnk4roVFNRjCECNyC2A8sy3LnL0"
 linkedin_topic: Data Science
 learning_paths:
-  - Masterpath in Analytics Leadership for Executives
-  - Advance Your Skills in Predictive Analytics
-  - Mastering Executive-Level Data Analytics
-  - Advance Your Business Analytics Skills
+  - '[[Masterpath in Analytics Leadership for Executives]]'
+  - '[[Advance Your Skills in Predictive Analytics]]'
+  - '[[Mastering Executive-Level Data Analytics]]'
+  - '[[Advance Your Business Analytics Skills]]'
+prev_courses:
+  - null
+  - null
+  - '[[Data Science Foundations- Fundamentals]]'
+  - '[[Data Analytics for Business Professionals]]'
+next_courses:
+  - '[[Executive Guide to Predictive Modeling Strategy at Scale]]'
+  - '[[Predictive Analytics Essential Training- Data Mining]]'
+  - '[[Everyday AI Business Tools]]'
+  - '[[Predictive Analytics Essential Training- Estimating and Ensuring ROI]]'
+path_nav: '[{"path":"Masterpath in Analytics Leadership for Executives","position":1,"total":8,"prev":null,"next":"Executive Guide to Predictive Modeling Strategy at Scale"},{"path":"Advance Your Skills in Predictive Analytics","position":1,"total":8,"prev":null,"next":"Predictive Analytics Essential Training- Data Mining"},{"path":"Mastering Executive-Level Data Analytics","position":4,"total":7,"prev":"Data Science Foundations- Fundamentals","next":"Everyday AI Business Tools"},{"path":"Advance Your Business Analytics Skills","position":2,"total":11,"prev":"Data Analytics for Business Professionals","next":"Predictive Analytics Essential Training- Estimating and Ensuring ROI"}]'
 path_count: 4
 tags:
   - course
@@ -29,7 +40,7 @@ tags:
   - skill/analytics
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Predictive Analytics Essential Training For Executives](https://media.licdn.com/dms/image/v2/D4E0DAQHRpJHDY-40Ig/learning-public-crop_675_1200/B4EZThn2aJHUAg-/0/1738952108007?e=2147483647&amp;v=beta&amp;t=sIJASebNDg-n40SLgnk4roVFNRjCECNyC2A8sy3LnL0)

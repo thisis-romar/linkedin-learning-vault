@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHd3Vh9xYXgbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647018949325?e=2147483647&amp;v=beta&amp;t=y3oiMiBu5_WK3UGsDbxxTC_1kjkkCN7zMHferAhg8Bc"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Understanding Quantum Computing
+  - '[[Understanding Quantum Computing]]'
+prev_courses:
+  - '[[Quantum Computing Fundamentals]]'
+path_nav: '[{"path":"Understanding Quantum Computing","position":3,"total":3,"prev":"Quantum Computing Fundamentals","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/cloud-computing
   - skill/quantum-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Quantum Computing Essentials](https://media.licdn.com/dms/image/v2/C4E0DAQHd3Vh9xYXgbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647018949325?e=2147483647&amp;v=beta&amp;t=y3oiMiBu5_WK3UGsDbxxTC_1kjkkCN7zMHferAhg8Bc)

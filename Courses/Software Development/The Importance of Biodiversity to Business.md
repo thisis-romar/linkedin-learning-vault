@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQExRLm84EhvYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715191016647?e=2147483647&amp;v=beta&amp;t=DAdQwW-QEgmwt-fsPLxj6sH_G26iQv26hNsUWyRn94E"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your Sustainability Skills
+  - '[[Improve Your Sustainability Skills]]'
+prev_courses:
+  - '[[Introduction to ESG- Environmental, Social, and Governance]]'
+next_courses:
+  - '[[Driving Sustainability at Your Organization]]'
+path_nav: '[{"path":"Improve Your Sustainability Skills","position":3,"total":8,"prev":"Introduction to ESG- Environmental, Social, and Governance","next":"Driving Sustainability at Your Organization"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/sustainable-business-strategy
   - skill/nature-conservation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The Importance of Biodiversity to Business](https://media.licdn.com/dms/image/v2/D560DAQExRLm84EhvYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715191016647?e=2147483647&amp;v=beta&amp;t=DAdQwW-QEgmwt-fsPLxj6sH_G26iQv26hNsUWyRn94E)

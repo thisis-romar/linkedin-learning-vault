@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-microsoft-365
 course_count: 6
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 9
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/cloud-computing
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Getting Started with Microsoft 365
@@ -72,3 +72,7 @@ _Paths that share courses with this one:_
 - [[Working Smarter with Microsoft 365]] (2 shared courses)
 - [[Digital Transformation in Practice- Virtual Collaboration Tools]] (1 shared courses)
 - [[Succeed as a Remote Software Developer]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

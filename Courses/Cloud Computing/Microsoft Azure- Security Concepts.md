@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQERyAhthc0pFA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732322429791?e=2147483647&amp;v=beta&amp;t=QzYmbqQ3pbx7I-ZNu1RUvbml9Xwrsplm4Q8upoFf3zA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals
+  - '[[Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals]]'
+prev_courses:
+  - '[[Manage Virtual Machines in Azure]]'
+next_courses:
+  - '[[Planning for Microsoft Entra ID]]'
+path_nav: '[{"path":"Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals","position":3,"total":8,"prev":"Manage Virtual Machines in Azure","next":"Planning for Microsoft Entra ID"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/cybersecurity
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft Azure: Security Concepts](https://media.licdn.com/dms/image/v2/D560DAQERyAhthc0pFA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732322429791?e=2147483647&amp;v=beta&amp;t=QzYmbqQ3pbx7I-ZNu1RUvbml9Xwrsplm4Q8upoFf3zA)

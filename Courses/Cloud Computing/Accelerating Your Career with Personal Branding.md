@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQF69PUzbwvqCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664562370148?e=2147483647&amp;v=beta&amp;t=oUkXN6gP3sI0JvRcAminv_WJafbnJNTnvc2PnFLOUvw"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Branding and Skill Building to Advance Your Tech Career
+  - '[[Branding and Skill Building to Advance Your Tech Career]]'
+prev_courses:
+  - '[[Storytelling and Content Creation to Transform Your Personal Brand]]'
+next_courses:
+  - '[[How to Boost Your Productivity with AI Tools (2023)]]'
+path_nav: '[{"path":"Branding and Skill Building to Advance Your Tech Career","position":3,"total":6,"prev":"Storytelling and Content Creation to Transform Your Personal Brand","next":"How to Boost Your Productivity with AI Tools (2023)"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/personal-branding
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Accelerating Your Career with Personal Branding](https://media.licdn.com/dms/image/v2/C4D0DAQF69PUzbwvqCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664562370148?e=2147483647&amp;v=beta&amp;t=oUkXN6gP3sI0JvRcAminv_WJafbnJNTnvc2PnFLOUvw)

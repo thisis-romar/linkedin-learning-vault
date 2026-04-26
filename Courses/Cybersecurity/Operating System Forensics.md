@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHxthMjoNASww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722364787912?e=2147483647&amp;v=beta&amp;t=brpZV3LM-YGhIYT8Ndx3qNlkCZHtZap11YiilkPVHfw"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Explore a Career in Computer Forensics
+  - '[[Explore a Career in Computer Forensics]]'
+prev_courses:
+  - '[[Cybersecurity Foundations- Computer Forensics]]'
+next_courses:
+  - '[[Network Forensics]]'
+path_nav: '[{"path":"Explore a Career in Computer Forensics","position":3,"total":9,"prev":"Cybersecurity Foundations- Computer Forensics","next":"Network Forensics"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/computer-forensics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Operating System Forensics](https://media.licdn.com/dms/image/v2/D560DAQHxthMjoNASww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722364787912?e=2147483647&amp;v=beta&amp;t=brpZV3LM-YGhIYT8Ndx3qNlkCZHtZap11YiilkPVHfw)

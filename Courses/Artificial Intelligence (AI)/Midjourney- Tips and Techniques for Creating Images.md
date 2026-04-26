@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGLGDnK9LBtPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683140321492?e=2147483647&amp;v=beta&amp;t=_OU6yL_W9BxOpYCRYWiyJvwoOpoWDM0fni4k_woIYlM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying Generative AI as a Creative Professional
+  - '[[Applying Generative AI as a Creative Professional]]'
+prev_courses:
+  - '[[Generative AI Imaging- What Creative Pros Need to Know]]'
+next_courses:
+  - '[[Stable Diffusion- Tips, Tricks, and Techniques]]'
+path_nav: '[{"path":"Applying Generative AI as a Creative Professional","position":3,"total":7,"prev":"Generative AI Imaging- What Creative Pros Need to Know","next":"Stable Diffusion- Tips, Tricks, and Techniques"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/midjourney
   - skill/conditional-image-generation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Midjourney: Tips and Techniques for Creating Images](https://media.licdn.com/dms/image/v2/D560DAQGLGDnK9LBtPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683140321492?e=2147483647&amp;v=beta&amp;t=_OU6yL_W9BxOpYCRYWiyJvwoOpoWDM0fni4k_woIYlM)

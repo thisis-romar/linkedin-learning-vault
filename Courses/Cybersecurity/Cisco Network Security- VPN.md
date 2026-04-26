@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQF31SgzrqPg8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670433939935?e=2147483647&amp;v=beta&amp;t=z3ERHTsJr7RrZPTKQ3Uxn3crKUJraOKL0Cz--0W4zFI"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Cisco Network Security- Safeguarding Network Integrity and Data
+  - '[[Cisco Network Security- Safeguarding Network Integrity and Data]]'
+prev_courses:
+  - '[[Cisco Network Security- Secure Access]]'
+next_courses:
+  - '[[Cisco Network Security- Secure Routing and Switching]]'
+path_nav: '[{"path":"Cisco Network Security- Safeguarding Network Integrity and Data","position":3,"total":7,"prev":"Cisco Network Security- Secure Access","next":"Cisco Network Security- Secure Routing and Switching"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cisco-vpn
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cisco Network Security: VPN](https://media.licdn.com/dms/image/v2/C4D0DAQF31SgzrqPg8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670433939935?e=2147483647&amp;v=beta&amp;t=z3ERHTsJr7RrZPTKQ3Uxn3crKUJraOKL0Cz--0W4zFI)

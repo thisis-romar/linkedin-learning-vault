@@ -19,8 +19,15 @@ github: "https://github.com/LinkedInLearning/github-practical-copilot-4412871"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGacnii6uNPrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713479054756?e=2147483647&amp;v=beta&amp;t=2rrEIrPlCr3Ieoev3m863uLTWUHZfd34vOIaxVzMGu4"
 linkedin_topic: Software Development
 learning_paths:
-  - Prepare for the GitHub Foundations Certification
-  - Career Essentials in GitHub Professional Certificate
+  - '[[Prepare for the GitHub Foundations Certification]]'
+  - '[[Career Essentials in GitHub Professional Certificate]]'
+prev_courses:
+  - '[[GitHub Issues and Projects for Teams]]'
+  - '[[Practical GitHub Project Management and Collaboration]]'
+next_courses:
+  - '[[Learning GitHub Codespaces for Enterprise]]'
+  - '[[Practical GitHub Code Search]]'
+path_nav: '[{"path":"Prepare for the GitHub Foundations Certification","position":4,"total":7,"prev":"GitHub Issues and Projects for Teams","next":"Learning GitHub Codespaces for Enterprise"},{"path":"Career Essentials in GitHub Professional Certificate","position":3,"total":4,"prev":"Practical GitHub Project Management and Collaboration","next":"Practical GitHub Code Search"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Practical GitHub Copilot](https://media.licdn.com/dms/image/v2/D4D0DAQGacnii6uNPrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713479054756?e=2147483647&amp;v=beta&amp;t=2rrEIrPlCr3Ieoev3m863uLTWUHZfd34vOIaxVzMGu4)

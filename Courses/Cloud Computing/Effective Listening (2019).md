@@ -14,7 +14,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHUTQHthCYmTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658272574632?e=2147483647&amp;v=beta&amp;t=ayfSTJ6NwaT2kWyCyMZgJBieLgt5W2vFRdttiwFUDoU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Managing your Career as a Developer
+  - '[[Managing your Career as a Developer]]'
+prev_courses:
+  - '[[Getting Things Done]]'
+next_courses:
+  - '[[Critical Thinking]]'
+path_nav: '[{"path":"Managing your Career as a Developer","position":6,"total":8,"prev":"Getting Things Done","next":"Critical Thinking"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/active-listening
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Effective Listening (2019)](https://media.licdn.com/dms/image/v2/C560DAQHUTQHthCYmTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658272574632?e=2147483647&amp;v=beta&amp;t=ayfSTJ6NwaT2kWyCyMZgJBieLgt5W2vFRdttiwFUDoU)

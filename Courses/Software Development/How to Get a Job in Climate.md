@@ -15,7 +15,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHwGij3-l5UwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685997055221?e=2147483647&amp;v=beta&amp;t=HqBwteeo_3F8_660drqpIhZ9QX88Wf4f1nYy5KmyUyw"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your Sustainability Skills
+  - '[[Improve Your Sustainability Skills]]'
+prev_courses:
+  - '[[Digital Sustainability- How to Reduce Your Digital Footprint]]'
+path_nav: '[{"path":"Improve Your Sustainability Skills","position":8,"total":8,"prev":"Digital Sustainability- How to Reduce Your Digital Footprint","next":null}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - skill/job-search-strategies
   - skill/climate-change
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![How to Get a Job in Climate](https://media.licdn.com/dms/image/v2/D560DAQHwGij3-l5UwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685997055221?e=2147483647&amp;v=beta&amp;t=HqBwteeo_3F8_660drqpIhZ9QX88Wf4f1nYy5KmyUyw)

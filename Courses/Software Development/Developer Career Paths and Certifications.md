@@ -17,8 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQE1ZA04CqzywQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1607554464917?e=2147483647&amp;v=beta&amp;t=ZKLwWo_rmhlFkvCvNffjrjJxzRs93-0dytKmSFX86Ek"
 linkedin_topic: Software Development
 learning_paths:
-  - Starting Your Career in Tech- Software Development
-  - Software Development Fundamentals
+  - '[[Starting Your Career in Tech- Software Development]]'
+  - '[[Software Development Fundamentals]]'
+prev_courses:
+  - '[[Tech Career Skills- Effective Technical Communication]]'
+  - '[[Program Databases with Transact-SQL]]'
+path_nav: '[{"path":"Starting Your Career in Tech- Software Development","position":6,"total":6,"prev":"Tech Career Skills- Effective Technical Communication","next":null},{"path":"Software Development Fundamentals","position":10,"total":10,"prev":"Program Databases with Transact-SQL","next":null}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +33,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Developer Career Paths and Certifications](https://media.licdn.com/dms/image/v2/C4D0DAQE1ZA04CqzywQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1607554464917?e=2147483647&amp;v=beta&amp;t=ZKLwWo_rmhlFkvCvNffjrjJxzRs93-0dytKmSFX86Ek)

@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEKkyVHVPALVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704746853666?e=2147483647&amp;v=beta&amp;t=hRX_zWYneCGfA3gHWcPhFndHP9cf5xNVYahG9OmOyTM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Foundations of Cloud Computing- Models, Platforms, Services, and Careers
+  - '[[Foundations of Cloud Computing- Models, Platforms, Services, and Careers]]'
+prev_courses:
+  - '[[A Beginner''s Guide to Public Cloud Options]]'
+next_courses:
+  - '[[Cloud Security Concepts- Services and Compliance]]'
+path_nav: '[{"path":"Foundations of Cloud Computing- Models, Platforms, Services, and Careers","position":4,"total":9,"prev":"A Beginner''s Guide to Public Cloud Options","next":"Cloud Security Concepts- Services and Compliance"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/private-clouds
   - skill/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Computing: Understanding Private Cloud Options](https://media.licdn.com/dms/image/v2/D560DAQEKkyVHVPALVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704746853666?e=2147483647&amp;v=beta&amp;t=hRX_zWYneCGfA3gHWcPhFndHP9cf5xNVYahG9OmOyTM)

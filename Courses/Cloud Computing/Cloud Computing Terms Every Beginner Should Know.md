@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEpniuoUoLPIA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721249378537?e=2147483647&amp;v=beta&amp;t=ue2XhL2fGNkgMg8HoOgwkb7wo3Hl4GBiJ-nfnotelNQ"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Foundations of Cloud Computing- Models, Platforms, Services, and Careers
+  - '[[Foundations of Cloud Computing- Models, Platforms, Services, and Careers]]'
+prev_courses:
+  - '[[Cloud Computing Understanding Core Concepts]]'
+next_courses:
+  - '[[A Beginner''s Guide to Public Cloud Options]]'
+path_nav: '[{"path":"Foundations of Cloud Computing- Models, Platforms, Services, and Careers","position":2,"total":9,"prev":"Cloud Computing Understanding Core Concepts","next":"A Beginner''s Guide to Public Cloud Options"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/tech-career-skills
   - skill/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Computing Terms Every Beginner Should Know](https://media.licdn.com/dms/image/v2/D560DAQEpniuoUoLPIA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721249378537?e=2147483647&amp;v=beta&amp;t=ue2XhL2fGNkgMg8HoOgwkb7wo3Hl4GBiJ-nfnotelNQ)

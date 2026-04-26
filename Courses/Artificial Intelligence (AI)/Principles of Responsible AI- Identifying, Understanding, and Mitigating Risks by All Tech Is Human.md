@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGOvmZCxzgEDw/learning-public-crop_675_1200/B4DZsyfMblJcAY-/0/1766078597734?e=2147483647&amp;v=beta&amp;t=Cprg1SFhO6nLKZTlwXuTKIpWO68QxgsdS40awE36bRw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Responsible AI Foundations Professional Certificate by All Tech Is Human
+  - '[[Responsible AI Foundations Professional Certificate by All Tech Is Human]]'
+prev_courses:
+  - '[[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]]'
+path_nav: '[{"path":"Responsible AI Foundations Professional Certificate by All Tech Is Human","position":4,"total":4,"prev":"Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Principles of Responsible AI: Identifying, Understanding, and Mitigating Risks by All Tech Is Human](https://media.licdn.com/dms/image/v2/D4D0DAQGOvmZCxzgEDw/learning-public-crop_675_1200/B4DZsyfMblJcAY-/0/1766078597734?e=2147483647&amp;v=beta&amp;t=Cprg1SFhO6nLKZTlwXuTKIpWO68QxgsdS40awE36bRw)

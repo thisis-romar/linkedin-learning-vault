@@ -6,7 +6,7 @@ course_count: 9
 tags:
   - skill
   - skill/microsoft-copilot
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Microsoft Copilot

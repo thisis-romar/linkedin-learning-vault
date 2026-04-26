@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQED-m1hwFpEWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686944899848?e=2147483647&amp;v=beta&amp;t=VnE1Lybft4PfkhKsuPymyh2Epl4MAN_ESCEQuXWLTXY"
 linkedin_topic: Software Development
 learning_paths:
-  - Career Essentials in GitHub Professional Certificate
+  - '[[Career Essentials in GitHub Professional Certificate]]'
+prev_courses:
+  - '[[Resume]]'
+next_courses:
+  - '[[Practical GitHub Copilot]]'
+path_nav: '[{"path":"Career Essentials in GitHub Professional Certificate","position":2,"total":4,"prev":"Resume","next":"Practical GitHub Copilot"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/project-management
   - skill/github
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Practical GitHub Project Management and Collaboration](https://media.licdn.com/dms/image/v2/D560DAQED-m1hwFpEWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686944899848?e=2147483647&amp;v=beta&amp;t=VnE1Lybft4PfkhKsuPymyh2Epl4MAN_ESCEQuXWLTXY)

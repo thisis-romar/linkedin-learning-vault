@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFZ5RInMGc4Tw/learning-public-crop_675_1200/B4DZVN0T3.GkAY-/0/1740767314055?e=2147483647&amp;v=beta&amp;t=bw7wK_y3-_PGUDTr6XbTIa7GpVHo3qoY6fw0zS0A-Hw"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Database Administration Skills
+  - '[[Advance Your Database Administration Skills]]'
+prev_courses:
+  - '[[Database Foundations- Application Development]]'
+next_courses:
+  - '[[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]]'
+path_nav: '[{"path":"Advance Your Database Administration Skills","position":6,"total":11,"prev":"Database Foundations- Application Development","next":"Practical Database Design- Implementing Responsible Data Solutions with SQL Querying"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/sql
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL Server Fundamentals: Master Basic Query Techniques](https://media.licdn.com/dms/image/v2/D4D0DAQFZ5RInMGc4Tw/learning-public-crop_675_1200/B4DZVN0T3.GkAY-/0/1740767314055?e=2147483647&amp;v=beta&amp;t=bw7wK_y3-_PGUDTr6XbTIa7GpVHo3qoY6fw0zS0A-Hw)

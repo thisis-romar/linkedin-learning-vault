@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFz1xLDMkO9mQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694544933174?e=2147483647&amp;v=beta&amp;t=LuamQXCqfbttcavGEznIDFyfxZM1QB9EfxM1gQP64YE"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Branding and Skill Building to Advance Your Tech Career
+  - '[[Branding and Skill Building to Advance Your Tech Career]]'
+prev_courses:
+  - '[[Use Your Strengths For Impact And Influence At Work]]'
+next_courses:
+  - '[[Accelerating Your Career with Personal Branding]]'
+path_nav: '[{"path":"Branding and Skill Building to Advance Your Tech Career","position":2,"total":6,"prev":"Use Your Strengths For Impact And Influence At Work","next":"Accelerating Your Career with Personal Branding"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/personal-branding
   - skill/content-creation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Storytelling and Content Creation to Transform Your Personal Brand](https://media.licdn.com/dms/image/v2/D560DAQFz1xLDMkO9mQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694544933174?e=2147483647&amp;v=beta&amp;t=LuamQXCqfbttcavGEznIDFyfxZM1QB9EfxM1gQP64YE)

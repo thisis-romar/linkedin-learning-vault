@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFQ-T4a317kXw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694814155919?e=2147483647&amp;v=beta&amp;t=14WPhtMGwsnVUvOxaDFj_cpg9T2-CrXE2dtsd-dBkpw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
-  - Mastering Responsible AI- From Concept to Auditing
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[Mastering Responsible AI- From Concept to Auditing]]'
+prev_courses:
+  - '[[ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard]]'
+  - '[[Building a Responsible AI Program- Context, Culture, Content, and Commitment]]'
+next_courses:
+  - '[[Introduction to AI Governance]]'
+  - '[[Algorithmic Auditing and Continuous Monitoring]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":14,"total":22,"prev":"ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard","next":"Introduction to AI Governance"},{"path":"Mastering Responsible AI- From Concept to Auditing","position":6,"total":7,"prev":"Building a Responsible AI Program- Context, Culture, Content, and Commitment","next":"Algorithmic Auditing and Continuous Monitoring"}]'
 path_count: 2
 tags:
   - course
@@ -31,7 +38,7 @@ tags:
   - skill/it-audit
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Auditing AI Systems](https://media.licdn.com/dms/image/v2/D560DAQFQ-T4a317kXw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694814155919?e=2147483647&amp;v=beta&amp;t=14WPhtMGwsnVUvOxaDFj_cpg9T2-CrXE2dtsd-dBkpw)

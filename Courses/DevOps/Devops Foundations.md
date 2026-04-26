@@ -8,11 +8,24 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEP0x26XHV_6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707936080464?e=2147483647&amp;v=beta&amp;t=eY0oG3GST15nq73m3MDYw7vwjkIV9T-Q8yTLGvUyWAA"
 linkedin_topic: DevOps
 learning_paths:
-  - DevOps Professional Certificate by PagerDuty and LinkedIn
-  - Develop Your Skills in Agile Software Development
-  - Develop Your Skills as a Software Project Manager
-  - Become a Full-Stack Web Developer
-  - Getting Started with DevOps
+  - '[[DevOps Professional Certificate by PagerDuty and LinkedIn]]'
+  - '[[Develop Your Skills in Agile Software Development]]'
+  - '[[Develop Your Skills as a Software Project Manager]]'
+  - '[[Become a Full-Stack Web Developer]]'
+  - '[[Getting Started with DevOps]]'
+prev_courses:
+  - null
+  - null
+  - '[[Agile Software Development- Scrum for Developers]]'
+  - '[[Learning Rest Apis]]'
+  - null
+next_courses:
+  - '[[DevOps Foundations- Infrastructure as Code]]'
+  - '[[Devops Foundations Lean And Agile]]'
+  - '[[Scrum- The Basics]]'
+  - null
+  - '[[DevOps Foundations- Continuous Delivery-Continuous Integration]]'
+path_nav: '[{"path":"DevOps Professional Certificate by PagerDuty and LinkedIn","position":1,"total":3,"prev":null,"next":"DevOps Foundations- Infrastructure as Code"},{"path":"Develop Your Skills in Agile Software Development","position":1,"total":6,"prev":null,"next":"Devops Foundations Lean And Agile"},{"path":"Develop Your Skills as a Software Project Manager","position":3,"total":11,"prev":"Agile Software Development- Scrum for Developers","next":"Scrum- The Basics"},{"path":"Become a Full-Stack Web Developer","position":12,"total":12,"prev":"Learning Rest Apis","next":null},{"path":"Getting Started with DevOps","position":1,"total":5,"prev":null,"next":"DevOps Foundations- Continuous Delivery-Continuous Integration"}]'
 path_count: 5
 tags:
   - course
@@ -20,7 +33,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Devops Foundations](https://media.licdn.com/dms/image/v2/D560DAQEP0x26XHV_6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707936080464?e=2147483647&amp;v=beta&amp;t=eY0oG3GST15nq73m3MDYw7vwjkIV9T-Q8yTLGvUyWAA)

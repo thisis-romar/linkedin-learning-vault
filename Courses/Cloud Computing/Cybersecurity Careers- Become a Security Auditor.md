@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF3UaX0Ar1gaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675285610762?e=2147483647&amp;v=beta&amp;t=kh7eK6dOH-JQpYG0Qbw2ZnZnr4tUDmNQn9Of0jCPRgo"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Explore Cybersecurity Careers
+  - '[[Explore Cybersecurity Careers]]'
+prev_courses:
+  - '[[Cybersecurity Careers- Become an Identity and Access Management Manager]]'
+next_courses:
+  - '[[Advance Your Cybersecurity Career]]'
+path_nav: '[{"path":"Explore Cybersecurity Careers","position":6,"total":9,"prev":"Cybersecurity Careers- Become an Identity and Access Management Manager","next":"Advance Your Cybersecurity Career"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/tech-career-skills
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Careers: Become a Security Auditor](https://media.licdn.com/dms/image/v2/C560DAQF3UaX0Ar1gaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675285610762?e=2147483647&amp;v=beta&amp;t=kh7eK6dOH-JQpYG0Qbw2ZnZnr4tUDmNQn9Of0jCPRgo)

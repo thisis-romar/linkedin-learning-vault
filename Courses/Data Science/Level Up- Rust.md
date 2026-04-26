@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/level-up-rust-3041143/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEOULbtwwYf8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677009134347?e=2147483647&amp;v=beta&amp;t=fBaGAv3TxwJps7ntffBoWITXx-bZIzbWCievVafHg_g"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Rust Skills for Data Engineering
+  - '[[Develop Your Rust Skills for Data Engineering]]'
+prev_courses:
+  - '[[Rust for Data Engineering]]'
+next_courses:
+  - '[[End-to-End Data Engineering Project]]'
+path_nav: '[{"path":"Develop Your Rust Skills for Data Engineering","position":5,"total":6,"prev":"Rust for Data Engineering","next":"End-to-End Data Engineering Project"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/software-development
   - skill/rust-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Level Up: Rust](https://media.licdn.com/dms/image/v2/C560DAQEOULbtwwYf8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677009134347?e=2147483647&amp;v=beta&amp;t=fBaGAv3TxwJps7ntffBoWITXx-bZIzbWCievVafHg_g)

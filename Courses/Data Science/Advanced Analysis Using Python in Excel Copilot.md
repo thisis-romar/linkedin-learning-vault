@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEMwz5GY4Vb5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726771013304?e=2147483647&amp;v=beta&amp;t=yOQG5dp9yHEBzueeJdAyqzAUVToujDeFi18clqksaWA"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Python in Excel Skills
+  - '[[Advance Your Python in Excel Skills]]'
+prev_courses:
+  - '[[Advanced Python in Excel- Machine Learning]]'
+path_nav: '[{"path":"Advance Your Python in Excel Skills","position":7,"total":7,"prev":"Advanced Python in Excel- Machine Learning","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Analysis Using Python in Excel Copilot](https://media.licdn.com/dms/image/v2/D560DAQEMwz5GY4Vb5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726771013304?e=2147483647&amp;v=beta&amp;t=yOQG5dp9yHEBzueeJdAyqzAUVToujDeFi18clqksaWA)

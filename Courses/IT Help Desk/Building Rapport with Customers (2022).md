@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGTQWOLo1WKUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568663692557?e=2147483647&amp;v=beta&amp;t=cQC5TpN-e4wnpz9MPFVZJ1iZL9w1jC02QQWhVZFoUgQ"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Zendesk Customer Service Professional Certificate
+  - '[[Zendesk Customer Service Professional Certificate]]'
+prev_courses:
+  - '[[Customer Service- Problem-Solving and Troubleshooting]]'
+next_courses:
+  - '[[Customer Service- Handling Abusive Customers]]'
+path_nav: '[{"path":"Zendesk Customer Service Professional Certificate","position":3,"total":6,"prev":"Customer Service- Problem-Solving and Troubleshooting","next":"Customer Service- Handling Abusive Customers"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/client-rapport
   - skill/customer-service
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Rapport with Customers (2022)](https://media.licdn.com/dms/image/v2/C4E0DAQGTQWOLo1WKUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568663692557?e=2147483647&amp;v=beta&amp;t=cQC5TpN-e4wnpz9MPFVZJ1iZL9w1jC02QQWhVZFoUgQ)

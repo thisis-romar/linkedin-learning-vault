@@ -9,7 +9,7 @@ linkedin_topics:
   - DevOps
   - Network and System Administration
   - Software Development
-louvain_cluster: 16
+louvain_cluster: 18
 tags:
   - learning-path
   - topic/data-science
@@ -55,7 +55,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Hands-On Healthcare Analytics
@@ -90,3 +90,7 @@ _Paths that share courses with this one:_
 
 - [[Python for Data Professionals in Healthcare]] (4 shared courses)
 - [[AI for Healthcare- Essentials for Technical Roles]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

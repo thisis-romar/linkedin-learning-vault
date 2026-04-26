@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGLwz6rO3cApg/learning-public-crop_675_1200/B4EZikezwuHEAo-/0/1755106197431?e=2147483647&amp;v=beta&amp;t=1B4si2mZaP1fJkeHXku2jxHW_bNbHfwiAG57BO4kvSQ"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Getting Started as an Azure Developer
+  - '[[Getting Started as an Azure Developer]]'
+prev_courses:
+  - '[[Building a Web Application on Microsoft Azure]]'
+next_courses:
+  - '[[Azure DevOps for Beginners]]'
+path_nav: '[{"path":"Getting Started as an Azure Developer","position":5,"total":7,"prev":"Building a Web Application on Microsoft Azure","next":"Azure DevOps for Beginners"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure Storage Essential Training (2021)](https://media.licdn.com/dms/image/v2/D4E0DAQGLwz6rO3cApg/learning-public-crop_675_1200/B4EZikezwuHEAo-/0/1755106197431?e=2147483647&amp;v=beta&amp;t=1B4si2mZaP1fJkeHXku2jxHW_bNbHfwiAG57BO4kvSQ)

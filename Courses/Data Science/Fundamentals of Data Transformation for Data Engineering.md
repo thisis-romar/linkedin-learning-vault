@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/fundamentals-of-data-transformation
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGHrL3djyQWzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718396996140?e=2147483647&amp;v=beta&amp;t=Q5THMwNIRY5I0DIxHzXG6T6rSoqVzn8BpCQkvy_ehHM"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Data Engineering Skills
+  - '[[Advance Your Data Engineering Skills]]'
+prev_courses:
+  - '[[ETL in Python and SQL]]'
+next_courses:
+  - '[[Complete Guide to Data Lakes and Lakehouses]]'
+path_nav: '[{"path":"Advance Your Data Engineering Skills","position":4,"total":10,"prev":"ETL in Python and SQL","next":"Complete Guide to Data Lakes and Lakehouses"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/data-engineering
   - skill/data-transformation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Fundamentals of Data Transformation for Data Engineering](https://media.licdn.com/dms/image/v2/D560DAQGHrL3djyQWzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718396996140?e=2147483647&amp;v=beta&amp;t=Q5THMwNIRY5I0DIxHzXG6T6rSoqVzn8BpCQkvy_ehHM)

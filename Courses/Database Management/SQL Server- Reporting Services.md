@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHg6FpYNYmSKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726255866299?e=2147483647&amp;v=beta&amp;t=pGuVb3yjQRK9I5F6KMIoLu8GtHNNLE9xj6DoO52FLjM"
 linkedin_topic: Database Management
 learning_paths:
-  - Advance Your MS SQL Server Skills
+  - '[[Advance Your MS SQL Server Skills]]'
+prev_courses:
+  - '[[SQL Server Integration Services]]'
+path_nav: '[{"path":"Advance Your MS SQL Server Skills","position":9,"total":9,"prev":"SQL Server Integration Services","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/sql-server-reporting-services-ssrs
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL Server: Reporting Services](https://media.licdn.com/dms/image/v2/D4E0DAQHg6FpYNYmSKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726255866299?e=2147483647&amp;v=beta&amp;t=pGuVb3yjQRK9I5F6KMIoLu8GtHNNLE9xj6DoO52FLjM)

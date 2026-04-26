@@ -15,7 +15,8 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHm9zKmvZxPOQ/learning-public-crop_675_1200/B4EZWMTdh5GwAY-/0/1741815667415?e=2147483647&amp;v=beta&amp;t=s1t1lNspB__Ij1mX1TK10xph2EjKBaRvE2L_PfKzFMg"
 linkedin_topic: Data Science
 learning_paths:
-  - Prepare for the Databricks Certified Data Engineer Associate Certification
+  - '[[Prepare for the Databricks Certified Data Engineer Associate Certification]]'
+path_nav: '[{"path":"Prepare for the Databricks Certified Data Engineer Associate Certification","position":1,"total":1,"prev":null,"next":null}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +24,7 @@ tags:
   - skill/data-engineering
   - skill/databricks-products
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Databricks Certified Data Engineer Associate Cert Prep](https://media.licdn.com/dms/image/v2/D4E0DAQHm9zKmvZxPOQ/learning-public-crop_675_1200/B4EZWMTdh5GwAY-/0/1741815667415?e=2147483647&amp;v=beta&amp;t=s1t1lNspB__Ij1mX1TK10xph2EjKBaRvE2L_PfKzFMg)

@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEMK5sZnmG8gQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735075305568?e=2147483647&amp;v=beta&amp;t=oZxFoKgzXtDSYyEm7O9LiLXCeE33zdZJdi2WF2q5_WE"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started with Software Testing
+  - '[[Getting Started with Software Testing]]'
+prev_courses:
+  - '[[Postman Essential Training]]'
+next_courses:
+  - '[[Java- Testing with JUnit]]'
+path_nav: '[{"path":"Getting Started with Software Testing","position":10,"total":12,"prev":"Postman Essential Training","next":"Java- Testing with JUnit"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep](https://media.licdn.com/dms/image/v2/D4D0DAQEMK5sZnmG8gQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735075305568?e=2147483647&amp;v=beta&amp;t=oZxFoKgzXtDSYyEm7O9LiLXCeE33zdZJdi2WF2q5_WE)

@@ -16,14 +16,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEg0eaCiUdF5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568666236290?e=2147483647&amp;v=beta&amp;t=UoK7lhKPAjG1cMJPBuwNnOS92D6RdhMwzYJiVceO1JQ"
 linkedin_topic: Web Development
 learning_paths:
-  - Become a Django Developer
+  - '[[Become a Django Developer]]'
+prev_courses:
+  - '[[Deploying Django Apps- Make Your Site Go Live]]'
+path_nav: '[{"path":"Become a Django Developer","position":4,"total":4,"prev":"Deploying Django Apps- Make Your Site Go Live","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/django
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a Personal Portfolio with Django](https://media.licdn.com/dms/image/v2/C4E0DAQEg0eaCiUdF5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568666236290?e=2147483647&amp;v=beta&amp;t=UoK7lhKPAjG1cMJPBuwNnOS92D6RdhMwzYJiVceO1JQ)

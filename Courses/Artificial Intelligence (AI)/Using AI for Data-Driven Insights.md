@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFCHtm8r09Iqg/learning-public-crop_675_1200/B4EZUkeJdcGYAc-/0/1740073638469?e=2147483647&amp;v=beta&amp;t=uCM36FWZaAspdJrBPMQ8odaVC1U62jaItfTBltG7vtA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Technical Literacy and Future Readiness for Aspiring Managers
+  - '[[Technical Literacy and Future Readiness for Aspiring Managers]]'
+prev_courses:
+  - '[[Prompt Engineering- How to Talk to the AIs]]'
+path_nav: '[{"path":"Technical Literacy and Future Readiness for Aspiring Managers","position":5,"total":5,"prev":"Prompt Engineering- How to Talk to the AIs","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using AI for Data-Driven Insights](https://media.licdn.com/dms/image/v2/D4E0DAQFCHtm8r09Iqg/learning-public-crop_675_1200/B4EZUkeJdcGYAc-/0/1740073638469?e=2147483647&amp;v=beta&amp;t=uCM36FWZaAspdJrBPMQ8odaVC1U62jaItfTBltG7vtA)

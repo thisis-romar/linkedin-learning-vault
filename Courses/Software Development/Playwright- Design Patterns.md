@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/playwright-design-patterns-2019019"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQE68ssz1R0Ufw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731097260562?e=2147483647&amp;v=beta&amp;t=RUlzWaTzqCfWpEjv_Lu3mKjo4TCxEZW_kf4lysTgpxI"
 linkedin_topic: Software Development
 learning_paths:
-  - Master Test Automation with Playwright
+  - '[[Master Test Automation with Playwright]]'
+prev_courses:
+  - '[[Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios]]'
+next_courses:
+  - '[[Advanced Playwright Techniques- Optimizing Speed, Stability, and Cloud Testing]]'
+path_nav: '[{"path":"Master Test Automation with Playwright","position":3,"total":4,"prev":"Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios","next":"Advanced Playwright Techniques- Optimizing Speed, Stability, and Cloud Testing"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/design-patterns
   - skill/test-automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Playwright: Design Patterns](https://media.licdn.com/dms/image/v2/D4E0DAQE68ssz1R0Ufw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731097260562?e=2147483647&amp;v=beta&amp;t=RUlzWaTzqCfWpEjv_Lu3mKjo4TCxEZW_kf4lysTgpxI)

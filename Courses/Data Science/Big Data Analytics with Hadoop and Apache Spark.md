@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHTOWKtGDMPmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725568658115?e=2147483647&amp;v=beta&amp;t=-JZmGED0H1HZUEkFYqEttM9iiuN8b-Ku22lfGhJnv6o"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Data Skills in Apache Spark
+  - '[[Advance Your Data Skills in Apache Spark]]'
+prev_courses:
+  - '[[Architecting Big Data Applications- Batch Mode Application Engineering]]'
+next_courses:
+  - '[[PySpark Essential Training- Introduction to Building Data Pipelines]]'
+path_nav: '[{"path":"Advance Your Data Skills in Apache Spark","position":5,"total":6,"prev":"Architecting Big Data Applications- Batch Mode Application Engineering","next":"PySpark Essential Training- Introduction to Building Data Pipelines"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/hadoop
   - skill/apache-spark
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Big Data Analytics with Hadoop and Apache Spark](https://media.licdn.com/dms/image/v2/D560DAQHTOWKtGDMPmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725568658115?e=2147483647&amp;v=beta&amp;t=-JZmGED0H1HZUEkFYqEttM9iiuN8b-Ku22lfGhJnv6o)

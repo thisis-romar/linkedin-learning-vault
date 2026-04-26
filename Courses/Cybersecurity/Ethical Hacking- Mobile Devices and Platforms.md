@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQEjWT-pm322YQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1570724627125?e=2147483647&amp;v=beta&amp;t=vfaJG_hc7buOyOhxK5Eqk0kypgzWc1ckYQ0E0HUfUqI"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an Ethical Hacker
+  - '[[Become an Ethical Hacker]]'
+prev_courses:
+  - '[[Ethical Hacking- Wireless Networks]]'
+next_courses:
+  - '[[Ethical Hacking- Hacking IoT Devices]]'
+path_nav: '[{"path":"Become an Ethical Hacker","position":15,"total":19,"prev":"Ethical Hacking- Wireless Networks","next":"Ethical Hacking- Hacking IoT Devices"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethical Hacking: Mobile Devices and Platforms](https://media.licdn.com/dms/image/v2/C4D0DAQEjWT-pm322YQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1570724627125?e=2147483647&amp;v=beta&amp;t=vfaJG_hc7buOyOhxK5Eqk0kypgzWc1ckYQ0E0HUfUqI)

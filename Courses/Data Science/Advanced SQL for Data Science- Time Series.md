@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQG1roPdCoYYiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619133486775?e=2147483647&amp;v=beta&amp;t=7EQ9E6PiCWCM5aooupJM6MuzgfOq3qJoxusoU4YHP1M"
 linkedin_topic: Data Science
 learning_paths:
-  - Master SQL for Data Science
+  - '[[Master SQL for Data Science]]'
+prev_courses:
+  - '[[Advanced SQL for Query Tuning and Performance Optimization]]'
+path_nav: '[{"path":"Master SQL for Data Science","position":6,"total":6,"prev":"Advanced SQL for Query Tuning and Performance Optimization","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/sql
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced SQL for Data Science: Time Series](https://media.licdn.com/dms/image/v2/C4E0DAQG1roPdCoYYiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619133486775?e=2147483647&amp;v=beta&amp;t=7EQ9E6PiCWCM5aooupJM6MuzgfOq3qJoxusoU4YHP1M)

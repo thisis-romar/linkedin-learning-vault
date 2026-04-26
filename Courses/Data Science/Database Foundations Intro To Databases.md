@@ -14,8 +14,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHKDo5Z5gFCAA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730492695783?e=2147483647&amp;v=beta&amp;t=x6X7QdGFbjwaYZDEJUY1AKm7z1e9ow-Cp6_rHZNKl0Y"
 linkedin_topic: Data Science
 learning_paths:
-  - Database Foundations- From Concepts to Applications
-  - Advance Your Database Administration Skills
+  - '[[Database Foundations- From Concepts to Applications]]'
+  - '[[Advance Your Database Administration Skills]]'
+next_courses:
+  - '[[Database Foundations- Data Structures]]'
+  - '[[Database Foundations- Data Structures]]'
+path_nav: '[{"path":"Database Foundations- From Concepts to Applications","position":1,"total":5,"prev":null,"next":"Database Foundations- Data Structures"},{"path":"Advance Your Database Administration Skills","position":1,"total":11,"prev":null,"next":"Database Foundations- Data Structures"}]'
 path_count: 2
 tags:
   - course
@@ -24,7 +28,7 @@ tags:
   - topic/software-development
   - skill/databases
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Database Foundations Intro To Databases](https://media.licdn.com/dms/image/v2/D560DAQHKDo5Z5gFCAA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730492695783?e=2147483647&amp;v=beta&amp;t=x6X7QdGFbjwaYZDEJUY1AKm7z1e9ow-Cp6_rHZNKl0Y)

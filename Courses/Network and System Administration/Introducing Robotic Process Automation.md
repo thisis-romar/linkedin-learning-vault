@@ -14,8 +14,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFQ2pAfZMtbRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679518540418?e=2147483647&amp;v=beta&amp;t=YQTY0PLCBhf8f-7Y042Pl1jf_ezDapt87vTDJT2FHmU"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Become an RPA Developer
-  - SS&C Blue Prism Robotic Process Automation Professional Certificate
+  - '[[Become an RPA Developer]]'
+  - '[[SS&C Blue Prism Robotic Process Automation Professional Certificate]]'
+next_courses:
+  - '[[Process Mining for Robotic Process Automation]]'
+  - '[[Process Mining for Robotic Process Automation]]'
+path_nav: '[{"path":"Become an RPA Developer","position":1,"total":3,"prev":null,"next":"Process Mining for Robotic Process Automation"},{"path":"SS&C Blue Prism Robotic Process Automation Professional Certificate","position":1,"total":4,"prev":null,"next":"Process Mining for Robotic Process Automation"}]'
 path_count: 2
 tags:
   - course
@@ -24,7 +28,7 @@ tags:
   - topic/software-development
   - skill/robotic-process-automation-rpa
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introducing Robotic Process Automation](https://media.licdn.com/dms/image/v2/C4D0DAQFQ2pAfZMtbRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679518540418?e=2147483647&amp;v=beta&amp;t=YQTY0PLCBhf8f-7Y042Pl1jf_ezDapt87vTDJT2FHmU)

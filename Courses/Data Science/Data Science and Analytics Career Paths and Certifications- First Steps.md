@@ -19,8 +19,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFZ8ZDyna79_w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644343935339?e=2147483647&amp;v=beta&amp;t=JXfjeKtjDqnTZ1Fj--0z6eo1pIXJluHFiefYL8znht0"
 linkedin_topic: Data Science
 learning_paths:
-  - Starting Your Career in Tech- Data Science
-  - Become a Data Scientist
+  - '[[Starting Your Career in Tech- Data Science]]'
+  - '[[Become a Data Scientist]]'
+prev_courses:
+  - '[[Inside The Mind Of An Aspiring Data Scientist]]'
+  - '[[The Non Technical Skills Of Effective Data Scientists]]'
+next_courses:
+  - '[[Introduction to Data Science]]'
+  - '[[Data Science Foundations- Fundamentals]]'
+path_nav: '[{"path":"Starting Your Career in Tech- Data Science","position":2,"total":8,"prev":"Inside The Mind Of An Aspiring Data Scientist","next":"Introduction to Data Science"},{"path":"Become a Data Scientist","position":3,"total":11,"prev":"The Non Technical Skills Of Effective Data Scientists","next":"Data Science Foundations- Fundamentals"}]'
 path_count: 2
 tags:
   - course
@@ -33,7 +40,7 @@ tags:
   - skill/career-path-planning
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Science and Analytics Career Paths and Certifications: First Steps](https://media.licdn.com/dms/image/v2/C560DAQFZ8ZDyna79_w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644343935339?e=2147483647&amp;v=beta&amp;t=JXfjeKtjDqnTZ1Fj--0z6eo1pIXJluHFiefYL8znht0)

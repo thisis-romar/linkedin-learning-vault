@@ -8,15 +8,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFxbgf-TpDrZA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669449061?e=2147483647&amp;v=beta&amp;t=uuA6mFx_aEONRH-juOhao5Q6BBEP3GZ91CIqvXpnNS4"
 linkedin_topic: Web Development
 learning_paths:
-  - Become a RESTful API Developer
-  - Become a Full-Stack Web Developer
+  - '[[Become a RESTful API Developer]]'
+  - '[[Become a Full-Stack Web Developer]]'
+prev_courses:
+  - null
+  - '[[NoSQL Essential Training]]'
+next_courses:
+  - '[[HTTP Essential Training]]'
+  - '[[Devops Foundations]]'
+path_nav: '[{"path":"Become a RESTful API Developer","position":1,"total":5,"prev":null,"next":"HTTP Essential Training"},{"path":"Become a Full-Stack Web Developer","position":11,"total":12,"prev":"NoSQL Essential Training","next":"Devops Foundations"}]'
 path_count: 2
 tags:
   - course
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Rest Apis](https://media.licdn.com/dms/image/v2/C4E0DAQFxbgf-TpDrZA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669449061?e=2147483647&amp;v=beta&amp;t=uuA6mFx_aEONRH-juOhao5Q6BBEP3GZ91CIqvXpnNS4)

@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/wordpress-internationalization-3266
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHr1McQUIAbgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684865080588?e=2147483647&amp;v=beta&amp;t=DMqSK2RhbddDqPCR86CGysMWHdYjGLQarTsNaGo0lxI"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills in WordPress
+  - '[[Advance Your Skills in WordPress]]'
+prev_courses:
+  - '[[Wordpress Building A Secure Site]]'
+next_courses:
+  - '[[WordPress- Custom Post Types and Taxonomies]]'
+path_nav: '[{"path":"Advance Your Skills in WordPress","position":2,"total":8,"prev":"Wordpress Building A Secure Site","next":"WordPress- Custom Post Types and Taxonomies"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/wordpress
   - skill/internationalization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![WordPress: Internationalization](https://media.licdn.com/dms/image/v2/D560DAQHr1McQUIAbgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684865080588?e=2147483647&amp;v=beta&amp;t=DMqSK2RhbddDqPCR86CGysMWHdYjGLQarTsNaGo0lxI)

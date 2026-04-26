@@ -17,7 +17,10 @@ github: "https://github.com/LinkedInLearning/intermediate-sql-for-data-scientist
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQG4LvxcWRlOYQ/learning-public-crop_675_1200/B4EZUghCgXG0AY-/0/1740007287506?e=2147483647&amp;v=beta&amp;t=M8ue0_cYqF--_BbExv7im3immNCMf4V04Mvpow2fWoM"
 linkedin_topic: Data Science
 learning_paths:
-  - Moving from Data Analyst to Data Scientist
+  - '[[Moving from Data Analyst to Data Scientist]]'
+next_courses:
+  - '[[Data Wrangling in R]]'
+path_nav: '[{"path":"Moving from Data Analyst to Data Scientist","position":1,"total":11,"prev":null,"next":"Data Wrangling in R"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Intermediate Sql For Data Scientists](https://media.licdn.com/dms/image/v2/D4E0DAQG4LvxcWRlOYQ/learning-public-crop_675_1200/B4EZUghCgXG0AY-/0/1740007287506?e=2147483647&amp;v=beta&amp;t=M8ue0_cYqF--_BbExv7im3immNCMf4V04Mvpow2fWoM)

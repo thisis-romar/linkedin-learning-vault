@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEO3pew_MlbVA/learning-public-crop_675_1200/B4EZjoiaKRHoAY-/0/1756247991159?e=2147483647&amp;v=beta&amp;t=AIiUEPc8EOC4sT4UnM38a1ccb8MFyTRBIl0P7wMot0I"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills in Deep Learning and Neural Networks
+  - '[[Advance Your Skills in Deep Learning and Neural Networks]]'
+prev_courses:
+  - '[[Deep Learning with Python- Convolutional Neural Networks]]'
+next_courses:
+  - '[[Deep Learning with Python- Optimizing Deep Learning Models]]'
+path_nav: '[{"path":"Advance Your Skills in Deep Learning and Neural Networks","position":4,"total":8,"prev":"Deep Learning with Python- Convolutional Neural Networks","next":"Deep Learning with Python- Optimizing Deep Learning Models"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-neural-networks
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Workshop: Build a Neural Network with PyTorch Lightning (2023)](https://media.licdn.com/dms/image/v2/D4E0DAQEO3pew_MlbVA/learning-public-crop_675_1200/B4EZjoiaKRHoAY-/0/1756247991159?e=2147483647&amp;v=beta&amp;t=AIiUEPc8EOC4sT4UnM38a1ccb8MFyTRBIl0P7wMot0I)

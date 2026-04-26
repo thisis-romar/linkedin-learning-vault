@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFN4TEX5Pu9kA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642101279693?e=2147483647&amp;v=beta&amp;t=s-MsYW1qIibq0qH2jfelTBjNF5gOhe0Z8U8i45ySH3o"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Getting Started with Windows Server 2022
+  - '[[Getting Started with Windows Server 2022]]'
+prev_courses:
+  - '[[Windows Server 2022 Essential Training]]'
+next_courses:
+  - '[[Windows Server 2022- Install and Configure Active Directory]]'
+path_nav: '[{"path":"Getting Started with Windows Server 2022","position":2,"total":4,"prev":"Windows Server 2022 Essential Training","next":"Windows Server 2022- Install and Configure Active Directory"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/windows-system-administration
   - skill/windows-server
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows Server 2022: Installation and Configuration](https://media.licdn.com/dms/image/v2/C4E0DAQFN4TEX5Pu9kA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642101279693?e=2147483647&amp;v=beta&amp;t=s-MsYW1qIibq0qH2jfelTBjNF5gOhe0Z8U8i45ySH3o)

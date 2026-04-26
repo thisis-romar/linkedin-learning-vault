@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGGYpT_Je55Fw/learning-public-crop_675_1200/B4DZVN0co5HAAY-/0/1740767350005?e=2147483647&amp;v=beta&amp;t=iitExLdnQbMxEXHpK0_WOHQBRUKsSEcCYSH3p-vyemk"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your JavaScript Language Skills
+  - '[[Improve Your JavaScript Language Skills]]'
+prev_courses:
+  - '[[JavaScript- Arrays]]'
+next_courses:
+  - '[[JavaScript- Patterns]]'
+path_nav: '[{"path":"Improve Your JavaScript Language Skills","position":6,"total":8,"prev":"JavaScript- Arrays","next":"JavaScript- Patterns"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Maps and Sets](https://media.licdn.com/dms/image/v2/D4D0DAQGGYpT_Je55Fw/learning-public-crop_675_1200/B4DZVN0co5HAAY-/0/1740767350005?e=2147483647&amp;v=beta&amp;t=iitExLdnQbMxEXHpK0_WOHQBRUKsSEcCYSH3p-vyemk)

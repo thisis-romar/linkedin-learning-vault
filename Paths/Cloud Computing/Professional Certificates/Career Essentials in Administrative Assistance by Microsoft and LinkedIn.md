@@ -45,7 +45,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Career Essentials in Administrative Assistance by Microsoft and LinkedIn
@@ -76,3 +76,7 @@ _Paths that share courses with this one:_
 
 - [[Microsoft Copilot for Productivity by Microsoft and LinkedIn]] (1 shared courses)
 - [[Career Essentials in Generative AI by Microsoft and LinkedIn]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

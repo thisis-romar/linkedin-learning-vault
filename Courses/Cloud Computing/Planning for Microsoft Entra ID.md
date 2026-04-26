@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEPd6fKLA-kVQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581532448211?e=2147483647&amp;v=beta&amp;t=L68qVegIVaPGevsoSZR0jQSJk7cJcb4g-AQxCSB4OWA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals
-  - Advance Your Skills with Microsoft Entra ID
+  - '[[Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals]]'
+  - '[[Advance Your Skills with Microsoft Entra ID]]'
+prev_courses:
+  - '[[Microsoft Azure- Security Concepts]]'
+  - '[[Microsoft Entra ID Fundamentals]]'
+next_courses:
+  - '[[Deploying Microsoft Entra ID]]'
+  - '[[Deploying Microsoft Entra ID]]'
+path_nav: '[{"path":"Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals","position":4,"total":8,"prev":"Microsoft Azure- Security Concepts","next":"Deploying Microsoft Entra ID"},{"path":"Advance Your Skills with Microsoft Entra ID","position":2,"total":3,"prev":"Microsoft Entra ID Fundamentals","next":"Deploying Microsoft Entra ID"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/microsoft-entra-id
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Planning for Microsoft Entra ID](https://media.licdn.com/dms/image/v2/C4E0DAQEPd6fKLA-kVQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581532448211?e=2147483647&amp;v=beta&amp;t=L68qVegIVaPGevsoSZR0jQSJk7cJcb4g-AQxCSB4OWA)

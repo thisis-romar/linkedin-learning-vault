@@ -21,7 +21,12 @@ github: "https://github.com/hhimanshu/book-search"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHuCLqk6OsB8g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732734297442?e=2147483647&amp;v=beta&amp;t=-rsRdhbTnzvP3JGFTel1lu1q5kNjqW99M-vr6oUIho4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Master GitHub Copilot
+  - '[[Master GitHub Copilot]]'
+prev_courses:
+  - '[[Responsible GitHub Copilot- Creating Reliable Code Ethically]]'
+next_courses:
+  - '[[Refactoring with GitHub Copilot]]'
+path_nav: '[{"path":"Master GitHub Copilot","position":6,"total":8,"prev":"Responsible GitHub Copilot- Creating Reliable Code Ethically","next":"Refactoring with GitHub Copilot"}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +38,7 @@ tags:
   - skill/github-copilot
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Creating a Book Search Engine from Scratch Using Java and GitHub Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQHuCLqk6OsB8g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732734297442?e=2147483647&amp;v=beta&amp;t=-rsRdhbTnzvP3JGFTel1lu1q5kNjqW99M-vr6oUIho4)

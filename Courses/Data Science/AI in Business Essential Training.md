@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHJjgIrzzfWBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730843593856?e=2147483647&amp;v=beta&amp;t=Z92hzunwnw24a659e1-NQvoaoCr5x-20P6s-XiOOUkM"
 linkedin_topic: Data Science
 learning_paths:
-  - Mastering Executive-Level Data Analytics
+  - '[[Mastering Executive-Level Data Analytics]]'
+prev_courses:
+  - '[[Everyday AI Business Tools]]'
+next_courses:
+  - '[[Generative AI for Business Leaders]]'
+path_nav: '[{"path":"Mastering Executive-Level Data Analytics","position":6,"total":7,"prev":"Everyday AI Business Tools","next":"Generative AI for Business Leaders"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI in Business Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHJjgIrzzfWBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730843593856?e=2147483647&amp;v=beta&amp;t=Z92hzunwnw24a659e1-NQvoaoCr5x-20P6s-XiOOUkM)

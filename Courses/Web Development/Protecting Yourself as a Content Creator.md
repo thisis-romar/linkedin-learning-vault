@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQHFKO0rXc_q1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679937997325?e=2147483647&amp;v=beta&amp;t=F5-esedtcdj0ILYlhZaOnLpd6vwFYv3Zq5DqD6s3yGc"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Thought Leadership
+  - '[[Advance Your Thought Leadership]]'
+prev_courses:
+  - '[[Live Streaming on LinkedIn]]'
+path_nav: '[{"path":"Advance Your Thought Leadership","position":7,"total":7,"prev":"Live Streaming on LinkedIn","next":null}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - skill/copyright-law
   - skill/content-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Protecting Yourself as a Content Creator](https://media.licdn.com/dms/image/v2/C4D0DAQHFKO0rXc_q1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679937997325?e=2147483647&amp;v=beta&amp;t=F5-esedtcdj0ILYlhZaOnLpd6vwFYv3Zq5DqD6s3yGc)

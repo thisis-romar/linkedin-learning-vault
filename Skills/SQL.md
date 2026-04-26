@@ -6,7 +6,7 @@ course_count: 45
 tags:
   - skill
   - skill/sql
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # SQL

@@ -18,9 +18,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEjBF7BQPTFmA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666893705579?e=2147483647&amp;v=beta&amp;t=JNUfWyuH0_jteUgcOfKlFo6vWzQsxTDXDxVTJ2XET5M"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Build Your Skills In Customer Service
-  - Zendesk Customer Service Professional Certificate
-  - Advance Your Skills as an IT Help Desk Specialist
+  - '[[Build Your Skills In Customer Service]]'
+  - '[[Zendesk Customer Service Professional Certificate]]'
+  - '[[Advance Your Skills as an IT Help Desk Specialist]]'
+prev_courses:
+  - '[[Customer Service Foundations]]'
+  - '[[Customer Service Foundations]]'
+  - '[[Phone-Based Customer Service]]'
+next_courses:
+  - '[[Building Rapport with Customers]]'
+  - '[[Building Rapport with Customers (2022)]]'
+  - '[[Working with Upset Customers]]'
+path_nav: '[{"path":"Build Your Skills In Customer Service","position":2,"total":8,"prev":"Customer Service Foundations","next":"Building Rapport with Customers"},{"path":"Zendesk Customer Service Professional Certificate","position":2,"total":6,"prev":"Customer Service Foundations","next":"Building Rapport with Customers (2022)"},{"path":"Advance Your Skills as an IT Help Desk Specialist","position":9,"total":11,"prev":"Phone-Based Customer Service","next":"Working with Upset Customers"}]'
 path_count: 3
 tags:
   - course
@@ -29,7 +38,7 @@ tags:
   - skill/problem-solving
   - skill/customer-service
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Customer Service: Problem-Solving and Troubleshooting](https://media.licdn.com/dms/image/v2/C560DAQEjBF7BQPTFmA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666893705579?e=2147483647&amp;v=beta&amp;t=JNUfWyuH0_jteUgcOfKlFo6vWzQsxTDXDxVTJ2XET5M)

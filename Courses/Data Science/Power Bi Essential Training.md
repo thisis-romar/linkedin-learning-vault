@@ -8,16 +8,27 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGiXZdaFOqfGw/learning-public-crop_675_1200/B4EZbqVAJHGcAY-/0/1747688097053?e=2147483647&amp;v=beta&amp;t=Q8965DAbjCdMrX1gOxAuc4v62DkPYkaT4LkoXnljQhA"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career as a Power BI Specialist
-  - Become a Power BI Specialist
-  - Become a Business Intelligence Specialist
-  - Become a Data Analyst
+  - '[[Explore a Career as a Power BI Specialist]]'
+  - '[[Become a Power BI Specialist]]'
+  - '[[Become a Business Intelligence Specialist]]'
+  - '[[Become a Data Analyst]]'
+prev_courses:
+  - null
+  - '[[Learning Power BI Desktop]]'
+  - '[[Excel- Economic Analysis and Data Analytics]]'
+  - '[[Predictive Analytics Essential Training- Data Mining]]'
+next_courses:
+  - '[[Complete Guide to Power BI for Data Analysts by Microsoft Press]]'
+  - '[[Power BI Quick Tips]]'
+  - '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+  - '[[Learning Data Visualization]]'
+path_nav: '[{"path":"Explore a Career as a Power BI Specialist","position":1,"total":5,"prev":null,"next":"Complete Guide to Power BI for Data Analysts by Microsoft Press"},{"path":"Become a Power BI Specialist","position":3,"total":5,"prev":"Learning Power BI Desktop","next":"Power BI Quick Tips"},{"path":"Become a Business Intelligence Specialist","position":4,"total":9,"prev":"Excel- Economic Analysis and Data Analytics","next":"Data Literacy Exploring And Describing Data In An Ai World"},{"path":"Become a Data Analyst","position":7,"total":12,"prev":"Predictive Analytics Essential Training- Data Mining","next":"Learning Data Visualization"}]'
 path_count: 4
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Power Bi Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQGiXZdaFOqfGw/learning-public-crop_675_1200/B4EZbqVAJHGcAY-/0/1747688097053?e=2147483647&amp;v=beta&amp;t=Q8965DAbjCdMrX1gOxAuc4v62DkPYkaT4LkoXnljQhA)

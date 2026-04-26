@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEkBoq63ukdZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626803857289?e=2147483647&amp;v=beta&amp;t=KoeOR7zZ1CfQZYXs5pOIJtPr0u38gPah6lOowUKCG6M"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation for Tech Leaders
+  - '[[Digital Transformation for Tech Leaders]]'
+prev_courses:
+  - '[[Foundations of the Fourth Industrial Revolution (Industry 4.0)]]'
+next_courses:
+  - '[[Intelligent Automation Foundations]]'
+path_nav: '[{"path":"Digital Transformation for Tech Leaders","position":4,"total":15,"prev":"Foundations of the Fourth Industrial Revolution (Industry 4.0)","next":"Intelligent Automation Foundations"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to IT Automation](https://media.licdn.com/dms/image/v2/C560DAQEkBoq63ukdZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626803857289?e=2147483647&amp;v=beta&amp;t=KoeOR7zZ1CfQZYXs5pOIJtPr0u38gPah6lOowUKCG6M)

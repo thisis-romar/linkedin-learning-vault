@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGGMalAIaWm2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008938569?e=2147483647&amp;v=beta&amp;t=KJ3_7HsH-FQY5w4kr8Kvj46bQ15jaPQ1Dh8oL0nvTHg"
 linkedin_topic: Data Science
 learning_paths:
-  - Get Ahead in Business Analytics and Analysis
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+prev_courses:
+  - '[[Business Analytics Foundations- Descriptive, Exploratory, and Explanatory Analytics]]'
+next_courses:
+  - '[[Predictive Analytics Essential Training- Estimating and Ensuring ROI]]'
+path_nav: '[{"path":"Get Ahead in Business Analytics and Analysis","position":12,"total":19,"prev":"Business Analytics Foundations- Descriptive, Exploratory, and Explanatory Analytics","next":"Predictive Analytics Essential Training- Estimating and Ensuring ROI"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/business-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics](https://media.licdn.com/dms/image/v2/D560DAQGGMalAIaWm2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008938569?e=2147483647&amp;v=beta&amp;t=KJ3_7HsH-FQY5w4kr8Kvj46bQ15jaPQ1Dh8oL0nvTHg)

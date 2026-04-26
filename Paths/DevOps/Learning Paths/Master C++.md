@@ -7,7 +7,7 @@ course_count: 6
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 17
+louvain_cluster: 19
 tags:
   - learning-path
   - topic/devops
@@ -43,7 +43,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Master C++
@@ -74,3 +74,7 @@ _Paths that share courses with this one:_
 
 - [[C++ Programming Professional Certificate by OpenEDG C++ Institute]] (1 shared courses)
 - [[Getting Started with C++]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

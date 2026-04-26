@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFKkVNasvQaZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613175857531?e=2147483647&amp;v=beta&amp;t=o3MN3A5uSy3Bzum1u43RNIAZsJ-_Cp16ZlgdsO7q7U4"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills as a User Experience Researcher
+  - '[[Advance Your Skills as a User Experience Researcher]]'
+prev_courses:
+  - '[[Ux Foundations Research]]'
+next_courses:
+  - '[[UX Research- Journey Mapping]]'
+path_nav: '[{"path":"Advance Your Skills as a User Experience Researcher","position":2,"total":7,"prev":"Ux Foundations Research","next":"UX Research- Journey Mapping"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![UX Deep Dive: Foundational Research](https://media.licdn.com/dms/image/v2/C560DAQFKkVNasvQaZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613175857531?e=2147483647&amp;v=beta&amp;t=o3MN3A5uSy3Bzum1u43RNIAZsJ-_Cp16ZlgdsO7q7U4)

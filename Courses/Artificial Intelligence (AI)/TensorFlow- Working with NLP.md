@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/tensorflow-working-with-nlp-2439112
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHXRZ1Ysxw8fA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643654366588?e=2147483647&amp;v=beta&amp;t=dsjFuB2UwdcJ_0gnhsug9f6bRCYByP-u3-94h7pta5U"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your Skills with Large Language Models
+  - '[[Develop Your Skills with Large Language Models]]'
+prev_courses:
+  - '[[Gpt Foundations Building Ai Powered Apps]]'
+next_courses:
+  - '[[AI Text Summarization with Hugging Face]]'
+path_nav: '[{"path":"Develop Your Skills with Large Language Models","position":7,"total":9,"prev":"Gpt Foundations Building Ai Powered Apps","next":"AI Text Summarization with Hugging Face"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![TensorFlow: Working with NLP](https://media.licdn.com/dms/image/v2/C560DAQHXRZ1Ysxw8fA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643654366588?e=2147483647&amp;v=beta&amp;t=dsjFuB2UwdcJ_0gnhsug9f6bRCYByP-u3-94h7pta5U)

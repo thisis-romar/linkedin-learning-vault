@@ -11,7 +11,7 @@ tags:
   - instructor
   - topic/cloud-computing
   - topic/devops
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Sharif Nijim

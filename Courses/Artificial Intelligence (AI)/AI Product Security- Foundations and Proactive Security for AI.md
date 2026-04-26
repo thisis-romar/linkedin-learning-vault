@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHUwP8SSWhUTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736798892218?e=2147483647&amp;v=beta&amp;t=5-JEu3yNKOeCffGNRrkB3fykr6iJAC2rh8IjRmUj6bk"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]]'
+next_courses:
+  - '[[AI Pricing and ROI- A Technical Breakdown]]'
+path_nav: '[{"path":"Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning","position":5,"total":6,"prev":"Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI","next":"AI Pricing and ROI- A Technical Breakdown"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Product Security: Foundations and Proactive Security for AI](https://media.licdn.com/dms/image/v2/D4E0DAQHUwP8SSWhUTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736798892218?e=2147483647&amp;v=beta&amp;t=5-JEu3yNKOeCffGNRrkB3fykr6iJAC2rh8IjRmUj6bk)

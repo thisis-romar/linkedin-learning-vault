@@ -10,7 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHlTO5gx6mu8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638983225920?e=2147483647&amp;v=beta&amp;t=yghUh9Q_PGWtl5i6BMYenewGLB_XLhmrUrdyrWH-xEs"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advancing Your Azure Developer Skills- Exploring Complex Application Development
+  - '[[Advancing Your Azure Developer Skills- Exploring Complex Application Development]]'
+prev_courses:
+  - '[[Migrating to Azure]]'
+next_courses:
+  - '[[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]]'
+path_nav: '[{"path":"Advancing Your Azure Developer Skills- Exploring Complex Application Development","position":3,"total":7,"prev":"Migrating to Azure","next":"Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security"}]'
 path_count: 1
 tags:
   - course
@@ -18,7 +23,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure Data Lake for Developers](https://media.licdn.com/dms/image/v2/C560DAQHlTO5gx6mu8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638983225920?e=2147483647&amp;v=beta&amp;t=yghUh9Q_PGWtl5i6BMYenewGLB_XLhmrUrdyrWH-xEs)

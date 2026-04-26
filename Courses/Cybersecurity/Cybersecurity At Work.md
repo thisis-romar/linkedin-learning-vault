@@ -15,8 +15,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHazkyQbVTgPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689868262275?e=2147483647&amp;v=beta&amp;t=JnjYnjVGheCX8sNtBmjo0_gp6pFoX-ZvpCSG1830AXw"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Build Your Cybersecurity Awareness Skills
-  - Cybersecurity for Sales Professionals
+  - '[[Build Your Cybersecurity Awareness Skills]]'
+  - '[[Cybersecurity for Sales Professionals]]'
+next_courses:
+  - '[[Cybersecurity Awareness- AI]]'
+  - '[[Cybersecurity Awareness- Cybersecurity Terminology]]'
+path_nav: '[{"path":"Build Your Cybersecurity Awareness Skills","position":1,"total":10,"prev":null,"next":"Cybersecurity Awareness- AI"},{"path":"Cybersecurity for Sales Professionals","position":1,"total":7,"prev":null,"next":"Cybersecurity Awareness- Cybersecurity Terminology"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +31,7 @@ tags:
   - skill/security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity At Work](https://media.licdn.com/dms/image/v2/D560DAQHazkyQbVTgPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689868262275?e=2147483647&amp;v=beta&amp;t=JnjYnjVGheCX8sNtBmjo0_gp6pFoX-ZvpCSG1830AXw)

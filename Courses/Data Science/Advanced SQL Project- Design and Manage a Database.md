@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF3hIFhC6uk-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722368507963?e=2147483647&amp;v=beta&amp;t=jrn578U-t28Q6qjuokEAWvXECBVUH6JviCqU4OpqfKA"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Database Administration Skills
+  - '[[Advance Your Database Administration Skills]]'
+prev_courses:
+  - '[[Advanced SQL for Query Tuning and Performance Optimization]]'
+next_courses:
+  - '[[Cloud Architecture- Core Concepts]]'
+path_nav: '[{"path":"Advance Your Database Administration Skills","position":9,"total":11,"prev":"Advanced SQL for Query Tuning and Performance Optimization","next":"Cloud Architecture- Core Concepts"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/database-design
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced SQL Project: Design and Manage a Database](https://media.licdn.com/dms/image/v2/D560DAQF3hIFhC6uk-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722368507963?e=2147483647&amp;v=beta&amp;t=jrn578U-t28Q6qjuokEAWvXECBVUH6JviCqU4OpqfKA)

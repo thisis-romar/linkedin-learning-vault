@@ -14,10 +14,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQE_0oVM5Ci9YQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1607545228229?e=2147483647&amp;v=beta&amp;t=qmn3V8P9mJc7EP-gf9PbtpysWoWt6pqaanYUB5a8xgc"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Network Administration- Build Core Skills for Network Management and Security
-  - Networking and Administration Fundamentals
-  - The Top Skills IT Professionals Have Right Now
-  - Essential New Skills in IT Administration
+  - '[[Network Administration- Build Core Skills for Network Management and Security]]'
+  - '[[Networking and Administration Fundamentals]]'
+  - '[[The Top Skills IT Professionals Have Right Now]]'
+  - '[[Essential New Skills in IT Administration]]'
+prev_courses:
+  - null
+  - '[[Computer Science Principles- The Internet]]'
+  - null
+  - null
+next_courses:
+  - '[[Networking Foundations- IP Addressing]]'
+  - '[[Networking Foundations- IP Addressing]]'
+  - '[[Windows Server 2022 Essential Training]]'
+  - '[[Server Administration Essential Training]]'
+path_nav: '[{"path":"Network Administration- Build Core Skills for Network Management and Security","position":1,"total":6,"prev":null,"next":"Networking Foundations- IP Addressing"},{"path":"Networking and Administration Fundamentals","position":3,"total":10,"prev":"Computer Science Principles- The Internet","next":"Networking Foundations- IP Addressing"},{"path":"The Top Skills IT Professionals Have Right Now","position":1,"total":10,"prev":null,"next":"Windows Server 2022 Essential Training"},{"path":"Essential New Skills in IT Administration","position":1,"total":5,"prev":null,"next":"Server Administration Essential Training"}]'
 path_count: 4
 tags:
   - course
@@ -27,7 +38,7 @@ tags:
   - topic/devops
   - skill/network-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Networking Foundations Networking Basics](https://media.licdn.com/dms/image/v2/C4D0DAQE_0oVM5Ci9YQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1607545228229?e=2147483647&amp;v=beta&amp;t=qmn3V8P9mJc7EP-gf9PbtpysWoWt6pqaanYUB5a8xgc)

@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHR74o8vDFJww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1669663363373?e=2147483647&amp;v=beta&amp;t=87qhKOeqv_4mMD_rU2Nm-TydHZUIL4zT6m_KVWUvi-U"
 linkedin_topic: Web Development
 learning_paths:
-  - Build for Digital Accessibility
+  - '[[Build for Digital Accessibility]]'
+prev_courses:
+  - '[[HTML Forms- Accessibility]]'
+next_courses:
+  - '[[React- Components, Context, and Accessibility]]'
+path_nav: '[{"path":"Build for Digital Accessibility","position":10,"total":12,"prev":"HTML Forms- Accessibility","next":"React- Components, Context, and Accessibility"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/digital-accessibility
   - skill/computer-accessibility
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft Office Accessibility for Beginners](https://media.licdn.com/dms/image/v2/C560DAQHR74o8vDFJww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1669663363373?e=2147483647&amp;v=beta&amp;t=87qhKOeqv_4mMD_rU2Nm-TydHZUIL4zT6m_KVWUvi-U)

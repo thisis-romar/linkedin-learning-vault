@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/fundamentals-to-become-a-machine-le
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -45,7 +45,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Fundamentals to Become a Machine Learning Engineer
@@ -79,3 +79,7 @@ _Paths that share courses with this one:_
 - [[Machine Learning with Python Professional Certificate by Anaconda]] (2 shared courses)
 - [[Improve Your Programming Skills with Artificial Intelligence]] (1 shared courses)
 - [[Generative AI for Supply Chain Professional Certificate by CSCMP]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

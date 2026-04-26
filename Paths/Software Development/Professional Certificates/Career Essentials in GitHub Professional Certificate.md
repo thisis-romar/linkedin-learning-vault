@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/career-essentials-in-github-profess
 course_count: 4
 linkedin_topics:
   - Software Development
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - professional-certificate
   - topic/software-development
@@ -33,7 +33,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Career Essentials in GitHub Professional Certificate
@@ -60,3 +60,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Prepare for the GitHub Foundations Certification]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Software Development]]

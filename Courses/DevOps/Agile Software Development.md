@@ -10,10 +10,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQHiw_Jtb8aOkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1592866263723?e=2147483647&amp;v=beta&amp;t=Z3rQ8g6xupoq-H5tHejwBU1LS2kxLv7ygovfKCE7vAE"
 linkedin_topic: DevOps
 learning_paths:
-  - Applying Lean, DevOps, and Agile to Your IT Organization
-  - The Top 10 Most Popular Courses among IT Professionals
-  - Develop Your Skills as a Software Project Manager
-  - Getting Started with Agile Software Development
+  - '[[Applying Lean, DevOps, and Agile to Your IT Organization]]'
+  - '[[The Top 10 Most Popular Courses among IT Professionals]]'
+  - '[[Develop Your Skills as a Software Project Manager]]'
+  - '[[Getting Started with Agile Software Development]]'
+prev_courses:
+  - '[[Lean Foundations]]'
+  - '[[Python Essential Training]]'
+  - null
+  - null
+next_courses:
+  - '[[Agile Software Development- Transforming Your Organization]]'
+  - '[[Communicating with Confidence]]'
+  - '[[Agile Software Development- Scrum for Developers]]'
+  - '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+path_nav: '[{"path":"Applying Lean, DevOps, and Agile to Your IT Organization","position":3,"total":9,"prev":"Lean Foundations","next":"Agile Software Development- Transforming Your Organization"},{"path":"The Top 10 Most Popular Courses among IT Professionals","position":6,"total":10,"prev":"Python Essential Training","next":"Communicating with Confidence"},{"path":"Develop Your Skills as a Software Project Manager","position":1,"total":11,"prev":null,"next":"Agile Software Development- Scrum for Developers"},{"path":"Getting Started with Agile Software Development","position":1,"total":10,"prev":null,"next":"Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines"}]'
 path_count: 4
 tags:
   - course
@@ -24,7 +35,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agile Software Development](https://media.licdn.com/dms/image/v2/C4D0DAQHiw_Jtb8aOkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1592866263723?e=2147483647&amp;v=beta&amp;t=Z3rQ8g6xupoq-H5tHejwBU1LS2kxLv7ygovfKCE7vAE)

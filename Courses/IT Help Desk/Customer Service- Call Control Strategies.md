@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGbHxeaVejF6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665548814?e=2147483647&amp;v=beta&amp;t=8FlhMS8xDwv_NPlXFC35oW4r3zmbRScLV_Z_DogBKpc"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Build Your Skills In Customer Service
+  - '[[Build Your Skills In Customer Service]]'
+prev_courses:
+  - '[[Building Rapport with Customers]]'
+next_courses:
+  - '[[Customer Service- Handling Abusive Customers]]'
+path_nav: '[{"path":"Build Your Skills In Customer Service","position":4,"total":8,"prev":"Building Rapport with Customers","next":"Customer Service- Handling Abusive Customers"}]'
 path_count: 1
 tags:
   - course
   - topic/it-help-desk
   - skill/call-control
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Customer Service: Call Control Strategies](https://media.licdn.com/dms/image/v2/C4E0DAQGbHxeaVejF6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665548814?e=2147483647&amp;v=beta&amp;t=8FlhMS8xDwv_NPlXFC35oW4r3zmbRScLV_Z_DogBKpc)

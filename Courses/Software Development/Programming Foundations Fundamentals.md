@@ -8,20 +8,37 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHzuVGwXVOhcA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664503979068?e=2147483647&amp;v=beta&amp;t=E2J3giAJlYpHcPhOWjliySlIBL1EWUeRJMylkXF43Wc"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Programmer- Foundations
-  - Explore a Career as a Web Developer
-  - Explore a Career as a JavaScript Developer
-  - A Quick Start Guide to Programming in Python
-  - Career Essentials in Software Development by Microsoft and LinkedIn
-  - Become a Software Developer
-  - A Quick Start Guide to Java Programming
+  - '[[Become a Programmer- Foundations]]'
+  - '[[Explore a Career as a Web Developer]]'
+  - '[[Explore a Career as a JavaScript Developer]]'
+  - '[[A Quick Start Guide to Programming in Python]]'
+  - '[[Career Essentials in Software Development by Microsoft and LinkedIn]]'
+  - '[[Become a Software Developer]]'
+  - '[[A Quick Start Guide to Java Programming]]'
+prev_courses:
+  - null
+  - null
+  - null
+  - null
+  - '[[Introduction To Career Skills In Software Development]]'
+  - null
+  - null
+next_courses:
+  - '[[Programming Foundations- Beyond the Fundamentals]]'
+  - '[[Programming Foundations- Beyond the Fundamentals]]'
+  - '[[Programming Foundations- Beyond the Fundamentals]]'
+  - '[[Programming Foundations- Beyond the Fundamentals]]'
+  - '[[Programming Foundations- Beyond the Fundamentals]]'
+  - '[[Programming Foundations Databases]]'
+  - '[[Programming Foundations- Beyond the Fundamentals]]'
+path_nav: '[{"path":"Become a Programmer- Foundations","position":1,"total":12,"prev":null,"next":"Programming Foundations- Beyond the Fundamentals"},{"path":"Explore a Career as a Web Developer","position":1,"total":5,"prev":null,"next":"Programming Foundations- Beyond the Fundamentals"},{"path":"Explore a Career as a JavaScript Developer","position":1,"total":5,"prev":null,"next":"Programming Foundations- Beyond the Fundamentals"},{"path":"A Quick Start Guide to Programming in Python","position":1,"total":6,"prev":null,"next":"Programming Foundations- Beyond the Fundamentals"},{"path":"Career Essentials in Software Development by Microsoft and LinkedIn","position":2,"total":4,"prev":"Introduction To Career Skills In Software Development","next":"Programming Foundations- Beyond the Fundamentals"},{"path":"Become a Software Developer","position":1,"total":12,"prev":null,"next":"Programming Foundations Databases"},{"path":"A Quick Start Guide to Java Programming","position":1,"total":5,"prev":null,"next":"Programming Foundations- Beyond the Fundamentals"}]'
 path_count: 7
 tags:
   - course
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations Fundamentals](https://media.licdn.com/dms/image/v2/C4E0DAQHzuVGwXVOhcA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664503979068?e=2147483647&amp;v=beta&amp;t=E2J3giAJlYpHcPhOWjliySlIBL1EWUeRJMylkXF43Wc)

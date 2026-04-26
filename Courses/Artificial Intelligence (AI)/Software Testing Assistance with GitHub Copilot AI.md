@@ -20,8 +20,15 @@ github: "https://github.com/LinkedInLearning/software-testing-assistance-with-Gi
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGFjs4Kmb0Kzg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724431008438?e=2147483647&amp;v=beta&amp;t=DDT7dUamNhtod1CfmaAd4XM317xt1nmzouoccrmbf5E"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Transform Your Programming with AI Coding Tools
-  - Master GitHub Copilot
+  - '[[Transform Your Programming with AI Coding Tools]]'
+  - '[[Master GitHub Copilot]]'
+prev_courses:
+  - '[[ChatGPT and SQL]]'
+  - '[[Refactoring with GitHub Copilot]]'
+next_courses:
+  - '[[Responsible GitHub Copilot- Creating Reliable Code Ethically]]'
+  - null
+path_nav: '[{"path":"Transform Your Programming with AI Coding Tools","position":5,"total":7,"prev":"ChatGPT and SQL","next":"Responsible GitHub Copilot- Creating Reliable Code Ethically"},{"path":"Master GitHub Copilot","position":8,"total":8,"prev":"Refactoring with GitHub Copilot","next":null}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Software Testing Assistance with GitHub Copilot AI](https://media.licdn.com/dms/image/v2/D560DAQGFjs4Kmb0Kzg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724431008438?e=2147483647&amp;v=beta&amp;t=DDT7dUamNhtod1CfmaAd4XM317xt1nmzouoccrmbf5E)

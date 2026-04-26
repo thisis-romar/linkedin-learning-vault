@@ -16,14 +16,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQG28Ql3Bs0yPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730388803564?e=2147483647&amp;v=beta&amp;t=QGlo-65O_6reHijbEubcupnmcgVFUBliFdp0SI6ksEE"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career as a Marketing Manager
+  - '[[Explore a Career as a Marketing Manager]]'
+prev_courses:
+  - '[[The Habits of Successful Marketers]]'
+path_nav: '[{"path":"Explore a Career as a Marketing Manager","position":5,"total":5,"prev":"The Habits of Successful Marketers","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/marketing-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Marketing Foundations: Analytics (2021)](https://media.licdn.com/dms/image/v2/D4D0DAQG28Ql3Bs0yPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730388803564?e=2147483647&amp;v=beta&amp;t=QGlo-65O_6reHijbEubcupnmcgVFUBliFdp0SI6ksEE)

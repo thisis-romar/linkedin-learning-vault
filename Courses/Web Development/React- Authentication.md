@@ -18,9 +18,18 @@ github: "https://github.com/LinkedInLearning/react-authentication-6035050"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEKpKB3OkEGkw/learning-public-crop_675_1200/B4EZZAfXucGYAc-/0/1744838687924?e=2147483647&amp;v=beta&amp;t=hP9daVuR0FW7rOnO0vVLWrnbFVvwRIKD6qB52Ksy-_U"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore React.js Development
-  - Explore App Development with the MERN Stack
-  - Improve Your React Skills
+  - '[[Explore React.js Development]]'
+  - '[[Explore App Development with the MERN Stack]]'
+  - '[[Improve Your React Skills]]'
+prev_courses:
+  - '[[Building Modern Projects with React]]'
+  - '[[React Essential Training]]'
+  - '[[React- Testing and Debugging]]'
+next_courses:
+  - '[[React- Server-Side Rendering]]'
+  - '[[Node Js Essential Training]]'
+  - '[[React- Software Architecture]]'
+path_nav: '[{"path":"Explore React.js Development","position":7,"total":8,"prev":"Building Modern Projects with React","next":"React- Server-Side Rendering"},{"path":"Explore App Development with the MERN Stack","position":2,"total":13,"prev":"React Essential Training","next":"Node Js Essential Training"},{"path":"Improve Your React Skills","position":6,"total":9,"prev":"React- Testing and Debugging","next":"React- Software Architecture"}]'
 path_count: 3
 tags:
   - course
@@ -30,7 +39,7 @@ tags:
   - skill/react-js
   - skill/authentication-systems
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React: Authentication](https://media.licdn.com/dms/image/v2/D4E0DAQEKpKB3OkEGkw/learning-public-crop_675_1200/B4EZZAfXucGYAc-/0/1744838687924?e=2147483647&amp;v=beta&amp;t=hP9daVuR0FW7rOnO0vVLWrnbFVvwRIKD6qB52Ksy-_U)

@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF-K27TCH4AoQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118627641?e=2147483647&amp;v=beta&amp;t=KKUIh9ScJZH1j85bom748v-d6xj8LzjFyXwnIk9sXT4"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started In Spring Development
+  - '[[Getting Started In Spring Development]]'
+prev_courses:
+  - '[[Spring 6- Spring Security]]'
+path_nav: '[{"path":"Getting Started In Spring Development","position":5,"total":5,"prev":"Spring 6- Spring Security","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/full-stack-development
   - skill/react-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Full-Stack Apps with React and Spring](https://media.licdn.com/dms/image/v2/C4E0DAQF-K27TCH4AoQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118627641?e=2147483647&amp;v=beta&amp;t=KKUIh9ScJZH1j85bom748v-d6xj8LzjFyXwnIk9sXT4)

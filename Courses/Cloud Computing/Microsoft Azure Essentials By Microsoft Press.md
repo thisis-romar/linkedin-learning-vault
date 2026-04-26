@@ -14,14 +14,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGSgnRij8uY0g/learning-public-crop_675_1200/B56ZwvIMJAGUAY-/0/1770317202367?e=2147483647&amp;v=beta&amp;t=4dySCTQZ-MpS6K1Pyhf8S18SdPP1mpx6nS4xCYdoT84"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Microsoft Azure Essentials Professional Certificate by Microsoft and LinkedIn
+  - '[[Microsoft Azure Essentials Professional Certificate by Microsoft and LinkedIn]]'
+path_nav: '[{"path":"Microsoft Azure Essentials Professional Certificate by Microsoft and LinkedIn","position":1,"total":1,"prev":null,"next":null}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft Azure Essentials By Microsoft Press](https://media.licdn.com/dms/image/v2/D560DAQGSgnRij8uY0g/learning-public-crop_675_1200/B56ZwvIMJAGUAY-/0/1770317202367?e=2147483647&amp;v=beta&amp;t=4dySCTQZ-MpS6K1Pyhf8S18SdPP1mpx6nS4xCYdoT84)

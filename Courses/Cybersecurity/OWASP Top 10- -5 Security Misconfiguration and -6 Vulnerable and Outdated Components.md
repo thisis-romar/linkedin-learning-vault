@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHRz3NOlM6iZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667500810529?e=2147483647&amp;v=beta&amp;t=5GXoFbreevSEBAItn2KSqxi_LUF855UJ-5AqMiJoyhE"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Master the OWASP Top 10
+  - '[[Master the OWASP Top 10]]'
+prev_courses:
+  - '[[OWASP Top 10- -3 Injection and -4 Insecure Design]]'
+next_courses:
+  - '[[OWASP Top 10- -7 Identification and Authentication Failures and -8 Software and Data Integrity Failures]]'
+path_nav: '[{"path":"Master the OWASP Top 10","position":4,"total":6,"prev":"OWASP Top 10- -3 Injection and -4 Insecure Design","next":"OWASP Top 10- -7 Identification and Authentication Failures and -8 Software and Data Integrity Failures"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/vulnerability-assessment
   - skill/application-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![OWASP Top 10: #5 Security Misconfiguration and #6 Vulnerable and Outdated Components](https://media.licdn.com/dms/image/v2/D560DAQHRz3NOlM6iZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667500810529?e=2147483647&amp;v=beta&amp;t=5GXoFbreevSEBAItn2KSqxi_LUF855UJ-5AqMiJoyhE)

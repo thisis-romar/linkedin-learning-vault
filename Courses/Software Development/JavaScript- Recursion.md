@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/javascript-recursion-2887233"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQETCQbptznOVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637347099901?e=2147483647&amp;v=beta&amp;t=vMmRnT78QbyIr74Pmd1kT8J9w3xT_yPsj1pFWY3hNVs"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your JavaScript Language Skills
+  - '[[Improve Your JavaScript Language Skills]]'
+prev_courses:
+  - '[[Level Up- JavaScript]]'
+next_courses:
+  - '[[JavaScript- Arrays]]'
+path_nav: '[{"path":"Improve Your JavaScript Language Skills","position":4,"total":8,"prev":"Level Up- JavaScript","next":"JavaScript- Arrays"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Recursion](https://media.licdn.com/dms/image/v2/C560DAQETCQbptznOVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637347099901?e=2147483647&amp;v=beta&amp;t=vMmRnT78QbyIr74Pmd1kT8J9w3xT_yPsj1pFWY3hNVs)

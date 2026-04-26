@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFCk2DYo3SdLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708040860998?e=2147483647&amp;v=beta&amp;t=ur7fCNI-LE0VK0j8h1frzGCx-FyRqF8MH-WuBGw9TaA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Improve Your Programming Skills with Artificial Intelligence
+  - '[[Improve Your Programming Skills with Artificial Intelligence]]'
+next_courses:
+  - '[[Machine Learning with Python- Foundations]]'
+path_nav: '[{"path":"Improve Your Programming Skills with Artificial Intelligence","position":1,"total":4,"prev":null,"next":"Machine Learning with Python- Foundations"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands On Ai Build Your Own Gpts](https://media.licdn.com/dms/image/v2/D560DAQFCk2DYo3SdLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708040860998?e=2147483647&amp;v=beta&amp;t=ur7fCNI-LE0VK0j8h1frzGCx-FyRqF8MH-WuBGw9TaA)

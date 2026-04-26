@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGZbTfGk5Crsw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711387718548?e=2147483647&amp;v=beta&amp;t=oBAlaEyekf198M3OTXjIjPmF6lur_jQUzcxIZPDzU_g"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Become a JavaScript Developer
+  - '[[Become a JavaScript Developer]]'
+prev_courses:
+  - '[[Learning ECMAScript 6+ (ES6+)]]'
+next_courses:
+  - '[[JavaScript- Prototypes]]'
+path_nav: '[{"path":"Become a JavaScript Developer","position":4,"total":13,"prev":"Learning ECMAScript 6+ (ES6+)","next":"JavaScript- Prototypes"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Scope](https://media.licdn.com/dms/image/v2/D4E0DAQGZbTfGk5Crsw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711387718548?e=2147483647&amp;v=beta&amp;t=oBAlaEyekf198M3OTXjIjPmF6lur_jQUzcxIZPDzU_g)

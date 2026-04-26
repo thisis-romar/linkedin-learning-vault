@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/introduction-to-aws-ai-services-for
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGq2TjllTTTyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715042358770?e=2147483647&amp;v=beta&amp;t=vPk7rvzturvJBIFqDrZbRiTHLJTyzyN-mamvWlBa5IE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your AWS Development Skills- Exploring Complex Application Development
+  - '[[Advance Your AWS Development Skills- Exploring Complex Application Development]]'
+prev_courses:
+  - '[[Aws Essential Training For Developers]]'
+next_courses:
+  - '[[AWS for Developers- CLI Tips]]'
+path_nav: '[{"path":"Advance Your AWS Development Skills- Exploring Complex Application Development","position":2,"total":6,"prev":"Aws Essential Training For Developers","next":"AWS for Developers- CLI Tips"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to AWS AI Services for Developers](https://media.licdn.com/dms/image/v2/D560DAQGq2TjllTTTyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715042358770?e=2147483647&amp;v=beta&amp;t=vPk7rvzturvJBIFqDrZbRiTHLJTyzyN-mamvWlBa5IE)

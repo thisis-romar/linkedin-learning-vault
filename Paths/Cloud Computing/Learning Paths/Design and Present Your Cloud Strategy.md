@@ -43,7 +43,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Design and Present Your Cloud Strategy
@@ -77,3 +77,7 @@ _Paths that share courses with this one:_
 - [[Explore a Career as a Cloud Administrator]] (1 shared courses)
 - [[Build an Enterprise Cloud Architecture]] (1 shared courses)
 - [[Advance Your Communication Skills as a Tech Manager]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

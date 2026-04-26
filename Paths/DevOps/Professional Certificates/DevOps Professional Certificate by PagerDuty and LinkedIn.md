@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/devops-professional-certificate-by-
 course_count: 3
 linkedin_topics:
   - DevOps
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - professional-certificate
   - topic/devops
@@ -29,7 +29,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # DevOps Professional Certificate by PagerDuty and LinkedIn
@@ -59,3 +59,7 @@ _Paths that share courses with this one:_
 - [[Develop Your Skills as a Software Project Manager]] (1 shared courses)
 - [[Become a Full-Stack Web Developer]] (1 shared courses)
 - [[Infrastructure as Code with Terraform]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

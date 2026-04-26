@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFjSHWCcikLXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1591394884791?e=2147483647&amp;v=beta&amp;t=DxcxCq8jMxpLAXUYTt4Xga6k_ZKeFKqVAq4KkNlkfAo"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Advance Your Skills as an IT Help Desk Specialist
+  - '[[Advance Your Skills as an IT Help Desk Specialist]]'
+prev_courses:
+  - '[[Writing Customer Service Emails]]'
+next_courses:
+  - '[[Customer Service- Problem-Solving and Troubleshooting]]'
+path_nav: '[{"path":"Advance Your Skills as an IT Help Desk Specialist","position":8,"total":11,"prev":"Writing Customer Service Emails","next":"Customer Service- Problem-Solving and Troubleshooting"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/professional-phone-skills
   - skill/customer-service
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Phone-Based Customer Service](https://media.licdn.com/dms/image/v2/C4E0DAQFjSHWCcikLXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1591394884791?e=2147483647&amp;v=beta&amp;t=DxcxCq8jMxpLAXUYTt4Xga6k_ZKeFKqVAq4KkNlkfAo)

@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/openai-api-speech-3834416"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFQl_W9q21TkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706575739148?e=2147483647&amp;v=beta&amp;t=IUtotIzdaPqmspHH3ty0QufVLF25heN2sAmR4h_hO5A"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your Skills with the OpenAI API
+  - '[[Develop Your Skills with the OpenAI API]]'
+prev_courses:
+  - '[[OpenAI API- Vision]]'
+next_courses:
+  - '[[OpenAI API- Moderation]]'
+path_nav: '[{"path":"Develop Your Skills with the OpenAI API","position":8,"total":10,"prev":"OpenAI API- Vision","next":"OpenAI API- Moderation"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![OpenAI API: Speech](https://media.licdn.com/dms/image/v2/D4E0DAQFQl_W9q21TkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706575739148?e=2147483647&amp;v=beta&amp;t=IUtotIzdaPqmspHH3ty0QufVLF25heN2sAmR4h_hO5A)

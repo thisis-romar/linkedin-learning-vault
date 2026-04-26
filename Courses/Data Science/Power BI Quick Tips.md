@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE_qsU1MHnSAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736814215640?e=2147483647&amp;v=beta&amp;t=CvWiB_NbrXdTQHQrlqNVN20zM8WYQBJoR_0VGajBoyw"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Power BI Specialist
+  - '[[Become a Power BI Specialist]]'
+prev_courses:
+  - '[[Power Bi Essential Training]]'
+next_courses:
+  - '[[Power BI Mistakes to Avoid]]'
+path_nav: '[{"path":"Become a Power BI Specialist","position":4,"total":5,"prev":"Power Bi Essential Training","next":"Power BI Mistakes to Avoid"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Power BI Quick Tips](https://media.licdn.com/dms/image/v2/D4D0DAQE_qsU1MHnSAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736814215640?e=2147483647&amp;v=beta&amp;t=CvWiB_NbrXdTQHQrlqNVN20zM8WYQBJoR_0VGajBoyw)

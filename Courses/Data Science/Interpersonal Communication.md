@@ -14,15 +14,22 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGK0nwKKcyHqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689186133224?e=2147483647&amp;v=beta&amp;t=m98yHUxfdk8jEkWLaWMb6w0MnqtUL2VmKiJbO0oBdOw"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Business Analyst
-  - LinkedIn’s 2025 Top MBA Programs Learning Path
+  - '[[Getting Started as a Business Analyst]]'
+  - '[[LinkedIn’s 2025 Top MBA Programs Learning Path]]'
+prev_courses:
+  - '[[Communication within Teams (2021)]]'
+  - '[[Executive Leadership]]'
+next_courses:
+  - '[[Negotiation Foundations]]'
+  - '[[The Smart Way to Grow Your Network with LinkedIn''s Andrew McCaskill]]'
+path_nav: '[{"path":"Getting Started as a Business Analyst","position":17,"total":18,"prev":"Communication within Teams (2021)","next":"Negotiation Foundations"},{"path":"LinkedIn’s 2025 Top MBA Programs Learning Path","position":2,"total":10,"prev":"Executive Leadership","next":"The Smart Way to Grow Your Network with LinkedIn''s Andrew McCaskill"}]'
 path_count: 2
 tags:
   - course
   - topic/data-science
   - skill/interpersonal-communication
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Interpersonal Communication](https://media.licdn.com/dms/image/v2/D560DAQGK0nwKKcyHqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689186133224?e=2147483647&amp;v=beta&amp;t=m98yHUxfdk8jEkWLaWMb6w0MnqtUL2VmKiJbO0oBdOw)

@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHKo9yS4P2Vnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664215618381?e=2147483647&amp;v=beta&amp;t=IWJMwHVxsYt6tAmV5mICp7dp6BNT9rZ2SXROc7Mke4o"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Cisco Network Security- Safeguarding Network Integrity and Data
+  - '[[Cisco Network Security- Safeguarding Network Integrity and Data]]'
+prev_courses:
+  - '[[Cisco Network Security- Secure Routing and Switching]]'
+next_courses:
+  - '[[Cisco Network Security- Intrusion Detection and Prevention]]'
+path_nav: '[{"path":"Cisco Network Security- Safeguarding Network Integrity and Data","position":5,"total":7,"prev":"Cisco Network Security- Secure Routing and Switching","next":"Cisco Network Security- Intrusion Detection and Prevention"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/network-security
   - skill/cisco-firewall-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cisco Network Security: Cisco Firewall Technologies](https://media.licdn.com/dms/image/v2/C4E0DAQHKo9yS4P2Vnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664215618381?e=2147483647&amp;v=beta&amp;t=IWJMwHVxsYt6tAmV5mICp7dp6BNT9rZ2SXROc7Mke4o)

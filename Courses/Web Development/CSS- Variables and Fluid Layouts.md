@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEPyNySxD5aOg/learning-public-crop_675_1200/B4DZYmS.4.GkAY-/0/1744399232878?e=2147483647&amp;v=beta&amp;t=P9YglCxaatDQ99RbpBVjQrcX2gwZq540kv3-b-E8aiY"
 linkedin_topic: Web Development
 learning_paths:
-  - Learn CSS
+  - '[[Learn CSS]]'
+prev_courses:
+  - '[[CSS- Advanced Layouts with Grid]]'
+next_courses:
+  - '[[CSS Layouts- From Float to Flexbox and Grid]]'
+path_nav: '[{"path":"Learn CSS","position":10,"total":12,"prev":"CSS- Advanced Layouts with Grid","next":"CSS Layouts- From Float to Flexbox and Grid"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![CSS: Variables and Fluid Layouts](https://media.licdn.com/dms/image/v2/D4D0DAQEPyNySxD5aOg/learning-public-crop_675_1200/B4DZYmS.4.GkAY-/0/1744399232878?e=2147483647&amp;v=beta&amp;t=P9YglCxaatDQ99RbpBVjQrcX2gwZq540kv3-b-E8aiY)

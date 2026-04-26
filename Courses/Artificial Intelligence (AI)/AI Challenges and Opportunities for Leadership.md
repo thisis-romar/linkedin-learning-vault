@@ -10,9 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGYvQ-OAeyO7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697135680957?e=2147483647&amp;v=beta&amp;t=u1jog8jMVP9ArGuVPKPA0HUctM_UXyF0K2rrjlOyCxc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI for Organizational Leaders by Microsoft and LinkedIn
-  - Technical Literacy and Future Readiness for Senior Managers and Senior Leaders
-  - Build AI Aptitude as a Senior Manager
+  - '[[AI for Organizational Leaders by Microsoft and LinkedIn]]'
+  - '[[Technical Literacy and Future Readiness for Senior Managers and Senior Leaders]]'
+  - '[[Build AI Aptitude as a Senior Manager]]'
+prev_courses:
+  - '[[How to Keep Your Team on the Bleeding Edge of AI Innovation]]'
+  - '[[How to Keep Your Team on the Bleeding Edge of AI Innovation]]'
+  - null
+next_courses:
+  - '[[Integrating Generative AI into Business Strategy]]'
+  - '[[AI Cheat Sheet for Business Leaders]]'
+  - '[[Generative AI and Workplace Transformation]]'
+path_nav: '[{"path":"AI for Organizational Leaders by Microsoft and LinkedIn","position":3,"total":6,"prev":"How to Keep Your Team on the Bleeding Edge of AI Innovation","next":"Integrating Generative AI into Business Strategy"},{"path":"Technical Literacy and Future Readiness for Senior Managers and Senior Leaders","position":6,"total":10,"prev":"How to Keep Your Team on the Bleeding Edge of AI Innovation","next":"AI Cheat Sheet for Business Leaders"},{"path":"Build AI Aptitude as a Senior Manager","position":1,"total":6,"prev":null,"next":"Generative AI and Workplace Transformation"}]'
 path_count: 3
 tags:
   - course
@@ -20,7 +29,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Challenges and Opportunities for Leadership](https://media.licdn.com/dms/image/v2/D560DAQGYvQ-OAeyO7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697135680957?e=2147483647&amp;v=beta&amp;t=u1jog8jMVP9ArGuVPKPA0HUctM_UXyF0K2rrjlOyCxc)

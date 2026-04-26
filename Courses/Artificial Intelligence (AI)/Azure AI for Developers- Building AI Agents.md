@@ -20,7 +20,10 @@ github: "https://github.com/LinkedInLearning/azure-ai-for-developers-building-ai
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEyKymcipp_aA/learning-public-crop_675_1200/B4DZT8ohaqG4AY-/0/1739405269386?e=2147483647&amp;v=beta&amp;t=NAVYcoh6dFmTD_1MQMP3ukKW-ZHO7ag-F560tDugFBg"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build AI Products Using Azure AI Services in Your Development Lifecycle
+  - '[[Build AI Products Using Azure AI Services in Your Development Lifecycle]]'
+prev_courses:
+  - '[[Azure AI for Developers- Azure AI Speech]]'
+path_nav: '[{"path":"Build AI Products Using Azure AI Services in Your Development Lifecycle","position":8,"total":8,"prev":"Azure AI for Developers- Azure AI Speech","next":null}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/semantic-kernel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure AI for Developers: Building AI Agents](https://media.licdn.com/dms/image/v2/D4D0DAQEyKymcipp_aA/learning-public-crop_675_1200/B4DZT8ohaqG4AY-/0/1739405269386?e=2147483647&amp;v=beta&amp;t=NAVYcoh6dFmTD_1MQMP3ukKW-ZHO7ag-F560tDugFBg)

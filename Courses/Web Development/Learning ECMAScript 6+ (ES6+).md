@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEbJyxmzaY-ZA/learning-public-crop_675_1200/B4EZX4YHdPGYAk-/0/1743628826778?e=2147483647&amp;v=beta&amp;t=OrblxegD5XwDLlT3IMkO1ieZ6soW0C0J3gFtb_r5mtE"
 linkedin_topic: Web Development
 learning_paths:
-  - Become a Full-Stack Web Developer
-  - Become a JavaScript Developer
+  - '[[Become a Full-Stack Web Developer]]'
+  - '[[Become a JavaScript Developer]]'
+prev_courses:
+  - '[[Search Techniques for Web Developers]]'
+  - '[[Learning The Javascript Language]]'
+next_courses:
+  - '[[Git Essential Training]]'
+  - '[[JavaScript- Scope]]'
+path_nav: '[{"path":"Become a Full-Stack Web Developer","position":5,"total":12,"prev":"Search Techniques for Web Developers","next":"Git Essential Training"},{"path":"Become a JavaScript Developer","position":3,"total":13,"prev":"Learning The Javascript Language","next":"JavaScript- Scope"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/javascript
   - skill/ecmascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning ECMAScript 6+ (ES6+)](https://media.licdn.com/dms/image/v2/D4E0DAQEbJyxmzaY-ZA/learning-public-crop_675_1200/B4EZX4YHdPGYAk-/0/1743628826778?e=2147483647&amp;v=beta&amp;t=OrblxegD5XwDLlT3IMkO1ieZ6soW0C0J3gFtb_r5mtE)

@@ -17,7 +17,8 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHHgbALjUUTXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732667684549?e=2147483647&amp;v=beta&amp;t=QfzMKn8KSMVgh0UXRjAq62jQXhHve3nvhdUQxT8GT2Q"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Microsoft Azure AI Essentials Professional Certificate by Microsoft and LinkedIn
+  - '[[Microsoft Azure AI Essentials Professional Certificate by Microsoft and LinkedIn]]'
+path_nav: '[{"path":"Microsoft Azure AI Essentials Professional Certificate by Microsoft and LinkedIn","position":1,"total":1,"prev":null,"next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +30,7 @@ tags:
   - skill/azure-ai-foundry
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure](https://media.licdn.com/dms/image/v2/D4D0DAQHHgbALjUUTXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732667684549?e=2147483647&amp;v=beta&amp;t=QfzMKn8KSMVgh0UXRjAq62jQXhHve3nvhdUQxT8GT2Q)

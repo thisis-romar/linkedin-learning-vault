@@ -17,9 +17,18 @@ github: "https://github.com/LinkedInLearning/learning-kubernetes-3212391/codespa
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHvMfWguLq9Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668460173594?e=2147483647&amp;v=beta&amp;t=TFNzmvkGWIHyltpUBdmMZUMiH90oDmjYbZ03xi5S_uQ"
 linkedin_topic: Data Science
 learning_paths:
-  - The Top 10 Most Popular Courses among Engineering Professionals
-  - MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security
-  - Getting Started with Kubernetes
+  - '[[The Top 10 Most Popular Courses among Engineering Professionals]]'
+  - '[[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]]'
+  - '[[Getting Started with Kubernetes]]'
+prev_courses:
+  - '[[JavaScript Essential Training]]'
+  - '[[Learning Docker]]'
+  - null
+next_courses:
+  - '[[Git Essential Training]]'
+  - '[[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]]'
+  - '[[Kubernetes- Your First Project (2021)]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among Engineering Professionals","position":7,"total":10,"prev":"JavaScript Essential Training","next":"Git Essential Training"},{"path":"MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security","position":2,"total":10,"prev":"Learning Docker","next":"Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios"},{"path":"Getting Started with Kubernetes","position":1,"total":6,"prev":null,"next":"Kubernetes- Your First Project (2021)"}]'
 path_count: 3
 tags:
   - course
@@ -30,7 +39,7 @@ tags:
   - topic/artificial-intelligence
   - skill/kubernetes
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Kubernetes](https://media.licdn.com/dms/image/v2/C560DAQHvMfWguLq9Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668460173594?e=2147483647&amp;v=beta&amp;t=TFNzmvkGWIHyltpUBdmMZUMiH90oDmjYbZ03xi5S_uQ)

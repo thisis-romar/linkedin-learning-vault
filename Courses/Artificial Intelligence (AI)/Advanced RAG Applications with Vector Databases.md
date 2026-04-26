@@ -21,9 +21,18 @@ github: "https://github.com/LinkedInLearning/advanced-rag-applications-with-vect
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFonI7LTbFo_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727723235646?e=2147483647&amp;v=beta&amp;t=KcI1L2PD0dAs_AAGyJoMpneLG2Xb_HqAeue6F65UDHM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Generative AI Skills for Developers
-  - Explore AI for Data Engineering
-  - Master Retrieval-Augmented Generation (RAG)
+  - '[[Building Generative AI Skills for Developers]]'
+  - '[[Explore AI for Data Engineering]]'
+  - '[[Master Retrieval-Augmented Generation (RAG)]]'
+prev_courses:
+  - '[[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]]'
+  - '[[GraphRAG Essential Training]]'
+  - '[[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]]'
+next_courses:
+  - '[[RAG Fine-Tuning- Advanced Techniques for Accuracy and Model Performance]]'
+  - null
+  - '[[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]]'
+path_nav: '[{"path":"Building Generative AI Skills for Developers","position":5,"total":7,"prev":"LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)","next":"RAG Fine-Tuning- Advanced Techniques for Accuracy and Model Performance"},{"path":"Explore AI for Data Engineering","position":8,"total":8,"prev":"GraphRAG Essential Training","next":null},{"path":"Master Retrieval-Augmented Generation (RAG)","position":5,"total":7,"prev":"LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)","next":"Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)"}]'
 path_count: 3
 tags:
   - course
@@ -36,7 +45,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced RAG Applications with Vector Databases](https://media.licdn.com/dms/image/v2/D4E0DAQFonI7LTbFo_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727723235646?e=2147483647&amp;v=beta&amp;t=KcI1L2PD0dAs_AAGyJoMpneLG2Xb_HqAeue6F65UDHM)

@@ -17,15 +17,22 @@ github: "https://github.com/LinkedInLearning/level-up-advanced-core-python-32133
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQG5HTatEks7cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713900195184?e=2147483647&amp;v=beta&amp;t=qD8ZAycHwEls2pty_rRMw5jplrMvgCaH7oN_U1BMbbQ"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
-  - Master Your Python Skills
+  - '[[Python Hands-On Practice]]'
+  - '[[Master Your Python Skills]]'
+prev_courses:
+  - '[[Case Study- Visualize Complex Microservice Data Using Python]]'
+  - '[[Python- Working with Predictive Analytics (2019)]]'
+next_courses:
+  - null
+  - '[[Case Study- Visualize Complex Microservice Data Using Python]]'
+path_nav: '[{"path":"Python Hands-On Practice","position":14,"total":14,"prev":"Case Study- Visualize Complex Microservice Data Using Python","next":null},{"path":"Master Your Python Skills","position":10,"total":11,"prev":"Python- Working with Predictive Analytics (2019)","next":"Case Study- Visualize Complex Microservice Data Using Python"}]'
 path_count: 2
 tags:
   - course
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Level Up: Advanced Python](https://media.licdn.com/dms/image/v2/D4E0DAQG5HTatEks7cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713900195184?e=2147483647&amp;v=beta&amp;t=qD8ZAycHwEls2pty_rRMw5jplrMvgCaH7oN_U1BMbbQ)

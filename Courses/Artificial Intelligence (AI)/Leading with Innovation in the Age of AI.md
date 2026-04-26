@@ -19,8 +19,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEQ2YSgHz5K0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721248100559?e=2147483647&amp;v=beta&amp;t=2Ssz55RTD1ZL0aUH4zKLmqybu4Ao8GMrTgcGTPh8Mqk"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Master Digital Transformation
-  - Technical Literacy and Future Readiness for Senior Executives
+  - '[[Master Digital Transformation]]'
+  - '[[Technical Literacy and Future Readiness for Senior Executives]]'
+prev_courses:
+  - '[[Strategic Agility for Organizational Leaders]]'
+  - '[[AI Literacy for Business Leaders]]'
+next_courses:
+  - '[[Cloud Architecture- Core Concepts]]'
+  - '[[Generative AI and Workplace Transformation]]'
+path_nav: '[{"path":"Master Digital Transformation","position":4,"total":13,"prev":"Strategic Agility for Organizational Leaders","next":"Cloud Architecture- Core Concepts"},{"path":"Technical Literacy and Future Readiness for Senior Executives","position":2,"total":6,"prev":"AI Literacy for Business Leaders","next":"Generative AI and Workplace Transformation"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/ai-for-leadership
   - skill/leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leading with Innovation in the Age of AI](https://media.licdn.com/dms/image/v2/D560DAQEQ2YSgHz5K0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721248100559?e=2147483647&amp;v=beta&amp;t=2Ssz55RTD1ZL0aUH4zKLmqybu4Ao8GMrTgcGTPh8Mqk)

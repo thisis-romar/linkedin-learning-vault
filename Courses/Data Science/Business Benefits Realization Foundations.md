@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEftwhpC1Dlaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627665194602?e=2147483647&amp;v=beta&amp;t=XWRiVdzQYGU5HRbUKxgwhI58zVgVCxhx2eMyS-u8srE"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Business Analyst
+  - '[[Getting Started as a Business Analyst]]'
+prev_courses:
+  - '[[Agile Requirements Foundations]]'
+next_courses:
+  - '[[Business Analyst and Project Manager Collaboration (2018)]]'
+path_nav: '[{"path":"Getting Started as a Business Analyst","position":5,"total":18,"prev":"Agile Requirements Foundations","next":"Business Analyst and Project Manager Collaboration (2018)"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/benefits-realisation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Benefits Realization Foundations](https://media.licdn.com/dms/image/v2/C560DAQEftwhpC1Dlaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627665194602?e=2147483647&amp;v=beta&amp;t=XWRiVdzQYGU5HRbUKxgwhI58zVgVCxhx2eMyS-u8srE)

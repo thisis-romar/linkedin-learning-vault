@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEss8MafZ3J9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599238632614?e=2147483647&amp;v=beta&amp;t=X83AL32wX1wNdjinTCU0Lp0uF_MfFs1sSgW8sS_6-wM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Starting Your Career in Tech- DevOps
+  - '[[Starting Your Career in Tech- DevOps]]'
+prev_courses:
+  - '[[Succeeding in DevOps]]'
+next_courses:
+  - '[[DevOps Foundations- Transforming the Enterprise]]'
+path_nav: '[{"path":"Starting Your Career in Tech- DevOps","position":4,"total":5,"prev":"Succeeding in DevOps","next":"DevOps Foundations- Transforming the Enterprise"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - topic/software-development
   - skill/devops
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![DevOps Tips](https://media.licdn.com/dms/image/v2/C4E0DAQEss8MafZ3J9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599238632614?e=2147483647&amp;v=beta&amp;t=X83AL32wX1wNdjinTCU0Lp0uF_MfFs1sSgW8sS_6-wM)

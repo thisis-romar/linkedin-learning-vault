@@ -18,9 +18,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHEFsh3rY0RsA/learning-public-crop_675_1200/B4EZjxsn1.GoAg-/0/1756401663658?e=2147483647&amp;v=beta&amp;t=JqNa50FLj-1PN3vXiBE0nXHRUWO8YZbrwuRDfn36H2o"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Explore a Career as a Cloud Administrator
-  - Design and Present Your Cloud Strategy
-  - Cloud Strategy Professional Certificate by LinkedIn Learning
+  - '[[Explore a Career as a Cloud Administrator]]'
+  - '[[Design and Present Your Cloud Strategy]]'
+  - '[[Cloud Strategy Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Cloud Computing Understanding Core Concepts]]'
+  - null
+  - null
+next_courses:
+  - '[[Cloud Storage Concepts- Services, Cost Control, and Security]]'
+  - '[[Cloud Architecture- Design Decisions]]'
+  - '[[Cloud Security Concepts- Services and Compliance]]'
+path_nav: '[{"path":"Explore a Career as a Cloud Administrator","position":2,"total":6,"prev":"Cloud Computing Understanding Core Concepts","next":"Cloud Storage Concepts- Services, Cost Control, and Security"},{"path":"Design and Present Your Cloud Strategy","position":1,"total":6,"prev":null,"next":"Cloud Architecture- Design Decisions"},{"path":"Cloud Strategy Professional Certificate by LinkedIn Learning","position":1,"total":9,"prev":null,"next":"Cloud Security Concepts- Services and Compliance"}]'
 path_count: 3
 tags:
   - course
@@ -31,7 +40,7 @@ tags:
   - skill/cloud-infrastructure
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Determining Your Cloud Strategy: Planning for Roadmap, Infrastructure, and Deployment](https://media.licdn.com/dms/image/v2/D4E0DAQHEFsh3rY0RsA/learning-public-crop_675_1200/B4EZjxsn1.GoAg-/0/1756401663658?e=2147483647&amp;v=beta&amp;t=JqNa50FLj-1PN3vXiBE0nXHRUWO8YZbrwuRDfn36H2o)

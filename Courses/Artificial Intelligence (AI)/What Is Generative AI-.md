@@ -18,14 +18,33 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQE84AgCpYxX-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678908578362?e=2147483647&amp;v=beta&amp;t=a98eIRnX7cDFPO7xBFd5OJAaCJYgvkYmCY6MNTJD79o"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying AI as a Tech Leader
-  - Become an AI-Powered Recruiter
-  - Understanding Generative AI for Tech Leaders
-  - Building ChatGPT Skills for Business Professionals
-  - Understanding AI for Creative Professionals
-  - Building Generative AI Skills for Web Developers
-  - Building AI Literacy
-  - Career Essentials in Generative AI by Microsoft and LinkedIn
+  - '[[Applying AI as a Tech Leader]]'
+  - '[[Become an AI-Powered Recruiter]]'
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[Building ChatGPT Skills for Business Professionals]]'
+  - '[[Understanding AI for Creative Professionals]]'
+  - '[[Building Generative AI Skills for Web Developers]]'
+  - '[[Building AI Literacy]]'
+  - '[[Career Essentials in Generative AI by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Generative AI for Business Leaders]]'
+  - null
+  - null
+  - null
+  - '[[Everyday Ai Concepts]]'
+  - null
+  - '[[How to Boost Your Productivity with AI Tools]]'
+  - null
+next_courses:
+  - '[[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]]'
+  - '[[Generative AI in HR]]'
+  - '[[Generative AI vs. Traditional AI]]'
+  - '[[How to Research and Write Using Generative AI Tools (2023)]]'
+  - '[[Finding Creativity in the Age of AI]]'
+  - '[[Generative AI vs. Traditional AI]]'
+  - '[[Prompt Engineering- How to Talk to the AIs]]'
+  - '[[Your Top Ai Questions Answered Ai Literacy For Everyone]]'
+path_nav: '[{"path":"Applying AI as a Tech Leader","position":3,"total":8,"prev":"Generative AI for Business Leaders","next":"AI and the Future of Work- Workflows and Modern Tools for Tech Leaders"},{"path":"Become an AI-Powered Recruiter","position":1,"total":5,"prev":null,"next":"Generative AI in HR"},{"path":"Understanding Generative AI for Tech Leaders","position":1,"total":22,"prev":null,"next":"Generative AI vs. Traditional AI"},{"path":"Building ChatGPT Skills for Business Professionals","position":1,"total":6,"prev":null,"next":"How to Research and Write Using Generative AI Tools (2023)"},{"path":"Understanding AI for Creative Professionals","position":2,"total":7,"prev":"Everyday Ai Concepts","next":"Finding Creativity in the Age of AI"},{"path":"Building Generative AI Skills for Web Developers","position":1,"total":10,"prev":null,"next":"Generative AI vs. Traditional AI"},{"path":"Building AI Literacy","position":3,"total":7,"prev":"How to Boost Your Productivity with AI Tools","next":"Prompt Engineering- How to Talk to the AIs"},{"path":"Career Essentials in Generative AI by Microsoft and LinkedIn","position":1,"total":5,"prev":null,"next":"Your Top Ai Questions Answered Ai Literacy For Everyone"}]'
 path_count: 8
 tags:
   - course
@@ -39,7 +58,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![What Is Generative AI?](https://media.licdn.com/dms/image/v2/C4E0DAQE84AgCpYxX-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678908578362?e=2147483647&amp;v=beta&amp;t=a98eIRnX7cDFPO7xBFd5OJAaCJYgvkYmCY6MNTJD79o)

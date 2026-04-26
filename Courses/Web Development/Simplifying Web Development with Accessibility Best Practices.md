@@ -10,14 +10,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGvnExQWRvuDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622152004842?e=2147483647&amp;v=beta&amp;t=0qellubEwrYR9nJeO84vRKbAdxom225hGsHAiQj6a6g"
 linkedin_topic: Web Development
 learning_paths:
-  - Prepare for Digital Accessibility
-  - Explore a Career in Front-End Web Development
+  - '[[Prepare for Digital Accessibility]]'
+  - '[[Explore a Career in Front-End Web Development]]'
+prev_courses:
+  - '[[Foundations of Accessible Elearning]]'
+  - '[[Web Programming Foundations]]'
+next_courses:
+  - '[[Using AI for Accessible Design Workflows]]'
+  - '[[React Essential Training]]'
+path_nav: '[{"path":"Prepare for Digital Accessibility","position":7,"total":8,"prev":"Foundations of Accessible Elearning","next":"Using AI for Accessible Design Workflows"},{"path":"Explore a Career in Front-End Web Development","position":7,"total":11,"prev":"Web Programming Foundations","next":"React Essential Training"}]'
 path_count: 2
 tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Simplifying Web Development with Accessibility Best Practices](https://media.licdn.com/dms/image/v2/C560DAQGvnExQWRvuDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622152004842?e=2147483647&amp;v=beta&amp;t=0qellubEwrYR9nJeO84vRKbAdxom225hGsHAiQj6a6g)

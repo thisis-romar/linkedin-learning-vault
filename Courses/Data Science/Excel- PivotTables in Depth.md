@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFP0D-6RPMJ7g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713474902781?e=2147483647&amp;v=beta&amp;t=qS1JZr7X_vXRTMrWoGnUlDKg8Z7GqiWNH80wCeiAHJs"
 linkedin_topic: Data Science
 learning_paths:
-  - Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)
+  - '[[Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)]]'
+prev_courses:
+  - '[[Excel- Advanced Formatting Techniques]]'
+next_courses:
+  - '[[Excel- Creating a Basic Dashboard]]'
+path_nav: '[{"path":"Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)","position":5,"total":7,"prev":"Excel- Advanced Formatting Techniques","next":"Excel- Creating a Basic Dashboard"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/pivot-tables
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel: PivotTables in Depth](https://media.licdn.com/dms/image/v2/D560DAQFP0D-6RPMJ7g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713474902781?e=2147483647&amp;v=beta&amp;t=qS1JZr7X_vXRTMrWoGnUlDKg8Z7GqiWNH80wCeiAHJs)

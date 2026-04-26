@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHevwWci54yAw/learning-public-crop_675_1200/B56ZbF5V1qH4AY-/0/1747076866057?e=2147483647&amp;v=beta&amp;t=ZXfyW_-0w50tAR6BrrmqTh2d6HNbqrORNP93V8N4Uqo"
 linkedin_topic: Software Development
 learning_paths:
-  - Advance Your JavaScript Skills
+  - '[[Advance Your JavaScript Skills]]'
+prev_courses:
+  - '[[Javascript Best Practices For Code Formatting]]'
+next_courses:
+  - '[[JavaScript- Test-Driven Development (ES6)]]'
+path_nav: '[{"path":"Advance Your JavaScript Skills","position":2,"total":10,"prev":"Javascript Best Practices For Code Formatting","next":"JavaScript- Test-Driven Development (ES6)"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/data-management
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Best Practices for Data](https://media.licdn.com/dms/image/v2/D560DAQHevwWci54yAw/learning-public-crop_675_1200/B56ZbF5V1qH4AY-/0/1747076866057?e=2147483647&amp;v=beta&amp;t=ZXfyW_-0w50tAR6BrrmqTh2d6HNbqrORNP93V8N4Uqo)

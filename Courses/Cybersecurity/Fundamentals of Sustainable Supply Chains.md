@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQG6rfEwdAq3bw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630436420286?e=2147483647&amp;v=beta&amp;t=s7yi3C_XXs6XRJiEoRF1Melo5NPSnUAdj-7qGxth8uY"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills as a Supply Chain Manager
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+prev_courses:
+  - '[[Supply Chain Cybersecurity- Preventing Supply Chain Attacks]]'
+next_courses:
+  - '[[Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment]]'
+path_nav: '[{"path":"Advance Your Skills as a Supply Chain Manager","position":13,"total":15,"prev":"Supply Chain Cybersecurity- Preventing Supply Chain Attacks","next":"Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/sustainable-business
   - skill/supply-chain-operations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Fundamentals of Sustainable Supply Chains](https://media.licdn.com/dms/image/v2/C560DAQG6rfEwdAq3bw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630436420286?e=2147483647&amp;v=beta&amp;t=s7yi3C_XXs6XRJiEoRF1Melo5NPSnUAdj-7qGxth8uY)

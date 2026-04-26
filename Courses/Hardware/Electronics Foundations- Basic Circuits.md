@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHbCh-IbN-ngA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567116230922?e=2147483647&amp;v=beta&amp;t=FXSRTPO9PuTHtgaVG5ANpmQ9Ig8SDalDDBsRtKfHg9c"
 linkedin_topic: Hardware
 learning_paths:
-  - Become an Arduino Developer
+  - '[[Become an Arduino Developer]]'
+prev_courses:
+  - '[[Electronics Foundations- Fundamentals]]'
+next_courses:
+  - '[[Learning Arduino- Interfacing with Hardware]]'
+path_nav: '[{"path":"Become an Arduino Developer","position":3,"total":11,"prev":"Electronics Foundations- Fundamentals","next":"Learning Arduino- Interfacing with Hardware"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/circuit-design
   - skill/electronics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Electronics Foundations: Basic Circuits](https://media.licdn.com/dms/image/v2/C4E0DAQHbCh-IbN-ngA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567116230922?e=2147483647&amp;v=beta&amp;t=FXSRTPO9PuTHtgaVG5ANpmQ9Ig8SDalDDBsRtKfHg9c)

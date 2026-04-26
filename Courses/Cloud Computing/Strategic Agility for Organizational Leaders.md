@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGyR_Aoh74kPQ/learning-public-crop_675_1200/B4EZhioHl6GUAc-/0/1754001341119?e=2147483647&amp;v=beta&amp;t=cWchP4y9PypDfjK2X0s3S6ngb0RcdrsYX9GHRsL26o4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Master Digital Transformation
-  - Strategic Execution and Business Impact for Senior Managers and Senior Leaders
+  - '[[Master Digital Transformation]]'
+  - '[[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]]'
+prev_courses:
+  - '[[Digital Transformation for Leaders in the AI Era]]'
+  - '[[Removing Noise and Bias from Strategic Decision-Making]]'
+next_courses:
+  - '[[Leading with Innovation in the Age of AI]]'
+  - '[[Organizational Leadership in the Era of AI]]'
+path_nav: '[{"path":"Master Digital Transformation","position":3,"total":13,"prev":"Digital Transformation for Leaders in the AI Era","next":"Leading with Innovation in the Age of AI"},{"path":"Strategic Execution and Business Impact for Senior Managers and Senior Leaders","position":7,"total":12,"prev":"Removing Noise and Bias from Strategic Decision-Making","next":"Organizational Leadership in the Era of AI"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/strategy-execution
   - skill/lead-change
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Strategic Agility for Organizational Leaders](https://media.licdn.com/dms/image/v2/D4E0DAQGyR_Aoh74kPQ/learning-public-crop_675_1200/B4EZhioHl6GUAc-/0/1754001341119?e=2147483647&amp;v=beta&amp;t=cWchP4y9PypDfjK2X0s3S6ngb0RcdrsYX9GHRsL26o4)

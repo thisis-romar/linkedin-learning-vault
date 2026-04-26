@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFv6qt-MMoFmw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568052588573?e=2147483647&amp;v=beta&amp;t=WtM-JLV-4U0194Rmv_jIlyryoaMxM7y4l-KXCmmF9bI"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an Ethical Hacker
+  - '[[Become an Ethical Hacker]]'
+prev_courses:
+  - '[[Ethical Hacking- Evading IDS, Firewalls, and Honeypots]]'
+next_courses:
+  - '[[Ethical Hacking- Wireless Networks]]'
+path_nav: '[{"path":"Become an Ethical Hacker","position":13,"total":19,"prev":"Ethical Hacking- Evading IDS, Firewalls, and Honeypots","next":"Ethical Hacking- Wireless Networks"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethical Hacking: Hacking Web Servers and Web Applications](https://media.licdn.com/dms/image/v2/C560DAQFv6qt-MMoFmw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568052588573?e=2147483647&amp;v=beta&amp;t=WtM-JLV-4U0194Rmv_jIlyryoaMxM7y4l-KXCmmF9bI)

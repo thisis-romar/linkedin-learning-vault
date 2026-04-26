@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFHx_pVYywSXA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686957444139?e=2147483647&amp;v=beta&amp;t=NhYgdf3Y_2sWePm6WCOVar3_YDwr_KsBjGyMKJZ2k9c"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Explore a Career in Data Engineering
+  - '[[Explore a Career in Data Engineering]]'
+prev_courses:
+  - '[[PySpark Essential Training- Introduction to Building Data Pipelines]]'
+next_courses:
+  - '[[Transition from Data Science to Data Engineering]]'
+path_nav: '[{"path":"Explore a Career in Data Engineering","position":6,"total":7,"prev":"PySpark Essential Training- Introduction to Building Data Pipelines","next":"Transition from Data Science to Data Engineering"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - topic/software-development
   - skill/apache-kafka
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Apache Kafka Essential Training: Getting Started](https://media.licdn.com/dms/image/v2/D560DAQFHx_pVYywSXA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686957444139?e=2147483647&amp;v=beta&amp;t=NhYgdf3Y_2sWePm6WCOVar3_YDwr_KsBjGyMKJZ2k9c)

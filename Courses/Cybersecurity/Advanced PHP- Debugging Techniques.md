@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQE0DmxKRMsmAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655837059078?e=2147483647&amp;v=beta&amp;t=9jrRyhWo-yOmdLSWZjLEZeWITCE8yBRynF6kxfsZ8Uk"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your PHP Skills
+  - '[[Advance Your PHP Skills]]'
+prev_courses:
+  - '[[PHP Techniques- Pagination]]'
+path_nav: '[{"path":"Advance Your PHP Skills","position":7,"total":7,"prev":"PHP Techniques- Pagination","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/debugging
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced PHP: Debugging Techniques](https://media.licdn.com/dms/image/v2/C560DAQE0DmxKRMsmAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655837059078?e=2147483647&amp;v=beta&amp;t=9jrRyhWo-yOmdLSWZjLEZeWITCE8yBRynF6kxfsZ8Uk)

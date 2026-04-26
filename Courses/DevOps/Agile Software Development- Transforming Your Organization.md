@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF9Ibbn_mUwUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686759419638?e=2147483647&amp;v=beta&amp;t=k5byCarTkDcLrd--DXWLDYxMs8pm3RpplrQGMRvRaig"
 linkedin_topic: DevOps
 learning_paths:
-  - Applying Lean, DevOps, and Agile to Your IT Organization
-  - Getting Started with Agile Software Development
+  - '[[Applying Lean, DevOps, and Agile to Your IT Organization]]'
+  - '[[Getting Started with Agile Software Development]]'
+prev_courses:
+  - '[[Agile Software Development]]'
+  - '[[Agile Software Development- Dealing with Legacy Code and Technical Debt]]'
+next_courses:
+  - '[[DevOps Foundations- Transforming the Enterprise]]'
+  - '[[Agile Software Development- Remote Teams (2019)]]'
+path_nav: '[{"path":"Applying Lean, DevOps, and Agile to Your IT Organization","position":4,"total":9,"prev":"Agile Software Development","next":"DevOps Foundations- Transforming the Enterprise"},{"path":"Getting Started with Agile Software Development","position":9,"total":10,"prev":"Agile Software Development- Dealing with Legacy Code and Technical Debt","next":"Agile Software Development- Remote Teams (2019)"}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +26,7 @@ tags:
   - topic/it-help-desk
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agile Software Development: Transforming Your Organization](https://media.licdn.com/dms/image/v2/D560DAQF9Ibbn_mUwUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686759419638?e=2147483647&amp;v=beta&amp;t=k5byCarTkDcLrd--DXWLDYxMs8pm3RpplrQGMRvRaig)

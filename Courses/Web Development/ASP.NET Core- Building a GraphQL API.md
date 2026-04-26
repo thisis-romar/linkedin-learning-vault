@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHKGBsyOnB6Hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643138871864?e=2147483647&amp;v=beta&amp;t=L8EaVW3Re-UhMfodYl7qccMHkUT6t85Jr21OGEDzOQU"
 linkedin_topic: Web Development
 learning_paths:
-  - Getting Started as an ASP.NET Core Developer
+  - '[[Getting Started as an ASP.NET Core Developer]]'
+prev_courses:
+  - '[[ASP.NET Core in .NET 6- Dependency Injection]]'
+next_courses:
+  - '[[Building Web APIs with ASP.NET Core 8]]'
+path_nav: '[{"path":"Getting Started as an ASP.NET Core Developer","position":8,"total":9,"prev":"ASP.NET Core in .NET 6- Dependency Injection","next":"Building Web APIs with ASP.NET Core 8"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/asp-net-core
   - skill/graphql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ASP.NET Core: Building a GraphQL API](https://media.licdn.com/dms/image/v2/C560DAQHKGBsyOnB6Hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643138871864?e=2147483647&amp;v=beta&amp;t=L8EaVW3Re-UhMfodYl7qccMHkUT6t85Jr21OGEDzOQU)

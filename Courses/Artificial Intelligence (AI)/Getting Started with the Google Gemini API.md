@@ -20,7 +20,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHXvzWCHd5fZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008957502?e=2147483647&amp;v=beta&amp;t=tZUndRs2b-e08KuS5U5oMZEVrtYh5QHP1IwpGuHeXEk"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - A Developer's Guide to Google Gemini
+  - '[[A Developer''s Guide to Google Gemini]]'
+prev_courses:
+  - '[[Exploring Million-Token Models with Google Gemini Pro 1.5]]'
+next_courses:
+  - '[[Programming with the Gemini Flash API]]'
+path_nav: '[{"path":"A Developer''s Guide to Google Gemini","position":3,"total":8,"prev":"Exploring Million-Token Models with Google Gemini Pro 1.5","next":"Programming with the Gemini Flash API"}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +37,7 @@ tags:
   - skill/gemini
   - skill/google-gemini
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Getting Started with the Google Gemini API](https://media.licdn.com/dms/image/v2/D560DAQHXvzWCHd5fZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008957502?e=2147483647&amp;v=beta&amp;t=tZUndRs2b-e08KuS5U5oMZEVrtYh5QHP1IwpGuHeXEk)

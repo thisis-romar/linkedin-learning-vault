@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHm9q1H_lQ6Ug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1595962530536?e=2147483647&amp;v=beta&amp;t=LlCHhOnRDECiv4Fk8VdGq6p_KmJcm9CDpytSXq7bMJE"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in GIS
+  - '[[Advance Your Skills in GIS]]'
+prev_courses:
+  - '[[InfraWorks and ArcGIS- AEC Collaboration]]'
+next_courses:
+  - '[[Foundations of Geographic Information Systems (GIS)]]'
+path_nav: '[{"path":"Advance Your Skills in GIS","position":5,"total":9,"prev":"InfraWorks and ArcGIS- AEC Collaboration","next":"Foundations of Geographic Information Systems (GIS)"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/aec
   - skill/quantum-gis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![QGIS and Python for AEC](https://media.licdn.com/dms/image/v2/C560DAQHm9q1H_lQ6Ug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1595962530536?e=2147483647&amp;v=beta&amp;t=LlCHhOnRDECiv4Fk8VdGq6p_KmJcm9CDpytSXq7bMJE)

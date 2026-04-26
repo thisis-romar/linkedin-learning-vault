@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFLD7mdGLaSfw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722010134160?e=2147483647&amp;v=beta&amp;t=sRHBezRhvt01iGAc-5GnbR9a6qBcW2Q5-NYeykUGc7g"
 linkedin_topic: Data Science
 learning_paths:
-  - Moving from Data Scientist to Data Analyst
+  - '[[Moving from Data Scientist to Data Analyst]]'
+prev_courses:
+  - '[[Python- Working with Predictive Analytics]]'
+next_courses:
+  - '[[Advanced Tableau Desktop]]'
+path_nav: '[{"path":"Moving from Data Scientist to Data Analyst","position":9,"total":10,"prev":"Python- Working with Predictive Analytics","next":"Advanced Tableau Desktop"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide to NLP with R](https://media.licdn.com/dms/image/v2/D560DAQFLD7mdGLaSfw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722010134160?e=2147483647&amp;v=beta&amp;t=sRHBezRhvt01iGAc-5GnbR9a6qBcW2Q5-NYeykUGc7g)

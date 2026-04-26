@@ -17,10 +17,16 @@ github: "https://github.com/LinkedInLearning/end-to-end-data-engineering-project
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFQihfehsNCiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698869440746?e=2147483647&amp;v=beta&amp;t=sfUJ7etqCscS3Cd63lMzAdfOYdLxuNchxPewFdCXalU"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Scala Skills for Data Engineering
-  - Advance Your Data Engineering Skills
-  - Develop Your Rust Skills for Data Engineering
-  - Data Engineering Hands-On Practice
+  - '[[Develop Your Scala Skills for Data Engineering]]'
+  - '[[Advance Your Data Engineering Skills]]'
+  - '[[Develop Your Rust Skills for Data Engineering]]'
+  - '[[Data Engineering Hands-On Practice]]'
+prev_courses:
+  - '[[Coding Exercises- Scala]]'
+  - '[[Data Pipeline Automation with GitHub Actions Using R and Python]]'
+  - '[[Level Up- Rust]]'
+  - '[[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]]'
+path_nav: '[{"path":"Develop Your Scala Skills for Data Engineering","position":6,"total":6,"prev":"Coding Exercises- Scala","next":null},{"path":"Advance Your Data Engineering Skills","position":10,"total":10,"prev":"Data Pipeline Automation with GitHub Actions Using R and Python","next":null},{"path":"Develop Your Rust Skills for Data Engineering","position":6,"total":6,"prev":"Level Up- Rust","next":null},{"path":"Data Engineering Hands-On Practice","position":7,"total":7,"prev":"Complete Guide to SQL for Data Engineering- from Beginner to Advanced","next":null}]'
 path_count: 4
 tags:
   - course
@@ -30,7 +36,7 @@ tags:
   - topic/database-management
   - skill/data-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![End-to-End Data Engineering Project](https://media.licdn.com/dms/image/v2/D4D0DAQFQihfehsNCiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698869440746?e=2147483647&amp;v=beta&amp;t=sfUJ7etqCscS3Cd63lMzAdfOYdLxuNchxPewFdCXalU)

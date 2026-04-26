@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGejDDrQDyh_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1676415608875?e=2147483647&amp;v=beta&amp;t=g3sLttsFaOau-J836r5vxbtNMbOw6f5vvVafupBny1k"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Data Analytics Specialist
+  - '[[Become a Data Analytics Specialist]]'
+next_courses:
+  - '[[Data Analytics for Students (2022)]]'
+path_nav: '[{"path":"Become a Data Analytics Specialist","position":1,"total":10,"prev":null,"next":"Data Analytics for Students (2022)"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/interview-preparation
   - skill/analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Preparing To Get A Job In Data Analytics](https://media.licdn.com/dms/image/v2/C560DAQGejDDrQDyh_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1676415608875?e=2147483647&amp;v=beta&amp;t=g3sLttsFaOau-J836r5vxbtNMbOw6f5vvVafupBny1k)

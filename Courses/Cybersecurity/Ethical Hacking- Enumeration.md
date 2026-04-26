@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQH4q52rvtzUqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620842870509?e=2147483647&amp;v=beta&amp;t=vzdPFK7DX_NZaYLUqSdbOJjKVovvwllCVAZG35zTeFA"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an Ethical Hacker
+  - '[[Become an Ethical Hacker]]'
+prev_courses:
+  - '[[Ethical Hacking- Scanning Networks]]'
+next_courses:
+  - '[[Ethical Hacking- Vulnerability Analysis]]'
+path_nav: '[{"path":"Become an Ethical Hacker","position":4,"total":19,"prev":"Ethical Hacking- Scanning Networks","next":"Ethical Hacking- Vulnerability Analysis"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethical Hacking: Enumeration](https://media.licdn.com/dms/image/v2/C560DAQH4q52rvtzUqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620842870509?e=2147483647&amp;v=beta&amp;t=vzdPFK7DX_NZaYLUqSdbOJjKVovvwllCVAZG35zTeFA)

@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/buidling-serverless-apps-AI-4454235
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFP8u36n9BS5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715735518041?e=2147483647&amp;v=beta&amp;t=sbjC63InFEcvXgjVORp-8qXaoe_V1xbQMkCbkc5KTH4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your AWS Development Skills- Exploring Complex Application Development
+  - '[[Advance Your AWS Development Skills- Exploring Complex Application Development]]'
+prev_courses:
+  - '[[AWS Security Best Practices for Developers]]'
+next_courses:
+  - '[[Building Intelligent Chatbots on AWS]]'
+path_nav: '[{"path":"Advance Your AWS Development Skills- Exploring Complex Application Development","position":5,"total":6,"prev":"AWS Security Best Practices for Developers","next":"Building Intelligent Chatbots on AWS"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/serverless-computing
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Serverless Apps with AI Services on AWS](https://media.licdn.com/dms/image/v2/D4D0DAQFP8u36n9BS5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715735518041?e=2147483647&amp;v=beta&amp;t=sbjC63InFEcvXgjVORp-8qXaoe_V1xbQMkCbkc5KTH4)

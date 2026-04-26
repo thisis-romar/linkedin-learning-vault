@@ -17,9 +17,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHv3QRGOJQr7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675111308312?e=2147483647&amp;v=beta&amp;t=OsYOvO3FjgmQGRRAIWVHUabuWR32kFLwyqKowJAD2EI"
 linkedin_topic: DevOps
 learning_paths:
-  - Develop Your Skills in Agile Software Development
-  - Develop Your Skills as a Software Project Manager
-  - Getting Started with Agile Software Development
+  - '[[Develop Your Skills in Agile Software Development]]'
+  - '[[Develop Your Skills as a Software Project Manager]]'
+  - '[[Getting Started with Agile Software Development]]'
+prev_courses:
+  - '[[Planning and Releasing Software with Jira]]'
+  - '[[Agile Software Development]]'
+  - '[[Agile Software Development- Kanban for Developers (2019)]]'
+next_courses:
+  - '[[Agile Software Development- Extreme Programming]]'
+  - '[[Devops Foundations]]'
+  - '[[Agile Software Development- Extreme Programming]]'
+path_nav: '[{"path":"Develop Your Skills in Agile Software Development","position":5,"total":6,"prev":"Planning and Releasing Software with Jira","next":"Agile Software Development- Extreme Programming"},{"path":"Develop Your Skills as a Software Project Manager","position":2,"total":11,"prev":"Agile Software Development","next":"Devops Foundations"},{"path":"Getting Started with Agile Software Development","position":5,"total":10,"prev":"Agile Software Development- Kanban for Developers (2019)","next":"Agile Software Development- Extreme Programming"}]'
 path_count: 3
 tags:
   - course
@@ -28,7 +37,7 @@ tags:
   - skill/agile-software-development
   - skill/scrum
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agile Software Development: Scrum for Developers](https://media.licdn.com/dms/image/v2/C560DAQHv3QRGOJQr7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675111308312?e=2147483647&amp;v=beta&amp;t=OsYOvO3FjgmQGRRAIWVHUabuWR32kFLwyqKowJAD2EI)

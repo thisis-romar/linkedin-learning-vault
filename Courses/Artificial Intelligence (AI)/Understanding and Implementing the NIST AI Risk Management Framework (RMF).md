@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE9ivTR2vg4EQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719527423345?e=2147483647&amp;v=beta&amp;t=nFMrFlUS7hy0XFx5levnT74W-21SIpz4NEvvWau1hLU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
+  - '[[Understanding Generative AI for Tech Leaders]]'
+prev_courses:
+  - '[[Azure AI Engineering- Speech, Language, and Vision Solutions]]'
+next_courses:
+  - '[[ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":12,"total":22,"prev":"Azure AI Engineering- Speech, Language, and Vision Solutions","next":"ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/risk-management-framework-rmf
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Understanding and Implementing the NIST AI Risk Management Framework (RMF)](https://media.licdn.com/dms/image/v2/D560DAQE9ivTR2vg4EQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719527423345?e=2147483647&amp;v=beta&amp;t=nFMrFlUS7hy0XFx5levnT74W-21SIpz4NEvvWau1hLU)

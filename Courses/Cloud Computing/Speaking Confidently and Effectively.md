@@ -10,7 +10,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHOl-2agpS1Gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1605821728995?e=2147483647&amp;v=beta&amp;t=e2-AzXBF27T12NIPPhqTh6aY9dqb8VCFO0j9frhjsO4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - The Top 10 Most Popular Courses among IT Professionals
+  - '[[The Top 10 Most Popular Courses among IT Professionals]]'
+prev_courses:
+  - '[[Cybersecurity Foundations]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among IT Professionals","position":10,"total":10,"prev":"Cybersecurity Foundations","next":null}]'
 path_count: 1
 tags:
   - course
@@ -19,7 +22,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Speaking Confidently and Effectively](https://media.licdn.com/dms/image/v2/C4E0DAQHOl-2agpS1Gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1605821728995?e=2147483647&amp;v=beta&amp;t=e2-AzXBF27T12NIPPhqTh6aY9dqb8VCFO0j9frhjsO4)

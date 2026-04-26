@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - Network and System Administration
   - Software Development
-louvain_cluster: 3
+louvain_cluster: 8
 tags:
   - professional-certificate
   - topic/network-and-system-administration
@@ -35,7 +35,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # SS&C Blue Prism Robotic Process Automation Professional Certificate
@@ -64,3 +64,7 @@ _Paths that share courses with this one:_
 
 - [[Become an RPA Developer]] (2 shared courses)
 - [[Digital Transformation for Tech Leaders]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Network and System Administration]]

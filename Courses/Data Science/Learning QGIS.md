@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEldakfVX9iVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571245488991?e=2147483647&amp;v=beta&amp;t=rTT_uEDzJfQoByh_-Ezxzq8qKrSvgrceUNAc69rZrWs"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in GIS
+  - '[[Advance Your Skills in GIS]]'
+prev_courses:
+  - '[[ArcGIS Pro Essential Training]]'
+next_courses:
+  - '[[InfraWorks and ArcGIS- AEC Collaboration]]'
+path_nav: '[{"path":"Advance Your Skills in GIS","position":3,"total":9,"prev":"ArcGIS Pro Essential Training","next":"InfraWorks and ArcGIS- AEC Collaboration"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/quantum-gis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning QGIS](https://media.licdn.com/dms/image/v2/C4E0DAQEldakfVX9iVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571245488991?e=2147483647&amp;v=beta&amp;t=rTT_uEDzJfQoByh_-Ezxzq8qKrSvgrceUNAc69rZrWs)

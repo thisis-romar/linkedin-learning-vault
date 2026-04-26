@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQHksvRe_KGclA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668040290627?e=2147483647&amp;v=beta&amp;t=ZCB2rO8m8pXQVy6qG8JpoOhYyGlShosMycvjYHCejBc"
 linkedin_topic: Data Science
 learning_paths:
-  - LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader
+  - '[[LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader]]'
+prev_courses:
+  - '[[Learning Design Thinking- Lead Change in Your Organization]]'
+next_courses:
+  - '[[Creating a High Performance Culture]]'
+path_nav: '[{"path":"LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader","position":10,"total":11,"prev":"Learning Design Thinking- Lead Change in Your Organization","next":"Creating a High Performance Culture"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/accountability
   - skill/organizational-culture
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Accountability into Your Culture](https://media.licdn.com/dms/image/v2/C4D0DAQHksvRe_KGclA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668040290627?e=2147483647&amp;v=beta&amp;t=ZCB2rO8m8pXQVy6qG8JpoOhYyGlShosMycvjYHCejBc)

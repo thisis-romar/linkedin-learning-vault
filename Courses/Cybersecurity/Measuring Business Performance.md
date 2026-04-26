@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFHE4HMn_jj-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620659148580?e=2147483647&amp;v=beta&amp;t=hwkgVE-tWBgQ4nbkEBQExmhSw1O0Z45HSJKMH6jw4bo"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills as a Supply Chain Manager
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+prev_courses:
+  - '[[Data Analytics for Business Professionals]]'
+next_courses:
+  - '[[Requirements Elicitation and Analysis]]'
+path_nav: '[{"path":"Advance Your Skills as a Supply Chain Manager","position":10,"total":15,"prev":"Data Analytics for Business Professionals","next":"Requirements Elicitation and Analysis"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/performance-metrics
   - skill/business-metrics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Measuring Business Performance](https://media.licdn.com/dms/image/v2/C560DAQFHE4HMn_jj-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620659148580?e=2147483647&amp;v=beta&amp;t=hwkgVE-tWBgQ4nbkEBQExmhSw1O0Z45HSJKMH6jw4bo)

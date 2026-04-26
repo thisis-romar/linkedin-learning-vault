@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFQZHk1W5XV6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571073354996?e=2147483647&amp;v=beta&amp;t=Erloliv5loakbBeQcRvsrLFURKwenvPO067nAlAHH0o"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Working Smarter with Microsoft 365
+  - '[[Working Smarter with Microsoft 365]]'
+prev_courses:
+  - '[[OneDrive for Business Essential Training]]'
+next_courses:
+  - '[[OneNote for Windows 10 Essential Training]]'
+path_nav: '[{"path":"Working Smarter with Microsoft 365","position":7,"total":9,"prev":"OneDrive for Business Essential Training","next":"OneNote for Windows 10 Essential Training"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - skill/sharepoint
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning SharePoint Online](https://media.licdn.com/dms/image/v2/C4E0DAQFQZHk1W5XV6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571073354996?e=2147483647&amp;v=beta&amp;t=Erloliv5loakbBeQcRvsrLFURKwenvPO067nAlAHH0o)

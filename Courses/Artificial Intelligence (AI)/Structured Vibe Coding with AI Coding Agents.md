@@ -10,14 +10,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGblmIjX3hAGA/learning-public-crop_675_1200/B4EZjJo7P6HoAY-/0/1755729606438?e=2147483647&amp;v=beta&amp;t=cWx-QrFtzJi65mzeYlbBQh79RGQ19F8i2608pEvmJMo"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Learn Vibe Coding- Build Apps with AI-Powered Coding
+  - '[[Learn Vibe Coding- Build Apps with AI-Powered Coding]]'
+prev_courses:
+  - '[[Build with AI- Beyond Pair Programming with AI]]'
+path_nav: '[{"path":"Learn Vibe Coding- Build Apps with AI-Powered Coding","position":5,"total":5,"prev":"Build with AI- Beyond Pair Programming with AI","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Structured Vibe Coding with AI Coding Agents](https://media.licdn.com/dms/image/v2/D4E0DAQGblmIjX3hAGA/learning-public-crop_675_1200/B4EZjJo7P6HoAY-/0/1755729606438?e=2147483647&amp;v=beta&amp;t=cWx-QrFtzJi65mzeYlbBQh79RGQ19F8i2608pEvmJMo)

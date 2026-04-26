@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/case-study-visualize-complex-micros
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHW6oJSW_gA6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694730089192?e=2147483647&amp;v=beta&amp;t=I3Mq81s-VQVXPkz21wG9r1pUodQ8EG0k3Q_EjcJ2Jtc"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
-  - Master Your Python Skills
+  - '[[Python Hands-On Practice]]'
+  - '[[Master Your Python Skills]]'
+prev_courses:
+  - '[[Python for Data Analysis- Solve Real-World Challenges]]'
+  - '[[Level Up- Advanced Python]]'
+next_courses:
+  - '[[Level Up- Advanced Python]]'
+  - null
+path_nav: '[{"path":"Python Hands-On Practice","position":13,"total":14,"prev":"Python for Data Analysis- Solve Real-World Challenges","next":"Level Up- Advanced Python"},{"path":"Master Your Python Skills","position":11,"total":11,"prev":"Level Up- Advanced Python","next":null}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/microservices
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Case Study: Visualize Complex Microservice Data Using Python](https://media.licdn.com/dms/image/v2/D4E0DAQHW6oJSW_gA6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694730089192?e=2147483647&amp;v=beta&amp;t=I3Mq81s-VQVXPkz21wG9r1pUodQ8EG0k3Q_EjcJ2Jtc)

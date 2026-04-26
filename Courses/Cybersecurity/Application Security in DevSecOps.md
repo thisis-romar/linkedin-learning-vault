@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQF37BYmtSlFBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736370992396?e=2147483647&amp;v=beta&amp;t=CjGpKT_f8zYrYyZcLPNaIMhrlof7c1-_AgLvfRvC2OQ"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Get Ahead in DevSecOps
+  - '[[Get Ahead in DevSecOps]]'
+prev_courses:
+  - '[[DevSecOps- Building a Secure Continuous Delivery Pipeline]]'
+next_courses:
+  - '[[DevSecOps- Tips for Success]]'
+path_nav: '[{"path":"Get Ahead in DevSecOps","position":4,"total":5,"prev":"DevSecOps- Building a Secure Continuous Delivery Pipeline","next":"DevSecOps- Tips for Success"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/application-security
   - skill/devsecops
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Application Security in DevSecOps](https://media.licdn.com/dms/image/v2/D4E0DAQF37BYmtSlFBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736370992396?e=2147483647&amp;v=beta&amp;t=CjGpKT_f8zYrYyZcLPNaIMhrlof7c1-_AgLvfRvC2OQ)

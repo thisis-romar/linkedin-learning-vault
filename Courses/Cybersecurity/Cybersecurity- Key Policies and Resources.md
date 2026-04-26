@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFMcqNqsFKM7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690576869037?e=2147483647&amp;v=beta&amp;t=ewuWwHoEtE9koi70bwG71vYGGDNzzmc4LmCu8zBQzXE"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Navigating the Cybersecurity Threat Landscape
+  - '[[Navigating the Cybersecurity Threat Landscape]]'
+prev_courses:
+  - '[[Supply Chain Cybersecurity- Preventing Supply Chain Attacks]]'
+next_courses:
+  - '[[Cyber Resilience- An Overview]]'
+path_nav: '[{"path":"Navigating the Cybersecurity Threat Landscape","position":6,"total":8,"prev":"Supply Chain Cybersecurity- Preventing Supply Chain Attacks","next":"Cyber Resilience- An Overview"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/it-security-policies-procedures
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity: Key Policies and Resources](https://media.licdn.com/dms/image/v2/D560DAQFMcqNqsFKM7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690576869037?e=2147483647&amp;v=beta&amp;t=ewuWwHoEtE9koi70bwG71vYGGDNzzmc4LmCu8zBQzXE)

@@ -14,10 +14,16 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHW94kV0BQffg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670878886810?e=2147483647&amp;v=beta&amp;t=gWYXLRyZJarMN8ohNqlxFwfDGoSYY9E4oY3M8vRpV5g"
 linkedin_topic: DevOps
 learning_paths:
-  - The Top 10 Most Popular Courses among Engineering Professionals
-  - MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security
-  - Containerize Applications with Docker
-  - Docker Foundations Professional Certificate
+  - '[[The Top 10 Most Popular Courses among Engineering Professionals]]'
+  - '[[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]]'
+  - '[[Containerize Applications with Docker]]'
+  - '[[Docker Foundations Professional Certificate]]'
+next_courses:
+  - '[[React Essential Training]]'
+  - '[[Learning Kubernetes]]'
+  - '[[Docker Essential Training]]'
+  - '[[Docker- Your First Project]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among Engineering Professionals","position":1,"total":10,"prev":null,"next":"React Essential Training"},{"path":"MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security","position":1,"total":10,"prev":null,"next":"Learning Kubernetes"},{"path":"Containerize Applications with Docker","position":1,"total":2,"prev":null,"next":"Docker Essential Training"},{"path":"Docker Foundations Professional Certificate","position":1,"total":3,"prev":null,"next":"Docker- Your First Project"}]'
 path_count: 4
 tags:
   - course
@@ -29,7 +35,7 @@ tags:
   - topic/network-and-system-administration
   - skill/docker-products
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Docker](https://media.licdn.com/dms/image/v2/C560DAQHW94kV0BQffg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670878886810?e=2147483647&amp;v=beta&amp;t=gWYXLRyZJarMN8ohNqlxFwfDGoSYY9E4oY3M8vRpV5g)

@@ -17,8 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGZj-Shd3WT5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737506682351?e=2147483647&amp;v=beta&amp;t=qg32WzGnKakfj7uDZiakPx1MQEJ1iBAJCVKIaNkXONI"
 linkedin_topic: DevOps
 learning_paths:
-  - Mastering Jira for Software Developers
-  - Mastering Jira Administration
+  - '[[Mastering Jira for Software Developers]]'
+  - '[[Mastering Jira Administration]]'
+prev_courses:
+  - '[[Planning and Releasing Software with Jira]]'
+  - '[[Jira Administration- Automation]]'
+path_nav: '[{"path":"Mastering Jira for Software Developers","position":4,"total":4,"prev":"Planning and Releasing Software with Jira","next":null},{"path":"Mastering Jira Administration","position":7,"total":7,"prev":"Jira Administration- Automation","next":null}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +32,7 @@ tags:
   - skill/confluence
   - skill/jira
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Increasing Efficiency with Jira and Confluence Integrations](https://media.licdn.com/dms/image/v2/D4D0DAQGZj-Shd3WT5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737506682351?e=2147483647&amp;v=beta&amp;t=qg32WzGnKakfj7uDZiakPx1MQEJ1iBAJCVKIaNkXONI)

@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHMTGjVlXuQmA/learning-public-crop_675_1200/B4EZeEFPhJH0Ac-/0/1750267656589?e=2147483647&amp;v=beta&amp;t=0BcznFJ6yJkpiZWXMeV3wrlaSmujdatBy0We1E5Euok"
 linkedin_topic: DevOps
 learning_paths:
-  - Getting Started with Kubernetes
+  - '[[Getting Started with Kubernetes]]'
+prev_courses:
+  - '[[Learning Kubernetes]]'
+next_courses:
+  - '[[Kubernetes- Essential Tools]]'
+path_nav: '[{"path":"Getting Started with Kubernetes","position":2,"total":6,"prev":"Learning Kubernetes","next":"Kubernetes- Essential Tools"}]'
 path_count: 1
 tags:
   - course
   - topic/devops
   - skill/kubernetes
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Kubernetes: Your First Project (2021)](https://media.licdn.com/dms/image/v2/D4E0DAQHMTGjVlXuQmA/learning-public-crop_675_1200/B4EZeEFPhJH0Ac-/0/1750267656589?e=2147483647&amp;v=beta&amp;t=0BcznFJ6yJkpiZWXMeV3wrlaSmujdatBy0We1E5Euok)

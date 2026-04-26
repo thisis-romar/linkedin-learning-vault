@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEGp6ZEDEHN7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644609693396?e=2147483647&amp;v=beta&amp;t=n__jGsHzlV2ApQD2nHzROj7PrwOgOR7hDBaf-J1IlrU"
 linkedin_topic: Software Development
 learning_paths:
-  - Get Started with PHP
+  - '[[Get Started with PHP]]'
+prev_courses:
+  - '[[PHP with MySQL Essential Training- 2 Build a CMS]]'
+next_courses:
+  - '[[PHP- Object-Oriented Programming with Databases]]'
+path_nav: '[{"path":"Get Started with PHP","position":5,"total":6,"prev":"PHP with MySQL Essential Training- 2 Build a CMS","next":"PHP- Object-Oriented Programming with Databases"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![PHP: Object-Oriented Programming](https://media.licdn.com/dms/image/v2/C4E0DAQEGp6ZEDEHN7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644609693396?e=2147483647&amp;v=beta&amp;t=n__jGsHzlV2ApQD2nHzROj7PrwOgOR7hDBaf-J1IlrU)

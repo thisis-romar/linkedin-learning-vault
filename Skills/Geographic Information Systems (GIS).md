@@ -6,7 +6,7 @@ course_count: 3
 tags:
   - skill
   - skill/geographic-information-systems-gis
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Geographic Information Systems (GIS)

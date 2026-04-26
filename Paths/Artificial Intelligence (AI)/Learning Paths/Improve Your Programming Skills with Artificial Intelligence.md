@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - DevOps
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Improve Your Programming Skills with Artificial Intelligence
@@ -70,3 +70,7 @@ _Paths that share courses with this one:_
 - [[Machine Learning with Python Professional Certificate by Anaconda]] (1 shared courses)
 - [[Career Essentials in GitHub Copilot Professional Certificate]] (1 shared courses)
 - [[Master GitHub Copilot]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

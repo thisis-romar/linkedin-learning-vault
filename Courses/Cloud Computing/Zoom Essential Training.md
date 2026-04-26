@@ -14,7 +14,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEu7Ii5KY6e1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681328746226?e=2147483647&amp;v=beta&amp;t=UbcPyrzc0DcbbXhEg_ldG4ZTJpfjUktZBL5Tw0OSLe4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation in Practice- Virtual Collaboration Tools
+  - '[[Digital Transformation in Practice- Virtual Collaboration Tools]]'
+prev_courses:
+  - '[[Google Drive Essential Training (2023)]]'
+path_nav: '[{"path":"Digital Transformation in Practice- Virtual Collaboration Tools","position":9,"total":9,"prev":"Google Drive Essential Training (2023)","next":null}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +25,7 @@ tags:
   - topic/software-development
   - skill/zoom
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Zoom Essential Training](https://media.licdn.com/dms/image/v2/D560DAQEu7Ii5KY6e1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681328746226?e=2147483647&amp;v=beta&amp;t=UbcPyrzc0DcbbXhEg_ldG4ZTJpfjUktZBL5Tw0OSLe4)

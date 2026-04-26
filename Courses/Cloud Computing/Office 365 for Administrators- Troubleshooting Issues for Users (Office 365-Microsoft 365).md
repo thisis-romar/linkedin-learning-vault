@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEBfXKEa8k_uw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584471022701?e=2147483647&amp;v=beta&amp;t=Chvk5_37nGUuRodwzXH9F-FpfXCl-znfcn2A8zt6wBU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Optimizing Enterprise Security and Productivity Using Microsoft 365
+  - '[[Optimizing Enterprise Security and Productivity Using Microsoft 365]]'
+prev_courses:
+  - '[[Configure and Manage SharePoint Online]]'
+next_courses:
+  - '[[Windows 10 for IT Support- Troubleshooting Basics]]'
+path_nav: '[{"path":"Optimizing Enterprise Security and Productivity Using Microsoft 365","position":10,"total":11,"prev":"Configure and Manage SharePoint Online","next":"Windows 10 for IT Support- Troubleshooting Basics"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/software-troubleshooting
   - skill/office-365-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Office 365 for Administrators: Troubleshooting Issues for Users (Office 365/Microsoft 365)](https://media.licdn.com/dms/image/v2/C560DAQEBfXKEa8k_uw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584471022701?e=2147483647&amp;v=beta&amp;t=Chvk5_37nGUuRodwzXH9F-FpfXCl-znfcn2A8zt6wBU)

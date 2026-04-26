@@ -15,8 +15,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQE-LeeYfMQE-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620663901727?e=2147483647&amp;v=beta&amp;t=b1Oddczm0mwfdTwjVRuMvqNCq-es4ra3jbANDJGG1xE"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Succeeding in Your Tech Career- Software Development
-  - Improve Your Technical Communication Skills
+  - '[[Succeeding in Your Tech Career- Software Development]]'
+  - '[[Improve Your Technical Communication Skills]]'
+prev_courses:
+  - '[[Inclusive Tech- Conducting Humane Code Reviews]]'
+  - '[[Skills for Inclusive Conversations]]'
+next_courses:
+  - '[[Tech Career Skills- Effective Technical Communication]]'
+  - '[[The Manager''s Guide to Difficult Conversations]]'
+path_nav: '[{"path":"Succeeding in Your Tech Career- Software Development","position":5,"total":6,"prev":"Inclusive Tech- Conducting Humane Code Reviews","next":"Tech Career Skills- Effective Technical Communication"},{"path":"Improve Your Technical Communication Skills","position":4,"total":5,"prev":"Skills for Inclusive Conversations","next":"The Manager''s Guide to Difficult Conversations"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Tech Career Skills: Communication for Developers](https://media.licdn.com/dms/image/v2/C4E0DAQE-LeeYfMQE-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620663901727?e=2147483647&amp;v=beta&amp;t=b1Oddczm0mwfdTwjVRuMvqNCq-es4ra3jbANDJGG1xE)

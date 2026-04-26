@@ -8,7 +8,7 @@ linkedin_topics:
   - Data Science
   - Software Development
   - Web Development
-louvain_cluster: 11
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/data-science
@@ -61,7 +61,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Getting Started as a Java Developer
@@ -98,3 +98,7 @@ _Paths that share courses with this one:_
 - [[Java Foundations Professional Certificate by JetBrains]] (4 shared courses)
 - [[Getting Started In Spring Development]] (1 shared courses)
 - [[The Top Skills Engineering Professionals Have Right Now]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

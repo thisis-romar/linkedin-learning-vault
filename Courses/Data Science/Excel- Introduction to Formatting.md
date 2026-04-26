@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHZGkpT6pxlGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695080492336?e=2147483647&amp;v=beta&amp;t=DMmtJpE_sLrV6WiAuuQE25oPsMo7XMN1udhOoSXZSa0"
 linkedin_topic: Data Science
 learning_paths:
-  - Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)
+  - '[[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)]]'
+prev_courses:
+  - '[[Excel Introduction To Formulas And Functions]]'
+next_courses:
+  - '[[Excel PivotTable Quick Tips]]'
+path_nav: '[{"path":"Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)","position":3,"total":7,"prev":"Excel Introduction To Formulas And Functions","next":"Excel PivotTable Quick Tips"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel: Introduction to Formatting](https://media.licdn.com/dms/image/v2/D560DAQHZGkpT6pxlGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695080492336?e=2147483647&amp;v=beta&amp;t=DMmtJpE_sLrV6WiAuuQE25oPsMo7XMN1udhOoSXZSa0)

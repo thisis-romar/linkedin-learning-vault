@@ -16,14 +16,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF4ot_Ik9jR6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1591718128064?e=2147483647&amp;v=beta&amp;t=h3rvWEty4vJraskkvuctgJH3B6l7TzfK3vNJd8j0b-8"
 linkedin_topic: Mobile Development
 learning_paths:
-  - Become a React Native Developer
+  - '[[Become a React Native Developer]]'
+prev_courses:
+  - '[[React Native Ecosystem and Workflow]]'
+path_nav: '[{"path":"Become a React Native Developer","position":5,"total":5,"prev":"React Native Ecosystem and Workflow","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/mobile-development
   - skill/react-native
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning React Native](https://media.licdn.com/dms/image/v2/C4E0DAQF4ot_Ik9jR6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1591718128064?e=2147483647&amp;v=beta&amp;t=h3rvWEty4vJraskkvuctgJH3B6l7TzfK3vNJd8j0b-8)

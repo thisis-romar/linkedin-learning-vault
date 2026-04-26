@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/data-cleaning-in-python-essential-t
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG16fbd1_fa8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667582799961?e=2147483647&amp;v=beta&amp;t=oq32b6x6vB4v0vfTtYMIsLW3eygzC_BuGdpxcn2chmA"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Processing
-  - Become a Data Analyst
+  - '[[Introduction to Fundamental Skills for Data Work- Data Processing]]'
+  - '[[Become a Data Analyst]]'
+prev_courses:
+  - '[[Python for Data Science and Machine Learning Essential Training Part 2]]'
+  - '[[Complete Guide To R Wrangling Visualizing And Modeling Data]]'
+next_courses:
+  - '[[Apache Spark Essential Training- Big Data Engineering]]'
+  - null
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Processing","position":4,"total":7,"prev":"Python for Data Science and Machine Learning Essential Training Part 2","next":"Apache Spark Essential Training- Big Data Engineering"},{"path":"Become a Data Analyst","position":12,"total":12,"prev":"Complete Guide To R Wrangling Visualizing And Modeling Data","next":null}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/data-cleaning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Cleaning in Python Essential Training](https://media.licdn.com/dms/image/v2/D560DAQG16fbd1_fa8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667582799961?e=2147483647&amp;v=beta&amp;t=oq32b6x6vB4v0vfTtYMIsLW3eygzC_BuGdpxcn2chmA)

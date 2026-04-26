@@ -10,7 +10,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEDfcYbJ5pA8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567122036825?e=2147483647&amp;v=beta&amp;t=gdDRsmrY9ubbZRyFj12mH19RbCq1u3lzwg51VUEolp8"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Managing and Leading Developers
+  - '[[Managing and Leading Developers]]'
+prev_courses:
+  - '[[The Manager''s Guide to Difficult Conversations]]'
+path_nav: '[{"path":"Managing and Leading Developers","position":8,"total":8,"prev":"The Manager''s Guide to Difficult Conversations","next":null}]'
 path_count: 1
 tags:
   - course
@@ -19,7 +22,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Coaching Skills for Leaders and Managers](https://media.licdn.com/dms/image/v2/C560DAQEDfcYbJ5pA8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567122036825?e=2147483647&amp;v=beta&amp;t=gdDRsmrY9ubbZRyFj12mH19RbCq1u3lzwg51VUEolp8)

@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/python-data-structures-trees-283401
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQH_Em7BoVMKfQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614101500291?e=2147483647&amp;v=beta&amp;t=b5l6sKjpqIUjZ3K0Z7Yz5lWIsDTpbhLOG2jcSoXakeY"
 linkedin_topic: Database Management
 learning_paths:
-  - Master Python for Data Science
+  - '[[Master Python for Data Science]]'
+prev_courses:
+  - '[[Python Data Structures- Stacks, Deques, and Queues]]'
+next_courses:
+  - '[[Advanced Pandas]]'
+path_nav: '[{"path":"Master Python for Data Science","position":7,"total":8,"prev":"Python Data Structures- Stacks, Deques, and Queues","next":"Advanced Pandas"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Data Structures:  Trees](https://media.licdn.com/dms/image/v2/C4E0DAQH_Em7BoVMKfQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614101500291?e=2147483647&amp;v=beta&amp;t=b5l6sKjpqIUjZ3K0Z7Yz5lWIsDTpbhLOG2jcSoXakeY)

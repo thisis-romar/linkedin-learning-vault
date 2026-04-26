@@ -9,7 +9,7 @@ linkedin_topics:
   - Data Science
   - DevOps
   - Network and System Administration
-louvain_cluster: 16
+louvain_cluster: 18
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -47,7 +47,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # AI for Healthcare: Essentials for Technical Roles
@@ -80,3 +80,7 @@ _Paths that share courses with this one:_
 
 - [[Python for Data Professionals in Healthcare]] (3 shared courses)
 - [[Hands-On Healthcare Analytics]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Visual Communication for Business Professionals
@@ -67,3 +67,7 @@ _Paths that share courses with this one:_
 - [[Master the Concepts of Data Visualization and Storytelling]] (1 shared courses)
 - [[Introduction to Fundamental Skills for Data Work- Data Visualization]] (1 shared courses)
 - [[Become a Marketing Coordinator]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

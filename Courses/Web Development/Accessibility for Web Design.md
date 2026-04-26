@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFEldSjvm_oGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655410107982?e=2147483647&amp;v=beta&amp;t=yBzaHJwb36X3FR4o11qUaIdyzTF1ol-eXOPxh297Nyg"
 linkedin_topic: Web Development
 learning_paths:
-  - Prepare for Digital Accessibility
+  - '[[Prepare for Digital Accessibility]]'
+prev_courses:
+  - '[[UX Foundations- Accessibility]]'
+next_courses:
+  - '[[Web Accessibility for Developers]]'
+path_nav: '[{"path":"Prepare for Digital Accessibility","position":3,"total":8,"prev":"UX Foundations- Accessibility","next":"Web Accessibility for Developers"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Accessibility for Web Design](https://media.licdn.com/dms/image/v2/C4E0DAQFEldSjvm_oGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655410107982?e=2147483647&amp;v=beta&amp;t=yBzaHJwb36X3FR4o11qUaIdyzTF1ol-eXOPxh297Nyg)

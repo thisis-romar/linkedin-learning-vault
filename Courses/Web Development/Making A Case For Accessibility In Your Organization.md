@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFnljeoi7JYxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1672773910156?e=2147483647&amp;v=beta&amp;t=6_tM86pBXyegZZwmGIp7HlPaJyouC9l0s-Qm8xPZVPU"
 linkedin_topic: Web Development
 learning_paths:
-  - Maintain Digital Accessibility
+  - '[[Maintain Digital Accessibility]]'
+next_courses:
+  - '[[Supporting Accessibility in a Hybrid Workplace]]'
+path_nav: '[{"path":"Maintain Digital Accessibility","position":1,"total":3,"prev":null,"next":"Supporting Accessibility in a Hybrid Workplace"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/fostering-inclusivity
   - skill/diversity-equity-inclusion-and-belonging-deib
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Making A Case For Accessibility In Your Organization](https://media.licdn.com/dms/image/v2/C560DAQFnljeoi7JYxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1672773910156?e=2147483647&amp;v=beta&amp;t=6_tM86pBXyegZZwmGIp7HlPaJyouC9l0s-Qm8xPZVPU)

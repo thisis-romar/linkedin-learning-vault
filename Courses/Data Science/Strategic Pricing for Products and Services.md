@@ -14,14 +14,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHJYXFJSDSnRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642011691219?e=2147483647&amp;v=beta&amp;t=1L7AMFArQRwVvOX-O41Tm1YA3NlkUjak05Rwo-IKiws"
 linkedin_topic: Data Science
 learning_paths:
-  - Strategic Execution and Business Impact for Senior Managers and Senior Leaders
+  - '[[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]]'
+prev_courses:
+  - '[[Stakeholder Management for Leaders and Managers]]'
+next_courses:
+  - '[[Removing Noise and Bias from Strategic Decision-Making]]'
+path_nav: '[{"path":"Strategic Execution and Business Impact for Senior Managers and Senior Leaders","position":5,"total":12,"prev":"Stakeholder Management for Leaders and Managers","next":"Removing Noise and Bias from Strategic Decision-Making"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/pricing-strategy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Strategic Pricing for Products and Services](https://media.licdn.com/dms/image/v2/C560DAQHJYXFJSDSnRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642011691219?e=2147483647&amp;v=beta&amp;t=1L7AMFArQRwVvOX-O41Tm1YA3NlkUjak05Rwo-IKiws)

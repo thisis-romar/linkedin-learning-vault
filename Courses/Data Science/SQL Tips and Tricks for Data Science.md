@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF7y0hASXms9Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118065211?e=2147483647&amp;v=beta&amp;t=j7ruLHk-YyjTkzLkGXEwEqxYbOZN8nZ3HYwn-hA6WjI"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Data Analysis Skills
+  - '[[Develop Your Data Analysis Skills]]'
+prev_courses:
+  - '[[Data Science Foundations- Data Mining in R]]'
+next_courses:
+  - '[[SQL Hands-On Practice- Solve Business Problems]]'
+path_nav: '[{"path":"Develop Your Data Analysis Skills","position":7,"total":10,"prev":"Data Science Foundations- Data Mining in R","next":"SQL Hands-On Practice- Solve Business Problems"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL Tips and Tricks for Data Science](https://media.licdn.com/dms/image/v2/C4E0DAQF7y0hASXms9Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118065211?e=2147483647&amp;v=beta&amp;t=j7ruLHk-YyjTkzLkGXEwEqxYbOZN8nZ3HYwn-hA6WjI)

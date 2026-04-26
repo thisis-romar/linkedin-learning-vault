@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/react-interface-2880067"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHGQTQ2dHgcJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619021949350?e=2147483647&amp;v=beta&amp;t=wmS11QWoUO2hLsPSQ4QOAqs67__mDIUIx37D7xBk0Qs"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore a Career in Front-End Web Development
-  - Explore React.js Development
+  - '[[Explore a Career in Front-End Web Development]]'
+  - '[[Explore React.js Development]]'
+prev_courses:
+  - '[[React Essential Training]]'
+  - '[[React Essential Training]]'
+next_courses:
+  - '[[JavaScript- Modern Browser APIs]]'
+  - '[[React- Creating and Hosting a Full-Stack Site]]'
+path_nav: '[{"path":"Explore a Career in Front-End Web Development","position":9,"total":11,"prev":"React Essential Training","next":"JavaScript- Modern Browser APIs"},{"path":"Explore React.js Development","position":2,"total":8,"prev":"React Essential Training","next":"React- Creating and Hosting a Full-Stack Site"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/react-js
   - skill/web-interface-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React.js: Building an Interface](https://media.licdn.com/dms/image/v2/C4E0DAQHGQTQ2dHgcJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619021949350?e=2147483647&amp;v=beta&amp;t=wmS11QWoUO2hLsPSQ4QOAqs67__mDIUIx37D7xBk0Qs)

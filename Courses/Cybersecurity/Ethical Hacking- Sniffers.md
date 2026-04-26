@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEEMLLSm2QEAA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682017851753?e=2147483647&amp;v=beta&amp;t=FGT0JjzwlAgFFURuYYsXzqnsq46-k8GVCWWalH2MYpc"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an Ethical Hacker
+  - '[[Become an Ethical Hacker]]'
+prev_courses:
+  - '[[Ethical Hacking- The Complete Malware Analysis Process]]'
+next_courses:
+  - '[[Ethical Hacking- Social Engineering]]'
+path_nav: '[{"path":"Become an Ethical Hacker","position":8,"total":19,"prev":"Ethical Hacking- The Complete Malware Analysis Process","next":"Ethical Hacking- Social Engineering"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/ethical-hacking
   - skill/network-traffic-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethical Hacking: Sniffers](https://media.licdn.com/dms/image/v2/D4D0DAQEEMLLSm2QEAA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682017851753?e=2147483647&amp;v=beta&amp;t=FGT0JjzwlAgFFURuYYsXzqnsq46-k8GVCWWalH2MYpc)

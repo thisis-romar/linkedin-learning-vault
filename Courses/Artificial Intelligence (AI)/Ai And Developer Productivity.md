@@ -17,7 +17,10 @@ github: "https://github.com/LinkedInLearning/ai-and-developer-productivity-38321
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFXw8VOLfLmtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715191910801?e=2147483647&amp;v=beta&amp;t=mhuN023shOrFTHdcxcl50OYKx8j5q-CxM6xDb7_iQS4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Prompt Engineering Skills for Developers
+  - '[[Prompt Engineering Skills for Developers]]'
+next_courses:
+  - '[[Introduction To Prompt Engineering For Generative Ai]]'
+path_nav: '[{"path":"Prompt Engineering Skills for Developers","position":1,"total":6,"prev":null,"next":"Introduction To Prompt Engineering For Generative Ai"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ai And Developer Productivity](https://media.licdn.com/dms/image/v2/D560DAQFXw8VOLfLmtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715191910801?e=2147483647&amp;v=beta&amp;t=mhuN023shOrFTHdcxcl50OYKx8j5q-CxM6xDb7_iQS4)

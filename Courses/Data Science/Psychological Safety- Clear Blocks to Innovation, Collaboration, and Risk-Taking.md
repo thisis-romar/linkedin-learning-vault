@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQE4BKHgZRQr6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583518424568?e=2147483647&amp;v=beta&amp;t=-2VFCXHeGZoX66iP6U2LbCaCceoTaxaKRreyd601oyU"
 linkedin_topic: Data Science
 learning_paths:
-  - LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader
+  - '[[LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader]]'
+prev_courses:
+  - '[[Decision Intelligence]]'
+next_courses:
+  - '[[Organizational Leadership in the Era of AI]]'
+path_nav: '[{"path":"LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader","position":5,"total":11,"prev":"Decision Intelligence","next":"Organizational Leadership in the Era of AI"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/emotional-intelligence
   - skill/open-innovation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Psychological Safety: Clear Blocks to Innovation, Collaboration, and Risk-Taking](https://media.licdn.com/dms/image/v2/C4E0DAQE4BKHgZRQr6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583518424568?e=2147483647&amp;v=beta&amp;t=-2VFCXHeGZoX66iP6U2LbCaCceoTaxaKRreyd601oyU)

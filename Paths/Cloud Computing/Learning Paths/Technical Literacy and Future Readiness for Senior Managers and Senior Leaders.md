@@ -7,7 +7,7 @@ course_count: 10
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 3
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/cloud-computing
@@ -59,7 +59,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Technical Literacy and Future Readiness for Senior Managers and Senior Leaders
@@ -97,3 +97,7 @@ _Paths that share courses with this one:_
 - [[Mastering Responsible AI- From Concept to Auditing]] (1 shared courses)
 - [[Applying Generative AI as a Business Professional]] (1 shared courses)
 - [[Become an AI Engineer]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

@@ -13,7 +13,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHLz2gIpGitgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630007018007?e=2147483647&amp;v=beta&amp;t=NuDtlRZn2ZQV726H5Put5Zsyjbt5uifpnzMyzOKlup0"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Thought Leadership
+  - '[[Advance Your Thought Leadership]]'
+next_courses:
+  - '[[The Step-by-Step Guide to Building your Thought Leadership on LinkedIn]]'
+path_nav: '[{"path":"Advance Your Thought Leadership","position":1,"total":7,"prev":null,"next":"The Step-by-Step Guide to Building your Thought Leadership on LinkedIn"}]'
 path_count: 1
 tags:
   - course
@@ -21,7 +24,7 @@ tags:
   - skill/career-management
   - skill/thought-leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![How To Become A Thought Leader And Advance Your Career](https://media.licdn.com/dms/image/v2/C560DAQHLz2gIpGitgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630007018007?e=2147483647&amp;v=beta&amp;t=NuDtlRZn2ZQV726H5Put5Zsyjbt5uifpnzMyzOKlup0)

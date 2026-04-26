@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHrfj6kO86P6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733504573568?e=2147483647&amp;v=beta&amp;t=pApeDVQQTTH7We-OO3QceFw5sCC8TAUGAvIlHB1HGfw"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your UX Design Skills
+  - '[[Improve Your UX Design Skills]]'
+prev_courses:
+  - '[[UX Foundations- Generational Design]]'
+next_courses:
+  - '[[Surveys and Questionnaires for UX Projects]]'
+path_nav: '[{"path":"Improve Your UX Design Skills","position":6,"total":7,"prev":"UX Foundations- Generational Design","next":"Surveys and Questionnaires for UX Projects"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Empathy in UX Design](https://media.licdn.com/dms/image/v2/D4E0DAQHrfj6kO86P6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733504573568?e=2147483647&amp;v=beta&amp;t=pApeDVQQTTH7We-OO3QceFw5sCC8TAUGAvIlHB1HGfw)

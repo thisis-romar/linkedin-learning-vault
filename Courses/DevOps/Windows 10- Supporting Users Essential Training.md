@@ -10,7 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGy3xRSp_ts1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632503520899?e=2147483647&amp;v=beta&amp;t=004SPpdS_RNFR8qKGkNG2B3fCRwXNVn7qhTYWExpwoo"
 linkedin_topic: DevOps
 learning_paths:
-  - Explore a Career in IT Support
+  - '[[Explore a Career in IT Support]]'
+prev_courses:
+  - '[[Microsoft Entra ID Fundamentals]]'
+next_courses:
+  - '[[Windows 10- Administration]]'
+path_nav: '[{"path":"Explore a Career in IT Support","position":4,"total":11,"prev":"Microsoft Entra ID Fundamentals","next":"Windows 10- Administration"}]'
 path_count: 1
 tags:
   - course
@@ -18,7 +23,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows 10: Supporting Users Essential Training](https://media.licdn.com/dms/image/v2/C560DAQGy3xRSp_ts1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632503520899?e=2147483647&amp;v=beta&amp;t=004SPpdS_RNFR8qKGkNG2B3fCRwXNVn7qhTYWExpwoo)

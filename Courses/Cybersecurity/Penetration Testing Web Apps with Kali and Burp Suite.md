@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEkWyYAAMz_-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664314084893?e=2147483647&amp;v=beta&amp;t=PNGaWMiPQSNBxKI25IfN99PKNRUttTeopw1cxPrXQR0"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become a Penetration Tester
+  - '[[Become a Penetration Tester]]'
+prev_courses:
+  - '[[Kali Linux for Advanced Pen Testing and Ethical Hacking]]'
+next_courses:
+  - '[[Advanced Pen Testing Techniques for Active Directory]]'
+path_nav: '[{"path":"Become a Penetration Tester","position":5,"total":8,"prev":"Kali Linux for Advanced Pen Testing and Ethical Hacking","next":"Advanced Pen Testing Techniques for Active Directory"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/penetration-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Penetration Testing Web Apps with Kali and Burp Suite](https://media.licdn.com/dms/image/v2/C4E0DAQEkWyYAAMz_-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664314084893?e=2147483647&amp;v=beta&amp;t=PNGaWMiPQSNBxKI25IfN99PKNRUttTeopw1cxPrXQR0)

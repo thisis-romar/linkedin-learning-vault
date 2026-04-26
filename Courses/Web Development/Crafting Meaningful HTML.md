@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQGGGPRrXtqcCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578939393521?e=2147483647&amp;v=beta&amp;t=cKv6r7SvAbH7XCeHa-0NIV_x3LE-4jZPIkFv36npceU"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in HTML
+  - '[[Advance Your Skills in HTML]]'
+prev_courses:
+  - '[[HTML Essential Training]]'
+next_courses:
+  - '[[HTML and CSS- Linking]]'
+path_nav: '[{"path":"Advance Your Skills in HTML","position":2,"total":11,"prev":"HTML Essential Training","next":"HTML and CSS- Linking"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Crafting Meaningful HTML](https://media.licdn.com/dms/image/v2/C4D0DAQGGGPRrXtqcCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578939393521?e=2147483647&amp;v=beta&amp;t=cKv6r7SvAbH7XCeHa-0NIV_x3LE-4jZPIkFv36npceU)

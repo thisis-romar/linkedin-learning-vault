@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEc1VhMuLmyWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1659380883006?e=2147483647&amp;v=beta&amp;t=SH8ZFt-IIRr3pB0os1n6t-vSGLTZGpDlZuJDgsHqTfM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Working Smarter with Microsoft 365
+  - '[[Working Smarter with Microsoft 365]]'
+prev_courses:
+  - '[[OneNote for Windows 10 Essential Training]]'
+path_nav: '[{"path":"Working Smarter with Microsoft 365","position":9,"total":9,"prev":"OneNote for Windows 10 Essential Training","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/microsoft-365
   - skill/team-collaboration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Team Collaboration in Microsoft 365](https://media.licdn.com/dms/image/v2/C560DAQEc1VhMuLmyWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1659380883006?e=2147483647&amp;v=beta&amp;t=SH8ZFt-IIRr3pB0os1n6t-vSGLTZGpDlZuJDgsHqTfM)

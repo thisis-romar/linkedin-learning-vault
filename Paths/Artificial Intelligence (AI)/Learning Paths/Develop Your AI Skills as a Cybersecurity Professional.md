@@ -7,7 +7,7 @@ course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cybersecurity
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -51,7 +51,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Develop Your AI Skills as a Cybersecurity Professional
@@ -85,3 +85,7 @@ _Paths that share courses with this one:_
 - [[Become an IT Security Specialist]] (1 shared courses)
 - [[Strategies for Managing Vulnerabilities and Mitigating Cyber Risks]] (1 shared courses)
 - [[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

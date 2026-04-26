@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-in-python-89696
 course_count: 7
 linkedin_topics:
   - Software Development
-louvain_cluster: 14
+louvain_cluster: 15
 tags:
   - learning-path
   - topic/software-development
@@ -45,7 +45,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Skills in Python
@@ -77,3 +77,7 @@ _Paths that share courses with this one:_
 - [[Python Hands-On Practice]] (3 shared courses)
 - [[A Quick Start Guide to Programming in Python]] (1 shared courses)
 - [[Master Python for Data Science]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Software Development]]

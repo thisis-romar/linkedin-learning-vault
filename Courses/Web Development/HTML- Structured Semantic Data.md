@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQG5-RNXkFb0aw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244976799?e=2147483647&amp;v=beta&amp;t=SSeom6RBaEaeCE_WtszcOYXOcsJOH4o14QTfVljaUbQ"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in HTML
+  - '[[Advance Your Skills in HTML]]'
+prev_courses:
+  - '[[Learning Web Audio and Video]]'
+next_courses:
+  - '[[Developing for Web Performance]]'
+path_nav: '[{"path":"Advance Your Skills in HTML","position":10,"total":11,"prev":"Learning Web Audio and Video","next":"Developing for Web Performance"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/html
   - skill/semantic-markup
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![HTML: Structured Semantic Data](https://media.licdn.com/dms/image/v2/D4D0DAQG5-RNXkFb0aw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244976799?e=2147483647&amp;v=beta&amp;t=SSeom6RBaEaeCE_WtszcOYXOcsJOH4o14QTfVljaUbQ)

@@ -19,7 +19,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQG5lZLQiFF0xQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721766754918?e=2147483647&amp;v=beta&amp;t=1MNPyCxCx_BAyTkDjbvb7itgg_ipW2HsrOQQ-WikOrs"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Generative AI for Marketing Professional Certificate by the American Marketing Association
+  - '[[Generative AI for Marketing Professional Certificate by the American Marketing Association]]'
+prev_courses:
+  - '[[Writing Great Content with Gen AI That Doesn''t Sound Fake]]'
+path_nav: '[{"path":"Generative AI for Marketing Professional Certificate by the American Marketing Association","position":6,"total":6,"prev":"Writing Great Content with Gen AI That Doesn''t Sound Fake","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Build Your Generative AI Plan for Marketing Success](https://media.licdn.com/dms/image/v2/D4D0DAQG5lZLQiFF0xQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721766754918?e=2147483647&amp;v=beta&amp;t=1MNPyCxCx_BAyTkDjbvb7itgg_ipW2HsrOQQ-WikOrs)

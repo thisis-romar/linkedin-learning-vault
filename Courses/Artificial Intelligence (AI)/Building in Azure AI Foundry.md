@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGRXNJHuKgHfA/learning-public-crop_675_1200/B4DZU_moEVHwAc-/0/1740528845416?e=2147483647&amp;v=beta&amp;t=LEv_T66w4Ed_eB9vGkUW_EJB9e0uicMJ-kuuV2xvvhQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
+  - '[[Understanding Generative AI for Tech Leaders]]'
+prev_courses:
+  - '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
+next_courses:
+  - '[[Azure AI Engineering- Speech, Language, and Vision Solutions]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":10,"total":22,"prev":"Understanding Generative AI in Cloud Computing- Services and Use Cases","next":"Azure AI Engineering- Speech, Language, and Vision Solutions"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/azure-ai-foundry
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building in Azure AI Foundry](https://media.licdn.com/dms/image/v2/D4D0DAQGRXNJHuKgHfA/learning-public-crop_675_1200/B4DZU_moEVHwAc-/0/1740528845416?e=2147483647&amp;v=beta&amp;t=LEv_T66w4Ed_eB9vGkUW_EJB9e0uicMJ-kuuV2xvvhQ)

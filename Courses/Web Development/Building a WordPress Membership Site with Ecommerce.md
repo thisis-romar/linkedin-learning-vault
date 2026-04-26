@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFroQDxzN6Mlw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634664278629?e=2147483647&amp;v=beta&amp;t=TY3BNIwe-2O9fJINBROE6FeejvCZ7DxjvpMRk1hjGSk"
 linkedin_topic: Web Development
 learning_paths:
-  - Build Your WordPress Ecommerce Skills
+  - '[[Build Your WordPress Ecommerce Skills]]'
+prev_courses:
+  - '[[WordPress- Speeding Up Your Site]]'
+path_nav: '[{"path":"Build Your WordPress Ecommerce Skills","position":6,"total":6,"prev":"WordPress- Speeding Up Your Site","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/wordpress-development
   - skill/e-commerce
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building a WordPress Membership Site with Ecommerce](https://media.licdn.com/dms/image/v2/C560DAQFroQDxzN6Mlw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634664278629?e=2147483647&amp;v=beta&amp;t=TY3BNIwe-2O9fJINBROE6FeejvCZ7DxjvpMRk1hjGSk)

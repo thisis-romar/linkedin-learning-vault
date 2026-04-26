@@ -19,8 +19,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFHGDI-Ei5OJQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655420568390?e=2147483647&amp;v=beta&amp;t=ZfXtX5Ulqem9pZX-kF3j0JFkWGgY76ZAU29KCpfCpaI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills as a Machine Learning Specialist
-  - Learning Codeless Machine Learning with KNIME
+  - '[[Advance Your Skills as a Machine Learning Specialist]]'
+  - '[[Learning Codeless Machine Learning with KNIME]]'
+prev_courses:
+  - '[[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]]'
+  - '[[Introduction To Machine Learning With Knime]]'
+next_courses:
+  - '[[Machine Learning and AI Foundations- Causal Inference and Modeling]]'
+  - '[[Data Science Foundations- Data Assessment for Predictive Modeling]]'
+path_nav: '[{"path":"Advance Your Skills as a Machine Learning Specialist","position":6,"total":9,"prev":"Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions","next":"Machine Learning and AI Foundations- Causal Inference and Modeling"},{"path":"Learning Codeless Machine Learning with KNIME","position":2,"total":5,"prev":"Introduction To Machine Learning With Knime","next":"Data Science Foundations- Data Assessment for Predictive Modeling"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning and AI Foundations: Decision Trees with KNIME](https://media.licdn.com/dms/image/v2/C560DAQFHGDI-Ei5OJQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655420568390?e=2147483647&amp;v=beta&amp;t=ZfXtX5Ulqem9pZX-kF3j0JFkWGgY76ZAU29KCpfCpaI)

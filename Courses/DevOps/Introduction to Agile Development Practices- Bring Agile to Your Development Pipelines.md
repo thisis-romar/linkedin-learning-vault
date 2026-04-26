@@ -17,11 +17,24 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFizssGS-Y-GA/learning-public-crop_675_1200/B4EZeEHS8JH0Ao-/0/1750268194814?e=2147483647&amp;v=beta&amp;t=aucgq2awHT_CV6bWWmvDmQJiZHNqEx46PkcIoaqicfk"
 linkedin_topic: DevOps
 learning_paths:
-  - Master Digital Transformation
-  - Develop Your Skills in Agile Software Development
-  - Essential New Skills in Software Engineering
-  - The Top Skills IT Professionals Have Right Now
-  - Getting Started with Agile Software Development
+  - '[[Master Digital Transformation]]'
+  - '[[Develop Your Skills in Agile Software Development]]'
+  - '[[Essential New Skills in Software Engineering]]'
+  - '[[The Top Skills IT Professionals Have Right Now]]'
+  - '[[Getting Started with Agile Software Development]]'
+prev_courses:
+  - '[[IoT Foundations- Fundamentals]]'
+  - '[[Devops Foundations Lean And Agile]]'
+  - '[[Building Monorepos On Github]]'
+  - '[[Azure Administration Essential Training]]'
+  - '[[Agile Software Development]]'
+next_courses:
+  - '[[Agile Foundations]]'
+  - '[[Planning and Releasing Software with Jira]]'
+  - '[[GitHub Dependabot- Dependency Updates]]'
+  - '[[Python Essential Training]]'
+  - '[[Planning and Releasing Software with Jira]]'
+path_nav: '[{"path":"Master Digital Transformation","position":8,"total":13,"prev":"IoT Foundations- Fundamentals","next":"Agile Foundations"},{"path":"Develop Your Skills in Agile Software Development","position":3,"total":6,"prev":"Devops Foundations Lean And Agile","next":"Planning and Releasing Software with Jira"},{"path":"Essential New Skills in Software Engineering","position":2,"total":4,"prev":"Building Monorepos On Github","next":"GitHub Dependabot- Dependency Updates"},{"path":"The Top Skills IT Professionals Have Right Now","position":6,"total":10,"prev":"Azure Administration Essential Training","next":"Python Essential Training"},{"path":"Getting Started with Agile Software Development","position":2,"total":10,"prev":"Agile Software Development","next":"Planning and Releasing Software with Jira"}]'
 path_count: 5
 tags:
   - course
@@ -32,7 +45,7 @@ tags:
   - skill/agile-methodologies
   - skill/agile-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Agile Development Practices: Bring Agile to Your Development Pipelines](https://media.licdn.com/dms/image/v2/D4E0DAQFizssGS-Y-GA/learning-public-crop_675_1200/B4EZeEHS8JH0Ao-/0/1750268194814?e=2147483647&amp;v=beta&amp;t=aucgq2awHT_CV6bWWmvDmQJiZHNqEx46PkcIoaqicfk)

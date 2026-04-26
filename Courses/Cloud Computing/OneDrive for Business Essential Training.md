@@ -14,15 +14,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGtdPqJpSRTuw/learning-public-crop_675_1200/B4DZZkd4U9H4AY-/0/1745442276988?e=2147483647&amp;v=beta&amp;t=idtf2LkqHiIAAiS0gRLyR8JHqnY_pRTGauE-KYOOMC4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Working Smarter with Microsoft 365
-  - Getting Started with Microsoft 365
+  - '[[Working Smarter with Microsoft 365]]'
+  - '[[Getting Started with Microsoft 365]]'
+prev_courses:
+  - '[[Microsoft Teams Essential Training]]'
+  - '[[Microsoft Teams Essential Training]]'
+next_courses:
+  - '[[Learning SharePoint Online]]'
+  - null
+path_nav: '[{"path":"Working Smarter with Microsoft 365","position":6,"total":9,"prev":"Microsoft Teams Essential Training","next":"Learning SharePoint Online"},{"path":"Getting Started with Microsoft 365","position":6,"total":6,"prev":"Microsoft Teams Essential Training","next":null}]'
 path_count: 2
 tags:
   - course
   - topic/cloud-computing
   - skill/microsoft-onedrive
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![OneDrive for Business Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQGtdPqJpSRTuw/learning-public-crop_675_1200/B4DZZkd4U9H4AY-/0/1745442276988?e=2147483647&amp;v=beta&amp;t=idtf2LkqHiIAAiS0gRLyR8JHqnY_pRTGauE-KYOOMC4)

@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEIJ8IYR2mCrQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567114357988?e=2147483647&amp;v=beta&amp;t=DANGiQv4iEsyZ6ylrvIQHn4GN1kpAwJuEd2_O995VXQ"
 linkedin_topic: DevOps
 learning_paths:
-  - Applying Lean, DevOps, and Agile to Your IT Organization
+  - '[[Applying Lean, DevOps, and Agile to Your IT Organization]]'
+prev_courses:
+  - '[[DevOps Foundations- Transforming the Enterprise]]'
+next_courses:
+  - '[[Lean Technology Strategy- Building High-Performing Teams]]'
+path_nav: '[{"path":"Applying Lean, DevOps, and Agile to Your IT Organization","position":6,"total":9,"prev":"DevOps Foundations- Transforming the Enterprise","next":"Lean Technology Strategy- Building High-Performing Teams"}]'
 path_count: 1
 tags:
   - course
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Lean Technology Strategy: Running Agile at Scale](https://media.licdn.com/dms/image/v2/C4E0DAQEIJ8IYR2mCrQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567114357988?e=2147483647&amp;v=beta&amp;t=DANGiQv4iEsyZ6ylrvIQHn4GN1kpAwJuEd2_O995VXQ)

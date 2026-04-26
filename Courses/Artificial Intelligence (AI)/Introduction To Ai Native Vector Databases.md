@@ -17,8 +17,15 @@ github: "https://github.com/LinkedInLearning/introduction-to-ai-native-vector-da
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFc3phQ64lAsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702341179674?e=2147483647&amp;v=beta&amp;t=DA3L9IPfoR2oDugHZT-Q8SlcfrRRNBd04nf4gYCizSE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Vector Databases Professional Certificate by Weaviate
-  - Explore AI for Data Engineering
+  - '[[Vector Databases Professional Certificate by Weaviate]]'
+  - '[[Explore AI for Data Engineering]]'
+prev_courses:
+  - null
+  - '[[Generative AI for Data Engineering- ChatGPT Power Tips]]'
+next_courses:
+  - '[[Vector Databases in Practice- Deep Dive]]'
+  - '[[Vector Databases in Practice- Deep Dive]]'
+path_nav: '[{"path":"Vector Databases Professional Certificate by Weaviate","position":1,"total":2,"prev":null,"next":"Vector Databases in Practice- Deep Dive"},{"path":"Explore AI for Data Engineering","position":5,"total":8,"prev":"Generative AI for Data Engineering- ChatGPT Power Tips","next":"Vector Databases in Practice- Deep Dive"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction To Ai Native Vector Databases](https://media.licdn.com/dms/image/v2/D4D0DAQFc3phQ64lAsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702341179674?e=2147483647&amp;v=beta&amp;t=DA3L9IPfoR2oDugHZT-Q8SlcfrRRNBd04nf4gYCizSE)

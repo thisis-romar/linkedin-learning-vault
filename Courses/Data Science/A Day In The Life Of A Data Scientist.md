@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHAWiSGH-Xj2Q/learning-public-crop_675_1200/B4EZp_FpkzGoAY-/0/1763068779676?e=2147483647&amp;v=beta&amp;t=1W_6STZWkGSc8BDvPTg6MCnlDmG0RcPeRYo2EALgHKE"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Data Scientist
+  - '[[Become a Data Scientist]]'
+next_courses:
+  - '[[The Non Technical Skills Of Effective Data Scientists]]'
+path_nav: '[{"path":"Become a Data Scientist","position":1,"total":11,"prev":null,"next":"The Non Technical Skills Of Effective Data Scientists"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![A Day In The Life Of A Data Scientist](https://media.licdn.com/dms/image/v2/D4E0DAQHAWiSGH-Xj2Q/learning-public-crop_675_1200/B4EZp_FpkzGoAY-/0/1763068779676?e=2147483647&amp;v=beta&amp;t=1W_6STZWkGSc8BDvPTg6MCnlDmG0RcPeRYo2EALgHKE)

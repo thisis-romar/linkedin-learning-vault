@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/introduction-to-generative-adversar
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHJKIXSiJjxMg/learning-public-crop_675_1200/B4EZikYWgPGwAY-/0/1755104504794?e=2147483647&amp;v=beta&amp;t=OPXs5dlkj4EvBSdjHTjVqHD33ezT23ZiCIpnsHjVItQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills in Deep Learning and Neural Networks
-  - Advance Your Skills in AI and Machine Learning
+  - '[[Advance Your Skills in Deep Learning and Neural Networks]]'
+  - '[[Advance Your Skills in AI and Machine Learning]]'
+prev_courses:
+  - '[[Deep Learning with Python- Optimizing Deep Learning Models]]'
+  - '[[Training Neural Networks in Python]]'
+next_courses:
+  - '[[AI Workshop- Hands-on with GANs Using Dense Neural Networks (2023)]]'
+  - '[[AI Workshop- Hands-on with GANs Using Dense Neural Networks (2023)]]'
+path_nav: '[{"path":"Advance Your Skills in Deep Learning and Neural Networks","position":6,"total":8,"prev":"Deep Learning with Python- Optimizing Deep Learning Models","next":"AI Workshop- Hands-on with GANs Using Dense Neural Networks (2023)"},{"path":"Advance Your Skills in AI and Machine Learning","position":6,"total":16,"prev":"Training Neural Networks in Python","next":"AI Workshop- Hands-on with GANs Using Dense Neural Networks (2023)"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-adversarial-networks-gans
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Generative Adversarial Networks (GANs)](https://media.licdn.com/dms/image/v2/D4E0DAQHJKIXSiJjxMg/learning-public-crop_675_1200/B4EZikYWgPGwAY-/0/1755104504794?e=2147483647&amp;v=beta&amp;t=OPXs5dlkj4EvBSdjHTjVqHD33ezT23ZiCIpnsHjVItQ)

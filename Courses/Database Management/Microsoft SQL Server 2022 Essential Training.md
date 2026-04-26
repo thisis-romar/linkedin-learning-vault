@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHy_-KDY2HaAQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732661250561?e=2147483647&amp;v=beta&amp;t=QslvEqwf8KN3JsTLwt8E73fuFvuBL42Z6IhvXH6QBb0"
 linkedin_topic: Database Management
 learning_paths:
-  - Advance Your MS SQL Server Skills
+  - '[[Advance Your MS SQL Server Skills]]'
+prev_courses:
+  - '[[Introduction To Transact Sql]]'
+next_courses:
+  - '[[Querying Microsoft SQL Server 2022]]'
+path_nav: '[{"path":"Advance Your MS SQL Server Skills","position":2,"total":9,"prev":"Introduction To Transact Sql","next":"Querying Microsoft SQL Server 2022"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft SQL Server 2022 Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHy_-KDY2HaAQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732661250561?e=2147483647&amp;v=beta&amp;t=QslvEqwf8KN3JsTLwt8E73fuFvuBL42Z6IhvXH6QBb0)

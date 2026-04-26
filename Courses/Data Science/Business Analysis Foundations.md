@@ -16,15 +16,22 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGUafseQMPKOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567544440259?e=2147483647&amp;v=beta&amp;t=q4vucYVljX_P87AoVvrrbbIoVPi8DHmQNDLwWbXobJs"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Business Analyst
-  - Get Ahead in Business Analytics and Analysis
+  - '[[Getting Started as a Business Analyst]]'
+  - '[[Get Ahead in Business Analytics and Analysis]]'
+prev_courses:
+  - '[[Building a Successful Business Analysis Career]]'
+  - '[[Introduction To Business Analytics]]'
+next_courses:
+  - '[[Agile Requirements Foundations]]'
+  - '[[Learning Digital Business Analysis]]'
+path_nav: '[{"path":"Getting Started as a Business Analyst","position":3,"total":18,"prev":"Building a Successful Business Analysis Career","next":"Agile Requirements Foundations"},{"path":"Get Ahead in Business Analytics and Analysis","position":2,"total":19,"prev":"Introduction To Business Analytics","next":"Learning Digital Business Analysis"}]'
 path_count: 2
 tags:
   - course
   - topic/data-science
   - skill/business-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Business Analysis Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQGUafseQMPKOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567544440259?e=2147483647&amp;v=beta&amp;t=q4vucYVljX_P87AoVvrrbbIoVPi8DHmQNDLwWbXobJs)

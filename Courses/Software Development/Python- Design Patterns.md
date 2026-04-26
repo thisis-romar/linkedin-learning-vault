@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/python-design-patterns-2422610"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGh8swRcFJa6Q/learning-public-crop_675_1200/B4DZUB1jqVGcAY-/0/1739492572584?e=2147483647&amp;v=beta&amp;t=cSXxtUFHGPtSuSN0hyodH3llHMdDdlbJrv3yJ59_FeM"
 linkedin_topic: Software Development
 learning_paths:
-  - Advance Your Skills in Python
+  - '[[Advance Your Skills in Python]]'
+prev_courses:
+  - '[[Hands-On Introduction- Python]]'
+next_courses:
+  - '[[Python Data Structures and Algorithms]]'
+path_nav: '[{"path":"Advance Your Skills in Python","position":2,"total":7,"prev":"Hands-On Introduction- Python","next":"Python Data Structures and Algorithms"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/design-patterns
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python: Design Patterns](https://media.licdn.com/dms/image/v2/D4D0DAQGh8swRcFJa6Q/learning-public-crop_675_1200/B4DZUB1jqVGcAY-/0/1739492572584?e=2147483647&amp;v=beta&amp;t=cSXxtUFHGPtSuSN0hyodH3llHMdDdlbJrv3yJ59_FeM)

@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFR63o-jjWjyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726521550716?e=2147483647&amp;v=beta&amp;t=lhmEHIkzeH3VqqCUqzKT4XNNRGMESTrEx8aL985Uq6w"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills in Natural Language Processing
+  - '[[Advance Your Skills in Natural Language Processing]]'
+prev_courses:
+  - '[[Advanced Nlp With Python For Machine Learning]]'
+next_courses:
+  - '[[Building NLP Pipelines with spaCy]]'
+path_nav: '[{"path":"Advance Your Skills in Natural Language Processing","position":2,"total":6,"prev":"Advanced Nlp With Python For Machine Learning","next":"Building NLP Pipelines with spaCy"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On Natural Language Processing](https://media.licdn.com/dms/image/v2/D4E0DAQFR63o-jjWjyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726521550716?e=2147483647&amp;v=beta&amp;t=lhmEHIkzeH3VqqCUqzKT4XNNRGMESTrEx8aL985Uq6w)

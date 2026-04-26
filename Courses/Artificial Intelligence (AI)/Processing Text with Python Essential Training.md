@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGTubKeur8sMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008930353?e=2147483647&amp;v=beta&amp;t=PZUtYX6-bOg6xbI_5l58ZD_rgUmE9NdkRfkR2tgE86s"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Machine Learning with Python Professional Certificate by Anaconda
+  - '[[Machine Learning with Python Professional Certificate by Anaconda]]'
+prev_courses:
+  - '[[Machine Learning with Python- k-Means Clustering]]'
+path_nav: '[{"path":"Machine Learning with Python Professional Certificate by Anaconda","position":6,"total":6,"prev":"Machine Learning with Python- k-Means Clustering","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/text-mining
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Processing Text with Python Essential Training](https://media.licdn.com/dms/image/v2/D560DAQGTubKeur8sMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008930353?e=2147483647&amp;v=beta&amp;t=PZUtYX6-bOg6xbI_5l58ZD_rgUmE9NdkRfkR2tgE86s)

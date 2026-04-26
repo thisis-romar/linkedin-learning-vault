@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEGKf9eXGdrYw/learning-public-crop_675_1200/B4EZtHqTIfGYAg-/0/1766433829690?e=2147483647&amp;v=beta&amp;t=Tc43GZGS6IgGzCua5WLLRn2gJeoE96q2mVO25lq3yQA"
 linkedin_topic: DevOps
 learning_paths:
-  - Lead AI Like a High-Performing Teammate
+  - '[[Lead AI Like a High-Performing Teammate]]'
+next_courses:
+  - '[[From Tool to Teammates- Working Smarter with AI]]'
+path_nav: '[{"path":"Lead AI Like a High-Performing Teammate","position":1,"total":3,"prev":null,"next":"From Tool to Teammates- Working Smarter with AI"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/automation
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required](https://media.licdn.com/dms/image/v2/D4E0DAQEGKf9eXGdrYw/learning-public-crop_675_1200/B4EZtHqTIfGYAg-/0/1766433829690?e=2147483647&amp;v=beta&amp;t=Tc43GZGS6IgGzCua5WLLRn2gJeoE96q2mVO25lq3yQA)

@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFllYccXG5rlQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656547032366?e=2147483647&amp;v=beta&amp;t=WR1qifqtxlqi4W-KX_RvwOHR0LdLT-LbfayLBOz9X88"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation in Practice- Virtual Collaboration Tools
+  - '[[Digital Transformation in Practice- Virtual Collaboration Tools]]'
+prev_courses:
+  - '[[Excel Online (Microsoft 365)- Work Smarter with Copilot]]'
+next_courses:
+  - '[[Learning Word Online (Microsoft 365)]]'
+path_nav: '[{"path":"Digital Transformation in Practice- Virtual Collaboration Tools","position":5,"total":9,"prev":"Excel Online (Microsoft 365)- Work Smarter with Copilot","next":"Learning Word Online (Microsoft 365)"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning PowerPoint Online (Microsoft 365)](https://media.licdn.com/dms/image/v2/C4E0DAQFllYccXG5rlQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656547032366?e=2147483647&amp;v=beta&amp;t=WR1qifqtxlqi4W-KX_RvwOHR0LdLT-LbfayLBOz9X88)

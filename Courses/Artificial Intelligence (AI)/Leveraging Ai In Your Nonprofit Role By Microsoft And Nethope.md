@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGlw8gXfFnpJQ/learning-public-crop_675_1200/B56Z0bzOfaJgAY-/0/1774287907434?e=2147483647&amp;v=beta&amp;t=VZXOKyka2fhmfzgepEfl59dVBDhho9_vEvG_J8mGXig"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI for Nonprofits Professional Certificate by Microsoft Elevate, LinkedIn, and NetHope
+  - '[[AI for Nonprofits Professional Certificate by Microsoft Elevate, LinkedIn, and NetHope]]'
+next_courses:
+  - '[[Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope]]'
+path_nav: '[{"path":"AI for Nonprofits Professional Certificate by Microsoft Elevate, LinkedIn, and NetHope","position":1,"total":2,"prev":null,"next":"Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/nonprofit-organizations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope](https://media.licdn.com/dms/image/v2/D560DAQGlw8gXfFnpJQ/learning-public-crop_675_1200/B56Z0bzOfaJgAY-/0/1774287907434?e=2147483647&amp;v=beta&amp;t=VZXOKyka2fhmfzgepEfl59dVBDhho9_vEvG_J8mGXig)

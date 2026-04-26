@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHhmHn_rhPxdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655146592401?e=2147483647&amp;v=beta&amp;t=s7G9TI7Oon7yRPl5ToMz4_RyqOc1VCzsgSFUZla_7qI"
 linkedin_topic: Database Management
 learning_paths:
-  - Develop Your NoSQL Skills
+  - '[[Develop Your NoSQL Skills]]'
+prev_courses:
+  - '[[Redis Essential Training]]'
+next_courses:
+  - '[[Elasticsearch Essential Training (2023)]]'
+path_nav: '[{"path":"Develop Your NoSQL Skills","position":7,"total":10,"prev":"Redis Essential Training","next":"Elasticsearch Essential Training (2023)"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/database-development
   - skill/couchbase
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Couchbase](https://media.licdn.com/dms/image/v2/C560DAQHhmHn_rhPxdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655146592401?e=2147483647&amp;v=beta&amp;t=s7G9TI7Oon7yRPl5ToMz4_RyqOc1VCzsgSFUZla_7qI)

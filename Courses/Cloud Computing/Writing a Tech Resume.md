@@ -15,10 +15,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQEE8o-OhfIwTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1586792860695?e=2147483647&amp;v=beta&amp;t=N8W06U4nszwEaCkqB38tsAoC6Zd8bDHIMY3YVDB5_uk"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Starting Your Career in Tech- Cybersecurity
-  - Managing your Career as a Developer
-  - Starting Your Career in Tech- DevOps
-  - Starting Your Career in Tech- Software Development
+  - '[[Starting Your Career in Tech- Cybersecurity]]'
+  - '[[Managing your Career as a Developer]]'
+  - '[[Starting Your Career in Tech- DevOps]]'
+  - '[[Starting Your Career in Tech- Software Development]]'
+prev_courses:
+  - '[[Land Your First Cybersecurity Job]]'
+  - null
+  - null
+  - '[[Getting Started With Technology Think Like An Engineer]]'
+next_courses:
+  - '[[Nail Your Cybersecurity Interview]]'
+  - '[[Get Ready for Your Coding Interview]]'
+  - '[[Nail Your DevOps Interview]]'
+  - '[[Tech Career Skills- Searching, Interviewing, and Landing a Job]]'
+path_nav: '[{"path":"Starting Your Career in Tech- Cybersecurity","position":2,"total":5,"prev":"Land Your First Cybersecurity Job","next":"Nail Your Cybersecurity Interview"},{"path":"Managing your Career as a Developer","position":1,"total":8,"prev":null,"next":"Get Ready for Your Coding Interview"},{"path":"Starting Your Career in Tech- DevOps","position":1,"total":5,"prev":null,"next":"Nail Your DevOps Interview"},{"path":"Starting Your Career in Tech- Software Development","position":2,"total":6,"prev":"Getting Started With Technology Think Like An Engineer","next":"Tech Career Skills- Searching, Interviewing, and Landing a Job"}]'
 path_count: 4
 tags:
   - course
@@ -30,7 +41,7 @@ tags:
   - skill/tech-career-skills
   - skill/resume-writing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Writing a Tech Resume](https://media.licdn.com/dms/image/v2/C4D0DAQEE8o-OhfIwTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1586792860695?e=2147483647&amp;v=beta&amp;t=N8W06U4nszwEaCkqB38tsAoC6Zd8bDHIMY3YVDB5_uk)

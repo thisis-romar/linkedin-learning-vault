@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHFp6CFgAZ9_Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618509860115?e=2147483647&amp;v=beta&amp;t=PzFPUyrSSYjtim73LLh8wHdITScS--JrFOqJnJuUV6E"
 linkedin_topic: Software Development
 learning_paths:
-  - Microservices Foundations Professional Certificate by Kong
+  - '[[Microservices Foundations Professional Certificate by Kong]]'
+prev_courses:
+  - '[[Microservices- Design Patterns]]'
+path_nav: '[{"path":"Microservices Foundations Professional Certificate by Kong","position":3,"total":3,"prev":"Microservices- Design Patterns","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/software-architecture
   - skill/microservices
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Software Architecture: Breaking a Monolith into Microservices](https://media.licdn.com/dms/image/v2/C4E0DAQHFp6CFgAZ9_Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618509860115?e=2147483647&amp;v=beta&amp;t=PzFPUyrSSYjtim73LLh8wHdITScS--JrFOqJnJuUV6E)

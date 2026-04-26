@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHd9jT2p9QsWQ/learning-public-crop_675_1200/B4EZb05jwMGUAY-/0/1747865452182?e=2147483647&amp;v=beta&amp;t=zL6Jth3wpouiglkABmCHE8Vk2SVipZa7k4xxBHzAkhU"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning]]'
+next_courses:
+  - '[[AI Orchestration- Planning and Orchestrating for Observability]]'
+path_nav: '[{"path":"Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning","position":1,"total":5,"prev":null,"next":"AI Orchestration- Planning and Orchestrating for Observability"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Welcome To The Building Ai Products Architecture And Orchestration Professional Certificate](https://media.licdn.com/dms/image/v2/D4E0DAQHd9jT2p9QsWQ/learning-public-crop_675_1200/B4EZb05jwMGUAY-/0/1747865452182?e=2147483647&amp;v=beta&amp;t=zL6Jth3wpouiglkABmCHE8Vk2SVipZa7k4xxBHzAkhU)

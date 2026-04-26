@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGl1v7rfMtllg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704836962385?e=2147483647&amp;v=beta&amp;t=L1TzmHzcO2TVK-9jY5Njcoacul-TlSKMXfZg4pkhEUs"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Starting Your Career in Tech- Data Science
+  - '[[Starting Your Career in Tech- Data Science]]'
+prev_courses:
+  - '[[15 Tips for Landing a Data Science Job]]'
+next_courses:
+  - '[[Future Proofing Your Data Science Career]]'
+path_nav: '[{"path":"Starting Your Career in Tech- Data Science","position":7,"total":8,"prev":"15 Tips for Landing a Data Science Job","next":"Future Proofing Your Data Science Career"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/career-path-planning
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Get a Remote Data Science Job](https://media.licdn.com/dms/image/v2/D4E0DAQGl1v7rfMtllg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704836962385?e=2147483647&amp;v=beta&amp;t=L1TzmHzcO2TVK-9jY5Njcoacul-TlSKMXfZg4pkhEUs)

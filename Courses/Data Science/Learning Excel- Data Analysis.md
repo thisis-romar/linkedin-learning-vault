@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGEvQe-eyfHEg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663357252182?e=2147483647&amp;v=beta&amp;t=TeAvyOEaJY9bYXh4nWiZ7Ynd9feVOA7KxrNaT81bQNM"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Data Analyst
-  - Master Excel for Data Science
+  - '[[Become a Data Analyst]]'
+  - '[[Master Excel for Data Science]]'
+prev_courses:
+  - '[[The Non Technical Skills Of Effective Data Scientists]]'
+  - '[[Complete Guide to Excel Statistics with Copilot]]'
+next_courses:
+  - '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+  - '[[Excel for Business Analysts]]'
+path_nav: '[{"path":"Become a Data Analyst","position":2,"total":12,"prev":"The Non Technical Skills Of Effective Data Scientists","next":"Data Literacy Exploring And Describing Data In An Ai World"},{"path":"Master Excel for Data Science","position":3,"total":7,"prev":"Complete Guide to Excel Statistics with Copilot","next":"Excel for Business Analysts"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/data-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Excel: Data Analysis](https://media.licdn.com/dms/image/v2/C4E0DAQGEvQe-eyfHEg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663357252182?e=2147483647&amp;v=beta&amp;t=TeAvyOEaJY9bYXh4nWiZ7Ynd9feVOA7KxrNaT81bQNM)

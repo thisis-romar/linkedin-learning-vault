@@ -14,14 +14,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGfmTLus2CsDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628010147364?e=2147483647&amp;v=beta&amp;t=fVavcbqYjGR2Iq0TcKl28rEjPh0lYC1Tj6jCGAAQWbM"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Penetration Testing Professional Certificate by Cybrary
+  - '[[Penetration Testing Professional Certificate by Cybrary]]'
+next_courses:
+  - '[[Offensive Penetration Testing]]'
+path_nav: '[{"path":"Penetration Testing Professional Certificate by Cybrary","position":1,"total":2,"prev":null,"next":"Offensive Penetration Testing"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/penetration-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Penetration Testing Essential Training](https://media.licdn.com/dms/image/v2/C560DAQGfmTLus2CsDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628010147364?e=2147483647&amp;v=beta&amp;t=fVavcbqYjGR2Iq0TcKl28rEjPh0lYC1Tj6jCGAAQWbM)

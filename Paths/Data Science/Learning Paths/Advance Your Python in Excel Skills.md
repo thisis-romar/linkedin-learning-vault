@@ -7,7 +7,7 @@ course_count: 7
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/data-science
@@ -47,7 +47,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Python in Excel Skills
@@ -78,3 +78,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Introduction to Fundamental Skills for Data Work- Data Collection]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

@@ -19,9 +19,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGH07r67CLOiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652979675463?e=2147483647&amp;v=beta&amp;t=F3IjHeP1B9zaL8QIy6ig2lD-dGKwEhEmy-J03L_WEdY"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop with Python for AI and Machine Learning
-  - Advance Your Skills as a Machine Learning Specialist
-  - Machine Learning with Python Professional Certificate by Anaconda
+  - '[[Develop with Python for AI and Machine Learning]]'
+  - '[[Advance Your Skills as a Machine Learning Specialist]]'
+  - '[[Machine Learning with Python Professional Certificate by Anaconda]]'
+prev_courses:
+  - '[[Machine Learning with Python- Logistic Regression]]'
+  - '[[Machine Learning with Python- Decision Trees]]'
+  - '[[Machine Learning with Python- Logistic Regression]]'
+next_courses:
+  - '[[Machine Learning with Python- Association Rules]]'
+  - '[[Machine Learning with Python- Association Rules]]'
+  - '[[Processing Text with Python Essential Training]]'
+path_nav: '[{"path":"Develop with Python for AI and Machine Learning","position":4,"total":6,"prev":"Machine Learning with Python- Logistic Regression","next":"Machine Learning with Python- Association Rules"},{"path":"Advance Your Skills as a Machine Learning Specialist","position":2,"total":9,"prev":"Machine Learning with Python- Decision Trees","next":"Machine Learning with Python- Association Rules"},{"path":"Machine Learning with Python Professional Certificate by Anaconda","position":5,"total":6,"prev":"Machine Learning with Python- Logistic Regression","next":"Processing Text with Python Essential Training"}]'
 path_count: 3
 tags:
   - course
@@ -32,7 +41,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning with Python: k-Means Clustering](https://media.licdn.com/dms/image/v2/C4E0DAQGH07r67CLOiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652979675463?e=2147483647&amp;v=beta&amp;t=F3IjHeP1B9zaL8QIy6ig2lD-dGKwEhEmy-J03L_WEdY)

@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQET3VMfDxDEgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1659547561066?e=2147483647&amp;v=beta&amp;t=M_5qZaMDRQaY1tqkEnxANnDkuMdEYOX1Y0DPzzcc7ew"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started with Software Testing
+  - '[[Getting Started with Software Testing]]'
+prev_courses:
+  - '[[Programming Foundations- Software Testing-QA]]'
+next_courses:
+  - '[[Test Automation Foundations]]'
+path_nav: '[{"path":"Getting Started with Software Testing","position":2,"total":12,"prev":"Programming Foundations- Software Testing-QA","next":"Test Automation Foundations"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/quality-assurance
   - skill/manual-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Understanding Manual Testing](https://media.licdn.com/dms/image/v2/C560DAQET3VMfDxDEgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1659547561066?e=2147483647&amp;v=beta&amp;t=M_5qZaMDRQaY1tqkEnxANnDkuMdEYOX1Y0DPzzcc7ew)

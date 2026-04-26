@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHN4zlKFpwrjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668810191?e=2147483647&amp;v=beta&amp;t=z_U2gtrCXg5CUo4nPU9NxZO9xMSHo4oEo9t96rWKaSE"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Ubuntu Linux Professional Certificate by Canonical
+  - '[[Ubuntu Linux Professional Certificate by Canonical]]'
+prev_courses:
+  - '[[Learning Linux Command Line (2023)]]'
+next_courses:
+  - '[[Ubuntu Linux- Storage Management]]'
+path_nav: '[{"path":"Ubuntu Linux Professional Certificate by Canonical","position":2,"total":4,"prev":"Learning Linux Command Line (2023)","next":"Ubuntu Linux- Storage Management"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/linux-system-administration
   - skill/ubuntu
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ubuntu Linux: Operating System Basics](https://media.licdn.com/dms/image/v2/C4E0DAQHN4zlKFpwrjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668810191?e=2147483647&amp;v=beta&amp;t=z_U2gtrCXg5CUo4nPU9NxZO9xMSHo4oEo9t96rWKaSE)

@@ -21,7 +21,10 @@ github: "https://github.com/LinkedInLearning/openai-api-code-interpreter-and-adv
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGU7FDolKX0xA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707435191976?e=2147483647&amp;v=beta&amp;t=nHNaLRO8Jw4KGD3WH_4WlKRxgntCe9YqGMZJNInt2P4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your Skills with the OpenAI API
+  - '[[Develop Your Skills with the OpenAI API]]'
+prev_courses:
+  - '[[OpenAI API- Moderation]]'
+path_nav: '[{"path":"Develop Your Skills with the OpenAI API","position":10,"total":10,"prev":"OpenAI API- Moderation","next":null}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +36,7 @@ tags:
   - skill/code-interpretation
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![OpenAI API: Code Interpreter and Advanced Data Analysis](https://media.licdn.com/dms/image/v2/D560DAQGU7FDolKX0xA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707435191976?e=2147483647&amp;v=beta&amp;t=nHNaLRO8Jw4KGD3WH_4WlKRxgntCe9YqGMZJNInt2P4)

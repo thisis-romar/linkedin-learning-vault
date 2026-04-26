@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHrhszx9j3qcQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727300536359?e=2147483647&amp;v=beta&amp;t=SEwpAHsR16IFweHFW3rRdT8JiW-3k_ugHisI8zv63eo"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Key Financial Analyst Skills
+  - '[[Master Key Financial Analyst Skills]]'
+prev_courses:
+  - '[[Financial Modeling and Forecasting Financial Statements (2019)]]'
+next_courses:
+  - '[[Data, Economic Modeling, and Forecasting with Stata]]'
+path_nav: '[{"path":"Master Key Financial Analyst Skills","position":5,"total":6,"prev":"Financial Modeling and Forecasting Financial Statements (2019)","next":"Data, Economic Modeling, and Forecasting with Stata"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel Modeling Tips and Tricks](https://media.licdn.com/dms/image/v2/D560DAQHrhszx9j3qcQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727300536359?e=2147483647&amp;v=beta&amp;t=SEwpAHsR16IFweHFW3rRdT8JiW-3k_ugHisI8zv63eo)

@@ -19,8 +19,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFFvPbNc2rMCw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726528104511?e=2147483647&amp;v=beta&amp;t=UTcTNInBh6S_steKS9hzn5LDigRtycW-pHBWfmB0Zcw"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Collection
-  - Advance Your Python in Excel Skills
+  - '[[Introduction to Fundamental Skills for Data Work- Data Collection]]'
+  - '[[Advance Your Python in Excel Skills]]'
+prev_courses:
+  - '[[Data Ingestion with Python]]'
+  - '[[Python in Excel- Working with pandas DataFrames]]'
+next_courses:
+  - '[[PySpark Essential Training- Introduction to Building Data Pipelines]]'
+  - '[[Python in Excel- Data Outputs in Custom Data Visualizations and Algorithms]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Collection","position":3,"total":6,"prev":"Data Ingestion with Python","next":"PySpark Essential Training- Introduction to Building Data Pipelines"},{"path":"Advance Your Python in Excel Skills","position":3,"total":7,"prev":"Python in Excel- Working with pandas DataFrames","next":"Python in Excel- Data Outputs in Custom Data Visualizations and Algorithms"}]'
 path_count: 2
 tags:
   - course
@@ -31,7 +38,7 @@ tags:
   - skill/data-cleaning
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Cleaning and Manipulating with Python in Excel](https://media.licdn.com/dms/image/v2/D4E0DAQFFvPbNc2rMCw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726528104511?e=2147483647&amp;v=beta&amp;t=UTcTNInBh6S_steKS9hzn5LDigRtycW-pHBWfmB0Zcw)

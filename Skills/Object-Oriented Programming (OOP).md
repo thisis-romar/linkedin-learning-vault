@@ -6,7 +6,7 @@ course_count: 4
 tags:
   - skill
   - skill/object-oriented-programming-oop
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Object-Oriented Programming (OOP)

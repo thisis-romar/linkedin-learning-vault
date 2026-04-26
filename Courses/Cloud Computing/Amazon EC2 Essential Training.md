@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGLTV_hboqNbA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685473977717?e=2147483647&amp;v=beta&amp;t=VfcE9GjMFzjyGbvhcGbNYbVnOQuaRzmkIE28iwwsHiU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Infrastructure Management on AWS- Skills for Administrators
+  - '[[Infrastructure Management on AWS- Skills for Administrators]]'
+prev_courses:
+  - '[[Aws Essential Training For Administrators]]'
+next_courses:
+  - '[[AWS- Networking]]'
+path_nav: '[{"path":"Infrastructure Management on AWS- Skills for Administrators","position":2,"total":5,"prev":"Aws Essential Training For Administrators","next":"AWS- Networking"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/devops
   - skill/amazon-ec2
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Amazon EC2 Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQGLTV_hboqNbA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685473977717?e=2147483647&amp;v=beta&amp;t=VfcE9GjMFzjyGbvhcGbNYbVnOQuaRzmkIE28iwwsHiU)

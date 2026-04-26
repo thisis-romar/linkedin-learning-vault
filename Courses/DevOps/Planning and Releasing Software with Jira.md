@@ -18,10 +18,21 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHODFfhOcps3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639764947946?e=2147483647&amp;v=beta&amp;t=tcZAXSkJCT9AkYn0xUjIdTYlZLMy2kgbIdsJDR6J10E"
 linkedin_topic: DevOps
 learning_paths:
-  - Develop Your Skills in Agile Software Development
-  - Develop Your Skills as a Software Project Manager
-  - Mastering Jira for Software Developers
-  - Getting Started with Agile Software Development
+  - '[[Develop Your Skills in Agile Software Development]]'
+  - '[[Develop Your Skills as a Software Project Manager]]'
+  - '[[Mastering Jira for Software Developers]]'
+  - '[[Getting Started with Agile Software Development]]'
+prev_courses:
+  - '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+  - '[[Learning Jira Software]]'
+  - '[[Learning Jira- Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development]]'
+  - '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+next_courses:
+  - '[[Agile Software Development- Scrum for Developers]]'
+  - '[[Agile Software Development- Kanban for Developers (2019)]]'
+  - '[[Increasing Efficiency with Jira and Confluence Integrations]]'
+  - '[[Agile Software Development- Kanban for Developers (2019)]]'
+path_nav: '[{"path":"Develop Your Skills in Agile Software Development","position":4,"total":6,"prev":"Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines","next":"Agile Software Development- Scrum for Developers"},{"path":"Develop Your Skills as a Software Project Manager","position":9,"total":11,"prev":"Learning Jira Software","next":"Agile Software Development- Kanban for Developers (2019)"},{"path":"Mastering Jira for Software Developers","position":3,"total":4,"prev":"Learning Jira- Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development","next":"Increasing Efficiency with Jira and Confluence Integrations"},{"path":"Getting Started with Agile Software Development","position":3,"total":10,"prev":"Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines","next":"Agile Software Development- Kanban for Developers (2019)"}]'
 path_count: 4
 tags:
   - course
@@ -31,7 +42,7 @@ tags:
   - skill/jira
   - skill/software-development-life-cycle-sdlc
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Planning and Releasing Software with Jira](https://media.licdn.com/dms/image/v2/C560DAQHODFfhOcps3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639764947946?e=2147483647&amp;v=beta&amp;t=tcZAXSkJCT9AkYn0xUjIdTYlZLMy2kgbIdsJDR6J10E)

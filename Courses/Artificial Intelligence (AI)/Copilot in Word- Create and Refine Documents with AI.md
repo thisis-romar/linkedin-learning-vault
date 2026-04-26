@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHfYyhwAzCdxQ/learning-public-crop_675_1200/B4DZUarcKtHYAc-/0/1739909350397?e=2147483647&amp;v=beta&amp;t=HYpgSMM9wU6pFEO3QBaCiMZAN7QPLgNx4UNa3Js1JP4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Microsoft Copilot for Productivity by Microsoft and LinkedIn
+  - '[[Microsoft Copilot for Productivity by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Copilot in Outlook- Maximize Your Workday Efficiency (2025)]]'
+next_courses:
+  - '[[Excel with Copilot- AI-Driven Data Analysis]]'
+path_nav: '[{"path":"Microsoft Copilot for Productivity by Microsoft and LinkedIn","position":5,"total":7,"prev":"Copilot in Outlook- Maximize Your Workday Efficiency (2025)","next":"Excel with Copilot- AI-Driven Data Analysis"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/microsoft-word
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Copilot in Word: Create and Refine Documents with AI](https://media.licdn.com/dms/image/v2/D4D0DAQHfYyhwAzCdxQ/learning-public-crop_675_1200/B4DZUarcKtHYAc-/0/1739909350397?e=2147483647&amp;v=beta&amp;t=HYpgSMM9wU6pFEO3QBaCiMZAN7QPLgNx4UNa3Js1JP4)

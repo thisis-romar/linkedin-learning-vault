@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE6InISQKXVRQ/learning-public-crop_675_1200/B4DZU_uFWkGkAc-/0/1740530800297?e=2147483647&amp;v=beta&amp;t=v-UM2D7RGMmbAEZouV7Lqesawp6Sg_Gyf6XTHiDQ01o"
 linkedin_topic: Data Science
 learning_paths:
-  - SQL Hands-On Practice
-  - Advance Your Skills in SQL
+  - '[[SQL Hands-On Practice]]'
+  - '[[Advance Your Skills in SQL]]'
+prev_courses:
+  - '[[Practice It- SQL Joins]]'
+  - '[[Using SQL with Python]]'
+next_courses:
+  - '[[Data Analysis- Investigate with SQL]]'
+  - null
+path_nav: '[{"path":"SQL Hands-On Practice","position":6,"total":9,"prev":"Practice It- SQL Joins","next":"Data Analysis- Investigate with SQL"},{"path":"Advance Your Skills in SQL","position":5,"total":5,"prev":"Using SQL with Python","next":null}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On SQL Challenges: Test Your Knowledge](https://media.licdn.com/dms/image/v2/D4D0DAQE6InISQKXVRQ/learning-public-crop_675_1200/B4DZU_uFWkGkAc-/0/1740530800297?e=2147483647&amp;v=beta&amp;t=v-UM2D7RGMmbAEZouV7Lqesawp6Sg_Gyf6XTHiDQ01o)

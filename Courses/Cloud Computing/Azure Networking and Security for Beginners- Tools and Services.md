@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHbr00BDailXw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721763489368?e=2147483647&amp;v=beta&amp;t=U309jMw_oxpWEcW_Fu9la53PiGO2thmdZVQXZPWmutM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Azure Administration for Beginners- Management Tools, Services, and Security
+  - '[[Azure Administration for Beginners- Management Tools, Services, and Security]]'
+prev_courses:
+  - '[[Microsoft Entra ID Fundamentals]]'
+path_nav: '[{"path":"Azure Administration for Beginners- Management Tools, Services, and Security","position":5,"total":5,"prev":"Microsoft Entra ID Fundamentals","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/cloud-security
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure Networking and Security for Beginners: Tools and Services](https://media.licdn.com/dms/image/v2/D4D0DAQHbr00BDailXw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721763489368?e=2147483647&amp;v=beta&amp;t=U309jMw_oxpWEcW_Fu9la53PiGO2thmdZVQXZPWmutM)

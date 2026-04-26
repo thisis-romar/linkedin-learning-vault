@@ -15,7 +15,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHWuCoJpWu0Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710188857201?e=2147483647&amp;v=beta&amp;t=YPHiuFPHKYRU4DAPKfzJfveuKV7QLBf6KdJUh7B6YV4"
 linkedin_topic: Web Development
 learning_paths:
-  - Build for Digital Accessibility
+  - '[[Build for Digital Accessibility]]'
+next_courses:
+  - '[[Creating Accessible PDFs]]'
+path_nav: '[{"path":"Build for Digital Accessibility","position":1,"total":12,"prev":null,"next":"Creating Accessible PDFs"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/diversity-and-inclusion
   - skill/diversity-equity-inclusion-and-belonging-deib
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Creating Accessible And Inclusive Video](https://media.licdn.com/dms/image/v2/D4D0DAQHWuCoJpWu0Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710188857201?e=2147483647&amp;v=beta&amp;t=YPHiuFPHKYRU4DAPKfzJfveuKV7QLBf6KdJUh7B6YV4)

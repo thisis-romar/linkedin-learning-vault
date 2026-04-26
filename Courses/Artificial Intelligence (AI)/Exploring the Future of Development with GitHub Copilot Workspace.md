@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG5oNpjPsDhZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724694523741?e=2147483647&amp;v=beta&amp;t=WojonxksaCoWB_rIERx8lgajZ6wThZ_cNCtV5rqHvO0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Master GitHub Copilot
+  - '[[Master GitHub Copilot]]'
+prev_courses:
+  - '[[AI Pair Programming with GitHub Copilot]]'
+next_courses:
+  - '[[Supercharge the Development Process with GitHub Extensions for Copilot Chat]]'
+path_nav: '[{"path":"Master GitHub Copilot","position":2,"total":8,"prev":"AI Pair Programming with GitHub Copilot","next":"Supercharge the Development Process with GitHub Extensions for Copilot Chat"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Exploring the Future of Development with GitHub Copilot Workspace](https://media.licdn.com/dms/image/v2/D560DAQG5oNpjPsDhZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724694523741?e=2147483647&amp;v=beta&amp;t=WojonxksaCoWB_rIERx8lgajZ6wThZ_cNCtV5rqHvO0)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-for-digital-accessibility
 course_count: 12
 linkedin_topics:
   - Web Development
-louvain_cluster: 12
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/web-development
@@ -65,7 +65,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Build for Digital Accessibility
@@ -101,3 +101,7 @@ _Paths that share courses with this one:_
 
 - [[Design User Experiences with Figma]] (1 shared courses)
 - [[A Developer's Guide to Google Gemini]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Web Development]]

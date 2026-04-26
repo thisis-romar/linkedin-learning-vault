@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHDta61I-dsrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696456723105?e=2147483647&amp;v=beta&amp;t=wuE8jSC78C2FJTGGC7K_vaf1onkSI3Q9bORsIA-kEp8"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Data Engineering
-  - Advance Your Data Skills in Apache Spark
+  - '[[Master Data Engineering]]'
+  - '[[Advance Your Data Skills in Apache Spark]]'
+prev_courses:
+  - '[[Tuning Kafka]]'
+  - '[[Azure Spark Databricks Essential Training]]'
+next_courses:
+  - '[[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]'
+  - '[[Big Data Analytics with Hadoop and Apache Spark]]'
+path_nav: '[{"path":"Master Data Engineering","position":4,"total":8,"prev":"Tuning Kafka","next":"Complete Guide to Python for Data Engineering- From Beginner to Advanced"},{"path":"Advance Your Data Skills in Apache Spark","position":4,"total":6,"prev":"Azure Spark Databricks Essential Training","next":"Big Data Analytics with Hadoop and Apache Spark"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/big-data
   - skill/batch-processing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Architecting Big Data Applications: Batch Mode Application Engineering](https://media.licdn.com/dms/image/v2/D560DAQHDta61I-dsrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696456723105?e=2147483647&amp;v=beta&amp;t=wuE8jSC78C2FJTGGC7K_vaf1onkSI3Q9bORsIA-kEp8)

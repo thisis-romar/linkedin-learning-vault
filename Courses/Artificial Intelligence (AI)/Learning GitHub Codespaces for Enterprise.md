@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/github-codespaces-2479226"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGuwF3dwQt0KA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244953406?e=2147483647&amp;v=beta&amp;t=2IogZ5daNFcue-YI3-KQyCkGupoBIrhtKSl3BxB00ic"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Prepare for the GitHub Foundations Certification
+  - '[[Prepare for the GitHub Foundations Certification]]'
+prev_courses:
+  - '[[Practical GitHub Copilot]]'
+next_courses:
+  - '[[GitHub Foundations- Privacy, Security, and Administration]]'
+path_nav: '[{"path":"Prepare for the GitHub Foundations Certification","position":5,"total":7,"prev":"Practical GitHub Copilot","next":"GitHub Foundations- Privacy, Security, and Administration"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/codespaces
   - skill/github
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning GitHub Codespaces for Enterprise](https://media.licdn.com/dms/image/v2/D4D0DAQGuwF3dwQt0KA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244953406?e=2147483647&amp;v=beta&amp;t=2IogZ5daNFcue-YI3-KQyCkGupoBIrhtKSl3BxB00ic)

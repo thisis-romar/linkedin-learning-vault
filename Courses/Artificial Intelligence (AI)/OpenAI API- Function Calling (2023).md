@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/function-calling-with-the-openai-ap
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHFJ_NsHrFR1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692400120285?e=2147483647&amp;v=beta&amp;t=6wZOlAg1GG7-zY1hwSa0DEkvgXsVKgFhl2I-JunoONE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your Skills with the OpenAI API
+  - '[[Develop Your Skills with the OpenAI API]]'
+prev_courses:
+  - '[[OpenAI API- Working with Files]]'
+next_courses:
+  - '[[OpenAI API- Embeddings]]'
+path_nav: '[{"path":"Develop Your Skills with the OpenAI API","position":3,"total":10,"prev":"OpenAI API- Working with Files","next":"OpenAI API- Embeddings"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/openai-api
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![OpenAI API: Function Calling (2023)](https://media.licdn.com/dms/image/v2/D560DAQHFJ_NsHrFR1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692400120285?e=2147483647&amp;v=beta&amp;t=6wZOlAg1GG7-zY1hwSa0DEkvgXsVKgFhl2I-JunoONE)

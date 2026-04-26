@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQGddjNt93pQww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616445753231?e=2147483647&amp;v=beta&amp;t=y7ju0mAE3Q4Xqb_SXPTP5KEl2kmxG-uO4FFDQbUaSdY"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Java Skills
+  - '[[Advance Your Java Skills]]'
+prev_courses:
+  - '[[Introduction to Docker for Java Developers]]'
+next_courses:
+  - '[[Advanced Java- Hands-on with Streams, Lambda Expressions, Collections, Generics and More]]'
+path_nav: '[{"path":"Advance Your Java Skills","position":3,"total":4,"prev":"Introduction to Docker for Java Developers","next":"Advanced Java- Hands-on with Streams, Lambda Expressions, Collections, Generics and More"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/data-science
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Science for Java Developers](https://media.licdn.com/dms/image/v2/C4D0DAQGddjNt93pQww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616445753231?e=2147483647&amp;v=beta&amp;t=y7ju0mAE3Q4Xqb_SXPTP5KEl2kmxG-uO4FFDQbUaSdY)

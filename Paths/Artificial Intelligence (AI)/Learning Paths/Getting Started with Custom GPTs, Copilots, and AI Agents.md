@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Getting Started with Custom GPTs, Copilots, and AI Agents
@@ -59,3 +59,7 @@ created: '2026-04-20'
 ## Topics
 
 - [[Artificial Intelligence (AI)]]
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

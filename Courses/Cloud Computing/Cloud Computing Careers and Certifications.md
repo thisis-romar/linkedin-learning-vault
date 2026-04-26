@@ -17,8 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGblqjwdxNg8w/learning-public-crop_675_1200/B4EZUgUNbDGYAY-/0/1740003924440?e=2147483647&amp;v=beta&amp;t=oeMz9HtUCUUbA5dirgm6lbXEfPGfT9tCCZmDVwwQusI"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Foundations of Cloud Computing- Models, Platforms, Services, and Careers
-  - Develop Your AWS Skills
+  - '[[Foundations of Cloud Computing- Models, Platforms, Services, and Careers]]'
+  - '[[Develop Your AWS Skills]]'
+prev_courses:
+  - '[[Cloud Concepts- Hybrid Cloud]]'
+  - '[[AWS- Monitoring, Logging, and Remediation (2021)]]'
+path_nav: '[{"path":"Foundations of Cloud Computing- Models, Platforms, Services, and Careers","position":9,"total":9,"prev":"Cloud Concepts- Hybrid Cloud","next":null},{"path":"Develop Your AWS Skills","position":4,"total":4,"prev":"AWS- Monitoring, Logging, and Remediation (2021)","next":null}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +31,7 @@ tags:
   - skill/career-development
   - skill/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Computing Careers and Certifications](https://media.licdn.com/dms/image/v2/D4E0DAQGblqjwdxNg8w/learning-public-crop_675_1200/B4EZUgUNbDGYAY-/0/1740003924440?e=2147483647&amp;v=beta&amp;t=oeMz9HtUCUUbA5dirgm6lbXEfPGfT9tCCZmDVwwQusI)

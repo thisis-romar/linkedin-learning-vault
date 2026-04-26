@@ -61,7 +61,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Explore a Career in Front-End Web Development
@@ -99,3 +99,7 @@ _Paths that share courses with this one:_
 - [[Become a JavaScript Developer]] (3 shared courses)
 - [[Become a Software Developer]] (3 shared courses)
 - [[Getting Started with WordPress]] (3 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Web Development]]

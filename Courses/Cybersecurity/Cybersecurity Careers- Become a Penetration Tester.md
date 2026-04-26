@@ -18,8 +18,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQG0z7ot3BZqOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1665598052340?e=2147483647&amp;v=beta&amp;t=r_MvIITtacYJmozW9SMbQkV5WTf6EVbnlCeSq34QDAY"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Explore Cybersecurity Careers
-  - Become a Penetration Tester
+  - '[[Explore Cybersecurity Careers]]'
+  - '[[Become a Penetration Tester]]'
+prev_courses:
+  - '[[Cybersecurity Careers- Become a Security Engineer]]'
+  - null
+next_courses:
+  - '[[Cybersecurity Careers- Become an Identity and Access Management Manager]]'
+  - '[[Introduction to Pen Testing for Cybersecurity Professionals]]'
+path_nav: '[{"path":"Explore Cybersecurity Careers","position":4,"total":9,"prev":"Cybersecurity Careers- Become a Security Engineer","next":"Cybersecurity Careers- Become an Identity and Access Management Manager"},{"path":"Become a Penetration Tester","position":1,"total":8,"prev":null,"next":"Introduction to Pen Testing for Cybersecurity Professionals"}]'
 path_count: 2
 tags:
   - course
@@ -31,7 +38,7 @@ tags:
   - skill/tech-career-skills
   - skill/penetration-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Careers: Become a Penetration Tester](https://media.licdn.com/dms/image/v2/C560DAQG0z7ot3BZqOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1665598052340?e=2147483647&amp;v=beta&amp;t=r_MvIITtacYJmozW9SMbQkV5WTf6EVbnlCeSq34QDAY)

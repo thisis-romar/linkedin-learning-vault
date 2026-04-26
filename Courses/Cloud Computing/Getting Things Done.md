@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHhhIIr03eUtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568666412658?e=2147483647&amp;v=beta&amp;t=nyOor8nI8Z7lwZ6NIvskodm3ivtb_nSnbMU2-3uUY4k"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Managing your Career as a Developer
+  - '[[Managing your Career as a Developer]]'
+prev_courses:
+  - '[[Tech Career Skills- Effective Technical Communication]]'
+next_courses:
+  - '[[Effective Listening (2019)]]'
+path_nav: '[{"path":"Managing your Career as a Developer","position":5,"total":8,"prev":"Tech Career Skills- Effective Technical Communication","next":"Effective Listening (2019)"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/time-management
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Getting Things Done](https://media.licdn.com/dms/image/v2/C4E0DAQHhhIIr03eUtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568666412658?e=2147483647&amp;v=beta&amp;t=nyOor8nI8Z7lwZ6NIvskodm3ivtb_nSnbMU2-3uUY4k)

@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFgwemFHqeTuA/learning-public-crop_675_1200/B56ZgfSJ9_HUAY-/0/1752871510155?e=2147483647&amp;v=beta&amp;t=4K6pzj6EX6Uv-iksis8homrJBQf6elCtwcikZLr6VuY"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build AI Aptitude as a Senior Manager
+  - '[[Build AI Aptitude as a Senior Manager]]'
+prev_courses:
+  - '[[Artificial Intelligence Case Studies in Different Business Industries]]'
+path_nav: '[{"path":"Build AI Aptitude as a Senior Manager","position":6,"total":6,"prev":"Artificial Intelligence Case Studies in Different Business Industries","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/business-ethics
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Responsible AI to the Rescue](https://media.licdn.com/dms/image/v2/D560DAQFgwemFHqeTuA/learning-public-crop_675_1200/B56ZgfSJ9_HUAY-/0/1752871510155?e=2147483647&amp;v=beta&amp;t=4K6pzj6EX6Uv-iksis8homrJBQf6elCtwcikZLr6VuY)

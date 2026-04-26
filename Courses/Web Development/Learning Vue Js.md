@@ -14,14 +14,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEhNT8dmozWXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619710596377?e=2147483647&amp;v=beta&amp;t=xY6VfyDqX57bYyuzBV0vmDefnYLPx17Xj90DFnNBHNU"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore Web Development with Vue.js
+  - '[[Explore Web Development with Vue.js]]'
+next_courses:
+  - '[[Vue.js- Testing and Debugging]]'
+path_nav: '[{"path":"Explore Web Development with Vue.js","position":1,"total":3,"prev":null,"next":"Vue.js- Testing and Debugging"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/vue-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Vue Js](https://media.licdn.com/dms/image/v2/C4E0DAQEhNT8dmozWXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619710596377?e=2147483647&amp;v=beta&amp;t=xY6VfyDqX57bYyuzBV0vmDefnYLPx17Xj90DFnNBHNU)

@@ -19,8 +19,15 @@ github: "https://github.com/LinkedInLearning/training-neural-networks-in-python-
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHV4j3fIM3c8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667864483162?e=2147483647&amp;v=beta&amp;t=oqVOtld0_v33uk2RKr6tq51vsio0xD8Bcvrwp7TUW8Y"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Fundamentals to Become a Machine Learning Engineer
-  - Advance Your Skills in AI and Machine Learning
+  - '[[Fundamentals to Become a Machine Learning Engineer]]'
+  - '[[Advance Your Skills in AI and Machine Learning]]'
+prev_courses:
+  - '[[Reinforcement Learning Foundations]]'
+  - '[[Introduction to Attention-Based Neural Networks]]'
+next_courses:
+  - null
+  - '[[Introduction to Generative Adversarial Networks (GANs)]]'
+path_nav: '[{"path":"Fundamentals to Become a Machine Learning Engineer","position":7,"total":7,"prev":"Reinforcement Learning Foundations","next":null},{"path":"Advance Your Skills in AI and Machine Learning","position":5,"total":16,"prev":"Introduction to Attention-Based Neural Networks","next":"Introduction to Generative Adversarial Networks (GANs)"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/python-programming-language
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Training Neural Networks in Python](https://media.licdn.com/dms/image/v2/C560DAQHV4j3fIM3c8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667864483162?e=2147483647&amp;v=beta&amp;t=oqVOtld0_v33uk2RKr6tq51vsio0xD8Bcvrwp7TUW8Y)

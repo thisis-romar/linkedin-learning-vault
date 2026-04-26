@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGSfsJszIFFgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567794475117?e=2147483647&amp;v=beta&amp;t=JvupRiD4BQ3oY8JubP-06zOO0zwBsenWbr_vFTHcd4Q"
 linkedin_topic: Mobile Development
 learning_paths:
-  - Master Swift
+  - '[[Master Swift]]'
+prev_courses:
+  - '[[Swift 5 Essential Training]]'
+next_courses:
+  - '[[Swift 5- Protocol-Oriented Programming]]'
+path_nav: '[{"path":"Master Swift","position":3,"total":4,"prev":"Swift 5 Essential Training","next":"Swift 5- Protocol-Oriented Programming"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Swift: Delegations and Data Sources](https://media.licdn.com/dms/image/v2/C4E0DAQGSfsJszIFFgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567794475117?e=2147483647&amp;v=beta&amp;t=JvupRiD4BQ3oY8JubP-06zOO0zwBsenWbr_vFTHcd4Q)

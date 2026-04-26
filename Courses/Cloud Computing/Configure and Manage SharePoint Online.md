@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH_-qP32fYlXA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685037500201?e=2147483647&amp;v=beta&amp;t=nDKcgdt131_RFioEOS0lt8Bd0slV0N6P-xATgzCZzUs"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Optimizing Enterprise Security and Productivity Using Microsoft 365
+  - '[[Optimizing Enterprise Security and Productivity Using Microsoft 365]]'
+prev_courses:
+  - '[[Configure and Manage OneDrive]]'
+next_courses:
+  - '[[Office 365 for Administrators- Troubleshooting Issues for Users (Office 365-Microsoft 365)]]'
+path_nav: '[{"path":"Optimizing Enterprise Security and Productivity Using Microsoft 365","position":9,"total":11,"prev":"Configure and Manage OneDrive","next":"Office 365 for Administrators- Troubleshooting Issues for Users (Office 365-Microsoft 365)"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/sharepoint
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Configure and Manage SharePoint Online](https://media.licdn.com/dms/image/v2/D560DAQH_-qP32fYlXA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685037500201?e=2147483647&amp;v=beta&amp;t=nDKcgdt131_RFioEOS0lt8Bd0slV0N6P-xATgzCZzUs)

@@ -6,7 +6,7 @@ course_count: 2
 tags:
   - skill
   - skill/microsoft-power-query
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Microsoft Power Query

@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF629fARgLMzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1612547411492?e=2147483647&amp;v=beta&amp;t=L4rdXNyTwfbgLY7DSVSlWqhzJapMIySkqnMFxImHg3g"
 linkedin_topic: Web Development
 learning_paths:
-  - Learn CSS
+  - '[[Learn CSS]]'
+prev_courses:
+  - '[[CSS- Animation]]'
+next_courses:
+  - '[[Advanced Responsive Layouts with CSS Flexbox]]'
+path_nav: '[{"path":"Learn CSS","position":7,"total":12,"prev":"CSS- Animation","next":"Advanced Responsive Layouts with CSS Flexbox"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![CSS: Display](https://media.licdn.com/dms/image/v2/C4E0DAQF629fARgLMzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1612547411492?e=2147483647&amp;v=beta&amp;t=L4rdXNyTwfbgLY7DSVSlWqhzJapMIySkqnMFxImHg3g)

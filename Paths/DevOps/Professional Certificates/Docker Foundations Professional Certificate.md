@@ -7,7 +7,7 @@ course_count: 3
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - professional-certificate
   - topic/devops
@@ -31,7 +31,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Docker Foundations Professional Certificate
@@ -60,3 +60,7 @@ _Paths that share courses with this one:_
 - [[The Top 10 Most Popular Courses among Engineering Professionals]] (1 shared courses)
 - [[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]] (1 shared courses)
 - [[Containerize Applications with Docker]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

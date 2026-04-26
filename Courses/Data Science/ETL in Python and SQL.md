@@ -18,9 +18,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEb7W3zMX2CfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709597051025?e=2147483647&amp;v=beta&amp;t=wp85iSevtpQSOwRH3j6xpiy6IciVIJwiUGuFnjaSq24"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Data Engineering Skills
-  - Introduction to Fundamental Skills for Data Work- Data Processing
-  - Data Engineering Hands-On Practice
+  - '[[Advance Your Data Engineering Skills]]'
+  - '[[Introduction to Fundamental Skills for Data Work- Data Processing]]'
+  - '[[Data Engineering Hands-On Practice]]'
+prev_courses:
+  - '[[Problem-Solving Strategies for Data Engineers]]'
+  - '[[Apache Spark Essential Training- Big Data Engineering]]'
+  - '[[Data Engineering With Dbt]]'
+next_courses:
+  - '[[Fundamentals of Data Transformation for Data Engineering]]'
+  - '[[Data Quality- Core Concepts]]'
+  - '[[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]]'
+path_nav: '[{"path":"Advance Your Data Engineering Skills","position":3,"total":10,"prev":"Problem-Solving Strategies for Data Engineers","next":"Fundamentals of Data Transformation for Data Engineering"},{"path":"Introduction to Fundamental Skills for Data Work- Data Processing","position":6,"total":7,"prev":"Apache Spark Essential Training- Big Data Engineering","next":"Data Quality- Core Concepts"},{"path":"Data Engineering Hands-On Practice","position":5,"total":7,"prev":"Data Engineering With Dbt","next":"Complete Guide to SQL for Data Engineering- from Beginner to Advanced"}]'
 path_count: 3
 tags:
   - course
@@ -33,7 +42,7 @@ tags:
   - skill/extract-transform-load-etl
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ETL in Python and SQL](https://media.licdn.com/dms/image/v2/D560DAQEb7W3zMX2CfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709597051025?e=2147483647&amp;v=beta&amp;t=wp85iSevtpQSOwRH3j6xpiy6IciVIJwiUGuFnjaSq24)

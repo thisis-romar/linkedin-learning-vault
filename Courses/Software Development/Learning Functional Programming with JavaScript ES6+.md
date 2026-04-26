@@ -21,8 +21,15 @@ github: "https://github.com/LinkedInLearning/learning-functional-programming-wit
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHBDe-qSJ3vaQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734460645917?e=2147483647&amp;v=beta&amp;t=h4mbUjkb8iOcWM5Bc5zrZmRzeM1wRSkBGsepC50Xkpg"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore Web Development with Vanilla JavaScript
-  - Improve Your JavaScript Language Skills
+  - '[[Explore Web Development with Vanilla JavaScript]]'
+  - '[[Improve Your JavaScript Language Skills]]'
+prev_courses:
+  - '[[Learning App Building With Vanilla Javascript]]'
+  - null
+next_courses:
+  - '[[JavaScript- Modern Browser APIs]]'
+  - '[[JavaScript- Async]]'
+path_nav: '[{"path":"Explore Web Development with Vanilla JavaScript","position":2,"total":8,"prev":"Learning App Building With Vanilla Javascript","next":"JavaScript- Modern Browser APIs"},{"path":"Improve Your JavaScript Language Skills","position":1,"total":8,"prev":null,"next":"JavaScript- Async"}]'
 path_count: 2
 tags:
   - course
@@ -34,7 +41,7 @@ tags:
   - skill/javascript
   - skill/ecmascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Functional Programming with JavaScript ES6+](https://media.licdn.com/dms/image/v2/D4E0DAQHBDe-qSJ3vaQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734460645917?e=2147483647&amp;v=beta&amp;t=h4mbUjkb8iOcWM5Bc5zrZmRzeM1wRSkBGsepC50Xkpg)

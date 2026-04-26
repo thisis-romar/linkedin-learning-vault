@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH6o0dBpeKeSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723241795605?e=2147483647&amp;v=beta&amp;t=nwlrw4luFVO7hwGkRXDPX0c6WNNaGz1-tGjYN3eoYMI"
 linkedin_topic: Data Science
 learning_paths:
-  - LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader
+  - '[[LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader]]'
+prev_courses:
+  - '[[Organizational Leadership in the Era of AI]]'
+next_courses:
+  - '[[Leading with Generative AI- Master Change Management for Success]]'
+path_nav: '[{"path":"LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader","position":7,"total":11,"prev":"Organizational Leadership in the Era of AI","next":"Leading with Generative AI- Master Change Management for Success"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Strengthen Your Decision-Making with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQH6o0dBpeKeSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723241795605?e=2147483647&amp;v=beta&amp;t=nwlrw4luFVO7hwGkRXDPX0c6WNNaGz1-tGjYN3eoYMI)

@@ -14,14 +14,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFCgAsCZPtKTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008984032?e=2147483647&amp;v=beta&amp;t=GtBFso-7g6rhF9fxDAdQBDhcEScv006nwf4uHvRo0Mw"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Build your Cloud Computing Skills
+  - '[[Build your Cloud Computing Skills]]'
+next_courses:
+  - '[[Practical Cybersecurity for IT Professionals]]'
+path_nav: '[{"path":"Build your Cloud Computing Skills","position":1,"total":3,"prev":null,"next":"Practical Cybersecurity for IT Professionals"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - skill/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction To Cloud Computing For It Pros](https://media.licdn.com/dms/image/v2/D560DAQFCgAsCZPtKTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008984032?e=2147483647&amp;v=beta&amp;t=GtBFso-7g6rhF9fxDAdQBDhcEScv006nwf4uHvRo0Mw)

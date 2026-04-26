@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHwdHRPswHQiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567185863433?e=2147483647&amp;v=beta&amp;t=hUu4PM6qHFfNLt9ghEmayyF5eaBIFw-CqrW5ii2uUg4"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Advance Your Skills as an IT Help Desk Specialist
+  - '[[Advance Your Skills as an IT Help Desk Specialist]]'
+prev_courses:
+  - '[[Windows 10 Configure And Support Core Services]]'
+next_courses:
+  - '[[Windows 10 for IT Support- Advanced Troubleshooting]]'
+path_nav: '[{"path":"Advance Your Skills as an IT Help Desk Specialist","position":2,"total":11,"prev":"Windows 10 Configure And Support Core Services","next":"Windows 10 for IT Support- Advanced Troubleshooting"}]'
 path_count: 1
 tags:
   - course
   - topic/it-help-desk
   - skill/windows-10
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows 10: Manage and Maintain Windows 10](https://media.licdn.com/dms/image/v2/C4E0DAQHwdHRPswHQiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567185863433?e=2147483647&amp;v=beta&amp;t=hUu4PM6qHFfNLt9ghEmayyF5eaBIFw-CqrW5ii2uUg4)

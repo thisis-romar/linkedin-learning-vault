@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEN9C-9dqcukQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568667623642?e=2147483647&amp;v=beta&amp;t=ILjEjDq24Ft8yZceZNHquCSBrdc32Gqu-oD6q73hbfQ"
 linkedin_topic: DevOps
 learning_paths:
-  - Develop Your Skills in Agile Software Development
-  - Getting Started with Agile Software Development
+  - '[[Develop Your Skills in Agile Software Development]]'
+  - '[[Getting Started with Agile Software Development]]'
+prev_courses:
+  - '[[Agile Software Development- Scrum for Developers]]'
+  - '[[Agile Software Development- Scrum for Developers]]'
+next_courses:
+  - null
+  - '[[Agile Software Development- Creating an Agile Culture]]'
+path_nav: '[{"path":"Develop Your Skills in Agile Software Development","position":6,"total":6,"prev":"Agile Software Development- Scrum for Developers","next":null},{"path":"Getting Started with Agile Software Development","position":6,"total":10,"prev":"Agile Software Development- Scrum for Developers","next":"Agile Software Development- Creating an Agile Culture"}]'
 path_count: 2
 tags:
   - course
@@ -25,7 +32,7 @@ tags:
   - topic/software-development
   - skill/agile-software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agile Software Development: Extreme Programming](https://media.licdn.com/dms/image/v2/C4E0DAQEN9C-9dqcukQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568667623642?e=2147483647&amp;v=beta&amp;t=ILjEjDq24Ft8yZceZNHquCSBrdc32Gqu-oD6q73hbfQ)

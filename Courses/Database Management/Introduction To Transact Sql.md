@@ -16,7 +16,10 @@ github: "https://github.com/LinkedInLearning/introduction-to-transact-sql-445109
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHH7IzO1sAw6g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696613988629?e=2147483647&amp;v=beta&amp;t=OZyGCZE1JTIyFUaH5x0QwKxkJzQCwj_8DAAtULzstLw"
 linkedin_topic: Database Management
 learning_paths:
-  - Advance Your MS SQL Server Skills
+  - '[[Advance Your MS SQL Server Skills]]'
+next_courses:
+  - '[[Microsoft SQL Server 2022 Essential Training]]'
+path_nav: '[{"path":"Advance Your MS SQL Server Skills","position":1,"total":9,"prev":null,"next":"Microsoft SQL Server 2022 Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/transact-sql-t-sql
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction To Transact Sql](https://media.licdn.com/dms/image/v2/D560DAQHH7IzO1sAw6g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696613988629?e=2147483647&amp;v=beta&amp;t=OZyGCZE1JTIyFUaH5x0QwKxkJzQCwj_8DAAtULzstLw)

@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/continuous-delivery-cloud-native-ja
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGrdDQ5bO2vug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642536526853?e=2147483647&amp;v=beta&amp;t=A4-RNm5DdHN2LseGJhPN2L2JfEhHQ4lDyVxZUItJmhg"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Building Your Java Skills
+  - '[[Building Your Java Skills]]'
+prev_courses:
+  - '[[Complete Guide to Java Design Patterns- Creational, Behavioral, and Structural]]'
+next_courses:
+  - '[[Nail Your Java Interview]]'
+path_nav: '[{"path":"Building Your Java Skills","position":5,"total":6,"prev":"Complete Guide to Java Design Patterns- Creational, Behavioral, and Structural","next":"Nail Your Java Interview"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/continuous-delivery-cd
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Continuous Delivery for Cloud Native Java Apps](https://media.licdn.com/dms/image/v2/C560DAQGrdDQ5bO2vug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642536526853?e=2147483647&amp;v=beta&amp;t=A4-RNm5DdHN2LseGJhPN2L2JfEhHQ4lDyVxZUItJmhg)

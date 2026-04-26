@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE65vC11v-WgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689184813152?e=2147483647&amp;v=beta&amp;t=syqYLQNyn0Nqsz4mwawELe34C1SgbRdhrYb6i-qoXnE"
 linkedin_topic: Data Science
 learning_paths:
-  - Building ChatGPT Skills for Marketing
+  - '[[Building ChatGPT Skills for Marketing]]'
+prev_courses:
+  - '[[How to Research and Write Using Generative AI Tools (2023)]]'
+next_courses:
+  - '[[Nano Tips for Using ChatGPT for Marketers with Ross Simmonds]]'
+path_nav: '[{"path":"Building ChatGPT Skills for Marketing","position":3,"total":6,"prev":"How to Research and Write Using Generative AI Tools (2023)","next":"Nano Tips for Using ChatGPT for Marketers with Ross Simmonds"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using AI as Your SEO Assistant](https://media.licdn.com/dms/image/v2/D560DAQE65vC11v-WgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689184813152?e=2147483647&amp;v=beta&amp;t=syqYLQNyn0Nqsz4mwawELe34C1SgbRdhrYb6i-qoXnE)

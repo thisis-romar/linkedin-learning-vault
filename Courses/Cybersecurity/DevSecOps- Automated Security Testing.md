@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHuQ1tCymk6jg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668353438?e=2147483647&amp;v=beta&amp;t=pLj_RB9ec21IHwebmGp5PaED-IgDNK_-BhCqo-Om85c"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Get Ahead in DevSecOps
+  - '[[Get Ahead in DevSecOps]]'
+prev_courses:
+  - '[[Devops Foundations Devsecops]]'
+next_courses:
+  - '[[DevSecOps- Building a Secure Continuous Delivery Pipeline]]'
+path_nav: '[{"path":"Get Ahead in DevSecOps","position":2,"total":5,"prev":"Devops Foundations Devsecops","next":"DevSecOps- Building a Secure Continuous Delivery Pipeline"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/devsecops
   - skill/security-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![DevSecOps: Automated Security Testing](https://media.licdn.com/dms/image/v2/C4E0DAQHuQ1tCymk6jg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668353438?e=2147483647&amp;v=beta&amp;t=pLj_RB9ec21IHwebmGp5PaED-IgDNK_-BhCqo-Om85c)

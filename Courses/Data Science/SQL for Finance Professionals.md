@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH2Xr3RiZsbFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723482637801?e=2147483647&amp;v=beta&amp;t=6rckm7_wlJKFvNFTD22RCl0a2eSaMO4Ycd1xjPDKSE8"
 linkedin_topic: Data Science
 learning_paths:
-  - CFI Financial Analysis and Modeling Professional Certificate
-  - SQL for Data Professionals in Finance
+  - '[[CFI Financial Analysis and Modeling Professional Certificate]]'
+  - '[[SQL for Data Professionals in Finance]]'
+prev_courses:
+  - '[[Financial Forecasting with Analytics Essential Training]]'
+  - '[[The Data Science Of Economics Banking And Finance]]'
+next_courses:
+  - '[[Getting Started with Python for Finance]]'
+  - '[[From Excel to SQL]]'
+path_nav: '[{"path":"CFI Financial Analysis and Modeling Professional Certificate","position":4,"total":7,"prev":"Financial Forecasting with Analytics Essential Training","next":"Getting Started with Python for Finance"},{"path":"SQL for Data Professionals in Finance","position":2,"total":4,"prev":"The Data Science Of Economics Banking And Finance","next":"From Excel to SQL"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/financial-analysis
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL for Finance Professionals](https://media.licdn.com/dms/image/v2/D560DAQH2Xr3RiZsbFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723482637801?e=2147483647&amp;v=beta&amp;t=6rckm7_wlJKFvNFTD22RCl0a2eSaMO4Ycd1xjPDKSE8)

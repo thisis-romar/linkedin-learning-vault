@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEl17oNmUV-2Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668499236?e=2147483647&amp;v=beta&amp;t=xWq_rFgjerQOlx0ioDiRqC0W0DzB2w7BryVNITTLdA0"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Data Analysis Skills
-  - Master the Concepts of Data Visualization and Storytelling
+  - '[[Develop Your Data Analysis Skills]]'
+  - '[[Master the Concepts of Data Visualization and Storytelling]]'
+prev_courses:
+  - '[[Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques]]'
+  - '[[Data Visualization Storytelling]]'
+next_courses:
+  - null
+  - '[[Learning Data Visualization]]'
+path_nav: '[{"path":"Develop Your Data Analysis Skills","position":10,"total":10,"prev":"Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques","next":null},{"path":"Master the Concepts of Data Visualization and Storytelling","position":2,"total":7,"prev":"Data Visualization Storytelling","next":"Learning Data Visualization"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/data-storytelling
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Picking the Right Chart for Your Data](https://media.licdn.com/dms/image/v2/C4E0DAQEl17oNmUV-2Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668499236?e=2147483647&amp;v=beta&amp;t=xWq_rFgjerQOlx0ioDiRqC0W0DzB2w7BryVNITTLdA0)

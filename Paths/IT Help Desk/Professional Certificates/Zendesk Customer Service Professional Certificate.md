@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/zendesk-customer-service-profession
 course_count: 6
 linkedin_topics:
   - IT Help Desk
-louvain_cluster: 7
+louvain_cluster: 14
 tags:
   - professional-certificate
   - topic/it-help-desk
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Zendesk Customer Service Professional Certificate
@@ -72,3 +72,7 @@ _Paths that share courses with this one:_
 - [[Build Your Skills In Customer Service]] (5 shared courses)
 - [[Advance Your Skills as an IT Help Desk Specialist]] (1 shared courses)
 - [[Become a Marketing Coordinator]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[IT Help Desk]]

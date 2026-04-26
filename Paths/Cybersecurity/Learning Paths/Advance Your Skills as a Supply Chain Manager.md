@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-as-a-supply-cha
 course_count: 15
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 9
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/security
@@ -77,7 +77,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Skills as a Supply Chain Manager
@@ -119,3 +119,7 @@ _Paths that share courses with this one:_
 - [[Applying Lean, DevOps, and Agile to Your IT Organization]] (1 shared courses)
 - [[Getting Started as a Business Analyst]] (1 shared courses)
 - [[Get Ahead in Business Analytics and Analysis]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cybersecurity]]

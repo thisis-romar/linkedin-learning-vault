@@ -63,7 +63,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # The Top 10 Most Popular Courses among Engineering Professionals
@@ -103,3 +103,7 @@ _Paths that share courses with this one:_
 - [[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]] (2 shared courses)
 - [[Explore a Career in Front-End Web Development]] (2 shared courses)
 - [[Become a Programmer- Foundations]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEgEKHEEaJizg/learning-public-crop_675_1200/B4EZle_l9DHIAc-/0/1758235353237?e=2147483647&amp;v=beta&amp;t=3CmSU-tNs52_jY6Bh3Ee_SEfDHTp9tjqSil0LJnZiFw"
 linkedin_topic: Data Science
 learning_paths:
-  - LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader
+  - '[[LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader]]'
+prev_courses:
+  - '[[Influence Skills for Leaders and Managers]]'
+next_courses:
+  - '[[Decision Intelligence]]'
+path_nav: '[{"path":"LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader","position":3,"total":11,"prev":"Influence Skills for Leaders and Managers","next":"Decision Intelligence"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/corporate-finance
   - skill/strategic-financial-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Strategic Financial Intelligence for Business Leaders](https://media.licdn.com/dms/image/v2/D4E0DAQEgEKHEEaJizg/learning-public-crop_675_1200/B4EZle_l9DHIAc-/0/1758235353237?e=2147483647&amp;v=beta&amp;t=3CmSU-tNs52_jY6Bh3Ee_SEfDHTp9tjqSil0LJnZiFw)

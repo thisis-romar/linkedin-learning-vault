@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEsmc3B-u40TA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614021016790?e=2147483647&amp;v=beta&amp;t=GfczEVaT7ettqFM7QrMAmJkSzVRavOBIin_gHIURHkk"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Networking and Administration Fundamentals
-  - Essential New Skills in IT Administration
+  - '[[Networking and Administration Fundamentals]]'
+  - '[[Essential New Skills in IT Administration]]'
+prev_courses:
+  - '[[Networking Foundations- IP Addressing]]'
+  - '[[Networking Foundations Networking Basics]]'
+next_courses:
+  - '[[Introduction to Identity and Access Management]]'
+  - '[[Learning Virtualization]]'
+path_nav: '[{"path":"Networking and Administration Fundamentals","position":5,"total":10,"prev":"Networking Foundations- IP Addressing","next":"Introduction to Identity and Access Management"},{"path":"Essential New Skills in IT Administration","position":2,"total":5,"prev":"Networking Foundations Networking Basics","next":"Learning Virtualization"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - topic/network-and-system-administration
   - skill/network-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Server Administration Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQEsmc3B-u40TA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614021016790?e=2147483647&amp;v=beta&amp;t=GfczEVaT7ettqFM7QrMAmJkSzVRavOBIin_gHIURHkk)

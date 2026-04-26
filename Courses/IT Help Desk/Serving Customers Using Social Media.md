@@ -17,8 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGnD8B9F-8mLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712180302659?e=2147483647&amp;v=beta&amp;t=hIwh5VlucpBrTlrazCoS1-vUi1D5FcQ1tpXQ80HEu0k"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Build Your Skills In Customer Service
-  - Zendesk Customer Service Professional Certificate
+  - '[[Build Your Skills In Customer Service]]'
+  - '[[Zendesk Customer Service Professional Certificate]]'
+prev_courses:
+  - '[[De-Escalating Conversations for Customer Service]]'
+  - '[[Creating Positive Conversations with Challenging Customers]]'
+path_nav: '[{"path":"Build Your Skills In Customer Service","position":8,"total":8,"prev":"De-Escalating Conversations for Customer Service","next":null},{"path":"Zendesk Customer Service Professional Certificate","position":6,"total":6,"prev":"Creating Positive Conversations with Challenging Customers","next":null}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +30,7 @@ tags:
   - skill/social-media-communications
   - skill/customer-service
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Serving Customers Using Social Media](https://media.licdn.com/dms/image/v2/D560DAQGnD8B9F-8mLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712180302659?e=2147483647&amp;v=beta&amp;t=hIwh5VlucpBrTlrazCoS1-vUi1D5FcQ1tpXQ80HEu0k)

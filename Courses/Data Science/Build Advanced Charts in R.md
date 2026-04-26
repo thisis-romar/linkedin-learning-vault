@@ -18,7 +18,10 @@ github: "https://github.com/LinkedInLearning/build-advanced-charts-in-r-4405613"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHDgvGBnVrA3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692390095857?e=2147483647&amp;v=beta&amp;t=O4GASJztQQ9RHPg7gemZ9An0qCC32UK3t4EQVJAXzOc"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in R
+  - '[[Advance Your Skills in R]]'
+prev_courses:
+  - '[[Creating Maps with R]]'
+path_nav: '[{"path":"Advance Your Skills in R","position":8,"total":8,"prev":"Creating Maps with R","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/r-programming-language
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Build Advanced Charts in R](https://media.licdn.com/dms/image/v2/D560DAQHDgvGBnVrA3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692390095857?e=2147483647&amp;v=beta&amp;t=O4GASJztQQ9RHPg7gemZ9An0qCC32UK3t4EQVJAXzOc)

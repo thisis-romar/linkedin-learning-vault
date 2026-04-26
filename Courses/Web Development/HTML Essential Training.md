@@ -19,14 +19,33 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEcLUxJ7yEa9g/learning-public-crop_675_1200/B4EZVEb4pzH0Ag-/0/1740609915762?e=2147483647&amp;v=beta&amp;t=FjGHD6-hKF9biWFtW-HmEN6h6HOXWx8OYHdxLqdfAvY"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore a Career as a Web Developer
-  - Explore a Career in Front-End Web Development
-  - Advance Your Skills in HTML
-  - Become a Full-Stack Web Developer
-  - Become a JavaScript Developer
-  - Become a Software Developer
-  - Software Development Fundamentals
-  - Getting Started with WordPress
+  - '[[Explore a Career as a Web Developer]]'
+  - '[[Explore a Career in Front-End Web Development]]'
+  - '[[Advance Your Skills in HTML]]'
+  - '[[Become a Full-Stack Web Developer]]'
+  - '[[Become a JavaScript Developer]]'
+  - '[[Become a Software Developer]]'
+  - '[[Software Development Fundamentals]]'
+  - '[[Getting Started with WordPress]]'
+prev_courses:
+  - '[[Programming Foundations- Beyond the Fundamentals]]'
+  - '[[Introduction To Web Design And Development]]'
+  - null
+  - '[[JavaScript Essential Training]]'
+  - '[[Learning App Building With Vanilla Javascript]]'
+  - '[[Succeeding in Web Development- Full Stack and Front End]]'
+  - '[[Software Development Life Cycle (SDLC)]]'
+  - '[[Making Sense of the CSS Box Model]]'
+next_courses:
+  - '[[CSS Essential Training (2023)]]'
+  - '[[CSS Essential Training (2023)]]'
+  - '[[Crafting Meaningful HTML]]'
+  - '[[Search Techniques for Web Developers]]'
+  - '[[Developing for Web Performance]]'
+  - '[[CSS Essential Training (2023)]]'
+  - '[[Learning C-]]'
+  - '[[Creating Block Patterns in WordPress]]'
+path_nav: '[{"path":"Explore a Career as a Web Developer","position":3,"total":5,"prev":"Programming Foundations- Beyond the Fundamentals","next":"CSS Essential Training (2023)"},{"path":"Explore a Career in Front-End Web Development","position":2,"total":11,"prev":"Introduction To Web Design And Development","next":"CSS Essential Training (2023)"},{"path":"Advance Your Skills in HTML","position":1,"total":11,"prev":null,"next":"Crafting Meaningful HTML"},{"path":"Become a Full-Stack Web Developer","position":3,"total":12,"prev":"JavaScript Essential Training","next":"Search Techniques for Web Developers"},{"path":"Become a JavaScript Developer","position":9,"total":13,"prev":"Learning App Building With Vanilla Javascript","next":"Developing for Web Performance"},{"path":"Become a Software Developer","position":4,"total":12,"prev":"Succeeding in Web Development- Full Stack and Front End","next":"CSS Essential Training (2023)"},{"path":"Software Development Fundamentals","position":5,"total":10,"prev":"Software Development Life Cycle (SDLC)","next":"Learning C-"},{"path":"Getting Started with WordPress","position":5,"total":10,"prev":"Making Sense of the CSS Box Model","next":"Creating Block Patterns in WordPress"}]'
 path_count: 8
 tags:
   - course
@@ -38,7 +57,7 @@ tags:
   - skill/html
   - skill/html-scripting
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![HTML Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQEcLUxJ7yEa9g/learning-public-crop_675_1200/B4EZVEb4pzH0Ag-/0/1740609915762?e=2147483647&amp;v=beta&amp;t=FjGHD6-hKF9biWFtW-HmEN6h6HOXWx8OYHdxLqdfAvY)

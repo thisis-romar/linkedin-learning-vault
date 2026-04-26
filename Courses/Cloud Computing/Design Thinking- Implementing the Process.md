@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQH2UfN-L7eP9w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602284942347?e=2147483647&amp;v=beta&amp;t=HpeFWNsk97O3034_WEinia560dmhlmlGhtzMW0GHPnw"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Master Digital Transformation
+  - '[[Master Digital Transformation]]'
+prev_courses:
+  - '[[Design Thinking- Understanding the Process]]'
+next_courses:
+  - '[[Learning Design Thinking- Lead Change in Your Organization]]'
+path_nav: '[{"path":"Master Digital Transformation","position":11,"total":13,"prev":"Design Thinking- Understanding the Process","next":"Learning Design Thinking- Lead Change in Your Organization"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - skill/design-thinking
   - skill/process-implementation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Design Thinking: Implementing the Process](https://media.licdn.com/dms/image/v2/C560DAQH2UfN-L7eP9w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602284942347?e=2147483647&amp;v=beta&amp;t=HpeFWNsk97O3034_WEinia560dmhlmlGhtzMW0GHPnw)

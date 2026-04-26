@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHLAL3kLeQiyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1574791870697?e=2147483647&amp;v=beta&amp;t=-Gi80_DsezuAgvv88arZ9AWpsvOdzJryFJ_nlG1iVEQ"
 linkedin_topic: Web Development
 learning_paths:
-  - Getting Started as an ASP.NET Core Developer
+  - '[[Getting Started as an ASP.NET Core Developer]]'
+prev_courses:
+  - '[[ASP.NET Core- Razor Pages]]'
+next_courses:
+  - '[[Securing ASP.NET Core Apps- Advanced Techniques for Web Application Security]]'
+path_nav: '[{"path":"Getting Started as an ASP.NET Core Developer","position":4,"total":9,"prev":"ASP.NET Core- Razor Pages","next":"Securing ASP.NET Core Apps- Advanced Techniques for Web Application Security"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/asp-net-core
   - skill/angular
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Angular and ASP.NET Core Applications](https://media.licdn.com/dms/image/v2/C4E0DAQHLAL3kLeQiyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1574791870697?e=2147483647&amp;v=beta&amp;t=-Gi80_DsezuAgvv88arZ9AWpsvOdzJryFJ_nlG1iVEQ)

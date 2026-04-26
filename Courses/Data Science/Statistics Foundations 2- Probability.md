@@ -17,14 +17,33 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQEchyBcjfT2vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617218532194?e=2147483647&amp;v=beta&amp;t=kBBfeIjhOVPeNDw9f2zGFJIGq490w-gUHKEtpg81MJ8"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation
-  - Statistics Foundations Professional Certificate by Wolfram Research
-  - Explore a Career in Data Analysis
-  - Develop Your Data Analysis Skills
-  - Build Your Analytical Skills with Statistical Analysis
-  - Moving from Data Analyst to Data Scientist
-  - Become a Data Analytics Specialist
-  - Become a Data Scientist
+  - '[[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]]'
+  - '[[Statistics Foundations Professional Certificate by Wolfram Research]]'
+  - '[[Explore a Career in Data Analysis]]'
+  - '[[Develop Your Data Analysis Skills]]'
+  - '[[Build Your Analytical Skills with Statistical Analysis]]'
+  - '[[Moving from Data Analyst to Data Scientist]]'
+  - '[[Become a Data Analytics Specialist]]'
+  - '[[Become a Data Scientist]]'
+prev_courses:
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+  - '[[Statistics Foundations 1- The Basics]]'
+next_courses:
+  - '[[Learning Data Analytics- 1 Foundations]]'
+  - '[[Statistics Foundations 3- Using Data Sets]]'
+  - '[[Learning Data Analytics- 1 Foundations]]'
+  - '[[Using Tableau to Discover Powerful Business Insights]]'
+  - '[[Statistics Foundations 3- Using Data Sets]]'
+  - '[[Statistics Foundations 3- Using Data Sets]]'
+  - '[[Excel- Economic Analysis and Data Analytics]]'
+  - '[[Data Visualization Storytelling]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation","position":3,"total":9,"prev":"Statistics Foundations 1- The Basics","next":"Learning Data Analytics- 1 Foundations"},{"path":"Statistics Foundations Professional Certificate by Wolfram Research","position":2,"total":7,"prev":"Statistics Foundations 1- The Basics","next":"Statistics Foundations 3- Using Data Sets"},{"path":"Explore a Career in Data Analysis","position":4,"total":6,"prev":"Statistics Foundations 1- The Basics","next":"Learning Data Analytics- 1 Foundations"},{"path":"Develop Your Data Analysis Skills","position":3,"total":10,"prev":"Statistics Foundations 1- The Basics","next":"Using Tableau to Discover Powerful Business Insights"},{"path":"Build Your Analytical Skills with Statistical Analysis","position":2,"total":4,"prev":"Statistics Foundations 1- The Basics","next":"Statistics Foundations 3- Using Data Sets"},{"path":"Moving from Data Analyst to Data Scientist","position":6,"total":11,"prev":"Statistics Foundations 1- The Basics","next":"Statistics Foundations 3- Using Data Sets"},{"path":"Become a Data Analytics Specialist","position":7,"total":10,"prev":"Statistics Foundations 1- The Basics","next":"Excel- Economic Analysis and Data Analytics"},{"path":"Become a Data Scientist","position":6,"total":11,"prev":"Statistics Foundations 1- The Basics","next":"Data Visualization Storytelling"}]'
 path_count: 8
 tags:
   - course
@@ -32,7 +51,7 @@ tags:
   - skill/statistics
   - skill/probability
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Statistics Foundations 2: Probability](https://media.licdn.com/dms/image/v2/C4D0DAQEchyBcjfT2vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617218532194?e=2147483647&amp;v=beta&amp;t=kBBfeIjhOVPeNDw9f2zGFJIGq490w-gUHKEtpg81MJ8)

@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFFyzFo8mXxqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617317015600?e=2147483647&amp;v=beta&amp;t=2d49-dO1G0KdWK5RjBGZ6j5dP6_TIvU2j1dKWqC7o6o"
 linkedin_topic: Data Science
 learning_paths:
-  - Strategic Execution and Business Impact for Senior Managers and Senior Leaders
+  - '[[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]]'
+prev_courses:
+  - '[[Sharpen Your Decision-Making with Nuanced Thinking Techniques]]'
+next_courses:
+  - '[[Product Management- Building a Product Roadmap]]'
+path_nav: '[{"path":"Strategic Execution and Business Impact for Senior Managers and Senior Leaders","position":11,"total":12,"prev":"Sharpen Your Decision-Making with Nuanced Thinking Techniques","next":"Product Management- Building a Product Roadmap"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/product-strategy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Product Management: Building a Product Strategy](https://media.licdn.com/dms/image/v2/C4E0DAQFFyzFo8mXxqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617317015600?e=2147483647&amp;v=beta&amp;t=2d49-dO1G0KdWK5RjBGZ6j5dP6_TIvU2j1dKWqC7o6o)

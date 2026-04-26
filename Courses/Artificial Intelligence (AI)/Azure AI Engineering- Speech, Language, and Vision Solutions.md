@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEFzp92FB3_cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008951241?e=2147483647&amp;v=beta&amp;t=Jhgi7Fu4Psw02QhuLUccIfJHcU20fi3ljfxIrjJMV9o"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
+  - '[[Understanding Generative AI for Tech Leaders]]'
+prev_courses:
+  - '[[Building in Azure AI Foundry]]'
+next_courses:
+  - '[[Understanding and Implementing the NIST AI Risk Management Framework (RMF)]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":11,"total":22,"prev":"Building in Azure AI Foundry","next":"Understanding and Implementing the NIST AI Risk Management Framework (RMF)"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/application-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure AI Engineering: Speech, Language, and Vision Solutions](https://media.licdn.com/dms/image/v2/D4D0DAQEFzp92FB3_cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008951241?e=2147483647&amp;v=beta&amp;t=Jhgi7Fu4Psw02QhuLUccIfJHcU20fi3ljfxIrjJMV9o)

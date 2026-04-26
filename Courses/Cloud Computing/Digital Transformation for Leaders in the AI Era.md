@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEDE7vqW5F3Kg/learning-public-crop_675_1200/B4EZZFxMdJHUAY-/0/1744927246480?e=2147483647&amp;v=beta&amp;t=iMT_3Zjkwf2b2yc0Apq5TCnN1XT5VAWH3cVFGszIKt4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Master Digital Transformation
+  - '[[Master Digital Transformation]]'
+prev_courses:
+  - '[[Rpa Ai And Cognitive Tech For Leaders]]'
+next_courses:
+  - '[[Strategic Agility for Organizational Leaders]]'
+path_nav: '[{"path":"Master Digital Transformation","position":2,"total":13,"prev":"Rpa Ai And Cognitive Tech For Leaders","next":"Strategic Agility for Organizational Leaders"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/digital-transformation
   - skill/team-leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Digital Transformation for Leaders in the AI Era](https://media.licdn.com/dms/image/v2/D4E0DAQEDE7vqW5F3Kg/learning-public-crop_675_1200/B4EZZFxMdJHUAY-/0/1744927246480?e=2147483647&amp;v=beta&amp;t=iMT_3Zjkwf2b2yc0Apq5TCnN1XT5VAWH3cVFGszIKt4)

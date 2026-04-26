@@ -10,7 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQH85I5g6phxDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1631124878063?e=2147483647&amp;v=beta&amp;t=ijazxkum8t-FPJ4xmByFLblBNLTe_GZnYw8Ownhu49s"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advancing Your Azure Developer Skills- Exploring Complex Application Development
+  - '[[Advancing Your Azure Developer Skills- Exploring Complex Application Development]]'
+prev_courses:
+  - '[[Developing Chatbots with Azure]]'
+next_courses:
+  - '[[Introduction to Terraform on Azure (2022)]]'
+path_nav: '[{"path":"Advancing Your Azure Developer Skills- Exploring Complex Application Development","position":6,"total":7,"prev":"Developing Chatbots with Azure","next":"Introduction to Terraform on Azure (2022)"}]'
 path_count: 1
 tags:
   - course
@@ -18,7 +23,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microsoft Azure Synapse for Developers](https://media.licdn.com/dms/image/v2/C560DAQH85I5g6phxDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1631124878063?e=2147483647&amp;v=beta&amp;t=ijazxkum8t-FPJ4xmByFLblBNLTe_GZnYw8Ownhu49s)

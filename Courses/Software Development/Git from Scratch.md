@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHJIB3T2TdZuw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656449177506?e=2147483647&amp;v=beta&amp;t=AF77prcO4rDExa0det58UJMAqgs1zwSr-I-JDkyekME"
 linkedin_topic: Software Development
 learning_paths:
-  - The Top Skills Engineering Professionals Have Right Now
+  - '[[The Top Skills Engineering Professionals Have Right Now]]'
+prev_courses:
+  - '[[SOLIDWORKS 2022 Essential Training]]'
+next_courses:
+  - '[[Cutting-Edge CSS]]'
+path_nav: '[{"path":"The Top Skills Engineering Professionals Have Right Now","position":5,"total":9,"prev":"SOLIDWORKS 2022 Essential Training","next":"Cutting-Edge CSS"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/git
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Git from Scratch](https://media.licdn.com/dms/image/v2/C4E0DAQHJIB3T2TdZuw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656449177506?e=2147483647&amp;v=beta&amp;t=AF77prcO4rDExa0det58UJMAqgs1zwSr-I-JDkyekME)

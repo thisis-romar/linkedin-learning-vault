@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQH1jMgPaiEDkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725475562874?e=2147483647&amp;v=beta&amp;t=8bSHM2euwzVALC9N75j_74kQcZ5DFEGPYIXLyJgiYS4"
 linkedin_topic: Data Science
 learning_paths:
-  - Moving from Data Scientist to Data Analyst
+  - '[[Moving from Data Scientist to Data Analyst]]'
+prev_courses:
+  - '[[Complete Guide to NLP with R]]'
+path_nav: '[{"path":"Moving from Data Scientist to Data Analyst","position":10,"total":10,"prev":"Complete Guide to NLP with R","next":null}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - topic/software-development
   - skill/tableau
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Tableau Desktop](https://media.licdn.com/dms/image/v2/D4D0DAQH1jMgPaiEDkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725475562874?e=2147483647&amp;v=beta&amp;t=8bSHM2euwzVALC9N75j_74kQcZ5DFEGPYIXLyJgiYS4)

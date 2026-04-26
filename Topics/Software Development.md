@@ -6,7 +6,7 @@ linkedin_topic: Software Development
 tags:
   - moc
   - topic/software-development
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Software Development
@@ -190,3 +190,7 @@ created: 2026-04-20
 - [[HTML Essential Training]] — 4 paths
 - [[SQL Hands-On Practice- Solve Business Problems]] — 4 paths
 - [[Complete Guide to Python for Data Engineering- From Beginner to Advanced]] — 4 paths
+
+---
+
+Part of [[000 Map of Content]]

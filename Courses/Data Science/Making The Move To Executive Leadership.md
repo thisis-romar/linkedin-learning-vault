@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGhrHnlUvk0Nw/learning-public-crop_675_1200/B4EZU5AYnrHgAc-/0/1740418157738?e=2147483647&amp;v=beta&amp;t=0owAF2lpVQMwh4NCYDNJFdsAhtSGq9Xz0R_396K3EjU"
 linkedin_topic: Data Science
 learning_paths:
-  - LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader
+  - '[[LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader]]'
+next_courses:
+  - '[[Influence Skills for Leaders and Managers]]'
+path_nav: '[{"path":"LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader","position":1,"total":11,"prev":null,"next":"Influence Skills for Leaders and Managers"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/career-management
   - skill/executive-leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Making The Move To Executive Leadership](https://media.licdn.com/dms/image/v2/D4E0DAQGhrHnlUvk0Nw/learning-public-crop_675_1200/B4EZU5AYnrHgAc-/0/1740418157738?e=2147483647&amp;v=beta&amp;t=0owAF2lpVQMwh4NCYDNJFdsAhtSGq9Xz0R_396K3EjU)

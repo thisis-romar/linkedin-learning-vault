@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/llmops-in-practice-a-deep-dive-5936
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHHBzGQ-tN7ew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732665259063?e=2147483647&amp;v=beta&amp;t=MhKOSZhm6KtzlcGTrhA0dmjUZEjonxzyHM-znUL9PMk"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Manage Your LLMs with LLMOps
+  - '[[Manage Your LLMs with LLMOps]]'
+prev_courses:
+  - '[[Generative Ai And Llmops Building Blocks And Applications]]'
+next_courses:
+  - '[[Advanced LLMOps- Deploying and Managing LLMs in Production]]'
+path_nav: '[{"path":"Manage Your LLMs with LLMOps","position":2,"total":4,"prev":"Generative Ai And Llmops Building Blocks And Applications","next":"Advanced LLMOps- Deploying and Managing LLMs in Production"}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![LLMOps in Practice: A Deep Dive](https://media.licdn.com/dms/image/v2/D4D0DAQHHBzGQ-tN7ew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732665259063?e=2147483647&amp;v=beta&amp;t=MhKOSZhm6KtzlcGTrhA0dmjUZEjonxzyHM-znUL9PMk)

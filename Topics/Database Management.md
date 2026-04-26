@@ -6,7 +6,7 @@ linkedin_topic: Database Management
 tags:
   - moc
   - topic/database-management
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Database Management
@@ -57,3 +57,7 @@ created: 2026-04-20
 - [[Advanced SQL for Query Tuning and Performance Optimization]] — 3 paths
 - [[Learning SQL Programming]] — 2 paths
 - [[Finding New Career Paths with SQL]] — 2 paths
+
+---
+
+Part of [[000 Map of Content]]

@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/deep-learning-with-tensorflow-insig
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQF3huhzfFmWxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727298293042?e=2147483647&amp;v=beta&amp;t=af9IfGCNoyKPJWP3Ac9Z2NwjY3ArNnirXXHptH9X7nQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills in Natural Language Processing
+  - '[[Advance Your Skills in Natural Language Processing]]'
+prev_courses:
+  - '[[Building NLP Pipelines with spaCy]]'
+next_courses:
+  - '[[AI Workshop- Build a Neural Network with PyTorch Lightning]]'
+path_nav: '[{"path":"Advance Your Skills in Natural Language Processing","position":4,"total":6,"prev":"Building NLP Pipelines with spaCy","next":"AI Workshop- Build a Neural Network with PyTorch Lightning"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Deep Learning with TensorFlow: Insights and Innovations](https://media.licdn.com/dms/image/v2/D4D0DAQF3huhzfFmWxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727298293042?e=2147483647&amp;v=beta&amp;t=af9IfGCNoyKPJWP3Ac9Z2NwjY3ArNnirXXHptH9X7nQ)

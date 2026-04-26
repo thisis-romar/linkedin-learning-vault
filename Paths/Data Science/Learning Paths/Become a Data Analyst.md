@@ -65,7 +65,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Become a Data Analyst
@@ -104,3 +104,7 @@ _Paths that share courses with this one:_
 - [[Career Essentials in Data Analysis by Microsoft and LinkedIn]] (2 shared courses)
 - [[Become a Data Analytics Specialist]] (2 shared courses)
 - [[Become a Data Scientist]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

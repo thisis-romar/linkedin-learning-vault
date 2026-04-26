@@ -6,7 +6,7 @@ course_count: 4
 tags:
   - skill
   - skill/application-programming-interfaces-api
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Application Programming Interfaces (API)

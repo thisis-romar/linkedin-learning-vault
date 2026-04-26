@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/master-your-python-skills
 course_count: 11
 linkedin_topics:
   - Software Development
-louvain_cluster: 14
+louvain_cluster: 15
 tags:
   - learning-path
   - topic/software-development
@@ -61,7 +61,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Master Your Python Skills
@@ -96,3 +96,7 @@ _Paths that share courses with this one:_
 
 - [[Master Python for Data Science]] (4 shared courses)
 - [[Python Hands-On Practice]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Software Development]]

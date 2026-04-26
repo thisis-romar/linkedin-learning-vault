@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFryB69UcojRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727364523580?e=2147483647&amp;v=beta&amp;t=GyMRx2vnSDj-FhxYjxqBK7PH1Tx2FqOON5Day4HoDp4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Technical Literacy and Future Readiness for Senior Managers and Senior Leaders
+  - '[[Technical Literacy and Future Readiness for Senior Managers and Senior Leaders]]'
+prev_courses:
+  - '[[AI Accountability- Build Responsible and Transparent Systems]]'
+path_nav: '[{"path":"Technical Literacy and Future Readiness for Senior Managers and Senior Leaders","position":10,"total":10,"prev":"AI Accountability- Build Responsible and Transparent Systems","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Fundamentals of Agentic AI: Business Implications and Ethical Insights](https://media.licdn.com/dms/image/v2/D560DAQFryB69UcojRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727364523580?e=2147483647&amp;v=beta&amp;t=GyMRx2vnSDj-FhxYjxqBK7PH1Tx2FqOON5Day4HoDp4)

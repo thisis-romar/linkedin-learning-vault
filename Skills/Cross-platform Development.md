@@ -6,7 +6,7 @@ course_count: 3
 tags:
   - skill
   - skill/cross-platform-development
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Cross-platform Development

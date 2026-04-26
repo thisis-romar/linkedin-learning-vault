@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFSkQIR-DYJkw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692989330148?e=2147483647&amp;v=beta&amp;t=X3-qPimb5sdeWekaZdUXHK5mW3libl-n6mpSp_Sdyk4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Build Your Cybersecurity Awareness Skills
+  - '[[Build Your Cybersecurity Awareness Skills]]'
+prev_courses:
+  - '[[Cybersecurity Awareness- Cloud Security (2022)]]'
+next_courses:
+  - '[[Cybersecurity Awareness- IoT Devices]]'
+path_nav: '[{"path":"Build Your Cybersecurity Awareness Skills","position":7,"total":10,"prev":"Cybersecurity Awareness- Cloud Security (2022)","next":"Cybersecurity Awareness- IoT Devices"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Awareness: Ransomware](https://media.licdn.com/dms/image/v2/D560DAQFSkQIR-DYJkw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692989330148?e=2147483647&amp;v=beta&amp;t=X3-qPimb5sdeWekaZdUXHK5mW3libl-n6mpSp_Sdyk4)

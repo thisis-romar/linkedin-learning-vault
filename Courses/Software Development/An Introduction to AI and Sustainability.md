@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGO2QLUYwy2lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711489446879?e=2147483647&amp;v=beta&amp;t=95TfAdAtyv__Pc5ke3Wl4Tc71CAFBQd2KQu3nkZm6KM"
 linkedin_topic: Software Development
 learning_paths:
-  - Career Essentials in Sustainable Tech by Microsoft and LinkedIn
+  - '[[Career Essentials in Sustainable Tech by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Microsoft Cloud for Sustainability- ESG and the Future of Business]]'
+next_courses:
+  - '[[Introduction to ESG- Environmental, Social, and Governance]]'
+path_nav: '[{"path":"Career Essentials in Sustainable Tech by Microsoft and LinkedIn","position":5,"total":7,"prev":"Microsoft Cloud for Sustainability- ESG and the Future of Business","next":"Introduction to ESG- Environmental, Social, and Governance"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![An Introduction to AI and Sustainability](https://media.licdn.com/dms/image/v2/D560DAQGO2QLUYwy2lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711489446879?e=2147483647&amp;v=beta&amp;t=95TfAdAtyv__Pc5ke3Wl4Tc71CAFBQd2KQu3nkZm6KM)

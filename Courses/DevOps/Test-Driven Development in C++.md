@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQG1LffEqB8vcw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567115047000?e=2147483647&amp;v=beta&amp;t=AiFwlGSnm4ldxZxxiuKjJN83ofLvBFvgmpi8qld5w1o"
 linkedin_topic: DevOps
 learning_paths:
-  - Master C++
+  - '[[Master C++]]'
+prev_courses:
+  - '[[Complete Guide to Parallel and Concurrent Programming with C++]]'
+next_courses:
+  - '[[C++ Design Patterns- Behavioral]]'
+path_nav: '[{"path":"Master C++","position":3,"total":6,"prev":"Complete Guide to Parallel and Concurrent Programming with C++","next":"C++ Design Patterns- Behavioral"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/test-driven-development
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Test-Driven Development in C++](https://media.licdn.com/dms/image/v2/C4E0DAQG1LffEqB8vcw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567115047000?e=2147483647&amp;v=beta&amp;t=AiFwlGSnm4ldxZxxiuKjJN83ofLvBFvgmpi8qld5w1o)

@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEySR8TanAB1g/learning-public-crop_675_1200/B56ZbF5W7kH0Ac-/0/1747076870149?e=2147483647&amp;v=beta&amp;t=RxzDL_McOSZ7kdAXOIRL7v-STg9oJgWbk26zPKM391A"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Programmer- Foundations
+  - '[[Become a Programmer- Foundations]]'
+prev_courses:
+  - '[[Programming Foundations- Memory, Pointers, and Garbage Collection]]'
+next_courses:
+  - '[[Programming Foundations- Secure Coding (2018)]]'
+path_nav: '[{"path":"Become a Programmer- Foundations","position":9,"total":12,"prev":"Programming Foundations- Memory, Pointers, and Garbage Collection","next":"Programming Foundations- Secure Coding (2018)"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations: APIs and Web Services](https://media.licdn.com/dms/image/v2/D560DAQEySR8TanAB1g/learning-public-crop_675_1200/B56ZbF5W7kH0Ac-/0/1747076870149?e=2147483647&amp;v=beta&amp;t=RxzDL_McOSZ7kdAXOIRL7v-STg9oJgWbk26zPKM391A)

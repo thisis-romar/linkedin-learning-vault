@@ -14,14 +14,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHM0BnPKta4zg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655413434652?e=2147483647&amp;v=beta&amp;t=9gqe9NS_5AbrQ0vwNEuDVbSXYFIK_mq-2ajUc-58uns"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Getting Started with Cisco Networks
+  - '[[Getting Started with Cisco Networks]]'
+next_courses:
+  - '[[Cisco Networking Foundations- IP Addressing]]'
+path_nav: '[{"path":"Getting Started with Cisco Networks","position":1,"total":4,"prev":null,"next":"Cisco Networking Foundations- IP Addressing"}]'
 path_count: 1
 tags:
   - course
   - topic/network-and-system-administration
   - skill/cisco-networking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cisco Networking Foundations Fundamentals Of Cisco Networking](https://media.licdn.com/dms/image/v2/C4E0DAQHM0BnPKta4zg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655413434652?e=2147483647&amp;v=beta&amp;t=9gqe9NS_5AbrQ0vwNEuDVbSXYFIK_mq-2ajUc-58uns)

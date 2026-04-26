@@ -14,10 +14,16 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGFiPES2_z90A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613158188348?e=2147483647&amp;v=beta&amp;t=hcbV3DVWxbVb-JnUiu-eOIc4D_50LlCEBYyGW7H7mVY"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Scala Skills for Data Engineering
-  - Develop Your Rust Skills for Data Engineering
-  - Introduction to Fundamental Skills for Data Work- Data Processing
-  - Explore a Career in Data Engineering
+  - '[[Develop Your Scala Skills for Data Engineering]]'
+  - '[[Develop Your Rust Skills for Data Engineering]]'
+  - '[[Introduction to Fundamental Skills for Data Work- Data Processing]]'
+  - '[[Explore a Career in Data Engineering]]'
+next_courses:
+  - '[[Hands-On Introduction- Data Engineering]]'
+  - '[[Hands-On Introduction- Data Engineering]]'
+  - '[[Python For Data Science And Machine Learning Essential Training Part]]'
+  - '[[Hands-On Introduction- Data Engineering]]'
+path_nav: '[{"path":"Develop Your Scala Skills for Data Engineering","position":1,"total":6,"prev":null,"next":"Hands-On Introduction- Data Engineering"},{"path":"Develop Your Rust Skills for Data Engineering","position":1,"total":6,"prev":null,"next":"Hands-On Introduction- Data Engineering"},{"path":"Introduction to Fundamental Skills for Data Work- Data Processing","position":1,"total":7,"prev":null,"next":"Python For Data Science And Machine Learning Essential Training Part"},{"path":"Explore a Career in Data Engineering","position":1,"total":7,"prev":null,"next":"Hands-On Introduction- Data Engineering"}]'
 path_count: 4
 tags:
   - course
@@ -28,7 +34,7 @@ tags:
   - topic/database-management
   - skill/data-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Engineering Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQGFiPES2_z90A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613158188348?e=2147483647&amp;v=beta&amp;t=hcbV3DVWxbVb-JnUiu-eOIc4D_50LlCEBYyGW7H7mVY)

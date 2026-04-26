@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHyQKmbszFmQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723579114106?e=2147483647&amp;v=beta&amp;t=BZM-_0BA9OVgHGaamhl_ENCZSXmt_SDohbN7Kr3z200"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Strategy and Planning
+  - '[[Introduction to Fundamental Skills for Data Work- Data Strategy and Planning]]'
+prev_courses:
+  - '[[Enhancing Your Productivity as a Data Scientist with Generative AI]]'
+next_courses:
+  - '[[Synthetic Data as the Future of AI Privacy, Explainability, and Fairness- An Introduction for Data Scientists and Data Executives]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Strategy and Planning","position":9,"total":10,"prev":"Enhancing Your Productivity as a Data Scientist with Generative AI","next":"Synthetic Data as the Future of AI Privacy, Explainability, and Fairness- An Introduction for Data Scientists and Data Executives"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data-Informed Strategic Thinking for Senior Analysts and Data Scientists](https://media.licdn.com/dms/image/v2/D4E0DAQHyQKmbszFmQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723579114106?e=2147483647&amp;v=beta&amp;t=BZM-_0BA9OVgHGaamhl_ENCZSXmt_SDohbN7Kr3z200)

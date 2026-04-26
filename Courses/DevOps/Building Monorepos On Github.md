@@ -15,7 +15,10 @@ github: "https://github.com/LinkedInLearning/building-monorepos-on-GitHub-308607
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFhDmiByitrFw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667582740341?e=2147483647&amp;v=beta&amp;t=aGad4_rlXhSKDVLguVCHNzM1zFaccHsM8J0Qu91Wsrk"
 linkedin_topic: DevOps
 learning_paths:
-  - Essential New Skills in Software Engineering
+  - '[[Essential New Skills in Software Engineering]]'
+next_courses:
+  - '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+path_nav: '[{"path":"Essential New Skills in Software Engineering","position":1,"total":4,"prev":null,"next":"Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Monorepos On Github](https://media.licdn.com/dms/image/v2/D560DAQFhDmiByitrFw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667582740341?e=2147483647&amp;v=beta&amp;t=aGad4_rlXhSKDVLguVCHNzM1zFaccHsM8J0Qu91Wsrk)

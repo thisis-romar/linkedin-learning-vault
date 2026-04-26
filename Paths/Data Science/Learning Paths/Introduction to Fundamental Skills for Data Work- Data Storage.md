@@ -8,7 +8,7 @@ linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/data-science
@@ -45,7 +45,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Introduction to Fundamental Skills for Data Work: Data Storage
@@ -80,3 +80,7 @@ _Paths that share courses with this one:_
 - [[Become a Full-Stack Web Developer]] (1 shared courses)
 - [[Explore a Career in Data Engineering]] (1 shared courses)
 - [[Develop Your NoSQL Skills]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

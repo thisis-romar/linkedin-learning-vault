@@ -31,7 +31,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance Your Skills with Microsoft Entra ID
@@ -62,3 +62,7 @@ _Paths that share courses with this one:_
 - [[Explore a Career in IT Support]] (1 shared courses)
 - [[Azure Administration for Beginners- Management Tools, Services, and Security]] (1 shared courses)
 - [[The Top Skills IT Professionals Have Right Now]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

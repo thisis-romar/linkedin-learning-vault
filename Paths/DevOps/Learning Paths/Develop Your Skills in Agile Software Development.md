@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/develop-your-skills-in-agile-softwa
 course_count: 6
 linkedin_topics:
   - DevOps
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Develop Your Skills in Agile Software Development
@@ -74,3 +74,7 @@ _Paths that share courses with this one:_
 - [[Master Digital Transformation]] (1 shared courses)
 - [[Applying Lean, DevOps, and Agile to Your IT Organization]] (1 shared courses)
 - [[DevOps Professional Certificate by PagerDuty and LinkedIn]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

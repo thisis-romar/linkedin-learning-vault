@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/complete-guide-to-c-programming-fou
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFQjyP8ldDiwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710974971139?e=2147483647&amp;v=beta&amp;t=LgxgOsCjMTYeTAaB0QHj1uy3AOyxCUjNC5HlFLWW6y8"
 linkedin_topic: Hardware
 learning_paths:
-  - Become an Arduino Developer
+  - '[[Become an Arduino Developer]]'
+prev_courses:
+  - '[[Learning Arduino- Pulse Width Modulation]]'
+next_courses:
+  - '[[C Programming for Embedded Applications]]'
+path_nav: '[{"path":"Become an Arduino Developer","position":8,"total":11,"prev":"Learning Arduino- Pulse Width Modulation","next":"C Programming for Embedded Applications"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/c-programming-language
   - skill/programming-foundations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide to C Programming Foundations](https://media.licdn.com/dms/image/v2/D560DAQFQjyP8ldDiwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710974971139?e=2147483647&amp;v=beta&amp;t=LgxgOsCjMTYeTAaB0QHj1uy3AOyxCUjNC5HlFLWW6y8)

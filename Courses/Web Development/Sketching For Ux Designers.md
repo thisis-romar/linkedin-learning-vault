@@ -13,9 +13,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEyBXP0WKUh3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629490820278?e=2147483647&amp;v=beta&amp;t=JH3HtBwS2hTAN1_o910aS-tu6jfmgKZ4BJwqNg9HlZ8"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your UX Design Skills
-  - Improve Your UX Prototyping Skills
-  - Advance Your Skills in User Experience Design
+  - '[[Improve Your UX Design Skills]]'
+  - '[[Improve Your UX Prototyping Skills]]'
+  - '[[Advance Your Skills in User Experience Design]]'
+prev_courses:
+  - null
+  - '[[ProtoPie for UX Design]]'
+  - '[[Figma For Ux Design]]'
+next_courses:
+  - '[[UX Deep Dive- Analyzing Data]]'
+  - '[[Principle for UX Design]]'
+  - '[[UX Deep Dive- Mapping]]'
+path_nav: '[{"path":"Improve Your UX Design Skills","position":1,"total":7,"prev":null,"next":"UX Deep Dive- Analyzing Data"},{"path":"Improve Your UX Prototyping Skills","position":5,"total":6,"prev":"ProtoPie for UX Design","next":"Principle for UX Design"},{"path":"Advance Your Skills in User Experience Design","position":2,"total":9,"prev":"Figma For Ux Design","next":"UX Deep Dive- Mapping"}]'
 path_count: 3
 tags:
   - course
@@ -23,7 +32,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/sketching
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Sketching For Ux Designers](https://media.licdn.com/dms/image/v2/C560DAQEyBXP0WKUh3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629490820278?e=2147483647&amp;v=beta&amp;t=JH3HtBwS2hTAN1_o910aS-tu6jfmgKZ4BJwqNg9HlZ8)

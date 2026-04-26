@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGkt7O1q9cyow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703196542096?e=2147483647&amp;v=beta&amp;t=TwwE6EX1MbPtHShoYkdFKYWfFQ5NuLTvgZPhxwyND9o"
 linkedin_topic: Data Science
 learning_paths:
-  - Build Your Wolfram Language Skills
+  - '[[Build Your Wolfram Language Skills]]'
+prev_courses:
+  - '[[Built-in Machine Learning in the Wolfram Language]]'
+path_nav: '[{"path":"Build Your Wolfram Language Skills","position":8,"total":8,"prev":"Built-in Machine Learning in the Wolfram Language","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Blocks for Deep Learning in the Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQGkt7O1q9cyow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703196542096?e=2147483647&amp;v=beta&amp;t=TwwE6EX1MbPtHShoYkdFKYWfFQ5NuLTvgZPhxwyND9o)

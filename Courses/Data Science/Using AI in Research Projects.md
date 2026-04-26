@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFZoDP-qg1M0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696960875640?e=2147483647&amp;v=beta&amp;t=N2JMDZkO-2ZmQYfXz6Gu5TtQRsNKr9jmxlW_lobCMgA"
 linkedin_topic: Data Science
 learning_paths:
-  - AI Essentials for User Experience Designers
+  - '[[AI Essentials for User Experience Designers]]'
+prev_courses:
+  - '[[Exploring AI Workflows within Figma Design]]'
+path_nav: '[{"path":"AI Essentials for User Experience Designers","position":5,"total":5,"prev":"Exploring AI Workflows within Figma Design","next":null}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - skill/artificial-intelligence-for-design
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using AI in Research Projects](https://media.licdn.com/dms/image/v2/D4E0DAQFZoDP-qg1M0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696960875640?e=2147483647&amp;v=beta&amp;t=N2JMDZkO-2ZmQYfXz6Gu5TtQRsNKr9jmxlW_lobCMgA)

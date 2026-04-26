@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHrzuHza_4cSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683244233790?e=2147483647&amp;v=beta&amp;t=ehl91Xm-3nQHiP6TLg6CldF4CQdb2jrAe-ZEEBH_yak"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Explore a Career in Application Security
+  - '[[Explore a Career in Application Security]]'
+prev_courses:
+  - '[[Dynamic Application Security Testing]]'
+next_courses:
+  - '[[Soft Skills for Information Security Professionals]]'
+path_nav: '[{"path":"Explore a Career in Application Security","position":6,"total":7,"prev":"Dynamic Application Security Testing","next":"Soft Skills for Information Security Professionals"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/software-development
   - skill/security-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Static Application Security Testing](https://media.licdn.com/dms/image/v2/D560DAQHrzuHza_4cSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683244233790?e=2147483647&amp;v=beta&amp;t=ehl91Xm-3nQHiP6TLg6CldF4CQdb2jrAe-ZEEBH_yak)

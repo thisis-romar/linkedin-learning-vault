@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/quantum-computing-fundamentals-2833
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQElNwQBZI4xRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681414584066?e=2147483647&amp;v=beta&amp;t=24ajx4QVPPYjuCWAWOxhsjHy212f_YGwXqEgxtpALzo"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Understanding Quantum Computing
+  - '[[Understanding Quantum Computing]]'
+prev_courses:
+  - '[[Introduction To Quantum Computing]]'
+next_courses:
+  - '[[Cloud Quantum Computing Essentials]]'
+path_nav: '[{"path":"Understanding Quantum Computing","position":2,"total":3,"prev":"Introduction To Quantum Computing","next":"Cloud Quantum Computing Essentials"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/security
   - skill/quantum-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Quantum Computing Fundamentals](https://media.licdn.com/dms/image/v2/D560DAQElNwQBZI4xRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681414584066?e=2147483647&amp;v=beta&amp;t=24ajx4QVPPYjuCWAWOxhsjHy212f_YGwXqEgxtpALzo)

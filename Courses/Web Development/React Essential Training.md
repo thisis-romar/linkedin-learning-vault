@@ -19,11 +19,24 @@ github: "https://github.com/LinkedInLearning/react-essential-training-5949338/co
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEQanBdlbYzZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726774657221?e=2147483647&amp;v=beta&amp;t=yktxYBcQLZ2WYzA9ECIEtxeMGUIPGrloWk7OBWPjJJg"
 linkedin_topic: Web Development
 learning_paths:
-  - The Top 10 Most Popular Courses among Engineering Professionals
-  - Explore a Career in Front-End Web Development
-  - Explore React.js Development
-  - Become a Full-Stack Web Developer
-  - Explore App Development with the MERN Stack
+  - '[[The Top 10 Most Popular Courses among Engineering Professionals]]'
+  - '[[Explore a Career in Front-End Web Development]]'
+  - '[[Explore React.js Development]]'
+  - '[[Become a Full-Stack Web Developer]]'
+  - '[[Explore App Development with the MERN Stack]]'
+prev_courses:
+  - '[[Learning Docker]]'
+  - '[[Simplifying Web Development with Accessibility Best Practices]]'
+  - null
+  - '[[Git Essential Training]]'
+  - null
+next_courses:
+  - '[[Unconscious Bias]]'
+  - '[[React.js- Building an Interface]]'
+  - '[[React.js- Building an Interface]]'
+  - '[[Node Js Essential Training]]'
+  - '[[React- Authentication]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among Engineering Professionals","position":2,"total":10,"prev":"Learning Docker","next":"Unconscious Bias"},{"path":"Explore a Career in Front-End Web Development","position":8,"total":11,"prev":"Simplifying Web Development with Accessibility Best Practices","next":"React.js- Building an Interface"},{"path":"Explore React.js Development","position":1,"total":8,"prev":null,"next":"React.js- Building an Interface"},{"path":"Become a Full-Stack Web Developer","position":7,"total":12,"prev":"Git Essential Training","next":"Node Js Essential Training"},{"path":"Explore App Development with the MERN Stack","position":1,"total":13,"prev":null,"next":"React- Authentication"}]'
 path_count: 5
 tags:
   - course
@@ -36,7 +49,7 @@ tags:
   - skill/front-end-development
   - skill/react-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQEQanBdlbYzZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726774657221?e=2147483647&amp;v=beta&amp;t=yktxYBcQLZ2WYzA9ECIEtxeMGUIPGrloWk7OBWPjJJg)

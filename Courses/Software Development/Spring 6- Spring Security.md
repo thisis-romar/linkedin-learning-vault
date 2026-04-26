@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/spring-6-spring-security-5985041/co
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGM42dYNIUQUw/learning-public-crop_675_1200/B4EZaNvIdDHoAY-/0/1746134665323?e=2147483647&amp;v=beta&amp;t=_d-79CVF9PcZt994YTHF1qhQl94G3OXpRDEJLCb1qG4"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started In Spring Development
+  - '[[Getting Started In Spring Development]]'
+prev_courses:
+  - '[[Spring Data 2]]'
+next_courses:
+  - '[[Building Full-Stack Apps with React and Spring]]'
+path_nav: '[{"path":"Getting Started In Spring Development","position":4,"total":5,"prev":"Spring Data 2","next":"Building Full-Stack Apps with React and Spring"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/spring-security
   - skill/spring-boot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Spring 6: Spring Security](https://media.licdn.com/dms/image/v2/D4E0DAQGM42dYNIUQUw/learning-public-crop_675_1200/B4EZaNvIdDHoAY-/0/1746134665323?e=2147483647&amp;v=beta&amp;t=_d-79CVF9PcZt994YTHF1qhQl94G3OXpRDEJLCb1qG4)

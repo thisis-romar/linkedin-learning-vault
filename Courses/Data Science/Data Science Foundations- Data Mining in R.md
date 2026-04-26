@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHjJxJhmYJGMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1612992297885?e=2147483647&amp;v=beta&amp;t=ayYTfsmYeq9wAnRjyfpi3yoH3isr6sq6pERT_Salfmg"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your Data Analysis Skills
+  - '[[Develop Your Data Analysis Skills]]'
+prev_courses:
+  - '[[Python Data Analysis]]'
+next_courses:
+  - '[[SQL Tips and Tricks for Data Science]]'
+path_nav: '[{"path":"Develop Your Data Analysis Skills","position":6,"total":10,"prev":"Python Data Analysis","next":"SQL Tips and Tricks for Data Science"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/r-programming-language
   - skill/data-science-foundations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Science Foundations: Data Mining in R](https://media.licdn.com/dms/image/v2/C4E0DAQHjJxJhmYJGMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1612992297885?e=2147483647&amp;v=beta&amp;t=ayYTfsmYeq9wAnRjyfpi3yoH3isr6sq6pERT_Salfmg)

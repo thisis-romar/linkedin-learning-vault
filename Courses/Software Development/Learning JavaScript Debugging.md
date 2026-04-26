@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEvTPISgiHW0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1601068625848?e=2147483647&amp;v=beta&amp;t=ehvmL_kf8fz0SnlMc2EOMyrvvKRLuldeLVYu40svwTU"
 linkedin_topic: Software Development
 learning_paths:
-  - Advance Your JavaScript Skills
+  - '[[Advance Your JavaScript Skills]]'
+prev_courses:
+  - '[[Foundational JavaScript Security]]'
+next_courses:
+  - '[[End-to-End JavaScript Testing with Cypress.io]]'
+path_nav: '[{"path":"Advance Your JavaScript Skills","position":8,"total":10,"prev":"Foundational JavaScript Security","next":"End-to-End JavaScript Testing with Cypress.io"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/debugging-code
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning JavaScript Debugging](https://media.licdn.com/dms/image/v2/C4E0DAQEvTPISgiHW0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1601068625848?e=2147483647&amp;v=beta&amp;t=ehvmL_kf8fz0SnlMc2EOMyrvvKRLuldeLVYu40svwTU)

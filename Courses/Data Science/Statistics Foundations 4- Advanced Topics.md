@@ -10,15 +10,24 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHKfvcGCiimkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660065129587?e=2147483647&amp;v=beta&amp;t=SovuylB0qZPGQ7vUUlDvanxxVMOAhrFX9B8mk3ZxuVk"
 linkedin_topic: Data Science
 learning_paths:
-  - Statistics Foundations Professional Certificate by Wolfram Research
-  - Build Your Analytical Skills with Statistical Analysis
-  - Moving from Data Analyst to Data Scientist
+  - '[[Statistics Foundations Professional Certificate by Wolfram Research]]'
+  - '[[Build Your Analytical Skills with Statistical Analysis]]'
+  - '[[Moving from Data Analyst to Data Scientist]]'
+prev_courses:
+  - '[[Statistics Foundations 3- Using Data Sets]]'
+  - '[[Statistics Foundations 3- Using Data Sets]]'
+  - '[[Statistics Foundations 3- Using Data Sets]]'
+next_courses:
+  - '[[Excel Statistics Essential Training- 1]]'
+  - null
+  - '[[Complete Guide to Tableau for Data Scientists]]'
+path_nav: '[{"path":"Statistics Foundations Professional Certificate by Wolfram Research","position":4,"total":7,"prev":"Statistics Foundations 3- Using Data Sets","next":"Excel Statistics Essential Training- 1"},{"path":"Build Your Analytical Skills with Statistical Analysis","position":4,"total":4,"prev":"Statistics Foundations 3- Using Data Sets","next":null},{"path":"Moving from Data Analyst to Data Scientist","position":8,"total":11,"prev":"Statistics Foundations 3- Using Data Sets","next":"Complete Guide to Tableau for Data Scientists"}]'
 path_count: 3
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Statistics Foundations 4: Advanced Topics](https://media.licdn.com/dms/image/v2/C560DAQHKfvcGCiimkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660065129587?e=2147483647&amp;v=beta&amp;t=SovuylB0qZPGQ7vUUlDvanxxVMOAhrFX9B8mk3ZxuVk)

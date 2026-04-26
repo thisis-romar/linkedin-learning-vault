@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHbB9GXY_N8qw/learning-public-crop_675_1200/B4DZXPvlsNHYAY-/0/1742947114514?e=2147483647&amp;v=beta&amp;t=hUD4N88zf3HMXPSACveBYfpWi4R4sBkk-nEzJZs9bpI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Leverage AI as a Cybersecurity Analyst
+  - '[[Leverage AI as a Cybersecurity Analyst]]'
+prev_courses:
+  - '[[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]]'
+next_courses:
+  - '[[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]]'
+path_nav: '[{"path":"Leverage AI as a Cybersecurity Analyst","position":2,"total":7,"prev":"Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989","next":"The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cybersecurity-tools
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The AI-Driven Cybersecurity Analyst](https://media.licdn.com/dms/image/v2/D4D0DAQHbB9GXY_N8qw/learning-public-crop_675_1200/B4DZXPvlsNHYAY-/0/1742947114514?e=2147483647&amp;v=beta&amp;t=hUD4N88zf3HMXPSACveBYfpWi4R4sBkk-nEzJZs9bpI)

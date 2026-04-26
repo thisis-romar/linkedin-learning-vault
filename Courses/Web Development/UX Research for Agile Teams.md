@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHbGJT0YMxK2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665417248?e=2147483647&amp;v=beta&amp;t=24lsmxL0kDpfUqIfhnID8zMTdMxVsjsqISPYIc4JVfw"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills as a User Experience Researcher
+  - '[[Advance Your Skills as a User Experience Researcher]]'
+prev_courses:
+  - '[[UX Research- Journey Mapping]]'
+next_courses:
+  - '[[UX Research- Being Flexible]]'
+path_nav: '[{"path":"Advance Your Skills as a User Experience Researcher","position":4,"total":7,"prev":"UX Research- Journey Mapping","next":"UX Research- Being Flexible"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/agile-methodologies
   - skill/ux-research
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![UX Research for Agile Teams](https://media.licdn.com/dms/image/v2/C4E0DAQHbGJT0YMxK2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665417248?e=2147483647&amp;v=beta&amp;t=24lsmxL0kDpfUqIfhnID8zMTdMxVsjsqISPYIc4JVfw)

@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHliL819SNhiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668687340?e=2147483647&amp;v=beta&amp;t=b48vZ4onuKXTSIizDzljCLkawojHNuI4ucBSaNTDaCY"
 linkedin_topic: Web Development
 learning_paths:
-  - Learn CSS
+  - '[[Learn CSS]]'
+prev_courses:
+  - '[[CSS- Variables and Fluid Layouts]]'
+next_courses:
+  - '[[CSS- Print Style Sheets]]'
+path_nav: '[{"path":"Learn CSS","position":11,"total":12,"prev":"CSS- Variables and Fluid Layouts","next":"CSS- Print Style Sheets"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/css-grid-layout
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![CSS Layouts: From Float to Flexbox and Grid](https://media.licdn.com/dms/image/v2/C4E0DAQHliL819SNhiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668687340?e=2147483647&amp;v=beta&amp;t=b48vZ4onuKXTSIizDzljCLkawojHNuI4ucBSaNTDaCY)

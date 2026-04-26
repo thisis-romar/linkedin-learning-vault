@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Introduction to Fundamental Skills for Data Work: Data Analysis and Interpretation
@@ -89,3 +89,7 @@ _Paths that share courses with this one:_
 - [[Develop Your Data Analysis Skills]] (3 shared courses)
 - [[Become a Data Analytics Specialist]] (3 shared courses)
 - [[Become a Data Scientist]] (3 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG88a9vCjXU8g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704926852842?e=2147483647&amp;v=beta&amp;t=TlQ-PbQlnMaeK7Agf4Q5ddyuN9uCYjfO2jbIdHsOoUc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying AI as a Tech Leader
-  - Understanding Generative AI for Tech Leaders
+  - '[[Applying AI as a Tech Leader]]'
+  - '[[Understanding Generative AI for Tech Leaders]]'
+prev_courses:
+  - '[[What Is Generative AI-]]'
+  - '[[Compliance and Regulations for Generative AI]]'
+next_courses:
+  - '[[Building a Generative AI Tech Strategy]]'
+  - '[[Scaling Generative AI- Building a Strategy for Adoption and Expansion]]'
+path_nav: '[{"path":"Applying AI as a Tech Leader","position":4,"total":8,"prev":"What Is Generative AI-","next":"Building a Generative AI Tech Strategy"},{"path":"Understanding Generative AI for Tech Leaders","position":17,"total":22,"prev":"Compliance and Regulations for Generative AI","next":"Scaling Generative AI- Building a Strategy for Adoption and Expansion"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/ai-for-leadership
   - skill/workflow-optimization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI and the Future of Work: Workflows and Modern Tools for Tech Leaders](https://media.licdn.com/dms/image/v2/D560DAQG88a9vCjXU8g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704926852842?e=2147483647&amp;v=beta&amp;t=TlQ-PbQlnMaeK7Agf4Q5ddyuN9uCYjfO2jbIdHsOoUc)

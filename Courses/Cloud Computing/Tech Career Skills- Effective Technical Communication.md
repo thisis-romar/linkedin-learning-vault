@@ -17,13 +17,30 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGe_XBEUaYAHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669412428?e=2147483647&amp;v=beta&amp;t=QEso6-1Lc9Ph5lSUygZxhuAC_R3CXpoXTTv-FsIkdIg"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance as a Tech Leader
-  - Succeeding in Your Tech Career- Software Development
-  - Managing and Leading Developers
-  - Improve Your Technical Communication Skills
-  - Managing your Career as a Developer
-  - Starting Your Career in Tech- Software Development
-  - Advance Your Communication Skills as a Tech Manager
+  - '[[Advance as a Tech Leader]]'
+  - '[[Succeeding in Your Tech Career- Software Development]]'
+  - '[[Managing and Leading Developers]]'
+  - '[[Improve Your Technical Communication Skills]]'
+  - '[[Managing your Career as a Developer]]'
+  - '[[Starting Your Career in Tech- Software Development]]'
+  - '[[Advance Your Communication Skills as a Tech Manager]]'
+prev_courses:
+  - '[[Succeeding As A First Time Tech Manager]]'
+  - '[[Tech Career Skills- Communication for Developers]]'
+  - '[[Tech Career Skills- Moving from Developer to Engineering Manager]]'
+  - null
+  - '[[Succeeding in Web Development- Full Stack and Front End]]'
+  - '[[Rock Your LinkedIn Profile]]'
+  - null
+next_courses:
+  - '[[Tech Career Skills- Getting Promoted]]'
+  - null
+  - '[[Succeeding As A First Time Tech Manager]]'
+  - '[[Inclusive Tech- Conducting Humane Code Reviews]]'
+  - '[[Getting Things Done]]'
+  - '[[Developer Career Paths and Certifications]]'
+  - '[[Creating Your IT Strategy]]'
+path_nav: '[{"path":"Advance as a Tech Leader","position":2,"total":8,"prev":"Succeeding As A First Time Tech Manager","next":"Tech Career Skills- Getting Promoted"},{"path":"Succeeding in Your Tech Career- Software Development","position":6,"total":6,"prev":"Tech Career Skills- Communication for Developers","next":null},{"path":"Managing and Leading Developers","position":2,"total":8,"prev":"Tech Career Skills- Moving from Developer to Engineering Manager","next":"Succeeding As A First Time Tech Manager"},{"path":"Improve Your Technical Communication Skills","position":1,"total":5,"prev":null,"next":"Inclusive Tech- Conducting Humane Code Reviews"},{"path":"Managing your Career as a Developer","position":4,"total":8,"prev":"Succeeding in Web Development- Full Stack and Front End","next":"Getting Things Done"},{"path":"Starting Your Career in Tech- Software Development","position":5,"total":6,"prev":"Rock Your LinkedIn Profile","next":"Developer Career Paths and Certifications"},{"path":"Advance Your Communication Skills as a Tech Manager","position":1,"total":6,"prev":null,"next":"Creating Your IT Strategy"}]'
 path_count: 7
 tags:
   - course
@@ -36,7 +53,7 @@ tags:
   - skill/tech-career-skills
   - skill/technical-communication
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Tech Career Skills: Effective Technical Communication](https://media.licdn.com/dms/image/v2/C4E0DAQGe_XBEUaYAHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669412428?e=2147483647&amp;v=beta&amp;t=QEso6-1Lc9Ph5lSUygZxhuAC_R3CXpoXTTv-FsIkdIg)

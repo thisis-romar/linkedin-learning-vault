@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEjsdqNemv6uQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611696586413?e=2147483647&amp;v=beta&amp;t=SJ87P0CgV8AUsGSthJkXcmH0GZlC5tiqXGqcKSoM1Jg"
 linkedin_topic: DevOps
 learning_paths:
-  - Develop Your IT Service Management (ITSM) Skills
-  - Atlassian IT Service Management (ITSM) Professional Certificate
+  - '[[Develop Your IT Service Management (ITSM) Skills]]'
+  - '[[Atlassian IT Service Management (ITSM) Professional Certificate]]'
+prev_courses:
+  - '[[IT Service Management Foundations- Measures and Metrics]]'
+  - '[[IT Service Management Foundations- Problem Management]]'
+next_courses:
+  - '[[IT Service Management Foundations- Problem Management]]'
+  - '[[IT Service Desk- Monitoring and Metrics Fundamentals]]'
+path_nav: '[{"path":"Develop Your IT Service Management (ITSM) Skills","position":3,"total":5,"prev":"IT Service Management Foundations- Measures and Metrics","next":"IT Service Management Foundations- Problem Management"},{"path":"Atlassian IT Service Management (ITSM) Professional Certificate","position":3,"total":4,"prev":"IT Service Management Foundations- Problem Management","next":"IT Service Desk- Monitoring and Metrics Fundamentals"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/it-service-management
   - skill/change-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![IT Service Management Foundations: Change Management](https://media.licdn.com/dms/image/v2/C4E0DAQEjsdqNemv6uQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611696586413?e=2147483647&amp;v=beta&amp;t=SJ87P0CgV8AUsGSthJkXcmH0GZlC5tiqXGqcKSoM1Jg)

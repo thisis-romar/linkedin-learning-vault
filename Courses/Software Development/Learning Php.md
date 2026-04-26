@@ -14,7 +14,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFWeu43pPltjg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134359103?e=2147483647&amp;v=beta&amp;t=3zAh3mfV9u7-rkW23tHE_NJVJF74m2OBcU7zJXZsJDY"
 linkedin_topic: Software Development
 learning_paths:
-  - Get Started with PHP
+  - '[[Get Started with PHP]]'
+next_courses:
+  - '[[PHP Essential Training]]'
+path_nav: '[{"path":"Get Started with PHP","position":1,"total":6,"prev":null,"next":"PHP Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +25,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Php](https://media.licdn.com/dms/image/v2/C4E0DAQFWeu43pPltjg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134359103?e=2147483647&amp;v=beta&amp;t=3zAh3mfV9u7-rkW23tHE_NJVJF74m2OBcU7zJXZsJDY)

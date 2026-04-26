@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Explore a Career as a Power BI Specialist
@@ -69,3 +69,7 @@ _Paths that share courses with this one:_
 - [[Become a Power BI Specialist]] (1 shared courses)
 - [[Introduction to Fundamental Skills for Data Work- Data Visualization]] (1 shared courses)
 - [[Become a Business Intelligence Specialist]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

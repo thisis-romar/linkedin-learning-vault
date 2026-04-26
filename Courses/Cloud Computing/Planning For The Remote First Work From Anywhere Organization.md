@@ -8,15 +8,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFPi97WWETmYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624289037283?e=2147483647&amp;v=beta&amp;t=p063kq5YRwETYtlBqCE_l9Fv_qeiZoutjZXBsL4ZJ6A"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Improve Your Digital Transformation Skills
-  - Advance Your Digital Transformation Strategy as a Leader
+  - '[[Improve Your Digital Transformation Skills]]'
+  - '[[Advance Your Digital Transformation Strategy as a Leader]]'
+prev_courses:
+  - null
+  - '[[Artificial Intelligence and Business Strategy]]'
+next_courses:
+  - '[[Accelerating Digital Transformation as Offices Reopen]]'
+  - '[[Digital Accessibility for the Modern Workplace (with Audio Descriptions)]]'
+path_nav: '[{"path":"Improve Your Digital Transformation Skills","position":1,"total":5,"prev":null,"next":"Accelerating Digital Transformation as Offices Reopen"},{"path":"Advance Your Digital Transformation Strategy as a Leader","position":5,"total":6,"prev":"Artificial Intelligence and Business Strategy","next":"Digital Accessibility for the Modern Workplace (with Audio Descriptions)"}]'
 path_count: 2
 tags:
   - course
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Planning For The Remote First Work From Anywhere Organization](https://media.licdn.com/dms/image/v2/C560DAQFPi97WWETmYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624289037283?e=2147483647&amp;v=beta&amp;t=p063kq5YRwETYtlBqCE_l9Fv_qeiZoutjZXBsL4ZJ6A)

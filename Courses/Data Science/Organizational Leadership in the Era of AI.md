@@ -20,8 +20,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEt9_ODt0m1AQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726254563011?e=2147483647&amp;v=beta&amp;t=sLZ7RNKTWi4SNmCKrtmqO5ccufxer8DmbHVhOLhJbJ4"
 linkedin_topic: Data Science
 learning_paths:
-  - Strategic Execution and Business Impact for Senior Managers and Senior Leaders
-  - LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader
+  - '[[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]]'
+  - '[[LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader]]'
+prev_courses:
+  - '[[Strategic Agility for Organizational Leaders]]'
+  - '[[Psychological Safety- Clear Blocks to Innovation, Collaboration, and Risk-Taking]]'
+next_courses:
+  - '[[Decision Intelligence]]'
+  - '[[Strengthen Your Decision-Making with Generative AI]]'
+path_nav: '[{"path":"Strategic Execution and Business Impact for Senior Managers and Senior Leaders","position":8,"total":12,"prev":"Strategic Agility for Organizational Leaders","next":"Decision Intelligence"},{"path":"LinkedIn Learning Professional Certificate- Impacting the Business as a Senior Manager or Leader","position":6,"total":11,"prev":"Psychological Safety- Clear Blocks to Innovation, Collaboration, and Risk-Taking","next":"Strengthen Your Decision-Making with Generative AI"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/ai-for-management
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Organizational Leadership in the Era of AI](https://media.licdn.com/dms/image/v2/D4E0DAQEt9_ODt0m1AQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726254563011?e=2147483647&amp;v=beta&amp;t=sLZ7RNKTWi4SNmCKrtmqO5ccufxer8DmbHVhOLhJbJ4)

@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Explore a Career in SQL Development
@@ -90,3 +90,7 @@ _Paths that share courses with this one:_
 - [[The Top 10 Most Popular Courses among Engineering Professionals]] (1 shared courses)
 - [[Explore a Career in Database Development]] (1 shared courses)
 - [[The Top 10 Most Popular Courses among IT Professionals]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

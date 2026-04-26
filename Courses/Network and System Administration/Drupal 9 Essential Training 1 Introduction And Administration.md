@@ -14,7 +14,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEh3QUsbeiKNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614870776341?e=2147483647&amp;v=beta&amp;t=3JMO0x0J1CS40MCEuJGqcuvi_2lfKfAK5WVb9ETVvI8"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Build Your Drupal Skills
+  - '[[Build Your Drupal Skills]]'
+next_courses:
+  - '[[Drupal 9 Essential Training- 2 Content and Fields]]'
+path_nav: '[{"path":"Build Your Drupal Skills","position":1,"total":6,"prev":null,"next":"Drupal 9 Essential Training- 2 Content and Fields"}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +25,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Drupal 9 Essential Training 1 Introduction And Administration](https://media.licdn.com/dms/image/v2/C4E0DAQEh3QUsbeiKNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614870776341?e=2147483647&amp;v=beta&amp;t=3JMO0x0J1CS40MCEuJGqcuvi_2lfKfAK5WVb9ETVvI8)

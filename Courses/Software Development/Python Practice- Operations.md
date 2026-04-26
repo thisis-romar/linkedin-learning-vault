@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHs2g5pgjX9Bw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902171062?e=2147483647&amp;v=beta&amp;t=3KGQEoQehvpFIkNavn0Ka6V-0lAb5W1-IX-8_QPH6BA"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
+  - '[[Python Hands-On Practice]]'
+prev_courses:
+  - '[[Practice It- Python Data Structures]]'
+next_courses:
+  - '[[Python Practice- Collections]]'
+path_nav: '[{"path":"Python Hands-On Practice","position":3,"total":14,"prev":"Practice It- Python Data Structures","next":"Python Practice- Collections"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Practice: Operations](https://media.licdn.com/dms/image/v2/D560DAQHs2g5pgjX9Bw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902171062?e=2147483647&amp;v=beta&amp;t=3KGQEoQehvpFIkNavn0Ka6V-0lAb5W1-IX-8_QPH6BA)

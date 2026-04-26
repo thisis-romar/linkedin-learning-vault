@@ -16,9 +16,14 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQH_lvOT-IOyUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117532637?e=2147483647&amp;v=beta&amp;t=ue4Lke0c1Q2rHgb0V-8cXg6NxUvRdk5_MYQ6qUIAVKI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Generative AI for Supply Chain Professional Certificate by CSCMP
-  - Fundamentals to Become a Machine Learning Engineer
-  - Getting Started with AI and Machine Learning
+  - '[[Generative AI for Supply Chain Professional Certificate by CSCMP]]'
+  - '[[Fundamentals to Become a Machine Learning Engineer]]'
+  - '[[Getting Started with AI and Machine Learning]]'
+next_courses:
+  - '[[Using Generative Artificial Intelligence (AI) in Supply Chains]]'
+  - '[[Artificial Intelligence Foundations- Machine Learning]]'
+  - '[[Machine Learning Foundations- Linear Algebra]]'
+path_nav: '[{"path":"Generative AI for Supply Chain Professional Certificate by CSCMP","position":1,"total":4,"prev":null,"next":"Using Generative Artificial Intelligence (AI) in Supply Chains"},{"path":"Fundamentals to Become a Machine Learning Engineer","position":1,"total":7,"prev":null,"next":"Artificial Intelligence Foundations- Machine Learning"},{"path":"Getting Started with AI and Machine Learning","position":1,"total":7,"prev":null,"next":"Machine Learning Foundations- Linear Algebra"}]'
 path_count: 3
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Artificial Intelligence Foundations Thinking Machines](https://media.licdn.com/dms/image/v2/C4E0DAQH_lvOT-IOyUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117532637?e=2147483647&amp;v=beta&amp;t=ue4Lke0c1Q2rHgb0V-8cXg6NxUvRdk5_MYQ6qUIAVKI)

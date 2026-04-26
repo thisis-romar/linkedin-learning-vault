@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQG3EL40Sa-iTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669394263?e=2147483647&amp;v=beta&amp;t=-ZhOGxWDv39P0oJ36W4pw76Hq3Z7IxNaeBJEm0g0Yr0"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in HTML
+  - '[[Advance Your Skills in HTML]]'
+prev_courses:
+  - '[[HTML- Metadata in the Head]]'
+next_courses:
+  - '[[Building Great Forms with HTML and CSS]]'
+path_nav: '[{"path":"Advance Your Skills in HTML","position":7,"total":11,"prev":"HTML- Metadata in the Head","next":"Building Great Forms with HTML and CSS"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/html
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![HTML & CSS: Creating Forms](https://media.licdn.com/dms/image/v2/C4E0DAQG3EL40Sa-iTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669394263?e=2147483647&amp;v=beta&amp;t=-ZhOGxWDv39P0oJ36W4pw76Hq3Z7IxNaeBJEm0g0Yr0)

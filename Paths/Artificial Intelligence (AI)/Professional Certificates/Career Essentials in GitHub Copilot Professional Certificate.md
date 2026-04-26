@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - professional-certificate
   - topic/artificial-intelligence
@@ -35,7 +35,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Career Essentials in GitHub Copilot Professional Certificate
@@ -65,3 +65,7 @@ _Paths that share courses with this one:_
 - [[Master GitHub Copilot]] (4 shared courses)
 - [[Transform Your Programming with AI Coding Tools]] (2 shared courses)
 - [[Improve Your Programming Skills with Artificial Intelligence]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

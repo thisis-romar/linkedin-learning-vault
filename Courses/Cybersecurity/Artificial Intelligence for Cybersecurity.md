@@ -10,15 +10,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHoED0v8_aCmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696360956899?e=2147483647&amp;v=beta&amp;t=2yYNwmQIYMj-_OXBoaJZRV3c8f5AMRP8J1aTMk-5188"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become an IT Security Specialist
-  - Develop Your AI Skills as a Cybersecurity Professional
+  - '[[Become an IT Security Specialist]]'
+  - '[[Develop Your AI Skills as a Cybersecurity Professional]]'
+prev_courses:
+  - '[[Learning Threat Modeling for Security Professionals]]'
+  - null
+next_courses:
+  - '[[Ethics in Cybersecurity]]'
+  - '[[AI in Cybersecurity- The Future of Red Teaming and Blue Teaming]]'
+path_nav: '[{"path":"Become an IT Security Specialist","position":10,"total":12,"prev":"Learning Threat Modeling for Security Professionals","next":"Ethics in Cybersecurity"},{"path":"Develop Your AI Skills as a Cybersecurity Professional","position":1,"total":8,"prev":null,"next":"AI in Cybersecurity- The Future of Red Teaming and Blue Teaming"}]'
 path_count: 2
 tags:
   - course
   - topic/security
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Artificial Intelligence for Cybersecurity](https://media.licdn.com/dms/image/v2/D560DAQHoED0v8_aCmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696360956899?e=2147483647&amp;v=beta&amp;t=2yYNwmQIYMj-_OXBoaJZRV3c8f5AMRP8J1aTMk-5188)

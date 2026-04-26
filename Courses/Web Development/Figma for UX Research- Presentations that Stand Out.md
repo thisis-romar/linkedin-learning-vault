@@ -16,15 +16,22 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHBvcQRh8SgtQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655314282740?e=2147483647&amp;v=beta&amp;t=RZw3iHHUycW9gz40AIvyX0IntiCIkVWRUb620Gwitls"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills as a User Experience Researcher
-  - Advance Your Skills in User Experience Design
+  - '[[Advance Your Skills as a User Experience Researcher]]'
+  - '[[Advance Your Skills in User Experience Design]]'
+prev_courses:
+  - '[[UX Research- Being Flexible]]'
+  - '[[Design Powered by Data- Getting Started with UX Web Analytics (2022)]]'
+next_courses:
+  - '[[Conducting Remote UX Research Interviews]]'
+  - '[[Miro for UX- Brainstorming and Collaboration]]'
+path_nav: '[{"path":"Advance Your Skills as a User Experience Researcher","position":6,"total":7,"prev":"UX Research- Being Flexible","next":"Conducting Remote UX Research Interviews"},{"path":"Advance Your Skills in User Experience Design","position":7,"total":9,"prev":"Design Powered by Data- Getting Started with UX Web Analytics (2022)","next":"Miro for UX- Brainstorming and Collaboration"}]'
 path_count: 2
 tags:
   - course
   - topic/web-development
   - skill/figma-software
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Figma for UX Research: Presentations that Stand Out](https://media.licdn.com/dms/image/v2/C560DAQHBvcQRh8SgtQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655314282740?e=2147483647&amp;v=beta&amp;t=RZw3iHHUycW9gz40AIvyX0IntiCIkVWRUb620Gwitls)

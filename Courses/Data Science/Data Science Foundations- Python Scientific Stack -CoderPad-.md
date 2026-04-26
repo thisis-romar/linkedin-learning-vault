@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/data-science-foundations-python-sci
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG2_xrJ2bSZsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667582946722?e=2147483647&amp;v=beta&amp;t=jZiEOWL9RZujkXmIVtRAtwNBWlw-7GjmPTRkk1ioGDo"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Python Skills for Data Science
+  - '[[Advance Your Python Skills for Data Science]]'
+prev_courses:
+  - '[[Python For Data Science And Machine Learning Essential Training Part]]'
+next_courses:
+  - '[[Python Data Analysis]]'
+path_nav: '[{"path":"Advance Your Python Skills for Data Science","position":3,"total":6,"prev":"Python For Data Science And Machine Learning Essential Training Part","next":"Python Data Analysis"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/data-science-foundations
   - skill/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Science Foundations: Python Scientific Stack [CoderPad]](https://media.licdn.com/dms/image/v2/D560DAQG2_xrJ2bSZsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667582946722?e=2147483647&amp;v=beta&amp;t=jZiEOWL9RZujkXmIVtRAtwNBWlw-7GjmPTRkk1ioGDo)

@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/react-software-architecture-2884265
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEqEra1U0CNQw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628621782938?e=2147483647&amp;v=beta&amp;t=8O9rfJjLOmUPE4t6TqPra9hHba9t64PlqB9KvE8TNuk"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your React Skills
+  - '[[Improve Your React Skills]]'
+prev_courses:
+  - '[[React- Authentication]]'
+next_courses:
+  - '[[Building a GraphQL Project with React.js]]'
+path_nav: '[{"path":"Improve Your React Skills","position":7,"total":9,"prev":"React- Authentication","next":"Building a GraphQL Project with React.js"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/software-architecture
   - skill/react-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![React: Software Architecture](https://media.licdn.com/dms/image/v2/C560DAQEqEra1U0CNQw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628621782938?e=2147483647&amp;v=beta&amp;t=8O9rfJjLOmUPE4t6TqPra9hHba9t64PlqB9KvE8TNuk)

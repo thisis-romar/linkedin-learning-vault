@@ -19,8 +19,15 @@ github: "https://github.com/LinkedInLearning/machine-learning-with-python-associ
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGqEROTjtWi6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707245316436?e=2147483647&amp;v=beta&amp;t=R3fI7ZkwTMXbt5LGImFayQOPzqqlXGbp6e5uBeBMVt4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop with Python for AI and Machine Learning
-  - Advance Your Skills as a Machine Learning Specialist
+  - '[[Develop with Python for AI and Machine Learning]]'
+  - '[[Advance Your Skills as a Machine Learning Specialist]]'
+prev_courses:
+  - '[[Machine Learning with Python- k-Means Clustering]]'
+  - '[[Machine Learning with Python- k-Means Clustering]]'
+next_courses:
+  - '[[Advanced Python Projects- Build AI Applications]]'
+  - '[[Machine Learning with Python- Logistic Regression]]'
+path_nav: '[{"path":"Develop with Python for AI and Machine Learning","position":5,"total":6,"prev":"Machine Learning with Python- k-Means Clustering","next":"Advanced Python Projects- Build AI Applications"},{"path":"Advance Your Skills as a Machine Learning Specialist","position":3,"total":9,"prev":"Machine Learning with Python- k-Means Clustering","next":"Machine Learning with Python- Logistic Regression"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning with Python: Association Rules](https://media.licdn.com/dms/image/v2/D4D0DAQGqEROTjtWi6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707245316436?e=2147483647&amp;v=beta&amp;t=R3fI7ZkwTMXbt5LGImFayQOPzqqlXGbp6e5uBeBMVt4)

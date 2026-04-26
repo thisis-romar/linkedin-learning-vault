@@ -10,8 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHRAgvDDTgkhQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629824104520?e=2147483647&amp;v=beta&amp;t=x8u8P2SOQhU9ecMa12SDqY64IFDXhQcUibl0KgRRlts"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Design and Present Your Cloud Strategy
-  - Introduction to Enterprise Cloud Migration Planning
+  - '[[Design and Present Your Cloud Strategy]]'
+  - '[[Introduction to Enterprise Cloud Migration Planning]]'
+prev_courses:
+  - '[[Presenting Cloud Migration Benefits to the C-Suite]]'
+  - '[[Dependency Mapping for Cloud Migration]]'
+path_nav: '[{"path":"Design and Present Your Cloud Strategy","position":6,"total":6,"prev":"Presenting Cloud Migration Benefits to the C-Suite","next":null},{"path":"Introduction to Enterprise Cloud Migration Planning","position":4,"total":4,"prev":"Dependency Mapping for Cloud Migration","next":null}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +23,7 @@ tags:
   - topic/software-development
   - topic/devops
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Planning and Implementing a Rapid Cloud Migration (RCM)](https://media.licdn.com/dms/image/v2/C560DAQHRAgvDDTgkhQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629824104520?e=2147483647&amp;v=beta&amp;t=x8u8P2SOQhU9ecMa12SDqY64IFDXhQcUibl0KgRRlts)

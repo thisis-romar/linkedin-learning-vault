@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGQJKvf1rrRjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579902853635?e=2147483647&amp;v=beta&amp;t=kAxDvFHP06fc2-ZpcPLiXHzHx8xGA5_Afwv5F8GEc2k"
 linkedin_topic: Hardware
 learning_paths:
-  - Become an Arduino Developer
+  - '[[Become an Arduino Developer]]'
+prev_courses:
+  - '[[C Programming for Embedded Applications]]'
+next_courses:
+  - '[[Learning Soldering for Electronics]]'
+path_nav: '[{"path":"Become an Arduino Developer","position":10,"total":11,"prev":"C Programming for Embedded Applications","next":"Learning Soldering for Electronics"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Arduino: Prototyping](https://media.licdn.com/dms/image/v2/C4E0DAQGQJKvf1rrRjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579902853635?e=2147483647&amp;v=beta&amp;t=kAxDvFHP06fc2-ZpcPLiXHzHx8xGA5_Afwv5F8GEc2k)

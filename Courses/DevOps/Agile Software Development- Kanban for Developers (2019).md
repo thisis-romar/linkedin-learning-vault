@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGIFD1eQvs-Tg/learning-public-crop_675_1200/B4EZmcwirtHgAc-/0/1759271595082?e=2147483647&amp;v=beta&amp;t=3iNQikqVTBzxDmL8nU-YxrwkCFbtXGTTk7Rgini8DsM"
 linkedin_topic: DevOps
 learning_paths:
-  - Develop Your Skills as a Software Project Manager
-  - Getting Started with Agile Software Development
+  - '[[Develop Your Skills as a Software Project Manager]]'
+  - '[[Getting Started with Agile Software Development]]'
+prev_courses:
+  - '[[Planning and Releasing Software with Jira]]'
+  - '[[Planning and Releasing Software with Jira]]'
+next_courses:
+  - '[[Agile Testing]]'
+  - '[[Agile Software Development- Scrum for Developers]]'
+path_nav: '[{"path":"Develop Your Skills as a Software Project Manager","position":10,"total":11,"prev":"Planning and Releasing Software with Jira","next":"Agile Testing"},{"path":"Getting Started with Agile Software Development","position":4,"total":10,"prev":"Planning and Releasing Software with Jira","next":"Agile Software Development- Scrum for Developers"}]'
 path_count: 2
 tags:
   - course
@@ -25,7 +32,7 @@ tags:
   - topic/software-development
   - skill/agile-software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agile Software Development: Kanban for Developers (2019)](https://media.licdn.com/dms/image/v2/D4E0DAQGIFD1eQvs-Tg/learning-public-crop_675_1200/B4EZmcwirtHgAc-/0/1759271595082?e=2147483647&amp;v=beta&amp;t=3iNQikqVTBzxDmL8nU-YxrwkCFbtXGTTk7Rgini8DsM)

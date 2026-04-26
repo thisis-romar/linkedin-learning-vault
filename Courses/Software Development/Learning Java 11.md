@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/learning-java-2825378"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHzf7Mgd25c7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351878442?e=2147483647&amp;v=beta&amp;t=djhvqKNLdb4lxdmt7sAaT8NWw_NX4DRGC5Kxca0DXYc"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Software Developer
+  - '[[Become a Software Developer]]'
+prev_courses:
+  - '[[Programming Concepts for Python]]'
+next_courses:
+  - '[[Learning C-]]'
+path_nav: '[{"path":"Become a Software Developer","position":9,"total":12,"prev":"Programming Concepts for Python","next":"Learning C-"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Java 11](https://media.licdn.com/dms/image/v2/D560DAQHzf7Mgd25c7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351878442?e=2147483647&amp;v=beta&amp;t=djhvqKNLdb4lxdmt7sAaT8NWw_NX4DRGC5Kxca0DXYc)

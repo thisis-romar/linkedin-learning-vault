@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGQFcDu06-Gkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712343465209?e=2147483647&amp;v=beta&amp;t=MUZpGpJLUEOiw6rC31MCHGUnaZdHIHp-I721RiEBH-U"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Masterpath in Analytics Leadership for Executives
+  - '[[Masterpath in Analytics Leadership for Executives]]'
+prev_courses:
+  - '[[Data Analytics for Business Professionals]]'
+path_nav: '[{"path":"Masterpath in Analytics Leadership for Executives","position":8,"total":8,"prev":"Data Analytics for Business Professionals","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Executive Guide to Deploying, Monitoring, and Maintaining Models](https://media.licdn.com/dms/image/v2/D560DAQGQFcDu06-Gkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712343465209?e=2147483647&amp;v=beta&amp;t=MUZpGpJLUEOiw6rC31MCHGUnaZdHIHp-I721RiEBH-U)

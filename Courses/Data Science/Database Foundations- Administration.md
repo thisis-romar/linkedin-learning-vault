@@ -16,9 +16,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGClEsPFBuuow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615489383878?e=2147483647&amp;v=beta&amp;t=rA78ksZYVHT9Gt2kH9vpzMK_X2CD1pWDOXxn2nRQcE8"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Management
-  - Database Foundations- From Concepts to Applications
-  - Advance Your Database Administration Skills
+  - '[[Introduction to Fundamental Skills for Data Work- Data Management]]'
+  - '[[Database Foundations- From Concepts to Applications]]'
+  - '[[Advance Your Database Administration Skills]]'
+prev_courses:
+  - '[[Data Management Essential Training]]'
+  - '[[Database Foundations Database Management]]'
+  - '[[Database Foundations Database Management]]'
+next_courses:
+  - '[[Learning Data Governance]]'
+  - '[[Database Foundations- Application Development]]'
+  - '[[Database Foundations- Application Development]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Management","position":3,"total":6,"prev":"Data Management Essential Training","next":"Learning Data Governance"},{"path":"Database Foundations- From Concepts to Applications","position":4,"total":5,"prev":"Database Foundations Database Management","next":"Database Foundations- Application Development"},{"path":"Advance Your Database Administration Skills","position":4,"total":11,"prev":"Database Foundations Database Management","next":"Database Foundations- Application Development"}]'
 path_count: 3
 tags:
   - course
@@ -27,7 +36,7 @@ tags:
   - topic/software-development
   - skill/database-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Database Foundations: Administration](https://media.licdn.com/dms/image/v2/C4E0DAQGClEsPFBuuow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615489383878?e=2147483647&amp;v=beta&amp;t=rA78ksZYVHT9Gt2kH9vpzMK_X2CD1pWDOXxn2nRQcE8)

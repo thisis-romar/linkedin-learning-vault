@@ -16,8 +16,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHmwBZkeEpPyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668566557?e=2147483647&amp;v=beta&amp;t=vgLPwzZj8F6hbO9q5Cg9puRZJ5MELJQyrS9Qp0KyPrs"
 linkedin_topic: Software Development
 learning_paths:
-  - TestMu AI Software Testing Professional Certificate
-  - Develop Your Skills as a Software Project Manager
+  - '[[TestMu AI Software Testing Professional Certificate]]'
+  - '[[Develop Your Skills as a Software Project Manager]]'
+prev_courses:
+  - '[[Software Testing Tips Weekly]]'
+  - '[[Agile Software Development- Kanban for Developers (2019)]]'
+next_courses:
+  - '[[Succeeding in Software Testing]]'
+  - null
+path_nav: '[{"path":"TestMu AI Software Testing Professional Certificate","position":3,"total":4,"prev":"Software Testing Tips Weekly","next":"Succeeding in Software Testing"},{"path":"Develop Your Skills as a Software Project Manager","position":11,"total":11,"prev":"Agile Software Development- Kanban for Developers (2019)","next":null}]'
 path_count: 2
 tags:
   - course
@@ -25,7 +32,7 @@ tags:
   - topic/devops
   - skill/agile-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Agile Testing](https://media.licdn.com/dms/image/v2/C4E0DAQHmwBZkeEpPyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668566557?e=2147483647&amp;v=beta&amp;t=vgLPwzZj8F6hbO9q5Cg9puRZJ5MELJQyrS9Qp0KyPrs)

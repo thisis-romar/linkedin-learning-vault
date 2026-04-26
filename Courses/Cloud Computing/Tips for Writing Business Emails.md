@@ -15,7 +15,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF69xUl6o6wgg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118586371?e=2147483647&amp;v=beta&amp;t=zrroz047VVWNZgQnNUJIzc_6CuJ8ivWEsm21kIJshGc"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Career Essentials in Administrative Assistance by Microsoft and LinkedIn
+  - '[[Career Essentials in Administrative Assistance by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Learning Microsoft 365 Copilot for Work]]'
+next_courses:
+  - '[[Building a Time Management Mindset]]'
+path_nav: '[{"path":"Career Essentials in Administrative Assistance by Microsoft and LinkedIn","position":3,"total":7,"prev":"Learning Microsoft 365 Copilot for Work","next":"Building a Time Management Mindset"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/business-communications
   - skill/email-etiquette
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Tips for Writing Business Emails](https://media.licdn.com/dms/image/v2/C4E0DAQF69xUl6o6wgg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118586371?e=2147483647&amp;v=beta&amp;t=zrroz047VVWNZgQnNUJIzc_6CuJ8ivWEsm21kIJshGc)

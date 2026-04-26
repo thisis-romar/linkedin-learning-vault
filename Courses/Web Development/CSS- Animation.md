@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/css-animation-2882049/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQE9uYdz7sm7Mw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668021326670?e=2147483647&amp;v=beta&amp;t=QLJ9vKjw6QjuMcPy0oy2pjU8WAxkM5JDrid6vimzvgQ"
 linkedin_topic: Web Development
 learning_paths:
-  - Learn CSS
+  - '[[Learn CSS]]'
+prev_courses:
+  - '[[CSS- Images]]'
+next_courses:
+  - '[[CSS- Display]]'
+path_nav: '[{"path":"Learn CSS","position":6,"total":12,"prev":"CSS- Images","next":"CSS- Display"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/cascading-style-sheets-css
   - skill/interactive-web-content
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![CSS: Animation](https://media.licdn.com/dms/image/v2/C4E0DAQE9uYdz7sm7Mw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668021326670?e=2147483647&amp;v=beta&amp;t=QLJ9vKjw6QjuMcPy0oy2pjU8WAxkM5JDrid6vimzvgQ)

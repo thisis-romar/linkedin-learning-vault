@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQEMwtGaVZxdqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629737440397?e=2147483647&amp;v=beta&amp;t=rUYNhmFk8KHsqj2J19NKyED83hcXoRsNwAxzRVzBVuo"
 linkedin_topic: Data Science
 learning_paths:
-  - Build an Ethereum Blockchain App
-  - Become a Blockchain Developer
+  - '[[Build an Ethereum Blockchain App]]'
+  - '[[Become a Blockchain Developer]]'
+prev_courses:
+  - '[[Building an Ethereum Blockchain App- 9 Testing Ethereum Apps]]'
+  - '[[Building an Ethereum Blockchain App- 9 Testing Ethereum Apps]]'
+next_courses:
+  - '[[Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps]]'
+  - '[[Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps]]'
+path_nav: '[{"path":"Build an Ethereum Blockchain App","position":10,"total":11,"prev":"Building an Ethereum Blockchain App- 9 Testing Ethereum Apps","next":"Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps"},{"path":"Become a Blockchain Developer","position":10,"total":14,"prev":"Building an Ethereum Blockchain App- 9 Testing Ethereum Apps","next":"Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/ethereum
   - skill/software-deployment
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building an Ethereum Blockchain App: 10 Deployment and Maintenance](https://media.licdn.com/dms/image/v2/C4D0DAQEMwtGaVZxdqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629737440397?e=2147483647&amp;v=beta&amp;t=rUYNhmFk8KHsqj2J19NKyED83hcXoRsNwAxzRVzBVuo)

@@ -14,7 +14,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGk2za6JV6lUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597947536950?e=2147483647&amp;v=beta&amp;t=UE_8NMISSXvKtS1vQAUpVbR6L9vhgzGPRs-GpPNDKwg"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation in Practice- Virtual Collaboration Tools
+  - '[[Digital Transformation in Practice- Virtual Collaboration Tools]]'
+next_courses:
+  - '[[Microsoft Teams Essential Training]]'
+path_nav: '[{"path":"Digital Transformation in Practice- Virtual Collaboration Tools","position":1,"total":9,"prev":null,"next":"Microsoft Teams Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +25,7 @@ tags:
   - topic/software-development
   - skill/virtual-collaboration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Working And Collaborating Online](https://media.licdn.com/dms/image/v2/C4E0DAQGk2za6JV6lUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597947536950?e=2147483647&amp;v=beta&amp;t=UE_8NMISSXvKtS1vQAUpVbR6L9vhgzGPRs-GpPNDKwg)

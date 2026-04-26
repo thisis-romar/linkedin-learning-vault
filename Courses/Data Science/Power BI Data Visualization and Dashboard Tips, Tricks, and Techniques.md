@@ -10,15 +10,24 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFrKHszZs-r_A/learning-public-crop_675_1200/B4DZYmSnz_HwAc-/0/1744399138717?e=2147483647&amp;v=beta&amp;t=G26QXhYd4rqcIYGuD2aV54vHbtDOIzX1E3J0c4wc9V0"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career as a Power BI Specialist
-  - Develop Your Data Analysis Skills
-  - Master Dashboards and Data Viz in Power BI
+  - '[[Explore a Career as a Power BI Specialist]]'
+  - '[[Develop Your Data Analysis Skills]]'
+  - '[[Master Dashboards and Data Viz in Power BI]]'
+prev_courses:
+  - '[[Power BI Data Dashboards]]'
+  - '[[SQL Hands-On Practice- Solve Business Problems]]'
+  - '[[Power Bi Dashboards For Beginners]]'
+next_courses:
+  - null
+  - '[[Picking the Right Chart for Your Data]]'
+  - '[[Power BI Data Dashboards]]'
+path_nav: '[{"path":"Explore a Career as a Power BI Specialist","position":5,"total":5,"prev":"Power BI Data Dashboards","next":null},{"path":"Develop Your Data Analysis Skills","position":9,"total":10,"prev":"SQL Hands-On Practice- Solve Business Problems","next":"Picking the Right Chart for Your Data"},{"path":"Master Dashboards and Data Viz in Power BI","position":2,"total":6,"prev":"Power Bi Dashboards For Beginners","next":"Power BI Data Dashboards"}]'
 path_count: 3
 tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques](https://media.licdn.com/dms/image/v2/D4D0DAQFrKHszZs-r_A/learning-public-crop_675_1200/B4DZYmSnz_HwAc-/0/1744399138717?e=2147483647&amp;v=beta&amp;t=G26QXhYd4rqcIYGuD2aV54vHbtDOIzX1E3J0c4wc9V0)

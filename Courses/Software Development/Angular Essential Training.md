@@ -15,7 +15,10 @@ github: "https://github.com/LinkedInLearning/angular-essential-training-3266043/
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG0p3shexhy_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696456346503?e=2147483647&amp;v=beta&amp;t=3Y8eyRjTW4ND7kQ6n1GPAINVjkAqTWUBl-wtk43gqfQ"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore Web Development with Angular
+  - '[[Explore Web Development with Angular]]'
+next_courses:
+  - '[[Learning the Angular CLI]]'
+path_nav: '[{"path":"Explore Web Development with Angular","position":1,"total":6,"prev":null,"next":"Learning the Angular CLI"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - topic/web-development
   - skill/angular
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Angular Essential Training](https://media.licdn.com/dms/image/v2/D560DAQG0p3shexhy_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696456346503?e=2147483647&amp;v=beta&amp;t=3Y8eyRjTW4ND7kQ6n1GPAINVjkAqTWUBl-wtk43gqfQ)

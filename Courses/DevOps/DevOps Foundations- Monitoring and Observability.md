@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEkT2ZrH_6N_w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702681529716?e=2147483647&amp;v=beta&amp;t=GgZMMC0Az7fItVt8tSebIcj_dcJu833s2zBqgRKbd5g"
 linkedin_topic: DevOps
 learning_paths:
-  - Getting Started with DevOps
+  - '[[Getting Started with DevOps]]'
+prev_courses:
+  - '[[DevOps Foundations- Infrastructure as Code]]'
+next_courses:
+  - '[[DevOps Foundations- Your First Project]]'
+path_nav: '[{"path":"Getting Started with DevOps","position":4,"total":5,"prev":"DevOps Foundations- Infrastructure as Code","next":"DevOps Foundations- Your First Project"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/devops
   - skill/system-monitoring
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![DevOps Foundations: Monitoring and Observability](https://media.licdn.com/dms/image/v2/D4D0DAQEkT2ZrH_6N_w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702681529716?e=2147483647&amp;v=beta&amp;t=GgZMMC0Az7fItVt8tSebIcj_dcJu833s2zBqgRKbd5g)

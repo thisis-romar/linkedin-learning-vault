@@ -7,7 +7,7 @@ course_count: 5
 linkedin_topics:
   - Cybersecurity
   - Data Science
-louvain_cluster: 3
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/security
@@ -39,7 +39,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Getting Started in Blockchain
@@ -68,3 +68,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Digital Transformation for Tech Leaders]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cybersecurity]]

@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE3KpoFnoJ4Pg/learning-public-crop_675_1200/B56ZosRzIMHAAY-/0/1761679455466?e=2147483647&amp;v=beta&amp;t=_tGj_1GeOK9eKNkEDNFIez1JQ273hCPiw6DOA9r_O1g"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Getting Started with Custom GPTs, Copilots, and AI Agents
+  - '[[Getting Started with Custom GPTs, Copilots, and AI Agents]]'
+prev_courses:
+  - '[[ChatGPT- Crafting Exceptional GPTs for Enhanced Productivity and Innovation]]'
+next_courses:
+  - '[[Getting Started with Autonomous Agents in Copilot Studio (No Code Required)]]'
+path_nav: '[{"path":"Getting Started with Custom GPTs, Copilots, and AI Agents","position":4,"total":5,"prev":"ChatGPT- Crafting Exceptional GPTs for Enhanced Productivity and Innovation","next":"Getting Started with Autonomous Agents in Copilot Studio (No Code Required)"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Copilot Agents: Build Your Own AI Assistant in Copilot and Teams (No Code Required) (February 2025)](https://media.licdn.com/dms/image/v2/D560DAQE3KpoFnoJ4Pg/learning-public-crop_675_1200/B56ZosRzIMHAAY-/0/1761679455466?e=2147483647&amp;v=beta&amp;t=_tGj_1GeOK9eKNkEDNFIez1JQ273hCPiw6DOA9r_O1g)

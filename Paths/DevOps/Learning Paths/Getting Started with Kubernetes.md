@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-kubernetes
 course_count: 6
 linkedin_topics:
   - DevOps
-louvain_cluster: 5
+louvain_cluster: 0
 tags:
   - learning-path
   - topic/devops
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Getting Started with Kubernetes
@@ -71,3 +71,7 @@ _Paths that share courses with this one:_
 
 - [[The Top 10 Most Popular Courses among Engineering Professionals]] (1 shared courses)
 - [[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[DevOps]]

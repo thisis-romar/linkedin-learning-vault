@@ -19,9 +19,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFx4WaFvwWKLw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599578679605?e=2147483647&amp;v=beta&amp;t=yMdG8xDSxMB15lD6aLA0RoBiy52XL1Y1evSnXP1-dRk"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in Predictive Analytics
-  - Learning Codeless Machine Learning with KNIME
-  - Advance Your Business Analytics Skills
+  - '[[Advance Your Skills in Predictive Analytics]]'
+  - '[[Learning Codeless Machine Learning with KNIME]]'
+  - '[[Advance Your Business Analytics Skills]]'
+prev_courses:
+  - '[[Python- Working with Predictive Analytics]]'
+  - '[[Machine Learning and AI Foundations- Decision Trees with KNIME]]'
+  - '[[Predictive Customer Analytics]]'
+next_courses:
+  - '[[Predictive Analytics Essential Training- Estimating and Ensuring ROI]]'
+  - '[[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]]'
+  - '[[Data Visualization for Data Analysts and Analytics]]'
+path_nav: '[{"path":"Advance Your Skills in Predictive Analytics","position":6,"total":8,"prev":"Python- Working with Predictive Analytics","next":"Predictive Analytics Essential Training- Estimating and Ensuring ROI"},{"path":"Learning Codeless Machine Learning with KNIME","position":3,"total":5,"prev":"Machine Learning and AI Foundations- Decision Trees with KNIME","next":"Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions"},{"path":"Advance Your Business Analytics Skills","position":10,"total":11,"prev":"Predictive Customer Analytics","next":"Data Visualization for Data Analysts and Analytics"}]'
 path_count: 3
 tags:
   - course
@@ -33,7 +42,7 @@ tags:
   - skill/data-science-foundations
   - skill/predictive-modeling
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Science Foundations: Data Assessment for Predictive Modeling](https://media.licdn.com/dms/image/v2/C4E0DAQFx4WaFvwWKLw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599578679605?e=2147483647&amp;v=beta&amp;t=yMdG8xDSxMB15lD6aLA0RoBiy52XL1Y1evSnXP1-dRk)

@@ -8,14 +8,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGpY8IbyiIIeQ/learning-public-crop_675_1200/B4DZaDsp8rGgAY-/0/1745966243879?e=2147483647&amp;v=beta&amp;t=UH7bzSr6asHZX949X4DtV18Xpa3aYpxGo0aL8AxrTHY"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Learn Vibe Coding- Build Apps with AI-Powered Coding
+  - '[[Learn Vibe Coding- Build Apps with AI-Powered Coding]]'
+next_courses:
+  - '[[Structure Vibe Coding to Save Build Time]]'
+path_nav: '[{"path":"Learn Vibe Coding- Build Apps with AI-Powered Coding","position":1,"total":5,"prev":null,"next":"Structure Vibe Coding to Save Build Time"}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Vibe Coding Fundamentals Tools And Best Practices](https://media.licdn.com/dms/image/v2/D4D0DAQGpY8IbyiIIeQ/learning-public-crop_675_1200/B4DZaDsp8rGgAY-/0/1745966243879?e=2147483647&amp;v=beta&amp;t=UH7bzSr6asHZX949X4DtV18Xpa3aYpxGo0aL8AxrTHY)

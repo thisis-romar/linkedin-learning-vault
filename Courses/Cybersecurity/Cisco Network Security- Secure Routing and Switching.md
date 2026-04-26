@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGBxqvpH0YlUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730136701247?e=2147483647&amp;v=beta&amp;t=I-N__XSEQogsz4aIILaEevrl58BnW2iso6JgqAfQfaE"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Cisco Network Security- Safeguarding Network Integrity and Data
+  - '[[Cisco Network Security- Safeguarding Network Integrity and Data]]'
+prev_courses:
+  - '[[Cisco Network Security- VPN]]'
+next_courses:
+  - '[[Cisco Network Security- Cisco Firewall Technologies]]'
+path_nav: '[{"path":"Cisco Network Security- Safeguarding Network Integrity and Data","position":4,"total":7,"prev":"Cisco Network Security- VPN","next":"Cisco Network Security- Cisco Firewall Technologies"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/network-security
   - skill/cisco-networking
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cisco Network Security: Secure Routing and Switching](https://media.licdn.com/dms/image/v2/D560DAQGBxqvpH0YlUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730136701247?e=2147483647&amp;v=beta&amp;t=I-N__XSEQogsz4aIILaEevrl58BnW2iso6JgqAfQfaE)

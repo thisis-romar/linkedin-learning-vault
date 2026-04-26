@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHJlfOCLARMkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679343774621?e=2147483647&amp;v=beta&amp;t=cfIHB1hIqlSjV-25LQEGMvaYXSDe-HGi4HmDDpPfdAE"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Getting Started with Google Cloud
+  - '[[Getting Started with Google Cloud]]'
+prev_courses:
+  - '[[Google Cloud Security for Beginners- Tools and Services]]'
+path_nav: '[{"path":"Getting Started with Google Cloud","position":3,"total":3,"prev":"Google Cloud Security for Beginners- Tools and Services","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/cloud-storage
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Google Cloud Data and Storage Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQHJlfOCLARMkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679343774621?e=2147483647&amp;v=beta&amp;t=cfIHB1hIqlSjV-25LQEGMvaYXSDe-HGi4HmDDpPfdAE)

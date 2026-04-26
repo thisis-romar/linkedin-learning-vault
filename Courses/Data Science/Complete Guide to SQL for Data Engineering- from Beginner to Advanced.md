@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/complete-guide-to-sql-for-data-engi
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFg6SQDsanfjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008940216?e=2147483647&amp;v=beta&amp;t=5uhqANuKdTmalL1zRQxfHPK2hgoYHyCoPU1vhpS2XMc"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Data Engineering
-  - Data Engineering Hands-On Practice
+  - '[[Master Data Engineering]]'
+  - '[[Data Engineering Hands-On Practice]]'
+prev_courses:
+  - '[[Advanced Snowflake- Deep Dive Cloud Data Warehousing and Analytics]]'
+  - '[[ETL in Python and SQL]]'
+next_courses:
+  - null
+  - '[[End-to-End Data Engineering Project]]'
+path_nav: '[{"path":"Master Data Engineering","position":8,"total":8,"prev":"Advanced Snowflake- Deep Dive Cloud Data Warehousing and Analytics","next":null},{"path":"Data Engineering Hands-On Practice","position":6,"total":7,"prev":"ETL in Python and SQL","next":"End-to-End Data Engineering Project"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/data-engineering
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Complete Guide to SQL for Data Engineering: from Beginner to Advanced](https://media.licdn.com/dms/image/v2/D560DAQFg6SQDsanfjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008940216?e=2147483647&amp;v=beta&amp;t=5uhqANuKdTmalL1zRQxfHPK2hgoYHyCoPU1vhpS2XMc)

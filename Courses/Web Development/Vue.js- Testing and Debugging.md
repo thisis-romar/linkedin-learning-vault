@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/vue-js-testing-and-debugging-239930
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHYc0PVbuobHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630434561194?e=2147483647&amp;v=beta&amp;t=FzHEJYD_JRzHoccvWKfjVWBxjEHLEOgALRndTKDx5es"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore Web Development with Vue.js
+  - '[[Explore Web Development with Vue.js]]'
+prev_courses:
+  - '[[Learning Vue Js]]'
+next_courses:
+  - '[[Vue.js- Creating and Hosting a Full-Stack Site]]'
+path_nav: '[{"path":"Explore Web Development with Vue.js","position":2,"total":3,"prev":"Learning Vue Js","next":"Vue.js- Creating and Hosting a Full-Stack Site"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/software-testing
   - skill/debugging-code
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Vue.js: Testing and Debugging](https://media.licdn.com/dms/image/v2/C560DAQHYc0PVbuobHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630434561194?e=2147483647&amp;v=beta&amp;t=FzHEJYD_JRzHoccvWKfjVWBxjEHLEOgALRndTKDx5es)

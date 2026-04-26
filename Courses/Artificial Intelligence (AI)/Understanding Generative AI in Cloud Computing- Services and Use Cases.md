@@ -19,10 +19,21 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGMR9qu5EjpFQ/learning-public-crop_675_1200/B4DZYmTXyEHwAc-/0/1744399335307?e=2147483647&amp;v=beta&amp;t=D0Zt381zGsw49RYyxQ8HeblKe0aChZD__zv1e_ll9-w"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Explore a Career as a Cloud Administrator
-  - Understanding Generative AI for Tech Leaders
-  - Foundational AI Skills for Azure Administration
-  - Become an AI Engineer
+  - '[[Explore a Career as a Cloud Administrator]]'
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[Foundational AI Skills for Azure Administration]]'
+  - '[[Become an AI Engineer]]'
+prev_courses:
+  - '[[Cybersecurity Awareness- Cloud Security (2022)]]'
+  - '[[Exploring AIOps]]'
+  - '[[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]]'
+  - '[[Fine-Tuning for LLMs- from Beginner to Advanced]]'
+next_courses:
+  - '[[Including Sustainability in Your Cloud Strategy (2022)]]'
+  - '[[Building in Azure AI Foundry]]'
+  - '[[Azure AI Studio First Look]]'
+  - '[[GenAIOps Foundations]]'
+path_nav: '[{"path":"Explore a Career as a Cloud Administrator","position":5,"total":6,"prev":"Cybersecurity Awareness- Cloud Security (2022)","next":"Including Sustainability in Your Cloud Strategy (2022)"},{"path":"Understanding Generative AI for Tech Leaders","position":9,"total":22,"prev":"Exploring AIOps","next":"Building in Azure AI Foundry"},{"path":"Foundational AI Skills for Azure Administration","position":2,"total":6,"prev":"Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios","next":"Azure AI Studio First Look"},{"path":"Become an AI Engineer","position":8,"total":10,"prev":"Fine-Tuning for LLMs- from Beginner to Advanced","next":"GenAIOps Foundations"}]'
 path_count: 4
 tags:
   - course
@@ -36,7 +47,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Understanding Generative AI in Cloud Computing: Services and Use Cases](https://media.licdn.com/dms/image/v2/D4D0DAQGMR9qu5EjpFQ/learning-public-crop_675_1200/B4DZYmTXyEHwAc-/0/1744399335307?e=2147483647&amp;v=beta&amp;t=D0Zt381zGsw49RYyxQ8HeblKe0aChZD__zv1e_ll9-w)

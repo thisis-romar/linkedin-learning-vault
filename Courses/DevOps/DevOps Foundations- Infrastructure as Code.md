@@ -10,16 +10,25 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFmY9NJZYpOwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684264315878?e=2147483647&amp;v=beta&amp;t=4qCLR83v3x6q-68w1xWs8zjnjhKrw6WqL_Ink-ijQ10"
 linkedin_topic: DevOps
 learning_paths:
-  - DevOps Professional Certificate by PagerDuty and LinkedIn
-  - Infrastructure as Code with Terraform
-  - Getting Started with DevOps
+  - '[[DevOps Professional Certificate by PagerDuty and LinkedIn]]'
+  - '[[Infrastructure as Code with Terraform]]'
+  - '[[Getting Started with DevOps]]'
+prev_courses:
+  - '[[Devops Foundations]]'
+  - null
+  - '[[DevOps Foundations- Continuous Delivery-Continuous Integration]]'
+next_courses:
+  - '[[DevOps Foundations- Continuous Delivery-Continuous Integration]]'
+  - '[[Learning Terraform]]'
+  - '[[DevOps Foundations- Monitoring and Observability]]'
+path_nav: '[{"path":"DevOps Professional Certificate by PagerDuty and LinkedIn","position":2,"total":3,"prev":"Devops Foundations","next":"DevOps Foundations- Continuous Delivery-Continuous Integration"},{"path":"Infrastructure as Code with Terraform","position":1,"total":3,"prev":null,"next":"Learning Terraform"},{"path":"Getting Started with DevOps","position":3,"total":5,"prev":"DevOps Foundations- Continuous Delivery-Continuous Integration","next":"DevOps Foundations- Monitoring and Observability"}]'
 path_count: 3
 tags:
   - course
   - topic/devops
   - topic/database-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![DevOps Foundations: Infrastructure as Code](https://media.licdn.com/dms/image/v2/D4D0DAQFmY9NJZYpOwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684264315878?e=2147483647&amp;v=beta&amp;t=4qCLR83v3x6q-68w1xWs8zjnjhKrw6WqL_Ink-ijQ10)

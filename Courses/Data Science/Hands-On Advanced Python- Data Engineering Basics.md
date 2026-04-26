@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/hands-on-advanced-python-2703239"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEeGQr9A1OHHQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692640821642?e=2147483647&amp;v=beta&amp;t=ydIw7jM-9_nheuE8xw2-U2ruB8pz4OZFv5hA7j5dXLw"
 linkedin_topic: Data Science
 learning_paths:
-  - Data Engineering Hands-On Practice
+  - '[[Data Engineering Hands-On Practice]]'
+prev_courses:
+  - '[[Hands-On Introduction- Data Engineering]]'
+next_courses:
+  - '[[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]'
+path_nav: '[{"path":"Data Engineering Hands-On Practice","position":2,"total":7,"prev":"Hands-On Introduction- Data Engineering","next":"Complete Guide to Python for Data Engineering- From Beginner to Advanced"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On Advanced Python: Data Engineering Basics](https://media.licdn.com/dms/image/v2/D560DAQEeGQr9A1OHHQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692640821642?e=2147483647&amp;v=beta&amp;t=ydIw7jM-9_nheuE8xw2-U2ruB8pz4OZFv5hA7j5dXLw)

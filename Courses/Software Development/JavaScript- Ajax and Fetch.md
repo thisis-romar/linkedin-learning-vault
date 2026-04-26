@@ -19,8 +19,15 @@ github: "https://github.com/LinkedInLearning/JavaScript-Ajax-and-Fetch-3809063/c
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHzfsBPheRMHg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724785196776?e=2147483647&amp;v=beta&amp;t=EGd0DJWCbYrFbKDaQRV1AWNwMUHdOBb9GcCn2TsYvVU"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore Web Development with Vanilla JavaScript
-  - Become a JavaScript Developer
+  - '[[Explore Web Development with Vanilla JavaScript]]'
+  - '[[Become a JavaScript Developer]]'
+prev_courses:
+  - '[[JSON Essential Training]]'
+  - '[[JSON Essential Training]]'
+next_courses:
+  - '[[JavaScript- Service Workers]]'
+  - '[[JavaScript- Modern Browser APIs]]'
+path_nav: '[{"path":"Explore Web Development with Vanilla JavaScript","position":5,"total":8,"prev":"JSON Essential Training","next":"JavaScript- Service Workers"},{"path":"Become a JavaScript Developer","position":12,"total":13,"prev":"JSON Essential Training","next":"JavaScript- Modern Browser APIs"}]'
 path_count: 2
 tags:
   - course
@@ -31,7 +38,7 @@ tags:
   - skill/javascript
   - skill/fetch
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Ajax and Fetch](https://media.licdn.com/dms/image/v2/D4E0DAQHzfsBPheRMHg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724785196776?e=2147483647&amp;v=beta&amp;t=EGd0DJWCbYrFbKDaQRV1AWNwMUHdOBb9GcCn2TsYvVU)

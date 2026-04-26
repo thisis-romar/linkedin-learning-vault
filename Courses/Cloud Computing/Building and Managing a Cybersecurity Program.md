@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHdmvviNOCYGw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682622907537?e=2147483647&amp;v=beta&amp;t=-MtywTuE5Uw9R7AIxoyOnNaU-yY-SppljT1X0suc4UA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation for Tech Leaders
-  - CISO Leadership- Managing a Cybersecurity Program
+  - '[[Digital Transformation for Tech Leaders]]'
+  - '[[CISO Leadership- Managing a Cybersecurity Program]]'
+prev_courses:
+  - '[[Leveraging Cloud Computing for IoT]]'
+  - '[[The Cybersecurity Threat Landscape]]'
+next_courses:
+  - '[[Understanding Zero Trust]]'
+  - '[[Leveraging Security Metrics in Your Organization]]'
+path_nav: '[{"path":"Digital Transformation for Tech Leaders","position":9,"total":15,"prev":"Leveraging Cloud Computing for IoT","next":"Understanding Zero Trust"},{"path":"CISO Leadership- Managing a Cybersecurity Program","position":2,"total":8,"prev":"The Cybersecurity Threat Landscape","next":"Leveraging Security Metrics in Your Organization"}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +26,7 @@ tags:
   - topic/software-development
   - topic/security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building and Managing a Cybersecurity Program](https://media.licdn.com/dms/image/v2/D560DAQHdmvviNOCYGw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682622907537?e=2147483647&amp;v=beta&amp;t=-MtywTuE5Uw9R7AIxoyOnNaU-yY-SppljT1X0suc4UA)

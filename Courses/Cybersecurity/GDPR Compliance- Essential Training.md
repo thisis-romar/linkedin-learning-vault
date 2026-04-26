@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQErQzSTqryM8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634756161478?e=2147483647&amp;v=beta&amp;t=u0lxioPbpbcyjoy4mi3laJ9i4Jg9ny9WlUuCPdwqmV4"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Data Privacy Skills
+  - '[[Advance Your Data Privacy Skills]]'
+prev_courses:
+  - '[[Privacy Strategies for Business Leaders]]'
+path_nav: '[{"path":"Advance Your Data Privacy Skills","position":4,"total":4,"prev":"Privacy Strategies for Business Leaders","next":null}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +29,7 @@ tags:
   - skill/legal-compliance
   - skill/general-data-protection-regulation-gdpr
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![GDPR Compliance: Essential Training](https://media.licdn.com/dms/image/v2/C560DAQErQzSTqryM8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634756161478?e=2147483647&amp;v=beta&amp;t=u0lxioPbpbcyjoy4mi3laJ9i4Jg9ny9WlUuCPdwqmV4)

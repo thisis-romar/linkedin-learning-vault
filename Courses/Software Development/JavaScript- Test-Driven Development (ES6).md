@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHXKMp0rVD01A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1574359332875?e=2147483647&amp;v=beta&amp;t=GIcScORNhcUX6tJ7B-pS-WtJ8i0HBGrn4gFrv12yvdg"
 linkedin_topic: Software Development
 learning_paths:
-  - Advance Your JavaScript Skills
+  - '[[Advance Your JavaScript Skills]]'
+prev_courses:
+  - '[[JavaScript- Best Practices for Data]]'
+next_courses:
+  - '[[ESLint- Integrating with Your Workflow]]'
+path_nav: '[{"path":"Advance Your JavaScript Skills","position":3,"total":10,"prev":"JavaScript- Best Practices for Data","next":"ESLint- Integrating with Your Workflow"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/test-driven-development
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Test-Driven Development (ES6)](https://media.licdn.com/dms/image/v2/C4E0DAQHXKMp0rVD01A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1574359332875?e=2147483647&amp;v=beta&amp;t=GIcScORNhcUX6tJ7B-pS-WtJ8i0HBGrn4gFrv12yvdg)

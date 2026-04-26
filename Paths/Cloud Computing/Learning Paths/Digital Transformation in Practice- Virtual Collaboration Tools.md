@@ -7,7 +7,7 @@ course_count: 9
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 9
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/cloud-computing
@@ -55,7 +55,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Digital Transformation in Practice: Virtual Collaboration Tools
@@ -90,3 +90,7 @@ _Paths that share courses with this one:_
 - [[Working Smarter with Microsoft 365]] (1 shared courses)
 - [[Succeed as a Remote Software Developer]] (1 shared courses)
 - [[Getting Started with Microsoft 365]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

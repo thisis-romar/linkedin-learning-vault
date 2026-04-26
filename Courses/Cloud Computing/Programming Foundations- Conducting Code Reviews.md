@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFg1VRrRPHVLw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1598983087938?e=2147483647&amp;v=beta&amp;t=QSQljaqSW3I7U85GVUydXmgwRciNsPLbdDGonDk0zCA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Succeeding in Your Tech Career- Software Development
+  - '[[Succeeding in Your Tech Career- Software Development]]'
+prev_courses:
+  - '[[Accelerate Your Developer Career]]'
+next_courses:
+  - '[[Inclusive Tech- Conducting Humane Code Reviews]]'
+path_nav: '[{"path":"Succeeding in Your Tech Career- Software Development","position":3,"total":6,"prev":"Accelerate Your Developer Career","next":"Inclusive Tech- Conducting Humane Code Reviews"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/programming
   - skill/programming-foundations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations: Conducting Code Reviews](https://media.licdn.com/dms/image/v2/C4E0DAQFg1VRrRPHVLw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1598983087938?e=2147483647&amp;v=beta&amp;t=QSQljaqSW3I7U85GVUydXmgwRciNsPLbdDGonDk0zCA)

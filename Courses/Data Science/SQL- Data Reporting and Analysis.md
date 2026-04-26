@@ -17,9 +17,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQErQCI8JKTS1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657907586123?e=2147483647&amp;v=beta&amp;t=h2eQek84NuKGD3zxsesp7WahjOHn6pPOPUzykC5wHko"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation
-  - Become a Data Analyst
-  - Master SQL for Data Science
+  - '[[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]]'
+  - '[[Become a Data Analyst]]'
+  - '[[Master SQL for Data Science]]'
+prev_courses:
+  - '[[Predictive Analytics Essential Training- Data Mining]]'
+  - '[[Tableau 2024.1- Essential Training]]'
+  - null
+next_courses:
+  - '[[Power BI Data Methods]]'
+  - '[[Complete Guide To R Wrangling Visualizing And Modeling Data]]'
+  - '[[Intermediate SQL- Data Reporting and Analysis]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation","position":7,"total":9,"prev":"Predictive Analytics Essential Training- Data Mining","next":"Power BI Data Methods"},{"path":"Become a Data Analyst","position":10,"total":12,"prev":"Tableau 2024.1- Essential Training","next":"Complete Guide To R Wrangling Visualizing And Modeling Data"},{"path":"Master SQL for Data Science","position":1,"total":6,"prev":null,"next":"Intermediate SQL- Data Reporting and Analysis"}]'
 path_count: 3
 tags:
   - course
@@ -29,7 +38,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL: Data Reporting and Analysis](https://media.licdn.com/dms/image/v2/C4D0DAQErQCI8JKTS1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657907586123?e=2147483647&amp;v=beta&amp;t=h2eQek84NuKGD3zxsesp7WahjOHn6pPOPUzykC5wHko)

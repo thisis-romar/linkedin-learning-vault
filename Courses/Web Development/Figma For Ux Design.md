@@ -8,14 +8,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGKCRh3ZF49AA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706569088409?e=2147483647&amp;v=beta&amp;t=Zns0FYeIGEwhTEeZCaRJ3lnnSB_1LcOP9xebw3CVty4"
 linkedin_topic: Web Development
 learning_paths:
-  - Design User Experiences with Figma
-  - Advance Your Skills in User Experience Design
+  - '[[Design User Experiences with Figma]]'
+  - '[[Advance Your Skills in User Experience Design]]'
+next_courses:
+  - '[[UX Foundations- Prototyping]]'
+  - '[[Sketching For Ux Designers]]'
+path_nav: '[{"path":"Design User Experiences with Figma","position":1,"total":6,"prev":null,"next":"UX Foundations- Prototyping"},{"path":"Advance Your Skills in User Experience Design","position":1,"total":9,"prev":null,"next":"Sketching For Ux Designers"}]'
 path_count: 2
 tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Figma For Ux Design](https://media.licdn.com/dms/image/v2/D560DAQGKCRh3ZF49AA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706569088409?e=2147483647&amp;v=beta&amp;t=Zns0FYeIGEwhTEeZCaRJ3lnnSB_1LcOP9xebw3CVty4)

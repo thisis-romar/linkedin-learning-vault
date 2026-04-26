@@ -18,7 +18,10 @@ github: "https://github.com/paiml/advanced-prompting-with-github-copilot"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFYqFXrKQ13pw/learning-public-crop_675_1200/B4EZq30MxJKYAY-/0/1764020506467?e=2147483647&amp;v=beta&amp;t=JoLTUbDk-I2rgJUEmOymE29Fq6P-C1FTVDhMNB-LKkQ"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development
+  - '[[GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development]]'
+next_courses:
+  - '[[GitHub Copilot for System-Level Development]]'
+path_nav: '[{"path":"GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development","position":1,"total":4,"prev":null,"next":"GitHub Copilot for System-Level Development"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Prompting With Github Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQFYqFXrKQ13pw/learning-public-crop_675_1200/B4EZq30MxJKYAY-/0/1764020506467?e=2147483647&amp;v=beta&amp;t=JoLTUbDk-I2rgJUEmOymE29Fq6P-C1FTVDhMNB-LKkQ)

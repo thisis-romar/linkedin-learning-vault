@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHgFvhoiy67vw/learning-public-crop_675_1200/B4DZoIDQekJAAc-/0/1761071663290?e=2147483647&amp;v=beta&amp;t=4LphMfFYPEBfDxbm8LtMdFhnyEKpPy1CMCvslt2TWAo"
 linkedin_topic: Software Development
 learning_paths:
-  - Get Started with PHP
+  - '[[Get Started with PHP]]'
+prev_courses:
+  - '[[PHP- Object-Oriented Programming]]'
+path_nav: '[{"path":"Get Started with PHP","position":6,"total":6,"prev":"PHP- Object-Oriented Programming","next":null}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![PHP: Object-Oriented Programming with Databases](https://media.licdn.com/dms/image/v2/D4D0DAQHgFvhoiy67vw/learning-public-crop_675_1200/B4DZoIDQekJAAc-/0/1761071663290?e=2147483647&amp;v=beta&amp;t=4LphMfFYPEBfDxbm8LtMdFhnyEKpPy1CMCvslt2TWAo)

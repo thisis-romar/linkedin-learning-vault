@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/docker-for-java-developers-2452212"
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEXn8hdCFwYyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652976343988?e=2147483647&amp;v=beta&amp;t=3r0qemij4p7e8dw6NpNMAmaRdBCd7FlQ0Wlfg_FBPEE"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Java Skills
+  - '[[Advance Your Java Skills]]'
+prev_courses:
+  - '[[Java Advanced Concepts For High Performance Development]]'
+next_courses:
+  - '[[Data Science for Java Developers]]'
+path_nav: '[{"path":"Advance Your Java Skills","position":2,"total":4,"prev":"Java Advanced Concepts For High Performance Development","next":"Data Science for Java Developers"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/docker-products
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Docker for Java Developers](https://media.licdn.com/dms/image/v2/C560DAQEXn8hdCFwYyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652976343988?e=2147483647&amp;v=beta&amp;t=3r0qemij4p7e8dw6NpNMAmaRdBCd7FlQ0Wlfg_FBPEE)

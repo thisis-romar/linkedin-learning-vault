@@ -15,14 +15,17 @@ github: "https://github.com/LinkedInLearning/laravel-essential-training-2710093/
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFMOrRKmmIPEg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722894881815?e=2147483647&amp;v=beta&amp;t=2a9mRtrTqKvssIy7KyDF11ygm2uu5JCPb1LRFfCA10w"
 linkedin_topic: Web Development
 learning_paths:
-  - Build Your Laravel Skills
+  - '[[Build Your Laravel Skills]]'
+next_courses:
+  - '[[Advanced Laravel]]'
+path_nav: '[{"path":"Build Your Laravel Skills","position":1,"total":7,"prev":null,"next":"Advanced Laravel"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/laravel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Laravel Essential Training](https://media.licdn.com/dms/image/v2/D560DAQFMOrRKmmIPEg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722894881815?e=2147483647&amp;v=beta&amp;t=2a9mRtrTqKvssIy7KyDF11ygm2uu5JCPb1LRFfCA10w)

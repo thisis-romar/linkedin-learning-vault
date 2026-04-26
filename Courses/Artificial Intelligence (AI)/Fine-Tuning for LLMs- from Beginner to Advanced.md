@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHGKr_yNWHbng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723585408633?e=2147483647&amp;v=beta&amp;t=npy7fBXsjSspwfQUsf1KWHmIdSohNGQO-AH10Dw-zog"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Become an AI Engineer
+  - '[[Become an AI Engineer]]'
+prev_courses:
+  - '[[Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications]]'
+next_courses:
+  - '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
+path_nav: '[{"path":"Become an AI Engineer","position":7,"total":10,"prev":"Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications","next":"Understanding Generative AI in Cloud Computing- Services and Use Cases"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/large-language-models-llm
   - skill/fine-tuning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Fine-Tuning for LLMs: from Beginner to Advanced](https://media.licdn.com/dms/image/v2/D4E0DAQHGKr_yNWHbng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723585408633?e=2147483647&amp;v=beta&amp;t=npy7fBXsjSspwfQUsf1KWHmIdSohNGQO-AH10Dw-zog)

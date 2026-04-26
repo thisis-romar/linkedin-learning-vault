@@ -15,16 +15,25 @@ github: "https://github.com/LinkedInLearning/test-automation-foundations-728391"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFRnuvxMHYVhA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568058485055?e=2147483647&amp;v=beta&amp;t=vxoGdmva-xLTMogkOIdgJFuXOkC70-IZC4yU6RvzWX8"
 linkedin_topic: Software Development
 learning_paths:
-  - TestMu AI Test Automation Professional Certificate
-  - The Top Skills Engineering Professionals Have Right Now
-  - Getting Started with Software Testing
+  - '[[TestMu AI Test Automation Professional Certificate]]'
+  - '[[The Top Skills Engineering Professionals Have Right Now]]'
+  - '[[Getting Started with Software Testing]]'
+prev_courses:
+  - null
+  - '[[SOLIDWORKS 2024 Essential Training]]'
+  - '[[Understanding Manual Testing]]'
+next_courses:
+  - '[[Selenium Essential Training]]'
+  - '[[C Programming for Embedded Applications]]'
+  - '[[Software Testing- Planning Tests for Mobile]]'
+path_nav: '[{"path":"TestMu AI Test Automation Professional Certificate","position":1,"total":2,"prev":null,"next":"Selenium Essential Training"},{"path":"The Top Skills Engineering Professionals Have Right Now","position":8,"total":9,"prev":"SOLIDWORKS 2024 Essential Training","next":"C Programming for Embedded Applications"},{"path":"Getting Started with Software Testing","position":3,"total":12,"prev":"Understanding Manual Testing","next":"Software Testing- Planning Tests for Mobile"}]'
 path_count: 3
 tags:
   - course
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Test Automation Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQFRnuvxMHYVhA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568058485055?e=2147483647&amp;v=beta&amp;t=vxoGdmva-xLTMogkOIdgJFuXOkC70-IZC4yU6RvzWX8)

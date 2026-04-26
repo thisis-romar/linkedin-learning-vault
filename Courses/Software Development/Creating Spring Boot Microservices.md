@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/creating-spring-boot-microservices-
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGP3Ee7Z9yRyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719009004889?e=2147483647&amp;v=beta&amp;t=hxWhfegk-y7A0sXENAf2PH1PBy8D85fApuwx3ItteTw"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started In Spring Development
+  - '[[Getting Started In Spring Development]]'
+prev_courses:
+  - '[[Learning Spring 6 With Spring Boot]]'
+next_courses:
+  - '[[Spring Data 2]]'
+path_nav: '[{"path":"Getting Started In Spring Development","position":2,"total":5,"prev":"Learning Spring 6 With Spring Boot","next":"Spring Data 2"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/microservices
   - skill/spring-boot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Creating Spring Boot Microservices](https://media.licdn.com/dms/image/v2/D560DAQGP3Ee7Z9yRyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719009004889?e=2147483647&amp;v=beta&amp;t=hxWhfegk-y7A0sXENAf2PH1PBy8D85fApuwx3ItteTw)

@@ -15,7 +15,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFwwEdQ-WlFHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634847225959?e=2147483647&amp;v=beta&amp;t=S5cxZVErrxgXwB2ULRQ4vgnJSHfnpKn16X4egBZ4fx0"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Thought Leadership
+  - '[[Advance Your Thought Leadership]]'
+prev_courses:
+  - '[[Writing and Delivering Speeches]]'
+next_courses:
+  - '[[Live Streaming on LinkedIn]]'
+path_nav: '[{"path":"Advance Your Thought Leadership","position":5,"total":7,"prev":"Writing and Delivering Speeches","next":"Live Streaming on LinkedIn"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/linkedin-marketing
   - skill/newsletters
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Creating LinkedIn Newsletters](https://media.licdn.com/dms/image/v2/C560DAQFwwEdQ-WlFHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634847225959?e=2147483647&amp;v=beta&amp;t=S5cxZVErrxgXwB2ULRQ4vgnJSHfnpKn16X4egBZ4fx0)

@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEoOxp-l_P-JQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668120338686?e=2147483647&amp;v=beta&amp;t=j2eN2jUp3tEt0q2eX53Y2-ukkFJ-pcBCZg1MyOlPMLs"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Become a JavaScript Developer
+  - '[[Become a JavaScript Developer]]'
+prev_courses:
+  - '[[JavaScript- Closures]]'
+next_courses:
+  - '[[Learning App Building With Vanilla Javascript]]'
+path_nav: '[{"path":"Become a JavaScript Developer","position":7,"total":13,"prev":"JavaScript- Closures","next":"Learning App Building With Vanilla Javascript"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Classes](https://media.licdn.com/dms/image/v2/C4E0DAQEoOxp-l_P-JQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668120338686?e=2147483647&amp;v=beta&amp;t=j2eN2jUp3tEt0q2eX53Y2-ukkFJ-pcBCZg1MyOlPMLs)

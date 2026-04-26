@@ -14,9 +14,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH70h-2xKbhDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723056851064?e=2147483647&amp;v=beta&amp;t=au01cREsDAuxQzim9zMWLjKvT80cmCeAC3bBtsQwWwg"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Azure Administration for Beginners- Management Tools, Services, and Security
-  - Getting Started as an Azure Developer
-  - Getting Started with Cloud Development
+  - '[[Azure Administration for Beginners- Management Tools, Services, and Security]]'
+  - '[[Getting Started as an Azure Developer]]'
+  - '[[Getting Started with Cloud Development]]'
+prev_courses:
+  - null
+  - null
+  - '[[Learning Amazon Web Services Aws For Developers]]'
+next_courses:
+  - '[[Azure Cloud Fundamentals- Explore Cloud Services]]'
+  - '[[Azure Essential Training for Developers]]'
+  - '[[Leveraging Google Cloud Developer and DevOps Tools]]'
+path_nav: '[{"path":"Azure Administration for Beginners- Management Tools, Services, and Security","position":1,"total":5,"prev":null,"next":"Azure Cloud Fundamentals- Explore Cloud Services"},{"path":"Getting Started as an Azure Developer","position":1,"total":7,"prev":null,"next":"Azure Essential Training for Developers"},{"path":"Getting Started with Cloud Development","position":3,"total":4,"prev":"Learning Amazon Web Services Aws For Developers","next":"Leveraging Google Cloud Developer and DevOps Tools"}]'
 path_count: 3
 tags:
   - course
@@ -25,7 +34,7 @@ tags:
   - topic/software-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure Understanding The Big Picture](https://media.licdn.com/dms/image/v2/D560DAQH70h-2xKbhDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723056851064?e=2147483647&amp;v=beta&amp;t=au01cREsDAuxQzim9zMWLjKvT80cmCeAC3bBtsQwWwg)

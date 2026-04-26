@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFEUIWEPk1_4g/learning-public-crop_675_1200/B56ZrgbGzvLwAY-/0/1764701793784?e=2147483647&amp;v=beta&amp;t=4mCWAL6BAUDzX5p1beYp01ifWlrQMnSEcayeJ3WnZ3A"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Data Analytics Specialist
+  - '[[Become a Data Analytics Specialist]]'
+prev_courses:
+  - '[[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]]'
+next_courses:
+  - '[[Statistics Foundations 1- The Basics]]'
+path_nav: '[{"path":"Become a Data Analytics Specialist","position":5,"total":10,"prev":"Learning Data Analytics Part 2- Extending and Applying Core Knowledge","next":"Statistics Foundations 1- The Basics"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/dashboards
   - skill/data-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Analytics: Dashboards vs. Data Stories](https://media.licdn.com/dms/image/v2/D560DAQFEUIWEPk1_4g/learning-public-crop_675_1200/B56ZrgbGzvLwAY-/0/1764701793784?e=2147483647&amp;v=beta&amp;t=4mCWAL6BAUDzX5p1beYp01ifWlrQMnSEcayeJ3WnZ3A)

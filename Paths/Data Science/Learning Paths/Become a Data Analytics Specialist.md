@@ -57,7 +57,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Become a Data Analytics Specialist
@@ -94,3 +94,7 @@ _Paths that share courses with this one:_
 - [[Statistics Foundations Professional Certificate by Wolfram Research]] (2 shared courses)
 - [[Develop Your Data Analysis Skills]] (2 shared courses)
 - [[Career Essentials in Data Analysis by Microsoft and LinkedIn]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/css-images-5994321/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQH-hIPN1HlewA/learning-public-crop_675_1200/B4EZX9XECPGYAY-/0/1743712436683?e=2147483647&amp;v=beta&amp;t=vELs2qqjFGJPtDjF0qdPS-qL2O42aBUAw1YQ0n57LSE"
 linkedin_topic: Web Development
 learning_paths:
-  - Learn CSS
+  - '[[Learn CSS]]'
+prev_courses:
+  - '[[CSS- Inheritance, Specificity, and the Cascade]]'
+next_courses:
+  - '[[CSS- Animation]]'
+path_nav: '[{"path":"Learn CSS","position":5,"total":12,"prev":"CSS- Inheritance, Specificity, and the Cascade","next":"CSS- Animation"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![CSS: Images](https://media.licdn.com/dms/image/v2/D4E0DAQH-hIPN1HlewA/learning-public-crop_675_1200/B4EZX9XECPGYAY-/0/1743712436683?e=2147483647&amp;v=beta&amp;t=vELs2qqjFGJPtDjF0qdPS-qL2O42aBUAw1YQ0n57LSE)

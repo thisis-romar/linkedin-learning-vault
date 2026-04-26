@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGBvDFwZAIuUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628525289625?e=2147483647&amp;v=beta&amp;t=tGJ9L6KDmUkL2Fayo3NommePGI325C9QvppV_YAfOVA"
 linkedin_topic: Data Science
 learning_paths:
-  - Build an Ethereum Blockchain App
-  - Become a Blockchain Developer
+  - '[[Build an Ethereum Blockchain App]]'
+  - '[[Become a Blockchain Developer]]'
+prev_courses:
+  - '[[Building an Ethereum Blockchain App- 4 Ethereum Development Tools]]'
+  - '[[Building an Ethereum Blockchain App- 4 Ethereum Development Tools]]'
+next_courses:
+  - '[[Building an Ethereum Blockchain App- 6 Building Your First Ethereum App]]'
+  - '[[Building an Ethereum Blockchain App- 6 Building Your First Ethereum App]]'
+path_nav: '[{"path":"Build an Ethereum Blockchain App","position":5,"total":11,"prev":"Building an Ethereum Blockchain App- 4 Ethereum Development Tools","next":"Building an Ethereum Blockchain App- 6 Building Your First Ethereum App"},{"path":"Become a Blockchain Developer","position":5,"total":14,"prev":"Building an Ethereum Blockchain App- 4 Ethereum Development Tools","next":"Building an Ethereum Blockchain App- 6 Building Your First Ethereum App"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building an Ethereum Blockchain App: 5 Your Ethereum Wallet](https://media.licdn.com/dms/image/v2/C560DAQGBvDFwZAIuUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628525289625?e=2147483647&amp;v=beta&amp;t=tGJ9L6KDmUkL2Fayo3NommePGI325C9QvppV_YAfOVA)

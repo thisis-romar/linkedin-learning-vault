@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQH4mqsGPqM91w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1604516665249?e=2147483647&amp;v=beta&amp;t=vk0pgvdYEROrHm4u27O4yXWrgPmvR9UAofkrULRafdA"
 linkedin_topic: Hardware
 learning_paths:
-  - Become an Arduino Developer
+  - '[[Become an Arduino Developer]]'
+prev_courses:
+  - '[[Arduino- Prototyping]]'
+path_nav: '[{"path":"Become an Arduino Developer","position":11,"total":11,"prev":"Arduino- Prototyping","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - topic/software-development
   - skill/soldering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Soldering for Electronics](https://media.licdn.com/dms/image/v2/C560DAQH4mqsGPqM91w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1604516665249?e=2147483647&amp;v=beta&amp;t=vk0pgvdYEROrHm4u27O4yXWrgPmvR9UAofkrULRafdA)

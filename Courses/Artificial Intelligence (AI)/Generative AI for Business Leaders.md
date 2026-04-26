@@ -19,10 +19,21 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQHsCAbXLw-NOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678753390059?e=2147483647&amp;v=beta&amp;t=-IPCbZgaT8Hdqta0_7LkU5iqDv5eXJ0PVpeT6-0BamE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying AI as a Tech Leader
-  - AI for Organizational Leaders by Microsoft and LinkedIn
-  - Mastering Executive-Level Data Analytics
-  - Build AI Aptitude as a Middle Manager
+  - '[[Applying AI as a Tech Leader]]'
+  - '[[AI for Organizational Leaders by Microsoft and LinkedIn]]'
+  - '[[Mastering Executive-Level Data Analytics]]'
+  - '[[Build AI Aptitude as a Middle Manager]]'
+prev_courses:
+  - '[[Introduction To Artificial Intelligence]]'
+  - null
+  - '[[AI in Business Essential Training]]'
+  - '[[Everyday Ai Concepts]]'
+next_courses:
+  - '[[What Is Generative AI-]]'
+  - '[[How to Keep Your Team on the Bleeding Edge of AI Innovation]]'
+  - null
+  - '[[Responsible AI- Principles and Practical Applications]]'
+path_nav: '[{"path":"Applying AI as a Tech Leader","position":2,"total":8,"prev":"Introduction To Artificial Intelligence","next":"What Is Generative AI-"},{"path":"AI for Organizational Leaders by Microsoft and LinkedIn","position":1,"total":6,"prev":null,"next":"How to Keep Your Team on the Bleeding Edge of AI Innovation"},{"path":"Mastering Executive-Level Data Analytics","position":7,"total":7,"prev":"AI in Business Essential Training","next":null},{"path":"Build AI Aptitude as a Middle Manager","position":3,"total":5,"prev":"Everyday Ai Concepts","next":"Responsible AI- Principles and Practical Applications"}]'
 path_count: 4
 tags:
   - course
@@ -33,7 +44,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-for-leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI for Business Leaders](https://media.licdn.com/dms/image/v2/C4D0DAQHsCAbXLw-NOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678753390059?e=2147483647&amp;v=beta&amp;t=-IPCbZgaT8Hdqta0_7LkU5iqDv5eXJ0PVpeT6-0BamE)

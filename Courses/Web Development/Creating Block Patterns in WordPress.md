@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFrRk553AGgPQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634752427940?e=2147483647&amp;v=beta&amp;t=WKd07130_YEU3-0xbrfcsYRfWMOFLp0Vws6XIPq7Fpg"
 linkedin_topic: Web Development
 learning_paths:
-  - Getting Started with WordPress
+  - '[[Getting Started with WordPress]]'
+prev_courses:
+  - '[[HTML Essential Training]]'
+next_courses:
+  - '[[WordPress- Accessibility]]'
+path_nav: '[{"path":"Getting Started with WordPress","position":6,"total":10,"prev":"HTML Essential Training","next":"WordPress- Accessibility"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Creating Block Patterns in WordPress](https://media.licdn.com/dms/image/v2/C560DAQFrRk553AGgPQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634752427940?e=2147483647&amp;v=beta&amp;t=WKd07130_YEU3-0xbrfcsYRfWMOFLp0Vws6XIPq7Fpg)

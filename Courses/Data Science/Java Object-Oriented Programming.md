@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQG6dQ0gh0wiAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622221555885?e=2147483647&amp;v=beta&amp;t=xMXtc5_DxQJ4qpstpY5PpuaGtxpJcodx_K7fEjknnHg"
 linkedin_topic: Data Science
 learning_paths:
-  - Java Foundations Professional Certificate by JetBrains
+  - '[[Java Foundations Professional Certificate by JetBrains]]'
+prev_courses:
+  - '[[Java Essential Training- Objects and APIs]]'
+next_courses:
+  - '[[Java- Data Structures]]'
+path_nav: '[{"path":"Java Foundations Professional Certificate by JetBrains","position":3,"total":5,"prev":"Java Essential Training- Objects and APIs","next":"Java- Data Structures"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/object-oriented-programming-oop
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Java Object-Oriented Programming](https://media.licdn.com/dms/image/v2/C4D0DAQG6dQ0gh0wiAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622221555885?e=2147483647&amp;v=beta&amp;t=xMXtc5_DxQJ4qpstpY5PpuaGtxpJcodx_K7fEjknnHg)

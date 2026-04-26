@@ -7,7 +7,7 @@ course_count: 3
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 17
+louvain_cluster: 19
 tags:
   - professional-certificate
   - topic/data-science
@@ -31,7 +31,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # C++ Programming Professional Certificate by OpenEDG C++ Institute
@@ -58,3 +58,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Master C++]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

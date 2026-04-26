@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF3sefPLnRYNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654619167655?e=2147483647&amp;v=beta&amp;t=ib6U0ernBMnc5kXkOyxRavCgUkZrJzAjFIRFKuUuvCk"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance Your Spring Development Skills
+  - '[[Advance Your Spring Development Skills]]'
+prev_courses:
+  - '[[Performance Tuning in Spring Apps]]'
+next_courses:
+  - '[[Advanced Spring- Spring Boot Actuator]]'
+path_nav: '[{"path":"Advance Your Spring Development Skills","position":3,"total":6,"prev":"Performance Tuning in Spring Apps","next":"Advanced Spring- Spring Boot Actuator"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - topic/web-development
   - skill/spring-boot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Spring Boot Observability: Deep Dive into Logging, Metrics, and Tracing](https://media.licdn.com/dms/image/v2/C560DAQF3sefPLnRYNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654619167655?e=2147483647&amp;v=beta&amp;t=ib6U0ernBMnc5kXkOyxRavCgUkZrJzAjFIRFKuUuvCk)

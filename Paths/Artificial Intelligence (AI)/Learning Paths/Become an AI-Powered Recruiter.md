@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Become an AI-Powered Recruiter
@@ -69,3 +69,7 @@ _Paths that share courses with this one:_
 - [[Building ChatGPT Skills for Business Professionals]] (1 shared courses)
 - [[Applying Generative AI as a Business Professional]] (1 shared courses)
 - [[Understanding AI for Creative Professionals]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

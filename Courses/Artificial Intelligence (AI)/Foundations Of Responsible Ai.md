@@ -15,11 +15,24 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFgwemFHqeTuA/learning-public-crop_675_1200/B56ZgfSJ9_HUAY-/0/1752871510155?e=2147483647&amp;v=beta&amp;t=4K6pzj6EX6Uv-iksis8homrJBQf6elCtwcikZLr6VuY"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Mastering Responsible AI- From Concept to Auditing
-  - Become an AI Engineer
-  - Technical Literacy and Future Readiness for Senior Managers and Senior Leaders
-  - Mastering Data Governance and Ethics
-  - Advance Your Skills in AI and Machine Learning
+  - '[[Mastering Responsible AI- From Concept to Auditing]]'
+  - '[[Become an AI Engineer]]'
+  - '[[Technical Literacy and Future Readiness for Senior Managers and Senior Leaders]]'
+  - '[[Mastering Data Governance and Ethics]]'
+  - '[[Advance Your Skills in AI and Machine Learning]]'
+prev_courses:
+  - null
+  - '[[GenAIOps Foundations]]'
+  - '[[Amplify Your Critical Thinking with Generative AI]]'
+  - '[[Data Ethics- Making Data-Driven Decisions]]'
+  - '[[UX for AI- Design Practices for AI Developers]]'
+next_courses:
+  - '[[Responsible AI- Principles and Practical Applications]]'
+  - null
+  - '[[Digital Transformation Tips]]'
+  - '[[Responsible AI- Principles and Practical Applications]]'
+  - '[[Responsible AI- Principles and Practical Applications]]'
+path_nav: '[{"path":"Mastering Responsible AI- From Concept to Auditing","position":1,"total":7,"prev":null,"next":"Responsible AI- Principles and Practical Applications"},{"path":"Become an AI Engineer","position":10,"total":10,"prev":"GenAIOps Foundations","next":null},{"path":"Technical Literacy and Future Readiness for Senior Managers and Senior Leaders","position":3,"total":10,"prev":"Amplify Your Critical Thinking with Generative AI","next":"Digital Transformation Tips"},{"path":"Mastering Data Governance and Ethics","position":8,"total":9,"prev":"Data Ethics- Making Data-Driven Decisions","next":"Responsible AI- Principles and Practical Applications"},{"path":"Advance Your Skills in AI and Machine Learning","position":14,"total":16,"prev":"UX for AI- Design Practices for AI Developers","next":"Responsible AI- Principles and Practical Applications"}]'
 path_count: 5
 tags:
   - course
@@ -31,7 +44,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Foundations Of Responsible Ai](https://media.licdn.com/dms/image/v2/D560DAQFgwemFHqeTuA/learning-public-crop_675_1200/B56ZgfSJ9_HUAY-/0/1752871510155?e=2147483647&amp;v=beta&amp;t=4K6pzj6EX6Uv-iksis8homrJBQf6elCtwcikZLr6VuY)

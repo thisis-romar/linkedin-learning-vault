@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEU8Y1z6IacEA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690578573167?e=2147483647&amp;v=beta&amp;t=dXHdU0OXqGaBe-0We0jEpH5K3bCIK-npJlls6DD4kQE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying Generative AI as a Creative Professional
+  - '[[Applying Generative AI as a Creative Professional]]'
+prev_courses:
+  - '[[Adobe Firefly Essential Training (2024)]]'
+next_courses:
+  - '[[Finding Creativity in the Age of AI]]'
+path_nav: '[{"path":"Applying Generative AI as a Creative Professional","position":6,"total":7,"prev":"Adobe Firefly Essential Training (2024)","next":"Finding Creativity in the Age of AI"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/adobe-photoshop
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leveraging AI in Adobe Photoshop and Creative Cloud (2023)](https://media.licdn.com/dms/image/v2/D560DAQEU8Y1z6IacEA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690578573167?e=2147483647&amp;v=beta&amp;t=dXHdU0OXqGaBe-0We0jEpH5K3bCIK-npJlls6DD4kQE)

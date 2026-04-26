@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/asp-net-core-token-based-authentica
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFnlnbspVQ8Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629914997184?e=2147483647&amp;v=beta&amp;t=h8l95VZ9QNX4Cc4yLNypgET229UYJUIj9pzD2hG4VDg"
 linkedin_topic: Web Development
 learning_paths:
-  - Getting Started as an ASP.NET Core Developer
+  - '[[Getting Started as an ASP.NET Core Developer]]'
+prev_courses:
+  - '[[Securing ASP.NET Core Apps- Advanced Techniques for Web Application Security]]'
+next_courses:
+  - '[[ASP.NET Core in .NET 6- Dependency Injection]]'
+path_nav: '[{"path":"Getting Started as an ASP.NET Core Developer","position":6,"total":9,"prev":"Securing ASP.NET Core Apps- Advanced Techniques for Web Application Security","next":"ASP.NET Core in .NET 6- Dependency Injection"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/tokens
   - skill/asp-net-core
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![ASP.NET Core: Token-Based Authentication](https://media.licdn.com/dms/image/v2/C560DAQFnlnbspVQ8Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629914997184?e=2147483647&amp;v=beta&amp;t=h8l95VZ9QNX4Cc4yLNypgET229UYJUIj9pzD2hG4VDg)

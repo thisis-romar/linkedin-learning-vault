@@ -16,7 +16,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGImVlAf-KYqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691086537263?e=2147483647&amp;v=beta&amp;t=OFUCqoFyx35GF1O4VRzXvUfvO1-6mP_24yGoeAyaB2o"
 linkedin_topic: Web Development
 learning_paths:
-  - Maintain Digital Accessibility
+  - '[[Maintain Digital Accessibility]]'
+prev_courses:
+  - '[[Supporting Accessibility in a Hybrid Workplace]]'
+path_nav: '[{"path":"Maintain Digital Accessibility","position":3,"total":3,"prev":"Supporting Accessibility in a Hybrid Workplace","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/digital-accessibility
   - skill/accessibility-audits
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Auditing Design Systems for Accessibility](https://media.licdn.com/dms/image/v2/D560DAQGImVlAf-KYqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691086537263?e=2147483647&amp;v=beta&amp;t=OFUCqoFyx35GF1O4VRzXvUfvO1-6mP_24yGoeAyaB2o)

@@ -18,9 +18,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFl5s5CflRKdw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1672793067893?e=2147483647&amp;v=beta&amp;t=6WB-4UiKO7K5sIPMCnd1pLL5luXUSuLNYUtJlyUpYpw"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Become a Cybersecurity Professional
-  - Explore Cybersecurity Careers
-  - Starting Your Career in Tech- Cybersecurity
+  - '[[Become a Cybersecurity Professional]]'
+  - '[[Explore Cybersecurity Careers]]'
+  - '[[Starting Your Career in Tech- Cybersecurity]]'
+prev_courses:
+  - '[[Learning the OWASP Top 10]]'
+  - '[[Land Your First Cybersecurity Job]]'
+  - '[[Nail Your Cybersecurity Interview]]'
+next_courses:
+  - '[[Land Your First Cybersecurity Job]]'
+  - '[[Cybersecurity Careers- Become a Security Engineer]]'
+  - '[[Soft Skills for Information Security Professionals]]'
+path_nav: '[{"path":"Become a Cybersecurity Professional","position":4,"total":5,"prev":"Learning the OWASP Top 10","next":"Land Your First Cybersecurity Job"},{"path":"Explore Cybersecurity Careers","position":2,"total":9,"prev":"Land Your First Cybersecurity Job","next":"Cybersecurity Careers- Become a Security Engineer"},{"path":"Starting Your Career in Tech- Cybersecurity","position":4,"total":5,"prev":"Nail Your Cybersecurity Interview","next":"Soft Skills for Information Security Professionals"}]'
 path_count: 3
 tags:
   - course
@@ -32,7 +41,7 @@ tags:
   - skill/cybersecurity
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Careers and Certifications](https://media.licdn.com/dms/image/v2/C560DAQFl5s5CflRKdw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1672793067893?e=2147483647&amp;v=beta&amp;t=6WB-4UiKO7K5sIPMCnd1pLL5luXUSuLNYUtJlyUpYpw)

@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE4nkljsFNoNw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686090015884?e=2147483647&amp;v=beta&amp;t=y4boN-SgYSJpJyUef3_-pTZYF-byOisEiX0V-0aKGUo"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation in Practice- Virtual Collaboration Tools
+  - '[[Digital Transformation in Practice- Virtual Collaboration Tools]]'
+prev_courses:
+  - '[[Learning PowerPoint Online (Microsoft 365)]]'
+next_courses:
+  - '[[Outlook on the Web Essential Training]]'
+path_nav: '[{"path":"Digital Transformation in Practice- Virtual Collaboration Tools","position":6,"total":9,"prev":"Learning PowerPoint Online (Microsoft 365)","next":"Outlook on the Web Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/microsoft-365
   - skill/microsoft-word
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Word Online (Microsoft 365)](https://media.licdn.com/dms/image/v2/D560DAQE4nkljsFNoNw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686090015884?e=2147483647&amp;v=beta&amp;t=y4boN-SgYSJpJyUef3_-pTZYF-byOisEiX0V-0aKGUo)

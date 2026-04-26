@@ -20,7 +20,12 @@ github: "https://github.com/paiml/responsible-ai-dev"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHLWrdnfFGSJg/learning-public-crop_675_1200/B4EZq34xBdIQAc-/0/1764021703092?e=2147483647&amp;v=beta&amp;t=GfXLEfHc3DJk2jmbjPaI436B1lMRjMpHwDrhrtf6exw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development
+  - '[[GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development]]'
+prev_courses:
+  - '[[GitHub Copilot for System-Level Development]]'
+next_courses:
+  - '[[Capstone- Building Production Features with Copilot]]'
+path_nav: '[{"path":"GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development","position":3,"total":4,"prev":"GitHub Copilot for System-Level Development","next":"Capstone- Building Production Features with Copilot"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/large-language-models-llm
   - skill/github-copilot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Responsible AI Development with GitHub Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQHLWrdnfFGSJg/learning-public-crop_675_1200/B4EZq34xBdIQAc-/0/1764021703092?e=2147483647&amp;v=beta&amp;t=GfXLEfHc3DJk2jmbjPaI436B1lMRjMpHwDrhrtf6exw)

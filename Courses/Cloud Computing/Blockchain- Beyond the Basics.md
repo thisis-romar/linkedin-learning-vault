@@ -15,8 +15,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQG4r61Jy_I52g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646852640713?e=2147483647&amp;v=beta&amp;t=nveeA8LsFahLRyeIWPBykxsjB0FtkHYgfweS75NOXOo"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation for Tech Leaders
-  - Getting Started in Blockchain
+  - '[[Digital Transformation for Tech Leaders]]'
+  - '[[Getting Started in Blockchain]]'
+prev_courses:
+  - '[[Blockchain Basics]]'
+  - '[[Blockchain Basics]]'
+next_courses:
+  - '[[Introduction to 5G]]'
+  - '[[Foundations of Decentralized Finance (DeFi)]]'
+path_nav: '[{"path":"Digital Transformation for Tech Leaders","position":12,"total":15,"prev":"Blockchain Basics","next":"Introduction to 5G"},{"path":"Getting Started in Blockchain","position":3,"total":5,"prev":"Blockchain Basics","next":"Foundations of Decentralized Finance (DeFi)"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - topic/data-science
   - skill/blockchain
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Blockchain: Beyond the Basics](https://media.licdn.com/dms/image/v2/C560DAQG4r61Jy_I52g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646852640713?e=2147483647&amp;v=beta&amp;t=nveeA8LsFahLRyeIWPBykxsjB0FtkHYgfweS75NOXOo)

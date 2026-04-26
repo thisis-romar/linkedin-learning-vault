@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/api-testing-foundations-4403636"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGYSZSvOzrO-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697137417352?e=2147483647&amp;v=beta&amp;t=CbxnBoZy9FzikMp3LPBSxgo1Qmjo3M71PRfamwuoC3k"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started with Software Testing
+  - '[[Getting Started with Software Testing]]'
+prev_courses:
+  - '[[JMeter- Performance and Load Testing]]'
+next_courses:
+  - '[[Postman Essential Training]]'
+path_nav: '[{"path":"Getting Started with Software Testing","position":8,"total":12,"prev":"JMeter- Performance and Load Testing","next":"Postman Essential Training"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/api-testing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![API Testing Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQGYSZSvOzrO-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697137417352?e=2147483647&amp;v=beta&amp;t=CbxnBoZy9FzikMp3LPBSxgo1Qmjo3M71PRfamwuoC3k)

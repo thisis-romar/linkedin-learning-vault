@@ -16,7 +16,10 @@ github: "https://github.com/LinkedInLearning/build-ai-agents-and-automate-workfl
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGmwk8Sfhr82g/learning-public-crop_675_1200/B4EZd_sUmBHcAY-/0/1750194015319?e=2147483647&amp;v=beta&amp;t=dlJ1bHTQ9Mb9RyN54JSyKOE9ROVrmFukVdcGcdCZUKM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Agents- Advanced Techniques for Developers
+  - '[[Building AI Agents- Advanced Techniques for Developers]]'
+next_courses:
+  - '[[Build AI Agents and Chatbots with LangGraph]]'
+path_nav: '[{"path":"Building AI Agents- Advanced Techniques for Developers","position":1,"total":4,"prev":null,"next":"Build AI Agents and Chatbots with LangGraph"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Build Ai Agents And Automate Workflows With N8n](https://media.licdn.com/dms/image/v2/D4E0DAQGmwk8Sfhr82g/learning-public-crop_675_1200/B4EZd_sUmBHcAY-/0/1750194015319?e=2147483647&amp;v=beta&amp;t=dlJ1bHTQ9Mb9RyN54JSyKOE9ROVrmFukVdcGcdCZUKM)

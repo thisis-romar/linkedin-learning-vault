@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHAyPtS4ZsHfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703185888414?e=2147483647&amp;v=beta&amp;t=WHBvb3WEBoRNl6tLPhqnpUKrZFPgR1f4qkJmHmwvg-s"
 linkedin_topic: Software Development
 learning_paths:
-  - Advance Your Skills in Python
-  - Master Python for Data Science
+  - '[[Advance Your Skills in Python]]'
+  - '[[Master Python for Data Science]]'
+prev_courses:
+  - '[[Python- Design Patterns]]'
+  - '[[Advanced Python- Working with Databases]]'
+next_courses:
+  - '[[Python Automation and Testing]]'
+  - '[[Python Data Structures- Linked Lists]]'
+path_nav: '[{"path":"Advance Your Skills in Python","position":3,"total":7,"prev":"Python- Design Patterns","next":"Python Automation and Testing"},{"path":"Master Python for Data Science","position":4,"total":8,"prev":"Advanced Python- Working with Databases","next":"Python Data Structures- Linked Lists"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/python-programming-language
   - skill/algorithms
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Data Structures and Algorithms](https://media.licdn.com/dms/image/v2/D560DAQHAyPtS4ZsHfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703185888414?e=2147483647&amp;v=beta&amp;t=WHBvb3WEBoRNl6tLPhqnpUKrZFPgR1f4qkJmHmwvg-s)

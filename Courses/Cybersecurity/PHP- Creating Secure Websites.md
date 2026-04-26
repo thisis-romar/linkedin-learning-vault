@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFFV2cGNYia4A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616177761384?e=2147483647&amp;v=beta&amp;t=Y_crBk_mMH-JmxD_gjR55O4Zu2wl4_lQkWLDpLZZ03E"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your PHP Skills
+  - '[[Advance Your PHP Skills]]'
+prev_courses:
+  - '[[PHP Techniques- Working with Files and Directories]]'
+next_courses:
+  - '[[PHP- User Authentication]]'
+path_nav: '[{"path":"Advance Your PHP Skills","position":4,"total":7,"prev":"PHP Techniques- Working with Files and Directories","next":"PHP- User Authentication"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![PHP: Creating Secure Websites](https://media.licdn.com/dms/image/v2/C4E0DAQFFV2cGNYia4A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616177761384?e=2147483647&amp;v=beta&amp;t=Y_crBk_mMH-JmxD_gjR55O4Zu2wl4_lQkWLDpLZZ03E)

@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG-B4jp_AX4mw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712683571358?e=2147483647&amp;v=beta&amp;t=q1YLlRgqh9i4UweixEriV1rsyNAodADqm3sN6fhttuc"
 linkedin_topic: Web Development
 learning_paths:
-  - Getting Started as an ASP.NET Core Developer
+  - '[[Getting Started as an ASP.NET Core Developer]]'
+prev_courses:
+  - '[[ASP.NET Core- Building a GraphQL API]]'
+path_nav: '[{"path":"Getting Started as an ASP.NET Core Developer","position":9,"total":9,"prev":"ASP.NET Core- Building a GraphQL API","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/api-development
   - skill/asp-net-core
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Web APIs with ASP.NET Core 8](https://media.licdn.com/dms/image/v2/D560DAQG-B4jp_AX4mw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712683571358?e=2147483647&amp;v=beta&amp;t=q1YLlRgqh9i4UweixEriV1rsyNAodADqm3sN6fhttuc)

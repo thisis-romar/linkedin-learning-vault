@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFJnaepTrxv3Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723151141731?e=2147483647&amp;v=beta&amp;t=M7K2kfCsFSSQhW4aTOnpzYfxtVi14Y6onbfm9iKspbw"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Navigating the Cybersecurity Threat Landscape
+  - '[[Navigating the Cybersecurity Threat Landscape]]'
+prev_courses:
+  - '[[The Cybersecurity Threat Landscape]]'
+next_courses:
+  - '[[Learning the OWASP Top 10]]'
+path_nav: '[{"path":"Navigating the Cybersecurity Threat Landscape","position":2,"total":8,"prev":"The Cybersecurity Threat Landscape","next":"Learning the OWASP Top 10"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/cyber-security-risk
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Demystifying Advanced and Complex Security Topics](https://media.licdn.com/dms/image/v2/D560DAQFJnaepTrxv3Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723151141731?e=2147483647&amp;v=beta&amp;t=M7K2kfCsFSSQhW4aTOnpzYfxtVi14Y6onbfm9iKspbw)

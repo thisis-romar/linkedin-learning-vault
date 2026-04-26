@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQH8Fu75tuxcpw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1605131101472?e=2147483647&amp;v=beta&amp;t=2Tt95Y7dspLxmLq-Kv05a52UW-mVmVQnaUxGclzNGuM"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Getting Started with Microservices
+  - '[[Getting Started with Microservices]]'
+prev_courses:
+  - '[[Microservices- Design Patterns]]'
+path_nav: '[{"path":"Getting Started with Microservices","position":3,"total":3,"prev":"Microservices- Design Patterns","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/microservices
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Microservices: Security](https://media.licdn.com/dms/image/v2/C4D0DAQH8Fu75tuxcpw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1605131101472?e=2147483647&amp;v=beta&amp;t=2Tt95Y7dspLxmLq-Kv05a52UW-mVmVQnaUxGclzNGuM)

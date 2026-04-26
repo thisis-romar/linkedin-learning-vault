@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEyf_XnVwwjZQ/learning-public-crop_675_1200/B4DZZu_NUFH4AY-/0/1745618785783?e=2147483647&amp;v=beta&amp;t=5jBVU1DWBFmqQrXDnCgXkdzGmA-Y5c9Ip7M_20Iqkl8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[AI Product Development- Technical Feasibility and Prototyping]]'
+next_courses:
+  - '[[AI Product Development- Secure by Design]]'
+path_nav: '[{"path":"Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning","position":5,"total":6,"prev":"AI Product Development- Technical Feasibility and Prototyping","next":"AI Product Development- Secure by Design"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-storage
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Data Strategy: Data Procurement and Storage](https://media.licdn.com/dms/image/v2/D4D0DAQEyf_XnVwwjZQ/learning-public-crop_675_1200/B4DZZu_NUFH4AY-/0/1745618785783?e=2147483647&amp;v=beta&amp;t=5jBVU1DWBFmqQrXDnCgXkdzGmA-Y5c9Ip7M_20Iqkl8)

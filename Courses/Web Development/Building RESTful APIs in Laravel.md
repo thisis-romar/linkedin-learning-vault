@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/building-restful-apis-in-laravel-28
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHLRm0wBRFc8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616782627205?e=2147483647&amp;v=beta&amp;t=3h1GYISHp7JIPE3zXeqeVBtAs41PRAADUeI2YoA5lNA"
 linkedin_topic: Web Development
 learning_paths:
-  - Build Your Laravel Skills
+  - '[[Build Your Laravel Skills]]'
+prev_courses:
+  - '[[Advanced Laravel]]'
+next_courses:
+  - '[[Building GraphQL Applications in Laravel]]'
+path_nav: '[{"path":"Build Your Laravel Skills","position":3,"total":7,"prev":"Advanced Laravel","next":"Building GraphQL Applications in Laravel"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/rest-apis
   - skill/laravel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building RESTful APIs in Laravel](https://media.licdn.com/dms/image/v2/C4E0DAQHLRm0wBRFc8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616782627205?e=2147483647&amp;v=beta&amp;t=3h1GYISHp7JIPE3zXeqeVBtAs41PRAADUeI2YoA5lNA)

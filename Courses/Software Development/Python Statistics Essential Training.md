@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/python-statistics-essential-trainin
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHUYNAoME92XQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694730199516?e=2147483647&amp;v=beta&amp;t=aGGIQ3sT36VnpPTJD0qWDk28ODLGfSONStsUo-i8jRc"
 linkedin_topic: Software Development
 learning_paths:
-  - Moving from Data Scientist to Data Analyst
-  - Master Python for Data Science
+  - '[[Moving from Data Scientist to Data Analyst]]'
+  - '[[Master Python for Data Science]]'
+prev_courses:
+  - '[[Data Visualization for Data Analysts and Analytics]]'
+  - null
+next_courses:
+  - '[[Deep Learning Getting Started]]'
+  - '[[Advanced Python- Working With Data]]'
+path_nav: '[{"path":"Moving from Data Scientist to Data Analyst","position":5,"total":10,"prev":"Data Visualization for Data Analysts and Analytics","next":"Deep Learning Getting Started"},{"path":"Master Python for Data Science","position":1,"total":8,"prev":null,"next":"Advanced Python- Working With Data"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/python-programming-language
   - skill/statistics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Statistics Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQHUYNAoME92XQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694730199516?e=2147483647&amp;v=beta&amp;t=aGGIQ3sT36VnpPTJD0qWDk28ODLGfSONStsUo-i8jRc)

@@ -8,16 +8,25 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHq9g4-_gAbjg/learning-public-crop_675_1200/B56ZhSC9chG4AY-/0/1753723165260?e=2147483647&amp;v=beta&amp;t=qern6cYgWm0Fw_R7QrdfHOWSfEAZbm1EEE2t-MNXXe4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Responsible AI at Work- Literacy, Ethics, and More
-  - Building AI Literacy
-  - Career Essentials in Generative AI by Microsoft and LinkedIn
+  - '[[Responsible AI at Work- Literacy, Ethics, and More]]'
+  - '[[Building AI Literacy]]'
+  - '[[Career Essentials in Generative AI by Microsoft and LinkedIn]]'
+prev_courses:
+  - null
+  - '[[Introduction to Large Language Models]]'
+  - '[[What Is Generative AI-]]'
+next_courses:
+  - '[[Ethics in the Age of Generative AI]]'
+  - '[[Ethics in the Age of Generative AI]]'
+  - '[[Learning Microsoft 365 Copilot for Work]]'
+path_nav: '[{"path":"Responsible AI at Work- Literacy, Ethics, and More","position":1,"total":6,"prev":null,"next":"Ethics in the Age of Generative AI"},{"path":"Building AI Literacy","position":6,"total":7,"prev":"Introduction to Large Language Models","next":"Ethics in the Age of Generative AI"},{"path":"Career Essentials in Generative AI by Microsoft and LinkedIn","position":2,"total":5,"prev":"What Is Generative AI-","next":"Learning Microsoft 365 Copilot for Work"}]'
 path_count: 3
 tags:
   - course
   - topic/artificial-intelligence
   - topic/security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Your Top Ai Questions Answered Ai Literacy For Everyone](https://media.licdn.com/dms/image/v2/D560DAQHq9g4-_gAbjg/learning-public-crop_675_1200/B56ZhSC9chG4AY-/0/1753723165260?e=2147483647&amp;v=beta&amp;t=qern6cYgWm0Fw_R7QrdfHOWSfEAZbm1EEE2t-MNXXe4)

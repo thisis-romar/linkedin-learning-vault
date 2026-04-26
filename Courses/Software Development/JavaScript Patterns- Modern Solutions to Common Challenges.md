@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQF1L-ByY75vUw/learning-public-crop_675_1200/B4EZbKgjCRGQAY-/0/1747154252674?e=2147483647&amp;v=beta&amp;t=EX33dWi3R2clFIjO6kM56n79hLCQWdk3Pqftx4ryC7M"
 linkedin_topic: Software Development
 learning_paths:
-  - Improve Your JavaScript Language Skills
+  - '[[Improve Your JavaScript Language Skills]]'
+prev_courses:
+  - '[[JavaScript- Patterns]]'
+path_nav: '[{"path":"Improve Your JavaScript Language Skills","position":8,"total":8,"prev":"JavaScript- Patterns","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/javascript
   - skill/coding-practices
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript Patterns: Modern Solutions to Common Challenges](https://media.licdn.com/dms/image/v2/D4E0DAQF1L-ByY75vUw/learning-public-crop_675_1200/B4EZbKgjCRGQAY-/0/1747154252674?e=2147483647&amp;v=beta&amp;t=EX33dWi3R2clFIjO6kM56n79hLCQWdk3Pqftx4ryC7M)

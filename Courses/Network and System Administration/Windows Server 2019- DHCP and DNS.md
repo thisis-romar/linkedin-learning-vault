@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQElyj0o84kAWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568070675233?e=2147483647&amp;v=beta&amp;t=sZ7QOPEILNwpfyhbG8bSLU44yMN6md0I7MemhWiA0ek"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Getting Started with Windows Server 2019
+  - '[[Getting Started with Windows Server 2019]]'
+prev_courses:
+  - '[[Windows Server 2019- Install and Configure Active Directory]]'
+path_nav: '[{"path":"Getting Started with Windows Server 2019","position":4,"total":4,"prev":"Windows Server 2019- Install and Configure Active Directory","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/dns-management
   - skill/windows-server
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows Server 2019: DHCP and DNS](https://media.licdn.com/dms/image/v2/C4E0DAQElyj0o84kAWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568070675233?e=2147483647&amp;v=beta&amp;t=sZ7QOPEILNwpfyhbG8bSLU44yMN6md0I7MemhWiA0ek)

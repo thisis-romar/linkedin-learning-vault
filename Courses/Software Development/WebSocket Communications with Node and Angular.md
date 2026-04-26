@@ -19,7 +19,10 @@ github: "https://github.com/LinkedInLearning/websocket-comms-with-node-and-angul
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQE_YE-lIDB7xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646853207200?e=2147483647&amp;v=beta&amp;t=lDyzOC2sKLTJDVltV-cZ9-V506_a6Pm3tUrB9FUpeVQ"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore Web Development with Angular
+  - '[[Explore Web Development with Angular]]'
+prev_courses:
+  - '[[Angular- Cloud-Powered Apps with Firebase]]'
+path_nav: '[{"path":"Explore Web Development with Angular","position":6,"total":6,"prev":"Angular- Cloud-Powered Apps with Firebase","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/angular
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![WebSocket Communications with Node and Angular](https://media.licdn.com/dms/image/v2/C560DAQE_YE-lIDB7xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646853207200?e=2147483647&amp;v=beta&amp;t=lDyzOC2sKLTJDVltV-cZ9-V506_a6Pm3tUrB9FUpeVQ)

@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFsc2XCsoi4YA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669466188?e=2147483647&amp;v=beta&amp;t=wE5vDdBeUMgueC-_bw928NnVThsgegEiDwa_PW6I9dc"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Wireshark- Network Traffic Analysis
+  - '[[Wireshark- Network Traffic Analysis]]'
+prev_courses:
+  - '[[Wireshark Essential Training]]'
+next_courses:
+  - '[[Wireshark- Network Troubleshooting]]'
+path_nav: '[{"path":"Wireshark- Network Traffic Analysis","position":2,"total":5,"prev":"Wireshark Essential Training","next":"Wireshark- Network Troubleshooting"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/wireshark
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Wireshark: Functionality](https://media.licdn.com/dms/image/v2/C4E0DAQFsc2XCsoi4YA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669466188?e=2147483647&amp;v=beta&amp;t=wE5vDdBeUMgueC-_bw928NnVThsgegEiDwa_PW6I9dc)

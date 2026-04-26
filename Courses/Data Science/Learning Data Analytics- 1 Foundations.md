@@ -16,19 +16,34 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFGmlfFOyWc7g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618937081114?e=2147483647&amp;v=beta&amp;t=tR__EzRzVFkcrxKweGH00afFxibABElaYg0LeXaMNOk"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation
-  - Explore a Career as a Financial Analyst
-  - Explore a Career in Data Analysis
-  - Career Essentials in Data Analysis by Microsoft and LinkedIn
-  - Become a Data Analytics Specialist
-  - Become a Data Analyst
+  - '[[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]]'
+  - '[[Explore a Career as a Financial Analyst]]'
+  - '[[Explore a Career in Data Analysis]]'
+  - '[[Career Essentials in Data Analysis by Microsoft and LinkedIn]]'
+  - '[[Become a Data Analytics Specialist]]'
+  - '[[Become a Data Analyst]]'
+prev_courses:
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Finance Foundations]]'
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Introduction To Career Skills In Data Analytics]]'
+  - '[[Data Analytics for Students (2022)]]'
+  - '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+next_courses:
+  - '[[Data Analyst Mindset- 10 Nontechnical Ways to Influence Decisions]]'
+  - '[[Corporate Financial Statement Analysis (2023)]]'
+  - '[[Data Visualization for Data Analysts and Analytics]]'
+  - '[[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]]'
+  - '[[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]]'
+  - '[[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation","position":4,"total":9,"prev":"Statistics Foundations 2- Probability","next":"Data Analyst Mindset- 10 Nontechnical Ways to Influence Decisions"},{"path":"Explore a Career as a Financial Analyst","position":2,"total":5,"prev":"Finance Foundations","next":"Corporate Financial Statement Analysis (2023)"},{"path":"Explore a Career in Data Analysis","position":5,"total":6,"prev":"Statistics Foundations 2- Probability","next":"Data Visualization for Data Analysts and Analytics"},{"path":"Career Essentials in Data Analysis by Microsoft and LinkedIn","position":2,"total":5,"prev":"Introduction To Career Skills In Data Analytics","next":"Learning Data Analytics Part 2- Extending and Applying Core Knowledge"},{"path":"Become a Data Analytics Specialist","position":3,"total":10,"prev":"Data Analytics for Students (2022)","next":"Learning Data Analytics Part 2- Extending and Applying Core Knowledge"},{"path":"Become a Data Analyst","position":4,"total":12,"prev":"Data Literacy Exploring And Describing Data In An Ai World","next":"Learning Data Analytics Part 2- Extending and Applying Core Knowledge"}]'
 path_count: 6
 tags:
   - course
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Data Analytics: 1 Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQFGmlfFOyWc7g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618937081114?e=2147483647&amp;v=beta&amp;t=tR__EzRzVFkcrxKweGH00afFxibABElaYg0LeXaMNOk)

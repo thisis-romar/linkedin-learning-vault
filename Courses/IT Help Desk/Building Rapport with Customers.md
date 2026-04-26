@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQESfBoGiAHUmQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716227353597?e=2147483647&amp;v=beta&amp;t=H5HEhARw04KD8YLxLeiDaFxbiptwf5PCwLCphQ4Rwq0"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Build Your Skills In Customer Service
+  - '[[Build Your Skills In Customer Service]]'
+prev_courses:
+  - '[[Customer Service- Problem-Solving and Troubleshooting]]'
+next_courses:
+  - '[[Customer Service- Call Control Strategies]]'
+path_nav: '[{"path":"Build Your Skills In Customer Service","position":3,"total":8,"prev":"Customer Service- Problem-Solving and Troubleshooting","next":"Customer Service- Call Control Strategies"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/relationship-building
   - skill/customer-service
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Rapport with Customers](https://media.licdn.com/dms/image/v2/D4D0DAQESfBoGiAHUmQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716227353597?e=2147483647&amp;v=beta&amp;t=H5HEhARw04KD8YLxLeiDaFxbiptwf5PCwLCphQ4Rwq0)

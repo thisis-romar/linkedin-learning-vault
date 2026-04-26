@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQE4trVtIS12cQ/learning-public-crop_675_1200/B4EZYCpqvaHUBg-/0/1743801199895?e=2147483647&amp;v=beta&amp;t=qle6BzPzYkGlqj7MWxXc_bGk_GJX-ioQby0NL1hD8QY"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation in Practice- Virtual Collaboration Tools
+  - '[[Digital Transformation in Practice- Virtual Collaboration Tools]]'
+prev_courses:
+  - '[[Microsoft Collaboration- SharePoint, Teams, Groups, and Yammer]]'
+next_courses:
+  - '[[Learning PowerPoint Online (Microsoft 365)]]'
+path_nav: '[{"path":"Digital Transformation in Practice- Virtual Collaboration Tools","position":4,"total":9,"prev":"Microsoft Collaboration- SharePoint, Teams, Groups, and Yammer","next":"Learning PowerPoint Online (Microsoft 365)"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel Online (Microsoft 365): Work Smarter with Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQE4trVtIS12cQ/learning-public-crop_675_1200/B4EZYCpqvaHUBg-/0/1743801199895?e=2147483647&amp;v=beta&amp;t=qle6BzPzYkGlqj7MWxXc_bGk_GJX-ioQby0NL1hD8QY)

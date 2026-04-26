@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGGSQMsQIqtMg/learning-public-crop_675_1200/B56ZzpO54vKYAY-/0/1773439524748?e=2147483647&amp;v=beta&amp;t=LsN-eLVmmk3F8BOS4B4qyoTLUUoNajz8Nw_wkd54jwM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Responsible AI in a Global Context Professional Certificate by the United Nations University
+  - '[[Responsible AI in a Global Context Professional Certificate by the United Nations University]]'
+prev_courses:
+  - '[[Understanding Ai S Global Impact Governance Equity And Responsibility]]'
+next_courses:
+  - '[[AI in Action- Global Case Studies from Public Institutions]]'
+path_nav: '[{"path":"Responsible AI in a Global Context Professional Certificate by the United Nations University","position":2,"total":3,"prev":"Understanding Ai S Global Impact Governance Equity And Responsibility","next":"AI in Action- Global Case Studies from Public Institutions"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/ai-literacy
   - skill/ai-policy-governance-and-regulation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Responsible AI: Global Risks, Governance, and Human Oversight](https://media.licdn.com/dms/image/v2/D560DAQGGSQMsQIqtMg/learning-public-crop_675_1200/B56ZzpO54vKYAY-/0/1773439524748?e=2147483647&amp;v=beta&amp;t=LsN-eLVmmk3F8BOS4B4qyoTLUUoNajz8Nw_wkd54jwM)

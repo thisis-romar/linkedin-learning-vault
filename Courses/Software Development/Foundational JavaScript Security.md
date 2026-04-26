@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFTnZJFpUakJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621887367981?e=2147483647&amp;v=beta&amp;t=yaencqdRBWRKKsHReVSHhtw-WdQFF-pfMwgHC52k_Zg"
 linkedin_topic: Software Development
 learning_paths:
-  - Advance Your JavaScript Skills
+  - '[[Advance Your JavaScript Skills]]'
+prev_courses:
+  - '[[ESLint- Customizing Styles]]'
+next_courses:
+  - '[[Learning JavaScript Debugging]]'
+path_nav: '[{"path":"Advance Your JavaScript Skills","position":7,"total":10,"prev":"ESLint- Customizing Styles","next":"Learning JavaScript Debugging"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/software-development-security
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Foundational JavaScript Security](https://media.licdn.com/dms/image/v2/C560DAQFTnZJFpUakJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621887367981?e=2147483647&amp;v=beta&amp;t=yaencqdRBWRKKsHReVSHhtw-WdQFF-pfMwgHC52k_Zg)

@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEAM937wj_YFw/learning-public-crop_675_1200/B4EZmhagvaKgAc-/0/1759349705942?e=2147483647&amp;v=beta&amp;t=osBIZQ_mPdsSIrf1o4FOQgzgqEjMk_dwNhSZLUHE5O0"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Become a JavaScript Developer
+  - '[[Become a JavaScript Developer]]'
+prev_courses:
+  - '[[JavaScript- Scope]]'
+next_courses:
+  - '[[JavaScript- Closures]]'
+path_nav: '[{"path":"Become a JavaScript Developer","position":5,"total":13,"prev":"JavaScript- Scope","next":"JavaScript- Closures"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/software-prototyping
   - skill/prototype-framework
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Prototypes](https://media.licdn.com/dms/image/v2/D4E0DAQEAM937wj_YFw/learning-public-crop_675_1200/B4EZmhagvaKgAc-/0/1759349705942?e=2147483647&amp;v=beta&amp;t=osBIZQ_mPdsSIrf1o4FOQgzgqEjMk_dwNhSZLUHE5O0)

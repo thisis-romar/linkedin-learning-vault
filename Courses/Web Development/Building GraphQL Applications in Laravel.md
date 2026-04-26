@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQE3QENCPg-P-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664905998454?e=2147483647&amp;v=beta&amp;t=hrwbzw2DCv-YMLHurxVO7NfWGYeGb6_m3z-m2is56Ns"
 linkedin_topic: Web Development
 learning_paths:
-  - Build Your Laravel Skills
+  - '[[Build Your Laravel Skills]]'
+prev_courses:
+  - '[[Building RESTful APIs in Laravel]]'
+next_courses:
+  - '[[Essential Jigsaw for PHP and Laravel Developers]]'
+path_nav: '[{"path":"Build Your Laravel Skills","position":4,"total":7,"prev":"Building RESTful APIs in Laravel","next":"Essential Jigsaw for PHP and Laravel Developers"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/graphql
   - skill/laravel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building GraphQL Applications in Laravel](https://media.licdn.com/dms/image/v2/C560DAQE3QENCPg-P-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664905998454?e=2147483647&amp;v=beta&amp;t=hrwbzw2DCv-YMLHurxVO7NfWGYeGb6_m3z-m2is56Ns)

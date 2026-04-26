@@ -18,8 +18,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEifgzbCWI6eQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706120134449?e=2147483647&amp;v=beta&amp;t=vOw7WYdE3evt6MW_G87ovtjuEjtnixeIXChl4NblvpM"
 linkedin_topic: Data Science
 learning_paths:
-  - Develop Your SPSS Skills
-  - Data Science Professional Certificate by KNIME
+  - '[[Develop Your SPSS Skills]]'
+  - '[[Data Science Professional Certificate by KNIME]]'
+prev_courses:
+  - '[[Machine Learning & AI Foundations- Linear Regression]]'
+  - '[[Introduction To Artificial Intelligence]]'
+next_courses:
+  - '[[Machine Learning and AI Foundations- Decision Trees with SPSS]]'
+  - '[[Generative AI- Introduction to Large Language Models]]'
+path_nav: '[{"path":"Develop Your SPSS Skills","position":3,"total":6,"prev":"Machine Learning & AI Foundations- Linear Regression","next":"Machine Learning and AI Foundations- Decision Trees with SPSS"},{"path":"Data Science Professional Certificate by KNIME","position":4,"total":6,"prev":"Introduction To Artificial Intelligence","next":"Generative AI- Introduction to Large Language Models"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/data-classification
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning and AI Foundations: Classification Modeling](https://media.licdn.com/dms/image/v2/D4D0DAQEifgzbCWI6eQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706120134449?e=2147483647&amp;v=beta&amp;t=vOw7WYdE3evt6MW_G87ovtjuEjtnixeIXChl4NblvpM)

@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/advanced-c-sharp-language-features-
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGZRKLVLjW08A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661448132171?e=2147483647&amp;v=beta&amp;t=ohKgw-T9t0eODNybZqySudQaC5NRnE207Di0-UpJqdw"
 linkedin_topic: Software Development
 learning_paths:
-  - C- Excellence- Architecting High-Performance Solutions
+  - '[[C- Excellence- Architecting High-Performance Solutions]]'
+prev_courses:
+  - '[[C- Applied Data Structures]]'
+next_courses:
+  - '[[Advanced C- Object-Oriented Programming]]'
+path_nav: '[{"path":"C- Excellence- Architecting High-Performance Solutions","position":3,"total":6,"prev":"C- Applied Data Structures","next":"Advanced C- Object-Oriented Programming"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced C#: Language Features](https://media.licdn.com/dms/image/v2/C4E0DAQGZRKLVLjW08A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661448132171?e=2147483647&amp;v=beta&amp;t=ohKgw-T9t0eODNybZqySudQaC5NRnE207Di0-UpJqdw)

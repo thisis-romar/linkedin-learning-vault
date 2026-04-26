@@ -16,7 +16,10 @@ github: "https://github.com/LinkedInLearning/learning-bitbucket-3821269"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF4xJfvchWt8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713919407092?e=2147483647&amp;v=beta&amp;t=1onNT12ubSmwBPuB-SfMrbY3o_mINODQr1Xwk0X1Ppw"
 linkedin_topic: DevOps
 learning_paths:
-  - Master Bitbucket
+  - '[[Master Bitbucket]]'
+next_courses:
+  - '[[Bitbucket Pipelines for CI-CD]]'
+path_nav: '[{"path":"Master Bitbucket","position":1,"total":3,"prev":null,"next":"Bitbucket Pipelines for CI-CD"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/bitbucket
   - skill/version-control
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Bitbucket](https://media.licdn.com/dms/image/v2/D560DAQF4xJfvchWt8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713919407092?e=2147483647&amp;v=beta&amp;t=1onNT12ubSmwBPuB-SfMrbY3o_mINODQr1Xwk0X1Ppw)

@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE4mMCTFW78Lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712791908525?e=2147483647&amp;v=beta&amp;t=aE2ZVLXxqea9VlEVjsqxpJMUPc2klkwCdzeqp6Wo6VI"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Network Administration- Build Core Skills for Network Management and Security
+  - '[[Network Administration- Build Core Skills for Network Management and Security]]'
+prev_courses:
+  - '[[Networking Foundations- Local Area Networks (LANs)]]'
+next_courses:
+  - '[[Learning Network Troubleshooting- Practical Network Diagnostics and Solutions]]'
+path_nav: '[{"path":"Network Administration- Build Core Skills for Network Management and Security","position":4,"total":6,"prev":"Networking Foundations- Local Area Networks (LANs)","next":"Learning Network Troubleshooting- Practical Network Diagnostics and Solutions"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/network-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Networking Foundations: Wide Area Networks (WANs)](https://media.licdn.com/dms/image/v2/D560DAQE4mMCTFW78Lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712791908525?e=2147483647&amp;v=beta&amp;t=aE2ZVLXxqea9VlEVjsqxpJMUPc2klkwCdzeqp6Wo6VI)

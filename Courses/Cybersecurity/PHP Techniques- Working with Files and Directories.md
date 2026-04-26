@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/php-techniques-working-with-files-a
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGj8JmjPhirmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614274556817?e=2147483647&amp;v=beta&amp;t=UG_vYIh5xc7hhvK1rF38vblBaacd4SVgMGg26mQ-rnA"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your PHP Skills
+  - '[[Advance Your PHP Skills]]'
+prev_courses:
+  - '[[Functional Programming with PHP]]'
+next_courses:
+  - '[[PHP- Creating Secure Websites]]'
+path_nav: '[{"path":"Advance Your PHP Skills","position":3,"total":7,"prev":"Functional Programming with PHP","next":"PHP- Creating Secure Websites"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![PHP Techniques: Working with Files and Directories](https://media.licdn.com/dms/image/v2/C4E0DAQGj8JmjPhirmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614274556817?e=2147483647&amp;v=beta&amp;t=UG_vYIh5xc7hhvK1rF38vblBaacd4SVgMGg26mQ-rnA)

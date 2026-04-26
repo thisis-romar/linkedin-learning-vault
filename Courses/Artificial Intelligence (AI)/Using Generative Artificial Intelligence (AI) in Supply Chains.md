@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQF9ucHY4dxgRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732151189246?e=2147483647&amp;v=beta&amp;t=PFWwhxdXJNw8AC02V5RU7d4XMXlyO71fqIpu_SGX7gM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Generative AI for Supply Chain Professional Certificate by CSCMP
+  - '[[Generative AI for Supply Chain Professional Certificate by CSCMP]]'
+prev_courses:
+  - '[[Artificial Intelligence Foundations Thinking Machines]]'
+next_courses:
+  - '[[Artificial Intelligence and Business Strategy]]'
+path_nav: '[{"path":"Generative AI for Supply Chain Professional Certificate by CSCMP","position":2,"total":4,"prev":"Artificial Intelligence Foundations Thinking Machines","next":"Artificial Intelligence and Business Strategy"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using Generative Artificial Intelligence (AI) in Supply Chains](https://media.licdn.com/dms/image/v2/D4D0DAQF9ucHY4dxgRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732151189246?e=2147483647&amp;v=beta&amp;t=PFWwhxdXJNw8AC02V5RU7d4XMXlyO71fqIpu_SGX7gM)

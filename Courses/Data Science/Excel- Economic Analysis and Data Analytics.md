@@ -18,9 +18,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEUJ-Ci6MPFfw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661535762212?e=2147483647&amp;v=beta&amp;t=NcaEOj-bOz2znNG-TVykvQUZhKcd9aPYJ-LYduPRBkg"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Business Intelligence Specialist
-  - Become a Data Analytics Specialist
-  - Master Advanced Excel Data & Analytics Skills
+  - '[[Become a Business Intelligence Specialist]]'
+  - '[[Become a Data Analytics Specialist]]'
+  - '[[Master Advanced Excel Data & Analytics Skills]]'
+prev_courses:
+  - '[[Data Analytics for Business Professionals]]'
+  - '[[Statistics Foundations 2- Probability]]'
+  - '[[Machine Learning with Logistic Regression in Excel, R, and Power BI]]'
+next_courses:
+  - '[[Power Bi Essential Training]]'
+  - '[[Excel and ChatGPT- Data Analysis Power Tips]]'
+  - null
+path_nav: '[{"path":"Become a Business Intelligence Specialist","position":3,"total":9,"prev":"Data Analytics for Business Professionals","next":"Power Bi Essential Training"},{"path":"Become a Data Analytics Specialist","position":8,"total":10,"prev":"Statistics Foundations 2- Probability","next":"Excel and ChatGPT- Data Analysis Power Tips"},{"path":"Master Advanced Excel Data & Analytics Skills","position":7,"total":7,"prev":"Machine Learning with Logistic Regression in Excel, R, and Power BI","next":null}]'
 path_count: 3
 tags:
   - course
@@ -29,7 +38,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel: Economic Analysis and Data Analytics](https://media.licdn.com/dms/image/v2/C560DAQEUJ-Ci6MPFfw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661535762212?e=2147483647&amp;v=beta&amp;t=NcaEOj-bOz2znNG-TVykvQUZhKcd9aPYJ-LYduPRBkg)

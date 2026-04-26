@@ -16,8 +16,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGpN01DNvFKCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008952462?e=2147483647&amp;v=beta&amp;t=qQRo8X3UPedx88r4iGvp584FHqrvDAicllcC1VMXjPE"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career in SQL Development
-  - The Top Skills IT Professionals Have Right Now
+  - '[[Explore a Career in SQL Development]]'
+  - '[[The Top Skills IT Professionals Have Right Now]]'
+prev_courses:
+  - '[[SQL Queries Made Easy]]'
+  - '[[Windows Server 2022 Essential Training]]'
+next_courses:
+  - '[[SQL for Data Analysis]]'
+  - '[[Microsoft Entra ID Fundamentals]]'
+path_nav: '[{"path":"Explore a Career in SQL Development","position":4,"total":8,"prev":"SQL Queries Made Easy","next":"SQL for Data Analysis"},{"path":"The Top Skills IT Professionals Have Right Now","position":3,"total":10,"prev":"Windows Server 2022 Essential Training","next":"Microsoft Entra ID Fundamentals"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - topic/network-and-system-administration
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL Server Intelligence: Cracking the Code of Enterprise Data](https://media.licdn.com/dms/image/v2/D560DAQGpN01DNvFKCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008952462?e=2147483647&amp;v=beta&amp;t=qQRo8X3UPedx88r4iGvp584FHqrvDAicllcC1VMXjPE)

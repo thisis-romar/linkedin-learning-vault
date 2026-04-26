@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQE4WnKanzjiBQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1593548371327?e=2147483647&amp;v=beta&amp;t=KCO5_GRzgcXTOJdYtnhpa45B558wz3UxCHM70MaY878"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Data Privacy Skills
+  - '[[Advance Your Data Privacy Skills]]'
+prev_courses:
+  - '[[Understanding and Prioritizing Data Privacy]]'
+next_courses:
+  - '[[Privacy Strategies for Business Leaders]]'
+path_nav: '[{"path":"Advance Your Data Privacy Skills","position":2,"total":4,"prev":"Understanding and Prioritizing Data Privacy","next":"Privacy Strategies for Business Leaders"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/data-privacy
   - skill/privacy
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Privacy in the New World of Work](https://media.licdn.com/dms/image/v2/C4E0DAQE4WnKanzjiBQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1593548371327?e=2147483647&amp;v=beta&amp;t=KCO5_GRzgcXTOJdYtnhpa45B558wz3UxCHM70MaY878)

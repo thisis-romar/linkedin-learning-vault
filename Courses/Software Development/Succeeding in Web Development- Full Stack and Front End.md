@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGSgJonDDHLXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568221370458?e=2147483647&amp;v=beta&amp;t=Gc9Ftpd56aUq25dJ5Nt4cqzWboQiNRtosDWA741-hUk"
 linkedin_topic: Software Development
 learning_paths:
-  - Managing your Career as a Developer
-  - Become a Software Developer
+  - '[[Managing your Career as a Developer]]'
+  - '[[Become a Software Developer]]'
+prev_courses:
+  - '[[Get Ready for Your Coding Interview]]'
+  - '[[Programming Foundations Databases]]'
+next_courses:
+  - '[[Tech Career Skills- Effective Technical Communication]]'
+  - '[[HTML Essential Training]]'
+path_nav: '[{"path":"Managing your Career as a Developer","position":3,"total":8,"prev":"Get Ready for Your Coding Interview","next":"Tech Career Skills- Effective Technical Communication"},{"path":"Become a Software Developer","position":3,"total":12,"prev":"Programming Foundations Databases","next":"HTML Essential Training"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/front-end-development
   - skill/full-stack-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Succeeding in Web Development: Full Stack and Front End](https://media.licdn.com/dms/image/v2/C4E0DAQGSgJonDDHLXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568221370458?e=2147483647&amp;v=beta&amp;t=Gc9Ftpd56aUq25dJ5Nt4cqzWboQiNRtosDWA741-hUk)

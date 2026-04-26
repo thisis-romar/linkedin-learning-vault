@@ -6,7 +6,7 @@ course_count: 6
 tags:
   - skill
   - skill/ai-prompting
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # AI Prompting

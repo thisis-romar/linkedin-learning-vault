@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHyOsbWDqUGRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583864158635?e=2147483647&amp;v=beta&amp;t=jtXTVXlkachlU3_xF_RhinGDYhgBQzQyfogOEoV-eNQ"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills in WordPress
+  - '[[Advance Your Skills in WordPress]]'
+prev_courses:
+  - '[[WordPress- Everything about Plugins]]'
+next_courses:
+  - '[[Building a Headless WordPress Site with Gatsby]]'
+path_nav: '[{"path":"Advance Your Skills in WordPress","position":7,"total":8,"prev":"WordPress- Everything about Plugins","next":"Building a Headless WordPress Site with Gatsby"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/rest-apis
   - skill/wordpress
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![WordPress: REST API](https://media.licdn.com/dms/image/v2/C4E0DAQHyOsbWDqUGRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583864158635?e=2147483647&amp;v=beta&amp;t=jtXTVXlkachlU3_xF_RhinGDYhgBQzQyfogOEoV-eNQ)

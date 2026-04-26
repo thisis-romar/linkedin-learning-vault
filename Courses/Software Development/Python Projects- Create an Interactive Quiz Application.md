@@ -17,14 +17,19 @@ github: "https://github.com/LinkedInLearning/python-project-build-a-quiz-applica
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQGKo6zGY36bbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654623850850?e=2147483647&amp;v=beta&amp;t=gNaxGv6pIADVIe5Blt508ioprQKgbSb7VpHRhj0odvk"
 linkedin_topic: Software Development
 learning_paths:
-  - Python Hands-On Practice
+  - '[[Python Hands-On Practice]]'
+prev_courses:
+  - '[[Building the Classic Snake Game with Python]]'
+next_courses:
+  - '[[Create an Open-Source Project in Python]]'
+path_nav: '[{"path":"Python Hands-On Practice","position":7,"total":14,"prev":"Building the Classic Snake Game with Python","next":"Create an Open-Source Project in Python"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python Projects: Create an Interactive Quiz Application](https://media.licdn.com/dms/image/v2/C4D0DAQGKo6zGY36bbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654623850850?e=2147483647&amp;v=beta&amp;t=gNaxGv6pIADVIe5Blt508ioprQKgbSb7VpHRhj0odvk)

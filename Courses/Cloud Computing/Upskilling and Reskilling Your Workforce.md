@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFhD_OuncZ-Jw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679936202959?e=2147483647&amp;v=beta&amp;t=bLfkcv-TfSlg-4wolH9OhFdaaiFzWnPhaJ6GfBdK3vE"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance Your Digital Transformation Strategy as a Leader
+  - '[[Advance Your Digital Transformation Strategy as a Leader]]'
+prev_courses:
+  - '[[Digital Strategy]]'
+next_courses:
+  - '[[Artificial Intelligence and Business Strategy]]'
+path_nav: '[{"path":"Advance Your Digital Transformation Strategy as a Leader","position":3,"total":6,"prev":"Digital Strategy","next":"Artificial Intelligence and Business Strategy"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Upskilling and Reskilling Your Workforce](https://media.licdn.com/dms/image/v2/C4D0DAQFhD_OuncZ-Jw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679936202959?e=2147483647&amp;v=beta&amp;t=bLfkcv-TfSlg-4wolH9OhFdaaiFzWnPhaJ6GfBdK3vE)

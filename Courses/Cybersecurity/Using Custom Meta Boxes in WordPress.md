@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEaanmvNCpt1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639506601351?e=2147483647&amp;v=beta&amp;t=dlaorsXV1vwvvGA0QOX7u_FiZQNZzvVQRAL5JENCi2w"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills in WordPress
+  - '[[Advance Your Skills in WordPress]]'
+prev_courses:
+  - '[[WordPress- Custom Post Types and Taxonomies]]'
+next_courses:
+  - '[[WordPress Essential Training]]'
+path_nav: '[{"path":"Advance Your Skills in WordPress","position":4,"total":8,"prev":"WordPress- Custom Post Types and Taxonomies","next":"WordPress Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using Custom Meta Boxes in WordPress](https://media.licdn.com/dms/image/v2/C560DAQEaanmvNCpt1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639506601351?e=2147483647&amp;v=beta&amp;t=dlaorsXV1vwvvGA0QOX7u_FiZQNZzvVQRAL5JENCi2w)

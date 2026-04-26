@@ -14,14 +14,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFMvK6jFJDP4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668594063?e=2147483647&amp;v=beta&amp;t=rVse8dIvNYLgdeYd3YbWuwITB7_j02NoPcOaS8oAP3w"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Thought Leadership
+  - '[[Advance Your Thought Leadership]]'
+prev_courses:
+  - '[[The Step-by-Step Guide to Building your Thought Leadership on LinkedIn]]'
+next_courses:
+  - '[[Writing and Delivering Speeches]]'
+path_nav: '[{"path":"Advance Your Thought Leadership","position":3,"total":7,"prev":"The Step-by-Step Guide to Building your Thought Leadership on LinkedIn","next":"Writing and Delivering Speeches"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/personal-branding
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Creating Your Personal Brand](https://media.licdn.com/dms/image/v2/C4E0DAQFMvK6jFJDP4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668594063?e=2147483647&amp;v=beta&amp;t=rVse8dIvNYLgdeYd3YbWuwITB7_j02NoPcOaS8oAP3w)

@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHOd90QzPFHDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719429105265?e=2147483647&amp;v=beta&amp;t=CEKCl25X6pQyYKTlQiYXsstNjrrLyyjXSIbknSmWdg4"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Explore a Career in Application Security
-  - Become a Penetration Tester
+  - '[[Explore a Career in Application Security]]'
+  - '[[Become a Penetration Tester]]'
+prev_courses:
+  - '[[Cybersecurity Foundations Application Security]]'
+  - '[[Introduction to Pen Testing for Cybersecurity Professionals]]'
+next_courses:
+  - '[[Learning the OWASP Top 10]]'
+  - '[[Kali Linux for Advanced Pen Testing and Ethical Hacking]]'
+path_nav: '[{"path":"Explore a Career in Application Security","position":2,"total":7,"prev":"Cybersecurity Foundations Application Security","next":"Learning the OWASP Top 10"},{"path":"Become a Penetration Tester","position":3,"total":8,"prev":"Introduction to Pen Testing for Cybersecurity Professionals","next":"Kali Linux for Advanced Pen Testing and Ethical Hacking"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/penetration-testing
   - skill/kali-linux
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Penetration Testing Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHOd90QzPFHDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719429105265?e=2147483647&amp;v=beta&amp;t=CEKCl25X6pQyYKTlQiYXsstNjrrLyyjXSIbknSmWdg4)

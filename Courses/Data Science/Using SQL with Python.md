@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGiI_t79dOGAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1625163615628?e=2147483647&amp;v=beta&amp;t=pQr5XOi4Bk-rNA3MbfDDQrBd78EvZXnYNWPe3jjmR-g"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Skills in SQL
+  - '[[Advance Your Skills in SQL]]'
+prev_courses:
+  - '[[Data Analysis- Investigate with SQL]]'
+next_courses:
+  - '[[Hands-On SQL Challenges- Test Your Knowledge]]'
+path_nav: '[{"path":"Advance Your Skills in SQL","position":4,"total":5,"prev":"Data Analysis- Investigate with SQL","next":"Hands-On SQL Challenges- Test Your Knowledge"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/python-programming-language
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Using SQL with Python](https://media.licdn.com/dms/image/v2/C560DAQGiI_t79dOGAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1625163615628?e=2147483647&amp;v=beta&amp;t=pQr5XOi4Bk-rNA3MbfDDQrBd78EvZXnYNWPe3jjmR-g)

@@ -17,7 +17,10 @@ github: "https://github.com/LinkedInLearning/continuous-integration-tools-449024
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQF_XV39CwrXiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702073152131?e=2147483647&amp;v=beta&amp;t=PArj2EExCoyrMjjDLxpN6FpMfIxXkw62Yc0W0KhhHBQ"
 linkedin_topic: DevOps
 learning_paths:
-  - Getting Started with Continuous Integration - Continuous Delivery (CI-CD)
+  - '[[Getting Started with Continuous Integration - Continuous Delivery (CI-CD)]]'
+prev_courses:
+  - '[[DevOps Foundations- Continuous Delivery-Continuous Integration]]'
+path_nav: '[{"path":"Getting Started with Continuous Integration - Continuous Delivery (CI-CD)","position":3,"total":3,"prev":"DevOps Foundations- Continuous Delivery-Continuous Integration","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - topic/software-development
   - skill/continuous-integration-ci
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Continuous Integration: Tools](https://media.licdn.com/dms/image/v2/D4D0DAQF_XV39CwrXiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702073152131?e=2147483647&amp;v=beta&amp;t=PArj2EExCoyrMjjDLxpN6FpMfIxXkw62Yc0W0KhhHBQ)

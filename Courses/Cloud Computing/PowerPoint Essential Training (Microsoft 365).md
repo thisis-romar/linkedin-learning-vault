@@ -16,8 +16,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHhQprOM4LglA/learning-public-crop_675_1200/B4DZetPlITGkAc-/0/1750958232896?e=2147483647&amp;v=beta&amp;t=K1rZ7iQA6LiuBZmipVqTmYCnC8tW5mmy1PD2QVqoLnI"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Getting Started as a Business Analyst
-  - Working Smarter with Microsoft 365
+  - '[[Getting Started as a Business Analyst]]'
+  - '[[Working Smarter with Microsoft 365]]'
+prev_courses:
+  - '[[Word Essential Training (Microsoft 365) (2023)]]'
+  - '[[Outlook Essential Training (Microsoft 365)]]'
+next_courses:
+  - '[[Data Science Foundations- Fundamentals]]'
+  - '[[Word Essential Training (Microsoft 365) (2023)]]'
+path_nav: '[{"path":"Getting Started as a Business Analyst","position":12,"total":18,"prev":"Word Essential Training (Microsoft 365) (2023)","next":"Data Science Foundations- Fundamentals"},{"path":"Working Smarter with Microsoft 365","position":3,"total":9,"prev":"Outlook Essential Training (Microsoft 365)","next":"Word Essential Training (Microsoft 365) (2023)"}]'
 path_count: 2
 tags:
   - course
@@ -25,7 +32,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![PowerPoint Essential Training (Microsoft 365)](https://media.licdn.com/dms/image/v2/D4D0DAQHhQprOM4LglA/learning-public-crop_675_1200/B4DZetPlITGkAc-/0/1750958232896?e=2147483647&amp;v=beta&amp;t=K1rZ7iQA6LiuBZmipVqTmYCnC8tW5mmy1PD2QVqoLnI)

@@ -18,10 +18,21 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEv0QXZlJat7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633371437602?e=2147483647&amp;v=beta&amp;t=Ux0MgiDufbCMgW393JLr2OFJWXK08s-q_beryGUuv1Y"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Improve Your Programming Skills with Artificial Intelligence
-  - Fundamentals to Become a Machine Learning Engineer
-  - Develop with Python for AI and Machine Learning
-  - Machine Learning with Python Professional Certificate by Anaconda
+  - '[[Improve Your Programming Skills with Artificial Intelligence]]'
+  - '[[Fundamentals to Become a Machine Learning Engineer]]'
+  - '[[Develop with Python for AI and Machine Learning]]'
+  - '[[Machine Learning with Python Professional Certificate by Anaconda]]'
+prev_courses:
+  - '[[Hands On Ai Build Your Own Gpts]]'
+  - '[[Artificial Intelligence Foundations- Machine Learning]]'
+  - null
+  - '[[Artificial Intelligence Foundations- Machine Learning]]'
+next_courses:
+  - '[[AI Pair Programming with GitHub Copilot]]'
+  - '[[Deep Learning Getting Started]]'
+  - '[[Machine Learning with Python- Decision Trees]]'
+  - '[[Machine Learning with Python- Decision Trees]]'
+path_nav: '[{"path":"Improve Your Programming Skills with Artificial Intelligence","position":2,"total":4,"prev":"Hands On Ai Build Your Own Gpts","next":"AI Pair Programming with GitHub Copilot"},{"path":"Fundamentals to Become a Machine Learning Engineer","position":3,"total":7,"prev":"Artificial Intelligence Foundations- Machine Learning","next":"Deep Learning Getting Started"},{"path":"Develop with Python for AI and Machine Learning","position":1,"total":6,"prev":null,"next":"Machine Learning with Python- Decision Trees"},{"path":"Machine Learning with Python Professional Certificate by Anaconda","position":2,"total":6,"prev":"Artificial Intelligence Foundations- Machine Learning","next":"Machine Learning with Python- Decision Trees"}]'
 path_count: 4
 tags:
   - course
@@ -32,7 +43,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Machine Learning with Python: Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQEv0QXZlJat7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633371437602?e=2147483647&amp;v=beta&amp;t=Ux0MgiDufbCMgW393JLr2OFJWXK08s-q_beryGUuv1Y)

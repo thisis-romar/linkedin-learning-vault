@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEdQs8tEi3FdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615392756499?e=2147483647&amp;v=beta&amp;t=Se2aa2cjWXeW7y6Vuk6GJd6DwG5nm1nmpoTjHHlm7PY"
 linkedin_topic: Hardware
 learning_paths:
-  - Become a PLC Developer
+  - '[[Become a PLC Developer]]'
+prev_courses:
+  - '[[Learning PLC Ladder Logic- 2 Diving Deeper]]'
+next_courses:
+  - '[[PLC Sequencer Logic]]'
+path_nav: '[{"path":"Become a PLC Developer","position":4,"total":7,"prev":"Learning PLC Ladder Logic- 2 Diving Deeper","next":"PLC Sequencer Logic"}]'
 path_count: 1
 tags:
   - course
   - topic/hardware
   - skill/programmable-logic-controller-plc
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![PLC Memory Organization](https://media.licdn.com/dms/image/v2/C560DAQEdQs8tEi3FdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615392756499?e=2147483647&amp;v=beta&amp;t=Se2aa2cjWXeW7y6Vuk6GJd6DwG5nm1nmpoTjHHlm7PY)

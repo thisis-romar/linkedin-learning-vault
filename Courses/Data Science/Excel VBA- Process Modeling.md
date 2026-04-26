@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQEUy0jEcpcUag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736873904835?e=2147483647&amp;v=beta&amp;t=GPw7nylx4w8IRMiBsu-IWeWPr9sq0ZOn2dPJ9JY03uM"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Advanced Excel Data & Analytics Skills
+  - '[[Master Advanced Excel Data & Analytics Skills]]'
+prev_courses:
+  - '[[Excel Vba Managing Files And Data]]'
+next_courses:
+  - '[[Excel- Working Together with Power Query and Power Pivot]]'
+path_nav: '[{"path":"Master Advanced Excel Data & Analytics Skills","position":2,"total":7,"prev":"Excel Vba Managing Files And Data","next":"Excel- Working Together with Power Query and Power Pivot"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/data-modeling
   - skill/visual-basic-for-applications-vba
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel VBA: Process Modeling](https://media.licdn.com/dms/image/v2/D4E0DAQEUy0jEcpcUag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736873904835?e=2147483647&amp;v=beta&amp;t=GPw7nylx4w8IRMiBsu-IWeWPr9sq0ZOn2dPJ9JY03uM)

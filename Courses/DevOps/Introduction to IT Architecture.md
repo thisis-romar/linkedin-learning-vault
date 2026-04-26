@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHwwD_EPkpNgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731958777051?e=2147483647&amp;v=beta&amp;t=LGwx1QQYRs-WV97g470yotwvzI-s64dKDmQhWq26hl0"
 linkedin_topic: DevOps
 learning_paths:
-  - ServiceNow IT Leadership Professional Certificate
+  - '[[ServiceNow IT Leadership Professional Certificate]]'
+prev_courses:
+  - '[[Program Management for IT Professionals]]'
+next_courses:
+  - '[[Creating Your IT Strategy]]'
+path_nav: '[{"path":"ServiceNow IT Leadership Professional Certificate","position":3,"total":4,"prev":"Program Management for IT Professionals","next":"Creating Your IT Strategy"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-architectures
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to IT Architecture](https://media.licdn.com/dms/image/v2/D4D0DAQHwwD_EPkpNgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731958777051?e=2147483647&amp;v=beta&amp;t=LGwx1QQYRs-WV97g470yotwvzI-s64dKDmQhWq26hl0)

@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEI1QCg-imRVA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674690058269?e=2147483647&amp;v=beta&amp;t=jxwV9VVZhc355LQwC9vxpX_zvJCWeHMaio-0Vjxhosw"
 linkedin_topic: Data Science
 learning_paths:
-  - Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)
+  - '[[Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)]]'
+prev_courses:
+  - '[[Excel Essential Training (Microsoft 365)]]'
+next_courses:
+  - '[[Excel- Advanced Formulas and Functions (2023)]]'
+path_nav: '[{"path":"Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)","position":2,"total":7,"prev":"Excel Essential Training (Microsoft 365)","next":"Excel- Advanced Formulas and Functions (2023)"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel: Tips and Tricks (2023)](https://media.licdn.com/dms/image/v2/C560DAQEI1QCg-imRVA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674690058269?e=2147483647&amp;v=beta&amp;t=jxwV9VVZhc355LQwC9vxpX_zvJCWeHMaio-0Vjxhosw)

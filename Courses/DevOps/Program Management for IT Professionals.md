@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGAaPwbKK5H7A/learning-public-crop_675_1200/B4EZXYzA3CGwAY-/0/1743099007570?e=2147483647&amp;v=beta&amp;t=6lkj4hK99tmMNTxu-FDTrf_CtWFYk6N4dOaox8JhWVY"
 linkedin_topic: DevOps
 learning_paths:
-  - ServiceNow IT Leadership Professional Certificate
+  - '[[ServiceNow IT Leadership Professional Certificate]]'
+prev_courses:
+  - '[[Succeeding As A First Time Tech Manager]]'
+next_courses:
+  - '[[Introduction to IT Architecture]]'
+path_nav: '[{"path":"ServiceNow IT Leadership Professional Certificate","position":2,"total":4,"prev":"Succeeding As A First Time Tech Manager","next":"Introduction to IT Architecture"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/it-project-program-management
   - skill/program-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Program Management for IT Professionals](https://media.licdn.com/dms/image/v2/D4E0DAQGAaPwbKK5H7A/learning-public-crop_675_1200/B4EZXYzA3CGwAY-/0/1743099007570?e=2147483647&amp;v=beta&amp;t=6lkj4hK99tmMNTxu-FDTrf_CtWFYk6N4dOaox8JhWVY)

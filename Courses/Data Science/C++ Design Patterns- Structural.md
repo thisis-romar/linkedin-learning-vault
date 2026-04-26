@@ -19,7 +19,12 @@ github: "https://github.com/LinkedInLearning/cpp-design-patterns-structural-4360
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH8V651keIfeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683141155361?e=2147483647&amp;v=beta&amp;t=-vEFGmbj6Pe1-qJWo9ikuPCbS2snbhPNq00Znajvsic"
 linkedin_topic: Data Science
 learning_paths:
-  - C++ Programming Professional Certificate by OpenEDG C++ Institute
+  - '[[C++ Programming Professional Certificate by OpenEDG C++ Institute]]'
+prev_courses:
+  - '[[C Plus Plus Essential Training]]'
+next_courses:
+  - '[[C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices]]'
+path_nav: '[{"path":"C++ Programming Professional Certificate by OpenEDG C++ Institute","position":2,"total":3,"prev":"C Plus Plus Essential Training","next":"C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C++ Design Patterns: Structural](https://media.licdn.com/dms/image/v2/D560DAQH8V651keIfeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683141155361?e=2147483647&amp;v=beta&amp;t=-vEFGmbj6Pe1-qJWo9ikuPCbS2snbhPNq00Znajvsic)

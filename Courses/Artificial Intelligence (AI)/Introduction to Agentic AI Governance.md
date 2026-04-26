@@ -10,14 +10,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFdsz-QjWmURQ/learning-public-crop_675_1200/B4EZeyKqqoGcAY-/0/1751040830902?e=2147483647&amp;v=beta&amp;t=QilXymGvljMeZ4VTwDd4Ls4rvjOyOG-fLZ89eh3vR9s"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Responsible AI at Work- Literacy, Ethics, and More
+  - '[[Responsible AI at Work- Literacy, Ethics, and More]]'
+prev_courses:
+  - '[[Responsible AI- Principles and Practical Applications]]'
+path_nav: '[{"path":"Responsible AI at Work- Literacy, Ethics, and More","position":6,"total":6,"prev":"Responsible AI- Principles and Practical Applications","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/artificial-intelligence
   - topic/security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Agentic AI Governance](https://media.licdn.com/dms/image/v2/D4E0DAQFdsz-QjWmURQ/learning-public-crop_675_1200/B4EZeyKqqoGcAY-/0/1751040830902?e=2147483647&amp;v=beta&amp;t=QilXymGvljMeZ4VTwDd4Ls4rvjOyOG-fLZ89eh3vR9s)

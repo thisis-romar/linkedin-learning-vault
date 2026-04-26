@@ -19,8 +19,15 @@ github: "https://github.com/LinkedInLearning/programming-foundations-algorithms-
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHrmMscOqmJOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704914636714?e=2147483647&amp;v=beta&amp;t=u221U4Srj9b85W3JgUWJarMYQ_8fpP6l0uvuIPYOH08"
 linkedin_topic: Software Development
 learning_paths:
-  - The Top 10 Most Popular Courses among Engineering Professionals
-  - Become a Programmer- Foundations
+  - '[[The Top 10 Most Popular Courses among Engineering Professionals]]'
+  - '[[Become a Programmer- Foundations]]'
+prev_courses:
+  - '[[SQL Essential Training]]'
+  - '[[Programming Foundations- Object-Oriented Design]]'
+next_courses:
+  - null
+  - '[[Programming Foundations- Data Structures]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among Engineering Professionals","position":10,"total":10,"prev":"SQL Essential Training","next":null},{"path":"Become a Programmer- Foundations","position":4,"total":12,"prev":"Programming Foundations- Object-Oriented Design","next":"Programming Foundations- Data Structures"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/algorithm-design
   - skill/programming-foundations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations: Algorithms](https://media.licdn.com/dms/image/v2/D560DAQHrmMscOqmJOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704914636714?e=2147483647&amp;v=beta&amp;t=u221U4Srj9b85W3JgUWJarMYQ_8fpP6l0uvuIPYOH08)

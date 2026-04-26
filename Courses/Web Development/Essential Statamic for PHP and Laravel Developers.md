@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGUTB7Y-sJXRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634058104737?e=2147483647&amp;v=beta&amp;t=VOxuMek11V5ezz3nQ64WpjG0zsxcAadDL7YInZuGr4o"
 linkedin_topic: Web Development
 learning_paths:
-  - Build Your Laravel Skills
+  - '[[Build Your Laravel Skills]]'
+prev_courses:
+  - '[[Essential Jigsaw for PHP and Laravel Developers]]'
+next_courses:
+  - '[[Winter CMS with Laravel]]'
+path_nav: '[{"path":"Build Your Laravel Skills","position":6,"total":7,"prev":"Essential Jigsaw for PHP and Laravel Developers","next":"Winter CMS with Laravel"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/laravel
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Essential Statamic for PHP and Laravel Developers](https://media.licdn.com/dms/image/v2/C560DAQGUTB7Y-sJXRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634058104737?e=2147483647&amp;v=beta&amp;t=VOxuMek11V5ezz3nQ64WpjG0zsxcAadDL7YInZuGr4o)

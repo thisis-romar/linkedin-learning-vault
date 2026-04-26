@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFJbkeDZ7SFsQ/learning-public-crop_675_1200/B4EZoYEE94J0AY-/0/1761340314316?e=2147483647&amp;v=beta&amp;t=n6xZbdij6Uw6pzM0-oagh74Ahfsm2t2Qc954OfXtfyg"
 linkedin_topic: DevOps
 learning_paths:
-  - Develop Your Skills as a Software Project Manager
+  - '[[Develop Your Skills as a Software Project Manager]]'
+prev_courses:
+  - '[[Agile Foundations]]'
+next_courses:
+  - '[[Planning and Releasing Software with Jira]]'
+path_nav: '[{"path":"Develop Your Skills as a Software Project Manager","position":8,"total":11,"prev":"Agile Foundations","next":"Planning and Releasing Software with Jira"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/jira
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Jira Software](https://media.licdn.com/dms/image/v2/D4E0DAQFJbkeDZ7SFsQ/learning-public-crop_675_1200/B4EZoYEE94J0AY-/0/1761340314316?e=2147483647&amp;v=beta&amp;t=n6xZbdij6Uw6pzM0-oagh74Ahfsm2t2Qc954OfXtfyg)

@@ -31,7 +31,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Understanding Quantum Computing
@@ -52,3 +52,7 @@ created: '2026-04-20'
 
 - [[Cloud Computing]]
 - [[Cybersecurity]]
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

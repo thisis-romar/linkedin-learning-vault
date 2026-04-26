@@ -16,14 +16,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHiJqYpnxTctg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1585335032598?e=2147483647&amp;v=beta&amp;t=-t3t_VkryHvPuukgUbyVtBqxD7TOj3CaGAWKLhTlWWU"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Advance Your Skills as an IT Help Desk Specialist
+  - '[[Advance Your Skills as an IT Help Desk Specialist]]'
+prev_courses:
+  - '[[Working with Upset Customers]]'
+path_nav: '[{"path":"Advance Your Skills as an IT Help Desk Specialist","position":11,"total":11,"prev":"Working with Upset Customers","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/it-help-desk
   - skill/customer-service
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Innovative Customer Service Techniques](https://media.licdn.com/dms/image/v2/C4E0DAQHiJqYpnxTctg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1585335032598?e=2147483647&amp;v=beta&amp;t=-t3t_VkryHvPuukgUbyVtBqxD7TOj3CaGAWKLhTlWWU)

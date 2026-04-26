@@ -19,8 +19,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHSeY5vmM68DQ/learning-public-crop_675_1200/B4EZdCM241HQAY-/0/1749162356536?e=2147483647&amp;v=beta&amp;t=ZeZABO-KmRmQIPRK3c4zGd9HeDONRplBCmEmsdsk7CY"
 linkedin_topic: Data Science
 learning_paths:
-  - MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security
-  - Working with Data- Collecting, Processing, and Storing Data for AI
+  - '[[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]]'
+  - '[[Working with Data- Collecting, Processing, and Storing Data for AI]]'
+prev_courses:
+  - '[[MLOps Tools- MLflow and Hugging Face]]'
+  - '[[Strategic Data Collection, Modeling, and Quality Management for AI Systems]]'
+next_courses:
+  - '[[MLOps and Data Pipeline Orchestration for AI Systems]]'
+  - '[[Secure Data Management for AI Implementation]]'
+path_nav: '[{"path":"MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security","position":5,"total":10,"prev":"MLOps Tools- MLflow and Hugging Face","next":"MLOps and Data Pipeline Orchestration for AI Systems"},{"path":"Working with Data- Collecting, Processing, and Storing Data for AI","position":3,"total":6,"prev":"Strategic Data Collection, Modeling, and Quality Management for AI Systems","next":"Secure Data Management for AI Implementation"}]'
 path_count: 2
 tags:
   - course
@@ -33,7 +40,7 @@ tags:
   - skill/data-preparation
   - skill/feature-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Preparation, Feature Engineering, and Augmentation for AI Models](https://media.licdn.com/dms/image/v2/D4E0DAQHSeY5vmM68DQ/learning-public-crop_675_1200/B4EZdCM241HQAY-/0/1749162356536?e=2147483647&amp;v=beta&amp;t=ZeZABO-KmRmQIPRK3c4zGd9HeDONRplBCmEmsdsk7CY)

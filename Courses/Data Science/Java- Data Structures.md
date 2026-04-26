@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/java-data-structures-3001429"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQELe07gbOJkkw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351837356?e=2147483647&amp;v=beta&amp;t=qF2X11bb4lrEAT8rSE6ZGdOhnBHco4gvcAZ51lNwMYE"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Java Developer
-  - Java Foundations Professional Certificate by JetBrains
+  - '[[Getting Started as a Java Developer]]'
+  - '[[Java Foundations Professional Certificate by JetBrains]]'
+prev_courses:
+  - '[[Java Algorithms]]'
+  - '[[Java Object-Oriented Programming]]'
+next_courses:
+  - null
+  - '[[Learning JDBC]]'
+path_nav: '[{"path":"Getting Started as a Java Developer","position":10,"total":10,"prev":"Java Algorithms","next":null},{"path":"Java Foundations Professional Certificate by JetBrains","position":4,"total":5,"prev":"Java Object-Oriented Programming","next":"Learning JDBC"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/data-structures
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Java: Data Structures](https://media.licdn.com/dms/image/v2/D560DAQELe07gbOJkkw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351837356?e=2147483647&amp;v=beta&amp;t=qF2X11bb4lrEAT8rSE6ZGdOhnBHco4gvcAZ51lNwMYE)

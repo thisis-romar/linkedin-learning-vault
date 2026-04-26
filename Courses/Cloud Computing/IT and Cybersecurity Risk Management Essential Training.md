@@ -10,7 +10,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHLYZ-cHRHL8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643738319752?e=2147483647&amp;v=beta&amp;t=e8YKnjzHJDyDVBAur58Ctt3_MGtmi8VIsXaXdrPn_XQ"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - The IT Professional's Path to Cybersecurity
+  - '[[The IT Professional''s Path to Cybersecurity]]'
+prev_courses:
+  - '[[IT Security Foundations- Core Concepts]]'
+next_courses:
+  - '[[Soft Skills for Information Security Professionals]]'
+path_nav: '[{"path":"The IT Professional''s Path to Cybersecurity","position":4,"total":5,"prev":"IT Security Foundations- Core Concepts","next":"Soft Skills for Information Security Professionals"}]'
 path_count: 1
 tags:
   - course
@@ -19,7 +24,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![IT and Cybersecurity Risk Management Essential Training](https://media.licdn.com/dms/image/v2/C560DAQHLYZ-cHRHL8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643738319752?e=2147483647&amp;v=beta&amp;t=e8YKnjzHJDyDVBAur58Ctt3_MGtmi8VIsXaXdrPn_XQ)

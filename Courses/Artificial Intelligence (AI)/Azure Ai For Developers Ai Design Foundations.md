@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFgGdrC0BdUqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737481924703?e=2147483647&amp;v=beta&amp;t=Vs9Jngl2eNdOwgn64R-XHFTGVaU23LNQseXo1Y4P3Nw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Build AI Products Using Azure AI Services in Your Development Lifecycle
+  - '[[Build AI Products Using Azure AI Services in Your Development Lifecycle]]'
+next_courses:
+  - '[[Azure AI for Developers- LLMs and SLMs]]'
+path_nav: '[{"path":"Build AI Products Using Azure AI Services in Your Development Lifecycle","position":1,"total":8,"prev":null,"next":"Azure AI for Developers- LLMs and SLMs"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure Ai For Developers Ai Design Foundations](https://media.licdn.com/dms/image/v2/D4D0DAQFgGdrC0BdUqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737481924703?e=2147483647&amp;v=beta&amp;t=Vs9Jngl2eNdOwgn64R-XHFTGVaU23LNQseXo1Y4P3Nw)

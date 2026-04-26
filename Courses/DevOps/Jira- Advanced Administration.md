@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQG4hiUwA-TKbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624639848574?e=2147483647&amp;v=beta&amp;t=kdWs3FufHaFWaeODJxtP6D2FvSi4k1iectblGpnzX0M"
 linkedin_topic: DevOps
 learning_paths:
-  - Mastering Jira Administration
+  - '[[Mastering Jira Administration]]'
+prev_courses:
+  - '[[Jira Service Management- Administration]]'
+next_courses:
+  - '[[Jira- Managing Custom Workflows]]'
+path_nav: '[{"path":"Mastering Jira Administration","position":4,"total":7,"prev":"Jira Service Management- Administration","next":"Jira- Managing Custom Workflows"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/project-tracking
   - skill/jira
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Jira: Advanced Administration](https://media.licdn.com/dms/image/v2/C560DAQG4hiUwA-TKbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624639848574?e=2147483647&amp;v=beta&amp;t=kdWs3FufHaFWaeODJxtP6D2FvSi4k1iectblGpnzX0M)

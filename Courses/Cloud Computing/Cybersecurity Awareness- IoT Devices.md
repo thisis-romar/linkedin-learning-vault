@@ -16,7 +16,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGmx6_uRJoSGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696016243531?e=2147483647&amp;v=beta&amp;t=zqWy-A9QfULbYtPluYrTm5emoNm2hvP509ASCYwSWuc"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Build Your Cybersecurity Awareness Skills
+  - '[[Build Your Cybersecurity Awareness Skills]]'
+prev_courses:
+  - '[[Cybersecurity Awareness- Ransomware]]'
+next_courses:
+  - '[[Cybersecurity Awareness- Protect Your Privacy]]'
+path_nav: '[{"path":"Build Your Cybersecurity Awareness Skills","position":8,"total":10,"prev":"Cybersecurity Awareness- Ransomware","next":"Cybersecurity Awareness- Protect Your Privacy"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - topic/software-development
   - skill/internet-of-things-iot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cybersecurity Awareness: IoT Devices](https://media.licdn.com/dms/image/v2/D560DAQGmx6_uRJoSGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696016243531?e=2147483647&amp;v=beta&amp;t=zqWy-A9QfULbYtPluYrTm5emoNm2hvP509ASCYwSWuc)

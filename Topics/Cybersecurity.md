@@ -6,7 +6,7 @@ linkedin_topic: Cybersecurity
 tags:
   - moc
   - topic/security
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Cybersecurity
@@ -91,3 +91,7 @@ created: 2026-04-20
 - [[Cybersecurity Careers and Certifications]] — 3 paths
 - [[Land Your First Cybersecurity Job]] — 3 paths
 - [[Cybersecurity Awareness- Cybersecurity Terminology]] — 3 paths
+
+---
+
+Part of [[000 Map of Content]]

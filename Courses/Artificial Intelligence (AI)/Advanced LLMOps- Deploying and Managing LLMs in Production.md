@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/generative-ai-and-llmops-deploying-
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE5kAgmoLJYYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720810307853?e=2147483647&amp;v=beta&amp;t=CvBJRoIg0xShnjuMcAJs_LferQ58-Uv1zMaY92DL7ok"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Manage Your LLMs with LLMOps
+  - '[[Manage Your LLMs with LLMOps]]'
+prev_courses:
+  - '[[LLMOps in Practice- A Deep Dive]]'
+next_courses:
+  - '[[LLM Foundations- Building Effective Applications for Enterprises]]'
+path_nav: '[{"path":"Manage Your LLMs with LLMOps","position":3,"total":4,"prev":"LLMOps in Practice- A Deep Dive","next":"LLM Foundations- Building Effective Applications for Enterprises"}]'
 path_count: 1
 tags:
   - course
@@ -32,7 +37,7 @@ tags:
   - skill/system-deployment
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced LLMOps: Deploying and Managing LLMs in Production](https://media.licdn.com/dms/image/v2/D560DAQE5kAgmoLJYYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720810307853?e=2147483647&amp;v=beta&amp;t=CvBJRoIg0xShnjuMcAJs_LferQ58-Uv1zMaY92DL7ok)

@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQG6Sb7o1gAkoA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118520291?e=2147483647&amp;v=beta&amp;t=AGKKjuZt4o8FxwETYgEF7WF8RVaTlocVCll9C9EvKaA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Getting Started with Cloud Development
+  - '[[Getting Started with Cloud Development]]'
+next_courses:
+  - '[[Learning Amazon Web Services Aws For Developers]]'
+path_nav: '[{"path":"Getting Started with Cloud Development","position":1,"total":4,"prev":null,"next":"Learning Amazon Web Services Aws For Developers"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/microsoft-azure
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Choosing A Cloud Platform For Developers Aws Azure And Gcp](https://media.licdn.com/dms/image/v2/C4E0DAQG6Sb7o1gAkoA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118520291?e=2147483647&amp;v=beta&amp;t=AGKKjuZt4o8FxwETYgEF7WF8RVaTlocVCll9C9EvKaA)

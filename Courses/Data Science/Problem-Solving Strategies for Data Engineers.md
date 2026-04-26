@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHbAbSH4NO6OQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687393016434?e=2147483647&amp;v=beta&amp;t=zgcuvpASDV1aptR6vh5JPqJmdcZCebBIYuuyMv_-Cbw"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Data Engineering Skills
+  - '[[Advance Your Data Engineering Skills]]'
+prev_courses:
+  - '[[Data Engineering With Dbt]]'
+next_courses:
+  - '[[ETL in Python and SQL]]'
+path_nav: '[{"path":"Advance Your Data Engineering Skills","position":2,"total":10,"prev":"Data Engineering With Dbt","next":"ETL in Python and SQL"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/data-engineering
   - skill/problem-solving
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Problem-Solving Strategies for Data Engineers](https://media.licdn.com/dms/image/v2/D560DAQHbAbSH4NO6OQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687393016434?e=2147483647&amp;v=beta&amp;t=zgcuvpASDV1aptR6vh5JPqJmdcZCebBIYuuyMv_-Cbw)

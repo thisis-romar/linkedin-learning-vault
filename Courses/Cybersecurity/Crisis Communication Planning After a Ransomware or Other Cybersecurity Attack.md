@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGmdlDRWeu7lA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650645024160?e=2147483647&amp;v=beta&amp;t=gGhOrfEtNXH61H3nTmb8Rwy0fe4sSpMYtYO3VcIzCh4"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - CISO Leadership- Managing a Cybersecurity Program
+  - '[[CISO Leadership- Managing a Cybersecurity Program]]'
+prev_courses:
+  - '[[Building a Cybersecurity Awareness Program]]'
+path_nav: '[{"path":"CISO Leadership- Managing a Cybersecurity Program","position":8,"total":8,"prev":"Building a Cybersecurity Awareness Program","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/cybersecurity-incident-response
   - skill/crisis-communications
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack](https://media.licdn.com/dms/image/v2/C4E0DAQGmdlDRWeu7lA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650645024160?e=2147483647&amp;v=beta&amp;t=gGhOrfEtNXH61H3nTmb8Rwy0fe4sSpMYtYO3VcIzCh4)

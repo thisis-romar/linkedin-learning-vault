@@ -7,7 +7,7 @@ course_count: 6
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/cloud-computing
@@ -43,7 +43,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Building Your Java Skills
@@ -73,3 +73,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Getting Started with Software Testing]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

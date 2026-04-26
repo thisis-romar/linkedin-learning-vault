@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQG5c6ZrXIiTJw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736201005211?e=2147483647&amp;v=beta&amp;t=1Cu2Q3eP1DTYS_KrknA9Qyd6A7EM1w_n8v7kyfrQH6Y"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Become an AI-Powered Learning and Development Professional
+  - '[[Become an AI-Powered Learning and Development Professional]]'
+next_courses:
+  - '[[AI Literacy for Business Leaders]]'
+path_nav: '[{"path":"Become an AI-Powered Learning and Development Professional","position":1,"total":5,"prev":null,"next":"AI Literacy for Business Leaders"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/leadership-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Leading Talent Development In The Era Of Ai](https://media.licdn.com/dms/image/v2/D4D0DAQG5c6ZrXIiTJw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736201005211?e=2147483647&amp;v=beta&amp;t=1Cu2Q3eP1DTYS_KrknA9Qyd6A7EM1w_n8v7kyfrQH6Y)

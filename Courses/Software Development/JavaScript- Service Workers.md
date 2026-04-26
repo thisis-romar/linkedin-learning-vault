@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGX5xqAG7xKJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568661923388?e=2147483647&amp;v=beta&amp;t=3j3_SdodWgkz_0j_oppG5KRJNrqhprNQfiGs8zF1rVY"
 linkedin_topic: Software Development
 learning_paths:
-  - Explore Web Development with Vanilla JavaScript
+  - '[[Explore Web Development with Vanilla JavaScript]]'
+prev_courses:
+  - '[[JavaScript- Ajax and Fetch]]'
+next_courses:
+  - '[[Vanilla JavaScript- Web Performance Optimization APIs]]'
+path_nav: '[{"path":"Explore Web Development with Vanilla JavaScript","position":6,"total":8,"prev":"JavaScript- Ajax and Fetch","next":"Vanilla JavaScript- Web Performance Optimization APIs"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![JavaScript: Service Workers](https://media.licdn.com/dms/image/v2/C4E0DAQGX5xqAG7xKJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568661923388?e=2147483647&amp;v=beta&amp;t=3j3_SdodWgkz_0j_oppG5KRJNrqhprNQfiGs8zF1rVY)

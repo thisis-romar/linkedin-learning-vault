@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/practice-it-sql-joins-3085459/codes
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQE6C_8Je4EAqg/learning-public-crop_675_1200/B4EZdDDjseHcAc-/0/1749176695867?e=2147483647&amp;v=beta&amp;t=ainHQWQXhLW4kmphiQojglbOElUhPLjjNa6m68-lnpE"
 linkedin_topic: Data Science
 learning_paths:
-  - SQL Hands-On Practice
+  - '[[SQL Hands-On Practice]]'
+prev_courses:
+  - '[[SQL Practice- Window Functions]]'
+next_courses:
+  - '[[Hands-On SQL Challenges- Test Your Knowledge]]'
+path_nav: '[{"path":"SQL Hands-On Practice","position":5,"total":9,"prev":"SQL Practice- Window Functions","next":"Hands-On SQL Challenges- Test Your Knowledge"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Practice It: SQL Joins](https://media.licdn.com/dms/image/v2/D4E0DAQE6C_8Je4EAqg/learning-public-crop_675_1200/B4EZdDDjseHcAc-/0/1749176695867?e=2147483647&amp;v=beta&amp;t=ainHQWQXhLW4kmphiQojglbOElUhPLjjNa6m68-lnpE)

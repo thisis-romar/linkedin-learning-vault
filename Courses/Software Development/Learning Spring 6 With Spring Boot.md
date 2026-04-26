@@ -16,8 +16,15 @@ github: "https://github.com/LinkedInLearning/learning-spring-6-with-spring-boot-
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHIALbX3heJRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700601834997?e=2147483647&amp;v=beta&amp;t=64gJyb_H4q1NbA2LIqRsHPV1ourvE4rZDOSszv9EMMY"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started In Spring Development
-  - Getting Started as a Java Developer
+  - '[[Getting Started In Spring Development]]'
+  - '[[Getting Started as a Java Developer]]'
+prev_courses:
+  - null
+  - '[[Java Essential Training- Objects and APIs]]'
+next_courses:
+  - '[[Creating Spring Boot Microservices]]'
+  - '[[Learning JDBC]]'
+path_nav: '[{"path":"Getting Started In Spring Development","position":1,"total":5,"prev":null,"next":"Creating Spring Boot Microservices"},{"path":"Getting Started as a Java Developer","position":3,"total":10,"prev":"Java Essential Training- Objects and APIs","next":"Learning JDBC"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/spring-framework
   - skill/spring-boot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Spring 6 With Spring Boot](https://media.licdn.com/dms/image/v2/D560DAQHIALbX3heJRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700601834997?e=2147483647&amp;v=beta&amp;t=64gJyb_H4q1NbA2LIqRsHPV1ourvE4rZDOSszv9EMMY)

@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGapjArGK8wug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644516915545?e=2147483647&amp;v=beta&amp;t=qNKYd6IdRQafp-pE6VnZOEb4JRVaRv5Vl9qqMbYy98U"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills as a User Experience Researcher
+  - '[[Advance Your Skills as a User Experience Researcher]]'
+prev_courses:
+  - '[[UX Research for Agile Teams]]'
+next_courses:
+  - '[[Figma for UX Research- Presentations that Stand Out]]'
+path_nav: '[{"path":"Advance Your Skills as a User Experience Researcher","position":5,"total":7,"prev":"UX Research for Agile Teams","next":"Figma for UX Research- Presentations that Stand Out"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![UX Research: Being Flexible](https://media.licdn.com/dms/image/v2/C560DAQGapjArGK8wug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644516915545?e=2147483647&amp;v=beta&amp;t=qNKYd6IdRQafp-pE6VnZOEb4JRVaRv5Vl9qqMbYy98U)

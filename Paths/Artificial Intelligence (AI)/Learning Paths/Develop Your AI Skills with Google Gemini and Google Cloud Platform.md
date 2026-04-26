@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
   - Software Development
-louvain_cluster: 1
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -49,7 +49,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Develop Your AI Skills with Google Gemini and Google Cloud Platform
@@ -81,3 +81,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[A Developer's Guide to Google Gemini]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

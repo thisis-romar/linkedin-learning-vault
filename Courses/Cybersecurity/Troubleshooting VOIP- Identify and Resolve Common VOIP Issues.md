@@ -10,14 +10,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQG4XiNoJITR2w/learning-public-crop_675_1200/B4EZXzZOhfHUAg-/0/1743545231771?e=2147483647&amp;v=beta&amp;t=QX8x7ZXDdlHN4nExL9hmmccE0T5pY7SO3j1279S_a7Q"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - VoIP- From Fundamentals to Troubleshooting
+  - '[[VoIP- From Fundamentals to Troubleshooting]]'
+prev_courses:
+  - '[[Analyzing VoIP Traffic with Wireshark]]'
+path_nav: '[{"path":"VoIP- From Fundamentals to Troubleshooting","position":3,"total":3,"prev":"Analyzing VoIP Traffic with Wireshark","next":null}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Troubleshooting VOIP: Identify and Resolve Common VOIP Issues](https://media.licdn.com/dms/image/v2/D4E0DAQG4XiNoJITR2w/learning-public-crop_675_1200/B4EZXzZOhfHUAg-/0/1743545231771?e=2147483647&amp;v=beta&amp;t=QX8x7ZXDdlHN4nExL9hmmccE0T5pY7SO3j1279S_a7Q)

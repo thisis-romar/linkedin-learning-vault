@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFlz1ZNx71tAA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599578771494?e=2147483647&amp;v=beta&amp;t=Re-9i1q6pV4tNvbhCdfm7a9LM2ESSnU8qiEWuutkr8M"
 linkedin_topic: Software Development
 learning_paths:
-  - Software Development Fundamentals
+  - '[[Software Development Fundamentals]]'
+prev_courses:
+  - '[[Learning Git and GitHub]]'
+next_courses:
+  - '[[Developer Career Paths and Certifications]]'
+path_nav: '[{"path":"Software Development Fundamentals","position":9,"total":10,"prev":"Learning Git and GitHub","next":"Developer Career Paths and Certifications"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/transact-sql-t-sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Program Databases with Transact-SQL](https://media.licdn.com/dms/image/v2/C4E0DAQFlz1ZNx71tAA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599578771494?e=2147483647&amp;v=beta&amp;t=Re-9i1q6pV4tNvbhCdfm7a9LM2ESSnU8qiEWuutkr8M)

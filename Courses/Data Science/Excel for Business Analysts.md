@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHZOkVpSqMovQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1609779989950?e=2147483647&amp;v=beta&amp;t=_VBvIy-A3J7JjBCHMA1IZn75fDNGSsRTHQ18rt2Hx_s"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Excel for Data Science
+  - '[[Master Excel for Data Science]]'
+prev_courses:
+  - '[[Learning Excel- Data Analysis]]'
+next_courses:
+  - '[[Excel- Tracking Data Easily and Efficiently]]'
+path_nav: '[{"path":"Master Excel for Data Science","position":4,"total":7,"prev":"Learning Excel- Data Analysis","next":"Excel- Tracking Data Easily and Efficiently"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/microsoft-excel
   - skill/business-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel for Business Analysts](https://media.licdn.com/dms/image/v2/C4E0DAQHZOkVpSqMovQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1609779989950?e=2147483647&amp;v=beta&amp;t=_VBvIy-A3J7JjBCHMA1IZn75fDNGSsRTHQ18rt2Hx_s)

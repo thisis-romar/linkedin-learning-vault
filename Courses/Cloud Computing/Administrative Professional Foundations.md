@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFhuwcUc49Tbg/learning-public-crop_675_1200/B4EZjxWiR.IMAY-/0/1756395873698?e=2147483647&amp;v=beta&amp;t=xuOfwzFC8ZWPOPSuv7H8UHwSXYttW5zgzSMlzGwMLws"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Career Essentials in Administrative Assistance by Microsoft and LinkedIn
+  - '[[Career Essentials in Administrative Assistance by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Learning Microsoft 365]]'
+next_courses:
+  - '[[Business Etiquette- Phone, Email, and Text]]'
+path_nav: '[{"path":"Career Essentials in Administrative Assistance by Microsoft and LinkedIn","position":6,"total":7,"prev":"Learning Microsoft 365","next":"Business Etiquette- Phone, Email, and Text"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - skill/office-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Administrative Professional Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQFhuwcUc49Tbg/learning-public-crop_675_1200/B4EZjxWiR.IMAY-/0/1756395873698?e=2147483647&amp;v=beta&amp;t=xuOfwzFC8ZWPOPSuv7H8UHwSXYttW5zgzSMlzGwMLws)

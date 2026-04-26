@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHC_lbnXrwkDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623778184058?e=2147483647&amp;v=beta&amp;t=4iTPfBl5e4dMLVMy8gl16PeM6cVaUnmhpRBNcfXcsKw"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance as a Tech Leader
-  - Advance Your Communication Skills as a Tech Manager
+  - '[[Advance as a Tech Leader]]'
+  - '[[Advance Your Communication Skills as a Tech Manager]]'
+prev_courses:
+  - '[[Leadership in Tech]]'
+  - '[[Succeeding As A First Time Tech Manager]]'
+next_courses:
+  - '[[Inclusive Tech- Leadership and Management]]'
+  - '[[The Non Technical Skills Of Effective Data Scientists]]'
+path_nav: '[{"path":"Advance as a Tech Leader","position":7,"total":8,"prev":"Leadership in Tech","next":"Inclusive Tech- Leadership and Management"},{"path":"Advance Your Communication Skills as a Tech Manager","position":4,"total":6,"prev":"Succeeding As A First Time Tech Manager","next":"The Non Technical Skills Of Effective Data Scientists"}]'
 path_count: 2
 tags:
   - course
@@ -33,7 +40,7 @@ tags:
   - skill/tech-career-skills
   - skill/inclusive-leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Inclusive Tech: The Case for Inclusive Leadership](https://media.licdn.com/dms/image/v2/C560DAQHC_lbnXrwkDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623778184058?e=2147483647&amp;v=beta&amp;t=4iTPfBl5e4dMLVMy8gl16PeM6cVaUnmhpRBNcfXcsKw)

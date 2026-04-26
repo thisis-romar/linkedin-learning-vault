@@ -6,7 +6,7 @@ course_count: 39
 tags:
   - skill
   - skill/generative-ai
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Generative AI

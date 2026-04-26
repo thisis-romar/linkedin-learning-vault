@@ -16,7 +16,10 @@ github: "https://github.com/LinkedInLearning/advanced-java-development-2515082"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGw3sFhiEecwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670989829357?e=2147483647&amp;v=beta&amp;t=i-0hI0dmXYyAU4vlQCsOVs6Y19zJ7dZvMKB8fzSL0co"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Java Skills
+  - '[[Advance Your Java Skills]]'
+next_courses:
+  - '[[Introduction to Docker for Java Developers]]'
+path_nav: '[{"path":"Advance Your Java Skills","position":1,"total":4,"prev":null,"next":"Introduction to Docker for Java Developers"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/java-software-development
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Java Advanced Concepts For High Performance Development](https://media.licdn.com/dms/image/v2/C4E0DAQGw3sFhiEecwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670989829357?e=2147483647&amp;v=beta&amp;t=i-0hI0dmXYyAU4vlQCsOVs6Y19zJ7dZvMKB8fzSL0co)

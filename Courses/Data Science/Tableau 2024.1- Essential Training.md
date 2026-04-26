@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQG95SyzX8EK0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716332755895?e=2147483647&amp;v=beta&amp;t=PU4feTTjBDe0bC6WCgF022b9B6YiOIydmlQ9g0BjDnw"
 linkedin_topic: Data Science
 learning_paths:
-  - Become a Data Analyst
+  - '[[Become a Data Analyst]]'
+prev_courses:
+  - '[[Learning Data Visualization]]'
+next_courses:
+  - '[[SQL- Data Reporting and Analysis]]'
+path_nav: '[{"path":"Become a Data Analyst","position":9,"total":12,"prev":"Learning Data Visualization","next":"SQL- Data Reporting and Analysis"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/tableau
   - skill/data-analysis
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Tableau 2024.1: Essential Training](https://media.licdn.com/dms/image/v2/D560DAQG95SyzX8EK0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716332755895?e=2147483647&amp;v=beta&amp;t=PU4feTTjBDe0bC6WCgF022b9B6YiOIydmlQ9g0BjDnw)

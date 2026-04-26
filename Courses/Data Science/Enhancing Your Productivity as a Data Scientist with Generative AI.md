@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFRBCAuq6V7lQ/learning-public-crop_675_1200/B4EZVJwGNQGYAY-/0/1740699100712?e=2147483647&amp;v=beta&amp;t=6NcRlG1Kf2kYTtJDLlUBAhLPDi3rTo_ROZclBl71IAU"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Strategy and Planning
+  - '[[Introduction to Fundamental Skills for Data Work- Data Strategy and Planning]]'
+prev_courses:
+  - '[[Data Science Team Lifecycle Management]]'
+next_courses:
+  - '[[Data-Informed Strategic Thinking for Senior Analysts and Data Scientists]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Strategy and Planning","position":8,"total":10,"prev":"Data Science Team Lifecycle Management","next":"Data-Informed Strategic Thinking for Senior Analysts and Data Scientists"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Enhancing Your Productivity as a Data Scientist with Generative AI](https://media.licdn.com/dms/image/v2/D4E0DAQFRBCAuq6V7lQ/learning-public-crop_675_1200/B4EZVJwGNQGYAY-/0/1740699100712?e=2147483647&amp;v=beta&amp;t=6NcRlG1Kf2kYTtJDLlUBAhLPDi3rTo_ROZclBl71IAU)

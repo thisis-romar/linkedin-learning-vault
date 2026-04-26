@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH_5u3PhUB7TQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705014364462?e=2147483647&amp;v=beta&amp;t=uMO1O5O85F94TvNQs5ElVRvzqxcsygEaVhXed49wDQA"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Visualization
+  - '[[Introduction to Fundamental Skills for Data Work- Data Visualization]]'
+prev_courses:
+  - '[[Power BI Data Dashboards]]'
+next_courses:
+  - '[[Visualizing Advanced Charts and Graphs]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Visualization","position":6,"total":7,"prev":"Power BI Data Dashboards","next":"Visualizing Advanced Charts and Graphs"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Python for Data Visualization](https://media.licdn.com/dms/image/v2/D560DAQH_5u3PhUB7TQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705014364462?e=2147483647&amp;v=beta&amp;t=uMO1O5O85F94TvNQs5ElVRvzqxcsygEaVhXed49wDQA)

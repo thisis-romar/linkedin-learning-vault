@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEw6KZOrrGgrQ/learning-public-crop_675_1200/B56Zdb3fa0GQAo-/0/1749592963181?e=2147483647&amp;v=beta&amp;t=h-Sbj4VTQiM-5G8S0AOCmaSYatVAO_nh34l7bR6ZQt0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Become an AI Engineer
+  - '[[Become an AI Engineer]]'
+prev_courses:
+  - '[[Generative AI- Introduction to Large Language Models]]'
+next_courses:
+  - '[[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]]'
+path_nav: '[{"path":"Become an AI Engineer","position":4,"total":10,"prev":"Generative AI- Introduction to Large Language Models","next":"LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The AI Ecosystem for Developers: Models, Datasets, and APIs](https://media.licdn.com/dms/image/v2/D560DAQEw6KZOrrGgrQ/learning-public-crop_675_1200/B56Zdb3fa0GQAo-/0/1749592963181?e=2147483647&amp;v=beta&amp;t=h-Sbj4VTQiM-5G8S0AOCmaSYatVAO_nh34l7bR6ZQt0)

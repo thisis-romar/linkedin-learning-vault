@@ -14,8 +14,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEPCaGFsYJZpg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658280985039?e=2147483647&amp;v=beta&amp;t=ckx5qp1U_e1NJ79Tu5ilh_d_i-qDS0_34zvniWApAY4"
 linkedin_topic: DevOps
 learning_paths:
-  - Develop Your Skills as a Software Project Manager
-  - Atlassian Agile Project Management Professional Certificate
+  - '[[Develop Your Skills as a Software Project Manager]]'
+  - '[[Atlassian Agile Project Management Professional Certificate]]'
+prev_courses:
+  - '[[Devops Foundations]]'
+  - '[[Agile Foundations]]'
+next_courses:
+  - '[[Scrum- Advanced]]'
+  - '[[Agile Project Management with Jira Cloud- 1 Projects, Boards, and Issues]]'
+path_nav: '[{"path":"Develop Your Skills as a Software Project Manager","position":4,"total":11,"prev":"Devops Foundations","next":"Scrum- Advanced"},{"path":"Atlassian Agile Project Management Professional Certificate","position":2,"total":6,"prev":"Agile Foundations","next":"Agile Project Management with Jira Cloud- 1 Projects, Boards, and Issues"}]'
 path_count: 2
 tags:
   - course
@@ -23,7 +30,7 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Scrum: The Basics](https://media.licdn.com/dms/image/v2/C560DAQEPCaGFsYJZpg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658280985039?e=2147483647&amp;v=beta&amp;t=ckx5qp1U_e1NJ79Tu5ilh_d_i-qDS0_34zvniWApAY4)

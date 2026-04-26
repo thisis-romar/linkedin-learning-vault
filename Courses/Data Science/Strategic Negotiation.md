@@ -14,14 +14,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQENYPyl_jM5gA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572390176653?e=2147483647&amp;v=beta&amp;t=aPG9Vzvpxb0izWSlvE9f2HoQ7O6fTr9al-9ixv8Vhco"
 linkedin_topic: Data Science
 learning_paths:
-  - LinkedIn’s 2025 Top MBA Programs Learning Path
+  - '[[LinkedIn’s 2025 Top MBA Programs Learning Path]]'
+prev_courses:
+  - '[[Strategic Thinking]]'
+next_courses:
+  - '[[Strategic Financial Management in Corporations]]'
+path_nav: '[{"path":"LinkedIn’s 2025 Top MBA Programs Learning Path","position":5,"total":10,"prev":"Strategic Thinking","next":"Strategic Financial Management in Corporations"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/strategic-negotiations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Strategic Negotiation](https://media.licdn.com/dms/image/v2/C4D0DAQENYPyl_jM5gA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572390176653?e=2147483647&amp;v=beta&amp;t=aPG9Vzvpxb0izWSlvE9f2HoQ7O6fTr9al-9ixv8Vhco)

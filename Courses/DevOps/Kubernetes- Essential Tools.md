@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHXiJGfHXz6tA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691433502919?e=2147483647&amp;v=beta&amp;t=9XMOArS_-YBHaPkWfM2SYqX7DDAXwaJ-k5t_Yuz78zw"
 linkedin_topic: DevOps
 learning_paths:
-  - Getting Started with Kubernetes
+  - '[[Getting Started with Kubernetes]]'
+prev_courses:
+  - '[[Kubernetes- Your First Project (2021)]]'
+next_courses:
+  - '[[Kubernetes- Microservices]]'
+path_nav: '[{"path":"Getting Started with Kubernetes","position":3,"total":6,"prev":"Kubernetes- Your First Project (2021)","next":"Kubernetes- Microservices"}]'
 path_count: 1
 tags:
   - course
   - topic/devops
   - skill/kubernetes
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Kubernetes: Essential Tools](https://media.licdn.com/dms/image/v2/D560DAQHXiJGfHXz6tA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691433502919?e=2147483647&amp;v=beta&amp;t=9XMOArS_-YBHaPkWfM2SYqX7DDAXwaJ-k5t_Yuz78zw)

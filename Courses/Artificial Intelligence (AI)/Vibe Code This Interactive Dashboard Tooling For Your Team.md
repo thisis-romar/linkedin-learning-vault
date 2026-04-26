@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHB8eZ0p6g68w/learning-public-crop_675_1200/B4EZrwVIeHGcAY-/0/1764968663602?e=2147483647&amp;v=beta&amp;t=nihdZOcf-8zBUdNzw6-ytWSGXj-ptUJA_DoaXuJbJQo"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Vibe Code This
+  - '[[Vibe Code This]]'
+next_courses:
+  - '[[Vibe Code This- AI-Powered Branded Infographics Tool]]'
+path_nav: '[{"path":"Vibe Code This","position":1,"total":2,"prev":null,"next":"Vibe Code This- AI-Powered Branded Infographics Tool"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Vibe Code This Interactive Dashboard Tooling For Your Team](https://media.licdn.com/dms/image/v2/D4E0DAQHB8eZ0p6g68w/learning-public-crop_675_1200/B4EZrwVIeHGcAY-/0/1764968663602?e=2147483647&amp;v=beta&amp;t=nihdZOcf-8zBUdNzw6-ytWSGXj-ptUJA_DoaXuJbJQo)

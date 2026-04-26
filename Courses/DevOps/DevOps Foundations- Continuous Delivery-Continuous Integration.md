@@ -10,16 +10,25 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFoucftXzxg0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1640024951192?e=2147483647&amp;v=beta&amp;t=QTDoUDzbLAbWJp42HuYoRhMiG5nu5NRliPfBASTGslQ"
 linkedin_topic: DevOps
 learning_paths:
-  - DevOps Professional Certificate by PagerDuty and LinkedIn
-  - Getting Started with DevOps
-  - Getting Started with Continuous Integration - Continuous Delivery (CI-CD)
+  - '[[DevOps Professional Certificate by PagerDuty and LinkedIn]]'
+  - '[[Getting Started with DevOps]]'
+  - '[[Getting Started with Continuous Integration - Continuous Delivery (CI-CD)]]'
+prev_courses:
+  - '[[DevOps Foundations- Infrastructure as Code]]'
+  - '[[Devops Foundations]]'
+  - '[[Software Development Life Cycle (SDLC)]]'
+next_courses:
+  - null
+  - '[[DevOps Foundations- Infrastructure as Code]]'
+  - '[[Continuous Integration- Tools]]'
+path_nav: '[{"path":"DevOps Professional Certificate by PagerDuty and LinkedIn","position":3,"total":3,"prev":"DevOps Foundations- Infrastructure as Code","next":null},{"path":"Getting Started with DevOps","position":2,"total":5,"prev":"Devops Foundations","next":"DevOps Foundations- Infrastructure as Code"},{"path":"Getting Started with Continuous Integration - Continuous Delivery (CI-CD)","position":2,"total":3,"prev":"Software Development Life Cycle (SDLC)","next":"Continuous Integration- Tools"}]'
 path_count: 3
 tags:
   - course
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![DevOps Foundations: Continuous Delivery/Continuous Integration](https://media.licdn.com/dms/image/v2/C560DAQFoucftXzxg0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1640024951192?e=2147483647&amp;v=beta&amp;t=QTDoUDzbLAbWJp42HuYoRhMiG5nu5NRliPfBASTGslQ)

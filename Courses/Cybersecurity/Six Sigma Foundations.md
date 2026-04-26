@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGF3ms8MeS_4A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568218955972?e=2147483647&amp;v=beta&amp;t=xje3MaLYi0WYqVhHhBKo4vDv1BYQPIBmhvtJFUYVUKU"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills as a Supply Chain Manager
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+prev_courses:
+  - '[[Lean Foundations]]'
+next_courses:
+  - '[[Data Analytics for Business Professionals]]'
+path_nav: '[{"path":"Advance Your Skills as a Supply Chain Manager","position":8,"total":15,"prev":"Lean Foundations","next":"Data Analytics for Business Professionals"}]'
 path_count: 1
 tags:
   - course
   - topic/security
   - skill/six-sigma
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Six Sigma Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQGF3ms8MeS_4A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568218955972?e=2147483647&amp;v=beta&amp;t=xje3MaLYi0WYqVhHhBKo4vDv1BYQPIBmhvtJFUYVUKU)

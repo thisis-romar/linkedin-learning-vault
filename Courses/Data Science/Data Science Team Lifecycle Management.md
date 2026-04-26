@@ -10,14 +10,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFgUOPlSMgHsw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681505711894?e=2147483647&amp;v=beta&amp;t=Jzpw4hWx23u0lBycTWZedOv5MV_qG_UsT2qBvkFkVUQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Strategy and Planning
+  - '[[Introduction to Fundamental Skills for Data Work- Data Strategy and Planning]]'
+prev_courses:
+  - '[[The 80-20 Rule of Data Science]]'
+next_courses:
+  - '[[Enhancing Your Productivity as a Data Scientist with Generative AI]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Strategy and Planning","position":7,"total":10,"prev":"The 80-20 Rule of Data Science","next":"Enhancing Your Productivity as a Data Scientist with Generative AI"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Science Team Lifecycle Management](https://media.licdn.com/dms/image/v2/D560DAQFgUOPlSMgHsw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681505711894?e=2147483647&amp;v=beta&amp;t=Jzpw4hWx23u0lBycTWZedOv5MV_qG_UsT2qBvkFkVUQ)

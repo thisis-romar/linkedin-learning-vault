@@ -18,7 +18,10 @@ github: "https://github.com/LinkedInLearning/level-up-python-data-acquisitions-p
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHesOIQyOuTNQ/learning-public-crop_675_1200/B4DZXd6el9HkAY-/0/1743184849916?e=2147483647&amp;v=beta&amp;t=4RUemFalV9c4wFDTKNhmgsLIaA4UKMuRSgIr6mbeqEU"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Python Skills for Data Science
+  - '[[Advance Your Python Skills for Data Science]]'
+prev_courses:
+  - '[[More Python Tips, Tricks, and Techniques for Data Science]]'
+path_nav: '[{"path":"Advance Your Python Skills for Data Science","position":6,"total":6,"prev":"More Python Tips, Tricks, and Techniques for Data Science","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/data-acquisition
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Level Up: Python Data Acquisitions, Prep, and EDA](https://media.licdn.com/dms/image/v2/D4D0DAQHesOIQyOuTNQ/learning-public-crop_675_1200/B4DZXd6el9HkAY-/0/1743184849916?e=2147483647&amp;v=beta&amp;t=4RUemFalV9c4wFDTKNhmgsLIaA4UKMuRSgIr6mbeqEU)

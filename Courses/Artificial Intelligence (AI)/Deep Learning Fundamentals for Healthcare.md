@@ -10,7 +10,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHLvL9ul_FWwg/learning-public-crop_675_1200/B4EZWHE3d5HUAg-/0/1741727955118?e=2147483647&amp;v=beta&amp;t=X49Enfvm0NEG5-tyAzBPLpEkIog97lJ06DyJAT8zbfc"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI for Healthcare- Essentials for Technical Roles
+  - '[[AI for Healthcare- Essentials for Technical Roles]]'
+prev_courses:
+  - '[[Advanced AI- NLP Techniques for Clinical Datasets]]'
+path_nav: '[{"path":"AI for Healthcare- Essentials for Technical Roles","position":6,"total":6,"prev":"Advanced AI- NLP Techniques for Clinical Datasets","next":null}]'
 path_count: 1
 tags:
   - course
@@ -19,7 +22,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Deep Learning Fundamentals for Healthcare](https://media.licdn.com/dms/image/v2/D4E0DAQHLvL9ul_FWwg/learning-public-crop_675_1200/B4EZWHE3d5HUAg-/0/1741727955118?e=2147483647&amp;v=beta&amp;t=X49Enfvm0NEG5-tyAzBPLpEkIog97lJ06DyJAT8zbfc)

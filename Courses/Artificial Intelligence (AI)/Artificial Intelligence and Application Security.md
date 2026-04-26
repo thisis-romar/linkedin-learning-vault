@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQH8Z9-iz74j_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726083225369?e=2147483647&amp;v=beta&amp;t=dl-vj84LoHrcJYwUnO6eMuoQFBlWXUStwcVNF6FTevM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your AI Skills as a Cybersecurity Professional
+  - '[[Develop Your AI Skills as a Cybersecurity Professional]]'
+prev_courses:
+  - '[[AI in Cybersecurity- The Future of Red Teaming and Blue Teaming]]'
+next_courses:
+  - '[[Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)]]'
+path_nav: '[{"path":"Develop Your AI Skills as a Cybersecurity Professional","position":3,"total":8,"prev":"AI in Cybersecurity- The Future of Red Teaming and Blue Teaming","next":"Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Artificial Intelligence and Application Security](https://media.licdn.com/dms/image/v2/D4E0DAQH8Z9-iz74j_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726083225369?e=2147483647&amp;v=beta&amp;t=dl-vj84LoHrcJYwUnO6eMuoQFBlWXUStwcVNF6FTevM)

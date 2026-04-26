@@ -20,7 +20,12 @@ github: "https://github.com/LinkedInLearning/advanced-python-in-excel-data-analy
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQENZljX71ArEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721771083260?e=2147483647&amp;v=beta&amp;t=NzkW1NlgfhULhS4HI4-zbAQZNMRODJgY5P7aBcmHf9c"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Python in Excel Skills
+  - '[[Advance Your Python in Excel Skills]]'
+prev_courses:
+  - '[[Python in Excel- Data Outputs in Custom Data Visualizations and Algorithms]]'
+next_courses:
+  - '[[Advanced Python in Excel- Machine Learning]]'
+path_nav: '[{"path":"Advance Your Python in Excel Skills","position":5,"total":7,"prev":"Python in Excel- Data Outputs in Custom Data Visualizations and Algorithms","next":"Advanced Python in Excel- Machine Learning"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Python in Excel: Data Analysis and Visualization](https://media.licdn.com/dms/image/v2/D4D0DAQENZljX71ArEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721771083260?e=2147483647&amp;v=beta&amp;t=NzkW1NlgfhULhS4HI4-zbAQZNMRODJgY5P7aBcmHf9c)

@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGZuQRAhcxfyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1645204997331?e=2147483647&amp;v=beta&amp;t=_QsbXwiUzEW7nymW_uLVQYeoxUFQMUUrVlfaJhoKGeU"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Build Your Skills In Customer Service
-  - Zendesk Customer Service Professional Certificate
+  - '[[Build Your Skills In Customer Service]]'
+  - '[[Zendesk Customer Service Professional Certificate]]'
+prev_courses:
+  - '[[Customer Service- Handling Abusive Customers]]'
+  - '[[Customer Service- Handling Abusive Customers]]'
+next_courses:
+  - '[[De-Escalating Conversations for Customer Service]]'
+  - '[[Serving Customers Using Social Media]]'
+path_nav: '[{"path":"Build Your Skills In Customer Service","position":6,"total":8,"prev":"Customer Service- Handling Abusive Customers","next":"De-Escalating Conversations for Customer Service"},{"path":"Zendesk Customer Service Professional Certificate","position":5,"total":6,"prev":"Customer Service- Handling Abusive Customers","next":"Serving Customers Using Social Media"}]'
 path_count: 2
 tags:
   - course
@@ -26,7 +33,7 @@ tags:
   - skill/challenging-environment
   - skill/customer-service
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Creating Positive Conversations with Challenging Customers](https://media.licdn.com/dms/image/v2/C4E0DAQGZuQRAhcxfyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1645204997331?e=2147483647&amp;v=beta&amp;t=_QsbXwiUzEW7nymW_uLVQYeoxUFQMUUrVlfaJhoKGeU)

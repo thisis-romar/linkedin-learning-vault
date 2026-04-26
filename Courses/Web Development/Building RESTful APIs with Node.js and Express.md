@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFBQs89Kb83rg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668018324768?e=2147483647&amp;v=beta&amp;t=RRUJY4qoTWuVmUGY_sQuO2W7xw0iCcLX6JZUMGD6Y9w"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore Web Development with Node.js
-  - Explore App Development with the MERN Stack
+  - '[[Explore Web Development with Node.js]]'
+  - '[[Explore App Development with the MERN Stack]]'
+prev_courses:
+  - '[[Node.js- Web Servers, Tests, and Deployment]]'
+  - '[[Building a Website with Node.js and Express.js]]'
+next_courses:
+  - '[[Node.js- Securing RESTful APIs]]'
+  - '[[React- Securing Applications]]'
+path_nav: '[{"path":"Explore Web Development with Node.js","position":8,"total":11,"prev":"Node.js- Web Servers, Tests, and Deployment","next":"Node.js- Securing RESTful APIs"},{"path":"Explore App Development with the MERN Stack","position":8,"total":13,"prev":"Building a Website with Node.js and Express.js","next":"React- Securing Applications"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/rest-apis
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building RESTful APIs with Node.js and Express](https://media.licdn.com/dms/image/v2/C560DAQFBQs89Kb83rg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668018324768?e=2147483647&amp;v=beta&amp;t=RRUJY4qoTWuVmUGY_sQuO2W7xw0iCcLX6JZUMGD6Y9w)

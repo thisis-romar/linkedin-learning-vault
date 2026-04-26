@@ -21,7 +21,12 @@ github: "https://github.com/LinkedInLearning/ai-orchestration-developing-and-tes
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQES1rTsnPi3cQ/learning-public-crop_675_1200/B4EZWwZFpEG0Ac-/0/1742421122014?e=2147483647&amp;v=beta&amp;t=Y85moEEB3QN2DCcAk23GWziLQT4AcMYn8WNKPqqbMvs"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[AI Orchestration- Designing the Prototype Architecture and Data Strategy]]'
+next_courses:
+  - '[[AI Orchestration- Validation and User Feedback and Performance Metrics]]'
+path_nav: '[{"path":"Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning","position":4,"total":5,"prev":"AI Orchestration- Designing the Prototype Architecture and Data Strategy","next":"AI Orchestration- Validation and User Feedback and Performance Metrics"}]'
 path_count: 1
 tags:
   - course
@@ -33,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Orchestration: Developing and Testing Your AI Prototype](https://media.licdn.com/dms/image/v2/D4E0DAQES1rTsnPi3cQ/learning-public-crop_675_1200/B4EZWwZFpEG0Ac-/0/1742421122014?e=2147483647&amp;v=beta&amp;t=Y85moEEB3QN2DCcAk23GWziLQT4AcMYn8WNKPqqbMvs)

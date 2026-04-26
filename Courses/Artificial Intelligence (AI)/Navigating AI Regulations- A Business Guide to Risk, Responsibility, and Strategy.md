@@ -16,9 +16,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHv_puzuKqWDQ/learning-public-crop_675_1200/B56ZfrLyxXGQAc-/0/1751997427552?e=2147483647&amp;v=beta&amp;t=kTNdEFvTmUl5SsszEKqYKAxRRRpzsqAy5ERS4Zb6K3k"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI Regulations for Business Leaders- The EU AI Act and More
-  - Responsible AI at Work- Literacy, Ethics, and More
-  - Technical Literacy and Future Readiness for Senior Executives
+  - '[[AI Regulations for Business Leaders- The EU AI Act and More]]'
+  - '[[Responsible AI at Work- Literacy, Ethics, and More]]'
+  - '[[Technical Literacy and Future Readiness for Senior Executives]]'
+prev_courses:
+  - '[[Preparing for the EU AI Act- A Conversation with Jon Adams]]'
+  - '[[Preparing for the EU AI Act- A Conversation with Jon Adams]]'
+  - '[[Generative AI and Workplace Transformation]]'
+next_courses:
+  - null
+  - '[[Responsible AI- Principles and Practical Applications]]'
+  - '[[Leading Responsible AI in Organizations]]'
+path_nav: '[{"path":"AI Regulations for Business Leaders- The EU AI Act and More","position":4,"total":4,"prev":"Preparing for the EU AI Act- A Conversation with Jon Adams","next":null},{"path":"Responsible AI at Work- Literacy, Ethics, and More","position":4,"total":6,"prev":"Preparing for the EU AI Act- A Conversation with Jon Adams","next":"Responsible AI- Principles and Practical Applications"},{"path":"Technical Literacy and Future Readiness for Senior Executives","position":4,"total":6,"prev":"Generative AI and Workplace Transformation","next":"Leading Responsible AI in Organizations"}]'
 path_count: 3
 tags:
   - course
@@ -29,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/regulatory-compliance
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Navigating AI Regulations: A Business Guide to Risk, Responsibility, and Strategy](https://media.licdn.com/dms/image/v2/D560DAQHv_puzuKqWDQ/learning-public-crop_675_1200/B56ZfrLyxXGQAc-/0/1751997427552?e=2147483647&amp;v=beta&amp;t=kTNdEFvTmUl5SsszEKqYKAxRRRpzsqAy5ERS4Zb6K3k)

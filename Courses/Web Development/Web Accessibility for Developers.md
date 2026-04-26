@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHoOSvIxsvTbA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720454573295?e=2147483647&amp;v=beta&amp;t=50aAGLLWkOEq4jS3Y2SdycLbZcNhxcbSrM_fRpJaOtk"
 linkedin_topic: Web Development
 learning_paths:
-  - Prepare for Digital Accessibility
+  - '[[Prepare for Digital Accessibility]]'
+prev_courses:
+  - '[[Accessibility for Web Design]]'
+next_courses:
+  - '[[Architectural Design- The WE Way for Workplace Inclusivity]]'
+path_nav: '[{"path":"Prepare for Digital Accessibility","position":4,"total":8,"prev":"Accessibility for Web Design","next":"Architectural Design- The WE Way for Workplace Inclusivity"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Web Accessibility for Developers](https://media.licdn.com/dms/image/v2/D560DAQHoOSvIxsvTbA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720454573295?e=2147483647&amp;v=beta&amp;t=50aAGLLWkOEq4jS3Y2SdycLbZcNhxcbSrM_fRpJaOtk)

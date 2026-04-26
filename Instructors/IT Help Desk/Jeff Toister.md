@@ -11,7 +11,7 @@ tags:
   - instructor
   - topic/data-science
   - topic/it-help-desk
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Jeff Toister

@@ -6,7 +6,7 @@ course_count: 3
 tags:
   - skill
   - skill/hugging-face-products
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Hugging Face Products

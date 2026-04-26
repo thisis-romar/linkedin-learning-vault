@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQETZHjwWLwH1g/learning-public-crop_675_1200/B4EZahU80XHcAY-/0/1746463346645?e=2147483647&amp;v=beta&amp;t=vhlmmPlA1QidgBTLDo4zfBk-HWe5DAzvvoaETsOBNnw"
 linkedin_topic: Data Science
 learning_paths:
-  - LinkedIn’s 2025 Top MBA Programs Learning Path
+  - '[[LinkedIn’s 2025 Top MBA Programs Learning Path]]'
+prev_courses:
+  - '[[Strategic Negotiation]]'
+next_courses:
+  - '[[Data Decision-Making and Communication for Leaders with Nancy Duarte]]'
+path_nav: '[{"path":"LinkedIn’s 2025 Top MBA Programs Learning Path","position":6,"total":10,"prev":"Strategic Negotiation","next":"Data Decision-Making and Communication for Leaders with Nancy Duarte"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/corporate-finance
   - skill/strategic-financial-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Strategic Financial Management in Corporations](https://media.licdn.com/dms/image/v2/D4E0DAQETZHjwWLwH1g/learning-public-crop_675_1200/B4EZahU80XHcAY-/0/1746463346645?e=2147483647&amp;v=beta&amp;t=vhlmmPlA1QidgBTLDo4zfBk-HWe5DAzvvoaETsOBNnw)

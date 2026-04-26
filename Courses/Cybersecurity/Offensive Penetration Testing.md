@@ -17,7 +17,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGsVb6d5u2GlQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698363374544?e=2147483647&amp;v=beta&amp;t=VBbyAd_lFMLlBUwQKY2uMM1WYfFHK10wA5G9xDwmzsc"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Penetration Testing Professional Certificate by Cybrary
+  - '[[Penetration Testing Professional Certificate by Cybrary]]'
+prev_courses:
+  - '[[Penetration Testing Essential Training (2021)]]'
+path_nav: '[{"path":"Penetration Testing Professional Certificate by Cybrary","position":2,"total":2,"prev":"Penetration Testing Essential Training (2021)","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/ethical-hacking
   - skill/oscp
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Offensive Penetration Testing](https://media.licdn.com/dms/image/v2/D4D0DAQGsVb6d5u2GlQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698363374544?e=2147483647&amp;v=beta&amp;t=VBbyAd_lFMLlBUwQKY2uMM1WYfFHK10wA5G9xDwmzsc)

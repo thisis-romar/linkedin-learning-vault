@@ -15,7 +15,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEl4-19Nlj05g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617389989822?e=2147483647&amp;v=beta&amp;t=zFv8UbbFfvpAZyEV7-1ZzyoMdlOZYIHfIbiF8m84G5M"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Thought Leadership
+  - '[[Advance Your Thought Leadership]]'
+prev_courses:
+  - '[[Creating Your Personal Brand]]'
+next_courses:
+  - '[[Creating LinkedIn Newsletters]]'
+path_nav: '[{"path":"Advance Your Thought Leadership","position":4,"total":7,"prev":"Creating Your Personal Brand","next":"Creating LinkedIn Newsletters"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/public-speaking
   - skill/speech-writing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Writing and Delivering Speeches](https://media.licdn.com/dms/image/v2/C4E0DAQEl4-19Nlj05g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617389989822?e=2147483647&amp;v=beta&amp;t=zFv8UbbFfvpAZyEV7-1ZzyoMdlOZYIHfIbiF8m84G5M)

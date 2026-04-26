@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/generative-ai-for-sales-with-micros
 course_count: 6
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 1
+louvain_cluster: 17
 tags:
   - professional-certificate
   - topic/cloud-computing
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Generative AI for Sales with Microsoft 365 Copilot Professional Certificate
@@ -71,3 +71,7 @@ _Paths that share courses with this one:_
 
 - [[Build Your Generative AI Productivity Skills with Microsoft and LinkedIn]] (1 shared courses)
 - [[Microsoft Copilot for Productivity by Microsoft and LinkedIn]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cloud Computing]]

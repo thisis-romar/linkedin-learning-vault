@@ -18,7 +18,10 @@ github: "https://github.com/LinkedInLearning/sql-for-finance-income-statement-pr
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQE8r3Ie8UIPRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726595619202?e=2147483647&amp;v=beta&amp;t=MnOPE2PxFxri-Y6olLZt3LphEnQ1RhZdySEppuOMT5U"
 linkedin_topic: Data Science
 learning_paths:
-  - SQL for Data Professionals in Finance
+  - '[[SQL for Data Professionals in Finance]]'
+prev_courses:
+  - '[[From Excel to SQL]]'
+path_nav: '[{"path":"SQL for Data Professionals in Finance","position":4,"total":4,"prev":"From Excel to SQL","next":null}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +31,7 @@ tags:
   - skill/financial-data
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![SQL for Finance: Income Statement Project](https://media.licdn.com/dms/image/v2/D560DAQE8r3Ie8UIPRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726595619202?e=2147483647&amp;v=beta&amp;t=MnOPE2PxFxri-Y6olLZt3LphEnQ1RhZdySEppuOMT5U)

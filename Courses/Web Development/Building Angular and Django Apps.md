@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGVtfwcWDH7KQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1575394470621?e=2147483647&amp;v=beta&amp;t=adn4n41zaetFct8IFAhdjepVQVAWVULVGNplj-ALfAE"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills as a Django Developer
+  - '[[Advance Your Skills as a Django Developer]]'
+prev_courses:
+  - '[[Building React And Django Apps]]'
+next_courses:
+  - '[[Building RESTful Web APIs with Django]]'
+path_nav: '[{"path":"Advance Your Skills as a Django Developer","position":2,"total":6,"prev":"Building React And Django Apps","next":"Building RESTful Web APIs with Django"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/web-application-development
   - skill/angular
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Angular and Django Apps](https://media.licdn.com/dms/image/v2/C560DAQGVtfwcWDH7KQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1575394470621?e=2147483647&amp;v=beta&amp;t=adn4n41zaetFct8IFAhdjepVQVAWVULVGNplj-ALfAE)

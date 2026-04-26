@@ -14,8 +14,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHJ39iKZdeJeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724878410217?e=2147483647&amp;v=beta&amp;t=SNPFodc0nkml-jZeEtt0KAs-QEAP2ezO9qFoASAhsaY"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started as a Java Developer
-  - Java Foundations Professional Certificate by JetBrains
+  - '[[Getting Started as a Java Developer]]'
+  - '[[Java Foundations Professional Certificate by JetBrains]]'
+next_courses:
+  - '[[Java Essential Training- Objects and APIs]]'
+  - '[[Java Essential Training- Objects and APIs]]'
+path_nav: '[{"path":"Getting Started as a Java Developer","position":1,"total":10,"prev":null,"next":"Java Essential Training- Objects and APIs"},{"path":"Java Foundations Professional Certificate by JetBrains","position":1,"total":5,"prev":null,"next":"Java Essential Training- Objects and APIs"}]'
 path_count: 2
 tags:
   - course
@@ -24,7 +28,7 @@ tags:
   - topic/web-development
   - skill/java
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Java Essential Training Syntax And Structure](https://media.licdn.com/dms/image/v2/D560DAQHJ39iKZdeJeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724878410217?e=2147483647&amp;v=beta&amp;t=SNPFodc0nkml-jZeEtt0KAs-QEAP2ezO9qFoASAhsaY)

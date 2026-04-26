@@ -14,7 +14,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFkj-Bf8vWqtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118629594?e=2147483647&amp;v=beta&amp;t=WLBFAA8UF-GyMwjkvTV7kTAKQHiqoZ6qe0Yb4_2Zcts"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your PHP Skills
+  - '[[Advance Your PHP Skills]]'
+next_courses:
+  - '[[Functional Programming with PHP]]'
+path_nav: '[{"path":"Advance Your PHP Skills","position":1,"total":7,"prev":null,"next":"Functional Programming with PHP"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Php Testing Legacy Applications](https://media.licdn.com/dms/image/v2/C4E0DAQFkj-Bf8vWqtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118629594?e=2147483647&amp;v=beta&amp;t=WLBFAA8UF-GyMwjkvTV7kTAKQHiqoZ6qe0Yb4_2Zcts)

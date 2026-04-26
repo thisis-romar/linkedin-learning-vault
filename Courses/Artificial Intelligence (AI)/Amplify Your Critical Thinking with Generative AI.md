@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGnlBu8p3T2nQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704757669591?e=2147483647&amp;v=beta&amp;t=r5KbqCh7k37AA9B4D57gkTVzXP8QgrmiJvm3m-_oL6w"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Applying Generative AI as a Business Professional
-  - Technical Literacy and Future Readiness for Senior Managers and Senior Leaders
+  - '[[Applying Generative AI as a Business Professional]]'
+  - '[[Technical Literacy and Future Readiness for Senior Managers and Senior Leaders]]'
+prev_courses:
+  - '[[Amplify Your Communication Skills with Generative AI]]'
+  - '[[Integrating Generative AI into Business Strategy]]'
+next_courses:
+  - '[[Nano Tips for Using ChatGPT for Business with Rachel Woods]]'
+  - '[[Foundations Of Responsible Ai]]'
+path_nav: '[{"path":"Applying Generative AI as a Business Professional","position":5,"total":6,"prev":"Amplify Your Communication Skills with Generative AI","next":"Nano Tips for Using ChatGPT for Business with Rachel Woods"},{"path":"Technical Literacy and Future Readiness for Senior Managers and Senior Leaders","position":2,"total":10,"prev":"Integrating Generative AI into Business Strategy","next":"Foundations Of Responsible Ai"}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +26,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Amplify Your Critical Thinking with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQGnlBu8p3T2nQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704757669591?e=2147483647&amp;v=beta&amp;t=r5KbqCh7k37AA9B4D57gkTVzXP8QgrmiJvm3m-_oL6w)

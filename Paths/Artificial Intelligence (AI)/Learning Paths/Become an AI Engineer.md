@@ -59,7 +59,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Become an AI Engineer
@@ -97,3 +97,7 @@ _Paths that share courses with this one:_
 - [[Introduction to Fundamental Skills for Data Work- Data Processing]] (2 shared courses)
 - [[Advance Your Python Skills for Data Science]] (2 shared courses)
 - [[Master Retrieval-Augmented Generation (RAG)]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

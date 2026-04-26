@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQG795roMFBeog/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567113452295?e=2147483647&amp;v=beta&amp;t=7QDpclWesRAW6rEe6HEyXtR9vLpfPcx9Y20LGJzBVCI"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance Your Skills in HTML
+  - '[[Advance Your Skills in HTML]]'
+prev_courses:
+  - '[[HTML and CSS- Linking]]'
+next_courses:
+  - '[[HTML- Tables]]'
+path_nav: '[{"path":"Advance Your Skills in HTML","position":4,"total":11,"prev":"HTML and CSS- Linking","next":"HTML- Tables"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![HTML: Images and Figures](https://media.licdn.com/dms/image/v2/C4E0DAQG795roMFBeog/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567113452295?e=2147483647&amp;v=beta&amp;t=7QDpclWesRAW6rEe6HEyXtR9vLpfPcx9Y20LGJzBVCI)

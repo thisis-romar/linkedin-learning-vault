@@ -8,15 +8,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGFm8tI3mqi-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1636999013644?e=2147483647&amp;v=beta&amp;t=5Qse51nZsZ8yWfljWf39pOsKZcSf_IvM1cqxezU32WE"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance Your Digital Transformation Strategy as a Leader
-  - Digital Transformation for Tech Leaders
+  - '[[Advance Your Digital Transformation Strategy as a Leader]]'
+  - '[[Digital Transformation for Tech Leaders]]'
+next_courses:
+  - '[[Digital Strategy]]'
+  - '[[Effectively Leading Digital Transformation]]'
+path_nav: '[{"path":"Advance Your Digital Transformation Strategy as a Leader","position":1,"total":6,"prev":null,"next":"Digital Strategy"},{"path":"Digital Transformation for Tech Leaders","position":1,"total":15,"prev":null,"next":"Effectively Leading Digital Transformation"}]'
 path_count: 2
 tags:
   - course
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Digital Transformation Foundations](https://media.licdn.com/dms/image/v2/C560DAQGFm8tI3mqi-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1636999013644?e=2147483647&amp;v=beta&amp;t=5Qse51nZsZ8yWfljWf39pOsKZcSf_IvM1cqxezU32WE)

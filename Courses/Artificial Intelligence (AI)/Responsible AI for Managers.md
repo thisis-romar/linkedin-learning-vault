@@ -10,15 +10,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFwINGwwlD2Dg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722359931070?e=2147483647&amp;v=beta&amp;t=Cq8MotQH6EpAlyRm8XR4iyEQOveVS4_Q16knK8IW51M"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Technical Literacy and Future Readiness for People Managers
-  - Generative AI for Recruiting Professional Certificate by LinkedIn Learning
+  - '[[Technical Literacy and Future Readiness for People Managers]]'
+  - '[[Generative AI for Recruiting Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[Become An Ai Powered People Manager]]'
+  - '[[Harnessing AI for Effective Interviewing]]'
+next_courses:
+  - '[[Manager''s Guide to Building a Strategic Plan with ChatGPT (No Code Required)]]'
+  - '[[Ethical AI for Hiring and Talent Acquisition- A Conversation with Don Phin]]'
+path_nav: '[{"path":"Technical Literacy and Future Readiness for People Managers","position":2,"total":5,"prev":"Become An Ai Powered People Manager","next":"Manager''s Guide to Building a Strategic Plan with ChatGPT (No Code Required)"},{"path":"Generative AI for Recruiting Professional Certificate by LinkedIn Learning","position":4,"total":6,"prev":"Harnessing AI for Effective Interviewing","next":"Ethical AI for Hiring and Talent Acquisition- A Conversation with Don Phin"}]'
 path_count: 2
 tags:
   - course
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Responsible AI for Managers](https://media.licdn.com/dms/image/v2/D560DAQFwINGwwlD2Dg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722359931070?e=2147483647&amp;v=beta&amp;t=Cq8MotQH6EpAlyRm8XR4iyEQOveVS4_Q16knK8IW51M)

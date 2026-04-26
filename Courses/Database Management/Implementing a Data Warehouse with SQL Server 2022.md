@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEKNZbYkmoE3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674858013001?e=2147483647&amp;v=beta&amp;t=t1u8rAppdpLFLynfnbo3776a2HS6bYrKIgMZJOtC1lE"
 linkedin_topic: Database Management
 learning_paths:
-  - Advance Your MS SQL Server Skills
+  - '[[Advance Your MS SQL Server Skills]]'
+prev_courses:
+  - '[[Automating SQL Server with dbatools]]'
+next_courses:
+  - '[[SQL Server 2022 Administration]]'
+path_nav: '[{"path":"Advance Your MS SQL Server Skills","position":5,"total":9,"prev":"Automating SQL Server with dbatools","next":"SQL Server 2022 Administration"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/data-warehousing
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Implementing a Data Warehouse with SQL Server 2022](https://media.licdn.com/dms/image/v2/C560DAQEKNZbYkmoE3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674858013001?e=2147483647&amp;v=beta&amp;t=t1u8rAppdpLFLynfnbo3776a2HS6bYrKIgMZJOtC1lE)

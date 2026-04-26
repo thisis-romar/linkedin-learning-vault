@@ -10,9 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFnn88AnL99Bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734482641915?e=2147483647&amp;v=beta&amp;t=PyGUMR541aabul9_VvxlLwGNxpbWWuF6U0-aDJ7Fp6M"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Learn Vibe Coding- Build Apps with AI-Powered Coding
-  - Building Generative AI Skills for Web Developers
-  - Transform Your Programming with AI Coding Tools
+  - '[[Learn Vibe Coding- Build Apps with AI-Powered Coding]]'
+  - '[[Building Generative AI Skills for Web Developers]]'
+  - '[[Transform Your Programming with AI Coding Tools]]'
+prev_courses:
+  - '[[Vibe Code Your Way to a Full Stack App with Bolt]]'
+  - '[[Build an AI Application with React and AWS SageMaker]]'
+  - null
+next_courses:
+  - '[[Structured Vibe Coding with AI Coding Agents]]'
+  - '[[AI Programming for JavaScript Developers]]'
+  - '[[Using AI in the Design to Full-Stack Development Life Cycle]]'
+path_nav: '[{"path":"Learn Vibe Coding- Build Apps with AI-Powered Coding","position":4,"total":5,"prev":"Vibe Code Your Way to a Full Stack App with Bolt","next":"Structured Vibe Coding with AI Coding Agents"},{"path":"Building Generative AI Skills for Web Developers","position":8,"total":10,"prev":"Build an AI Application with React and AWS SageMaker","next":"AI Programming for JavaScript Developers"},{"path":"Transform Your Programming with AI Coding Tools","position":1,"total":7,"prev":null,"next":"Using AI in the Design to Full-Stack Development Life Cycle"}]'
 path_count: 3
 tags:
   - course
@@ -20,7 +29,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Build with AI: Beyond Pair Programming with AI](https://media.licdn.com/dms/image/v2/D4D0DAQFnn88AnL99Bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734482641915?e=2147483647&amp;v=beta&amp;t=PyGUMR541aabul9_VvxlLwGNxpbWWuF6U0-aDJ7Fp6M)

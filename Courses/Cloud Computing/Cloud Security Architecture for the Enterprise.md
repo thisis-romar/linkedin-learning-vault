@@ -18,9 +18,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEXGp8d9-Sy6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722548383745?e=2147483647&amp;v=beta&amp;t=iZSQ2GYGv6uLrwylOKHSesaJsXFcY5o03UAczmqQc3Y"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Build an Enterprise Cloud Architecture
-  - Cloud Strategy Professional Certificate by LinkedIn Learning
-  - Identity and Access Management in Azure
+  - '[[Build an Enterprise Cloud Architecture]]'
+  - '[[Cloud Strategy Professional Certificate by LinkedIn Learning]]'
+  - '[[Identity and Access Management in Azure]]'
+prev_courses:
+  - '[[Cloud Architecture- Advanced Concepts]]'
+  - '[[Cloud Architecture- Design Decisions]]'
+  - '[[Azure for Architects- Security and Identity Management with Microsoft Entra]]'
+next_courses:
+  - '[[Building a Cloud Architecture Diagram]]'
+  - '[[Planning a Multicloud Solution (2022)]]'
+  - null
+path_nav: '[{"path":"Build an Enterprise Cloud Architecture","position":3,"total":4,"prev":"Cloud Architecture- Advanced Concepts","next":"Building a Cloud Architecture Diagram"},{"path":"Cloud Strategy Professional Certificate by LinkedIn Learning","position":5,"total":9,"prev":"Cloud Architecture- Design Decisions","next":"Planning a Multicloud Solution (2022)"},{"path":"Identity and Access Management in Azure","position":4,"total":4,"prev":"Azure for Architects- Security and Identity Management with Microsoft Entra","next":null}]'
 path_count: 3
 tags:
   - course
@@ -31,7 +40,7 @@ tags:
   - skill/cloud-security
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Security Architecture for the Enterprise](https://media.licdn.com/dms/image/v2/D560DAQEXGp8d9-Sy6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722548383745?e=2147483647&amp;v=beta&amp;t=iZSQ2GYGv6uLrwylOKHSesaJsXFcY5o03UAczmqQc3Y)

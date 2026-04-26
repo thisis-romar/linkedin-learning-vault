@@ -16,14 +16,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQElJVbEcraezQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679597245435?e=2147483647&amp;v=beta&amp;t=V0e_3Gh9lwGGiXzIis8EqMmmx3xvtbMRHUB-31ftvjU"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Getting Started with Microsoft 365
+  - '[[Getting Started with Microsoft 365]]'
+prev_courses:
+  - '[[Learning Excel Desktop Microsoft 365]]'
+next_courses:
+  - '[[Learning PowerPoint Desktop (Microsoft 365)]]'
+path_nav: '[{"path":"Getting Started with Microsoft 365","position":2,"total":6,"prev":"Learning Excel Desktop Microsoft 365","next":"Learning PowerPoint Desktop (Microsoft 365)"}]'
 path_count: 1
 tags:
   - course
   - topic/cloud-computing
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Outlook Desktop (Microsoft 365)](https://media.licdn.com/dms/image/v2/C4D0DAQElJVbEcraezQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679597245435?e=2147483647&amp;v=beta&amp;t=V0e_3Gh9lwGGiXzIis8EqMmmx3xvtbMRHUB-31ftvjU)

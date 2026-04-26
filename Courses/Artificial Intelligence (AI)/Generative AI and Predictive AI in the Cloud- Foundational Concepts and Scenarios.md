@@ -19,8 +19,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQG8SRKy6oi9eA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710365347968?e=2147483647&amp;v=beta&amp;t=4BOniFSQUgwfdkxKUHrRDvYWUeAKBlVP5nMZDqm7yN0"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security
-  - Foundational AI Skills for Azure Administration
+  - '[[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]]'
+  - '[[Foundational AI Skills for Azure Administration]]'
+prev_courses:
+  - '[[Learning Kubernetes]]'
+  - null
+next_courses:
+  - '[[MLOps Tools- MLflow and Hugging Face]]'
+  - '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
+path_nav: '[{"path":"MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security","position":3,"total":10,"prev":"Learning Kubernetes","next":"MLOps Tools- MLflow and Hugging Face"},{"path":"Foundational AI Skills for Azure Administration","position":1,"total":6,"prev":null,"next":"Understanding Generative AI in Cloud Computing- Services and Use Cases"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/cloud-computing
   - skill/predictive-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Generative AI and Predictive AI in the Cloud: Foundational Concepts and Scenarios](https://media.licdn.com/dms/image/v2/D4E0DAQG8SRKy6oi9eA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710365347968?e=2147483647&amp;v=beta&amp;t=4BOniFSQUgwfdkxKUHrRDvYWUeAKBlVP5nMZDqm7yN0)

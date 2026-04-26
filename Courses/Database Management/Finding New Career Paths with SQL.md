@@ -19,8 +19,12 @@ github: "https://github.com/LinkedInLearning/finding-new-career-paths-with-sql-2
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEjfbkJ3te4OQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634842881769?e=2147483647&amp;v=beta&amp;t=hddEvLs3coNMQBi3bsiknrxYJcFlU8xwujVaXnoy2rk"
 linkedin_topic: Database Management
 learning_paths:
-  - Explore a Career in Database Development
-  - Explore a Career in SQL Development
+  - '[[Explore a Career in Database Development]]'
+  - '[[Explore a Career in SQL Development]]'
+prev_courses:
+  - '[[Learning MySQL Development]]'
+  - '[[Nail Your SQL Interview]]'
+path_nav: '[{"path":"Explore a Career in Database Development","position":5,"total":5,"prev":"Learning MySQL Development","next":null},{"path":"Explore a Career in SQL Development","position":8,"total":8,"prev":"Nail Your SQL Interview","next":null}]'
 path_count: 2
 tags:
   - course
@@ -31,7 +35,7 @@ tags:
   - skill/sql
   - skill/career-path-planning
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Finding New Career Paths with SQL](https://media.licdn.com/dms/image/v2/C560DAQEjfbkJ3te4OQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634842881769?e=2147483647&amp;v=beta&amp;t=hddEvLs3coNMQBi3bsiknrxYJcFlU8xwujVaXnoy2rk)

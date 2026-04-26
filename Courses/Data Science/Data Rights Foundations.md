@@ -13,7 +13,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFCs5K5Ck54Yw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576518520458?e=2147483647&amp;v=beta&amp;t=D_r3_hrEbJBRtQe9d3NNogv2Jt1LcmFP27rxVUwHVrE"
 linkedin_topic: Data Science
 learning_paths:
-  - Mastering Data Governance and Ethics
+  - '[[Mastering Data Governance and Ethics]]'
+next_courses:
+  - '[[Learning Data Governance]]'
+path_nav: '[{"path":"Mastering Data Governance and Ethics","position":1,"total":9,"prev":null,"next":"Learning Data Governance"}]'
 path_count: 1
 tags:
   - course
@@ -21,7 +24,7 @@ tags:
   - skill/data-privacy
   - skill/personal-data-protection
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Data Rights Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQFCs5K5Ck54Yw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576518520458?e=2147483647&amp;v=beta&amp;t=D_r3_hrEbJBRtQe9d3NNogv2Jt1LcmFP27rxVUwHVrE)

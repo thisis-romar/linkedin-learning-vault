@@ -18,7 +18,10 @@ github: "https://github.com/LinkedInLearning/exploring-ktor-with-kotlin-multi-pl
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFfngO00MxqnQ/learning-public-crop_675_1200/B4EZjnfDwkIIAo-/0/1756230335761?e=2147483647&amp;v=beta&amp;t=jUfu6S51589bAn2Lh7Z106veCERpp9-E9PbKmSgGS1I"
 linkedin_topic: Mobile Development
 learning_paths:
-  - Kotlin Professional Certificate by JetBrains
+  - '[[Kotlin Professional Certificate by JetBrains]]'
+prev_courses:
+  - '[[Kotlin Multiplatform Development]]'
+path_nav: '[{"path":"Kotlin Professional Certificate by JetBrains","position":4,"total":4,"prev":"Kotlin Multiplatform Development","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/ktor
   - skill/kotlin
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Exploring Ktor with Kotlin Multiplatform and Compose](https://media.licdn.com/dms/image/v2/D4E0DAQFfngO00MxqnQ/learning-public-crop_675_1200/B4EZjnfDwkIIAo-/0/1756230335761?e=2147483647&amp;v=beta&amp;t=jUfu6S51589bAn2Lh7Z106veCERpp9-E9PbKmSgGS1I)

@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF5achG5lqJSg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646680400511?e=2147483647&amp;v=beta&amp;t=ge3URsuajV5fWmMo9tqRLzHBxClATHqwk_P6mF9FRHc"
 linkedin_topic: Web Development
 learning_paths:
-  - Getting Started with WordPress
+  - '[[Getting Started with WordPress]]'
+prev_courses:
+  - '[[JavaScript Essential Training]]'
+next_courses:
+  - '[[Troubleshoot and Repair Your WordPress Website]]'
+path_nav: '[{"path":"Getting Started with WordPress","position":9,"total":10,"prev":"JavaScript Essential Training","next":"Troubleshoot and Repair Your WordPress Website"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/staging-to-live
   - skill/wordpress-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![WordPress: Staging a Site](https://media.licdn.com/dms/image/v2/C560DAQF5achG5lqJSg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646680400511?e=2147483647&amp;v=beta&amp;t=ge3URsuajV5fWmMo9tqRLzHBxClATHqwk_P6mF9FRHc)

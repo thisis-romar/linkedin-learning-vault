@@ -8,8 +8,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEyONPb0Cg_rg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680204655176?e=2147483647&amp;v=beta&amp;t=yD2ESyqmsN6fzBzSMjnZFYcEO4I2lv0q2kRakWJLA7U"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advancing Your Azure Developer Skills- Exploring Complex Application Development
-  - Getting Started as an Azure Developer
+  - '[[Advancing Your Azure Developer Skills- Exploring Complex Application Development]]'
+  - '[[Getting Started as an Azure Developer]]'
+prev_courses:
+  - null
+  - '[[Azure DevOps for Beginners]]'
+next_courses:
+  - '[[Migrating to Azure]]'
+  - null
+path_nav: '[{"path":"Advancing Your Azure Developer Skills- Exploring Complex Application Development","position":1,"total":7,"prev":null,"next":"Migrating to Azure"},{"path":"Getting Started as an Azure Developer","position":7,"total":7,"prev":"Azure DevOps for Beginners","next":null}]'
 path_count: 2
 tags:
   - course
@@ -17,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Developing Ci Cd Solutions With Azure Devops](https://media.licdn.com/dms/image/v2/D560DAQEyONPb0Cg_rg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680204655176?e=2147483647&amp;v=beta&amp;t=yD2ESyqmsN6fzBzSMjnZFYcEO4I2lv0q2kRakWJLA7U)

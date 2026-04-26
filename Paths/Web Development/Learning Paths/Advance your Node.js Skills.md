@@ -49,7 +49,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Advance your Node.js Skills
@@ -81,3 +81,7 @@ _Paths that share courses with this one:_
 
 - [[Explore Web Development with Node.js]] (3 shared courses)
 - [[Explore App Development with the MERN Stack]] (2 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Web Development]]

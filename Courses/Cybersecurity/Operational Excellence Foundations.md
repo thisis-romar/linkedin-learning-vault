@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHXabuhepfj2g/learning-public-crop_675_1200/B4EZn0BMNXJAAY-/0/1760735577621?e=2147483647&amp;v=beta&amp;t=hbEPUMu-81M14np33uHbEvw73PECoOmoFXt8CAQgBXU"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills as a Supply Chain Manager
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+prev_courses:
+  - '[[Project Management Foundations- Integration]]'
+next_courses:
+  - '[[Lean Foundations]]'
+path_nav: '[{"path":"Advance Your Skills as a Supply Chain Manager","position":6,"total":15,"prev":"Project Management Foundations- Integration","next":"Lean Foundations"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/six-sigma
   - skill/operational-excellence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Operational Excellence Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQHXabuhepfj2g/learning-public-crop_675_1200/B4EZn0BMNXJAAY-/0/1760735577621?e=2147483647&amp;v=beta&amp;t=hbEPUMu-81M14np33uHbEvw73PECoOmoFXt8CAQgBXU)

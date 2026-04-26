@@ -18,7 +18,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFVuca7pibCRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695147619822?e=2147483647&amp;v=beta&amp;t=5nJbLKeX1sVhWFmVZXZG_74Fz9rc9Jt5oQBEnvN9KuM"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your AWS Development Skills- Exploring Complex Application Development
+  - '[[Advance Your AWS Development Skills- Exploring Complex Application Development]]'
+prev_courses:
+  - '[[Building Serverless Apps with AI Services on AWS]]'
+path_nav: '[{"path":"Advance Your AWS Development Skills- Exploring Complex Application Development","position":6,"total":6,"prev":"Building Serverless Apps with AI Services on AWS","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Building Intelligent Chatbots on AWS](https://media.licdn.com/dms/image/v2/D4E0DAQFVuca7pibCRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695147619822?e=2147483647&amp;v=beta&amp;t=5nJbLKeX1sVhWFmVZXZG_74Fz9rc9Jt5oQBEnvN9KuM)

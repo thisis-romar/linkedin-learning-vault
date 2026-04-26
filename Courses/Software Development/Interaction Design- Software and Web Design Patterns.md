@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHvb4ZXlRWWWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571957838671?e=2147483647&amp;v=beta&amp;t=ygtLeijZiIirU2X2Po6yTolT5rfSejWoLMbRLkLtsHU"
 linkedin_topic: Software Development
 learning_paths:
-  - Exploring a Career in Interaction Design
+  - '[[Exploring a Career in Interaction Design]]'
+prev_courses:
+  - '[[Interaction Design- Structure]]'
+next_courses:
+  - '[[Interaction Design for Ecommerce]]'
+path_nav: '[{"path":"Exploring a Career in Interaction Design","position":3,"total":9,"prev":"Interaction Design- Structure","next":"Interaction Design for Ecommerce"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Interaction Design: Software and Web Design Patterns](https://media.licdn.com/dms/image/v2/C560DAQHvb4ZXlRWWWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571957838671?e=2147483647&amp;v=beta&amp;t=ygtLeijZiIirU2X2Po6yTolT5rfSejWoLMbRLkLtsHU)

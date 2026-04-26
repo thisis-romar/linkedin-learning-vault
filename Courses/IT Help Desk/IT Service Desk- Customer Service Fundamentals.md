@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQHx-DhtZTgkVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567195538838?e=2147483647&amp;v=beta&amp;t=GOqfMS44b3B6oFoh6bLRciHYfdX12UNumwiWxaEuRQI"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Advance Your Skills as an IT Help Desk Specialist
+  - '[[Advance Your Skills as an IT Help Desk Specialist]]'
+prev_courses:
+  - '[[Computer Components and Peripherals for IT Technicians]]'
+next_courses:
+  - '[[Writing Customer Service Emails]]'
+path_nav: '[{"path":"Advance Your Skills as an IT Help Desk Specialist","position":6,"total":11,"prev":"Computer Components and Peripherals for IT Technicians","next":"Writing Customer Service Emails"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/it-service-management
   - skill/customer-service-skills
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![IT Service Desk: Customer Service Fundamentals](https://media.licdn.com/dms/image/v2/C4D0DAQHx-DhtZTgkVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567195538838?e=2147483647&amp;v=beta&amp;t=GOqfMS44b3B6oFoh6bLRciHYfdX12UNumwiWxaEuRQI)

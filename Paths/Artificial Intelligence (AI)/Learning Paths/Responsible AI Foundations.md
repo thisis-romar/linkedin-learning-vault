@@ -39,7 +39,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Responsible AI Foundations
@@ -72,3 +72,7 @@ _Paths that share courses with this one:_
 - [[AI Regulations for Tech Leaders- The EU AI Act and More]] (2 shared courses)
 - [[Applying AI as a Tech Leader]] (1 shared courses)
 - [[Mastering Responsible AI- From Concept to Auditing]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

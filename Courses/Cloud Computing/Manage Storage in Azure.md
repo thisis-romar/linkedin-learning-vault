@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/manage-storage-in-azure-4413556"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGz9LokEdqyeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696813122151?e=2147483647&amp;v=beta&amp;t=c1OT2DujyEF-D8FgCZjziYOopQvCe13wNGwMKAzXFEQ"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals
+  - '[[Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals]]'
+prev_courses:
+  - '[[Microsoft Azure- Networking Concepts]]'
+next_courses:
+  - '[[Controlling Cost with Azure Management and Billing]]'
+path_nav: '[{"path":"Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals","position":7,"total":8,"prev":"Microsoft Azure- Networking Concepts","next":"Controlling Cost with Azure Management and Billing"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/microsoft-azure
   - skill/cloud-storage
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Manage Storage in Azure](https://media.licdn.com/dms/image/v2/D560DAQGz9LokEdqyeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696813122151?e=2147483647&amp;v=beta&amp;t=c1OT2DujyEF-D8FgCZjziYOopQvCe13wNGwMKAzXFEQ)

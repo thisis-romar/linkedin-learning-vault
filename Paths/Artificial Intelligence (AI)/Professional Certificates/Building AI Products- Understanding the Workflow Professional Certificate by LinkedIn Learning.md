@@ -43,7 +43,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Building AI Products: Understanding the Workflow Professional Certificate by LinkedIn Learning
@@ -67,3 +67,7 @@ created: '2026-04-20'
 
 - [[Artificial Intelligence (AI)]]
 - [[Software Development]]
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

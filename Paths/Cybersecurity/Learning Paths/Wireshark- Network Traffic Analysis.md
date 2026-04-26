@@ -7,7 +7,7 @@ course_count: 5
 linkedin_topics:
   - Cybersecurity
   - Network and System Administration
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/security
@@ -39,7 +39,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Wireshark: Network Traffic Analysis
@@ -69,3 +69,7 @@ _Paths that share courses with this one:_
 
 - [[VoIP- From Fundamentals to Troubleshooting]] (1 shared courses)
 - [[Explore a Career in Computer Forensics]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Cybersecurity]]

@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGzbpxDbiFDCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660760035765?e=2147483647&amp;v=beta&amp;t=wSAPuZDQTgNdWyga5CuVmumumOxXhJ7OTejXJi-g2xo"
 linkedin_topic: Web Development
 learning_paths:
-  - Explore Web Development with Node.js
+  - '[[Explore Web Development with Node.js]]'
+prev_courses:
+  - '[[Advanced Express]]'
+next_courses:
+  - '[[Building RESTful APIs with Node.js and Express]]'
+path_nav: '[{"path":"Explore Web Development with Node.js","position":7,"total":11,"prev":"Advanced Express","next":"Building RESTful APIs with Node.js and Express"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/node-js
   - skill/software-deployment
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Node.js: Web Servers, Tests, and Deployment](https://media.licdn.com/dms/image/v2/C4E0DAQGzbpxDbiFDCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660760035765?e=2147483647&amp;v=beta&amp;t=wSAPuZDQTgNdWyga5CuVmumumOxXhJ7OTejXJi-g2xo)

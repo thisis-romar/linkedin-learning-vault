@@ -19,7 +19,10 @@ github: "https://github.com/LinkedInLearning/hands-on-ai-rag-using-llamaindex-38
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEi-KCygqsEWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721080561320?e=2147483647&amp;v=beta&amp;t=Z1L7EVvB7xynoqBbYIgM_dU0adZMHQbT_sRIn5nFRfg"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Master Retrieval-Augmented Generation (RAG)
+  - '[[Master Retrieval-Augmented Generation (RAG)]]'
+prev_courses:
+  - '[[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]]'
+path_nav: '[{"path":"Master Retrieval-Augmented Generation (RAG)","position":7,"total":7,"prev":"Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)","next":null}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +33,7 @@ tags:
   - skill/retrieval-augmented-generation-rag
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Hands-On AI: RAG using LlamaIndex](https://media.licdn.com/dms/image/v2/D560DAQEi-KCygqsEWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721080561320?e=2147483647&amp;v=beta&amp;t=Z1L7EVvB7xynoqBbYIgM_dU0adZMHQbT_sRIn5nFRfg)

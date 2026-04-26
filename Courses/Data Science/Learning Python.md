@@ -17,7 +17,12 @@ github: "https://github.com/LinkedInLearning/learning-python-3980343/codespaces"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQECotgjIKCbrw/learning-public-crop_675_1200/B4EZT7PgtEGwAc-/0/1739381935225?e=2147483647&amp;v=beta&amp;t=zavFdzEcNtb5C3H8Q58J2_FVW9eqwIM5x_aSr1xHRzQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started with Python
+  - '[[Getting Started with Python]]'
+prev_courses:
+  - '[[Python Essential Training]]'
+next_courses:
+  - '[[Python Object-Oriented Programming]]'
+path_nav: '[{"path":"Getting Started with Python","position":2,"total":8,"prev":"Python Essential Training","next":"Python Object-Oriented Programming"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Python](https://media.licdn.com/dms/image/v2/D4E0DAQECotgjIKCbrw/learning-public-crop_675_1200/B4EZT7PgtEGwAc-/0/1739381935225?e=2147483647&amp;v=beta&amp;t=zavFdzEcNtb5C3H8Q58J2_FVW9eqwIM5x_aSr1xHRzQ)

@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGTYyVcE-X8RA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568060957879?e=2147483647&amp;v=beta&amp;t=YKA7OB2M3WJyNk3QkyMFF2k7f_lkrZwTG7ffxNR2Vb4"
 linkedin_topic: Data Science
 learning_paths:
-  - Advance Your Data Skills in Apache Spark
+  - '[[Advance Your Data Skills in Apache Spark]]'
+prev_courses:
+  - '[[Introduction to Spark SQL and DataFrames]]'
+next_courses:
+  - '[[Architecting Big Data Applications- Batch Mode Application Engineering]]'
+path_nav: '[{"path":"Advance Your Data Skills in Apache Spark","position":3,"total":6,"prev":"Introduction to Spark SQL and DataFrames","next":"Architecting Big Data Applications- Batch Mode Application Engineering"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/azure-databricks
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure Spark Databricks Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQGTYyVcE-X8RA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568060957879?e=2147483647&amp;v=beta&amp;t=YKA7OB2M3WJyNk3QkyMFF2k7f_lkrZwTG7ffxNR2Vb4)

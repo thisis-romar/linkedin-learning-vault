@@ -6,7 +6,7 @@ course_count: 1
 tags:
   - skill
   - skill/representational-state-transfer-rest
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Representational State Transfer (REST)

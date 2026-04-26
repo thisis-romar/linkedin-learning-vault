@@ -20,8 +20,15 @@ github: "https://github.com/LinkedInLearning/artificial-intelligence-foundations
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEoegTVKM0iTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694723397057?e=2147483647&amp;v=beta&amp;t=Nn5XMdUTS1tcv2sWCXtk_RPTRd0wUMBaXEe8Bs4yl88"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Advance Your Skills in Deep Learning and Neural Networks
-  - Getting Started with AI and Machine Learning
+  - '[[Advance Your Skills in Deep Learning and Neural Networks]]'
+  - '[[Getting Started with AI and Machine Learning]]'
+prev_courses:
+  - '[[Deep Learning Getting Started]]'
+  - '[[Hands-On PyTorch Machine Learning]]'
+next_courses:
+  - '[[Deep Learning with Python- Convolutional Neural Networks]]'
+  - null
+path_nav: '[{"path":"Advance Your Skills in Deep Learning and Neural Networks","position":2,"total":8,"prev":"Deep Learning Getting Started","next":"Deep Learning with Python- Convolutional Neural Networks"},{"path":"Getting Started with AI and Machine Learning","position":7,"total":7,"prev":"Hands-On PyTorch Machine Learning","next":null}]'
 path_count: 2
 tags:
   - course
@@ -31,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Artificial Intelligence Foundations: Neural Networks](https://media.licdn.com/dms/image/v2/D560DAQEoegTVKM0iTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694723397057?e=2147483647&amp;v=beta&amp;t=Nn5XMdUTS1tcv2sWCXtk_RPTRd0wUMBaXEe8Bs4yl88)

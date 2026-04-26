@@ -18,8 +18,15 @@ github: "https://github.com/LinkedInLearning/power-bi-data-methods-3812122/"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQERek4YP-UxwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709937715535?e=2147483647&amp;v=beta&amp;t=llLfmIN-LfWmN-ry9_rgoU6Q10yHytR2XNy6N82kzEA"
 linkedin_topic: Data Science
 learning_paths:
-  - Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation
-  - Master Microsoft Power BI
+  - '[[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]]'
+  - '[[Master Microsoft Power BI]]'
+prev_courses:
+  - '[[SQL- Data Reporting and Analysis]]'
+  - '[[Power BI- Working Together with ChatGPT]]'
+next_courses:
+  - '[[Program Evaluation for Data Science]]'
+  - '[[Power BI Dataflows Essential Training]]'
+path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation","position":8,"total":9,"prev":"SQL- Data Reporting and Analysis","next":"Program Evaluation for Data Science"},{"path":"Master Microsoft Power BI","position":2,"total":6,"prev":"Power BI- Working Together with ChatGPT","next":"Power BI Dataflows Essential Training"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/data-analysis
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Power BI Data Methods](https://media.licdn.com/dms/image/v2/D560DAQERek4YP-UxwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709937715535?e=2147483647&amp;v=beta&amp;t=llLfmIN-LfWmN-ry9_rgoU6Q10yHytR2XNy6N82kzEA)

@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQGzhdYQOA6pDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1600371493000?e=2147483647&amp;v=beta&amp;t=j16eNmCAb2IkLECpQhb4ARcIFu-l0Ds-2Q6YE9xZl0k"
 linkedin_topic: Data Science
 learning_paths:
-  - Master SQL Development
+  - '[[Master SQL Development]]'
+prev_courses:
+  - '[[Advanced SQL- Logical Query Processing, Part 1]]'
+next_courses:
+  - '[[Advanced SQL – Window Functions]]'
+path_nav: '[{"path":"Master SQL Development","position":3,"total":8,"prev":"Advanced SQL- Logical Query Processing, Part 1","next":"Advanced SQL – Window Functions"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced SQL: Logical Query Processing, Part 2](https://media.licdn.com/dms/image/v2/C4D0DAQGzhdYQOA6pDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1600371493000?e=2147483647&amp;v=beta&amp;t=j16eNmCAb2IkLECpQhb4ARcIFu-l0Ds-2Q6YE9xZl0k)

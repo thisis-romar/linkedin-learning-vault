@@ -18,7 +18,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEY9kaTr1GtrQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718987888877?e=2147483647&amp;v=beta&amp;t=jHYGkbDeSlq7KNqHihruuknzWHo38Q5vmOjTA621FfI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Manage Your LLMs with LLMOps
+  - '[[Manage Your LLMs with LLMOps]]'
+prev_courses:
+  - '[[Advanced LLMOps- Deploying and Managing LLMs in Production]]'
+path_nav: '[{"path":"Manage Your LLMs with LLMOps","position":4,"total":4,"prev":"Advanced LLMOps- Deploying and Managing LLMs in Production","next":null}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +32,7 @@ tags:
   - skill/large-language-models-llm
   - skill/enterprise-software
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![LLM Foundations: Building Effective Applications for Enterprises](https://media.licdn.com/dms/image/v2/D560DAQEY9kaTr1GtrQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718987888877?e=2147483647&amp;v=beta&amp;t=jHYGkbDeSlq7KNqHihruuknzWHo38Q5vmOjTA621FfI)

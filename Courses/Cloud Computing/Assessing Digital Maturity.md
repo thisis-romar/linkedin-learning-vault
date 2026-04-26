@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFUSQUv6ogumw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567721258200?e=2147483647&amp;v=beta&amp;t=6VKPEkD0_wbRvQwGUP9Sek4Yt5ZzakeM-QipKas6nMI"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Digital Transformation for Tech Leaders
+  - '[[Digital Transformation for Tech Leaders]]'
+prev_courses:
+  - '[[Introduction to 5G]]'
+next_courses:
+  - '[[Cloud Architecture- Core Concepts]]'
+path_nav: '[{"path":"Digital Transformation for Tech Leaders","position":14,"total":15,"prev":"Introduction to 5G","next":"Cloud Architecture- Core Concepts"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/digital-transformation
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Assessing Digital Maturity](https://media.licdn.com/dms/image/v2/C4E0DAQFUSQUv6ogumw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567721258200?e=2147483647&amp;v=beta&amp;t=6VKPEkD0_wbRvQwGUP9Sek4Yt5ZzakeM-QipKas6nMI)

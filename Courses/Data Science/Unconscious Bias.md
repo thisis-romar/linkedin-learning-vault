@@ -16,8 +16,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFmRSjK8MfqaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651515769163?e=2147483647&amp;v=beta&amp;t=tMQeUht8B0g5ReFaywrbHvoaKMWN2lxC_61-SpnvZ8Y"
 linkedin_topic: Data Science
 learning_paths:
-  - The Top 10 Most Popular Courses among Engineering Professionals
-  - The Top 10 Most Popular Courses among IT Professionals
+  - '[[The Top 10 Most Popular Courses among Engineering Professionals]]'
+  - '[[The Top 10 Most Popular Courses among IT Professionals]]'
+prev_courses:
+  - '[[React Essential Training]]'
+  - '[[SQL Essential Training]]'
+next_courses:
+  - '[[Strategic Thinking]]'
+  - '[[Strategic Thinking]]'
+path_nav: '[{"path":"The Top 10 Most Popular Courses among Engineering Professionals","position":3,"total":10,"prev":"React Essential Training","next":"Strategic Thinking"},{"path":"The Top 10 Most Popular Courses among IT Professionals","position":2,"total":10,"prev":"SQL Essential Training","next":"Strategic Thinking"}]'
 path_count: 2
 tags:
   - course
@@ -30,7 +37,7 @@ tags:
   - skill/unconscious-bias-awareness-training
   - skill/diversity-and-inclusion
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Unconscious Bias](https://media.licdn.com/dms/image/v2/C560DAQFmRSjK8MfqaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651515769163?e=2147483647&amp;v=beta&amp;t=tMQeUht8B0g5ReFaywrbHvoaKMWN2lxC_61-SpnvZ8Y)

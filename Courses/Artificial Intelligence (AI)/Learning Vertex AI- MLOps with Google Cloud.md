@@ -19,7 +19,10 @@ github: "https://github.com/LinkedInLearning/learning-vertex-ai-mlops-with-googl
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGW2u39Kq1kjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727390394338?e=2147483647&amp;v=beta&amp;t=N9FouCaiGWlHWH8_UaVRHToPDxxto73D8RKGk8chnRE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Develop Your AI Skills with Google Gemini and Google Cloud Platform
+  - '[[Develop Your AI Skills with Google Gemini and Google Cloud Platform]]'
+prev_courses:
+  - '[[Google Cloud Platform for Machine Learning Essential Training]]'
+path_nav: '[{"path":"Develop Your AI Skills with Google Gemini and Google Cloud Platform","position":7,"total":7,"prev":"Google Cloud Platform for Machine Learning Essential Training","next":null}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/vertex
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Vertex AI: MLOps with Google Cloud](https://media.licdn.com/dms/image/v2/D4D0DAQGW2u39Kq1kjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727390394338?e=2147483647&amp;v=beta&amp;t=N9FouCaiGWlHWH8_UaVRHToPDxxto73D8RKGk8chnRE)

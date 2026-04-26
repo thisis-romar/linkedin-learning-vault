@@ -17,7 +17,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEMj9WBPAggqQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661384911941?e=2147483647&amp;v=beta&amp;t=UpRXBv75APup0qWqXt7qrs1_xBq8_ZI6i4199_3Uswk"
 linkedin_topic: Software Development
 learning_paths:
-  - Twilio Programmable Messaging and Voice Professional Certificate
+  - '[[Twilio Programmable Messaging and Voice Professional Certificate]]'
+prev_courses:
+  - '[[Twilio Essentials Unit 2- Programmable Voice]]'
+path_nav: '[{"path":"Twilio Programmable Messaging and Voice Professional Certificate","position":3,"total":3,"prev":"Twilio Essentials Unit 2- Programmable Voice","next":null}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/twilio
   - skill/serverless-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Twilio Essentials Unit 3: All Together Now](https://media.licdn.com/dms/image/v2/C560DAQEMj9WBPAggqQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661384911941?e=2147483647&amp;v=beta&amp;t=UpRXBv75APup0qWqXt7qrs1_xBq8_ZI6i4199_3Uswk)

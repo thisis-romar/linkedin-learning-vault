@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQH51xAl4RFJ0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117610592?e=2147483647&amp;v=beta&amp;t=tXzvEu1g5BOb63e5upc8jpo7c5FTHuFoKLz9x8bCdNo"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started with C++
+  - '[[Getting Started with C++]]'
+prev_courses:
+  - '[[Complete Guide To C Plus Plus Programming Foundations]]'
+next_courses:
+  - '[[Learning C++]]'
+path_nav: '[{"path":"Getting Started with C++","position":2,"total":5,"prev":"Complete Guide To C Plus Plus Programming Foundations","next":"Learning C++"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/functional-programming
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introducing Functional Programming in C++](https://media.licdn.com/dms/image/v2/C4E0DAQH51xAl4RFJ0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117610592?e=2147483647&amp;v=beta&amp;t=tXzvEu1g5BOb63e5upc8jpo7c5FTHuFoKLz9x8bCdNo)

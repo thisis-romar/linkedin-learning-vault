@@ -15,7 +15,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEzD82BcxKqIg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707529774021?e=2147483647&amp;v=beta&amp;t=d_haMI8WqmYuIvSki9LnBjI_Aj-ZEpvpnLFSK252yts"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your Skills as a Supply Chain Manager
+  - '[[Advance Your Skills as a Supply Chain Manager]]'
+next_courses:
+  - '[[Business Acumen for Project Managers]]'
+path_nav: '[{"path":"Advance Your Skills as a Supply Chain Manager","position":1,"total":15,"prev":null,"next":"Business Acumen for Project Managers"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - skill/supply-chain-operations
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Supply Chain And Operations Careers Certification Tips And Tricks](https://media.licdn.com/dms/image/v2/D560DAQEzD82BcxKqIg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707529774021?e=2147483647&amp;v=beta&amp;t=d_haMI8WqmYuIvSki9LnBjI_Aj-ZEpvpnLFSK252yts)

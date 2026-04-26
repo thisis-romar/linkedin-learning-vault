@@ -14,14 +14,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF4LHwu04Zt-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722275062045?e=2147483647&amp;v=beta&amp;t=RCF-u8CYPP_za8sn3kwhaOBuWNLpqU2EgVNRG5eHuOI"
 linkedin_topic: Data Science
 learning_paths:
-  - LinkedIn’s 2025 Top MBA Programs Learning Path
+  - '[[LinkedIn’s 2025 Top MBA Programs Learning Path]]'
+next_courses:
+  - '[[Interpersonal Communication]]'
+path_nav: '[{"path":"LinkedIn’s 2025 Top MBA Programs Learning Path","position":1,"total":10,"prev":null,"next":"Interpersonal Communication"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/executive-leadership
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Executive Leadership](https://media.licdn.com/dms/image/v2/D560DAQF4LHwu04Zt-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722275062045?e=2147483647&amp;v=beta&amp;t=RCF-u8CYPP_za8sn3kwhaOBuWNLpqU2EgVNRG5eHuOI)

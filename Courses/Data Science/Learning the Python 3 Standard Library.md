@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGa9J7SjcoqxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720644234693?e=2147483647&amp;v=beta&amp;t=_Pi99_2J4YOdxDLuQBf8KTNTFrMRq-8g4LecKImUSac"
 linkedin_topic: Data Science
 learning_paths:
-  - Getting Started with Python
+  - '[[Getting Started with Python]]'
+prev_courses:
+  - '[[Python Object-Oriented Programming]]'
+next_courses:
+  - '[[Programming Foundations- Data Structures]]'
+path_nav: '[{"path":"Getting Started with Python","position":4,"total":8,"prev":"Python Object-Oriented Programming","next":"Programming Foundations- Data Structures"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning the Python 3 Standard Library](https://media.licdn.com/dms/image/v2/D560DAQGa9J7SjcoqxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720644234693?e=2147483647&amp;v=beta&amp;t=_Pi99_2J4YOdxDLuQBf8KTNTFrMRq-8g4LecKImUSac)

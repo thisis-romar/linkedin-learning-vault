@@ -15,7 +15,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFWeE9toDLZ-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638901954967?e=2147483647&amp;v=beta&amp;t=5DDsMvf2LBMeBnjcyg4TgzgS4LXAOFl0LQGjA0orAO8"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Advance Your Skills as an IT Help Desk Specialist
+  - '[[Advance Your Skills as an IT Help Desk Specialist]]'
+next_courses:
+  - '[[Windows 10- Manage and Maintain Windows 10]]'
+path_nav: '[{"path":"Advance Your Skills as an IT Help Desk Specialist","position":1,"total":11,"prev":null,"next":"Windows 10- Manage and Maintain Windows 10"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - skill/windows-system-administration
   - skill/windows-10
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows 10 Configure And Support Core Services](https://media.licdn.com/dms/image/v2/C560DAQFWeE9toDLZ-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638901954967?e=2147483647&amp;v=beta&amp;t=5DDsMvf2LBMeBnjcyg4TgzgS4LXAOFl0LQGjA0orAO8)

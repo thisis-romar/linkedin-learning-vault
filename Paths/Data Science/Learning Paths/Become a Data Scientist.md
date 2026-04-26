@@ -61,7 +61,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Become a Data Scientist
@@ -99,3 +99,7 @@ _Paths that share courses with this one:_
 - [[Develop Your Data Analysis Skills]] (3 shared courses)
 - [[Mastering Executive-Level Data Analytics]] (3 shared courses)
 - [[Starting Your Career in Tech- Data Science]] (3 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

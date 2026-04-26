@@ -14,14 +14,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGT2m2g7nf38w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589562655399?e=2147483647&amp;v=beta&amp;t=1Ds6_nyk5uZc3u7cqeUiA3DCR0yI4w9pi1WsbHDRQc8"
 linkedin_topic: Web Development
 learning_paths:
-  - Improve Your UX Design Skills
+  - '[[Improve Your UX Design Skills]]'
+prev_courses:
+  - '[[UX Deep Dive- Usability Testing]]'
+next_courses:
+  - '[[Empathy in UX Design]]'
+path_nav: '[{"path":"Improve Your UX Design Skills","position":5,"total":7,"prev":"UX Deep Dive- Usability Testing","next":"Empathy in UX Design"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/user-experience-ux
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![UX Foundations: Generational Design](https://media.licdn.com/dms/image/v2/C560DAQGT2m2g7nf38w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589562655399?e=2147483647&amp;v=beta&amp;t=1Ds6_nyk5uZc3u7cqeUiA3DCR0yI4w9pi1WsbHDRQc8)

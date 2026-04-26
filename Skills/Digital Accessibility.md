@@ -6,7 +6,7 @@ course_count: 10
 tags:
   - skill
   - skill/digital-accessibility
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Digital Accessibility

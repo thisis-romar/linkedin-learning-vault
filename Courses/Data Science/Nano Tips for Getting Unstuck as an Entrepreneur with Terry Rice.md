@@ -15,7 +15,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHFx6_W9_4pNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702931726284?e=2147483647&amp;v=beta&amp;t=F1M_HuFQefUF639a9vUNXwoPBE44_QzV5Wdym95B-h4"
 linkedin_topic: Data Science
 learning_paths:
-  - LinkedIn’s 2025 Top MBA Programs Learning Path
+  - '[[LinkedIn’s 2025 Top MBA Programs Learning Path]]'
+prev_courses:
+  - '[[Data Decision-Making and Communication for Leaders with Nancy Duarte]]'
+next_courses:
+  - '[[AI Literacy for Business Leaders]]'
+path_nav: '[{"path":"LinkedIn’s 2025 Top MBA Programs Learning Path","position":8,"total":10,"prev":"Data Decision-Making and Communication for Leaders with Nancy Duarte","next":"AI Literacy for Business Leaders"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +28,7 @@ tags:
   - skill/business-development
   - skill/entrepreneurship
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Nano Tips for Getting Unstuck as an Entrepreneur with Terry Rice](https://media.licdn.com/dms/image/v2/D560DAQHFx6_W9_4pNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702931726284?e=2147483647&amp;v=beta&amp;t=F1M_HuFQefUF639a9vUNXwoPBE44_QzV5Wdym95B-h4)

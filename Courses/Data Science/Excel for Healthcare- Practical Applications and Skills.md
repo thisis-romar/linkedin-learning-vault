@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQHkIBThz5nj3Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727391844953?e=2147483647&amp;v=beta&amp;t=ZZKgFN5O5owlcSXkuegRg1Kt-WpbOd8edo3P4R6TuJA"
 linkedin_topic: Data Science
 learning_paths:
-  - Hands-On Healthcare Analytics
+  - '[[Hands-On Healthcare Analytics]]'
+prev_courses:
+  - '[[The Data Science Of Healthcare Medicine And Public Health]]'
+next_courses:
+  - '[[Python for Health Sciences and Healthcare]]'
+path_nav: '[{"path":"Hands-On Healthcare Analytics","position":2,"total":8,"prev":"The Data Science Of Healthcare Medicine And Public Health","next":"Python for Health Sciences and Healthcare"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/microsoft-excel
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel for Healthcare: Practical Applications and Skills](https://media.licdn.com/dms/image/v2/D4D0DAQHkIBThz5nj3Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727391844953?e=2147483647&amp;v=beta&amp;t=ZZKgFN5O5owlcSXkuegRg1Kt-WpbOd8edo3P4R6TuJA)

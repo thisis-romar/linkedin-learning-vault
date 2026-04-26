@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFuGUrMR1N9XQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679597418955?e=2147483647&amp;v=beta&amp;t=EydjCkyfxaePnF9kSCubgYJvF5NI7al2yVYBqO6kQKY"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - CISO Leadership- Managing a Cybersecurity Program
+  - '[[CISO Leadership- Managing a Cybersecurity Program]]'
+prev_courses:
+  - '[[Leveraging Security Metrics in Your Organization]]'
+next_courses:
+  - '[[Cybersecurity Outsourcing- Vendor Selection and Management]]'
+path_nav: '[{"path":"CISO Leadership- Managing a Cybersecurity Program","position":4,"total":8,"prev":"Leveraging Security Metrics in Your Organization","next":"Cybersecurity Outsourcing- Vendor Selection and Management"}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +32,7 @@ tags:
   - skill/board-presentations
   - skill/cybersecurity
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![CISO Foundations: Influencing the Board and C-Suite](https://media.licdn.com/dms/image/v2/C4D0DAQFuGUrMR1N9XQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679597418955?e=2147483647&amp;v=beta&amp;t=EydjCkyfxaePnF9kSCubgYJvF5NI7al2yVYBqO6kQKY)

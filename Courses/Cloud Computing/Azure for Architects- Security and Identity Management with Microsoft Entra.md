@@ -19,7 +19,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE35STgQ-7-Gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728680931860?e=2147483647&amp;v=beta&amp;t=3eElO4M-oq2AdZb7IVw92k7sgco26H6TDHoq99rlW78"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Identity and Access Management in Azure
+  - '[[Identity and Access Management in Azure]]'
+prev_courses:
+  - '[[Microsoft Azure- Identity and Access Management]]'
+next_courses:
+  - '[[Cloud Security Architecture for the Enterprise]]'
+path_nav: '[{"path":"Identity and Access Management in Azure","position":3,"total":4,"prev":"Microsoft Azure- Identity and Access Management","next":"Cloud Security Architecture for the Enterprise"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/multi-factor-authentication
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure for Architects: Security and Identity Management with Microsoft Entra](https://media.licdn.com/dms/image/v2/D4D0DAQE35STgQ-7-Gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728680931860?e=2147483647&amp;v=beta&amp;t=3eElO4M-oq2AdZb7IVw92k7sgco26H6TDHoq99rlW78)

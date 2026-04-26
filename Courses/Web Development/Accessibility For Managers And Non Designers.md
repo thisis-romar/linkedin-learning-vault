@@ -8,13 +8,16 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH7iq_SqUMDxg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682106959044?e=2147483647&amp;v=beta&amp;t=pTa6KdFvLAGaYsg-ENpMmkT8p35Odajf9r2PLuYce5U"
 linkedin_topic: Web Development
 learning_paths:
-  - Understanding Digital Accessibility
+  - '[[Understanding Digital Accessibility]]'
+next_courses:
+  - '[[Accessibility and AI- Bridging the Disability Divide]]'
+path_nav: '[{"path":"Understanding Digital Accessibility","position":1,"total":5,"prev":null,"next":"Accessibility and AI- Bridging the Disability Divide"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Accessibility For Managers And Non Designers](https://media.licdn.com/dms/image/v2/D560DAQH7iq_SqUMDxg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682106959044?e=2147483647&amp;v=beta&amp;t=pTa6KdFvLAGaYsg-ENpMmkT8p35Odajf9r2PLuYce5U)

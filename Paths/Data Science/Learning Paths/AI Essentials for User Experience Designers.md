@@ -39,7 +39,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # AI Essentials for User Experience Designers
@@ -62,3 +62,7 @@ created: '2026-04-20'
 
 - [[Data Science]]
 - [[Web Development]]
+
+---
+
+Part of [[000 Map of Content]] · [[Data Science]]

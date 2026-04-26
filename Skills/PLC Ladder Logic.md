@@ -6,7 +6,7 @@ course_count: 3
 tags:
   - skill
   - skill/plc-ladder-logic
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # PLC Ladder Logic

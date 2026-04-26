@@ -18,7 +18,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEK-77yja2h6A/learning-public-crop_675_1200/B4DZZp1oO4HwAY-/0/1745532389023?e=2147483647&amp;v=beta&amp;t=Z0uM4k7CPfk1u01oZu_W_FMeC9a-IJtfzPjs-lyu1pQ"
 linkedin_topic: DevOps
 learning_paths:
-  - Improve Your ITIL® Skills
+  - '[[Improve Your ITIL® Skills]]'
+prev_courses:
+  - '[[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]]'
+next_courses:
+  - '[[Putting ITIL® into Practice- Incident Management]]'
+path_nav: '[{"path":"Improve Your ITIL® Skills","position":4,"total":5,"prev":"Putting ITIL® into Practice- DevOps for ITIL® Practitioners","next":"Putting ITIL® into Practice- Incident Management"}]'
 path_count: 1
 tags:
   - course
@@ -28,7 +33,7 @@ tags:
   - skill/itil
   - skill/change-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Putting ITIL® into Practice: Change Enablement](https://media.licdn.com/dms/image/v2/D4D0DAQEK-77yja2h6A/learning-public-crop_675_1200/B4DZZp1oO4HwAY-/0/1745532389023?e=2147483647&amp;v=beta&amp;t=Z0uM4k7CPfk1u01oZu_W_FMeC9a-IJtfzPjs-lyu1pQ)

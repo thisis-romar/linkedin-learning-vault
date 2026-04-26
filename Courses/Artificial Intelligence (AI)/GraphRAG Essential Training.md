@@ -21,7 +21,12 @@ github: "https://github.com/LinkedInLearning/graphrag-essential-training-3981041
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFi9QampvwPSA/learning-public-crop_675_1200/B4DZetUdRvH4Ak-/0/1750959511423?e=2147483647&amp;v=beta&amp;t=of_oOKWXbCHekfDQV4BVnJvauTZd6DfRJGRwrabG1bo"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Explore AI for Data Engineering
+  - '[[Explore AI for Data Engineering]]'
+prev_courses:
+  - '[[Vector Databases in Practice- Deep Dive]]'
+next_courses:
+  - '[[Advanced RAG Applications with Vector Databases]]'
+path_nav: '[{"path":"Explore AI for Data Engineering","position":7,"total":8,"prev":"Vector Databases in Practice- Deep Dive","next":"Advanced RAG Applications with Vector Databases"}]'
 path_count: 1
 tags:
   - course
@@ -34,7 +39,7 @@ tags:
   - skill/knowledge-graphs
   - skill/graphrag
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![GraphRAG Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQFi9QampvwPSA/learning-public-crop_675_1200/B4DZetUdRvH4Ak-/0/1750959511423?e=2147483647&amp;v=beta&amp;t=of_oOKWXbCHekfDQV4BVnJvauTZd6DfRJGRwrabG1bo)

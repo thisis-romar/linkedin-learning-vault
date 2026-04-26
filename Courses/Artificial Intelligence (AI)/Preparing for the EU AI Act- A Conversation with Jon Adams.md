@@ -18,8 +18,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE2EEzDJhafOA/learning-public-crop_675_1200/B4DZUapIL_G4AY-/0/1739908744230?e=2147483647&amp;v=beta&amp;t=2ou4G8qAEEQ0ZXgmGsp7i1n5DNva4UafYEvDCDtdIy8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI Regulations for Business Leaders- The EU AI Act and More
-  - Responsible AI at Work- Literacy, Ethics, and More
+  - '[[AI Regulations for Business Leaders- The EU AI Act and More]]'
+  - '[[Responsible AI at Work- Literacy, Ethics, and More]]'
+prev_courses:
+  - '[[Ethics in the Age of Generative AI]]'
+  - '[[Ethics in the Age of Generative AI]]'
+next_courses:
+  - '[[Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy]]'
+  - '[[Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy]]'
+path_nav: '[{"path":"AI Regulations for Business Leaders- The EU AI Act and More","position":3,"total":4,"prev":"Ethics in the Age of Generative AI","next":"Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy"},{"path":"Responsible AI at Work- Literacy, Ethics, and More","position":3,"total":6,"prev":"Ethics in the Age of Generative AI","next":"Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy"}]'
 path_count: 2
 tags:
   - course
@@ -32,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/regulatory-compliance
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Preparing for the EU AI Act: A Conversation with Jon Adams](https://media.licdn.com/dms/image/v2/D4D0DAQE2EEzDJhafOA/learning-public-crop_675_1200/B4DZUapIL_G4AY-/0/1739908744230?e=2147483647&amp;v=beta&amp;t=2ou4G8qAEEQ0ZXgmGsp7i1n5DNva4UafYEvDCDtdIy8)

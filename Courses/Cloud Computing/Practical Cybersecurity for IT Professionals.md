@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHkzm_evdXHzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651516598008?e=2147483647&amp;v=beta&amp;t=GtNKWwI6ubADA8aOgnvMJ1vNw78tzdbwtQRqRx6gqxY"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - The IT Professional's Path to Cybersecurity
-  - Build your Cloud Computing Skills
+  - '[[The IT Professional''s Path to Cybersecurity]]'
+  - '[[Build your Cloud Computing Skills]]'
+prev_courses:
+  - '[[Transitioning to a Career in Cybersecurity]]'
+  - '[[Introduction To Cloud Computing For It Pros]]'
+next_courses:
+  - '[[IT Security Foundations- Core Concepts]]'
+  - '[[Planning a Multicloud Solution (2022)]]'
+path_nav: '[{"path":"The IT Professional''s Path to Cybersecurity","position":2,"total":5,"prev":"Transitioning to a Career in Cybersecurity","next":"IT Security Foundations- Core Concepts"},{"path":"Build your Cloud Computing Skills","position":2,"total":3,"prev":"Introduction To Cloud Computing For It Pros","next":"Planning a Multicloud Solution (2022)"}]'
 path_count: 2
 tags:
   - course
@@ -20,7 +27,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Practical Cybersecurity for IT Professionals](https://media.licdn.com/dms/image/v2/C560DAQHkzm_evdXHzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651516598008?e=2147483647&amp;v=beta&amp;t=GtNKWwI6ubADA8aOgnvMJ1vNw78tzdbwtQRqRx6gqxY)

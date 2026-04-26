@@ -18,7 +18,10 @@ github: "https://github.com/LinkedInLearning/Software-Design-Requirements-Releas
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEv-kwYOt-yCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588091598778?e=2147483647&amp;v=beta&amp;t=bqyw1b48o_PeTvl5aoFowx2362vr0oNguoUtSmTWM6E"
 linkedin_topic: DevOps
 learning_paths:
-  - Essential New Skills in Software Engineering
+  - '[[Essential New Skills in Software Engineering]]'
+prev_courses:
+  - '[[GitHub Dependabot- Dependency Updates]]'
+path_nav: '[{"path":"Essential New Skills in Software Engineering","position":4,"total":4,"prev":"GitHub Dependabot- Dependency Updates","next":null}]'
 path_count: 1
 tags:
   - course
@@ -27,7 +30,7 @@ tags:
   - skill/software-development-life-cycle-sdlc
   - skill/software-design
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Software Design: From Requirements to Release](https://media.licdn.com/dms/image/v2/C4E0DAQEv-kwYOt-yCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588091598778?e=2147483647&amp;v=beta&amp;t=bqyw1b48o_PeTvl5aoFowx2362vr0oNguoUtSmTWM6E)

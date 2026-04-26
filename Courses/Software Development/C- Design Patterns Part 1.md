@@ -18,7 +18,12 @@ github: "https://github.com/LinkedInLearning/csharp-design-patterns-2314072"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGABZchVc3mTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602606441011?e=2147483647&amp;v=beta&amp;t=xgSclet3dNidpbvP1V3N9s8QZgtVE39X_sfqUtP32VA"
 linkedin_topic: Software Development
 learning_paths:
-  - Getting Started as a C- Developer
+  - '[[Getting Started as a C- Developer]]'
+prev_courses:
+  - '[[C- Interfaces and Generics]]'
+next_courses:
+  - '[[C- Design Patterns Part 2]]'
+path_nav: '[{"path":"Getting Started as a C- Developer","position":7,"total":9,"prev":"C- Interfaces and Generics","next":"C- Design Patterns Part 2"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![C#: Design Patterns Part 1](https://media.licdn.com/dms/image/v2/C4E0DAQGABZchVc3mTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602606441011?e=2147483647&amp;v=beta&amp;t=xgSclet3dNidpbvP1V3N9s8QZgtVE39X_sfqUtP32VA)

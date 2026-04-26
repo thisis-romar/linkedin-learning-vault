@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEpx8PyjHEaCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698689116486?e=2147483647&amp;v=beta&amp;t=Xknsh7FZPyJ2jy6KF5Sbkd0b8Bt5Ev3M2JVooUDtJ-E"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building ChatGPT Skills for Business Professionals
-  - Become a Data Analytics Specialist
+  - '[[Building ChatGPT Skills for Business Professionals]]'
+  - '[[Become a Data Analytics Specialist]]'
+prev_courses:
+  - '[[Nano Tips for Using ChatGPT for Business with Rachel Woods]]'
+  - '[[Excel- Economic Analysis and Data Analytics]]'
+next_courses:
+  - '[[Ethics in the Age of Generative AI]]'
+  - '[[Certified Analytics Professional (CAP) Cert Prep]]'
+path_nav: '[{"path":"Building ChatGPT Skills for Business Professionals","position":5,"total":6,"prev":"Nano Tips for Using ChatGPT for Business with Rachel Woods","next":"Ethics in the Age of Generative AI"},{"path":"Become a Data Analytics Specialist","position":9,"total":10,"prev":"Excel- Economic Analysis and Data Analytics","next":"Certified Analytics Professional (CAP) Cert Prep"}]'
 path_count: 2
 tags:
   - course
@@ -20,7 +27,7 @@ tags:
   - topic/network-and-system-administration
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Excel and ChatGPT: Data Analysis Power Tips](https://media.licdn.com/dms/image/v2/D560DAQEpx8PyjHEaCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698689116486?e=2147483647&amp;v=beta&amp;t=Xknsh7FZPyJ2jy6KF5Sbkd0b8Bt5Ev3M2JVooUDtJ-E)

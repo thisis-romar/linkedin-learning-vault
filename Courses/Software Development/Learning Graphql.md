@@ -14,7 +14,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQF7SApTfyZQPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629736172619?e=2147483647&amp;v=beta&amp;t=yqtcQFMUUjLAmdEaXGeED3xtb1XSouLcUOQNAmXSpSw"
 linkedin_topic: Software Development
 learning_paths:
-  - Stay Ahead in GraphQL
+  - '[[Stay Ahead in GraphQL]]'
+next_courses:
+  - '[[GraphQL Essential Training]]'
+path_nav: '[{"path":"Stay Ahead in GraphQL","position":1,"total":3,"prev":null,"next":"GraphQL Essential Training"}]'
 path_count: 1
 tags:
   - course
@@ -22,7 +25,7 @@ tags:
   - topic/web-development
   - skill/graphql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Graphql](https://media.licdn.com/dms/image/v2/C4D0DAQF7SApTfyZQPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629736172619?e=2147483647&amp;v=beta&amp;t=yqtcQFMUUjLAmdEaXGeED3xtb1XSouLcUOQNAmXSpSw)

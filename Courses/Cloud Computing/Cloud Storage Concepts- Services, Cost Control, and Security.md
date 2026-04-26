@@ -17,8 +17,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFQAW9zodTrOA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680561845407?e=2147483647&amp;v=beta&amp;t=Fzie8t5YzaKjGXcCwY8G7I5ElIL3Bp7g7Jpiv9F5QUM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Explore a Career as a Cloud Administrator
-  - Foundations of Cloud Computing- Models, Platforms, Services, and Careers
+  - '[[Explore a Career as a Cloud Administrator]]'
+  - '[[Foundations of Cloud Computing- Models, Platforms, Services, and Careers]]'
+prev_courses:
+  - '[[Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment]]'
+  - '[[Cloud Security Concepts- Services and Compliance]]'
+next_courses:
+  - '[[Cybersecurity Awareness- Cloud Security (2022)]]'
+  - '[[Cloud Computing- Understanding Networking]]'
+path_nav: '[{"path":"Explore a Career as a Cloud Administrator","position":3,"total":6,"prev":"Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment","next":"Cybersecurity Awareness- Cloud Security (2022)"},{"path":"Foundations of Cloud Computing- Models, Platforms, Services, and Careers","position":6,"total":9,"prev":"Cloud Security Concepts- Services and Compliance","next":"Cloud Computing- Understanding Networking"}]'
 path_count: 2
 tags:
   - course
@@ -27,7 +34,7 @@ tags:
   - skill/storage-management
   - skill/cloud-storage
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Storage Concepts: Services, Cost Control, and Security](https://media.licdn.com/dms/image/v2/D560DAQFQAW9zodTrOA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680561845407?e=2147483647&amp;v=beta&amp;t=Fzie8t5YzaKjGXcCwY8G7I5ElIL3Bp7g7Jpiv9F5QUM)

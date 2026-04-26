@@ -18,9 +18,18 @@ github: "https://github.com/LinkedInLearning/introduction-to-large-language-mode
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGize-99tNZlw/learning-public-crop_675_1200/B4DZWV8iVKGkAY-/0/1741977430144?e=2147483647&amp;v=beta&amp;t=ACLwhEwhziBZOyMSYJ448R9MQ7oBeJgYn7BtMLc0j4c"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Generative AI Skills for Developers
-  - Develop Your Skills with Large Language Models
-  - Building AI Literacy
+  - '[[Building Generative AI Skills for Developers]]'
+  - '[[Develop Your Skills with Large Language Models]]'
+  - '[[Building AI Literacy]]'
+prev_courses:
+  - '[[Generative AI vs. Traditional AI]]'
+  - null
+  - '[[Prompt Engineering- How to Talk to the AIs]]'
+next_courses:
+  - '[[Generative AI- Working with Large Language Models]]'
+  - '[[Generative AI- Introduction to Large Language Models]]'
+  - '[[Your Top Ai Questions Answered Ai Literacy For Everyone]]'
+path_nav: '[{"path":"Building Generative AI Skills for Developers","position":2,"total":7,"prev":"Generative AI vs. Traditional AI","next":"Generative AI- Working with Large Language Models"},{"path":"Develop Your Skills with Large Language Models","position":1,"total":9,"prev":null,"next":"Generative AI- Introduction to Large Language Models"},{"path":"Building AI Literacy","position":5,"total":7,"prev":"Prompt Engineering- How to Talk to the AIs","next":"Your Top Ai Questions Answered Ai Literacy For Everyone"}]'
 path_count: 3
 tags:
   - course
@@ -28,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Introduction to Large Language Models](https://media.licdn.com/dms/image/v2/D4D0DAQGize-99tNZlw/learning-public-crop_675_1200/B4DZWV8iVKGkAY-/0/1741977430144?e=2147483647&amp;v=beta&amp;t=ACLwhEwhziBZOyMSYJ448R9MQ7oBeJgYn7BtMLc0j4c)

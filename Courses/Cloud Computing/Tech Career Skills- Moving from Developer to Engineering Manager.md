@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHWO-MrAlQlYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581710297848?e=2147483647&amp;v=beta&amp;t=iCNHPdpAHaWUUocgGTHURyVIIPudX95V76aQ_QSNCuM"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Advance as a Tech Leader
-  - Managing and Leading Developers
+  - '[[Advance as a Tech Leader]]'
+  - '[[Managing and Leading Developers]]'
+prev_courses:
+  - '[[Tech Career Skills- Getting Promoted]]'
+  - null
+next_courses:
+  - '[[Accelerate Your Developer Career]]'
+  - '[[Tech Career Skills- Effective Technical Communication]]'
+path_nav: '[{"path":"Advance as a Tech Leader","position":4,"total":8,"prev":"Tech Career Skills- Getting Promoted","next":"Accelerate Your Developer Career"},{"path":"Managing and Leading Developers","position":1,"total":8,"prev":null,"next":"Tech Career Skills- Effective Technical Communication"}]'
 path_count: 2
 tags:
   - course
@@ -31,7 +38,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Tech Career Skills: Moving from Developer to Engineering Manager](https://media.licdn.com/dms/image/v2/C4E0DAQHWO-MrAlQlYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581710297848?e=2147483647&amp;v=beta&amp;t=iCNHPdpAHaWUUocgGTHURyVIIPudX95V76aQ_QSNCuM)

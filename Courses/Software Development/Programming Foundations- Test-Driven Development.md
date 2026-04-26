@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGG__Y-tJom5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668482822?e=2147483647&amp;v=beta&amp;t=MNMR2eFGBuqHmwomo2hzLt28K7ww67fNv9lg38inpnw"
 linkedin_topic: Software Development
 learning_paths:
-  - Become a Programmer- Foundations
+  - '[[Become a Programmer- Foundations]]'
+prev_courses:
+  - '[[Programming Foundations- Secure Coding (2018)]]'
+next_courses:
+  - '[[Programming Foundations- Software Testing-QA]]'
+path_nav: '[{"path":"Become a Programmer- Foundations","position":11,"total":12,"prev":"Programming Foundations- Secure Coding (2018)","next":"Programming Foundations- Software Testing-QA"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Programming Foundations: Test-Driven Development](https://media.licdn.com/dms/image/v2/C4E0DAQGG__Y-tJom5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668482822?e=2147483647&amp;v=beta&amp;t=MNMR2eFGBuqHmwomo2hzLt28K7ww67fNv9lg38inpnw)

@@ -16,7 +16,10 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHtfKFDJoTUKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726169042809?e=2147483647&amp;v=beta&amp;t=dAbLdFJaidUsElXd3W2eqGoa0ENocD0M6pptSR0cyeY"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Mastering Multiprotocol Label Switching (MPLS)
+  - '[[Mastering Multiprotocol Label Switching (MPLS)]]'
+next_courses:
+  - '[[MPLS L3VPN Foundation and Implementation]]'
+path_nav: '[{"path":"Mastering Multiprotocol Label Switching (MPLS)","position":1,"total":4,"prev":null,"next":"MPLS L3VPN Foundation and Implementation"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +28,7 @@ tags:
   - skill/computer-networking
   - skill/computer-network-operations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Mpls Foundations Getting Started With Mpls](https://media.licdn.com/dms/image/v2/D4E0DAQHtfKFDJoTUKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726169042809?e=2147483647&amp;v=beta&amp;t=dAbLdFJaidUsElXd3W2eqGoa0ENocD0M6pptSR0cyeY)

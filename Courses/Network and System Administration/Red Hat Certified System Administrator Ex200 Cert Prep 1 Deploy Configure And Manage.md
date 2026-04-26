@@ -15,7 +15,10 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQECO9NSG7xOWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709247094765?e=2147483647&amp;v=beta&amp;t=avSBf4J1oElacMXKyX9GwoHo8T14ysdEdKjnrrMCfAg"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Prepare for the Red Hat Certified System Administrator (EX200) Exam
+  - '[[Prepare for the Red Hat Certified System Administrator (EX200) Exam]]'
+next_courses:
+  - '[[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]]'
+path_nav: '[{"path":"Prepare for the Red Hat Certified System Administrator (EX200) Exam","position":1,"total":2,"prev":null,"next":"Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security"}]'
 path_count: 1
 tags:
   - course
@@ -23,7 +26,7 @@ tags:
   - skill/system-administration
   - skill/red-hat-enterprise-linux-rhel
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage](https://media.licdn.com/dms/image/v2/D560DAQECO9NSG7xOWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709247094765?e=2147483647&amp;v=beta&amp;t=avSBf4J1oElacMXKyX9GwoHo8T14ysdEdKjnrrMCfAg)

@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQH-GFM4TA8EeQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668022144494?e=2147483647&amp;v=beta&amp;t=6CW3tD-EHMEL8osicm6ttuKrPyT_rqpAKUDLlIg515Q"
 linkedin_topic: Data Science
 learning_paths:
-  - Master SQL for Data Science
+  - '[[Master SQL for Data Science]]'
+prev_courses:
+  - '[[SQL- Data Reporting and Analysis]]'
+next_courses:
+  - '[[SQL Hands-On Practice- Solve Business Problems]]'
+path_nav: '[{"path":"Master SQL for Data Science","position":2,"total":6,"prev":"SQL- Data Reporting and Analysis","next":"SQL Hands-On Practice- Solve Business Problems"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/data-reporting
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Intermediate SQL: Data Reporting and Analysis](https://media.licdn.com/dms/image/v2/C560DAQH-GFM4TA8EeQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668022144494?e=2147483647&amp;v=beta&amp;t=6CW3tD-EHMEL8osicm6ttuKrPyT_rqpAKUDLlIg515Q)

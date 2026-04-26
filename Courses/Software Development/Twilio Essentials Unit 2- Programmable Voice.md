@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEjIIowAW3xmw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661384713359?e=2147483647&amp;v=beta&amp;t=BZ24LrysfkXIsg7DhME71KrJfA7sh_WTOIRoLumCmp0"
 linkedin_topic: Software Development
 learning_paths:
-  - Twilio Programmable Messaging and Voice Professional Certificate
+  - '[[Twilio Programmable Messaging and Voice Professional Certificate]]'
+prev_courses:
+  - '[[Twilio Essentials Unit 1 Introducing Twilio And Programmable Messaging]]'
+next_courses:
+  - '[[Twilio Essentials Unit 3- All Together Now]]'
+path_nav: '[{"path":"Twilio Programmable Messaging and Voice Professional Certificate","position":2,"total":3,"prev":"Twilio Essentials Unit 1 Introducing Twilio And Programmable Messaging","next":"Twilio Essentials Unit 3- All Together Now"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/interactive-voice-response-ivr
   - skill/twilio
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Twilio Essentials Unit 2: Programmable Voice](https://media.licdn.com/dms/image/v2/C560DAQEjIIowAW3xmw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661384713359?e=2147483647&amp;v=beta&amp;t=BZ24LrysfkXIsg7DhME71KrJfA7sh_WTOIRoLumCmp0)

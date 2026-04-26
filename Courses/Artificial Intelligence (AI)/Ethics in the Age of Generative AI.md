@@ -19,15 +19,36 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEnE2mUK2ogWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685035572840?e=2147483647&amp;v=beta&amp;t=UIFrxPJMRKlPl8_uB1LPNttb7HIyCnPgu7MGBafKmuE"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Understanding Generative AI for Tech Leaders
-  - AI Regulations for Business Leaders- The EU AI Act and More
-  - AI Regulations for Tech Leaders- The EU AI Act and More
-  - Responsible AI Foundations
-  - Building ChatGPT Skills for Business Professionals
-  - Understanding AI for Creative Professionals
-  - Responsible AI at Work- Literacy, Ethics, and More
-  - Building AI Literacy
-  - Career Essentials in Generative AI by Microsoft and LinkedIn
+  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[[AI Regulations for Business Leaders- The EU AI Act and More]]'
+  - '[[AI Regulations for Tech Leaders- The EU AI Act and More]]'
+  - '[[Responsible AI Foundations]]'
+  - '[[Building ChatGPT Skills for Business Professionals]]'
+  - '[[Understanding AI for Creative Professionals]]'
+  - '[[Responsible AI at Work- Literacy, Ethics, and More]]'
+  - '[[Building AI Literacy]]'
+  - '[[Career Essentials in Generative AI by Microsoft and LinkedIn]]'
+prev_courses:
+  - '[[Introduction to NLP and LLMs- Principles and Practical Applications]]'
+  - '[[Introduction to AI Governance]]'
+  - '[[Navigating the EU AI Act]]'
+  - null
+  - '[[Excel and ChatGPT- Data Analysis Power Tips]]'
+  - '[[Finding Creativity in the Age of AI]]'
+  - '[[Your Top Ai Questions Answered Ai Literacy For Everyone]]'
+  - '[[Your Top Ai Questions Answered Ai Literacy For Everyone]]'
+  - '[[Learning Microsoft 365 Copilot for Work]]'
+next_courses:
+  - '[[Building a Responsible AI Program- Context, Culture, Content, and Commitment]]'
+  - '[[Preparing for the EU AI Act- A Conversation with Jon Adams]]'
+  - null
+  - '[[Using Generative AI Ethically at Work]]'
+  - null
+  - '[[Generative AI Imaging- What Creative Pros Need to Know]]'
+  - '[[Preparing for the EU AI Act- A Conversation with Jon Adams]]'
+  - null
+  - '[[Everyday Ai Concepts]]'
+path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":5,"total":22,"prev":"Introduction to NLP and LLMs- Principles and Practical Applications","next":"Building a Responsible AI Program- Context, Culture, Content, and Commitment"},{"path":"AI Regulations for Business Leaders- The EU AI Act and More","position":2,"total":4,"prev":"Introduction to AI Governance","next":"Preparing for the EU AI Act- A Conversation with Jon Adams"},{"path":"AI Regulations for Tech Leaders- The EU AI Act and More","position":4,"total":4,"prev":"Navigating the EU AI Act","next":null},{"path":"Responsible AI Foundations","position":1,"total":5,"prev":null,"next":"Using Generative AI Ethically at Work"},{"path":"Building ChatGPT Skills for Business Professionals","position":6,"total":6,"prev":"Excel and ChatGPT- Data Analysis Power Tips","next":null},{"path":"Understanding AI for Creative Professionals","position":4,"total":7,"prev":"Finding Creativity in the Age of AI","next":"Generative AI Imaging- What Creative Pros Need to Know"},{"path":"Responsible AI at Work- Literacy, Ethics, and More","position":2,"total":6,"prev":"Your Top Ai Questions Answered Ai Literacy For Everyone","next":"Preparing for the EU AI Act- A Conversation with Jon Adams"},{"path":"Building AI Literacy","position":7,"total":7,"prev":"Your Top Ai Questions Answered Ai Literacy For Everyone","next":null},{"path":"Career Essentials in Generative AI by Microsoft and LinkedIn","position":4,"total":5,"prev":"Learning Microsoft 365 Copilot for Work","next":"Everyday Ai Concepts"}]'
 path_count: 9
 tags:
   - course
@@ -42,7 +63,7 @@ tags:
   - skill/computer-ethics
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Ethics in the Age of Generative AI](https://media.licdn.com/dms/image/v2/D560DAQEnE2mUK2ogWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685035572840?e=2147483647&amp;v=beta&amp;t=UIFrxPJMRKlPl8_uB1LPNttb7HIyCnPgu7MGBafKmuE)

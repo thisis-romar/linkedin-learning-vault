@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEhLaaGVi-Knw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1596035537068?e=2147483647&amp;v=beta&amp;t=yba5RSww1EnvyDCoCsZ-3teZB-kFUTftO80DDhUzyAg"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Prepare for the Red Hat Certified Engineer (EX294) Exam
+  - '[[Prepare for the Red Hat Certified Engineer (EX294) Exam]]'
+prev_courses:
+  - '[[Red Hat Certified Engineer Ex294 Cert Prep 1 Foundations Of Ansible]]'
+next_courses:
+  - '[[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]]'
+path_nav: '[{"path":"Prepare for the Red Hat Certified Engineer (EX294) Exam","position":2,"total":3,"prev":"Red Hat Certified Engineer Ex294 Cert Prep 1 Foundations Of Ansible","next":"Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/red-hat-enterprise-linux-rhel
   - skill/ansible
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Red Hat Certified Engineer (EX294) Cert Prep: 2 Using Ansible Playbooks](https://media.licdn.com/dms/image/v2/C4E0DAQEhLaaGVi-Knw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1596035537068?e=2147483647&amp;v=beta&amp;t=yba5RSww1EnvyDCoCsZ-3teZB-kFUTftO80DDhUzyAg)

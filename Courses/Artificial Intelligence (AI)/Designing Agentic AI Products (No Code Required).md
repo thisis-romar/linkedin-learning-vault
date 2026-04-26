@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEbY_i-mz855g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727984817086?e=2147483647&amp;v=beta&amp;t=EKC4yDvFlQC7CLvjs0QjLMdx0l4eDTkjVQ1zQxCLSCI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Agentic AI Systems for Tech Leaders
+  - '[[Building Agentic AI Systems for Tech Leaders]]'
+prev_courses:
+  - '[[Leading Through AI Agent Disruption]]'
+next_courses:
+  - '[[Agentic AI for Developers- Concepts and Application for Enterprises]]'
+path_nav: '[{"path":"Building Agentic AI Systems for Tech Leaders","position":5,"total":7,"prev":"Leading Through AI Agent Disruption","next":"Agentic AI for Developers- Concepts and Application for Enterprises"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Designing Agentic AI Products (No Code Required)](https://media.licdn.com/dms/image/v2/D560DAQEbY_i-mz855g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727984817086?e=2147483647&amp;v=beta&amp;t=EKC4yDvFlQC7CLvjs0QjLMdx0l4eDTkjVQ1zQxCLSCI)

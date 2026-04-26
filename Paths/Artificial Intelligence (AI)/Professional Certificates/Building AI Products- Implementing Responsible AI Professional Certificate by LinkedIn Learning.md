@@ -51,7 +51,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Building AI Products: Implementing Responsible AI Professional Certificate by LinkedIn Learning
@@ -86,3 +86,7 @@ _Paths that share courses with this one:_
 - [[Responsible AI Foundations]] (1 shared courses)
 - [[Become an AI Engineer]] (1 shared courses)
 - [[Building Generative AI Skills for Developers]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]

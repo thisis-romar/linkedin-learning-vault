@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/exploring-a-career-in-interaction-d
 course_count: 9
 linkedin_topics:
   - Software Development
-louvain_cluster: 12
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/software-development
@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Exploring a Career in Interaction Design
@@ -85,3 +85,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Advance Your Skills in User Experience Design]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Software Development]]

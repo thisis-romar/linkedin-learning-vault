@@ -19,9 +19,18 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFSXS6mzs87pA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681413686159?e=2147483647&amp;v=beta&amp;t=6_zr6IaP-j2tvL1Y48FqfUX0wHH0v2uIIhkXnRN9w4s"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building Generative AI Skills for Web Developers
-  - Technical Literacy and Future Readiness for Aspiring Managers
-  - Building AI Literacy
+  - '[[Building Generative AI Skills for Web Developers]]'
+  - '[[Technical Literacy and Future Readiness for Aspiring Managers]]'
+  - '[[Building AI Literacy]]'
+prev_courses:
+  - '[[Generative AI vs. Traditional AI]]'
+  - '[[How to Boost Your Productivity with AI Tools]]'
+  - '[[What Is Generative AI-]]'
+next_courses:
+  - '[[Prompting ChatGPT with Multimodal Techniques]]'
+  - '[[Using AI for Data-Driven Insights]]'
+  - '[[Introduction to Large Language Models]]'
+path_nav: '[{"path":"Building Generative AI Skills for Web Developers","position":3,"total":10,"prev":"Generative AI vs. Traditional AI","next":"Prompting ChatGPT with Multimodal Techniques"},{"path":"Technical Literacy and Future Readiness for Aspiring Managers","position":4,"total":5,"prev":"How to Boost Your Productivity with AI Tools","next":"Using AI for Data-Driven Insights"},{"path":"Building AI Literacy","position":4,"total":7,"prev":"What Is Generative AI-","next":"Introduction to Large Language Models"}]'
 path_count: 3
 tags:
   - course
@@ -33,7 +42,7 @@ tags:
   - skill/large-language-models-llm
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Prompt Engineering: How to Talk to the AIs](https://media.licdn.com/dms/image/v2/D560DAQFSXS6mzs87pA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681413686159?e=2147483647&amp;v=beta&amp;t=6_zr6IaP-j2tvL1Y48FqfUX0wHH0v2uIIhkXnRN9w4s)

@@ -20,7 +20,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGOiMlUOjiP6g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730746939496?e=2147483647&amp;v=beta&amp;t=FLQ-YHCAJbVOgdxDx1icIyb755fKUIagZb3GB7y2Xn8"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - Mastering Multiprotocol Label Switching (MPLS)
+  - '[[Mastering Multiprotocol Label Switching (MPLS)]]'
+prev_courses:
+  - '[[MPLS L3VPN Foundation and Implementation]]'
+next_courses:
+  - '[[MPLS Segment Routing]]'
+path_nav: '[{"path":"Mastering Multiprotocol Label Switching (MPLS)","position":3,"total":4,"prev":"MPLS L3VPN Foundation and Implementation","next":"MPLS Segment Routing"}]'
 path_count: 1
 tags:
   - course
@@ -31,7 +36,7 @@ tags:
   - skill/computer-network-operations
   - skill/engineering
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![MPLS: Traffic Engineering](https://media.licdn.com/dms/image/v2/D560DAQGOiMlUOjiP6g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730746939496?e=2147483647&amp;v=beta&amp;t=FLQ-YHCAJbVOgdxDx1icIyb755fKUIagZb3GB7y2Xn8)

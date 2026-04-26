@@ -19,9 +19,18 @@ github: "https://github.com/LinkedInLearning/artificial-intelligence-foundations
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHTLyEF1VUcKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685047176389?e=2147483647&amp;v=beta&amp;t=KB6eStxcORDzdtE3OYLQT335xEX-KjD0UG32cHz5CVg"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Fundamentals to Become a Machine Learning Engineer
-  - Machine Learning Statistical Foundations Professional Certificate by Wolfram Research
-  - Machine Learning with Python Professional Certificate by Anaconda
+  - '[[Fundamentals to Become a Machine Learning Engineer]]'
+  - '[[Machine Learning Statistical Foundations Professional Certificate by Wolfram Research]]'
+  - '[[Machine Learning with Python Professional Certificate by Anaconda]]'
+prev_courses:
+  - '[[Artificial Intelligence Foundations Thinking Machines]]'
+  - null
+  - null
+next_courses:
+  - '[[Machine Learning with Python- Foundations]]'
+  - '[[Machine Learning Foundations- Linear Algebra]]'
+  - '[[Machine Learning with Python- Foundations]]'
+path_nav: '[{"path":"Fundamentals to Become a Machine Learning Engineer","position":2,"total":7,"prev":"Artificial Intelligence Foundations Thinking Machines","next":"Machine Learning with Python- Foundations"},{"path":"Machine Learning Statistical Foundations Professional Certificate by Wolfram Research","position":1,"total":6,"prev":null,"next":"Machine Learning Foundations- Linear Algebra"},{"path":"Machine Learning with Python Professional Certificate by Anaconda","position":1,"total":6,"prev":null,"next":"Machine Learning with Python- Foundations"}]'
 path_count: 3
 tags:
   - course
@@ -33,7 +42,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Artificial Intelligence Foundations: Machine Learning](https://media.licdn.com/dms/image/v2/D560DAQHTLyEF1VUcKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685047176389?e=2147483647&amp;v=beta&amp;t=KB6eStxcORDzdtE3OYLQT335xEX-KjD0UG32cHz5CVg)

@@ -11,7 +11,7 @@ tags:
   - instructor
   - topic/security
   - topic/network-and-system-administration
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Jarrel Rivera

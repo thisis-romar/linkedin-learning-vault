@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHYI6-4PfLxGQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715047190113?e=2147483647&amp;v=beta&amp;t=rMlsp5dUFPuByh84E9GwhtkDU7TRpo4WowP0UJomMcY"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Azure Administration for Beginners- Management Tools, Services, and Security
+  - '[[Azure Administration for Beginners- Management Tools, Services, and Security]]'
+prev_courses:
+  - '[[Azure Cloud Fundamentals- Explore Cloud Services]]'
+next_courses:
+  - '[[Microsoft Entra ID Fundamentals]]'
+path_nav: '[{"path":"Azure Administration for Beginners- Management Tools, Services, and Security","position":3,"total":5,"prev":"Azure Cloud Fundamentals- Explore Cloud Services","next":"Microsoft Entra ID Fundamentals"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/cloud-administration
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Azure Management Basics: Portal, PowerShell, Bicep, and CLI](https://media.licdn.com/dms/image/v2/D560DAQHYI6-4PfLxGQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715047190113?e=2147483647&amp;v=beta&amp;t=rMlsp5dUFPuByh84E9GwhtkDU7TRpo4WowP0UJomMcY)

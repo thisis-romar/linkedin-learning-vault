@@ -18,8 +18,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQGUwtitxe_Q0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663181557273?e=2147483647&amp;v=beta&amp;t=wvtk7ypVH1ofF1EjULhi17S0xJthxAWn2sAzqUre_zs"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security
-  - Advance Your Skills in AI and Machine Learning
+  - '[[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]]'
+  - '[[Advance Your Skills in AI and Machine Learning]]'
+prev_courses:
+  - '[[MLOps and Data Pipeline Orchestration for AI Systems]]'
+  - '[[Exploring AIOps]]'
+next_courses:
+  - '[[MLOps Essentials- Model Deployment and Monitoring]]'
+  - '[[MLOps Essentials- Model Deployment and Monitoring]]'
+path_nav: '[{"path":"MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security","position":7,"total":10,"prev":"MLOps and Data Pipeline Orchestration for AI Systems","next":"MLOps Essentials- Model Deployment and Monitoring"},{"path":"Advance Your Skills in AI and Machine Learning","position":10,"total":16,"prev":"Exploring AIOps","next":"MLOps Essentials- Model Deployment and Monitoring"}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +36,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![MLOps Essentials: Model Development and Integration](https://media.licdn.com/dms/image/v2/C4D0DAQGUwtitxe_Q0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663181557273?e=2147483647&amp;v=beta&amp;t=wvtk7ypVH1ofF1EjULhi17S0xJthxAWn2sAzqUre_zs)

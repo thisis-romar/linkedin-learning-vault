@@ -10,13 +10,18 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEWpj32ap-YLg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709853697808?e=2147483647&amp;v=beta&amp;t=mBeLLZVkr5eZOorPbpJ4e8CvO9ML8k5pUfmlZvEpuY0"
 linkedin_topic: Web Development
 learning_paths:
-  - Design User Experiences with Figma
+  - '[[Design User Experiences with Figma]]'
+prev_courses:
+  - '[[Figma For Ux Design]]'
+next_courses:
+  - '[[Accessibility and Inclusion with Figma]]'
+path_nav: '[{"path":"Design User Experiences with Figma","position":2,"total":6,"prev":"Figma For Ux Design","next":"Accessibility and Inclusion with Figma"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![UX Foundations: Prototyping](https://media.licdn.com/dms/image/v2/D560DAQEWpj32ap-YLg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709853697808?e=2147483647&amp;v=beta&amp;t=mBeLLZVkr5eZOorPbpJ4e8CvO9ML8k5pUfmlZvEpuY0)

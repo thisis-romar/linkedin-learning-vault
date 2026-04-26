@@ -6,7 +6,7 @@ course_count: 1
 tags:
   - skill
   - skill/linkedin-marketing
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # LinkedIn Marketing

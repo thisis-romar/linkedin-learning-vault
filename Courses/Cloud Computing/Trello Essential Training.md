@@ -14,7 +14,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHr8bNxFFmQDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689703987904?e=2147483647&amp;v=beta&amp;t=Qge-rCjuuircZbk8V1WP5NDe280T4lzEVbKE3uVwlHA"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Succeed as a Remote Software Developer
+  - '[[Succeed as a Remote Software Developer]]'
+prev_courses:
+  - '[[Microsoft Teams Essential Training]]'
+next_courses:
+  - '[[Agile Software Development- Remote Teams (2019)]]'
+path_nav: '[{"path":"Succeed as a Remote Software Developer","position":5,"total":6,"prev":"Microsoft Teams Essential Training","next":"Agile Software Development- Remote Teams (2019)"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/trello
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Trello Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHr8bNxFFmQDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689703987904?e=2147483647&amp;v=beta&amp;t=Qge-rCjuuircZbk8V1WP5NDe280T4lzEVbKE3uVwlHA)

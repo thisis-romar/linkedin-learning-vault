@@ -19,7 +19,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFEb2PuIGhkuQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736987597460?e=2147483647&amp;v=beta&amp;t=947y6yQrZK358fein0RMmDk6kDwMeK7HZqq5DoDoJy4"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning
+  - '[[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]]'
+prev_courses:
+  - '[[AI Foundations- Ideating and Prototyping]]'
+next_courses:
+  - '[[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]]'
+path_nav: '[{"path":"Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning","position":3,"total":6,"prev":"AI Foundations- Ideating and Prototyping","next":"Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI"}]'
 path_count: 1
 tags:
   - course
@@ -30,7 +35,7 @@ tags:
   - skill/large-language-models-llm
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![AI Orchestration: Foundations](https://media.licdn.com/dms/image/v2/D4D0DAQFEb2PuIGhkuQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736987597460?e=2147483647&amp;v=beta&amp;t=947y6yQrZK358fein0RMmDk6kDwMeK7HZqq5DoDoJy4)

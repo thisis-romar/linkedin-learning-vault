@@ -14,14 +14,17 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEG0xVT2vOWjw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616435734667?e=2147483647&amp;v=beta&amp;t=j7ecHThwUM-DQZ9uRJGeeizbCkAH_2N7IP67BmSfoAU"
 linkedin_topic: Software Development
 learning_paths:
-  - The Top Skills Engineering Professionals Have Right Now
+  - '[[The Top Skills Engineering Professionals Have Right Now]]'
+next_courses:
+  - '[[JavaScript Essential Training]]'
+path_nav: '[{"path":"The Top Skills Engineering Professionals Have Right Now","position":1,"total":9,"prev":null,"next":"JavaScript Essential Training"}]'
 path_count: 1
 tags:
   - course
   - topic/software-development
   - skill/autocad
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Autocad 2022 Essential Training](https://media.licdn.com/dms/image/v2/C560DAQEG0xVT2vOWjw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616435734667?e=2147483647&amp;v=beta&amp;t=j7ecHThwUM-DQZ9uRJGeeizbCkAH_2N7IP67BmSfoAU)

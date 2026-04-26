@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQF8cIq-NfphSg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661965300072?e=2147483647&amp;v=beta&amp;t=5Dla68dldcmCM5Tljl828t3Cv9rxOmlFcJmgl-ZDQEc"
 linkedin_topic: Data Science
 learning_paths:
-  - Master Data Engineering
+  - '[[Master Data Engineering]]'
+prev_courses:
+  - '[[Data Engineering- dbt for SQL]]'
+next_courses:
+  - '[[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]]'
+path_nav: '[{"path":"Master Data Engineering","position":7,"total":8,"prev":"Data Engineering- dbt for SQL","next":"Complete Guide to SQL for Data Engineering- from Beginner to Advanced"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/web-development
   - skill/snowflake
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Snowflake: Deep Dive Cloud Data Warehousing and Analytics](https://media.licdn.com/dms/image/v2/C560DAQF8cIq-NfphSg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661965300072?e=2147483647&amp;v=beta&amp;t=5Dla68dldcmCM5Tljl828t3Cv9rxOmlFcJmgl-ZDQEc)

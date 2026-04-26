@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-c-plus-plus
 course_count: 5
 linkedin_topics:
   - Software Development
-louvain_cluster: 17
+louvain_cluster: 19
 tags:
   - learning-path
   - topic/software-development
@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-20'
+created: '2026-04-21'
 ---
 
 # Getting Started with C++
@@ -65,3 +65,7 @@ created: '2026-04-20'
 _Paths that share courses with this one:_
 
 - [[Master C++]] (1 shared courses)
+
+---
+
+Part of [[000 Map of Content]] · [[Software Development]]

@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHq35uvDTUZhg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696368851549?e=2147483647&amp;v=beta&amp;t=kRcwlPauekAijMh0feyiOayJXtEod_y1C7HVzmwdIBw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Responsible AI Foundations
+  - '[[Responsible AI Foundations]]'
+prev_courses:
+  - '[[Implementing a Data Strategy for Responsible AI]]'
+next_courses:
+  - '[[Introduction to AI Governance]]'
+path_nav: '[{"path":"Responsible AI Foundations","position":4,"total":5,"prev":"Implementing a Data Strategy for Responsible AI","next":"Introduction to AI Governance"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/copyright-law
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![The State of AI and Copyright](https://media.licdn.com/dms/image/v2/D560DAQHq35uvDTUZhg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696368851549?e=2147483647&amp;v=beta&amp;t=kRcwlPauekAijMh0feyiOayJXtEod_y1C7HVzmwdIBw)

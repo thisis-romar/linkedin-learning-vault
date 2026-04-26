@@ -17,8 +17,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGQCYHPT8oZGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621968587563?e=2147483647&amp;v=beta&amp;t=ZVs4_6wN_VLODDTn_8fVrL1C6b0pLj6l_V3wW4H2BHQ"
 linkedin_topic: Data Science
 learning_paths:
-  - Master SQL Development
-  - Master SQL for Data Science
+  - '[[Master SQL Development]]'
+  - '[[Master SQL for Data Science]]'
+prev_courses:
+  - '[[Advanced SQL for Application Development]]'
+  - '[[SQL Hands-On Practice- Solve Business Problems]]'
+next_courses:
+  - '[[Level Up- Advanced SQL]]'
+  - '[[Advanced SQL for Query Tuning and Performance Optimization]]'
+path_nav: '[{"path":"Master SQL Development","position":7,"total":8,"prev":"Advanced SQL for Application Development","next":"Level Up- Advanced SQL"},{"path":"Master SQL for Data Science","position":4,"total":6,"prev":"SQL Hands-On Practice- Solve Business Problems","next":"Advanced SQL for Query Tuning and Performance Optimization"}]'
 path_count: 2
 tags:
   - course
@@ -28,7 +35,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced SQL for Data Scientists](https://media.licdn.com/dms/image/v2/C560DAQGQCYHPT8oZGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621968587563?e=2147483647&amp;v=beta&amp;t=ZVs4_6wN_VLODDTn_8fVrL1C6b0pLj6l_V3wW4H2BHQ)

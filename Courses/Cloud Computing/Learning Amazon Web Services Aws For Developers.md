@@ -14,8 +14,15 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQGxOurbjDgqQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655842537941?e=2147483647&amp;v=beta&amp;t=2bSb2ezH08-E_4uYUEBGrXrab3lU3GW9b9p9z1fGsxY"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Getting Started as an AWS Developer
-  - Getting Started with Cloud Development
+  - '[[Getting Started as an AWS Developer]]'
+  - '[[Getting Started with Cloud Development]]'
+prev_courses:
+  - null
+  - '[[Choosing A Cloud Platform For Developers Aws Azure And Gcp]]'
+next_courses:
+  - '[[Building Serverless Applications in AWS]]'
+  - '[[Azure Understanding The Big Picture]]'
+path_nav: '[{"path":"Getting Started as an AWS Developer","position":1,"total":4,"prev":null,"next":"Building Serverless Applications in AWS"},{"path":"Getting Started with Cloud Development","position":2,"total":4,"prev":"Choosing A Cloud Platform For Developers Aws Azure And Gcp","next":"Azure Understanding The Big Picture"}]'
 path_count: 2
 tags:
   - course
@@ -24,7 +31,7 @@ tags:
   - topic/software-development
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Learning Amazon Web Services Aws For Developers](https://media.licdn.com/dms/image/v2/C560DAQGxOurbjDgqQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655842537941?e=2147483647&amp;v=beta&amp;t=2bSb2ezH08-E_4uYUEBGrXrab3lU3GW9b9p9z1fGsxY)

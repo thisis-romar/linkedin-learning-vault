@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGRVgFGz6l45Q/learning-public-crop_675_1200/B4DZetChgfGYAo-/0/1750954809893?e=2147483647&amp;v=beta&amp;t=TJ6sPVbcoQaa8GJ6bcsyVHAYnXoRimZjxndD2O3CR3U"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building ChatGPT Skills for Business Professionals
-  - Building ChatGPT Skills for Marketing
+  - '[[Building ChatGPT Skills for Business Professionals]]'
+  - '[[Building ChatGPT Skills for Marketing]]'
+prev_courses:
+  - '[[What Is Generative AI-]]'
+  - '[[Generative AI for Digital Marketers]]'
+next_courses:
+  - '[[Prompt Engineering with ChatGPT]]'
+  - '[[Using AI as Your SEO Assistant]]'
+path_nav: '[{"path":"Building ChatGPT Skills for Business Professionals","position":2,"total":6,"prev":"What Is Generative AI-","next":"Prompt Engineering with ChatGPT"},{"path":"Building ChatGPT Skills for Marketing","position":2,"total":6,"prev":"Generative AI for Digital Marketers","next":"Using AI as Your SEO Assistant"}]'
 path_count: 2
 tags:
   - course
@@ -20,7 +27,7 @@ tags:
   - topic/network-and-system-administration
   - topic/data-science
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![How to Research and Write Using Generative AI Tools (2023)](https://media.licdn.com/dms/image/v2/D4D0DAQGRVgFGz6l45Q/learning-public-crop_675_1200/B4DZetChgfGYAo-/0/1750954809893?e=2147483647&amp;v=beta&amp;t=TJ6sPVbcoQaa8GJ6bcsyVHAYnXoRimZjxndD2O3CR3U)

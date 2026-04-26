@@ -17,8 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQG2UdkVhaQJXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614197905403?e=2147483647&amp;v=beta&amp;t=LZJsPStGZctcDG14_uwJtIrdmMsYBsuP525HgtVWZgA"
 linkedin_topic: Software Development
 learning_paths:
-  - Building Your Skills in Spring Development
-  - Advance Your Spring Development Skills
+  - '[[Building Your Skills in Spring Development]]'
+  - '[[Advance Your Spring Development Skills]]'
+prev_courses:
+  - '[[Spring Framework in Depth]]'
+  - '[[Advanced Spring- Application Events]]'
+path_nav: '[{"path":"Building Your Skills in Spring Development","position":4,"total":4,"prev":"Spring Framework in Depth","next":null},{"path":"Advance Your Spring Development Skills","position":6,"total":6,"prev":"Advanced Spring- Application Events","next":null}]'
 path_count: 2
 tags:
   - course
@@ -29,7 +33,7 @@ tags:
   - skill/integration-testing
   - skill/spring-boot
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Spring: Effective Integration Testing with Spring Boot](https://media.licdn.com/dms/image/v2/C4D0DAQG2UdkVhaQJXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614197905403?e=2147483647&amp;v=beta&amp;t=LZJsPStGZctcDG14_uwJtIrdmMsYBsuP525HgtVWZgA)

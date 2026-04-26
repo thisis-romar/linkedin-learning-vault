@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQFgh-k_HSEA-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679596183511?e=2147483647&amp;v=beta&amp;t=8ljOncdp1sujzOrHlcVlT99xjG1BBJP6BQrihIoJk-A"
 linkedin_topic: Database Management
 learning_paths:
-  - Develop Your NoSQL Skills
+  - '[[Develop Your NoSQL Skills]]'
+prev_courses:
+  - '[[Elasticsearch Essential Training (2023)]]'
+next_courses:
+  - '[[Cloud NoSQL for SQL Professionals]]'
+path_nav: '[{"path":"Develop Your NoSQL Skills","position":9,"total":10,"prev":"Elasticsearch Essential Training (2023)","next":"Cloud NoSQL for SQL Professionals"}]'
 path_count: 1
 tags:
   - course
@@ -24,7 +29,7 @@ tags:
   - topic/software-development
   - skill/elasticsearch
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Elasticsearch in Depth](https://media.licdn.com/dms/image/v2/C4D0DAQFgh-k_HSEA-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679596183511?e=2147483647&amp;v=beta&amp;t=8ljOncdp1sujzOrHlcVlT99xjG1BBJP6BQrihIoJk-A)

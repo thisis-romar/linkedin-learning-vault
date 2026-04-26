@@ -16,14 +16,19 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEkGHoMiYtbGQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619131629488?e=2147483647&amp;v=beta&amp;t=qHgIr23hW0rrmcXESXfbW0r0y_ZoCbXjvCU2XHqwFT4"
 linkedin_topic: Web Development
 learning_paths:
-  - Advance your Node.js Skills
+  - '[[Advance your Node.js Skills]]'
+prev_courses:
+  - '[[Node.js- Microservices]]'
+next_courses:
+  - '[[Advanced Node.js- Scaling Applications]]'
+path_nav: '[{"path":"Advance your Node.js Skills","position":7,"total":8,"prev":"Node.js- Microservices","next":"Advanced Node.js- Scaling Applications"}]'
 path_count: 1
 tags:
   - course
   - topic/web-development
   - skill/node-js
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Advanced Node.js](https://media.licdn.com/dms/image/v2/C4E0DAQEkGHoMiYtbGQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619131629488?e=2147483647&amp;v=beta&amp;t=qHgIr23hW0rrmcXESXfbW0r0y_ZoCbXjvCU2XHqwFT4)

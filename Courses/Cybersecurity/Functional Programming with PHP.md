@@ -16,7 +16,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHFj8RRhllMwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1582824581850?e=2147483647&amp;v=beta&amp;t=VQVdHZQ48r6R9MtQAe5_Ta-5FTFYoiPH45po9FHErN8"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Advance Your PHP Skills
+  - '[[Advance Your PHP Skills]]'
+prev_courses:
+  - '[[Php Testing Legacy Applications]]'
+next_courses:
+  - '[[PHP Techniques- Working with Files and Directories]]'
+path_nav: '[{"path":"Advance Your PHP Skills","position":2,"total":7,"prev":"Php Testing Legacy Applications","next":"PHP Techniques- Working with Files and Directories"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Functional Programming with PHP](https://media.licdn.com/dms/image/v2/C4E0DAQHFj8RRhllMwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1582824581850?e=2147483647&amp;v=beta&amp;t=VQVdHZQ48r6R9MtQAe5_Ta-5FTFYoiPH45po9FHErN8)

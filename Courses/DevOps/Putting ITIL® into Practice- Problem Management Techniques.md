@@ -17,7 +17,12 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEjaAh7pQf_pw/learning-public-crop_675_1200/B4DZZkwH7jHwAY-/0/1745447059516?e=2147483647&amp;v=beta&amp;t=AgolTHkOi3wQq_7y-BZzDHSYzwIKyHVsDLqj5Bf6Nkw"
 linkedin_topic: DevOps
 learning_paths:
-  - Improve Your ITIL® Skills
+  - '[[Improve Your ITIL® Skills]]'
+prev_courses:
+  - '[[Putting Itil Into Practice Applying Itil 4 Foundation Concepts]]'
+next_courses:
+  - '[[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]]'
+path_nav: '[{"path":"Improve Your ITIL® Skills","position":2,"total":5,"prev":"Putting Itil Into Practice Applying Itil 4 Foundation Concepts","next":"Putting ITIL® into Practice- DevOps for ITIL® Practitioners"}]'
 path_count: 1
 tags:
   - course
@@ -26,7 +31,7 @@ tags:
   - skill/itil
   - skill/problem-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Putting ITIL® into Practice: Problem Management Techniques](https://media.licdn.com/dms/image/v2/D4D0DAQEjaAh7pQf_pw/learning-public-crop_675_1200/B4DZZkwH7jHwAY-/0/1745447059516?e=2147483647&amp;v=beta&amp;t=AgolTHkOi3wQq_7y-BZzDHSYzwIKyHVsDLqj5Bf6Nkw)

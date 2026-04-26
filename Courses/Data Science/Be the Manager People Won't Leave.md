@@ -14,14 +14,19 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHVPZ-wMf1hBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1631727956532?e=2147483647&amp;v=beta&amp;t=6p6boYQiNYw-B9VuJLZziItkgmIurwFLGNtgkH_hxbM"
 linkedin_topic: Data Science
 learning_paths:
-  - Explore a Career as a Marketing Manager
+  - '[[Explore a Career as a Marketing Manager]]'
+prev_courses:
+  - '[[Leading A Marketing Team]]'
+next_courses:
+  - '[[Job Interview Tips for Marketing Managers]]'
+path_nav: '[{"path":"Explore a Career as a Marketing Manager","position":2,"total":5,"prev":"Leading A Marketing Team","next":"Job Interview Tips for Marketing Managers"}]'
 path_count: 1
 tags:
   - course
   - topic/data-science
   - skill/people-management
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Be the Manager People Won't Leave](https://media.licdn.com/dms/image/v2/C560DAQHVPZ-wMf1hBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1631727956532?e=2147483647&amp;v=beta&amp;t=6p6boYQiNYw-B9VuJLZziItkgmIurwFLGNtgkH_hxbM)

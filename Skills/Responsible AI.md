@@ -6,7 +6,7 @@ course_count: 30
 tags:
   - skill
   - skill/responsible-ai
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 # Responsible AI

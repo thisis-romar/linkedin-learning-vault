@@ -18,7 +18,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFJTeKRYDrjyw/learning-public-crop_675_1200/B4EZXYmBLyHcAc-/0/1743095600151?e=2147483647&amp;v=beta&amp;t=EyTl6UOdp3kORoxvfkb1fQTgEykEmrkemn-GxTc6puE"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - Build an Enterprise Cloud Architecture
+  - '[[Build an Enterprise Cloud Architecture]]'
+prev_courses:
+  - '[[Cloud Architecture- Design Decisions]]'
+next_courses:
+  - '[[Cloud Security Architecture for the Enterprise]]'
+path_nav: '[{"path":"Build an Enterprise Cloud Architecture","position":2,"total":4,"prev":"Cloud Architecture- Design Decisions","next":"Cloud Security Architecture for the Enterprise"}]'
 path_count: 1
 tags:
   - course
@@ -29,7 +34,7 @@ tags:
   - skill/solution-architecture
   - skill/cloud-computing
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Cloud Architecture: Advanced Concepts](https://media.licdn.com/dms/image/v2/D4E0DAQFJTeKRYDrjyw/learning-public-crop_675_1200/B4EZXYmBLyHcAc-/0/1743095600151?e=2147483647&amp;v=beta&amp;t=EyTl6UOdp3kORoxvfkb1fQTgEykEmrkemn-GxTc6puE)

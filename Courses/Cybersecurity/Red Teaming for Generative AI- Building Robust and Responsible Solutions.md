@@ -10,15 +10,22 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQF6ANEhXr2qsg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724092842352?e=2147483647&amp;v=beta&amp;t=FSiG4Q_b-Vl7sLRaMqyeWQhUZXiqZl36zs6BlEgC7MA"
 linkedin_topic: Cybersecurity
 learning_paths:
-  - Strategies for Managing Vulnerabilities and Mitigating Cyber Risks
-  - Develop Your AI Skills as a Cybersecurity Professional
+  - '[[Strategies for Managing Vulnerabilities and Mitigating Cyber Risks]]'
+  - '[[Develop Your AI Skills as a Cybersecurity Professional]]'
+prev_courses:
+  - '[[Vulnerability Management- Assessing the Risks with CVSS v3.1]]'
+  - '[[Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)]]'
+next_courses:
+  - null
+  - '[[Introduction to MLSecOps]]'
+path_nav: '[{"path":"Strategies for Managing Vulnerabilities and Mitigating Cyber Risks","position":6,"total":6,"prev":"Vulnerability Management- Assessing the Risks with CVSS v3.1","next":null},{"path":"Develop Your AI Skills as a Cybersecurity Professional","position":5,"total":8,"prev":"Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)","next":"Introduction to MLSecOps"}]'
 path_count: 2
 tags:
   - course
   - topic/security
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Red Teaming for Generative AI: Building Robust and Responsible Solutions](https://media.licdn.com/dms/image/v2/D4D0DAQF6ANEhXr2qsg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724092842352?e=2147483647&amp;v=beta&amp;t=FSiG4Q_b-Vl7sLRaMqyeWQhUZXiqZl36zs6BlEgC7MA)

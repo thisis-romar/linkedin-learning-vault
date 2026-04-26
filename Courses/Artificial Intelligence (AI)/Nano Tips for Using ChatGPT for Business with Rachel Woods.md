@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEfEsaRm8dswQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680541326029?e=2147483647&amp;v=beta&amp;t=_hs_hE_LsRFX1THLV58LIGuqkU4D8uSKnfdHNK5InDY"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - Building ChatGPT Skills for Business Professionals
-  - Applying Generative AI as a Business Professional
+  - '[[Building ChatGPT Skills for Business Professionals]]'
+  - '[[Applying Generative AI as a Business Professional]]'
+prev_courses:
+  - '[[Prompt Engineering with ChatGPT]]'
+  - '[[Amplify Your Critical Thinking with Generative AI]]'
+next_courses:
+  - '[[Excel and ChatGPT- Data Analysis Power Tips]]'
+  - null
+path_nav: '[{"path":"Building ChatGPT Skills for Business Professionals","position":4,"total":6,"prev":"Prompt Engineering with ChatGPT","next":"Excel and ChatGPT- Data Analysis Power Tips"},{"path":"Applying Generative AI as a Business Professional","position":6,"total":6,"prev":"Amplify Your Critical Thinking with Generative AI","next":null}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +26,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Nano Tips for Using ChatGPT for Business with Rachel Woods](https://media.licdn.com/dms/image/v2/D560DAQEfEsaRm8dswQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680541326029?e=2147483647&amp;v=beta&amp;t=_hs_hE_LsRFX1THLV58LIGuqkU4D8uSKnfdHNK5InDY)

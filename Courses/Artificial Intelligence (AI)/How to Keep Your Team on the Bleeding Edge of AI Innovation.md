@@ -10,8 +10,15 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF48GB32fBJDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714607313742?e=2147483647&amp;v=beta&amp;t=TukmhhU1lSnJ85ko8TgKWDMF5QztGwJY7bE2QhXcl8k"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - AI for Organizational Leaders by Microsoft and LinkedIn
-  - Technical Literacy and Future Readiness for Senior Managers and Senior Leaders
+  - '[[AI for Organizational Leaders by Microsoft and LinkedIn]]'
+  - '[[Technical Literacy and Future Readiness for Senior Managers and Senior Leaders]]'
+prev_courses:
+  - '[[Generative AI for Business Leaders]]'
+  - '[[Digital Transformation Tips]]'
+next_courses:
+  - '[[AI Challenges and Opportunities for Leadership]]'
+  - '[[AI Challenges and Opportunities for Leadership]]'
+path_nav: '[{"path":"AI for Organizational Leaders by Microsoft and LinkedIn","position":2,"total":6,"prev":"Generative AI for Business Leaders","next":"AI Challenges and Opportunities for Leadership"},{"path":"Technical Literacy and Future Readiness for Senior Managers and Senior Leaders","position":5,"total":10,"prev":"Digital Transformation Tips","next":"AI Challenges and Opportunities for Leadership"}]'
 path_count: 2
 tags:
   - course
@@ -19,7 +26,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![How to Keep Your Team on the Bleeding Edge of AI Innovation](https://media.licdn.com/dms/image/v2/D560DAQF48GB32fBJDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714607313742?e=2147483647&amp;v=beta&amp;t=TukmhhU1lSnJ85ko8TgKWDMF5QztGwJY7bE2QhXcl8k)

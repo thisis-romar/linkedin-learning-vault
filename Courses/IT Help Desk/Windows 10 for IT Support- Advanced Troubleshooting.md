@@ -17,7 +17,12 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEfVJiyg1aJNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664469296114?e=2147483647&amp;v=beta&amp;t=KEW_CfdggAnbHKSus_CFk6aZCJczI7UNYxILQ_YdjK0"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - Advance Your Skills as an IT Help Desk Specialist
+  - '[[Advance Your Skills as an IT Help Desk Specialist]]'
+prev_courses:
+  - '[[Windows 10- Manage and Maintain Windows 10]]'
+next_courses:
+  - '[[Learning Pc Maintenance And Performance]]'
+path_nav: '[{"path":"Advance Your Skills as an IT Help Desk Specialist","position":3,"total":11,"prev":"Windows 10- Manage and Maintain Windows 10","next":"Learning Pc Maintenance And Performance"}]'
 path_count: 1
 tags:
   - course
@@ -25,7 +30,7 @@ tags:
   - skill/troubleshooting
   - skill/windows-10
 status: not-started
-created: 2026-04-20
+created: 2026-04-21
 ---
 
 ![Windows 10 for IT Support: Advanced Troubleshooting](https://media.licdn.com/dms/image/v2/C4E0DAQEfVJiyg1aJNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664469296114?e=2147483647&amp;v=beta&amp;t=KEW_CfdggAnbHKSus_CFk6aZCJczI7UNYxILQ_YdjK0)
