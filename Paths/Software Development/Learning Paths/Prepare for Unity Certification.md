@@ -45,8 +45,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/Prepare%20for%20Unity%20Certification.md)
 
 # Prepare for Unity Certification
 

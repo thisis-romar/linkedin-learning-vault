@@ -27,8 +27,10 @@ tags:
   - skill/devops
   - skill/devsecops
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Devops%20Foundations%20Devsecops.md)
 
 ![Devops Foundations Devsecops](https://media.licdn.com/dms/image/v2/D560DAQGHNknL738WcA/learning-public-crop_675_1200/B56ZifSug4G4Ag-/0/1755019143485?e=2147483647&amp;v=beta&amp;t=q7YsCl2eSEB2H34Ug1Uz0-MYsc8WZ88UrvqcOBdfYPU)
 
@@ -39,18 +41,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022) | Beginner | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- DevOps
-- DevSecOps
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. DevOps Basics** (4 videos)
+- **3. 2. Getting Started with DevSecOps** (11 videos)
+- **4. 3. Starting Your DevSecOps Journey** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to the DevSecOps course
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980)
@@ -99,7 +100,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 1. DevOps Basics
+### 2. 1. DevOps Basics
 
 #### What is DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980)
@@ -525,7 +526,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Getting Started with DevSecOps
+### 3. 2. Getting Started with DevSecOps
 
 #### Cloud and DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980)
@@ -1511,7 +1512,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Starting Your DevSecOps Journey
+### 4. 3. Starting Your DevSecOps Journey
 
 #### Open source DevSecOps tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980)
@@ -1752,7 +1753,7 @@ created: 2026-04-21
 > **URLs:** [anchor.com](https://anchor.com) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Grow and expand
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980)
@@ -1836,6 +1837,15 @@ created: 2026-04-21
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- DevOps
+- DevSecOps
 
 ## Path Context
 

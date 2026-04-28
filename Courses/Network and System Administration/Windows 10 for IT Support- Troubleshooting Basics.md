@@ -36,8 +36,10 @@ tags:
   - skill/technical-support
   - skill/windows-10
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%2010%20for%20IT%20Support-%20Troubleshooting%20Basics.md)
 
 ![Windows 10 for IT Support: Troubleshooting Basics](https://media.licdn.com/dms/image/v2/C560DAQE7k6yBQxLEgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662757917918?e=2147483647&amp;v=beta&amp;t=zUn6uY6Sr5rEU6X8nrwZJbBd-vVzfdQK10L8nzneUPU)
 
@@ -48,18 +50,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics) | 1h 21m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brien Posey]]
-
-## Skills Covered
-
-- Technical Support
-- Windows 10
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. An Introduction to Troubleshooting** (1 videos)
+- **3. 2. The Most Common Fixes** (5 videos)
+- **4. 3. Troubleshooting Tools** (8 videos)
+- **5. 4. Fixing Boot Problems** (2 videos)
+- **6. 5. Remote Troubleshooting** (3 videos)
+- **7. 6. Troubleshooting Applications** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn the basics of troubleshooting in Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980)
@@ -89,7 +93,7 @@ created: 2026-04-21
 > **Speakers:** - [brian] (1)
 
 
-### 1. An Introduction to Troubleshooting
+### 2. 1. An Introduction to Troubleshooting
 
 #### Windows 10 troubleshooting best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980)
@@ -181,7 +185,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Most Common Fixes
+### 3. 2. The Most Common Fixes
 
 #### Booting into Safe Mode
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980)
@@ -663,7 +667,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Troubleshooting Tools
+### 4. 3. Troubleshooting Tools
 
 #### Working with the Reliability Monitor
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980)
@@ -1372,7 +1376,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Fixing Boot Problems
+### 5. 4. Fixing Boot Problems
 
 #### Fixing boot problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980)
@@ -1561,7 +1565,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Remote Troubleshooting
+### 6. 5. Remote Troubleshooting
 
 #### Using Remote Assistance
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-remote-assistance?u=76281980)
@@ -1896,7 +1900,7 @@ created: 2026-04-21
 > **Warnings:** warning (1)
 
 
-### 6. Troubleshooting Applications
+### 7. 6. Troubleshooting Applications
 
 #### Reinstalling a Windows Store application
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-windows-store-application?u=76281980)
@@ -2227,7 +2231,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980)
@@ -2251,6 +2255,15 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [brien] (1)
 
+
+## Instructor
+
+- [[Brien Posey]]
+
+## Skills Covered
+
+- Technical Support
+- Windows 10
 
 ## Path Context
 

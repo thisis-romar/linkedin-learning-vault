@@ -28,29 +28,31 @@ tags:
   - topic/hardware
   - skill/programmable-logic-controller-plc
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/PLC%20Memory%20Organization.md)
 
 ![PLC Memory Organization](https://media.licdn.com/dms/image/v2/C560DAQEdQs8tEi3FdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615392756499?e=2147483647&amp;v=beta&amp;t=Se2aa2cjWXeW7y6Vuk6GJd6DwG5nm1nmpoTjHHlm7PY)
 
 # PLC Memory Organization
 
-> You've made PLCs do simple things, but now you need to optimize processes based on data you're collecting.  Where does the data go?  How can you access that data from memory efficiently?  In this course, instructor Zara Khalil explains the details of data storage, how it interacts with input and output (I/O), and how you can approach memory structures. Zara introduces you to the different software
+> You've made PLCs do simple things, but now you need to optimize processes based on data you're collecting. Where does the data go? How can you access that data from memory efficiently? In this course, instructor Zara Khalil explains the details of data storage, how it interacts with input and output (I/O), and how you can approach memory structures. Zara introduces you to the different software an
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization) | 45m | Advanced | 47K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Zahraa Khalil]]
-
-## Skills Covered
-
-- Programmable Logic Controller (PLC)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Processor Memory Organization** (2 videos)
+- **3. 2. Rack-Based System** (7 videos)
+- **4. 3. Tag-Based System** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Memory organization for PLCs
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980)
@@ -124,7 +126,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Processor Memory Organization
+### 2. 1. Processor Memory Organization
 
 #### Allen-Bradley PLCs types
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980)
@@ -200,7 +202,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Rack-Based System
+### 3. 2. Rack-Based System
 
 #### Rack-based systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/rack-based-systems?u=76281980)
@@ -538,7 +540,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Tag-Based System
+### 4. 3. Tag-Based System
 
 #### Tag-based system
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/tag-based-system?u=76281980)
@@ -931,7 +933,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980)
@@ -958,6 +960,14 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Zahraa Khalil]]
+
+## Skills Covered
+
+- Programmable Logic Controller (PLC)
 
 ## Path Context
 

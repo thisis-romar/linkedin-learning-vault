@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Making%20Sense%20of%20the%20CSS%20Box%20Model.md)
 
 ![Making Sense of the CSS Box Model](https://media.licdn.com/dms/image/v2/C510DAQErdG7cyqqxlA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1573752417155?e=2147483647&amp;v=beta&amp;t=UGuGG6jtZs5eWyfmqg2T0xrk5H_XHx9ynyceYu2YZ7M)
 
@@ -40,17 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2) | 1h 11m | Beginner | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Skills Covered
-
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Appetizer: The Web Is Made of Boxes** (3 videos)
+- **3. 2. Entrée: The Origin of the Box in Typography** (3 videos)
+- **4. 3. Main Course: Understanding the Box Model** (8 videos)
+- **5. 4. Dessert: The Brave New World of Layouts** (5 videos)
+- **6. 5. Nightcap** (2 videos)
+
+### 1. Introduction
 
 #### Making sense of the CSS Box Model
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/making-sense-of-the-css-box-model?u=76281980)
@@ -78,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 1. Appetizer: The Web Is Made of Boxes
+### 2. 1. Appetizer: The Web Is Made of Boxes
 
 #### Displaying information through the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/displaying-information-through-the-web?u=76281980)
@@ -243,7 +246,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 2. Entrée: The Origin of the Box in Typography
+### 3. 2. Entrée: The Origin of the Box in Typography
 
 #### Understanding the basics of type
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-basics-of-type?u=76281980)
@@ -456,7 +459,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Main Course: Understanding the Box Model
+### 4. 3. Main Course: Understanding the Box Model
 
 #### What is the CSS Box Model?
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/what-is-the-css-box-model?u=76281980)
@@ -937,7 +940,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Dessert: The Brave New World of Layouts
+### 5. 4. Dessert: The Brave New World of Layouts
 
 #### Modern layout modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/modern-layout-modules?u=76281980)
@@ -1326,7 +1329,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Nightcap
+### 6. 5. Nightcap
 
 #### Shapes
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/shapes?u=76281980)
@@ -1432,6 +1435,14 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - [morten] (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Skills Covered
+
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

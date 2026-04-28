@@ -30,8 +30,10 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20Advanced%20AI%20Apps%20with%20Prompt%20Flow.md)
 
 ![Building Advanced AI Apps with Prompt Flow](https://media.licdn.com/dms/image/v2/D4E0DAQGceaZfBEf0RQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727119277799?e=2147483647&amp;v=beta&amp;t=vsY5-vz_9t0DjMsgJYuG9avYM7-LmJxPRe1aq-d6xwg)
 
@@ -42,20 +44,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow) | 35m | 1K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Skills Covered
-
-- Prompt Flow
-- Generative AI
-- AI Software Development
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Exploring Prompt Flow** (8 videos)
+- **3. 2. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Prompt Flow: Your toolkit to build AI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980)
@@ -86,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - take (1)
 
 
-### 1. Exploring Prompt Flow
+### 2. 1. Exploring Prompt Flow
 
 #### What is Prompt Flow?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980)
@@ -919,7 +916,7 @@ created: 2026-04-21
 > **Best Practices:** the key is (1)
 
 
-### 2. Conclusion
+### 3. 2. Conclusion
 
 #### Going further with Prompt Flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980)
@@ -948,6 +945,17 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - and (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Skills Covered
+
+- Prompt Flow
+- Generative AI
+- AI Software Development
+- Artificial Intelligence (AI)
 
 ## Path Context
 

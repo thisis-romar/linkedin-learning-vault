@@ -30,8 +30,10 @@ tags:
   - skill/django
   - skill/membership-systems
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20a%20Paid%20Membership%20Site%20with%20Django.md)
 
 ![Building a Paid Membership Site with Django](https://media.licdn.com/dms/image/v2/C4E0DAQHCswQe7k_ZlA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669117023?e=2147483647&amp;v=beta&amp;t=HJQfzd3o-clYeXEdKIGEDB7AcywiJlMYWH8ud6SjK6g)
 
@@ -42,22 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django) | 1h 15m | Intermediate | 38K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nick Walter]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Django
-- Membership Systems
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Setting Up Our Project** (3 videos)
+- **3. 2. Checkout Basics** (5 videos)
+- **4. 3. Processing Payments** (4 videos)
+- **5. 4. Canceling a Subscription** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building a paid membership site with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/building-a-paid-membership-site-with-django?u=76281980)
@@ -239,7 +237,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (2)
 
 
-### 1. Setting Up Our Project
+### 2. 1. Setting Up Our Project
 
 #### The starter project walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980)
@@ -543,7 +541,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (2)
 
 
-### 2. Checkout Basics
+### 3. 2. Checkout Basics
 
 #### Select yearly or monthly
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980)
@@ -1638,7 +1636,7 @@ created: 2026-04-21
 > **Versions:** 6.90 (2)
 
 
-### 3. Processing Payments
+### 4. 3. Processing Payments
 
 #### Process payment
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/process-payment?u=76281980)
@@ -2190,7 +2188,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (2)
 
 
-### 4. Canceling a Subscription
+### 5. 4. Canceling a Subscription
 
 #### Settings for a GET request
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-for-a-get-request?u=76281980)
@@ -2792,7 +2790,7 @@ created: 2026-04-21
 > **Analogies:** for instance (2)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980)
@@ -2873,6 +2871,19 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 > **Speakers:** - [nick] (2)
 
+
+## Instructor
+
+- [[Nick Walter]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Django
+- Membership Systems
 
 ## Path Context
 

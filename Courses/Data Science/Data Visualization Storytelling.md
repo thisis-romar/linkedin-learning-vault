@@ -35,8 +35,10 @@ tags:
   - skill/data-storytelling
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Visualization%20Storytelling.md)
 
 ![Data Visualization Storytelling](https://media.licdn.com/dms/image/v2/C4E0DAQF65hPJINtZCw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1606852319338?e=2147483647&amp;v=beta&amp;t=zx3WTxTKwHC4Ma6idGzBo0EUKwNxJmISG5mc5w9pVts)
 
@@ -47,22 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling) | Intermediate | 85K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bill Shander]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Storytelling
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Why Storytelling?** (3 videos)
+- **3. 2. Story Structure** (6 videos)
+- **4. 3. Story Mechanisms** (7 videos)
+- **5. 4. Final Touches** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The art of storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/the-art-of-storytelling?u=76281980)
@@ -91,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - storytelling (1)
 
 
-### 1. Why Storytelling?
+### 2. 1. Why Storytelling?
 
 #### Humans are wired for story
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980)
@@ -345,7 +343,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Story Structure
+### 3. 2. Story Structure
 
 #### The KWYs
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/the-kwys?u=76281980)
@@ -1078,7 +1076,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Story Mechanisms
+### 4. 3. Story Mechanisms
 
 #### Change over time
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/change-over-time?u=76281980)
@@ -1667,7 +1665,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Final Touches
+### 5. 4. Final Touches
 
 #### Labeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980)
@@ -2144,7 +2142,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980)
@@ -2168,6 +2166,19 @@ created: 2026-04-21
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [bill] (1)
 
+
+## Instructor
+
+- [[Bill Shander]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Storytelling
+- Data Visualization
 
 ## Path Context
 

@@ -41,8 +41,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Multimodal%20Prompting%20for%20Generative%20AI.md)
 
 ![Introduction to Multimodal Prompting for Generative AI](https://media.licdn.com/dms/image/v2/D560DAQEL96ao5DSQNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008136967?e=2147483647&amp;v=beta&amp;t=LuWWW9Db3Jvjl3B1Kb3LWebXJST3zpPGXxwlHL_j1vY)
 
@@ -53,26 +55,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai) | 41m | Intermediate | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ronnie Sheer]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-multimodal-prompting-for-generative-ai-3852046)
-
-## Skills Covered
-
-- Multimodal Prompting
-- Generative AI
-- AI Prompting
-- Artificial Intelligence (AI)
-- Prompt Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Multimodality** (3 videos)
+- **3. 2. GPT-4** (5 videos)
+- **4. 3. Gemini** (5 videos)
+- **5. 4. Auditory Modalities** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### GenAI with multimodal prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980)
@@ -103,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - use (1)
 
 
-### 1. Multimodality
+### 2. 1. Multimodality
 
 #### What is multimodality?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-multimodality?u=76281980)
@@ -212,7 +206,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. GPT-4
+### 3. 2. GPT-4
 
 #### GPT-4 and 4o
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-and-4o?u=76281980)
@@ -429,7 +423,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Gemini
+### 4. 3. Gemini
 
 #### What is Gemini?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980)
@@ -652,7 +646,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Auditory Modalities
+### 5. 4. Auditory Modalities
 
 #### Audio in generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/audio-in-generative-ai?u=76281980)
@@ -803,7 +797,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980)
@@ -844,6 +838,23 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Ronnie Sheer]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-multimodal-prompting-for-generative-ai-3852046)
+
+## Skills Covered
+
+- Multimodal Prompting
+- Generative AI
+- AI Prompting
+- Artificial Intelligence (AI)
+- Prompt Engineering
 
 ## Path Context
 

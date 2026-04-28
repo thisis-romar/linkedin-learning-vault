@@ -35,8 +35,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Responsible%20AI%20Foundations%20Professional%20Certificate%20by%20All%20Tech%20Is%20Human.md)
 
 # Responsible AI Foundations Professional Certificate by All Tech Is Human
 

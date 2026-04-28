@@ -30,8 +30,10 @@ tags:
   - skill/digital-accessibility
   - skill/computer-accessibility
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Microsoft%20Office%20Accessibility%20for%20Beginners.md)
 
 ![Microsoft Office Accessibility for Beginners](https://media.licdn.com/dms/image/v2/C560DAQHR74o8vDFJww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1669663363373?e=2147483647&amp;v=beta&amp;t=87qhKOeqv_4mMD_rU2Nm-TydHZUIL4zT6m_KVWUvi-U)
 
@@ -42,19 +44,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners) | 24m | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jess Stratton]]
-
-## Skills Covered
-
-- Microsoft Office
-- Digital Accessibility
-- Computer Accessibility
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Tools for Creating Content** (3 videos)
+- **3. 2. Tools for Consuming Content** (5 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Microsoft Office makes content and function acessible to all
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980)
@@ -79,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - [jess] (1)
 
 
-### 1. Tools for Creating Content
+### 2. 1. Tools for Creating Content
 
 #### Use the Dictate tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980)
@@ -278,7 +277,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Tools for Consuming Content
+### 3. 2. Tools for Consuming Content
 
 #### Have content read out loud
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980)
@@ -624,7 +623,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Learn accessibility options in depth
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980)
@@ -645,6 +644,16 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [jess] (1)
 
+
+## Instructor
+
+- [[Jess Stratton]]
+
+## Skills Covered
+
+- Microsoft Office
+- Digital Accessibility
+- Computer Accessibility
 
 ## Path Context
 

@@ -33,43 +33,34 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/vertex
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20Vertex%20AI-%20MLOps%20with%20Google%20Cloud.md)
 
 ![Learning Vertex AI: MLOps with Google Cloud](https://media.licdn.com/dms/image/v2/D4D0DAQGW2u39Kq1kjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727390394338?e=2147483647&amp;v=beta&amp;t=N9FouCaiGWlHWH8_UaVRHToPDxxto73D8RKGk8chnRE)
 
 # Learning Vertex AI: MLOps with Google Cloud
 
-> Projects
-
-Use a real-world data set to build a project in Vertex AI. 
-Train, register, and deploy a machine learning (ML) model using Vertex AI.
-Keep track of data history and version, ensure resource shutdown, and monitor an ML model for performance and quality.  
- 
-Learn how to train and manage machine learning models using Vertex AI, the MLOps cloud solution designed by Google. Join instructors
+> Projects Use a real-world data set to build a project in Vertex AI. Train, register, and deploy a machine learning (ML) model using Vertex AI. Keep track of data history and version, ensure resource shutdown, and monitor an ML model for performance and quality. Learn how to train and manage machine learning models using Vertex AI, the MLOps cloud solution designed by Google. Join instructors Archa
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud) | 1h 38m | Intermediate | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Archana Vaidheeswaran]]
-- [[Soham Chatterjee]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-vertex-ai-mlops-with-google-cloud-4366293)
-
-## Skills Covered
-
-- MLOps
-- Artificial Intelligence (AI)
-- Vertex
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to MLOps** (4 videos)
+- **3. 2. Feature Engineering** (2 videos)
+- **4. 3. Training and Hyperparameter** (4 videos)
+- **5. 4. Model Serving and Deployment** (3 videos)
+- **6. 5. Model Monitoring and Management** (2 videos)
+- **7. 6. Deploy Your Project Using Vertex AI** (2 videos)
+- **8. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Learning Vertex AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/learning-vertex-ai?u=76281980)
@@ -119,7 +110,7 @@ Learn how to train and manage machine learning models using Vertex AI, the MLOps
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to MLOps
+### 2. 1. Introduction to MLOps
 
 #### MLOps lifecycle: ML development
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980)
@@ -474,7 +465,7 @@ Learn how to train and manage machine learning models using Vertex AI, the MLOps
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Feature Engineering
+### 3. 2. Feature Engineering
 
 #### Vertex AI feature store
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980)
@@ -728,7 +719,7 @@ Learn how to train and manage machine learning models using Vertex AI, the MLOps
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Training and Hyperparameter
+### 4. 3. Training and Hyperparameter
 
 #### Vertex AI AutoML
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980)
@@ -1208,7 +1199,7 @@ Learn how to train and manage machine learning models using Vertex AI, the MLOps
 > **Tools:** command line (1)
 
 
-### 4. Model Serving and Deployment
+### 5. 4. Model Serving and Deployment
 
 #### Vertex AI prediction
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980)
@@ -1514,7 +1505,7 @@ Learn how to train and manage machine learning models using Vertex AI, the MLOps
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Model Monitoring and Management
+### 6. 5. Model Monitoring and Management
 
 #### Vertex AI model monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980)
@@ -1768,7 +1759,7 @@ Learn how to train and manage machine learning models using Vertex AI, the MLOps
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Deploy Your Project Using Vertex AI
+### 7. 6. Deploy Your Project Using Vertex AI
 
 #### Challenge: Deploy a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/challenge-deploy-a-project?u=76281980)
@@ -1869,7 +1860,7 @@ Learn how to train and manage machine learning models using Vertex AI, the MLOps
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Vertex AI vs. other MLOps platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980)
@@ -1955,6 +1946,22 @@ Learn how to train and manage machine learning models using Vertex AI, the MLOps
 >
 > **Speakers:** - [trainer] (1)
 
+
+## Instructor
+
+- [[Archana Vaidheeswaran]]
+- [[Soham Chatterjee]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-vertex-ai-mlops-with-google-cloud-4366293)
+
+## Skills Covered
+
+- MLOps
+- Artificial Intelligence (AI)
+- Vertex
 
 ## Path Context
 

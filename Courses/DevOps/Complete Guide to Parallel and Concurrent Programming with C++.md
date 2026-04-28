@@ -33,8 +33,10 @@ tags:
   - skill/c
   - skill/parallel-programming
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Complete%20Guide%20to%20Parallel%20and%20Concurrent%20Programming%20with%20C%2B%2B.md)
 
 ![Complete Guide to Parallel and Concurrent Programming with C++](https://media.licdn.com/dms/image/v2/D4D0DAQEnCWmh3NCa-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736554366422?e=2147483647&amp;v=beta&amp;t=xJ9SrMbcj1y53RO3qsBAn07oMF3RpKhjs9n8I3BjH7c)
 
@@ -45,23 +47,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus) | 5h 7m | Intermediate | 24K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barron Stone]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Concurrent Programming
-- C++
-- Parallel Programming
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Parallel Computing Hardware** (3 videos)
+- **3. 2. Threads and Processes** (9 videos)
+- **4. 3. Mutual Exclusion** (5 videos)
+- **5. 4. Locks** (6 videos)
+- **6. 5. Liveness** (8 videos)
+- **7. 6. Synchronization** (6 videos)
+- **8. 7. Barriers** (5 videos)
+- **9. 8. Asynchronous Tasks** (7 videos)
+- **10. 9. Evaluating Parallel Performance** (4 videos)
+- **11. 10. Designing Parallel Programs** (4 videos)
+- **12. 11. Challenge Problems** (7 videos)
+- **13. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn parallel programming basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980)
@@ -152,7 +156,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 1. Parallel Computing Hardware
+### 2. 1. Parallel Computing Hardware
 
 #### Sequential vs. parallel computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/sequential-vs-parallel-computing?u=76281980)
@@ -456,7 +460,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 2. Threads and Processes
+### 3. 2. Threads and Processes
 
 #### Thread versus process
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-versus-process?u=76281980)
@@ -1115,7 +1119,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Mutual Exclusion
+### 4. 3. Mutual Exclusion
 
 #### Data race
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/data-race?u=76281980)
@@ -1468,7 +1472,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Locks
+### 5. 4. Locks
 
 #### Recursive mutex
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/recursive-mutex?u=76281980)
@@ -1876,7 +1880,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Liveness
+### 6. 5. Liveness
 
 #### Deadlock
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/deadlock?u=76281980)
@@ -2343,7 +2347,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Synchronization
+### 7. 6. Synchronization
 
 #### Condition variable
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/condition-variable?u=76281980)
@@ -2809,7 +2813,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Barriers
+### 8. 7. Barriers
 
 #### Race condition
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/race-condition?u=76281980)
@@ -3139,7 +3143,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Asynchronous Tasks
+### 9. 8. Asynchronous Tasks
 
 #### Computational graph
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980)
@@ -3588,7 +3592,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 9. Evaluating Parallel Performance
+### 10. 9. Evaluating Parallel Performance
 
 #### Speedup, latency, and throughput
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/speedup-latency-and-throughput?u=76281980)
@@ -3884,7 +3888,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Designing Parallel Programs
+### 11. 10. Designing Parallel Programs
 
 #### Partitioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980)
@@ -4167,7 +4171,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 11. Challenge Problems
+### 12. 11. Challenge Problems
 
 #### Welcome to the challenges!
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/welcome-to-the-challenges?u=76281980)
@@ -4581,7 +4585,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### Conclusion
+### 13. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/next-steps?u=76281980)
@@ -4613,6 +4617,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Exercise Files:** exercise files (1)
 
+
+## Instructor
+
+- [[Barron Stone]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Concurrent Programming
+- C++
+- Parallel Programming
 
 ## Path Context
 

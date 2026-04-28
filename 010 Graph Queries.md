@@ -5,8 +5,10 @@ cssclasses:
 tags:
   - moc
   - graph-queries
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/010%20Graph%20Queries.md)
 
 # Graph Queries — Copy/Paste Cheatsheet
 

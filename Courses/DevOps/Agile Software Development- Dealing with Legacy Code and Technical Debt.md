@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/agile-software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development-%20Dealing%20with%20Legacy%20Code%20and%20Technical%20Debt.md)
 
 ![Agile Software Development: Dealing with Legacy Code and Technical Debt](https://media.licdn.com/dms/image/v2/C4E0DAQGQ1fUouicSpg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572474974966?e=2147483647&amp;v=beta&amp;t=L40ED0kqNMkWbIgzx7VqyITB0tEul2pBNbJmxcwaFIY)
 
@@ -41,21 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt) | 1h 2m | Intermediate | 259K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[M. Scott Ford]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Agile Software Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started: Review the Technical Debt** (5 videos)
+- **3. 2. Fence in the Technical Debt** (6 videos)
+- **4. 3. Improve Your Tools** (3 videos)
+- **5. 4. Pay Down Technical Debt** (4 videos)
+- **6. 5. Keep Technical Debt at Bay** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Embrace the legacy and tackle the debt
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/embrace-the-legacy-and-tackle-the-debt?u=76281980)
@@ -173,7 +173,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started: Review the Technical Debt
+### 2. 1. Getting Started: Review the Technical Debt
 
 #### Familiarize yourself
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/familiarize-yourself?u=76281980)
@@ -565,7 +565,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Fence in the Technical Debt
+### 3. 2. Fence in the Technical Debt
 
 #### Technical debt grows without tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-grows-without-tests?u=76281980)
@@ -884,7 +884,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Improve Your Tools
+### 4. 3. Improve Your Tools
 
 #### Aging tools make technical debt worse
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980)
@@ -1123,7 +1123,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Pay Down Technical Debt
+### 5. 4. Pay Down Technical Debt
 
 #### Remove noise and distractions
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remove-noise-and-distractions?u=76281980)
@@ -1473,7 +1473,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Keep Technical Debt at Bay
+### 6. 5. Keep Technical Debt at Bay
 
 #### Technical debt will grow like weeds
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980)
@@ -1666,7 +1666,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980)
@@ -1705,6 +1705,18 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 > **Speakers:** - [scott] (1)
 
+
+## Instructor
+
+- [[M. Scott Ford]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Agile Software Development
 
 ## Path Context
 

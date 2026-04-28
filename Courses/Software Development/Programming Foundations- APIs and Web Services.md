@@ -21,8 +21,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20APIs%20and%20Web%20Services.md)
 
 ![Programming Foundations: APIs and Web Services](https://media.licdn.com/dms/image/v2/D560DAQEySR8TanAB1g/learning-public-crop_675_1200/B56ZbF5W7kH0Ac-/0/1747076870149?e=2147483647&amp;v=beta&amp;t=RxzDL_McOSZ7kdAXOIRL7v-STg9oJgWbk26zPKM391A)
 
@@ -33,13 +35,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033) | 1h 55m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kesha Williams]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Exploring APIs and Web Services** (4 videos)
+- **3. 2. Implementing RESTful APIs** (5 videos)
+- **4. 3. Implementing GraphQL** (4 videos)
+- **5. 4.  Integrating Generative AI APIs** (4 videos)
+- **6. 5. Ensuring API Security and Best Practices** (6 videos)
+- **7. 6. Anticipating Future Trends in APIs and Web Services** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to APIs and web services
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/introduction-to-apis-and-web-services?u=76281980)
@@ -76,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - apis (1)
 
 
-### 1. Exploring APIs and Web Services
+### 2. 1. Exploring APIs and Web Services
 
 #### Defining APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980)
@@ -460,7 +469,7 @@ created: 2026-04-21
 > **URLs:** [nasa.gov](https://nasa.gov) (1)
 
 
-### 2. Implementing RESTful APIs
+### 3. 2. Implementing RESTful APIs
 
 #### Applying REST principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980)
@@ -952,7 +961,7 @@ created: 2026-04-21
 > **Exercise Files:** github repo (1)
 
 
-### 3. Implementing GraphQL
+### 4. 3. Implementing GraphQL
 
 #### Exploring GraphQL benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980)
@@ -1413,7 +1422,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 4.  Integrating Generative AI APIs
+### 5. 4.  Integrating Generative AI APIs
 
 #### Exploring the OpenAI APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980)
@@ -1823,7 +1832,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Ensuring API Security and Best Practices
+### 6. 5. Ensuring API Security and Best Practices
 
 #### Securing APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980)
@@ -2297,7 +2306,7 @@ created: 2026-04-21
 > **Documentation:** specification (2), the documentation (1)
 
 
-### 6. Anticipating Future Trends in APIs and Web Services
+### 7. 6. Anticipating Future Trends in APIs and Web Services
 
 #### Embracing emerging technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980)
@@ -2457,7 +2466,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Your programming foundations: APIs and web services journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980)
@@ -2496,6 +2505,10 @@ created: 2026-04-21
 > **Tools:** postman (1)
 > **Speakers:** - and (1)
 
+
+## Instructor
+
+- [[Kesha Williams]]
 
 ## Path Context
 

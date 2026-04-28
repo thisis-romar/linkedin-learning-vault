@@ -26,8 +26,10 @@ tags:
   - skill/copyright-law
   - skill/content-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Protecting%20Yourself%20as%20a%20Content%20Creator.md)
 
 ![Protecting Yourself as a Content Creator](https://media.licdn.com/dms/image/v2/C4D0DAQHFKO0rXc_q1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679937997325?e=2147483647&amp;v=beta&amp;t=F5-esedtcdj0ILYlhZaOnLpd6vwFYv3Zq5DqD6s3yGc)
 
@@ -38,18 +40,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator) | 42m | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shontavia Johnson]]
-
-## Skills Covered
-
-- Copyright Law
-- Content Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Protecting Your Brand Online** (4 videos)
+- **3. 2. Protecting Your Content Online** (4 videos)
+- **4. 3. Protecting Your Secrets and Business Information Online** (3 videos)
+- **5. 4. Considerations When Hiring a Lawyer** (1 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Protecting your intellectual property as a creator
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-intellectual-property-as-a-creator-20448617?u=76281980)
@@ -99,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - all (1)
 
 
-### 1. Protecting Your Brand Online
+### 2. 1. Protecting Your Brand Online
 
 #### How trademark law applies to your content
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trademark-law-applies-to-your-content?u=76281980)
@@ -415,7 +417,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 2. Protecting Your Content Online
+### 3. 2. Protecting Your Content Online
 
 #### How copyright law applies to your content
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-copyright-law-applies-to-your-content?u=76281980)
@@ -687,7 +689,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 3. Protecting Your Secrets and Business Information Online
+### 4. 3. Protecting Your Secrets and Business Information Online
 
 #### How trade secret law applies to your business strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980)
@@ -871,7 +873,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### 4. Considerations When Hiring a Lawyer
+### 5. 4. Considerations When Hiring a Lawyer
 
 #### Know when and how to hire a lawyer
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/know-when-and-how-to-hire-a-lawyer?u=76281980)
@@ -957,7 +959,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Protect yourself as a content creator
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protect-yourself-as-a-content-creator?u=76281980)
@@ -989,6 +991,15 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Shontavia Johnson]]
+
+## Skills Covered
+
+- Copyright Law
+- Content Management
 
 ## Path Context
 

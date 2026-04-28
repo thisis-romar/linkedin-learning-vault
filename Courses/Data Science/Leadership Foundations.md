@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Leadership%20Foundations.md)
 
 ![Leadership Foundations](https://media.licdn.com/dms/image/v2/D560DAQGmwr56kiqd9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683670168415?e=2147483647&amp;v=beta&amp;t=FZQiANaIeO4N7QIa84itQlddEEL_CHMmfgQyXqfv47c)
 
@@ -40,21 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442) | 2h 5m | Beginner | 131K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dr. Shirley Davis]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Key Principles of Leadership** (4 videos)
+- **3. 2. Core Leadership Competencies** (7 videos)
+- **4. 3. Navigating Leadership Complexity** (4 videos)
+- **5. 4. Real-World Leadership Lessons** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to leadership foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/welcome-to-leadership-foundations?u=76281980)
@@ -79,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Key Principles of Leadership
+### 2. 1. Key Principles of Leadership
 
 #### Leading yourself
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-yourself?u=76281980)
@@ -449,7 +448,7 @@ created: 2026-04-21
 > **Speakers:** - effective (1)
 
 
-### 2. Core Leadership Competencies
+### 3. 2. Core Leadership Competencies
 
 #### Strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980)
@@ -989,7 +988,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. Navigating Leadership Complexity
+### 4. 3. Navigating Leadership Complexity
 
 #### Leading change through agility and resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-change-through-agility-and-resilience?u=76281980)
@@ -1273,7 +1272,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Real-World Leadership Lessons
+### 5. 4. Real-World Leadership Lessons
 
 #### Introducing Richard Davis and Steve Miranda
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/introducing-richard-davis-and-steve-miranda?u=76281980)
@@ -1333,7 +1332,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Action planning and next steps to becoming a leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/action-planning-and-next-steps-to-becoming-a-leader?u=76281980)
@@ -1395,6 +1394,18 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Dr. Shirley Davis]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Leadership
 
 ## Path Context
 

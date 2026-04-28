@@ -9,8 +9,10 @@ linkedin_topics:
 tags:
   - instructor
   - topic/software-development
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Software%20Development/Lorena%20D%C3%ADaz%20Quijano.md)
 
 # Lorena Díaz Quijano
 

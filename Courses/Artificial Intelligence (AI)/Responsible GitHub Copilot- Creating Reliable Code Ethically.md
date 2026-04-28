@@ -37,30 +37,29 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20GitHub%20Copilot-%20Creating%20Reliable%20Code%20Ethically.md)
 
 ![Responsible GitHub Copilot: Creating Reliable Code Ethically](https://media.licdn.com/dms/image/v2/D4D0DAQGgFgJMm98eKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736186054165?e=2147483647&amp;v=beta&amp;t=t2HKxA8B6gKwi9B1Kbjui5umAr0tD6Wgb4UCRglBYzc)
 
 # Responsible GitHub Copilot: Creating Reliable Code Ethically
 
-> GitHub Copilot offers speed and ease, but getting things right, both in code and on the more human side, is challenging. You can use GitHub Copilot to create code instantly, as well as inspect and test it, but how can you be sure you’re getting the right code for the right purpose?  In this course, DevOps professional and consultant Rob Bos shows you how. Learn how to avoid introducing bias into y
+> GitHub Copilot offers speed and ease, but getting things right, both in code and on the more human side, is challenging. You can use GitHub Copilot to create code instantly, as well as inspect and test it, but how can you be sure you’re getting the right code for the right purpose? In this course, DevOps professional and consultant Rob Bos shows you how. Learn how to avoid introducing bias into yo
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582) | 23m | Beginner | 82K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rob Bos]]
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- GitHub Copilot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Using GitHub Copilot Responsibly** (7 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### GenAI and creating code responsibly
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980)
@@ -88,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - welcome (1)
 
 
-### 1. Using GitHub Copilot Responsibly
+### 2. 1. Using GitHub Copilot Responsibly
 
 #### Controlling the Skies: Your role as a Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980)
@@ -509,7 +508,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980)
@@ -553,6 +552,15 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Rob Bos]]
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- GitHub Copilot
 
 ## Path Context
 

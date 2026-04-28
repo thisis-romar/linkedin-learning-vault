@@ -22,8 +22,10 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%2080-20%20Rule%20of%20Data%20Science.md)
 
 ![The 80/20 Rule of Data Science](https://media.licdn.com/dms/image/v2/D4D0DAQEcI8TngOHfeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724267271010?e=2147483647&amp;v=beta&amp;t=HoBiLuSGWby-16_rSkaxbOxXDRe_KOUdx04PY91WIWQ)
 
@@ -34,13 +36,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science) | 1h 26m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Howard Friedman]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started with Prioritizing** (5 videos)
+- **3. 2. Database Selection and Quality Checks** (5 videos)
+- **4. 3. Simple Models First** (6 videos)
+- **5. 4. Tracking Performance** (4 videos)
+- **6. 5. Communicating the 80/20 of Data Science** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is the 80/20 rule of data science?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-is-the-80-20-rule-of-data-science?u=76281980)
@@ -118,7 +126,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 1. Getting Started with Prioritizing
+### 2. 1. Getting Started with Prioritizing
 
 #### Defining success
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/defining-success?u=76281980)
@@ -561,7 +569,7 @@ created: 2026-04-21
 > **Speakers:** - think (1)
 
 
-### 2. Database Selection and Quality Checks
+### 3. 2. Database Selection and Quality Checks
 
 #### Comb the literature
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980)
@@ -995,7 +1003,7 @@ created: 2026-04-21
 > **Speakers:** - not (1)
 
 
-### 3. Simple Models First
+### 4. 3. Simple Models First
 
 #### Feature transformations
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/feature-transformations?u=76281980)
@@ -1397,7 +1405,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Tracking Performance
+### 5. 4. Tracking Performance
 
 #### Choosing metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/choosing-metrics?u=76281980)
@@ -1702,7 +1710,7 @@ created: 2026-04-21
 > **Speakers:** - data (1)
 
 
-### 5. Communicating the 80/20 of Data Science
+### 6. 5. Communicating the 80/20 of Data Science
 
 #### Focus on outcome, not technique
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980)
@@ -1898,7 +1906,7 @@ created: 2026-04-21
 > **Speakers:** - clients (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Key takeaways for your future career in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/key-takeaways-for-your-future-career-in-data-science?u=76281980)
@@ -1934,6 +1942,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
+
+## Instructor
+
+- [[Howard Friedman]]
 
 ## Path Context
 

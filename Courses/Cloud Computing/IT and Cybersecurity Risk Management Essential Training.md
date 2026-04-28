@@ -24,8 +24,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/IT%20and%20Cybersecurity%20Risk%20Management%20Essential%20Training.md)
 
 ![IT and Cybersecurity Risk Management Essential Training](https://media.licdn.com/dms/image/v2/C560DAQHLYZ-cHRHL8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643738319752?e=2147483647&amp;v=beta&amp;t=e8YKnjzHJDyDVBAur58Ctt3_MGtmi8VIsXaXdrPn_XQ)
 
@@ -36,13 +38,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training) | 1h 52m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kip Boyle]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is IT Risk Management?** (6 videos)
+- **3. 2. IT Risk Management in Context** (6 videos)
+- **4. 3. IT Risk Management in Practice** (6 videos)
+- **5. 4. IT Risk Management on the Job** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Managing risk in IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980)
@@ -73,7 +80,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 1. What Is IT Risk Management?
+### 2. 1. What Is IT Risk Management?
 
 #### What is IT risk?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-14510296?u=76281980)
@@ -459,7 +466,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. IT Risk Management in Context
+### 3. 2. IT Risk Management in Context
 
 #### IT risk management in small companies
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-small-companies-14512317?u=76281980)
@@ -901,7 +908,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. IT Risk Management in Practice
+### 4. 3. IT Risk Management in Practice
 
 #### Performing the IT risk assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980)
@@ -1361,7 +1368,7 @@ created: 2026-04-21
 > **Prerequisites:** required to (1)
 
 
-### 4. IT Risk Management on the Job
+### 5. 4. IT Risk Management on the Job
 
 #### Choosing the right IT risk management technique
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980)
@@ -1753,7 +1760,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps with managing risk in IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980)
@@ -1791,6 +1798,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
 
+
+## Instructor
+
+- [[Kip Boyle]]
 
 ## Path Context
 

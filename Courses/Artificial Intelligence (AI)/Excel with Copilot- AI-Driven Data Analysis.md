@@ -28,26 +28,31 @@ tags:
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Excel%20with%20Copilot-%20AI-Driven%20Data%20Analysis.md)
 
 ![Excel with Copilot: AI-Driven Data Analysis](https://media.licdn.com/dms/image/v2/D560DAQF0HJtyRnPmSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709675887057?e=2147483647&amp;v=beta&amp;t=7IrqI8iG8co_6syAtmQMWevsrCuaFqaQkNaRIJoOBo4)
 
 # Excel with Copilot: AI-Driven Data Analysis
 
-> Excel has always been a powerful tool with remarkable possibilities—if you know how to work with it. The same could be said about leveraging AI in Excel. In this course, analytics author, trainer, and Excel MVP George Mount covers the role of Copilot in automating Excel tasks and the promise of AI-driven data manipulation and analysis.
-George shows you how to prepare your data to be compatible wit
+> Excel has always been a powerful tool with remarkable possibilities—if you know how to work with it. The same could be said about leveraging AI in Excel. In this course, analytics author, trainer, and Excel MVP George Mount covers the role of Copilot in automating Excel tasks and the promise of AI-driven data manipulation and analysis. George shows you how to prepare your data to be compatible wit
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis) | 1h 38m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[George Mount]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. First Steps with Copilot** (6 videos)
+- **3. 2. Data Management with Copilot** (9 videos)
+- **4. 3. Analyzing and Visualizing Data with Copilot** (9 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to Copilot and AI-powered Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/welcome-to-copilot-and-ai-powered-excel?u=76281980)
@@ -164,7 +169,7 @@ George shows you how to prepare your data to be compatible wit
 > **Speakers:** - [instructor] (1)
 
 
-### 1. First Steps with Copilot
+### 2. 1. First Steps with Copilot
 
 #### Getting your data into Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/getting-your-data-into-copilot-27828092?u=76281980)
@@ -701,7 +706,7 @@ George shows you how to prepare your data to be compatible wit
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Data Management with Copilot
+### 3. 2. Data Management with Copilot
 
 #### Creating formulas and functions faster with Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/creating-formulas-and-functions-faster-with-copilot-27846084?u=76281980)
@@ -1505,7 +1510,7 @@ George shows you how to prepare your data to be compatible wit
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Analyzing and Visualizing Data with Copilot
+### 4. 3. Analyzing and Visualizing Data with Copilot
 
 #### Conditional formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/conditional-formatting-27848098?u=76281980)
@@ -2387,7 +2392,7 @@ George shows you how to prepare your data to be compatible wit
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### The future of AI in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/the-future-of-ai-in-excel?u=76281980)
@@ -2446,6 +2451,10 @@ George shows you how to prepare your data to be compatible wit
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
 
+
+## Instructor
+
+- [[George Mount]]
 
 ## Path Context
 

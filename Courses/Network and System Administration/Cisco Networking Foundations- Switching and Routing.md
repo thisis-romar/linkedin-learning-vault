@@ -32,8 +32,10 @@ tags:
   - skill/cisco-networking
   - skill/routing-protocols
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations-%20Switching%20and%20Routing.md)
 
 ![Cisco Networking Foundations: Switching and Routing](https://media.licdn.com/dms/image/v2/C560DAQHcNdXQfxQLtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661796832117?e=2147483647&amp;v=beta&amp;t=jaeJ4QHP4Xi5wfipZOwwqY1T71qPRjJ2l3CBCTuKuh0)
 
@@ -44,19 +46,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing) | 1h 50m | Beginner | 49K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Wallace]]
-
-## Skills Covered
-
-- Network Switches
-- Cisco Networking
-- Routing Protocols
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Ethernet Switching** (16 videos)
+- **3. 2. IP Routing** (9 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980)
@@ -192,7 +191,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Ethernet Switching
+### 2. 1. Ethernet Switching
 
 #### MAC addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980)
@@ -1677,7 +1676,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. IP Routing
+### 3. 2. IP Routing
 
 #### Packet flow in a routed network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/packet-flow-in-a-routed-network?u=76281980)
@@ -2581,7 +2580,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980)
@@ -2626,6 +2625,16 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kevin Wallace]]
+
+## Skills Covered
+
+- Network Switches
+- Cisco Networking
+- Routing Protocols
 
 ## Path Context
 

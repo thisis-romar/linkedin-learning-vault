@@ -31,8 +31,10 @@ tags:
   - skill/microservices
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Microservices-%20Security.md)
 
 ![Microservices: Security](https://media.licdn.com/dms/image/v2/C4D0DAQH8Fu75tuxcpw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1605131101472?e=2147483647&amp;v=beta&amp;t=2Tt95Y7dspLxmLq-Kv05a52UW-mVmVQnaUxGclzNGuM)
 
@@ -43,19 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security) | 2h 26m | Advanced | 52K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Bowersox]]
-
-## Skills Covered
-
-- Application Security
-- Microservices
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Microservice Security Foundations** (3 videos)
+- **3. 2. Identity Management and Access Control** (5 videos)
+- **4. 3. Token-Based Security and Standards** (9 videos)
+- **5. 4. Security between Microservices** (4 videos)
+- **6. 5. Application and Container Security** (8 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Securing microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980)
@@ -128,7 +130,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Microservice Security Foundations
+### 2. 1. Microservice Security Foundations
 
 #### Microservice concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980)
@@ -319,7 +321,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Identity Management and Access Control
+### 3. 2. Identity Management and Access Control
 
 #### Distributed access management patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980)
@@ -725,7 +727,7 @@ created: 2026-04-21
 > **Env Vars:** iam (1)
 
 
-### 3. Token-Based Security and Standards
+### 4. 3. Token-Based Security and Standards
 
 #### Tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980)
@@ -1652,7 +1654,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Security between Microservices
+### 5. 4. Security between Microservices
 
 #### MTLS
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980)
@@ -1963,7 +1965,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Application and Container Security
+### 6. 5. Application and Container Security
 
 #### Throttling and rate limiting
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/throttling-and-rate-limiting?u=76281980)
@@ -2621,7 +2623,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Securing microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980)
@@ -2675,6 +2677,16 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [kevin] (1)
 
+
+## Instructor
+
+- [[Kevin Bowersox]]
+
+## Skills Covered
+
+- Application Security
+- Microservices
+- Java
 
 ## Path Context
 

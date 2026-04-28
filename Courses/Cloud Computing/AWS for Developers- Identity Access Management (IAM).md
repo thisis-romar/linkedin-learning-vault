@@ -31,37 +31,32 @@ tags:
   - skill/amazon-web-services-aws
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS%20for%20Developers-%20Identity%20Access%20Management%20(IAM).md)
 
 ![AWS for Developers: Identity Access Management (IAM)](https://media.licdn.com/dms/image/v2/C4E0DAQE3sS7Ro4Oy5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572024654940?e=2147483647&amp;v=beta&amp;t=9yFj2wOC1028BMaP7wDdf5lFrzzlprNEricjouOc4os)
 
 # AWS for Developers: Identity Access Management (IAM)
 
-> Suggested Prerequisites 
-
-Familiarity with AWS 
-Familiarity with the concepts of accounts, roles, and permissions 
-An AWS account
-
-
-A variety of people and services require access to your AWS resources. With AWS Identity and Access Management (IAM), you can securely control authorization to these resources in one place. In this course, instructor Bear Cahill helps you get up and running with IAM, 
+> Suggested Prerequisites Familiarity with AWS Familiarity with the concepts of accounts, roles, and permissions An AWS account A variety of people and services require access to your AWS resources. With AWS Identity and Access Management (IAM), you can securely control authorization to these resources in one place. In this course, instructor Bear Cahill helps you get up and running with IAM, explai
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam) | 49m | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bear Cahill]]
-
-## Skills Covered
-
-- Amazon Web Services (AWS)
-- Identity and Access Management (IAM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. AWS IAM Concepts** (4 videos)
+- **3. 2. Users and Policies** (5 videos)
+- **4. 3. Groups and Roles** (3 videos)
+- **5. 4. Advanced IAM** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AWS user security with IAM
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/aws-user-security-with-iam-15113020?u=76281980)
@@ -135,7 +130,7 @@ A variety of people and services require access to your AWS resources. With AWS 
 > **Speakers:** - [instructor] (1)
 
 
-### 1. AWS IAM Concepts
+### 2. 1. AWS IAM Concepts
 
 #### IAM overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/iam-overview-15108756?u=76281980)
@@ -458,7 +453,7 @@ A variety of people and services require access to your AWS resources. With AWS 
 > **Analogies:** just like (1)
 
 
-### 2. Users and Policies
+### 3. 2. Users and Policies
 
 #### Password settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/password-settings-15111296?u=76281980)
@@ -889,7 +884,7 @@ A variety of people and services require access to your AWS resources. With AWS 
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Groups and Roles
+### 4. 3. Groups and Roles
 
 #### Grouping users
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/grouping-users-15110625?u=76281980)
@@ -1204,7 +1199,7 @@ A variety of people and services require access to your AWS resources. With AWS 
 > **Prerequisites:** set up (1)
 
 
-### 4. Advanced IAM
+### 5. 4. Advanced IAM
 
 #### Multi-factor authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/multi-factor-authentication-15106896?u=76281980)
@@ -1450,7 +1445,7 @@ A variety of people and services require access to your AWS resources. With AWS 
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/next-steps-15110624?u=76281980)
@@ -1479,6 +1474,15 @@ A variety of people and services require access to your AWS resources. With AWS 
 > **Code Keywords:** lambda (1)
 > **Speakers:** - [bear] (1)
 
+
+## Instructor
+
+- [[Bear Cahill]]
+
+## Skills Covered
+
+- Amazon Web Services (AWS)
+- Identity and Access Management (IAM)
 
 ## Path Context
 

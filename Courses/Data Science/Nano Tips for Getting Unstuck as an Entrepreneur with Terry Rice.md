@@ -28,8 +28,10 @@ tags:
   - skill/business-development
   - skill/entrepreneurship
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nano%20Tips%20for%20Getting%20Unstuck%20as%20an%20Entrepreneur%20with%20Terry%20Rice.md)
 
 ![Nano Tips for Getting Unstuck as an Entrepreneur with Terry Rice](https://media.licdn.com/dms/image/v2/D560DAQHFx6_W9_4pNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702931726284?e=2147483647&amp;v=beta&amp;t=F1M_HuFQefUF639a9vUNXwoPBE44_QzV5Wdym95B-h4)
 
@@ -40,18 +42,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice) | 18m | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Terry Rice]]
-
-## Skills Covered
-
-- Business Development
-- Entrepreneurship
-
 ## Table of Contents
 
-### 1. How to Get Unstuck as an Entrepreneur
+### Chapter Overview
+
+- **1. 1. How to Get Unstuck as an Entrepreneur** (10 videos)
+
+### 1. 1. How to Get Unstuck as an Entrepreneur
 
 #### How to determine the vision and mission of your business
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-determine-the-vision-and-mission-of-your-business?u=76281980)
@@ -705,6 +702,15 @@ created: 2026-04-21
 > **URLs:** [teryrise.co](https://teryrise.co) (1)
 > **UI Navigation:** go to (1)
 
+
+## Instructor
+
+- [[Terry Rice]]
+
+## Skills Covered
+
+- Business Development
+- Entrepreneurship
 
 ## Path Context
 

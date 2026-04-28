@@ -36,8 +36,10 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20and%20Application%20Development.md)
 
 ![Responsible AI and Application Development](https://media.licdn.com/dms/image/v2/D4D0DAQH8YXrRGvmTgg/learning-public-crop_675_1200/B4DZWRytTjGcAY-/0/1741907744735?e=2147483647&amp;v=beta&amp;t=MLoGdonkd05PP_KUL2FdMuAVHLr6N_p15mXkQKULhZA)
 
@@ -48,24 +50,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development) | 1h 37m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Laurence Moroney]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/responsible-ai-and-application-development-3979037/codespaces)
-
-## Skills Covered
-
-- Responsible AI
-- AI Software Development
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Designing Responsible AI** (2 videos)
+- **3. 2. Acquiring Data** (3 videos)
+- **4. 3. Preprocessing Data** (3 videos)
+- **5. 4. Augmenting Data** (3 videos)
+- **6. 5. Creating Model Architectures** (3 videos)
+- **7. 6. Transfer Learning** (4 videos)
+- **8. 7. Model Training** (2 videos)
+- **9. 8. Model Deployment and Applications** (2 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Responsible AI and application development
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-ai-and-application-development?u=76281980)
@@ -88,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - responsible (1)
 
 
-### 1. Designing Responsible AI
+### 2. 1. Designing Responsible AI
 
 #### Responsible design
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980)
@@ -229,7 +229,7 @@ created: 2026-04-21
 > **Speakers:** - artificially (1)
 
 
-### 2. Acquiring Data
+### 3. 2. Acquiring Data
 
 #### Ethical data collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980)
@@ -478,7 +478,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Preprocessing Data
+### 4. 3. Preprocessing Data
 
 #### Why preprocess data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/why-preprocess-data?u=76281980)
@@ -792,7 +792,7 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 
 
-### 4. Augmenting Data
+### 5. 4. Augmenting Data
 
 #### What is data augmentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980)
@@ -1217,7 +1217,7 @@ created: 2026-04-21
 > **Tools:** colab (1), github (1)
 
 
-### 5. Creating Model Architectures
+### 6. 5. Creating Model Architectures
 
 #### Optimization: Responsible neural architecture design
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/optimization-responsible-neural-architecture-design?u=76281980)
@@ -1411,7 +1411,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 6. Transfer Learning
+### 7. 6. Transfer Learning
 
 #### What is transfer learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-transfer-learning?u=76281980)
@@ -1841,7 +1841,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 7. Model Training
+### 8. 7. Model Training
 
 #### Responsible practices during training
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-practices-during-training?u=76281980)
@@ -2001,7 +2001,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Model Deployment and Applications
+### 9. 8. Model Deployment and Applications
 
 #### Considerations in model deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980)
@@ -2137,7 +2137,7 @@ created: 2026-04-21
 > **Speakers:** - training (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Continue your responsible AI journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980)
@@ -2191,6 +2191,21 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - wow (1)
 
+
+## Instructor
+
+- [[Laurence Moroney]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/responsible-ai-and-application-development-3979037/codespaces)
+
+## Skills Covered
+
+- Responsible AI
+- AI Software Development
+- Artificial Intelligence (AI)
 
 ## Path Context
 

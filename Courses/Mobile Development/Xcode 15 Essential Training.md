@@ -32,8 +32,10 @@ tags:
   - skill/xcode
   - skill/ios-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Xcode%2015%20Essential%20Training.md)
 
 ![Xcode 15 Essential Training](https://media.licdn.com/dms/image/v2/D560DAQGYik8ZFXnpIQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711149305087?e=2147483647&amp;v=beta&amp;t=3E-HNHG1MtzPh9Djjvq4OlC2WYTf6amA4kqydT1VHxo)
 
@@ -44,23 +46,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075) | 1h 29m | Beginner | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Todd Perkins]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Apple Developer
-- Xcode
-- iOS Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started** (10 videos)
+- **3. 2. Efficient Coding with SwiftUI and Prototyping** (5 videos)
+- **4. 3. Source Control** (7 videos)
+- **5. 4. Storyboard Design Basics** (6 videos)
+- **6. 5. Debugging and Testing** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Becoming an Xcode expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/becoming-an-xcode-expert?u=76281980)
@@ -103,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Installing Xcode
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/installing-xcode?u=76281980)
@@ -784,7 +782,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Efficient Coding with SwiftUI and Prototyping
+### 3. 2. Efficient Coding with SwiftUI and Prototyping
 
 #### Using the canvas with SwiftUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980)
@@ -1080,7 +1078,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Source Control
+### 4. 3. Source Control
 
 #### Creating a local repository
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-local-repository?u=76281980)
@@ -1478,7 +1476,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Storyboard Design Basics
+### 5. 4. Storyboard Design Basics
 
 #### Exploring Interface Builder
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980)
@@ -1973,7 +1971,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Debugging and Testing
+### 6. 5. Debugging and Testing
 
 #### Using the debugger
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980)
@@ -2255,7 +2253,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/next-steps?u=76281980)
@@ -2286,6 +2284,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Todd Perkins]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Apple Developer
+- Xcode
+- iOS Development
 
 ## Path Context
 

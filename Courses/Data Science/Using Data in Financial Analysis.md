@@ -32,8 +32,10 @@ tags:
   - skill/financial-analysis
   - skill/financial-forecasting
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20Data%20in%20Financial%20Analysis.md)
 
 ![Using Data in Financial Analysis](https://media.licdn.com/dms/image/v2/D560DAQGoTikWTxS_Bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700079884252?e=2147483647&amp;v=beta&amp;t=4wrmgcQZU0s_M9p7g8K_o8XNreNxHDAp6t5eJngjLZI)
 
@@ -44,23 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis) | 1h 44m | Intermediate | 274K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael McDonald]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Big Data Analytics
-- Financial Analysis
-- Financial Forecasting
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Basics** (5 videos)
+- **3. 2. Financial Analysis** (5 videos)
+- **4. 3. Forecasting in Finance** (5 videos)
+- **5. 4. Interpret Forecast Results** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of data in financial analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980)
@@ -87,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 1. The Basics
+### 2. 1. The Basics
 
 #### Data and business
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980)
@@ -579,7 +576,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Financial Analysis
+### 3. 2. Financial Analysis
 
 #### Financial analysis with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-analysis-with-data?u=76281980)
@@ -1112,7 +1109,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Forecasting in Finance
+### 4. 3. Forecasting in Finance
 
 #### Decide on a finance question
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/decide-on-a-finance-question?u=76281980)
@@ -1616,7 +1613,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Interpret Forecast Results
+### 5. 4. Interpret Forecast Results
 
 #### What do the results mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980)
@@ -2046,7 +2043,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Stress testing the results
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980)
@@ -2079,6 +2076,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Michael McDonald]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Big Data Analytics
+- Financial Analysis
+- Financial Forecasting
 
 ## Path Context
 

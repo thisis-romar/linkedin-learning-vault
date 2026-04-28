@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Supercharge%20the%20Development%20Process%20with%20GitHub%20Extensions%20for%20Copilot%20Chat.md)
 
 ![Supercharge the Development Process with GitHub Extensions for Copilot Chat](https://media.licdn.com/dms/image/v2/D4D0DAQEtPfEC0eqXeQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727977143611?e=2147483647&amp;v=beta&amp;t=BbfOBvo5LM_G9RDIIGB_1D5_JB6OLGcCMV_jx0Sf1Ls)
 
@@ -42,17 +44,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat) | 14m | 62K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Skills Covered
-
-- GitHub
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Using Copilot Extensions** (4 videos)
+
+### 1. Introduction
 
 #### Extending GitHub Copilot Chat
 > [LinkedIn Learning](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980)
@@ -83,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 1. Using Copilot Extensions
+### 2. 1. Using Copilot Extensions
 
 #### Prerequisites for using GitHub Extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980)
@@ -377,6 +376,14 @@ created: 2026-04-21
 > **CLI Commands:** find (1), node (1)
 > **URLs:** [github.com](https://github.com) (2)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Skills Covered
+
+- GitHub
 
 ## Path Context
 

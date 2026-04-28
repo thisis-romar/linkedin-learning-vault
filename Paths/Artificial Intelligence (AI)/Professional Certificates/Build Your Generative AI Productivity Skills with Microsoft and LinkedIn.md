@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-your-generative-ai-productivi
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 17
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence
@@ -37,8 +37,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Build%20Your%20Generative%20AI%20Productivity%20Skills%20with%20Microsoft%20and%20LinkedIn.md)
 
 # Build Your Generative AI Productivity Skills with Microsoft and LinkedIn
 

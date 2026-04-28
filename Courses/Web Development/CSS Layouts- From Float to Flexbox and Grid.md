@@ -30,8 +30,10 @@ tags:
   - skill/css-grid-layout
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS%20Layouts-%20From%20Float%20to%20Flexbox%20and%20Grid.md)
 
 ![CSS Layouts: From Float to Flexbox and Grid](https://media.licdn.com/dms/image/v2/C4E0DAQHliL819SNhiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668687340?e=2147483647&amp;v=beta&amp;t=b48vZ4onuKXTSIizDzljCLkawojHNuI4ucBSaNTDaCY)
 
@@ -42,22 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid) | 1h 42m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Christina Truong]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- CSS Grid Layout
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. An Overview of Page Layouts** (3 videos)
+- **3. 2. Float, Display, and Position** (10 videos)
+- **4. 3. Flexbox** (8 videos)
+- **5. 4. Grid** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/welcome-26990147?u=76281980)
@@ -138,7 +136,7 @@ created: 2026-04-21
 > **Speakers:** - [christina] (1)
 
 
-### 1. An Overview of Page Layouts
+### 2. 1. An Overview of Page Layouts
 
 #### Layouts with HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980)
@@ -306,7 +304,7 @@ created: 2026-04-21
 > **Speakers:** - [instruktor] (1)
 
 
-### 2. Float, Display, and Position
+### 3. 2. Float, Display, and Position
 
 #### Inline and block elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/inline-and-block-elements?u=76281980)
@@ -1256,7 +1254,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 3. Flexbox
+### 4. 3. Flexbox
 
 #### Getting started with Flexbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/getting-started-with-flexbox?u=76281980)
@@ -1871,7 +1869,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Grid
+### 5. 4. Grid
 
 #### Grid vs. Flexbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/grid-vs-flexbox?u=76281980)
@@ -2468,7 +2466,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/next-steps-and-resources-26970311?u=76281980)
@@ -2496,6 +2494,19 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Christina Truong]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- CSS Grid Layout
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

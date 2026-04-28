@@ -27,31 +27,30 @@ tags:
   - skill/artificial-intelligence-for-design
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20AI%20in%20Research%20Projects.md)
 
 ![Using AI in Research Projects](https://media.licdn.com/dms/image/v2/D4E0DAQFZoDP-qg1M0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696960875640?e=2147483647&amp;v=beta&amp;t=N2JMDZkO-2ZmQYfXz6Gu5TtQRsNKr9jmxlW_lobCMgA)
 
 # Using AI in Research Projects
 
-> Join Cory Lebson—a researcher, author, and former UXPA president—as he gives tips and techniques for using generative AI to enhance, extend, and improve research projects of all types.
-Cory explains how to look at AI both as something to be researched and as a tool to be leveraged to improve research, as well as how to talk to corporate stakeholders about leveraging AI in your projects. He shares 
+> Join Cory Lebson—a researcher, author, and former UXPA president—as he gives tips and techniques for using generative AI to enhance, extend, and improve research projects of all types. Cory explains how to look at AI both as something to be researched and as a tool to be leveraged to improve research, as well as how to talk to corporate stakeholders about leveraging AI in your projects. He shares 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects) | 25m | 553K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Cory Lebson]]
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Doing Research on AI Systems** (2 videos)
+- **3. 2. Using AI to Improve Research** (7 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Artificial intelligence for research
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/artificial-intelligence-for-research?u=76281980)
@@ -74,7 +73,7 @@ Cory explains how to look at AI both as something to be researched and as a tool
 > **Env Vars:** uxpa (1)
 
 
-### 1. Doing Research on AI Systems
+### 2. 1. Doing Research on AI Systems
 
 #### Doing research on AI when it's not AI research
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-when-it-s-not-ai-research?u=76281980)
@@ -184,7 +183,7 @@ Cory explains how to look at AI both as something to be researched and as a tool
 > **Code Keywords:** let (1)
 
 
-### 2. Using AI to Improve Research
+### 3. 2. Using AI to Improve Research
 
 #### Getting corporate buy-in for using AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980)
@@ -547,7 +546,7 @@ Cory explains how to look at AI both as something to be researched and as a tool
 > **Warnings:** caveat (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### The future of AI and research
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/the-future-of-ai-and-research?u=76281980)
@@ -589,6 +588,15 @@ Cory explains how to look at AI both as something to be researched and as a tool
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
 
+
+## Instructor
+
+- [[Cory Lebson]]
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- Artificial Intelligence (AI)
 
 ## Path Context
 

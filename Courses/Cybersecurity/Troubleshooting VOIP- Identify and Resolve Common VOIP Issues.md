@@ -20,8 +20,10 @@ tags:
   - topic/security
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Troubleshooting%20VOIP-%20Identify%20and%20Resolve%20Common%20VOIP%20Issues.md)
 
 ![Troubleshooting VOIP: Identify and Resolve Common VOIP Issues](https://media.licdn.com/dms/image/v2/D4E0DAQG4XiNoJITR2w/learning-public-crop_675_1200/B4EZXzZOhfHUAg-/0/1743545231771?e=2147483647&amp;v=beta&amp;t=QX8x7ZXDdlHN4nExL9hmmccE0T5pY7SO3j1279S_a7Q)
 
@@ -32,13 +34,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues) | 1h 30m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding VoIP Fundamentals** (5 videos)
+- **3. 2. Enhancing VoIP Performance** (4 videos)
+- **4. 3. Optimizing DHCP** (3 videos)
+- **5. 4. Managing Common SIP Issues** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Ensuring seamless communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-seamless-communication?u=76281980)
@@ -95,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding VoIP Fundamentals
+### 2. 1. Understanding VoIP Fundamentals
 
 #### Recognizing key VoIP protocols
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/recognizing-key-voip-protocols?u=76281980)
@@ -519,7 +526,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Enhancing VoIP Performance
+### 3. 2. Enhancing VoIP Performance
 
 #### Tuning network devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980)
@@ -908,7 +915,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Optimizing DHCP
+### 4. 3. Optimizing DHCP
 
 #### Managing DHCP servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980)
@@ -1159,7 +1166,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Managing Common SIP Issues
+### 5. 4. Managing Common SIP Issues
 
 #### Resolving SIP registration issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-sip-registration-issues?u=76281980)
@@ -1526,7 +1533,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### What’s next
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980)
@@ -1558,6 +1565,10 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
 
 ## Path Context
 

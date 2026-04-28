@@ -34,8 +34,10 @@ tags:
   - skill/python-programming-language
   - skill/programming-concepts
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Concepts%20for%20Python.md)
 
 ![Programming Concepts for Python](https://media.licdn.com/dms/image/v2/D560DAQF5tQ0NTwTQ3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698098378404?e=2147483647&amp;v=beta&amp;t=k-HFT6ZNyxctmneqP5BNNrZDWCC1KUbJKULSg6Nx9vo)
 
@@ -46,24 +48,26 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python) | 3h 26m | Beginner | 393K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Olivia Chiu Stone]]
-- [[Barron Stone]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/programming-concepts-python-2702196/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Programming Concepts
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Functions** (5 videos)
+- **3. 2. Objects** (4 videos)
+- **4. 3. Class Inheritance** (2 videos)
+- **5. 4. Modules and Packages** (2 videos)
+- **6. 5. Lists and Tuples** (3 videos)
+- **7. 6. Queues and Stacks** (2 videos)
+- **8. 7. Sets** (3 videos)
+- **9. 8. Dictionaries** (3 videos)
+- **10. 9. Conditional Execution** (2 videos)
+- **11. 10. Loops** (3 videos)
+- **12. 11. Error Handling** (3 videos)
+- **13. 12. Polling and Event-Driven Programming** (2 videos)
+- **14. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Programming concepts with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/programming-concepts-with-python?u=76281980)
@@ -158,7 +162,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Functions
+### 2. 1. Functions
 
 #### Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/functions?u=76281980)
@@ -755,7 +759,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 2. Objects
+### 3. 2. Objects
 
 #### Objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/objects?u=76281980)
@@ -1270,7 +1274,7 @@ created: 2026-04-21
 > **UI Navigation:** select the (1)
 
 
-### 3. Class Inheritance
+### 4. 3. Class Inheritance
 
 #### Class inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980)
@@ -1508,7 +1512,7 @@ created: 2026-04-21
 > **Speakers:** - nowadays (1)
 
 
-### 4. Modules and Packages
+### 5. 4. Modules and Packages
 
 #### Modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980)
@@ -1713,7 +1717,7 @@ created: 2026-04-21
 > **Env Vars:** url (1)
 
 
-### 5. Lists and Tuples
+### 6. 5. Lists and Tuples
 
 #### Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/lists?u=76281980)
@@ -2102,7 +2106,7 @@ created: 2026-04-21
 > **Speakers:** - lists (1)
 
 
-### 6. Queues and Stacks
+### 7. 6. Queues and Stacks
 
 #### Queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/queues?u=76281980)
@@ -2370,7 +2374,7 @@ created: 2026-04-21
 > **Cross-References:** previous video (1)
 
 
-### 7. Sets
+### 8. 7. Sets
 
 #### Create and combine sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/create-and-combine-sets?u=76281980)
@@ -2713,7 +2717,7 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 
 
-### 8. Dictionaries
+### 9. 8. Dictionaries
 
 #### Dictionaries
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/dictionaries?u=76281980)
@@ -3023,7 +3027,7 @@ created: 2026-04-21
 > **Prerequisites:** initialization (1)
 
 
-### 9. Conditional Execution
+### 10. 9. Conditional Execution
 
 #### If-else statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/if-else-statements?u=76281980)
@@ -3313,7 +3317,7 @@ created: 2026-04-21
 > **Versions:** version 3 (1)
 
 
-### 10. Loops
+### 11. 10. Loops
 
 #### For loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/for-loops?u=76281980)
@@ -3597,7 +3601,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 11. Error Handling
+### 12. 11. Error Handling
 
 #### Catch errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980)
@@ -4031,7 +4035,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 12. Polling and Event-Driven Programming
+### 13. 12. Polling and Event-Driven Programming
 
 #### Polling
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980)
@@ -4324,7 +4328,7 @@ created: 2026-04-21
 > **Speakers:** - using (1)
 
 
-### Conclusion
+### 14. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/next-steps?u=76281980)
@@ -4352,6 +4356,21 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Exercise Files:** exercise files (1)
 
+
+## Instructor
+
+- [[Olivia Chiu Stone]]
+- [[Barron Stone]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/programming-concepts-python-2702196/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Programming Concepts
 
 ## Path Context
 

@@ -31,33 +31,33 @@ tags:
   - topic/web-development
   - skill/express-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Express.md)
 
 ![Advanced Express](https://media.licdn.com/dms/image/v2/C4E0DAQEs-5ilV5t5IA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665801430?e=2147483647&amp;v=beta&amp;t=fpFV5ai-XBvBeCymP5dNGdv5PYSX3t6MBY1E3STCcuE)
 
 # Advanced Express
 
-> Node.js is one of major platforms for the web and Express is one of the most popular Node frameworks. This course is designed to take your development skills to the next level, with advanced techniques that will enable you to tackle more complex projects with Express.  Learn how to integrate a database, build a proper user authentication and authorization system, securely upload files, process and
+> Node.js is one of major platforms for the web and Express is one of the most popular Node frameworks. This course is designed to take your development skills to the next level, with advanced techniques that will enable you to tackle more complex projects with Express. Learn how to integrate a database, build a proper user authentication and authorization system, securely upload files, process and 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express) | 2h 30m | Advanced | 18K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daniel Khan]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Express.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Know the Building Blocks and Internals of Express** (3 videos)
+- **3. 2. Use MongoDB and Mongoose to Manage Users** (8 videos)
+- **4. 3. Authenticate and Authorize Users** (11 videos)
+- **5. 4. Handle File Uploads and Process Images** (5 videos)
+- **6. 5. Deployment and Running in Production** (7 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Tackle any project with Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express?u=76281980)
@@ -245,7 +245,7 @@ created: 2026-04-21
 > **Ports:** :3000 (1)
 
 
-### 1. Know the Building Blocks and Internals of Express
+### 2. 1. Know the Building Blocks and Internals of Express
 
 #### Exploring Express components and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/exploring-express-components-and-apis?u=76281980)
@@ -488,7 +488,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Use MongoDB and Mongoose to Manage Users
+### 3. 2. Use MongoDB and Mongoose to Manage Users
 
 #### Setting up a hosted MongoDB server
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980)
@@ -979,7 +979,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Authenticate and Authorize Users
+### 4. 3. Authenticate and Authorize Users
 
 #### Understanding cookies and sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980)
@@ -1686,7 +1686,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Handle File Uploads and Process Images
+### 5. 4. Handle File Uploads and Process Images
 
 #### File upload basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/file-upload-basics?u=76281980)
@@ -2116,7 +2116,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (2)
 
 
-### 5. Deployment and Running in Production
+### 6. 5. Deployment and Running in Production
 
 #### Tuning Express performance: NODE_ENV and compression
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980)
@@ -2632,7 +2632,7 @@ created: 2026-04-21
 > **Ports:** port 3000 (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980)
@@ -2669,6 +2669,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [daniel] (1)
 
+
+## Instructor
+
+- [[Daniel Khan]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Express.js
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - skill/python-programming-language
   - skill/data-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20Data%20Analysis%20(2020).md)
 
 ![Python Data Analysis (2020)](https://media.licdn.com/dms/image/v2/D4D0DAQGSYAIAZElfSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733965184177?e=2147483647&amp;v=beta&amp;t=OXv45ZLLtcgntIsvH0mJG8ztMyetqZ0fUfscSXvDt50)
 
@@ -41,22 +43,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020) | 2h 30m | Intermediate | 72K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michele Vallisneri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Installation and Setup** (5 videos)
+- **3. 2. Data Structures in Pure Python** (5 videos)
+- **4. 3. Wordplay: Anagrams and Palindromes** (5 videos)
+- **5. 4. Arrays with NumPy** (5 videos)
+- **6. 5. Use Case: Weather Data** (7 videos)
+- **7. 6. pandas** (4 videos)
+- **8. 7. Use Case: Baby Names** (6 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get started in data analysis with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980)
@@ -156,7 +157,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Installation and Setup
+### 2. 1. Installation and Setup
 
 #### Install Anaconda Python on OS X
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-os-x?u=76281980)
@@ -477,7 +478,7 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 
 
-### 2. Data Structures in Pure Python
+### 3. 2. Data Structures in Pure Python
 
 #### Warmup with Python loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980)
@@ -1140,7 +1141,7 @@ created: 2026-04-21
 > **Code Identifiers:** collection_defaultdict (1)
 
 
-### 3. Wordplay: Anagrams and Palindromes
+### 4. 3. Wordplay: Anagrams and Palindromes
 
 #### Anagrams overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/anagrams-overview?u=76281980)
@@ -1531,7 +1532,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Arrays with NumPy
+### 5. 4. Arrays with NumPy
 
 #### NumPy overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/numpy-overview?u=76281980)
@@ -2062,7 +2063,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Use Case: Weather Data
+### 6. 5. Use Case: Weather Data
 
 #### Overview of use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case-2?u=76281980)
@@ -2641,7 +2642,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. pandas
+### 7. 6. pandas
 
 #### pandas overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/pandas-overview?u=76281980)
@@ -3070,7 +3071,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Use Case: Baby Names
+### 8. 7. Use Case: Baby Names
 
 #### Overview of use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case?u=76281980)
@@ -3480,7 +3481,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980)
@@ -3516,6 +3517,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Michele Vallisneri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Analysis
 
 ## Path Context
 

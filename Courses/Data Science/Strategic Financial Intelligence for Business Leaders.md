@@ -28,8 +28,10 @@ tags:
   - skill/corporate-finance
   - skill/strategic-financial-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Financial%20Intelligence%20for%20Business%20Leaders.md)
 
 ![Strategic Financial Intelligence for Business Leaders](https://media.licdn.com/dms/image/v2/D4E0DAQEgEKHEEaJizg/learning-public-crop_675_1200/B4EZle_l9DHIAc-/0/1758235353237?e=2147483647&amp;v=beta&amp;t=3CmSU-tNs52_jY6Bh3Ee_SEfDHTp9tjqSil0LJnZiFw)
 
@@ -40,22 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders) | 1h 30m | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Oana Labes]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Corporate Finance
-- Strategic Financial Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. How to Use Financial Intelligence in Leadership** (2 videos)
+- **3. 2. How to Ensure Your Business Health** (9 videos)
+- **4. 3. How to Make Smart Capital Allocation Decisions** (4 videos)
+- **5. 4. How to Monitor Performance** (4 videos)
+- **6. 5. How to Tell Compelling Financial Stories** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Financial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/financial-intelligence?u=76281980)
@@ -115,7 +114,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. How to Use Financial Intelligence in Leadership
+### 2. 1. How to Use Financial Intelligence in Leadership
 
 #### Why financial intelligence is every leader’s secret weapon
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/why-financial-intelligence-is-every-leader-s-secret-weapon?u=76281980)
@@ -295,7 +294,7 @@ created: 2026-04-21
 > **Speakers:** - high (1)
 
 
-### 2. How to Ensure Your Business Health
+### 3. 2. How to Ensure Your Business Health
 
 #### Connecting the dots: How key financial statements reveal business health
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/connecting-the-dots-how-key-financial-statements-reveal-business-health?u=76281980)
@@ -791,7 +790,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 3. How to Make Smart Capital Allocation Decisions
+### 4. 3. How to Make Smart Capital Allocation Decisions
 
 #### How to use capital allocation as a strategic
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-capital-allocation-as-a-strategic?u=76281980)
@@ -1073,7 +1072,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### 4. How to Monitor Performance
+### 5. 4. How to Monitor Performance
 
 #### How to translate strategy into measurable execution
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-translate-strategy-into-measurable-execution?u=76281980)
@@ -1377,7 +1376,7 @@ created: 2026-04-21
 > **Speakers:** - even (1)
 
 
-### 5. How to Tell Compelling Financial Stories
+### 6. 5. How to Tell Compelling Financial Stories
 
 #### How to make numbers make sense
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980)
@@ -1664,7 +1663,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980)
@@ -1719,6 +1718,19 @@ created: 2026-04-21
 > **Env Vars:** ceo (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Oana Labes]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Corporate Finance
+- Strategic Financial Management
 
 ## Path Context
 

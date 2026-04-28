@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/semantic-kernel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Building%20AI%20Agents.md)
 
 ![Azure AI for Developers: Building AI Agents](https://media.licdn.com/dms/image/v2/D4D0DAQEyKymcipp_aA/learning-public-crop_675_1200/B4DZT8ohaqG4AY-/0/1739405269386?e=2147483647&amp;v=beta&amp;t=NAVYcoh6dFmTD_1MQMP3ukKW-ZHO7ag-F560tDugFBg)
 
@@ -46,25 +48,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents) | 1h 53m | Intermediate | 1K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ziggy Zulueta]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/azure-ai-for-developers-building-ai-agents-4283243/codespaces)
-
-## Skills Covered
-
-- OpenAI Products
-- AI Agents
-- Artificial Intelligence (AI)
-- Semantic Kernel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Working with AI Agents** (9 videos)
+- **3. 2. Semantic Kernel** (7 videos)
+- **4. 3. Autogen** (10 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build AI agents with Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980)
@@ -117,7 +111,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Working with AI Agents
+### 2. 1. Working with AI Agents
 
 #### Understanding AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980)
@@ -766,7 +760,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Semantic Kernel
+### 3. 2. Semantic Kernel
 
 #### Semantic Kernel Agent Framework overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980)
@@ -1234,7 +1228,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Autogen
+### 4. 3. Autogen
 
 #### AutoGen overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980)
@@ -2038,7 +2032,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Key takeaways and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980)
@@ -2124,6 +2118,22 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Ziggy Zulueta]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/azure-ai-for-developers-building-ai-agents-4283243/codespaces)
+
+## Skills Covered
+
+- OpenAI Products
+- AI Agents
+- Artificial Intelligence (AI)
+- Semantic Kernel
 
 ## Path Context
 

@@ -45,8 +45,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Applying%20Generative%20AI%20as%20a%20Creative%20Professional.md)
 
 # Applying Generative AI as a Creative Professional
 

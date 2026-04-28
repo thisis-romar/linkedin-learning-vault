@@ -36,8 +36,10 @@ tags:
   - skill/security-awareness
   - skill/cloud-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Cloud%20Security%20(2022).md)
 
 ![Cybersecurity Awareness: Cloud Security (2022)](https://media.licdn.com/dms/image/v2/D560DAQEGAvyIJDYcWg/learning-public-crop_675_1200/B56ZgfRdMzHQAY-/0/1752871327211?e=2147483647&amp;v=beta&amp;t=cqqxPZMtXncYLxGEcDvoXKhuwS8NfJ7VDhXCO6Xmiwc)
 
@@ -48,22 +50,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022) | 38m | Beginner | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dominique West]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Security Awareness
-- Cloud Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Security at Work** (2 videos)
+- **3. 2. Security in the Home** (2 videos)
+- **4. 3. Security While Traveling** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Cloud security basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980)
@@ -360,7 +357,7 @@ created: 2026-04-21
 > **Env Vars:** mfa (2)
 
 
-### 1. Security at Work
+### 2. 1. Security at Work
 
 #### Avoiding security misconfigurations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980)
@@ -540,7 +537,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 2. Security in the Home
+### 3. 2. Security in the Home
 
 #### Securing your smart home (IoT) devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980)
@@ -726,7 +723,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Security While Traveling
+### 4. 3. Security While Traveling
 
 #### Understanding public Wi-Fi and hotspots
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980)
@@ -907,7 +904,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Bringing it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980)
@@ -937,6 +934,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Dominique West]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Security Awareness
+- Cloud Security
 
 ## Path Context
 

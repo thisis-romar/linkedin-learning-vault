@@ -33,8 +33,10 @@ tags:
   - topic/data-science
   - skill/blockchain
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Blockchain-%20Beyond%20the%20Basics.md)
 
 ![Blockchain: Beyond the Basics](https://media.licdn.com/dms/image/v2/C560DAQG4r61Jy_I52g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646852640713?e=2147483647&amp;v=beta&amp;t=nveeA8LsFahLRyeIWPBykxsjB0FtkHYgfweS75NOXOo)
 
@@ -45,21 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547) | 1h 18m | Intermediate
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jonathan Reichental]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Blockchain
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Value of Blockchain Technology** (3 videos)
+- **3. 2. How Does Blockchain Work?** (3 videos)
+- **4. 3. How Blockchain Enables Cryptocurrencies** (3 videos)
+- **5. 4. The Blockchain Universe** (4 videos)
+- **6. 5. Blockchain in Context** (3 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Blockchain technology offers unique capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/blockchain-technology-offers-unique-capabilities?u=76281980)
@@ -141,7 +141,7 @@ created: 2026-04-21
 > **Speakers:** - since (1)
 
 
-### 1. The Value of Blockchain Technology
+### 2. 1. The Value of Blockchain Technology
 
 #### What's the business case for blockchain?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/what-s-the-business-case-for-blockchain?u=76281980)
@@ -376,7 +376,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 2. How Does Blockchain Work?
+### 3. 2. How Does Blockchain Work?
 
 #### What is distributed ledger technology (DLT)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/what-is-distributed-ledger-technology-dlt?u=76281980)
@@ -668,7 +668,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 3. How Blockchain Enables Cryptocurrencies
+### 4. 3. How Blockchain Enables Cryptocurrencies
 
 #### Brief history of Bitcoin
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/brief-history-of-bitcoin?u=76281980)
@@ -943,7 +943,7 @@ created: 2026-04-21
 > **Speakers:** - for (1)
 
 
-### 4. The Blockchain Universe
+### 5. 4. The Blockchain Universe
 
 #### Difference between public and private blockchains
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/difference-between-public-and-private-blockchains?u=76281980)
@@ -1241,7 +1241,7 @@ created: 2026-04-21
 > **Speakers:** - although (1)
 
 
-### 5. Blockchain in Context
+### 6. 5. Blockchain in Context
 
 #### Blockchain use case: Cross-border payments
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/blockchain-use-case-cross-border-payments?u=76281980)
@@ -1457,7 +1457,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### The risks and opportunities ahead
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/the-risks-and-opportunities-ahead?u=76281980)
@@ -1613,6 +1613,18 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Jonathan Reichental]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Blockchain
 
 ## Path Context
 

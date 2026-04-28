@@ -31,8 +31,10 @@ tags:
   - skill/digital-authentication
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node-%20Authentication.md)
 
 ![Node: Authentication](https://media.licdn.com/dms/image/v2/C560DAQFfBze87e2Uzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624987747272?e=2147483647&amp;v=beta&amp;t=zJ1fGIb-yUPXCx5HLCtiWz-rOPG-TOpwqdwabKwI40w)
 
@@ -43,23 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication) | 3h 38m | Advanced | 57K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daniel Khan]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/node-authentication-2881188)
-
-## Skills Covered
-
-- Digital Authentication
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (3 videos)
+- **3. 2. Registering New Users Handling Passwords** (9 videos)
+- **4. 3. Using Passport.js** (8 videos)
+- **5. 4. Single Sign-On (SSO)** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Real sites need authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980)
@@ -213,7 +210,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Prepare your development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980)
@@ -468,7 +465,7 @@ created: 2026-04-21
 > **Prerequisites:** install (2), set up (1)
 
 
-### 2. Registering New Users Handling Passwords
+### 3. 2. Registering New Users Handling Passwords
 
 #### Registering new users
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980)
@@ -1674,7 +1671,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Using Passport.js
+### 4. 3. Using Passport.js
 
 #### Using Passport.js for authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980)
@@ -2685,7 +2682,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Single Sign-On (SSO)
+### 5. 4. Single Sign-On (SSO)
 
 #### Authentication, authorization, and single sign-on (SSO)
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980)
@@ -3732,7 +3729,7 @@ created: 2026-04-21
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980)
@@ -3776,6 +3773,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [daniel] (1)
 
+
+## Instructor
+
+- [[Daniel Khan]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/node-authentication-2881188)
+
+## Skills Covered
+
+- Digital Authentication
+- Node.js
 
 ## Path Context
 

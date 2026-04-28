@@ -22,8 +22,10 @@ tags:
   - topic/data-science
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Visual%20Communication%20For%20Business%20The%20Marketer%20S%20Secret%20Weapon.md)
 
 ![Visual Communication For Business The Marketer S Secret Weapon](https://media.licdn.com/dms/image/v2/C4E0DAQEQmHk42Mg1XQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568066589245?e=2147483647&amp;v=beta&amp;t=WmfKX3z0fZgJMqmPNgnUSdDQ3bOOd97ZM19H9E6aZFI)
 
@@ -34,13 +36,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon) | 85K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Data Visualization
-
 ## Table of Contents
 
-### 1. Visual Communication Tips
+### Chapter Overview
+
+- **1. 1. Visual Communication Tips** (15 videos)
+
+### 1. 1. Visual Communication Tips
 
 #### What is visual communication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-communication?u=76281980)
@@ -1130,6 +1132,10 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (2)
 > **Env Vars:** diy (1)
 
+
+## Skills Covered
+
+- Data Visualization
 
 ## Path Context
 

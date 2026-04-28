@@ -22,8 +22,10 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Azure%20Essentials%20By%20Microsoft%20Press.md)
 
 ![Microsoft Azure Essentials By Microsoft Press](https://media.licdn.com/dms/image/v2/D560DAQGSgnRij8uY0g/learning-public-crop_675_1200/B56ZwvIMJAGUAY-/0/1770317202367?e=2147483647&amp;v=beta&amp;t=4dySCTQZ-MpS6K1Pyhf8S18SdPP1mpx6nS4xCYdoT84)
 
@@ -34,13 +36,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press) | Beginner | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Cloud Computing?** (5 videos)
+- **3. 2. Introduction to Microsoft Azure** (5 videos)
+- **4. 3. Azure Services for Modern Workloads** (6 videos)
+- **5. 4. Security, Governance, and Cost Essentials** (6 videos)
+- **6. Summary** (1 videos)
+
+### 1. Introduction
 
 #### Microsoft Azure Essentials Professional Certificate: Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980)
@@ -98,7 +105,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### 1. What Is Cloud Computing?
+### 2. 1. What Is Cloud Computing?
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980)
@@ -850,7 +857,7 @@ created: 2026-04-21
 > **Analogies:** think of it as (1)
 
 
-### 2. Introduction to Microsoft Azure
+### 3. 2. Introduction to Microsoft Azure
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980)
@@ -1274,7 +1281,7 @@ created: 2026-04-21
 > **CLI Commands:** make (2)
 
 
-### 3. Azure Services for Modern Workloads
+### 4. 3. Azure Services for Modern Workloads
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980)
@@ -1845,7 +1852,7 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 
 
-### 4. Security, Governance, and Cost Essentials
+### 5. 4. Security, Governance, and Cost Essentials
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980)
@@ -2332,7 +2339,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/putting-it-all-together?u=76281980)
 
 
-### Summary
+### 6. Summary
 
 #### Microsoft Azure Essentials Professional Certificate: Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980)
@@ -2384,6 +2391,10 @@ created: 2026-04-21
 > **Tools:** azure portal (1)
 > **Analogies:** such as (1)
 
+
+## Skills Covered
+
+- Microsoft Azure
 
 ## Path Context
 

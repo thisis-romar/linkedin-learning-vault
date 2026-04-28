@@ -19,8 +19,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20To%20Career%20Skills%20In%20Data%20Analytics.md)
 
 ![Introduction To Career Skills In Data Analytics](https://media.licdn.com/dms/image/v2/C560DAQGJPu6Bpt_6gw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660147884175?e=2147483647&amp;v=beta&amp;t=kQ5PYdjHkCHJKUBySW8sc4bq-Muan8C1jcqz__M_MT8)
 
@@ -33,7 +35,20 @@ created: 2026-04-21
 
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Data and Data Analysis** (4 videos)
+- **3. 2. Introduction to Business Intelligence** (3 videos)
+- **4. 3. Identifying Data** (4 videos)
+- **5. 4. Preparing Data** (4 videos)
+- **6. 5. Transforming Data** (5 videos)
+- **7. 6. Modeling Data** (4 videos)
+- **8. 7. Visualizing Data** (8 videos)
+- **9. 8. Job Mapping in the Data Analytics Field** (4 videos)
+- **10. Continuing Your Data Analytics Learning Journey** (1 videos)
+
+### 1. Introduction
 
 #### Starting out with data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/starting-out-with-data-analytics?u=76281980)
@@ -76,7 +91,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. Introduction to Data and Data Analysis
+### 2. 1. Introduction to Data and Data Analysis
 
 #### Defining data analysis and roles in data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980)
@@ -402,7 +417,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 2. Introduction to Business Intelligence
+### 3. 2. Introduction to Business Intelligence
 
 #### What is BI and the value to business?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/what-is-bi-and-the-value-to-business?u=76281980)
@@ -606,7 +621,7 @@ created: 2026-04-21
 > **Speakers:** - call (1)
 
 
-### 3. Identifying Data
+### 4. 3. Identifying Data
 
 #### Understanding the value of data-driven decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-value-of-data-driven-decision-making?u=76281980)
@@ -921,7 +936,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 4. Preparing Data
+### 5. 4. Preparing Data
 
 #### Describing data best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980)
@@ -1486,7 +1501,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Transforming Data
+### 6. 5. Transforming Data
 
 #### Transforming data in Excel with Power Query
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-excel-with-power-query?u=76281980)
@@ -2276,7 +2291,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Modeling Data
+### 7. 6. Modeling Data
 
 #### Relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980)
@@ -2571,7 +2586,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### 7. Visualizing Data
+### 8. 7. Visualizing Data
 
 #### Visualization methods and best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/visualization-methods-and-best-practices?u=76281980)
@@ -3530,7 +3545,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Job Mapping in the Data Analytics Field
+### 9. 8. Job Mapping in the Data Analytics Field
 
 #### Data workers
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980)
@@ -3737,7 +3752,7 @@ created: 2026-04-21
 > **Speakers:** - people (1)
 
 
-### Continuing Your Data Analytics Learning Journey
+### 10. Continuing Your Data Analytics Learning Journey
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/next-steps-and-additional-resources?u=76281980)

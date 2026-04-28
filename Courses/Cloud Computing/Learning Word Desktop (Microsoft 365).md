@@ -28,8 +28,10 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-word
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Word%20Desktop%20(Microsoft%20365).md)
 
 ![Learning Word Desktop (Microsoft 365)](https://media.licdn.com/dms/image/v2/C4E0DAQEUnFpZiBlsyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635437020886?e=2147483647&amp;v=beta&amp;t=3wIjSssdhLIpdhEDJ3rLkZojM749v-KZ9wRE18d0Jsg)
 
@@ -40,21 +42,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365) | 35m | Beginner | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nick Brazzi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Word
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Up and Running with Microsoft Word** (8 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get up and running quickly with Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980)
@@ -82,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - [nick] (1)
 
 
-### 1. Up and Running with Microsoft Word
+### 2. 1. Up and Running with Microsoft Word
 
 #### Work with ribbons and the Backstage view
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980)
@@ -877,7 +873,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Where to learn more about Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980)
@@ -901,6 +897,18 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Nick Brazzi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Word
 
 ## Path Context
 

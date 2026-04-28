@@ -21,8 +21,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Architectural%20Design-%20The%20WE%20Way%20for%20Workplace%20Inclusivity.md)
 
 ![Architectural Design: The WE Way for Workplace Inclusivity](https://media.licdn.com/dms/image/v2/C4E0DAQH37xomOSGTdA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628537873516?e=2147483647&amp;v=beta&amp;t=gUgZL9L07c6aMiF2wH-CtRXlqOn3yFX-bAn2qJzbdyg)
 
@@ -33,13 +35,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity) | 1h 2m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Oshoke Abalu]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Your Commons** (4 videos)
+- **3. 2. Your Sanctuary** (4 videos)
+- **4. 3. Your Neighborhood** (4 videos)
+- **5. 4. Your Cocoon** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to the WE Way
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/welcome-to-the-we-way?u=76281980)
@@ -146,7 +153,7 @@ created: 2026-04-21
 > **Speakers:** - whether (1)
 
 
-### 1. Your Commons
+### 2. 1. Your Commons
 
 #### Your commons: Where your space speaks
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-where-your-space-speaks?u=76281980)
@@ -432,7 +439,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 2. Your Sanctuary
+### 3. 2. Your Sanctuary
 
 #### Your sanctuary: Where your people restore, recuperate, and rejuvenate
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-where-your-people-restore-recuperate-and-rejuvenate?u=76281980)
@@ -640,7 +647,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 3. Your Neighborhood
+### 4. 3. Your Neighborhood
 
 #### Your neighborhood: Where your people connect
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-where-your-people-connect?u=76281980)
@@ -907,7 +914,7 @@ created: 2026-04-21
 > **Speakers:** - well (1)
 
 
-### 4. Your Cocoon
+### 5. 4. Your Cocoon
 
 #### Your cocoon: Love and honor your worker
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980)
@@ -1107,7 +1114,7 @@ created: 2026-04-21
 > **Speakers:** - great (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### A call to action
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/a-call-to-action?u=76281980)
@@ -1146,6 +1153,10 @@ created: 2026-04-21
 > **Code Keywords:** this: (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Oshoke Abalu]]
 
 ## Path Context
 

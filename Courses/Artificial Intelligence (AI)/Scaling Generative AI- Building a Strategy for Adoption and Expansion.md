@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/expansion-strategies
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Scaling%20Generative%20AI-%20Building%20a%20Strategy%20for%20Adoption%20and%20Expansion.md)
 
 ![Scaling Generative AI: Building a Strategy for Adoption and Expansion](https://media.licdn.com/dms/image/v2/D560DAQGbONvUh6x1eA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705538619863?e=2147483647&amp;v=beta&amp;t=Q_U8LzTkV-LHW5yBYu5IZWGKEzwoFahQMkvz6eE0Lw0)
 
@@ -48,24 +50,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion) | 28m | 2608K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Danilo McGarry]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Scalability
-- Generative AI
-- Artificial Intelligence (AI)
-- Expansion Strategies
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Generative AI and Why It is Important** (3 videos)
+- **3. 2. Introduction to the Right Governance Structure** (4 videos)
+- **4. 3. Setting Up the Right Culture So Generative AI Can Thrive** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Setting up Generative AI for success in your organisation
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/setting-up-generative-ai-for-success-in-your-organisation?u=76281980)
@@ -93,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - generative (1)
 
 
-### 1. Generative AI and Why It is Important
+### 2. 1. Generative AI and Why It is Important
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/what-is-genai?u=76281980)
@@ -285,7 +280,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Introduction to the Right Governance Structure
+### 3. 2. Introduction to the Right Governance Structure
 
 #### Establishing a governance framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/establishing-a-governance-framework?u=76281980)
@@ -626,7 +621,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 3. Setting Up the Right Culture So Generative AI Can Thrive
+### 4. 3. Setting Up the Right Culture So Generative AI Can Thrive
 
 #### Generative AI and company culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/genai-and-company-culture?u=76281980)
@@ -775,7 +770,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Scaling generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/scaling-genai?u=76281980)
@@ -816,6 +811,21 @@ created: 2026-04-21
 > **URLs:** [aimcgarry.com](https://aimcgarry.com) (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Danilo McGarry]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Scalability
+- Generative AI
+- Artificial Intelligence (AI)
+- Expansion Strategies
 
 ## Path Context
 

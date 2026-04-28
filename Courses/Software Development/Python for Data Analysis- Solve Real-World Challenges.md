@@ -37,8 +37,10 @@ tags:
   - skill/big-data
   - skill/data-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20for%20Data%20Analysis-%20Solve%20Real-World%20Challenges.md)
 
 ![Python for Data Analysis: Solve Real-World Challenges](https://media.licdn.com/dms/image/v2/D560DAQHlUfLfnIMhFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351896347?e=2147483647&amp;v=beta&amp;t=GlqHr_UvDDpzs1w25Lf0OxMMIBbUttMj-d0dajGDuDI)
 
@@ -49,24 +51,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges) | 2h 4m | Intermediate | 44K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sarah Om]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/practical-python-for-data-professionals-4358485/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Big Data
-- Data Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Case Study Introduction** (6 videos)
+- **3. 2. Breaking down the Problem Statement** (6 videos)
+- **4. 3. Data Collection, Cleaning and Transformation** (7 videos)
+- **5. 4. EDA** (10 videos)
+- **6. 5. Data Visualization & Storytelling** (8 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980)
@@ -170,7 +167,7 @@ created: 2026-04-21
 > **Non-Speech:** (keyboard keys clicking) (1)
 
 
-### 1. Case Study Introduction
+### 2. 1. Case Study Introduction
 
 #### The Who, What, Where & Why
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/the-who-what-where-why?u=76281980)
@@ -441,7 +438,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Breaking down the Problem Statement
+### 3. 2. Breaking down the Problem Statement
 
 #### Define the problem (the three Ds)
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/define-the-problem-the-three-ds-23881953?u=76281980)
@@ -848,7 +845,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Collection, Cleaning and Transformation
+### 4. 3. Data Collection, Cleaning and Transformation
 
 #### Getting Setup in Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/getting-setup-in-codespaces?u=76281980)
@@ -1255,7 +1252,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. EDA
+### 5. 4. EDA
 
 #### Intro to EDA
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/intro-to-eda?u=76281980)
@@ -2136,7 +2133,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Data Visualization & Storytelling
+### 6. 5. Data Visualization & Storytelling
 
 #### Visual Best Practices: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-1-23886428?u=76281980)
@@ -2666,7 +2663,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Wrap-up and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980)
@@ -2698,6 +2695,21 @@ created: 2026-04-21
 > **Env Vars:** dna (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Sarah Om]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/practical-python-for-data-professionals-4358485/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Big Data
+- Data Analysis
 
 ## Path Context
 

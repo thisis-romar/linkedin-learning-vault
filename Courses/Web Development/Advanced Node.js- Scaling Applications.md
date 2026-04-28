@@ -28,8 +28,10 @@ tags:
   - skill/scalability
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Node.js-%20Scaling%20Applications.md)
 
 ![Advanced Node.js: Scaling Applications](https://media.licdn.com/dms/image/v2/C4E0DAQEaPuuqI4TOOQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568661390988?e=2147483647&amp;v=beta&amp;t=Vt79jS3fHLum9Wu404dh95269UzD_6q-fCSS-_I_XVM)
 
@@ -40,22 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications) | 1h 14m | Advanced | 112K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Alex Banks]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Scalability
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Cloning** (6 videos)
+- **3. 2. Database Scaling** (4 videos)
+- **4. 3. Microservices** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Scaling applications with Node.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980)
@@ -195,7 +192,7 @@ created: 2026-04-21
 > **URLs:** [atom.io](https://atom.io) (1)
 
 
-### 1. Cloning
+### 2. 1. Cloning
 
 #### The scale cube
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980)
@@ -828,7 +825,7 @@ created: 2026-04-21
 > **Prerequisites:** install (2)
 
 
-### 2. Database Scaling
+### 3. 2. Database Scaling
 
 #### Working with databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980)
@@ -1270,7 +1267,7 @@ created: 2026-04-21
 > **Prerequisites:** install (2)
 
 
-### 3. Microservices
+### 4. 3. Microservices
 
 #### Scaling the y-axis
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980)
@@ -1853,7 +1850,7 @@ created: 2026-04-21
 > **Env Vars:** npm (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980)
@@ -1914,6 +1911,19 @@ created: 2026-04-21
 > **Env Vars:** pm2 (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Alex Banks]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Scalability
+- Node.js
 
 ## Path Context
 

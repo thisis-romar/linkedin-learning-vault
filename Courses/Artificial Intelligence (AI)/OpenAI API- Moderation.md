@@ -34,8 +34,10 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Moderation.md)
 
 ![OpenAI API: Moderation](https://media.licdn.com/dms/image/v2/D560DAQEOeWMzlRnrkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704244853724?e=2147483647&amp;v=beta&amp;t=iJsTVn3l7enKGG5VWoGxsZJANY63kIfqJZDcM1hbmpI)
 
@@ -46,25 +48,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation) | 14m | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-moderation-4564114/codespaces)
-
-## Skills Covered
-
-- OpenAI API
-- Responsible AI
-- OpenAI Products
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Moderating AI Exchanges** (2 videos)
+- **3. 2. Going Further** (1 videos)
+
+### 1. Introduction
 
 #### Managing potentially harmful language with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980)
@@ -105,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 1. Moderating AI Exchanges
+### 2. 1. Moderating AI Exchanges
 
 #### How the OpenAI API moderation feature works
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980)
@@ -377,7 +369,7 @@ created: 2026-04-21
 > **URLs:** [openai.com](https://openai.com) (2)
 
 
-### 2. Going Further
+### 3. 2. Going Further
 
 #### Further resources and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980)
@@ -427,6 +419,22 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - all (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-moderation-4564114/codespaces)
+
+## Skills Covered
+
+- OpenAI API
+- Responsible AI
+- OpenAI Products
+- Artificial Intelligence (AI)
 
 ## Path Context
 

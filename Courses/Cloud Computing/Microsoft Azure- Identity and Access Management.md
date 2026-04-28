@@ -32,8 +32,10 @@ tags:
   - skill/identity-and-access-management-iam
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Azure-%20Identity%20and%20Access%20Management.md)
 
 ![Microsoft Azure: Identity and Access Management](https://media.licdn.com/dms/image/v2/D560DAQEW0zDZcclBVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705617989142?e=2147483647&amp;v=beta&amp;t=SiKipwbn1dLsl8zMbOjUUNYbtdx7Vu1KDZMMsYxE0v4)
 
@@ -44,18 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392) | 1h 51m | Intermediate | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bryan Li]]
-
-## Skills Covered
-
-- Identity and Access Management (IAM)
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Manage Identities** (12 videos)
+- **3. 2. Manage Authentication** (6 videos)
+- **4. 3. Manage Access to Resources** (5 videos)
+- **5. 4. Perform Monitoring and Governance** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Discovering Azure identity and access management
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980)
@@ -134,7 +136,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Manage Identities
+### 2. 1. Manage Identities
 
 #### Microsoft Entra ID overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980)
@@ -1152,7 +1154,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Manage Authentication
+### 3. 2. Manage Authentication
 
 #### Manage authentication methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980)
@@ -1788,7 +1790,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Manage Access to Resources
+### 4. 3. Manage Access to Resources
 
 #### Organize Azure resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980)
@@ -2224,7 +2226,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Perform Monitoring and Governance
+### 5. 4. Perform Monitoring and Governance
 
 #### Monitor Microsoft Entra ID
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980)
@@ -2869,7 +2871,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980)
@@ -2911,6 +2913,15 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - [bryan] (1)
 
+
+## Instructor
+
+- [[Bryan Li]]
+
+## Skills Covered
+
+- Identity and Access Management (IAM)
+- Microsoft Azure
 
 ## Path Context
 

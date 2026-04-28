@@ -38,8 +38,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20Excel%20Statistics%20with%20Copilot.md)
 
 ![Complete Guide to Excel Statistics with Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQHTDXpuIqUo4g/learning-public-crop_675_1200/B4EZThwkjAGgAY-/0/1738954394457?e=2147483647&amp;v=beta&amp;t=LT4SPB_5g-pS1jct-r_lugz3gc8U62rchA4lrompLIo)
 
@@ -50,26 +52,29 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot) | 8h 33m | Advanced | 174K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eddie Davila]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Copilot
-- AI for Business Analysis
-- Data Analysis
-- Statistics
-- Artificial Intelligence (AI)
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Starting with Excel** (3 videos)
+- **3. 2. Dataset Basics** (3 videos)
+- **4. 3. Looking at Data** (3 videos)
+- **5. 4. Dataset Variability** (5 videos)
+- **6. 5. Excel Descriptive Tools** (3 videos)
+- **7. 6. Basic Probability Concepts** (8 videos)
+- **8. 7. Discrete Probabilities** (5 videos)
+- **9. 8. Continuous Probabilities** (5 videos)
+- **10. 9. Sampling** (4 videos)
+- **11. 10. Confidence Intervals** (4 videos)
+- **12. 11. Hypothesis Tests** (6 videos)
+- **13. 12. Comparing Two Populations** (4 videos)
+- **14. 13. ANOVA: Analysis of Variance** (3 videos)
+- **15. 14. Regression** (4 videos)
+- **16. 15. Simulation** (2 videos)
+- **17. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using Excel for statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980)
@@ -255,7 +260,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Starting with Excel
+### 2. 1. Starting with Excel
 
 #### Excel basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980)
@@ -974,7 +979,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Dataset Basics
+### 3. 2. Dataset Basics
 
 #### SUM, COUNT, MAX, MIN, and Range
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980)
@@ -1608,7 +1613,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Looking at Data
+### 4. 3. Looking at Data
 
 #### Frequency table
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980)
@@ -2120,7 +2125,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Dataset Variability
+### 5. 4. Dataset Variability
 
 #### Standard deviation
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980)
@@ -3103,7 +3108,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Excel Descriptive Tools
+### 6. 5. Excel Descriptive Tools
 
 #### Descriptive tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool?u=76281980)
@@ -3544,7 +3549,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Basic Probability Concepts
+### 7. 6. Basic Probability Concepts
 
 #### Probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980)
@@ -4967,7 +4972,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 7. Discrete Probabilities
+### 8. 7. Discrete Probabilities
 
 #### Discrete probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980)
@@ -5667,7 +5672,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Continuous Probabilities
+### 9. 8. Continuous Probabilities
 
 #### Continuous: Z-score tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-z-score-tables?u=76281980)
@@ -6234,7 +6239,7 @@ created: 2026-04-21
 > **Speakers:** - all (1)
 
 
-### 9. Sampling
+### 10. 9. Sampling
 
 #### Sample considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980)
@@ -7140,7 +7145,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Confidence Intervals
+### 11. 10. Confidence Intervals
 
 #### Introduction to confidence intervals
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/introduction-to-confidence-intervals?u=76281980)
@@ -7944,7 +7949,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Hypothesis Tests
+### 12. 11. Hypothesis Tests
 
 #### How to test a hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/how-to-test-a-hypothesis?u=76281980)
@@ -9019,7 +9024,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Comparing Two Populations
+### 13. 12. Comparing Two Populations
 
 #### Explanation of two population comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/explanation-of-two-population-comparisons?u=76281980)
@@ -9852,7 +9857,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 13. ANOVA: Analysis of Variance
+### 14. 13. ANOVA: Analysis of Variance
 
 #### ANOVA: What is analysis of variance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/anova-what-is-analysis-of-variance?u=76281980)
@@ -10513,7 +10518,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 14. Regression
+### 15. 14. Regression
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-is-regression?u=76281980)
@@ -11072,7 +11077,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 15. Simulation
+### 16. 15. Simulation
 
 #### Business simulation example
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/business-simulation-example?u=76281980)
@@ -11334,7 +11339,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 17. Conclusion
 
 #### Continue learning Excel statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980)
@@ -11366,6 +11371,23 @@ created: 2026-04-21
 > **Env Vars:** anova (1), spss (1)
 > **Speakers:** - congrats (1)
 
+
+## Instructor
+
+- [[Eddie Davila]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Copilot
+- AI for Business Analysis
+- Data Analysis
+- Statistics
+- Artificial Intelligence (AI)
+- Microsoft Excel
 
 ## Path Context
 

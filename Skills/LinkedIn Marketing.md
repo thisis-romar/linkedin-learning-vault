@@ -3,11 +3,16 @@ type: skill
 cssclasses:
   - lle-skill
 course_count: 1
+level_beginner: 0
+level_intermediate: 0
+level_advanced: 0
 tags:
   - skill
   - skill/linkedin-marketing
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/LinkedIn%20Marketing.md)
 
 # LinkedIn Marketing
 
@@ -15,4 +20,8 @@ created: 2026-04-21
 
 ## Courses
 
-- [[Creating LinkedIn Newsletters]]
+- [[Creating LinkedIn Newsletters]] — 21m · 2,731 learners
+
+## Related Skills
+
+- [[Newsletters]] — 1 shared course

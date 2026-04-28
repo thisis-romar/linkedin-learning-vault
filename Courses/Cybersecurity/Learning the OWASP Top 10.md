@@ -39,8 +39,10 @@ tags:
   - skill/owasp
   - skill/web-application-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Learning%20the%20OWASP%20Top%2010.md)
 
 ![Learning the OWASP Top 10](https://media.licdn.com/dms/image/v2/C560DAQGSBppCTJII3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638474196848?e=2147483647&amp;v=beta&amp;t=s3ov-JYKHSr9S8zJMdon91wmNJLa1ski9OqwjTUzwuc)
 
@@ -51,18 +53,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599) | 35m | Beginner | 68K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Caroline Wong]]
-
-## Skills Covered
-
-- OWASP
-- Web Application Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. New to the Top Ten** (10 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### A first look at the 2021 OWASP Top Ten
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980)
@@ -97,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - every (1)
 
 
-### 1. New to the Top Ten
+### 2. 1. New to the Top Ten
 
 #### Broken access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980)
@@ -718,7 +717,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Where to go from here with the 2021 OWASP Top Ten
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/where-to-go-from-here-with-the-2021-owasp-top-ten?u=76281980)
@@ -750,6 +749,15 @@ created: 2026-04-21
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Caroline Wong]]
+
+## Skills Covered
+
+- OWASP
+- Web Application Security
 
 ## Path Context
 

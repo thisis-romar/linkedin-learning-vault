@@ -23,8 +23,10 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Troubleshooting%20Common%20PC%20Issues%20for%20Users.md)
 
 ![Troubleshooting Common PC Issues for Users](https://media.licdn.com/dms/image/v2/C560DAQFJK35QAWgmsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622144518472?e=2147483647&amp;v=beta&amp;t=cqvyHrYKjK1yOVFdeGRxAt9GArsGvfXdKhsDyZ_Bm1Q)
 
@@ -35,13 +37,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629) | 1h 49m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dan Gookin]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. PC Trouble** (4 videos)
+- **3. 2. Startup and Shutdown Issues** (7 videos)
+- **4. 3. Problems and Solutions: Windows** (7 videos)
+- **5. 4. Problems and Solutions: Mass Storage** (3 videos)
+- **6. 5. Problems and Solutions: Printer** (3 videos)
+- **7. 6. Problems and Solutions: Monitors and Graphics** (2 videos)
+- **8. 7. Problems and Solutions: Peripherals** (2 videos)
+- **9. 8. Problems and Solutions: Networking** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Troubleshoot PC issues yourself
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980)
@@ -113,7 +124,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. PC Trouble
+### 2. 1. PC Trouble
 
 #### Get to the root of all PC trouble
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980)
@@ -468,7 +479,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 2. Startup and Shutdown Issues
+### 3. 2. Startup and Shutdown Issues
 
 #### Access the Windows recovery menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-windows-recovery-menu?u=76281980)
@@ -1074,7 +1085,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Problems and Solutions: Windows
+### 4. 3. Problems and Solutions: Windows
 
 #### Start up in safe mode
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980)
@@ -1759,7 +1770,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Problems and Solutions: Mass Storage
+### 5. 4. Problems and Solutions: Mass Storage
 
 #### Check storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980)
@@ -2061,7 +2072,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Problems and Solutions: Printer
+### 6. 5. Problems and Solutions: Printer
 
 #### Find printer hardware solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980)
@@ -2334,7 +2345,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Problems and Solutions: Monitors and Graphics
+### 7. 6. Problems and Solutions: Monitors and Graphics
 
 #### Troubleshoot the monitor
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980)
@@ -2529,7 +2540,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Problems and Solutions: Peripherals
+### 8. 7. Problems and Solutions: Peripherals
 
 #### Work with USB connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-usb-connections?u=76281980)
@@ -2702,7 +2713,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 8. Problems and Solutions: Networking
+### 9. 8. Problems and Solutions: Networking
 
 #### Check network software
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980)
@@ -2939,7 +2950,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/next-steps?u=76281980)
@@ -2968,6 +2979,10 @@ created: 2026-04-21
 >
 > **Speakers:** - this (1)
 
+
+## Instructor
+
+- [[Dan Gookin]]
 
 ## Path Context
 

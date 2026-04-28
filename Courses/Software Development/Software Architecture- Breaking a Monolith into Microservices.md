@@ -28,8 +28,10 @@ tags:
   - skill/software-architecture
   - skill/microservices
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Software%20Architecture-%20Breaking%20a%20Monolith%20into%20Microservices.md)
 
 ![Software Architecture: Breaking a Monolith into Microservices](https://media.licdn.com/dms/image/v2/C4E0DAQHFp6CFgAZ9_Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618509860115?e=2147483647&amp;v=beta&amp;t=PzFPUyrSSYjtim73LLh8wHdITScS--JrFOqJnJuUV6E)
 
@@ -40,18 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices) | 1h 7m | Intermediate | 24K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daniel Khan]]
-
-## Skills Covered
-
-- Software Architecture
-- Microservices
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understand the Status Quo and the Project Goals** (4 videos)
+- **3. 2. Splitting Capabilities into Services** (9 videos)
+- **4. 3. Required Operational and Organizational Maturity** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Embark on a journey to refactor your architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980)
@@ -89,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understand the Status Quo and the Project Goals
+### 2. 1. Understand the Status Quo and the Project Goals
 
 #### Welcome to your new role!
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980)
@@ -470,7 +471,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Splitting Capabilities into Services
+### 3. 2. Splitting Capabilities into Services
 
 #### Design mistakes and how to avoid them
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980)
@@ -1104,7 +1105,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Required Operational and Organizational Maturity
+### 4. 3. Required Operational and Organizational Maturity
 
 #### It's not just about code: Meet Mr. Conway
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980)
@@ -1555,7 +1556,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Apply your knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980)
@@ -1594,6 +1595,15 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [daniel] (1)
 
+
+## Instructor
+
+- [[Daniel Khan]]
+
+## Skills Covered
+
+- Software Architecture
+- Microservices
 
 ## Path Context
 

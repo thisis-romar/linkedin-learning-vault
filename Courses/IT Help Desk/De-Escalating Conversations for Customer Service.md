@@ -32,8 +32,10 @@ tags:
   - skill/customer-escalation-management
   - skill/customer-service
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/De-Escalating%20Conversations%20for%20Customer%20Service.md)
 
 ![De-Escalating Conversations for Customer Service](https://media.licdn.com/dms/image/v2/C4D0DAQHDE6DaQd5C5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567195851956?e=2147483647&amp;v=beta&amp;t=y7lHGWIvdS0hbi_uJ7ASXtMt0GOEOmt927UwEdrJVJM)
 
@@ -44,23 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service) | 49m | Advanced | 348K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Myra Golden]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- De-escalation
-- Customer Escalation Management
-- Customer Service
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Pre-empt an Escalation** (5 videos)
+- **3. 2. Three-Step De-escalation** (3 videos)
+- **4. 3. Double Your Effectiveness De-escalation** (4 videos)
+- **5. 4. Common Customer Issues** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why you've been unsuccessful with angry customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/why-you-ve-been-unsuccessful-with-angry-customers-14475727?u=76281980)
@@ -105,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 1. Pre-empt an Escalation
+### 2. 1. Pre-empt an Escalation
 
 #### Three reasons situations escalate and how to stop the cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980)
@@ -528,7 +525,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 2. Three-Step De-escalation
+### 3. 2. Three-Step De-escalation
 
 #### Recognize the customer's emotions
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/recognize-the-customer-s-emotions-14470751?u=76281980)
@@ -713,7 +710,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 3. Double Your Effectiveness De-escalation
+### 4. 3. Double Your Effectiveness De-escalation
 
 #### Listen with the intent to understand
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/listen-with-the-intent-to-understand-14471747?u=76281980)
@@ -1048,7 +1045,7 @@ created: 2026-04-21
 > **Speakers:** - three (1)
 
 
-### 4. Common Customer Issues
+### 5. 4. Common Customer Issues
 
 #### When a customer asks for a manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-asks-for-a-manager-14471748?u=76281980)
@@ -1365,7 +1362,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Start, stop, continue exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/start-stop-continue-exercise-14472676?u=76281980)
@@ -1408,6 +1405,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Myra Golden]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- De-escalation
+- Customer Escalation Management
+- Customer Service
 
 ## Path Context
 

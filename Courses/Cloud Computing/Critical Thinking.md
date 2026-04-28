@@ -31,8 +31,10 @@ tags:
   - skill/decision-making
   - skill/critical-thinking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Critical%20Thinking.md)
 
 ![Critical Thinking](https://media.licdn.com/dms/image/v2/C4E0DAQGRLaOVaDrWFw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1593630205638?e=2147483647&amp;v=beta&amp;t=W8ok__3wON_o0CPpwslnQokOxWQmnNu_EWsx-3Pkr0w)
 
@@ -43,22 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking) | 1h 9m | 663K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Figliuolo]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Decision-Making
-- Critical Thinking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Critical Thinking?** (3 videos)
+- **3. 2. Thinking the Problem Through** (6 videos)
+- **4. 3. Using Critical Thinking Tools** (6 videos)
+- **5. 4. Practice Critical Thinking** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to critical thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/welcome-critical-thinking?u=76281980)
@@ -85,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 1. What Is Critical Thinking?
+### 2. 1. What Is Critical Thinking?
 
 #### The importance of critical thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/the-importance-of-critical-thinking-2?u=76281980)
@@ -276,7 +274,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 2. Thinking the Problem Through
+### 3. 2. Thinking the Problem Through
 
 #### Define the problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/define-the-problem-statement-2?u=76281980)
@@ -693,7 +691,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Using Critical Thinking Tools
+### 4. 3. Using Critical Thinking Tools
 
 #### Challenge how the business operates
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980)
@@ -1265,7 +1263,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 4. Practice Critical Thinking
+### 5. 4. Practice Critical Thinking
 
 #### Teach others how to think critically
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/teach-others-how-to-think-critically-2?u=76281980)
@@ -1430,7 +1428,7 @@ created: 2026-04-21
 > **Speakers:** - during (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Apply critical thinking every day
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980)
@@ -1482,6 +1480,19 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Mike Figliuolo]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Decision-Making
+- Critical Thinking
 
 ## Path Context
 

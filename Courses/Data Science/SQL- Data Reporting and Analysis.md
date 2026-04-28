@@ -38,8 +38,10 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL-%20Data%20Reporting%20and%20Analysis.md)
 
 ![SQL: Data Reporting and Analysis](https://media.licdn.com/dms/image/v2/C4D0DAQErQCI8JKTS1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657907586123?e=2147483647&amp;v=beta&amp;t=h2eQek84NuKGD3zxsesp7WahjOHn6pPOPUzykC5wHko)
 
@@ -50,18 +52,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247) | 2h 35m | Intermediate | 66K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emma Saunders]]
-
-## Skills Covered
-
-- Data Analysis
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Prepare to Code in SQL** (3 videos)
+- **3. 2. Use SQL to Report Data** (12 videos)
+- **4. 3. Group Your SQL Results** (6 videos)
+- **5. 4. Merge Data from Multiple Tables** (10 videos)
+- **6. 5. More Advanced SQL** (4 videos)
+- **7. Continuing Your SQL Learning Journey** (1 videos)
+
+### 1. Introduction
 
 #### Don't let your reporting system hold you back
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980)
@@ -226,7 +229,7 @@ created: 2026-04-21
 > **Warnings:** warning (1)
 
 
-### 1. Prepare to Code in SQL
+### 2. 1. Prepare to Code in SQL
 
 #### Get familiar with phpMyAdmin
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980)
@@ -426,7 +429,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Use SQL to Report Data
+### 3. 2. Use SQL to Report Data
 
 #### Retrieve data with SELECT
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980)
@@ -1500,7 +1503,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Group Your SQL Results
+### 4. 3. Group Your SQL Results
 
 #### Use GROUP BY with count
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980)
@@ -1988,7 +1991,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Merge Data from Multiple Tables
+### 5. 4. Merge Data from Multiple Tables
 
 #### Make your queries faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/make-your-queries-faster?u=76281980)
@@ -2956,7 +2959,7 @@ created: 2026-04-21
 > **Warnings:** warning (1)
 
 
-### 5. More Advanced SQL
+### 6. 5. More Advanced SQL
 
 #### Save your queries using a VIEW
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980)
@@ -3523,7 +3526,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Continuing Your SQL Learning Journey
+### 7. Continuing Your SQL Learning Journey
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980)
@@ -3563,6 +3566,15 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [emma (1)
 
+
+## Instructor
+
+- [[Emma Saunders]]
+
+## Skills Covered
+
+- Data Analysis
+- SQL
 
 ## Path Context
 

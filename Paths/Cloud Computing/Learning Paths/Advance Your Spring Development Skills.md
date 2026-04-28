@@ -47,8 +47,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Advance%20Your%20Spring%20Development%20Skills.md)
 
 # Advance Your Spring Development Skills
 

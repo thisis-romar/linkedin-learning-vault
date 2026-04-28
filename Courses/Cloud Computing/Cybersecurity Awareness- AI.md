@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20AI.md)
 
 ![Cybersecurity Awareness: AI](https://media.licdn.com/dms/image/v2/D4D0DAQGhAAbEq9iM4Q/learning-public-crop_675_1200/B4DZZApE5gG8AY-/0/1744841233017?e=2147483647&amp;v=beta&amp;t=ETlTkqGimQmbQXqSUJTi9dbDdCJZ3jYa9P0Sa2QDJNw)
 
@@ -47,19 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai) | 39m | Beginner | 185K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Stephanie Ihezukwu]]
-
-## Skills Covered
-
-- Security Awareness
-- Artificial Intelligence (AI)
-- AI Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding AI and AI-Enhanced Threats** (4 videos)
+- **3. 2. Ethics, Privacy, and Responsible Use** (3 videos)
+- **4. 3. Defending against AI-Enhanced Threats** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Cybersecurity and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980)
@@ -90,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 1. Understanding AI and AI-Enhanced Threats
+### 2. 1. Understanding AI and AI-Enhanced Threats
 
 #### AI's impact on cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980)
@@ -430,7 +430,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 2. Ethics, Privacy, and Responsible Use
+### 3. 2. Ethics, Privacy, and Responsible Use
 
 #### Summarizing data privacy, compliance, and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980)
@@ -725,7 +725,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. Defending against AI-Enhanced Threats
+### 4. 3. Defending against AI-Enhanced Threats
 
 #### Implementing AI tool usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980)
@@ -1045,7 +1045,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980)
@@ -1113,6 +1113,16 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 > **Speakers:** - and (1)
 
+
+## Instructor
+
+- [[Stephanie Ihezukwu]]
+
+## Skills Covered
+
+- Security Awareness
+- Artificial Intelligence (AI)
+- AI Security
 
 ## Path Context
 

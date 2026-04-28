@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strengthen%20Your%20Decision-Making%20with%20Generative%20AI.md)
 
 ![Strengthen Your Decision-Making with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQH6o0dBpeKeSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723241795605?e=2147483647&amp;v=beta&amp;t=nwlrw4luFVO7hwGkRXDPX0c6WNNaGz1-tGjYN3eoYMI)
 
@@ -42,23 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai) | 54m | 197K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Cheryl Einhorn]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Decision-Making
-- Artificial Intelligence (AI)
-- Generative AI Tools
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Determine Your Decision** (6 videos)
+- **3. 2. Harness AI to Refine Your Decision** (4 videos)
+- **4. 3. Use Generative AI to Continuously Improve Decisions** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Use GenAI to make better decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-genai-to-make-better-decisions?u=76281980)
@@ -83,7 +79,7 @@ created: 2026-04-21
 > **Speakers:** - yes (1)
 
 
-### 1. Determine Your Decision
+### 2. 1. Determine Your Decision
 
 #### Understand the DREAMS framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-the-dreams-framework?u=76281980)
@@ -521,7 +517,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. Harness AI to Refine Your Decision
+### 3. 2. Harness AI to Refine Your Decision
 
 #### Challenge decision biases using GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/challenge-decision-biases-using-gen-ai?u=76281980)
@@ -838,7 +834,7 @@ created: 2026-04-21
 > **Speakers:** - who (1)
 
 
-### 3. Use Generative AI to Continuously Improve Decisions
+### 4. 3. Use Generative AI to Continuously Improve Decisions
 
 #### Futurecast with GenAI to make better decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/futurecast-with-gen-ai-to-make-better-decisions?u=76281980)
@@ -1054,7 +1050,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Achieve continuously great outcomes
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980)
@@ -1100,6 +1096,20 @@ created: 2026-04-21
 > **URLs:** [areamethod.com](https://areamethod.com) (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Cheryl Einhorn]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Decision-Making
+- Artificial Intelligence (AI)
+- Generative AI Tools
 
 ## Path Context
 

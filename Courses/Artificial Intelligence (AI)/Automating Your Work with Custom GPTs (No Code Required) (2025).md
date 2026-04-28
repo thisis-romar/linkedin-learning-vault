@@ -21,8 +21,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Automating%20Your%20Work%20with%20Custom%20GPTs%20(No%20Code%20Required)%20(2025).md)
 
 ![Automating Your Work with Custom GPTs (No Code Required) (2025)](https://media.licdn.com/dms/image/v2/D4D0DAQESq__yB515XA/learning-public-crop_675_1200/B4DZYh4lm.GkAY-/0/1744325205095?e=2147483647&amp;v=beta&amp;t=jlXY9NN_fOrppFz2nF_0G_x5KIWvlG1rrzpjQfzMKMU)
 
@@ -33,13 +35,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025) | 31m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Garrick Chow]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Custom GPTs** (5 videos)
+
+### 1. Introduction
 
 #### Create your own powerful GPTs
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/create-your-own-powerful-gpts?u=76281980)
@@ -73,7 +76,7 @@ created: 2026-04-21
 > **Speakers:** - with (1)
 
 
-### 1. Custom GPTs
+### 2. 1. Custom GPTs
 
 #### Analyze an archive of PDFs
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980)
@@ -709,6 +712,10 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 > **Prerequisites:** configure (1)
 
+
+## Instructor
+
+- [[Garrick Chow]]
 
 ## Path Context
 

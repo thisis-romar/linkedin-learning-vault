@@ -33,8 +33,10 @@ tags:
   - skill/c
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C-%20Cross-Platform%20Development.md)
 
 ![C# Cross-Platform Development](https://media.licdn.com/dms/image/v2/D560DAQFN2A5GUfqgSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691011036247?e=2147483647&amp;v=beta&amp;t=ykMwwWkISC0KMJQlfocVsyiEAGVFnGuuFutt19P4m0c)
 
@@ -45,23 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development) | 51m | Intermediate | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jesse Freeman]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/c-sharp-cross-platform-development-4407398)
-
-## Skills Covered
-
-- C#
-- Cross-platform Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Setting Up** (2 videos)
+- **3. 2. Building the Core Application** (3 videos)
+- **4. 3. Refactoring and Enhancing the Application** (4 videos)
+- **5. 4. Integrating a Database** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with .NET
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980)
@@ -110,7 +107,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting Up
+### 2. 1. Setting Up
 
 #### Installing .NET 7 SDK
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980)
@@ -207,7 +204,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Building the Core Application
+### 3. 2. Building the Core Application
 
 #### Creating the note model
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980)
@@ -545,7 +542,7 @@ created: 2026-04-21
 > **Exercise Files:** template (1)
 
 
-### 3. Refactoring and Enhancing the Application
+### 4. 3. Refactoring and Enhancing the Application
 
 #### Creating a note command
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-note-command?u=76281980)
@@ -956,7 +953,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Integrating a Database
+### 5. 4. Integrating a Database
 
 #### Implementing note search
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/implementing-note-search?u=76281980)
@@ -1117,7 +1114,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Leveling up with .NET
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/leveling-up-with-dot-net?u=76281980)
@@ -1142,6 +1139,20 @@ created: 2026-04-21
 > **Env Vars:** cli (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Jesse Freeman]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/c-sharp-cross-platform-development-4407398)
+
+## Skills Covered
+
+- C#
+- Cross-platform Development
 
 ## Path Context
 

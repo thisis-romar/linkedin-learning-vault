@@ -25,8 +25,10 @@ tags:
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/TLS%20for%20Beginners-%20Securing%20Network%20Communications.md)
 
 ![TLS for Beginners: Securing Network Communications](https://media.licdn.com/dms/image/v2/D560DAQHxXQM9HsuLfg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715892606980?e=2147483647&amp;v=beta&amp;t=12Mu0DYuPdr366ciLJd1tGoiO2RY-Qsh_jDVuMakpTw)
 
@@ -37,13 +39,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications) | 3h 3m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daniel Lachance]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. PKI Overview** (8 videos)
+- **3. 2. Certificate Authorities** (4 videos)
+- **4. 3. Acquiring Certificates** (5 videos)
+- **5. 4. PKI Certificate Usage** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn to secure your network communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/learn-to-secure-your-network-communications?u=76281980)
@@ -128,7 +135,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. PKI Overview
+### 2. 1. PKI Overview
 
 #### Cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980)
@@ -1046,7 +1053,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Certificate Authorities
+### 3. 2. Certificate Authorities
 
 #### Configure a Microsoft AD CS certificate authority
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980)
@@ -1643,7 +1650,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Acquiring Certificates
+### 4. 3. Acquiring Certificates
 
 #### Acquire a certificate using Microsoft AD CS
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980)
@@ -2602,7 +2609,7 @@ created: 2026-04-21
 > **Tools:** azure portal (1)
 
 
-### 4. PKI Certificate Usage
+### 5. 4. PKI Certificate Usage
 
 #### Configure a Windows website certificate
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980)
@@ -3693,7 +3700,7 @@ created: 2026-04-21
 > **URLs:** [azurewebsites.net](https://azurewebsites.net) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980)
@@ -3749,6 +3756,10 @@ created: 2026-04-21
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Daniel Lachance]]
 
 ## Path Context
 

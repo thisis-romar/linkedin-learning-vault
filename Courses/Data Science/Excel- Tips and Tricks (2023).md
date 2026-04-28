@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Tips%20and%20Tricks%20(2023).md)
 
 ![Excel: Tips and Tricks (2023)](https://media.licdn.com/dms/image/v2/C560DAQEI1QCg-imRVA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674690058269?e=2147483647&amp;v=beta&amp;t=jxwV9VVZhc355LQwC9vxpX_zvJCWeHMaio-0Vjxhosw)
 
@@ -40,21 +42,26 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023) | 2h 33m | Intermediate | 1937K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dennis Taylor]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Seven Super Shortcuts** (7 videos)
+- **3. 2. Ribbon and Quick Access Toolbar Tips** (2 videos)
+- **4. 3. Display Shortcuts** (2 videos)
+- **5. 4. Navigation and Selection Shortcuts** (5 videos)
+- **6. 5. Data Entry and Editing Shortcuts** (4 videos)
+- **7. 6. Drag-and-Drop Techniques** (4 videos)
+- **8. 7. Formula Shortcuts** (5 videos)
+- **9. 8. Operational Shortcuts** (3 videos)
+- **10. 9. Formatting Shortcuts** (5 videos)
+- **11. 10. Data Management Techniques** (3 videos)
+- **12. 11. Charting and Visual Object Tips** (3 videos)
+- **13. 12. Ten Tiny Tips** (1 videos)
+- **14. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Become a proficient Excel user
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-proficient-excel-user?u=76281980)
@@ -75,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - [dennis] (1)
 
 
-### 1. Seven Super Shortcuts
+### 2. 1. Seven Super Shortcuts
 
 #### Enter data or formulas in non-adjacent cells simultaneously
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-data-or-formulas-in-non-adjacent-cells-simultaneously?u=76281980)
@@ -778,7 +785,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Ribbon and Quick Access Toolbar Tips
+### 3. 2. Ribbon and Quick Access Toolbar Tips
 
 #### Access ribbon commands with Alt key sequences
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/access-ribbon-commands-with-alt-key-sequences?u=76281980)
@@ -1009,7 +1016,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Display Shortcuts
+### 4. 3. Display Shortcuts
 
 #### Create split screens and frozen titles in a flash
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-split-screens-and-frozen-titles-in-a-flash?u=76281980)
@@ -1275,7 +1282,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Navigation and Selection Shortcuts
+### 5. 4. Navigation and Selection Shortcuts
 
 #### Navigate between workbooks and worksheets efficiently
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980)
@@ -1804,7 +1811,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Data Entry and Editing Shortcuts
+### 6. 5. Data Entry and Editing Shortcuts
 
 #### Accelerate data entry
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-data-entry?u=76281980)
@@ -2290,7 +2297,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Drag-and-Drop Techniques
+### 7. 6. Drag-and-Drop Techniques
 
 #### Accelerate copy and move tasks in cells and worksheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-copy-and-move-tasks-in-cells-and-worksheets?u=76281980)
@@ -2626,7 +2633,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Formula Shortcuts
+### 8. 7. Formula Shortcuts
 
 #### Create formulas rapidly
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-formulas-rapidly?u=76281980)
@@ -3123,7 +3130,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Operational Shortcuts
+### 9. 8. Operational Shortcuts
 
 #### Re-align imported text
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/re-align-imported-text?u=76281980)
@@ -3430,7 +3437,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Formatting Shortcuts
+### 10. 9. Formatting Shortcuts
 
 #### Use keyboard shortcuts for frequently used numeric formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-keyboard-shortcuts-for-frequently-used-numeric-formats?u=76281980)
@@ -4007,7 +4014,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Data Management Techniques
+### 11. 10. Data Management Techniques
 
 #### Clean up spaces quickly with the TRIM function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/clean-up-spaces-quickly-with-the-trim-function?u=76281980)
@@ -4382,7 +4389,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Charting and Visual Object Tips
+### 12. 11. Charting and Visual Object Tips
 
 #### Control chart placement and sizing with dragging techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980)
@@ -4710,7 +4717,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 12. Ten Tiny Tips
+### 13. 12. Ten Tiny Tips
 
 #### Become a more proficient Excel user with these short tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-more-proficient-excel-user-with-these-short-tips?u=76281980)
@@ -4844,7 +4851,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 14. Conclusion
 
 #### Continue learning Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/continue-learning-excel?u=76281980)
@@ -4861,6 +4868,18 @@ created: 2026-04-21
 >
 > **Speakers:** - [host] (1)
 
+
+## Instructor
+
+- [[Dennis Taylor]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Excel
 
 ## Path Context
 

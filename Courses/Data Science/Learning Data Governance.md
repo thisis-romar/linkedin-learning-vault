@@ -42,8 +42,10 @@ tags:
   - topic/software-development
   - skill/data-governance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Data%20Governance.md)
 
 ![Learning Data Governance](https://media.licdn.com/dms/image/v2/C560DAQGerkj6j_o8Pg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630429984595?e=2147483647&amp;v=beta&amp;t=oSwO0sHTGLSxNq_utJ5M3B4WF54rEieyCW5FFxWyfOg)
 
@@ -54,17 +56,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082) | 1h 25m | Intermediate | 51K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jonathan Reichental]]
-
-## Skills Covered
-
-- Data Governance
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Data Governance?** (7 videos)
+- **3. 2. Data Governance Deployment** (8 videos)
+- **4. 3. Managing a Data Governance Program** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Data governance affects everyone
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980)
@@ -102,7 +104,7 @@ created: 2026-04-21
 > **Speakers:** - done (1)
 
 
-### 1. What Is Data Governance?
+### 2. 1. What Is Data Governance?
 
 #### The role of data in the 21st century
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980)
@@ -576,7 +578,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 2. Data Governance Deployment
+### 3. 2. Data Governance Deployment
 
 #### Who owns the data and why does that matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980)
@@ -1308,7 +1310,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Managing a Data Governance Program
+### 4. 3. Managing a Data Governance Program
 
 #### Data governance in compliance, privacy, and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980)
@@ -1687,7 +1689,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### The value of data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980)
@@ -1735,6 +1737,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)
 
+
+## Instructor
+
+- [[Jonathan Reichental]]
+
+## Skills Covered
+
+- Data Governance
 
 ## Path Context
 

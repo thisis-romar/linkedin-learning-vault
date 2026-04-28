@@ -37,8 +37,10 @@ tags:
   - skill/node-js
   - skill/back-end-web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node%20Js%20Security.md)
 
 ![Node Js Security](https://media.licdn.com/dms/image/v2/D4D0DAQGe81EA6OuC2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735859654493?e=2147483647&amp;v=beta&amp;t=BmDfA1LgQbro68KxrpyJdNXKzQFG7M5s9zeFzEcOzG0)
 
@@ -49,24 +51,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656) | Intermediate | 112K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Web Development
-- Application Security
-- Node.js
-- Back-End Web Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Security Overview** (5 videos)
+- **3. 2. Best Practices: Packages** (3 videos)
+- **4. 3. Best Practices: Data** (4 videos)
+- **5. 4. Best Practices: Server Level** (4 videos)
+- **6. 5. Tools for Testing** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Securing your Node.js projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/securing-your-nodejs-projects?u=76281980)
@@ -120,7 +117,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Security Overview
+### 2. 1. Security Overview
 
 #### Introduction to OWASP and other sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980)
@@ -489,7 +486,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Best Practices: Packages
+### 3. 2. Best Practices: Packages
 
 #### Hands-on base template overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980)
@@ -798,7 +795,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### 3. Best Practices: Data
+### 4. 3. Best Practices: Data
 
 #### Data handling with type and validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/data-handling-with-type-and-validation?u=76281980)
@@ -1057,7 +1054,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Best Practices: Server Level
+### 5. 4. Best Practices: Server Level
 
 #### Use secure HTTPS protocol
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/use-secure-https-protocol?u=76281980)
@@ -1293,7 +1290,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Tools for Testing
+### 6. 5. Tools for Testing
 
 #### Introduction to OWASP dependency check
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980)
@@ -1433,7 +1430,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980)
@@ -1471,6 +1468,21 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Web Development
+- Application Security
+- Node.js
+- Back-End Web Development
 
 ## Path Context
 

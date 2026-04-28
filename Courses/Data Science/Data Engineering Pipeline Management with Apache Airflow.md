@@ -31,8 +31,10 @@ tags:
   - skill/apache-airflow
   - skill/workflow-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Engineering%20Pipeline%20Management%20with%20Apache%20Airflow.md)
 
 ![Data Engineering Pipeline Management with Apache Airflow](https://media.licdn.com/dms/image/v2/D560DAQG7SBssjwtndA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691793089558?e=2147483647&amp;v=beta&amp;t=WKMJso1PneCLSMMIWO0udZLnnkV6quElzBCF9oJy4to)
 
@@ -43,22 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow) | 2h 8m | Intermediate | 32K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Janani Ravi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Apache Airflow
-- Workflow Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Working with Role-Based Access Control** (12 videos)
+- **3. 2. Managing SLAs** (5 videos)
+- **4. 3. Scheduling DAGs with Datasets** (5 videos)
+- **5. 4. Working with Airflow Plugins** (4 videos)
+- **6. 5. Scaling Airflow** (9 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Features for data engineering pipeline management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980)
@@ -191,7 +190,7 @@ created: 2026-04-21
 > **Best Practices:** good practice (1)
 
 
-### 1. Working with Role-Based Access Control
+### 2. 1. Working with Role-Based Access Control
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980)
@@ -1203,7 +1202,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Managing SLAs
+### 3. 2. Managing SLAs
 
 #### Configuring emails for SLA management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980)
@@ -1720,7 +1719,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 3. Scheduling DAGs with Datasets
+### 4. 3. Scheduling DAGs with Datasets
 
 #### Dataset producer pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980)
@@ -2223,7 +2222,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Working with Airflow Plugins
+### 5. 4. Working with Airflow Plugins
 
 #### Introducing plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980)
@@ -2587,7 +2586,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Scaling Airflow
+### 6. 5. Scaling Airflow
 
 #### Scaling Apache Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980)
@@ -3314,7 +3313,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980)
@@ -3365,6 +3364,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Janani Ravi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Apache Airflow
+- Workflow Management
 
 ## Path Context
 

@@ -30,31 +30,31 @@ tags:
   - skill/decision-making
   - skill/critical-thinking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Sharpen%20Your%20Decision-Making%20with%20Nuanced%20Thinking%20Techniques.md)
 
 ![Sharpen Your Decision-Making with Nuanced Thinking Techniques](https://media.licdn.com/dms/image/v2/D4E0DAQFZs4iy8G0-nA/learning-public-crop_675_1200/B4EZei5HRzHYAY-/0/1750784571188?e=2147483647&amp;v=beta&amp;t=U7NrmqeiUxJrVUw7x0xfDVw5hkSwvYs0_H3kADno7Cg)
 
 # Sharpen Your Decision-Making with Nuanced Thinking Techniques
 
-> Learn nuanced thinking techniques to make more thoughtful, balanced, and effective decisions. In this course, critical thinking expert Spencer Greenberg provides you with a powerful decision-making tool kit to help you avoid thinking traps, improve  problem-solving, reduce cognitive biases, lock in objectives (to keep projects on track), and make use of your emotions (without being misled by them)
+> Learn nuanced thinking techniques to make more thoughtful, balanced, and effective decisions. In this course, critical thinking expert Spencer Greenberg provides you with a powerful decision-making tool kit to help you avoid thinking traps, improve problem-solving, reduce cognitive biases, lock in objectives (to keep projects on track), and make use of your emotions (without being misled by them).
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques) | 50m | 197K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Spencer Greenberg]]
-
-## Skills Covered
-
-- Thinking Skills
-- Decision-Making
-- Critical Thinking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Make Decisions and Solve Problems with Nuanced Thinking** (4 videos)
+- **3. 2. Overcoming Barriers to Nuanced Thinking** (3 videos)
+- **4. 3. Overcoming Barriers to Nuanced Decision-Making** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why nuanced thinking matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/why-nuanced-thinking-matters?u=76281980)
@@ -85,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### 1. Make Decisions and Solve Problems with Nuanced Thinking
+### 2. 1. Make Decisions and Solve Problems with Nuanced Thinking
 
 #### Learn the qualities of nuanced thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-thinking?u=76281980)
@@ -425,7 +425,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Overcoming Barriers to Nuanced Thinking
+### 3. 2. Overcoming Barriers to Nuanced Thinking
 
 #### Address the goodness binary with gray thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/address-the-goodness-binary-with-gray-thinking?u=76281980)
@@ -676,7 +676,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Overcoming Barriers to Nuanced Decision-Making
+### 4. 3. Overcoming Barriers to Nuanced Decision-Making
 
 #### Recognize how emotions impact decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-how-emotions-impact-decision-making?u=76281980)
@@ -1002,7 +1002,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Apply these techniques to your next decision
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/apply-these-techniques-to-your-next-decision?u=76281980)
@@ -1039,6 +1039,16 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Spencer Greenberg]]
+
+## Skills Covered
+
+- Thinking Skills
+- Decision-Making
+- Critical Thinking
 
 ## Path Context
 

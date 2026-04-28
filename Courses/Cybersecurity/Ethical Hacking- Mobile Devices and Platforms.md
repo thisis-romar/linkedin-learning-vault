@@ -29,8 +29,10 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Mobile%20Devices%20and%20Platforms.md)
 
 ![Ethical Hacking: Mobile Devices and Platforms](https://media.licdn.com/dms/image/v2/C4D0DAQEjWT-pm322YQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1570724627125?e=2147483647&amp;v=beta&amp;t=vfaJG_hc7buOyOhxK5Eqk0kypgzWc1ckYQ0E0HUfUqI)
 
@@ -41,21 +43,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms) | 1h 58m | Intermediate | 29K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Mobile Technology** (4 videos)
+- **3. 2. Android** (12 videos)
+- **4. 3. iOS** (8 videos)
+- **5. 4. Security Shepherd** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Keeping your mobile devices safe
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/keeping-your-mobile-devices-safe?u=76281980)
@@ -138,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Mobile Technology
+### 2. 1. Mobile Technology
 
 #### Understand and test for mobile vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980)
@@ -435,7 +434,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Android
+### 3. 2. Android
 
 #### Understanding the Android operating system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980)
@@ -1603,7 +1602,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. iOS
+### 4. 3. iOS
 
 #### iOS applications and vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/ios-applications-and-vulnerabilities?u=76281980)
@@ -2571,7 +2570,7 @@ created: 2026-04-21
 > **Prerequisites:** setup (2)
 
 
-### 4. Security Shepherd
+### 5. 4. Security Shepherd
 
 #### Taking a look at Security Shepherd
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980)
@@ -2769,7 +2768,7 @@ created: 2026-04-21
 > **Definitions:** is called (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980)
@@ -2806,6 +2805,18 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Ethical Hacking
 
 ## Path Context
 

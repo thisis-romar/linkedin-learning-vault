@@ -32,8 +32,10 @@ tags:
   - skill/accountability
   - skill/organizational-culture
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20Accountability%20into%20Your%20Culture.md)
 
 ![Building Accountability into Your Culture](https://media.licdn.com/dms/image/v2/C4D0DAQHksvRe_KGclA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668040290627?e=2147483647&amp;v=beta&amp;t=ZCB2rO8m8pXQVy6qG8JpoOhYyGlShosMycvjYHCejBc)
 
@@ -44,23 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture) | 39m | Intermediate | 287K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Figliuolo]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Leadership Accountability
-- Accountability
-- Organizational Culture
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Role of Leaders in Modeling Accountability** (4 videos)
+- **3. 2. The Role of Individuals and Teams** (3 videos)
+- **4. 3. Building Accountability into Your Culture and Brand** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Your role as a leader in driving accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/your-role-as-a-leader?u=76281980)
@@ -85,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 1. The Role of Leaders in Modeling Accountability
+### 2. 1. The Role of Leaders in Modeling Accountability
 
 #### Setting the tone for accountable behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980)
@@ -358,7 +354,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 2. The Role of Individuals and Teams
+### 3. 2. The Role of Individuals and Teams
 
 #### Defining accountability on your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/defining-accountability-on-your-team?u=76281980)
@@ -549,7 +545,7 @@ created: 2026-04-21
 > **Speakers:** - leaders (1)
 
 
-### 3. Building Accountability into Your Culture and Brand
+### 4. 3. Building Accountability into Your Culture and Brand
 
 #### Creating a culture of accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/creating-a-culture-of-accountability-2?u=76281980)
@@ -763,7 +759,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Generating momentum and overcoming obstacles
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/generating-momentum-and-overcoming-obstacles-2?u=76281980)
@@ -833,6 +829,20 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - moving (1)
 
+
+## Instructor
+
+- [[Mike Figliuolo]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Leadership Accountability
+- Accountability
+- Organizational Culture
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/mysql
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%202%20Build%20a%20CMS.md)
 
 ![PHP with MySQL Essential Training: 2 Build a CMS](https://media.licdn.com/dms/image/v2/C4E0DAQE5HNwqPD3Fvg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1631663332774?e=2147483647&amp;v=beta&amp;t=LTFXMYF5ICLFDOhjt5UKWCxDddnka0AchPdNammw7z0)
 
@@ -43,22 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms) | 3h 51m | Intermediate | 76K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Skoglund]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- MySQL
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Create a Content Management System** (3 videos)
+- **3. 2. Build Dynamic Content Navigation** (7 videos)
+- **4. 3. Use Context and Options** (8 videos)
+- **5. 4. Cookies and Sessions** (7 videos)
+- **6. 5. Regulate Page Access** (10 videos)
+- **7. 6. Nesting Related Resources** (8 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### PHP with MySQL Essential Training: Build a CMS
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-with-mysql-essential-training-build-a-cms?u=76281980)
@@ -151,7 +151,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 1. Create a Content Management System
+### 2. 1. Create a Content Management System
 
 #### Blueprint the application
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980)
@@ -602,7 +602,7 @@ created: 2026-04-21
 > **Tools:** atom (1)
 
 
-### 2. Build Dynamic Content Navigation
+### 3. 2. Build Dynamic Content Navigation
 
 #### List subjects
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980)
@@ -1539,7 +1539,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 3. Use Context and Options
+### 4. 3. Use Context and Options
 
 #### The public context
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980)
@@ -2636,7 +2636,7 @@ created: 2026-04-21
 > **Cross-References:** in the last (1)
 
 
-### 4. Cookies and Sessions
+### 5. 4. Cookies and Sessions
 
 #### Work with cookies
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980)
@@ -3576,7 +3576,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Regulate Page Access
+### 6. 5. Regulate Page Access
 
 #### User authentication overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/user-authentication-overview-14245854?u=76281980)
@@ -5193,7 +5193,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Nesting Related Resources
+### 7. 6. Nesting Related Resources
 
 #### Understand nested resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/understand-nested-resources-14244850?u=76281980)
@@ -6612,7 +6612,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1), just like (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980)
@@ -6648,6 +6648,19 @@ created: 2026-04-21
 > **Code Keywords:** public (2), require (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kevin Skoglund]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- MySQL
+- PHP
 
 ## Path Context
 

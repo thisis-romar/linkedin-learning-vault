@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ChatGPT-%20Crafting%20Exceptional%20GPTs%20for%20Enhanced%20Productivity%20and%20Innovation.md)
 
 ![ChatGPT: Crafting Exceptional GPTs for Enhanced Productivity and Innovation](https://media.licdn.com/dms/image/v2/D560DAQFUqm3mpYOMSg/learning-public-crop_675_1200/B56ZS92NixGsAc-/0/1738351893411?e=2147483647&amp;v=beta&amp;t=5zvzO-nOEjMdkkACC8Hho5XujaBxfAG8Yoy6V_Opv6A)
 
@@ -42,19 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation) | 2h 48m | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jules White]]
-
-## Skills Covered
-
-- AI Productivity
-- Artificial Intelligence (AI)
-- ChatGPT
-
 ## Table of Contents
 
-### 1. Foundations of GPT Creation
+### Chapter Overview
+
+- **1. 1. Foundations of GPT Creation** (6 videos)
+- **2. 2. Personal Development and Testing** (5 videos)
+- **3. 3. Ensuring Accuracy and Readability** (5 videos)
+- **4. 4. Optimizing User Experience** (5 videos)
+- **5. 5. Managing AI Boundaries and Ambiguity** (5 videos)
+- **6. 6. Advanced GPT Techniques and Next Steps** (5 videos)
+
+### 1. 1. Foundations of GPT Creation
 
 #### GPTs and ChatGPT: Introduction to crafting your own powerful AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-introduction-to-crafting-your-own-powerful-ai?u=76281980)
@@ -1171,7 +1172,7 @@ created: 2026-04-21
 > **Best Practices:** the key is (1)
 
 
-### 2. Personal Development and Testing
+### 2. 2. Personal Development and Testing
 
 #### GPTs and ChatGPT: Creating a persona for your custom AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-a-persona-for-your-custom-ai?u=76281980)
@@ -1701,7 +1702,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Ensuring Accuracy and Readability
+### 3. 3. Ensuring Accuracy and Readability
 
 #### GPTs and ChatGPT: Citing knowledge to ensure accuracy and credibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-citing-knowledge-to-ensure-accuracy-and-credibility?u=76281980)
@@ -2338,7 +2339,7 @@ created: 2026-04-21
 > **Speakers:** - although (1)
 
 
-### 4. Optimizing User Experience
+### 4. 4. Optimizing User Experience
 
 #### GPTs and ChatGPT: Finding additional resources and support
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980)
@@ -2843,7 +2844,7 @@ created: 2026-04-21
 > **Speakers:** - just (1)
 
 
-### 5. Managing AI Boundaries and Ambiguity
+### 5. 5. Managing AI Boundaries and Ambiguity
 
 #### GPTs and ChatGPT: Setting boundaries and defining limits in AI responses
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-setting-boundaries-and-defining-limits-in-ai-responses?u=76281980)
@@ -3419,7 +3420,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 6. Advanced GPT Techniques and Next Steps
+### 6. 6. Advanced GPT Techniques and Next Steps
 
 #### GPTs and ChatGPT: Managing ambiguity in concept mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-managing-ambiguity-in-concept-mapping?u=76281980)
@@ -3844,6 +3845,16 @@ created: 2026-04-21
 >
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Jules White]]
+
+## Skills Covered
+
+- AI Productivity
+- Artificial Intelligence (AI)
+- ChatGPT
 
 ## Path Context
 

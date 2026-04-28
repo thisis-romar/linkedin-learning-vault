@@ -31,8 +31,10 @@ tags:
   - topic/software-development
   - skill/aws-command-line-interface-cli
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AWS%20for%20Developers-%20CLI%20Tips.md)
 
 ![AWS for Developers: CLI Tips](https://media.licdn.com/dms/image/v2/D560DAQEOai9Mk_3_lg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696618989101?e=2147483647&amp;v=beta&amp;t=GExiqCGKB5DhYgREzfp7ekdgycP5rCknmmHhnHKzJmc)
 
@@ -43,22 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips) | 1h 53m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rishab Kumar]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/aws-for-developers-cli-tips-4469953)
-
-## Skills Covered
-
-- AWS Command Line Interface (CLI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to AWS CLI** (3 videos)
+- **3. 2. Managing EC2 Instances with AWS CLI** (3 videos)
+- **4. 3. Working with S3 and AWS CLI** (3 videos)
+- **5. 4. Managing Permissions with IAM and AWS CLI** (3 videos)
+- **6. 5. Managing Other AWS Services with AWS CLI** (3 videos)
+- **7. 6. Advanced AWS CLI Topics** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why use AWS CLI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980)
@@ -113,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to AWS CLI
+### 2. 1. Introduction to AWS CLI
 
 #### Overview of AWS CLI and its benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980)
@@ -478,7 +478,7 @@ created: 2026-04-21
 > **Best Practices:** best practice (1)
 
 
-### 2. Managing EC2 Instances with AWS CLI
+### 3. 2. Managing EC2 Instances with AWS CLI
 
 #### Creating and launching EC2 instances
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980)
@@ -833,7 +833,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 3. Working with S3 and AWS CLI
+### 4. 3. Working with S3 and AWS CLI
 
 #### Uploading, downloading, and managing files in S3 buckets
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980)
@@ -1245,7 +1245,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Managing Permissions with IAM and AWS CLI
+### 5. 4. Managing Permissions with IAM and AWS CLI
 
 #### Introduction to IAM users, groups, and policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/introduction-to-iam-users-groups-and-policies?u=76281980)
@@ -1538,7 +1538,7 @@ created: 2026-04-21
 > **Definitions:** known as (1)
 
 
-### 5. Managing Other AWS Services with AWS CLI
+### 6. 5. Managing Other AWS Services with AWS CLI
 
 #### Managing RDS databases with AWS CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980)
@@ -1997,7 +1997,7 @@ created: 2026-04-21
 > **Exercise Files:** github repo (1)
 
 
-### 6. Advanced AWS CLI Topics
+### 7. 6. Advanced AWS CLI Topics
 
 #### Integrating AWS CLI with AWS CloudTrail
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980)
@@ -2310,7 +2310,7 @@ created: 2026-04-21
 > **Best Practices:** best practice (1), make sure to (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980)
@@ -2371,6 +2371,19 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Rishab Kumar]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/aws-for-developers-cli-tips-4469953)
+
+## Skills Covered
+
+- AWS Command Line Interface (CLI)
 
 ## Path Context
 

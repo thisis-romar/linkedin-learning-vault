@@ -19,8 +19,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Creating%20a%20Responsible%20Generative%20AI%20Use%20Policy.md)
 
 ![Creating a Responsible Generative AI Use Policy](https://media.licdn.com/dms/image/v2/D4D0DAQHp3p0hqPQbGw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732065803978?e=2147483647&amp;v=beta&amp;t=FOPk7rWOSunppvDjk1RPhzTBLP3sWkB7BgC88x7R370)
 
@@ -31,13 +33,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy) | 1h 27m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jim Sterne]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding the Need** (3 videos)
+- **3. 2. Laying the Groundwork** (3 videos)
+- **4. 3. Core AI Policy Components** (4 videos)
+- **5. 4. AI Policy Development and Roll Out** (3 videos)
+- **6. 5. AI Use Monitoring and Policy Enforcement** (3 videos)
+- **7. 6. A Living Document** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Creating an effective policy for responsible AI adoption
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/creating-an-effective-policy-for-responsible-ai-adoption-24919276?u=76281980)
@@ -98,7 +107,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. Understanding the Need
+### 2. 1. Understanding the Need
 
 #### The rise of generative AI in the workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980)
@@ -335,7 +344,7 @@ created: 2026-04-21
 > **Speakers:** - picture (1)
 
 
-### 2. Laying the Groundwork
+### 3. 2. Laying the Groundwork
 
 #### Assessing your company's AI readiness
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980)
@@ -598,7 +607,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Core AI Policy Components
+### 4. 3. Core AI Policy Components
 
 #### Define acceptable use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980)
@@ -967,7 +976,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. AI Policy Development and Roll Out
+### 5. 4. AI Policy Development and Roll Out
 
 #### Drafting the policy document
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/drafting-the-policy-document-24917282?u=76281980)
@@ -1271,7 +1280,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. AI Use Monitoring and Policy Enforcement
+### 6. 5. AI Use Monitoring and Policy Enforcement
 
 #### Establishing monitoring mechanisms
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980)
@@ -1513,7 +1522,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 6. A Living Document
+### 7. 6. A Living Document
 
 #### Staying current with tech
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980)
@@ -1638,7 +1647,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps on the path to success with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980)
@@ -1709,6 +1718,10 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
+
+## Instructor
+
+- [[Jim Sterne]]
 
 ## Path Context
 

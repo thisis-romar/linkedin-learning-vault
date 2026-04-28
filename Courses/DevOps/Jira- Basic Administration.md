@@ -31,8 +31,10 @@ tags:
   - skill/system-administration
   - skill/jira
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira-%20Basic%20Administration.md)
 
 ![Jira: Basic Administration](https://media.licdn.com/dms/image/v2/C560DAQEy1G1z5kc95w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671662391309?e=2147483647&amp;v=beta&amp;t=uhQ8JbwgdsK9AmUYSAmyiTDq75wHezAkaxZf0EVkM8A)
 
@@ -43,18 +45,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968) | 1h 24m | Intermediate | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rachel Wright]]
-
-## Skills Covered
-
-- System Administration
-- Jira
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. What Is Jira and How Is It Used?** (5 videos)
+- **3. 2. Admin Types and Responsibilities** (3 videos)
+- **4. 3. Setting Up a Test Environment** (2 videos)
+- **5. 4. Managing Users** (4 videos)
+- **6. 5. Creating Jira Projects** (4 videos)
+- **7. 6. Creating Workflows** (5 videos)
+- **8. 7. Troubleshooting Permission Problems** (4 videos)
+- **9. 8. Troubleshooting Missing Notifications** (4 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Basic administration in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-administration-in-jira?u=76281980)
@@ -163,7 +169,7 @@ created: 2026-04-21
 > **Speakers:** - ideally (1)
 
 
-### 1. What Is Jira and How Is It Used?
+### 2. 1. What Is Jira and How Is It Used?
 
 #### What is Jira?
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980)
@@ -557,7 +563,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Admin Types and Responsibilities
+### 3. 2. Admin Types and Responsibilities
 
 #### Types of Jira users
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980)
@@ -766,7 +772,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Setting Up a Test Environment
+### 4. 3. Setting Up a Test Environment
 
 #### Choose a test environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980)
@@ -948,7 +954,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Managing Users
+### 5. 4. Managing Users
 
 #### How to manage users
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980)
@@ -1158,7 +1164,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Creating Jira Projects
+### 6. 5. Creating Jira Projects
 
 #### Types of Jira projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-projects?u=76281980)
@@ -1414,7 +1420,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Creating Workflows
+### 7. 6. Creating Workflows
 
 #### Types of workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-workflows?u=76281980)
@@ -1874,7 +1880,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Troubleshooting Permission Problems
+### 8. 7. Troubleshooting Permission Problems
 
 #### Types of Jira permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980)
@@ -2208,7 +2214,7 @@ created: 2026-04-21
 > **Non-Speech:** (peppy digital music) (1)
 
 
-### 8. Troubleshooting Missing Notifications
+### 9. 8. Troubleshooting Missing Notifications
 
 #### Types of Jira notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980)
@@ -2462,7 +2468,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Additional learning resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980)
@@ -2536,6 +2542,15 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 
+
+## Instructor
+
+- [[Rachel Wright]]
+
+## Skills Covered
+
+- System Administration
+- Jira
 
 ## Path Context
 

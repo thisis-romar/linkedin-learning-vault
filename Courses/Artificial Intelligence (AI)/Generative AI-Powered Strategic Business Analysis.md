@@ -34,8 +34,10 @@ tags:
   - skill/business-strategy
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-Powered%20Strategic%20Business%20Analysis.md)
 
 ![Generative AI-Powered Strategic Business Analysis](https://media.licdn.com/dms/image/v2/D4D0DAQEWv1fm0QFeWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737506474686?e=2147483647&amp;v=beta&amp;t=yGeecvsfmYjg40xquaZs2rBU21F2f7bJg6N4iDRxyS4)
 
@@ -46,25 +48,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis) | 58m | Intermediate | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Vincent Mirabelli]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business Analysis
-- Artificial Intelligence (AI)
-- Business Analysis
-- Business Strategy
-- Generative AI Tools
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Impact of AI on Strategic Business Analysis** (6 videos)
+- **3. 2. Being a Strategic BA in an AI World** (9 videos)
+- **4. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Hands-on AI-powered tactics for business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/intro-video-to-be-renamed-24300527?u=76281980)
@@ -91,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - [vincent] (1)
 
 
-### 1. The Impact of AI on Strategic Business Analysis
+### 2. 1. The Impact of AI on Strategic Business Analysis
 
 #### What is strategy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/what-is-strategy-24300525?u=76281980)
@@ -513,7 +506,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 2. Being a Strategic BA in an AI World
+### 3. 2. Being a Strategic BA in an AI World
 
 #### Establishing strategic objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980)
@@ -1137,7 +1130,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Preparing for an AI-driven strategic future
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980)
@@ -1277,6 +1270,22 @@ created: 2026-04-21
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Vincent Mirabelli]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business Analysis
+- Artificial Intelligence (AI)
+- Business Analysis
+- Business Strategy
+- Generative AI Tools
 
 ## Path Context
 

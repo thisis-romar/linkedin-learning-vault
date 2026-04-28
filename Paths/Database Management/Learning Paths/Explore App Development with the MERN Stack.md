@@ -73,8 +73,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Database%20Management/Learning%20Paths/Explore%20App%20Development%20with%20the%20MERN%20Stack.md)
 
 # Explore App Development with the MERN Stack
 

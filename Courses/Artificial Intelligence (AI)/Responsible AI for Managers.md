@@ -25,8 +25,10 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20for%20Managers.md)
 
 ![Responsible AI for Managers](https://media.licdn.com/dms/image/v2/D560DAQFwINGwwlD2Dg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722359931070?e=2147483647&amp;v=beta&amp;t=Cq8MotQH6EpAlyRm8XR4iyEQOveVS4_Q16knK8IW51M)
 
@@ -37,13 +39,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers) | 23m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dr. Terri Horton]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Guiding Principles of Responsible AI in Management** (2 videos)
+- **3. 2. Accountability for Responsible AI in Management** (2 videos)
+- **4. 3. Management Practices in AI Implementation** (2 videos)
+- **5. 4. Responsible AI: Real-World Examples in Management** (2 videos)
+
+### 1. Introduction
 
 #### The manager's role in responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/the-manager-s-role-in-responsible-ai?u=76281980)
@@ -65,7 +71,7 @@ created: 2026-04-21
 > **Speakers:** - many (1)
 
 
-### 1. Guiding Principles of Responsible AI in Management
+### 2. 1. Guiding Principles of Responsible AI in Management
 
 #### Ethical AI principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980)
@@ -167,7 +173,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 2. Accountability for Responsible AI in Management
+### 3. 2. Accountability for Responsible AI in Management
 
 #### Data privacy and safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980)
@@ -295,7 +301,7 @@ created: 2026-04-21
 > **Speakers:** - hr (1)
 
 
-### 3. Management Practices in AI Implementation
+### 4. 3. Management Practices in AI Implementation
 
 #### AI  and decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980)
@@ -425,7 +431,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 4. Responsible AI: Real-World Examples in Management
+### 5. 4. Responsible AI: Real-World Examples in Management
 
 #### Responsible AI in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980)
@@ -507,6 +513,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - quote (1)
 
+
+## Instructor
+
+- [[Dr. Terri Horton]]
 
 ## Path Context
 

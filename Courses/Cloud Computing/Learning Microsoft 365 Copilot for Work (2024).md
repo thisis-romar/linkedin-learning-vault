@@ -30,32 +30,28 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/office-365
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Microsoft%20365%20Copilot%20for%20Work%20(2024).md)
 
 ![Learning Microsoft 365 Copilot for Work (2024)](https://media.licdn.com/dms/image/v2/D560DAQFQVME2afs_Eg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729809959589?e=2147483647&amp;v=beta&amp;t=5ViXHXOznT6XYw44J7WZVOCEPZG5yYUWxZ4MceiZCuA)
 
 # Learning Microsoft 365 Copilot for Work (2024)
 
-> Discover how—through Copilot—AI can help you create documents, summarize messages, and analyze data from natural language requests in Word, Excel, Outlook, Teams, and PowerPoint. Staff instructor Nick Brazzi also introduces Microsoft 365 Business Chat, which allows you to ask questions and make requests using secure data from your calendar, messages, and files.
-This course is part of these Profess
+> Discover how—through Copilot—AI can help you create documents, summarize messages, and analyze data from natural language requests in Word, Excel, Outlook, Teams, and PowerPoint. Staff instructor Nick Brazzi also introduces Microsoft 365 Business Chat, which allows you to ask questions and make requests using secure data from your calendar, messages, and files. This course is part of these Profess
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024) | 29m | 84K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nick Brazzi]]
-
-## Skills Covered
-
-- Microsoft Copilot
-- Artificial Intelligence (AI)
-- Office 365
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Using Copilot in Office Applications** (7 videos)
+
+### 1. Introduction
 
 #### Explore Microsoft 365's AI assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-your-ai-assistant-in-microsoft-365?u=76281980)
@@ -118,7 +114,7 @@ This course is part of these Profess
 > **Speakers:** - there (1)
 
 
-### 1. Using Copilot in Office Applications
+### 2. 1. Using Copilot in Office Applications
 
 #### Use Copilot Business Chat with your work data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980)
@@ -765,6 +761,16 @@ This course is part of these Profess
 > **Cross-References:** go back to (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Nick Brazzi]]
+
+## Skills Covered
+
+- Microsoft Copilot
+- Artificial Intelligence (AI)
+- Office 365
 
 ## Path Context
 

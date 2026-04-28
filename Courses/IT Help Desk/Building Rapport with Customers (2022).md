@@ -28,8 +28,10 @@ tags:
   - skill/client-rapport
   - skill/customer-service
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Building%20Rapport%20with%20Customers%20(2022).md)
 
 ![Building Rapport with Customers (2022)](https://media.licdn.com/dms/image/v2/C4E0DAQGTQWOLo1WKUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568663692557?e=2147483647&amp;v=beta&amp;t=cQC5TpN-e4wnpz9MPFVZJ1iZL9w1jC02QQWhVZFoUgQ)
 
@@ -40,22 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022) | 27m | 33K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Myra Golden]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Client Rapport
-- Customer Service
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Simple Ways to Build Rapport with Customers** (2 videos)
+- **3. 2. Techniques for Maintaining Rapport** (3 videos)
+- **4. 3. Building Rapport in Specific Situations** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Does rapport really matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/does-rapport-really-matter?u=76281980)
@@ -110,7 +107,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. Simple Ways to Build Rapport with Customers
+### 2. 1. Simple Ways to Build Rapport with Customers
 
 #### Build rapport in six seconds or less
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/build-rapport-in-six-seconds-or-less-14480262?u=76281980)
@@ -240,7 +237,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 2. Techniques for Maintaining Rapport
+### 3. 2. Techniques for Maintaining Rapport
 
 #### Yield to customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/yield-to-customers-14476332?u=76281980)
@@ -439,7 +436,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Building Rapport in Specific Situations
+### 4. 3. Building Rapport in Specific Situations
 
 #### End customer interactions with a fond farewell
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/end-customer-interactions-with-a-fond-farewell-14479289?u=76281980)
@@ -764,7 +761,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Start, stop, continue exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/start-stop-continue-exercise-14481266?u=76281980)
@@ -807,6 +804,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Myra Golden]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Client Rapport
+- Customer Service
 
 ## Path Context
 

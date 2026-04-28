@@ -31,8 +31,10 @@ tags:
   - skill/amazon-web-services-aws
   - skill/system-monitoring
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS-%20Monitoring%2C%20Logging%2C%20and%20Remediation%20(2021).md)
 
 ![AWS: Monitoring, Logging, and Remediation (2021)](https://media.licdn.com/dms/image/v2/C560DAQEjfTWkFZh_ig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627498422761?e=2147483647&amp;v=beta&amp;t=j3ifch3k7efTJip2URw5xJ00HNxCNIRQvBaNUnzL6BY)
 
@@ -43,18 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021) | 1h 40m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shyam Raj]]
-
-## Skills Covered
-
-- Amazon Web Services (AWS)
-- System Monitoring
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. AWS CloudWatch and CloudTrail** (8 videos)
+- **3. 2. Configure Notifications** (3 videos)
+- **4. 3. AWS Config** (3 videos)
+- **5. 4. Taking Action** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Monitoring, logging, and remediation in AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980)
@@ -100,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. AWS CloudWatch and CloudTrail
+### 2. 1. AWS CloudWatch and CloudTrail
 
 #### Review monitoring concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/review-monitoring-concepts?u=76281980)
@@ -1247,7 +1249,7 @@ created: 2026-04-21
 > **Analogies:** such as (1), for example (1)
 
 
-### 2. Configure Notifications
+### 3. 2. Configure Notifications
 
 #### Configure Amazon SNS notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-sns-notifications?u=76281980)
@@ -1518,7 +1520,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 3. AWS Config
+### 4. 3. AWS Config
 
 #### Introduction to AWS Config
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980)
@@ -1882,7 +1884,7 @@ created: 2026-04-21
 > **Analogies:** for example (1), imagine (1)
 
 
-### 4. Taking Action
+### 5. 4. Taking Action
 
 #### Introduction to Amazon EventBridge
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980)
@@ -2483,7 +2485,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps with AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/next-steps-with-aws?u=76281980)
@@ -2510,6 +2512,15 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Shyam Raj]]
+
+## Skills Covered
+
+- Amazon Web Services (AWS)
+- System Monitoring
 
 ## Path Context
 

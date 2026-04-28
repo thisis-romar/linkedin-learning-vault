@@ -21,8 +21,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Memory%2C%20Pointers%2C%20and%20Garbage%20Collection.md)
 
 ![Programming Foundations: Memory, Pointers, and Garbage Collection](https://media.licdn.com/dms/image/v2/C4D0DAQFbN4uqlWyxgg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663000615486?e=2147483647&amp;v=beta&amp;t=JfkDQ6JgmswOu21E5DKAT2zPxX5DSIwVq-SIFD23bJ8)
 
@@ -33,13 +35,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection) | 2h 31m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Maaike van Putten]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Memory Management Concepts** (9 videos)
+- **3. 2. Memory Management in Code** (5 videos)
+- **4. 3. Memory Leaks and Best Practices** (4 videos)
+- **5. Glossaries** (0 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/getting-started-with-memory-management?u=76281980)
@@ -132,7 +139,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Memory Management Concepts
+### 2. 1. Memory Management Concepts
 
 #### What is memory?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980)
@@ -1004,7 +1011,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Memory Management in Code
+### 3. 2. Memory Management in Code
 
 #### The C way: Allocating memory
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-allocating-memory?u=76281980)
@@ -1595,7 +1602,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Memory Leaks and Best Practices
+### 4. 3. Memory Leaks and Best Practices
 
 #### What are memory leaks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-are-memory-leaks?u=76281980)
@@ -2202,10 +2209,10 @@ created: 2026-04-21
 > **Versions:** 16.6 (1)
 
 
-### Glossaries
+### 5. Glossaries
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps in memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980)
@@ -2252,6 +2259,10 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Maaike van Putten]]
 
 ## Path Context
 

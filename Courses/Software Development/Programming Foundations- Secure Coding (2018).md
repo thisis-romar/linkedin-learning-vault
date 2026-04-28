@@ -21,8 +21,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Secure%20Coding%20(2018).md)
 
 ![Programming Foundations: Secure Coding (2018)](https://media.licdn.com/dms/image/v2/C4E0DAQHz_x3XQit9Gw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665661027?e=2147483647&amp;v=beta&amp;t=vJbz7MiTx8N0DalQyWnlCRE2Xdyu_GnLxTdQp3WQz7k)
 
@@ -33,13 +35,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018) | 2h 36m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Frank P Moley III]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Security and Risk Overview** (5 videos)
+- **3. 2. Web Client Server Interaction Code Issues** (3 videos)
+- **4. 3. Thick App and Client-Server Interaction Issues** (8 videos)
+- **5. 4. Crypto and Security Misuse Issues** (3 videos)
+- **6. 5. Security in the SDLC** (5 videos)
+- **7. Glossaries** (0 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Implement secure code with your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980)
@@ -109,7 +118,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Security and Risk Overview
+### 2. 1. Security and Risk Overview
 
 #### The goal of secure coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980)
@@ -426,7 +435,7 @@ created: 2026-04-21
 > **Speakers:** - documenting (1)
 
 
-### 2. Web Client Server Interaction Code Issues
+### 3. 2. Web Client Server Interaction Code Issues
 
 #### Input validation issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980)
@@ -680,7 +689,7 @@ created: 2026-04-21
 > **Speakers:** - session (1)
 
 
-### 3. Thick App and Client-Server Interaction Issues
+### 4. 3. Thick App and Client-Server Interaction Issues
 
 #### Error handling issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/error-handling-issues?u=76281980)
@@ -1228,7 +1237,7 @@ created: 2026-04-21
 > **Speakers:** - dependency (1)
 
 
-### 4. Crypto and Security Misuse Issues
+### 5. 4. Crypto and Security Misuse Issues
 
 #### Authentication and password issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980)
@@ -1491,7 +1500,7 @@ created: 2026-04-21
 > **Speakers:** - cryptography (1)
 
 
-### 5. Security in the SDLC
+### 6. 5. Security in the SDLC
 
 #### Embrace security in design
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980)
@@ -1792,10 +1801,10 @@ created: 2026-04-21
 > **Speakers:** - security (1)
 
 
-### Glossaries
+### 7. Glossaries
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/next-steps?u=76281980)
@@ -1852,6 +1861,10 @@ created: 2026-04-21
 > **Documentation:** stack overflow (1)
 > **Speakers:** - throughout (1)
 
+
+## Instructor
+
+- [[Frank P Moley III]]
 
 ## Path Context
 

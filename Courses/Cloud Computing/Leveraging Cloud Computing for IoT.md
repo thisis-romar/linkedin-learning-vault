@@ -22,8 +22,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Leveraging%20Cloud%20Computing%20for%20IoT.md)
 
 ![Leveraging Cloud Computing for IoT](https://media.licdn.com/dms/image/v2/C4E0DAQGdM23RWl1vNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576086606650?e=2147483647&amp;v=beta&amp;t=f_3ixjiJK8iK424NlOeMDgIcwL8XwYRuabKgOEZ4NsE)
 
@@ -34,13 +36,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot) | 1h 28m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Linthicum]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. IoT Basics** (5 videos)
+- **3. 2. IoT in the Cloud Use Cases** (5 videos)
+- **4. 3. Amazon Web Service IoT Platform** (5 videos)
+- **5. 4. Microsoft Azure IoT Hub** (5 videos)
+- **6. 5. IoT on the Cloud: Solutions Walkthrough** (5 videos)
+- **7. 6. Other Considerations** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Intro to Internet of Things (IoT) on cloud platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/intro-to-internet-of-things-iot-on-cloud-platforms-23421633?u=76281980)
@@ -93,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. IoT Basics
+### 2. 1. IoT Basics
 
 #### What is an IoT device?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980)
@@ -398,7 +407,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. IoT in the Cloud Use Cases
+### 3. 2. IoT in the Cloud Use Cases
 
 #### Healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980)
@@ -660,7 +669,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Amazon Web Service IoT Platform
+### 4. 3. Amazon Web Service IoT Platform
 
 #### Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980)
@@ -951,7 +960,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Microsoft Azure IoT Hub
+### 5. 4. Microsoft Azure IoT Hub
 
 #### Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980)
@@ -1229,7 +1238,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. IoT on the Cloud: Solutions Walkthrough
+### 6. 5. IoT on the Cloud: Solutions Walkthrough
 
 #### Requirement
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980)
@@ -1496,7 +1505,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Other Considerations
+### 7. 6. Other Considerations
 
 #### Performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980)
@@ -1762,7 +1771,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Addional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980)
@@ -1840,6 +1849,10 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 
+
+## Instructor
+
+- [[David Linthicum]]
 
 ## Path Context
 

@@ -22,8 +22,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/IoT%20Foundations-%20Standards%20and%20Ecosystems.md)
 
 ![IoT Foundations: Standards and Ecosystems](https://media.licdn.com/dms/image/v2/C560DAQGBuSI2uP5gNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638813310048?e=2147483647&amp;v=beta&amp;t=_nUoTFC5xAm7jpKIdKF85FWEoMwi0mPkLIxjJ8q1pbM)
 
@@ -34,13 +36,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225) | 1h
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Zahraa Khalil]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. IoT Overview** (9 videos)
+- **3. 2. IoT Ecosystem** (5 videos)
+- **4. 3. IoT Standards** (7 videos)
+- **5. 4. IoT Challenges** (4 videos)
+- **6. 5. IoT in Industrial Automation** (4 videos)
+- **7. 6. IoT in Community: Smart Cities** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The foundations of IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/the-foundations-of-iot-22850846?u=76281980)
@@ -81,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. IoT Overview
+### 2. 1. IoT Overview
 
 #### Early IoT definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/early-iot-definitions?u=76281980)
@@ -350,7 +359,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. IoT Ecosystem
+### 3. 2. IoT Ecosystem
 
 #### The IoT ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/the-iot-ecosystem?u=76281980)
@@ -513,7 +522,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. IoT Standards
+### 4. 3. IoT Standards
 
 #### Standards organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/standards-organizations?u=76281980)
@@ -789,7 +798,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. IoT Challenges
+### 5. 4. IoT Challenges
 
 #### Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/security?u=76281980)
@@ -932,7 +941,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. IoT in Industrial Automation
+### 6. 5. IoT in Industrial Automation
 
 #### Overview of IoT ecosystem in industrial automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/overview-of-iot-ecosystem-in-industrial-automation?u=76281980)
@@ -1080,7 +1089,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. IoT in Community: Smart Cities
+### 7. 6. IoT in Community: Smart Cities
 
 #### Smart cities
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/smart-cities?u=76281980)
@@ -1198,7 +1207,7 @@ created: 2026-04-21
 > **Speakers:** - san (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/next-steps?u=76281980)
@@ -1222,6 +1231,10 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [zahraa] (1)
 
+
+## Instructor
+
+- [[Zahraa Khalil]]
 
 ## Path Context
 

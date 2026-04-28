@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/azure-ai-foundry
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20RAG%20Solutions%20with%20Azure%20AI%20Foundry%20(Formerly%20Azure%20AI%20Studio).md)
 
 ![Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)](https://media.licdn.com/dms/image/v2/D560DAQEFLbl9QHJO2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722011200013?e=2147483647&amp;v=beta&amp;t=ZtwuRFzr9WRj02hKOeLknDCG62pvDR7f8VjyNqCjiKs)
 
@@ -48,20 +50,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio) | 1h 24m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ziggy Zulueta]]
-
-## Skills Covered
-
-- Azure AI Studio
-- Retrieval-Augmented Generation (RAG)
-- Artificial Intelligence (AI)
-- Azure AI Foundry
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Fundamentals of RAG** (5 videos)
+- **3. 2. Introduction to Azure AI Foundry** (3 videos)
+- **4. 3. Setting Up Azure AI Foundry** (5 videos)
+- **5. 4. Creating an Index for RAG Using Azure** (4 videos)
+- **6. 5. Introduction to Azure Prompt Flow** (4 videos)
+- **7. 6. Deploying a RAG Solution** (3 videos)
+- **8. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Create a RAG solution with little coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-RAG-solution-with-little-coding?u=76281980)
@@ -88,7 +90,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Fundamentals of RAG
+### 2. 1. Fundamentals of RAG
 
 #### The basics of RAG: Adding custom data to your LLM
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980)
@@ -401,7 +403,7 @@ created: 2026-04-21
 > **Tools:** command line (1)
 
 
-### 2. Introduction to Azure AI Foundry
+### 3. 2. Introduction to Azure AI Foundry
 
 #### Azure AI Foundry overview: Deploy at scale in a safe, secure, and responsible way
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980)
@@ -641,7 +643,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 3. Setting Up Azure AI Foundry
+### 4. 3. Setting Up Azure AI Foundry
 
 #### Understanding content filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980)
@@ -980,7 +982,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 4. Creating an Index for RAG Using Azure
+### 5. 4. Creating an Index for RAG Using Azure
 
 #### Creating an index using Azure AI Foundry
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980)
@@ -1222,7 +1224,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 5. Introduction to Azure Prompt Flow
+### 6. 5. Introduction to Azure Prompt Flow
 
 #### Understanding prompt flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980)
@@ -1449,7 +1451,7 @@ created: 2026-04-21
 > **UI Navigation:** select the (1)
 
 
-### 6. Deploying a RAG Solution
+### 7. 6. Deploying a RAG Solution
 
 #### Deploying the RAG solution using prompt flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980)
@@ -1634,7 +1636,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980)
@@ -1786,6 +1788,17 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Env Vars:** rag (1)
 
+
+## Instructor
+
+- [[Ziggy Zulueta]]
+
+## Skills Covered
+
+- Azure AI Studio
+- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence (AI)
+- Azure AI Foundry
 
 ## Path Context
 

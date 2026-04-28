@@ -24,8 +24,10 @@ tags:
   - topic/network-and-system-administration
   - skill/windows-server
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%20Server%202019%20Essential%20Training.md)
 
 ![Windows Server 2019 Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQEFR5kAepYKVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567114990426?e=2147483647&amp;v=beta&amp;t=C4CYHAn-e7QI0pQfNpYafbsRB50NUATJf_gsbn5RRMc)
 
@@ -36,13 +38,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training) | Intermediate | 39K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Windows Server
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started** (7 videos)
+- **3. 2. Management and Administration** (6 videos)
+- **4. 3. Windows Server Environments** (6 videos)
+- **5. 4. Storage Solutions** (6 videos)
+- **6. 5. Identity and Access Roles** (4 videos)
+- **7. 6. Virtualization** (4 videos)
+- **8. 7. Going Forward** (2 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Exploring Windows Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980)
@@ -117,7 +127,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### When to upgrade
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980)
@@ -835,7 +845,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Management and Administration
+### 3. 2. Management and Administration
 
 #### PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980)
@@ -1477,7 +1487,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### 3. Windows Server Environments
+### 4. 3. Windows Server Environments
 
 #### Upgrading Active Directory
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980)
@@ -1950,7 +1960,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Storage Solutions
+### 5. 4. Storage Solutions
 
 #### Types of volumes
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980)
@@ -2707,7 +2717,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Identity and Access Roles
+### 6. 5. Identity and Access Roles
 
 #### Creating your own AD PKI
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980)
@@ -3014,7 +3024,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Virtualization
+### 7. 6. Virtualization
 
 #### Hyper-V in Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980)
@@ -3397,7 +3407,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 7. Going Forward
+### 8. 7. Going Forward
 
 #### Long-Term Servicing Channel vs. Semi-Annual releases
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980)
@@ -3531,7 +3541,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980)
@@ -3570,6 +3580,10 @@ created: 2026-04-21
 > **Code Keywords:** new. (1), let (1)
 > **Speakers:** - [scott] (1)
 
+
+## Skills Covered
+
+- Windows Server
 
 ## Path Context
 

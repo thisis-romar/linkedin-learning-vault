@@ -30,8 +30,10 @@ tags:
   - skill/staging-to-live
   - skill/wordpress-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress-%20Staging%20a%20Site.md)
 
 ![WordPress: Staging a Site](https://media.licdn.com/dms/image/v2/C560DAQF5achG5lqJSg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646680400511?e=2147483647&amp;v=beta&amp;t=ge3URsuajV5fWmMo9tqRLzHBxClATHqwk_P6mF9FRHc)
 
@@ -42,18 +44,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site) | 48m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Allie Nimmons]]
-
-## Skills Covered
-
-- Staging to Live
-- Wordpress Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is a WordPress Staging Site?** (3 videos)
+- **3. 2. How to Create a WordPress Staging Site with Plug-Ins** (4 videos)
+- **4. 3. How to Create a WordPress Staging Site with Local Tools** (2 videos)
+- **5. 4. How to Create a Staging Site with Hosting** (3 videos)
+- **6. 5. How to Manually Create a Staging Site** (2 videos)
+- **7. 6. Using a Staging Site** (5 videos)
+- **8. 7. Troubleshooting Common Issues with Staging Sites** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Curtain call for WordPress: Why staging your site matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/curtain-call-for-wordpress-why-staging-your-site-matters-25337663?u=76281980)
@@ -82,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - wordpress (1)
 
 
-### 1. What Is a WordPress Staging Site?
+### 2. 1. What Is a WordPress Staging Site?
 
 #### Defining a staging site
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/defining-a-staging-site?u=76281980)
@@ -204,7 +209,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. How to Create a WordPress Staging Site with Plug-Ins
+### 3. 2. How to Create a WordPress Staging Site with Plug-Ins
 
 #### WP Staging
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/wp-staging?u=76281980)
@@ -455,7 +460,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. How to Create a WordPress Staging Site with Local Tools
+### 4. 3. How to Create a WordPress Staging Site with Local Tools
 
 #### Local by Flywheel
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/local-by-flywheel?u=76281980)
@@ -574,7 +579,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. How to Create a Staging Site with Hosting
+### 5. 4. How to Create a Staging Site with Hosting
 
 #### SiteGround
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/siteground-25333732?u=76281980)
@@ -711,7 +716,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. How to Manually Create a Staging Site
+### 6. 5. How to Manually Create a Staging Site
 
 #### Warnings and precautions
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/warnings-and-precautions?u=76281980)
@@ -895,7 +900,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (2)
 
 
-### 6. Using a Staging Site
+### 7. 6. Using a Staging Site
 
 #### Staging site best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980)
@@ -1217,7 +1222,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Troubleshooting Common Issues with Staging Sites
+### 8. 7. Troubleshooting Common Issues with Staging Sites
 
 #### Caching issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/caching-issues-25339675?u=76281980)
@@ -1369,7 +1374,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/next-steps-25334693?u=76281980)
@@ -1390,6 +1395,15 @@ created: 2026-04-21
 >
 > **Speakers:** - great (1)
 
+
+## Instructor
+
+- [[Allie Nimmons]]
+
+## Skills Covered
+
+- Staging to Live
+- Wordpress Development
 
 ## Path Context
 

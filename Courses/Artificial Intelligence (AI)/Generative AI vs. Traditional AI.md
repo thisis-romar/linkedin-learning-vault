@@ -41,8 +41,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/traditional-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20vs.%20Traditional%20AI.md)
 
 ![Generative AI vs. Traditional AI](https://media.licdn.com/dms/image/v2/D4E0DAQF-8-MuR5p61g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697645643991?e=2147483647&amp;v=beta&amp;t=OT8hT8JSKHThPglPz60eIQl_FmHi6HGdUN5hvVRoSrI)
 
@@ -53,23 +55,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai) | 1h 17m | Intermediate | 2608K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Doug Rose]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- Traditional AI
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Predictive AI Architecture** (4 videos)
+- **3. 2. Generative AI Models** (5 videos)
+- **4. 3. Generative AI Architecture** (5 videos)
+- **5. 4. Improving Generative AI** (4 videos)
+- **6. 5. Generative AI Legal and Ethical Issues** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Explore generative AI vs. traditional AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/explore-generative-ai-vs-traditional-ai-25810008?u=76281980)
@@ -96,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 1. Predictive AI Architecture
+### 2. 1. Predictive AI Architecture
 
 #### Machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/machine-learning-25805087?u=76281980)
@@ -384,7 +382,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Generative AI Models
+### 3. 2. Generative AI Models
 
 #### Foundation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/foundation-models-25807058?u=76281980)
@@ -799,7 +797,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Generative AI Architecture
+### 4. 3. Generative AI Architecture
 
 #### Prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/prompt-engineering?u=76281980)
@@ -1195,7 +1193,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Improving Generative AI
+### 5. 4. Improving Generative AI
 
 #### Inferencing
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/inferencing?u=76281980)
@@ -1534,7 +1532,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 5. Generative AI Legal and Ethical Issues
+### 6. 5. Generative AI Legal and Ethical Issues
 
 #### Traceable decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/traceable-decision-making?u=76281980)
@@ -1915,7 +1913,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/next-steps-for-ai-25806074?u=76281980)
@@ -1952,6 +1950,20 @@ created: 2026-04-21
 > **Cross-References:** in the last (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Doug Rose]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- Traditional AI
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/responsive-web-design
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cutting-Edge%20CSS.md)
 
 ![Cutting-Edge CSS](https://media.licdn.com/dms/image/v2/C4E0DAQFYWtT8RGNRSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639417840343?e=2147483647&amp;v=beta&amp;t=Y-op1Zcu2Pu-xY3WKsdipwiBGQLFRMEdQzlgQZzC87I)
 
@@ -43,23 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css) | 24m | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/cutting-edge-css-2894333)
-
-## Skills Covered
-
-- Responsive Web Design
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Core Principles** (3 videos)
+- **3. 2. Selectors** (3 videos)
+- **4. 3. Layout** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Cutting-edge CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/cutting-edge-css?u=76281980)
@@ -118,7 +114,7 @@ created: 2026-04-21
 > **Non-Speech:** (energetic music) (1)
 
 
-### 1. Core Principles
+### 2. 1. Core Principles
 
 #### What are logical properties?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/what-are-logical-properties-14445691?u=76281980)
@@ -295,7 +291,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Selectors
+### 3. 2. Selectors
 
 #### Counting with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/counting-with-css?u=76281980)
@@ -521,7 +517,7 @@ created: 2026-04-21
 > **Non-Speech:** (soft music) (1)
 
 
-### 3. Layout
+### 4. 3. Layout
 
 #### How the clamp() function works
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/how-the-clamp-function-works?u=76281980)
@@ -701,7 +697,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/next-steps?u=76281980)
@@ -728,6 +724,20 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - [morten] (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/cutting-edge-css-2894333)
+
+## Skills Covered
+
+- Responsive Web Design
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

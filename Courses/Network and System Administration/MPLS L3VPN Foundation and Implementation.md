@@ -30,8 +30,10 @@ tags:
   - skill/virtual-private-network-vpn
   - skill/multiprotocol-label-switching-mpls
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/MPLS%20L3VPN%20Foundation%20and%20Implementation.md)
 
 ![MPLS L3VPN Foundation and Implementation](https://media.licdn.com/dms/image/v2/D4E0DAQHXBVAufa-tTg/learning-public-crop_675_1200/B4EZd_.uUnH0AY-/0/1750198838835?e=2147483647&amp;v=beta&amp;t=lQeXEhNioJJr0rWHbVzr8i4SjqSSj4nUlZiX9kDhOxk)
 
@@ -42,22 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation) | 2h 3m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Arash Deljoo]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Virtual Private Network (VPN)
-- Multiprotocol Label Switching (MPLS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to MPLS and L3VPN** (4 videos)
+- **3. 2. MPLS Fundamentals** (5 videos)
+- **4. 3. L3VPN Core Concepts** (5 videos)
+- **5. 4. Designing MPLS L3VPN** (5 videos)
+- **6. 5. Implementing MPLS L3VPN** (6 videos)
+- **7. 6. Advanced Topics and Wrap-Up** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Foundation and implementation
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-foundation-and-implementation?u=76281980)
@@ -85,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to MPLS and L3VPN
+### 2. 1. Introduction to MPLS and L3VPN
 
 #### What is MPLS? Understanding the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980)
@@ -411,7 +411,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 2. MPLS Fundamentals
+### 3. 2. MPLS Fundamentals
 
 #### MPLS architecture and components
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980)
@@ -814,7 +814,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. L3VPN Core Concepts
+### 4. 3. L3VPN Core Concepts
 
 #### What makes L3VPN unique? VRFs and route distinguishers
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980)
@@ -1257,7 +1257,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Designing MPLS L3VPN
+### 5. 4. Designing MPLS L3VPN
 
 #### Planning an MPLS L3VPN deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980)
@@ -1674,7 +1674,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 5. Implementing MPLS L3VPN
+### 6. 5. Implementing MPLS L3VPN
 
 #### Case study: Step-by-step L3VPN deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980)
@@ -2359,7 +2359,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Advanced Topics and Wrap-Up
+### 7. 6. Advanced Topics and Wrap-Up
 
 #### Inter-AS L3VPN: Connecting multiple providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980)
@@ -2742,7 +2742,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Course summary and next steps for learners
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980)
@@ -2840,6 +2840,19 @@ created: 2026-04-21
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Arash Deljoo]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Virtual Private Network (VPN)
+- Multiprotocol Label Switching (MPLS)
 
 ## Path Context
 

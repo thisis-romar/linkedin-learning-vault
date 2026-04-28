@@ -30,8 +30,10 @@ tags:
   - skill/asp-net-core
   - skill/angular
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Angular%20and%20ASP.NET%20Core%20Applications.md)
 
 ![Building Angular and ASP.NET Core Applications](https://media.licdn.com/dms/image/v2/C4E0DAQHLAL3kLeQiyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1574791870697?e=2147483647&amp;v=beta&amp;t=-Gi80_DsezuAgvv88arZ9AWpsvOdzJryFJ_nlG1iVEQ)
 
@@ -42,22 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications) | 2h 56m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ervis Trupja]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- ASP.NET Core
-- Angular
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Setting Up the App Infrastructure** (4 videos)
+- **3. 2. Setting Up Web API** (7 videos)
+- **4. 3. Getting Started with Angular** (12 videos)
+- **5. 4. Implementing NgRx to an Existing Angular App** (7 videos)
+- **6. 5. Implementing Authentication in Your Angular App** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980)
@@ -122,7 +121,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Setting Up the App Infrastructure
+### 2. 1. Setting Up the App Infrastructure
 
 #### Demo application overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/demo-application-overview?u=76281980)
@@ -381,7 +380,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Setting Up Web API
+### 3. 2. Setting Up Web API
 
 #### Creating data models
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/creating-data-models?u=76281980)
@@ -984,7 +983,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 3. Getting Started with Angular
+### 4. 3. Getting Started with Angular
 
 #### Angular key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980)
@@ -2573,7 +2572,7 @@ created: 2026-04-21
 > **Tools:** terminal (2)
 
 
-### 4. Implementing NgRx to an Existing Angular App
+### 5. 4. Implementing NgRx to an Existing Angular App
 
 #### Why NgRx?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980)
@@ -3147,7 +3146,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Implementing Authentication in Your Angular App
+### 6. 5. Implementing Authentication in Your Angular App
 
 #### Setting up Auth0
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980)
@@ -3490,7 +3489,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/where-to-go-next?u=76281980)
@@ -3523,6 +3522,19 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Ervis Trupja]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- ASP.NET Core
+- Angular
 
 ## Path Context
 

@@ -22,8 +22,10 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20Agentic%20AI-%20Building%20AI%20Agents%20with%20LlamaIndex.md)
 
 ![Hands-On Agentic AI: Building AI Agents with LlamaIndex](https://media.licdn.com/dms/image/v2/D4D0DAQGxSwR9TaIogg/learning-public-crop_675_1200/B4DZSQi2mXHkAY-/0/1737591844026?e=2147483647&amp;v=beta&amp;t=Rw0qlNICyBQFSAihmmUvCIW9pxOnht5S31u3CUkWEeI)
 
@@ -34,13 +36,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex) | 1h 10m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Agentic Concepts in LlamaIndex** (5 videos)
+- **3. 2. Build a Healthcare Assistant Agent** (5 videos)
+- **4. 3. Build a Summarization Agent** (3 videos)
+- **5. 4. Workflow Concepts in LlamaIndex** (5 videos)
+- **6. 5. Build a Doctor Scheduling Assistant with Workflows** (6 videos)
+- **7. 6. Multi-agent Systems with LlamaIndex** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/introduction-to-the-course-25230382?u=76281980)
@@ -102,7 +111,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Agentic Concepts in LlamaIndex
+### 2. 1. Agentic Concepts in LlamaIndex
 
 #### Agentic AI: A review
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980)
@@ -411,7 +420,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Build a Healthcare Assistant Agent
+### 3. 2. Build a Healthcare Assistant Agent
 
 #### What is ReAct?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/what-is-react-25231389?u=76281980)
@@ -681,7 +690,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Build a Summarization Agent
+### 4. 3. Build a Summarization Agent
 
 #### Summarization agent design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/summarization-agent-design-25231388?u=76281980)
@@ -868,7 +877,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Workflow Concepts in LlamaIndex
+### 5. 4. Workflow Concepts in LlamaIndex
 
 #### Intro to LlamaIndex workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980)
@@ -1278,7 +1287,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Build a Doctor Scheduling Assistant with Workflows
+### 6. 5. Build a Doctor Scheduling Assistant with Workflows
 
 #### Doctor scheduling assistant: Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980)
@@ -1691,7 +1700,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Multi-agent Systems with LlamaIndex
+### 7. 6. Multi-agent Systems with LlamaIndex
 
 #### Multi-agent systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-systems-25230378?u=76281980)
@@ -1914,7 +1923,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/next-steps-25230379?u=76281980)
@@ -1944,6 +1953,10 @@ created: 2026-04-21
 > **Env Vars:** rag (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
 
 ## Path Context
 

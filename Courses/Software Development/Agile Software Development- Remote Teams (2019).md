@@ -32,8 +32,10 @@ tags:
   - topic/devops
   - skill/agile-software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Agile%20Software%20Development-%20Remote%20Teams%20(2019).md)
 
 ![Agile Software Development: Remote Teams (2019)](https://media.licdn.com/dms/image/v2/D560DAQF9vZn-1sn78Q/learning-public-crop_675_1200/B56ZrBOK43HYAY-/0/1764178309251?e=2147483647&amp;v=beta&amp;t=vYl9oTScmclGVTN-a2Uj7DsxdPdRbZ7M0U3JpQi3R7k)
 
@@ -44,21 +46,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019) | 1h 41m | Intermediate | 259K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Andrea Goulet]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Agile Software Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Remote Working** (3 videos)
+- **3. 2. Collaboration and Conversations** (9 videos)
+- **4. 3. Technical Excellence & Security** (7 videos)
+- **5. 4. Deploying Early and Often** (3 videos)
+- **6. 5. Hiring, Planning, and Measuring** (7 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Remote-first culture for agile teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980)
@@ -121,7 +121,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Remote Working
+### 2. 1. Remote Working
 
 #### The rise of remote working
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980)
@@ -340,7 +340,7 @@ created: 2026-04-21
 > **Speakers:** - about (1)
 
 
-### 2. Collaboration and Conversations
+### 3. 2. Collaboration and Conversations
 
 #### Remote working models
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980)
@@ -1048,7 +1048,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 3. Technical Excellence & Security
+### 4. 3. Technical Excellence & Security
 
 #### Virtual private networks (VPNs) and firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/virtual-private-networks-vpns-and-firewalls?u=76281980)
@@ -1511,7 +1511,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Deploying Early and Often
+### 5. 4. Deploying Early and Often
 
 #### Atomic commits: One change, one commit
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/atomic-commits-one-change-one-commit?u=76281980)
@@ -1698,7 +1698,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Hiring, Planning, and Measuring
+### 6. 5. Hiring, Planning, and Measuring
 
 #### Creating job descriptions for remote positions
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980)
@@ -2194,7 +2194,7 @@ created: 2026-04-21
 > **Speakers:** - regular (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980)
@@ -2228,6 +2228,18 @@ created: 2026-04-21
 > **Definitions:** known as (1)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Andrea Goulet]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Agile Software Development
 
 ## Path Context
 

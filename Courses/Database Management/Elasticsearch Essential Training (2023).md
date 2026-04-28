@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/elasticsearch
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Elasticsearch%20Essential%20Training%20(2023).md)
 
 ![Elasticsearch Essential Training (2023)](https://media.licdn.com/dms/image/v2/D4D0DAQFQJGb3OwvKEQ/learning-public-crop_675_1200/B4DZX8rOjyHAAc-/0/1743700945448?e=2147483647&amp;v=beta&amp;t=hEAQ0rkVxHmzs45U1iyjYQAYvmfpLwxsmgc--r7z7mY)
 
@@ -41,21 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023) | 1h 40m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ben Sullins]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Elasticsearch
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Overview** (5 videos)
+- **3. 2. Setup** (2 videos)
+- **4. 3. Loading Data** (3 videos)
+- **5. 4. Querying Data** (3 videos)
+- **6. 5. Analyzing Your Data** (3 videos)
+- **7. 6. Presenting Your Insights** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Explore Elasticsearch for your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/explore-elasticsearch-for-your-data?u=76281980)
@@ -103,7 +104,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 1. Overview
+### 2. 1. Overview
 
 #### Elasticsearch origins
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980)
@@ -347,7 +348,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Setup
+### 3. 2. Setup
 
 #### Running Elasticsearch in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980)
@@ -567,7 +568,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 3. Loading Data
+### 4. 3. Loading Data
 
 #### Bulk loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980)
@@ -1132,7 +1133,7 @@ created: 2026-04-21
 > **API Endpoints:** get  (3)
 
 
-### 4. Querying Data
+### 5. 4. Querying Data
 
 #### Simple queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980)
@@ -1709,7 +1710,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 5. Analyzing Your Data
+### 6. 5. Analyzing Your Data
 
 #### Basic aggregations
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/basic-aggregations?u=76281980)
@@ -2173,7 +2174,7 @@ created: 2026-04-21
 > **Cross-References:** coming up (1)
 
 
-### 6. Presenting Your Insights
+### 7. 6. Presenting Your Insights
 
 #### Kibana overview and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980)
@@ -2651,7 +2652,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps with Elasticsearch
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980)
@@ -2681,6 +2682,18 @@ created: 2026-04-21
 > **Env Vars:** sql (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Ben Sullins]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Elasticsearch
 
 ## Path Context
 

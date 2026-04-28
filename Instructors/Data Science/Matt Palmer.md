@@ -11,8 +11,10 @@ tags:
   - instructor
   - topic/data-science
   - topic/devops
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Data%20Science/Matt%20Palmer.md)
 
 # Matt Palmer
 

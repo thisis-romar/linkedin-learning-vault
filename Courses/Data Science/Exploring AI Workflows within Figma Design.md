@@ -33,8 +33,10 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Exploring%20AI%20Workflows%20within%20Figma%20Design.md)
 
 ![Exploring AI Workflows within Figma Design](https://media.licdn.com/dms/image/v2/D4E0DAQE0Sb6uLox8sA/learning-public-crop_675_1200/B4EZdqJERzHgAo-/0/1749832451429?e=2147483647&amp;v=beta&amp;t=VuAmt8Ss0W0RxCFxdnPSdFHrT6kKluxFmi2ZQ4F2cT8)
 
@@ -45,24 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design) | 56m | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joseph Labrecque]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- User Experience (UX)
-- User Experience Design (UED)
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Generating Content and Interactions** (7 videos)
+- **3. 2. Modifying and Organizing Content** (6 videos)
+- **4. 3. AI in FigJam and Figma Slides** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Explore AI workflows with Figma Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980)
@@ -207,7 +202,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Generating Content and Interactions
+### 2. 1. Generating Content and Interactions
 
 #### Explore the Figma Design project
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-the-figma-design-project?u=76281980)
@@ -710,7 +705,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Modifying and Organizing Content
+### 3. 2. Modifying and Organizing Content
 
 #### Rename layers in a Figma Design file
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980)
@@ -1047,7 +1042,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. AI in FigJam and Figma Slides
+### 4. 3. AI in FigJam and Figma Slides
 
 #### Use the generate feature in FigJam
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-generate-feature-in-figjam?u=76281980)
@@ -1309,7 +1304,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/next-steps?u=76281980)
@@ -1332,6 +1327,21 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Joseph Labrecque]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- User Experience (UX)
+- User Experience Design (UED)
+- Artificial Intelligence (AI)
 
 ## Path Context
 

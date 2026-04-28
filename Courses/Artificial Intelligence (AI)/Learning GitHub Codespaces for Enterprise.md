@@ -32,8 +32,10 @@ tags:
   - skill/codespaces
   - skill/github
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20GitHub%20Codespaces%20for%20Enterprise.md)
 
 ![Learning GitHub Codespaces for Enterprise](https://media.licdn.com/dms/image/v2/D4D0DAQGuwF3dwQt0KA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244953406?e=2147483647&amp;v=beta&amp;t=2IogZ5daNFcue-YI3-KQyCkGupoBIrhtKSl3BxB00ic)
 
@@ -44,23 +46,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise) | 1h 28m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fikayo Adepoju]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/github-codespaces-2479226)
-
-## Skills Covered
-
-- Codespaces
-- GitHub
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started with Codespaces** (5 videos)
+- **3. 2. Configuring Your Codespaces** (6 videos)
+- **4. 3. Developing in a Codespace** (5 videos)
+- **5. 4. Advanced Concepts** (5 videos)
+- **6. 5. Using Codespaces with GitHub Models** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Bring Codespaces to your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980)
@@ -168,7 +166,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 1. Getting Started with Codespaces
+### 2. 1. Getting Started with Codespaces
 
 #### What is GitHub Codespaces?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980)
@@ -534,7 +532,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 2. Configuring Your Codespaces
+### 3. 2. Configuring Your Codespaces
 
 #### Introduction to dev containers and devcontainer.json
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980)
@@ -977,7 +975,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Developing in a Codespace
+### 4. 3. Developing in a Codespace
 
 #### A tour of the codespace editor
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980)
@@ -1349,7 +1347,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 4. Advanced Concepts
+### 5. 4. Advanced Concepts
 
 #### Connecting to Codespaces from VSCode
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980)
@@ -1769,7 +1767,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 5. Using Codespaces with GitHub Models
+### 6. 5. Using Codespaces with GitHub Models
 
 #### Using Github Models with Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980)
@@ -2154,7 +2152,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (2), scroll down (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980)
@@ -2192,6 +2190,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [fikayo] (1)
 
+
+## Instructor
+
+- [[Fikayo Adepoju]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/github-codespaces-2479226)
+
+## Skills Covered
+
+- Codespaces
+- GitHub
 
 ## Path Context
 

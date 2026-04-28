@@ -26,8 +26,10 @@ tags:
   - topic/web-development
   - skill/wordpress
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Troubleshoot%20and%20Repair%20Your%20WordPress%20Website.md)
 
 ![Troubleshoot and Repair Your WordPress Website](https://media.licdn.com/dms/image/v2/C560DAQHkdEfwub_Faw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650382200989?e=2147483647&amp;v=beta&amp;t=r2T6KuLmFnaau9HXf3XcDN64iPOgpfR62imJNwjfbj8)
 
@@ -38,17 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website) | 1h 15m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Casabona]]
-
-## Skills Covered
-
-- WordPress
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Ahead of Problems** (6 videos)
+- **3. 2. Common Troubleshooting Steps** (6 videos)
+- **4. 3. Common Problems and Solutions** (7 videos)
+- **5. 4. Problems That Require Working with Your Server** (6 videos)
+- **6. 5. Advanced Problems** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The pros and cons of running a WordPress site
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980)
@@ -163,7 +167,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Ahead of Problems
+### 2. 1. Getting Ahead of Problems
 
 #### Preparing your WordPress site for problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/preparing-your-wordpress-site-for-problems?u=76281980)
@@ -554,7 +558,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Common Troubleshooting Steps
+### 3. 2. Common Troubleshooting Steps
 
 #### Disabling plugins to find the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980)
@@ -817,7 +821,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Common Problems and Solutions
+### 4. 3. Common Problems and Solutions
 
 #### The dreaded white screen of death
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-dreaded-white-screen-of-death?u=76281980)
@@ -1205,7 +1209,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Problems That Require Working with Your Server
+### 5. 4. Problems That Require Working with Your Server
 
 #### General web server errors: the 400s
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-400s?u=76281980)
@@ -1554,7 +1558,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Advanced Problems
+### 6. 5. Advanced Problems
 
 #### Unable to deliver emails/emails going to spam
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980)
@@ -1881,7 +1885,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/next-steps?u=76281980)
@@ -1913,6 +1917,14 @@ created: 2026-04-21
 > **Env Vars:** php (2)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Joe Casabona]]
+
+## Skills Covered
+
+- WordPress
 
 ## Path Context
 

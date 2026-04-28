@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/benefits-realisation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Benefits%20Realization%20Foundations.md)
 
 ![Business Benefits Realization Foundations](https://media.licdn.com/dms/image/v2/C560DAQEftwhpC1Dlaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627665194602?e=2147483647&amp;v=beta&amp;t=XWRiVdzQYGU5HRbUKxgwhI58zVgVCxhx2eMyS-u8srE)
 
@@ -40,21 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations) | 1h 7m | Beginner | 40K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Laura Paton]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Benefits Realisation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Basics of Business Benefits Realization** (3 videos)
+- **3. 2. Benefits Realization across the Enterprise** (3 videos)
+- **4. 3. The Business Benefits Realization Life Cycle** (5 videos)
+- **5. 4. Key Roles in Business Benefits Realization** (4 videos)
+- **6. 5. Business Benefits Realization Deliverables** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Exploring the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/exploring-the-basics?u=76281980)
@@ -91,7 +91,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. The Basics of Business Benefits Realization
+### 2. 1. The Basics of Business Benefits Realization
 
 #### What is business benefits realization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/what-is-business-benefits-realization?u=76281980)
@@ -303,7 +303,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 2. Benefits Realization across the Enterprise
+### 3. 2. Benefits Realization across the Enterprise
 
 #### Vision, mission, goals, objectives, and strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/vision-mission-goals-objectives-and-strategy?u=76281980)
@@ -499,7 +499,7 @@ created: 2026-04-21
 > **Speakers:** - even (1)
 
 
-### 3. The Business Benefits Realization Life Cycle
+### 4. 3. The Business Benefits Realization Life Cycle
 
 #### Step one: Identifying benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-one-identifying-benefits?u=76281980)
@@ -860,7 +860,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Key Roles in Business Benefits Realization
+### 5. 4. Key Roles in Business Benefits Realization
 
 #### Sponsor role in business benefits realization
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/sponsor-role-in-business-benefits-realization?u=76281980)
@@ -1087,7 +1087,7 @@ created: 2026-04-21
 > **Speakers:** - on (1)
 
 
-### 5. Business Benefits Realization Deliverables
+### 6. 5. Business Benefits Realization Deliverables
 
 #### Creating a business benefits roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-roadmap?u=76281980)
@@ -1432,7 +1432,7 @@ created: 2026-04-21
 > **Speakers:** - deciding (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Business benefits realization key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/business-benefits-realization-key-takeaways?u=76281980)
@@ -1471,6 +1471,18 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Laura Paton]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Benefits Realisation
 
 ## Path Context
 

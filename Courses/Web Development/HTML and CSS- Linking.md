@@ -30,34 +30,31 @@ tags:
   - skill/html
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML%20and%20CSS-%20Linking.md)
 
 ![HTML and CSS: Linking](https://media.licdn.com/dms/image/v2/C4E0DAQHSwnFEfxhRKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614870907082?e=2147483647&amp;v=beta&amp;t=UmQ-QeNhUFYJQxuQsWtfNJZwaH8_A0NJhsQwr8sm-N4)
 
 # HTML and CSS: Linking
 
-> Hyperlinks are the foundation of the World Wide Web, but they come in many different flavors.  Do you want to link to a specific point in a document?  Make a phone call, or send an email?  Link from images or dedicated navigation bars instead of text?  In this course, instructor Jen Kramer gives you all the tools you need to make those tasks easy. Jen goes over basic links, linking to different fi
+> Hyperlinks are the foundation of the World Wide Web, but they come in many different flavors. Do you want to link to a specific point in a document? Make a phone call, or send an email? Link from images or dedicated navigation bars instead of text? In this course, instructor Jen Kramer gives you all the tools you need to make those tasks easy. Jen goes over basic links, linking to different files 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking) | 1h 44m | Intermediate | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jen Kramer]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- HTML
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Links in HTML** (10 videos)
+- **3. 2. Styling Links with CSS** (6 videos)
+- **4. 3. Maintaining Links** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Hyperlinks: The glue connecting the World Wide Web
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/hyperlinks-the-glue-connecting-the-world-wide-web-23410801?u=76281980)
@@ -86,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - links (1)
 
 
-### 1. Links in HTML
+### 2. 1. Links in HTML
 
 #### The basic link
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980)
@@ -1109,7 +1106,7 @@ created: 2026-04-21
 > **Analogies:** kind of like (1)
 
 
-### 2. Styling Links with CSS
+### 3. 2. Styling Links with CSS
 
 #### Styling links and link states
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980)
@@ -1784,7 +1781,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Maintaining Links
+### 4. 3. Maintaining Links
 
 #### Checking sites for link rot and broken links
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980)
@@ -2249,7 +2246,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980)
@@ -2292,6 +2289,19 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - [jen] (1)
 
+
+## Instructor
+
+- [[Jen Kramer]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- HTML
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

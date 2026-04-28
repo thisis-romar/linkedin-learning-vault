@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-adversarial-networks-gans
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Generative%20Adversarial%20Networks%20(GANs).md)
 
 ![Introduction to Generative Adversarial Networks (GANs)](https://media.licdn.com/dms/image/v2/D4E0DAQHJKIXSiJjxMg/learning-public-crop_675_1200/B4EZikYWgPGwAY-/0/1755104504794?e=2147483647&amp;v=beta&amp;t=OPXs5dlkj4EvBSdjHTjVqHD33ezT23ZiCIpnsHjVItQ)
 
@@ -46,23 +48,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306) | 1h 1m | Beginner | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gwendolyn Stripling]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-generative-adversarial-networks-gans-3963173)
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- Generative Adversarial Networks (GANs)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to GANs and Their Broad Impact** (3 videos)
+- **3. 2. How GANs Learn to Create/Generate/Architecture** (3 videos)
+- **4. 3. Building Your First GAN** (3 videos)
+- **5. 4. GANs in the Real World** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Transforming innovation with GANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/transforming-innovation-with-gans?u=76281980)
@@ -108,7 +105,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to GANs and Their Broad Impact
+### 2. 1. Introduction to GANs and Their Broad Impact
 
 #### Introduction to GANs and their broad impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980)
@@ -291,7 +288,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. How GANs Learn to Create/Generate/Architecture
+### 3. 2. How GANs Learn to Create/Generate/Architecture
 
 #### The Generator
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980)
@@ -554,7 +551,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Building Your First GAN
+### 4. 3. Building Your First GAN
 
 #### How to use the challenge exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-to-use-the-challenge-exercise-files?u=76281980)
@@ -690,7 +687,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. GANs in the Real World
+### 5. 4. GANs in the Real World
 
 #### GANs and multimodal LLMs for scalable content generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/gans-and-multimodal-llms-for-scalable-content-generation?u=76281980)
@@ -808,7 +805,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/next-steps?u=76281980)
@@ -853,6 +850,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Gwendolyn Stripling]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-generative-adversarial-networks-gans-3963173)
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- Generative Adversarial Networks (GANs)
 
 ## Path Context
 

@@ -33,37 +33,35 @@ tags:
   - skill/retrieval-augmented-generation-rag
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20RAG%20using%20LlamaIndex.md)
 
 ![Hands-On AI: RAG using LlamaIndex](https://media.licdn.com/dms/image/v2/D560DAQEi-KCygqsEWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721080561320?e=2147483647&amp;v=beta&amp;t=Z1L7EVvB7xynoqBbYIgM_dU0adZMHQbT_sRIn5nFRfg)
 
 # Hands-On AI: RAG using LlamaIndex
 
-> This course offers a deep dive into the principles and applications of retrieval-augmented generation (RAG), with a focus on the innovative LlamaIndex system. Explore how RAG enhances machine learning models by integrating external knowledge sources for more informed and accurate outputs. Instructor Harpreet Sahota
-covers the architecture of retrieval systems, the mechanics of indexing vast datase
+> This course offers a deep dive into the principles and applications of retrieval-augmented generation (RAG), with a focus on the innovative LlamaIndex system. Explore how RAG enhances machine learning models by integrating external knowledge sources for more informed and accurate outputs. Instructor Harpreet Sahota covers the architecture of retrieval systems, the mechanics of indexing vast datase
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex) | 6h 25m | Advanced | 28K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Harpreet Sahota]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-ai-rag-using-llamaindex-3830207/codespaces)
-
-## Skills Covered
-
-- LLaMA
-- Retrieval-Augmented Generation (RAG)
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (7 videos)
+- **3. 2. Fundamental Concepts in LlamaIndex** (7 videos)
+- **4. 3. Introduction to RAG** (7 videos)
+- **5. 4. RAG Evaluation** (3 videos)
+- **6. 5. Advanced RAG: Pre-Retrieval and Indexing Techniques** (7 videos)
+- **7. 6. Advanced RAG: Post-Retrieval and Other Techniques** (5 videos)
+- **8. 7. Modular RAG** (4 videos)
+- **9. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Overcome the limitations of LLMs with RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/overcome-the-limitations-of-llms-with-rag?u=76281980)
@@ -260,7 +258,7 @@ covers the architecture of retrieval systems, the mechanics of indexing vast dat
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Using GitHub Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980)
@@ -1065,7 +1063,7 @@ covers the architecture of retrieval systems, the mechanics of indexing vast dat
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Fundamental Concepts in LlamaIndex
+### 3. 2. Fundamental Concepts in LlamaIndex
 
 #### How LlamaIndex is organized
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980)
@@ -2212,7 +2210,7 @@ covers the architecture of retrieval systems, the mechanics of indexing vast dat
 > **Warnings:** heads up (1), keep in mind (1)
 
 
-### 3. Introduction to RAG
+### 4. 3. Introduction to RAG
 
 #### Components of a RAG system
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980)
@@ -3608,7 +3606,7 @@ covers the architecture of retrieval systems, the mechanics of indexing vast dat
 > **Speakers:** - [instructor] (1)
 
 
-### 4. RAG Evaluation
+### 5. 4. RAG Evaluation
 
 #### Introduction to RAG evaluation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980)
@@ -4160,7 +4158,7 @@ covers the architecture of retrieval systems, the mechanics of indexing vast dat
 > **Prerequisites:** make sure you have (1)
 
 
-### 5. Advanced RAG: Pre-Retrieval and Indexing Techniques
+### 6. 5. Advanced RAG: Pre-Retrieval and Indexing Techniques
 
 #### How we can improve on Naive RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980)
@@ -5380,7 +5378,7 @@ covers the architecture of retrieval systems, the mechanics of indexing vast dat
 > **Cross-References:** in the next (1)
 
 
-### 6. Advanced RAG: Post-Retrieval and Other Techniques
+### 7. 6. Advanced RAG: Post-Retrieval and Other Techniques
 
 #### Node post-processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980)
@@ -6354,7 +6352,7 @@ covers the architecture of retrieval systems, the mechanics of indexing vast dat
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Modular RAG
+### 8. 7. Modular RAG
 
 #### Hybrid retrieval
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980)
@@ -7185,7 +7183,7 @@ covers the architecture of retrieval systems, the mechanics of indexing vast dat
 > **Exercise Files:** template (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### LlamaIndex evaluation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/llamaindex-evaluation?u=76281980)
@@ -7376,6 +7374,21 @@ covers the architecture of retrieval systems, the mechanics of indexing vast dat
 > **Code Identifiers:** arxiv (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Harpreet Sahota]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-ai-rag-using-llamaindex-3830207/codespaces)
+
+## Skills Covered
+
+- LLaMA
+- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -39,8 +39,10 @@ tags:
   - skill/ai-for-leadership
   - skill/leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leading%20with%20Innovation%20in%20the%20Age%20of%20AI.md)
 
 ![Leading with Innovation in the Age of AI](https://media.licdn.com/dms/image/v2/D560DAQEQ2YSgHz5K0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721248100559?e=2147483647&amp;v=beta&amp;t=2Ssz55RTD1ZL0aUH4zKLmqybu4Ao8GMrTgcGTPh8Mqk)
 
@@ -51,25 +53,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai) | 1h 44m | Intermediate | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Anil Gupta]]
-- [[Haiyan Wang]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Business Innovation
-- Artificial Intelligence (AI)
-- AI for Leadership
-- Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Innovation Fundamentals** (3 videos)
+- **3. 2. The Innovation Process** (5 videos)
+- **4. 3. Theaters of Innovation** (4 videos)
+- **5. 4. The Role of Leaders** (2 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### The innovation imperative
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-innovation-imperative?u=76281980)
@@ -99,7 +94,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 1. Innovation Fundamentals
+### 2. 1. Innovation Fundamentals
 
 #### Why organizations often fail at innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/why-organizations-often-fail-at-innovation?u=76281980)
@@ -345,7 +340,7 @@ created: 2026-04-21
 > **Definitions:** stands for (1)
 
 
-### 2. The Innovation Process
+### 3. 2. The Innovation Process
 
 #### Fostering creativity without losing control
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980)
@@ -774,7 +769,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 3. Theaters of Innovation
+### 4. 3. Theaters of Innovation
 
 #### Rethinking the target customer
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980)
@@ -1125,7 +1120,7 @@ created: 2026-04-21
 > **Analogies:** it's like (1), such as (1)
 
 
-### 4. The Role of Leaders
+### 5. 4. The Role of Leaders
 
 #### The role of leaders in driving innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980)
@@ -1299,7 +1294,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Balancing order and chaos in innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980)
@@ -1444,6 +1439,22 @@ created: 2026-04-21
 > **Code Keywords:** new, (1), finally, (1)
 > **Env Vars:** ceo (2)
 
+
+## Instructor
+
+- [[Anil Gupta]]
+- [[Haiyan Wang]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Business Innovation
+- Artificial Intelligence (AI)
+- AI for Leadership
+- Leadership
 
 ## Path Context
 

@@ -41,8 +41,10 @@ tags:
   - skill/ethical-leadership
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Responsible%20AI%20Program-%20Context%2C%20Culture%2C%20Content%2C%20and%20Commitment.md)
 
 ![Building a Responsible AI Program: Context, Culture, Content, and Commitment](https://media.licdn.com/dms/image/v2/D4E0DAQHNxBr2sOH8ow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712267299315?e=2147483647&amp;v=beta&amp;t=DJH8i475ufUXDYuM1ik8MiZx4xGPD92CQDYe3fWcbnU)
 
@@ -53,23 +55,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment) | 1h 29m | Beginner | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Katrina Ingram]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Responsible AI
-- Ethical Leadership
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Context: Law, Ethics, and AI Risk** (5 videos)
+- **3. 2. Context: AI in Your Organization** (2 videos)
+- **4. 3. Culture: Establishing Governance Structures** (5 videos)
+- **5. 4. Content: Managing Data and AI Models** (7 videos)
+- **6. 5. Commitment** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Actionable steps to responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/actionable-steps-to-responsible-ai?u=76281980)
@@ -226,7 +224,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 1. Context: Law, Ethics, and AI Risk
+### 2. 1. Context: Law, Ethics, and AI Risk
 
 #### Connector: Start with context
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-start-with-context?u=76281980)
@@ -607,7 +605,7 @@ created: 2026-04-21
 > **Speakers:** - an (1)
 
 
-### 2. Context: AI in Your Organization
+### 3. 2. Context: AI in Your Organization
 
 #### Documenting AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980)
@@ -770,7 +768,7 @@ created: 2026-04-21
 > **Speakers:** - think (1)
 
 
-### 3. Culture: Establishing Governance Structures
+### 4. 3. Culture: Establishing Governance Structures
 
 #### Connector: From context to culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-context-to-culture?u=76281980)
@@ -1050,7 +1048,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Content: Managing Data and AI Models
+### 5. 4. Content: Managing Data and AI Models
 
 #### Connector: From culture to content
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-culture-to-content?u=76281980)
@@ -1468,7 +1466,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 5. Commitment
+### 6. 5. Commitment
 
 #### Connector: Moving to commitment
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-moving-to-commitment?u=76281980)
@@ -1674,7 +1672,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### The journey of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980)
@@ -1730,6 +1728,20 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - chinese (1)
 
+
+## Instructor
+
+- [[Katrina Ingram]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Responsible AI
+- Ethical Leadership
+- Artificial Intelligence (AI)
 
 ## Path Context
 

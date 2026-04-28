@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/trello
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Trello%20Essential%20Training.md)
 
 ![Trello Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHr8bNxFFmQDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689703987904?e=2147483647&amp;v=beta&amp;t=Qge-rCjuuircZbk8V1WP5NDe280T4lzEVbKE3uVwlHA)
 
@@ -41,17 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139) | 2h 29m | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Zack Arnold]]
-
-## Skills Covered
-
-- Trello
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Basic Features of Trello Boards and Cards** (10 videos)
+- **3. 2. More Advanced Features** (8 videos)
+- **4. 3. Essential Trello Power-Ups** (6 videos)
+- **5. 4. Automations and Custom Fields** (6 videos)
+- **6. 5. Getting Things Done Using Trello and Kanban** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is Trello?
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/what-is-trello?u=76281980)
@@ -116,7 +120,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Basic Features of Trello Boards and Cards
+### 2. 1. The Basic Features of Trello Boards and Cards
 
 #### Navigating the home page and creating your first board
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980)
@@ -998,7 +1002,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 2. More Advanced Features
+### 3. 2. More Advanced Features
 
 #### Managing workspaces, members, and creating collections
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980)
@@ -1821,7 +1825,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Essential Trello Power-Ups
+### 4. 3. Essential Trello Power-Ups
 
 #### Introduction to Trello Power-Ups
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-power-ups?u=76281980)
@@ -2353,7 +2357,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 4. Automations and Custom Fields
+### 5. 4. Automations and Custom Fields
 
 #### Introduction to Trello automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-automation?u=76281980)
@@ -2934,7 +2938,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Getting Things Done Using Trello and Kanban
+### 6. 5. Getting Things Done Using Trello and Kanban
 
 #### Trello and the Kanban method
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980)
@@ -3478,7 +3482,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980)
@@ -3507,6 +3511,14 @@ created: 2026-04-21
 >
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Zack Arnold]]
+
+## Skills Covered
+
+- Trello
 
 ## Path Context
 

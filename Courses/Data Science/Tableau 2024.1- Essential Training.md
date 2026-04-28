@@ -30,8 +30,10 @@ tags:
   - skill/tableau
   - skill/data-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Tableau%202024.1-%20Essential%20Training.md)
 
 ![Tableau 2024.1: Essential Training](https://media.licdn.com/dms/image/v2/D560DAQG95SyzX8EK0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716332755895?e=2147483647&amp;v=beta&amp;t=PU4feTTjBDe0bC6WCgF022b9B6YiOIydmlQ9g0BjDnw)
 
@@ -42,22 +44,26 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training) | 4h 41m | Intermediate | 26K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Curt Frye]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tableau
-- Data Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introducing Tableau** (4 videos)
+- **3. 2. Managing Data Sources and Visualizations** (7 videos)
+- **4. 3. Managing Tableau Worksheets and Workbooks** (9 videos)
+- **5. 4. Creating Custom Calculations and Fields** (5 videos)
+- **6. 5. Analyzing Data** (5 videos)
+- **7. 6. Sorting and Filtering Tableau Data** (9 videos)
+- **8. 7. Defining Groups and Sets** (8 videos)
+- **9. 8. Creating Basic Visualizations** (8 videos)
+- **10. 9. Formatting Tableau Visualizations** (6 videos)
+- **11. 10. Annotating and Formatting Visualizations** (5 videos)
+- **12. 11. Mapping Geographic Data** (5 videos)
+- **13. 12. Creating Dashboards and Actions** (7 videos)
+- **14. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Apply the power of Tableau 2024 to your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/apply-the-power-of-tableau-2024-to-your-data?u=76281980)
@@ -130,7 +136,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 1. Introducing Tableau
+### 2. 1. Introducing Tableau
 
 #### Download Tableau
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/download-tableau?u=76281980)
@@ -358,7 +364,7 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 
 
-### 2. Managing Data Sources and Visualizations
+### 3. 2. Managing Data Sources and Visualizations
 
 #### Connect to a data source
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/connect-to-a-data-source?u=76281980)
@@ -838,7 +844,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. Managing Tableau Worksheets and Workbooks
+### 4. 3. Managing Tableau Worksheets and Workbooks
 
 #### Display the data underlying a workbook
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/display-the-data-underlying-a-workbook?u=76281980)
@@ -1455,7 +1461,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Creating Custom Calculations and Fields
+### 5. 4. Creating Custom Calculations and Fields
 
 #### Present Tableau operators and built-in functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/present-tableau-operators-and-built-in-functions?u=76281980)
@@ -1984,7 +1990,7 @@ created: 2026-04-21
 > **Versions:** 0.2 (1)
 
 
-### 5. Analyzing Data
+### 6. 5. Analyzing Data
 
 #### Calculate averages, medians, minimums, and maximums
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/calculate-averages-medians-minimums-and-maximums?u=76281980)
@@ -2356,7 +2362,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 6. Sorting and Filtering Tableau Data
+### 7. 6. Sorting and Filtering Tableau Data
 
 #### Sort based on a field’s values
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/sort-based-on-a-field-s-values?u=76281980)
@@ -3013,7 +3019,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### 7. Defining Groups and Sets
+### 8. 7. Defining Groups and Sets
 
 #### Define a group
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/define-a-group?u=76281980)
@@ -3534,7 +3540,7 @@ created: 2026-04-21
 > **Warnings:** warning (1)
 
 
-### 8. Creating Basic Visualizations
+### 9. 8. Creating Basic Visualizations
 
 #### Create column and stacked column charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/create-column-and-stacked-column-charts?u=76281980)
@@ -4186,7 +4192,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 9. Formatting Tableau Visualizations
+### 10. 9. Formatting Tableau Visualizations
 
 #### Change the visual summary type
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/change-the-visual-summary-type?u=76281980)
@@ -4589,7 +4595,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 10. Annotating and Formatting Visualizations
+### 11. 10. Annotating and Formatting Visualizations
 
 #### Annotate a visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/annotate-a-visualization?u=76281980)
@@ -5052,7 +5058,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 11. Mapping Geographic Data
+### 12. 11. Mapping Geographic Data
 
 #### Create a basic map
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/create-a-basic-map?u=76281980)
@@ -5474,7 +5480,7 @@ created: 2026-04-21
 > **Definitions:** short for (1)
 
 
-### 12. Creating Dashboards and Actions
+### 13. 12. Creating Dashboards and Actions
 
 #### Present data using Storylines
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/present-data-using-storylines?u=76281980)
@@ -6063,7 +6069,7 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 
 
-### Conclusion
+### 14. Conclusion
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-2024-1-essential-training/further-resources?u=76281980)
@@ -6110,6 +6116,19 @@ created: 2026-04-21
 > **Versions:** 4.1 (1)
 > **Best Practices:** recommended (1)
 
+
+## Instructor
+
+- [[Curt Frye]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tableau
+- Data Analysis
 
 ## Path Context
 

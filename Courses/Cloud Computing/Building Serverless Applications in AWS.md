@@ -31,8 +31,10 @@ tags:
   - skill/serverless-computing
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20Serverless%20Applications%20in%20AWS.md)
 
 ![Building Serverless Applications in AWS](https://media.licdn.com/dms/image/v2/D560DAQHrUSyKAHYmVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700606318538?e=2147483647&amp;v=beta&amp;t=JVLMDm4vIWBGEdPzlpPBlr0nlMJFf3oDoEKgI4IRtkA)
 
@@ -43,22 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws) | 27m | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lucy Wang]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Serverless Computing
-- Amazon Web Services (AWS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started** (7 videos)
+- **3. 2. AWS Account and Website Setup** (3 videos)
+- **4. 3. Amazon DynamoDB and AWS Lambda Setup** (2 videos)
+- **5. 4. API Gateway Setup and Testing** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building a serverless application in AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/building-a-serverless-application-in-aws?u=76281980)
@@ -117,7 +115,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### What is a serverless application?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980)
@@ -421,7 +419,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. AWS Account and Website Setup
+### 3. 2. AWS Account and Website Setup
 
 #### Creating and using an AWS account
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/creating-and-using-an-aws-account?u=76281980)
@@ -586,7 +584,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Amazon DynamoDB and AWS Lambda Setup
+### 4. 3. Amazon DynamoDB and AWS Lambda Setup
 
 #### Set up a DynamoDB table for data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/set-up-a-dynamodb-table-for-data-storage?u=76281980)
@@ -729,7 +727,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 4. API Gateway Setup and Testing
+### 5. 4. API Gateway Setup and Testing
 
 #### Configure API Gateway
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-api-gateway?u=76281980)
@@ -873,7 +871,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980)
@@ -902,6 +900,19 @@ created: 2026-04-21
 > **Env Vars:** aws (2)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Lucy Wang]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Serverless Computing
+- Amazon Web Services (AWS)
 
 ## Path Context
 

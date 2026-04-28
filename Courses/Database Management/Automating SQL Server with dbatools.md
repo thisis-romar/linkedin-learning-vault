@@ -32,8 +32,10 @@ tags:
   - skill/microsoft-sql-server
   - skill/server-automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Automating%20SQL%20Server%20with%20dbatools.md)
 
 ![Automating SQL Server with dbatools](https://media.licdn.com/dms/image/v2/D560DAQHn4vbx24fVZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667411820482?e=2147483647&amp;v=beta&amp;t=fHoMzdEPmd78Pgo-xUqfUpXIj_FO_3D791togoyLgBo)
 
@@ -44,23 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools) | 1h | Intermediate | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jess Pomfret]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/automating-sql-server-with-dbatools-3068745)
-
-## Skills Covered
-
-- Microsoft SQL Server
-- Server Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. What Is dbatools?** (4 videos)
+- **3. 2. Get Information** (6 videos)
+- **4. 3. Set Information** (4 videos)
+- **5. 4. Migrations Made Easy with dbatools** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why dbatools?
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980)
@@ -215,7 +212,7 @@ created: 2026-04-21
 > **Exercise Files:** github repo (1)
 
 
-### 1. What Is dbatools?
+### 2. 1. What Is dbatools?
 
 #### Introducing dbatools
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980)
@@ -476,7 +473,7 @@ created: 2026-04-21
 > **Documentation:** the docs (1)
 
 
-### 2. Get Information
+### 3. 2. Get Information
 
 #### Get a list of SQL Servers in your environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980)
@@ -1010,7 +1007,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Set Information
+### 4. 3. Set Information
 
 #### Set databases online or offline
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980)
@@ -1307,7 +1304,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Migrations Made Easy with dbatools
+### 5. 4. Migrations Made Easy with dbatools
 
 #### Migrate whole instances with one line of code
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980)
@@ -1705,7 +1702,7 @@ created: 2026-04-21
 > **Prerequisites:** required to (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continue your learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/continue-your-learning?u=76281980)
@@ -1747,6 +1744,20 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [jess] (1)
 
+
+## Instructor
+
+- [[Jess Pomfret]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/automating-sql-server-with-dbatools-3068745)
+
+## Skills Covered
+
+- Microsoft SQL Server
+- Server Automation
 
 ## Path Context
 

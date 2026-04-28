@@ -30,8 +30,10 @@ tags:
   - skill/troubleshooting
   - skill/windows-10
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%2010%20for%20IT%20Support-%20Advanced%20Troubleshooting.md)
 
 ![Windows 10 for IT Support: Advanced Troubleshooting](https://media.licdn.com/dms/image/v2/C4E0DAQEfVJiyg1aJNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664469296114?e=2147483647&amp;v=beta&amp;t=KEW_CfdggAnbHKSus_CFk6aZCJczI7UNYxILQ_YdjK0)
 
@@ -42,18 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting) | 1h 54m | Advanced | 59K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brien Posey]]
-
-## Skills Covered
-
-- Troubleshooting
-- Windows 10
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Devices and Services** (6 videos)
+- **3. 2. Network Troubleshooting** (8 videos)
+- **4. 3. Troubleshooting Logins** (3 videos)
+- **5. 4. Troubleshooting System Updates and Integrity** (7 videos)
+- **6. 5. Performance Troubleshooting** (4 videos)
+- **7. 6. Troubleshooting the Blue Screen of Death** (6 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn advanced troubleshooting in Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980)
@@ -81,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - [brien] (1)
 
 
-### 1. Devices and Services
+### 2. 1. Devices and Services
 
 #### Checking for stopped services
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/checking-for-stopped-services?u=76281980)
@@ -619,7 +623,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Network Troubleshooting
+### 3. 2. Network Troubleshooting
 
 #### Verifying IP address assignments
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980)
@@ -1327,7 +1331,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Troubleshooting Logins
+### 4. 3. Troubleshooting Logins
 
 #### Fixing a computer account
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980)
@@ -1640,7 +1644,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 4. Troubleshooting System Updates and Integrity
+### 5. 4. Troubleshooting System Updates and Integrity
 
 #### Running CHKDSK
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980)
@@ -2117,7 +2121,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Performance Troubleshooting
+### 6. 5. Performance Troubleshooting
 
 #### Using the Task Manager for performance assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-task-manager-for-performance-assessments?u=76281980)
@@ -2446,7 +2450,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Troubleshooting the Blue Screen of Death
+### 7. 6. Troubleshooting the Blue Screen of Death
 
 #### Creating a blue screen error on demand
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/creating-a-blue-screen-error-on-demand?u=76281980)
@@ -2900,7 +2904,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980)
@@ -2924,6 +2928,15 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [brien] (1)
 
+
+## Instructor
+
+- [[Brien Posey]]
+
+## Skills Covered
+
+- Troubleshooting
+- Windows 10
 
 ## Path Context
 

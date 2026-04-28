@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/wordpress
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress-%20Speeding%20Up%20Your%20Site.md)
 
 ![WordPress: Speeding Up Your Site](https://media.licdn.com/dms/image/v2/C560DAQFXFyOqFxWwOA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624037453312?e=2147483647&amp;v=beta&amp;t=8vIT4vD4Iw3T6IolXE5rD60uL9GM6hGGII9wstF8aqs)
 
@@ -40,17 +42,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site) | 1h 23m | Advanced | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Patrick Rauland]]
-
-## Skills Covered
-
-- WordPress
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Fundamentals of Performance** (4 videos)
+- **3. 2. Hosting** (3 videos)
+- **4. 3. Media** (5 videos)
+- **5. 4. Plugins and Themes** (3 videos)
+- **6. 5. Database** (3 videos)
+- **7. 6. Caching** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Make your WordPress website lightning fast
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980)
@@ -120,7 +125,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Fundamentals of Performance
+### 2. 1. Fundamentals of Performance
 
 #### Why speed is important for websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980)
@@ -479,7 +484,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Hosting
+### 3. 2. Hosting
 
 #### Why hosting matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980)
@@ -715,7 +720,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Media
+### 4. 3. Media
 
 #### Optimize images
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980)
@@ -1192,7 +1197,7 @@ created: 2026-04-21
 > **Speakers:** - most (1)
 
 
-### 4. Plugins and Themes
+### 5. 4. Plugins and Themes
 
 #### Your theme matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/your-theme-matters?u=76281980)
@@ -1589,7 +1594,7 @@ created: 2026-04-21
 > **Warnings:** warning (1)
 
 
-### 5. Database
+### 6. 5. Database
 
 #### WordPress database structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980)
@@ -1838,7 +1843,7 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 
 
-### 6. Caching
+### 7. 6. Caching
 
 #### What is caching?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980)
@@ -2077,7 +2082,7 @@ created: 2026-04-21
 > **Warnings:** troubleshoot (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/next-steps?u=76281980)
@@ -2132,6 +2137,14 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [patrick] (1)
 
+
+## Instructor
+
+- [[Patrick Rauland]]
+
+## Skills Covered
+
+- WordPress
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Java%2011.md)
 
 ![Learning Java 11](https://media.licdn.com/dms/image/v2/D560DAQHzf7Mgd25c7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351878442?e=2147483647&amp;v=beta&amp;t=djhvqKNLdb4lxdmt7sAaT8NWw_NX4DRGC5Kxca0DXYc)
 
@@ -41,22 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11) | 2h 36m | Beginner | 431K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kathryn Hodge]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-java-2825378)
-
-## Skills Covered
-
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Getting Started with Java** (7 videos)
+- **3. 2. Building Strong Foundations** (7 videos)
+- **4. 3. Control Flow** (7 videos)
+- **5. 4. Debugging in Java** (4 videos)
+- **6. 5. Functions in Java** (7 videos)
+- **7. 6. Classes in Java** (9 videos)
+- **8. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Welcome to learning Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/welcome-to-learning-java?u=76281980)
@@ -186,7 +186,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with Java
+### 2. 1. Getting Started with Java
 
 #### What is Java?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980)
@@ -714,7 +714,7 @@ created: 2026-04-21
 > **Cross-References:** we talked about (1)
 
 
-### 2. Building Strong Foundations
+### 3. 2. Building Strong Foundations
 
 #### Primitive data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/primitive-data-types?u=76281980)
@@ -1225,7 +1225,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Control Flow
+### 4. 3. Control Flow
 
 #### Mapping out program control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980)
@@ -1749,7 +1749,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Debugging in Java
+### 5. 4. Debugging in Java
 
 #### Debugging syntax and logical errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/debugging-syntax-and-logical-errors?u=76281980)
@@ -2122,7 +2122,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Functions in Java
+### 6. 5. Functions in Java
 
 #### What are functions? (conceptually)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980)
@@ -2836,7 +2836,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Classes in Java
+### 7. 6. Classes in Java
 
 #### Classes in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/classes-in-java?u=76281980)
@@ -3557,7 +3557,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Navigating Java documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/navigating-java-documentation?u=76281980)
@@ -3667,6 +3667,19 @@ created: 2026-04-21
 >
 > **Speakers:** - [kathryn (1)
 
+
+## Instructor
+
+- [[Kathryn Hodge]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-java-2825378)
+
+## Skills Covered
+
+- Java
 
 ## Path Context
 

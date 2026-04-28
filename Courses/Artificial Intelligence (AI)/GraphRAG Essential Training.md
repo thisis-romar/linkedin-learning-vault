@@ -39,8 +39,10 @@ tags:
   - skill/knowledge-graphs
   - skill/graphrag
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/GraphRAG%20Essential%20Training.md)
 
 ![GraphRAG Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQFi9QampvwPSA/learning-public-crop_675_1200/B4DZetUdRvH4Ak-/0/1750959511423?e=2147483647&amp;v=beta&amp;t=of_oOKWXbCHekfDQV4BVnJvauTZd6DfRJGRwrabG1bo)
 
@@ -51,26 +53,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training) | 1h 39m | Intermediate | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dr. Clair Sullivan]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/graphrag-essential-training-3981041/codespaces)
-
-## Skills Covered
-
-- Retrieval-Augmented Generation (RAG)
-- Artificial Intelligence (AI)
-- Knowledge Graph Augmentation
-- Knowledge Graphs
-- GraphRAG
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Graphs Made Simple: Understanding the Basics** (7 videos)
+- **3. 2. Getting Started with Graph Tools** (8 videos)
+- **4. 3. Building Your First Knowledge Graph for Graph Retrieval-Augmented Generation (GraphRAG)** (8 videos)
+- **5. 4. Connecting Knowledge Graphs to Generative AI** (7 videos)
+- **6. 5. Putting It All Together: Creating a Question-Answering Bot with GraphRAG** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Prevent GenAI apps from hallucinating
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980)
@@ -203,7 +198,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Graphs Made Simple: Understanding the Basics
+### 2. 1. Graphs Made Simple: Understanding the Basics
 
 #### What is a graph?
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980)
@@ -617,7 +612,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Getting Started with Graph Tools
+### 3. 2. Getting Started with Graph Tools
 
 #### What is a graph database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980)
@@ -1076,7 +1071,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Building Your First Knowledge Graph for Graph Retrieval-Augmented Generation (GraphRAG)
+### 4. 3. Building Your First Knowledge Graph for Graph Retrieval-Augmented Generation (GraphRAG)
 
 #### Introduction to Retrieval-Augmented Generation (RAG)
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980)
@@ -1568,7 +1563,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Connecting Knowledge Graphs to Generative AI
+### 5. 4. Connecting Knowledge Graphs to Generative AI
 
 #### Creating a GraphRAG pipeline with LangChain to query your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/creating-a-graphrag-pipeline-with-langchain-to-query-your-data?u=76281980)
@@ -2089,7 +2084,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 5. Putting It All Together: Creating a Question-Answering Bot with GraphRAG
+### 6. 5. Putting It All Together: Creating a Question-Answering Bot with GraphRAG
 
 #### Introduction to capstone project
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-capstone-project?u=76281980)
@@ -2250,7 +2245,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing on with knowledge graphs, GraphRAG, and GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980)
@@ -2279,6 +2274,23 @@ created: 2026-04-21
 > **Tools:** discord (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Dr. Clair Sullivan]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/graphrag-essential-training-3981041/codespaces)
+
+## Skills Covered
+
+- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence (AI)
+- Knowledge Graph Augmentation
+- Knowledge Graphs
+- GraphRAG
 
 ## Path Context
 

@@ -36,8 +36,10 @@ tags:
   - skill/ai-security
   - skill/security-architecture-design
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Secure%20Architecture%2C%20Deployment%2C%20and%20Infrastructure.md)
 
 ![AI Product Security: Secure Architecture, Deployment, and Infrastructure](https://media.licdn.com/dms/image/v2/D4E0DAQGZcCyudKC9PQ/learning-public-crop_675_1200/B4EZWmDkGVHUAY-/0/1742247707786?e=2147483647&amp;v=beta&amp;t=bROP_xRXIHMFtHIbRkUN57HvJJROxUQ1rKjbmps5o4A)
 
@@ -48,20 +50,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure) | 2h 19m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sam Sehgal]]
-
-## Skills Covered
-
-- Product Security
-- Artificial Intelligence (AI)
-- AI Security
-- Security Architecture Design
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Foundations of Securing AI Products** (5 videos)
+- **3. 2. What Can Go Wrong?** (2 videos)
+- **4. 3. Security Model for AI Products** (6 videos)
+- **5. 4. Securing Data** (7 videos)
+- **6. 5. Securing Models** (14 videos)
+- **7. 6. Securing Code** (6 videos)
+- **8. 7. Securing AI Deployments and Infrastructure** (7 videos)
+- **9. 8. Best Practices** (12 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Builld your AI products securely
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/builld-your-ai-products-securely?u=76281980)
@@ -110,7 +114,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Foundations of Securing AI Products
+### 2. 1. Foundations of Securing AI Products
 
 #### ML- vs. LLM-based development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/ml-vs-llm-based-development?u=76281980)
@@ -529,7 +533,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. What Can Go Wrong?
+### 3. 2. What Can Go Wrong?
 
 #### What can go wrong in ML and MLOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/what-can-go-wrong-in-ml-and-mlops?u=76281980)
@@ -768,7 +772,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Security Model for AI Products
+### 4. 3. Security Model for AI Products
 
 #### Introducing the N-factor model for securing AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/introducing-n-factor-model-for-securing-ai-products?u=76281980)
@@ -983,7 +987,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Securing Data
+### 5. 4. Securing Data
 
 #### Data exposure during transit
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/data-exposure-during-transit?u=76281980)
@@ -1445,7 +1449,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Securing Models
+### 6. 5. Securing Models
 
 #### Intro to poisoning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/intro-to-poisoning?u=76281980)
@@ -2131,7 +2135,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Securing Code
+### 7. 6. Securing Code
 
 #### Insecure data processing code
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/insecure-data-processing-code?u=76281980)
@@ -2384,7 +2388,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Securing AI Deployments and Infrastructure
+### 8. 7. Securing AI Deployments and Infrastructure
 
 #### Insecure compute and storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/insecure-compute-and-storage?u=76281980)
@@ -2647,7 +2651,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Best Practices
+### 9. 8. Best Practices
 
 #### Introduction to top 10 practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/introduction-to-top-10-practices?u=76281980)
@@ -3110,7 +3114,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps in your AI journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/next-steps?u=76281980)
@@ -3160,6 +3164,17 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Sam Sehgal]]
+
+## Skills Covered
+
+- Product Security
+- Artificial Intelligence (AI)
+- AI Security
+- Security Architecture Design
 
 ## Path Context
 

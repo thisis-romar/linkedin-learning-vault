@@ -30,8 +30,10 @@ tags:
   - topic/web-development
   - skill/spring-data
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Spring%20Data%202.md)
 
 ![Spring Data 2](https://media.licdn.com/dms/image/v2/C4D0DAQFKjea5yMgDKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674159455671?e=2147483647&amp;v=beta&amp;t=VEfAQCp9Lwovj4D65lA7bj2lOTNFrbmdROfgPBjVtzs)
 
@@ -42,22 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2) | 1h 41m | Intermediate | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mary Ellen Bowman]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/spring-spring-data-2-2508603)
-
-## Skills Covered
-
-- Spring Data
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Spring Data Umbrella Project** (2 videos)
+- **3. 2. Introduction to Spring Data JPA** (5 videos)
+- **4. 3. Spring Data JPA Query Methods** (6 videos)
+- **5. 4. Dynamic Spring Data JPA Queries** (5 videos)
+- **6. 5. More Spring Data Features** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Diving into Spring Data
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980)
@@ -116,7 +115,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Spring Data Umbrella Project
+### 2. 1. Spring Data Umbrella Project
 
 #### Mission and modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980)
@@ -283,7 +282,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 2. Introduction to Spring Data JPA
+### 3. 2. Introduction to Spring Data JPA
 
 #### Spring Boot Starter Data JPA
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980)
@@ -618,7 +617,7 @@ created: 2026-04-21
 > **Speakers:** - [mariann] (1)
 
 
-### 3. Spring Data JPA Query Methods
+### 4. 3. Spring Data JPA Query Methods
 
 #### Property expression query methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980)
@@ -1171,7 +1170,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Dynamic Spring Data JPA Queries
+### 5. 4. Dynamic Spring Data JPA Queries
 
 #### Specifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980)
@@ -1569,7 +1568,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. More Spring Data Features
+### 6. 5. More Spring Data Features
 
 #### Spring Data REST
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980)
@@ -2046,7 +2045,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps with Spring Data
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980)
@@ -2092,6 +2091,19 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - [mary] (1)
 
+
+## Instructor
+
+- [[Mary Ellen Bowman]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/spring-spring-data-2-2508603)
+
+## Skills Covered
+
+- Spring Data
 
 ## Path Context
 

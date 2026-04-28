@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - IT Help Desk
   - Network and System Administration
-louvain_cluster: 7
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/it-help-desk
@@ -35,8 +35,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/IT%20Help%20Desk/Learning%20Paths/Getting%20Started%20with%20Windows%20Server%202022.md)
 
 # Getting Started with Windows Server 2022
 

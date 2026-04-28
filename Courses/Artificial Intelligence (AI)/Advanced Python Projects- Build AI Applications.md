@@ -32,37 +32,32 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20Python%20Projects-%20Build%20AI%20Applications.md)
 
 ![Advanced Python Projects: Build AI Applications](https://media.licdn.com/dms/image/v2/D560DAQHIPR3VAGQGiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713466120470?e=2147483647&amp;v=beta&amp;t=O9urdkF2PIoZQA21mxBP7VxuCcLRPQ31yIQv6RNX3Eg)
 
 # Advanced Python Projects: Build AI Applications
 
-> Python is a versatile programming language that is widely used in a variety of industries, including data science, artificial intelligence, web development, and more. As the demand for Python developers continues to grow, having a portfolio of Python projects can significantly increase your job prospects and marketability.
-This course with instructor Priya Mohan is designed to equip you with the s
+> Python is a versatile programming language that is widely used in a variety of industries, including data science, artificial intelligence, web development, and more. As the demand for Python developers continues to grow, having a portfolio of Python projects can significantly increase your job prospects and marketability. This course with instructor Priya Mohan is designed to equip you with the s
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications) | 1h 47m | Advanced | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Priya Mohan]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-python-projects-build-ai-applications-4465602-1/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- AI Software Development
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1.  NLP: Build a Chatbot with Sentiment Analyzer** (5 videos)
+- **3. 2. Machine Learning: Using Python to Find Your Next Business Opportunity** (6 videos)
+- **4. 3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI** (9 videos)
+- **5. 4. Chat with Your Documents Using LLM: Front-end with Streamlit** (8 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Elevate Your Python portfolio with advanced AI applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980)
@@ -293,7 +288,7 @@ This course with instructor Priya Mohan is designed to equip you with the s
 > **Speakers:** - [instructor] (1)
 
 
-### 1.  NLP: Build a Chatbot with Sentiment Analyzer
+### 2. 1.  NLP: Build a Chatbot with Sentiment Analyzer
 
 #### Processing user input
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980)
@@ -566,7 +561,7 @@ This course with instructor Priya Mohan is designed to equip you with the s
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Machine Learning: Using Python to Find Your Next Business Opportunity
+### 3. 2. Machine Learning: Using Python to Find Your Next Business Opportunity
 
 #### Data analytics using pandas, matplotlib, and scikit-learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980)
@@ -1199,7 +1194,7 @@ This course with instructor Priya Mohan is designed to equip you with the s
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI
+### 4. 3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI
 
 #### Setting up MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980)
@@ -1907,7 +1902,7 @@ This course with instructor Priya Mohan is designed to equip you with the s
 > **Prerequisites:** set up (1), install (1)
 
 
-### 4. Chat with Your Documents Using LLM: Front-end with Streamlit
+### 5. 4. Chat with Your Documents Using LLM: Front-end with Streamlit
 
 #### Introduction to API communication with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980)
@@ -2502,7 +2497,7 @@ This course with instructor Priya Mohan is designed to equip you with the s
 > **Tools:** aws console (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Your next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980)
@@ -2539,6 +2534,21 @@ This course with instructor Priya Mohan is designed to equip you with the s
 > **Best Practices:** don't forget (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Priya Mohan]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-python-projects-build-ai-applications-4465602-1/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- AI Software Development
+- Artificial Intelligence (AI)
 
 ## Path Context
 

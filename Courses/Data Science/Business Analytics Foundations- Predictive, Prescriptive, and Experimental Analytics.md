@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/business-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analytics%20Foundations-%20Predictive%2C%20Prescriptive%2C%20and%20Experimental%20Analytics.md)
 
 ![Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics](https://media.licdn.com/dms/image/v2/D560DAQGGMalAIaWm2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008938569?e=2147483647&amp;v=beta&amp;t=KJ3_7HsH-FQY5w4kr8Kvj46bQ15jaPQ1Dh8oL0nvTHg)
 
@@ -40,21 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics) | 51m | Intermediate | 120K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Business Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Business Analytics (BA)** (5 videos)
+- **3. 2. Predictive Analytics (PRA)** (4 videos)
+- **4. 3. Prescriptive Analytics (PSA)** (4 videos)
+- **5. 4. Experimental Analytics (EXA)** (4 videos)
+- **6. 5. Trust and Safety Considerations** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/welcome?u=76281980)
@@ -87,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Business Analytics (BA)
+### 2. 1. Business Analytics (BA)
 
 #### What is business analytics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/what-is-business-analytics?u=76281980)
@@ -314,7 +314,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Predictive Analytics (PRA)
+### 3. 2. Predictive Analytics (PRA)
 
 #### PRA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-definition?u=76281980)
@@ -547,7 +547,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Prescriptive Analytics (PSA)
+### 4. 3. Prescriptive Analytics (PSA)
 
 #### PSA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980)
@@ -775,7 +775,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Experimental Analytics (EXA)
+### 5. 4. Experimental Analytics (EXA)
 
 #### EXA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-definition?u=76281980)
@@ -974,7 +974,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Trust and Safety Considerations
+### 6. 5. Trust and Safety Considerations
 
 #### Compliance considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980)
@@ -1167,7 +1167,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980)
@@ -1195,6 +1195,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Business Analytics
 
 ## Path Context
 

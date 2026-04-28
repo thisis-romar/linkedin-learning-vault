@@ -41,8 +41,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Web%20Development/Learning%20Paths/Advance%20Your%20Skills%20as%20a%20Django%20Developer.md)
 
 # Advance Your Skills as a Django Developer
 

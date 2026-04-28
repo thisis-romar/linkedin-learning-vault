@@ -31,8 +31,10 @@ tags:
   - skill/selenium
   - skill/test-automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Selenium-%20Structure%2C%20Scale%2C%20Run%2C%20and%20Optimize%20Automated%20Tests.md)
 
 ![Learning Selenium: Structure, Scale, Run, and Optimize Automated Tests](https://media.licdn.com/dms/image/v2/D560DAQGblcfQboVDhA/learning-public-crop_675_1200/B56ZiFYB7uH0AY-/0/1754584326185?e=2147483647&amp;v=beta&amp;t=NjRx9jtLJZh04d4RmoKVzN2MizAHQUlChsJ0460S6Gw)
 
@@ -43,23 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests) | 1h 16m | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Qambar Raza]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-selenium-structure-scale-run-and-optimize-automated-tests-5989088/codespaces)
-
-## Skills Covered
-
-- Selenium
-- Test Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started with Selenium** (10 videos)
+- **3. 2. Structuring Your Tests** (7 videos)
+- **4. 3. Running Tests at Scale** (5 videos)
+- **5. 4. Enhancing Tests with Modern Tools** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn Selenium for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980)
@@ -201,7 +198,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Getting Started with Selenium
+### 2. 1. Getting Started with Selenium
 
 #### Setting up the Selenium framework for macOS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-mac?u=76281980)
@@ -816,7 +813,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Structuring Your Tests
+### 3. 2. Structuring Your Tests
 
 #### What is a page object model (POM)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-the-page-object-model?u=76281980)
@@ -1269,7 +1266,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Running Tests at Scale
+### 4. 3. Running Tests at Scale
 
 #### Test across browsers locally
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/test-across-browsers-locally?u=76281980)
@@ -1710,7 +1707,7 @@ created: 2026-04-21
 > **Env Vars:** readme (3)
 
 
-### 4. Enhancing Tests with Modern Tools
+### 5. 4. Enhancing Tests with Modern Tools
 
 #### Capture screenshots on failure
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980)
@@ -2046,7 +2043,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980)
@@ -2073,6 +2070,20 @@ created: 2026-04-21
 > **URLs:** [selenium.dev](https://selenium.dev) (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Qambar Raza]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-selenium-structure-scale-run-and-optimize-automated-tests-5989088/codespaces)
+
+## Skills Covered
+
+- Selenium
+- Test Automation
 
 ## Path Context
 

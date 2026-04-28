@@ -26,8 +26,10 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Outlook%20Essential%20Training%20(Microsoft%20365).md)
 
 ![Outlook Essential Training (Microsoft 365)](https://media.licdn.com/dms/image/v2/D4E0DAQG7bROPW6GYIQ/learning-public-crop_675_1200/B4EZYlrQL8HcAc-/0/1744388817972?e=2147483647&amp;v=beta&amp;t=Vhin7bMHdPhTqynLRqXnLX--bo5UlVGxHyqxXh3WBA4)
 
@@ -38,17 +40,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391) | 2h 12m | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jess Stratton]]
-
-## Skills Covered
-
-- Microsoft Outlook
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Get Started and Connect Accounts in Outlook** (2 videos)
+- **3. 2. Read Mail in Outlook** (6 videos)
+- **4. 3. Organize Mail in Outlook** (5 videos)
+- **5. 4. Create and Send Mail in Outlook** (5 videos)
+- **6. 5. Work with Contacts in Outlook** (2 videos)
+- **7. 6. Use the Outlook Accessibility Features** (2 videos)
+- **8. 7. Work with the Outlook Calendar** (4 videos)
+- **9. 8. Meeting Management with Outlook** (3 videos)
+- **10. 9. Work with To Do, Settings, and My Day** (3 videos)
+- **11. 10. Leveraging Copilot in Outlook** (2 videos)
+- **12. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Stay organized and collaborate effectively with Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/stay-organized-and-collaborate-effectively-with-outlook?u=76281980)
@@ -77,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 1. Get Started and Connect Accounts in Outlook
+### 2. 1. Get Started and Connect Accounts in Outlook
 
 #### Navigate the Outlook interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980)
@@ -265,7 +274,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Read Mail in Outlook
+### 3. 2. Read Mail in Outlook
 
 #### Read mail and use the Focused Inbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980)
@@ -915,7 +924,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Organize Mail in Outlook
+### 4. 3. Organize Mail in Outlook
 
 #### Flag, snooze, and pin messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/flag-snooze-and-pin-messages?u=76281980)
@@ -1447,7 +1456,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Create and Send Mail in Outlook
+### 5. 4. Create and Send Mail in Outlook
 
 #### Create and format a new message
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980)
@@ -1853,7 +1862,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Work with Contacts in Outlook
+### 6. 5. Work with Contacts in Outlook
 
 #### Create new contacts in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-new-contacts-in-outlook?u=76281980)
@@ -2001,7 +2010,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Use the Outlook Accessibility Features
+### 7. 6. Use the Outlook Accessibility Features
 
 #### Features for Outlook users with disabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/features-for-outlook-users-with-disabilities?u=76281980)
@@ -2118,7 +2127,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Work with the Outlook Calendar
+### 8. 7. Work with the Outlook Calendar
 
 #### Change the look of the Outlook calendar
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980)
@@ -2685,7 +2694,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Meeting Management with Outlook
+### 9. 8. Meeting Management with Outlook
 
 #### Create a meeting in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980)
@@ -2961,7 +2970,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Work with To Do, Settings, and My Day
+### 10. 9. Work with To Do, Settings, and My Day
 
 #### Create and assign To Dos in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-assign-to-dos-in-outlook?u=76281980)
@@ -3206,7 +3215,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Leveraging Copilot in Outlook
+### 11. 10. Leveraging Copilot in Outlook
 
 #### Summarize emails and generate replies with Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980)
@@ -3430,7 +3439,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 12. Conclusion
 
 #### Microsoft 365 is much more than Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980)
@@ -3452,6 +3461,14 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jess Stratton]]
+
+## Skills Covered
+
+- Microsoft Outlook
 
 ## Path Context
 

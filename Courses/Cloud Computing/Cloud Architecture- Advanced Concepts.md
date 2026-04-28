@@ -34,8 +34,10 @@ tags:
   - skill/solution-architecture
   - skill/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Architecture-%20Advanced%20Concepts.md)
 
 ![Cloud Architecture: Advanced Concepts](https://media.licdn.com/dms/image/v2/D4E0DAQFJTeKRYDrjyw/learning-public-crop_675_1200/B4EZXYmBLyHcAc-/0/1743095600151?e=2147483647&amp;v=beta&amp;t=EyTl6UOdp3kORoxvfkb1fQTgEykEmrkemn-GxTc6puE)
 
@@ -46,19 +48,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673) | 2h 30m | Advanced | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lee Atchison]]
-
-## Skills Covered
-
-- Cloud-Native Architecture
-- Solution Architecture
-- Cloud Computing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Cloud Types and Structures** (3 videos)
+- **3. 2. Microservices** (4 videos)
+- **4. 3. Data and Data Management** (3 videos)
+- **5. 4. Serverless Computing** (3 videos)
+- **6. 5. Cloud Security** (4 videos)
+- **7. 6. Constructing a Cloud Infrastructure** (3 videos)
+- **8. 7. Managing the Cloud** (3 videos)
+- **9. 8. AI and the Cloud** (6 videos)
+- **10. 9. The Edge of the Cloud** (2 videos)
+- **11. 10. Cloud Sustainability and Green Computing** (2 videos)
+- **12. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Orchestrating your cloud architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980)
@@ -176,7 +183,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Cloud Types and Structures
+### 2. 1. Cloud Types and Structures
 
 #### Public, private, and hybrid cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980)
@@ -475,7 +482,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 2. Microservices
+### 3. 2. Microservices
 
 #### Understanding microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-microservices-25351357?u=76281980)
@@ -642,7 +649,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data and Data Management
+### 4. 3. Data and Data Management
 
 #### Data storage in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980)
@@ -938,7 +945,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Serverless Computing
+### 5. 4. Serverless Computing
 
 #### Advantages of serverless computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980)
@@ -1201,7 +1208,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Cloud Security
+### 6. 5. Cloud Security
 
 #### Cloud vs. on-premises security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-vs-on-premises-security-25351363?u=76281980)
@@ -1432,7 +1439,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Constructing a Cloud Infrastructure
+### 7. 6. Constructing a Cloud Infrastructure
 
 #### Dynamic infrastructures
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/dynamic-infrastructures-25354418?u=76281980)
@@ -1603,7 +1610,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 7. Managing the Cloud
+### 8. 7. Managing the Cloud
 
 #### Single Team Oriented Service Architecture (STOSA) organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/single-team-oriented-service-architecture-stosa-organizations-25358324?u=76281980)
@@ -1801,7 +1808,7 @@ created: 2026-04-21
 > **Speakers:** - [announcer] (1)
 
 
-### 8. AI and the Cloud
+### 9. 8. AI and the Cloud
 
 #### Foundations of AI in cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980)
@@ -2315,7 +2322,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. The Edge of the Cloud
+### 10. 9. The Edge of the Cloud
 
 #### The Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980)
@@ -2626,7 +2633,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Cloud Sustainability and Green Computing
+### 11. 10. Cloud Sustainability and Green Computing
 
 #### The environmental cost of computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-environmental-cost-of-computing-25358323?u=76281980)
@@ -2811,7 +2818,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 12. Conclusion
 
 #### Cloud Center of Excellence (CoE)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980)
@@ -2870,6 +2877,16 @@ created: 2026-04-21
 > **Code Keywords:** public (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lee Atchison]]
+
+## Skills Covered
+
+- Cloud-Native Architecture
+- Solution Architecture
+- Cloud Computing
 
 ## Path Context
 

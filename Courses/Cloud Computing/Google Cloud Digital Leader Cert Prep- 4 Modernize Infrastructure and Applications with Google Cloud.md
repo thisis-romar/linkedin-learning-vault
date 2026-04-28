@@ -34,8 +34,10 @@ tags:
   - skill/it-infrastructure-management
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Leader%20Cert%20Prep-%204%20Modernize%20Infrastructure%20and%20Applications%20with%20Google%20Cloud.md)
 
 ![Google Cloud Digital Leader Cert Prep: 4 Modernize Infrastructure and Applications with Google Cloud](https://media.licdn.com/dms/image/v2/D4E0DAQHLwR3BjjXqWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711389580529?e=2147483647&amp;v=beta&amp;t=IYySmd42QkFB2-ptpyaB8FXKypT-Hh-j2t6EbF_Ppj8)
 
@@ -46,19 +48,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud) | 41m | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Google Cloud]]
-
-## Skills Covered
-
-- Legacy Modernization
-- IT Infrastructure Management
-- Google Cloud Platform (GCP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Modernizing Infrastructure in the Cloud** (6 videos)
+- **3. 2. Modernizing Applications in the Cloud** (6 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980)
@@ -188,7 +187,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Modernizing Infrastructure in the Cloud
+### 2. 1. Modernizing Infrastructure in the Cloud
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980)
@@ -584,7 +583,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Modernizing Applications in the Cloud
+### 3. 2. Modernizing Applications in the Cloud
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980)
@@ -904,7 +903,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980)
@@ -931,6 +930,16 @@ created: 2026-04-21
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Google Cloud]]
+
+## Skills Covered
+
+- Legacy Modernization
+- IT Infrastructure Management
+- Google Cloud Platform (GCP)
 
 ## Path Context
 

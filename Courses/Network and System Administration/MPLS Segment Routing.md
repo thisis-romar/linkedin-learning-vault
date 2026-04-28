@@ -30,8 +30,10 @@ tags:
   - skill/network-administration
   - skill/computer-networking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/MPLS%20Segment%20Routing.md)
 
 ![MPLS Segment Routing](https://media.licdn.com/dms/image/v2/D4E0DAQGOkv5eYwF3Bg/learning-public-crop_675_1200/B4EZSzFUeTGYAc-/0/1738171304069?e=2147483647&amp;v=beta&amp;t=FaaXPsqWviCG5DLG0uwJ_9goW8jKp7hmzTuWgYz0XiE)
 
@@ -42,19 +44,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing) | 3h 10m | Advanced | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Arash Deljoo]]
-
-## Skills Covered
-
-- Routing
-- Network Administration
-- Computer Networking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Section 1: Why Segment Routing (SR)?** (3 videos)
+- **3. 2. Segment Routing (SR) Foundation** (6 videos)
+- **4. 3. Segment Routing (SR) Configuration** (4 videos)
+- **5. 4. Segment Routing (SR) and LDP** (6 videos)
+- **6. 5. Topology-Independent Loop-Free Alternate (TI-LFA)** (7 videos)
+- **7. 6. Segment Routing Traffic Engineering (SR-TE)** (8 videos)
+- **8. 7. SR-TE Traffic Steering** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Supercharge your MPLS segment routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/supercharge-your-mpls-segment-routing?u=76281980)
@@ -82,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - [arash] (1)
 
 
-### 1. Section 1: Why Segment Routing (SR)?
+### 2. 1. Section 1: Why Segment Routing (SR)?
 
 #### IP forwarding
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980)
@@ -306,7 +310,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Segment Routing (SR) Foundation
+### 3. 2. Segment Routing (SR) Foundation
 
 #### Understanding source routing and segment routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980)
@@ -829,7 +833,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Segment Routing (SR) Configuration
+### 4. 3. Segment Routing (SR) Configuration
 
 #### IS-IS segment routing configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-configuration?u=76281980)
@@ -1301,7 +1305,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Segment Routing (SR) and LDP
+### 5. 4. Segment Routing (SR) and LDP
 
 #### Segment routing co-existence with LDP
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-co-existence-with-ldp?u=76281980)
@@ -1891,7 +1895,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Topology-Independent Loop-Free Alternate (TI-LFA)
+### 6. 5. Topology-Independent Loop-Free Alternate (TI-LFA)
 
 #### Classic loop free alternate (LFA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/classic-loop-free-alternate-lfa?u=76281980)
@@ -2433,7 +2437,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Segment Routing Traffic Engineering (SR-TE)
+### 7. 6. Segment Routing Traffic Engineering (SR-TE)
 
 #### Segment routing traffic engineering (SR-TE) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-overview?u=76281980)
@@ -3184,7 +3188,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. SR-TE Traffic Steering
+### 8. 7. SR-TE Traffic Steering
 
 #### SR-TE automatic traffic steering with BGP
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-automatic-traffic-steering-with-bgp?u=76281980)
@@ -3513,7 +3517,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/next-steps?u=76281980)
@@ -3548,6 +3552,16 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [arash] (1)
 
+
+## Instructor
+
+- [[Arash Deljoo]]
+
+## Skills Covered
+
+- Routing
+- Network Administration
+- Computer Networking
 
 ## Path Context
 

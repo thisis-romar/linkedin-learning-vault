@@ -39,8 +39,10 @@ tags:
   - skill/react-js
   - skill/authentication-systems
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Authentication.md)
 
 ![React: Authentication](https://media.licdn.com/dms/image/v2/D4E0DAQEKpKB3OkEGkw/learning-public-crop_675_1200/B4EZZAfXucGYAc-/0/1744838687924?e=2147483647&amp;v=beta&amp;t=hP9daVuR0FW7rOnO0vVLWrnbFVvwRIKD6qB52Ksy-_U)
 
@@ -51,23 +53,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373) | 4h 15m | Advanced | 56K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shaun Wassell]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/react-authentication-6035050)
-
-## Skills Covered
-
-- React.js
-- Authentication Systems
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. User Authentication Basics** (16 videos)
+- **3. 2. Email Verification** (8 videos)
+- **4. 3. Resetting Passwords** (5 videos)
+- **5. 4. OAuth** (8 videos)
+- **6. 5. Prebuilt Auth Options** (6 videos)
+- **7. 6. Best Practices** (7 videos)
+- **8. Conclusion** (1 videos)
+- **9. Appendix** (1 videos)
+
+### 1. Introduction
 
 #### Secure authentication practices in React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/secure-authentication-practices-in-react?u=76281980)
@@ -179,7 +179,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. User Authentication Basics
+### 2. 1. User Authentication Basics
 
 #### What is user authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980)
@@ -2551,7 +2551,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Email Verification
+### 3. 2. Email Verification
 
 #### The basic email verification process
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/the-basic-email-verification-process?u=76281980)
@@ -3459,7 +3459,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 3. Resetting Passwords
+### 4. 3. Resetting Passwords
 
 #### The basic password reset process
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/the-basic-password-reset-process?u=76281980)
@@ -3878,7 +3878,7 @@ created: 2026-04-21
 > **API Endpoints:** /api/users (1)
 
 
-### 4. OAuth
+### 5. 4. OAuth
 
 #### OAuth basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980)
@@ -4923,7 +4923,7 @@ created: 2026-04-21
 > **Env Vars:** url (1)
 
 
-### 5. Prebuilt Auth Options
+### 6. 5. Prebuilt Auth Options
 
 #### Why prebuilt auth options?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980)
@@ -5317,7 +5317,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Best Practices
+### 7. 6. Best Practices
 
 #### Using HTTPS and SSL
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980)
@@ -5773,7 +5773,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps in your React journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980)
@@ -5818,7 +5818,7 @@ created: 2026-04-21
 > **Speakers:** - [shaun] (1)
 
 
-### Appendix
+### 9. Appendix
 
 #### A tour of Coderpad
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/a-tour-of-coderpad?u=76281980)
@@ -5848,6 +5848,20 @@ created: 2026-04-21
 > **Code Keywords:** this, (1), pass (1), finally, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Shaun Wassell]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/react-authentication-6035050)
+
+## Skills Covered
+
+- React.js
+- Authentication Systems
 
 ## Path Context
 

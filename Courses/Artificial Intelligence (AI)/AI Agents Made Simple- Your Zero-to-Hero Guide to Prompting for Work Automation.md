@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Agents%20Made%20Simple-%20Your%20Zero-to-Hero%20Guide%20to%20Prompting%20for%20Work%20Automation.md)
 
 ![AI Agents Made Simple: Your Zero-to-Hero Guide to Prompting for Work Automation](https://media.licdn.com/dms/image/v2/D4E0DAQFIEl2B5OjDYQ/learning-public-crop_675_1200/B4EZk1xLmcIsAY-/0/1757543709747?e=2147483647&amp;v=beta&amp;t=yRG8R57XEt4t2zI0JY3dMNXuSVrZZ34fRUhg5cQEAu0)
 
@@ -42,24 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation) | 1h 37m | 350K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jose Latorre]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- AI Agents
-- Artificial Intelligence (AI)
-- Prompt Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting to Know AI Agents** (3 videos)
+- **3. 2. Agent Prompting Fundamentals: Asking for What You Need** (3 videos)
+- **4. 3. Intermediate Techniques: Breaking It Down** (6 videos)
+- **5. 4. Advanced Techniques: Thinking and Acting** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of smart prompting for AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980)
@@ -89,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 1. Getting to Know AI Agents
+### 2. 1. Getting to Know AI Agents
 
 #### Meet your new AI assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980)
@@ -394,7 +390,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 2. Agent Prompting Fundamentals: Asking for What You Need
+### 3. 2. Agent Prompting Fundamentals: Asking for What You Need
 
 #### Prompting best practices: Clear and simple instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980)
@@ -831,7 +827,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Intermediate Techniques: Breaking It Down
+### 4. 3. Intermediate Techniques: Breaking It Down
 
 #### Step-by-step thinking: Guided reasoning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980)
@@ -1455,7 +1451,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/splitting-big-tasks-into-smaller-ones?u=76281980)
 
 
-### 4. Advanced Techniques: Thinking and Acting
+### 5. 4. Advanced Techniques: Thinking and Acting
 
 #### Smart moves: Combining thought and action
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980)
@@ -1725,7 +1721,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Key takeaways and practical tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980)
@@ -1777,6 +1773,21 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Jose Latorre]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- AI Agents
+- Artificial Intelligence (AI)
+- Prompt Engineering
 
 ## Path Context
 

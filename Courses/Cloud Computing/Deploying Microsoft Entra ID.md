@@ -32,8 +32,10 @@ tags:
   - topic/network-and-system-administration
   - skill/microsoft-entra-id
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Deploying%20Microsoft%20Entra%20ID.md)
 
 ![Deploying Microsoft Entra ID](https://media.licdn.com/dms/image/v2/C4E0DAQGffNRcvs919w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1609787284260?e=2147483647&amp;v=beta&amp;t=FfNYthjZJ87W06z5OuUZwyQBAppj9YGZhMvQqAvbpOk)
 
@@ -44,17 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id) | 2h 3m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kunal D Mehta]]
-
-## Skills Covered
-
-- Microsoft Entra ID
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Managing Users** (16 videos)
+- **3. 2. Managing Groups** (15 videos)
+- **4. 3. Managing Devices** (9 videos)
+- **5. Conclusion** (3 videos)
+
+### 1. Introduction
 
 #### Cloud identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980)
@@ -194,7 +196,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Managing Users
+### 2. 1. Managing Users
 
 #### Types of user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980)
@@ -1225,7 +1227,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Managing Groups
+### 3. 2. Managing Groups
 
 #### Types of groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980)
@@ -2182,7 +2184,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Managing Devices
+### 4. 3. Managing Devices
 
 #### Device management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980)
@@ -3003,7 +3005,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980)
@@ -3155,6 +3157,14 @@ created: 2026-04-21
 > **Env Vars:** crud (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kunal D Mehta]]
+
+## Skills Covered
+
+- Microsoft Entra ID
 
 ## Path Context
 

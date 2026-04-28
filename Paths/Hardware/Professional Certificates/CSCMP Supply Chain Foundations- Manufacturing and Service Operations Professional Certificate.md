@@ -33,8 +33,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Hardware/Professional%20Certificates/CSCMP%20Supply%20Chain%20Foundations-%20Manufacturing%20and%20Service%20Operations%20Professional%20Certificate.md)
 
 # CSCMP Supply Chain Foundations: Manufacturing and Service Operations Professional Certificate
 

@@ -31,8 +31,10 @@ tags:
   - skill/cloud-security
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Networking%20and%20Security%20for%20Beginners-%20Tools%20and%20Services.md)
 
 ![Azure Networking and Security for Beginners: Tools and Services](https://media.licdn.com/dms/image/v2/D4D0DAQHbr00BDailXw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721763489368?e=2147483647&amp;v=beta&amp;t=U309jMw_oxpWEcW_Fu9la53PiGO2thmdZVQXZPWmutM)
 
@@ -43,19 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services) | 2h 17m | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shyam Raj]]
-
-## Skills Covered
-
-- Cloud Administration
-- Cloud Security
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Securing Identities** (8 videos)
+- **3. 2. Securing Network Connectivity** (10 videos)
+- **4. 3. Securing Data** (4 videos)
+- **5. 4. Defender for Cloud** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Enhance the security of Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980)
@@ -214,7 +215,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Securing Identities
+### 2. 1. Securing Identities
 
 #### Understand authentication and authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980)
@@ -1240,7 +1241,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Securing Network Connectivity
+### 3. 2. Securing Network Connectivity
 
 #### Understand network components
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980)
@@ -2769,7 +2770,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Securing Data
+### 4. 3. Securing Data
 
 #### Azure Key Vault
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980)
@@ -3179,7 +3180,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Defender for Cloud
+### 5. 4. Defender for Cloud
 
 #### Introduction to Defender for Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980)
@@ -3450,7 +3451,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Learning more about Azure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/learning-more-about-azure-security?u=76281980)
@@ -3474,6 +3475,16 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [shyamraj] (1)
 
+
+## Instructor
+
+- [[Shyam Raj]]
+
+## Skills Covered
+
+- Cloud Administration
+- Cloud Security
+- Microsoft Azure
 
 ## Path Context
 

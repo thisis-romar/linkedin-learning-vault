@@ -41,8 +41,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/A%20Quick%20Start%20Guide%20to%20Programming%20in%20Python.md)
 
 # A Quick Start Guide to Programming in Python
 

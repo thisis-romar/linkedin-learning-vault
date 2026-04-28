@@ -30,8 +30,10 @@ tags:
   - skill/software-development
   - skill/security-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Static%20Application%20Security%20Testing.md)
 
 ![Static Application Security Testing](https://media.licdn.com/dms/image/v2/D560DAQHrzuHza_4cSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683244233790?e=2147483647&amp;v=beta&amp;t=ehl91Xm-3nQHiP6TLg6CldF4CQdb2jrAe-ZEEBH_yak)
 
@@ -42,22 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing) | 3h 40m | Intermediate | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jerod Brennen]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Software Development
-- Security Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Leading Practices** (10 videos)
+- **3. 2. Security Documentation** (7 videos)
+- **4. 3. Source Code Security Reviews** (9 videos)
+- **5. 4. Static Testing for the OWASP Top 10 (2021)** (11 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The importance of static testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/the-importance-of-static-testing?u=76281980)
@@ -135,7 +133,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Leading Practices
+### 2. 1. Leading Practices
 
 #### Security in the SDLC
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980)
@@ -957,7 +955,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Security Documentation
+### 3. 2. Security Documentation
 
 #### Internal project plans
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980)
@@ -1662,7 +1660,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Source Code Security Reviews
+### 4. 3. Source Code Security Reviews
 
 #### Challenges of assessing source code
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980)
@@ -2594,7 +2592,7 @@ created: 2026-04-21
 > **File Paths:** users.xml (1)
 
 
-### 4. Static Testing for the OWASP Top 10 (2021)
+### 5. 4. Static Testing for the OWASP Top 10 (2021)
 
 #### The OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980)
@@ -3790,7 +3788,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Static application security testing next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980)
@@ -3868,6 +3866,19 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - [jerod] (1)
 
+
+## Instructor
+
+- [[Jerod Brennen]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Software Development
+- Security Testing
 
 ## Path Context
 

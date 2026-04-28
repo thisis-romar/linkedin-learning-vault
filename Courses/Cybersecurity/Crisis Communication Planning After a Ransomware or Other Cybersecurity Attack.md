@@ -28,8 +28,10 @@ tags:
   - skill/cybersecurity-incident-response
   - skill/crisis-communications
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Crisis%20Communication%20Planning%20After%20a%20Ransomware%20or%20Other%20Cybersecurity%20Attack.md)
 
 ![Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack](https://media.licdn.com/dms/image/v2/C4E0DAQGmdlDRWeu7lA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650645024160?e=2147483647&amp;v=beta&amp;t=gGhOrfEtNXH61H3nTmb8Rwy0fe4sSpMYtYO3VcIzCh4)
 
@@ -40,22 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack) | 29m | Beginner | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Oates]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cybersecurity Incident Response
-- Crisis Communications
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Impact of Cyberattacks** (2 videos)
+- **3. 2. The Cyberattack Crisis Communications Phases** (4 videos)
+- **4. 3. Evaluate and Train** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Anyone can suffer a ransomware or other cyberattack
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/anyone-can-suffer-a-ransomware-or-other-cyberattack?u=76281980)
@@ -97,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - [dave] (1)
 
 
-### 1. The Impact of Cyberattacks
+### 2. 1. The Impact of Cyberattacks
 
 #### Why cyberattacks impact every organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980)
@@ -260,7 +257,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Cyberattack Crisis Communications Phases
+### 3. 2. The Cyberattack Crisis Communications Phases
 
 #### What to say and to whom at onset
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980)
@@ -576,7 +573,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Evaluate and Train
+### 4. 3. Evaluate and Train
 
 #### Continue to evaluate after a training
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/continue-to-evaluate-after-a-training?u=76281980)
@@ -730,7 +727,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### You can do this
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980)
@@ -768,6 +765,19 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [dave] (1)
 
+
+## Instructor
+
+- [[David Oates]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cybersecurity Incident Response
+- Crisis Communications
 
 ## Path Context
 

@@ -55,8 +55,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Database%20Management/Learning%20Paths/Advance%20Your%20MS%20SQL%20Server%20Skills.md)
 
 # Advance Your MS SQL Server Skills
 

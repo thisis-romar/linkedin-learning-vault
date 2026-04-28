@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Threat%20Modeling%20for%20AI-ML%20Systems.md)
 
 ![Threat Modeling for AI/ML Systems](https://media.licdn.com/dms/image/v2/D560DAQFuAEZJ16cTRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713811065983?e=2147483647&amp;v=beta&amp;t=hVIcNFGfvmPRSKMjo-x-S1SzuJLHW1NLnubttLM11vQ)
 
@@ -45,20 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems) | 57m | Advanced | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Shostack]]
-
-## Skills Covered
-
-- Threat Modeling
-- Machine Learning
-- Artificial Intelligence (AI)
-- AI Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Threat Modeling Overview** (4 videos)
+- **3. 2. What Are You Working on with ML?** (5 videos)
+- **4. 3. What Can Go Wrong with ML Security** (5 videos)
+- **5. 4. What Can Go Wrong with AI: Trustworthiness** (4 videos)
+- **6. 5. What Are You Going to Do about It?** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Threat modeling introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-introduction?u=76281980)
@@ -118,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Threat Modeling Overview
+### 2. 1. Threat Modeling Overview
 
 #### Threat modeling is important when building AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980)
@@ -304,7 +305,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. What Are You Working on with ML?
+### 3. 2. What Are You Working on with ML?
 
 #### ML for business, offense, defense, and software
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980)
@@ -558,7 +559,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. What Can Go Wrong with ML Security
+### 4. 3. What Can Go Wrong with ML Security
 
 #### The OWASP Top Ten as a checklist
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980)
@@ -914,7 +915,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. What Can Go Wrong with AI: Trustworthiness
+### 5. 4. What Can Go Wrong with AI: Trustworthiness
 
 #### NIST Framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/nist-framework?u=76281980)
@@ -1094,7 +1095,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. What Are You Going to Do about It?
+### 6. 5. What Are You Going to Do about It?
 
 #### Specific frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980)
@@ -1232,7 +1233,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980)
@@ -1261,6 +1262,17 @@ created: 2026-04-21
 > **URLs:** [shostack.org](https://shostack.org) (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Adam Shostack]]
+
+## Skills Covered
+
+- Threat Modeling
+- Machine Learning
+- Artificial Intelligence (AI)
+- AI Security
 
 ## Path Context
 

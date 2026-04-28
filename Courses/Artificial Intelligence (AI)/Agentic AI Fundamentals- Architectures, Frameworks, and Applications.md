@@ -33,8 +33,10 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Agentic%20AI%20Fundamentals-%20Architectures%2C%20Frameworks%2C%20and%20Applications.md)
 
 ![Agentic AI Fundamentals: Architectures, Frameworks, and Applications](https://media.licdn.com/dms/image/v2/D4E0DAQFeob8hnSjKMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727131962285?e=2147483647&amp;v=beta&amp;t=wi1Org_76UJ4ULeSdDTWVq95tDEDiPIS0kq3DRqD6O4)
 
@@ -45,19 +47,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications) | 1h 15m | Beginner | 92K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Linthicum]]
-
-## Skills Covered
-
-- AI for Business
-- AI Agents
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Definition and Importance of Agentic AI** (3 videos)
+- **3. 2. Agentic Behavior and Adaptation** (2 videos)
+- **4. 3. Core Methodology and Tools in Agentic AI** (4 videos)
+- **5. 4. Agent Architectures in Agentic AI** (2 videos)
+- **6. 5. Advanced Communication Frameworks in Agentic AI** (4 videos)
+- **7. 6. Ethical and Societal Implications** (2 videos)
+- **8. 7. Security and Robustness** (2 videos)
+- **9. 8. Agentic AI in the Future** (2 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Agentic AI: The future of smart AI is here!
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980)
@@ -89,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Definition and Importance of Agentic AI
+### 2. 1. Definition and Importance of Agentic AI
 
 #### What is agentic AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980)
@@ -305,7 +310,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Agentic Behavior and Adaptation
+### 3. 2. Agentic Behavior and Adaptation
 
 #### How AI systems perceive their environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980)
@@ -465,7 +470,7 @@ created: 2026-04-21
 > **Speakers:** - agentic (1)
 
 
-### 3. Core Methodology and Tools in Agentic AI
+### 4. 3. Core Methodology and Tools in Agentic AI
 
 #### Machine learning for agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980)
@@ -736,7 +741,7 @@ created: 2026-04-21
 > **Speakers:** - reinforcement (1)
 
 
-### 4. Agent Architectures in Agentic AI
+### 5. 4. Agent Architectures in Agentic AI
 
 #### Agent architectures: major
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980)
@@ -869,7 +874,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 5. Advanced Communication Frameworks in Agentic AI
+### 6. 5. Advanced Communication Frameworks in Agentic AI
 
 #### Developing a cooperative multiagent system
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/developing-a-cooperative-multi-agent-system?u=76281980)
@@ -1160,7 +1165,7 @@ created: 2026-04-21
 > **Speakers:** - negotiation (1)
 
 
-### 6. Ethical and Societal Implications
+### 7. 6. Ethical and Societal Implications
 
 #### Ethical frameworks and considerations in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980)
@@ -1301,7 +1306,7 @@ created: 2026-04-21
 > **Speakers:** - along (1)
 
 
-### 7. Security and Robustness
+### 8. 7. Security and Robustness
 
 #### Security challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980)
@@ -1476,7 +1481,7 @@ created: 2026-04-21
 > **Speakers:** - many (1)
 
 
-### 8. Agentic AI in the Future
+### 9. 8. Agentic AI in the Future
 
 #### The future role of agentic AI in industry 4.0 and beyond
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980)
@@ -1622,7 +1627,7 @@ created: 2026-04-21
 > **Speakers:** - not (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980)
@@ -1669,6 +1674,16 @@ created: 2026-04-21
 > **Analogies:** it's like (1)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[David Linthicum]]
+
+## Skills Covered
+
+- AI for Business
+- AI Agents
+- Artificial Intelligence (AI)
 
 ## Path Context
 

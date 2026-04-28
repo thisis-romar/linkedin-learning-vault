@@ -31,8 +31,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Understanding%20Artificial%20Intelligence%20Concepts%20And%20Terminology%20With%20Iso%20Iec%2022989.md)
 
 ![Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989](https://media.licdn.com/dms/image/v2/D4E0DAQHhxjeoncIteA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737677724846?e=2147483647&amp;v=beta&amp;t=igLAIsTseGbk-Xokwf26PTDyNkrVAZr3cgZe-8izIMQ)
 
@@ -43,20 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022) | Beginner | 18K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- IT Governance
-- Responsible AI
-- Artificial Intelligence (AI)
-- Governance, Risk Management, and Compliance (GRC)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AI Concepts: Clauses 5-5.10** (7 videos)
+- **3. 2. Machine Learning Concepts: Clauses 5.11-5.12.4** (7 videos)
+- **4. 3. AI Technology and Administrative Controls** (5 videos)
+- **5. 4. AI System Lifecycle and Functional Overview: Clause 6-7.4** (4 videos)
+- **6. 5. AI Ecosystem: Clause 8-8.7** (5 videos)
+- **7. 6. Fields and Application of AI: Clause 9-10.4** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The benefits of a common AI language
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/the-benefits-of-a-common-ai-language?u=76281980)
@@ -83,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - just (1)
 
 
-### 1. AI Concepts: Clauses 5-5.10
+### 2. 1. AI Concepts: Clauses 5-5.10
 
 #### Overview of AI concepts (Clause 5.1)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/overview-of-ai-concepts-clause-5-1?u=76281980)
@@ -586,7 +588,7 @@ created: 2026-04-21
 > **Speakers:** - no (1)
 
 
-### 2. Machine Learning Concepts: Clauses 5.11-5.12.4
+### 3. 2. Machine Learning Concepts: Clauses 5.11-5.12.4
 
 #### Supervised, unsupervised, and semi-supervised (Clause 5.11-5.11.3)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980)
@@ -1187,7 +1189,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 3. AI Technology and Administrative Controls
+### 4. 3. AI Technology and Administrative Controls
 
 #### Autonomy, heteronomy, and automation (Clause 5.13)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/autonomy-heteronomy-and-automation-clause-5-13?u=76281980)
@@ -1586,7 +1588,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 4. AI System Lifecycle and Functional Overview: Clause 6-7.4
+### 5. 4. AI System Lifecycle and Functional Overview: Clause 6-7.4
 
 #### AI system lifecycle overview (Clause 6.1)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980)
@@ -1873,7 +1875,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 5. AI Ecosystem: Clause 8-8.7
+### 6. 5. AI Ecosystem: Clause 8-8.7
 
 #### AI ecosystem and function with ML (Clause 8-8.4)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980)
@@ -2155,7 +2157,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 6. Fields and Application of AI: Clause 9-10.4
+### 7. 6. Fields and Application of AI: Clause 9-10.4
 
 #### Computer vision and image recognition (Clause 9.1)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980)
@@ -2461,7 +2463,7 @@ created: 2026-04-21
 > **Speakers:** - pick (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continue your AI journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/continue-your-ai-journey?u=76281980)
@@ -2497,6 +2499,17 @@ created: 2026-04-21
 > **Definitions:** known as (1)
 > **Speakers:** - congratulations (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- IT Governance
+- Responsible AI
+- Artificial Intelligence (AI)
+- Governance, Risk Management, and Compliance (GRC)
 
 ## Path Context
 

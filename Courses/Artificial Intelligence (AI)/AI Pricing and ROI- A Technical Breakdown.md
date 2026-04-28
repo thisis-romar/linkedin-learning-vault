@@ -31,8 +31,10 @@ tags:
   - skill/cost-management
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Pricing%20and%20ROI-%20A%20Technical%20Breakdown.md)
 
 ![AI Pricing and ROI: A Technical Breakdown](https://media.licdn.com/dms/image/v2/D560DAQHSc-vsuiJYPQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713559196213?e=2147483647&amp;v=beta&amp;t=jrQ_pSoJFLYwKslcPPX7LN4VshrKsRPwXLVnk5X9TbE)
 
@@ -43,23 +45,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown) | 3h 11m | Intermediate | 109K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Denys Linkov]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI Solutions
-- Cost Management
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Build vs. Buy** (4 videos)
+- **3. 2. Costs of Using an AI API** (10 videos)
+- **4. 3. Examining Major Vendor Pricing** (6 videos)
+- **5. 4. Costs of Training AI** (13 videos)
+- **6. 5. Costs of Hosting AI** (9 videos)
+- **7. 6. Other Costs** (5 videos)
+- **8. 7. Revenue-Generating Models** (11 videos)
+- **9. 8. ROI on AI Use Cases** (4 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Considering the cost of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/considering-the-cost-of-ai?u=76281980)
@@ -90,7 +91,7 @@ created: 2026-04-21
 > **Speakers:** - everyone (1)
 
 
-### 1. Build vs. Buy
+### 2. 1. Build vs. Buy
 
 #### Framing build vs. buy in an AI context
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980)
@@ -300,7 +301,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Costs of Using an AI API
+### 3. 2. Costs of Using an AI API
 
 #### Introduction to AI as an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980)
@@ -1021,7 +1022,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 3. Examining Major Vendor Pricing
+### 4. 3. Examining Major Vendor Pricing
 
 #### Diving into ChatGPT pricing (OpenAI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980)
@@ -1454,7 +1455,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 4. Costs of Training AI
+### 5. 4. Costs of Training AI
 
 #### Overview of technical components and tooling
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/overview-of-technical-components-and-tooling?u=76281980)
@@ -2466,7 +2467,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Costs of Hosting AI
+### 6. 5. Costs of Hosting AI
 
 #### Hosting and running your AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980)
@@ -3288,7 +3289,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Other Costs
+### 7. 6. Other Costs
 
 #### AI copyright and legal risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980)
@@ -3709,7 +3710,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 7. Revenue-Generating Models
+### 8. 7. Revenue-Generating Models
 
 #### Unit and margin pricing for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980)
@@ -4656,7 +4657,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### 8. ROI on AI Use Cases
+### 9. 8. ROI on AI Use Cases
 
 #### ROI on AI customer support automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980)
@@ -5070,7 +5071,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/next-steps?u=76281980)
@@ -5094,6 +5095,20 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Denys Linkov]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI Solutions
+- Cost Management
+- Artificial Intelligence (AI)
 
 ## Path Context
 

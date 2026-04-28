@@ -31,8 +31,10 @@ tags:
   - skill/python-programming-language
   - skill/data-ingestion
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Ingestion%20with%20Python.md)
 
 ![Data Ingestion with Python](https://media.licdn.com/dms/image/v2/D560DAQGS5aDB3_uTbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703116291273?e=2147483647&amp;v=beta&amp;t=4a99Pt2L-0He9uLVObjaIUAfeju8706PW2vHsgwsvAs)
 
@@ -43,22 +45,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python) | 1h 24m | Intermediate | 38K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Miki Tebeka]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Ingestion
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Data Ingestion Overview** (5 videos)
+- **3. 2. Reading Files** (6 videos)
+- **4. 3. Calling APIs** (4 videos)
+- **5. 4. Web Scraping** (6 videos)
+- **6. 5. Schema** (5 videos)
+- **7. 6. Working with Databases** (7 videos)
+- **8. 7. Troubleshooting Data** (6 videos)
+- **9. 8. Data KPIs and Process** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why is data ingestion important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980)
@@ -140,7 +142,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/using-the-coderpad-quizzes?u=76281980)
 
 
-### 1. Data Ingestion Overview
+### 2. 1. Data Ingestion Overview
 
 #### Overview of data scientists work
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/overview-of-data-scientists-work?u=76281980)
@@ -330,7 +332,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Reading Files
+### 3. 2. Reading Files
 
 #### Working in CSV
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980)
@@ -700,7 +702,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/solution-csv-to-json-20213861?u=76281980)
 
 
-### 3. Calling APIs
+### 4. 3. Calling APIs
 
 #### Working with JSON
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-json?u=76281980)
@@ -894,7 +896,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/solution-location-from-ip-20213859?u=76281980)
 
 
-### 4. Web Scraping
+### 5. 4. Web Scraping
 
 #### Try to find an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980)
@@ -1149,7 +1151,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/solution-get-stock-information-from-html?u=76281980)
 
 
-### 5. Schema
+### 6. 5. Schema
 
 #### What are schemas?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980)
@@ -1393,7 +1395,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Working with Databases
+### 7. 6. Working with Databases
 
 #### Types of databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980)
@@ -1762,7 +1764,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/solution-etl-20213862?u=76281980)
 
 
-### 7. Troubleshooting Data
+### 8. 7. Troubleshooting Data
 
 #### Data is never 100% okay
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/data-is-never-100-okay?u=76281980)
@@ -2065,7 +2067,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/solution-clean-rides-dataset?u=76281980)
 
 
-### 8. Data KPIs and Process
+### 9. 8. Data KPIs and Process
 
 #### Design your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/design-your-data?u=76281980)
@@ -2209,7 +2211,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/next-steps?u=76281980)
@@ -2243,6 +2245,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - your (1)
 
+
+## Instructor
+
+- [[Miki Tebeka]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Ingestion
 
 ## Path Context
 

@@ -43,36 +43,33 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20with%20Python-%20Foundations.md)
 
 ![Machine Learning with Python: Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQEv0QXZlJat7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633371437602?e=2147483647&amp;v=beta&amp;t=Ux0MgiDufbCMgW393JLr2OFJWXK08s-q_beryGUuv1Y)
 
 # Machine Learning with Python: Foundations
 
-> You’ve probably heard about machine learning before, but have you ever wondered what that term really means? How does a machine learn? Have you thought about building a machine learning model, but didn’t know where to start?
-In this course, Frederick Nwanganga introduces machine learning in an approachable way and provides step-by-step guidance on how to get started with machine learning via the m
+> You’ve probably heard about machine learning before, but have you ever wondered what that term really means? How does a machine learn? Have you thought about building a machine learning model, but didn’t know where to start? In this course, Frederick Nwanganga introduces machine learning in an approachable way and provides step-by-step guidance on how to get started with machine learning via the m
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations) | 1h 54m | Intermediate | 18K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Frederick Nwanganga]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Machine Learning
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Machine Learning** (6 videos)
+- **3. 2. Collecting Data for Machine Learning** (2 videos)
+- **4. 3. Understanding Data for Machine Learning** (4 videos)
+- **5. 4. Preparing Data for Machine Learning** (7 videos)
+- **6. 5. Types of Machine Learning Models** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Machine learning in our world
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980)
@@ -216,7 +213,7 @@ In this course, Frederick Nwanganga introduces machine learning in an approachab
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Machine Learning
+### 2. 1. Machine Learning
 
 #### What is machine learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980)
@@ -768,7 +765,7 @@ In this course, Frederick Nwanganga introduces machine learning in an approachab
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Collecting Data for Machine Learning
+### 3. 2. Collecting Data for Machine Learning
 
 #### Things to consider when collecting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980)
@@ -963,7 +960,7 @@ In this course, Frederick Nwanganga introduces machine learning in an approachab
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Understanding Data for Machine Learning
+### 4. 3. Understanding Data for Machine Learning
 
 #### Describe your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/describe-your-data?u=76281980)
@@ -1389,7 +1386,7 @@ In this course, Frederick Nwanganga introduces machine learning in an approachab
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Preparing Data for Machine Learning
+### 5. 4. Preparing Data for Machine Learning
 
 #### Common data quality issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980)
@@ -2117,7 +2114,7 @@ In this course, Frederick Nwanganga introduces machine learning in an approachab
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Types of Machine Learning Models
+### 6. 5. Types of Machine Learning Models
 
 #### Classification vs. regression problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/classification-vs-regression-problems?u=76281980)
@@ -2370,7 +2367,7 @@ In this course, Frederick Nwanganga introduces machine learning in an approachab
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps with applied machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980)
@@ -2427,6 +2424,20 @@ In this course, Frederick Nwanganga introduces machine learning in an approachab
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Frederick Nwanganga]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Machine Learning
+- Artificial Intelligence (AI)
 
 ## Path Context
 

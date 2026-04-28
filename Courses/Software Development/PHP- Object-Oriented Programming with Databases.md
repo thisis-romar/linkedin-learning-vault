@@ -27,8 +27,10 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/PHP-%20Object-Oriented%20Programming%20with%20Databases.md)
 
 ![PHP: Object-Oriented Programming with Databases](https://media.licdn.com/dms/image/v2/D4D0DAQHgFvhoiy67vw/learning-public-crop_675_1200/B4DZoIDQekJAAc-/0/1761071663290?e=2147483647&amp;v=beta&amp;t=4LphMfFYPEBfDxbm8LtMdFhnyEKpPy1CMCvslt2TWAo)
 
@@ -39,21 +41,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases) | 4h 4m | Intermediate | 76K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Skoglund]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Overview and Project Setup** (4 videos)
+- **3. 2. The Database Connection** (5 videos)
+- **4. 3. Define a Database-Driven Class** (6 videos)
+- **5. 4. Object-Oriented CRUD** (10 videos)
+- **6. 5. Object-Oriented Authentication** (9 videos)
+- **7. 6. Object-Oriented Pagination** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980)
@@ -220,7 +221,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 1. Overview and Project Setup
+### 2. 1. Overview and Project Setup
 
 #### Project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980)
@@ -537,7 +538,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. The Database Connection
+### 3. 2. The Database Connection
 
 #### Database credentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980)
@@ -1030,7 +1031,7 @@ created: 2026-04-21
 > **Best Practices:** good practice (1)
 
 
-### 3. Define a Database-Driven Class
+### 4. 3. Define a Database-Driven Class
 
 #### Active record design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980)
@@ -1701,7 +1702,7 @@ created: 2026-04-21
 > **Versions:** php 7 (1)
 
 
-### 4. Object-Oriented CRUD
+### 5. 4. Object-Oriented CRUD
 
 #### CRUD operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980)
@@ -3787,7 +3788,7 @@ created: 2026-04-21
 > **Tools:** firefox (1)
 
 
-### 5. Object-Oriented Authentication
+### 6. 5. Object-Oriented Authentication
 
 #### Admin class
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980)
@@ -5263,7 +5264,7 @@ created: 2026-04-21
 > **Env Vars:** html (1)
 
 
-### 6. Object-Oriented Pagination
+### 7. 6. Object-Oriented Pagination
 
 #### Pagination concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980)
@@ -6195,7 +6196,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/next-steps?u=76281980)
@@ -6223,6 +6224,18 @@ created: 2026-04-21
 > **Code Keywords:** delete (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Kevin Skoglund]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- PHP
 
 ## Path Context
 

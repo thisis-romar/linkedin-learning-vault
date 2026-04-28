@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/sales-effectiveness
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20365%20Copilot-%20Helpful%20Tips%20for%20Sales%20Professionals.md)
 
 ![Microsoft 365 Copilot: Helpful Tips for Sales Professionals](https://media.licdn.com/dms/image/v2/D560DAQEPYy69fXf-Xg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721861568384?e=2147483647&amp;v=beta&amp;t=s2oXLgyhTpezjkQiH4krZalGN33Z90sTwe8-sIwYb88)
 
@@ -42,20 +44,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals) | 20m | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Garrick Chow]]
-
-## Skills Covered
-
-- Microsoft Copilot
-- Microsoft 365
-- Artificial Intelligence (AI)
-- Sales Effectiveness
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Use Case Examples** (4 videos)
+
+### 1. Introduction
 
 #### Understand Copilot's role in sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980)
@@ -100,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Use Case Examples
+### 2. 1. Use Case Examples
 
 #### Boost customer research and sales preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980)
@@ -424,6 +420,17 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Garrick Chow]]
+
+## Skills Covered
+
+- Microsoft Copilot
+- Microsoft 365
+- Artificial Intelligence (AI)
+- Sales Effectiveness
 
 ## Path Context
 

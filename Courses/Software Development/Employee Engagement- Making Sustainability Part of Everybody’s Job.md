@@ -30,37 +30,31 @@ tags:
   - skill/corporate-sustainability
   - skill/job-description-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Employee%20Engagement-%20Making%20Sustainability%20Part%20of%20Everybody%E2%80%99s%20Job.md)
 
 ![Employee Engagement: Making Sustainability Part of Everybody’s Job](https://media.licdn.com/dms/image/v2/D4D0DAQHXX0_TnTIpsw/learning-public-crop_675_1200/B4DZZkcdRXG4Ac-/0/1745441904103?e=2147483647&amp;v=beta&amp;t=Q6gWs8HHYlC5LZSe2-JcUO0Wbhl27iezfnAhReQRS00)
 
 # Employee Engagement: Making Sustainability Part of Everybody’s Job
 
-> Companies are moving fast to tackle climate change—investing in new technologies, reducing their environmental impact, and rethinking how they do business. But here’s the catch: full-time sustainability roles usually make up less than 1% of the workforce. That’s not enough to meet the moment. To drive real change, you need to engage the other 99%.
-
-In this course, instructor Drew Wilkinson shows y
+> Companies are moving fast to tackle climate change—investing in new technologies, reducing their environmental impact, and rethinking how they do business. But here’s the catch: full-time sustainability roles usually make up less than 1% of the workforce. That’s not enough to meet the moment. To drive real change, you need to engage the other 99%. In this course, instructor Drew Wilkinson shows yo
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job) | 1h 2m | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Drew Wilkinson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Sustainability
-- Corporate Sustainability
-- Job Description Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The Importance of Employee Engagement for Sustainability (What and Why)** (3 videos)
+- **3. 2. The Virtuous Cycle Framework (How and Who)** (7 videos)
+- **4. 3. Making Sustainability Part of Everybody's Job** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Sustainability is part of everybody's job
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980)
@@ -210,7 +204,7 @@ In this course, instructor Drew Wilkinson shows y
 > **Speakers:** - let (1)
 
 
-### 1. The Importance of Employee Engagement for Sustainability (What and Why)
+### 2. 1. The Importance of Employee Engagement for Sustainability (What and Why)
 
 #### Employee engagement for sustainability: Expanding the circle
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980)
@@ -398,7 +392,7 @@ In this course, instructor Drew Wilkinson shows y
 > **Speakers:** - climate (1)
 
 
-### 2. The Virtuous Cycle Framework (How and Who)
+### 3. 2. The Virtuous Cycle Framework (How and Who)
 
 #### The virtuous cycle of employee engagement
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980)
@@ -979,7 +973,7 @@ In this course, instructor Drew Wilkinson shows y
 > **Speakers:** - which (1)
 
 
-### 3. Making Sustainability Part of Everybody's Job
+### 4. 3. Making Sustainability Part of Everybody's Job
 
 #### Challenges and opportunities for employee engagement
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980)
@@ -1185,7 +1179,7 @@ In this course, instructor Drew Wilkinson shows y
 > **Speakers:** - so (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### To change everything, we need everyone
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980)
@@ -1314,6 +1308,20 @@ In this course, instructor Drew Wilkinson shows y
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Drew Wilkinson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Sustainability
+- Corporate Sustainability
+- Job Description Development
 
 ## Path Context
 

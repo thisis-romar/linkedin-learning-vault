@@ -23,8 +23,10 @@ tags:
   - topic/software-development
   - topic/devops
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Planning%20and%20Implementing%20a%20Rapid%20Cloud%20Migration%20(RCM).md)
 
 ![Planning and Implementing a Rapid Cloud Migration (RCM)](https://media.licdn.com/dms/image/v2/C560DAQHRAgvDDTgkhQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629824104520?e=2147483647&amp;v=beta&amp;t=x8u8P2SOQhU9ecMa12SDqY64IFDXhQcUibl0KgRRlts)
 
@@ -35,13 +37,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm) | 1h 2m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Linthicum]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to Crisis-Driven Rapid Migration** (5 videos)
+- **3. 2. Selecting the Workloads** (3 videos)
+- **4. 3. Picking the Target Platform for Rapid Migration** (4 videos)
+- **5. 4. Cloud-Based Tools for Rapid Migration** (2 videos)
+- **6. 5. Setting Up a Rapid Migration Factory** (4 videos)
+- **7. 6. Rapid Migration at Scale** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Overview of rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/overview-of-rapid-migration?u=76281980)
@@ -122,7 +131,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Crisis-Driven Rapid Migration
+### 2. 1. Introduction to Crisis-Driven Rapid Migration
 
 #### Understanding when to use rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-when-to-use-rapid-migration?u=76281980)
@@ -463,7 +472,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Selecting the Workloads
+### 3. 2. Selecting the Workloads
 
 #### Good candidates for rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/good-candidates-for-rapid-migration?u=76281980)
@@ -637,7 +646,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Picking the Target Platform for Rapid Migration
+### 4. 3. Picking the Target Platform for Rapid Migration
 
 #### Leveraging public clouds in a rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980)
@@ -815,7 +824,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Cloud-Based Tools for Rapid Migration
+### 5. 4. Cloud-Based Tools for Rapid Migration
 
 #### AWS migration tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980)
@@ -1088,7 +1097,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Setting Up a Rapid Migration Factory
+### 6. 5. Setting Up a Rapid Migration Factory
 
 #### Rapid workload triage
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-workload-triage?u=76281980)
@@ -1231,7 +1240,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Rapid Migration at Scale
+### 7. 6. Rapid Migration at Scale
 
 #### Getting up to 100 applications and data sets migrated daily
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980)
@@ -1450,7 +1459,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Where to go from here with rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/where-to-go-from-here-with-rapid-migration?u=76281980)
@@ -1480,6 +1489,10 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
 
+
+## Instructor
+
+- [[David Linthicum]]
 
 ## Path Context
 

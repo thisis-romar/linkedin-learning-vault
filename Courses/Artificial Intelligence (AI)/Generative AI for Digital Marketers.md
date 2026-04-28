@@ -28,8 +28,10 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20for%20Digital%20Marketers.md)
 
 ![Generative AI for Digital Marketers](https://media.licdn.com/dms/image/v2/D560DAQFV-kzpUBiKUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685564273312?e=2147483647&amp;v=beta&amp;t=RW4qB0XoCwL-kR7GG1wBFADHTesjxJW_XyQS2qPNb3M)
 
@@ -40,13 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers) | 33m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Martin Waxman]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Defining AI Terms for Marketers** (3 videos)
+- **3. 2. Navigating AI Tools for Marketers** (5 videos)
+- **4. 3. Developing Your AI Marketing Strategy** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Digital marketing meets generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/digital-marketing-meets-generative-ai?u=76281980)
@@ -75,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 1. Defining AI Terms for Marketers
+### 2. 1. Defining AI Terms for Marketers
 
 #### Narrow versus general AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980)
@@ -219,7 +225,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Navigating AI Tools for Marketers
+### 3. 2. Navigating AI Tools for Marketers
 
 #### AI and writing in marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980)
@@ -500,7 +506,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Developing Your AI Marketing Strategy
+### 4. 3. Developing Your AI Marketing Strategy
 
 #### AI issues, risks, and policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980)
@@ -627,7 +633,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### AI and your marketing and creative team
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980)
@@ -657,6 +663,10 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Martin Waxman]]
 
 ## Path Context
 

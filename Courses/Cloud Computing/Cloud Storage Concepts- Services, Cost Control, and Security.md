@@ -34,8 +34,10 @@ tags:
   - skill/storage-management
   - skill/cloud-storage
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Storage%20Concepts-%20Services%2C%20Cost%20Control%2C%20and%20Security.md)
 
 ![Cloud Storage Concepts: Services, Cost Control, and Security](https://media.licdn.com/dms/image/v2/D560DAQFQAW9zodTrOA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680561845407?e=2147483647&amp;v=beta&amp;t=Fzie8t5YzaKjGXcCwY8G7I5ElIL3Bp7g7Jpiv9F5QUM)
 
@@ -46,18 +48,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security) | 58m | Beginner | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Linthicum]]
-
-## Skills Covered
-
-- Storage Management
-- Cloud Storage
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Cloud Storage Basics** (8 videos)
+- **3. 2. Cloud Services That Leverage Cloud Storage** (7 videos)
+- **4. 3. Cloud Storage Planning** (7 videos)
+- **5. 4. AWS Cloud Storage** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980)
@@ -111,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Cloud Storage Basics
+### 2. 1. Cloud Storage Basics
 
 #### Cloud storage types
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980)
@@ -472,7 +474,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Cloud Services That Leverage Cloud Storage
+### 3. 2. Cloud Services That Leverage Cloud Storage
 
 #### Cloud databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980)
@@ -773,7 +775,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### 3. Cloud Storage Planning
+### 4. 3. Cloud Storage Planning
 
 #### Understanding your storage requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980)
@@ -1147,7 +1149,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. AWS Cloud Storage
+### 5. 4. AWS Cloud Storage
 
 #### Allocating storage instances
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980)
@@ -1342,7 +1344,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### More about cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980)
@@ -1369,6 +1371,15 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[David Linthicum]]
+
+## Skills Covered
+
+- Storage Management
+- Cloud Storage
 
 ## Path Context
 

@@ -34,8 +34,10 @@ tags:
   - skill/chatgpt
   - skill/business-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20ChatGPT%20for%20Business%20Analysis.md)
 
 ![Learning ChatGPT for Business Analysis](https://media.licdn.com/dms/image/v2/D560DAQH3dUQYhefIZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723137556512?e=2147483647&amp;v=beta&amp;t=vjTp4Lr1NARfdDOHMdpIZi2qkgPUx0m24vOobAuoP58)
 
@@ -46,25 +48,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis) | 1h 5m | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Vincent Mirabelli]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business Analysis
-- AI for Business
-- Artificial Intelligence (AI)
-- ChatGPT
-- Business Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. All about ChatGPT** (5 videos)
+- **3. 2. ChatGPT Use Cases** (17 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Power up with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980)
@@ -142,7 +135,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. All about ChatGPT
+### 2. 1. All about ChatGPT
 
 #### What is ChatGPT?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-is-chatgpt?u=76281980)
@@ -408,7 +401,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. ChatGPT Use Cases
+### 3. 2. ChatGPT Use Cases
 
 #### Gaining insights from the output of elicitation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980)
@@ -1344,7 +1337,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### We're just getting started with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980)
@@ -1399,6 +1392,22 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Vincent Mirabelli]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business Analysis
+- AI for Business
+- Artificial Intelligence (AI)
+- ChatGPT
+- Business Analysis
 
 ## Path Context
 

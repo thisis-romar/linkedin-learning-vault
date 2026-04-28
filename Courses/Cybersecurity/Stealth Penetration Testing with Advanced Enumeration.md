@@ -28,8 +28,10 @@ tags:
   - skill/penetration-testing
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Stealth%20Penetration%20Testing%20with%20Advanced%20Enumeration.md)
 
 ![Stealth Penetration Testing with Advanced Enumeration](https://media.licdn.com/dms/image/v2/C560DAQF--sp2TBlPVg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1659468133021?e=2147483647&amp;v=beta&amp;t=5YHXjp08o_mpfV5X4-FzNlPgmEJg5aEKwJaPflgQZK0)
 
@@ -40,18 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration) | 1h 2m | Advanced | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Skills Covered
-
-- Penetration Testing
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Operating Stealthily** (3 videos)
+- **3. 2. Living off the Land** (3 videos)
+- **4. 3. Advanced Enumeration** (3 videos)
+- **5. 4. Tunneling and Exfiltration** (3 videos)
+- **6. 5. Escalating Privileges** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Taking the next step in your ethical hacking career
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/taking-the-next-step-in-your-ethical-hacking-career?u=76281980)
@@ -121,7 +124,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Operating Stealthily
+### 2. 1. Operating Stealthily
 
 #### Being detected
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980)
@@ -328,7 +331,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Living off the Land
+### 3. 2. Living off the Land
 
 #### What is living off the land?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980)
@@ -578,7 +581,7 @@ created: 2026-04-21
 > **Tools:** github (1)
 
 
-### 3. Advanced Enumeration
+### 4. 3. Advanced Enumeration
 
 #### Stealthy linux enumeration
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980)
@@ -793,7 +796,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 4. Tunneling and Exfiltration
+### 5. 4. Tunneling and Exfiltration
 
 #### Setting up and using an SSH tunnel
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/setting-up-and-using-an-ssh-tunnel?u=76281980)
@@ -1060,7 +1063,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 5. Escalating Privileges
+### 6. 5. Escalating Privileges
 
 #### Using Baron Samedit to escalate in Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-baron-samedit-to-escalate-in-linux?u=76281980)
@@ -1344,7 +1347,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980)
@@ -1372,6 +1375,15 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Skills Covered
+
+- Penetration Testing
+- Ethical Hacking
 
 ## Path Context
 

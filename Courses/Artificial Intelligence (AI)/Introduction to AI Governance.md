@@ -55,8 +55,10 @@ tags:
   - skill/data-governance
   - skill/ai-governance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20AI%20Governance.md)
 
 ![Introduction to AI Governance](https://media.licdn.com/dms/image/v2/D560DAQHc6_dz2wETeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707166447052?e=2147483647&amp;v=beta&amp;t=6_sPQphGy-K_oNvC_225It9xnGmg4G6RipMpJIWFzhU)
 
@@ -67,24 +69,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance) | 59m | Beginner | 531K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Vidhi Chugh]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Responsible AI
-- Artificial Intelligence (AI)
-- Data Governance
-- AI Governance
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding the Governance Landscape** (4 videos)
+- **3. 2. Building the Governance Lens** (3 videos)
+- **4. 3. Measures to Introduce Governance** (3 videos)
+- **5. 4. Future of AI Governance** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Developing the lens of AI governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/developing-the-lens-of-ai-governance?u=76281980)
@@ -112,7 +108,7 @@ created: 2026-04-21
 > **Speakers:** - [vidhi] (1)
 
 
-### 1. Understanding the Governance Landscape
+### 2. 1. Understanding the Governance Landscape
 
 #### Overview of AI governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980)
@@ -439,7 +435,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Building the Governance Lens
+### 3. 2. Building the Governance Lens
 
 #### Dimensions of governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980)
@@ -686,7 +682,7 @@ created: 2026-04-21
 > **Speakers:** - [educator] (1)
 
 
-### 3. Measures to Introduce Governance
+### 4. 3. Measures to Introduce Governance
 
 #### Setting up an ethics board
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980)
@@ -964,7 +960,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Future of AI Governance
+### 5. 4. Future of AI Governance
 
 #### The road ahead
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980)
@@ -1133,7 +1129,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Advancing AI governance in your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980)
@@ -1186,6 +1182,21 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - [presenter] (1)
 
+
+## Instructor
+
+- [[Vidhi Chugh]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Responsible AI
+- Artificial Intelligence (AI)
+- Data Governance
+- AI Governance
 
 ## Path Context
 

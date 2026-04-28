@@ -34,36 +34,35 @@ tags:
   - skill/microservices
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node.js-%20Microservices.md)
 
 ![Node.js: Microservices](https://media.licdn.com/dms/image/v2/D560DAQGNhXwSHfVTTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691165894653?e=2147483647&amp;v=beta&amp;t=ThnvpyREcLCGAomRfWZlgFSbTPHmqCrdrD-9g9rvjC4)
 
 # Node.js: Microservices
 
-> In this fast-paced era of distributed systems, mastering microservices—not just deploying services, but truly understanding the patterns and principles that drive them— is essential for developers. And in organizations large and small, Node.js is often the platform of choice for building microservices architectures. In this course, Daniel Khan
-shows you how to use Node.js to create a microservice 
+> In this fast-paced era of distributed systems, mastering microservices—not just deploying services, but truly understanding the patterns and principles that drive them— is essential for developers. And in organizations large and small, Node.js is often the platform of choice for building microservices architectures. In this course, Daniel Khan shows you how to use Node.js to create a microservice 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072) | 3h 39m | Advanced | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daniel Khan]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/nodejs-microservices-4403064)
-
-## Skills Covered
-
-- Microservices
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Prepare Your Development Environment** (5 videos)
+- **3. 2. Planning Your Microservice Migration** (4 videos)
+- **4. 3. Your First Service: The Catalog Service** (7 videos)
+- **5. 4. Creating a Service Registry** (9 videos)
+- **6. 5. Using Services** (7 videos)
+- **7. 6. Authenticating APIs** (6 videos)
+- **8. 7. Adding Fault Tolerance and Resilience** (8 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding how microservices are built and used
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-how-microservices-are-built-and-used?u=76281980)
@@ -126,7 +125,7 @@ shows you how to use Node.js to create a microservice
 > **Speakers:** - this (1)
 
 
-### 1. Prepare Your Development Environment
+### 2. 1. Prepare Your Development Environment
 
 #### Installing Git, Node.js, and Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980)
@@ -402,7 +401,7 @@ shows you how to use Node.js to create a microservice
 > **Speakers:** - [tutor] (1)
 
 
-### 2. Planning Your Microservice Migration
+### 3. 2. Planning Your Microservice Migration
 
 #### Setting up and exploring your sample application
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980)
@@ -776,7 +775,7 @@ shows you how to use Node.js to create a microservice
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Your First Service: The Catalog Service
+### 4. 3. Your First Service: The Catalog Service
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980)
@@ -1512,7 +1511,7 @@ shows you how to use Node.js to create a microservice
 > **Tools:** visual studio (1)
 
 
-### 4. Creating a Service Registry
+### 5. 4. Creating a Service Registry
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664578?u=76281980)
@@ -2620,7 +2619,7 @@ shows you how to use Node.js to create a microservice
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Using Services
+### 6. 5. Using Services
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664580?u=76281980)
@@ -3338,7 +3337,7 @@ shows you how to use Node.js to create a microservice
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Authenticating APIs
+### 7. 6. Authenticating APIs
 
 #### API authentication with JWT
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980)
@@ -4026,7 +4025,7 @@ shows you how to use Node.js to create a microservice
 > **CLI Commands:** find (1)
 
 
-### 7. Adding Fault Tolerance and Resilience
+### 8. 7. Adding Fault Tolerance and Resilience
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980)
@@ -4747,7 +4746,7 @@ shows you how to use Node.js to create a microservice
 > **Versions:** 127.0.01 (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980)
@@ -4782,6 +4781,20 @@ shows you how to use Node.js to create a microservice
 > **Analogies:** for instance (1)
 > **Speakers:** - [daniel] (1)
 
+
+## Instructor
+
+- [[Daniel Khan]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/nodejs-microservices-4403064)
+
+## Skills Covered
+
+- Microservices
+- Node.js
 
 ## Path Context
 

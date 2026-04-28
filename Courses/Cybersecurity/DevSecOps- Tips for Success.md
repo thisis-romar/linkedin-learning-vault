@@ -27,8 +27,10 @@ tags:
   - topic/devops
   - skill/devsecops
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/DevSecOps-%20Tips%20for%20Success.md)
 
 ![DevSecOps: Tips for Success](https://media.licdn.com/dms/image/v2/C560DAQEL9q77puecnQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584471062411?e=2147483647&amp;v=beta&amp;t=SSdEBuns4xpCGT55BNVXe1ecP0jMNu2mPXBvqzVHy7E)
 
@@ -39,17 +41,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success) | 53m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[James Wickett]]
-
-## Skills Covered
-
-- DevSecOps
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Why You Need DevSecOps** (2 videos)
+- **3. 2. Tips to Succeed at DevSecOps** (10 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get clear on DevSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980)
@@ -81,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - devops (1)
 
 
-### 1. Why You Need DevSecOps
+### 2. 1. Why You Need DevSecOps
 
 #### Security work is just not fair
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980)
@@ -240,7 +241,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Tips to Succeed at DevSecOps
+### 3. 2. Tips to Succeed at DevSecOps
 
 #### Be a maker for DevSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980)
@@ -1274,7 +1275,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Be a DevSecOps ambassador
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980)
@@ -1318,6 +1319,14 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [james] (1)
 
+
+## Instructor
+
+- [[James Wickett]]
+
+## Skills Covered
+
+- DevSecOps
 
 ## Path Context
 

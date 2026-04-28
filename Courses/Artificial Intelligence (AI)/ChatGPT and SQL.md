@@ -33,37 +33,32 @@ tags:
   - skill/chatgpt
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ChatGPT%20and%20SQL.md)
 
 ![ChatGPT and SQL](https://media.licdn.com/dms/image/v2/D560DAQELJEReeU-4_A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008999244?e=2147483647&amp;v=beta&amp;t=1E76A8wJsKma21O6mU2x-tfaIm7xcv78jDsqeYmLpcQ)
 
 # ChatGPT and SQL
 
-> AI is changing the world around us, and completely revolutionizing the way we work.
-Data professionals now have access to tools that provide superpowers to work smarter and faster than ever before. In this course, the Maven Analytics team guides you through the world of deep learning and generative AI and shows you how to leverage SQL and ChatGPT together to work more efficiently and make smarter,
+> AI is changing the world around us, and completely revolutionizing the way we work. Data professionals now have access to tools that provide superpowers to work smarter and faster than ever before. In this course, the Maven Analytics team guides you through the world of deep learning and generative AI and shows you how to leverage SQL and ChatGPT together to work more efficiently and make smarter,
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql) | 1h 23m | Intermediate | 127K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[John Pauler]]
-- [[Maven Analytics]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- ChatGPT
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Why AI for Data Analytics?** (2 videos)
+- **3. 2. Intro to AI, LLMs, and ChatGPT** (6 videos)
+- **4. 3. Prompt Engineering** (5 videos)
+- **5. 4. ChatGPT for SQL** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The future is now: Intro to AI for data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980)
@@ -140,7 +135,7 @@ Data professionals now have access to tools that provide superpowers to work sma
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Why AI for Data Analytics?
+### 2. 1. Why AI for Data Analytics?
 
 #### Why AI is a game-changer for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980)
@@ -285,7 +280,7 @@ Data professionals now have access to tools that provide superpowers to work sma
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Intro to AI, LLMs, and ChatGPT
+### 3. 2. Intro to AI, LLMs, and ChatGPT
 
 #### The AI landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980)
@@ -664,7 +659,7 @@ Data professionals now have access to tools that provide superpowers to work sma
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/accessing-chatgpt-google-bard?u=76281980)
 
 
-### 3. Prompt Engineering
+### 4. 3. Prompt Engineering
 
 #### Intro to prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980)
@@ -827,7 +822,7 @@ Data professionals now have access to tools that provide superpowers to work sma
 > **Speakers:** - in (1)
 
 
-### 4. ChatGPT for SQL
+### 5. 4. ChatGPT for SQL
 
 #### Intro to ChatGPT for SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-chatgpt-for-sql?u=76281980)
@@ -1823,7 +1818,7 @@ Data professionals now have access to tools that provide superpowers to work sma
 > **Prerequisites:** you need to have (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Key takeaways and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980)
@@ -1908,6 +1903,21 @@ Data professionals now have access to tools that provide superpowers to work sma
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[John Pauler]]
+- [[Maven Analytics]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- ChatGPT
+- SQL
 
 ## Path Context
 

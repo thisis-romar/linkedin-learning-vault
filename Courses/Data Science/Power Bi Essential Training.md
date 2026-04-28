@@ -28,8 +28,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20Bi%20Essential%20Training.md)
 
 ![Power Bi Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQGiXZdaFOqfGw/learning-public-crop_675_1200/B4EZbqVAJHGcAY-/0/1747688097053?e=2147483647&amp;v=beta&amp;t=Q8965DAbjCdMrX1gOxAuc4v62DkPYkaT4LkoXnljQhA)
 
@@ -40,13 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gini von Courter]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Get Started with Power BI** (3 videos)
+- **3. 2. Get Data** (8 videos)
+- **4. 3. Create a Report with Visualizations** (12 videos)
+- **5. 4. Modify and Print a Report** (5 videos)
+- **6. 5. Create a Dashboard** (8 videos)
+- **7. 6. Share Data with Colleagues and Others** (9 videos)
+- **8. 7. Use Power BI Desktop to Model Data** (8 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get the competitive edge in business analysis with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/get-the-competitive-edge-in-business-analysis-with-power-bi?u=76281980)
@@ -172,7 +182,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. Get Started with Power BI
+### 2. 1. Get Started with Power BI
 
 #### Overview: Power BI concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/overview-power-bi-concepts?u=76281980)
@@ -467,7 +477,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Get Data
+### 3. 2. Get Data
 
 #### Power BI data sources for Power BI service
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/power-bi-data-sources-for-power-bi-service?u=76281980)
@@ -939,7 +949,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Create a Report with Visualizations
+### 4. 3. Create a Report with Visualizations
 
 #### Overview: Visualizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/overview-visualizations?u=76281980)
@@ -2347,7 +2357,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Modify and Print a Report
+### 5. 4. Modify and Print a Report
 
 #### Manage report pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/manage-report-pages?u=76281980)
@@ -2777,7 +2787,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Create a Dashboard
+### 6. 5. Create a Dashboard
 
 #### Power BI dashboard: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/power-bi-dashboard-the-basics?u=76281980)
@@ -3414,7 +3424,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Share Data with Colleagues and Others
+### 7. 6. Share Data with Colleagues and Others
 
 #### Overview: Sharing reports and dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/overview-sharing-reports-and-dashboards?u=76281980)
@@ -4103,7 +4113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Use Power BI Desktop to Model Data
+### 8. 7. Use Power BI Desktop to Model Data
 
 #### Install and launch Power BI Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/install-and-launch-power-bi-desktop?u=76281980)
@@ -4970,7 +4980,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Learn more about Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/learn-more-about-power-bi?u=76281980)
@@ -5012,6 +5022,10 @@ created: 2026-04-21
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Gini von Courter]]
 
 ## Path Context
 

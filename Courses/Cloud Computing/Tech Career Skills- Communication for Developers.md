@@ -34,8 +34,10 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Communication%20for%20Developers.md)
 
 ![Tech Career Skills: Communication for Developers](https://media.licdn.com/dms/image/v2/C4E0DAQE-LeeYfMQE-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620663901727?e=2147483647&amp;v=beta&amp;t=b1Oddczm0mwfdTwjVRuMvqNCq-es4ra3jbANDJGG1xE)
 
@@ -46,18 +48,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers) | 1h 2m | 114K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tom Geller]]
-
-## Skills Covered
-
-- Tech Career Skills
-- Career Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. You're More Different than You Think** (3 videos)
+- **3. 2. Overcoming Barriers of Experience** (3 videos)
+- **4. 3. Overcoming Barriers of Motivation** (3 videos)
+- **5. 4. Overcoming Barriers of Perspective** (4 videos)
+- **6. 5. Overcoming Barriers of Style** (3 videos)
+- **7. 6. Using Your New Communication Skills** (6 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Strategies to communicate to wider audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/strategies-to-communicate-to-wider-audience?u=76281980)
@@ -168,7 +172,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. You're More Different than You Think
+### 2. 1. You're More Different than You Think
 
 #### Three types of intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980)
@@ -378,7 +382,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 2. Overcoming Barriers of Experience
+### 3. 2. Overcoming Barriers of Experience
 
 #### Using words that people know
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980)
@@ -581,7 +585,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Overcoming Barriers of Motivation
+### 4. 3. Overcoming Barriers of Motivation
 
 #### Why don't they care?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-they-care?u=76281980)
@@ -778,7 +782,7 @@ created: 2026-04-21
 > **Env Vars:** cms (1)
 
 
-### 4. Overcoming Barriers of Perspective
+### 5. 4. Overcoming Barriers of Perspective
 
 #### Your success isn't their success
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980)
@@ -1058,7 +1062,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 5. Overcoming Barriers of Style
+### 6. 5. Overcoming Barriers of Style
 
 #### Learning about your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980)
@@ -1259,7 +1263,7 @@ created: 2026-04-21
 > **Speakers:** - every (1)
 
 
-### 6. Using Your New Communication Skills
+### 7. 6. Using Your New Communication Skills
 
 #### Communicating with clients
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980)
@@ -1661,7 +1665,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Further strengthen communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/further-strengthen-communication?u=76281980)
@@ -1700,6 +1704,15 @@ created: 2026-04-21
 > **Code Keywords:** else, (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Tom Geller]]
+
+## Skills Covered
+
+- Tech Career Skills
+- Career Management
 
 ## Path Context
 

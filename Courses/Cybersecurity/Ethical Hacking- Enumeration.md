@@ -29,33 +29,35 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Enumeration.md)
 
 ![Ethical Hacking: Enumeration](https://media.licdn.com/dms/image/v2/C560DAQH4q52rvtzUqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620842870509?e=2147483647&amp;v=beta&amp;t=vzdPFK7DX_NZaYLUqSdbOJjKVovvwllCVAZG35zTeFA)
 
 # Ethical Hacking: Enumeration
 
-> Enumeration is designed for ethical hackers who want to build their skills in reconnaissance of targets and in optimizing their penetration testing. In this course, instructor Malcolm Shore teaches the basic methods of enumerating networks and targeting systems with common enumeration tools. Malcolm explains what enumeration is and gives you opportunities in the course for hands-on experience.  He
+> Enumeration is designed for ethical hackers who want to build their skills in reconnaissance of targets and in optimizing their penetration testing. In this course, instructor Malcolm Shore teaches the basic methods of enumerating networks and targeting systems with common enumeration tools. Malcolm explains what enumeration is and gives you opportunities in the course for hands-on experience. He 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377) | 2h 12m | Beginner | 58K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Basics of Enumeration** (4 videos)
+- **3. 2. Local Host Enumeration** (4 videos)
+- **4. 3. Enumeration Remote Hosts** (11 videos)
+- **5. 4. Enumerating Web Apps** (4 videos)
+- **6. 5. Enumerating the Internet** (3 videos)
+- **7. 6. Enumerating Cloud** (4 videos)
+- **8. 7. Other Enumeration** (7 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Starting your testing with enumeration
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980)
@@ -141,7 +143,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Basics of Enumeration
+### 2. 1. Basics of Enumeration
 
 #### What is enumeration?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-enumeration?u=76281980)
@@ -423,7 +425,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Local Host Enumeration
+### 3. 2. Local Host Enumeration
 
 #### Profiling a Unix host
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980)
@@ -780,7 +782,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Enumeration Remote Hosts
+### 4. 3. Enumeration Remote Hosts
 
 #### Enumerating host services
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-host-services?u=76281980)
@@ -1594,7 +1596,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Enumerating Web Apps
+### 5. 4. Enumerating Web Apps
 
 #### What is that web server?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980)
@@ -1795,7 +1797,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Enumerating the Internet
+### 6. 5. Enumerating the Internet
 
 #### Tracing routes across the internet routes
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/tracing-routes-across-the-internet-routes?u=76281980)
@@ -1991,7 +1993,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Enumerating Cloud
+### 7. 6. Enumerating Cloud
 
 #### Enumeration of the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980)
@@ -2330,7 +2332,7 @@ created: 2026-04-21
 > **Ports:** port 5432 (1)
 
 
-### 7. Other Enumeration
+### 8. 7. Other Enumeration
 
 #### Scanning with SuperScan
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980)
@@ -2814,7 +2816,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980)
@@ -2845,6 +2847,18 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Ethical Hacking
 
 ## Path Context
 

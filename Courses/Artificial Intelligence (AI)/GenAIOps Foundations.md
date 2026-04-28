@@ -41,8 +41,10 @@ tags:
   - skill/generative-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/GenAIOps%20Foundations.md)
 
 ![GenAIOps Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQEE981IlqLpkw/learning-public-crop_675_1200/B4EZW6KfLyG0AY-/0/1742585067102?e=2147483647&amp;v=beta&amp;t=7PKDQXLXCqk8_0WsWYakx0LWigxq0CMXCN8PUAZj4cQ)
 
@@ -53,19 +55,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations) | 1h 19m | Intermediate | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Skills Covered
-
-- AIOps
-- Generative AI
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. GenAIOps Fundamentals** (5 videos)
+- **3. 2. Model Training in Gen AI** (5 videos)
+- **4. 3. Developing Gen AI Applications** (6 videos)
+- **5. 4. Model Deployment and Serving** (5 videos)
+- **6. 5. Monitoring and Troubleshooting** (5 videos)
+- **7. 6. Security and Compliance** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### GenAIOps foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980)
@@ -92,7 +95,7 @@ created: 2026-04-21
 > **Speakers:** - [kumaran] (1)
 
 
-### 1. GenAIOps Fundamentals
+### 2. 1. GenAIOps Fundamentals
 
 #### The machine learning lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980)
@@ -427,7 +430,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Model Training in Gen AI
+### 3. 2. Model Training in Gen AI
 
 #### Training phase in generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/training-phase-in-gen-ai?u=76281980)
@@ -804,7 +807,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Developing Gen AI Applications
+### 4. 3. Developing Gen AI Applications
 
 #### The generative AI application stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980)
@@ -1164,7 +1167,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Model Deployment and Serving
+### 5. 4. Model Deployment and Serving
 
 #### GenAI deployment patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980)
@@ -1428,7 +1431,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Monitoring and Troubleshooting
+### 6. 5. Monitoring and Troubleshooting
 
 #### Generative AI monitoring pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-monitoring-pipelines?u=76281980)
@@ -1667,7 +1670,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Security and Compliance
+### 7. 6. Security and Compliance
 
 #### Ethics and compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980)
@@ -1981,7 +1984,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/next-steps?u=76281980)
@@ -2014,6 +2017,16 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Skills Covered
+
+- AIOps
+- Generative AI
+- Artificial Intelligence (AI)
 
 ## Path Context
 

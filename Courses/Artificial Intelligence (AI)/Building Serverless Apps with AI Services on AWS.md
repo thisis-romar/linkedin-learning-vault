@@ -33,8 +33,10 @@ tags:
   - skill/serverless-computing
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20Serverless%20Apps%20with%20AI%20Services%20on%20AWS.md)
 
 ![Building Serverless Apps with AI Services on AWS](https://media.licdn.com/dms/image/v2/D4D0DAQFP8u36n9BS5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715735518041?e=2147483647&amp;v=beta&amp;t=sbjC63InFEcvXgjVORp-8qXaoe_V1xbQMkCbkc5KTH4)
 
@@ -45,23 +47,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws) | 3h 10m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Marcia Villalba]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/buidling-serverless-apps-AI-4454235)
-
-## Skills Covered
-
-- Serverless Computing
-- Amazon Web Services (AWS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to AI** (5 videos)
+- **3. 2. Getting started with Serverless** (3 videos)
+- **4. 3. Infrastructure as code** (4 videos)
+- **5. 4. Introduction to Step Functions** (9 videos)
+- **6. 5. Building a Workflow with AI** (8 videos)
+- **7. 6. Build a Chatbot with GenAI** (9 videos)
+- **8. Conclusion** (3 videos)
+
+### 1. Introduction
 
 #### Serverless apps with AI services on AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980)
@@ -171,7 +170,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Introduction to AI
+### 2. 1. Introduction to AI
 
 #### Introduction to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980)
@@ -503,7 +502,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Getting started with Serverless
+### 3. 2. Getting started with Serverless
 
 #### What is serverless?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980)
@@ -676,7 +675,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Infrastructure as code
+### 4. 3. Infrastructure as code
 
 #### The important role of infrastructure as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980)
@@ -982,7 +981,7 @@ created: 2026-04-21
 > **Definitions:** is a  (3)
 
 
-### 4. Introduction to Step Functions
+### 5. 4. Introduction to Step Functions
 
 #### Understanding Step Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980)
@@ -2193,7 +2192,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. Building a Workflow with AI
+### 6. 5. Building a Workflow with AI
 
 #### Modifying the existing state machine to use Amazon Bedrock
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980)
@@ -3254,7 +3253,7 @@ created: 2026-04-21
 > **Best Practices:** always make sure (1)
 
 
-### 6. Build a Chatbot with GenAI
+### 7. 6. Build a Chatbot with GenAI
 
 #### What is an Amazon Bedrock agent?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980)
@@ -4210,7 +4209,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### What we built
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980)
@@ -4387,6 +4386,20 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [marcia] (1)
 
+
+## Instructor
+
+- [[Marcia Villalba]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/buidling-serverless-apps-AI-4454235)
+
+## Skills Covered
+
+- Serverless Computing
+- Amazon Web Services (AWS)
 
 ## Path Context
 

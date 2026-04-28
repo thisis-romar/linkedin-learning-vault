@@ -35,8 +35,10 @@ tags:
   - skill/robotic-process-automation-rpa
   - skill/process-mining
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Process%20Mining%20for%20Robotic%20Process%20Automation.md)
 
 ![Process Mining for Robotic Process Automation](https://media.licdn.com/dms/image/v2/C560DAQG_HD0ooAtefQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1653415045934?e=2147483647&amp;v=beta&amp;t=GxnR8XsGoFGqb-CWstQm8OQS5_kxMfDby7PV4KQheBI)
 
@@ -47,22 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation) | 27m | Beginner | 102K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ian Barkin]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Robotic Process Automation (RPA)
-- Process Mining
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Process Mining** (3 videos)
+- **3. 2. Process Capture** (3 videos)
+- **4. 3. Process Exploration** (6 videos)
+- **5. 4. Process Development** (2 videos)
+- **6. 5. Process Oversight** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course overview and benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-overview-and-benefits?u=76281980)
@@ -108,7 +107,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 1. Introduction to Process Mining
+### 2. 1. Introduction to Process Mining
 
 #### Defining process mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/defining-process-mining?u=76281980)
@@ -224,7 +223,7 @@ created: 2026-04-21
 > **Speakers:** - discovering (1)
 
 
-### 2. Process Capture
+### 3. 2. Process Capture
 
 #### What is process capture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/what-is-process-capture?u=76281980)
@@ -331,7 +330,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Process Exploration
+### 4. 3. Process Exploration
 
 #### Building a business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/building-a-business-case?u=76281980)
@@ -530,7 +529,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 4. Process Development
+### 5. 4. Process Development
 
 #### Optimizing and redesigning processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/optimizing-and-redesigning-processes-30321097?u=76281980)
@@ -595,7 +594,7 @@ created: 2026-04-21
 > **Code Keywords:** require (1)
 
 
-### 5. Process Oversight
+### 6. 5. Process Oversight
 
 #### Outcome measurement and auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/outcome-measurement-and-auditing?u=76281980)
@@ -660,7 +659,7 @@ created: 2026-04-21
 > **Code Keywords:** self (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Course takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980)
@@ -683,6 +682,19 @@ created: 2026-04-21
 >
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Ian Barkin]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Robotic Process Automation (RPA)
+- Process Mining
 
 ## Path Context
 

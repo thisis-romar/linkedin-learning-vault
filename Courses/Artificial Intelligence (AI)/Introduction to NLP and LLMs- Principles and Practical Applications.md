@@ -33,8 +33,10 @@ tags:
   - skill/large-language-models-llm
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20NLP%20and%20LLMs-%20Principles%20and%20Practical%20Applications.md)
 
 ![Introduction to NLP and LLMs: Principles and Practical Applications](https://media.licdn.com/dms/image/v2/D4E0DAQFEUOH2dE9M3A/learning-public-crop_675_1200/B4EZUAZnk0HgAY-/0/1739468470930?e=2147483647&amp;v=beta&amp;t=OAz5gVG6cgZXXoD9LHT8NppsvlzicwNrbBntaIFa7wE)
 
@@ -45,19 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications) | 1h 39m | Beginner | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gwendolyn Stripling]]
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- Natural Language Processing (NLP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to NLP and LLMs** (4 videos)
+- **3. 2. NLP and LLMs Use Cases** (3 videos)
+- **4. 3. Ethical Considerations and Responsible AI** (3 videos)
+- **5. 4. Leading NLP and LLM Projects** (4 videos)
+- **6. 5. Future Trends** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Principles and practical applications of NLP and LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/principles-and-practical-applications-of-nlp-and-llms?u=76281980)
@@ -101,7 +103,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Introduction to NLP and LLMs
+### 2. 1. Introduction to NLP and LLMs
 
 #### What is natural language processing (NLP)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/what-is-natural-language-processing-nlp?u=76281980)
@@ -322,7 +324,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. NLP and LLMs Use Cases
+### 3. 2. NLP and LLMs Use Cases
 
 #### Identifying opportunities for NLP and LLM
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/identifying-opportunities-for-nlp-and-llm?u=76281980)
@@ -492,7 +494,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. Ethical Considerations and Responsible AI
+### 4. 3. Ethical Considerations and Responsible AI
 
 #### Bias and fairness in NLP and LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/bias-and-fairness-in-nlp-and-llms?u=76281980)
@@ -725,7 +727,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Leading NLP and LLM Projects
+### 5. 4. Leading NLP and LLM Projects
 
 #### Key roles in an NLP/LLM team
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/key-roles-in-an-nlp-llm-team?u=76281980)
@@ -1022,7 +1024,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Future Trends
+### 6. 5. Future Trends
 
 #### The evolving landscape of NLP and LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/the-evolving-landscape-of-nlp-and-llms?u=76281980)
@@ -1182,7 +1184,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/next-steps?u=76281980)
@@ -1222,6 +1224,16 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Gwendolyn Stripling]]
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
+- Natural Language Processing (NLP)
 
 ## Path Context
 

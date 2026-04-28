@@ -33,8 +33,10 @@ tags:
   - skill/network-security
   - skill/security-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Security%20Testing%20Essential%20Training%20(2022).md)
 
 ![Security Testing Essential Training (2022)](https://media.licdn.com/dms/image/v2/D560DAQFVdYfCaK5eZA/learning-public-crop_675_1200/B56ZfrBhrHHEAY-/0/1751994735576?e=2147483647&amp;v=beta&amp;t=YbndIB0M19OZeHHDC3v4jtVGhCVihjamVtyO48U2Sk8)
 
@@ -45,22 +47,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022) | 3h 26m | Beginner | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jerod Brennen]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Network Security
-- Security Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding Security Assessments** (10 videos)
+- **3. 2. Your Testing Environment** (11 videos)
+- **4. 3. Planning Your Assessment** (6 videos)
+- **5. 4. Review Techniques** (9 videos)
+- **6. 5. Identifying Your Targets** (10 videos)
+- **7. 6. Vulnerability Validation** (7 videos)
+- **8. 7. Additional Considerations** (6 videos)
+- **9. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### The importance of security testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-importance-of-security-testing?u=76281980)
@@ -126,7 +127,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding Security Assessments
+### 2. 1. Understanding Security Assessments
 
 #### Language is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/language-is-important?u=76281980)
@@ -593,7 +594,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Your Testing Environment
+### 3. 2. Your Testing Environment
 
 #### The security tester's toolkit
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-tester-s-toolkit?u=76281980)
@@ -1171,7 +1172,7 @@ created: 2026-04-21
 > **CLI Commands:** tar (1)
 
 
-### 3. Planning Your Assessment
+### 4. 3. Planning Your Assessment
 
 #### Understanding your scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/understanding-your-scope?u=76281980)
@@ -1467,7 +1468,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Review Techniques
+### 5. 4. Review Techniques
 
 #### Documentation review
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/documentation-review?u=76281980)
@@ -2152,7 +2153,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Identifying Your Targets
+### 6. 5. Identifying Your Targets
 
 #### Network discovery
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-discovery?u=76281980)
@@ -2927,7 +2928,7 @@ created: 2026-04-21
 > **Cross-References:** previous video (1)
 
 
-### 6. Vulnerability Validation
+### 7. 6. Vulnerability Validation
 
 #### Password cracking
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980)
@@ -3453,7 +3454,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Additional Considerations
+### 8. 7. Additional Considerations
 
 #### Coordinating your assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/coordinating-your-assessments?u=76281980)
@@ -3797,7 +3798,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980)
@@ -3961,6 +3962,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jerod Brennen]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Network Security
+- Security Testing
 
 ## Path Context
 

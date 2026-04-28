@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/product-strategy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Product%20Management-%20Building%20a%20Product%20Strategy.md)
 
 ![Product Management: Building a Product Strategy](https://media.licdn.com/dms/image/v2/C4E0DAQFFyzFo8mXxqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617317015600?e=2147483647&amp;v=beta&amp;t=2d49-dO1G0KdWK5RjBGZ6j5dP6_TIvU2j1dKWqC7o6o)
 
@@ -40,22 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy) | 1h 5m | Intermediate | 364K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eldad Persky]]
-- [[Teg Grenager]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Product Strategy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Product Strategy Overview** (4 videos)
+- **3. 2. Filling in the Elevator Pitch Step by Step** (6 videos)
+- **4. 3. How to Develop Product Strategy** (4 videos)
+- **5. 4. You Have a Strategy, Now What?** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why you need a product strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980)
@@ -90,7 +88,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Product Strategy Overview
+### 2. 1. Product Strategy Overview
 
 #### What is product strategy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980)
@@ -446,7 +444,7 @@ created: 2026-04-21
 > **Best Practices:** you should always (1)
 
 
-### 2. Filling in the Elevator Pitch Step by Step
+### 3. 2. Filling in the Elevator Pitch Step by Step
 
 #### Determine your target customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980)
@@ -1013,7 +1011,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. How to Develop Product Strategy
+### 4. 3. How to Develop Product Strategy
 
 #### Make strategy work
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/make-strategy-work-8536488?u=76281980)
@@ -1336,7 +1334,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 4. You Have a Strategy, Now What?
+### 5. 4. You Have a Strategy, Now What?
 
 #### Maintain your strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980)
@@ -1484,7 +1482,7 @@ created: 2026-04-21
 > **Speakers:** - sometimes (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980)
@@ -1556,6 +1554,19 @@ created: 2026-04-21
 > **Speakers:** - congratulations (1), - step (1), - now (1), - and (1), - finally (1)
 > **Code Keywords:** continue (1), finally, (1)
 
+
+## Instructor
+
+- [[Eldad Persky]]
+- [[Teg Grenager]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Product Strategy
 
 ## Path Context
 

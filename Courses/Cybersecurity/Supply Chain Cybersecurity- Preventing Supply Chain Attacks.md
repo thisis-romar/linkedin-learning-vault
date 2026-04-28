@@ -33,8 +33,10 @@ tags:
   - skill/supply-chain-security
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Supply%20Chain%20Cybersecurity-%20Preventing%20Supply%20Chain%20Attacks.md)
 
 ![Supply Chain Cybersecurity: Preventing Supply Chain Attacks](https://media.licdn.com/dms/image/v2/C4E0DAQFCsR1jZsjBRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648758486739?e=2147483647&amp;v=beta&amp;t=shoDLb2WVFatyDpWOlZQk5XhAPrrQ4Ng7tXv7skAInM)
 
@@ -45,18 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks) | 41m | Beginner | 191K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nicole Dove]]
-
-## Skills Covered
-
-- Supply Chain Security
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Cybercrime 101** (2 videos)
+- **3. 2. Supply Chain Attacks** (3 videos)
+- **4. 3. Preventing Supply Chain Attacks** (2 videos)
+- **5. 4. Defending against Supply Chain Attacks** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Securing your supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/securing-your-supply-chain?u=76281980)
@@ -83,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 1. Cybercrime 101
+### 2. 1. Cybercrime 101
 
 #### Threat actors and their motivations
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980)
@@ -221,7 +223,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Supply Chain Attacks
+### 3. 2. Supply Chain Attacks
 
 #### What is a supply chain attack?
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/what-is-a-supply-chain-attack?u=76281980)
@@ -360,7 +362,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Preventing Supply Chain Attacks
+### 4. 3. Preventing Supply Chain Attacks
 
 #### Understanding your threat environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980)
@@ -517,7 +519,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Defending against Supply Chain Attacks
+### 5. 4. Defending against Supply Chain Attacks
 
 #### Leveraging the NIST cybersecurity framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980)
@@ -789,7 +791,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continuing to prevent supply chain attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/continuing-to-prevent-supply-chain-attacks?u=76281980)
@@ -823,6 +825,15 @@ created: 2026-04-21
 > **Code Keywords:** super (1), continue (1)
 > **Speakers:** - when (1)
 
+
+## Instructor
+
+- [[Nicole Dove]]
+
+## Skills Covered
+
+- Supply Chain Security
+- Cybersecurity
 
 ## Path Context
 

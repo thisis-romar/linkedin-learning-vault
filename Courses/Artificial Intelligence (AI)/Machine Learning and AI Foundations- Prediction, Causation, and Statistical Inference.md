@@ -31,8 +31,10 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Prediction%2C%20Causation%2C%20and%20Statistical%20Inference.md)
 
 ![Machine Learning and AI Foundations: Prediction, Causation, and Statistical Inference](https://media.licdn.com/dms/image/v2/C4E0DAQFivN9qt5wTUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647451672526?e=2147483647&amp;v=beta&amp;t=1gJsLL7cUCqa1Nc1gw7iGvkHzf3YyFFS7Q-cFEm-WHo)
 
@@ -43,22 +45,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference) | 2h 2m | Intermediate | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is a Casual Model?** (3 videos)
+- **3. 2. Healthy Skepticism about Our Data and Our Results** (3 videos)
+- **4. 3. Correlation Does Not Imply Causation** (5 videos)
+- **5. 4. Prediction and Proof in Statistics** (6 videos)
+- **6. 5. Deduction and Induction** (5 videos)
+- **7. 6. Prediction and Proof in Data Mining** (3 videos)
+- **8. 7. The Two Cultures: Contrasting Statistics and Data Mining** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Prediction, causation, and statistical inference
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/prediction-causation-and-statistical-inference?u=76281980)
@@ -88,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - [keith] (1)
 
 
-### 1. What Is a Casual Model?
+### 2. 1. What Is a Casual Model?
 
 #### Lady tasting tea
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/lady-tasting-tea?u=76281980)
@@ -256,7 +257,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Healthy Skepticism about Our Data and Our Results
+### 3. 2. Healthy Skepticism about Our Data and Our Results
 
 #### Skepticism about data: Truman 1948 Election Poll
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-data-truman-1948-election-poll?u=76281980)
@@ -463,7 +464,7 @@ created: 2026-04-21
 > **Warnings:** watch out (1)
 
 
-### 3. Correlation Does Not Imply Causation
+### 4. 3. Correlation Does Not Imply Causation
 
 #### What is a strong correlation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980)
@@ -980,7 +981,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Prediction and Proof in Statistics
+### 5. 4. Prediction and Proof in Statistics
 
 #### Using probability to measure uncertainty
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980)
@@ -1499,7 +1500,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat electro-pop music) (1)
 
 
-### 5. Deduction and Induction
+### 6. 5. Deduction and Induction
 
 #### What are induction and deduction?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-are-induction-and-deduction?u=76281980)
@@ -1883,7 +1884,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Prediction and Proof in Data Mining
+### 7. 6. Prediction and Proof in Data Mining
 
 #### Data mining vs. data dredging
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980)
@@ -2125,7 +2126,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. The Two Cultures: Contrasting Statistics and Data Mining
+### 8. 7. The Two Cultures: Contrasting Statistics and Data Mining
 
 #### The Two Cultures
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980)
@@ -2535,7 +2536,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Review
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980)
@@ -2563,6 +2564,19 @@ created: 2026-04-21
 > **Code Keywords:** for. (1)
 > **Speakers:** - [keith] (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
 
 ## Path Context
 

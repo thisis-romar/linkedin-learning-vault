@@ -30,8 +30,10 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/An%20Introduction%20to%20AI%20and%20Sustainability.md)
 
 ![An Introduction to AI and Sustainability](https://media.licdn.com/dms/image/v2/D560DAQGO2QLUYwy2lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711489446879?e=2147483647&amp;v=beta&amp;t=95TfAdAtyv__Pc5ke3Wl4Tc71CAFBQd2KQu3nkZm6KM)
 
@@ -42,23 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability) | 41m | 113K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Amy Luers]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Sustainability
-- AI for Business
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Does AI Have to Do with Sustainability** (1 videos)
+- **3. 2. AI Is a Critical Game-Changer for Sustainability** (4 videos)
+- **4. 3. AI’s Impact on the Global Race to Net Zero** (4 videos)
+- **5. 4. Ensuring That AI Has a Positive Impact on the Global Race to Net Zero** (2 videos)
+
+### 1. Introduction
 
 #### The promise of AI for sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-promise-of-ai-for-sustainability?u=76281980)
@@ -115,7 +111,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 1. What Does AI Have to Do with Sustainability
+### 2. 1. What Does AI Have to Do with Sustainability
 
 #### The intersections of AI and sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980)
@@ -188,7 +184,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 2. AI Is a Critical Game-Changer for Sustainability
+### 3. 2. AI Is a Critical Game-Changer for Sustainability
 
 #### Sustainability bottlenecks prevent global progress
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980)
@@ -458,7 +454,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. AI’s Impact on the Global Race to Net Zero
+### 4. 3. AI’s Impact on the Global Race to Net Zero
 
 #### The local vs. global challenges of AI resource use
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-local-vs-global-challenges-of-ai-resource-use?u=76281980)
@@ -729,7 +725,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 4. Ensuring That AI Has a Positive Impact on the Global Race to Net Zero
+### 5. 4. Ensuring That AI Has a Positive Impact on the Global Race to Net Zero
 
 #### The benefits of AI for sustainability are not guaranteed
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-benefits-of-ai-for-sustainability-are-not-guaranteed?u=76281980)
@@ -830,6 +826,20 @@ created: 2026-04-21
 > **Code Keywords:** let (1), this. (1)
 > **Speakers:** - let (1)
 
+
+## Instructor
+
+- [[Amy Luers]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Sustainability
+- AI for Business
+- Artificial Intelligence (AI)
 
 ## Path Context
 

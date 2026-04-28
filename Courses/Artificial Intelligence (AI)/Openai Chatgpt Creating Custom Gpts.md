@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Openai%20Chatgpt%20Creating%20Custom%20Gpts.md)
 
 ![Openai Chatgpt Creating Custom Gpts](https://media.licdn.com/dms/image/v2/D560DAQEgFqptlvCtTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701193175841?e=2147483647&amp;v=beta&amp;t=KtRvJKoZQXKqPIzg28i2gZprrhs4UzqZlX1jU0GJtlY)
 
@@ -42,16 +44,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts) | Intermediate | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Custom GPTs
-- OpenAI Products
-- Artificial Intelligence (AI)
-- ChatGPT
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Creating Custom GPTs** (7 videos)
+- **3. 2. Going Further** (1 videos)
+
+### 1. Introduction
 
 #### Build your own custom GPTs with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/build-your-own-custom-gpts-with-chatgpt?u=76281980)
@@ -83,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 1. Creating Custom GPTs
+### 2. 1. Creating Custom GPTs
 
 #### What is a GPT?
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980)
@@ -772,7 +773,7 @@ created: 2026-04-21
 > **Best Practices:** the key is (1)
 
 
-### 2. Going Further
+### 3. 2. Going Further
 
 #### Going further
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980)
@@ -835,6 +836,13 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - all (1)
 
+
+## Skills Covered
+
+- Custom GPTs
+- OpenAI Products
+- Artificial Intelligence (AI)
+- ChatGPT
 
 ## Path Context
 

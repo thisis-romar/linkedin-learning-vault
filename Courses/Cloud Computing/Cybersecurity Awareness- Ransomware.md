@@ -33,8 +33,10 @@ tags:
   - skill/security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Ransomware.md)
 
 ![Cybersecurity Awareness: Ransomware](https://media.licdn.com/dms/image/v2/D560DAQFSkQIR-DYJkw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692989330148?e=2147483647&amp;v=beta&amp;t=X3-qPimb5sdeWekaZdUXHK5mW3libl-n6mpSp_Sdyk4)
 
@@ -45,18 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341) | 24m | Beginner | 264K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nicole Dove]]
-
-## Skills Covered
-
-- Security Awareness
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Ransomware** (4 videos)
+- **3. 2. Impact of Ransomware** (2 videos)
+- **4. 3. Preventing Ransomware Attacks** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Ransomware: The new cyber extortion
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-the-new-cyber-extortion?u=76281980)
@@ -81,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - ransomware (1)
 
 
-### 1. Understanding Ransomware
+### 2. 1. Understanding Ransomware
 
 #### Ransomware 101
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980)
@@ -309,7 +310,7 @@ created: 2026-04-21
 > **Speakers:** - ransomware (1)
 
 
-### 2. Impact of Ransomware
+### 3. 2. Impact of Ransomware
 
 #### Notable ransomware attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/notable-ransomware-attacks?u=76281980)
@@ -427,7 +428,7 @@ created: 2026-04-21
 > **Speakers:** - ransomware (1)
 
 
-### 3. Preventing Ransomware Attacks
+### 4. 3. Preventing Ransomware Attacks
 
 #### Unpacking ransomware attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/unpacking-ransomware-attacks?u=76281980)
@@ -614,7 +615,7 @@ created: 2026-04-21
 > **Speakers:** - among (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Improving your security hygiene
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980)
@@ -641,6 +642,15 @@ created: 2026-04-21
 >
 > **Speakers:** - are (1)
 
+
+## Instructor
+
+- [[Nicole Dove]]
+
+## Skills Covered
+
+- Security Awareness
+- Cybersecurity
 
 ## Path Context
 

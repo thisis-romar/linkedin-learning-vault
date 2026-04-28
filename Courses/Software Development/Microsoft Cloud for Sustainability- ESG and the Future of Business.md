@@ -32,8 +32,10 @@ tags:
   - skill/microsoft-s-cloud-for-sustainability
   - skill/environmental-social-and-governance-esg
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Microsoft%20Cloud%20for%20Sustainability-%20ESG%20and%20the%20Future%20of%20Business.md)
 
 ![Microsoft Cloud for Sustainability: ESG and the Future of Business](https://media.licdn.com/dms/image/v2/D4D0DAQF8fXDgvGM_3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698355914512?e=2147483647&amp;v=beta&amp;t=cwci9BGop_m47ngJI-X4I8Lb6DpI86EdWeDtbE2KuaE)
 
@@ -44,19 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business) | 28m | Intermediate | 113K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fawad Qureshi]]
-
-## Skills Covered
-
-- Digital Sustainability
-- Microsoft’s Cloud for Sustainability
-- Environmental, Social, and Governance (ESG)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Sustainability Basics** (5 videos)
+- **3. 2. Microsoft Sustainability Solutions** (2 videos)
+- **4. 3. Microsoft Sustainability Data Model** (3 videos)
+- **5. 4. Microsoft Sustainability Manager** (4 videos)
+- **6. 5. Compliance Reporting** (2 videos)
+- **7. 6. Emissions Impact Dashboard** (3 videos)
+- **8. 7. Credit Service** (4 videos)
+- **9. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980)
@@ -91,7 +95,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### 1. Sustainability Basics
+### 2. 1. Sustainability Basics
 
 #### Who cares wins
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/who-cares-wins?u=76281980)
@@ -261,7 +265,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Microsoft Sustainability Solutions
+### 3. 2. Microsoft Sustainability Solutions
 
 #### What are Microsoft Sustainability Solutions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980)
@@ -365,7 +369,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. Microsoft Sustainability Data Model
+### 4. 3. Microsoft Sustainability Data Model
 
 #### The need for data models
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980)
@@ -489,7 +493,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Microsoft Sustainability Manager
+### 5. 4. Microsoft Sustainability Manager
 
 #### What is Microsoft Sustainability Manager?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980)
@@ -624,7 +628,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Compliance Reporting
+### 6. 5. Compliance Reporting
 
 #### Microsoft Purview compliance manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-purview-compliance-manager?u=76281980)
@@ -693,7 +697,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Emissions Impact Dashboard
+### 7. 6. Emissions Impact Dashboard
 
 #### Emissions Impact Dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980)
@@ -788,7 +792,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Credit Service
+### 8. 7. Credit Service
 
 #### What are carbon credits?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-carbon-credits?u=76281980)
@@ -883,7 +887,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### How to get started with Microsoft Sustainability Solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980)
@@ -957,6 +961,16 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Fawad Qureshi]]
+
+## Skills Covered
+
+- Digital Sustainability
+- Microsoft’s Cloud for Sustainability
+- Environmental, Social, and Governance (ESG)
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/python-programming-language
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/More%20Python%20Tips%2C%20Tricks%2C%20and%20Techniques%20for%20Data%20Science.md)
 
 ![More Python Tips, Tricks, and Techniques for Data Science](https://media.licdn.com/dms/image/v2/D560DAQE3cDnAJ16QlQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726086903104?e=2147483647&amp;v=beta&amp;t=0-KWDw7fjT57ZIVgGCqV9Hk66YUrFWar4Ca-s_Qhf_k)
 
@@ -43,22 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science) | 2h 15m | Intermediate | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Harshit Tyagi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. IPython and Jupyter Notebook** (3 videos)
+- **3. 2. NumPy and Pandas** (7 videos)
+- **4. 3. Visualization with Matplotlib** (3 videos)
+- **5. 4. Machine Learning Tips** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Tips and tricks in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980)
@@ -151,7 +149,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. IPython and Jupyter Notebook
+### 2. 1. IPython and Jupyter Notebook
 
 #### Accessing methods and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980)
@@ -530,7 +528,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. NumPy and Pandas
+### 3. 2. NumPy and Pandas
 
 #### Essentials of NumPy arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/essentials-of-numpy-arrays?u=76281980)
@@ -1437,7 +1435,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Visualization with Matplotlib
+### 4. 3. Visualization with Matplotlib
 
 #### General plotting tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980)
@@ -1940,7 +1938,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Machine Learning Tips
+### 5. 4. Machine Learning Tips
 
 #### sklearn Estimator API
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980)
@@ -2452,7 +2450,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/next-steps?u=76281980)
@@ -2475,6 +2473,19 @@ created: 2026-04-21
 > **Code Identifiers:** ipad (1)
 > **Speakers:** - [harshit] (1)
 
+
+## Instructor
+
+- [[Harshit Tyagi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Science
 
 ## Path Context
 

@@ -39,8 +39,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning-%20Model%20Optimization%20and%20Tuning%20(2022).md)
 
 ![Deep Learning: Model Optimization and Tuning (2022)](https://media.licdn.com/dms/image/v2/D4E0DAQG94hya2dyecw/learning-public-crop_675_1200/B4EZkLc0L2IwAg-/0/1756833727967?e=2147483647&amp;v=beta&amp;t=ZT9tm1YKLJB0SP_A9QUDasuV_L8YwzqQJbwqg50Sqfo)
 
@@ -51,23 +53,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022) | 54m | Advanced | 86K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-- Deep Learning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to Deep Learning Optimization** (6 videos)
+- **3. 2. Tuning the Deep Learning Network** (6 videos)
+- **4. 3. Tuning Back Propagation** (6 videos)
+- **5. 4. Overfitting Management** (5 videos)
+- **6. 5. Model Tuning Exercise** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Optimizing neural networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizing-neural-networks?u=76281980)
@@ -237,7 +235,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Introduction to Deep Learning Optimization
+### 2. 1. Introduction to Deep Learning Optimization
 
 #### What is deep learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980)
@@ -584,7 +582,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Tuning the Deep Learning Network
+### 3. 2. Tuning the Deep Learning Network
 
 #### Epoch and batch size tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/epoch-and-batch-size-tuning?u=76281980)
@@ -928,7 +926,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Tuning Back Propagation
+### 4. 3. Tuning Back Propagation
 
 #### Vanishing and exploding gradients
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/vanishing-and-exploding-gradients?u=76281980)
@@ -1189,7 +1187,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Overfitting Management
+### 5. 4. Overfitting Management
 
 #### Overfitting in ANNs
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980)
@@ -1369,7 +1367,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Model Tuning Exercise
+### 6. 5. Model Tuning Exercise
 
 #### Tuning exercise: Problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-exercise-problem-statement?u=76281980)
@@ -1636,7 +1634,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing your deep learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/continuing-your-deep-learning-journey?u=76281980)
@@ -1663,6 +1661,20 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - [kumaran] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
+- Deep Learning
 
 ## Path Context
 

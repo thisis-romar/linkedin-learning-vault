@@ -40,8 +40,10 @@ tags:
   - skill/career-path-planning
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20and%20Analytics%20Career%20Paths%20and%20Certifications-%20First%20Steps.md)
 
 ![Data Science and Analytics Career Paths and Certifications: First Steps](https://media.licdn.com/dms/image/v2/C560DAQFZ8ZDyna79_w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644343935339?e=2147483647&amp;v=beta&amp;t=JXfjeKtjDqnTZ1Fj--0z6eo1pIXJluHFiefYL8znht0)
 
@@ -52,20 +54,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148) | 1h 37m | Beginner | 267K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jungwoo Ryoo]]
-
-## Skills Covered
-
-- Tech Career Skills
-- Data Analytics
-- Career Path Planning
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Defining Data Science** (6 videos)
+- **3. 2. Marketplaces** (8 videos)
+- **4. 3. Skills** (7 videos)
+- **5. 4. Roles** (8 videos)
+- **6. 5. Certifications** (7 videos)
+- **7. 6. Future of Data Science** (5 videos)
+- **8. 7. Voices from the Field** (6 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### An expanding universe of data science career options
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/an-expanding-universe-of-data-science-career-options-31358107?u=76281980)
@@ -116,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Defining Data Science
+### 2. 1. Defining Data Science
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction?u=76281980)
@@ -369,7 +372,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 2. Marketplaces
+### 3. 2. Marketplaces
 
 #### Introduction to marketplaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980)
@@ -634,7 +637,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Skills
+### 4. 3. Skills
 
 #### Required skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980)
@@ -886,7 +889,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 4. Roles
+### 5. 4. Roles
 
 #### Introduction to roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980)
@@ -1209,7 +1212,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 5. Certifications
+### 6. 5. Certifications
 
 #### Introduction to certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980)
@@ -1418,7 +1421,7 @@ created: 2026-04-21
 > **Code Keywords:** self (1)
 
 
-### 6. Future of Data Science
+### 7. 6. Future of Data Science
 
 #### Introduction to the future of data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-the-future-of-data-science?u=76281980)
@@ -1591,7 +1594,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Voices from the Field
+### 8. 7. Voices from the Field
 
 #### Introduction to voices from the field
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-voices-from-the-field?u=76281980)
@@ -1910,7 +1913,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Continue your data science and analytics career journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/continue-your-data-science-and-analytics-career-journey-31373055?u=76281980)
@@ -1931,6 +1934,17 @@ created: 2026-04-21
 >
 > **CLI Commands:** python (1)
 
+
+## Instructor
+
+- [[Jungwoo Ryoo]]
+
+## Skills Covered
+
+- Tech Career Skills
+- Data Analytics
+- Career Path Planning
+- Data Science
 
 ## Path Context
 

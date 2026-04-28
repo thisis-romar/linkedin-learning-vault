@@ -25,8 +25,10 @@ tags:
   - topic/security
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Analyzing%20VoIP%20Traffic%20with%20Wireshark.md)
 
 ![Analyzing VoIP Traffic with Wireshark](https://media.licdn.com/dms/image/v2/C4E0DAQGOAnX93z3bDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619133874813?e=2147483647&amp;v=beta&amp;t=Ynte0u_g15vJwqrxxyniDWuCJc8FQeJmi46AU8BPKVc)
 
@@ -37,13 +39,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark) | 1h 33m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. VoIP Overview** (4 videos)
+- **3. 2. Protocols** (6 videos)
+- **4. 3. Connecting Systems** (6 videos)
+- **5. 4. Network Operations** (5 videos)
+- **6. 5. Wireshark Statistics** (4 videos)
+- **7. Conclusion** (0 videos)
+
+### 1. Introduction
 
 #### Understand and troubleshoot VoIP
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understand-and-troubleshoot-voip-27990966?u=76281980)
@@ -101,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. VoIP Overview
+### 2. 1. VoIP Overview
 
 #### Voice over IP (VoIP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980)
@@ -308,7 +316,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Protocols
+### 3. 2. Protocols
 
 #### Protocols overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980)
@@ -777,7 +785,7 @@ created: 2026-04-21
 > **URLs:** [speedguide.net](https://speedguide.net) (1)
 
 
-### 3. Connecting Systems
+### 4. 3. Connecting Systems
 
 #### Gateways and gatekeepers
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/gateways-and-gatekeepers?u=76281980)
@@ -1256,7 +1264,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Network Operations
+### 5. 4. Network Operations
 
 #### Performance overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/performance-overview?u=76281980)
@@ -1568,7 +1576,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Wireshark Statistics
+### 6. 5. Wireshark Statistics
 
 #### Dissecting a VoIP call
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dissecting-a-voip-call?u=76281980)
@@ -1907,8 +1915,12 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
+
+## Instructor
+
+- [[Lisa Bock]]
 
 ## Path Context
 

@@ -35,8 +35,10 @@ tags:
   - skill/tech-career-skills
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Security%20Auditor.md)
 
 ![Cybersecurity Careers: Become a Security Auditor](https://media.licdn.com/dms/image/v2/C560DAQF3UaX0Ar1gaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675285610762?e=2147483647&amp;v=beta&amp;t=kh7eK6dOH-JQpYG0Qbw2ZnZnr4tUDmNQn9Of0jCPRgo)
 
@@ -47,23 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor) | 38m | Beginner | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Miller]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cybersecurity Careers
-- Tech Career Skills
-- Cybersecurity
-
 ## Table of Contents
 
-### Start a Fulfilling Career in Security Auditing and Compliance
+### Chapter Overview
+
+- **1. Start a Fulfilling Career in Security Auditing and Compliance** (1 videos)
+- **2. 1. Security Auditing Basics** (3 videos)
+- **3. 2. Security Frameworks** (3 videos)
+- **4. 3. Gaining Employment in Security Auditing** (2 videos)
+- **5. 4. Roadmap to Success as a Security Auditor** (2 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Start a Fulfilling Career in Security Auditing and Compliance
 
 #### Helping organizations stay secure through auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980)
@@ -100,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - every (1)
 
 
-### 1. Security Auditing Basics
+### 2. 1. Security Auditing Basics
 
 #### What are security auditing and compliance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/what-are-security-auditing-and-compliance?u=76281980)
@@ -332,7 +329,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Security Frameworks
+### 3. 2. Security Frameworks
 
 #### Overview of common security frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980)
@@ -572,7 +569,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Gaining Employment in Security Auditing
+### 4. 3. Gaining Employment in Security Auditing
 
 #### How to land your first security auditing position
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980)
@@ -731,7 +728,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 4. Roadmap to Success as a Security Auditor
+### 5. 4. Roadmap to Success as a Security Auditor
 
 #### Be a successful team auditor
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/be-a-successful-team-auditor?u=76281980)
@@ -868,7 +865,7 @@ created: 2026-04-21
 > **Speakers:** - communication (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Security auditing leads to many opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/security-auditing-leads-to-many-opportunities?u=76281980)
@@ -943,6 +940,20 @@ created: 2026-04-21
 > **Cross-References:** we talked about (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Mike Miller]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cybersecurity Careers
+- Tech Career Skills
+- Cybersecurity
 
 ## Path Context
 

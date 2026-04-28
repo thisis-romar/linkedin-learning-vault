@@ -31,8 +31,10 @@ tags:
   - skill/asp-net-core
   - skill/web-application-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Securing%20ASP.NET%20Core%20Apps-%20Advanced%20Techniques%20for%20Web%20Application%20Security.md)
 
 ![Securing ASP.NET Core Apps: Advanced Techniques for Web Application Security](https://media.licdn.com/dms/image/v2/C560DAQFBrzLL9d6MUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675902640846?e=2147483647&amp;v=beta&amp;t=xVhuNqX8KVDIMyW5xfjRG_gRglVxHxaWZklNbQDJa2Q)
 
@@ -43,23 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security) | 1h 40m | Intermediate | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ervis Trupja]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/aspdotnet-core-security-4310099)
-
-## Skills Covered
-
-- ASP.NET Core
-- Web Application Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Common Vulnerabilities in Apps** (6 videos)
+- **3. 2. Securing .NET Web Applications with Authentication** (8 videos)
+- **4. 3. Securing .NET Web API Applications with Authorization** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Secure your .NET Core apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980)
@@ -118,7 +114,7 @@ created: 2026-04-21
 > **Prerequisites:** before we start (1)
 
 
-### 1. Common Vulnerabilities in Apps
+### 2. 1. Common Vulnerabilities in Apps
 
 #### Common security vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980)
@@ -607,7 +603,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 2. Securing .NET Web Applications with Authentication
+### 3. 2. Securing .NET Web Applications with Authentication
 
 #### What is authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980)
@@ -1520,7 +1516,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Securing .NET Web API Applications with Authorization
+### 4. 3. Securing .NET Web API Applications with Authorization
 
 #### What is authorization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980)
@@ -1917,7 +1913,7 @@ created: 2026-04-21
 > **Speakers:** - with (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Where to go next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980)
@@ -1952,6 +1948,20 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [ervis] (1)
 
+
+## Instructor
+
+- [[Ervis Trupja]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/aspdotnet-core-security-4310099)
+
+## Skills Covered
+
+- ASP.NET Core
+- Web Application Security
 
 ## Path Context
 

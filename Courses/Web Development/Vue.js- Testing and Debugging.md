@@ -31,35 +31,33 @@ tags:
   - skill/software-testing
   - skill/debugging-code
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Vue.js-%20Testing%20and%20Debugging.md)
 
 ![Vue.js: Testing and Debugging](https://media.licdn.com/dms/image/v2/C560DAQHYc0PVbuobHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630434561194?e=2147483647&amp;v=beta&amp;t=FzHEJYD_JRzHoccvWKfjVWBxjEHLEOgALRndTKDx5es)
 
 # Vue.js: Testing and Debugging
 
-> You've learned Vue and can create amazing front-end interfaces, but how do you make sure they really work?  With Jest, ESLint, and browser dev tools, you can look under the hood and see how well your interface is really working. Instructor Fikayo Adepoju explains the benefits of well-tested code, then delves into how to set up your testing tools. Fikayo goes over everything you need to start unit 
+> You've learned Vue and can create amazing front-end interfaces, but how do you make sure they really work? With Jest, ESLint, and browser dev tools, you can look under the hood and see how well your interface is really working. Instructor Fikayo Adepoju explains the benefits of well-tested code, then delves into how to set up your testing tools. Fikayo goes over everything you need to start unit t
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging) | 1h 20m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fikayo Adepoju]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/vue-js-testing-and-debugging-2399300)
-
-## Skills Covered
-
-- Software Testing
-- Debugging Code
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Setting Up Testing Tools** (4 videos)
+- **3. 2. Unit Testing** (7 videos)
+- **4. 3. Testing Vue Components** (3 videos)
+- **5. 4. Debugging with Vue and Chrome Developer tools** (5 videos)
+- **6. 5. Functional and Automated Testing** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Testing Vue applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-vue-applications?u=76281980)
@@ -217,7 +215,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting Up Testing Tools
+### 2. 1. Setting Up Testing Tools
 
 #### Setting up the sample project
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980)
@@ -476,7 +474,7 @@ created: 2026-04-21
 > **Speakers:** - linting (1)
 
 
-### 2. Unit Testing
+### 3. 2. Unit Testing
 
 #### Installing and running Jest
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980)
@@ -1068,7 +1066,7 @@ created: 2026-04-21
 > **Tools:** command line (1)
 
 
-### 3. Testing Vue Components
+### 4. 3. Testing Vue Components
 
 #### Mounting components using render
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980)
@@ -1324,7 +1322,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Debugging with Vue and Chrome Developer tools
+### 5. 4. Debugging with Vue and Chrome Developer tools
 
 #### Debugging errors using Chrome DevTools
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980)
@@ -1795,7 +1793,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Functional and Automated Testing
+### 6. 5. Functional and Automated Testing
 
 #### Introduction to Cypress
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980)
@@ -2109,7 +2107,7 @@ created: 2026-04-21
 > **Versions:** version 12 (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps with testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980)
@@ -2141,6 +2139,20 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - [fiyako] (1)
 
+
+## Instructor
+
+- [[Fikayo Adepoju]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/vue-js-testing-and-debugging-2399300)
+
+## Skills Covered
+
+- Software Testing
+- Debugging Code
 
 ## Path Context
 

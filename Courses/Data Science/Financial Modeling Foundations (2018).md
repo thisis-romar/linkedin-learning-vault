@@ -26,8 +26,10 @@ tags:
   - topic/data-science
   - skill/financial-modeling
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Financial%20Modeling%20Foundations%20(2018).md)
 
 ![Financial Modeling Foundations (2018)](https://media.licdn.com/dms/image/v2/D4E0DAQFDG8Y4p_1BBA/learning-public-crop_675_1200/B4EZnzj.5JGcA8-/0/1760727920560?e=2147483647&amp;v=beta&amp;t=r43hCGTg2qhrC05ZzDV4B8M1E1NIq_NEoScnbUxtVRg)
 
@@ -38,21 +40,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018) | 3h | 322K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael McDonald]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Financial Modeling
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Financial Modeling Basics** (8 videos)
+- **3. 2. Corporate Financial Modeling: Three-Statement Financial Model** (8 videos)
+- **4. 3. Evaluating Corporate Financial Models: Three-Statement Model** (3 videos)
+- **5. 4. Investment Models: DCF Model** (4 videos)
+- **6. 5. Banking Models** (7 videos)
+- **7. 6. Buyout Models** (7 videos)
+- **8. 7. Financial Modeling across Industries** (4 videos)
+- **9. 8. Building and Maintaining Models** (4 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using Excel for financial modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980)
@@ -114,7 +117,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Financial Modeling Basics
+### 2. 1. Financial Modeling Basics
 
 #### What is financial modeling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980)
@@ -696,7 +699,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Corporate Financial Modeling: Three-Statement Financial Model
+### 3. 2. Corporate Financial Modeling: Three-Statement Financial Model
 
 #### Foundations of the model
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980)
@@ -1349,7 +1352,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Evaluating Corporate Financial Models: Three-Statement Model
+### 4. 3. Evaluating Corporate Financial Models: Three-Statement Model
 
 #### Financial modeling strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980)
@@ -1572,7 +1575,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Investment Models: DCF Model
+### 5. 4. Investment Models: DCF Model
 
 #### Financial valuation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-valuation-models?u=76281980)
@@ -1892,7 +1895,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Banking Models
+### 6. 5. Banking Models
 
 #### Beyond the basics in financial models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/beyond-the-basics-in-financial-models?u=76281980)
@@ -2472,7 +2475,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Buyout Models
+### 7. 6. Buyout Models
 
 #### Interest rate assumptions in models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interest-rate-assumptions-in-models?u=76281980)
@@ -3108,7 +3111,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Financial Modeling across Industries
+### 8. 7. Financial Modeling across Industries
 
 #### Characteristics of financial models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/characteristics-of-financial-models?u=76281980)
@@ -3358,7 +3361,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Building and Maintaining Models
+### 9. 8. Building and Maintaining Models
 
 #### Applications of financial models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/applications-of-financial-models?u=76281980)
@@ -3593,7 +3596,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980)
@@ -3639,6 +3642,18 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 > **Speakers:** - [michael] (1)
 
+
+## Instructor
+
+- [[Michael McDonald]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Financial Modeling
 
 ## Path Context
 

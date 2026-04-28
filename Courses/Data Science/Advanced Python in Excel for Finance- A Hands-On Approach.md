@@ -33,8 +33,10 @@ tags:
   - skill/microsoft-excel
   - skill/financial-modeling
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Python%20in%20Excel%20for%20Finance-%20A%20Hands-On%20Approach.md)
 
 ![Advanced Python in Excel for Finance: A Hands-On Approach](https://media.licdn.com/dms/image/v2/D560DAQFBsL-MKkHq2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723067844312?e=2147483647&amp;v=beta&amp;t=El9VTKfiahd-4mlvImfI4HAQgLyVdxRB-6yyYi8pL0M)
 
@@ -45,23 +47,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach) | 4h 47m | Advanced | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rancy Chepchirchir]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Microsoft Excel
-- Financial Modeling
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Python in Excel for Finance** (3 videos)
+- **3. 2. Financial Data Analysis Fundamentals** (3 videos)
+- **4. 3. Advanced Financial Analysis in Excel with Python** (4 videos)
+- **5. 4. Data Visualization for Financial Reporting** (3 videos)
+- **6. 5. Python for Risk Management and Compliance** (3 videos)
+- **7. 6. Machine Learning for Financial Forecasting** (3 videos)
+- **8. 7. Final Project** (1 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Python in Excel for finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980)
@@ -158,7 +158,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 1. Introduction to Python in Excel for Finance
+### 2. 1. Introduction to Python in Excel for Finance
 
 #### Integrating Python with Excel: An overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980)
@@ -657,7 +657,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Financial Data Analysis Fundamentals
+### 3. 2. Financial Data Analysis Fundamentals
 
 #### Importing and exporting financial data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980)
@@ -1296,7 +1296,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced Financial Analysis in Excel with Python
+### 4. 3. Advanced Financial Analysis in Excel with Python
 
 #### Time series analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980)
@@ -2570,7 +2570,7 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 
 
-### 4. Data Visualization for Financial Reporting
+### 5. 4. Data Visualization for Financial Reporting
 
 #### Creating financial charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980)
@@ -3578,7 +3578,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Python for Risk Management and Compliance
+### 6. 5. Python for Risk Management and Compliance
 
 #### Risk analysis techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980)
@@ -4389,7 +4389,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Machine Learning for Financial Forecasting
+### 7. 6. Machine Learning for Financial Forecasting
 
 #### Introduction to machine learning in finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980)
@@ -5248,7 +5248,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Final Project
+### 8. 7. Final Project
 
 #### Final project walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980)
@@ -5555,7 +5555,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Course summary and further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980)
@@ -5638,6 +5638,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (1), let (1), from. (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Rancy Chepchirchir]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Microsoft Excel
+- Financial Modeling
 
 ## Path Context
 

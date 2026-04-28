@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Better%20Relationships%20and%20More%20Sales-%20Using%20ChatGPT%20to%20Sell.md)
 
 ![Better Relationships and More Sales: Using ChatGPT to Sell](https://media.licdn.com/dms/image/v2/D560DAQGk_mVunucFHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712352202431?e=2147483647&amp;v=beta&amp;t=O2HOiFLjuRzmWemMWNWP0NRwJz9K62Dc_Uv6Cj5w73E)
 
@@ -46,24 +48,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell) | 45m | Beginner | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jake Dunlap]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- Sales Strategy
-- Artificial Intelligence (AI)
-- ChatGPT
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Building Trust in a Digital-First Sales World** (3 videos)
+- **3. 2. Building Relationships to Get More Meetings** (4 videos)
+- **4. 3. Modeling Conversations to Build Trust throughout the Sales Process** (4 videos)
+- **5. 4. Building Better Relationships with Current Clients** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI and the art of strong sales relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980)
@@ -86,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Building Trust in a Digital-First Sales World
+### 2. 1. Building Trust in a Digital-First Sales World
 
 #### Identify what matters to buyers when building trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980)
@@ -255,7 +251,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 2. Building Relationships to Get More Meetings
+### 3. 2. Building Relationships to Get More Meetings
 
 #### Avoid pitfalls when using ChatGPT to build relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/avoid-pitfalls-when-using-chatgpt-to-build-relationships?u=76281980)
@@ -507,7 +503,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Modeling Conversations to Build Trust throughout the Sales Process
+### 4. 3. Modeling Conversations to Build Trust throughout the Sales Process
 
 #### Engaging in technical and HR-focused conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980)
@@ -735,7 +731,7 @@ created: 2026-04-21
 > **Speakers:** - forging (1)
 
 
-### 4. Building Better Relationships with Current Clients
+### 5. 4. Building Better Relationships with Current Clients
 
 #### Learn your new clients' business in minutes
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/learn-your-new-clients-business-in-minutes?u=76281980)
@@ -899,7 +895,7 @@ created: 2026-04-21
 > **Speakers:** - think (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Tying it all together and what's up next!
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980)
@@ -949,6 +945,21 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Jake Dunlap]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- Sales Strategy
+- Artificial Intelligence (AI)
+- ChatGPT
 
 ## Path Context
 

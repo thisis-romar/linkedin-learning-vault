@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20%E2%80%93%20Window%20Functions.md)
 
 ![Advanced  SQL – Window Functions](https://media.licdn.com/dms/image/v2/C4E0DAQFmu57eVx6ZjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1590514876110?e=2147483647&amp;v=beta&amp;t=11fO-8Z6oGt2D_NpzeQYE_s-2GFh3vgdpDnJg3ursU4)
 
@@ -42,21 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions) | 2h 6m | Advanced | 70K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ami Levin]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Tools, Files, and Query Processing Review** (3 videos)
+- **3. 2. Window Functions and the OVER Clause** (3 videos)
+- **4. 3. Framing, Exclusions, and Shortcuts** (3 videos)
+- **5. 4. Aggregate Window Functions** (5 videos)
+- **6. 5. Rank and Distribution Window Functions** (6 videos)
+- **7. 6. Offset Window Functions** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980)
@@ -176,7 +177,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Tools, Files, and Query Processing Review
+### 2. 1. Tools, Files, and Query Processing Review
 
 #### Tools and demo database
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980)
@@ -403,7 +404,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Window Functions and the OVER Clause
+### 3. 2. Window Functions and the OVER Clause
 
 #### How window functions fit in query processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/how-window-functions-fit-in-query-processing?u=76281980)
@@ -706,7 +707,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Framing, Exclusions, and Shortcuts
+### 4. 3. Framing, Exclusions, and Shortcuts
 
 #### Framing rows and ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/framing-rows-and-ranges?u=76281980)
@@ -1094,7 +1095,7 @@ created: 2026-04-21
 > **Best Practices:** rule of thumb (1)
 
 
-### 4. Aggregate Window Functions
+### 5. 4. Aggregate Window Functions
 
 #### Aggregate grouped functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-grouped-functions?u=76281980)
@@ -1488,7 +1489,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Rank and Distribution Window Functions
+### 6. 5. Rank and Distribution Window Functions
 
 #### The concept of rank
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980)
@@ -1916,7 +1917,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Offset Window Functions
+### 7. 6. Offset Window Functions
 
 #### Offset window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/offset-window-functions?u=76281980)
@@ -2304,7 +2305,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Review, conclusion, and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980)
@@ -2433,6 +2434,18 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Ami Levin]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- SQL
 
 ## Path Context
 

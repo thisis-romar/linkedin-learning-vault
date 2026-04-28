@@ -6,8 +6,10 @@ linkedin_topic: Artificial Intelligence (AI)
 tags:
   - moc
   - topic/artificial-intelligence
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Topics/Artificial%20Intelligence%20(AI).md)
 
 # Artificial Intelligence (AI)
 

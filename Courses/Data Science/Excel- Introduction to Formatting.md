@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Introduction%20to%20Formatting.md)
 
 ![Excel: Introduction to Formatting](https://media.licdn.com/dms/image/v2/D560DAQHZGkpT6pxlGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695080492336?e=2147483647&amp;v=beta&amp;t=DMmtJpE_sLrV6WiAuuQE25oPsMo7XMN1udhOoSXZSa0)
 
@@ -40,21 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330) | 1h 6m | Intermediate | 75K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mynda Treacy]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Cell Formats** (4 videos)
+- **3. 2. Custom Formats** (6 videos)
+- **4. 3. Cell Styles and Themes** (3 videos)
+- **5. 4. Conditional Formatting** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Save time with effective Excel formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/save-time-with-effective-excel-formatting?u=76281980)
@@ -84,7 +83,7 @@ created: 2026-04-21
 > **Env Vars:** mvp (1)
 
 
-### 1. Cell Formats
+### 2. 1. Cell Formats
 
 #### Formatting with fonts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/formatting-with-fonts?u=76281980)
@@ -484,7 +483,7 @@ created: 2026-04-21
 > **Warnings:** caution (1)
 
 
-### 2. Custom Formats
+### 3. 2. Custom Formats
 
 #### Custom number formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/custom-number-formats?u=76281980)
@@ -961,7 +960,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 3. Cell Styles and Themes
+### 4. 3. Cell Styles and Themes
 
 #### Default styles
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980)
@@ -1230,7 +1229,7 @@ created: 2026-04-21
 > **Env Vars:** rgb (1)
 
 
-### 4. Conditional Formatting
+### 5. 4. Conditional Formatting
 
 #### Built-in rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/built-in-rules?u=76281980)
@@ -1688,7 +1687,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980)
@@ -1714,6 +1713,18 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **URLs:** [myonlinetraininghub.com](https://myonlinetraininghub.com) (1)
 
+
+## Instructor
+
+- [[Mynda Treacy]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Excel
 
 ## Path Context
 

@@ -21,27 +21,32 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Foundations-%20Prototyping.md)
 
 ![UX Foundations: Prototyping](https://media.licdn.com/dms/image/v2/D560DAQEWpj32ap-YLg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709853697808?e=2147483647&amp;v=beta&amp;t=mBeLLZVkr5eZOorPbpJ4e8CvO9ML8k5pUfmlZvEpuY0)
 
 # UX Foundations: Prototyping
 
-> Prototyping allows designers to explore multiple iterations of designs quickly and inexpensively. Prototypes can be submitted for testing and feedback, leading to better experiences for the business and for users. That's why prototyping is a fundamental skill for any UX designer.
-
-Explore the benefits, techniques, and tools of prototyping in this introductory course with designer Diane Cronenwett.
+> Prototyping allows designers to explore multiple iterations of designs quickly and inexpensively. Prototypes can be submitted for testing and feedback, leading to better experiences for the business and for users. That's why prototyping is a fundamental skill for any UX designer. Explore the benefits, techniques, and tools of prototyping in this introductory course with designer Diane Cronenwett. 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952) | 41m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Diane Cronenwett]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Prototyping Basics** (3 videos)
+- **3. 2. Prototyping Fidelity** (5 videos)
+- **4. 3. Paper Prototyping** (1 videos)
+- **5. 4. Prototyping with Figma** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Prototyping for user experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980)
@@ -70,7 +75,7 @@ Explore the benefits, techniques, and tools of prototyping in this introductory 
 > **Speakers:** - welcome (1)
 
 
-### 1. Prototyping Basics
+### 2. 1. Prototyping Basics
 
 #### What is UX prototyping?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980)
@@ -227,7 +232,7 @@ Explore the benefits, techniques, and tools of prototyping in this introductory 
 > **Speakers:** - developing (1)
 
 
-### 2. Prototyping Fidelity
+### 3. 2. Prototyping Fidelity
 
 #### Prototyping and the design process
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-and-the-design-process?u=76281980)
@@ -553,7 +558,7 @@ Explore the benefits, techniques, and tools of prototyping in this introductory 
 > **Speakers:** - when (1)
 
 
-### 3. Paper Prototyping
+### 4. 3. Paper Prototyping
 
 #### Paper prototyping for simple explorations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980)
@@ -609,7 +614,7 @@ Explore the benefits, techniques, and tools of prototyping in this introductory 
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Prototyping with Figma
+### 5. 4. Prototyping with Figma
 
 #### Basic prototyping with Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980)
@@ -973,7 +978,7 @@ Explore the benefits, techniques, and tools of prototyping in this introductory 
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continue your prototyping journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/continue-your-prototyping-journey?u=76281980)
@@ -1000,6 +1005,10 @@ Explore the benefits, techniques, and tools of prototyping in this introductory 
 > **URLs:** [dianecronenwett.com](https://dianecronenwett.com) (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Diane Cronenwett]]
 
 ## Path Context
 

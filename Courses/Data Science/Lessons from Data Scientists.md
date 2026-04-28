@@ -30,8 +30,10 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Lessons%20from%20Data%20Scientists.md)
 
 ![Lessons from Data Scientists](https://media.licdn.com/dms/image/v2/D4E0DAQFDTgmJbDLlAQ/learning-public-crop_675_1200/B4EZqDSp8WHMAc-/0/1763139297349?e=2147483647&amp;v=beta&amp;t=x-2C_6seIZ8nzty9Lxrb2i75ceqBldRUwkfHSNNpt9s)
 
@@ -42,20 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200) | 21m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Madecraft]]
-- [[Makenna Hack]]
-
-## Skills Covered
-
-- Tech Career Skills
-- Career Management
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Start with the Right Mindset** (3 videos)
+- **3. 2. Work Like a Real Data Scientist** (3 videos)
+- **4. 3. Communicate with Credibility** (3 videos)
+- **5. 4. Learn from Mistakes and Stay Resilient** (3 videos)
+- **6. 5. Own Your Career, Not Just Your Work** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Focus on what actually matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/focus-on-what-actually-matters?u=76281980)
@@ -79,7 +80,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 1. Start with the Right Mindset
+### 2. 1. Start with the Right Mindset
 
 #### Redefine what "data scientist" means
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980)
@@ -251,7 +252,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 2. Work Like a Real Data Scientist
+### 3. 2. Work Like a Real Data Scientist
 
 #### Slow down before you write your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980)
@@ -441,7 +442,7 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 
 
-### 3. Communicate with Credibility
+### 4. 3. Communicate with Credibility
 
 #### Say what it means—not just what it is
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/say-what-it-means-not-just-what-it-is?u=76281980)
@@ -589,7 +590,7 @@ created: 2026-04-21
 > **Versions:** 0.75 (1)
 
 
-### 4. Learn from Mistakes and Stay Resilient
+### 5. 4. Learn from Mistakes and Stay Resilient
 
 #### Treat mistakes like story material
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/treat-mistakes-like-story-material?u=76281980)
@@ -763,7 +764,7 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 
 
-### 5. Own Your Career, Not Just Your Work
+### 6. 5. Own Your Career, Not Just Your Work
 
 #### Choose jobs that enable you to grow
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/choose-jobs-that-enable-you-to-grow?u=76281980)
@@ -875,7 +876,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Develop in your data science career
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/develop-in-your-data-science-career?u=76281980)
@@ -892,6 +893,17 @@ created: 2026-04-21
 >
 > **Definitions:** is an  (1)
 
+
+## Instructor
+
+- [[Madecraft]]
+- [[Makenna Hack]]
+
+## Skills Covered
+
+- Tech Career Skills
+- Career Management
+- Data Science
 
 ## Path Context
 

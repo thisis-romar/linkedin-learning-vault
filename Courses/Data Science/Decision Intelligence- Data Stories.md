@@ -22,8 +22,10 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Decision%20Intelligence-%20Data%20Stories.md)
 
 ![Decision Intelligence: Data Stories](https://media.licdn.com/dms/image/v2/D4D0DAQFmj194938whQ/learning-public-crop_675_1200/B4DZaTdWEDGwAc-/0/1746230665733?e=2147483647&amp;v=beta&amp;t=asAyjfn4Dcg_rY1Vj33EGJ7ZC9E_wTPWGOQuPi-aLlk)
 
@@ -34,13 +36,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories) | 45m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Franz Buscha]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Data Stories** (8 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Theory is good, but practice can be better
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/theory-is-good-but-practice-can-be-better?u=76281980)
@@ -107,7 +111,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Data Stories
+### 2. 1. Data Stories
 
 #### Why perfect predictions can backfire
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980)
@@ -987,7 +991,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Boost your data skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980)
@@ -1049,6 +1053,10 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Franz Buscha]]
 
 ## Path Context
 

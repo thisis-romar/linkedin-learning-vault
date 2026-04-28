@@ -30,8 +30,10 @@ tags:
   - skill/influencing-others
   - skill/leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Influence%20Skills%20for%20Leaders%20and%20Managers.md)
 
 ![Influence Skills for Leaders and Managers](https://media.licdn.com/dms/image/v2/D560DAQGaGhEpKIt0Sw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687558181011?e=2147483647&amp;v=beta&amp;t=7WIoA9tNVRQEDBcL-pmHtkfD0rshi5OF34QkEWlX4M4)
 
@@ -42,22 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers) | 1h 12m | Intermediate | 58K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Melody Wilding]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Influencing Others
-- Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Using Influence to Manage Your Team** (5 videos)
+- **3. 2. Using Organizational Influence to Get Things Done** (6 videos)
+- **4. 3. Using Influence for Visibility and Impact** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Influencing at the leadership level
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-at-the-leadership-level-25859458?u=76281980)
@@ -222,7 +219,7 @@ created: 2026-04-21
 > **Speakers:** - every (1)
 
 
-### 1. Using Influence to Manage Your Team
+### 2. 1. Using Influence to Manage Your Team
 
 #### Inspiring your team to act
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/inspiring-your-team-to-act?u=76281980)
@@ -640,7 +637,7 @@ created: 2026-04-21
 > **Speakers:** - priorities (1)
 
 
-### 2. Using Organizational Influence to Get Things Done
+### 3. 2. Using Organizational Influence to Get Things Done
 
 #### Developing organizational awareness
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/developing-organizational-awareness?u=76281980)
@@ -1102,7 +1099,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. Using Influence for Visibility and Impact
+### 4. 3. Using Influence for Visibility and Impact
 
 #### Earning authority and autonomy
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/earning-authority-and-autonomy?u=76281980)
@@ -1473,7 +1470,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Influence for the greatest good
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influence-for-the-greatest-good?u=76281980)
@@ -1507,6 +1504,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
+
+## Instructor
+
+- [[Melody Wilding]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Influencing Others
+- Leadership
 
 ## Path Context
 

@@ -26,8 +26,10 @@ tags:
   - topic/web-development
   - skill/angular
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Angular%20Essential%20Training.md)
 
 ![Angular Essential Training](https://media.licdn.com/dms/image/v2/D560DAQG0p3shexhy_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696456346503?e=2147483647&amp;v=beta&amp;t=3Y8eyRjTW4ND7kQ6n1GPAINVjkAqTWUBl-wtk43gqfQ)
 
@@ -38,18 +40,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621) | Beginner | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/angular-essential-training-3266043/codespaces)
-
-## Skills Covered
-
-- Angular
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Overview of Angular** (5 videos)
+- **3. 2. Core Building Blocks** (8 videos)
+- **4. 3. Common Patterns** (7 videos)
+- **5. 4. Coding Essentials** (7 videos)
+- **6. 5. Routing and Navigation** (6 videos)
+- **7. 6. Reactive Programming** (5 videos)
+- **8. 7. Testing and Debugging** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### More than just a framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/more-than-just-a-framework?u=76281980)
@@ -335,7 +340,7 @@ created: 2026-04-21
 > **Tools:** github (1)
 
 
-### 1. Overview of Angular
+### 2. 1. Overview of Angular
 
 #### History and ownership
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980)
@@ -586,7 +591,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. Core Building Blocks
+### 3. 2. Core Building Blocks
 
 #### Angular decorators
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980)
@@ -1340,7 +1345,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Common Patterns
+### 4. 3. Common Patterns
 
 #### Overview of Angular pipes
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980)
@@ -2053,7 +2058,7 @@ created: 2026-04-21
 > **CLI Commands:** npm (1)
 
 
-### 4. Coding Essentials
+### 5. 4. Coding Essentials
 
 #### Angular project configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980)
@@ -2638,7 +2643,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 5. Routing and Navigation
+### 6. 5. Routing and Navigation
 
 #### Defining routes for Angular Router
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980)
@@ -3257,7 +3262,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 6. Reactive Programming
+### 7. 6. Reactive Programming
 
 #### Angular signals and the Signal function
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980)
@@ -3690,7 +3695,7 @@ created: 2026-04-21
 > **File Paths:** api.service.ts (1)
 
 
-### 7. Testing and Debugging
+### 8. 7. Testing and Debugging
 
 #### Overview of unit testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980)
@@ -4107,7 +4112,7 @@ created: 2026-04-21
 > **Exercise Files:** source code (1), exercise files (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### A deeper look at Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/a-deeper-look-at-angular?u=76281980)
@@ -4137,6 +4142,15 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [derek] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/angular-essential-training-3266043/codespaces)
+
+## Skills Covered
+
+- Angular
 
 ## Path Context
 

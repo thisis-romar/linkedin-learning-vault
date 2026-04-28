@@ -28,28 +28,31 @@ tags:
   - skill/media-ethics
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20Ai%20Skills%20For%20Creative%20Content%20Opportunities%20Issues%20And%20Ethics.md)
 
 ![Generative Ai Skills For Creative Content Opportunities Issues And Ethics](https://media.licdn.com/dms/image/v2/D560DAQHHsn5rOhwxog/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687906359678?e=2147483647&amp;v=beta&amp;t=HUkNhDPpRmNjjIxfw4cHd3dN6_F1Vf-HAhrVw1zH1gI)
 
 # Generative Ai Skills For Creative Content Opportunities Issues And Ethics
 
-> Generative AI brings the power of machine learning and artificial intelligence to everyone, making it incredibly easy to create media of all kinds—text, images, video, audio, and  more. But for creative professionals, this power also brings important content considerations and ethical issues. In this course, Ashley Kennedy explores the benefits and issues behind different generative AI tools—unear
+> Generative AI brings the power of machine learning and artificial intelligence to everyone, making it incredibly easy to create media of all kinds—text, images, video, audio, and more. But for creative professionals, this power also brings important content considerations and ethical issues. In this course, Ashley Kennedy explores the benefits and issues behind different generative AI tools—uneart
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics) | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Artificial Intelligence for Design
-- Artificial Intelligence (AI)
-- Media Ethics
-- Generative AI Tools
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Generative AI** (2 videos)
+- **3. 2. Exploring Types of Generative AI** (6 videos)
+- **4. 3. Challenges and Ethical Considerations of Generative AI** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The art of generative AI: Balancing creativity and ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980)
@@ -79,7 +82,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 1. Understanding Generative AI
+### 2. 1. Understanding Generative AI
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980)
@@ -253,7 +256,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Exploring Types of Generative AI
+### 3. 2. Exploring Types of Generative AI
 
 #### Generative AI for creatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980)
@@ -774,7 +777,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. Challenges and Ethical Considerations of Generative AI
+### 4. 3. Challenges and Ethical Considerations of Generative AI
 
 #### Ethics of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980)
@@ -1207,7 +1210,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/next-steps?u=76281980)
@@ -1244,6 +1247,13 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - thank (1)
 
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- Artificial Intelligence (AI)
+- Media Ethics
+- Generative AI Tools
 
 ## Path Context
 

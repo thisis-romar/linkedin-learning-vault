@@ -31,8 +31,10 @@ tags:
   - skill/mysql
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%201%20The%20Basics.md)
 
 ![PHP with MySQL Essential Training: 1 The Basics](https://media.licdn.com/dms/image/v2/C4E0DAQE_om3nR45UWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567114183038?e=2147483647&amp;v=beta&amp;t=o00r9ySd5HajKD3_ySAkbHATMuXAf4ezGMhfGiIIOWk)
 
@@ -43,22 +45,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics) | 5h 52m | Beginner | 35K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Skoglund]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- MySQL
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Start a Database-Driven Project** (5 videos)
+- **3. 2. Build Web Pages with PHP** (7 videos)
+- **4. 3. Headers and Redirects** (3 videos)
+- **5. 4. Build Forms with PHP** (6 videos)
+- **6. 5. MySQL Basics** (8 videos)
+- **7. 6. Use PHP to Access MySQL** (7 videos)
+- **8. 7. CRUD with PHP** (7 videos)
+- **9. 8. Validate Data with PHP** (6 videos)
+- **10. 9. Prevent SQL Injection** (4 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### PHP with MySQL Essential Training: The Basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/php-with-mysql-essential-training-the-basics?u=76281980)
@@ -157,7 +160,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Start a Database-Driven Project
+### 2. 1. Start a Database-Driven Project
 
 #### Blueprint the application
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980)
@@ -1121,7 +1124,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1), setup (1)
 
 
-### 2. Build Web Pages with PHP
+### 3. 2. Build Web Pages with PHP
 
 #### Links and URLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980)
@@ -2473,7 +2476,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 3. Headers and Redirects
+### 4. 3. Headers and Redirects
 
 #### Modify headers
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980)
@@ -3032,7 +3035,7 @@ created: 2026-04-21
 > **Analogies:** imagine (2), it's like (1), just like (1)
 
 
-### 4. Build Forms with PHP
+### 5. 4. Build Forms with PHP
 
 #### Build forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/build-forms-14186829?u=76281980)
@@ -4001,7 +4004,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. MySQL Basics
+### 6. 5. MySQL Basics
 
 #### MySQL introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980)
@@ -5209,7 +5212,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (2)
 
 
-### 6. Use PHP to Access MySQL
+### 7. 6. Use PHP to Access MySQL
 
 #### Database APIs in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980)
@@ -6259,7 +6262,7 @@ created: 2026-04-21
 > **Code Identifiers:** subject_id (1)
 
 
-### 7. CRUD with PHP
+### 8. 7. CRUD with PHP
 
 #### Find a single record
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980)
@@ -7850,7 +7853,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Validate Data with PHP
+### 9. 8. Validate Data with PHP
 
 #### Common data validation types
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980)
@@ -9009,7 +9012,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 9. Prevent SQL Injection
+### 10. 9. Prevent SQL Injection
 
 #### Understand SQL injection
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980)
@@ -9677,7 +9680,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980)
@@ -9720,6 +9723,19 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - [kevin] (1)
 
+
+## Instructor
+
+- [[Kevin Skoglund]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- MySQL
+- PHP
 
 ## Path Context
 

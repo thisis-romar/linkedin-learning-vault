@@ -30,8 +30,10 @@ tags:
   - skill/python-programming-language
   - skill/data-acquisition
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Level%20Up-%20Python%20Data%20Acquisitions%2C%20Prep%2C%20and%20EDA.md)
 
 ![Level Up: Python Data Acquisitions, Prep, and EDA](https://media.licdn.com/dms/image/v2/D4D0DAQHesOIQyOuTNQ/learning-public-crop_675_1200/B4DZXd6el9HkAY-/0/1743184849916?e=2147483647&amp;v=beta&amp;t=4RUemFalV9c4wFDTKNhmgsLIaA4UKMuRSgIr6mbeqEU)
 
@@ -42,22 +44,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda) | 1h 2m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Seth Berry]]
-
-## Resources
-
-- [GitHub Repository](https://github.com/LinkedInLearning/level-up-python-data-acquisitions-prep-EDA-3083218/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Acquisition
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Data Acquisition** (6 videos)
+- **3. 2. Data Prep** (6 videos)
+- **4. 3. EDA** (5 videos)
+
+### 1. Introduction
 
 #### Getting started with Python for data science: Code challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980)
@@ -246,7 +242,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 1. Data Acquisition
+### 2. 1. Data Acquisition
 
 #### Scraping tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-tables?u=76281980)
@@ -690,7 +686,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Data Prep
+### 3. 2. Data Prep
 
 #### Constructing regular expressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980)
@@ -1122,7 +1118,7 @@ created: 2026-04-21
 > **Non-Speech:** (energetic music plays) (1)
 
 
-### 3. EDA
+### 4. 3. EDA
 
 #### Describing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980)
@@ -1496,6 +1492,19 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Seth Berry]]
+
+## Resources
+
+- [GitHub Repository](https://github.com/LinkedInLearning/level-up-python-data-acquisitions-prep-EDA-3083218/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Acquisition
 
 ## Path Context
 

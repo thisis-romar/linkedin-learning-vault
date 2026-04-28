@@ -28,8 +28,10 @@ tags:
   - skill/game-development
   - skill/unity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Design%2C%20Production%2C%20and%20Industry%20Awareness.md)
 
 ![Cert Prep: Unity Certified Associate Game Developer Design, Production, and Industry Awareness](https://media.licdn.com/dms/image/v2/C560DAQFdcIB37oJxXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613758035308?e=2147483647&amp;v=beta&amp;t=PLJSWjRco1jb_Z5oDOIaqdkQJ1S_Uh1KgoA26iGPcAY)
 
@@ -40,22 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness) | 1h 35m | Intermediate | 1K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Alan Thorn]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Game Development
-- Unity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Game Design** (6 videos)
+- **3. 2. Team Work** (4 videos)
+- **4. 3. Preparing for Industry** (4 videos)
+- **5. 4. Developing for Mobile** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The game industry and its components
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/the-game-industry-and-its-components?u=76281980)
@@ -99,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Game Design
+### 2. 1. Game Design
 
 #### Game design documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980)
@@ -655,7 +653,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Team Work
+### 3. 2. Team Work
 
 #### Version control and project collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980)
@@ -1011,7 +1009,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Preparing for Industry
+### 4. 3. Preparing for Industry
 
 #### Job titles and roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980)
@@ -1360,7 +1358,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Developing for Mobile
+### 5. 4. Developing for Mobile
 
 #### Mobile build platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980)
@@ -1849,7 +1847,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980)
@@ -1886,6 +1884,19 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Alan Thorn]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Game Development
+- Unity
 
 ## Path Context
 

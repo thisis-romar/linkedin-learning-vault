@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/8%20Things%20You%20Must%20Know%20in%20Python.md)
 
 ![8 Things You Must Know in Python](https://media.licdn.com/dms/image/v2/D560DAQEuGjrSsMFT2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733774083145?e=2147483647&amp;v=beta&amp;t=ezQ6YUN41b0qQcZt2EGP_7aJjzj0pq6QNuwACNk__EQ)
 
@@ -41,21 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python) | 50m | Intermediate | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jonathan Fernandes]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding the Python any() and all() Methods** (3 videos)
+- **3. 2. Using the Python enumerate() and zip() Method** (3 videos)
+- **4. 3. Understanding the Python reversed() Method** (2 videos)
+- **5. 4. Working with Python min() and max()** (2 videos)
+- **6. 5. Understanding and Using the Python sorted() Method** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Eight things to know in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/eight-things-to-know-in-python?u=76281980)
@@ -169,7 +169,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding the Python any() and all() Methods
+### 2. 1. Understanding the Python any() and all() Methods
 
 #### Python all() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-all-function?u=76281980)
@@ -356,7 +356,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Using the Python enumerate() and zip() Method
+### 3. 2. Using the Python enumerate() and zip() Method
 
 #### Python enumerate() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-enumerate-function?u=76281980)
@@ -593,7 +593,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Understanding the Python reversed() Method
+### 4. 3. Understanding the Python reversed() Method
 
 #### Python reversed() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-reversed-function?u=76281980)
@@ -762,7 +762,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Working with Python min() and max()
+### 5. 4. Working with Python min() and max()
 
 #### Python min() and max() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-min-and-max-function?u=76281980)
@@ -953,7 +953,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Understanding and Using the Python sorted() Method
+### 6. 5. Understanding and Using the Python sorted() Method
 
 #### Python sorted() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-sorted-function?u=76281980)
@@ -1179,7 +1179,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/next-steps?u=76281980)
@@ -1199,6 +1199,18 @@ created: 2026-04-21
 > **CLI Commands:** python (2), apache (1), docker (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jonathan Fernandes]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
 
 ## Path Context
 

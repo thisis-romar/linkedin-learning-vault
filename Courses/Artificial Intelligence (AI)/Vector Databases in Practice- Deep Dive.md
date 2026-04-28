@@ -41,8 +41,10 @@ tags:
   - skill/vector-databases
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Vector%20Databases%20in%20Practice-%20Deep%20Dive.md)
 
 ![Vector Databases in Practice: Deep Dive](https://media.licdn.com/dms/image/v2/D560DAQExzIHfNrjPEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710796088760?e=2147483647&amp;v=beta&amp;t=zPT5HbEEOP1hqMzL_wzXM5L6Kg2qzovDoTUdf0o0tLo)
 
@@ -53,24 +55,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive) | 1h 50m | Intermediate | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joon-Pil Hwang]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/vector-databases-in-practice-deep-dive-4513162)
-
-## Skills Covered
-
-- Database Development
-- Vector Databases
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Search Functions in a Vector Database** (10 videos)
+- **3. 2. Building a Vector Database** (8 videos)
+- **4. 3. Building a Vector Database-Powered App** (7 videos)
+- **5. 4. Making a Vector Database Work for Your Data** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of AI-powered vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/the-power-of-ai-powered-vector-databases?u=76281980)
@@ -97,7 +93,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 1. Search Functions in a Vector Database
+### 2. 1. Search Functions in a Vector Database
 
 #### A high-level view of vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980)
@@ -841,7 +837,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 2. Building a Vector Database
+### 3. 2. Building a Vector Database
 
 #### Create your own database
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980)
@@ -1490,7 +1486,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 3. Building a Vector Database-Powered App
+### 4. 3. Building a Vector Database-Powered App
 
 #### Web apps and vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980)
@@ -2064,7 +2060,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Making a Vector Database Work for Your Data
+### 5. 4. Making a Vector Database Work for Your Data
 
 #### Messiness of real data
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/messiness-of-real-data?u=76281980)
@@ -2507,7 +2503,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continue learning about vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980)
@@ -2546,6 +2542,21 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Joon-Pil Hwang]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/vector-databases-in-practice-deep-dive-4513162)
+
+## Skills Covered
+
+- Database Development
+- Vector Databases
+- Artificial Intelligence (AI)
 
 ## Path Context
 

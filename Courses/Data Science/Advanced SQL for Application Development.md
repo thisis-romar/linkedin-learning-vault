@@ -32,8 +32,10 @@ tags:
   - skill/application-development
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20for%20Application%20Development.md)
 
 ![Advanced SQL for Application Development](https://media.licdn.com/dms/image/v2/D4E0DAQGOJN0DZ3MYUg/learning-public-crop_675_1200/B4EZhoPUiKGUAY-/0/1754095504223?e=2147483647&amp;v=beta&amp;t=OyTlRSSvAcV8E5vTqxNet40ZBA3Sp7bDG4PLuWHkxj8)
 
@@ -44,22 +46,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development) | 2h 7m | Advanced | 73K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dan Sullivan]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Application Development
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Advanced Querying with Select** (6 videos)
+- **3. 2. Indexing Tables** (8 videos)
+- **4. 3. Object-Relational Mapping (ORM)** (7 videos)
+- **5. 4. Designing for Scalability** (8 videos)
+- **6. 5. Designing for Reliability** (7 videos)
+- **7. 6. Designing for Maintainability** (6 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with SQL for application developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/getting-started-with-sql-for-application-developers-23751431?u=76281980)
@@ -128,7 +128,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Advanced Querying with Select
+### 2. 1. Advanced Querying with Select
 
 #### Designing an ecommerce application database
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980)
@@ -744,7 +744,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. Indexing Tables
+### 3. 2. Indexing Tables
 
 #### Overview of index types
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980)
@@ -1098,7 +1098,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Object-Relational Mapping (ORM)
+### 4. 3. Object-Relational Mapping (ORM)
 
 #### Overview of object-relational mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-object-relational-mapping?u=76281980)
@@ -1536,7 +1536,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Designing for Scalability
+### 5. 4. Designing for Scalability
 
 #### Overview of partitioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980)
@@ -2048,7 +2048,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Designing for Reliability
+### 6. 5. Designing for Reliability
 
 #### Database errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-errors?u=76281980)
@@ -2470,7 +2470,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Designing for Maintainability
+### 7. 6. Designing for Maintainability
 
 #### Understanding schema changes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980)
@@ -2790,7 +2790,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Key considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980)
@@ -2844,6 +2844,19 @@ created: 2026-04-21
 > **Prerequisites:** make sure you have (2)
 > **Speakers:** - [dan] (1)
 
+
+## Instructor
+
+- [[Dan Sullivan]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Application Development
+- SQL
 
 ## Path Context
 

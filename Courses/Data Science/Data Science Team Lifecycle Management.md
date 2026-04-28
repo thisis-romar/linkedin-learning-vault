@@ -22,8 +22,10 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20Team%20Lifecycle%20Management.md)
 
 ![Data Science Team Lifecycle Management](https://media.licdn.com/dms/image/v2/D560DAQFgUOPlSMgHsw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681505711894?e=2147483647&amp;v=beta&amp;t=Jzpw4hWx23u0lBycTWZedOv5MV_qG_UsT2qBvkFkVUQ)
 
@@ -34,13 +36,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management) | 2h 7m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Angel Evan]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Start with Business Goals** (3 videos)
+- **3. 2. Recruiting** (6 videos)
+- **4. 3. Onboarding** (5 videos)
+- **5. 4. Day-To-Day Management** (8 videos)
+- **6. 5. Career Pathing and Development** (5 videos)
+- **7. 6. Promotions** (3 videos)
+- **8. 7. Retention** (4 videos)
+- **9. 8. Mentoring vs. Teaching** (3 videos)
+- **10. 9. Employee Termination** (3 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How to recruit, develop, and retain data scientists
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-recruit-develop-and-retain-data-scientists?u=76281980)
@@ -81,7 +93,7 @@ created: 2026-04-21
 > **Speakers:** - data (1)
 
 
-### 1. Start with Business Goals
+### 2. 1. Start with Business Goals
 
 #### How to determine the need for data scientists
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980)
@@ -279,7 +291,7 @@ created: 2026-04-21
 > **Speakers:** - requesting (1)
 
 
-### 2. Recruiting
+### 3. 2. Recruiting
 
 #### How to determine what level of data scientist you need and how many
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-what-level-of-data-scientist-you-need-and-how-many?u=76281980)
@@ -688,7 +700,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 3. Onboarding
+### 4. 3. Onboarding
 
 #### How to onboard new employees
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-onboard-new-employees?u=76281980)
@@ -1047,7 +1059,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 4. Day-To-Day Management
+### 5. 4. Day-To-Day Management
 
 #### How to choose a management model that works for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-a-management-model-that-works-for-you?u=76281980)
@@ -1596,7 +1608,7 @@ created: 2026-04-21
 > **Speakers:** - ensuring (1)
 
 
-### 5. Career Pathing and Development
+### 6. 5. Career Pathing and Development
 
 #### Align an employee's personal goals to the goals of the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980)
@@ -1922,7 +1934,7 @@ created: 2026-04-21
 > **Non-Speech:** (bell chimes) (1)
 
 
-### 6. Promotions
+### 7. 6. Promotions
 
 #### How to create a pathway to promotion
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-pathway-to-promotion?u=76281980)
@@ -2124,7 +2136,7 @@ created: 2026-04-21
 > **Speakers:** - job (1)
 
 
-### 7. Retention
+### 8. 7. Retention
 
 #### How to prevent burnout
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-prevent-burnout?u=76281980)
@@ -2387,7 +2399,7 @@ created: 2026-04-21
 > **Speakers:** - dealing (1)
 
 
-### 8. Mentoring vs. Teaching
+### 9. 8. Mentoring vs. Teaching
 
 #### Mentorship and teaching
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentorship-and-teaching?u=76281980)
@@ -2581,7 +2593,7 @@ created: 2026-04-21
 > **Speakers:** - mentoring (1)
 
 
-### 9. Employee Termination
+### 10. 9. Employee Termination
 
 #### How to avoid unnecessary termination
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-unnecessary-termination?u=76281980)
@@ -2784,7 +2796,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980)
@@ -2820,6 +2832,10 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Angel Evan]]
 
 ## Path Context
 

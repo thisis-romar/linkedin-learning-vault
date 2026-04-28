@@ -31,8 +31,10 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/PHP%20Techniques-%20Pagination.md)
 
 ![PHP Techniques: Pagination](https://media.licdn.com/dms/image/v2/C4E0DAQGTEjxoHoClkw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647638529487?e=2147483647&amp;v=beta&amp;t=ijjXafCHfCB21Avkq9_pWqoL2WdXW0K5OpbPFwicpdY)
 
@@ -43,22 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination) | 1h 11m | Intermediate | 35K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Skoglund]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/php-techniques-pagination-2884225)
-
-## Skills Covered
-
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Pagination Fundamentals** (3 videos)
+- **3. 2. Database Record Pagination** (3 videos)
+- **4. 3. Links to Paginated Pages** (4 videos)
+- **5. 4. Object-Oriented Pagination** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Showing posts in pages using PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/showing-posts-in-pages-using-php?u=76281980)
@@ -136,7 +134,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Pagination Fundamentals
+### 2. 1. Pagination Fundamentals
 
 #### Pagination overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980)
@@ -531,7 +529,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Database Record Pagination
+### 3. 2. Database Record Pagination
 
 #### Setting up the project database
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980)
@@ -955,7 +953,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Links to Paginated Pages
+### 4. 3. Links to Paginated Pages
 
 #### Adding links to previous and next pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980)
@@ -1441,7 +1439,7 @@ created: 2026-04-21
 > **Prerequisites:** you need to have (1)
 
 
-### 4. Object-Oriented Pagination
+### 5. 4. Object-Oriented Pagination
 
 #### Defining a pagination class
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980)
@@ -1976,7 +1974,7 @@ created: 2026-04-21
 > **File Paths:** customers.php (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/next-steps?u=76281980)
@@ -2002,6 +2000,19 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kevin Skoglund]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/php-techniques-pagination-2884225)
+
+## Skills Covered
+
+- PHP
 
 ## Path Context
 

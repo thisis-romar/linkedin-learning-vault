@@ -35,8 +35,10 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Analysis-%20Investigate%20with%20SQL.md)
 
 ![Data Analysis: Investigate with SQL](https://media.licdn.com/dms/image/v2/D560DAQEW7lWItY5MAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682442844043?e=2147483647&amp;v=beta&amp;t=tN9bxL5mCKMSFV-uyBK2V-6bidoy53ohxPN0kiPVp70)
 
@@ -47,22 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql) | 1h | Beginner | 300K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Walter Shields]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Analysis
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Starting the Investigation with SQL Query** (3 videos)
+- **3. 2. Filter Data for Refined Results** (4 videos)
+- **4. 3. Performing Manual Data Analysis** (2 videos)
+- **5. 4. Exploring Related Table Data** (4 videos)
+- **6. 5. Conclusive Analysis for Data-Driven Action** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why learn SQL today?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/delete-why-learn-sql-today?u=76281980)
@@ -235,7 +234,7 @@ created: 2026-04-21
 > **Analogies:** kind of like (1)
 
 
-### 1. Starting the Investigation with SQL Query
+### 2. 1. Starting the Investigation with SQL Query
 
 #### Data analysis: First steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/data-analysis-first-steps-25848460?u=76281980)
@@ -443,7 +442,7 @@ created: 2026-04-21
 > **Analogies:** it's like (1)
 
 
-### 2. Filter Data for Refined Results
+### 3. 2. Filter Data for Refined Results
 
 #### Adding criteria to SQL queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/adding-criteria-to-sql-queries-25843468?u=76281980)
@@ -654,7 +653,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Performing Manual Data Analysis
+### 4. 3. Performing Manual Data Analysis
 
 #### Logical deduction by observing results
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980)
@@ -833,7 +832,7 @@ created: 2026-04-21
 > **Speakers:** - all (1)
 
 
-### 4. Exploring Related Table Data
+### 5. 4. Exploring Related Table Data
 
 #### Examining the evidence in related tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/examining-the-evidence-in-related-tables-25846440?u=76281980)
@@ -1012,7 +1011,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 5. Conclusive Analysis for Data-Driven Action
+### 6. 5. Conclusive Analysis for Data-Driven Action
 
 #### Solving the case with data-driven insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solving-the-case-with-data-driven-insights-25845462?u=76281980)
@@ -1251,7 +1250,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continue enhancing your SQL data-driven skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980)
@@ -1307,6 +1306,19 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Walter Shields]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Analysis
+- SQL
 
 ## Path Context
 

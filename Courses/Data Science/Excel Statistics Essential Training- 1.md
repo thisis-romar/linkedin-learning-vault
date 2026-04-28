@@ -21,8 +21,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Statistics%20Essential%20Training-%201.md)
 
 ![Excel Statistics Essential Training: 1](https://media.licdn.com/dms/image/v2/D560DAQHM6S2xVyROyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684531872768?e=2147483647&amp;v=beta&amp;t=5jHAlY65tWNybC_iba651K65SX_jB1a_Xt0R_z8dFI8)
 
@@ -33,13 +35,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537) | 3h 36m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eddie Davila]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Starting with Excel** (2 videos)
+- **3. 2. Dataset Basics** (2 videos)
+- **4. 3. Looking at Data** (2 videos)
+- **5. 4. Dataset Variability** (4 videos)
+- **6. 5. Excel Descriptive Tools** (2 videos)
+- **7. 6. Basic Probability Concepts** (7 videos)
+- **8. 7. Discrete Probabilities** (4 videos)
+- **9. 8. Continuous Probabilities** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980)
@@ -125,7 +136,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Starting with Excel
+### 2. 1. Starting with Excel
 
 #### Excel basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980)
@@ -663,7 +674,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Dataset Basics
+### 3. 2. Dataset Basics
 
 #### Sum, Count, Max, Min, and Range
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980)
@@ -1171,7 +1182,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Looking at Data
+### 4. 3. Looking at Data
 
 #### Frequency table
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980)
@@ -1486,7 +1497,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Dataset Variability
+### 5. 4. Dataset Variability
 
 #### Standard deviation
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980)
@@ -2174,7 +2185,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Excel Descriptive Tools
+### 6. 5. Excel Descriptive Tools
 
 #### Descriptive tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/ddescriptive-tool?u=76281980)
@@ -2472,7 +2483,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Basic Probability Concepts
+### 7. 6. Basic Probability Concepts
 
 #### Probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980)
@@ -3642,7 +3653,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Discrete Probabilities
+### 8. 7. Discrete Probabilities
 
 #### Discrete probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980)
@@ -4230,7 +4241,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Continuous Probabilities
+### 9. 8. Continuous Probabilities
 
 #### Continuous: Z-score tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-z-score-tables?u=76281980)
@@ -4652,7 +4663,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980)
@@ -4688,6 +4699,10 @@ created: 2026-04-21
 > **Env Vars:** spss (1)
 > **Speakers:** - congrats (1)
 
+
+## Instructor
+
+- [[Eddie Davila]]
 
 ## Path Context
 

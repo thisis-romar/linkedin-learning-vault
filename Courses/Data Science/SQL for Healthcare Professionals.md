@@ -35,35 +35,34 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20for%20Healthcare%20Professionals.md)
 
 ![SQL for Healthcare Professionals](https://media.licdn.com/dms/image/v2/D560DAQEFQQ9GdEwkMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721949636556?e=2147483647&amp;v=beta&amp;t=AkxGz98sHDaIiuPIfx5MwIlJ4_HN903kK97E9kLwlAc)
 
 # SQL for Healthcare Professionals
 
-> In this course, healthcare data analyst Thais Cooke shows you how to integrate SQL in the field of healthcare. With the use of electronic records and the integration required to treat an individual as a whole, a strong understanding of computer languages, combined with an awareness of the challenges in healthcare,  can help create better outcomes for patients, as well as solutions for problems wit
+> In this course, healthcare data analyst Thais Cooke shows you how to integrate SQL in the field of healthcare. With the use of electronic records and the integration required to treat an individual as a whole, a strong understanding of computer languages, combined with an awareness of the challenges in healthcare, can help create better outcomes for patients, as well as solutions for problems with
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals) | 2h 14m | Intermediate | 60K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Thais Cooke]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Healthcare Information Technology (HIT)
-- Data Analysis
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. A Brief Overview of SQL** (7 videos)
+- **3. 2. Patient Care Management** (3 videos)
+- **4. 3. Population Health Management** (6 videos)
+- **5. 4. Clinical Research** (4 videos)
+- **6. 5. Healthcare Administration** (5 videos)
+- **7. 6. Final Project: Healthcare Analytics** (8 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### SQL for healthcare: Transforming data into insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980)
@@ -184,7 +183,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. A Brief Overview of SQL
+### 2. 1. A Brief Overview of SQL
 
 #### Why use SQL in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980)
@@ -749,7 +748,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Patient Care Management
+### 3. 2. Patient Care Management
 
 #### How SQL is used in patient care management
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980)
@@ -899,7 +898,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Population Health Management
+### 4. 3. Population Health Management
 
 #### How to use SQL to manage population health
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980)
@@ -1317,7 +1316,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Clinical Research
+### 5. 4. Clinical Research
 
 #### Using SQL in clinical research
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980)
@@ -1662,7 +1661,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Healthcare Administration
+### 6. 5. Healthcare Administration
 
 #### How to use SQL to analyze workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-analyze-workflow?u=76281980)
@@ -1987,7 +1986,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Final Project: Healthcare Analytics
+### 7. 6. Final Project: Healthcare Analytics
 
 #### Assignment: Healthcare analytics scenario
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/assignment-healthcare-analytics-scenario?u=76281980)
@@ -2434,7 +2433,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/next-steps?u=76281980)
@@ -2472,6 +2471,20 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Thais Cooke]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Healthcare Information Technology (HIT)
+- Data Analysis
+- SQL
 
 ## Path Context
 

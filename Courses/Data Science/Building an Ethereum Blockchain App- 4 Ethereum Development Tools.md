@@ -34,8 +34,10 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%204%20Ethereum%20Development%20Tools.md)
 
 ![Building an Ethereum Blockchain App: 4 Ethereum Development Tools](https://media.licdn.com/dms/image/v2/C560DAQEBYWbLkaLD2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628268755040?e=2147483647&amp;v=beta&amp;t=s3N592GvihPDr7VpDQouEPPpSoVfA9T0a_wnu7ncBFc)
 
@@ -46,22 +48,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools) | 25m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Solomon]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Blockchain
-- Ethereum
-
 ## Table of Contents
 
-### 1. Ethereum Development Tools
+### Chapter Overview
+
+- **1. 1. Ethereum Development Tools** (5 videos)
+
+### 1. 1. Ethereum Development Tools
 
 #### Your Ethereum development toolbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980)
@@ -731,6 +724,19 @@ created: 2026-04-21
 > **Definitions:** is a  (3)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 
+
+## Instructor
+
+- [[Michael Solomon]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Blockchain
+- Ethereum
 
 ## Path Context
 

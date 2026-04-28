@@ -39,8 +39,10 @@ tags:
   - skill/algorithm-design
   - skill/programming-foundations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Algorithms.md)
 
 ![Programming Foundations: Algorithms](https://media.licdn.com/dms/image/v2/D560DAQHrmMscOqmJOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704914636714?e=2147483647&amp;v=beta&amp;t=u221U4Srj9b85W3JgUWJarMYQ_8fpP6l0uvuIPYOH08)
 
@@ -51,24 +53,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142) | 2h 45m | Beginner | 129K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/programming-foundations-algorithms-4507286/codespaces)
-
-## Skills Covered
-
-- Data Structures
-- Algorithm Design
-- Programming Foundations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Overview** (3 videos)
+- **3. 2. Common Data Structures** (7 videos)
+- **4. 3. Recursion** (3 videos)
+- **5. 4. Sorting Information** (6 videos)
+- **6. 5. Searching for Data** (3 videos)
+- **7. 6. Practical Examples with Data Structures** (4 videos)
+- **8. Glossaries** (0 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Algorithms power the world
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980)
@@ -202,7 +201,7 @@ created: 2026-04-21
 > **Env Vars:** dir (1)
 
 
-### 1. Overview
+### 2. 1. Overview
 
 #### What are algorithms?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-are-algorithms?u=76281980)
@@ -457,7 +456,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Common Data Structures
+### 3. 2. Common Data Structures
 
 #### Introduction to common data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980)
@@ -1045,7 +1044,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Recursion
+### 4. 3. Recursion
 
 #### Understanding recursion
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/understanding-recursion?u=76281980)
@@ -1315,7 +1314,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Sorting Information
+### 5. 4. Sorting Information
 
 #### Overview of sorting
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/overview-of-sorting?u=76281980)
@@ -1776,7 +1775,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Searching for Data
+### 6. 5. Searching for Data
 
 #### Unordered list search
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unordered-list-search?u=76281980)
@@ -2016,7 +2015,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Practical Examples with Data Structures
+### 7. 6. Practical Examples with Data Structures
 
 #### Unique filtering with sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980)
@@ -2370,10 +2369,10 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Glossaries
+### 8. Glossaries
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/next-steps?u=76281980)
@@ -2403,6 +2402,21 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/programming-foundations-algorithms-4507286/codespaces)
+
+## Skills Covered
+
+- Data Structures
+- Algorithm Design
+- Programming Foundations
 
 ## Path Context
 

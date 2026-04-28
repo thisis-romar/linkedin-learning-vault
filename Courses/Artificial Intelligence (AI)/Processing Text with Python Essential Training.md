@@ -31,8 +31,10 @@ tags:
   - skill/python-programming-language
   - skill/text-mining
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Processing%20Text%20with%20Python%20Essential%20Training.md)
 
 ![Processing Text with Python Essential Training](https://media.licdn.com/dms/image/v2/D560DAQGTubKeur8sMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008930353?e=2147483647&amp;v=beta&amp;t=PZUtYX6-bOg6xbI_5l58ZD_rgUmE9NdkRfkR2tgE86s)
 
@@ -43,23 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training) | 33m | Intermediate | 18K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Unstructured Data
-- Python (Programming Language)
-- Text Mining
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Text Mining** (5 videos)
+- **3. 2. Reading Text** (4 videos)
+- **4. 3. Text Cleansing and Extraction** (5 videos)
+- **5. 4. Advanced Text Processing** (4 videos)
+- **6. 5. Best Practices** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The need for text mining skills in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/the-need-for-text-mining-skills-in-data-science?u=76281980)
@@ -97,7 +95,7 @@ created: 2026-04-21
 > **Speakers:** - [kumaran (1)
 
 
-### 1. Text Mining
+### 2. 1. Text Mining
 
 #### Text mining today
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/text-mining-today?u=76281980)
@@ -294,7 +292,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1), install (1)
 
 
-### 2. Reading Text
+### 3. 2. Reading Text
 
 #### Reading raw files
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980)
@@ -468,7 +466,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Text Cleansing and Extraction
+### 4. 3. Text Cleansing and Extraction
 
 #### Tokenization
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980)
@@ -701,7 +699,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Advanced Text Processing
+### 5. 4. Advanced Text Processing
 
 #### Building n-grams
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-n-grams?u=76281980)
@@ -925,7 +923,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Best Practices
+### 6. 5. Best Practices
 
 #### Storing text
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980)
@@ -1022,7 +1020,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/next-steps?u=76281980)
@@ -1041,6 +1039,20 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - [kumaran] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Unstructured Data
+- Python (Programming Language)
+- Text Mining
 
 ## Path Context
 

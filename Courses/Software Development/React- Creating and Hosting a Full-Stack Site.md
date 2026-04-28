@@ -34,8 +34,10 @@ tags:
   - skill/full-stack-development
   - skill/react-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/React-%20Creating%20and%20Hosting%20a%20Full-Stack%20Site.md)
 
 ![React: Creating and Hosting a Full-Stack Site](https://media.licdn.com/dms/image/v2/D4E0DAQF0BLWJuFKYYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731708035316?e=2147483647&amp;v=beta&amp;t=cergr_ZvFSb-MogqOrOpAr9xN1xpI5kjb5Av4uDTk1w)
 
@@ -46,24 +48,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483) | 4h 9m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shaun Wassell]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/react-creating-and-hosting-a-full-stack-site-5948186/codespaces)
-
-## Skills Covered
-
-- Web Development
-- Full-Stack Development
-- React.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Creating a React Front-End** (9 videos)
+- **3. 2. Creating a Node.js Back-End** (7 videos)
+- **4. 3. Adding MongoDB to Node.js** (5 videos)
+- **5. 4. Connecting the Front-End and Back-End** (7 videos)
+- **6. 5. Adding User Authentication with Firebase Auth** (11 videos)
+- **7. 6. Hosting a Full-Stack React Application** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build your own full-stack website using React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980)
@@ -133,7 +131,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Creating a React Front-End
+### 2. 1. Creating a React Front-End
 
 #### Why React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980)
@@ -1095,7 +1093,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Creating a Node.js Back-End
+### 3. 2. Creating a Node.js Back-End
 
 #### Why Node.js?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980)
@@ -1812,7 +1810,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Adding MongoDB to Node.js
+### 4. 3. Adding MongoDB to Node.js
 
 #### Why MongoDB?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980)
@@ -2241,7 +2239,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Connecting the Front-End and Back-End
+### 5. 4. Connecting the Front-End and Back-End
 
 #### The Axios library
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980)
@@ -2867,7 +2865,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. Adding User Authentication with Firebase Auth
+### 6. 5. Adding User Authentication with Firebase Auth
 
 #### Why Firebase Auth?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-firebase-auth?u=76281980)
@@ -4113,7 +4111,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 6. Hosting a Full-Stack React Application
+### 7. 6. Hosting a Full-Stack React Application
 
 #### Preparing an app for release
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980)
@@ -4766,7 +4764,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps in your React journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980)
@@ -4802,6 +4800,21 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Shaun Wassell]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/react-creating-and-hosting-a-full-stack-site-5948186/codespaces)
+
+## Skills Covered
+
+- Web Development
+- Full-Stack Development
+- React.js
 
 ## Path Context
 

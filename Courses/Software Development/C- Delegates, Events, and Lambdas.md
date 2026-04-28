@@ -34,8 +34,10 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Delegates%2C%20Events%2C%20and%20Lambdas.md)
 
 ![C#: Delegates, Events, and Lambdas](https://media.licdn.com/dms/image/v2/C560DAQFKly2MCihgYw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642535785778?e=2147483647&amp;v=beta&amp;t=6i9V1OUzqaOx9JScjKsrMEgApKMLmJhuMWYLM5kWapk)
 
@@ -46,22 +48,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458) | 1h 7m | Intermediate | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/c-sharp-delegates-events-and-lambdas-3006906)
-
-## Skills Covered
-
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Getting Started** (2 videos)
+- **3. 2. C# Delegates** (5 videos)
+- **4. 3. C# Events** (4 videos)
+- **5. 4. C# Lambdas** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using C# delegates, events, and lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-c-sharp-delegates-events-and-lambdas-23315218?u=76281980)
@@ -191,7 +189,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Overview of C# delegates, events, and lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/overview-of-c-sharp-delegates-events-and-lambdas?u=76281980)
@@ -316,7 +314,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. C# Delegates
+### 3. 2. C# Delegates
 
 #### Creating C# delegates
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-delegates?u=76281980)
@@ -947,7 +945,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. C# Events
+### 4. 3. C# Events
 
 #### Creating C# event handlers
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980)
@@ -1351,7 +1349,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. C# Lambdas
+### 5. 4. C# Lambdas
 
 #### Understanding C# lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/understanding-c-sharp-lambdas?u=76281980)
@@ -1664,7 +1662,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/where-to-go-next?u=76281980)
@@ -1706,6 +1704,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/c-sharp-delegates-events-and-lambdas-3006906)
+
+## Skills Covered
+
+- C#
 
 ## Path Context
 

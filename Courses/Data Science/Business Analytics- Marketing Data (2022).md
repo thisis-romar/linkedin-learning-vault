@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/marketing-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analytics-%20Marketing%20Data%20(2022).md)
 
 ![Business Analytics: Marketing Data (2022)](https://media.licdn.com/dms/image/v2/D4E0DAQHCjNKkew5HHg/learning-public-crop_675_1200/B4EZoYWZyJGcAY-/0/1761345117651?e=2147483647&amp;v=beta&amp;t=HB1Sf0Ztr8xP5kXFtbRL2rboUUFTDWJNhZm3UkpkNPQ)
 
@@ -40,22 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022) | 34m | Beginner | 120K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[John David Ariansen]]
-- [[Madecraft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Marketing Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Intro to Marketing Data** (4 videos)
+- **3. 2. Marketing Data Metrics and Goals** (3 videos)
+- **4. 3. Utilizing Data Visualization** (3 videos)
+- **5. 4. Evaluating Your Marketing** (4 videos)
+- **6. 5. Resources for Business Analytics** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Gaining marketing insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/gaining-marketing-insights?u=76281980)
@@ -89,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 1. Intro to Marketing Data
+### 2. 1. Intro to Marketing Data
 
 #### The value of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980)
@@ -297,7 +296,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Marketing Data Metrics and Goals
+### 3. 2. Marketing Data Metrics and Goals
 
 #### Tools for studying your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980)
@@ -467,7 +466,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Utilizing Data Visualization
+### 4. 3. Utilizing Data Visualization
 
 #### Data visualization basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980)
@@ -641,7 +640,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Evaluating Your Marketing
+### 5. 4. Evaluating Your Marketing
 
 #### Key performance indicators
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980)
@@ -845,7 +844,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Resources for Business Analytics
+### 6. 5. Resources for Business Analytics
 
 #### Engaging with community forums
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/engaging-with-community-forums?u=76281980)
@@ -956,7 +955,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Time to analyze
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980)
@@ -988,6 +987,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[John David Ariansen]]
+- [[Madecraft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Marketing Analytics
 
 ## Path Context
 

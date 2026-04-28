@@ -34,39 +34,28 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-gemini
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Programming%20with%20the%20Gemini%20Flash%20API.md)
 
 ![Programming with the Gemini Flash API](https://media.licdn.com/dms/image/v2/D4D0DAQEAH6lVQicxvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008964019?e=2147483647&amp;v=beta&amp;t=AtNgoYIgl_o00amicna3y6lADM_ckeYeLQuHg9oSoqA)
 
 # Programming with the Gemini Flash API
 
-> Learn to harness the power of Google's new low latency, high-performance, and affordable Gemini Flash API in your AI projects. This course will guide you through understanding the unique features of Gemini Flash and how it compares to other models.
-
-We’ll explore the capabilities of the model through Google AI Studio, including its turbocharged performance at a fraction of the cost of other models
+> Learn to harness the power of Google's new low latency, high-performance, and affordable Gemini Flash API in your AI projects. This course will guide you through understanding the unique features of Gemini Flash and how it compares to other models. We’ll explore the capabilities of the model through Google AI Studio, including its turbocharged performance at a fraction of the cost of other models 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api) | 19m | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/gemini-flash-api-2724024)
-
-## Skills Covered
-
-- API Development
-- Generative AI
-- Artificial Intelligence (AI)
-- Google Gemini
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Programming with the Gemini Flash API** (4 videos)
+
+### 1. Introduction
 
 #### An affordable, multimodal, low latency, large context model
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980)
@@ -107,7 +96,7 @@ We’ll explore the capabilities of the model through Google AI Studio, includin
 > **Speakers:** - there (1)
 
 
-### 1. Programming with the Gemini Flash API
+### 2. 1. Programming with the Gemini Flash API
 
 #### The technology behind Gemini Flash
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980)
@@ -551,6 +540,22 @@ We’ll explore the capabilities of the model through Google AI Studio, includin
 > **Tools:** visual studio (1), github (1)
 > **Prerequisites:** you'll need (1), install (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/gemini-flash-api-2724024)
+
+## Skills Covered
+
+- API Development
+- Generative AI
+- Artificial Intelligence (AI)
+- Google Gemini
 
 ## Path Context
 

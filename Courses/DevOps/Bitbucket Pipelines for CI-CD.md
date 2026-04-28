@@ -32,37 +32,31 @@ tags:
   - skill/bitbucket
   - skill/continuous-integration-and-continuous-delivery-ci-cd
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Bitbucket%20Pipelines%20for%20CI-CD.md)
 
 ![Bitbucket Pipelines for CI/CD](https://media.licdn.com/dms/image/v2/D560DAQEGSbU6WPTNPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008984232?e=2147483647&amp;v=beta&amp;t=vjos-qKDnw-IDpu_CahtK0LMVrZuKNMpUWv0TK3IOiA)
 
 # Bitbucket Pipelines for CI/CD
 
-> To get the most out of this course, you should have an understanding of Git, Atlassian accounts, and Bitbucket basics.
-
-In this course, lead software engineer Michael Jenkins guides you through how to use Bitbucket Pipelines for your software projects. Gain a solid understanding of continuous integration, continuous delivery, and continuous deployment (CI/CD) to prepare for the role of Bitbucket P
+> To get the most out of this course, you should have an understanding of Git, Atlassian accounts, and Bitbucket basics. In this course, lead software engineer Michael Jenkins guides you through how to use Bitbucket Pipelines for your software projects. Gain a solid understanding of continuous integration, continuous delivery, and continuous deployment (CI/CD) to prepare for the role of Bitbucket Pi
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd) | 1h 28m | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Jenkins]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/bitbucket-for-ci-cd-3806095)
-
-## Skills Covered
-
-- Bitbucket
-- Continuous Integration and Continuous Delivery (CI/CD)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Getting Started with Bitbucket Pipelines** (7 videos)
+- **3. 2. Working with Variables and Artifacts** (6 videos)
+- **4. 3. Configuring Build Environments** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### From commit to deployment with Bitbucket Pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980)
@@ -238,7 +232,7 @@ In this course, lead software engineer Michael Jenkins guides you through how to
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with Bitbucket Pipelines
+### 2. 1. Getting Started with Bitbucket Pipelines
 
 #### Create a pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980)
@@ -827,7 +821,7 @@ In this course, lead software engineer Michael Jenkins guides you through how to
 > **UI Navigation:** scroll down (1)
 
 
-### 2. Working with Variables and Artifacts
+### 3. 2. Working with Variables and Artifacts
 
 #### Variables and secrets
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/variables-and-secrets?u=76281980)
@@ -1476,7 +1470,7 @@ In this course, lead software engineer Michael Jenkins guides you through how to
 > **Definitions:** is a  (3)
 
 
-### 3. Configuring Build Environments
+### 4. 3. Configuring Build Environments
 
 #### Use default images and tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980)
@@ -1982,7 +1976,7 @@ In this course, lead software engineer Michael Jenkins guides you through how to
 > **Analogies:** just like (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980)
@@ -2008,6 +2002,20 @@ In this course, lead software engineer Michael Jenkins guides you through how to
 > **Code Keywords:** continue (1)
 > **Speakers:** - [michael] (1)
 
+
+## Instructor
+
+- [[Michael Jenkins]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/bitbucket-for-ci-cd-3806095)
+
+## Skills Covered
+
+- Bitbucket
+- Continuous Integration and Continuous Delivery (CI/CD)
 
 ## Path Context
 

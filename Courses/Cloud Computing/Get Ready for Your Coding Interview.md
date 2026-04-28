@@ -35,37 +35,34 @@ tags:
   - skill/interview-preparation
   - skill/career-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Get%20Ready%20for%20Your%20Coding%20Interview.md)
 
 ![Get Ready for Your Coding Interview](https://media.licdn.com/dms/image/v2/C4E0DAQFrq1wSWkhVZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634577405359?e=2147483647&amp;v=beta&amp;t=FpZTEA6FHlVRbIXMqcm5AidQewzVxvjD3a0ILxXuc_o)
 
 # Get Ready for Your Coding Interview
 
-> If you've nabbed an interview for a software development position, it's likely that you'll have to face a common hurdle—the coding interview. If you're not sure what to expect, or you'd like to brush up on the essential topics that candidates are often tested on, then this course is for you.
-
-Follow YK Sugishita as he explains what to keep in mind as you prepare for coding interviews. YK covers 
+> If you've nabbed an interview for a software development position, it's likely that you'll have to face a common hurdle—the coding interview. If you're not sure what to expect, or you'd like to brush up on the essential topics that candidates are often tested on, then this course is for you. Follow YK Sugishita as he explains what to keep in mind as you prepare for coding interviews. YK covers use
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview) | 1h 50m | Intermediate | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[YK Sugi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tech Career Skills
-- Interview Preparation
-- Career Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Introduction to Jupyter Notebook and Python** (5 videos)
+- **3. 2. Array/Python List** (6 videos)
+- **4. 3. String in Python** (5 videos)
+- **5. 4. Two-Dimensional Array** (5 videos)
+- **6. 5. Time Complexity and Big O** (8 videos)
+- **7. 6. Hash Table/Python Dictionary** (5 videos)
+- **8. 7. FAQ about Coding Interviews** (3 videos)
+
+### 1. Introduction
 
 #### The coding interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980)
@@ -247,7 +244,7 @@ Follow YK Sugishita as he explains what to keep in mind as you prepare for codin
 > **Speakers:** - so (1)
 
 
-### 1. Introduction to Jupyter Notebook and Python
+### 2. 1. Introduction to Jupyter Notebook and Python
 
 #### Introduction to Jupyter Notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/introduction-to-jupyter-notebook-14347820?u=76281980)
@@ -466,7 +463,7 @@ Follow YK Sugishita as he explains what to keep in mind as you prepare for codin
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Array/Python List
+### 3. 2. Array/Python List
 
 #### Review of list (array) in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-list-array-in-python-14352050?u=76281980)
@@ -811,7 +808,7 @@ Follow YK Sugishita as he explains what to keep in mind as you prepare for codin
 > **Speakers:** - [instructor] (1)
 
 
-### 3. String in Python
+### 4. 3. String in Python
 
 #### Review of string in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-string-in-python-14353018?u=76281980)
@@ -1214,7 +1211,7 @@ Follow YK Sugishita as he explains what to keep in mind as you prepare for codin
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Two-Dimensional Array
+### 5. 4. Two-Dimensional Array
 
 #### Overview of two-dimensional arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-two-dimensional-arrays?u=76281980)
@@ -1574,7 +1571,7 @@ Follow YK Sugishita as he explains what to keep in mind as you prepare for codin
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Time Complexity and Big O
+### 6. 5. Time Complexity and Big O
 
 #### Why time complexity and big O notation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/why-time-complexity-and-big-o-notation-14353025?u=76281980)
@@ -2185,7 +2182,7 @@ Follow YK Sugishita as he explains what to keep in mind as you prepare for codin
 > **Speakers:** - let (1)
 
 
-### 6. Hash Table/Python Dictionary
+### 7. 6. Hash Table/Python Dictionary
 
 #### Overview of dictionary/hash table
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980)
@@ -2575,7 +2572,7 @@ Follow YK Sugishita as he explains what to keep in mind as you prepare for codin
 > **Analogies:** for example (1)
 
 
-### 7. FAQ about Coding Interviews
+### 8. 7. FAQ about Coding Interviews
 
 #### How do I come up with an optimal solution?
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-do-i-come-up-with-an-optimal-solution-14348880?u=76281980)
@@ -2751,6 +2748,20 @@ Follow YK Sugishita as he explains what to keep in mind as you prepare for codin
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[YK Sugi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tech Career Skills
+- Interview Preparation
+- Career Management
 
 ## Path Context
 

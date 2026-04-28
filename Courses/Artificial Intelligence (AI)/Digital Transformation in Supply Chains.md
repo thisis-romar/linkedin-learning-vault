@@ -33,8 +33,10 @@ tags:
   - skill/supply-chain-management
   - skill/digital-transformation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Digital%20Transformation%20in%20Supply%20Chains.md)
 
 ![Digital Transformation in Supply Chains](https://media.licdn.com/dms/image/v2/C4D0DAQF8f50kxxrstw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648746554372?e=2147483647&amp;v=beta&amp;t=9UPmTC7YlrHs3xA1Yxz5-jl35NoWmQ1GVtLqAFKV-U4)
 
@@ -45,22 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains) | 1h 23m | Intermediate | 191K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daniel Stanton]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Supply Chain Management
-- Digital Transformation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Current Supply Chain Technologies** (9 videos)
+- **3. 2. Emerging Supply Chain Technologies** (12 videos)
+- **4. 3. Transforming Your Supply Chain** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Digital transformation of supply chains
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980)
@@ -96,7 +93,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 1. Current Supply Chain Technologies
+### 2. 1. Current Supply Chain Technologies
 
 #### Prepare for Supply Chain 4.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980)
@@ -639,7 +636,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. Emerging Supply Chain Technologies
+### 3. 2. Emerging Supply Chain Technologies
 
 #### Artificial intelligence (AI) in the supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980)
@@ -1284,7 +1281,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Transforming Your Supply Chain
+### 4. 3. Transforming Your Supply Chain
 
 #### Identify new business models for supply chains
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980)
@@ -1707,7 +1704,7 @@ created: 2026-04-21
 > **Speakers:** - with (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980)
@@ -1753,6 +1750,19 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - this (1)
 
+
+## Instructor
+
+- [[Daniel Stanton]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Supply Chain Management
+- Digital Transformation
 
 ## Path Context
 

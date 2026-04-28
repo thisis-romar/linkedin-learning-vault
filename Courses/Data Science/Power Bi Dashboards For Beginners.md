@@ -28,8 +28,10 @@ tags:
   - skill/dashboards
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20Bi%20Dashboards%20For%20Beginners.md)
 
 ![Power Bi Dashboards For Beginners](https://media.licdn.com/dms/image/v2/D560DAQGD665B0rXo0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718725456568?e=2147483647&amp;v=beta&amp;t=iDMNvfiEgR9UK4qdFIvOM81Il_aaOBkvw4fp48iSLvo)
 
@@ -40,19 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067) | Intermediate | 17K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Power BI
-- Dashboards
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Power BI** (4 videos)
+- **3. 2. Getting Data into Power BI** (5 videos)
+- **4. 3. Crafting Your Dashboard** (8 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Unlock the value of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/unlock-the-value-of-power-bi?u=76281980)
@@ -76,7 +76,7 @@ created: 2026-04-21
 > **Speakers:** - [joshua] (1)
 
 
-### 1. Understanding Power BI
+### 2. 1. Understanding Power BI
 
 #### Navigate the Power BI Desktop interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980)
@@ -237,7 +237,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/embrace-the-modern-workplace-with-next-generation-ai?u=76281980)
 
 
-### 2. Getting Data into Power BI
+### 3. 2. Getting Data into Power BI
 
 #### Become familiar with the Power BI data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980)
@@ -484,7 +484,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Crafting Your Dashboard
+### 4. 3. Crafting Your Dashboard
 
 #### Prepare the optimal layout for stakeholders
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/prepare-the-optimal-layout-for-stakeholders?u=76281980)
@@ -936,7 +936,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### How to get the most from Power BI dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980)
@@ -974,6 +974,16 @@ created: 2026-04-21
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - [joshua (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Power BI
+- Dashboards
+- Data Visualization
 
 ## Path Context
 

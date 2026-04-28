@@ -31,8 +31,10 @@ tags:
   - skill/wireless-networking
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Wireless%20Networks.md)
 
 ![Ethical Hacking: Wireless Networks](https://media.licdn.com/dms/image/v2/C4E0DAQEKzuxJOFSiTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571074402112?e=2147483647&amp;v=beta&amp;t=1q2f5qWZBOD72iH8YRup0RoZiiwhUPzOvzvw00GxpP0)
 
@@ -43,18 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks) | 1h 45m | Intermediate | 29K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Skills Covered
-
-- Wireless Networking
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Wi-Fi Networks** (10 videos)
+- **3. 2. Rogue Access Points** (5 videos)
+- **4. 3. Bluetooth** (3 videos)
+- **5. 4. Additional Tools** (7 videos)
+- **6. 5. Internet of Things** (1 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn how to protect your wireless network
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/learn-how-to-protect-your-wireless-network?u=76281980)
@@ -153,7 +156,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Wi-Fi Networks
+### 2. 1. Wi-Fi Networks
 
 #### Understanding wireless networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980)
@@ -884,7 +887,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Rogue Access Points
+### 3. 2. Rogue Access Points
 
 #### Harvesting connections with an evil twin
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980)
@@ -1252,7 +1255,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Bluetooth
+### 4. 3. Bluetooth
 
 #### Understanding Bluetooth
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980)
@@ -1544,7 +1547,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Additional Tools
+### 5. 4. Additional Tools
 
 #### Using FernWi-Fi Cracker
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-fernwi-fi-cracker?u=76281980)
@@ -2266,7 +2269,7 @@ created: 2026-04-21
 > **Tools:** command line (1)
 
 
-### 5. Internet of Things
+### 6. 5. Internet of Things
 
 #### Testing the Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980)
@@ -2357,7 +2360,7 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980)
@@ -2390,6 +2393,15 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Skills Covered
+
+- Wireless Networking
+- Ethical Hacking
 
 ## Path Context
 

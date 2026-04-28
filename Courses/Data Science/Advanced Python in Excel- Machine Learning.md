@@ -35,36 +35,33 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Python%20in%20Excel-%20Machine%20Learning.md)
 
 ![Advanced Python in Excel: Machine Learning](https://media.licdn.com/dms/image/v2/D4E0DAQFSH-YwI4uU_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724356795731?e=2147483647&amp;v=beta&amp;t=mcjggdxqpQ__t-mDfzw8kn77gxRob3yGfAzNSk2DbB8)
 
 # Advanced Python in Excel: Machine Learning
 
-> Demand is increasing for data-driven decision-making and the rapid integration of Python in Excel and ML across business sectors. In this course, Finance Transformation Senior  Manager Christian Martinez offers timely training that empowers you to efficiently leverage vast amounts of data for competitive advantage, aligning with current market needs.
+> Demand is increasing for data-driven decision-making and the rapid integration of Python in Excel and ML across business sectors. In this course, Finance Transformation Senior Manager Christian Martinez offers timely training that empowers you to efficiently leverage vast amounts of data for competitive advantage, aligning with current market needs.
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning) | 36m | Advanced | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Christian Martinez]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Machine Learning
-- Artificial Intelligence (AI)
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Recap of Python, ML, and Data Cleaning** (5 videos)
+- **3. 2. Applied Machine Learning for Finance and Business** (5 videos)
+- **4. 3. Practical Applications of Machine Learning in Business and Finance** (5 videos)
+- **5. 4. Advanced Analytical Techniques with Python Libraries** (3 videos)
+- **6. 5. Machine Learning Algorithms for Business and Finance** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980)
@@ -118,7 +115,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Recap of Python, ML, and Data Cleaning
+### 2. 1. Recap of Python, ML, and Data Cleaning
 
 #### Recap of Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980)
@@ -298,7 +295,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Applied Machine Learning for Finance and Business
+### 3. 2. Applied Machine Learning for Finance and Business
 
 #### Introduction to machine learning concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980)
@@ -490,7 +487,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Practical Applications of Machine Learning in Business and Finance
+### 4. 3. Practical Applications of Machine Learning in Business and Finance
 
 #### Predictive analytics for financial forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980)
@@ -689,7 +686,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively upbeat music) (1)
 
 
-### 4. Advanced Analytical Techniques with Python Libraries
+### 5. 4. Advanced Analytical Techniques with Python Libraries
 
 #### Data manipulation with pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980)
@@ -782,7 +779,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Machine Learning Algorithms for Business and Finance
+### 6. 5. Machine Learning Algorithms for Business and Finance
 
 #### Linear regression for business insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980)
@@ -874,7 +871,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980)
@@ -905,6 +902,21 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Christian Martinez]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Machine Learning
+- Artificial Intelligence (AI)
+- Microsoft Excel
 
 ## Path Context
 

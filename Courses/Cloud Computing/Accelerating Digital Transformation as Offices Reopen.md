@@ -22,8 +22,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Accelerating%20Digital%20Transformation%20as%20Offices%20Reopen.md)
 
 ![Accelerating Digital Transformation as Offices Reopen](https://media.licdn.com/dms/image/v2/C560DAQHmG-G0u-q1yA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623783763739?e=2147483647&amp;v=beta&amp;t=NKtPXfg127121YAjUwvRU_9Faa3fxaO2MuBTtDm9LQ4)
 
@@ -34,13 +36,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen) | 20m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Laura Merling]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Your Digital Transformation Journey** (6 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Opening your doors to digital transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/opening-your-doors-to-digital-transformation?u=76281980)
@@ -83,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - digital (1)
 
 
-### 1. Your Digital Transformation Journey
+### 2. 1. Your Digital Transformation Journey
 
 #### Creating a resilient business
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/creating-a-resilient-business?u=76281980)
@@ -545,7 +549,7 @@ created: 2026-04-21
 > **Speakers:** - over (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### The future of work
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980)
@@ -600,6 +604,10 @@ created: 2026-04-21
 > **Analogies:** such as (1), imagine (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Laura Merling]]
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - topic/network-and-system-administration
   - skill/hybrid-cloud
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Hybrid%20Multicloud%20Networking-%20Practical%20Concepts.md)
 
 ![Hybrid Multicloud Networking: Practical Concepts](https://media.licdn.com/dms/image/v2/C4E0DAQGQMZS-HGbqBw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660078703986?e=2147483647&amp;v=beta&amp;t=LJ9yF7aM1TMxPxnzeNhDEOvEsDupgcXqrieAoW8glxo)
 
@@ -42,17 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts) | 1h 23m | Intermediate | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[William Collins]]
-
-## Skills Covered
-
-- Hybrid Cloud
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Business and Hybrid Multicloud Networking** (4 videos)
+- **3. 2. Hybrid Multicloud Network Options** (5 videos)
+- **4. 3. Planning a Hybrid Multicloud Network** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Bringing hybrid multicloud networking to the real world
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980)
@@ -86,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. The Business and Hybrid Multicloud Networking
+### 2. 1. The Business and Hybrid Multicloud Networking
 
 #### Exploring cloud migration strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980)
@@ -472,7 +474,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Hybrid Multicloud Network Options
+### 3. 2. Hybrid Multicloud Network Options
 
 #### Overview of hybrid multicloud networking options
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980)
@@ -915,7 +917,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/multicloud-networking-software?u=76281980)
 
 
-### 3. Planning a Hybrid Multicloud Network
+### 4. 3. Planning a Hybrid Multicloud Network
 
 #### The shifting acquisition landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980)
@@ -1465,7 +1467,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Moving forward with your hybrid multicloud networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/moving-forward-with-your-hybrid-multicloud-networking?u=76281980)
@@ -1508,6 +1510,14 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[William Collins]]
+
+## Skills Covered
+
+- Hybrid Cloud
 
 ## Path Context
 

@@ -43,8 +43,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Network%20and%20System%20Administration/Learning%20Paths/Build%20Your%20Drupal%20Skills.md)
 
 # Build Your Drupal Skills
 

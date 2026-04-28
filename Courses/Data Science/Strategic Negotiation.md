@@ -26,8 +26,10 @@ tags:
   - topic/data-science
   - skill/strategic-negotiations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Negotiation.md)
 
 ![Strategic Negotiation](https://media.licdn.com/dms/image/v2/C4D0DAQENYPyl_jM5gA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572390176653?e=2147483647&amp;v=beta&amp;t=aPG9Vzvpxb0izWSlvE9f2HoQ7O6fTr9al-9ixv8Vhco)
 
@@ -38,21 +40,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation) | 56m | 663K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Figliuolo]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Strategic Negotiations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Assess the Situation** (4 videos)
+- **3. 2. Gather Data** (3 videos)
+- **4. 3. Make a Deal** (3 videos)
+- **5. 4. Measure and Adjust** (3 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Intentional negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/placeholder-name?u=76281980)
@@ -80,7 +79,7 @@ created: 2026-04-21
 > **Speakers:** - think (1)
 
 
-### 1. Assess the Situation
+### 2. 1. Assess the Situation
 
 #### Defining the context of the negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/defining-the-context-of-the-negotiation?u=76281980)
@@ -349,7 +348,7 @@ created: 2026-04-21
 > **Speakers:** - two (1)
 
 
-### 2. Gather Data
+### 3. 2. Gather Data
 
 #### Understanding players and positions in negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980)
@@ -547,7 +546,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 3. Make a Deal
+### 4. 3. Make a Deal
 
 #### Defining your goals in a negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/defining-your-goals-in-a-negotiation?u=76281980)
@@ -725,7 +724,7 @@ created: 2026-04-21
 > **Speakers:** - over (1)
 
 
-### 4. Measure and Adjust
+### 5. 4. Measure and Adjust
 
 #### Assessing what happened in a negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/assessing-what-happened-in-a-negotiation?u=76281980)
@@ -912,7 +911,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Avoiding common negotiation pitfalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/avoiding-common-negotiation-pitfalls?u=76281980)
@@ -1036,6 +1035,18 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Mike Figliuolo]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Strategic Negotiations
 
 ## Path Context
 

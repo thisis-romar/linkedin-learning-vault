@@ -28,8 +28,10 @@ tags:
   - skill/project-management
   - skill/business-acumen
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Business%20Acumen%20for%20Project%20Managers.md)
 
 ![Business Acumen for Project Managers](https://media.licdn.com/dms/image/v2/C4E0DAQFFPbbhlAz4CQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633393936793?e=2147483647&amp;v=beta&amp;t=CzumajONt4Il2_GBmbWSXm7NoorHIMDf3MULwqXq3eI)
 
@@ -40,22 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers) | 1h 22m | 79K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daniel Stanton]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Project Management
-- Business Acumen
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Strategy and Business Management for Project Managers** (1 videos)
+- **3. 2. Aligning Projects with Business Strategy** (8 videos)
+- **4. 3. Recognizing Business Function Priorities** (13 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building your business acumen as a project manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/building-your-business-acumen-as-a-project-manager?u=76281980)
@@ -90,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - project (1)
 
 
-### 1. Strategy and Business Management for Project Managers
+### 2. 1. Strategy and Business Management for Project Managers
 
 #### The Talent Triangle in project management
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-talent-triangle-in-project-management?u=76281980)
@@ -141,7 +138,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 2. Aligning Projects with Business Strategy
+### 3. 2. Aligning Projects with Business Strategy
 
 #### The role of projects in your business strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-role-of-projects-in-your-business-strategy?u=76281980)
@@ -763,7 +760,7 @@ created: 2026-04-21
 > **Speakers:** - my (1)
 
 
-### 3. Recognizing Business Function Priorities
+### 4. 3. Recognizing Business Function Priorities
 
 #### Prioritizing the customer for business acumen
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/prioritizing-the-customer-for-business-acumen?u=76281980)
@@ -1677,7 +1674,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Leverage your business acumen for project success
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980)
@@ -1735,6 +1732,19 @@ created: 2026-04-21
 > **Analogies:** it's like (1)
 > **Speakers:** - elon (1)
 
+
+## Instructor
+
+- [[Daniel Stanton]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Project Management
+- Business Acumen
 
 ## Path Context
 

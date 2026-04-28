@@ -22,8 +22,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Understanding%20Zero%20Trust.md)
 
 ![Understanding Zero Trust](https://media.licdn.com/dms/image/v2/C4E0DAQHtcfqlt6bcmQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622565712579?e=2147483647&amp;v=beta&amp;t=250TjdNY4ufiC8Lc-DV5pqxOlo6nr6aUhs_HjqZ9Wk4)
 
@@ -34,13 +36,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust) | 59m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Background** (3 videos)
+- **3. 2. Zero Trust** (8 videos)
+- **4. 3. Implementing Zero Trust** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using Zero Trust to protect against cyberattack
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/using-zero-trust-to-protect-against-cyberattack?u=76281980)
@@ -83,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Background
+### 2. 1. Background
 
 #### A brief history of technology trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980)
@@ -264,7 +270,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Zero Trust
+### 3. 2. Zero Trust
 
 #### What is Zero Trust?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980)
@@ -973,7 +979,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Implementing Zero Trust
+### 4. 3. Implementing Zero Trust
 
 #### Building a Zero Trust foundation
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980)
@@ -1145,7 +1151,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980)
@@ -1176,6 +1182,10 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
 
 ## Path Context
 

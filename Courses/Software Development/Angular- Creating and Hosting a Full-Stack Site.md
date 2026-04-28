@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/angular
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Angular-%20Creating%20and%20Hosting%20a%20Full-Stack%20Site.md)
 
 ![Angular: Creating and Hosting a Full-Stack Site](https://media.licdn.com/dms/image/v2/C4D0DAQE6-0tyxuH2Og/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597852457143?e=2147483647&amp;v=beta&amp;t=cXvpZzOxccuTOlqtWfDikKsRP-w5fpM4XA-S34y3PTI)
 
@@ -41,21 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site) | 4h 21m | Intermediate | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shaun Wassell]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Angular
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Creating an Angular Front End** (14 videos)
+- **3. 2. Creating a Node Back End** (7 videos)
+- **4. 3. Adding MySQL to Your Back End** (10 videos)
+- **5. 4. Connecting the Front and Back Ends** (7 videos)
+- **6. 5. Authentication** (9 videos)
+- **7. 6. Hosting Your Site** (6 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Front-end to back-end creating and hosting a full-stack site
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980)
@@ -239,7 +240,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Creating an Angular Front End
+### 2. 1. Creating an Angular Front End
 
 #### Why Angular?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980)
@@ -1682,7 +1683,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creating a Node Back End
+### 3. 2. Creating a Node Back End
 
 #### Why Node.js?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980)
@@ -2220,7 +2221,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Adding MySQL to Your Back End
+### 4. 3. Adding MySQL to Your Back End
 
 #### Why MySQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980)
@@ -3177,7 +3178,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Connecting the Front and Back Ends
+### 5. 4. Connecting the Front and Back Ends
 
 #### Services in Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980)
@@ -3886,7 +3887,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Authentication
+### 6. 5. Authentication
 
 #### What is Firebase Auth?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980)
@@ -4651,7 +4652,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Hosting Your Site
+### 7. 6. Hosting Your Site
 
 #### Move a full-stack app to the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980)
@@ -5235,7 +5236,7 @@ created: 2026-04-21
  (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980)
@@ -5285,6 +5286,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [shaun] (1)
 
+
+## Instructor
+
+- [[Shaun Wassell]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Angular
 
 ## Path Context
 

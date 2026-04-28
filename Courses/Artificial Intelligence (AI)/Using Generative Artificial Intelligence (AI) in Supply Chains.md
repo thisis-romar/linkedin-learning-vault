@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Using%20Generative%20Artificial%20Intelligence%20(AI)%20in%20Supply%20Chains.md)
 
 ![Using Generative Artificial Intelligence (AI) in Supply Chains](https://media.licdn.com/dms/image/v2/D4D0DAQF9ucHY4dxgRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732151189246?e=2147483647&amp;v=beta&amp;t=PFWwhxdXJNw8AC02V5RU7d4XMXlyO71fqIpu_SGX7gM)
 
@@ -46,20 +48,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453) | 24m | 56K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daniel Stanton]]
-
-## Skills Covered
-
-- Supply Chain Management
-- Supply Chain Software
-- Artificial Intelligence (AI)
-- Generative AI Tools
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Explore Generative AI** (11 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980)
@@ -132,7 +129,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Explore Generative AI
+### 2. 1. Explore Generative AI
 
 #### Manage the information value chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980)
@@ -634,7 +631,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Integrate ChatGPT into your supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980)
@@ -697,6 +694,17 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 > **Speakers:** - supply (1)
 
+
+## Instructor
+
+- [[Daniel Stanton]]
+
+## Skills Covered
+
+- Supply Chain Management
+- Supply Chain Software
+- Artificial Intelligence (AI)
+- Generative AI Tools
 
 ## Path Context
 

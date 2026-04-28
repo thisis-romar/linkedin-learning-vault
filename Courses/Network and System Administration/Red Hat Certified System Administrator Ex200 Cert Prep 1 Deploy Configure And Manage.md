@@ -26,8 +26,10 @@ tags:
   - skill/system-administration
   - skill/red-hat-enterprise-linux-rhel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20System%20Administrator%20Ex200%20Cert%20Prep%201%20Deploy%20Configure%20And%20Manage.md)
 
 ![Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage](https://media.licdn.com/dms/image/v2/D560DAQECO9NSG7xOWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709247094765?e=2147483647&amp;v=beta&amp;t=avSBf4J1oElacMXKyX9GwoHo8T14ysdEdKjnrrMCfAg)
 
@@ -38,18 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745) | Intermediate | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- System Administration
-- Red Hat Enterprise Linux (RHEL)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Deploy Systems** (8 videos)
+- **3. 2. System Config and Services** (12 videos)
+- **4. 3. Essential Tools** (16 videos)
+- **5. 4. Manage System Software** (16 videos)
+- **6. 5. Create Simple Shell Scripts** (12 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Break into system administration with the Red Hat EX200 certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/break-into-system-administration-with-the-red-hat-ex200-certification?u=76281980)
@@ -315,7 +318,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 1. Deploy Systems
+### 2. 1. Deploy Systems
 
 #### Create a bootable Enterprise Linux 9 live USB drive on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980)
@@ -1293,7 +1296,7 @@ created: 2026-04-21
 > **Warnings:** note that (2)
 
 
-### 2. System Config and Services
+### 3. 2. System Config and Services
 
 #### Understand the Linux Boot Process
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/understand-the-linux-boot-process?u=76281980)
@@ -2444,7 +2447,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Essential Tools
+### 4. 3. Essential Tools
 
 #### About file globs
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980)
@@ -4656,7 +4659,7 @@ created: 2026-04-21
 > **Warnings:** warning (1)
 
 
-### 4. Manage System Software
+### 5. 4. Manage System Software
 
 #### Linux repository management systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980)
@@ -6394,7 +6397,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 5. Create Simple Shell Scripts
+### 6. 5. Create Simple Shell Scripts
 
 #### What makes a shell script a shell script?
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-makes-a-shell-script-a-shell-script?u=76281980)
@@ -7352,7 +7355,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/next-steps?u=76281980)
@@ -7398,6 +7401,15 @@ created: 2026-04-21
 > **Versions:** 2.5 (1)
 > **Speakers:** - [grant] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- System Administration
+- Red Hat Enterprise Linux (RHEL)
 
 ## Path Context
 

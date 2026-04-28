@@ -51,8 +51,10 @@ tags:
   - skill/statistics
   - skill/probability
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Statistics%20Foundations%202-%20Probability.md)
 
 ![Statistics Foundations 2: Probability](https://media.licdn.com/dms/image/v2/C4D0DAQEchyBcjfT2vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617218532194?e=2147483647&amp;v=beta&amp;t=kBBfeIjhOVPeNDw9f2zGFJIGq490w-gUHKEtpg81MJ8)
 
@@ -63,22 +65,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability) | 1h 15m | Intermediate | 384K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eddie Davila]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Statistics
-- Probability
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Probability** (5 videos)
+- **3. 2. Multiple Event Probabilities** (7 videos)
+- **4. 3. Discrete and Continuous Probabilities** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The importance of probabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980)
@@ -129,7 +126,7 @@ created: 2026-04-21
 > **Speakers:** - gamblers (1)
 
 
-### 1. Introduction to Probability
+### 2. 1. Introduction to Probability
 
 #### Probability basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-basics?u=76281980)
@@ -545,7 +542,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 2. Multiple Event Probabilities
+### 3. 2. Multiple Event Probabilities
 
 #### Introduction to multiple events
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980)
@@ -1140,7 +1137,7 @@ created: 2026-04-21
 > **Speakers:** - millionaires (1)
 
 
-### 3. Discrete and Continuous Probabilities
+### 4. 3. Discrete and Continuous Probabilities
 
 #### Discrete vs. continuous
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980)
@@ -1733,7 +1730,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/next-steps?u=76281980)
@@ -1759,6 +1756,19 @@ created: 2026-04-21
 > **Code Keywords:** continue (1), let (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Eddie Davila]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Statistics
+- Probability
 
 ## Path Context
 

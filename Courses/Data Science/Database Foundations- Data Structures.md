@@ -33,8 +33,10 @@ tags:
   - topic/software-development
   - skill/data-structures
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations-%20Data%20Structures.md)
 
 ![Database Foundations: Data Structures](https://media.licdn.com/dms/image/v2/D560DAQFLnUPEBQ2s9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728593253052?e=2147483647&amp;v=beta&amp;t=xeFxgWZpjzfcOe-I1Bx_1PWTk0CtQqDgUZCjKOJ1KSg)
 
@@ -45,21 +47,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures) | 3h 41m | Beginner | 196K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Wilbert]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Structures
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Data Types** (9 videos)
+- **3. 2. Design a Normalized Database** (6 videos)
+- **4. 3. Identify Rows with Primary Keys** (8 videos)
+- **5. 4. Link Data with Foreign Keys** (5 videos)
+- **6. 5. Formalize Data Relationships** (8 videos)
+- **7. 6. Indexes** (3 videos)
+- **8. 7. Constraints** (8 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Organizing data in a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980)
@@ -377,7 +379,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Data Types
+### 2. 1. Data Types
 
 #### Data integrity concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980)
@@ -1462,7 +1464,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Design a Normalized Database
+### 3. 2. Design a Normalized Database
 
 #### Protect data integrity with normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980)
@@ -1968,7 +1970,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Identify Rows with Primary Keys
+### 4. 3. Identify Rows with Primary Keys
 
 #### Purpose of a primary key
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980)
@@ -2897,7 +2899,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Link Data with Foreign Keys
+### 5. 4. Link Data with Foreign Keys
 
 #### What are foreign keys?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/what-are-foreign-keys?u=76281980)
@@ -3324,7 +3326,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 5. Formalize Data Relationships
+### 6. 5. Formalize Data Relationships
 
 #### One-to-many relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-many-relationships?u=76281980)
@@ -4013,7 +4015,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Indexes
+### 7. 6. Indexes
 
 #### Table indexes
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980)
@@ -4321,7 +4323,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 7. Constraints
+### 8. 7. Constraints
 
 #### Validate data with constraints
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980)
@@ -5224,7 +5226,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980)
@@ -5249,6 +5251,18 @@ created: 2026-04-21
 > **Env Vars:** rdbms (1)
 > **Speakers:** - [adam] (1)
 
+
+## Instructor
+
+- [[Adam Wilbert]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Structures
 
 ## Path Context
 

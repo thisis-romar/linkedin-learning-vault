@@ -30,8 +30,10 @@ tags:
   - skill/responsive-web-design
   - skill/css-flexbox
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Responsive%20Layouts%20with%20CSS%20Flexbox.md)
 
 ![Advanced Responsive Layouts with CSS Flexbox](https://media.licdn.com/dms/image/v2/C4E0DAQHCgk8qhAKWLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117960994?e=2147483647&amp;v=beta&amp;t=xnZd_KNUpkZnUpNnG_V4fZRpJiYTSW3rZeV0-2pNDrE)
 
@@ -42,22 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox) | 1h 48m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Responsive Web Design
-- CSS Flexbox
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is Flexbox?** (2 videos)
+- **3. 2. Flexbox-Powered Menus** (7 videos)
+- **4. 3. Responsive Card Layouts** (5 videos)
+- **5. 4. Holy Grail Layout** (4 videos)
+- **6. 5. Handing Control to the User** (5 videos)
+- **7. 6. Putting It All Together** (1 videos)
+- **8. Next steps** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/welcome?u=76281980)
@@ -174,7 +174,7 @@ created: 2026-04-21
 > **Speakers:** - for (1)
 
 
-### 1. What Is Flexbox?
+### 2. 1. What Is Flexbox?
 
 #### What is Flexbox?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980)
@@ -293,7 +293,7 @@ created: 2026-04-21
 > **Prerequisites:** make sure you have (1)
 
 
-### 2. Flexbox-Powered Menus
+### 3. 2. Flexbox-Powered Menus
 
 #### Exploring common menu layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/exploring-common-menu-layouts?u=76281980)
@@ -1038,7 +1038,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 3. Responsive Card Layouts
+### 4. 3. Responsive Card Layouts
 
 #### Challenges with card layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/challenges-with-card-layouts?u=76281980)
@@ -1419,7 +1419,7 @@ created: 2026-04-21
 > **Speakers:** - all (1)
 
 
-### 4. Holy Grail Layout
+### 5. 4. Holy Grail Layout
 
 #### What is the holy grail layout?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980)
@@ -1737,7 +1737,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. Handing Control to the User
+### 6. 5. Handing Control to the User
 
 #### Handing control to the user
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980)
@@ -2194,7 +2194,7 @@ created: 2026-04-21
 > **Speakers:** - css (1)
 
 
-### 6. Putting It All Together
+### 7. 6. Putting It All Together
 
 #### Putting it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980)
@@ -2377,7 +2377,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Next steps
+### 8. Next steps
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980)
@@ -2415,6 +2415,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - and (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Responsive Web Design
+- CSS Flexbox
 
 ## Path Context
 

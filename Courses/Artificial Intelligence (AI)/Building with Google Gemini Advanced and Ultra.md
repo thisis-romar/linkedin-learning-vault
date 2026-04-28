@@ -39,8 +39,10 @@ tags:
   - skill/gemini
   - skill/google-gemini
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20with%20Google%20Gemini%20Advanced%20and%20Ultra.md)
 
 ![Building with Google Gemini Advanced and Ultra](https://media.licdn.com/dms/image/v2/D4D0DAQHRlgkRZR_N9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709245833557?e=2147483647&amp;v=beta&amp;t=MehWANnuStDTSGu-TWdJcn6iy--bwEPpajB_83V7oL0)
 
@@ -51,21 +53,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra) | 15m | 2608K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Skills Covered
-
-- Generative AI
-- Software Development
-- Artificial Intelligence (AI)
-- Gemini
-- Google Gemini
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Google Gemini Changes Artificial Intelligence** (4 videos)
+
+### 1. Introduction
 
 #### Welcome to Google's AI family of the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980)
@@ -88,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - google (1)
 
 
-### 1. Google Gemini Changes Artificial Intelligence
+### 2. 1. Google Gemini Changes Artificial Intelligence
 
 #### Learning Google Gemini fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980)
@@ -444,6 +439,18 @@ created: 2026-04-21
 > **URLs:** [google.dev](https://google.dev) (1)
 > **Versions:** 1.0 (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Skills Covered
+
+- Generative AI
+- Software Development
+- Artificial Intelligence (AI)
+- Gemini
+- Google Gemini
 
 ## Path Context
 

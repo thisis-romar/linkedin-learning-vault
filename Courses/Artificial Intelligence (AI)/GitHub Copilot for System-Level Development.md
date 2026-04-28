@@ -38,8 +38,10 @@ tags:
   - skill/infrastructure-as-code-iac
   - skill/code-refactoring
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/GitHub%20Copilot%20for%20System-Level%20Development.md)
 
 ![GitHub Copilot for System-Level Development](https://media.licdn.com/dms/image/v2/D4E0DAQEiOE4zLSamSA/learning-public-crop_675_1200/B4EZq3xl0EHgAg-/0/1764019822781?e=2147483647&amp;v=beta&amp;t=q7q7NxNA-jEl2tx_EWMP0t-pMCrhKuEYepSex2HPb4k)
 
@@ -50,26 +52,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development) | 1h 7m | Advanced | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Pragmatic AI Labs]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/paiml/ghcp-for-systems-level-development)
-
-## Skills Covered
-
-- Configuration Management
-- Artificial Intelligence (AI)
-- GitHub Copilot
-- Infrastructure as code (IaC)
-- Code Refactoring
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. Module 1: AI-Augmented Test-Driven Development (TDD)** (6 videos)
+- **3. Module 2: Large-Scale Refactoring** (6 videos)
+- **4. Module 3: Infrastructure as Code (IaC) with Copilot** (4 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-introducton?u=76281980)
@@ -97,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - welcome (1)
 
 
-### Module 1: AI-Augmented Test-Driven Development (TDD)
+### 2. Module 1: AI-Augmented Test-Driven Development (TDD)
 
 #### Introduction to AI-assisted TDD
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980)
@@ -722,7 +714,7 @@ created: 2026-04-21
 > **UI Navigation:** toggle (1)
 
 
-### Module 2: Large-Scale Refactoring
+### 3. Module 2: Large-Scale Refactoring
 
 #### Strategic use of workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980)
@@ -1406,7 +1398,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Module 3: Infrastructure as Code (IaC) with Copilot
+### 4. Module 3: Infrastructure as Code (IaC) with Copilot
 
 #### Generating IaC configurations
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980)
@@ -1708,6 +1700,23 @@ created: 2026-04-21
 > **Tools:** github (2)
 > **Speakers:** - okay (1)
 
+
+## Instructor
+
+- [[Pragmatic AI Labs]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/paiml/ghcp-for-systems-level-development)
+
+## Skills Covered
+
+- Configuration Management
+- Artificial Intelligence (AI)
+- GitHub Copilot
+- Infrastructure as code (IaC)
+- Code Refactoring
 
 ## Path Context
 

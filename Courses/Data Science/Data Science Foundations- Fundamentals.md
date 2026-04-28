@@ -39,8 +39,10 @@ tags:
   - topic/security
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20Foundations-%20Fundamentals.md)
 
 ![Data Science Foundations: Fundamentals](https://media.licdn.com/dms/image/v2/D4E0DAQFpVoNDHqbSWw/learning-public-crop_675_1200/B4EZVIovtaHcAY-/0/1740680396250?e=2147483647&amp;v=beta&amp;t=UhUAe66lLpRQn_9_9hpV9wScF3tRJNIy5QU9kXiCI18)
 
@@ -51,13 +53,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071) | 5h 24m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barton Poulson]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Data Science?** (6 videos)
+- **3. 2. The Place of Data Science in the Data Universe** (8 videos)
+- **4. 3. Ethics, Privacy, and Regulation** (5 videos)
+- **5. 4. Sources of Data and Insights** (11 videos)
+- **6. 5. Tools and Techniques for Data Science** (5 videos)
+- **7. 6. Math Foundations for Data Science** (5 videos)
+- **8. 7. Learning Paradigms** (8 videos)
+- **9. 8. Algorithms That Create** (2 videos)
+- **10. 9. Acting on Data Science** (3 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980)
@@ -85,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - [barton] (1)
 
 
-### 1. What Is Data Science?
+### 2. 1. What Is Data Science?
 
 #### Supply and demand for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980)
@@ -669,7 +681,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Place of Data Science in the Data Universe
+### 3. 2. The Place of Data Science in the Data Universe
 
 #### Artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980)
@@ -1740,7 +1752,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Ethics, Privacy, and Regulation
+### 4. 3. Ethics, Privacy, and Regulation
 
 #### Bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980)
@@ -2342,7 +2354,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Sources of Data and Insights
+### 5. 4. Sources of Data and Insights
 
 #### Data preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980)
@@ -3486,7 +3498,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Tools and Techniques for Data Science
+### 6. 5. Tools and Techniques for Data Science
 
 #### Applications for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980)
@@ -3925,7 +3937,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Math Foundations for Data Science
+### 7. 6. Math Foundations for Data Science
 
 #### Sampling and probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980)
@@ -4514,7 +4526,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Learning Paradigms
+### 8. 7. Learning Paradigms
 
 #### Supervised, unsupervised, and reinforcement learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980)
@@ -5591,7 +5603,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Algorithms That Create
+### 9. 8. Algorithms That Create
 
 #### Generative Adversarial Networks (GANs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980)
@@ -5875,7 +5887,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Acting on Data Science
+### 10. 9. Acting on Data Science
 
 #### The importance of interpretability in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980)
@@ -6104,7 +6116,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980)
@@ -6164,6 +6176,10 @@ created: 2026-04-21
 > **Env Vars:** odsc (1), mads (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Barton Poulson]]
 
 ## Path Context
 

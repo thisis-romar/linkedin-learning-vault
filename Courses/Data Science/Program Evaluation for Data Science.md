@@ -28,8 +28,10 @@ tags:
   - skill/roi-strategies
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Program%20Evaluation%20for%20Data%20Science.md)
 
 ![Program Evaluation for Data Science](https://media.licdn.com/dms/image/v2/D4D0DAQE-6T9z9Au1Kg/learning-public-crop_675_1200/B4DZetNEzxH4Ag-/0/1750957575729?e=2147483647&amp;v=beta&amp;t=tTd6MY_7V_HjbXZhb0mZ0ZQYWKX7vFhoaFbH4rDJbUE)
 
@@ -40,22 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science) | 1h 39m | Advanced | 138K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Howard Friedman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- ROI Strategies
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Program Evaluation** (4 videos)
+- **3. 2. A/B Testing** (5 videos)
+- **4. 3. Beyond A/B Testing and Randomization** (2 videos)
+- **5. 4. Matching Methods** (5 videos)
+- **6. 5. Difference in Difference** (5 videos)
+- **7. 6. Regression Discontinuity** (5 videos)
+- **8. 7. Interrupted Time Series** (5 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Going beyond A/B testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/going-beyond-a-b-testing?u=76281980)
@@ -116,7 +117,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 1. Introduction to Program Evaluation
+### 2. 1. Introduction to Program Evaluation
 
 #### What is program evaluation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980)
@@ -330,7 +331,7 @@ created: 2026-04-21
 > **Speakers:** - throughout (1)
 
 
-### 2. A/B Testing
+### 3. 2. A/B Testing
 
 #### What are randomized studies?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-are-randomized-studies?u=76281980)
@@ -645,7 +646,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Beyond A/B Testing and Randomization
+### 4. 3. Beyond A/B Testing and Randomization
 
 #### Limitations of A/B testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/limitations-of-a-b-testing?u=76281980)
@@ -760,7 +761,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 4. Matching Methods
+### 5. 4. Matching Methods
 
 #### When to apply matching methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-matching-methods?u=76281980)
@@ -1011,7 +1012,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 5. Difference in Difference
+### 6. 5. Difference in Difference
 
 #### When to apply difference in difference
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-difference-in-difference?u=76281980)
@@ -1242,7 +1243,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 6. Regression Discontinuity
+### 7. 6. Regression Discontinuity
 
 #### When to apply regression discontinuity
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-regression-discontinuity?u=76281980)
@@ -1479,7 +1480,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 7. Interrupted Time Series
+### 8. 7. Interrupted Time Series
 
 #### When to apply interrupted time series
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-interrupted-time-series?u=76281980)
@@ -1739,7 +1740,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps in program evaluation
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980)
@@ -1781,6 +1782,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - this (1)
 
+
+## Instructor
+
+- [[Howard Friedman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- ROI Strategies
+- Data Science
 
 ## Path Context
 

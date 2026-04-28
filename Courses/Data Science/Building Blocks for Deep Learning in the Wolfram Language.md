@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20Blocks%20for%20Deep%20Learning%20in%20the%20Wolfram%20Language.md)
 
 ![Building Blocks for Deep Learning in the Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQGkt7O1q9cyow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703196542096?e=2147483647&amp;v=beta&amp;t=TwwE6EX1MbPtHShoYkdFKYWfFQ5NuLTvgZPhxwyND9o)
 
@@ -42,6 +44,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language) | 54m | Advanced | 86K learners
 > [Jump to Path Context ↓](#path-context)
 
+## Table of Contents
+
+### Chapter Overview
+
+- **1. 1. Building and Training Basic Neural Networks** (1 videos)
+- **2. 2. Recurrent Neural Networks** (1 videos)
+
+### 1. 1. Building and Training Basic Neural Networks
+
+#### Building and training basic neural networks
+> [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/building-and-training-basic-neural-networks?u=76281980)
+
+
+### 2. 2. Recurrent Neural Networks
+
+#### Recurrent neural networks
+> [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/recurrent-neural-networks?u=76281980)
+
+
 ## Instructor
 
 - [[Wolfram Research]]
@@ -51,20 +72,6 @@ created: 2026-04-21
 - Wolfram Language
 - Artificial Intelligence (AI)
 - Deep Learning
-
-## Table of Contents
-
-### 1. Building and Training Basic Neural Networks
-
-#### Building and training basic neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/building-and-training-basic-neural-networks?u=76281980)
-
-
-### 2. Recurrent Neural Networks
-
-#### Recurrent neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/recurrent-neural-networks?u=76281980)
-
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - skill/programming-foundations
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Complete%20Guide%20To%20C%20Plus%20Plus%20Programming%20Foundations.md)
 
 ![Complete Guide To C Plus Plus Programming Foundations](https://media.licdn.com/dms/image/v2/D560DAQH50vvvBb4fjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728602707442?e=2147483647&amp;v=beta&amp;t=yMWsb5TyfFuhbVxl1cm6CDDW388xu0wRGx5Jr8HtnFw)
 
@@ -42,19 +44,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations) | Beginner | 28K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/complete-guide-to-cpp-programming-foundations-3846057/codespaces)
-
-## Skills Covered
-
-- Programming Foundations
-- C++
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Getting Started with C++ Foundations** (7 videos)
+- **3. 2. Variables and Data Types** (12 videos)
+- **4. 3. Expressions and Operations** (7 videos)
+- **5. 4. Arrays, Pointers, and Strings** (10 videos)
+- **6. 5. Control Statements** (6 videos)
+- **7. 6. Functions** (6 videos)
+- **8. 7. Creating Your Own Classes** (9 videos)
+- **9. 8. The Standard Template Library** (8 videos)
+- **10. 9. File Handling** (3 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/getting-started-with-c-plus-plus?u=76281980)
@@ -465,7 +471,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with C++ Foundations
+### 2. 1. Getting Started with C++ Foundations
 
 #### About C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/about-c-plus-plus?u=76281980)
@@ -1029,7 +1035,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Variables and Data Types
+### 3. 2. Variables and Data Types
 
 #### Basic data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/basic-data-types?u=76281980)
@@ -2044,7 +2050,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### 3. Expressions and Operations
+### 4. 3. Expressions and Operations
 
 #### Expressions and assignments
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/expressions-and-assignments?u=76281980)
@@ -2555,7 +2561,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Arrays, Pointers, and Strings
+### 5. 4. Arrays, Pointers, and Strings
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/arrays?u=76281980)
@@ -3796,7 +3802,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### 5. Control Statements
+### 6. 5. Control Statements
 
 #### If statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/if-statements?u=76281980)
@@ -4295,7 +4301,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Functions
+### 7. 6. Functions
 
 #### Overview of functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-functions?u=76281980)
@@ -4973,7 +4979,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Creating Your Own Classes
+### 8. 7. Creating Your Own Classes
 
 #### Overview of classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-classes-and-objects?u=76281980)
@@ -5799,7 +5805,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. The Standard Template Library
+### 9. 8. The Standard Template Library
 
 #### Understanding templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/understanding-templates?u=76281980)
@@ -6372,7 +6378,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. File Handling
+### 10. 9. File Handling
 
 #### Working with files
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-files?u=76281980)
@@ -6602,7 +6608,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/next-steps?u=76281980)
@@ -6639,6 +6645,16 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [eduardo] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/complete-guide-to-cpp-programming-foundations-3846057/codespaces)
+
+## Skills Covered
+
+- Programming Foundations
+- C++
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/web-accessibility
   - skill/web-design
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Accessible%20Layout%20for%20the%20Web.md)
 
 ![Accessible Layout for the Web](https://media.licdn.com/dms/image/v2/D560DAQH23NLY2hQeNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712947676463?e=2147483647&amp;v=beta&amp;t=C-M4iKqJzuhkZ9Xse2yvyx_OVMdOoLjaRPSZ-F3OSYY)
 
@@ -43,23 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web) | 52m | Intermediate | 128K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gift Egwuenu]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/accessible-layout-for-the-web-4488047/codespaces)
-
-## Skills Covered
-
-- Web Accessibility
-- Web Design
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Accessibility** (3 videos)
+- **3. 2. Accessibility Standards** (2 videos)
+- **4. 3. Creating Accessible Layout** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Creating accessible web layout for a diverse audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=76281980)
@@ -84,7 +80,7 @@ created: 2026-04-21
 > **Speakers:** - [gift (1)
 
 
-### 1. Understanding Accessibility
+### 2. 1. Understanding Accessibility
 
 #### What is web accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/what-is-web-accessibility?u=76281980)
@@ -258,7 +254,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Accessibility Standards
+### 3. 2. Accessibility Standards
 
 #### Accessible standards (WCAG)
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-standards-wcag?u=76281980)
@@ -369,7 +365,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. Creating Accessible Layout
+### 4. 3. Creating Accessible Layout
 
 #### Semantic HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980)
@@ -1029,7 +1025,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps for improving accessibility in web applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/next-steps-for-improving-accessibility-in-web-applications?u=76281980)
@@ -1051,6 +1047,20 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [gift] (1)
 
+
+## Instructor
+
+- [[Gift Egwuenu]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/accessible-layout-for-the-web-4488047/codespaces)
+
+## Skills Covered
+
+- Web Accessibility
+- Web Design
 
 ## Path Context
 

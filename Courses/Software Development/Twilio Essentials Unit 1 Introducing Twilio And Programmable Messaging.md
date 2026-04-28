@@ -26,8 +26,10 @@ tags:
   - skill/twilio
   - skill/messaging-platforms
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Twilio%20Essentials%20Unit%201%20Introducing%20Twilio%20And%20Programmable%20Messaging.md)
 
 ![Twilio Essentials Unit 1 Introducing Twilio And Programmable Messaging](https://media.licdn.com/dms/image/v2/C560DAQHUR-J9VL-J2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661383837519?e=2147483647&amp;v=beta&amp;t=ZrdnTjq1zphsfwkb_o2Ry5UuxwVWpZ75onlvqN6zle0)
 
@@ -38,18 +40,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging) | Beginner | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Twilio
-- Messaging Platforms
-
 ## Table of Contents
 
-### 1. Introducing Twilio and Programmable Messaging
+### Chapter Overview
+
+- **1. 1. Introducing Twilio and Programmable Messaging** (7 videos)
+
+### 1. 1. Introducing Twilio and Programmable Messaging
 
 #### Introduction to Twilio
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980)
@@ -1474,6 +1471,15 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - whew (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Twilio
+- Messaging Platforms
 
 ## Path Context
 

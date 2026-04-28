@@ -21,8 +21,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Design%20Patterns.md)
 
 ![Programming Foundations: Design Patterns](https://media.licdn.com/dms/image/v2/C4E0DAQGioJ473fzHuQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669791879?e=2147483647&amp;v=beta&amp;t=hS27rzezTdIQUJxzm2xerXVmvMuiIUfPi7JuEbLOTJE)
 
@@ -33,14 +35,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2) | 2h 45m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Elisabeth Robson]]
-- [[Eric Freeman]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Design Patterns** (3 videos)
+- **3. 2. The Strategy Pattern** (10 videos)
+- **4. 3. The Adapter Pattern** (5 videos)
+- **5. 4. The Observer Pattern** (6 videos)
+- **6. 5. The Decorator Pattern** (7 videos)
+- **7. 6. The Iterator Pattern** (8 videos)
+- **8. 7. The Factory Patterns** (5 videos)
+- **9. Glossaries** (0 videos)
+- **10. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Don't reinvent the wheel
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/don-t-reinvent-the-wheel?u=76281980)
@@ -105,7 +115,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 1. Design Patterns
+### 2. 1. Design Patterns
 
 #### Object-oriented design experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980)
@@ -287,7 +297,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Strategy Pattern
+### 3. 2. The Strategy Pattern
 
 #### Revisiting inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/revisiting-inheritance?u=76281980)
@@ -910,7 +920,7 @@ created: 2026-04-21
 > **Non-Speech:** (energetic music) (1)
 
 
-### 3. The Adapter Pattern
+### 4. 3. The Adapter Pattern
 
 #### Understanding the adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-adapter-pattern?u=76281980)
@@ -1179,7 +1189,7 @@ created: 2026-04-21
 > **Non-Speech:** (electronic music) (1)
 
 
-### 4. The Observer Pattern
+### 5. 4. The Observer Pattern
 
 #### Understanding the Observer pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-observer-pattern?u=76281980)
@@ -1449,7 +1459,7 @@ created: 2026-04-21
 > **Non-Speech:** (energetic music) (1)
 
 
-### 5. The Decorator Pattern
+### 6. 5. The Decorator Pattern
 
 #### Creating chaos with inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/creating-chaos-with-inheritance?u=76281980)
@@ -1924,7 +1934,7 @@ created: 2026-04-21
 > **Non-Speech:** (funky upbeat music) (1)
 
 
-### 6. The Iterator Pattern
+### 7. 6. The Iterator Pattern
 
 #### Encapsulating iteration
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/encapsulating-iteration?u=76281980)
@@ -2292,7 +2302,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. The Factory Patterns
+### 8. 7. The Factory Patterns
 
 #### The need for factory patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980)
@@ -2591,10 +2601,10 @@ created: 2026-04-21
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### Glossaries
+### 9. Glossaries
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Applying patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980)
@@ -2690,6 +2700,11 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [elisabeth] (1)
 
+
+## Instructor
+
+- [[Elisabeth Robson]]
+- [[Eric Freeman]]
 
 ## Path Context
 

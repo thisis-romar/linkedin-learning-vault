@@ -31,30 +31,32 @@ tags:
   - topic/software-development
   - skill/internet-of-things-iot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20IoT%20Devices.md)
 
 ![Cybersecurity Awareness: IoT Devices](https://media.licdn.com/dms/image/v2/D560DAQGmx6_uRJoSGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696016243531?e=2147483647&amp;v=beta&amp;t=zqWy-A9QfULbYtPluYrTm5emoNm2hvP509ASCYwSWuc)
 
 # Cybersecurity Awareness: IoT Devices
 
-> The Internet of Things are physical objects with software, sensors, and processing abilities to allow for collection of data, transfer of data from one device to another, or transfer of data from device to the internet. Popular IoT devices include smartphones, smart light bulbs, healthcare monitors, smart appliances, connected cars, smart TVs, and digital assistants like Alexa, Siri, and Cortana.
-
+> The Internet of Things are physical objects with software, sensors, and processing abilities to allow for collection of data, transfer of data from one device to another, or transfer of data from device to the internet. Popular IoT devices include smartphones, smart light bulbs, healthcare monitors, smart appliances, connected cars, smart TVs, and digital assistants like Alexa, Siri, and Cortana. 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices) | 56m | Beginner | 264K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Racheal Popoola]]
-
-## Skills Covered
-
-- Internet of Things (IoT)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding IoT** (4 videos)
+- **3. 2. How Devices Operate** (3 videos)
+- **4. 3. Outcome of IoT** (3 videos)
+- **5. 4. Iot Security** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Importance of cybersecurity awareness
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980)
@@ -106,7 +108,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding IoT
+### 2. 1. Understanding IoT
 
 #### Cybersecurity and IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980)
@@ -396,7 +398,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. How Devices Operate
+### 3. 2. How Devices Operate
 
 #### Daily activities of IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980)
@@ -629,7 +631,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 3. Outcome of IoT
+### 4. 3. Outcome of IoT
 
 #### Benefits of IoT in real life and the society
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980)
@@ -919,7 +921,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Iot Security
+### 5. 4. Iot Security
 
 #### How to create strong passwords
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980)
@@ -1208,7 +1210,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980)
@@ -1259,6 +1261,14 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Racheal Popoola]]
+
+## Skills Covered
+
+- Internet of Things (IoT)
 
 ## Path Context
 

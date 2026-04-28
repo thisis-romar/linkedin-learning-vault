@@ -28,19 +28,31 @@ tags:
   - skill/job-searching
   - skill/networking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Smart%20Way%20to%20Grow%20Your%20Network%20with%20LinkedIn's%20Andrew%20McCaskill.md)
 
 ![The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill](https://media.licdn.com/dms/image/v2/D4E0DAQGlG0YgmwssAg/learning-public-crop_675_1200/B4EZekETDxG4Ac-/0/1750804279820?e=2147483647&amp;v=beta&amp;t=zlceYtdAny40Zw3Ul1-XoOOMnh1E8G0YfJRICgHA4Yw)
 
 # The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill
 
-> Strong networks open doors — but reaching out and building or reviving connections can feel awkward and isn't always easy.
-
-Networking doesn’t have to feel awkward or forced. In this practical session, LinkedIn career expert Andrew McCaskill shares proven strategies to help you build meaningful connections with ease. Learn how to make networking a natural part of your routine, write messages that 
+> Strong networks open doors — but reaching out and building or reviving connections can feel awkward and isn't always easy. Networking doesn’t have to feel awkward or forced. In this practical session, LinkedIn career expert Andrew McCaskill shares proven strategies to help you build meaningful connections with ease. Learn how to make networking a natural part of your routine, write messages that g
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-smart-way-to-grow-your-network-with-linkedin-s-andrew-mccaskill) | 46m | 6K learners
 > [Jump to Path Context ↓](#path-context)
+
+## Table of Contents
+
+### Chapter Overview
+
+- **1. The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill** (1 videos)
+
+### 1. The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill
+
+#### Practical tips to build connections, write better messages, and grow your career
+> [LinkedIn Learning](https://www.linkedin.com/learning/the-smart-way-to-grow-your-network-with-linkedin-s-andrew-mccaskill/practical-tips-to-build-connections-write-better-messages-and-grow-your-career-26255266?u=76281980)
+
 
 ## Instructor
 
@@ -50,14 +62,6 @@ Networking doesn’t have to feel awkward or forced. In this practical session, 
 
 - Job Searching
 - Networking
-
-## Table of Contents
-
-### The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill
-
-#### Practical tips to build connections, write better messages, and grow your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-smart-way-to-grow-your-network-with-linkedin-s-andrew-mccaskill/practical-tips-to-build-connections-write-better-messages-and-grow-your-career-26255266?u=76281980)
-
 
 ## Path Context
 

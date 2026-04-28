@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Crafting%20Meaningful%20HTML.md)
 
 ![Crafting Meaningful HTML](https://media.licdn.com/dms/image/v2/C4D0DAQGGGPRrXtqcCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578939393521?e=2147483647&amp;v=beta&amp;t=cKv6r7SvAbH7XCeHa-0NIV_x3LE-4jZPIkFv36npceU)
 
@@ -40,21 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html) | 1h 43m | Intermediate | 24K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jen Kramer]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- HTML
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Convert Content to Semantic HTML Markup** (7 videos)
+- **3. 2. Build the Rest of the Webpage** (9 videos)
+- **4. 3. Additional Important Semantic Elements** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Craft meaningful HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980)
@@ -156,7 +154,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Convert Content to Semantic HTML Markup
+### 2. 1. Convert Content to Semantic HTML Markup
 
 #### Explore content and add it to CodePen
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980)
@@ -817,7 +815,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Build the Rest of the Webpage
+### 3. 2. Build the Rest of the Webpage
 
 #### Move your code from CodePen to Visual Studio Code (VS Code)
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/move-your-code-from-codepen-to-visual-studio-code-vs-code?u=76281980)
@@ -1895,7 +1893,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Additional Important Semantic Elements
+### 4. 3. Additional Important Semantic Elements
 
 #### Controlling breaks with <wbr> or &shy;
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980)
@@ -2395,7 +2393,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/next-steps?u=76281980)
@@ -2427,6 +2425,18 @@ created: 2026-04-21
 > **Env Vars:** html (3), css (1)
 > **Speakers:** - hi (1)
 
+
+## Instructor
+
+- [[Jen Kramer]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- HTML
 
 ## Path Context
 

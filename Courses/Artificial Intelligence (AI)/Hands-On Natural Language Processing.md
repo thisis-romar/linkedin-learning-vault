@@ -31,8 +31,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20Natural%20Language%20Processing.md)
 
 ![Hands-On Natural Language Processing](https://media.licdn.com/dms/image/v2/D4E0DAQFR63o-jjWjyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726521550716?e=2147483647&amp;v=beta&amp;t=lhmEHIkzeH3VqqCUqzKT4XNNRGMESTrEx8aL985Uq6w)
 
@@ -43,22 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing) | 50m | Advanced | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wuraola Oyewusi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- Natural Language Processing (NLP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Named Entity Recognition (NER)** (4 videos)
+- **3. 2. Topic Modeling** (5 videos)
+- **4. 3. Text Summarization** (3 videos)
+- **5. 4. Sentiment Analysis** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Gain insights from unstructured text data
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/gain-insights-from-unstructured-text-data?u=76281980)
@@ -132,7 +130,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Named Entity Recognition (NER)
+### 2. 1. Named Entity Recognition (NER)
 
 #### What is named entity recognition (NER)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980)
@@ -379,7 +377,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Topic Modeling
+### 3. 2. Topic Modeling
 
 #### Introduction to topic modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980)
@@ -685,7 +683,7 @@ created: 2026-04-21
 > **Speakers:** - model (1)
 
 
-### 3. Text Summarization
+### 4. 3. Text Summarization
 
 #### What is text summarization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-text-summarization?u=76281980)
@@ -849,7 +847,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 4. Sentiment Analysis
+### 5. 4. Sentiment Analysis
 
 #### What is sentiment analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980)
@@ -1012,7 +1010,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980)
@@ -1034,6 +1032,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Wuraola Oyewusi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- Natural Language Processing (NLP)
 
 ## Path Context
 

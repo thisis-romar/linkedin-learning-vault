@@ -36,8 +36,10 @@ tags:
   - skill/python-programming-language
   - skill/statistics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Statistics%20Essential%20Training.md)
 
 ![Python Statistics Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQHUYNAoME92XQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694730199516?e=2147483647&amp;v=beta&amp;t=aGGIQ3sT36VnpPTJD0qWDk28ODLGfSONStsUo-i8jRc)
 
@@ -48,23 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005) | 2h 39m | Advanced | 140K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Matt Harrison]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/python-statistics-essential-training-4433355/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Statistics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Loading and Cleaning Data** (6 videos)
+- **3. 2. Exploring and Visualizing** (9 videos)
+- **4. 3. Linear Regressions** (6 videos)
+- **5. 4. Hypothesis Tests** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Being a Python statistics MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980)
@@ -186,7 +183,7 @@ created: 2026-04-21
 > **File Paths:** requirements.txt (1)
 
 
-### 1. Loading and Cleaning Data
+### 2. 1. Loading and Cleaning Data
 
 #### Loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980)
@@ -1292,7 +1289,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Exploring and Visualizing
+### 3. 2. Exploring and Visualizing
 
 #### Categorical exploration
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980)
@@ -2443,7 +2440,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Linear Regressions
+### 4. 3. Linear Regressions
 
 #### Linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980)
@@ -3251,7 +3248,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Hypothesis Tests
+### 5. 4. Hypothesis Tests
 
 #### Exploring data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980)
@@ -3782,7 +3779,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980)
@@ -3821,6 +3818,20 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Matt Harrison]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/python-statistics-essential-training-4433355/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Statistics
 
 ## Path Context
 

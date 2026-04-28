@@ -28,8 +28,10 @@ tags:
   - skill/user-interface-prototyping
   - skill/figma-software
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Lo-Fi%20to%20Hi-Fi-%20Prototyping%20in%20Figma.md)
 
 ![Lo-Fi to Hi-Fi: Prototyping in Figma](https://media.licdn.com/dms/image/v2/C4E0DAQGoBjOAjI9yQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668799442072?e=2147483647&amp;v=beta&amp;t=fuvPaDBuvTEq2gE1-4j2R7iOq2BfyuFJ3q0qG2t1xvc)
 
@@ -40,22 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma) | 1h 45m | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tanvi Janani]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- User Interface Prototyping
-- Figma (Software)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Low Fidelity** (4 videos)
+- **3. 2. Medium Fidelity** (5 videos)
+- **4. 3. High-Fidelity** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Going from wireframes to prototypes in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980)
@@ -160,7 +157,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Low Fidelity
+### 2. 1. Low Fidelity
 
 #### Digital vs. physical wireframing mediums
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980)
@@ -745,7 +742,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Medium Fidelity
+### 3. 2. Medium Fidelity
 
 #### Brush up on the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/brush-up-on-the-basics?u=76281980)
@@ -1575,7 +1572,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 3. High-Fidelity
+### 4. 3. High-Fidelity
 
 #### Preparing the layout for your high-fidelity mock-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980)
@@ -2176,7 +2173,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps and helpful resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980)
@@ -2271,6 +2268,19 @@ created: 2026-04-21
 > **Env Vars:** nng (1)
 > **Speakers:** - [tanvi] (1)
 
+
+## Instructor
+
+- [[Tanvi Janani]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- User Interface Prototyping
+- Figma (Software)
 
 ## Path Context
 

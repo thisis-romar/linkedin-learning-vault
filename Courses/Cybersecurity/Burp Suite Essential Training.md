@@ -30,8 +30,10 @@ tags:
   - skill/penetration-testing
   - skill/burp-suite
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Burp%20Suite%20Essential%20Training.md)
 
 ![Burp Suite Essential Training](https://media.licdn.com/dms/image/v2/C560DAQH7Bk5AZAZFGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643999879138?e=2147483647&amp;v=beta&amp;t=Ize4LkZTqwp7fAWDoFWf8Z_Vf3JwZSe-_OLz6rMcBHA)
 
@@ -42,18 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training) | 1h 30m | Intermediate | 32K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Skills Covered
-
-- Penetration Testing
-- Burp Suite
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Burp Suite Basics** (5 videos)
+- **3. 2. Scanning** (4 videos)
+- **4. 3. Man in the Middle** (5 videos)
+- **5. 4. Being an Intruder** (3 videos)
+- **6. 5. Extensions** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning how to use Burp Suite effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/learning-how-to-use-burp-suite-effectively?u=76281980)
@@ -133,7 +136,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Burp Suite Basics
+### 2. 1. Burp Suite Basics
 
 #### What is Burp Suite?
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980)
@@ -613,7 +616,7 @@ created: 2026-04-21
 > **File Paths:** nanoxvwa/config.php (1)
 
 
-### 2. Scanning
+### 3. 2. Scanning
 
 #### Crawling the website
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/crawling-the-website?u=76281980)
@@ -1020,7 +1023,7 @@ created: 2026-04-21
 > **Env Vars:** http (1)
 
 
-### 3. Man in the Middle
+### 4. 3. Man in the Middle
 
 #### Intercepting bank transactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980)
@@ -1435,7 +1438,7 @@ created: 2026-04-21
 > **Exercise Files:** template (1)
 
 
-### 4. Being an Intruder
+### 5. 4. Being an Intruder
 
 #### Introducing the Intruder
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/introducing-the-intruder?u=76281980)
@@ -1706,7 +1709,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Extensions
+### 6. 5. Extensions
 
 #### Using CO2 to integrate SQLMap
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980)
@@ -1855,7 +1858,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980)
@@ -1895,6 +1898,15 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Skills Covered
+
+- Penetration Testing
+- Burp Suite
 
 ## Path Context
 

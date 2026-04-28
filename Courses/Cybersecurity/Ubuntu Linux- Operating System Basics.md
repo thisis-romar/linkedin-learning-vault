@@ -33,8 +33,10 @@ tags:
   - skill/linux-system-administration
   - skill/ubuntu
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ubuntu%20Linux-%20Operating%20System%20Basics.md)
 
 ![Ubuntu Linux: Operating System Basics](https://media.licdn.com/dms/image/v2/C4E0DAQHN4zlKFpwrjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668810191?e=2147483647&amp;v=beta&amp;t=z_U2gtrCXg5CUo4nPU9NxZO9xMSHo4oEo9t96rWKaSE)
 
@@ -45,18 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics) | 1h 48m | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott Simpson]]
-
-## Skills Covered
-
-- Linux System Administration
-- Ubuntu
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Booting and Starting Up** (5 videos)
+- **3. 2. Software and Updates** (4 videos)
+- **4. 3. Resources and Reports** (8 videos)
+- **5. 4. Automation and Scheduling** (2 videos)
+- **6. 5. Recovery and Support** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/welcome?u=76281980)
@@ -121,7 +124,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Booting and Starting Up
+### 2. 1. Booting and Starting Up
 
 #### Booting the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/booting-the-system?u=76281980)
@@ -587,7 +590,7 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 
 
-### 2. Software and Updates
+### 3. 2. Software and Updates
 
 #### Updating software
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980)
@@ -929,7 +932,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Resources and Reports
+### 4. 3. Resources and Reports
 
 #### Examine resource utilization
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/examine-resource-utilization?u=76281980)
@@ -1960,7 +1963,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Automation and Scheduling
+### 5. 4. Automation and Scheduling
 
 #### Schedule and verify tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980)
@@ -2173,7 +2176,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Recovery and Support
+### 6. 5. Recovery and Support
 
 #### Consider a disaster recovery plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980)
@@ -2392,7 +2395,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/summary?u=76281980)
@@ -2413,6 +2416,15 @@ created: 2026-04-21
 >
 > **Speakers:** - [scott] (1)
 
+
+## Instructor
+
+- [[Scott Simpson]]
+
+## Skills Covered
+
+- Linux System Administration
+- Ubuntu
 
 ## Path Context
 

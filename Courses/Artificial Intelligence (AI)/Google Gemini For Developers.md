@@ -37,8 +37,10 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Google%20Gemini%20For%20Developers.md)
 
 ![Google Gemini For Developers](https://media.licdn.com/dms/image/v2/D4E0DAQGurQq8eHdOVw/learning-public-crop_675_1200/B4EZbKb.rQHwAc-/0/1747153054737?e=2147483647&amp;v=beta&amp;t=-udZOO2os87WLKGZRgQBzJVWiNoMTKRwldAlnY3m24U)
 
@@ -49,24 +51,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309) | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lynn Langit]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- Google Gemini
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Gemini Dev Environments** (5 videos)
+- **3. 2. Gemini Prompts** (4 videos)
+- **4. 3. Gemini Model Settings** (4 videos)
+- **5. 4. Gemini Model Tools** (4 videos)
+- **6. 5. Gemini Model Applications** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building the future: Google Gemini tools for AI developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980)
@@ -92,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - [lynn] (1)
 
 
-### 1. Gemini Dev Environments
+### 2. 1. Gemini Dev Environments
 
 #### Understand Google Gemini 2.x models
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980)
@@ -506,7 +503,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Gemini Prompts
+### 3. 2. Gemini Prompts
 
 #### Design and test language model prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980)
@@ -882,7 +879,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Gemini Model Settings
+### 4. 3. Gemini Model Settings
 
 #### Configure model temperature
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980)
@@ -1169,7 +1166,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Gemini Model Tools
+### 5. 4. Gemini Model Tools
 
 #### Use structured output
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980)
@@ -1486,7 +1483,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 5. Gemini Model Applications
+### 6. 5. Gemini Model Applications
 
 #### Generate videos with Veo 2
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/generate-videos-with-veo2?u=76281980)
@@ -1766,7 +1763,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980)
@@ -1806,6 +1803,21 @@ created: 2026-04-21
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [lynn] (1)
 
+
+## Instructor
+
+- [[Lynn Langit]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
+- Google Gemini
 
 ## Path Context
 

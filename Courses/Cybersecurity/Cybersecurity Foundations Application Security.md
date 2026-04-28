@@ -26,28 +26,32 @@ tags:
   - skill/application-security
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Foundations%20Application%20Security.md)
 
 ![Cybersecurity Foundations Application Security](https://media.licdn.com/dms/image/v2/D560DAQGrScfI1TRbQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687297743417?e=2147483647&amp;v=beta&amp;t=YiOsK9XA-HeDW9xluX6AGmIF1VM7w_syhNvLLF7vnBk)
 
 # Cybersecurity Foundations Application Security
 
-> With the application security field constantly evolving due to the development of new technologies and techniques, it’s important to keep abreast of the most recent and common vulnerabilities, and know how to defend applications against them.
- 
-While securing applications today is very different than it was a few years ago due to the ever-changing nature of the cybersecurity and web development fi
+> With the application security field constantly evolving due to the development of new technologies and techniques, it’s important to keep abreast of the most recent and common vulnerabilities, and know how to defend applications against them. While securing applications today is very different than it was a few years ago due to the ever-changing nature of the cybersecurity and web development fiel
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security) | Beginner | 178K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Application Security
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Access Control** (2 videos)
+- **3. 2. Tainted Input** (3 videos)
+- **4. 3. Insecure Design** (3 videos)
+- **5. 4. Industry Trends** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn to secure applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/learn-to-secure-applications?u=76281980)
@@ -93,7 +97,7 @@ While securing applications today is very different than it was a few years ago 
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Access Control
+### 2. 1. Access Control
 
 #### Improper authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980)
@@ -246,7 +250,7 @@ While securing applications today is very different than it was a few years ago 
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Tainted Input
+### 3. 2. Tainted Input
 
 #### Insecure direct object references (IDOR)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/insecure-direct-object-references-idor?u=76281980)
@@ -467,7 +471,7 @@ While securing applications today is very different than it was a few years ago 
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Insecure Design
+### 4. 3. Insecure Design
 
 #### Information disclosure
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980)
@@ -675,7 +679,7 @@ While securing applications today is very different than it was a few years ago 
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Industry Trends
+### 5. 4. Industry Trends
 
 #### Web application firewall (WAF)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980)
@@ -932,7 +936,7 @@ While securing applications today is very different than it was a few years ago 
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980)
@@ -970,6 +974,11 @@ While securing applications today is very different than it was a few years ago 
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Skills Covered
+
+- Application Security
+- Cybersecurity
 
 ## Path Context
 

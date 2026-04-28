@@ -36,8 +36,10 @@ tags:
   - skill/large-language-models-llm
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Content%20Safety%20and%20Responsible%20AI.md)
 
 ![Azure AI for Developers: Content Safety and Responsible AI](https://media.licdn.com/dms/image/v2/D560DAQEFZbe31FbXUA/learning-public-crop_675_1200/B56ZbF5ZwWHgAg-/0/1747076882132?e=2147483647&amp;v=beta&amp;t=qgOzYYJ7ZQyO9W_3U-Ptv7y2OlHQaozW1N9P38OTJIo)
 
@@ -48,25 +50,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai) | 1h 48m | Intermediate | 1K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sammy Deprez]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/azure-ai-for-developers-content-safety-and-responsible-ai-4279218)
-
-## Skills Covered
-
-- Responsible AI
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Responsible AI** (3 videos)
+- **3. 2. Understanding Azure AI Content Safety** (3 videos)
+- **4. 3. Large Language Models (LLMs) and Content Safety** (3 videos)
+- **5. 4. Implementing Azure AI Content Safety** (4 videos)
+- **6. 5. Advanced Features for LLMs** (4 videos)
+- **7. 6. Security and Compliance** (3 videos)
+- **8. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Responsible AI and this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/responsible-ai-and-this-course?u=76281980)
@@ -123,7 +120,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Responsible AI
+### 2. 1. Introduction to Responsible AI
 
 #### Overview of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/overview-of-responsible-ai?u=76281980)
@@ -429,7 +426,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Understanding Azure AI Content Safety
+### 3. 2. Understanding Azure AI Content Safety
 
 #### Introduction to Azure AI Content Safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/introduction-to-azure-ai-content-safety?u=76281980)
@@ -722,7 +719,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Large Language Models (LLMs) and Content Safety
+### 4. 3. Large Language Models (LLMs) and Content Safety
 
 #### Introduction to LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/introduction-to-llms?u=76281980)
@@ -1110,7 +1107,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Implementing Azure AI Content Safety
+### 5. 4. Implementing Azure AI Content Safety
 
 #### Setting up Azure AI Content Safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/setting-up-azure-ai-content-safety?u=76281980)
@@ -1680,7 +1677,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Advanced Features for LLMs
+### 6. 5. Advanced Features for LLMs
 
 #### Prompt shields
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/prompt-shields?u=76281980)
@@ -2025,7 +2022,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Security and Compliance
+### 7. 6. Security and Compliance
 
 #### Built-in security features
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/built-in-security-features?u=76281980)
@@ -2150,7 +2147,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Reviewing key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/reviewing-key-concepts?u=76281980)
@@ -2252,6 +2249,22 @@ created: 2026-04-21
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Sammy Deprez]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/azure-ai-for-developers-content-safety-and-responsible-ai-4279218)
+
+## Skills Covered
+
+- Responsible AI
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
+- Microsoft Azure
 
 ## Path Context
 

@@ -33,8 +33,10 @@ tags:
   - skill/web-application-development
   - skill/search
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Search%20Techniques%20for%20Web%20Developers.md)
 
 ![Search Techniques for Web Developers](https://media.licdn.com/dms/image/v2/C560DAQEcRfIBAEJ9Lg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627407418577?e=2147483647&amp;v=beta&amp;t=RS1_gS3ArtFQFZcm9muSGbX6a6wrk9yXRC7kmZjfnNY)
 
@@ -45,18 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers) | 55m | Beginner | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Skills Covered
-
-- Web Application Development
-- Search
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Reliable Sources** (6 videos)
+- **3. 2. Mastering Search** (5 videos)
+- **4. 3. Community Search and Participation** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Finding what you're looking for
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980)
@@ -90,7 +91,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Reliable Sources
+### 2. 1. Reliable Sources
 
 #### Where to find reliable information
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/where-to-find-reliable-information?u=76281980)
@@ -499,7 +500,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Mastering Search
+### 3. 2. Mastering Search
 
 #### Mastering search
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/mastering-search?u=76281980)
@@ -909,7 +910,7 @@ created: 2026-04-21
 > **URLs:** [github.com](https://github.com) (2)
 
 
-### 3. Community Search and Participation
+### 4. 3. Community Search and Participation
 
 #### Humans, software, and community
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/humans-software-and-community?u=76281980)
@@ -1227,7 +1228,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### The end
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/the-end?u=76281980)
@@ -1265,6 +1266,15 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Skills Covered
+
+- Web Application Development
+- Search
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/cloud-storage
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Data%20and%20Storage%20Foundations.md)
 
 ![Google Cloud Data and Storage Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQHJlfOCLARMkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679343774621?e=2147483647&amp;v=beta&amp;t=cfIHB1hIqlSjV-25LQEGMvaYXSDe-HGi4HmDDpPfdAE)
 
@@ -43,19 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781) | 1h 43m | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mark Johnson]]
-
-## Skills Covered
-
-- Data Management
-- Cloud Storage
-- Google Cloud Platform (GCP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Object Storage on GCP** (5 videos)
+- **3. 2. Relational Databases** (5 videos)
+- **4. 3. Non-Relational Databases** (3 videos)
+- **5. 4. Data Warehouse and Analytics** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Google Cloud storage and databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/google-cloud-storage-and-databases?u=76281980)
@@ -78,7 +79,7 @@ created: 2026-04-21
 > **Speakers:** - hey (1)
 
 
-### 1. Object Storage on GCP
+### 2. 1. Object Storage on GCP
 
 #### Understanding your storage and database options
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980)
@@ -666,7 +667,7 @@ created: 2026-04-21
 > **URLs:** [console.cloud](https://console.cloud) (1), [google.com](https://google.com) (1)
 
 
-### 2. Relational Databases
+### 3. 2. Relational Databases
 
 #### Understanding relational database options on GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980)
@@ -1424,7 +1425,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (2), earlier in (1)
 
 
-### 3. Non-Relational Databases
+### 4. 3. Non-Relational Databases
 
 #### Understanding non-relational database options on GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980)
@@ -1709,7 +1710,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (2)
 
 
-### 4. Data Warehouse and Analytics
+### 5. 4. Data Warehouse and Analytics
 
 #### Using BigQuery as a data warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980)
@@ -2007,7 +2008,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/next-steps?u=76281980)
@@ -2061,6 +2062,16 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Mark Johnson]]
+
+## Skills Covered
+
+- Data Management
+- Cloud Storage
+- Google Cloud Platform (GCP)
 
 ## Path Context
 

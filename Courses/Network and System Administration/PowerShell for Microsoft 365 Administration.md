@@ -28,8 +28,10 @@ tags:
   - skill/office-365-administration
   - skill/powershell
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/PowerShell%20for%20Microsoft%20365%20Administration.md)
 
 ![PowerShell for Microsoft 365 Administration](https://media.licdn.com/dms/image/v2/C560DAQEuh7ybpgsnNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639075040486?e=2147483647&amp;v=beta&amp;t=eGWEUoCTqR6GJ6_yv7gMA82FJrhEUZRAR21qpbgSC1A)
 
@@ -40,22 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration) | 4h 9m | Intermediate | 46K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Liam Cleary]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Office 365 Administration
-- Powershell
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Connecting to Microsoft 365 Using PowerShell** (9 videos)
+- **3. 2. Managing SharePoint Online and OneDrive for Business** (7 videos)
+- **4. 3. Managing Exchange Online** (3 videos)
+- **5. 4. Managing Microsoft Teams** (6 videos)
+- **6. 5. Managing Security and Compliance** (8 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### PowerShell for Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/powershell-for-microsoft-365?u=76281980)
@@ -103,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Connecting to Microsoft 365 Using PowerShell
+### 2. 1. Connecting to Microsoft 365 Using PowerShell
 
 #### Why use PowerShell to manage Microsoft 365?
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980)
@@ -869,7 +868,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Managing SharePoint Online and OneDrive for Business
+### 3. 2. Managing SharePoint Online and OneDrive for Business
 
 #### Connect to SharePoint Online and OneDrive for Business
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980)
@@ -2228,7 +2227,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 3. Managing Exchange Online
+### 4. 3. Managing Exchange Online
 
 #### How to connect to Exchange Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980)
@@ -2822,7 +2821,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Managing Microsoft Teams
+### 5. 4. Managing Microsoft Teams
 
 #### How to connect to Microsoft Teams with PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980)
@@ -3743,7 +3742,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 5. Managing Security and Compliance
+### 6. 5. Managing Security and Compliance
 
 #### Explain the security and compliance features
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980)
@@ -5077,7 +5076,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise file (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980)
@@ -5105,6 +5104,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [liam] (1)
 
+
+## Instructor
+
+- [[Liam Cleary]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Office 365 Administration
+- Powershell
 
 ## Path Context
 

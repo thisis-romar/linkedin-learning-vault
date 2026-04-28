@@ -38,8 +38,10 @@ tags:
   - skill/it-audit
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Auditing%20AI%20Systems.md)
 
 ![Introduction to Auditing AI Systems](https://media.licdn.com/dms/image/v2/D560DAQFQ-T4a317kXw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694814155919?e=2147483647&amp;v=beta&amp;t=14WPhtMGwsnVUvOxaDFj_cpg9T2-CrXE2dtsd-dBkpw)
 
@@ -50,23 +52,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems) | 1h 19m | Beginner | 334K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ayodele Odubela]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI Software Development
-- IT Audit
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. New Paradigm of AI Audits** (4 videos)
+- **3. 2. Why Audit AI Systems?** (4 videos)
+- **4. 3. Data for AI Audits** (3 videos)
+- **5. 4. Principles for AI Audits** (4 videos)
+- **6. 5. Model Audits** (6 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Welcome to the new world of AI audits
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/welcome-to-the-new-world-of-ai-audits?u=76281980)
@@ -90,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. New Paradigm of AI Audits
+### 2. 1. New Paradigm of AI Audits
 
 #### What is an AI audit?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980)
@@ -374,7 +372,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Why Audit AI Systems?
+### 3. 2. Why Audit AI Systems?
 
 #### AI audit limitations and opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980)
@@ -648,7 +646,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data for AI Audits
+### 4. 3. Data for AI Audits
 
 #### Data for auditing AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/data-for-auditing-ai?u=76281980)
@@ -858,7 +856,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Principles for AI Audits
+### 5. 4. Principles for AI Audits
 
 #### Why explainability matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980)
@@ -1162,7 +1160,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Model Audits
+### 6. 5. Model Audits
 
 #### Types of model audits
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-model-audits?u=76281980)
@@ -1507,7 +1505,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980)
@@ -1632,6 +1630,20 @@ created: 2026-04-21
 > **Env Vars:** rai (1)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Ayodele Odubela]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI Software Development
+- IT Audit
+- Artificial Intelligence (AI)
 
 ## Path Context
 

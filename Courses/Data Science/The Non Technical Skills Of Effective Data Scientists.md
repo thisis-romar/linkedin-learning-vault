@@ -48,8 +48,10 @@ tags:
   - skill/soft-skills
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Non%20Technical%20Skills%20Of%20Effective%20Data%20Scientists.md)
 
 ![The Non Technical Skills Of Effective Data Scientists](https://media.licdn.com/dms/image/v2/C4E0DAQH_x_tk2JlvNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1585762672741?e=2147483647&amp;v=beta&amp;t=wMz-HLsXvB4a5FrJly6jfXvwqzn0Qq6uRETRw_6AJYY)
 
@@ -60,22 +62,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists) | Intermediate | 156K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Soft Skills
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What is Data Science?** (2 videos)
+- **3. 2. Imperative Nontechnical Skills** (10 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The non-obvious skills data scientists should think about
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/the-non-obvious-skills-data-scientists-should-think-about?u=76281980)
@@ -105,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. What is Data Science?
+### 2. 1. What is Data Science?
 
 #### Data Science is about inference and prediction
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980)
@@ -214,7 +210,7 @@ created: 2026-04-21
 > **Speakers:** - most (1)
 
 
-### 2. Imperative Nontechnical Skills
+### 3. 2. Imperative Nontechnical Skills
 
 #### Confidently defending your turf
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980)
@@ -1174,7 +1170,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980)
@@ -1201,6 +1197,19 @@ created: 2026-04-21
 > **Env Vars:** crisp (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Soft Skills
+- Data Science
 
 ## Path Context
 

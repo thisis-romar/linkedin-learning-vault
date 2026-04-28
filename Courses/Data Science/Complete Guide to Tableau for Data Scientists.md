@@ -37,8 +37,10 @@ tags:
   - skill/data-visualization
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20Tableau%20for%20Data%20Scientists.md)
 
 ![Complete Guide to Tableau for Data Scientists](https://media.licdn.com/dms/image/v2/D560DAQFkUIqywlvPyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727278051479?e=2147483647&amp;v=beta&amp;t=DcicINZOmoY_uZju2jZlcTGj6ZdaUWBIiyVFEc9Fy6w)
 
@@ -49,24 +51,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists) | 10h | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Matt Francis]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tableau
-- Data Analytics
-- Data Visualization
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Green and Blue Fields, What Do They Mean?** (7 videos)
+- **3. 2. Connecting to a Source of Data** (8 videos)
+- **4. 3. Combining Data** (9 videos)
+- **5. 4. When and How to Create Data Extracts** (4 videos)
+- **6. 5. Comparing Measures** (10 videos)
+- **7. 6. Transform Your Data with Calculations** (14 videos)
+- **8. 7. Mapping Your Data** (10 videos)
+- **9. 8 . The Analytics Tab** (13 videos)
+- **10. 9. Using Parameters for Viewer Input** (9 videos)
+- **11. 10. Dashboard Actions and Design Tips** (12 videos)
+- **12. 11. Analysis Tips and Tricks** (25 videos)
+- **13. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of Tableau for data scientists
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/the-power-of-tableau-for-data-scientists?u=76281980)
@@ -524,7 +527,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Green and Blue Fields, What Do They Mean?
+### 2. 1. Green and Blue Fields, What Do They Mean?
 
 #### Understand the difference between green and blue fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understand-the-difference-between-green-and-blue-fields?u=76281980)
@@ -1329,7 +1332,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Connecting to a Source of Data
+### 3. 2. Connecting to a Source of Data
 
 #### How to connect to Excel sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980)
@@ -2218,7 +2221,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Combining Data
+### 4. 3. Combining Data
 
 #### Combining data using relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980)
@@ -3394,7 +3397,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. When and How to Create Data Extracts
+### 5. 4. When and How to Create Data Extracts
 
 #### What are the pros and cons of using a data extract?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-pros-and-cons-of-using-a-data-extract?u=76281980)
@@ -4000,7 +4003,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Comparing Measures
+### 6. 5. Comparing Measures
 
 #### What are measure names and measure values?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-measure-names-and-measure-values?u=76281980)
@@ -5283,7 +5286,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Transform Your Data with Calculations
+### 7. 6. Transform Your Data with Calculations
 
 #### How do calculations work in Tableau?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-calculations-work-in-tableau?u=76281980)
@@ -6944,7 +6947,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Mapping Your Data
+### 8. 7. Mapping Your Data
 
 #### Just because you can, should you create a map?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/just-because-you-can-should-you-create-a-map?u=76281980)
@@ -8380,7 +8383,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8 . The Analytics Tab
+### 9. 8 . The Analytics Tab
 
 #### What is the Analytics pane?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-is-the-analytics-tab?u=76281980)
@@ -9896,7 +9899,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Using Parameters for Viewer Input
+### 10. 9. Using Parameters for Viewer Input
 
 #### How are parameters different compared to filters?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-are-parameters-different-to-filters?u=76281980)
@@ -11238,7 +11241,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 10. Dashboard Actions and Design Tips
+### 11. 10. Dashboard Actions and Design Tips
 
 #### Introducing the dashboard UI
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/introducing-the-dashboard-ui?u=76281980)
@@ -12992,7 +12995,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Analysis Tips and Tricks
+### 12. 11. Analysis Tips and Tricks
 
 #### How to create bar charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-bar-charts?u=76281980)
@@ -14642,7 +14645,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 13. Conclusion
 
 #### How can I grow my data science and Tableau skills?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980)
@@ -14767,6 +14770,21 @@ created: 2026-04-21
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Matt Francis]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tableau
+- Data Analytics
+- Data Visualization
+- Data Science
 
 ## Path Context
 

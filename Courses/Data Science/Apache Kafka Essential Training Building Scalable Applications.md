@@ -28,8 +28,10 @@ tags:
   - skill/apache-kafka
   - skill/scalable-web-applications
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Apache%20Kafka%20Essential%20Training%20Building%20Scalable%20Applications.md)
 
 ![Apache Kafka Essential Training Building Scalable Applications](https://media.licdn.com/dms/image/v2/D4D0DAQGMQEGnvQbYow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687364802921?e=2147483647&amp;v=beta&amp;t=sRAArkg-mxnPMFWPRrNqyZOVzYM-ifXQcfTiwYKD-H8)
 
@@ -40,18 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536) | Advanced | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Apache Kafka
-- Scalable Web Applications
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Kafka** (4 videos)
+- **3. 2. Kafka Scaling Concepts** (5 videos)
+- **4. 3. Building a Kafka Cluster** (5 videos)
+- **5. 4. Building Scalable Producers** (5 videos)
+- **6. 5. Building Scalable Consumers** (5 videos)
+- **7. 6. Kafka Best Practices** (4 videos)
+- **8. 7. Use Case Project** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building robust Kafka applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980)
@@ -78,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - [kumaran] (1)
 
 
-### 1. Introduction to Kafka
+### 2. 1. Introduction to Kafka
 
 #### What is Kafka?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980)
@@ -294,7 +299,7 @@ created: 2026-04-21
 > **File Paths:** kafka-cluster.yml (1)
 
 
-### 2. Kafka Scaling Concepts
+### 3. 2. Kafka Scaling Concepts
 
 #### A Kafka cluster
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/a-kafka-cluster?u=76281980)
@@ -606,7 +611,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Building a Kafka Cluster
+### 4. 3. Building a Kafka Cluster
 
 #### Kafka cluster setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980)
@@ -1080,7 +1085,7 @@ created: 2026-04-21
 > **Versions:** node 1002 (1)
 
 
-### 4. Building Scalable Producers
+### 5. 4. Building Scalable Producers
 
 #### Producer internals
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980)
@@ -1417,7 +1422,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Building Scalable Consumers
+### 6. 5. Building Scalable Consumers
 
 #### How consumer works
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-consumer-works?u=76281980)
@@ -1775,7 +1780,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 6. Kafka Best Practices
+### 7. 6. Kafka Best Practices
 
 #### Managing partition counts
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-partition-counts?u=76281980)
@@ -1961,7 +1966,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Use Case Project
+### 8. 7. Use Case Project
 
 #### Kafka applications use case: Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980)
@@ -2114,7 +2119,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### How do you extend your Kafka learning journey?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980)
@@ -2139,6 +2144,15 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [kumaran] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Apache Kafka
+- Scalable Web Applications
 
 ## Path Context
 

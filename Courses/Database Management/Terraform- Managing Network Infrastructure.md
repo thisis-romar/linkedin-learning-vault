@@ -31,42 +31,31 @@ tags:
   - skill/terraform
   - skill/infrastructure-as-code-iac
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Terraform-%20Managing%20Network%20Infrastructure.md)
 
 ![Terraform: Managing Network Infrastructure](https://media.licdn.com/dms/image/v2/D560DAQFNSWOD_FUtrg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684432483878?e=2147483647&amp;v=beta&amp;t=OxVRq2kJ7lmhC_xFklVhGpTq_Pc-20bPvkmBoSgPFv0)
 
 # Terraform: Managing Network Infrastructure
 
-> Suggested prerequisites
-
-An AWS account and a GitHub account
-Terraform installed locally on your machine
-A code editor (this course uses Visual Studio Code)
-Git installed locally
-
-Terraform has become one of the most popular infrastructure-as-code tools in the world. For engineers and admins, learning to use Terraform in tandem with particular architectural disciplines, like cloud networking, is c
+> Suggested prerequisites An AWS account and a GitHub account Terraform installed locally on your machine A code editor (this course uses Visual Studio Code) Git installed locally Terraform has become one of the most popular infrastructure-as-code tools in the world. For engineers and admins, learning to use Terraform in tandem with particular architectural disciplines, like cloud networking, is cri
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure) | 1h 11m | Intermediate | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[William Collins]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/terraform-managing-network-infrastructure-4373320)
-
-## Skills Covered
-
-- Terraform
-- Infrastructure as code (IaC)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Terraform Basics** (5 videos)
+- **3. 2. Foundational Networking in AWS with Terraform** (5 videos)
+- **4. 3. Advanced Networking in AWS with Terraform** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Network management in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/network-management-in-the-cloud?u=76281980)
@@ -138,7 +127,7 @@ Terraform has become one of the most popular infrastructure-as-code tools in the
 > **Speakers:** - [presenter] (1)
 
 
-### 1. Terraform Basics
+### 2. 1. Terraform Basics
 
 #### Terraform's composition
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980)
@@ -581,7 +570,7 @@ Terraform has become one of the most popular infrastructure-as-code tools in the
 > **Prerequisites:** make sure you have (1), set up (1)
 
 
-### 2. Foundational Networking in AWS with Terraform
+### 3. 2. Foundational Networking in AWS with Terraform
 
 #### Creating a bare minimum VPC with Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/creating-a-bare-minimum-vpc-with-terraform?u=76281980)
@@ -1093,7 +1082,7 @@ Terraform has become one of the most popular infrastructure-as-code tools in the
 > **Prerequisites:** set up (1)
 
 
-### 3. Advanced Networking in AWS with Terraform
+### 4. 3. Advanced Networking in AWS with Terraform
 
 #### Using Terraform to expand our infrastructure footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980)
@@ -1544,7 +1533,7 @@ Terraform has become one of the most popular infrastructure-as-code tools in the
 > **Analogies:** for instance (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### What comes next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980)
@@ -1613,6 +1602,20 @@ Terraform has become one of the most popular infrastructure-as-code tools in the
 > **Env Vars:** aws (1)
 > **Speakers:** - [lecturer] (1)
 
+
+## Instructor
+
+- [[William Collins]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/terraform-managing-network-infrastructure-4373320)
+
+## Skills Covered
+
+- Terraform
+- Infrastructure as code (IaC)
 
 ## Path Context
 

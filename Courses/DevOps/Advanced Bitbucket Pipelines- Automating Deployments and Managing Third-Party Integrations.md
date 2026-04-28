@@ -30,36 +30,32 @@ tags:
   - skill/bitbucket
   - skill/continuous-integration-and-continuous-delivery-ci-cd
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Advanced%20Bitbucket%20Pipelines-%20Automating%20Deployments%20and%20Managing%20Third-Party%20Integrations.md)
 
 ![Advanced Bitbucket Pipelines: Automating Deployments and Managing Third-Party Integrations](https://media.licdn.com/dms/image/v2/D4E0DAQEtb5QOp2cq9w/learning-public-crop_675_1200/B4EZT7Ov5NGYAY-/0/1739381735658?e=2147483647&amp;v=beta&amp;t=k03SgGqwASFU3H6ljtjnue6-e7ogrCnApwhMcDZMvz8)
 
 # Advanced Bitbucket Pipelines: Automating Deployments and Managing Third-Party Integrations
 
-> In this course, software engineer Michael Jenkins guides you through how to use advanced Bitbucket topics for your software projects. Gain a solid understanding of developing optimal Bitbucket Pipelines to automate deployments. Dive into integrating Bitbucket Pipelines with third party services within your environment.
-Check out this course to find out how you can solve complex CI/CD challenges us
+> In this course, software engineer Michael Jenkins guides you through how to use advanced Bitbucket topics for your software projects. Gain a solid understanding of developing optimal Bitbucket Pipelines to automate deployments. Dive into integrating Bitbucket Pipelines with third party services within your environment. Check out this course to find out how you can solve complex CI/CD challenges us
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations) | 1h 27m | Advanced | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Jenkins]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-bitbucket-pipelines-3925184)
-
-## Skills Covered
-
-- Bitbucket
-- Continuous Integration and Continuous Delivery (CI/CD)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Pipeline Optimizations** (6 videos)
+- **3. 2. Using Pipes in Pipelines** (4 videos)
+- **4. 3. Create Custom Pipes** (6 videos)
+- **5. 4. Self-Hosted Runners** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Optimize your CI/CD: Advanced techniques with Bitbucket Pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980)
@@ -138,7 +134,7 @@ Check out this course to find out how you can solve complex CI/CD challenges us
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Pipeline Optimizations
+### 2. 1. Pipeline Optimizations
 
 #### Optimizing pipeline performance and reducing build times
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimizing-pipeline-performance-and-reducing-build-times?u=76281980)
@@ -560,7 +556,7 @@ Check out this course to find out how you can solve complex CI/CD challenges us
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Using Pipes in Pipelines
+### 3. 2. Using Pipes in Pipelines
 
 #### Getting to know pipes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/getting-to-know-pipes?u=76281980)
@@ -783,7 +779,7 @@ Check out this course to find out how you can solve complex CI/CD challenges us
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Create Custom Pipes
+### 4. 3. Create Custom Pipes
 
 #### When to use custom pipes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980)
@@ -1160,7 +1156,7 @@ Check out this course to find out how you can solve complex CI/CD challenges us
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Self-Hosted Runners
+### 5. 4. Self-Hosted Runners
 
 #### When to use self-hosted runners
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-self-hosted-runners?u=76281980)
@@ -1575,7 +1571,7 @@ Check out this course to find out how you can solve complex CI/CD challenges us
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/next-steps?u=76281980)
@@ -1600,6 +1596,20 @@ Check out this course to find out how you can solve complex CI/CD challenges us
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - hey (1)
 
+
+## Instructor
+
+- [[Michael Jenkins]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-bitbucket-pipelines-3925184)
+
+## Skills Covered
+
+- Bitbucket
+- Continuous Integration and Continuous Delivery (CI/CD)
 
 ## Path Context
 

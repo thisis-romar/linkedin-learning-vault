@@ -34,37 +34,35 @@ tags:
   - skill/customer-analysis
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Predictive%20Customer%20Analytics.md)
 
 ![Predictive Customer Analytics](https://media.licdn.com/dms/image/v2/C560DAQEOoASdSrwRBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648058711495?e=2147483647&amp;v=beta&amp;t=8SUlEjC-H1h5fT6puH9NTY3dbiM5IuUXOD3RShS9BYE)
 
 # Predictive Customer Analytics
 
-> Use big data to tell your customer's story, with predictive analytics. In this course, instructor Kumaran Ponnambalam teaches you about the customer life cycle and how predictive analytics can help improve every step of the customer journey. 
-
-Start off by learning about the various phases in a customer's life cycle. Explore the data generated inside and outside your business, and ways the data ca
+> Use big data to tell your customer's story, with predictive analytics. In this course, instructor Kumaran Ponnambalam teaches you about the customer life cycle and how predictive analytics can help improve every step of the customer journey. Start off by learning about the various phases in a customer's life cycle. Explore the data generated inside and outside your business, and ways the data can 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628) | 1h 37m | Intermediate | 120K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/predictive-consumer-analytics-3018274)
-
-## Skills Covered
-
-- Customer Analysis
-- Predictive Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Customer Analytics Overview** (6 videos)
+- **3. 2. Will You Become My Customer?** (5 videos)
+- **4. 3. What Else Are You Interested In?** (5 videos)
+- **5. 4. How Much Is Your Future Business Worth?** (5 videos)
+- **6. 5. Are You Happy with Me?** (5 videos)
+- **7. 6. Will You Leave Me?** (5 videos)
+- **8. 7. Best Practices** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980)
@@ -166,7 +164,7 @@ Start off by learning about the various phases in a customer's life cycle. Explo
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Customer Analytics Overview
+### 2. 1. Customer Analytics Overview
 
 #### The importance of customer analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980)
@@ -545,7 +543,7 @@ Start off by learning about the various phases in a customer's life cycle. Explo
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Will You Become My Customer?
+### 3. 2. Will You Become My Customer?
 
 #### The customer acquisition process
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-acquisition-process?u=76281980)
@@ -934,7 +932,7 @@ Start off by learning about the various phases in a customer's life cycle. Explo
 > **Definitions:** is a  (1)
 
 
-### 3. What Else Are You Interested In?
+### 4. 3. What Else Are You Interested In?
 
 #### Upselling and cross-selling
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980)
@@ -1311,7 +1309,7 @@ Start off by learning about the various phases in a customer's life cycle. Explo
 > **Speakers:** - [instructor] (1)
 
 
-### 4. How Much Is Your Future Business Worth?
+### 5. 4. How Much Is Your Future Business Worth?
 
 #### Generate customer loyalty
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/generate-customer-loyalty?u=76281980)
@@ -1619,7 +1617,7 @@ Start off by learning about the various phases in a customer's life cycle. Explo
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Are You Happy with Me?
+### 6. 5. Are You Happy with Me?
 
 #### Improve customer satisfaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980)
@@ -1942,7 +1940,7 @@ Start off by learning about the various phases in a customer's life cycle. Explo
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Will You Leave Me?
+### 7. 6. Will You Leave Me?
 
 #### Prevent customer attrition
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/prevent-customer-attrition?u=76281980)
@@ -2275,7 +2273,7 @@ Start off by learning about the various phases in a customer's life cycle. Explo
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Best Practices
+### 8. 7. Best Practices
 
 #### Devise customer analytics processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980)
@@ -2455,7 +2453,7 @@ Start off by learning about the various phases in a customer's life cycle. Explo
 > **Speakers:** - things (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980)
@@ -2493,6 +2491,20 @@ Start off by learning about the various phases in a customer's life cycle. Explo
 > **Definitions:** is a  (1)
 > **Speakers:** - [kumaran] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/predictive-consumer-analytics-3018274)
+
+## Skills Covered
+
+- Customer Analysis
+- Predictive Analytics
 
 ## Path Context
 

@@ -32,38 +32,29 @@ tags:
   - skill/data-visualization
   - skill/statistical-data-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Data%20Visualizations-%2012%20Uncommon%20Plot%20Types%20and%20How%20to%20Use%20Them.md)
 
 ![Advanced Data Visualizations: 12 Uncommon Plot Types and How to Use Them](https://media.licdn.com/dms/image/v2/C4D0DAQEJmnmyihizbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674166620072?e=2147483647&amp;v=beta&amp;t=_XeQkFAyjriwExkldbz_eTz6qmkB00sgdRjMqMAZaJI)
 
 # Advanced Data Visualizations: 12 Uncommon Plot Types and How to Use Them
 
-> Suggested Prerequisites
-
-Have a basic understanding of how data visualization works.
-Be familiar with why different kinds of plot types are used.
-Have some knowledge of univariate, bivariate, and multivariate statistics.
-Know this is not a coding course and will not teach how each graph is recreated.
-
-Data visualization is a critical component of data analysis and data science. In this course, eco
+> Suggested Prerequisites Have a basic understanding of how data visualization works. Be familiar with why different kinds of plot types are used. Have some knowledge of univariate, bivariate, and multivariate statistics. Know this is not a coding course and will not teach how each graph is recreated. Data visualization is a critical component of data analysis and data science. In this course, econo
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them) | 1h | Advanced | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Franz Buscha]]
-
-## Skills Covered
-
-- Data Analytics
-- Data Visualization
-- Statistical Data Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Advanced Data Visualizations** (12 videos)
+- **3. 2. Continuing Your Data Viz Learning Journey** (1 videos)
+
+### 1. Introduction
 
 #### Take your data viz game to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/take-your-data-viz-game-to-the-next-level?u=76281980)
@@ -140,7 +131,7 @@ Data visualization is a critical component of data analysis and data science. In
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Advanced Data Visualizations
+### 2. 1. Advanced Data Visualizations
 
 #### Ridgeline plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980)
@@ -1426,7 +1417,7 @@ Data visualization is a critical component of data analysis and data science. In
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Continuing Your Data Viz Learning Journey
+### 3. 2. Continuing Your Data Viz Learning Journey
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980)
@@ -1478,6 +1469,16 @@ Data visualization is a critical component of data analysis and data science. In
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Franz Buscha]]
+
+## Skills Covered
+
+- Data Analytics
+- Data Visualization
+- Statistical Data Analysis
 
 ## Path Context
 

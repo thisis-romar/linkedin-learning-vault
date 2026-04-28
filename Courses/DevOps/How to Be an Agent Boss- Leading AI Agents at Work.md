@@ -31,8 +31,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/How%20to%20Be%20an%20Agent%20Boss-%20Leading%20AI%20Agents%20at%20Work.md)
 
 ![How to Be an Agent Boss: Leading AI Agents at Work](https://media.licdn.com/dms/image/v2/D4E0DAQEjaLbQibQykQ/learning-public-crop_675_1200/B4EZspW6tNHMAY-/0/1765925432505?e=2147483647&amp;v=beta&amp;t=OTmDX4mG7nfOaXYJtRgc__pj8FIXqHCxGDpq0hTHt8E)
 
@@ -43,24 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work) | 40m | 49K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jack Rowbotham]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- AI Agents
-- Artificial Intelligence (AI)
-- AI for Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Discover and Build Agents** (2 videos)
+- **3. 2. Delegate and Manage Agents** (2 videos)
+- **4. 3. Optimize and Improve Agents** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Lead AI agents with confidence
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/lead-ai-agents-with-confidence?u=76281980)
@@ -84,7 +79,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Discover and Build Agents
+### 2. 1. Discover and Build Agents
 
 #### Discover agents: Find the best match for your needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980)
@@ -486,7 +481,7 @@ created: 2026-04-21
 > **Env Vars:** crm (1), clear (1)
 
 
-### 2. Delegate and Manage Agents
+### 3. 2. Delegate and Manage Agents
 
 #### Delegate tasks to agents: Calibrate autonomy and oversight
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980)
@@ -755,7 +750,7 @@ created: 2026-04-21
 > **Cross-References:** previous video (1)
 
 
-### 3. Optimize and Improve Agents
+### 4. 3. Optimize and Improve Agents
 
 #### Improve your agent: Enhance and evolve over time
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980)
@@ -970,7 +965,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### The future: Your impact as a leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980)
@@ -1007,6 +1002,21 @@ created: 2026-04-21
 >
 > **CLI Commands:** make (1)
 
+
+## Instructor
+
+- [[Jack Rowbotham]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- AI Agents
+- Artificial Intelligence (AI)
+- AI for Leadership
 
 ## Path Context
 

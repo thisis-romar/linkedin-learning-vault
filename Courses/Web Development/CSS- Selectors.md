@@ -28,43 +28,42 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Selectors.md)
 
 ![CSS: Selectors](https://media.licdn.com/dms/image/v2/C4E0DAQFAl58bn8cZRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660585110453?e=2147483647&amp;v=beta&amp;t=Flj-NtLzxO4jsf1_MdAMNHrmKmgbMKey_NnmXoYi_pk)
 
 # CSS: Selectors
 
-> Project
-
-Answer questions about CSS selectors at the end of each chapter.
-
-Discover how to effectively leverage the power of selectors to select the elements you want to style without adding classes, changing HTML, or getting overly specific with your selectors. In this course, instructor Jen Kramer demonstrates how to pinpoint specific parts (and groups of parts) in an HTML document using the pow
+> Project Answer questions about CSS selectors at the end of each chapter. Discover how to effectively leverage the power of selectors to select the elements you want to style without adding classes, changing HTML, or getting overly specific with your selectors. In this course, instructor Jen Kramer demonstrates how to pinpoint specific parts (and groups of parts) in an HTML document using the power
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2) | 2h 19m | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jen Kramer]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Review of Basic CSS** (4 videos)
+- **3. 2. Combinator Selectors** (5 videos)
+- **4. 3. Attribute Selectors** (4 videos)
+- **5. 4. Pseudo-classes for document structures** (4 videos)
+- **6. 5. Pseudo-classes for links** (4 videos)
+- **7. 6. Pseudo-classes for forms** (5 videos)
+- **8. 7. Additional pseudo-classes, pseudo-elements, and the universal selector** (5 videos)
+- **9. 8. Choosing Selectors** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of selectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/the-power-of-selectors-23420115?u=76281980)
 
 
-### 1. Review of Basic CSS
+### 2. 1. Review of Basic CSS
 
 #### CSS terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/css-terminology?u=76281980)
@@ -309,7 +308,7 @@ Discover how to effectively leverage the power of selectors to select the elemen
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Combinator Selectors
+### 3. 2. Combinator Selectors
 
 #### The HTML family tree: Parents, children, ancestor, descendant, and siblings
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980)
@@ -641,7 +640,7 @@ Discover how to effectively leverage the power of selectors to select the elemen
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Attribute Selectors
+### 4. 3. Attribute Selectors
 
 #### Simple attribute selectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/simple-attribute-selectors?u=76281980)
@@ -904,7 +903,7 @@ Discover how to effectively leverage the power of selectors to select the elemen
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Pseudo-classes for document structures
+### 5. 4. Pseudo-classes for document structures
 
 #### Understanding only selectors, :only-child, :only-of-type
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/understanding-only-selectors-only-child-only-of-type?u=76281980)
@@ -1185,7 +1184,7 @@ Discover how to effectively leverage the power of selectors to select the elemen
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Pseudo-classes for links
+### 6. 5. Pseudo-classes for links
 
 #### Basic link states: :link, :visited, :hover, :active
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980)
@@ -1456,7 +1455,7 @@ Discover how to effectively leverage the power of selectors to select the elemen
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Pseudo-classes for forms
+### 7. 6. Pseudo-classes for forms
 
 #### Form controls: :required and :optional; :enabled and :disabled
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980)
@@ -2199,7 +2198,7 @@ Discover how to effectively leverage the power of selectors to select the elemen
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Additional pseudo-classes, pseudo-elements, and the universal selector
+### 8. 7. Additional pseudo-classes, pseudo-elements, and the universal selector
 
 #### Comparing is() and where()
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980)
@@ -2789,7 +2788,7 @@ Discover how to effectively leverage the power of selectors to select the elemen
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Choosing Selectors
+### 9. 8. Choosing Selectors
 
 #### CSS selectors and browser support
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/css-selectors-and-browser-support?u=76281980)
@@ -2930,7 +2929,7 @@ Discover how to effectively leverage the power of selectors to select the elemen
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Additional CSS practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/additional-css-practice?u=76281980)
@@ -2956,6 +2955,18 @@ Discover how to effectively leverage the power of selectors to select the elemen
 > **Env Vars:** css (6)
 > **Speakers:** - [jen] (1)
 
+
+## Instructor
+
+- [[Jen Kramer]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

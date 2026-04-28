@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Display.md)
 
 ![CSS: Display](https://media.licdn.com/dms/image/v2/C4E0DAQF629fARgLMzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1612547411492?e=2147483647&amp;v=beta&amp;t=L4rdXNyTwfbgLY7DSVSlWqhzJapMIySkqnMFxImHg3g)
 
@@ -40,21 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display) | 41m | Intermediate | 32K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jen Kramer]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Basic Display Values** (4 videos)
+- **3. 2. Newer Display Values** (5 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display/welcome?u=76281980)
@@ -83,7 +80,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. Basic Display Values
+### 2. 1. Basic Display Values
 
 #### Inline elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display/inline-elements?u=76281980)
@@ -499,7 +496,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 2. Newer Display Values
+### 3. 2. Newer Display Values
 
 #### Understanding layouts with inline flex and grid
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display/understanding-layouts-with-inline-flex-and-grid?u=76281980)
@@ -980,7 +977,7 @@ created: 2026-04-21
 > **Speakers:** - next (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display/next-steps-25753009?u=76281980)
@@ -1021,6 +1018,18 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - hey (1)
 
+
+## Instructor
+
+- [[Jen Kramer]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

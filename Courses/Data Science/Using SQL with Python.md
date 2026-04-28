@@ -32,8 +32,10 @@ tags:
   - skill/python-programming-language
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20SQL%20with%20Python.md)
 
 ![Using SQL with Python](https://media.licdn.com/dms/image/v2/C560DAQGiI_t79dOGAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1625163615628?e=2147483647&amp;v=beta&amp;t=pQr5XOi4Bk-rNA3MbfDDQrBd78EvZXnYNWPe3jjmR-g)
 
@@ -44,22 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python) | 1h 39m | Intermediate | 66K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bill Weinman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Common Interface** (8 videos)
+- **3. 2. A CRUD Class** (6 videos)
+- **4. 3. Final Project: URL Shortener** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Use SQL with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980)
@@ -463,7 +460,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (3), open the (1), checkbox (1)
 
 
-### 1. Common Interface
+### 2. 1. Common Interface
 
 #### The Python DB-API
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980)
@@ -1212,7 +1209,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. A CRUD Class
+### 3. 2. A CRUD Class
 
 #### The essential four
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/the-essential-four?u=76281980)
@@ -1855,7 +1852,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 3. Final Project: URL Shortener
+### 4. 3. Final Project: URL Shortener
 
 #### Defining the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980)
@@ -2403,7 +2400,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980)
@@ -2433,6 +2430,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [bill] (1)
 
+
+## Instructor
+
+- [[Bill Weinman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- SQL
 
 ## Path Context
 

@@ -35,8 +35,10 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/15%20Tips%20for%20Landing%20a%20Data%20Science%20Job.md)
 
 ![15 Tips for Landing a Data Science Job](https://media.licdn.com/dms/image/v2/D560DAQFnP97nRX4AYA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703205476130?e=2147483647&amp;v=beta&amp;t=xnfD16OWf92TaIaeX1R8HOzhnDGOkIJk2cJcM_glu_k)
 
@@ -47,24 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023) | 32m | Beginner | 47K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Galarnyk]]
-- [[Madecraft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Job Search Strategies
-- Career Management
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Find Opportunities** (3 videos)
+- **3. 2. Present Your Experience** (4 videos)
+- **4. 3. Build Your Online Presence** (3 videos)
+- **5. 4. Leverage Your Network** (2 videos)
+- **6. 5. Ace Your Interviews** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Land your dream job
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/land-your-dream-job?u=76281980)
@@ -106,7 +103,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. Find Opportunities
+### 2. 1. Find Opportunities
 
 #### Identify job types
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980)
@@ -312,7 +309,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 2. Present Your Experience
+### 3. 2. Present Your Experience
 
 #### Showcase your work
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/showcase-your-work?u=76281980)
@@ -569,7 +566,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 3. Build Your Online Presence
+### 4. 3. Build Your Online Presence
 
 #### Optimize your LinkedIn profile
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980)
@@ -765,7 +762,7 @@ created: 2026-04-21
 > **Speakers:** - data (1)
 
 
-### 4. Leverage Your Network
+### 5. 4. Leverage Your Network
 
 #### Identify valuable connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980)
@@ -873,7 +870,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 5. Ace Your Interviews
+### 6. 5. Ace Your Interviews
 
 #### Prepare for assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/prepare-for-assessments?u=76281980)
@@ -1045,7 +1042,7 @@ created: 2026-04-21
 > **Speakers:** - whether (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Begin your journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/begin-your-journey?u=76281980)
@@ -1081,6 +1078,21 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - it (1)
 
+
+## Instructor
+
+- [[Michael Galarnyk]]
+- [[Madecraft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Job Search Strategies
+- Career Management
+- Data Science
 
 ## Path Context
 

@@ -26,8 +26,10 @@ tags:
   - skill/supply-chain-operations
   - skill/career-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Supply%20Chain%20And%20Operations%20Careers%20Certification%20Tips%20And%20Tricks.md)
 
 ![Supply Chain And Operations Careers Certification Tips And Tricks](https://media.licdn.com/dms/image/v2/D560DAQEzD82BcxKqIg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707529774021?e=2147483647&amp;v=beta&amp;t=d_haMI8WqmYuIvSki9LnBjI_Aj-ZEpvpnLFSK252yts)
 
@@ -38,18 +40,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339) | Intermediate | 145K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Supply Chain Operations
-- Career Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Supply Chain Certifications** (14 videos)
+- **3. 2. Supply Chain Functions** (9 videos)
+- **4. 3. Supply Chain Processes** (10 videos)
+- **5. 4. Supply Chain Jargon Basics** (12 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Overview of supply chain certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-supply-chain-certifications?u=76281980)
@@ -166,7 +168,7 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 
 
-### 1. Supply Chain Certifications
+### 2. 1. Supply Chain Certifications
 
 #### Overview of CSCMP credentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cscmp-credentials?u=76281980)
@@ -930,7 +932,7 @@ created: 2026-04-21
 > **CLI Commands:** make (2)
 
 
-### 2. Supply Chain Functions
+### 3. 2. Supply Chain Functions
 
 #### Supply chain overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980)
@@ -1452,7 +1454,7 @@ created: 2026-04-21
 > **Definitions:** is called (1)
 
 
-### 3. Supply Chain Processes
+### 4. 3. Supply Chain Processes
 
 #### Explanation of procure to pay
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-procure-to-pay?u=76281980)
@@ -2102,7 +2104,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1), require (1), this. (1)
 
 
-### 4. Supply Chain Jargon Basics
+### 5. 4. Supply Chain Jargon Basics
 
 #### Shipping overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/shipping-overview?u=76281980)
@@ -3008,7 +3010,7 @@ created: 2026-04-21
 > **Definitions:** is called (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Preparing for your supply chain certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980)
@@ -3067,6 +3069,15 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 > **Prerequisites:** you'll need (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Supply Chain Operations
+- Career Management
 
 ## Path Context
 

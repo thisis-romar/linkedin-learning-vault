@@ -27,8 +27,10 @@ tags:
   - topic/devops
   - skill/jenkins
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Running%20Jenkins%20on%20AWS-%20Deploying%20and%20Managing%20Jenkins%20on%20Cloud%20Infrastructure.md)
 
 ![Running Jenkins on AWS: Deploying and Managing Jenkins on Cloud Infrastructure](https://media.licdn.com/dms/image/v2/D4E0DAQG0r7-qFsC2SA/learning-public-crop_675_1200/B4EZg4SNTOHoAY-/0/1753290954650?e=2147483647&amp;v=beta&amp;t=5qXC2cWevHWwseDS3vED62AV7AIuUNiKy48BcM5AP1Q)
 
@@ -39,22 +41,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure) | 1h 38m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Jenkins]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/running-jenkins-on-aws-3978678)
-
-## Skills Covered
-
-- Jenkins
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Setting Up Jenkins** (8 videos)
+- **3. 2. Create a Build Environment** (6 videos)
+- **4. 3. Connect Jenkins with Webhooks** (5 videos)
+- **5. 4. Deploy Code to AWS Lambda** (6 videos)
+- **6. 5. Shut Down AWS Resources** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### CI/CD supercharged: Jenkins meets AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980)
@@ -84,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - jenkins (1)
 
 
-### 1. Setting Up Jenkins
+### 2. 1. Setting Up Jenkins
 
 #### Architect the Jenkins environment on AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980)
@@ -642,7 +641,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### 2. Create a Build Environment
+### 3. 2. Create a Build Environment
 
 #### Plan the build environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980)
@@ -1023,7 +1022,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Connect Jenkins with Webhooks
+### 4. 3. Connect Jenkins with Webhooks
 
 #### Plan the CI/CD pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980)
@@ -1325,7 +1324,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Deploy Code to AWS Lambda
+### 5. 4. Deploy Code to AWS Lambda
 
 #### Initialize the deployment target in AWS Lambda
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980)
@@ -1750,7 +1749,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Shut Down AWS Resources
+### 6. 5. Shut Down AWS Resources
 
 #### Decomission AWS resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/decomission-aws-resources?u=76281980)
@@ -1872,7 +1871,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980)
@@ -1897,6 +1896,19 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Michael Jenkins]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/running-jenkins-on-aws-3978678)
+
+## Skills Covered
+
+- Jenkins
 
 ## Path Context
 

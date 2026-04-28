@@ -28,8 +28,10 @@ tags:
   - skill/microsoft-power-query
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Power%20Query%20for%20Beginners.md)
 
 ![Excel: Power Query for Beginners](https://media.licdn.com/dms/image/v2/D4E0DAQFYLUkSWYIveg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733350326024?e=2147483647&amp;v=beta&amp;t=-DEEY8XhDNT7DiYGsQvcDUzrUn371yaanjKWjcoNWHo)
 
@@ -40,22 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020) | 26m | Beginner | 174K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dave Ludwig]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Power Query
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Data with Power Query** (2 videos)
+- **3. 2. Cleaning and Transforming Data with Power Query** (5 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is Power Query in Excel?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980)
@@ -122,7 +118,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Data with Power Query
+### 2. 1. Getting Data with Power Query
 
 #### Getting data from another file
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980)
@@ -283,7 +279,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. Cleaning and Transforming Data with Power Query
+### 3. 2. Cleaning and Transforming Data with Power Query
 
 #### Common cleaning tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/common-cleaning-tasks?u=76281980)
@@ -657,7 +653,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980)
@@ -726,6 +722,19 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Dave Ludwig]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Power Query
+- Microsoft Excel
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Dataflows%20Essential%20Training.md)
 
 ![Power BI Dataflows Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQHCRS5q7KoX8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583864338105?e=2147483647&amp;v=beta&amp;t=tNhypYJ1555_e-_qErpNkZepTJu6RE6RnDVRS8EUO2g)
 
@@ -40,21 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training) | 1h 28m | Intermediate | 23K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Helen Wall]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Power BI
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Working with Data in Power BI** (4 videos)
+- **3. 2. Extracting Data** (6 videos)
+- **4. 3. Transforming Data Connections** (4 videos)
+- **5. 4. Loading and Connecting to Dataflows** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Optimizing your data with Power BI dataflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980)
@@ -98,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Working with Data in Power BI
+### 2. 1. Working with Data in Power BI
 
 #### Navigating the Power BI ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980)
@@ -338,7 +337,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Extracting Data
+### 3. 2. Extracting Data
 
 #### Setting up gateways
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980)
@@ -860,7 +859,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Transforming Data Connections
+### 4. 3. Transforming Data Connections
 
 #### Updating dataflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/updating-dataflows?u=76281980)
@@ -1175,7 +1174,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Loading and Connecting to Dataflows
+### 5. 4. Loading and Connecting to Dataflows
 
 #### Connecting to dataflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-dataflows?u=76281980)
@@ -1569,7 +1568,7 @@ created: 2026-04-21
 > **Speakers:** - [helen] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps with Power BI dataflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980)
@@ -1592,6 +1591,18 @@ created: 2026-04-21
 > **Code Keywords:** this. (1)
 > **Speakers:** - [helen] (1)
 
+
+## Instructor
+
+- [[Helen Wall]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Power BI
 
 ## Path Context
 

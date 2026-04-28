@@ -29,8 +29,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Responsible%20AI%20in%20a%20Global%20Context%20Professional%20Certificate%20by%20the%20United%20Nations%20University.md)
 
 # Responsible AI in a Global Context Professional Certificate by the United Nations University
 

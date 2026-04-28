@@ -32,8 +32,10 @@ tags:
   - topic/devops
   - skill/software-development-life-cycle-sdlc
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Software%20Development%20Life%20Cycle%20(SDLC).md)
 
 ![Software Development Life Cycle (SDLC)](https://media.licdn.com/dms/image/v2/D560DAQHlSuJFuSk6lw/learning-public-crop_675_1200/B56ZbF5TqNGgAY-/0/1747076856757?e=2147483647&amp;v=beta&amp;t=NLx6YNs4pIjdw2phT1s49oqQWWJ2RKknh7A1gjuDtts)
 
@@ -44,21 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033) | 1h 55m | Beginner | 23K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shashi Shekhar]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Software Development Life Cycle (SDLC)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Traditional Methods** (3 videos)
+- **3. 2. Early Agile Methods** (3 videos)
+- **4. 3. Modern Approaches** (17 videos)
+- **5. 4. Other Approaches** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Processes for software projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980)
@@ -83,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 1. Traditional Methods
+### 2. 1. Traditional Methods
 
 #### Waterfall model: Brief overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980)
@@ -297,7 +296,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 2. Early Agile Methods
+### 3. 2. Early Agile Methods
 
 #### Dynamic systems development method (DSDM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980)
@@ -582,7 +581,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Modern Approaches
+### 4. 3. Modern Approaches
 
 #### Scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980)
@@ -1899,7 +1898,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Other Approaches
+### 5. 4. Other Approaches
 
 #### CMM overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/cmmi-overview?u=76281980)
@@ -2144,7 +2143,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Your path to success
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/your-path-to-success?u=76281980)
@@ -2179,6 +2178,18 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Shashi Shekhar]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Software Development Life Cycle (SDLC)
 
 ## Path Context
 

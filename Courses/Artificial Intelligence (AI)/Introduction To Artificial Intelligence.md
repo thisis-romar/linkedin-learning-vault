@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-literacy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Artificial%20Intelligence.md)
 
 ![Introduction To Artificial Intelligence](https://media.licdn.com/dms/image/v2/D560DAQHJjgIrzzfWBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730843593856?e=2147483647&amp;v=beta&amp;t=Z92hzunwnw24a659e1-NQvoaoCr5x-20P6s-XiOOUkM)
 
@@ -47,22 +49,27 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908) | Beginner | 2608K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Doug Rose]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- AI Literacy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Artificial Intelligence?** (3 videos)
+- **3. 2. Popular Uses for Artificial Intelligence** (2 videos)
+- **4. 3. The Rise of Machine Learning** (2 videos)
+- **5. 4. Common AI Systems** (5 videos)
+- **6. 5. Learn from Data** (3 videos)
+- **7. 6. Identify Patterns** (3 videos)
+- **8. 7. Machine Learning Algorithms** (5 videos)
+- **9. 8. Fit the Algorithm** (3 videos)
+- **10. 9. Artificial Neural Networks** (3 videos)
+- **11. 10. Improve Accuracy** (2 videos)
+- **12. 11. The Rise of Generative AI** (4 videos)
+- **13. 12. Generative AI Architecture** (3 videos)
+- **14. 13. Ethical and Legal Challenges** (4 videos)
+- **15. 14. Where to Go from Here** (2 videos)
+
+### 1. Introduction
 
 #### Why you need to know about artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980)
@@ -90,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - artificial (1)
 
 
-### 1. What Is Artificial Intelligence?
+### 2. 1. What Is Artificial Intelligence?
 
 #### Define general intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980)
@@ -369,7 +376,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. Popular Uses for Artificial Intelligence
+### 3. 2. Popular Uses for Artificial Intelligence
 
 #### Predictive AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980)
@@ -536,7 +543,7 @@ created: 2026-04-21
 > **Speakers:** - over (1)
 
 
-### 3. The Rise of Machine Learning
+### 4. 3. The Rise of Machine Learning
 
 #### Machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980)
@@ -731,7 +738,7 @@ created: 2026-04-21
 > **Speakers:** - machine (1)
 
 
-### 4. Common AI Systems
+### 5. 4. Common AI Systems
 
 #### Searching for patterns in data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980)
@@ -1185,7 +1192,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 5. Learn from Data
+### 6. 5. Learn from Data
 
 #### Labeled and unlabeled data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980)
@@ -1469,7 +1476,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 6. Identify Patterns
+### 7. 6. Identify Patterns
 
 #### Classify data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980)
@@ -1753,7 +1760,7 @@ created: 2026-04-21
 > **Speakers:** - online (1)
 
 
-### 7. Machine Learning Algorithms
+### 8. 7. Machine Learning Algorithms
 
 #### Common algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980)
@@ -2214,7 +2221,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 8. Fit the Algorithm
+### 9. 8. Fit the Algorithm
 
 #### Select the best algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/select-the-best-algorithm?u=76281980)
@@ -2480,7 +2487,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 9. Artificial Neural Networks
+### 10. 9. Artificial Neural Networks
 
 #### Build a neural network
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980)
@@ -2733,7 +2740,7 @@ created: 2026-04-21
 > **Speakers:** - an (1)
 
 
-### 10. Improve Accuracy
+### 11. 10. Improve Accuracy
 
 #### Learning from mistakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980)
@@ -2924,7 +2931,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 11. The Rise of Generative AI
+### 12. 11. The Rise of Generative AI
 
 #### Self-supervised learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980)
@@ -3287,7 +3294,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 12. Generative AI Architecture
+### 13. 12. Generative AI Architecture
 
 #### Generative adversarial networks (GAN)
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980)
@@ -3536,7 +3543,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 13. Ethical and Legal Challenges
+### 14. 13. Ethical and Legal Challenges
 
 #### The alignment problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980)
@@ -3879,7 +3886,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 14. Where to Go from Here
+### 15. 14. Where to Go from Here
 
 #### Using AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/using-ai-systems?u=76281980)
@@ -4016,6 +4023,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Doug Rose]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- AI Literacy
 
 ## Path Context
 

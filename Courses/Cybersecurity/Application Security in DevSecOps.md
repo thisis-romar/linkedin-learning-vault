@@ -31,8 +31,10 @@ tags:
   - skill/application-security
   - skill/devsecops
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Application%20Security%20in%20DevSecOps.md)
 
 ![Application Security in DevSecOps](https://media.licdn.com/dms/image/v2/D4E0DAQF37BYmtSlFBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736370992396?e=2147483647&amp;v=beta&amp;t=CjGpKT_f8zYrYyZcLPNaIMhrlof7c1-_AgLvfRvC2OQ)
 
@@ -43,22 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529) | 1h 37m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tim Chase]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Application Security
-- DevSecOps
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. DevSecOps Basics** (4 videos)
+- **3. 2. Continuous Application Security** (9 videos)
+- **4. 3. Practicing Continuous Application Security** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to application security in DevSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980)
@@ -142,7 +139,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### 1. DevSecOps Basics
+### 2. 1. DevSecOps Basics
 
 #### What is DevSecOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980)
@@ -428,7 +425,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Continuous Application Security
+### 3. 2. Continuous Application Security
 
 #### Continuous static scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980)
@@ -1679,7 +1676,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Practicing Continuous Application Security
+### 4. 3. Practicing Continuous Application Security
 
 #### Tying it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980)
@@ -2116,7 +2113,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/next-steps?u=76281980)
@@ -2163,6 +2160,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Tim Chase]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Application Security
+- DevSecOps
 
 ## Path Context
 

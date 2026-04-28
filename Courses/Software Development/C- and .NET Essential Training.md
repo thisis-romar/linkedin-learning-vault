@@ -35,8 +35,10 @@ tags:
   - skill/-net-framework
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20and%20.NET%20Essential%20Training.md)
 
 ![C# and .NET Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQFHiX0T9gzFUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724260774336?e=2147483647&amp;v=beta&amp;t=5ILnAHWlvAeRyOXdtf4IeK8ZFRINR4StZgvSvaxDXZc)
 
@@ -47,23 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training) | 2h 22m | Intermediate | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/c-sharp-dot-net-programming-2453257)
-
-## Skills Covered
-
-- .NET Framework
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Overview of .NET** (4 videos)
+- **3. 2. Working with Strings** (5 videos)
+- **4. 3. Using Numbers and Dates** (6 videos)
+- **5. 4. Working with Files** (6 videos)
+- **6. 5. Regular Expressions** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### .NET: The everywhere framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-the-everywhere-framework?u=76281980)
@@ -311,7 +309,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Overview of .NET
+### 2. 1. Overview of .NET
 
 #### What is .NET?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-is-dot-net?u=76281980)
@@ -798,7 +796,7 @@ created: 2026-04-21
 > **Versions:** 1.1 (1)
 
 
-### 2. Working with Strings
+### 3. 2. Working with Strings
 
 #### String interpolation
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-interpolation?u=76281980)
@@ -1413,7 +1411,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Using Numbers and Dates
+### 4. 3. Using Numbers and Dates
 
 #### Parsing numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/parsing-numbers?u=76281980)
@@ -2162,7 +2160,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Working with Files
+### 5. 4. Working with Files
 
 #### Creating files
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/creating-files?u=76281980)
@@ -2784,7 +2782,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Regular Expressions
+### 6. 5. Regular Expressions
 
 #### RegEx and .NET
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/regex-and-dot-net?u=76281980)
@@ -3265,7 +3263,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/next-steps?u=76281980)
@@ -3288,6 +3286,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [joe] (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/c-sharp-dot-net-programming-2453257)
+
+## Skills Covered
+
+- .NET Framework
+- C#
 
 ## Path Context
 

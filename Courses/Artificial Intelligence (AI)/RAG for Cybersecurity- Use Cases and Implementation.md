@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/RAG%20for%20Cybersecurity-%20Use%20Cases%20and%20Implementation.md)
 
 ![RAG for Cybersecurity: Use Cases and Implementation](https://media.licdn.com/dms/image/v2/D4E0DAQE11amsuV0i8w/learning-public-crop_675_1200/B4EZXYZ2LIGgAY-/0/1743092409901?e=2147483647&amp;v=beta&amp;t=FkPyTXmH20AleuXGeZnNeYfloYHyPMUKNWug92hnOaw)
 
@@ -46,25 +48,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation) | 1h 10m | Advanced | 32K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brennan Lodge]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/rag-for-cybersecurity-use-cases-and-implementation-4292591/codespaces)
-
-## Skills Covered
-
-- Cyber Threat Intelligence (CTI)
-- Retrieval-Augmented Generation (RAG)
-- Artificial Intelligence (AI)
-- Governance, Risk Management, and Compliance (GRC)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding RAG** (2 videos)
+- **3. 2. RAG in action** (4 videos)
+- **4. 3. RAG for GRC** (3 videos)
+- **5. 4. Advanced RAG Application** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to RAG for Cyber Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/welcome-to-rag-for-cyber-security?u=76281980)
@@ -116,7 +111,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 1. Understanding RAG
+### 2. 1. Understanding RAG
 
 #### What is Retrieval-Augmented Generation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980)
@@ -358,7 +353,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. RAG in action
+### 3. 2. RAG in action
 
 #### Introduce RAGs capabilities for risk and cyber security
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980)
@@ -846,7 +841,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. RAG for GRC
+### 4. 3. RAG for GRC
 
 #### Using RAG for GRC automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980)
@@ -1128,7 +1123,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Advanced RAG Application
+### 5. 4. Advanced RAG Application
 
 #### Maintaining and scaling RAG systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980)
@@ -1350,7 +1345,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980)
@@ -1381,6 +1376,22 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Brennan Lodge]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/rag-for-cybersecurity-use-cases-and-implementation-4292591/codespaces)
+
+## Skills Covered
+
+- Cyber Threat Intelligence (CTI)
+- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence (AI)
+- Governance, Risk Management, and Compliance (GRC)
 
 ## Path Context
 

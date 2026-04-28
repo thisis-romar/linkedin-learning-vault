@@ -37,8 +37,10 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Built-in%20Machine%20Learning%20in%20the%20Wolfram%20Language.md)
 
 ![Built-in Machine Learning in the Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQEQFgJ7wFPlyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704320950065?e=2147483647&amp;v=beta&amp;t=UjKqEFu_jc7UNY1rhU47dgBJ9Y1q-aWx3GUb5_qxraI)
 
@@ -49,19 +51,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language) | 19m | Beginner | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wolfram Research]]
-
-## Skills Covered
-
-- Wolfram Language
-- Machine Learning
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### 1. Built-in Machine Learning in the Wolfram Language
+### Chapter Overview
+
+- **1. 1. Built-in Machine Learning in the Wolfram Language** (1 videos)
+- **2. 2. Dedicated Functions: Natural Language Processing** (1 videos)
+
+### 1. 1. Built-in Machine Learning in the Wolfram Language
 
 #### Built-in machine learning in the Wolfram language
 > [LinkedIn Learning](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980)
@@ -207,7 +204,7 @@ created: 2026-04-21
 > **Speakers:** - [abrita] (1)
 
 
-### 2. Dedicated Functions: Natural Language Processing
+### 2. 2. Dedicated Functions: Natural Language Processing
 
 #### Dedicated functions: Natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980)
@@ -342,6 +339,16 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Wolfram Research]]
+
+## Skills Covered
+
+- Wolfram Language
+- Machine Learning
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/sustainable-business-strategy
   - skill/environmental-social-and-governance-esg
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Introduction%20to%20ESG-%20Environmental%2C%20Social%2C%20and%20Governance.md)
 
 ![Introduction to ESG: Environmental, Social, and Governance](https://media.licdn.com/dms/image/v2/C560DAQEaM3Ad6Pr8-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663182985086?e=2147483647&amp;v=beta&amp;t=Z13F6ihOcgKY958GXrvT1FKemESqvgAbdhuRyJMq2M8)
 
@@ -43,18 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance) | 43m | 47K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fulya Kocak]]
-
-## Skills Covered
-
-- Sustainable Business Strategy
-- Environmental, Social, and Governance (ESG)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to ESG Concepts** (6 videos)
+- **3. 2. A Deeper Dive into the Environmental, Social, and Governance Pillars** (4 videos)
+- **4. 3. ESG Reporting and Ratings** (4 videos)
+- **5. 4. ESG Careers** (1 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Environmental, social, and governance concerns
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/environmental-social-and-governance-concerns?u=76281980)
@@ -78,7 +80,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. Introduction to ESG Concepts
+### 2. 1. Introduction to ESG Concepts
 
 #### What is ESG?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/what-is-esg?u=76281980)
@@ -335,7 +337,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. A Deeper Dive into the Environmental, Social, and Governance Pillars
+### 3. 2. A Deeper Dive into the Environmental, Social, and Governance Pillars
 
 #### The E of ESG
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980)
@@ -545,7 +547,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. ESG Reporting and Ratings
+### 4. 3. ESG Reporting and Ratings
 
 #### ESG reporting
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting?u=76281980)
@@ -758,7 +760,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. ESG Careers
+### 5. 4. ESG Careers
 
 #### ESG upskilling
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980)
@@ -806,7 +808,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/next-steps-23138038?u=76281980)
@@ -832,6 +834,15 @@ created: 2026-04-21
 > **URLs:** [fulyakocak.com](https://fulyakocak.com) (1)
 > **Speakers:** - great (1)
 
+
+## Instructor
+
+- [[Fulya Kocak]]
+
+## Skills Covered
+
+- Sustainable Business Strategy
+- Environmental, Social, and Governance (ESG)
 
 ## Path Context
 

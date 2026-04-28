@@ -44,8 +44,10 @@ tags:
   - skill/management-development
   - skill/management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Succeeding%20As%20A%20First%20Time%20Tech%20Manager.md)
 
 ![Succeeding As A First Time Tech Manager](https://media.licdn.com/dms/image/v2/D4D0DAQFMCycApffsMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732234285462?e=2147483647&amp;v=beta&amp;t=_c4nx89z7jbIJeS-Yj62y9KjaMx1IM-_TvNYiZ2kgac)
 
@@ -56,19 +58,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826) | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rashim Mogha]]
-
-## Skills Covered
-
-- Technical Leadership
-- Management Development
-- Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Build the Right Team** (7 videos)
+- **3. 2. Implement a Shared Vision** (3 videos)
+- **4. 3. Talking Tech to Any Audience** (3 videos)
+- **5. 4. Working with Global Teams** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What it takes to lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980)
@@ -101,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - congratulations (1)
 
 
-### 1. Build the Right Team
+### 2. 1. Build the Right Team
 
 #### Preparing for the leadership role
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980)
@@ -550,7 +551,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 2. Implement a Shared Vision
+### 3. 2. Implement a Shared Vision
 
 #### Communicating organizational vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980)
@@ -776,7 +777,7 @@ created: 2026-04-21
 > **Speakers:** - key (1)
 
 
-### 3. Talking Tech to Any Audience
+### 4. 3. Talking Tech to Any Audience
 
 #### Integrating your team with the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/integrating-your-team-with-the-business-24920109?u=76281980)
@@ -905,7 +906,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 4. Working with Global Teams
+### 5. 4. Working with Global Teams
 
 #### Leading a global team
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leading-a-global-team-24915135?u=76281980)
@@ -1200,7 +1201,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/next-steps-24919131?u=76281980)
@@ -1227,6 +1228,16 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Rashim Mogha]]
+
+## Skills Covered
+
+- Technical Leadership
+- Management Development
+- Management
 
 ## Path Context
 

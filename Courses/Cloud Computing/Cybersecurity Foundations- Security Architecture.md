@@ -31,8 +31,10 @@ tags:
   - skill/security-architecture-design
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Foundations-%20Security%20Architecture.md)
 
 ![Cybersecurity Foundations: Security Architecture](https://media.licdn.com/dms/image/v2/C560DAQF28QcnoHGCtg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668461277698?e=2147483647&amp;v=beta&amp;t=tYtJikQJKn2iRjPyyXHDgYhlcbysNCF6Cv86UI9OOKY)
 
@@ -43,18 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture) | 44m | Beginner | 115K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Pete Lindstrom]]
-
-## Skills Covered
-
-- Security Architecture Design
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Developing Your Identity Management Program** (3 videos)
+- **3. 2. Developing Your Vulnerability Management Program** (3 videos)
+- **4. 3. Developing Your Threat Management Program** (3 videos)
+- **5. 4. Developing Your Trust Management Program** (3 videos)
+- **6. 5. Developing Security Architecture Patterns** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Protect your enterprise with the four disciplines of cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/protect-your-enterprise-with-the-four-disciplines-of-cybersecurity?u=76281980)
@@ -236,7 +239,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Developing Your Identity Management Program
+### 2. 1. Developing Your Identity Management Program
 
 #### Generating your identity management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-identity-management-objectives?u=76281980)
@@ -378,7 +381,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Developing Your Vulnerability Management Program
+### 3. 2. Developing Your Vulnerability Management Program
 
 #### Generating your vulnerability management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980)
@@ -552,7 +555,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Developing Your Threat Management Program
+### 4. 3. Developing Your Threat Management Program
 
 #### Generating your threat management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980)
@@ -688,7 +691,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Developing Your Trust Management Program
+### 5. 4. Developing Your Trust Management Program
 
 #### Generating your trust management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-trust-management-objectives?u=76281980)
@@ -836,7 +839,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 5. Developing Security Architecture Patterns
+### 6. 5. Developing Security Architecture Patterns
 
 #### Building an enterprise reference security architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980)
@@ -938,7 +941,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980)
@@ -970,6 +973,15 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [pete] (1)
 
+
+## Instructor
+
+- [[Pete Lindstrom]]
+
+## Skills Covered
+
+- Security Architecture Design
+- Cybersecurity
 
 ## Path Context
 

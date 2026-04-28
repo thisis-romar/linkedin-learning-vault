@@ -30,8 +30,10 @@ tags:
   - skill/presentation-design
   - skill/canva
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Canva-%20Designing%20Engaging%2C%20Accessible%20Presentations.md)
 
 ![Canva: Designing Engaging, Accessible Presentations](https://media.licdn.com/dms/image/v2/D560DAQHNC5bxkmq1ng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721952030728?e=2147483647&amp;v=beta&amp;t=LrKQU8VJaqykVzJ_zXOxIMm0IYRN_h7zoHH3Uks7DEs)
 
@@ -42,23 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations) | 1h 10m | 91K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Heather Ackmann]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Digital Accessibility
-- Presentation Design
-- Canva
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Design for Non-Designers** (3 videos)
+- **3. 2. Designing Presentations in Canva** (4 videos)
+- **4. 3. Designing with Your Brand in Mind** (4 videos)
+- **5. 4. Designing for Accessibility** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Design better presentations in Canva
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva?u=76281980)
@@ -123,7 +120,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Design for Non-Designers
+### 2. 1. Design for Non-Designers
 
 #### Design pillars
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980)
@@ -236,7 +233,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Designing Presentations in Canva
+### 3. 2. Designing Presentations in Canva
 
 #### Starting from a template
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980)
@@ -690,7 +687,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Designing with Your Brand in Mind
+### 4. 3. Designing with Your Brand in Mind
 
 #### Why branding matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980)
@@ -1107,7 +1104,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Designing for Accessibility
+### 5. 4. Designing for Accessibility
 
 #### Checking presentations for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980)
@@ -1413,7 +1410,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980)
@@ -1435,6 +1432,20 @@ created: 2026-04-21
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Heather Ackmann]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Digital Accessibility
+- Presentation Design
+- Canva
 
 ## Path Context
 

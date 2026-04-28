@@ -23,8 +23,10 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Ux%20Foundations%20Interaction%20Design.md)
 
 ![Ux Foundations Interaction Design](https://media.licdn.com/dms/image/v2/C4E0DAQH1Qv7gLQA72g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629497577555?e=2147483647&amp;v=beta&amp;t=YJFTy1hB76mO1ocVwbLW6WL6S59o3Vp67KeVBa8LANQ)
 
@@ -35,13 +37,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Hogue]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Today's Interaction Designer** (4 videos)
+- **3. 2. A Model of Psychology and Interaction Design** (4 videos)
+- **4. 3. Introductory Psychology** (17 videos)
+- **5. 4. The Interaction Design Model** (6 videos)
+- **6. 5. Interaction Design** (22 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Interaction design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980)
@@ -118,7 +126,7 @@ created: 2026-04-21
 > **Speakers:** - interaction (1)
 
 
-### 1. Today's Interaction Designer
+### 2. 1. Today's Interaction Designer
 
 #### Project types and deliverables
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980)
@@ -279,7 +287,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. A Model of Psychology and Interaction Design
+### 3. 2. A Model of Psychology and Interaction Design
 
 #### Why psychology?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980)
@@ -592,7 +600,7 @@ created: 2026-04-21
 > **Speakers:** - context (1)
 
 
-### 3. Introductory Psychology
+### 4. 3. Introductory Psychology
 
 #### Sensation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensation-14242595?u=76281980)
@@ -1969,7 +1977,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 4. The Interaction Design Model
+### 5. 4. The Interaction Design Model
 
 #### Overview of the IxD model
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/overview-of-the-ixd-model-14238700?u=76281980)
@@ -2470,7 +2478,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 5. Interaction Design
+### 6. 5. Interaction Design
 
 #### Dimensions of interaction design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980)
@@ -3964,7 +3972,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### A solid foundation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980)
@@ -4000,6 +4008,10 @@ created: 2026-04-21
 > **Code Keywords:** interface (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[David Hogue]]
 
 ## Path Context
 

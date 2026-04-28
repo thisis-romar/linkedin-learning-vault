@@ -28,8 +28,10 @@ tags:
   - topic/security
   - skill/computer-forensics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Operating%20System%20Forensics.md)
 
 ![Operating System Forensics](https://media.licdn.com/dms/image/v2/D560DAQHxthMjoNASww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722364787912?e=2147483647&amp;v=beta&amp;t=brpZV3LM-YGhIYT8Ndx3qNlkCZHtZap11YiilkPVHfw)
 
@@ -40,17 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677) | 1h 41m | Intermediate | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jungwoo Ryoo]]
-
-## Skills Covered
-
-- Computer Forensics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Operating Systems and Digital Forensics** (7 videos)
+- **3. 2. File System Types** (7 videos)
+- **4. 3. File Recovery** (7 videos)
+- **5. 4. Live Acquisition** (9 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Operating system forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980)
@@ -105,7 +108,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 1. Operating Systems and Digital Forensics
+### 2. 1. Operating Systems and Digital Forensics
 
 #### Introduction to OSs and digital forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction?u=76281980)
@@ -489,7 +492,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. File System Types
+### 3. 2. File System Types
 
 #### Introduction to file system types
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980)
@@ -936,7 +939,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. File Recovery
+### 4. 3. File Recovery
 
 #### Introduction to file recovery
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980)
@@ -1565,7 +1568,7 @@ created: 2026-04-21
 > **UI Navigation:** switch to (1)
 
 
-### 4. Live Acquisition
+### 5. 4. Live Acquisition
 
 #### Introduction to live acquisition
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379529?u=76281980)
@@ -2054,7 +2057,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980)
@@ -2076,6 +2079,14 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Jungwoo Ryoo]]
+
+## Skills Covered
+
+- Computer Forensics
 
 ## Path Context
 

@@ -39,8 +39,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Infrastructure%20Management%20on%20AWS-%20Skills%20for%20Administrators.md)
 
 # Infrastructure Management on AWS: Skills for Administrators
 

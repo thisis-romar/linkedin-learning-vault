@@ -32,8 +32,10 @@ tags:
   - skill/github
   - skill/dependency-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/GitHub%20Dependabot-%20Dependency%20Updates.md)
 
 ![GitHub Dependabot: Dependency Updates](https://media.licdn.com/dms/image/v2/C560DAQF-995_A-N8Ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1641250840162?e=2147483647&amp;v=beta&amp;t=jVN6_WOanS07uW55d2p6jBwSUt9XsLWJO-qZJuq-hT4)
 
@@ -44,23 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates) | 51m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Carlos Rivas]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/dependabot-3009234)
-
-## Skills Covered
-
-- GitHub
-- Dependency Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Dependabot Features and Use Cases** (5 videos)
+- **3. 2. Dependabot and Python** (5 videos)
+- **4. 3. Dependabot and PHP** (5 videos)
+- **5. 4. Dependabot and JavaScript** (5 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Get started with Dependabot
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980)
@@ -123,7 +120,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Dependabot Features and Use Cases
+### 2. 1. Dependabot Features and Use Cases
 
 #### GitHub and Dependabot features
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980)
@@ -324,7 +321,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Dependabot and Python
+### 3. 2. Dependabot and Python
 
 #### Python project architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980)
@@ -659,7 +656,7 @@ created: 2026-04-21
 > **Env Vars:** pip (2)
 
 
-### 3. Dependabot and PHP
+### 4. 3. Dependabot and PHP
 
 #### PHP project architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/php-project-architecture?u=76281980)
@@ -1081,7 +1078,7 @@ created: 2026-04-21
 > **Versions:** 5.3.7 (1)
 
 
-### 4. Dependabot and JavaScript
+### 5. 4. Dependabot and JavaScript
 
 #### JavaScript project architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980)
@@ -1413,7 +1410,7 @@ created: 2026-04-21
 > **Cross-References:** we mentioned (1), go back to (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Links and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980)
@@ -1476,6 +1473,20 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Carlos Rivas]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/dependabot-3009234)
+
+## Skills Covered
+
+- GitHub
+- Dependency Management
 
 ## Path Context
 

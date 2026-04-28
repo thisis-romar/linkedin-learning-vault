@@ -29,8 +29,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-governance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Governing%20Agentic%20Ai%20Systems%20By%20All%20Tech%20Is%20Human.md)
 
 ![Governing Agentic Ai Systems By All Tech Is Human](https://media.licdn.com/dms/image/v2/D560DAQEzXcBYLxEsUA/learning-public-crop_675_1200/B56Zu5YN5EH4AY-/0/1768341692673?e=2147483647&amp;v=beta&amp;t=5b0UOsaa-3lRYyY1TdBmCWlHaXmO9XbSG3xsJOGSYBE)
 
@@ -41,19 +43,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human) | Beginner | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI Agents
-- Artificial Intelligence (AI)
-- AI Governance
-
 ## Table of Contents
 
-### Governing Agentic AI Systems
+### Chapter Overview
+
+- **1. Governing Agentic AI Systems** (1 videos)
+
+### 1. Governing Agentic AI Systems
 
 #### Governing agentic AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980)
@@ -272,6 +268,16 @@ created: 2026-04-21
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** you'll need (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI Agents
+- Artificial Intelligence (AI)
+- AI Governance
 
 ## Path Context
 

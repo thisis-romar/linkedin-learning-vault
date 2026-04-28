@@ -31,8 +31,10 @@ tags:
   - skill/automated-machine-learning-automl
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Executive%20Guide%20to%20AutoML.md)
 
 ![Executive Guide to AutoML](https://media.licdn.com/dms/image/v2/D560DAQGu0bi4H4k6Kw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680198412162?e=2147483647&amp;v=beta&amp;t=5nG7gPDk8PRjIhYNiwxqszVJFF1BTEw3NjPSjAuDJuo)
 
@@ -43,22 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl) | 1h 2m | Beginner | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Automated Machine Learning (AutoML)
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introducing AutoML** (5 videos)
+- **3. 2. Stages in the ML Lifecycle** (6 videos)
+- **4. 3. AutoML Options** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How AutoML is changing analytics teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/how-automl-is-changing-analytics-teams?u=76281980)
@@ -116,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introducing AutoML
+### 2. 1. Introducing AutoML
 
 #### What is AutoML?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980)
@@ -410,7 +407,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 2. Stages in the ML Lifecycle
+### 3. 2. Stages in the ML Lifecycle
 
 #### Which phases have been automated most successfully?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980)
@@ -856,7 +853,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. AutoML Options
+### 4. 3. AutoML Options
 
 #### The AutoML vendor landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980)
@@ -1281,7 +1278,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980)
@@ -1311,6 +1308,19 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Automated Machine Learning (AutoML)
+- Artificial Intelligence (AI)
 
 ## Path Context
 

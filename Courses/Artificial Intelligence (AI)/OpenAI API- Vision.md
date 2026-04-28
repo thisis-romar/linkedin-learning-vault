@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/computer-vision
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Vision.md)
 
 ![OpenAI API: Vision](https://media.licdn.com/dms/image/v2/D560DAQG0Mu6DAHu0uw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706311523814?e=2147483647&amp;v=beta&amp;t=RbGohYp2_VGkD8tBlx28uUOhPvnykmDj2ymyB1jTitw)
 
@@ -48,25 +50,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision) | 30m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ronnie Sheer]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-vision-4562029)
-
-## Skills Covered
-
-- OpenAI API
-- OpenAI Products
-- Artificial Intelligence (AI)
-- Computer Vision
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Vision API Essentials** (5 videos)
+- **3. 2. App Developement with Vision API** (6 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Computer vision with OpenAI's API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/computer-vision-with-openai-s-api?u=76281980)
@@ -159,7 +152,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Vision API Essentials
+### 2. 1. Vision API Essentials
 
 #### Setting up the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/setting-up-the-api?u=76281980)
@@ -428,7 +421,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 2. App Developement with Vision API
+### 3. 2. App Developement with Vision API
 
 #### What we'll build
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/what-we-ll-build?u=76281980)
@@ -758,7 +751,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/next-steps?u=76281980)
@@ -786,6 +779,22 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [ronnie] (1)
 
+
+## Instructor
+
+- [[Ronnie Sheer]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-vision-4562029)
+
+## Skills Covered
+
+- OpenAI API
+- OpenAI Products
+- Artificial Intelligence (AI)
+- Computer Vision
 
 ## Path Context
 

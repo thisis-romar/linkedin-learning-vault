@@ -32,8 +32,10 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Practice-%20Intermediate%20Queries.md)
 
 ![SQL Practice: Intermediate Queries](https://media.licdn.com/dms/image/v2/D560DAQHwJxEZODK75Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902130493?e=2147483647&amp;v=beta&amp;t=ywuBJw3sYDK7dQ7jicKvYjhFu5JlKqstCma-1MVjiBs)
 
@@ -44,18 +46,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries) | 11m | Intermediate | 17K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott Simpson]]
-
-## Skills Covered
-
-- Database Queries
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Code Challenges** (5 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Try your SQL programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980)
@@ -163,7 +162,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Code Challenges
+### 2. 1. Code Challenges
 
 #### Solution: Who are your top customers?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-1-who-are-your-top-customers?u=76281980)
@@ -405,7 +404,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/next-steps?u=76281980)
@@ -423,6 +422,15 @@ created: 2026-04-21
 > **Env Vars:** sql (2)
 > **Speakers:** - [scott] (1)
 
+
+## Instructor
+
+- [[Scott Simpson]]
+
+## Skills Covered
+
+- Database Queries
+- SQL
 
 ## Path Context
 

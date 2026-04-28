@@ -31,37 +31,32 @@ tags:
   - skill/windows-system-administration
   - skill/windows-server
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%20Server%202022-%20Installation%20and%20Configuration.md)
 
 ![Windows Server 2022: Installation and Configuration](https://media.licdn.com/dms/image/v2/C4E0DAQFN4TEX5Pu9kA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642101279693?e=2147483647&amp;v=beta&amp;t=s-MsYW1qIibq0qH2jfelTBjNF5gOhe0Z8U8i45ySH3o)
 
 # Windows Server 2022: Installation and Configuration
 
-> Projects
-Install and configure Windows Server 2022 with either the full Desktop Experience or the Server Core.
-
-In this course, experienced consultant and trainer Ed Liberman demonstrates how to plan, install, configure, and clean up a new Windows 2022 server. Ed has spent over 20 years helping thousands of people start or advance their careers in IT.
-
-Learn how to use Windows Server to:
-
-Create a
+> Projects Install and configure Windows Server 2022 with either the full Desktop Experience or the Server Core. In this course, experienced consultant and trainer Ed Liberman demonstrates how to plan, install, configure, and clean up a new Windows 2022 server. Ed has spent over 20 years helping thousands of people start or advance their careers in IT. Learn how to use Windows Server to: Create and 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration) | 1h 40m | Beginner | 89K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ed Liberman]]
-
-## Skills Covered
-
-- Windows System Administration
-- Windows Server
-
 ## Table of Contents
 
-### Introduction to Windows Server 2022: Installation and Configuration
+### Chapter Overview
+
+- **1. Introduction to Windows Server 2022: Installation and Configuration** (2 videos)
+- **2. 1. Installing Windows Server 2022** (4 videos)
+- **3. 2. Configuring Windows Server** (6 videos)
+- **4. 3. Configuring Storage** (7 videos)
+- **5. 4. Configuring Server Roles and Features** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction to Windows Server 2022: Installation and Configuration
 
 #### Introduction to Windows Server 2022: Installation and configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980)
@@ -132,7 +127,7 @@ Create a
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Installing Windows Server 2022
+### 2. 1. Installing Windows Server 2022
 
 #### Planning for Windows Server installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980)
@@ -533,7 +528,7 @@ Create a
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Configuring Windows Server
+### 3. 2. Configuring Windows Server
 
 #### Configuring a computer name with Server Manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980)
@@ -1097,7 +1092,7 @@ Create a
 > **Cross-References:** go back to (1)
 
 
-### 3. Configuring Storage
+### 4. 3. Configuring Storage
 
 #### Creating a simple volume
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-simple-volume?u=76281980)
@@ -1875,7 +1870,7 @@ Create a
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Configuring Server Roles and Features
+### 5. 4. Configuring Server Roles and Features
 
 #### Installing roles and features
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980)
@@ -2397,7 +2392,7 @@ Create a
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/next-steps?u=76281980)
@@ -2415,6 +2410,15 @@ Create a
 > **Prerequisites:** install (1), configure (1)
 > **Speakers:** - [ed] (1)
 
+
+## Instructor
+
+- [[Ed Liberman]]
+
+## Skills Covered
+
+- Windows System Administration
+- Windows Server
 
 ## Path Context
 

@@ -38,8 +38,10 @@ tags:
   - skill/tech-career-skills
   - skill/penetration-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Careers-%20Become%20a%20Penetration%20Tester.md)
 
 ![Cybersecurity Careers: Become a Penetration Tester](https://media.licdn.com/dms/image/v2/C560DAQG0z7ot3BZqOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1665598052340?e=2147483647&amp;v=beta&amp;t=r_MvIITtacYJmozW9SMbQkV5WTf6EVbnlCeSq34QDAY)
 
@@ -50,19 +52,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester) | 36m | Beginner | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tennisha Martin]]
-
-## Skills Covered
-
-- Cybersecurity Careers
-- Tech Career Skills
-- Penetration Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Self-Assessment** (3 videos)
+- **3. 2. Fundamentals** (3 videos)
+- **4. 3. Ethical Hacking Techniques** (3 videos)
+- **5. 4. Get Experience** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How do I get into pentesting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/how-do-i-get-into-pentesting?u=76281980)
@@ -84,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - [tennisha] (1)
 
 
-### 1. Self-Assessment
+### 2. 1. Self-Assessment
 
 #### What is pentesting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980)
@@ -348,7 +349,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Fundamentals
+### 3. 2. Fundamentals
 
 #### OS fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980)
@@ -614,7 +615,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 3. Ethical Hacking Techniques
+### 4. 3. Ethical Hacking Techniques
 
 #### Penetration testing stages
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980)
@@ -887,7 +888,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Get Experience
+### 5. 4. Get Experience
 
 #### Hands-on experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980)
@@ -1054,7 +1055,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### What are you waiting for?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-are-you-waiting-for?u=76281980)
@@ -1082,6 +1083,16 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - [tennisha] (1)
 
+
+## Instructor
+
+- [[Tennisha Martin]]
+
+## Skills Covered
+
+- Cybersecurity Careers
+- Tech Career Skills
+- Penetration Testing
 
 ## Path Context
 

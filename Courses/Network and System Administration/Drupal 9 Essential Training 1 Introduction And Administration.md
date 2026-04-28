@@ -25,8 +25,10 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training%201%20Introduction%20And%20Administration.md)
 
 ![Drupal 9 Essential Training 1 Introduction And Administration](https://media.licdn.com/dms/image/v2/C4E0DAQEh3QUsbeiKNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614870776341?e=2147483647&amp;v=beta&amp;t=3JMO0x0J1CS40MCEuJGqcuvi_2lfKfAK5WVb9ETVvI8)
 
@@ -37,13 +39,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration) | Beginner | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Drupal
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Content Explained** (8 videos)
+- **3. 2. Administration Explained** (9 videos)
+
+### 1. Introduction
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-to-the-course?u=76281980)
@@ -98,7 +102,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 1. Content Explained
+### 2. 1. Content Explained
 
 #### What is Drupal?
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980)
@@ -1020,7 +1024,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Administration Explained
+### 3. 2. Administration Explained
 
 #### Introduction and toolbar tour
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-and-toolbar-tour?u=76281980)
@@ -1683,6 +1687,10 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Skills Covered
+
+- Drupal
 
 ## Path Context
 

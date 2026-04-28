@@ -26,8 +26,10 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Quick%20Tips%20(2023).md)
 
 ![Excel Quick Tips (2023)](https://media.licdn.com/dms/image/v2/D4E0DAQETmCD8-yrd-A/learning-public-crop_675_1200/B4EZZFv0GqHgAY-/0/1744926884512?e=2147483647&amp;v=beta&amp;t=gg3YH8L2jXc1nTQcY2NvyvZ3sBDg8YyXgWF4r_0NFgA)
 
@@ -38,17 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023) | 43m | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Garrick Chow]]
-
-## Skills Covered
-
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Data Entry Tips** (8 videos)
+- **3. 2. Working with Data** (7 videos)
+- **4. 3. Formatting Tips** (12 videos)
+- **5. 4. Viewing Options** (4 videos)
+- **6. 5. Collaborating on Spreadsheets** (4 videos)
+- **7. 6. Working with Files** (7 videos)
+
+### 1. Introduction
 
 #### Get answers to common Excel questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/get-answers-to-common-excel-questions?u=76281980)
@@ -72,7 +76,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Data Entry Tips
+### 2. 1. Data Entry Tips
 
 #### Fill in a series of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980)
@@ -348,7 +352,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Working with Data
+### 3. 2. Working with Data
 
 #### Select specific rows or columns
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/select-specific-rows-or-columns?u=76281980)
@@ -555,7 +559,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Formatting Tips
+### 4. 3. Formatting Tips
 
 #### Text wrap
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980)
@@ -890,7 +894,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Viewing Options
+### 5. 4. Viewing Options
 
 #### Change magnification
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/change-magnification?u=76281980)
@@ -995,7 +999,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Collaborating on Spreadsheets
+### 6. 5. Collaborating on Spreadsheets
 
 #### Insert and respond to comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/insert-and-respond-to-comments?u=76281980)
@@ -1116,7 +1120,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Working with Files
+### 7. 6. Working with Files
 
 #### Encrypt a workbook with a password
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/encrypt-a-workbook-with-a-password?u=76281980)
@@ -1320,6 +1324,14 @@ created: 2026-04-21
 > **CLI Commands:** make (2)
 > **Speakers:** - [educator] (1)
 
+
+## Instructor
+
+- [[Garrick Chow]]
+
+## Skills Covered
+
+- Microsoft Excel
 
 ## Path Context
 

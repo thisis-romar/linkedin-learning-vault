@@ -21,8 +21,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Designing%20Microinteractions%20with%20Figma.md)
 
 ![Designing Microinteractions with Figma](https://media.licdn.com/dms/image/v2/D4D0DAQHCpW9FmFDj6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682360217628?e=2147483647&amp;v=beta&amp;t=mGPYmxVztHq_7NA7bBeRzx1p26P2i5a1e2al1K-CY48)
 
@@ -33,13 +35,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma) | 1h 33m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tetiana Gulei]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Figma Prototyping Basics** (6 videos)
+- **3. 2. Simple Microinteractions** (9 videos)
+- **4. 3. Advanced Microinteractions** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Microinteractions in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980)
@@ -125,7 +131,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 1. Figma Prototyping Basics
+### 2. 1. Figma Prototyping Basics
 
 #### Start prototyping in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/start-prototyping-in-figma?u=76281980)
@@ -574,7 +580,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Simple Microinteractions
+### 3. 2. Simple Microinteractions
 
 #### Create an On Click toggle
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980)
@@ -1119,7 +1125,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced Microinteractions
+### 4. 3. Advanced Microinteractions
 
 #### Create interactive components in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980)
@@ -1846,7 +1852,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Feel confident designing your own Figma microinteraction
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/feel-confident-designing-your-own-figma-microinteraction?u=76281980)
@@ -1873,6 +1879,10 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Tetiana Gulei]]
 
 ## Path Context
 

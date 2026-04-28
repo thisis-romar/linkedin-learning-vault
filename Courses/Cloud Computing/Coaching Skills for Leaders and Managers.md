@@ -22,8 +22,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Coaching%20Skills%20for%20Leaders%20and%20Managers.md)
 
 ![Coaching Skills for Leaders and Managers](https://media.licdn.com/dms/image/v2/C560DAQEDfcYbJ5pA8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567122036825?e=2147483647&amp;v=beta&amp;t=gdDRsmrY9ubbZRyFj12mH19RbCq1u3lzwg51VUEolp8)
 
@@ -34,13 +36,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers) | 37m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sara Canaday]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Coaching Fundamentals** (3 videos)
+- **3. 2. Coaching Models** (2 videos)
+- **4. 3. Coaching Skills** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Unlock your team's potential
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/unlock-your-team-s-potential?u=76281980)
@@ -74,7 +80,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Coaching Fundamentals
+### 2. 1. Coaching Fundamentals
 
 #### Coaching basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/coaching-basics?u=76281980)
@@ -354,7 +360,7 @@ created: 2026-04-21
 > **Speakers:** - organizations (1)
 
 
-### 2. Coaching Models
+### 3. 2. Coaching Models
 
 #### Coaching frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/coaching-frameworks?u=76281980)
@@ -552,7 +558,7 @@ created: 2026-04-21
 > **Speakers:** - another (1)
 
 
-### 3. Coaching Skills
+### 4. 3. Coaching Skills
 
 #### Listen as a coach
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980)
@@ -823,7 +829,7 @@ created: 2026-04-21
 > **Speakers:** - many (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/next-steps?u=76281980)
@@ -860,6 +866,10 @@ created: 2026-04-21
 > **URLs:** [saracanaday.com](https://saracanaday.com) (1)
 > **Speakers:** - research (1)
 
+
+## Instructor
+
+- [[Sara Canaday]]
 
 ## Path Context
 

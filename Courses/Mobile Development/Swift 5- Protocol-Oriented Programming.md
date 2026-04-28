@@ -27,8 +27,10 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Swift%205-%20Protocol-Oriented%20Programming.md)
 
 ![Swift 5: Protocol-Oriented Programming](https://media.licdn.com/dms/image/v2/C560DAQF5bvF-v4D6OA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578676972352?e=2147483647&amp;v=beta&amp;t=RQOV86o_U0avPB7P0FEWJ2LL0ng3U4ycraOTPPslLM8)
 
@@ -39,21 +41,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming) | 2h | Advanced | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Károly Nyisztor]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Swift (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Pillars of Protocol Orientation** (10 videos)
+- **3. 2. Protocol-Oriented Programming** (6 videos)
+- **4. 3. Generics** (7 videos)
+- **5. 4. Implement the Weather App Using POP** (10 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Benefits: Protocol-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/benefits-protocol-oriented-programming?u=76281980)
@@ -126,7 +125,7 @@ created: 2026-04-21
 > **Speakers:** - our (1)
 
 
-### 1. The Pillars of Protocol Orientation
+### 2. 1. The Pillars of Protocol Orientation
 
 #### What is protocol-oriented programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-is-protocol-oriented-programming?u=76281980)
@@ -1136,7 +1135,7 @@ created: 2026-04-21
 > **Prerequisites:** initialization (1)
 
 
-### 2. Protocol-Oriented Programming
+### 3. 2. Protocol-Oriented Programming
 
 #### Why protocols?
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980)
@@ -1651,7 +1650,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 3. Generics
+### 4. 3. Generics
 
 #### The importance of generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-importance-of-generics?u=76281980)
@@ -2251,7 +2250,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Implement the Weather App Using POP
+### 5. 4. Implement the Weather App Using POP
 
 #### Weather app design
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980)
@@ -3104,7 +3103,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980)
@@ -3135,6 +3134,18 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Károly Nyisztor]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Swift (Programming Language)
 
 ## Path Context
 

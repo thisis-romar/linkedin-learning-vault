@@ -29,8 +29,10 @@ tags:
   - skill/jquery
   - skill/front-end-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/jQuery%20Essential%20Training.md)
 
 ![jQuery Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHPrtoXQNMIaQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728430867016?e=2147483647&amp;v=beta&amp;t=whwLQwvrwmoJge40s0Z1883kxvvxr2dLnx1Tk6guRO8)
 
@@ -41,24 +43,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205) | 4h 23m | 1K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/jquery-essential-training-5915453)
-
-## Skills Covered
-
-- Web Development
-- jQuery
-- Front-End Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. jQuery Overview** (2 videos)
+- **3. 2. A Quick jQuery Feature Tour** (6 videos)
+- **4. 3. Accessing Page Content** (10 videos)
+- **5. 4. Manipulating Page Content** (8 videos)
+- **6. 5. Event Handling** (5 videos)
+- **7. 6. Effects and Animations** (5 videos)
+- **8. 7. AJAX Operations** (6 videos)
+- **9. 8. jQuery Plugins** (3 videos)
+- **10. 9. Migrating from jQuery** (5 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### jQuery: Write less, do more
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980)
@@ -171,7 +172,7 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 
 
-### 1. jQuery Overview
+### 2. 1. jQuery Overview
 
 #### Overview of jQuery
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980)
@@ -299,7 +300,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. A Quick jQuery Feature Tour
+### 3. 2. A Quick jQuery Feature Tour
 
 #### Enabling jQuery in your web app
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980)
@@ -825,7 +826,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Accessing Page Content
+### 4. 3. Accessing Page Content
 
 #### Introduction to selectors and filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980)
@@ -1878,7 +1879,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. Manipulating Page Content
+### 5. 4. Manipulating Page Content
 
 #### Creating content
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980)
@@ -2926,7 +2927,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat instrumental music) (1)
 
 
-### 5. Event Handling
+### 6. 5. Event Handling
 
 #### jQuery event handling features
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980)
@@ -3382,7 +3383,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Effects and Animations
+### 7. 6. Effects and Animations
 
 #### Introduction to jQuery animations
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-jquery-animations?u=76281980)
@@ -3862,7 +3863,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 7. AJAX Operations
+### 8. 7. AJAX Operations
 
 #### jQuery and AJAX
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980)
@@ -4613,7 +4614,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. jQuery Plugins
+### 9. 8. jQuery Plugins
 
 #### DataTables
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980)
@@ -4978,7 +4979,7 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 
 
-### 9. Migrating from jQuery
+### 10. 9. Migrating from jQuery
 
 #### Preparing to migrate
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980)
@@ -5615,7 +5616,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980)
@@ -5641,6 +5642,21 @@ created: 2026-04-21
 > **Code Identifiers:** jquery (2)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/jquery-essential-training-5915453)
+
+## Skills Covered
+
+- Web Development
+- jQuery
+- Front-End Development
 
 ## Path Context
 

@@ -34,8 +34,10 @@ tags:
   - skill/data-governance
   - skill/data-stewardship
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Steward%20Foundations.md)
 
 ![Data Steward Foundations](https://media.licdn.com/dms/image/v2/C560DAQE6ppB-UXs8LA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626889867307?e=2147483647&amp;v=beta&amp;t=WX-_UU79GUX6cycjtM-RDzGBuP28LzGfUENADzKQQMI)
 
@@ -46,22 +48,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations) | 1h 55m | Beginner | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Chapple]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Governance
-- Data Stewardship
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Data Stewardship Roles** (5 videos)
+- **3. 2. Maintaining Data Quality** (5 videos)
+- **4. 3. Protecting Data Security** (10 videos)
+- **5. 4. Preserving Individual Privacy** (4 videos)
+- **6. 5. Regulatory Compliance** (6 videos)
+- **7. 6. Getting Started** (6 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Data stewardship
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980)
@@ -116,7 +116,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Data Stewardship Roles
+### 2. 1. Data Stewardship Roles
 
 #### What is data stewardship?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980)
@@ -396,7 +396,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Maintaining Data Quality
+### 3. 2. Maintaining Data Quality
 
 #### Implementing master data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980)
@@ -671,7 +671,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Protecting Data Security
+### 4. 3. Protecting Data Security
 
 #### Goals of information security
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980)
@@ -1406,7 +1406,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Preserving Individual Privacy
+### 5. 4. Preserving Individual Privacy
 
 #### Privacy program development
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/privacy-program-development?u=76281980)
@@ -1637,7 +1637,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Regulatory Compliance
+### 6. 5. Regulatory Compliance
 
 #### Today's regulatory landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980)
@@ -2100,7 +2100,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Getting Started
+### 7. 6. Getting Started
 
 #### Data inventory
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980)
@@ -2482,7 +2482,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continuing your studies
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/continuing-your-studies?u=76281980)
@@ -2503,6 +2503,19 @@ created: 2026-04-21
 >
 > **Speakers:** - [mike] (1)
 
+
+## Instructor
+
+- [[Mike Chapple]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Governance
+- Data Stewardship
 
 ## Path Context
 

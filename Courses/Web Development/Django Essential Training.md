@@ -27,32 +27,37 @@ tags:
   - skill/python-programming-language
   - skill/django
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Django%20Essential%20Training.md)
 
 ![Django Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQFTuPPdaSLTcw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733262351081?e=2147483647&amp;v=beta&amp;t=XLe1gkFdRncIi5ol51Ol3-FzcGdvmqaoleeCVU3tSCA)
 
 # Django Essential Training
 
-> Django is a robust and powerful framework with a lot of moving parts. Django is one of the most robust and useful frameworks out there. With Python's popularity increasing and new features being released (such as extensive async support), Django will likely increase even more its presence at many top-quality companies.
-Although starting a new project can be quite easy, there is a lot to uncover. T
+> Django is a robust and powerful framework with a lot of moving parts. Django is one of the most robust and useful frameworks out there. With Python's popularity increasing and new features being released (such as extensive async support), Django will likely increase even more its presence at many top-quality companies. Although starting a new project can be quite easy, there is a lot to uncover. T
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632) | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/django-esst-2894047/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Django
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Starting Your Django Project** (4 videos)
+- **3. 2. Django Built-In User Management** (3 videos)
+- **4. 3. How Django Interacts with Databases** (6 videos)
+- **5. 4. Building Dynamic Webpages** (6 videos)
+- **6. 5. Building Robust Front-Ends in Django** (5 videos)
+- **7. 6. Django Forms: Validation Shouldn’t Be Hard** (5 videos)
+- **8. 7. Working with Existing Data** (4 videos)
+- **9. 8. Using Django to Store and Display User-Specific Data** (5 videos)
+- **10. 9. Login, Logout, and Signup Are Simple** (5 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is Django?
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=76281980)
@@ -195,7 +200,7 @@ Although starting a new project can be quite easy, there is a lot to uncover. T
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Starting Your Django Project
+### 2. 1. Starting Your Django Project
 
 #### Creating a new Django project
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-new-django-project?u=76281980)
@@ -500,7 +505,7 @@ Although starting a new project can be quite easy, there is a lot to uncover. T
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Django Built-In User Management
+### 3. 2. Django Built-In User Management
 
 #### Django admin: Easily visualizing and creating data
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/django-admin-easily-visualizing-and-creating-data?u=76281980)
@@ -748,7 +753,7 @@ Although starting a new project can be quite easy, there is a lot to uncover. T
 > **Definitions:** defined as (1)
 
 
-### 3. How Django Interacts with Databases
+### 4. 3. How Django Interacts with Databases
 
 #### Introduction to ORMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-to-orms?u=76281980)
@@ -1183,7 +1188,7 @@ Although starting a new project can be quite easy, there is a lot to uncover. T
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Building Dynamic Webpages
+### 5. 4. Building Dynamic Webpages
 
 #### Creating a dynamic template
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980)
@@ -1712,7 +1717,7 @@ Although starting a new project can be quite easy, there is a lot to uncover. T
 > **UI Navigation:** go to (1)
 
 
-### 5. Building Robust Front-Ends in Django
+### 6. 5. Building Robust Front-Ends in Django
 
 #### Static files in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980)
@@ -2157,7 +2162,7 @@ Although starting a new project can be quite easy, there is a lot to uncover. T
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Django Forms: Validation Shouldn’t Be Hard
+### 7. 6. Django Forms: Validation Shouldn’t Be Hard
 
 #### Create a webpage
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980)
@@ -2575,7 +2580,7 @@ Although starting a new project can be quite easy, there is a lot to uncover. T
 > **UI Navigation:** go to (1)
 
 
-### 7. Working with Existing Data
+### 8. 7. Working with Existing Data
 
 #### The U in the CRUD: Updating data
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/the-u-in-the-crud-updating-data?u=76281980)
@@ -2961,7 +2966,7 @@ Although starting a new project can be quite easy, there is a lot to uncover. T
 > **Exercise Files:** template (1)
 
 
-### 8. Using Django to Store and Display User-Specific Data
+### 9. 8. Using Django to Store and Display User-Specific Data
 
 #### How to update data stored in your database
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980)
@@ -3364,7 +3369,7 @@ Although starting a new project can be quite easy, there is a lot to uncover. T
 > **Env Vars:** url (1)
 
 
-### 9. Login, Logout, and Signup Are Simple
+### 10. 9. Login, Logout, and Signup Are Simple
 
 #### Adding login and logout pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980)
@@ -3856,7 +3861,7 @@ Although starting a new project can be quite easy, there is a lot to uncover. T
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980)
@@ -3893,6 +3898,16 @@ Although starting a new project can be quite easy, there is a lot to uncover. T
 > **Env Vars:** rest (1)
 > **Speakers:** - [leticia] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/django-esst-2894047/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Django
 
 ## Path Context
 

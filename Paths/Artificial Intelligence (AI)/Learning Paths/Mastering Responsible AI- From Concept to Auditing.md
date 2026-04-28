@@ -49,8 +49,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Mastering%20Responsible%20AI-%20From%20Concept%20to%20Auditing.md)
 
 # Mastering Responsible AI: From Concept to Auditing
 

@@ -26,8 +26,10 @@ tags:
   - topic/network-and-system-administration
   - skill/linux-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/LPIC-1%20Exam%20102%20(Version%205.0)%20Cert%20Prep.md)
 
 ![LPIC-1 Exam 102 (Version 5.0) Cert Prep](https://media.licdn.com/dms/image/v2/C4D0DAQGZeN1PtFQy8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584040236526?e=2147483647&amp;v=beta&amp;t=SbPeUTqLt28MGeJdb8ImfS6qDhWYAXx_euuH6zBqyEI)
 
@@ -38,21 +40,29 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep) | 5h 22m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Grant McWilliams]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Linux System Administration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Customize and Use the Shell Environment** (5 videos)
+- **3. 2. Write Simple Scripts** (10 videos)
+- **4. 3. Install and Configure X11** (6 videos)
+- **5. 4. Manage User and Group Accounts** (7 videos)
+- **6. 5. Automate System Administration Tasks by Scheduling Jobs** (4 videos)
+- **7. 6. Localization and System Time** (7 videos)
+- **8. 7. System Logging** (8 videos)
+- **9. 8. Mail Transfer Agent (MTA) Basics** (8 videos)
+- **10. 9. Manage Printers and Printing** (3 videos)
+- **11. 10. Fundamentals of Internet Protocols** (5 videos)
+- **12. 11. Persistent Network Configuration** (5 videos)
+- **13. 12. Basic Network Troubleshooting** (4 videos)
+- **14. 13. Configure Client-Side DNS** (5 videos)
+- **15. 14. Perform Security Administration Tasks** (6 videos)
+- **16. 15. Securing Data with Encryption** (5 videos)
+- **17. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/welcome?u=76281980)
@@ -524,7 +534,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### 1. Customize and Use the Shell Environment
+### 2. 1. Customize and Use the Shell Environment
 
 #### Set environment variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-environment-variables?u=76281980)
@@ -1096,7 +1106,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Write Simple Scripts
+### 3. 2. Write Simple Scripts
 
 #### Introduction to Bash
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/introduction-to-bash?u=76281980)
@@ -2038,7 +2048,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Install and Configure X11
+### 4. 3. Install and Configure X11
 
 #### X11 architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980)
@@ -2699,7 +2709,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 4. Manage User and Group Accounts
+### 5. 4. Manage User and Group Accounts
 
 #### Add and removing users
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/add-and-removing-users?u=76281980)
@@ -3488,7 +3498,7 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 
 
-### 5. Automate System Administration Tasks by Scheduling Jobs
+### 6. 5. Automate System Administration Tasks by Scheduling Jobs
 
 #### Reccuring user jobs using cron
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/reccuring-user-jobs-using-cron?u=76281980)
@@ -3843,7 +3853,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Localization and System Time
+### 7. 6. Localization and System Time
 
 #### Set the system date, time, and timezone
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-the-system-date-time-and-timezone?u=76281980)
@@ -4472,7 +4482,7 @@ created: 2026-04-21
 > **Analogies:** for instance (2)
 
 
-### 7. System Logging
+### 8. 7. System Logging
 
 #### Locate and interpret system log files
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980)
@@ -5085,7 +5095,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Mail Transfer Agent (MTA) Basics
+### 9. 8. Mail Transfer Agent (MTA) Basics
 
 #### About email
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-email?u=76281980)
@@ -5682,7 +5692,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Manage Printers and Printing
+### 10. 9. Manage Printers and Printing
 
 #### Configure local and remote printers with CUPS
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980)
@@ -5995,7 +6005,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 10. Fundamentals of Internet Protocols
+### 11. 10. Fundamentals of Internet Protocols
 
 #### About private and public "dotted quad" IP addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-private-and-public-dotted-quad-ip-addresses?u=76281980)
@@ -6382,7 +6392,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Persistent Network Configuration
+### 12. 11. Persistent Network Configuration
 
 #### Gather network information
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980)
@@ -6872,7 +6882,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Basic Network Troubleshooting
+### 13. 12. Basic Network Troubleshooting
 
 #### About routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-routing?u=76281980)
@@ -7239,7 +7249,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1), you'll need (1)
 
 
-### 13. Configure Client-Side DNS
+### 14. 13. Configure Client-Side DNS
 
 #### Query remote DNS servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/query-remote-dns-servers?u=76281980)
@@ -7614,7 +7624,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 14. Perform Security Administration Tasks
+### 15. 14. Perform Security Administration Tasks
 
 #### Use Nmap and netstat to audit network services
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980)
@@ -8238,7 +8248,7 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 
 
-### 15. Securing Data with Encryption
+### 16. 15. Securing Data with Encryption
 
 #### Perform basic OpenSSH 2 client configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980)
@@ -8679,7 +8689,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1), configure (1), set up (1)
 
 
-### Conclusion
+### 17. Conclusion
 
 #### Taking the exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/taking-the-exam?u=76281980)
@@ -8737,6 +8747,18 @@ created: 2026-04-21
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Grant McWilliams]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Linux System Administration
 
 ## Path Context
 

@@ -38,8 +38,10 @@ tags:
   - skill/reinforcement-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning%20Foundations.md)
 
 ![Reinforcement Learning Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQHWXzP1EhG6xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611181236412?e=2147483647&amp;v=beta&amp;t=95vksPogY88U7T5Qa5Ic1FSbmji1q24X4xfQNaSLJ_8)
 
@@ -50,19 +52,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations) | 44m | Intermediate | 86K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Khaulat Abdulhakeem]]
-
-## Skills Covered
-
-- Machine Learning
-- Reinforcement Learning
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Started with Reinforcement Learning** (4 videos)
+- **3. 2. Reinforcement Learning Algorithms** (3 videos)
+- **4. 3. Monte Carlo Method** (6 videos)
+- **5. 4. Temporal Difference Methods** (4 videos)
+- **6. 5. Modified Forms of Reinforcement** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Reinforcement learning in a nutshell
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/reinforcement-learning-in-a-nutshell-23067976?u=76281980)
@@ -92,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - picture (1)
 
 
-### 1. Getting Started with Reinforcement Learning
+### 2. 1. Getting Started with Reinforcement Learning
 
 #### Terms in reinforcement learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980)
@@ -374,7 +376,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Reinforcement Learning Algorithms
+### 3. 2. Reinforcement Learning Algorithms
 
 #### Monte Carlo method
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-method?u=76281980)
@@ -471,7 +473,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Monte Carlo Method
+### 4. 3. Monte Carlo Method
 
 #### The setting
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting-2?u=76281980)
@@ -683,7 +685,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Temporal Difference Methods
+### 5. 4. Temporal Difference Methods
 
 #### The setting
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting?u=76281980)
@@ -872,7 +874,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Modified Forms of Reinforcement
+### 6. 5. Modified Forms of Reinforcement
 
 #### Deep reinforcement learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980)
@@ -959,7 +961,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Your reinforcement learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980)
@@ -1004,6 +1006,16 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [khaulat] (1)
 
+
+## Instructor
+
+- [[Khaulat Abdulhakeem]]
+
+## Skills Covered
+
+- Machine Learning
+- Reinforcement Learning
+- Artificial Intelligence (AI)
 
 ## Path Context
 

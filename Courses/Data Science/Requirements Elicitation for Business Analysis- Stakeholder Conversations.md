@@ -33,8 +33,10 @@ tags:
   - skill/requirements-gathering
   - skill/business-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Requirements%20Elicitation%20for%20Business%20Analysis-%20Stakeholder%20Conversations.md)
 
 ![Requirements Elicitation for Business Analysis: Stakeholder Conversations](https://media.licdn.com/dms/image/v2/D560DAQGI7CrhTI-Ouw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706571770307?e=2147483647&amp;v=beta&amp;t=CUlQFf1RdD2uNr4buBXE37w_24bPqnuNno6iT0Z35og)
 
@@ -45,23 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations) | 1h 18m | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Angela Wick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Stakeholder Engagement
-- Requirements Gathering
-- Business Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Requirements Conversations** (3 videos)
+- **3. 2. Prepare for a Requirements Conversation** (5 videos)
+- **4. 3. Conduct Effective Conversations** (14 videos)
+- **5. 4. Additional Tips for Your Conversations** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Discover requirements of stakeholders
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/discover-requirements-of-stakeholders?u=76281980)
@@ -87,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - requirements (1)
 
 
-### 1. Introduction to Requirements Conversations
+### 2. 1. Introduction to Requirements Conversations
 
 #### When to use interviewing and conversations as a technique
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/when-to-use-interviewing-and-conversations-as-a-technique?u=76281980)
@@ -275,7 +272,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 2. Prepare for a Requirements Conversation
+### 3. 2. Prepare for a Requirements Conversation
 
 #### Define the requirements conversation's purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/define-the-requirements-conversation-s-purpose?u=76281980)
@@ -611,7 +608,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 3. Conduct Effective Conversations
+### 4. 3. Conduct Effective Conversations
 
 #### Examine an example requirements conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/examine-an-example-requirements-conversation?u=76281980)
@@ -1683,7 +1680,7 @@ created: 2026-04-21
 > **Speakers:** - requirements (1)
 
 
-### 4. Additional Tips for Your Conversations
+### 5. 4. Additional Tips for Your Conversations
 
 #### Acknowledge the stakeholders' time and input
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980)
@@ -1852,7 +1849,7 @@ created: 2026-04-21
 > **Speakers:** - generative (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Keep practicing
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/keep-practicing?u=76281980)
@@ -1893,6 +1890,20 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Angela Wick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Stakeholder Engagement
+- Requirements Gathering
+- Business Analysis
 
 ## Path Context
 

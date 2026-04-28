@@ -37,37 +37,32 @@ tags:
   - skill/machine-transcription
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Video%20Transcriber%20with%20Node.js%20and%20Google%20AI%20Speech-To-Text%20API.md)
 
 ![Building a Video Transcriber with Node.js and Google AI Speech-To-Text API](https://media.licdn.com/dms/image/v2/D4D0DAQE-HeK__tSoEA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702508337928?e=2147483647&amp;v=beta&amp;t=-bMuKzkCcu3voQwZlYlmP5R5KtIoBnRO6zo-UoKojOU)
 
 # Building a Video Transcriber with Node.js and Google AI Speech-To-Text API
 
-> Formerly complicated tasks like audio transcription for videos have become much simpler thanks to the rise of APIs like Google's Speech-to-Text. But while this exciting new tool can handle transcription, if you want to transcribe a lot of audio, your code still needs to set up connections and authentication and pipe the information back and forth.  In this course, instructor Fikayo Adepoju shows y
+> Formerly complicated tasks like audio transcription for videos have become much simpler thanks to the rise of APIs like Google's Speech-to-Text. But while this exciting new tool can handle transcription, if you want to transcribe a lot of audio, your code still needs to set up connections and authentication and pipe the information back and forth. In this course, instructor Fikayo Adepoju shows yo
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api) | 1h 9m | Intermediate | 2608K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fikayo Adepoju]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/building-a-video-transcriber-with-nodejs-and-google-ai-speech-to-text-api-4485002)
-
-## Skills Covered
-
-- AI Software Development
-- Artificial Intelligence (AI)
-- Machine Transcription
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Setting Up Google AI Speech-to-Text** (5 videos)
+- **3. 2. Building the Video Transcriber Interface** (5 videos)
+- **4. 3. Building the Backend: Connecting to the AI** (5 videos)
+- **5. 4. Bringing It All Together** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI-powered video transcription
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980)
@@ -165,7 +160,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting Up Google AI Speech-to-Text
+### 2. 1. Setting Up Google AI Speech-to-Text
 
 #### Signing up for a Google Cloud account
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980)
@@ -446,7 +441,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Building the Video Transcriber Interface
+### 3. 2. Building the Video Transcriber Interface
 
 #### Cloning the seed project
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980)
@@ -807,7 +802,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Building the Backend: Connecting to the AI
+### 4. 3. Building the Backend: Connecting to the AI
 
 #### Building out the Express.js API
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980)
@@ -1362,7 +1357,7 @@ created: 2026-04-21
 > **Tools:** terminal (3)
 
 
-### 4. Bringing It All Together
+### 5. 4. Bringing It All Together
 
 #### Connecting the front end to the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/connecting-the-front-end-to-the-api?u=76281980)
@@ -1707,7 +1702,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/next-steps?u=76281980)
@@ -1735,6 +1730,22 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - [fikayo] (1)
 
+
+## Instructor
+
+- [[Fikayo Adepoju]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/building-a-video-transcriber-with-nodejs-and-google-ai-speech-to-text-api-4485002)
+
+## Skills Covered
+
+- AI Software Development
+- Artificial Intelligence (AI)
+- Machine Transcription
+- Node.js
 
 ## Path Context
 

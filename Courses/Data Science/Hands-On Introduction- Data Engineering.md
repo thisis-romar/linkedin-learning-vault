@@ -44,40 +44,31 @@ tags:
   - topic/cloud-computing
   - skill/data-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands-On%20Introduction-%20Data%20Engineering.md)
 
 ![Hands-On Introduction: Data Engineering](https://media.licdn.com/dms/image/v2/D4E0DAQF2-XpACOT2ew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713900511583?e=2147483647&amp;v=beta&amp;t=CFp3O8T0c6lKkjCy01p6HDN8xloYCURODyde3QOYlNw)
 
 # Hands-On Introduction: Data Engineering
 
-> Suggested prerequisites
-
-Know basic Python data types, control structures, functions, and classes.
-Have a good enough understanding of SQL to write queries to extract, transform, and load data in Apache Airflow pipelines.
-Have some knowledge of Bash script or Unix for basic Airflow installation and administration.
-Be familiar with text editors.
-Know some of the basic principles behind cloud comput
+> Suggested prerequisites Know basic Python data types, control structures, functions, and classes. Have a good enough understanding of SQL to write queries to extract, transform, and load data in Apache Airflow pipelines. Have some knowledge of Bash script or Unix for basic Airflow installation and administration. Be familiar with text editors. Know some of the basic principles behind cloud computi
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering) | 1h 33m | Beginner | 141K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Vinoo Ganesh]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-introduction-data-engineering-4395021/codespaces)
-
-## Skills Covered
-
-- Data Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Getting Your Bearings** (4 videos)
+- **3. 2. Airflow Introduction** (6 videos)
+- **4. 3. Basic ETL in Airflow** (11 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Hands-on data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980)
@@ -297,7 +288,7 @@ Know some of the basic principles behind cloud comput
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Your Bearings
+### 2. 1. Getting Your Bearings
 
 #### Data engineering and data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980)
@@ -535,7 +526,7 @@ Know some of the basic principles behind cloud comput
 > **Speakers:** - now (1)
 
 
-### 2. Airflow Introduction
+### 3. 2. Airflow Introduction
 
 #### Introduction to Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980)
@@ -1158,7 +1149,7 @@ Know some of the basic principles behind cloud comput
 > **File Paths:** two_task_dag.py (1)
 
 
-### 3. Basic ETL in Airflow
+### 4. 3. Basic ETL in Airflow
 
 #### ETL in Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/etl-in-airflow?u=76281980)
@@ -2159,7 +2150,7 @@ Know some of the basic principles behind cloud comput
 > **Tools:** command line (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### The future of data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980)
@@ -2221,6 +2212,19 @@ Know some of the basic principles behind cloud comput
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
+
+## Instructor
+
+- [[Vinoo Ganesh]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-introduction-data-engineering-4395021/codespaces)
+
+## Skills Covered
+
+- Data Engineering
 
 ## Path Context
 

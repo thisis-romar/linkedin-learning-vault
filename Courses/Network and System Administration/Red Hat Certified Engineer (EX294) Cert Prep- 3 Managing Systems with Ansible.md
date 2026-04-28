@@ -28,8 +28,10 @@ tags:
   - skill/red-hat-enterprise-linux-rhel
   - skill/ansible
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20Engineer%20(EX294)%20Cert%20Prep-%203%20Managing%20Systems%20with%20Ansible.md)
 
 ![Red Hat Certified Engineer (EX294) Cert Prep: 3 Managing Systems with Ansible](https://media.licdn.com/dms/image/v2/C4E0DAQGuseBEfggfSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599103236612?e=2147483647&amp;v=beta&amp;t=YZdUxVefTZZS9vAHEjL8giaWWsaeRMwN6bk3XdU7wok)
 
@@ -40,22 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible) | 2h 14m | Intermediate | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Grant McWilliams]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Red Hat Enterprise Linux (RHEL)
-- Ansible
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Ansible Roles** (6 videos)
+- **3. 2. Using Ansible in Large Environments** (4 videos)
+- **4. 3. Templating with Jinja2** (4 videos)
+- **5. 4. Managing Software with Ansible** (3 videos)
+- **6. 5. Managing Users with Ansible** (4 videos)
+- **7. 6. Managing Processes and Tasks** (3 videos)
+- **8. 7. Troubleshooting Ansible** (2 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/introduction?u=76281980)
@@ -475,7 +476,7 @@ created: 2026-04-21
 > **Env Vars:** url (1)
 
 
-### 1. Ansible Roles
+### 2. 1. Ansible Roles
 
 #### Directory structure best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980)
@@ -1086,7 +1087,7 @@ created: 2026-04-21
 > **URLs:** [ansible.com](https://ansible.com) (1)
 
 
-### 2. Using Ansible in Large Environments
+### 3. 2. Using Ansible in Large Environments
 
 #### Using dynamic inventory plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980)
@@ -1469,7 +1470,7 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 
 
-### 3. Templating with Jinja2
+### 4. 3. Templating with Jinja2
 
 #### Templating with Jinja2
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980)
@@ -1930,7 +1931,7 @@ created: 2026-04-21
 > **Code Identifiers:** fav_car (1), car_count (1)
 
 
-### 4. Managing Software with Ansible
+### 5. 4. Managing Software with Ansible
 
 #### Modules related to software management
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980)
@@ -2291,7 +2292,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 5. Managing Users with Ansible
+### 6. 5. Managing Users with Ansible
 
 #### Modules related to user management
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980)
@@ -2665,7 +2666,7 @@ created: 2026-04-21
 > **Analogies:** such as (2)
 
 
-### 6. Managing Processes and Tasks
+### 7. 6. Managing Processes and Tasks
 
 #### Modules for managing services and tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980)
@@ -3038,7 +3039,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 7. Troubleshooting Ansible
+### 8. 7. Troubleshooting Ansible
 
 #### Managing Ansible logging and output
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-ansible-logging-and-output?u=76281980)
@@ -3283,7 +3284,7 @@ created: 2026-04-21
 > **Warnings:** troubleshoot (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Taking the exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/taking-the-exam?u=76281980)
@@ -3347,6 +3348,19 @@ created: 2026-04-21
 > **Best Practices:** the key is (1)
 > **Speakers:** - [grant (1)
 
+
+## Instructor
+
+- [[Grant McWilliams]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Red Hat Enterprise Linux (RHEL)
+- Ansible
 
 ## Path Context
 

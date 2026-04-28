@@ -29,8 +29,10 @@ tags:
   - topic/network-and-system-administration
   - skill/it-architectures
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Introduction%20to%20IT%20Architecture.md)
 
 ![Introduction to IT Architecture](https://media.licdn.com/dms/image/v2/D4D0DAQHwwD_EPkpNgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731958777051?e=2147483647&amp;v=beta&amp;t=LGwx1QQYRs-WV97g470yotwvzI-s64dKDmQhWq26hl0)
 
@@ -41,21 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192) | 1h 54m | Beginner | 62K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Pultorak]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- IT architectures
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Overview of IT Architecture** (6 videos)
+- **3. 2. Context, Roles, Activities, and Frameworks** (5 videos)
+- **4. 3. Achieving the Goals of IT Architecture** (4 videos)
+- **5. 4. Contribution to IT Practices** (7 videos)
+- **6. 5. Advances in IT Architecture** (10 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Stand apart with IT architecture know-how
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/stand-apart-with-it-architecture-know-how?u=76281980)
@@ -86,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - picture (1)
 
 
-### 1. Overview of IT Architecture
+### 2. 1. Overview of IT Architecture
 
 #### IT infrastructure: The product of IT architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980)
@@ -588,7 +588,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Context, Roles, Activities, and Frameworks
+### 3. 2. Context, Roles, Activities, and Frameworks
 
 #### IT architecture in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980)
@@ -965,7 +965,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 3. Achieving the Goals of IT Architecture
+### 4. 3. Achieving the Goals of IT Architecture
 
 #### Reducing unnecessary complexity
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980)
@@ -1276,7 +1276,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 4. Contribution to IT Practices
+### 5. 4. Contribution to IT Practices
 
 #### IT risk management
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980)
@@ -1682,7 +1682,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 5. Advances in IT Architecture
+### 6. 5. Advances in IT Architecture
 
 #### Hybrid and multicloud IT architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980)
@@ -2250,7 +2250,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Further your journey into IT architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980)
@@ -2302,6 +2302,18 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[David Pultorak]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- IT architectures
 
 ## Path Context
 

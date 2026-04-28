@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20AI%20for%20Business%20Analysis.md)
 
 ![Learning AI for Business Analysis](https://media.licdn.com/dms/image/v2/D4E0DAQE1f-xThIzIZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733504337917?e=2147483647&amp;v=beta&amp;t=eWgwSfD_xqOChseV1mYXY0djzzMPPk57HG91TALAb1M)
 
@@ -44,24 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis) | 1h 38m | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Angela Wick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business Analysis
-- AI for Business
-- Artificial Intelligence (AI)
-- Business Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (6 videos)
+- **2. 1. AI: Language Interactions and Processing** (5 videos)
+- **3. 2. AI: Processing Non-Language Things** (9 videos)
+- **4. 3. Impact to Requirements and Business Analysis** (5 videos)
+- **5. 4. Technique Highlights** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Transform your business analysis career
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/transform-your-business-analysis-career?u=76281980)
@@ -386,7 +382,7 @@ created: 2026-04-21
 > **Speakers:** - understanding (1)
 
 
-### 1. AI: Language Interactions and Processing
+### 2. 1. AI: Language Interactions and Processing
 
 #### Generative AI for business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980)
@@ -690,7 +686,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 2. AI: Processing Non-Language Things
+### 3. 2. AI: Processing Non-Language Things
 
 #### AI outside the bounds of traditional generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-outside-the-bounds-of-traditional-generative-ai?u=76281980)
@@ -1197,7 +1193,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 3. Impact to Requirements and Business Analysis
+### 4. 3. Impact to Requirements and Business Analysis
 
 #### Linking AI capabilities together for business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980)
@@ -1533,7 +1529,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 4. Technique Highlights
+### 5. 4. Technique Highlights
 
 #### Experiments and hypothesis in AI business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980)
@@ -1788,7 +1784,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps with AI in business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/next-steps-with-ai-in-business-analysis-work?u=76281980)
@@ -1818,6 +1814,21 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - ai (1)
 
+
+## Instructor
+
+- [[Angela Wick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business Analysis
+- AI for Business
+- Artificial Intelligence (AI)
+- Business Analysis
 
 ## Path Context
 

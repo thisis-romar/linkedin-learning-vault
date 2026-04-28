@@ -28,8 +28,10 @@ tags:
   - skill/sustainability
   - skill/microsoft-s-cloud-for-sustainability
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Performing%20a%20Sustainability%20Audit%20with%20Microsoft%20Sustainability%20Manager.md)
 
 ![Performing a Sustainability Audit with Microsoft Sustainability Manager](https://media.licdn.com/dms/image/v2/D4E0DAQHf-0PhG9Y_ng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727465768247?e=2147483647&amp;v=beta&amp;t=DhQhKXR9EFQJMXbRnRvBk7BWBINjCJP-Orp0RR_bJwA)
 
@@ -40,18 +42,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager) | 56m | Intermediate | 29K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fawad Qureshi]]
-
-## Skills Covered
-
-- Sustainability
-- Microsoft’s Cloud for Sustainability
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Explore and Overview of Case Study** (1 videos)
+- **3. 2. Well-Architected for Microsoft Cloud for Sustainability** (6 videos)
+- **4. 3. Deploying Microsoft Cloud for Sustainability** (2 videos)
+- **5. 4. Microsoft Sustainability Manager** (11 videos)
+- **6. 5. Working with the ESG Data Model** (3 videos)
+- **7. 6. Managing the ESG Value Chain** (2 videos)
+- **8. 7. Sustainable IT Practices** (2 videos)
+- **9. 8. Preview Features** (1 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to Microsoft Cloud for Sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980)
@@ -97,7 +103,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 1. Explore and Overview of Case Study
+### 2. 1. Explore and Overview of Case Study
 
 #### Case study overview: Global supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980)
@@ -126,7 +132,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Well-Architected for Microsoft Cloud for Sustainability
+### 3. 2. Well-Architected for Microsoft Cloud for Sustainability
 
 #### Building and operating sustainability solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980)
@@ -399,7 +405,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Deploying Microsoft Cloud for Sustainability
+### 4. 3. Deploying Microsoft Cloud for Sustainability
 
 #### Acquiring licenses
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980)
@@ -493,7 +499,7 @@ created: 2026-04-21
 > **Speakers:** - next (1)
 
 
-### 4. Microsoft Sustainability Manager
+### 5. 4. Microsoft Sustainability Manager
 
 #### Walkthrough of MSM
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980)
@@ -1159,7 +1165,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Working with the ESG Data Model
+### 6. 5. Working with the ESG Data Model
 
 #### Introducing Dataverse
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introducing-dataverse?u=76281980)
@@ -1260,7 +1266,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Managing the ESG Value Chain
+### 7. 6. Managing the ESG Value Chain
 
 #### Understanding the ESG value chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/understanding-the-esg-value-chain?u=76281980)
@@ -1321,7 +1327,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Sustainable IT Practices
+### 8. 7. Sustainable IT Practices
 
 #### Measuring the carbon footprint of your IT infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/measuring-the-carbon-footprint-of-your-it-infrastructure?u=76281980)
@@ -1360,7 +1366,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 8. Preview Features
+### 9. 8. Preview Features
 
 #### Preview features not covered in the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980)
@@ -1400,7 +1406,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980)
@@ -1446,6 +1452,15 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Fawad Qureshi]]
+
+## Skills Covered
+
+- Sustainability
+- Microsoft’s Cloud for Sustainability
 
 ## Path Context
 

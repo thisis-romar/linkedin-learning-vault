@@ -37,8 +37,10 @@ tags:
   - skill/calculus
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20Foundations-%20Calculus.md)
 
 ![Machine Learning Foundations: Calculus](https://media.licdn.com/dms/image/v2/C4E0DAQFYJniN5M1Ueg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677878851185?e=2147483647&amp;v=beta&amp;t=DPmoUYrLrNeGw8tD3mCqcm5wOrScZewhUpnAiO72B5A)
 
@@ -49,23 +51,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus) | 1h 31m | Beginner | 207K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Terezija Semenski]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- Calculus
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Calculus** (4 videos)
+- **3. 2. Derivatives and Differentiation** (8 videos)
+- **4. 3. Multivariate Calculus** (4 videos)
+- **5. 4. Machine Learning Gradients** (4 videos)
+- **6. 5. Introduction to Integral Calculus** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn calculus, a foundation for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/learn-calculus-a-foundation-for-machine-learning?u=76281980)
@@ -118,7 +116,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Calculus
+### 2. 1. Introduction to Calculus
 
 #### Defining calculus
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-calculus?u=76281980)
@@ -396,7 +394,7 @@ created: 2026-04-21
 > **Speakers:** - limits (1)
 
 
-### 2. Derivatives and Differentiation
+### 3. 2. Derivatives and Differentiation
 
 #### Introduction to derivatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/introduction-to-derivatives?u=76281980)
@@ -910,7 +908,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Multivariate Calculus
+### 4. 3. Multivariate Calculus
 
 #### Partial derivatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/partial-derivatives?u=76281980)
@@ -1211,7 +1209,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Machine Learning Gradients
+### 5. 4. Machine Learning Gradients
 
 #### Single-point regression gradient
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/single-point-regression-gradient?u=76281980)
@@ -1493,7 +1491,7 @@ created: 2026-04-21
 > **Speakers:** - finding (1)
 
 
-### 5. Introduction to Integral Calculus
+### 6. 5. Introduction to Integral Calculus
 
 #### Defining integral calculus
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-integral-calculus?u=76281980)
@@ -1785,7 +1783,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980)
@@ -1813,6 +1811,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [terezija] (1)
 
+
+## Instructor
+
+- [[Terezija Semenski]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- Calculus
+- Artificial Intelligence (AI)
 
 ## Path Context
 

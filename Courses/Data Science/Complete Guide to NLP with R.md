@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20NLP%20with%20R.md)
 
 ![Complete Guide to NLP with R](https://media.licdn.com/dms/image/v2/D560DAQFLD7mdGLaSfw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722010134160?e=2147483647&amp;v=beta&amp;t=sRHBezRhvt01iGAc-5GnbR9a6qBcW2Q5-NYeykUGc7g)
 
@@ -45,23 +47,33 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r) | 5h 4m | Advanced | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mark Niemann-Ross]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- R (Programming Language)
-- Artificial Intelligence (AI)
-- Natural Language Processing (NLP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Up and Running with tm** (4 videos)
+- **3. 2. Corpora and Sources** (5 videos)
+- **4. 3. Working with NLP Metadata** (3 videos)
+- **5. 4. Preprocessing Text in Preparation for NLP** (7 videos)
+- **6. 5. Create Structured Data** (4 videos)
+- **7. 6. Apply Statistics to Text** (3 videos)
+- **8. 7. Sentiment Analysis** (4 videos)
+- **9. 8. Visualizing Natural Language Processing** (3 videos)
+- **10. 9. Conclusion** (1 videos)
+- **11. 10. Introduction to NLP Tidytext R** (2 videos)
+- **12. 11. Use of Tidytext for NLP** (9 videos)
+- **13. 12. Conclusion** (1 videos)
+- **14. 13. Introduction to NLP with Quanteda R** (2 videos)
+- **15. 14. Getting Started with Quanteda** (2 videos)
+- **16. 15. Understanding Corpora** (5 videos)
+- **17. 16. Understanding Tokens** (4 videos)
+- **18. 17. Understanding Document-Feature Matrix (DFM)** (3 videos)
+- **19. 18. Analysis and Visualization** (6 videos)
+- **20. 19. Conclusion** (1 videos)
+- **21. 20. Capstone Project** (2 videos)
+
+### 1. Introduction
 
 #### Welcome to natural language processing with R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980)
@@ -171,7 +183,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Up and Running with tm
+### 2. 1. Up and Running with tm
 
 #### What is tm and why do you need it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980)
@@ -488,7 +500,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Corpora and Sources
+### 3. 2. Corpora and Sources
 
 #### Understanding corpora and sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-corpora-and-sources?u=76281980)
@@ -941,7 +953,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. Working with NLP Metadata
+### 4. 3. Working with NLP Metadata
 
 #### Working with document metadata
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/working-with-document-metadata?u=76281980)
@@ -1323,7 +1335,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Preprocessing Text in Preparation for NLP
+### 5. 4. Preprocessing Text in Preparation for NLP
 
 #### Transformations
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/transformations?u=76281980)
@@ -1909,7 +1921,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Create Structured Data
+### 6. 5. Create Structured Data
 
 #### Understanding the document-term matrix
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-the-document-term-matrix?u=76281980)
@@ -2256,7 +2268,7 @@ created: 2026-04-21
 > **Speakers:** - [host] (1)
 
 
-### 6. Apply Statistics to Text
+### 7. 6. Apply Statistics to Text
 
 #### Word and document frequency
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-and-document-frequency?u=76281980)
@@ -2497,7 +2509,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 7. Sentiment Analysis
+### 8. 7. Sentiment Analysis
 
 #### What is sentiment analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-sentiment-analysis?u=76281980)
@@ -2846,7 +2858,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Visualizing Natural Language Processing
+### 9. 8. Visualizing Natural Language Processing
 
 #### Plotting text mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-text-mining?u=76281980)
@@ -3040,7 +3052,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### 10. 9. Conclusion
 
 #### Your next steps in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980)
@@ -3100,7 +3112,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 10. Introduction to NLP Tidytext R
+### 11. 10. Introduction to NLP Tidytext R
 
 #### Welcome to natural language processing with R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r?u=76281980)
@@ -3212,7 +3224,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Use of Tidytext for NLP
+### 12. 11. Use of Tidytext for NLP
 
 #### How to think like tidytext
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980)
@@ -4020,7 +4032,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Conclusion
+### 13. 12. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980)
@@ -4059,7 +4071,7 @@ created: 2026-04-21
 > **Speakers:** - [mark] (1)
 
 
-### 13. Introduction to NLP with Quanteda R
+### 14. 13. Introduction to NLP with Quanteda R
 
 #### Welcome to natural language processing with R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442823?u=76281980)
@@ -4166,7 +4178,7 @@ created: 2026-04-21
 > **Analogies:** such as (2)
 
 
-### 14. Getting Started with Quanteda
+### 15. 14. Getting Started with Quanteda
 
 #### Introduction to quanteda
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980)
@@ -4292,7 +4304,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 15. Understanding Corpora
+### 16. 15. Understanding Corpora
 
 #### Create a quanteda corpus
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980)
@@ -4829,7 +4841,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 16. Understanding Tokens
+### 17. 16. Understanding Tokens
 
 #### Corpus and tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-and-tokens?u=76281980)
@@ -5175,7 +5187,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 17. Understanding Document-Feature Matrix (DFM)
+### 18. 17. Understanding Document-Feature Matrix (DFM)
 
 #### Corpus, tokens, and DFM
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-tokens-and-dfm?u=76281980)
@@ -5497,7 +5509,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1), for example (1)
 
 
-### 18. Analysis and Visualization
+### 19. 18. Analysis and Visualization
 
 #### The quanteda textstats package
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/the-quanteda-textstat-package?u=76281980)
@@ -6036,7 +6048,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 19. Conclusion
+### 20. 19. Conclusion
 
 #### Your next steps in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980)
@@ -6070,7 +6082,7 @@ created: 2026-04-21
 > **CLI Commands:** python (1)
 
 
-### 20. Capstone Project
+### 21. 20. Capstone Project
 
 #### Project introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-introduction?u=76281980)
@@ -6158,6 +6170,20 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Mark Niemann-Ross]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- R (Programming Language)
+- Artificial Intelligence (AI)
+- Natural Language Processing (NLP)
 
 ## Path Context
 

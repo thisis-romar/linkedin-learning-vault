@@ -21,8 +21,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20Power%20BI%20for%20Data%20Analysts%20by%20Microsoft%20Press.md)
 
 ![Complete Guide to Power BI for Data Analysts by Microsoft Press](https://media.licdn.com/dms/image/v2/D4D0DAQFsKBwggqdoog/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707847933583?e=2147483647&amp;v=beta&amp;t=pnf6tQ0e8LmJu5Iq0aYfUPIxjDXSddH7EJHbRRYe7YA)
 
@@ -33,14 +35,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press) | 7h 14m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Microsoft Press]]
-- [[Chris Sorensen]]
-
 ## Table of Contents
 
-### 1. Getting Started with Power BI
+### Chapter Overview
+
+- **1. 1. Getting Started with Power BI** (8 videos)
+- **2. 2. Importing and Transforming Data Using Power Query Editor** (13 videos)
+- **3. 3. Enhancing the Data Model: The Basics** (9 videos)
+- **4. 4. Enhancing the Data Model: DAX Basics** (9 videos)
+- **5. 5. Enhancing the Data Model: DAX Time Intelligence** (7 videos)
+- **6. 6. Enhancing the Data Model: Quick Measures** (2 videos)
+- **7. 7. Building Desktop Visualizations: The Basics** (8 videos)
+- **8. 8. Building Desktop Visualizations: Next Level** (14 videos)
+- **9. 9. Using the Power BI service: Reading View** (5 videos)
+- **10. 10. Using the Power BI Service Next Level** (6 videos)
+- **11. 11. Implementing Security and Access** (4 videos)
+- **12. 12. Summary** (1 videos)
+
+### 1. 1. Getting Started with Power BI
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20269078?u=76281980)
@@ -827,7 +839,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 2. Importing and Transforming Data Using Power Query Editor
+### 2. 2. Importing and Transforming Data Using Power Query Editor
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980)
@@ -3236,7 +3248,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. Enhancing the Data Model: The Basics
+### 3. 3. Enhancing the Data Model: The Basics
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270073?u=76281980)
@@ -4357,7 +4369,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Enhancing the Data Model: DAX Basics
+### 4. 4. Enhancing the Data Model: DAX Basics
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270072?u=76281980)
@@ -5608,7 +5620,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Enhancing the Data Model: DAX Time Intelligence
+### 5. 5. Enhancing the Data Model: DAX Time Intelligence
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264875?u=76281980)
@@ -6245,7 +6257,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 6. Enhancing the Data Model: Quick Measures
+### 6. 6. Enhancing the Data Model: Quick Measures
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270076?u=76281980)
@@ -6385,7 +6397,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Building Desktop Visualizations: The Basics
+### 7. 7. Building Desktop Visualizations: The Basics
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264877?u=76281980)
@@ -7267,7 +7279,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Building Desktop Visualizations: Next Level
+### 8. 8. Building Desktop Visualizations: Next Level
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20266940?u=76281980)
@@ -8592,7 +8604,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Using the Power BI service: Reading View
+### 9. 9. Using the Power BI service: Reading View
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20268230?u=76281980)
@@ -8973,7 +8985,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Using the Power BI Service Next Level
+### 10. 10. Using the Power BI Service Next Level
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23451332?u=76281980)
@@ -9453,7 +9465,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Implementing Security and Access
+### 11. 11. Implementing Security and Access
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23455255?u=76281980)
@@ -9727,7 +9739,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 12. Summary
+### 12. 12. Summary
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980)
@@ -9772,6 +9784,11 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 > **Speakers:** - all (1)
 
+
+## Instructor
+
+- [[Microsoft Press]]
+- [[Chris Sorensen]]
 
 ## Path Context
 

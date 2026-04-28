@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/electronics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Electronics%20Foundations-%20Fundamentals.md)
 
 ![Electronics Foundations: Fundamentals](https://media.licdn.com/dms/image/v2/C4E0DAQH-6x5bm0Fl0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568053858039?e=2147483647&amp;v=beta&amp;t=WvekdtJXPNK5ACtEaqDonpbGRKg5ivTlEZwpHc_dQlI)
 
@@ -42,21 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals) | 1h 17m | Beginner | 112K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barron Stone]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Electronics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Fundamentals of Electricity** (9 videos)
+- **3. 2. Multimeter Measurements** (3 videos)
+- **4. 3. Power** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The fundamentals of electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/the-fundamentals-of-electronics?u=76281980)
@@ -187,7 +185,7 @@ created: 2026-04-21
 > **Speakers:** - working (1)
 
 
-### 1. Fundamentals of Electricity
+### 2. 1. Fundamentals of Electricity
 
 #### Electrical charge
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electrical-charge-14050884?u=76281980)
@@ -816,7 +814,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat bright bouncy music) (1)
 
 
-### 2. Multimeter Measurements
+### 3. 2. Multimeter Measurements
 
 #### What is a multimeter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980)
@@ -1083,7 +1081,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Power
+### 4. 3. Power
 
 #### Electric power
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980)
@@ -1560,7 +1558,7 @@ created: 2026-04-21
 > **Non-Speech:** (offbeat uplifting music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Continue your electronics journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/continue-your-electronics-journey?u=76281980)
@@ -1585,6 +1583,18 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Barron Stone]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Electronics
 
 ## Path Context
 

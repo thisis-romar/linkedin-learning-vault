@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/interviewing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Job%20Interview%20Tips%20for%20Marketing%20Managers.md)
 
 ![Job Interview Tips for Marketing Managers](https://media.licdn.com/dms/image/v2/C4E0DAQFRUjdyNW8-FQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617138178983?e=2147483647&amp;v=beta&amp;t=3PWJDvATYfFQ1CNoExBlNmVEYy7oJz6Yb_RidY_pLYs)
 
@@ -40,17 +42,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers) | 52m | Beginner | 43K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brian Honigman]]
-
-## Skills Covered
-
-- Interviewing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What interests you about working at our company?** (2 videos)
+- **3. 2. Could you talk through an example of an effective marketing campaign from a brand you admire?** (2 videos)
+- **4. 3. Describe your marketing experience.** (2 videos)
+- **5. 4. Explain how to create and launch a marketing campaign.** (2 videos)
+- **6. 5. Tell me about a failed marketing project you were involved with—what would you do differently?** (2 videos)
+- **7. 6. Do you consider yourself detail-oriented or better at tackling big-picture problems?** (2 videos)
+- **8. 7. How do you craft effective messaging internally and externally?** (2 videos)
+- **9. 8. What data would you reference to better personalize an initiative to the right people?** (2 videos)
+- **10. 9. In the past, how did you measure the success of a marketing campaign?** (2 videos)
+- **11. 10. If asked, "Is this marketing activity the right investment?," how would you respond?** (2 videos)
+- **12. 11. What’s your research process when analyzing potential market opportunities and competitors?** (2 videos)
+- **13. Follow-up** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to marketing manager roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/introduction-to-marketing-manager-roles?u=76281980)
@@ -116,7 +126,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. What interests you about working at our company?
+### 2. 1. What interests you about working at our company?
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question?u=76281980)
@@ -194,7 +204,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Could you talk through an example of an effective marketing campaign from a brand you admire?
+### 3. 2. Could you talk through an example of an effective marketing campaign from a brand you admire?
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363110?u=76281980)
@@ -287,7 +297,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 3. Describe your marketing experience.
+### 4. 3. Describe your marketing experience.
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362147?u=76281980)
@@ -380,7 +390,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1), - so (1), - what (1)
 
 
-### 4. Explain how to create and launch a marketing campaign.
+### 5. 4. Explain how to create and launch a marketing campaign.
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364085?u=76281980)
@@ -487,7 +497,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 5. Tell me about a failed marketing project you were involved with—what would you do differently?
+### 6. 5. Tell me about a failed marketing project you were involved with—what would you do differently?
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366069?u=76281980)
@@ -565,7 +575,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1), super (1)
 
 
-### 6. Do you consider yourself detail-oriented or better at tackling big-picture problems?
+### 7. 6. Do you consider yourself detail-oriented or better at tackling big-picture problems?
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362148?u=76281980)
@@ -646,7 +656,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 7. How do you craft effective messaging internally and externally?
+### 8. 7. How do you craft effective messaging internally and externally?
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364087?u=76281980)
@@ -743,7 +753,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 8. What data would you reference to better personalize an initiative to the right people?
+### 9. 8. What data would you reference to better personalize an initiative to the right people?
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363111?u=76281980)
@@ -834,7 +844,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 9. In the past, how did you measure the success of a marketing campaign?
+### 10. 9. In the past, how did you measure the success of a marketing campaign?
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366072?u=76281980)
@@ -911,7 +921,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 10. If asked, "Is this marketing activity the right investment?," how would you respond?
+### 11. 10. If asked, "Is this marketing activity the right investment?," how would you respond?
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366070?u=76281980)
@@ -1000,7 +1010,7 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 
 
-### 11. What’s your research process when analyzing potential market opportunities and competitors?
+### 12. 11. What’s your research process when analyzing potential market opportunities and competitors?
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364086?u=76281980)
@@ -1087,7 +1097,7 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 
 
-### Follow-up
+### 13. Follow-up
 
 #### How to write a memorable thank-you note
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-write-a-memorable-thank-you-note?u=76281980)
@@ -1142,6 +1152,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 
+
+## Instructor
+
+- [[Brian Honigman]]
+
+## Skills Covered
+
+- Interviewing
 
 ## Path Context
 

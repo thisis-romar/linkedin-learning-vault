@@ -29,37 +29,31 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20C-%20Language%20Features.md)
 
 ![Advanced C#: Language Features](https://media.licdn.com/dms/image/v2/C4E0DAQGZRKLVLjW08A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661448132171?e=2147483647&amp;v=beta&amp;t=ohKgw-T9t0eODNybZqySudQaC5NRnE207Di0-UpJqdw)
 
 # Advanced C#: Language Features
 
-> Projects
-Use what you learn about structural pattern matching to build a sales commission calculator tool for a securities trade consisting of stocks or bonds.
-
-In this advanced C# course, instructor Joe Marini dives deep into language features. Joe has worked in the web and software industries for more than 30 years, speaks regularly at industry conferences, and has authored or co-authored severa
+> Projects Use what you learn about structural pattern matching to build a sales commission calculator tool for a securities trade consisting of stocks or bonds. In this advanced C# course, instructor Joe Marini dives deep into language features. Joe has worked in the web and software industries for more than 30 years, speaks regularly at industry conferences, and has authored or co-authored several
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features) | 1h 43m | Advanced | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-c-sharp-language-features-2491189)
-
-## Skills Covered
-
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Language Constructs** (5 videos)
+- **3. 2. Structural Pattern Matching** (7 videos)
+- **4. 3. Object-Oriented Programming Features** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### C# language features
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/c-sharp-language-features?u=76281980)
@@ -199,7 +193,7 @@ In this advanced C# course, instructor Joe Marini dives deep into language featu
 > **Cross-References:** go back to (1)
 
 
-### 1. Language Constructs
+### 2. 1. Language Constructs
 
 #### Indexes and ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/indexes-and-ranges?u=76281980)
@@ -826,7 +820,7 @@ In this advanced C# course, instructor Joe Marini dives deep into language featu
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Structural Pattern Matching
+### 3. 2. Structural Pattern Matching
 
 #### Overview of pattern matching
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/overview-of-pattern-matching?u=76281980)
@@ -1706,7 +1700,7 @@ In this advanced C# course, instructor Joe Marini dives deep into language featu
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Object-Oriented Programming Features
+### 4. 3. Object-Oriented Programming Features
 
 #### Working with indexers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/working-with-indexers?u=76281980)
@@ -2402,7 +2396,7 @@ In this advanced C# course, instructor Joe Marini dives deep into language featu
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/conclusion?u=76281980)
@@ -2436,6 +2430,19 @@ In this advanced C# course, instructor Joe Marini dives deep into language featu
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-c-sharp-language-features-2491189)
+
+## Skills Covered
+
+- C#
 
 ## Path Context
 

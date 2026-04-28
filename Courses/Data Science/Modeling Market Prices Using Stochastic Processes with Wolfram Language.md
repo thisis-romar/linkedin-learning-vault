@@ -30,35 +30,33 @@ tags:
   - skill/wolfram-language
   - skill/financial-modeling
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Modeling%20Market%20Prices%20Using%20Stochastic%20Processes%20with%20Wolfram%20Language.md)
 
 ![Modeling Market Prices Using Stochastic Processes with Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQFTrSYvOvR1oQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704408406387?e=2147483647&amp;v=beta&amp;t=nqR14K2P2k35YMPJjzY2M6DR8P7iYTKLlsz9JS50pWE)
 
 # Modeling Market Prices Using Stochastic Processes with Wolfram Language
 
-> The Wolfram Language contains a complete collection of stochastic processes and statistical distributions that can be fitted to a wide array of market phenomena.
-This course illustrates this by explaining the modeling of stock prices, portfolios, index returns, bonds, option prices, exchange rates, and conditional risk using stochastic processes such as the ARCH process, vector-valued time series,
+> The Wolfram Language contains a complete collection of stochastic processes and statistical distributions that can be fitted to a wide array of market phenomena. This course illustrates this by explaining the modeling of stock prices, portfolios, index returns, bonds, option prices, exchange rates, and conditional risk using stochastic processes such as the ARCH process, vector-valued time series,
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language) | 57m | Advanced | 1K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wolfram Research]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Wolfram Language
-- Financial Modeling
-
 ## Table of Contents
 
-### 1. Stochastic Processes
+### Chapter Overview
+
+- **1. 1. Stochastic Processes** (1 videos)
+- **2. 2. Financial Data Function** (1 videos)
+- **3. 3. Time Series Model Fit** (1 videos)
+- **4. 4. Differences** (1 videos)
+- **5. 5. MapThread** (1 videos)
+- **6. 6. Hyperbolic Distribution** (1 videos)
+- **7. 7. Ito Process** (1 videos)
+
+### 1. 1. Stochastic Processes
 
 #### Stochastic processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980)
@@ -138,7 +136,7 @@ This course illustrates this by explaining the modeling of stock prices, portfol
 > **CLI Commands:** find (1)
 
 
-### 2. Financial Data Function
+### 2. 2. Financial Data Function
 
 #### Financial data function
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980)
@@ -222,7 +220,7 @@ This course illustrates this by explaining the modeling of stock prices, portfol
 > **Analogies:** for instance (1)
 
 
-### 3. Time Series Model Fit
+### 3. 3. Time Series Model Fit
 
 #### Time series model fit
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980)
@@ -452,7 +450,7 @@ This course illustrates this by explaining the modeling of stock prices, portfol
 > **Analogies:** for instance (1), picture (1)
 
 
-### 4. Differences
+### 4. 4. Differences
 
 #### Differences
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/differences?u=76281980)
@@ -590,7 +588,7 @@ This course illustrates this by explaining the modeling of stock prices, portfol
 > **Prerequisites:** set up (1)
 
 
-### 5. MapThread
+### 5. 5. MapThread
 
 #### MapThread
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980)
@@ -713,7 +711,7 @@ This course illustrates this by explaining the modeling of stock prices, portfol
 > **Prerequisites:** set up (1)
 
 
-### 6. Hyperbolic Distribution
+### 6. 6. Hyperbolic Distribution
 
 #### Hyperbolic distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980)
@@ -1118,7 +1116,7 @@ This course illustrates this by explaining the modeling of stock prices, portfol
 > **Versions:** 0.05 (1)
 
 
-### 7. Ito Process
+### 7. 7. Ito Process
 
 #### Ito process
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980)
@@ -1323,6 +1321,19 @@ This course illustrates this by explaining the modeling of stock prices, portfol
 > **Analogies:** imagine (3), for instance (1)
 > **Versions:** 0.02 (1)
 
+
+## Instructor
+
+- [[Wolfram Research]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Wolfram Language
+- Financial Modeling
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/geographic-information-systems-gis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Foundations%20of%20Geographic%20Information%20Systems%20(GIS).md)
 
 ![Foundations of Geographic Information Systems (GIS)](https://media.licdn.com/dms/image/v2/D4E0DAQFpq7UNi-fgQQ/learning-public-crop_675_1200/B4EZZaM0imHMAY-/0/1745270033295?e=2147483647&amp;v=beta&amp;t=XUOoN9iNLq8rpoh_JIUZIguL7qfqvpfXyMLsb6gskIE)
 
@@ -40,18 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115) | 48m | Beginner | 49K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jennifer Harrison]]
-- [[Madecraft]]
-
-## Skills Covered
-
-- Geographic Information Systems (GIS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding GIS** (5 videos)
+- **3. 2. GIS Core Concepts** (5 videos)
+- **4. 3. Geospatial Analysis** (3 videos)
+- **5. 4. Spatial Data Sources** (2 videos)
+- **6. 5. GIS as a Spatial Platform** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Thinking spatially
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/thinking-spatially?u=76281980)
@@ -85,7 +88,7 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 
 
-### 1. Understanding GIS
+### 2. 1. Understanding GIS
 
 #### Solving spatial problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/solving-spatial-problems?u=76281980)
@@ -378,7 +381,7 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 
 
-### 2. GIS Core Concepts
+### 3. 2. GIS Core Concepts
 
 #### More than digital maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/more-than-digital-maps?u=76281980)
@@ -706,7 +709,7 @@ created: 2026-04-21
 > **Analogies:** it's like (1)
 
 
-### 3. Geospatial Analysis
+### 4. 3. Geospatial Analysis
 
 #### Asking a map questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/asking-a-map-questions?u=76281980)
@@ -875,7 +878,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 4. Spatial Data Sources
+### 5. 4. Spatial Data Sources
 
 #### Identifying GIS data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/identifying-gis-data-sources?u=76281980)
@@ -994,7 +997,7 @@ created: 2026-04-21
 > **Env Vars:** gis (9), gps (4), cad (1)
 
 
-### 5. GIS as a Spatial Platform
+### 6. 5. GIS as a Spatial Platform
 
 #### Enterprise-level GIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/enterprise-level-gis?u=76281980)
@@ -1082,7 +1085,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Putting it to practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/putting-it-to-practice?u=76281980)
@@ -1120,6 +1123,15 @@ created: 2026-04-21
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **UI Navigation:** go to (1)
 
+
+## Instructor
+
+- [[Jennifer Harrison]]
+- [[Madecraft]]
+
+## Skills Covered
+
+- Geographic Information Systems (GIS)
 
 ## Path Context
 

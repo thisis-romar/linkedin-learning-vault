@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/adobe-photoshop
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20in%20Adobe%20Photoshop%20and%20Creative%20Cloud%20(2023).md)
 
 ![Leveraging AI in Adobe Photoshop and Creative Cloud (2023)](https://media.licdn.com/dms/image/v2/D560DAQEU8Y1z6IacEA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690578573167?e=2147483647&amp;v=beta&amp;t=dXHdU0OXqGaBe-0We0jEpH5K3bCIK-npJlls6DD4kQE)
 
@@ -44,24 +46,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023) | 3h 48m | 124K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bart Van de Wiele]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Adobe Creative Cloud
-- Artificial Intelligence for Design
-- Artificial Intelligence (AI)
-- Adobe Photoshop
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Role of Artificial Intelligence in Your Workflows** (4 videos)
+- **3. 2. Using AI in Photoshop** (13 videos)
+- **4. 3. Using AI in Lightroom** (9 videos)
+- **5. 4. Using AI in Illustrator** (8 videos)
+- **6. 5. Using AI in InDesign** (6 videos)
+- **7. 6. Using AI in Adobe Stock** (7 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Artificial intelligence for all
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980)
@@ -85,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 1. The Role of Artificial Intelligence in Your Workflows
+### 2. 1. The Role of Artificial Intelligence in Your Workflows
 
 #### Welcome to the age of artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980)
@@ -321,7 +319,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Using AI in Photoshop
+### 3. 2. Using AI in Photoshop
 
 #### Removing basic subjects from an image
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980)
@@ -2025,7 +2023,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Using AI in Lightroom
+### 4. 3. Using AI in Lightroom
 
 #### Optimizing images automatically
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimizing-images-automatically?u=76281980)
@@ -3033,7 +3031,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Using AI in Illustrator
+### 5. 4. Using AI in Illustrator
 
 #### Selecting and editing visually similar objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-and-editing-visually-similar-objects?u=76281980)
@@ -3909,7 +3907,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Using AI in InDesign
+### 6. 5. Using AI in InDesign
 
 #### Optimize image cropping
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980)
@@ -4578,7 +4576,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 6. Using AI in Adobe Stock
+### 7. 6. Using AI in Adobe Stock
 
 #### Introducing Adobe Stock
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-stock?u=76281980)
@@ -5231,7 +5229,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/goodbye?u=76281980)
@@ -5252,6 +5250,21 @@ created: 2026-04-21
 >
 > **Speakers:** - if (1)
 
+
+## Instructor
+
+- [[Bart Van de Wiele]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Adobe Creative Cloud
+- Artificial Intelligence for Design
+- Artificial Intelligence (AI)
+- Adobe Photoshop
 
 ## Path Context
 

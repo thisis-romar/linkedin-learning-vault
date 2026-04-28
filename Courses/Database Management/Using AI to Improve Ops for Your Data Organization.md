@@ -27,8 +27,10 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Using%20AI%20to%20Improve%20Ops%20for%20Your%20Data%20Organization.md)
 
 ![Using AI to Improve Ops for Your Data Organization](https://media.licdn.com/dms/image/v2/D560DAQEQIaqAbqxJ2Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723231235728?e=2147483647&amp;v=beta&amp;t=Jxs35piAxwTcjk7C1Fb3H7HrvPILqDcVrJ1Rw8llUhQ)
 
@@ -39,13 +41,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization) | 1h 1m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Priya Mohan]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Data Cataloging and Classification with AI** (4 videos)
+- **3. 2. Data Quality Monitoring and Metadata CI/CD with AI** (7 videos)
+- **4. 3. Data Analytics and Decision-Making Using AI** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Transformational change for your data organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/transformational-change-for-your-data-organization?u=76281980)
@@ -149,7 +155,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Data Cataloging and Classification with AI
+### 2. 1. Data Cataloging and Classification with AI
 
 #### Identify and prioritize your organization's data
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980)
@@ -488,7 +494,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Data Quality Monitoring and Metadata CI/CD with AI
+### 3. 2. Data Quality Monitoring and Metadata CI/CD with AI
 
 #### Introduction to data quality monitoring and traditional methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980)
@@ -932,7 +938,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Analytics and Decision-Making Using AI
+### 4. 3. Data Analytics and Decision-Making Using AI
 
 #### The power of data analytics, business intelligence tools, and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980)
@@ -1422,7 +1428,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Extending AI in your data operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/extending-ai-in-your-data-operations?u=76281980)
@@ -1459,6 +1465,10 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Priya Mohan]]
 
 ## Path Context
 

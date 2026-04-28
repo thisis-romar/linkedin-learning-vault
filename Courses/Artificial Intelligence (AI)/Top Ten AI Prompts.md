@@ -30,8 +30,10 @@ tags:
   - skill/ai-prompting
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Top%20Ten%20AI%20Prompts.md)
 
 ![Top Ten AI Prompts](https://media.licdn.com/dms/image/v2/D4E0DAQH1WNdNUCL2iQ/learning-public-crop_675_1200/B4EZUaI0DHGYAc-/0/1739900273240?e=2147483647&amp;v=beta&amp;t=w-4LWtPUBBYiFWQdNoPL9fxA6IEAkfpdr8MhMhtXMjc)
 
@@ -42,23 +44,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts) | 1h 43m | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dave Birss]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI Productivity
-- AI Prompting
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The Top 10 AI Prompts** (20 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/get-the-top-10-most-in-demand-ai-prompts?u=76281980)
@@ -234,7 +228,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 1. The Top 10 AI Prompts
+### 2. 1. The Top 10 AI Prompts
 
 #### Using AI to draft a business plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-training-material?u=76281980)
@@ -2443,7 +2437,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980)
@@ -2495,6 +2489,20 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Dave Birss]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI Productivity
+- AI Prompting
+- Artificial Intelligence (AI)
 
 ## Path Context
 

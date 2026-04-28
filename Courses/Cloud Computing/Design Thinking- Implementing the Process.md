@@ -29,8 +29,10 @@ tags:
   - skill/design-thinking
   - skill/process-implementation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Design%20Thinking-%20Implementing%20the%20Process.md)
 
 ![Design Thinking: Implementing the Process](https://media.licdn.com/dms/image/v2/C560DAQH2UfN-L7eP9w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602284942347?e=2147483647&amp;v=beta&amp;t=HpeFWNsk97O3034_WEinia560dmhlmlGhtzMW0GHPnw)
 
@@ -41,22 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process) | 49m | 335K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Chris Nodder]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Design Thinking
-- Process Implementation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Assembling a Team** (3 videos)
+- **3. 2. Finding the Right Problem to Solve** (4 videos)
+- **4. 3. Coming Up with Good Ideas** (3 videos)
+- **5. 4. Testing Your Ideas with Real Customers** (3 videos)
+- **6. 5. Planning Your Development Work** (3 videos)
+- **7. 6. What Design Thinking Gives You** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Applying design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980)
@@ -128,7 +128,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Assembling a Team
+### 2. 1. Assembling a Team
 
 #### Who should be involved?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980)
@@ -284,7 +284,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Finding the Right Problem to Solve
+### 3. 2. Finding the Right Problem to Solve
 
 #### Identify the pain points: Watch real users
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/identify-the-pain-points-watch-real-users?u=76281980)
@@ -503,7 +503,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 3. Coming Up with Good Ideas
+### 4. 3. Coming Up with Good Ideas
 
 #### Personas: An idea everyone can get behind
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/personas-an-idea-everyone-can-get-behind?u=76281980)
@@ -658,7 +658,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 4. Testing Your Ideas with Real Customers
+### 5. 4. Testing Your Ideas with Real Customers
 
 #### Paper prototypes: The fastest way to test your ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/paper-prototypes-the-fastest-way-to-test-your-ideas?u=76281980)
@@ -795,7 +795,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 5. Planning Your Development Work
+### 6. 5. Planning Your Development Work
 
 #### Planning is the missing link
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980)
@@ -1016,7 +1016,7 @@ created: 2026-04-21
 > **Speakers:** - lean (1)
 
 
-### 6. What Design Thinking Gives You
+### 7. 6. What Design Thinking Gives You
 
 #### Design thinking isn't a magic process
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980)
@@ -1133,7 +1133,7 @@ created: 2026-04-21
 > **Speakers:** - working (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Additional resources to support your design thinking process
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980)
@@ -1173,6 +1173,19 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - each (1)
 
+
+## Instructor
+
+- [[Chris Nodder]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Design Thinking
+- Process Implementation
 
 ## Path Context
 

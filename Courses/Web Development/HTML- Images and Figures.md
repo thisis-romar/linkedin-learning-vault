@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML-%20Images%20and%20Figures.md)
 
 ![HTML: Images and Figures](https://media.licdn.com/dms/image/v2/C4E0DAQG795roMFBeog/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567113452295?e=2147483647&amp;v=beta&amp;t=7QDpclWesRAW6rEe6HEyXtR9vLpfPcx9Y20LGJzBVCI)
 
@@ -40,21 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures) | 1h 2m | Intermediate | 24K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[J. David Eisenberg]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- HTML
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Image Essentials** (4 videos)
+- **3. 2. Image Formats** (4 videos)
+- **4. 3. Images and CSS** (6 videos)
+- **5. 4. Responsive Images** (7 videos)
+- **6. 5. Figures** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/welcome?u=76281980)
@@ -158,7 +158,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Image Essentials
+### 2. 1. Image Essentials
 
 #### Using the img element and src attribute
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/using-the-img-element-and-src-attribute?u=76281980)
@@ -464,7 +464,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Image Formats
+### 3. 2. Image Formats
 
 #### Image format overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/image-format-overview?u=76281980)
@@ -665,7 +665,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Images and CSS
+### 4. 3. Images and CSS
 
 #### Borders, padding, and spacing
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/borders-padding-and-spacing?u=76281980)
@@ -1131,7 +1131,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Responsive Images
+### 5. 4. Responsive Images
 
 #### Resolution and pixel density
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/resolution-and-pixel-density?u=76281980)
@@ -1519,7 +1519,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Figures
+### 6. 5. Figures
 
 #### Using figure and figcaption elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/using-figure-and-figcaption-elements?u=76281980)
@@ -1639,7 +1639,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980)
@@ -1687,6 +1687,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[J. David Eisenberg]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- HTML
 
 ## Path Context
 

@@ -22,8 +22,10 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Manager's%20Guide%20to%20Building%20a%20Strategic%20Plan%20with%20ChatGPT%20(No%20Code%20Required).md)
 
 ![Manager's Guide to Building a Strategic Plan with ChatGPT (No Code Required)](https://media.licdn.com/dms/image/v2/D4E0DAQGQrfdJenHEiw/learning-public-crop_675_1200/B4EZka4gefHgAY-/0/1757092645787?e=2147483647&amp;v=beta&amp;t=LCfvsXpwKG4LWpf1Y86wKJD5KZziHhdBpozguWrc4Ac)
 
@@ -34,13 +36,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required) | 27m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bodell]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Anticipate Disruptions with AI** (3 videos)
+- **3. 2. Scenario Planning for Uncertainty** (2 videos)
+- **4. 3. AI for Competitive Advantage** (1 videos)
+- **5. 4. Innovate with AI-Generated Strategies** (1 videos)
+- **6. 5. From Insights to Action: Implement AI-Driven Strategy** (1 videos)
+- **7. 6. Sustain and Recalibrate** (1 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Use AI to build a strategy that works
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-build-a-strategy-that-works?u=76281980)
@@ -65,7 +74,7 @@ created: 2026-04-21
 > **Speakers:** - strategic (1)
 
 
-### 1. Anticipate Disruptions with AI
+### 2. 1. Anticipate Disruptions with AI
 
 #### AI as your strategic disruptor
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980)
@@ -295,7 +304,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Scenario Planning for Uncertainty
+### 3. 2. Scenario Planning for Uncertainty
 
 #### Explore future scenarios and plan for uncertainty with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/explore-future-scenarios-and-plan-for-uncertainty-with-ai?u=76281980)
@@ -451,7 +460,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. AI for Competitive Advantage
+### 4. 3. AI for Competitive Advantage
 
 #### Use AI to analyze your competitive positioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980)
@@ -537,7 +546,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Innovate with AI-Generated Strategies
+### 5. 4. Innovate with AI-Generated Strategies
 
 #### Create a strategic roadmap using AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/create-a-strategic-roadmap-using-ai?u=76281980)
@@ -610,7 +619,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. From Insights to Action: Implement AI-Driven Strategy
+### 6. 5. From Insights to Action: Implement AI-Driven Strategy
 
 #### Craft compelling data narratives with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/craft-compelling-data-narratives-with-ai?u=76281980)
@@ -691,7 +700,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 6. Sustain and Recalibrate
+### 7. 6. Sustain and Recalibrate
 
 #### AI as a coleader: Embracing continual strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-a-co-leader-embracing-continual-strategic-thinking?u=76281980)
@@ -762,7 +771,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Activate your strategic plan with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/activate-your-strategic-plan-with-ai?u=76281980)
@@ -836,6 +845,10 @@ created: 2026-04-21
 > **Env Vars:** nrr (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lisa Bodell]]
 
 ## Path Context
 

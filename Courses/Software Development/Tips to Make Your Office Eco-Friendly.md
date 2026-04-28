@@ -28,8 +28,10 @@ tags:
   - skill/sustainable-business
   - skill/workplace-transformation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Tips%20to%20Make%20Your%20Office%20Eco-Friendly.md)
 
 ![Tips to Make Your Office Eco-Friendly](https://media.licdn.com/dms/image/v2/D560DAQH0Yy4gOl3p1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685052444936?e=2147483647&amp;v=beta&amp;t=lmhU-4w952THtB6ZpQiW_9tDG6xdg8ZnhH4t3gD_fmE)
 
@@ -40,18 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly) | 59m | 40K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ashlee Piper]]
-
-## Skills Covered
-
-- Sustainable Business
-- Workplace Transformation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Encourage and Embrace Sustainable Personal Habits at Work** (4 videos)
+- **3. 2. Energy-Efficient Shifts for Your Office** (5 videos)
+- **4. 3. Easy Eco-Shifts in the Workplace** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Greening your workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980)
@@ -82,7 +83,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 1. Encourage and Embrace Sustainable Personal Habits at Work
+### 2. 1. Encourage and Embrace Sustainable Personal Habits at Work
 
 #### Bring your own reusables
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980)
@@ -451,7 +452,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Energy-Efficient Shifts for Your Office
+### 3. 2. Energy-Efficient Shifts for Your Office
 
 #### Conduct an energy audit at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980)
@@ -873,7 +874,7 @@ created: 2026-04-21
 > **Speakers:** - by (1)
 
 
-### 3. Easy Eco-Shifts in the Workplace
+### 4. 3. Easy Eco-Shifts in the Workplace
 
 #### Secondhand-first at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980)
@@ -1278,7 +1279,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### You are part of the solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980)
@@ -1308,6 +1309,15 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Ashlee Piper]]
+
+## Skills Covered
+
+- Sustainable Business
+- Workplace Transformation
 
 ## Path Context
 

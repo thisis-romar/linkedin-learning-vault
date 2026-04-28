@@ -38,8 +38,10 @@ tags:
   - skill/data-analytics
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Creating%20Interactive%20Tableau%20Dashboards.md)
 
 ![Creating Interactive Tableau Dashboards](https://media.licdn.com/dms/image/v2/D4E0DAQEtJoc6PfO21Q/learning-public-crop_675_1200/B4EZaNoHLFHEAY-/0/1746132825739?e=2147483647&amp;v=beta&amp;t=OJiguxsXEWRhIerl8ffwEPYf-XipOYxSqDeEejLxAPc)
 
@@ -50,26 +52,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168) | 5h 58m | Intermediate | 61K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Matt Francis]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tableau
-- Data Analysis
-- Dashboards
-- Analytics
-- Data Analytics
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. How to Create the Right Kind of Dashboard** (5 videos)
+- **3. 2. Dashboard Structure** (8 videos)
+- **4. 3. Dashboard Objects** (13 videos)
+- **5. 4. Dashboard Design Elements** (9 videos)
+- **6. 5. Interactions with Dashboard Actions** (10 videos)
+- **7. 6. Using Story Dashboards** (6 videos)
+- **8. 7. One Dataset, Five Dashboards** (7 videos)
+- **9. Conclusion: Continuing Your Tableau Dashboard Learning Journey** (1 videos)
+
+### 1. Introduction
 
 #### Designing dashboards in Tableau
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980)
@@ -102,7 +99,7 @@ created: 2026-04-21
 > **Speakers:** - [matt] (1)
 
 
-### 1. How to Create the Right Kind of Dashboard
+### 2. 1. How to Create the Right Kind of Dashboard
 
 #### Who, what, where, and why: The four questions for every dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/the-four-questions-for-every-dashboard?u=76281980)
@@ -769,7 +766,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Dashboard Structure
+### 3. 2. Dashboard Structure
 
 #### Create a basic dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980)
@@ -1793,7 +1790,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Dashboard Objects
+### 4. 3. Dashboard Objects
 
 #### Adding a horizontal container
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980)
@@ -3407,7 +3404,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Dashboard Design Elements
+### 5. 4. Dashboard Design Elements
 
 #### Giving a dashboard a good title
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980)
@@ -4814,7 +4811,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Interactions with Dashboard Actions
+### 6. 5. Interactions with Dashboard Actions
 
 #### Adding interaction with actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-interation-with-actions?u=76281980)
@@ -5995,7 +5992,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Using Story Dashboards
+### 7. 6. Using Story Dashboards
 
 #### DataViz vs. data stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980)
@@ -6766,7 +6763,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. One Dataset, Five Dashboards
+### 8. 7. One Dataset, Five Dashboards
 
 #### Build an exploratory dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980)
@@ -8260,7 +8257,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat energetic music) (1)
 
 
-### Conclusion: Continuing Your Tableau Dashboard Learning Journey
+### 9. Conclusion: Continuing Your Tableau Dashboard Learning Journey
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/next-steps-and-additional-resources?u=76281980)
@@ -8325,6 +8322,23 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Matt Francis]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tableau
+- Data Analysis
+- Dashboards
+- Analytics
+- Data Analytics
+- Data Visualization
 
 ## Path Context
 

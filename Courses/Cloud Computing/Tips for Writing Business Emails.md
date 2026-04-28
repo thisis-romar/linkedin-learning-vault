@@ -28,8 +28,10 @@ tags:
   - skill/business-communications
   - skill/email-etiquette
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Tips%20for%20Writing%20Business%20Emails.md)
 
 ![Tips for Writing Business Emails](https://media.licdn.com/dms/image/v2/C4E0DAQF69xUl6o6wgg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118586371?e=2147483647&amp;v=beta&amp;t=zrroz047VVWNZgQnNUJIzc_6CuJ8ivWEsm21kIJshGc)
 
@@ -40,18 +42,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails) | 35m | 584K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daisy Lovelace]]
-
-## Skills Covered
-
-- Business Communications
-- Email Etiquette
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Quick Tips for Effective Emails** (13 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Email: An extension of your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980)
@@ -77,7 +76,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 1. Quick Tips for Effective Emails
+### 2. 1. Quick Tips for Effective Emails
 
 #### Select the audience for your email thoughtfully
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/select-the-audience-for-your-email-thoughtfully?u=76281980)
@@ -929,7 +928,7 @@ created: 2026-04-21
 > **Speakers:** - most (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Happy emailing
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/happy-emailing-22822193?u=76281980)
@@ -960,6 +959,15 @@ created: 2026-04-21
 > **Versions:** 2.6 (1)
 > **Speakers:** - according (1)
 
+
+## Instructor
+
+- [[Daisy Lovelace]]
+
+## Skills Covered
+
+- Business Communications
+- Email Etiquette
 
 ## Path Context
 

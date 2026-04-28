@@ -28,8 +28,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-for-learning-and-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Developing%20A%20Learning%20Mindset%20In%20The%20Age%20Of%20Ai.md)
 
 ![Developing A Learning Mindset In The Age Of Ai](https://media.licdn.com/dms/image/v2/D4D0DAQHOd4vNIFfMGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734990669720?e=2147483647&amp;v=beta&amp;t=lFCP7V6EtHWT6xelZFY9Zv_VMQCQm_G-d4SgAn3JSRk)
 
@@ -40,20 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai) | 51K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Lifelong Learning
-- Learning Agility
-- Artificial Intelligence (AI)
-- Generative AI for Learning and Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Learning in the Age of AI** (6 videos)
+- **3. 2. Learning in Context with AI** (5 videos)
+- **4. 3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The importance of developing a learning mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/the-importance-of-developing-a-learning-mindset?u=76281980)
@@ -83,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - look (1)
 
 
-### 1. Understanding Learning in the Age of AI
+### 2. 1. Understanding Learning in the Age of AI
 
 #### Tap into your learning mindset, skill set, and toolset
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980)
@@ -547,7 +545,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 2. Learning in Context with AI
+### 3. 2. Learning in Context with AI
 
 #### Connect to your motivation to learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/connect-to-your-motivation-to-learn?u=76281980)
@@ -977,7 +975,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 3. Conclusion
+### 4. 3. Conclusion
 
 #### Your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980)
@@ -1024,6 +1022,17 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 > **Speakers:** - to (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Lifelong Learning
+- Learning Agility
+- Artificial Intelligence (AI)
+- Generative AI for Learning and Development
 
 ## Path Context
 

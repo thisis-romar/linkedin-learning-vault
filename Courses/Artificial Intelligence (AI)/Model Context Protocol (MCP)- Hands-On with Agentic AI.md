@@ -34,8 +34,10 @@ tags:
   - skill/anthropic-claude
   - skill/application-programming-interfaces-api
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Model%20Context%20Protocol%20(MCP)-%20Hands-On%20with%20Agentic%20AI.md)
 
 ![Model Context Protocol (MCP): Hands-On with Agentic AI](https://media.licdn.com/dms/image/v2/D4D0DAQEo2bybtTuBiQ/learning-public-crop_675_1200/B4DZW1p2_tG4Ac-/0/1742509404424?e=2147483647&amp;v=beta&amp;t=dltG64iWzxT4jhuX8znCpFVFa-4vJ0PlH6acDiPV93s)
 
@@ -46,25 +48,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai) | 55m | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/model-context-protocol-mcp-hands-on-with-agentic-ai-2034200)
-
-## Skills Covered
-
-- AI Agents
-- Artificial Intelligence (AI)
-- Anthropic Claude
-- Application Programming Interfaces (API)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. MCP Explained** (6 videos)
+- **3. 2. Building MCP Servers** (3 videos)
+- **4. 3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### MCP: Connecting AI agents to data, apps, and more
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980)
@@ -99,7 +92,7 @@ created: 2026-04-21
 > **Speakers:** - okay (1)
 
 
-### 1. MCP Explained
+### 2. 1. MCP Explained
 
 #### Using MCP servers in Claude Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980)
@@ -538,7 +531,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 2. Building MCP Servers
+### 3. 2. Building MCP Servers
 
 #### Building your own MCP servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980)
@@ -742,7 +735,7 @@ created: 2026-04-21
 > **UI Navigation:** open the (1)
 
 
-### 3. Conclusion
+### 4. 3. Conclusion
 
 #### Building AI agents with MCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-ai-agents-with-mcp?u=76281980)
@@ -785,6 +778,22 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - all (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/model-context-protocol-mcp-hands-on-with-agentic-ai-2034200)
+
+## Skills Covered
+
+- AI Agents
+- Artificial Intelligence (AI)
+- Anthropic Claude
+- Application Programming Interfaces (API)
 
 ## Path Context
 

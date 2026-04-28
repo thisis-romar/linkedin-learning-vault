@@ -25,8 +25,10 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20AI%20Agents%20and%20Chatbots%20with%20LangGraph.md)
 
 ![Build AI Agents and Chatbots with LangGraph](https://media.licdn.com/dms/image/v2/D4D0DAQG43w2UoFGhqA/learning-public-crop_675_1200/B4DZSa0e5nG4Ac-/0/1737764237244?e=2147483647&amp;v=beta&amp;t=UXmQzVGx5Bl45kFaiIPMtIv7FGkn5fR8fMOFwfoTF0k)
 
@@ -37,13 +39,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph) | 1h 14m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Concepts Review** (5 videos)
+- **3. 2. Create a Basic ReAct Agent** (6 videos)
+- **4. 3. Build a Product Q&A Chatbot** (5 videos)
+- **5. 4. Custom Agents and Chatbots with LangGraph** (5 videos)
+- **6. 5. Reflection-Based LangGraph Agents** (5 videos)
+- **7. 6. Multi-agent Systems with LangGraph** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/introduction-to-the-course-25231480?u=76281980)
@@ -104,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Concepts Review
+### 2. 1. Concepts Review
 
 #### AI chatbots: A review
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980)
@@ -409,7 +418,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Create a Basic ReAct Agent
+### 3. 2. Create a Basic ReAct Agent
 
 #### What is ReAct?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/what-is-react-25234395?u=76281980)
@@ -760,7 +769,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Build a Product Q&A Chatbot
+### 4. 3. Build a Product Q&A Chatbot
 
 #### Product Q&A chatbot design
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980)
@@ -1055,7 +1064,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Custom Agents and Chatbots with LangGraph
+### 5. 4. Custom Agents and Chatbots with LangGraph
 
 #### LangGraph concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-concepts-25230460?u=76281980)
@@ -1485,7 +1494,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Reflection-Based LangGraph Agents
+### 6. 5. Reflection-Based LangGraph Agents
 
 #### Reflection-based summary agent: Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/reflection-based-summary-agent-design-25231481?u=76281980)
@@ -1770,7 +1779,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Multi-agent Systems with LangGraph
+### 7. 6. Multi-agent Systems with LangGraph
 
 #### Multi-agent systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/multi-agent-systems-25228455?u=76281980)
@@ -2096,7 +2105,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/next-steps-25228453?u=76281980)
@@ -2128,6 +2137,10 @@ created: 2026-04-21
 > **Env Vars:** rag (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
 
 ## Path Context
 

@@ -24,8 +24,10 @@ tags:
   - skill/career-management
   - skill/thought-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/How%20To%20Become%20A%20Thought%20Leader%20And%20Advance%20Your%20Career.md)
 
 ![How To Become A Thought Leader And Advance Your Career](https://media.licdn.com/dms/image/v2/C560DAQHLz2gIpGitgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630007018007?e=2147483647&amp;v=beta&amp;t=NuDtlRZn2ZQV726H5Put5Zsyjbt5uifpnzMyzOKlup0)
 
@@ -36,18 +38,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career) | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Career Management
-- Thought Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Thought Leadership?** (2 videos)
+- **3. 2. Where Should I Start?** (2 videos)
+- **4. 3. How and What Should I Share?** (5 videos)
+- **5. 4. Best Practices for Thought Leaders** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What does thought leadership mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/what-does-thought-leadership-mean?u=76281980)
@@ -81,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. What Is Thought Leadership?
+### 2. 1. What Is Thought Leadership?
 
 #### Characteristics of a thought leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/characteristics-of-a-thought-leader?u=76281980)
@@ -189,7 +191,7 @@ created: 2026-04-21
 > **Speakers:** - why (1)
 
 
-### 2. Where Should I Start?
+### 3. 2. Where Should I Start?
 
 #### Establish your personal brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980)
@@ -318,7 +320,7 @@ created: 2026-04-21
 > **Speakers:** - after (1)
 
 
-### 3. How and What Should I Share?
+### 4. 3. How and What Should I Share?
 
 #### Write your own thought content
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980)
@@ -660,7 +662,7 @@ created: 2026-04-21
 > **Speakers:** - speaking (1)
 
 
-### 4. Best Practices for Thought Leaders
+### 5. 4. Best Practices for Thought Leaders
 
 #### Engage people vs. talking at them
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980)
@@ -849,7 +851,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Maximize your impact in minimal time
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980)
@@ -919,6 +921,15 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - being (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Career Management
+- Thought Leadership
 
 ## Path Context
 

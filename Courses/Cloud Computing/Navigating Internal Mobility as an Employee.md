@@ -29,8 +29,10 @@ tags:
   - skill/internal-mobility
   - skill/career-path-planning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Navigating%20Internal%20Mobility%20as%20an%20Employee.md)
 
 ![Navigating Internal Mobility as an Employee](https://media.licdn.com/dms/image/v2/C560DAQGus_xltPdhWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646073323111?e=2147483647&amp;v=beta&amp;t=PADsg7ekU5HwakcxeaVEsP_gjWC18htKz-7ariu2knE)
 
@@ -41,18 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee) | 45m | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mary Abbajay]]
-
-## Skills Covered
-
-- Internal Mobility
-- Career Path Planning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Internal Mobility and the Great Reshuffle** (3 videos)
+- **3. 2. Positioning Yourself for an Internal Move** (5 videos)
+- **4. 3. How to Find Internal Opportunities** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Accelerate your career satisfaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/accelerate-your-career-satisfaction?u=76281980)
@@ -94,7 +95,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. Internal Mobility and the Great Reshuffle
+### 2. 1. Internal Mobility and the Great Reshuffle
 
 #### Benefits of internal mobility
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/benefits-of-internal-mobility?u=76281980)
@@ -345,7 +346,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. Positioning Yourself for an Internal Move
+### 3. 2. Positioning Yourself for an Internal Move
 
 #### Assess your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980)
@@ -774,7 +775,7 @@ created: 2026-04-21
 > **Speakers:** - knowing (1)
 
 
-### 3. How to Find Internal Opportunities
+### 4. 3. How to Find Internal Opportunities
 
 #### Know where to look for internal opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980)
@@ -1224,7 +1225,7 @@ created: 2026-04-21
 > **Speakers:** - can (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Take the first step
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980)
@@ -1279,6 +1280,15 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - everybody (1)
 
+
+## Instructor
+
+- [[Mary Abbajay]]
+
+## Skills Covered
+
+- Internal Mobility
+- Career Path Planning
 
 ## Path Context
 

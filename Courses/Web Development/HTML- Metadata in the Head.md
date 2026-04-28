@@ -30,8 +30,10 @@ tags:
   - skill/metadata
   - skill/html
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML-%20Metadata%20in%20the%20Head.md)
 
 ![HTML: Metadata in the Head](https://media.licdn.com/dms/image/v2/C4D0DAQGtJg65REXNLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1592866545568?e=2147483647&amp;v=beta&amp;t=x-YRRi1yhasBAACFk9AgfEfN3-sU3YHvuXOB19LGjFI)
 
@@ -42,22 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head) | 1h 24m | Intermediate | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jen Kramer]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Metadata
-- HTML
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Before the Head of the Document** (2 videos)
+- **3. 2. Understanding Meta Tags** (10 videos)
+- **4. 3. Other Head Tags** (8 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Setting expectations for your document
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-expectations-for-your-document-23202364?u=76281980)
@@ -171,7 +168,7 @@ created: 2026-04-21
 > **File Paths:** head.html (1)
 
 
-### 1. Before the Head of the Document
+### 2. 1. Before the Head of the Document
 
 #### Establishing language in your document
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980)
@@ -264,7 +261,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Understanding Meta Tags
+### 3. 2. Understanding Meta Tags
 
 #### How do meta tags work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980)
@@ -1153,7 +1150,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Other Head Tags
+### 4. 3. Other Head Tags
 
 #### Adding a title to your page
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/adding-a-title-to-your-page-23204068?u=76281980)
@@ -1808,7 +1805,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/next-steps-23203329?u=76281980)
@@ -1857,6 +1854,19 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [jen] (1)
 
+
+## Instructor
+
+- [[Jen Kramer]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Metadata
+- HTML
 
 ## Path Context
 

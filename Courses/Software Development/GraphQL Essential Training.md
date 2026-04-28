@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/graphql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/GraphQL%20Essential%20Training.md)
 
 ![GraphQL Essential Training](https://media.licdn.com/dms/image/v2/D560DAQFJzRqUCfCnzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709679371916?e=2147483647&amp;v=beta&amp;t=DaYDFmvjAqhKCVT3MiTN-6iGWwdpY0fK72Rc6aFm0z8)
 
@@ -41,21 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359) | 1h 45m | Intermediate | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- GraphQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Setup and Introduction** (5 videos)
+- **3. 2. Types and Schemas** (6 videos)
+- **4. 3. Setting Up Persistence** (4 videos)
+- **5. 4. Mutations** (3 videos)
+- **6. 5. Queries in Depth** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn GraphQL essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980)
@@ -108,7 +108,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setup and Introduction
+### 2. 1. Setup and Introduction
 
 #### IDE and required tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/ide-and-required-tools?u=76281980)
@@ -677,7 +677,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. Types and Schemas
+### 3. 2. Types and Schemas
 
 #### Object types and fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/object-types-and-fields?u=76281980)
@@ -1303,7 +1303,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Setting Up Persistence
+### 4. 3. Setting Up Persistence
 
 #### Installing MongoDB for GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980)
@@ -1811,7 +1811,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1), for example (1)
 
 
-### 4. Mutations
+### 5. 4. Mutations
 
 #### Add new items with mutations
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980)
@@ -2152,7 +2152,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Queries in Depth
+### 6. 5. Queries in Depth
 
 #### Querying all products
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-all-products?u=76281980)
@@ -2403,7 +2403,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/next-steps?u=76281980)
@@ -2430,6 +2430,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- GraphQL
 
 ## Path Context
 

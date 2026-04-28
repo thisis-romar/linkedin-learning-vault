@@ -25,8 +25,10 @@ tags:
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20with%20Cloud%20Computing.md)
 
 ![Cybersecurity with Cloud Computing](https://media.licdn.com/dms/image/v2/C4D0DAQEWS3tcPuXpfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1595272110364?e=2147483647&amp;v=beta&amp;t=OaoOZUfwdBoralWJA8V_mOuGb42SHSehSnmw1qpy6Ak)
 
@@ -37,13 +39,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2) | 2h 35m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Cloud Foundations** (9 videos)
+- **3. 2. Looking at the Clouds** (8 videos)
+- **4. 3. Cloud Flaws, Incidents. and Failures** (6 videos)
+- **5. 4. Hands-On with Cloud Flaws** (4 videos)
+- **6. 5. Cloud Security Management** (5 videos)
+- **7. 6. Cloud Security Capabilities** (7 videos)
+- **8. What's Next** (1 videos)
+
+### 1. Introduction
 
 #### Making your cloud deployments secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/making-your-cloud-deployments-secure?u=76281980)
@@ -84,7 +93,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Cloud Foundations
+### 2. 1. Cloud Foundations
 
 #### Cloud security guidance
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/cloud-security-guidance-23670522?u=76281980)
@@ -670,7 +679,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/cloud-security-certification?u=76281980)
 
 
-### 2. Looking at the Clouds
+### 3. 2. Looking at the Clouds
 
 #### Microsoft Azure cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/microsoft-azure-cloud?u=76281980)
@@ -1315,7 +1324,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Cloud Flaws, Incidents. and Failures
+### 4. 3. Cloud Flaws, Incidents. and Failures
 
 #### Incidents in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/incidents-in-the-cloud?u=76281980)
@@ -1709,7 +1718,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Hands-On with Cloud Flaws
+### 5. 4. Hands-On with Cloud Flaws
 
 #### Threats to cloud deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/threats-to-cloud-deployments?u=76281980)
@@ -1917,7 +1926,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 5. Cloud Security Management
+### 6. 5. Cloud Security Management
 
 #### Architecting governance and risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/architecting-governance-and-risk?u=76281980)
@@ -2354,7 +2363,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Cloud Security Capabilities
+### 7. 6. Cloud Security Capabilities
 
 #### Cryptography foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/cryptography-foundations?u=76281980)
@@ -2972,7 +2981,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### What's Next
+### 8. What's Next
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/next-steps?u=76281980)
@@ -3005,6 +3014,10 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
 
 ## Path Context
 

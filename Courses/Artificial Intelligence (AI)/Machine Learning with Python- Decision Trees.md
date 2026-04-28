@@ -41,8 +41,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20with%20Python-%20Decision%20Trees.md)
 
 ![Machine Learning with Python: Decision Trees](https://media.licdn.com/dms/image/v2/C4E0DAQF5DDnnvDIQiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652891297458?e=2147483647&amp;v=beta&amp;t=DTaqIbbpDj86GHOC8bSWAzfTgEXGbBGU8qCiHperQwg)
 
@@ -53,24 +55,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees) | 1h 14m | Intermediate | 207K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Frederick Nwanganga]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Machine Learning
-- Artificial Intelligence (AI)
-- Decision Trees
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Decision Trees** (6 videos)
+- **3. 2. Working with Classification Trees** (3 videos)
+- **4. 3. Working with Regression Trees** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Making decisions with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/making-decisions-with-python?u=76281980)
@@ -226,7 +221,7 @@ created: 2026-04-21
 > **Env Vars:** csv (1)
 
 
-### 1. Decision Trees
+### 2. 1. Decision Trees
 
 #### What is a decision tree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-is-a-decision-tree?u=76281980)
@@ -814,7 +809,7 @@ created: 2026-04-21
 > **Speakers:** - [man] (1)
 
 
-### 2. Working with Classification Trees
+### 3. 2. Working with Classification Trees
 
 #### How to build a classification tree in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980)
@@ -1140,7 +1135,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Working with Regression Trees
+### 4. 3. Working with Regression Trees
 
 #### How to build a regression tree in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980)
@@ -1519,7 +1514,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps with decision trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980)
@@ -1569,6 +1564,21 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - [frederick] (1)
 
+
+## Instructor
+
+- [[Frederick Nwanganga]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Machine Learning
+- Artificial Intelligence (AI)
+- Decision Trees
 
 ## Path Context
 

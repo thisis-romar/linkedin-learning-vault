@@ -30,8 +30,10 @@ tags:
   - skill/ai-for-marketing
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nano%20Tips%20For%20Marketing%20Using%20AI%20Tools%20with%20Sam%20Dey.md)
 
 ![Nano Tips For Marketing Using AI Tools with Sam Dey](https://media.licdn.com/dms/image/v2/D560DAQFFPLZZQcPBkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706131834975?e=2147483647&amp;v=beta&amp;t=gqPny4qJV4VwAmCThxDjA7nvuiC2chzh-ITjTMea6L0)
 
@@ -42,19 +44,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-marketing-using-ai-tools-with-sam-dey) | 14m | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sam Dey]]
-
-## Skills Covered
-
-- Digital Marketing
-- AI for Marketing
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Use AI for Better Marketing
+### Chapter Overview
+
+- **1. Use AI for Better Marketing** (10 videos)
+
+### 1. Use AI for Better Marketing
 
 #### Introduction to AI in marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-marketing-using-ai-tools-with-sam-dey/introduction-to-ai-in-marketing?u=76281980)
@@ -393,6 +389,16 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Sam Dey]]
+
+## Skills Covered
+
+- Digital Marketing
+- AI for Marketing
+- Artificial Intelligence (AI)
 
 ## Path Context
 

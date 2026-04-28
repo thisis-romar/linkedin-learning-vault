@@ -33,8 +33,10 @@ tags:
   - skill/ubuntu
   - skill/user-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ubuntu%20Linux-%20User%20and%20Group%20Management.md)
 
 ![Ubuntu Linux: User and Group Management](https://media.licdn.com/dms/image/v2/C4E0DAQHWtw6_GGyO_Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669524687?e=2147483647&amp;v=beta&amp;t=3hDsELRr-8QbZ0aMN2K9AEyJ7vm_7n6VXu6_aiEBc0I)
 
@@ -45,19 +47,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management) | 59m | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott Simpson]]
-
-## Skills Covered
-
-- Linux System Administration
-- Ubuntu
-- User Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Local Users and Groups** (7 videos)
+- **3. 2. Authentication Tools** (3 videos)
+- **4. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980)
@@ -266,7 +265,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Local Users and Groups
+### 2. 1. Local Users and Groups
 
 #### Create user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/create-user-accounts?u=76281980)
@@ -914,7 +913,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Authentication Tools
+### 3. 2. Authentication Tools
 
 #### Explore pluggable authentication modules (PAM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/explore-pluggable-authentication-modules-pam?u=76281980)
@@ -1341,7 +1340,7 @@ created: 2026-04-21
 > **UI Navigation:** switch to (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Tools for exploring user logins
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/tools-for-exploring-user-logins?u=76281980)
@@ -1415,6 +1414,16 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - [scott] (1)
 
+
+## Instructor
+
+- [[Scott Simpson]]
+
+## Skills Covered
+
+- Linux System Administration
+- Ubuntu
+- User Management
 
 ## Path Context
 

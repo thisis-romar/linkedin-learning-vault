@@ -28,8 +28,10 @@ tags:
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Spoofing%20In%20Depth.md)
 
 ![Threat Modeling: Spoofing In Depth](https://media.licdn.com/dms/image/v2/C4E0DAQEHc1Iuj6yeBQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628887768698?e=2147483647&amp;v=beta&amp;t=o1FmvN-vbRmN9HT4ojVUbcZk0ALDnxVXCocDarIUdzc)
 
@@ -40,17 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth) | 56m | Intermediate | 68K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Shostack]]
-
-## Skills Covered
-
-- Threat Modeling
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Authentication Basics** (2 videos)
+- **3. 2. Spoofing Authentication Factors** (6 videos)
+- **4. 3. Spoofing Hosts** (5 videos)
+- **5. 4. Spoofing People** (3 videos)
+- **6. 5. Spoofing Files** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Mitigate spoofing threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980)
@@ -187,7 +191,7 @@ created: 2026-04-21
 > **Speakers:** - spoofing (1)
 
 
-### 1. Authentication Basics
+### 2. 1. Authentication Basics
 
 #### Account creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980)
@@ -343,7 +347,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Spoofing Authentication Factors
+### 3. 2. Spoofing Authentication Factors
 
 #### Attacking what you know
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980)
@@ -661,7 +665,7 @@ created: 2026-04-21
 > **Speakers:** - using (1)
 
 
-### 3. Spoofing Hosts
+### 4. 3. Spoofing Hosts
 
 #### Spoofing a host
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-host?u=76281980)
@@ -1026,7 +1030,7 @@ created: 2026-04-21
 > **Best Practices:** the key is (1)
 
 
-### 4. Spoofing People
+### 5. 4. Spoofing People
 
 #### Spoofing a specific person in email
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-specific-person-in-email?u=76281980)
@@ -1190,7 +1194,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 5. Spoofing Files
+### 6. 5. Spoofing Files
 
 #### The nature of "open" and paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/the-nature-of-open-and-paths?u=76281980)
@@ -1390,7 +1394,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Secure by Design: Bring authenticity to your systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/next-steps?u=76281980)
@@ -1422,6 +1426,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - spoofing (1)
 
+
+## Instructor
+
+- [[Adam Shostack]]
+
+## Skills Covered
+
+- Threat Modeling
 
 ## Path Context
 

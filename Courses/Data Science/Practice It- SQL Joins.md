@@ -31,8 +31,10 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Practice%20It-%20SQL%20Joins.md)
 
 ![Practice It: SQL Joins](https://media.licdn.com/dms/image/v2/D4E0DAQE6C_8Je4EAqg/learning-public-crop_675_1200/B4EZdDDjseHcAc-/0/1749176695867?e=2147483647&amp;v=beta&amp;t=ainHQWQXhLW4kmphiQojglbOElUhPLjjNa6m68-lnpE)
 
@@ -43,21 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins) | 55m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nikiya Simpson]]
-
-## Resources
-
-- [GitHub Repository](https://github.com/LinkedInLearning/practice-it-sql-joins-3085459/codespaces)
-
-## Skills Covered
-
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. SQL JOIN and Descriptions** (5 videos)
+- **3. 2. Inner Join** (6 videos)
+- **4. 3. Left Join** (5 videos)
+- **5. 4. Right Join** (5 videos)
+- **6. 5. Cross Join** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980)
@@ -316,7 +316,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. SQL JOIN and Descriptions
+### 2. 1. SQL JOIN and Descriptions
 
 #### SQL commands for determining relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980)
@@ -635,7 +635,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Inner Join
+### 3. 2. Inner Join
 
 #### Understanding inner joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-inner-joins?u=76281980)
@@ -917,7 +917,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 3. Left Join
+### 4. 3. Left Join
 
 #### Understanding left joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-left-joins?u=76281980)
@@ -1129,7 +1129,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Right Join
+### 5. 4. Right Join
 
 #### Understanding right joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-right-joins?u=76281980)
@@ -1280,7 +1280,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Cross Join
+### 6. 5. Cross Join
 
 #### Understanding cross joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-cross-joins?u=76281980)
@@ -1377,7 +1377,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing on with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980)
@@ -1404,6 +1404,18 @@ created: 2026-04-21
 > **CLI Commands:** mysql (1), find (1)
 > **Speakers:** - [nikiya] (1)
 
+
+## Instructor
+
+- [[Nikiya Simpson]]
+
+## Resources
+
+- [GitHub Repository](https://github.com/LinkedInLearning/practice-it-sql-joins-3085459/codespaces)
+
+## Skills Covered
+
+- SQL
 
 ## Path Context
 

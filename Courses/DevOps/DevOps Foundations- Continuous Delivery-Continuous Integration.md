@@ -28,8 +28,10 @@ tags:
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/DevOps%20Foundations-%20Continuous%20Delivery-Continuous%20Integration.md)
 
 ![DevOps Foundations: Continuous Delivery/Continuous Integration](https://media.licdn.com/dms/image/v2/C560DAQFoucftXzxg0w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1640024951192?e=2147483647&amp;v=beta&amp;t=QTDoUDzbLAbWJp42HuYoRhMiG5nu5NRliPfBASTGslQ)
 
@@ -40,14 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917) | 1h 54m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ernest Mueller]]
-- [[James Wickett]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Continuous Integration and Continuous Delivery** (3 videos)
+- **3. 2. Build Your Own Pipeline** (15 videos)
+- **4. 3. Putting It All Together** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### DevOps foundations: CD/CI
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980)
@@ -137,7 +142,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. Continuous Integration and Continuous Delivery
+### 2. 1. Continuous Integration and Continuous Delivery
 
 #### DevOps core concept: CI/CD
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980)
@@ -414,7 +419,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 2. Build Your Own Pipeline
+### 3. 2. Build Your Own Pipeline
 
 #### Introducing the delivery pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980)
@@ -2391,7 +2396,7 @@ created: 2026-04-21
 > **URLs:** [gauntlt.org](https://gauntlt.org) (1), [github.com](https://github.com) (1)
 
 
-### 3. Putting It All Together
+### 4. 3. Putting It All Together
 
 #### CI/CD best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980)
@@ -2627,7 +2632,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980)
@@ -2681,6 +2686,11 @@ created: 2026-04-21
 > **URLs:** [googleblog.com](https://googleblog.com) (1), [theagileadmin.com](https://theagileadmin.com) (1)
 > **Definitions:** is an  (1)
 
+
+## Instructor
+
+- [[Ernest Mueller]]
+- [[James Wickett]]
 
 ## Path Context
 

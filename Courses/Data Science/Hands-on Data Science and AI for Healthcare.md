@@ -31,8 +31,10 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands-on%20Data%20Science%20and%20AI%20for%20Healthcare.md)
 
 ![Hands-on Data Science and AI for Healthcare](https://media.licdn.com/dms/image/v2/D560DAQENDo0afVgyhw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690922397149?e=2147483647&amp;v=beta&amp;t=PlN19dIVekKVKpzAKQUfBNQMzmPisNvAwifUrerZg08)
 
@@ -43,13 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare) | 39m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wuraola Oyewusi]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Disease Prediction Using Machine Learning** (3 videos)
+- **3. 2. Sentiment Analysis of Patient Opinion** (2 videos)
+- **4. 3. Radiology Image Detection Using Computer Vision** (3 videos)
+- **5. 4. Exploratory Data Analysis Using Visualization** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using data science and AI for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/using-data-science-and-ai-for-healthcare-24459176?u=76281980)
@@ -131,7 +138,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 1. Disease Prediction Using Machine Learning
+### 2. 1. Disease Prediction Using Machine Learning
 
 #### Use Case: Diabetes prediction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diabetes-prediction-24459175?u=76281980)
@@ -332,7 +339,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Sentiment Analysis of Patient Opinion
+### 3. 2. Sentiment Analysis of Patient Opinion
 
 #### Use case: Online medication review
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-online-medication-review-24455886?u=76281980)
@@ -404,7 +411,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 3. Radiology Image Detection Using Computer Vision
+### 4. 3. Radiology Image Detection Using Computer Vision
 
 #### Use case: Shoulder implant X-ray manufacturer detection
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-shoulder-implant-x-ray-manufacturer-detection-24452924?u=76281980)
@@ -596,7 +603,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Exploratory Data Analysis Using Visualization
+### 5. 4. Exploratory Data Analysis Using Visualization
 
 #### Use case: Diseases and medications text
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diseases-and-medications-text-24459174?u=76281980)
@@ -733,11 +740,15 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/next-steps-24455885?u=76281980)
 
+
+## Instructor
+
+- [[Wuraola Oyewusi]]
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - skill/digital-accessibility
   - skill/react-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Components%2C%20Context%2C%20and%20Accessibility.md)
 
 ![React: Components, Context, and Accessibility](https://media.licdn.com/dms/image/v2/D560DAQGZpDB3TmKYsA/learning-public-crop_675_1200/B56ZbF5SkzGgAY-/0/1747076852693?e=2147483647&amp;v=beta&amp;t=a2mR-X04ae0V5iUmry6EIX13ITVQmPN_QgoBvxlk3XI)
 
@@ -42,22 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility) | 1h 27m | Advanced | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eve Porcello]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Digital Accessibility
-- React.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What’s New in React** (4 videos)
+- **3. 2. Advanced Components** (4 videos)
+- **4. 3. Enhanced Components** (4 videos)
+- **5. 4. React Patterns** (7 videos)
+- **6. 5. React Accessibility** (6 videos)
+- **7. Conclusion** (1 videos)
+- **8. Appendix** (1 videos)
+
+### 1. Introduction
 
 #### React components, context, and accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/react-components-context-and-accessibility?u=76281980)
@@ -78,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - once (1)
 
 
-### 1. What’s New in React
+### 2. 1. What’s New in React
 
 #### Rendering arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980)
@@ -396,7 +396,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Advanced Components
+### 3. 2. Advanced Components
 
 #### Compound components
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/compound-components-2?u=76281980)
@@ -608,7 +608,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Enhanced Components
+### 4. 3. Enhanced Components
 
 #### Working with fragments
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-fragments?u=76281980)
@@ -910,7 +910,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. React Patterns
+### 5. 4. React Patterns
 
 #### Understanding the context API
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/understanding-the-context-api?u=76281980)
@@ -1502,7 +1502,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. React Accessibility
+### 6. 5. React Accessibility
 
 #### Web accessibility overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/web-accessibility-overview?u=76281980)
@@ -1869,7 +1869,7 @@ created: 2026-04-21
 > **Non-Speech:** (light upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980)
@@ -1900,7 +1900,7 @@ created: 2026-04-21
 > **Speakers:** - [eve] (1)
 
 
-### Appendix
+### 8. Appendix
 
 #### Using the exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-the-exercise-files?u=76281980)
@@ -1933,6 +1933,19 @@ created: 2026-04-21
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Eve Porcello]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Digital Accessibility
+- React.js
 
 ## Path Context
 

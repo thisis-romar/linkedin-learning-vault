@@ -26,8 +26,10 @@ tags:
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Miro%20for%20UX-%20Brainstorming%20and%20Collaboration.md)
 
 ![Miro for UX: Brainstorming and Collaboration](https://media.licdn.com/dms/image/v2/C560DAQFgqeXIp0Ubsw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633713305453?e=2147483647&amp;v=beta&amp;t=WHnqW_dNXfmmMy1zwq8d7-obmmvh7Yj_-XvKnAwSHUI)
 
@@ -38,21 +40,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration) | 50m | 98K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brian Wood]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- User Experience Design (UED)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Get Started with Collaborative Sessions** (6 videos)
+- **3. 2. Create a Brainstorming Session with Brainwriting** (2 videos)
+- **4. 3. Create a Mind Map for Organizing Ideas** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Miro for brainstorming and collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/miro-for-brainstorming-and-collaboration?u=76281980)
@@ -120,7 +118,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Get Started with Collaborative Sessions
+### 2. 1. Get Started with Collaborative Sessions
 
 #### Different types of brainstorming ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/different-types-of-brainstorming-ideas?u=76281980)
@@ -1105,7 +1103,7 @@ created: 2026-04-21
 > **Speakers:** - [brian] (1)
 
 
-### 2. Create a Brainstorming Session with Brainwriting
+### 3. 2. Create a Brainstorming Session with Brainwriting
 
 #### Exploring the benefits of brainwriting
 > [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/exploring-the-benefits-of-brainwriting?u=76281980)
@@ -1456,7 +1454,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Create a Mind Map for Organizing Ideas
+### 4. 3. Create a Mind Map for Organizing Ideas
 
 #### Exploring the benefits of mind mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/exploring-the-benefits-of-mind-mapping?u=76281980)
@@ -1680,7 +1678,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/next-steps?u=76281980)
@@ -1702,6 +1700,18 @@ created: 2026-04-21
 > **Code Keywords:** this. (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Brian Wood]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- User Experience Design (UED)
 
 ## Path Context
 

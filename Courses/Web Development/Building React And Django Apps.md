@@ -26,8 +26,10 @@ tags:
   - skill/django
   - skill/react-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20React%20And%20Django%20Apps.md)
 
 ![Building React And Django Apps](https://media.licdn.com/dms/image/v2/C4E0DAQE3ZPEPGGQhTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1575482817132?e=2147483647&amp;v=beta&amp;t=FxUZUssqRVxIovN5XmfE2NvZQyiQ3PGQONsF0zuuMRk)
 
@@ -38,18 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps) | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Django
-- React.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Django and React Preparation** (4 videos)
+- **3. 2. Filtering and Pagination with Django and React** (8 videos)
+- **4. 3. Forms with React and Django** (7 videos)
+- **5. 4. Refactoring React with Hooks and Higher-Order Components** (4 videos)
+- **6. 5. Testing React and Django** (7 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Create a full-stack React app with Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980)
@@ -138,7 +141,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Django and React Preparation
+### 2. 1. Django and React Preparation
 
 #### Running the React and Django development servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980)
@@ -255,7 +258,7 @@ created: 2026-04-21
 > **Speakers:** - react (1)
 
 
-### 2. Filtering and Pagination with Django and React
+### 3. 2. Filtering and Pagination with Django and React
 
 #### Creating a ViewSet with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-viewset-with-django?u=76281980)
@@ -640,7 +643,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Forms with React and Django
+### 4. 3. Forms with React and Django
 
 #### Handling creating models with Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980)
@@ -937,7 +940,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Refactoring React with Hooks and Higher-Order Components
+### 5. 4. Refactoring React with Hooks and Higher-Order Components
 
 #### Using timers with state to display data
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/using-timers-with-state-to-display-data?u=76281980)
@@ -1108,7 +1111,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Testing React and Django
+### 6. 5. Testing React and Django
 
 #### Unit testing a component
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-a-component?u=76281980)
@@ -1366,7 +1369,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980)
@@ -1385,6 +1388,15 @@ created: 2026-04-21
 > **Code Keywords:** interface (1)
 > **Speakers:** - [rudolf] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Django
+- React.js
 
 ## Path Context
 

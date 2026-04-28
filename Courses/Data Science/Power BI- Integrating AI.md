@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI-%20Integrating%20AI.md)
 
 ![Power BI: Integrating AI](https://media.licdn.com/dms/image/v2/D560DAQGO1pcjVw3clg/learning-public-crop_675_1200/B56ZgfQ3K3HQAc-/0/1752871171037?e=2147483647&amp;v=beta&amp;t=MlCg90U9FgA6KxNRJozL_hjkyQsFUxotSuWTStR31Qg)
 
@@ -48,24 +50,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai) | 3h 34m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Helen Wall]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/power-bi-integrating-ai-3918467)
-
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-- Microsoft Power BI
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. How Can We Use AI in Power BI?** (10 videos)
+- **3. 2. Configuring the Semantic Model and Power Query** (8 videos)
+- **4. 3. Analyzing Data Loaded into a Model** (4 videos)
+- **5. 4. Analyzing Trends** (6 videos)
+- **6. 5. Analyzing Groups** (9 videos)
+- **7. 6. Determining Outliers and Anomalies** (6 videos)
+- **8. 7. Natural Language Processing Visuals** (2 videos)
+
+### 1. Introduction
 
 #### The power of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980)
@@ -139,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. How Can We Use AI in Power BI?
+### 2. 1. How Can We Use AI in Power BI?
 
 #### Overviewing AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980)
@@ -863,7 +861,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Configuring the Semantic Model and Power Query
+### 3. 2. Configuring the Semantic Model and Power Query
 
 #### Choosing Power BI visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/choosing-power-bi-visuals?u=76281980)
@@ -1525,7 +1523,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Analyzing Data Loaded into a Model
+### 4. 3. Analyzing Data Loaded into a Model
 
 #### Utilizing the decomposition tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-decomposition-tree?u=76281980)
@@ -1800,7 +1798,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Analyzing Trends
+### 5. 4. Analyzing Trends
 
 #### Finding clusters
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980)
@@ -2355,7 +2353,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### 5. Analyzing Groups
+### 6. 5. Analyzing Groups
 
 #### Calculating linear regression coefficients
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980)
@@ -3067,7 +3065,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Determining Outliers and Anomalies
+### 7. 6. Determining Outliers and Anomalies
 
 #### Calculating rolling averages
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980)
@@ -3591,7 +3589,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Natural Language Processing Visuals
+### 8. 7. Natural Language Processing Visuals
 
 #### Putting everything together
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/putting-everything-together?u=76281980)
@@ -3655,6 +3653,21 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Helen Wall]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/power-bi-integrating-ai-3918467)
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
+- Microsoft Power BI
 
 ## Path Context
 

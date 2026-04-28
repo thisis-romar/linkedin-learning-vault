@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/ratio-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Running%20a%20Profitable%20Business-%20Understanding%20Financial%20Ratios.md)
 
 ![Running a Profitable Business: Understanding Financial Ratios](https://media.licdn.com/dms/image/v2/C4D0DAQHSLcJxFmDlkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578950375903?e=2147483647&amp;v=beta&amp;t=v8n2zKRmg2HLVH3IPLJmEspEO_q1zUJpjiXh-cdVJjs)
 
@@ -40,22 +42,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios) | 1h 49m | Beginner | 322K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jim Stice]]
-- [[Kay Stice]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Ratio Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Financial Ratio Analysis?** (1 videos)
+- **3. 2. A Review of the Financial Statements** (4 videos)
+- **4. 3. The DuPont Framework** (5 videos)
+- **5. 4. Common-Size Financial Statements** (4 videos)
+- **6. 5. Profitability Ratios** (4 videos)
+- **7. 6. Efficiency Ratios** (5 videos)
+- **8. 7. Leverage Ratios** (3 videos)
+- **9. 8. Potential Pitfalls to Ratio Analysis** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Gain financial insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/gain-financial-insights?u=76281980)
@@ -117,7 +119,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1), in other words (1)
 
 
-### 1. What Is Financial Ratio Analysis?
+### 2. 1. What Is Financial Ratio Analysis?
 
 #### Introduction to financial ratio analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/introduction-to-financial-ratio-analysis-2?u=76281980)
@@ -201,7 +203,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. A Review of the Financial Statements
+### 3. 2. A Review of the Financial Statements
 
 #### What are the financial statements?
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-are-the-financial-statements-2?u=76281980)
@@ -709,7 +711,7 @@ created: 2026-04-21
 > **Speakers:** - third (1)
 
 
-### 3. The DuPont Framework
+### 4. 3. The DuPont Framework
 
 #### The DuPont company: creating accounting history
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980)
@@ -1120,7 +1122,7 @@ created: 2026-04-21
 > **Speakers:** - okay (1)
 
 
-### 4. Common-Size Financial Statements
+### 5. 4. Common-Size Financial Statements
 
 #### Olympic medals and GDP per capita
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/olympic-medals-and-gdp-per-capita?u=76281980)
@@ -1566,7 +1568,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 5. Profitability Ratios
+### 6. 5. Profitability Ratios
 
 #### McDonald's most profitable items
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980)
@@ -1919,7 +1921,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 6. Efficiency Ratios
+### 7. 6. Efficiency Ratios
 
 #### Mark-up vs. profitability: Harry Winston vs. Walmart
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mark-up-vs-profitability-harry-winston-vs-walmart?u=76281980)
@@ -2435,7 +2437,7 @@ created: 2026-04-21
 > **Speakers:** - okay (1)
 
 
-### 7. Leverage Ratios
+### 8. 7. Leverage Ratios
 
 #### Singapore Airlines' low leverage
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/singapore-airlines-low-leverage?u=76281980)
@@ -2765,7 +2767,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 8. Potential Pitfalls to Ratio Analysis
+### 9. 8. Potential Pitfalls to Ratio Analysis
 
 #### Historical data pitfalls and baseball
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980)
@@ -3064,7 +3066,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### What financial ratio analysis can NOT do
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-financial-ratio-analysis-can-not-do?u=76281980)
@@ -3131,6 +3133,19 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 
+
+## Instructor
+
+- [[Jim Stice]]
+- [[Kay Stice]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Ratio Analysis
 
 ## Path Context
 

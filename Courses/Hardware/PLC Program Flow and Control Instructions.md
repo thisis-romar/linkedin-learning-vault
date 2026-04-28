@@ -28,8 +28,10 @@ tags:
   - topic/hardware
   - skill/plc-ladder-logic
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/PLC%20Program%20Flow%20and%20Control%20Instructions.md)
 
 ![PLC Program Flow and Control Instructions](https://media.licdn.com/dms/image/v2/C4E0DAQH7WzdT8xZtLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602860356984?e=2147483647&amp;v=beta&amp;t=nq9HIO7d69cXYHqEFwISzC0eSvcZDnHx6taNLhDK0YA)
 
@@ -40,21 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions) | 43m | Advanced | 183K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Zahraa Khalil]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- PLC Ladder Logic
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Bit Shift Register** (6 videos)
+- **3. 2. Word Shift Operations** (9 videos)
+- **4. 3. Program Flow Control Instructions** (9 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### PLC program flow and control
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980)
@@ -110,7 +108,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Bit Shift Register
+### 2. 1. Bit Shift Register
 
 #### Concepts of bits and words
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980)
@@ -367,7 +365,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Word Shift Operations
+### 3. 2. Word Shift Operations
 
 #### Word shift operations intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/word-shift-operations-intro?u=76281980)
@@ -715,7 +713,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Program Flow Control Instructions
+### 4. 3. Program Flow Control Instructions
 
 #### Intro to program control instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/intro-to-program-control-instructions?u=76281980)
@@ -977,7 +975,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980)
@@ -998,6 +996,18 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Zahraa Khalil]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- PLC Ladder Logic
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Visualizing%20Advanced%20Charts%20and%20Graphs.md)
 
 ![Visualizing Advanced Charts and Graphs](https://media.licdn.com/dms/image/v2/D560DAQGxHN40kA5y4A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696358158544?e=2147483647&amp;v=beta&amp;t=dnK8SIIXkU4M_c-wdlIRV9DmN4Lk6wruOlDiCQ1KucY)
 
@@ -41,21 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs) | 2h 12m | Advanced | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Amy Balliett]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Using Advanced Charts and Graphs** (3 videos)
+- **3. 2. Advanced Distribution Charts and Graphs** (6 videos)
+- **4. 3. Advanced Comparison Charts and Graphs** (6 videos)
+- **5. 4. Advanced Relationship Charts and Graphs** (4 videos)
+- **6. 5. Advanced Composition Charts and Graphs** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Moving beyond basic data viz
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/moving-beyond-basic-data-viz?u=76281980)
@@ -170,7 +170,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 1. Using Advanced Charts and Graphs
+### 2. 1. Using Advanced Charts and Graphs
 
 #### What makes a chart or graph advanced?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-makes-a-chart-or-graph-advanced?u=76281980)
@@ -356,7 +356,7 @@ created: 2026-04-21
 > **Definitions:** in other words (1)
 
 
-### 2. Advanced Distribution Charts and Graphs
+### 3. 2. Advanced Distribution Charts and Graphs
 
 #### What are distribution charts and graphs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980)
@@ -870,7 +870,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### 3. Advanced Comparison Charts and Graphs
+### 4. 3. Advanced Comparison Charts and Graphs
 
 #### What are comparison charts and graphs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-comparison-charts-and-graphs?u=76281980)
@@ -1523,7 +1523,7 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 
 
-### 4. Advanced Relationship Charts and Graphs
+### 5. 4. Advanced Relationship Charts and Graphs
 
 #### What are relationship charts and graphs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-relationship-charts-and-graphs?u=76281980)
@@ -1873,7 +1873,7 @@ created: 2026-04-21
 > **URLs:** [usafacts.org](https://usafacts.org) (1)
 
 
-### 5. Advanced Composition Charts and Graphs
+### 6. 5. Advanced Composition Charts and Graphs
 
 #### What are composition charts and graphs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-composition-charts-and-graphs?u=76281980)
@@ -2231,7 +2231,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing to hone your advanced data visualization skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980)
@@ -2288,6 +2288,18 @@ created: 2026-04-21
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
 
+
+## Instructor
+
+- [[Amy Balliett]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Visualization
 
 ## Path Context
 

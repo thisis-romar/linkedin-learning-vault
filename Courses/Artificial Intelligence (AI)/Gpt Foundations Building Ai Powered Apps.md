@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Gpt%20Foundations%20Building%20Ai%20Powered%20Apps.md)
 
 ![Gpt Foundations Building Ai Powered Apps](https://media.licdn.com/dms/image/v2/D4E0DAQF8Rldj7AptpA/learning-public-crop_675_1200/B4EZfwRMnOHgAY-/0/1752082730236?e=2147483647&amp;v=beta&amp;t=6pv0Tr99EIJLxxqzeyE-RiTN2Timz4oj1teISKQl-Vw)
 
@@ -47,23 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps) | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Denys Linkov]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- ChatGPT
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to OpenAI** (2 videos)
+- **3. 2. Beginner Prompting** (4 videos)
+- **4. 3. Intermediate Prompting** (5 videos)
+- **5. 4. Advanced Prompting** (5 videos)
+- **6. 5. Building a BigStarCollectibles Chatbot** (8 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to GPT-4 foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980)
@@ -90,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. Introduction to OpenAI
+### 2. 1. Introduction to OpenAI
 
 #### Getting started with ChatGPT-4
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/getting-started-with-chatgpt?u=76281980)
@@ -329,7 +327,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### 2. Beginner Prompting
+### 3. 2. Beginner Prompting
 
 #### Introduction to prompting
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980)
@@ -619,7 +617,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Intermediate Prompting
+### 4. 3. Intermediate Prompting
 
 #### Summarization and classification prompt techniques with GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980)
@@ -1025,7 +1023,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Advanced Prompting
+### 5. 4. Advanced Prompting
 
 #### Configuring the system prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/configuring-the-system-prompt?u=76281980)
@@ -1545,7 +1543,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### 5. Building a BigStarCollectibles Chatbot
+### 6. 5. Building a BigStarCollectibles Chatbot
 
 #### Vibe coding a chatbot with GPT-4
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980)
@@ -2406,7 +2404,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980)
@@ -2430,6 +2428,20 @@ created: 2026-04-21
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Denys Linkov]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- ChatGPT
 
 ## Path Context
 

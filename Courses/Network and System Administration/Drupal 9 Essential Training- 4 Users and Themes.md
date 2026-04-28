@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%204%20Users%20and%20Themes.md)
 
 ![Drupal 9 Essential Training: 4 Users and Themes](https://media.licdn.com/dms/image/v2/C4E0DAQERTuy6ZiCz5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615309636107?e=2147483647&amp;v=beta&amp;t=MnDHzHCAn8VbrFsYXAdrByFew4Fk09Lg3zRRQ3xVe4w)
 
@@ -40,18 +42,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes) | 35m | Beginner
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[OSTraining]]
-- [[Rod Martin]]
-
-## Skills Covered
-
-- Drupal
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Users Explained** (5 videos)
+- **3. 2. Themes Explained** (2 videos)
+
+### 1. Introduction
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980)
@@ -87,7 +86,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 1. Users Explained
+### 2. 1. Users Explained
 
 #### Introduction and the user workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-and-the-user-workflow?u=76281980)
@@ -645,7 +644,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Themes Explained
+### 3. 2. Themes Explained
 
 #### Themes explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980)
@@ -891,6 +890,15 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 
+
+## Instructor
+
+- [[OSTraining]]
+- [[Rod Martin]]
+
+## Skills Covered
+
+- Drupal
 
 ## Path Context
 

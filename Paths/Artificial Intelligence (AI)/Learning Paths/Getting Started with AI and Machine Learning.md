@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-ai-and-machine
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 4
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -45,8 +45,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Getting%20Started%20with%20AI%20and%20Machine%20Learning.md)
 
 # Getting Started with AI and Machine Learning
 

@@ -29,8 +29,10 @@ tags:
   - topic/database-management
   - skill/data-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Management%20Essential%20Training.md)
 
 ![Data Management Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQFW4dpBsSvoow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734136974842?e=2147483647&amp;v=beta&amp;t=KBNYc420ZvEscs1kra6bHaouh8z8nvODggbNcp5aku4)
 
@@ -41,17 +43,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training) | 2h 49m | Beginner | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jess Pomfret]]
-
-## Skills Covered
-
-- Data Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Fundamentals of Data Management** (8 videos)
+- **3. 2. Data Collection and Acquisition** (9 videos)
+- **4. 3. Data Processing and Integration** (9 videos)
+- **5. 4. Data Storage and Management** (8 videos)
+- **6. 5. Data Analysis and Interpretation** (8 videos)
+- **7. 6. Data Visualization and Reporting** (9 videos)
+- **8. 7. Data Governance and Compliance** (8 videos)
+- **9. 8. Data Management Meets AI** (7 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Dive into data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/dive-into-data-management?u=76281980)
@@ -119,7 +126,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Fundamentals of Data Management
+### 2. 1. Fundamentals of Data Management
 
 #### Introduction to data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-management?u=76281980)
@@ -572,7 +579,7 @@ created: 2026-04-21
 > **Speakers:** - data (1)
 
 
-### 2. Data Collection and Acquisition
+### 3. 2. Data Collection and Acquisition
 
 #### Introduction to data collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-collection?u=76281980)
@@ -1177,7 +1184,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Data Processing and Integration
+### 4. 3. Data Processing and Integration
 
 #### Introduction to data processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-processing?u=76281980)
@@ -1730,7 +1737,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data Storage and Management
+### 5. 4. Data Storage and Management
 
 #### Introduction to data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-storage?u=76281980)
@@ -2165,7 +2172,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Data Analysis and Interpretation
+### 6. 5. Data Analysis and Interpretation
 
 #### Introduction to data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-analysis?u=76281980)
@@ -2516,7 +2523,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Data Visualization and Reporting
+### 7. 6. Data Visualization and Reporting
 
 #### Introduction to data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-visualization?u=76281980)
@@ -3012,7 +3019,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Data Governance and Compliance
+### 8. 7. Data Governance and Compliance
 
 #### Introduction to data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-governance?u=76281980)
@@ -3481,7 +3488,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Data Management Meets AI
+### 9. 8. Data Management Meets AI
 
 #### Introduction to AI in data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-ai-in-data-management?u=76281980)
@@ -3848,7 +3855,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/next-steps?u=76281980)
@@ -3888,6 +3895,14 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Jess Pomfret]]
+
+## Skills Covered
+
+- Data Management
 
 ## Path Context
 

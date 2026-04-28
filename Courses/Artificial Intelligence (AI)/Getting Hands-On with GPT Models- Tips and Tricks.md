@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Getting%20Hands-On%20with%20GPT%20Models-%20Tips%20and%20Tricks.md)
 
 ![Getting Hands-On with GPT Models: Tips and Tricks](https://media.licdn.com/dms/image/v2/D4E0DAQFIfHHuNXRfxw/learning-public-crop_675_1200/B4EZei_GFCHsAY-/0/1750786139288?e=2147483647&amp;v=beta&amp;t=pOiWDVmbWGXmOfuKs-uIf3tlUnTCkRTgBpRQojBLyJM)
 
@@ -46,23 +48,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks) | 49m | Advanced | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Denys Linkov]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- OpenAI API
-- Artificial Intelligence (AI)
-- ChatGPT
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Refresh Your Basic Prompting Practice** (5 videos)
+- **3. 2. Advance Your Prompts to Improve Results** (6 videos)
+- **4. 3. Learn How to Code with ChatGPT** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Level up your ChatGPT skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/level-up-your-chatgpt-skills?u=76281980)
@@ -217,7 +213,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Refresh Your Basic Prompting Practice
+### 2. 1. Refresh Your Basic Prompting Practice
 
 #### Brainstorming with GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980)
@@ -628,7 +624,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Advance Your Prompts to Improve Results
+### 3. 2. Advance Your Prompts to Improve Results
 
 #### An overview of OpenAI GPT and Reasoning Models
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980)
@@ -1066,7 +1062,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Learn How to Code with ChatGPT
+### 4. 3. Learn How to Code with ChatGPT
 
 #### Interpreting code with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/interpreting-code-with-chatgpt?u=76281980)
@@ -1697,7 +1693,7 @@ created: 2026-04-21
 > **File Paths:** api.txt (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/next-steps-26249246?u=76281980)
@@ -1721,6 +1717,20 @@ created: 2026-04-21
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Denys Linkov]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- OpenAI API
+- Artificial Intelligence (AI)
+- ChatGPT
 
 ## Path Context
 

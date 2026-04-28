@@ -32,32 +32,34 @@ tags:
   - skill/network-administration
   - skill/computer-networking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Computing-%20Understanding%20Networking.md)
 
 ![Cloud Computing: Understanding Networking](https://media.licdn.com/dms/image/v2/D560DAQGvYJXudczV6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709157556433?e=2147483647&amp;v=beta&amp;t=9TXeFW4EW7R0jy2W9xDJGpxMZ875O7WDKUF3UGjuMeI)
 
 # Cloud Computing: Understanding Networking
 
-> Understanding the ins and outs of networking—how it works, how it interacts with your existing enterprise network, and how to work with different networking services—is crucial. In this course, explore the fundamentals of cloud networking.
-Instructor David Linthicum begins with the basics of networking, including the basics of public, private, hybrid, and multicloud architectures. David includes c
+> Understanding the ins and outs of networking—how it works, how it interacts with your existing enterprise network, and how to work with different networking services—is crucial. In this course, explore the fundamentals of cloud networking. Instructor David Linthicum begins with the basics of networking, including the basics of public, private, hybrid, and multicloud architectures. David includes c
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking) | 49m | Beginner | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Linthicum]]
-
-## Skills Covered
-
-- Cloud Computing
-- Network Administration
-- Computer Networking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Cloud Computing Networking** (3 videos)
+- **3. 2. Virtual Networks in the Cloud** (3 videos)
+- **4. 3. Cloud-Based Network Services** (5 videos)
+- **5. 4. Network Security in the Cloud** (4 videos)
+- **6. 5. Interconnecting Cloud Networks** (4 videos)
+- **7. 6. Network Monitoring and Troubleshooting** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/welcome?u=76281980)
@@ -84,7 +86,7 @@ Instructor David Linthicum begins with the basics of networking, including the b
 > **Speakers:** - welcome (1)
 
 
-### 1. Introduction to Cloud Computing Networking
+### 2. 1. Introduction to Cloud Computing Networking
 
 #### Cloud computing basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980)
@@ -250,7 +252,7 @@ Instructor David Linthicum begins with the basics of networking, including the b
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Virtual Networks in the Cloud
+### 3. 2. Virtual Networks in the Cloud
 
 #### Understanding virtual networks and their purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980)
@@ -401,7 +403,7 @@ Instructor David Linthicum begins with the basics of networking, including the b
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Cloud-Based Network Services
+### 4. 3. Cloud-Based Network Services
 
 #### Cloud-based network services: DNS, DHCP, and VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980)
@@ -664,7 +666,7 @@ Instructor David Linthicum begins with the basics of networking, including the b
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Network Security in the Cloud
+### 5. 4. Network Security in the Cloud
 
 #### Cloud security and its challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980)
@@ -901,7 +903,7 @@ Instructor David Linthicum begins with the basics of networking, including the b
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Interconnecting Cloud Networks
+### 6. 5. Interconnecting Cloud Networks
 
 #### Establishing connectivity between cloud environments
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/establishing-connectivity-between-cloud-environments?u=76281980)
@@ -1106,7 +1108,7 @@ Instructor David Linthicum begins with the basics of networking, including the b
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Network Monitoring and Troubleshooting
+### 7. 6. Network Monitoring and Troubleshooting
 
 #### Network monitoring tools and techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980)
@@ -1294,7 +1296,7 @@ Instructor David Linthicum begins with the basics of networking, including the b
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Learning more about cloud networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/learning-more-about-cloud-networking?u=76281980)
@@ -1339,6 +1341,16 @@ Instructor David Linthicum begins with the basics of networking, including the b
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[David Linthicum]]
+
+## Skills Covered
+
+- Cloud Computing
+- Network Administration
+- Computer Networking
 
 ## Path Context
 

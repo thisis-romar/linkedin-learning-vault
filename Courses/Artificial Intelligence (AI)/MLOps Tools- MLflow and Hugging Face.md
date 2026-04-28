@@ -37,8 +37,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/hugging-face-products
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/MLOps%20Tools-%20MLflow%20and%20Hugging%20Face.md)
 
 ![MLOps Tools: MLflow and Hugging Face](https://media.licdn.com/dms/image/v2/D4E0DAQETfg1FS6Ddug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727129495332?e=2147483647&amp;v=beta&amp;t=N0mHXgJiGkQgJF_WSRhi9Lxw7EpFW-1onQtKPrdk9pQ)
 
@@ -49,26 +51,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face) | 5h 14m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Alfredo Deza]]
-- [[Pragmatic AI Labs]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- MLflow
-- Machine Learning
-- MLOps
-- Artificial Intelligence (AI)
-- Hugging Face Products
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to MLflow** (4 videos)
+- **3. 2. MLflow Projects** (4 videos)
+- **4. 3. MLflow Models** (4 videos)
+- **5. 4. Introduction to Hugging Face** (5 videos)
+- **6. 5. Introduction to Applied Hugging Face** (3 videos)
+- **7. 6. Using Hugging Face** (6 videos)
+- **8. 7. Packaging Hugging Face** (4 videos)
+- **9. 8. Hugging Face and Azure ML Studio** (5 videos)
+- **10. 9. Hugging Face Automation** (4 videos)
+- **11. 10. Hugging Face with Azure Containers** (4 videos)
+- **12. 11. Fine-Tuning and ONNX Exporting** (4 videos)
+- **13. 12. Hugging Face Spaces** (3 videos)
+
+### 1. Introduction
 
 #### MLOps platforms introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980)
@@ -118,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - welcome (1)
 
 
-### 1. Introduction to MLflow
+### 2. 1. Introduction to MLflow
 
 #### Overview of MLflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980)
@@ -783,7 +784,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (2)
 
 
-### 2. MLflow Projects
+### 3. 2. MLflow Projects
 
 #### Working with MLflow projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980)
@@ -1260,7 +1261,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. MLflow Models
+### 4. 3. MLflow Models
 
 #### Components of the MLflow package
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980)
@@ -1791,7 +1792,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1), is a  (1)
 
 
-### 4. Introduction to Hugging Face
+### 5. 4. Introduction to Hugging Face
 
 #### What is Hugging Face?
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980)
@@ -2568,7 +2569,7 @@ created: 2026-04-21
 > **Tools:** command line (2), github (1)
 
 
-### 5. Introduction to Applied Hugging Face
+### 6. 5. Introduction to Applied Hugging Face
 
 #### Introduction to applied Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-applied-hugging-face?u=76281980)
@@ -2777,7 +2778,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 6. Using Hugging Face
+### 7. 6. Using Hugging Face
 
 #### Using the Model Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980)
@@ -3802,7 +3803,7 @@ created: 2026-04-21
 > **Tools:** command line (2)
 
 
-### 7. Packaging Hugging Face
+### 8. 7. Packaging Hugging Face
 
 #### Hugging Face and FastAPI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980)
@@ -4311,7 +4312,7 @@ created: 2026-04-21
 > **Definitions:** means that (2), is a  (1)
 
 
-### 8. Hugging Face and Azure ML Studio
+### 9. 8. Hugging Face and Azure ML Studio
 
 #### Hugging Face and Azure ML Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980)
@@ -4920,7 +4921,7 @@ created: 2026-04-21
 > **UI Navigation:** select the (1)
 
 
-### 9. Hugging Face Automation
+### 10. 9. Hugging Face Automation
 
 #### Using GitHub Actions for model deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980)
@@ -5468,7 +5469,7 @@ created: 2026-04-21
 > **Definitions:** means that (2)
 
 
-### 10. Hugging Face with Azure Containers
+### 11. 10. Hugging Face with Azure Containers
 
 #### Create an Azure container application
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980)
@@ -6061,7 +6062,7 @@ created: 2026-04-21
 > **Warnings:** watch out (1)
 
 
-### 11. Fine-Tuning and ONNX Exporting
+### 12. 11. Fine-Tuning and ONNX Exporting
 
 #### Introduction to fine-tuning theory
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-fine-tuning-theory?u=76281980)
@@ -6538,7 +6539,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Hugging Face Spaces
+### 13. 12. Hugging Face Spaces
 
 #### Introduction to Hugging Face Spaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980)
@@ -6831,6 +6832,23 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Alfredo Deza]]
+- [[Pragmatic AI Labs]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- MLflow
+- Machine Learning
+- MLOps
+- Artificial Intelligence (AI)
+- Hugging Face Products
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - skill/red-hat-enterprise-linux-rhel
   - skill/ansible
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20Engineer%20(EX294)%20Cert%20Prep-%202%20Using%20Ansible%20Playbooks.md)
 
 ![Red Hat Certified Engineer (EX294) Cert Prep: 2 Using Ansible Playbooks](https://media.licdn.com/dms/image/v2/C4E0DAQEhLaaGVi-Knw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1596035537068?e=2147483647&amp;v=beta&amp;t=yba5RSww1EnvyDCoCsZ-3teZB-kFUTftO80DDhUzyAg)
 
@@ -42,22 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks) | 2h 31m | Intermediate | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Grant McWilliams]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Red Hat Enterprise Linux (RHEL)
-- Ansible
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Working with Playbooks** (9 videos)
+- **3. 2. Creating Reusable Playbooks** (5 videos)
+- **4. 3. Using Variables** (4 videos)
+- **5. 4. Using Flow Control** (6 videos)
+- **6. 5. Grouping Content** (3 videos)
+- **7. 6. Using Ansible to Deploy Files** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980)
@@ -379,7 +379,7 @@ created: 2026-04-21
 > **Env Vars:** url (1)
 
 
-### 1. Working with Playbooks
+### 2. 1. Working with Playbooks
 
 #### Introduction to playbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980)
@@ -1223,7 +1223,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 2. Creating Reusable Playbooks
+### 3. 2. Creating Reusable Playbooks
 
 #### Create structured configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980)
@@ -1772,7 +1772,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 3. Using Variables
+### 4. 3. Using Variables
 
 #### Setting inventory and playbook variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980)
@@ -2207,7 +2207,7 @@ created: 2026-04-21
 > **URLs:** [localnet.com](https://localnet.com) (1)
 
 
-### 4. Using Flow Control
+### 5. 4. Using Flow Control
 
 #### The when statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/the-when-statement?u=76281980)
@@ -2776,7 +2776,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 5. Grouping Content
+### 6. 5. Grouping Content
 
 #### Using blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-blocks?u=76281980)
@@ -3053,7 +3053,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Using Ansible to Deploy Files
+### 7. 6. Using Ansible to Deploy Files
 
 #### Using Jinja2 template files
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980)
@@ -3392,7 +3392,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980)
@@ -3422,6 +3422,19 @@ created: 2026-04-21
 > **Code Keywords:** static (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Grant McWilliams]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Red Hat Enterprise Linux (RHEL)
+- Ansible
 
 ## Path Context
 

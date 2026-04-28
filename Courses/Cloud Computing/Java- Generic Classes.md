@@ -31,8 +31,10 @@ tags:
   - skill/generic-programming
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Java-%20Generic%20Classes.md)
 
 ![Java: Generic Classes](https://media.licdn.com/dms/image/v2/C560DAQF4tQxK1or_Qg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644347162461?e=2147483647&amp;v=beta&amp;t=82M3Js_qxbEHJ5o5nibZaO8oOAvz54kUEsiIibnqYCA)
 
@@ -43,22 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260) | 2h 38m | Intermediate | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ketkee Aryamane]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generic Programming
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Fundamentals of Generics** (5 videos)
+- **3. 2. Generic Classes and Methods** (7 videos)
+- **4. 3. Generics: Deep Dive** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Generics in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generics-in-java?u=76281980)
@@ -142,7 +139,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Fundamentals of Generics
+### 2. 1. Fundamentals of Generics
 
 #### Understand the need for generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980)
@@ -953,7 +950,7 @@ created: 2026-04-21
 > **Speakers:** - [instructors] (1)
 
 
-### 2. Generic Classes and Methods
+### 3. 2. Generic Classes and Methods
 
 #### Generic classes/interface use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-classes-interface-use-case?u=76281980)
@@ -2149,7 +2146,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Generics: Deep Dive
+### 4. 3. Generics: Deep Dive
 
 #### Generic class hierarchies
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-class-hierarchies?u=76281980)
@@ -3256,7 +3253,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/where-to-go-from-here?u=76281980)
@@ -3287,6 +3284,19 @@ created: 2026-04-21
 > **Env Vars:** jee (1)
 > **Speakers:** - [ketkee] (1)
 
+
+## Instructor
+
+- [[Ketkee Aryamane]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generic Programming
+- Java
 
 ## Path Context
 

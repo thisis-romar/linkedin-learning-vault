@@ -35,8 +35,10 @@ tags:
   - skill/human-in-the-loop-machine-learning
   - skill/data-annotation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Executive%20Guide%20to%20Human-in-the-Loop%20Machine%20Learning%20and%20Data%20Annotation.md)
 
 ![Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation](https://media.licdn.com/dms/image/v2/D560DAQGiePzGMx901g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702079408571?e=2147483647&amp;v=beta&amp;t=0hMvzc716f_YGqD5Z-gV8oe5jo-M8JmOd2BP2f2s-E4)
 
@@ -47,20 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation) | 1h 2m | Beginner | 2608K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-- Human-in-the-Loop Machine Learning
-- Data Annotation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introducing Human-in-the-Loop** (4 videos)
+- **3. 2. Common Use Cases** (4 videos)
+- **4. 3. The Data Annotation Ecosystem** (4 videos)
+- **5. 4. Managing a Data Annotation Project** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Meet the human-in-the-loop
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/meet-the-human-in-the-loop?u=76281980)
@@ -80,7 +80,7 @@ created: 2026-04-21
 > **[0:32](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/meet-the-human-in-the-loop?u=76281980&t=32)** In this course, we'll discuss what it is, and why if you're a data professional or in analytics leadership, or even just a consumer, you should know more about it.
 
 
-### 1. Introducing Human-in-the-Loop
+### 2. 1. Introducing Human-in-the-Loop
 
 #### Human-in-the-loop is everywhere
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/human-in-the-loop-is-everywhere?u=76281980)
@@ -312,7 +312,7 @@ created: 2026-04-21
 > **Cross-References:** later in (1)
 
 
-### 2. Common Use Cases
+### 3. 2. Common Use Cases
 
 #### Healthcare use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980)
@@ -628,7 +628,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. The Data Annotation Ecosystem
+### 4. 3. The Data Annotation Ecosystem
 
 #### The world of data annotation vendors
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-world-of-data-annotation-vendors?u=76281980)
@@ -839,7 +839,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 4. Managing a Data Annotation Project
+### 5. 4. Managing a Data Annotation Project
 
 #### Quality control
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980)
@@ -1147,7 +1147,7 @@ created: 2026-04-21
 > **Tools:** notion (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980)
@@ -1174,6 +1174,17 @@ created: 2026-04-21
 >
 > **Code Keywords:** continue (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
+- Human-in-the-Loop Machine Learning
+- Data Annotation
 
 ## Path Context
 

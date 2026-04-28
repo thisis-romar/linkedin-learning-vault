@@ -20,8 +20,10 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Web%20Security-%20OAuth%20and%20OpenID%20Connect.md)
 
 ![Web Security: OAuth and OpenID Connect](https://media.licdn.com/dms/image/v2/D560DAQE_ANjrzwRsMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698269406260?e=2147483647&amp;v=beta&amp;t=U8zGZl8pEp_WV_Yq4cR7WwTFuX8zMmNr8sxIkyYxtEU)
 
@@ -32,13 +34,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424) | 1h 37m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith Casey]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. What Is OAuth?** (3 videos)
+- **3. 2. Foundational Concepts** (5 videos)
+- **4. 3. OAuth Tokens** (3 videos)
+- **5. 4. Grant Type: Authorization Code** (7 videos)
+- **6. 5. Grant Type: Resource Owner Password** (4 videos)
+- **7. 6. Grant Type: Client Credential** (4 videos)
+- **8. 7. Grant Type: Device Grant Type** (4 videos)
+- **9. 8. Using an OAuth Architecture** (4 videos)
+- **10. 9. State of the Industry** (2 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using OAuth 2.0 and OpenID Connect
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-oauth-2-0-and-openid-connect?u=76281980)
@@ -177,7 +189,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Is OAuth?
+### 2. 1. What Is OAuth?
 
 #### Describing OAuth 2.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/describing-oauth-2-0?u=76281980)
@@ -416,7 +428,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Foundational Concepts
+### 3. 2. Foundational Concepts
 
 #### OAuth 2.0 fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-fundamentals?u=76281980)
@@ -838,7 +850,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. OAuth Tokens
+### 4. 3. OAuth Tokens
 
 #### OAuth 2.0 tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-tokens?u=76281980)
@@ -1111,7 +1123,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Grant Type: Authorization Code
+### 5. 4. Grant Type: Authorization Code
 
 #### Overview: Authorization Code Flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-authorization-code-flow?u=76281980)
@@ -1619,7 +1631,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Grant Type: Resource Owner Password
+### 6. 5. Grant Type: Resource Owner Password
 
 #### Overview: Resource Owner Password flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-resource-owner-password-flow?u=76281980)
@@ -1825,7 +1837,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Grant Type: Client Credential
+### 7. 6. Grant Type: Client Credential
 
 #### Overview: Client Credential Flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980)
@@ -2131,7 +2143,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Grant Type: Device Grant Type
+### 8. 7. Grant Type: Device Grant Type
 
 #### Overview: Device flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-device-flow?u=76281980)
@@ -2357,7 +2369,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Using an OAuth Architecture
+### 9. 8. Using an OAuth Architecture
 
 #### OAuth recommended practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980)
@@ -2680,7 +2692,7 @@ created: 2026-04-21
 > **Versions:** 127.0.0 (1)
 
 
-### 9. State of the Industry
+### 10. 9. State of the Industry
 
 #### OAuth extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980)
@@ -2834,7 +2846,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/next-steps?u=76281980)
@@ -2899,6 +2911,10 @@ created: 2026-04-21
 > **Code Keywords:** else, (1)
 > **Speakers:** - before (1)
 
+
+## Instructor
+
+- [[Keith Casey]]
 
 ## Path Context
 

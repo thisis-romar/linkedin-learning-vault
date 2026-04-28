@@ -20,8 +20,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Digital%20Transformation%20Foundations.md)
 
 ![Digital Transformation Foundations](https://media.licdn.com/dms/image/v2/C560DAQGFm8tI3mqi-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1636999013644?e=2147483647&amp;v=beta&amp;t=5Qse51nZsZ8yWfljWf39pOsKZcSf_IvM1cqxezU32WE)
 
@@ -34,7 +36,15 @@ created: 2026-04-21
 
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Smart Digital Transformation** (3 videos)
+- **3. 2. Smart Digital Transformation Technology** (6 videos)
+- **4. 3. Design a Smart Product or Architect Smart Operations** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### From Physical to Digital with AI, IoT, and Digital Twins
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980)
@@ -62,7 +72,7 @@ created: 2026-04-21
 > **Speakers:** - [bruce] (1)
 
 
-### 1. Smart Digital Transformation
+### 2. 1. Smart Digital Transformation
 
 #### What is digital transformation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980)
@@ -291,7 +301,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Smart Digital Transformation Technology
+### 3. 2. Smart Digital Transformation Technology
 
 #### Tech overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980)
@@ -888,7 +898,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Design a Smart Product or Architect Smart Operations
+### 4. 3. Design a Smart Product or Architect Smart Operations
 
 #### Identifying value
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980)
@@ -1156,7 +1166,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Main takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980)

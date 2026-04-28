@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Modeling%20Tips%20and%20Tricks.md)
 
 ![Excel Modeling Tips and Tricks](https://media.licdn.com/dms/image/v2/D560DAQHrhszx9j3qcQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727300536359?e=2147483647&amp;v=beta&amp;t=SEwpAHsR16IFweHFW3rRdT8JiW-3k_ugHisI8zv63eo)
 
@@ -40,21 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326) | 1h 52m | Intermediate | 53K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael McDonald]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Financial Modeling: Reviewing the Basics** (4 videos)
+- **3. 2. Single-Sheet Financial Models** (7 videos)
+- **4. 3. Multi-Sheet Financial Models** (7 videos)
+- **5. 4. Assessing Model Accuracy** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with Excel modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/getting-started-with-excel-modeling?u=76281980)
@@ -79,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Financial Modeling: Reviewing the Basics
+### 2. 1. Financial Modeling: Reviewing the Basics
 
 #### Objectives in financial modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980)
@@ -500,7 +499,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Single-Sheet Financial Models
+### 3. 2. Single-Sheet Financial Models
 
 #### Doing a basic loan amortization model
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/doing-a-basic-loan-amortization-model?u=76281980)
@@ -1350,7 +1349,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Multi-Sheet Financial Models
+### 4. 3. Multi-Sheet Financial Models
 
 #### Setting up a multi-sheet financial model
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/setting-up-a-multi-sheet-financial-model?u=76281980)
@@ -2047,7 +2046,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Assessing Model Accuracy
+### 5. 4. Assessing Model Accuracy
 
 #### Determining model accuracy
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/determining-model-accuracy?u=76281980)
@@ -2451,7 +2450,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continuing to build Excel models
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/continuing-to-build-excel-models?u=76281980)
@@ -2490,6 +2489,18 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [michael] (1)
 
+
+## Instructor
+
+- [[Michael McDonald]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Excel
 
 ## Path Context
 

@@ -37,8 +37,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Professional%20Certificates/Career%20Essentials%20in%20Data%20Analysis%20by%20Microsoft%20and%20LinkedIn.md)
 
 # Career Essentials in Data Analysis by Microsoft and LinkedIn
 

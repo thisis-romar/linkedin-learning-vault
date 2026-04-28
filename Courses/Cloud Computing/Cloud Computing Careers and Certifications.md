@@ -31,8 +31,10 @@ tags:
   - skill/career-development
   - skill/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Computing%20Careers%20and%20Certifications.md)
 
 ![Cloud Computing Careers and Certifications](https://media.licdn.com/dms/image/v2/D4E0DAQGblqjwdxNg8w/learning-public-crop_675_1200/B4EZUgUNbDGYAY-/0/1740003924440?e=2147483647&amp;v=beta&amp;t=oeMz9HtUCUUbA5dirgm6lbXEfPGfT9tCCZmDVwwQusI)
 
@@ -43,18 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications) | 1h 8m | Beginner | 17K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lynn Langit]]
-
-## Skills Covered
-
-- Career Development
-- Cloud Computing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Overview of Career Roles** (5 videos)
+- **3. 2. Infrastructure Skills** (3 videos)
+- **4. 3. Developer Skills** (3 videos)
+- **5. 4. Cloud Certifications** (4 videos)
+- **6. 5. Cloud Career Paths** (4 videos)
+- **7. 6. GenAI and Cloud Careers** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How to design a cloud career pathway
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-to-design-a-cloud-career-pathway?u=76281980)
@@ -75,7 +79,7 @@ created: 2026-04-21
 > **Speakers:** - designing (1)
 
 
-### 1. Overview of Career Roles
+### 2. 1. Overview of Career Roles
 
 #### Why do I need a cloud career guide?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/why-do-i-need-a-cloud-career-guide?u=76281980)
@@ -269,7 +273,7 @@ created: 2026-04-21
 > **Non-Speech:** (mellow instrumental music) (1)
 
 
-### 2. Infrastructure Skills
+### 3. 2. Infrastructure Skills
 
 #### What are networking and monitoring tasks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980)
@@ -377,7 +381,7 @@ created: 2026-04-21
 > **Speakers:** - scripting (1)
 
 
-### 3. Developer Skills
+### 4. 3. Developer Skills
 
 #### What are application development tasks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980)
@@ -483,7 +487,7 @@ created: 2026-04-21
 > **Non-Speech:** (gentle music) (1)
 
 
-### 4. Cloud Certifications
+### 5. 4. Cloud Certifications
 
 #### What are AWS certifications?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980)
@@ -834,7 +838,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Cloud Career Paths
+### 6. 5. Cloud Career Paths
 
 #### Which skills for network admin to cloud infrastructure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980)
@@ -967,7 +971,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. GenAI and Cloud Careers
+### 7. 6. GenAI and Cloud Careers
 
 #### Use GenAI for cloud developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980)
@@ -1430,7 +1434,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### How can I learn more about a career in the cloud?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-can-i-learn-more-about-a-career-in-the-cloud?u=76281980)
@@ -1481,6 +1485,15 @@ created: 2026-04-21
 > **Speakers:** - aws (1)
 > **Non-Speech:** (bright music) (1)
 
+
+## Instructor
+
+- [[Lynn Langit]]
+
+## Skills Covered
+
+- Career Development
+- Cloud Computing
 
 ## Path Context
 

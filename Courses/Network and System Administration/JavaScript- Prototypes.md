@@ -34,8 +34,10 @@ tags:
   - skill/software-prototyping
   - skill/prototype-framework
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/JavaScript-%20Prototypes.md)
 
 ![JavaScript: Prototypes](https://media.licdn.com/dms/image/v2/D4E0DAQEAM937wj_YFw/learning-public-crop_675_1200/B4EZmhagvaKgAc-/0/1759349705942?e=2147483647&amp;v=beta&amp;t=osBIZQ_mPdsSIrf1o4FOQgzgqEjMk_dwNhSZLUHE5O0)
 
@@ -46,23 +48,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes) | 1h 19m | Intermediate | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sasha Vodnik]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- JavaScript
-- Software Prototyping
-- Prototype Framework
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Building Blocks of Prototypes** (3 videos)
+- **3. 2. Using Prototypal Inheritance** (4 videos)
+- **4. 3. Using ES6 Classes** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding prototypes in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understanding-prototypes-in-javascript-22200396?u=76281980)
@@ -165,7 +161,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Building Blocks of Prototypes
+### 2. 1. Building Blocks of Prototypes
 
 #### Create object literals
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980)
@@ -611,7 +607,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Using Prototypal Inheritance
+### 3. 2. Using Prototypal Inheritance
 
 #### Understand the prototype property
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understand-the-prototype-property-14317677?u=76281980)
@@ -956,7 +952,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. Using ES6 Classes
+### 4. 3. Using ES6 Classes
 
 #### Understand ES6 classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980)
@@ -1129,7 +1125,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980)
@@ -1154,6 +1150,20 @@ created: 2026-04-21
 >
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Sasha Vodnik]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- JavaScript
+- Software Prototyping
+- Prototype Framework
 
 ## Path Context
 

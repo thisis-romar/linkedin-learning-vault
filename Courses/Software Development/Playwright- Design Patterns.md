@@ -31,8 +31,10 @@ tags:
   - skill/design-patterns
   - skill/test-automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Playwright-%20Design%20Patterns.md)
 
 ![Playwright: Design Patterns](https://media.licdn.com/dms/image/v2/D4E0DAQE68ssz1R0Ufw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731097260562?e=2147483647&amp;v=beta&amp;t=RUlzWaTzqCfWpEjv_Lu3mKjo4TCxEZW_kf4lysTgpxI)
 
@@ -43,23 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns) | 1h 22m | Intermediate | 56K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Qambar Raza]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/playwright-design-patterns-2019019)
-
-## Skills Covered
-
-- Design Patterns
-- Test Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Design Patterns** (2 videos)
+- **3. 2. Fixtures** (7 videos)
+- **4. 3. Page Object Model** (6 videos)
+- **5. 4. Behavior Driven Development (BDD)** (6 videos)
+- **6. 5. Data-Driven Testing** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Explore design patterns in Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/welcome?u=76281980)
@@ -167,7 +165,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Design Patterns
+### 2. 1. Design Patterns
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980)
@@ -254,7 +252,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Fixtures
+### 3. 2. Fixtures
 
 #### Introduction to fixtures
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-fixtures?u=76281980)
@@ -720,7 +718,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Page Object Model
+### 4. 3. Page Object Model
 
 #### What is a page object model?
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-page-object-model?u=76281980)
@@ -1126,7 +1124,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Behavior Driven Development (BDD)
+### 5. 4. Behavior Driven Development (BDD)
 
 #### Introduction to behavior driven development (BDD)
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-behavior-driven-development-bdd?u=76281980)
@@ -1605,7 +1603,7 @@ created: 2026-04-21
 > **Prerequisites:** setup (1)
 
 
-### 5. Data-Driven Testing
+### 6. 5. Data-Driven Testing
 
 #### Introduction to data-driven testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980)
@@ -1818,7 +1816,7 @@ created: 2026-04-21
 > **Env Vars:** url (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/next-steps?u=76281980)
@@ -1854,6 +1852,20 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Qambar Raza]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/playwright-design-patterns-2019019)
+
+## Skills Covered
+
+- Design Patterns
+- Test Automation
 
 ## Path Context
 

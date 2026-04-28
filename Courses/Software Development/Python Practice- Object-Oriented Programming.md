@@ -30,8 +30,10 @@ tags:
   - skill/python-programming-language
   - skill/object-oriented-programming-oop
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Practice-%20Object-Oriented%20Programming.md)
 
 ![Python Practice: Object-Oriented Programming](https://media.licdn.com/dms/image/v2/D560DAQH7193iBIAhRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902250796?e=2147483647&amp;v=beta&amp;t=wYPtpWYN0JZsAvinlsPMrB-UXjQyO_mi4Lxme3YxQdU)
 
@@ -42,18 +44,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming) | 12m | Advanced | 77K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott Simpson]]
-
-## Skills Covered
-
-- Python (Programming Language)
-- Object-Oriented Programming (OOP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Code Challenges** (5 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Try your Python programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980)
@@ -170,7 +169,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Code Challenges
+### 2. 1. Code Challenges
 
 #### Solution: Define a class and create objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-1-define-a-class-and-create-objects?u=76281980)
@@ -394,7 +393,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/next-steps?u=76281980)
@@ -412,6 +411,15 @@ created: 2026-04-21
 > **CLI Commands:** python (2)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Scott Simpson]]
+
+## Skills Covered
+
+- Python (Programming Language)
+- Object-Oriented Programming (OOP)
 
 ## Path Context
 

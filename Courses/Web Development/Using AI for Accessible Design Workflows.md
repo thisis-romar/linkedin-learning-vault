@@ -19,8 +19,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Using%20AI%20for%20Accessible%20Design%20Workflows.md)
 
 ![Using AI for Accessible Design Workflows](https://media.licdn.com/dms/image/v2/D4E0DAQFnkMv4zQvhjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731436655084?e=2147483647&amp;v=beta&amp;t=Qgy0cI6AYYPFY5q60tnwoUkxPZSplRG1A8eKrGtH5HU)
 
@@ -31,13 +33,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows) | 1h 34m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Karlins]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Create a Community Cohort and Culture** (2 videos)
+- **3. 2. Review and Critique Existing Materials** (8 videos)
+- **4. 3. Create an Accessibility Style Guide** (9 videos)
+- **5. 4. Apply Your Style Guide** (3 videos)
+- **6. 5. Promote Your Style Guide** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Leverage AI in accessible design workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/leverage-ai-in-accessible-design-workflow?u=76281980)
@@ -136,7 +144,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Create a Community Cohort and Culture
+### 2. 1. Create a Community Cohort and Culture
 
 #### Train your cohort in basic accessibility principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/train-your-cohort-in-basic-accessibility-principles?u=76281980)
@@ -250,7 +258,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Review and Critique Existing Materials
+### 3. 2. Review and Critique Existing Materials
 
 #### Organize accessibility testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980)
@@ -751,7 +759,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Create an Accessibility Style Guide
+### 4. 3. Create an Accessibility Style Guide
 
 #### Supplement existing style guides
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/supplement-existing-style-guides?u=76281980)
@@ -1204,7 +1212,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Apply Your Style Guide
+### 5. 4. Apply Your Style Guide
 
 #### Implement changes in teams with content creators and designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980)
@@ -1356,7 +1364,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Promote Your Style Guide
+### 6. 5. Promote Your Style Guide
 
 #### Prepare detailed reports for tech and design
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/prepare-detailed-reports-for-tech-and-design?u=76281980)
@@ -1692,7 +1700,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/next-steps?u=76281980)
@@ -1715,6 +1723,10 @@ created: 2026-04-21
 >
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[David Karlins]]
 
 ## Path Context
 

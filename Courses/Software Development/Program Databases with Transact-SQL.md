@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/transact-sql-t-sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Program%20Databases%20with%20Transact-SQL.md)
 
 ![Program Databases with Transact-SQL](https://media.licdn.com/dms/image/v2/C4E0DAQFlz1ZNx71tAA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599578771494?e=2147483647&amp;v=beta&amp;t=Re-9i1q6pV4tNvbhCdfm7a9LM2ESSnU8qiEWuutkr8M)
 
@@ -40,21 +42,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql) | 2h 47m | Intermediate | 73K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Wilbert]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Transact-SQL (T-SQL)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Create Views of the Data** (4 videos)
+- **3. 2. Create User-Defined Functions** (6 videos)
+- **4. 3. Work with Stored Procedures** (6 videos)
+- **5. 4. Create Transactions** (6 videos)
+- **6. 5. Implement Error Handling** (6 videos)
+- **7. 6. Data Type Conversions and NULLs** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Program databases with SQL Server
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/program-databases-with-sql-server?u=76281980)
@@ -185,7 +186,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 1. Create Views of the Data
+### 2. 1. Create Views of the Data
 
 #### Save a query as a view object
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/save-a-query-as-a-view-object?u=76281980)
@@ -680,7 +681,7 @@ created: 2026-04-21
 > **Speakers:** - earlier (1)
 
 
-### 2. Create User-Defined Functions
+### 3. 2. Create User-Defined Functions
 
 #### Deterministic vs. nondeterministic functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980)
@@ -1477,7 +1478,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 3. Work with Stored Procedures
+### 4. 3. Work with Stored Procedures
 
 #### Write and execute a stored procedure
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/write-and-execute-a-stored-procedure?u=76281980)
@@ -2150,7 +2151,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Create Transactions
+### 5. 4. Create Transactions
 
 #### Ensure data consistency with transactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/ensure-data-consistency-with-transactions?u=76281980)
@@ -2813,7 +2814,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. Implement Error Handling
+### 6. 5. Implement Error Handling
 
 #### What is error handling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-is-error-handling?u=76281980)
@@ -3421,7 +3422,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 6. Data Type Conversions and NULLs
+### 7. 6. Data Type Conversions and NULLs
 
 #### Implicit data type conversions
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980)
@@ -3885,7 +3886,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980)
@@ -3913,6 +3914,18 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Adam Wilbert]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Transact-SQL (T-SQL)
 
 ## Path Context
 

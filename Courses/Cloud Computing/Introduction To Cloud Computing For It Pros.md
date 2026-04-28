@@ -24,8 +24,10 @@ tags:
   - topic/cloud-computing
   - skill/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20To%20Cloud%20Computing%20For%20It%20Pros.md)
 
 ![Introduction To Cloud Computing For It Pros](https://media.licdn.com/dms/image/v2/D560DAQFCgAsCZPtKTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008984032?e=2147483647&amp;v=beta&amp;t=GtBFso-7g6rhF9fxDAdQBDhcEScv006nwf4uHvRo0Mw)
 
@@ -36,13 +38,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628) | Beginner | 65K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Cloud Computing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Cloud Computing Basics** (7 videos)
+- **3. 2. Evaluate Cloud Computing for Business** (5 videos)
+- **4. 3. Cloud Storage** (4 videos)
+- **5. 4. Cloud Tools and Services** (4 videos)
+- **6. 5. Cloud Tools for Teams** (4 videos)
+- **7. 6. Migrate to the Cloud** (6 videos)
+- **8. 7. Evaluate Cloud Performance** (2 videos)
+- **9. 8. Emerging Cloud Technologies** (4 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The essentials of cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-essentials-of-cloud-computing?u=76281980)
@@ -88,7 +99,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Cloud Computing Basics
+### 2. 1. Cloud Computing Basics
 
 #### What is cloud computing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980)
@@ -505,7 +516,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Evaluate Cloud Computing for Business
+### 3. 2. Evaluate Cloud Computing for Business
 
 #### The three main cloud computing scenarios
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980)
@@ -765,7 +776,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. Cloud Storage
+### 4. 3. Cloud Storage
 
 #### Overview of cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980)
@@ -981,7 +992,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Cloud Tools and Services
+### 5. 4. Cloud Tools and Services
 
 #### Explore Google Workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980)
@@ -1254,7 +1265,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Cloud Tools for Teams
+### 6. 5. Cloud Tools for Teams
 
 #### Microsoft 365 Groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980)
@@ -1690,7 +1701,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Migrate to the Cloud
+### 7. 6. Migrate to the Cloud
 
 #### Make a cloud migration plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980)
@@ -2079,7 +2090,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Evaluate Cloud Performance
+### 8. 7. Evaluate Cloud Performance
 
 #### Monitor performance post transition
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980)
@@ -2232,7 +2243,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Emerging Cloud Technologies
+### 9. 8. Emerging Cloud Technologies
 
 #### The Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980)
@@ -2360,7 +2371,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980)
@@ -2388,6 +2399,10 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [david] (1)
 
+
+## Skills Covered
+
+- Cloud Computing
 
 ## Path Context
 

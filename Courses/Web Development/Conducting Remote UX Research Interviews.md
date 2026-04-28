@@ -28,8 +28,10 @@ tags:
   - skill/user-interviews
   - skill/ux-research
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Conducting%20Remote%20UX%20Research%20Interviews.md)
 
 ![Conducting Remote UX Research Interviews](https://media.licdn.com/dms/image/v2/C4E0DAQHL7vLStBTkKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656348274146?e=2147483647&amp;v=beta&amp;t=UMO5UOo_3dNvHflzeef4WTE3AzO236MsB99pel4hI2w)
 
@@ -40,18 +42,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews) | 27m | Intermediate | 41K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Amanda Stockwell]]
-
-## Skills Covered
-
-- User Interviews
-- UX Research
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Remote Research Interviews** (6 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Remote is here to stay
 > [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-is-here-to-stay?u=76281980)
@@ -89,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - [amanda] (1)
 
 
-### 1. Remote Research Interviews
+### 2. 1. Remote Research Interviews
 
 #### Research planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980)
@@ -553,7 +552,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Get started on your own
 > [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/get-started-on-your-own?u=76281980)
@@ -576,6 +575,15 @@ created: 2026-04-21
 >
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Amanda Stockwell]]
+
+## Skills Covered
+
+- User Interviews
+- UX Research
 
 ## Path Context
 

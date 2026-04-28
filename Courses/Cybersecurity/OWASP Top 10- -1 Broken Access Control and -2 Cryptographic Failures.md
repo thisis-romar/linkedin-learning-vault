@@ -30,8 +30,10 @@ tags:
   - skill/owasp
   - skill/application-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-1%20Broken%20Access%20Control%20and%20-2%20Cryptographic%20Failures.md)
 
 ![OWASP Top 10: #1 Broken Access Control and #2 Cryptographic Failures](https://media.licdn.com/dms/image/v2/C560DAQGN7PmUw7HXOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656529950285?e=2147483647&amp;v=beta&amp;t=VV3yJNSfy_7slewYI3rTef3tqLprrwNR3bad4PjlPA4)
 
@@ -42,18 +44,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures) | 29m | Intermediate | 178K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Caroline Wong]]
-
-## Skills Covered
-
-- OWASP
-- Application Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Broken Access Control** (6 videos)
+- **3. 2. Cryptographic Failure** (6 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980)
@@ -101,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - [caroline] (1)
 
 
-### 1. Broken Access Control
+### 2. 1. Broken Access Control
 
 #### What is broken access control?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980)
@@ -383,7 +383,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Cryptographic Failure
+### 3. 2. Cryptographic Failure
 
 #### What is cryptographic failure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980)
@@ -677,7 +677,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### OWASP Top 10 keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10-keep-learning?u=76281980)
@@ -709,6 +709,15 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Caroline Wong]]
+
+## Skills Covered
+
+- OWASP
+- Application Security
 
 ## Path Context
 

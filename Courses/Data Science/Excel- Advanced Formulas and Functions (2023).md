@@ -34,8 +34,10 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Advanced%20Formulas%20and%20Functions%20(2023).md)
 
 ![Excel: Advanced Formulas and Functions (2023)](https://media.licdn.com/dms/image/v2/C4E0DAQHqXcCF5d8sWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679434079033?e=2147483647&amp;v=beta&amp;t=V7AYahSkmUNtc_-izynzQAhQnpQurWnij1WyJWIJn9k)
 
@@ -46,21 +48,26 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023) | 5h 10m | Advanced | 259K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Oz du Soleil]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Using Tables and Dynamic Arrays for Data Integrity and Consistency** (3 videos)
+- **3. 2. The World of IF Statements and Conditions** (3 videos)
+- **4. 3. Looking Up, Down, and All Around: Comparing and Combining with Lookups** (8 videos)
+- **5. 4. Formula Tips and Strategies** (10 videos)
+- **6. 5. Mid-Term Challenges** (3 videos)
+- **7. 6. Date and Time Functions** (3 videos)
+- **8. 7. Working with Text and Arrays** (8 videos)
+- **9. 8. Statistical Functions** (4 videos)
+- **10. 9. Math Functions** (3 videos)
+- **11. 10. Wild Cards** (2 videos)
+- **12. 11. New, Handy, and Fun Functions** (3 videos)
+- **13. 12. Final Challenges** (4 videos)
+- **14. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning advanced formulas and functions using Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/learning-advanced-formulas-and-functions-using-excel?u=76281980)
@@ -179,7 +186,7 @@ created: 2026-04-21
 > **Speakers:** - say (1)
 
 
-### 1. Using Tables and Dynamic Arrays for Data Integrity and Consistency
+### 2. 1. Using Tables and Dynamic Arrays for Data Integrity and Consistency
 
 #### Tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables?u=76281980)
@@ -695,7 +702,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 2. The World of IF Statements and Conditions
+### 3. 2. The World of IF Statements and Conditions
 
 #### IF function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980)
@@ -1259,7 +1266,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 3. Looking Up, Down, and All Around: Comparing and Combining with Lookups
+### 4. 3. Looking Up, Down, and All Around: Comparing and Combining with Lookups
 
 #### VLOOKUP
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980)
@@ -2524,7 +2531,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Formula Tips and Strategies
+### 5. 4. Formula Tips and Strategies
 
 #### Use Alt+Enter to make formulas more readable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/use-alt-plus-enter-to-make-formulas-more-readable?u=76281980)
@@ -3879,7 +3886,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 5. Mid-Term Challenges
+### 6. 5. Mid-Term Challenges
 
 #### Challenge 1: Course completions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-1-subtitle-to-come-18460103?u=76281980)
@@ -4166,7 +4173,7 @@ created: 2026-04-21
 > **Speakers:** - amy (1)
 
 
-### 6. Date and Time Functions
+### 7. 6. Date and Time Functions
 
 #### Time, rounding, and converting to decimals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980)
@@ -4423,7 +4430,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Working with Text and Arrays
+### 8. 7. Working with Text and Arrays
 
 #### LEFT, RIGHT, and MID
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980)
@@ -5933,7 +5940,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Statistical Functions
+### 9. 8. Statistical Functions
 
 #### LARGE and SMALL
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/large-and-small?u=76281980)
@@ -6388,7 +6395,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 9. Math Functions
+### 10. 9. Math Functions
 
 #### Rounding
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/rounding?u=76281980)
@@ -6812,7 +6819,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Wild Cards
+### 11. 10. Wild Cards
 
 #### Wildcards
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/wildcards?u=76281980)
@@ -7099,7 +7106,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 11. New, Handy, and Fun Functions
+### 12. 11. New, Handy, and Fun Functions
 
 #### ROMAN and ARABIC
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/roman-and-arabic?u=76281980)
@@ -7568,7 +7575,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 12. Final Challenges
+### 13. 12. Final Challenges
 
 #### Challenge 1: Towers
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-1-subtitle-to-come?u=76281980)
@@ -7979,7 +7986,7 @@ created: 2026-04-21
 > **Non-Speech:** (modern techy music) (1)
 
 
-### Conclusion
+### 14. Conclusion
 
 #### Take your Excel skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980)
@@ -8008,6 +8015,18 @@ created: 2026-04-21
 >
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Oz du Soleil]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Excel
 
 ## Path Context
 

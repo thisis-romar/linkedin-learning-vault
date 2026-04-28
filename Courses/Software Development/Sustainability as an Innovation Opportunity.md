@@ -27,8 +27,10 @@ tags:
   - skill/business-innovation
   - skill/sustainable-business-strategy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Sustainability%20as%20an%20Innovation%20Opportunity.md)
 
 ![Sustainability as an Innovation Opportunity](https://media.licdn.com/dms/image/v2/C560DAQGmCO8KYU11-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657656842545?e=2147483647&amp;v=beta&amp;t=cfBzCSb38co-4ASXom_aiURJGl1o9iuRL0YsM7xa-4o)
 
@@ -39,22 +41,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity) | 55m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Leyla Acaroglu]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Business Innovation
-- Sustainable Business Strategy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The What and Why of Sustainability** (5 videos)
+- **3. 2. The Full Life Story** (5 videos)
+- **4. 3. Circular ReDesign** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How the economy is transforming
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980)
@@ -96,7 +93,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 1. The What and Why of Sustainability
+### 2. 1. The What and Why of Sustainability
 
 #### Sustainability in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980)
@@ -463,7 +460,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 2. The Full Life Story
+### 3. 2. The Full Life Story
 
 #### Designing waste out of the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980)
@@ -807,7 +804,7 @@ created: 2026-04-21
 > **Speakers:** - want (1)
 
 
-### 3. Circular ReDesign
+### 4. 3. Circular ReDesign
 
 #### Designing for the circular economy
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-for-the-circular-economy?u=76281980)
@@ -1148,7 +1145,7 @@ created: 2026-04-21
 > **Speakers:** - both (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Innovate for sustainability in your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980)
@@ -1173,6 +1170,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Leyla Acaroglu]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Business Innovation
+- Sustainable Business Strategy
 
 ## Path Context
 

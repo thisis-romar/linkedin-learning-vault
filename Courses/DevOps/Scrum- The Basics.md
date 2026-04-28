@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Scrum-%20The%20Basics.md)
 
 ![Scrum: The Basics](https://media.licdn.com/dms/image/v2/C560DAQEPCaGFsYJZpg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658280985039?e=2147483647&amp;v=beta&amp;t=ckx5qp1U_e1NJ79Tu5ilh_d_i-qDS0_34zvniWApAY4)
 
@@ -42,17 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics) | 1h 10m | 1279K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kelley O'Connell]]
-
-## Skills Covered
-
-- Scrum
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Problems to Solve** (3 videos)
+- **3. 2. The Heart of the Framework** (3 videos)
+- **4. 3. Getting Ready to Work** (5 videos)
+- **5. 4. Getting Down to Work** (4 videos)
+- **6. 5. Wrapping Up a Sprint** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Practicing scrum in your work environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/practicing-scrum-in-your-work-environment?u=76281980)
@@ -86,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - agile (1)
 
 
-### 1. Problems to Solve
+### 2. 1. Problems to Solve
 
 #### The scrum approach to project success
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980)
@@ -281,7 +285,7 @@ created: 2026-04-21
 > **Speakers:** - scrum (1)
 
 
-### 2. The Heart of the Framework
+### 3. 2. The Heart of the Framework
 
 #### Solve project problems with scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980)
@@ -550,7 +554,7 @@ created: 2026-04-21
 > **Speakers:** - once (1)
 
 
-### 3. Getting Ready to Work
+### 4. 3. Getting Ready to Work
 
 #### Set the vision for your project
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/set-the-vision-for-your-project-2?u=76281980)
@@ -949,7 +953,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 4. Getting Down to Work
+### 5. 4. Getting Down to Work
 
 #### Sprint planning in scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/sprint-planning-in-scrum-2?u=76281980)
@@ -1249,7 +1253,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 5. Wrapping Up a Sprint
+### 6. 5. Wrapping Up a Sprint
 
 #### Get stories done in scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980)
@@ -1481,7 +1485,7 @@ created: 2026-04-21
 > **Speakers:** - for (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Deliver successful projects using scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980)
@@ -1506,6 +1510,14 @@ created: 2026-04-21
 >
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Kelley O'Connell]]
+
+## Skills Covered
+
+- Scrum
 
 ## Path Context
 

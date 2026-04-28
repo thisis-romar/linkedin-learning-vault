@@ -22,8 +22,10 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data-Informed%20Strategic%20Thinking%20for%20Senior%20Analysts%20and%20Data%20Scientists.md)
 
 ![Data-Informed Strategic Thinking for Senior Analysts and Data Scientists](https://media.licdn.com/dms/image/v2/D4E0DAQHyQKmbszFmQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723579114106?e=2147483647&amp;v=beta&amp;t=BZM-_0BA9OVgHGaamhl_ENCZSXmt_SDohbN7Kr3z200)
 
@@ -34,13 +36,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists) | 2h 56m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Paul Thurman]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is Strategy: Vision, Mission, and Values** (6 videos)
+- **3. 2. Analyzing a Market and a Strategy: How Competitive Is a Firm?** (5 videos)
+- **4. 3. Measuring and Planning Success: What Does Good Look Like and How Do I Get There?** (4 videos)
+- **5. 4. Conceptual Strategy Deep Dive: Developing and Aligning Vision, Mission, and Values** (5 videos)
+- **6. 5. Analytical Strategy Deep Dive: Analyzing Key Market Participants** (7 videos)
+- **7. 6. Operational Strategy Deep Dive: Monitoring and Measuring Success** (5 videos)
+- **8. 7. Course Review: Data-Informed Strategic Thinking and Decision-Making** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Data-informed strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/data-informed-strategic-thinking?u=76281980)
@@ -92,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Is Strategy: Vision, Mission, and Values
+### 2. 1. What Is Strategy: Vision, Mission, and Values
 
 #### What is strategy, and what role does data science play?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980)
@@ -721,7 +731,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Analyzing a Market and a Strategy: How Competitive Is a Firm?
+### 3. 2. Analyzing a Market and a Strategy: How Competitive Is a Firm?
 
 #### Analytical strategy: Assessing a competitive market
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980)
@@ -1318,7 +1328,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### 3. Measuring and Planning Success: What Does Good Look Like and How Do I Get There?
+### 4. 3. Measuring and Planning Success: What Does Good Look Like and How Do I Get There?
 
 #### Operational strategy: Scorecards and action plans
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980)
@@ -1672,7 +1682,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conceptual Strategy Deep Dive: Developing and Aligning Vision, Mission, and Values
+### 5. 4. Conceptual Strategy Deep Dive: Developing and Aligning Vision, Mission, and Values
 
 #### Deeper conceptual thinking: Values, leadership, and conflict
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-conceptual-thinking-values-leadership-and-conflict?u=76281980)
@@ -2192,7 +2202,7 @@ created: 2026-04-21
 > **Versions:** 3.100 (1)
 
 
-### 5. Analytical Strategy Deep Dive: Analyzing Key Market Participants
+### 6. 5. Analytical Strategy Deep Dive: Analyzing Key Market Participants
 
 #### Deeper analytics: Assessing key market participants
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-analytics-assessing-key-market-participants?u=76281980)
@@ -2749,7 +2759,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Operational Strategy Deep Dive: Monitoring and Measuring Success
+### 7. 6. Operational Strategy Deep Dive: Monitoring and Measuring Success
 
 #### Deeper operational thinking: The balanced scorecard and action planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-operational-thinking-the-balanced-scorecard-and-action-planning?u=76281980)
@@ -3280,7 +3290,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Course Review: Data-Informed Strategic Thinking and Decision-Making
+### 8. 7. Course Review: Data-Informed Strategic Thinking and Decision-Making
 
 #### Review of course objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/review-of-course-objectives?u=76281980)
@@ -3391,7 +3401,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Where do you go from here: Other courses of interest
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/where-do-you-go-from-here-other-courses-of-interest?u=76281980)
@@ -3431,6 +3441,10 @@ created: 2026-04-21
 > **Env Vars:** dba (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Paul Thurman]]
 
 ## Path Context
 

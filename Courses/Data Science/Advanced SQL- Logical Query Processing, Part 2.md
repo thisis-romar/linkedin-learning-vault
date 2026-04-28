@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL-%20Logical%20Query%20Processing%2C%20Part%202.md)
 
 ![Advanced SQL: Logical Query Processing, Part 2](https://media.licdn.com/dms/image/v2/C4D0DAQGzhdYQOA6pDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1600371493000?e=2147483647&amp;v=beta&amp;t=j16eNmCAb2IkLECpQhb4ARcIFu-l0Ds-2Q6YE9xZl0k)
 
@@ -42,21 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2) | 2h 7m | Advanced | 70K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ami Levin]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Subqueries and Set Operators** (4 videos)
+- **3. 2. Advanced Joins** (4 videos)
+- **4. 3. More on Grouping** (4 videos)
+- **5. 4. Recursions and Cursors** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/course-introduction?u=76281980)
@@ -237,7 +236,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Subqueries and Set Operators
+### 2. 1. Subqueries and Set Operators
 
 #### Subqueries
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980)
@@ -905,7 +904,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Advanced Joins
+### 3. 2. Advanced Joins
 
 #### Self and inequality joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/self-and-inequality-joins?u=76281980)
@@ -1342,7 +1341,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. More on Grouping
+### 4. 3. More on Grouping
 
 #### Ordered set functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980)
@@ -2091,7 +2090,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Recursions and Cursors
+### 5. 4. Recursions and Cursors
 
 #### Recursions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980)
@@ -2481,7 +2480,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980)
@@ -2625,6 +2624,18 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Ami Levin]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- SQL
 
 ## Path Context
 

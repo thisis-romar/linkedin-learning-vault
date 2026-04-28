@@ -6,16 +6,16 @@ url: https://www.linkedin.com/learning/paths/the-top-skills-engineering-professi
 course_count: 9
 linkedin_topics:
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - learning-path
   - topic/software-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-04-26T23:42:22.824Z
+activity_total: 4
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
   - course: '[[Autocad 2022 Essential Training]]'
     last_opened: null
@@ -53,8 +53,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/The%20Top%20Skills%20Engineering%20Professionals%20Have%20Right%20Now.md)
 
 # The Top Skills Engineering Professionals Have Right Now
 

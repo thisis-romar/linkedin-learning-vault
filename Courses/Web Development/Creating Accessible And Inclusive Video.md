@@ -28,8 +28,10 @@ tags:
   - skill/diversity-and-inclusion
   - skill/diversity-equity-inclusion-and-belonging-deib
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Creating%20Accessible%20And%20Inclusive%20Video.md)
 
 ![Creating Accessible And Inclusive Video](https://media.licdn.com/dms/image/v2/D4D0DAQHWuCoJpWu0Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710188857201?e=2147483647&amp;v=beta&amp;t=YPHiuFPHKYRU4DAPKfzJfveuKV7QLBf6KdJUh7B6YV4)
 
@@ -40,20 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video) | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Video Production
-- Digital Accessibility
-- Diversity and Inclusion
-- Diversity, Equity, Inclusion and Belonging (DEIB)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Why Create Accessible and Inclusive Videos?** (2 videos)
+- **3. 2. Create an Accessible Experience** (10 videos)
+- **4. 3. Create Inclusive Content** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Prioritize video accessibility and inclusivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-video-accessibility-and-inclusivity?u=76281980)
@@ -77,7 +76,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Why Create Accessible and Inclusive Videos?
+### 2. 1. Why Create Accessible and Inclusive Videos?
 
 #### Benefits of creating an accessible experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980)
@@ -260,7 +259,7 @@ created: 2026-04-21
 > **Cross-References:** later in (1)
 
 
-### 2. Create an Accessible Experience
+### 3. 2. Create an Accessible Experience
 
 #### Be thoughtful about color, contrast, and light
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-color-contrast-and-light?u=76281980)
@@ -1092,7 +1091,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### 3. Create Inclusive Content
+### 4. 3. Create Inclusive Content
 
 #### Be thoughtful about featuring diverse video topics
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980)
@@ -1563,7 +1562,7 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980)
@@ -1606,6 +1605,17 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Exercise Files:** exercise files (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Video Production
+- Digital Accessibility
+- Diversity and Inclusion
+- Diversity, Equity, Inclusion and Belonging (DEIB)
 
 ## Path Context
 

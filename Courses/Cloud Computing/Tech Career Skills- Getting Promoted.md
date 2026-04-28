@@ -36,8 +36,10 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Getting%20Promoted.md)
 
 ![Tech Career Skills: Getting Promoted](https://media.licdn.com/dms/image/v2/C560DAQEVwWtJieNR-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1636135464973?e=2147483647&amp;v=beta&amp;t=kwTyKN4qvb70c412Dr2osX41zXPmIXIKENz6CSVNv4w)
 
@@ -48,18 +50,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted) | 1h 6m | Intermediate | 114K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nishant Bhajaria]]
-
-## Skills Covered
-
-- Tech Career Skills
-- Career Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding the Promotion Process** (4 videos)
+- **3. 2. Execution and Results** (2 videos)
+- **4. 3. Creating Efficiency** (2 videos)
+- **5. 4. Software Engineering** (2 videos)
+- **6. 5. Design and Architecture** (2 videos)
+- **7. 6. Collaboration** (2 videos)
+- **8. 7. Citizenship** (2 videos)
+- **9. 8. Specific Promotion-Related Activities** (4 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get promoted in your tech job
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/get-promoted-in-your-tech-job?u=76281980)
@@ -90,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - [nishant] (1)
 
 
-### 1. Understanding the Promotion Process
+### 2. 1. Understanding the Promotion Process
 
 #### How promotion cycles work
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980)
@@ -464,7 +470,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Execution and Results
+### 3. 2. Execution and Results
 
 #### What the committee is looking for by way of impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980)
@@ -603,7 +609,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Creating Efficiency
+### 4. 3. Creating Efficiency
 
 #### What the committee is looking for by way of efficiency
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980)
@@ -750,7 +756,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 4. Software Engineering
+### 5. 4. Software Engineering
 
 #### What the committee is looking for in this key competency
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-this-key-competency?u=76281980)
@@ -887,7 +893,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Design and Architecture
+### 6. 5. Design and Architecture
 
 #### What the committee is looking for by way of design skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-design-skill?u=76281980)
@@ -1031,7 +1037,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Collaboration
+### 7. 6. Collaboration
 
 #### What the committee is looking for in collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980)
@@ -1172,7 +1178,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Citizenship
+### 8. 7. Citizenship
 
 #### What the committee is looking for by way of citizenship
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-citizenship?u=76281980)
@@ -1302,7 +1308,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 8. Specific Promotion-Related Activities
+### 9. 8. Specific Promotion-Related Activities
 
 #### Creating an impact resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980)
@@ -1603,7 +1609,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Boost your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/boost-your-career?u=76281980)
@@ -1629,6 +1635,15 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Nishant Bhajaria]]
+
+## Skills Covered
+
+- Tech Career Skills
+- Career Management
 
 ## Path Context
 

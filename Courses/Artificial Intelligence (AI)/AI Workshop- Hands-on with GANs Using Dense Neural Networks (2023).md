@@ -35,8 +35,10 @@ tags:
   - skill/artificial-neural-networks
   - skill/generative-adversarial-networks-gans
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Workshop-%20Hands-on%20with%20GANs%20Using%20Dense%20Neural%20Networks%20(2023).md)
 
 ![AI Workshop: Hands-on with GANs Using Dense Neural Networks (2023)](https://media.licdn.com/dms/image/v2/D4E0DAQEcm6S7SoEdQQ/learning-public-crop_675_1200/B4EZj3dmcYIMAY-/0/1756498389566?e=2147483647&amp;v=beta&amp;t=I9gSHIkkxtudmaX2aZWwb8QHem-ZmqcsHxL9WXxH_DI)
 
@@ -47,23 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023) | 1h 24m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Janani Ravi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- Artificial Neural Networks
-- Generative Adversarial Networks (GANs)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introducing Generative Adversarial Networks** (5 videos)
+- **3. 2. Stand-Alone Training of Adversaries** (6 videos)
+- **4. 3. Training Generative Adversarial Networks** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding generative modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980)
@@ -167,7 +163,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 1. Introducing Generative Adversarial Networks
+### 2. 1. Introducing Generative Adversarial Networks
 
 #### Course outline and prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980)
@@ -606,7 +602,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 2. Stand-Alone Training of Adversaries
+### 3. 2. Stand-Alone Training of Adversaries
 
 #### Big picture overview of a GAN
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/big-picture-overview-of-a-gan?u=76281980)
@@ -1257,7 +1253,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 3. Training Generative Adversarial Networks
+### 4. 3. Training Generative Adversarial Networks
 
 #### Computing losses for generator and discriminator
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/computing-losses-for-generator-and-discriminator?u=76281980)
@@ -1799,7 +1795,7 @@ created: 2026-04-21
 > **Definitions:** means that (2)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980)
@@ -1844,6 +1840,20 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Janani Ravi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- Artificial Neural Networks
+- Generative Adversarial Networks (GANs)
 
 ## Path Context
 

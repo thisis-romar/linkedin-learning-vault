@@ -37,8 +37,10 @@ tags:
   - skill/cloud-security
   - skill/it-compliance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Security%20Concepts-%20Services%20and%20Compliance.md)
 
 ![Cloud Security Concepts: Services and Compliance](https://media.licdn.com/dms/image/v2/D4D0DAQFWrAiIPlnf1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715874851813?e=2147483647&amp;v=beta&amp;t=GU9yTcbN1Bt0HwhBVbjeXNOQbKYtJzelZXW6hOalAVI)
 
@@ -49,23 +51,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306) | 1h 2m | Beginner | 65K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Linthicum]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cloud Services
-- Cloud Security
-- IT Compliance
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Cloud Security Basics** (10 videos)
+- **3. 2. Cloud Security Services** (8 videos)
+- **4. 3. Cloud Compliance Services** (7 videos)
+- **5. 4. Planning Cloud Security** (4 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Introduction to cloud security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/introduction-to-cloud-security?u=76281980)
@@ -108,7 +105,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Cloud Security Basics
+### 2. 1. Cloud Security Basics
 
 #### Business case for cloud security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/business-case-for-cloud-security?u=76281980)
@@ -616,7 +613,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 2. Cloud Security Services
+### 3. 2. Cloud Security Services
 
 #### AWS cloud security services
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/aws-cloud-security-services?u=76281980)
@@ -1001,7 +998,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Cloud Compliance Services
+### 4. 3. Cloud Compliance Services
 
 #### Cloud compliance services in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/cloud-compliance-services-in-healthcare?u=76281980)
@@ -1328,7 +1325,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Planning Cloud Security
+### 5. 4. Planning Cloud Security
 
 #### Understanding your security requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/understanding-your-security-requirements?u=76281980)
@@ -1505,7 +1502,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Current cloud security trends to watch
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/current-cloud-security-trends-to-watch?u=76281980)
@@ -1594,6 +1591,20 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[David Linthicum]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cloud Services
+- Cloud Security
+- IT Compliance
 
 ## Path Context
 

@@ -36,8 +36,10 @@ tags:
   - skill/learning-and-development
   - skill/generative-ai-for-learning-and-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Applications%20of%20Generative%20AI%20in%20Learning%20and%20Development.md)
 
 ![Applications of Generative AI in Learning and Development](https://media.licdn.com/dms/image/v2/D4D0DAQHYi1lwinFVjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729634612563?e=2147483647&amp;v=beta&amp;t=Yre81IjpTfYxJc0tshLTGNTTEo556CkE97QfDpOXmFE)
 
@@ -48,25 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development) | 34m | Beginner | 94K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dr. Terri Horton]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Higher Education
-- Generative AI
-- Artificial Intelligence (AI)
-- Learning and Development
-- Generative AI for Learning and Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Laying the Foundation with GenAI:  Needs and Strategic Alignment** (2 videos)
+- **3. 2. Designing the Program: Structure and Content Development** (2 videos)
+- **4. 3. Developing and Delivering Effective Training: Content ,Tools, Techniques, and Methods** (2 videos)
+- **5. 4. Assessing and Evaluating  Effectiveness** (1 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Discover the power of generative AI for learning and development
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/discover-the-power-of-gen-ai-for-learning-and-development?u=76281980)
@@ -97,7 +92,7 @@ created: 2026-04-21
 > **Speakers:** - gen (1)
 
 
-### 1. Laying the Foundation with GenAI:  Needs and Strategic Alignment
+### 2. 1. Laying the Foundation with GenAI:  Needs and Strategic Alignment
 
 #### Creating needs assessments with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980)
@@ -251,7 +246,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Designing the Program: Structure and Content Development
+### 3. 2. Designing the Program: Structure and Content Development
 
 #### Crafting a program structure with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980)
@@ -371,7 +366,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Developing and Delivering Effective Training: Content ,Tools, Techniques, and Methods
+### 4. 3. Developing and Delivering Effective Training: Content ,Tools, Techniques, and Methods
 
 #### Creating and curating content with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980)
@@ -521,7 +516,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Assessing and Evaluating  Effectiveness
+### 5. 4. Assessing and Evaluating  Effectiveness
 
 #### Designing assessment tools with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980)
@@ -599,7 +594,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/completed-after-script-development?u=76281980)
@@ -626,6 +621,22 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Dr. Terri Horton]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Higher Education
+- Generative AI
+- Artificial Intelligence (AI)
+- Learning and Development
+- Generative AI for Learning and Development
 
 ## Path Context
 

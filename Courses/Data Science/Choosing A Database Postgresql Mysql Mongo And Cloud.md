@@ -30,8 +30,10 @@ tags:
   - skill/postgresql
   - skill/mysql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Choosing%20A%20Database%20Postgresql%20Mysql%20Mongo%20And%20Cloud.md)
 
 ![Choosing A Database Postgresql Mysql Mongo And Cloud](https://media.licdn.com/dms/image/v2/C4D0DAQE2oMuzWAT5sQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616445994252?e=2147483647&amp;v=beta&amp;t=3MDeVHpprZVcNp5-hJPjYZzvOEbVq-YzgY56xvl9gR8)
 
@@ -42,19 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud) | Intermediate | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- MongoDB
-- PostgreSQL
-- MySQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. PostgreSQL** (4 videos)
+- **3. 2. MySQL** (3 videos)
+- **4. 3. Mongo** (3 videos)
+- **5. 4. Cloud-Based Databases** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Choosing the right data platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980)
@@ -260,7 +261,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. PostgreSQL
+### 2. 1. PostgreSQL
 
 #### PostgreSQL explore
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-explore-21050360?u=76281980)
@@ -637,7 +638,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. MySQL
+### 3. 2. MySQL
 
 #### MySQL explore
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980)
@@ -915,7 +916,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 3. Mongo
+### 4. 3. Mongo
 
 #### Mongo explore
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980)
@@ -1156,7 +1157,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-tools-21053178?u=76281980)
 
 
-### 4. Cloud-Based Databases
+### 5. 4. Cloud-Based Databases
 
 #### Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowflake-21046906?u=76281980)
@@ -1666,7 +1667,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/microsoft-azure?u=76281980)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Recap
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980)
@@ -1712,6 +1713,16 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- MongoDB
+- PostgreSQL
+- MySQL
 
 ## Path Context
 

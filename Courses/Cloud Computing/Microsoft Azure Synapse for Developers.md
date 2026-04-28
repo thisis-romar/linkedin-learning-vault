@@ -23,8 +23,10 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Azure%20Synapse%20for%20Developers.md)
 
 ![Microsoft Azure Synapse for Developers](https://media.licdn.com/dms/image/v2/C560DAQH85I5g6phxDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1631124878063?e=2147483647&amp;v=beta&amp;t=ijazxkum8t-FPJ4xmByFLblBNLTe_GZnYw8Ownhu49s)
 
@@ -35,13 +37,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261) | 2h 35m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nertil Poci]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started with Azure Synapse Analytics** (6 videos)
+- **3. 2. Populating Dedicated Synapse Analytics Pools** (9 videos)
+- **4. 3. Streaming Data into Azure Synapse Analytics** (3 videos)
+- **5. 4. Querying Using Serverless SQL** (9 videos)
+- **6. 5. Querying and Best Practices in Dedicated SQL Pools** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Data warehouses in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980)
@@ -106,7 +114,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with Azure Synapse Analytics
+### 2. 1. Getting Started with Azure Synapse Analytics
 
 #### Azure Synapse Analytics overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980)
@@ -517,7 +525,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Populating Dedicated Synapse Analytics Pools
+### 3. 2. Populating Dedicated Synapse Analytics Pools
 
 #### Data loading in Azure Data Warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980)
@@ -1859,7 +1867,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music playing) (1)
 
 
-### 3. Streaming Data into Azure Synapse Analytics
+### 4. 3. Streaming Data into Azure Synapse Analytics
 
 #### Data streaming scenarios
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-streaming-scenarios?u=76281980)
@@ -2181,7 +2189,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 4. Querying Using Serverless SQL
+### 5. 4. Querying Using Serverless SQL
 
 #### Understanding serverless pools
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980)
@@ -3030,7 +3038,7 @@ created: 2026-04-21
 > **Prerequisites:** before we start (1)
 
 
-### 5. Querying and Best Practices in Dedicated SQL Pools
+### 6. 5. Querying and Best Practices in Dedicated SQL Pools
 
 #### Querying, labeling, and tracking data warehouse performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980)
@@ -3618,7 +3626,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps with Synapse Analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980)
@@ -3649,6 +3657,10 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Nertil Poci]]
 
 ## Path Context
 

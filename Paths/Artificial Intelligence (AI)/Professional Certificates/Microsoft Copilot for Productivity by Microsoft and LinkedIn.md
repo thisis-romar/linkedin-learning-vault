@@ -7,7 +7,7 @@ course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
-louvain_cluster: 17
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence
@@ -47,8 +47,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Microsoft%20Copilot%20for%20Productivity%20by%20Microsoft%20and%20LinkedIn.md)
 
 # Microsoft Copilot for Productivity by Microsoft and LinkedIn
 

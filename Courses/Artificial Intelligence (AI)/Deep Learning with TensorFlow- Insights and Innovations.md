@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20TensorFlow-%20Insights%20and%20Innovations.md)
 
 ![Deep Learning with TensorFlow: Insights and Innovations](https://media.licdn.com/dms/image/v2/D4D0DAQF3huhzfFmWxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727298293042?e=2147483647&amp;v=beta&amp;t=af9IfGCNoyKPJWP3Ac9Z2NwjY3ArNnirXXHptH9X7nQ)
 
@@ -46,24 +48,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations) | 3h 6m | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Isil Berkun]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/deep-learning-with-tensorflow-insights-and-innovations-3835125/codespaces)
-
-## Skills Covered
-
-- TensorFlow
-- Artificial Intelligence (AI)
-- Deep Learning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Diving into Codespaces** (2 videos)
+- **3. 2. Understanding TensorFlow** (5 videos)
+- **4. 3. Building Your First Model** (8 videos)
+- **5. 4. Mastering TensorBoard** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to deep learning with TensorFlow
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980)
@@ -87,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - ready (1)
 
 
-### 1. Diving into Codespaces
+### 2. 1. Diving into Codespaces
 
 #### Codespaces: Your ready-to-use workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/codespaces-your-ready-to-use-workspace?u=76281980)
@@ -227,7 +223,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 2. Understanding TensorFlow
+### 3. 2. Understanding TensorFlow
 
 #### TensorFlow essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980)
@@ -826,7 +822,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 3. Building Your First Model
+### 4. 3. Building Your First Model
 
 #### Let's create a TensorFlow model
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980)
@@ -2425,7 +2421,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1), in the next (1)
 
 
-### 4. Mastering TensorBoard
+### 5. 4. Mastering TensorBoard
 
 #### Visualizing success with TensorBoard
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980)
@@ -3070,7 +3066,7 @@ created: 2026-04-21
 > **File Paths:** 04_02_end.py (2), 04_02_begin.py (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980)
@@ -3109,6 +3105,21 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Isil Berkun]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/deep-learning-with-tensorflow-insights-and-innovations-3835125/codespaces)
+
+## Skills Covered
+
+- TensorFlow
+- Artificial Intelligence (AI)
+- Deep Learning
 
 ## Path Context
 

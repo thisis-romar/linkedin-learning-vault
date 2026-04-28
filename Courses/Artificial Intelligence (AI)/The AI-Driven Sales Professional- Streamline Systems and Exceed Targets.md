@@ -30,8 +30,10 @@ tags:
   - skill/sales
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20AI-Driven%20Sales%20Professional-%20Streamline%20Systems%20and%20Exceed%20Targets.md)
 
 ![The AI-Driven Sales Professional: Streamline Systems and Exceed Targets](https://media.licdn.com/dms/image/v2/D4D0DAQGOPzldiGaNBg/learning-public-crop_675_1200/B4DZb6i23OG0Ac-/0/1747960164499?e=2147483647&amp;v=beta&amp;t=zHpCmjpVNOjS1pPfNEJIdMpma-hYaepsL4Op8aYMMEA)
 
@@ -42,19 +44,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets) | 49m | 78K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Earle McLeod]]
-
-## Skills Covered
-
-- AI for Sales
-- Sales
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AI Tips for Sales** (10 videos)
+- **3. Conclusion** (0 videos)
+
+### 1. Introduction
 
 #### How AI is transforming sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/how-ai-is-transforming-sales?u=76281980)
@@ -83,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 1. AI Tips for Sales
+### 2. 1. AI Tips for Sales
 
 #### What AI can (and cannot) replace in sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/what-ai-can-and-cannot-replace-in-sales?u=76281980)
@@ -987,8 +985,18 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### Conclusion
+### 3. Conclusion
 
+
+## Instructor
+
+- [[Lisa Earle McLeod]]
+
+## Skills Covered
+
+- AI for Sales
+- Sales
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -35,8 +35,10 @@ tags:
   - skill/information-security-management
   - skill/tech-career-skills
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Business%20Information%20Security%20Officer%20(BISO).md)
 
 ![Cybersecurity Careers: Become a Business Information Security Officer (BISO)](https://media.licdn.com/dms/image/v2/C4E0DAQHLvq2USJUnUQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658853529504?e=2147483647&amp;v=beta&amp;t=BXyh2IdLVnUcARnOHrsSCdHb26TVPAlmNnJGyDOqxPg)
 
@@ -47,19 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso) | 42m | Beginner | 246K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nicole Dove]]
-
-## Skills Covered
-
-- Cybersecurity Careers
-- Information Security Management
-- Tech Career Skills
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. BISO Basics** (3 videos)
+- **3. 2. Becoming a BISO** (3 videos)
+- **4. 3. Building Partnerships** (4 videos)
+- **5. 4. A Day in the Life of a BISO** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### A bridge between business and tech
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/a-bridge-between-business-and-tech?u=76281980)
@@ -100,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - technology (1)
 
 
-### 1. BISO Basics
+### 2. 1. BISO Basics
 
 #### The BizOps and cybersecurity disconnect
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980)
@@ -249,7 +250,7 @@ created: 2026-04-21
 > **Speakers:** - business (1)
 
 
-### 2. Becoming a BISO
+### 3. 2. Becoming a BISO
 
 #### The instructor's journey to becoming a BISO
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-instructor-s-journey-to-becoming-a-biso?u=76281980)
@@ -433,7 +434,7 @@ created: 2026-04-21
 > **Speakers:** - interviewing (1)
 
 
-### 3. Building Partnerships
+### 4. 3. Building Partnerships
 
 #### Relationship management
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980)
@@ -659,7 +660,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### 4. A Day in the Life of a BISO
+### 5. 4. A Day in the Life of a BISO
 
 #### Innovative problem-solving
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/innovative-problem-solving?u=76281980)
@@ -817,7 +818,7 @@ created: 2026-04-21
 > **Speakers:** - being (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continue to evolve
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/continue-to-evolve?u=76281980)
@@ -854,6 +855,16 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - constantly (1)
 
+
+## Instructor
+
+- [[Nicole Dove]]
+
+## Skills Covered
+
+- Cybersecurity Careers
+- Information Security Management
+- Tech Career Skills
 
 ## Path Context
 

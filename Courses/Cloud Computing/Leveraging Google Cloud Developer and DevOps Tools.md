@@ -33,8 +33,10 @@ tags:
   - skill/cloud-development
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Leveraging%20Google%20Cloud%20Developer%20and%20DevOps%20Tools.md)
 
 ![Leveraging Google Cloud Developer and DevOps Tools](https://media.licdn.com/dms/image/v2/C4E0DAQGNj0oA1ccRkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662645118935?e=2147483647&amp;v=beta&amp;t=ZStBusfFobd7cSAQm5sPTt6kKro_eE-tYW01_1vc2AA)
 
@@ -45,20 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools) | 1h 33m | Intermediate | 72K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lynn Langit]]
-
-## Skills Covered
-
-- DevOps
-- DevOps Tools
-- Cloud Development
-- Google Cloud Platform (GCP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Tools for Application Users** (6 videos)
+- **3. 2. Tools for Data Scientists** (5 videos)
+- **4. 3. Tools for DevOps** (6 videos)
+- **5. 4. Tools for Developers** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### State of Google Cloud tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/state-of-google-cloud-tools?u=76281980)
@@ -192,7 +192,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Tools for Application Users
+### 2. 1. Tools for Application Users
 
 #### Google Console for learners
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/google-console-for-learners?u=76281980)
@@ -738,7 +738,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. Tools for Data Scientists
+### 3. 2. Tools for Data Scientists
 
 #### Enable APIs for DLVMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/enable-apis-for-dlvms?u=76281980)
@@ -1176,7 +1176,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Tools for DevOps
+### 4. 3. Tools for DevOps
 
 #### Using Google Cloud scripts with Cloud Shell for storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/using-google-cloud-scripts-with-cloud-shell-for-storage?u=76281980)
@@ -1712,7 +1712,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Tools for Developers
+### 5. 4. Tools for Developers
 
 #### Coding with the GCP local Google Cloud SDK
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/coding-with-the-gcp-local-google-cloud-sdk?u=76281980)
@@ -2228,7 +2228,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps with Google Cloud Developer and DevOps Tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/next-steps-with-google-cloud-developer-and-devops-tools?u=76281980)
@@ -2275,6 +2275,17 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Lynn Langit]]
+
+## Skills Covered
+
+- DevOps
+- DevOps Tools
+- Cloud Development
+- Google Cloud Platform (GCP)
 
 ## Path Context
 

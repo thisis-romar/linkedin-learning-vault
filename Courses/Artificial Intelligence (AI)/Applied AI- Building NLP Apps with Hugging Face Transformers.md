@@ -32,8 +32,10 @@ tags:
   - skill/hugging-face-products
   - skill/applied-machine-learning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Applied%20AI-%20Building%20NLP%20Apps%20with%20Hugging%20Face%20Transformers.md)
 
 ![Applied AI: Building NLP Apps with Hugging Face Transformers](https://media.licdn.com/dms/image/v2/D4E0DAQHuhXQ3CLrSUg/learning-public-crop_675_1200/B4EZjiT7_mHgAc-/0/1756143534415?e=2147483647&amp;v=beta&amp;t=G0J2d-SPcvf1rz0vMpjoe5niteNUr9Xkfbm7PnHsgGs)
 
@@ -44,24 +46,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers) | 57m | Intermediate | 24K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- Natural Language Processing (NLP)
-- Hugging Face Products
-- Applied Machine Learning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Question-Answering (Qu-An)** (5 videos)
+- **3. 2. Text Summarization** (5 videos)
+- **4. 3. Natural Language Generation** (6 videos)
+- **5. 4. Customizing Models with Transfer Learning** (6 videos)
+- **6. 5. Deploying and Using Hugging Face Models** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building NLP apps with Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980)
@@ -227,7 +224,7 @@ created: 2026-04-21
 > **URLs:** [anconda.com](https://anconda.com) (1)
 
 
-### 1. Question-Answering (Qu-An)
+### 2. 1. Question-Answering (Qu-An)
 
 #### Question-answering in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/question-answering-in-nlp?u=76281980)
@@ -481,7 +478,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Text Summarization
+### 3. 2. Text Summarization
 
 #### Text summarization in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/text-summarization-in-nlp?u=76281980)
@@ -705,7 +702,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Natural Language Generation
+### 4. 3. Natural Language Generation
 
 #### Natural language generation in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/natural-language-generation-in-nlp?u=76281980)
@@ -976,7 +973,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Customizing Models with Transfer Learning
+### 5. 4. Customizing Models with Transfer Learning
 
 #### Training a custom model
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-a-custom-model?u=76281980)
@@ -1326,7 +1323,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Deploying and Using Hugging Face Models
+### 6. 5. Deploying and Using Hugging Face Models
 
 #### Inference challenges with Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/inference-challenges-with-transformers?u=76281980)
@@ -1566,7 +1563,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing with Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/continuing-with-hugging-face?u=76281980)
@@ -1594,6 +1591,21 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- Natural Language Processing (NLP)
+- Hugging Face Products
+- Applied Machine Learning
 
 ## Path Context
 

@@ -32,8 +32,10 @@ tags:
   - skill/pytorch
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20PyTorch%20Machine%20Learning.md)
 
 ![Hands-On PyTorch Machine Learning](https://media.licdn.com/dms/image/v2/D4E0DAQGM57qo8MaAsQ/learning-public-crop_675_1200/B4EZnE26nyJ0AY-/0/1759944354943?e=2147483647&amp;v=beta&amp;t=6Gon_PksM4AZpJXmCMprUC3cFMbFn47i6HwIOvmxVGQ)
 
@@ -44,23 +46,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning) | 56m | Intermediate | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Helen Sun]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- PyTorch
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Preparation** (4 videos)
+- **3. 2. PyTorch Basics** (5 videos)
+- **4. 3. Torchvision** (2 videos)
+- **5. 4. Torchaudio** (2 videos)
+- **6. 5. Torchtext** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Explore the capabilities of PyTorch
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980)
@@ -87,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - [dr (1)
 
 
-### 1. Preparation
+### 2. 1. Preparation
 
 #### PyTorch overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980)
@@ -399,7 +397,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. PyTorch Basics
+### 3. 2. PyTorch Basics
 
 #### Understand PyTorch tensors
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-tensors?u=76281980)
@@ -718,7 +716,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Torchvision
+### 4. 3. Torchvision
 
 #### Torchvision introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980)
@@ -887,7 +885,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Torchaudio
+### 5. 4. Torchaudio
 
 #### Torchaudio introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980)
@@ -1039,7 +1037,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 5. Torchtext
+### 6. 5. Torchtext
 
 #### Torchtext introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980)
@@ -1197,7 +1195,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing your PyTorch learning process
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980)
@@ -1230,6 +1228,20 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Helen Sun]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- PyTorch
+- Artificial Intelligence (AI)
 
 ## Path Context
 

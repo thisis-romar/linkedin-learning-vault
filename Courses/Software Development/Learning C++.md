@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20C%2B%2B.md)
 
 ![Learning C++](https://media.licdn.com/dms/image/v2/D4E0DAQFFyyr75fh80g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706572609334?e=2147483647&amp;v=beta&amp;t=kibo-DzGRpI3g_EbIAlFJPOY7L5soeY_IF_JT-zKkb0)
 
@@ -41,22 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675) | 3h 11m | Beginner | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eduardo Corpeño]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-cpp-4489005/codespaces)
-
-## Skills Covered
-
-- C++
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (4 videos)
+- **3. 2. Data Types** (14 videos)
+- **4. 3. Structures, Classes, and Pointers** (12 videos)
+- **5. 4. Control Flow** (6 videos)
+- **6. 5. Functions** (5 videos)
+- **7. 6. File I/O** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get up and running with C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/get-up-and-running-with-c-plus-plus?u=76281980)
@@ -323,7 +323,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (2), install (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Elements of object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/elements-of-object-oriented-programming?u=76281980)
@@ -637,7 +637,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Data Types
+### 3. 2. Data Types
 
 #### Basic data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/basic-data-types?u=76281980)
@@ -1995,7 +1995,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Structures, Classes, and Pointers
+### 4. 3. Structures, Classes, and Pointers
 
 #### Structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/structures?u=76281980)
@@ -3022,7 +3022,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Control Flow
+### 5. 4. Control Flow
 
 #### If statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/if-statements?u=76281980)
@@ -3592,7 +3592,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Functions
+### 6. 5. Functions
 
 #### Creating functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/creating-functions?u=76281980)
@@ -4128,7 +4128,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. File I/O
+### 7. 6. File I/O
 
 #### Opening a text file for reading
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/opening-a-text-file-for-reading?u=76281980)
@@ -4406,7 +4406,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/next-steps?u=76281980)
@@ -4446,6 +4446,19 @@ created: 2026-04-21
 > **Exercise Files:** template (1)
 > **Speakers:** - [eduardo] (1)
 
+
+## Instructor
+
+- [[Eduardo Corpeño]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-cpp-4489005/codespaces)
+
+## Skills Covered
+
+- C++
 
 ## Path Context
 

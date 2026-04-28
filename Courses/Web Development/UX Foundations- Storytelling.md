@@ -28,8 +28,10 @@ tags:
   - skill/storytelling
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Foundations-%20Storytelling.md)
 
 ![UX Foundations: Storytelling](https://media.licdn.com/dms/image/v2/C560DAQHYBmnZVIKxgw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588876481777?e=2147483647&amp;v=beta&amp;t=nkfcp03JPs4ES3A8HDcsi2SKVHpIb9W3ETH0xGXFfkI)
 
@@ -40,22 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling) | 52m | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sarah Weise]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Storytelling
-- User Experience Design (UED)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Strategic Story Planning** (7 videos)
+- **3. 2. Role of Empathy in Storytelling** (3 videos)
+- **4. 3. Boosting Sales with Consistent, Targeted Story** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The business of story
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/the-business-of-story-21039234?u=76281980)
@@ -80,7 +77,7 @@ created: 2026-04-21
 > **Speakers:** - our (1)
 
 
-### 1. Strategic Story Planning
+### 2. 1. Strategic Story Planning
 
 #### Choose the right story
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980)
@@ -728,7 +725,7 @@ created: 2026-04-21
 > **Speakers:** - every (1)
 
 
-### 2. Role of Empathy in Storytelling
+### 3. 2. Role of Empathy in Storytelling
 
 #### Embrace emotion to empathize with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/embrace-emotion-to-empathize-with-customers-24080442?u=76281980)
@@ -967,7 +964,7 @@ created: 2026-04-21
 > **Speakers:** - consider (1)
 
 
-### 3. Boosting Sales with Consistent, Targeted Story
+### 4. 3. Boosting Sales with Consistent, Targeted Story
 
 #### Your signature story
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/your-signature-story-21043251?u=76281980)
@@ -1389,7 +1386,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980)
@@ -1432,6 +1429,19 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Sarah Weise]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Storytelling
+- User Experience Design (UED)
 
 ## Path Context
 

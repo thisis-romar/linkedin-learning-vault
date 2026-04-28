@@ -31,8 +31,10 @@ tags:
   - skill/ai-productivity
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/How%20to%20Boost%20Your%20Productivity%20with%20AI%20Tools.md)
 
 ![How to Boost Your Productivity with AI Tools](https://media.licdn.com/dms/image/v2/D4E0DAQFcLL__CkaZnQ/learning-public-crop_675_1200/B4EZj3etoTGUAo-/0/1756498680660?e=2147483647&amp;v=beta&amp;t=Ma-bqyhgK956wIM-2NLiLClj7mGwdHvavFEBt0RH2xM)
 
@@ -43,22 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255) | 2h 14m | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dave Birss]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI Productivity
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Your Approach to Using AI in Business** (8 videos)
+- **3. 2. AI Prompts to Make Your Job Easier** (8 videos)
+- **4. 3. AI Prompts to Help Make Your Work Better** (8 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI is a dream for productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/ai-is-a-dream-for-productivity-29809099?u=76281980)
@@ -125,7 +122,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 1. Your Approach to Using AI in Business
+### 2. 1. Your Approach to Using AI in Business
 
 #### The two reasons to use AI in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980)
@@ -701,7 +698,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 2. AI Prompts to Make Your Job Easier
+### 3. 2. AI Prompts to Make Your Job Easier
 
 #### Using GenAI to write better email replies
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980)
@@ -2063,7 +2060,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 3. AI Prompts to Help Make Your Work Better
+### 4. 3. AI Prompts to Help Make Your Work Better
 
 #### Broadening your idea generation with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/broadening-your-idea-generation-with-gen-ai-29813073?u=76281980)
@@ -3226,7 +3223,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980)
@@ -3257,6 +3254,19 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Dave Birss]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI Productivity
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/microsoft-365
   - skill/microsoft-word
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Word%20Online%20(Microsoft%20365).md)
 
 ![Learning Word Online (Microsoft 365)](https://media.licdn.com/dms/image/v2/D560DAQE4nkljsFNoNw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686090015884?e=2147483647&amp;v=beta&amp;t=y4boN-SgYSJpJyUef3_-pTZYF-byOisEiX0V-0aKGUo)
 
@@ -43,18 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019) | 1h 14m | Beginner | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Rivers]]
-
-## Skills Covered
-
-- Microsoft 365
-- Microsoft Word
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Get Started with Word Online** (3 videos)
+- **3. 2. Document Basics** (7 videos)
+- **4. 3. Sharing and Collaboration** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get the power of Word in your browser
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/get-the-power-of-word-in-your-browser?u=76281980)
@@ -112,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Get Started with Word Online
+### 2. 1. Get Started with Word Online
 
 #### Sign in and create a new document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980)
@@ -439,7 +440,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Document Basics
+### 3. 2. Document Basics
 
 #### Type or dictate text into a Word document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980)
@@ -1518,7 +1519,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Sharing and Collaboration
+### 4. 3. Sharing and Collaboration
 
 #### Share a document with others
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980)
@@ -1935,7 +1936,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980)
@@ -1959,6 +1960,15 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [david] (1)
 
+
+## Instructor
+
+- [[David Rivers]]
+
+## Skills Covered
+
+- Microsoft 365
+- Microsoft Word
 
 ## Path Context
 

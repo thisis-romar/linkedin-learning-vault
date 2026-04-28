@@ -28,8 +28,10 @@ tags:
   - skill/ethical-hacking
   - skill/oscp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Offensive%20Penetration%20Testing.md)
 
 ![Offensive Penetration Testing](https://media.licdn.com/dms/image/v2/D4D0DAQGsVb6d5u2GlQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698363374544?e=2147483647&amp;v=beta&amp;t=VBbyAd_lFMLlBUwQKY2uMM1WYfFHK10wA5G9xDwmzsc)
 
@@ -40,18 +42,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing) | 9h 36m | Intermediate | 94K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Cybrary]]
-
-## Skills Covered
-
-- Ethical Hacking
-- OSCP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Setting the Foundation for Success** (4 videos)
+- **3. 2. Kali Linux Basics** (7 videos)
+- **4. 3. Understanding Network Protocols** (17 videos)
+- **5. 4. Web Application Penetration Testing** (15 videos)
+- **6. 5. Introduction to Buffer Overflow** (7 videos)
+- **7. 6. Public Exploits** (7 videos)
+- **8. 7. Getting a Shell, Now What?** (4 videos)
+- **9. 8. Privilege Escalation** (6 videos)
+- **10. 9. Password Cracking and Brute-Forcing Logins** (6 videos)
+- **11. 10. Putting It All Together** (3 videos)
+- **12. 11. Developing the Hacker Mindset** (2 videos)
+
+### 1. Introduction
 
 #### Offensive penetration testing course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980)
@@ -288,7 +296,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### 1. Setting the Foundation for Success
+### 2. 1. Setting the Foundation for Success
 
 #### Understanding the penetration test report
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980)
@@ -986,7 +994,7 @@ created: 2026-04-21
 > **Code Identifiers:** ecppt (2)
 
 
-### 2. Kali Linux Basics
+### 3. 2. Kali Linux Basics
 
 #### Setting up the Kali Linux VM
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980)
@@ -2193,7 +2201,7 @@ created: 2026-04-21
 > **Env Vars:** svc (2)
 
 
-### 3. Understanding Network Protocols
+### 4. 3. Understanding Network Protocols
 
 #### Scanning network protocols
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980)
@@ -4711,7 +4719,7 @@ created: 2026-04-21
 > **CLI Commands:** ssh (1)
 
 
-### 4. Web Application Penetration Testing
+### 5. 4. Web Application Penetration Testing
 
 #### Web application enumeration
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980)
@@ -7756,7 +7764,7 @@ created: 2026-04-21
 > **URLs:** [http://192.168.1.100/webdav](http://192.168.1.100/webdav) (2), [wpscan.com](https://wpscan.com) (1), [http://192.168.1.250](http://192.168.1.250) (1), [http://192.168.1.250/wordpress](http://192.168.1.250/wordpress) (1)
 
 
-### 5. Introduction to Buffer Overflow
+### 6. 5. Introduction to Buffer Overflow
 
 #### How to practice buffer overflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980)
@@ -8548,7 +8556,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### 6. Public Exploits
+### 7. 6. Public Exploits
 
 #### Where to look for public exploits
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980)
@@ -9532,7 +9540,7 @@ created: 2026-04-21
 > **Versions:** 1.0 (1), 192.168.1 (1)
 
 
-### 7. Getting a Shell, Now What?
+### 8. 7. Getting a Shell, Now What?
 
 #### The different types of shells
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980)
@@ -10228,7 +10236,7 @@ created: 2026-04-21
 > **Versions:** 192.168.1 (2)
 
 
-### 8. Privilege Escalation
+### 9. 8. Privilege Escalation
 
 #### Linux privilege escalation
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980)
@@ -11175,7 +11183,7 @@ created: 2026-04-21
 > **URLs:** [http://192.168.1.50:8888/shell.elf](http://192.168.1.50:8888/shell.elf) (1)
 
 
-### 9. Password Cracking and Brute-Forcing Logins
+### 10. 9. Password Cracking and Brute-Forcing Logins
 
 #### Introduction to password cracking tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980)
@@ -12183,7 +12191,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 10. Putting It All Together
+### 11. 10. Putting It All Together
 
 #### Hands-on penetration test lab
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980)
@@ -12658,7 +12666,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 11. Developing the Hacker Mindset
+### 12. 11. Developing the Hacker Mindset
 
 #### Understanding the hacker mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980)
@@ -12978,6 +12986,15 @@ created: 2026-04-21
 > **Documentation:** stack overflow (1)
 > **Prerequisites:** set up (1)
 
+
+## Instructor
+
+- [[Cybrary]]
+
+## Skills Covered
+
+- Ethical Hacking
+- OSCP
 
 ## Path Context
 

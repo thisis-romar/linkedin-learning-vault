@@ -37,8 +37,10 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20for%20Query%20Tuning%20and%20Performance%20Optimization.md)
 
 ![Advanced SQL for Query Tuning and Performance Optimization](https://media.licdn.com/dms/image/v2/D560DAQHhgQSU6L_R7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697652769241?e=2147483647&amp;v=beta&amp;t=xwvycQ_PCeWV4s2nJNE2HENhzWC6IdLHh0V2t3wGxtE)
 
@@ -49,22 +51,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038) | 2h 9m | Advanced | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dan Sullivan]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-sql-query-tuning-performance-optimization-4413111/codespaces)
-
-## Skills Covered
-
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. How SQL Executes a Query** (6 videos)
+- **3. 2. PostgreSQL Tools for Tuning** (6 videos)
+- **4. 3. Types of Indexes** (11 videos)
+- **5. 4. Tuning Joins** (10 videos)
+- **6. 5. Partitioning Data** (9 videos)
+- **7. 6. Materialized Views** (5 videos)
+- **8. 7. Database Statistics and Identifying Slow Queries** (6 videos)
+- **9. 8. Other Optimization Techniques** (7 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Reduce query response time with query tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reduce-query-response-time-with-query-tuning?u=76281980)
@@ -119,7 +121,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. How SQL Executes a Query
+### 2. 1. How SQL Executes a Query
 
 #### From declarative SQL to a procedural execution plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980)
@@ -434,7 +436,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. PostgreSQL Tools for Tuning
+### 3. 2. PostgreSQL Tools for Tuning
 
 #### Using PostgreSQL in Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980)
@@ -723,7 +725,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Types of Indexes
+### 4. 3. Types of Indexes
 
 #### Indexing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980)
@@ -1379,7 +1381,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Tuning Joins
+### 5. 4. Tuning Joins
 
 #### Types of joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/types-of-joins?u=76281980)
@@ -1867,7 +1869,7 @@ created: 2026-04-21
 > **Non-Speech:** (playful music) (1)
 
 
-### 5. Partitioning Data
+### 6. 5. Partitioning Data
 
 #### Horizontal vs. vertical partitioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980)
@@ -2430,7 +2432,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Materialized Views
+### 7. 6. Materialized Views
 
 #### Materialized views
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/materialized-views?u=76281980)
@@ -2613,7 +2615,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Database Statistics and Identifying Slow Queries
+### 8. 7. Database Statistics and Identifying Slow Queries
 
 #### Collect statistics about data in tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/collect-statistics-about-data-in-tables?u=76281980)
@@ -2834,7 +2836,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Other Optimization Techniques
+### 9. 8. Other Optimization Techniques
 
 #### Using common table expressions to avoid repetitive computation
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980)
@@ -3086,7 +3088,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980)
@@ -3116,6 +3118,19 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [dan] (1)
 
+
+## Instructor
+
+- [[Dan Sullivan]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-sql-query-tuning-performance-optimization-4413111/codespaces)
+
+## Skills Covered
+
+- SQL
 
 ## Path Context
 

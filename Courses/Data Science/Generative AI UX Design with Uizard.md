@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Generative%20AI%20UX%20Design%20with%20Uizard.md)
 
 ![Generative AI UX Design with Uizard](https://media.licdn.com/dms/image/v2/D4E0DAQEQX6_FncinqQ/learning-public-crop_675_1200/B4EZejAJTUHYAY-/0/1750786414131?e=2147483647&amp;v=beta&amp;t=5ryhvjNmOHYxY4ezoQV6X2nAb1cjkcTNbX7K98Fn1M0)
 
@@ -47,20 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard) | 1h 16m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Drew Falkman]]
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- User Experience Design (UED)
-- Artificial Intelligence (AI)
-- Generative AI Tools
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. UIzard Overview** (5 videos)
+- **3. 2. Autolayout and AI Magic** (6 videos)
+- **4. 3. Scanning Designs** (3 videos)
+- **5. 4. Making Your Prototype Interactive** (2 videos)
+- **6. 5. Advanced Techniques** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of Uizard on UX design
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980)
@@ -83,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. UIzard Overview
+### 2. 1. UIzard Overview
 
 #### Uizard, the magic prototyping tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980)
@@ -705,7 +706,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 2. Autolayout and AI Magic
+### 3. 2. Autolayout and AI Magic
 
 #### Create a new app with Autodesigner
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/create-a-new-app-with-autodesigner?u=76281980)
@@ -1390,7 +1391,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Scanning Designs
+### 4. 3. Scanning Designs
 
 #### Scanning a screenshot
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-screenshot?u=76281980)
@@ -1647,7 +1648,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Making Your Prototype Interactive
+### 5. 4. Making Your Prototype Interactive
 
 #### Interactive prototypes
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/interactive-prototypes?u=76281980)
@@ -1816,7 +1817,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 5. Advanced Techniques
+### 6. 5. Advanced Techniques
 
 #### Using design review
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-design-review?u=76281980)
@@ -2088,7 +2089,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Thank you and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/thank-you-and-next-steps?u=76281980)
@@ -2123,6 +2124,17 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Drew Falkman]]
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- User Experience Design (UED)
+- Artificial Intelligence (AI)
+- Generative AI Tools
 
 ## Path Context
 

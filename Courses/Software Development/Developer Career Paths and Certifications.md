@@ -33,8 +33,10 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Developer%20Career%20Paths%20and%20Certifications.md)
 
 ![Developer Career Paths and Certifications](https://media.licdn.com/dms/image/v2/C4D0DAQE1ZA04CqzywQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1607554464917?e=2147483647&amp;v=beta&amp;t=ZKLwWo_rmhlFkvCvNffjrjJxzRs93-0dytKmSFX86Ek)
 
@@ -45,18 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2) | 48m | Beginner | 88K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Skills Covered
-
-- Tech Career Skills
-- Career Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Planning to Be a Developer** (4 videos)
+- **3. 2. Education** (5 videos)
+- **4. 3. Finding a Job** (4 videos)
+- **5. 4. The Application Process** (4 videos)
+- **6. 5. Negotiating Compensation** (3 videos)
+- **7. 6. Getting the Job** (3 videos)
+
+### 1. Introduction
 
 #### So, you want to be a developer?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/so-you-want-to-be-a-developer?u=76281980)
@@ -87,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 1. Planning to Be a Developer
+### 2. 1. Planning to Be a Developer
 
 #### What types of developers are there?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980)
@@ -329,7 +332,7 @@ created: 2026-04-21
 > **Speakers:** - according (1)
 
 
-### 2. Education
+### 3. 2. Education
 
 #### Do you need a college degree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980)
@@ -641,7 +644,7 @@ created: 2026-04-21
 > **Speakers:** - certifications (1)
 
 
-### 3. Finding a Job
+### 4. 3. Finding a Job
 
 #### How do developers find jobs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-developers-find-jobs?u=76281980)
@@ -872,7 +875,7 @@ created: 2026-04-21
 > **Speakers:** - developer (1)
 
 
-### 4. The Application Process
+### 5. 4. The Application Process
 
 #### Submitting an application
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980)
@@ -1069,7 +1072,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 5. Negotiating Compensation
+### 6. 5. Negotiating Compensation
 
 #### How do you know what you're worth?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-know-what-you-re-worth?u=76281980)
@@ -1230,7 +1233,7 @@ created: 2026-04-21
 > **Speakers:** - most (1)
 
 
-### 6. Getting the Job
+### 7. 6. Getting the Job
 
 #### How do you prepare for your new job?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-your-new-job?u=76281980)
@@ -1358,6 +1361,15 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - one (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Skills Covered
+
+- Tech Career Skills
+- Career Management
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - skill/vue-js
   - skill/full-stack-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Vue.js-%20Creating%20and%20Hosting%20a%20Full-Stack%20Site.md)
 
 ![Vue.js: Creating and Hosting a Full-Stack Site](https://media.licdn.com/dms/image/v2/C560DAQEY1EY7FIhYaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678465685731?e=2147483647&amp;v=beta&amp;t=DP77FbMuyQDvHdf6nets4fN6RWiOTAP25LQ02f6Dc9k)
 
@@ -41,23 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902) | 4h 31m | Intermediate | 401K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shaun Wassell]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/vuejs-creating-and-hosting-a-full-stack-site-4359014/codespaces)
-
-## Skills Covered
-
-- Vue.js
-- Full-Stack Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Creating a Vue.js Front End** (15 videos)
+- **3. 2. Creating a Node Back End** (8 videos)
+- **4. 3. Adding MongoDB to Your Back-end** (8 videos)
+- **5. 4. Connecting the Front- and Back-end** (7 videos)
+- **6. 5. Adding Authentication with Firebase Authentication** (7 videos)
+- **7. 6. Hosting Your Site** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Vue.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-js?u=76281980)
@@ -233,7 +232,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Creating a Vue.js Front End
+### 2. 1. Creating a Vue.js Front End
 
 #### Why Vue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980)
@@ -1976,7 +1975,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creating a Node Back End
+### 3. 2. Creating a Node Back End
 
 #### Why Node.js?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-node-js?u=76281980)
@@ -2941,7 +2940,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Adding MongoDB to Your Back-end
+### 4. 3. Adding MongoDB to Your Back-end
 
 #### Why MongoDB?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980)
@@ -3898,7 +3897,7 @@ created: 2026-04-21
 > **Tools:** postman (1)
 
 
-### 4. Connecting the Front- and Back-end
+### 5. 4. Connecting the Front- and Back-end
 
 #### Introduction to the Axios library
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980)
@@ -4773,7 +4772,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. Adding Authentication with Firebase Authentication
+### 6. 5. Adding Authentication with Firebase Authentication
 
 #### Why Firebase Authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980)
@@ -5598,7 +5597,7 @@ created: 2026-04-21
 > **Prerequisites:** setup (1)
 
 
-### 6. Hosting Your Site
+### 7. 6. Hosting Your Site
 
 #### The release process
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/the-release-process?u=76281980)
@@ -5915,7 +5914,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Recommended next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980)
@@ -5965,6 +5964,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [shaun] (1)
 
+
+## Instructor
+
+- [[Shaun Wassell]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/vuejs-creating-and-hosting-a-full-stack-site-4359014/codespaces)
+
+## Skills Covered
+
+- Vue.js
+- Full-Stack Development
 
 ## Path Context
 

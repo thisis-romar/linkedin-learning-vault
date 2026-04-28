@@ -20,8 +20,10 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Lean%20Technology%20Strategy-%20Moving%20Fast%20With%20Defined%20Constraints.md)
 
 ![Lean Technology Strategy: Moving Fast With Defined Constraints](https://media.licdn.com/dms/image/v2/C4E0DAQE63dzt3n5REw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117545423?e=2147483647&amp;v=beta&amp;t=s7NmJxOAaYoi4MCgo4Np96RyYVEqCHdKH1jGdHUxa88)
 
@@ -32,13 +34,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints) | 47m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joanne Molesky]]
-
 ## Table of Contents
 
-### 1. Moving Fast With Defined Constraints
+### Chapter Overview
+
+- **1. 1. Moving Fast With Defined Constraints** (4 videos)
+
+### 1. 1. Moving Fast With Defined Constraints
 
 #### Understanding the boundaries
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980)
@@ -856,6 +858,10 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Joanne Molesky]]
 
 ## Path Context
 

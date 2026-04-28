@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/mastering-executive-level-data-anal
 course_count: 7
 linkedin_topics:
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
@@ -45,8 +45,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Mastering%20Executive-Level%20Data%20Analytics.md)
 
 # Mastering Executive-Level Data Analytics
 

@@ -30,8 +30,10 @@ tags:
   - topic/web-development
   - skill/snowflake
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Snowflake-%20Deep%20Dive%20Cloud%20Data%20Warehousing%20and%20Analytics.md)
 
 ![Advanced Snowflake: Deep Dive Cloud Data Warehousing and Analytics](https://media.licdn.com/dms/image/v2/C560DAQF8cIq-NfphSg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661965300072?e=2147483647&amp;v=beta&amp;t=5Dla68dldcmCM5Tljl828t3Cv9rxOmlFcJmgl-ZDQEc)
 
@@ -42,21 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics) | 2h 9m | Advanced | 72K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Janani Ravi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Snowflake
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Table Structures in Snowflake** (8 videos)
+- **3. 2. Views in Snowflake** (6 videos)
+- **4. 3. Optimizing Query Performance** (8 videos)
+- **5. 4. Working with Semi-structured Data** (3 videos)
+- **6. 5. Managing Users and Granting Privileges** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Advanced Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980)
@@ -340,7 +340,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 1. Table Structures in Snowflake
+### 2. 1. Table Structures in Snowflake
 
 #### Micropartitioning and clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980)
@@ -1133,7 +1133,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Views in Snowflake
+### 3. 2. Views in Snowflake
 
 #### Non-materialized, materialized, and secure views
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980)
@@ -1649,7 +1649,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 3. Optimizing Query Performance
+### 4. 3. Optimizing Query Performance
 
 #### Caching, clustering, and search optimization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980)
@@ -2551,7 +2551,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 4. Working with Semi-structured Data
+### 5. 4. Working with Semi-structured Data
 
 #### Loading and querying parquet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980)
@@ -2860,7 +2860,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Managing Users and Granting Privileges
+### 6. 5. Managing Users and Granting Privileges
 
 #### Access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980)
@@ -3195,7 +3195,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980)
@@ -3249,6 +3249,18 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Janani Ravi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Snowflake
 
 ## Path Context
 

@@ -28,34 +28,34 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Java%2017.md)
 
 ![Learning Java 17](https://media.licdn.com/dms/image/v2/D560DAQE8E7oMwSMsOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694720556757?e=2147483647&amp;v=beta&amp;t=j2AhaizeL3wiRqfBHmet8Db9R1n7QM5ZkqtSGAF3sEI)
 
 # Learning Java 17
 
-> Java is one of the top five programming languages, and is used for websites, embedded controllers, and Android app development. Interested in learning how to code with Java? Join instructor Kathryn Hodge as she helps you get up and running with this popular language. 
-Kathryn covers all the basics: data types, strings, functions, and loops. She helps you control the flow and logic of your code, an
+> Java is one of the top five programming languages, and is used for websites, embedded controllers, and Android app development. Interested in learning how to code with Java? Join instructor Kathryn Hodge as she helps you get up and running with this popular language. Kathryn covers all the basics: data types, strings, functions, and loops. She helps you control the flow and logic of your code, and
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17) | 2h 16m | Beginner | 26K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kathryn Hodge]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Getting Started with Java** (6 videos)
+- **3. 2. Building Strong Foundations** (6 videos)
+- **4. 3. Control Flow in Java** (6 videos)
+- **5. 4. Debugging in Java** (2 videos)
+- **6. 5. Functions in Java** (7 videos)
+- **7. 6. Classes in Java** (9 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn Java code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/learn-java-code?u=76281980)
@@ -162,7 +162,7 @@ Kathryn covers all the basics: data types, strings, functions, and loops. She he
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/coderpad-challenges?u=76281980)
 
 
-### 1. Getting Started with Java
+### 2. 1. Getting Started with Java
 
 #### What is Java?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/what-is-java?u=76281980)
@@ -568,7 +568,7 @@ Kathryn covers all the basics: data types, strings, functions, and loops. She he
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Building Strong Foundations
+### 3. 2. Building Strong Foundations
 
 #### Primitive data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/primitive-data-types?u=76281980)
@@ -1056,7 +1056,7 @@ Kathryn covers all the basics: data types, strings, functions, and loops. She he
 > **Speakers:** - so (1)
 
 
-### 3. Control Flow in Java
+### 4. 3. Control Flow in Java
 
 #### Map program control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/map-program-control-flow?u=76281980)
@@ -1480,7 +1480,7 @@ Kathryn covers all the basics: data types, strings, functions, and loops. She he
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Debugging in Java
+### 5. 4. Debugging in Java
 
 #### Debugging with print statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/debugging-with-print-statements?u=76281980)
@@ -1716,7 +1716,7 @@ Kathryn covers all the basics: data types, strings, functions, and loops. She he
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Functions in Java
+### 6. 5. Functions in Java
 
 #### What are functions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/what-are-functions?u=76281980)
@@ -2451,7 +2451,7 @@ Kathryn covers all the basics: data types, strings, functions, and loops. She he
 > **Speakers:** - [lecturer] (1)
 
 
-### 6. Classes in Java
+### 7. 6. Classes in Java
 
 #### What is a class?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/what-is-a-class?u=76281980)
@@ -3219,7 +3219,7 @@ Kathryn covers all the basics: data types, strings, functions, and loops. She he
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continue your Java learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/continue-your-java-learning?u=76281980)
@@ -3248,6 +3248,18 @@ Kathryn covers all the basics: data types, strings, functions, and loops. She he
 >
 > **Speakers:** - [kathryn] (1)
 
+
+## Instructor
+
+- [[Kathryn Hodge]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Java
 
 ## Path Context
 

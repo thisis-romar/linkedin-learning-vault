@@ -31,8 +31,10 @@ tags:
   - topic/software-development
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Amazon%20Web%20Services%20Aws%20For%20Developers.md)
 
 ![Learning Amazon Web Services Aws For Developers](https://media.licdn.com/dms/image/v2/C560DAQGxOurbjDgqQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655842537941?e=2147483647&amp;v=beta&amp;t=2bSb2ezH08-E_4uYUEBGrXrab3lU3GW9b9p9z1fGsxY)
 
@@ -43,21 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833) | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bear Cahill]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Amazon Web Services (AWS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. AWS Console** (3 videos)
+- **3. 2. Security** (7 videos)
+- **4. 3. Development** (4 videos)
+- **5. 4. Messaging and Event-Driven** (4 videos)
+- **6. 5. Deployment, Scalability, and Monitoring** (6 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Getting started in AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980)
@@ -120,7 +120,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. AWS Console
+### 2. 1. AWS Console
 
 #### AWS account and pricing
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-account-and-pricing?u=76281980)
@@ -329,7 +329,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Security
+### 3. 2. Security
 
 #### Identity and Access Management (IAM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-and-access-management-iam?u=76281980)
@@ -880,7 +880,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Development
+### 4. 3. Development
 
 #### SDK and tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980)
@@ -1352,7 +1352,7 @@ created: 2026-04-21
 > **Analogies:** kind of like (1)
 
 
-### 4. Messaging and Event-Driven
+### 5. 4. Messaging and Event-Driven
 
 #### Simple Queue Service (SQS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-queue-service-sqs?u=76281980)
@@ -1732,7 +1732,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. Deployment, Scalability, and Monitoring
+### 6. 5. Deployment, Scalability, and Monitoring
 
 #### Elastic Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980)
@@ -2295,7 +2295,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Cleanup
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cleanup?u=76281980)
@@ -2378,6 +2378,18 @@ created: 2026-04-21
 > **Tools:** aws console (1)
 > **Speakers:** - [bear] (1)
 
+
+## Instructor
+
+- [[Bear Cahill]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Amazon Web Services (AWS)
 
 ## Path Context
 

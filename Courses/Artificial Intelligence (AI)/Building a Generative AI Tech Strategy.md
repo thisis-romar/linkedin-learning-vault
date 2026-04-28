@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/it-strategy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Generative%20AI%20Tech%20Strategy.md)
 
 ![Building a Generative AI Tech Strategy](https://media.licdn.com/dms/image/v2/D560DAQHNS5GWoP1-dg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714603187708?e=2147483647&amp;v=beta&amp;t=tmvr1lhJiHYb43ugCCqUPzA2mE3jyv6USwid7eKoGxA)
 
@@ -48,23 +50,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy) | 31m | Beginner | 17K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rashim Mogha]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- IT Strategy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Identifying Opportunities for Generative AI in Your Business** (4 videos)
+- **3. 2. Building a Generative AI-Powered Tech Strategy** (3 videos)
+- **4. 3. Designing and Implementing Generative AI Applications** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building a generative AI tech strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/building-a-generative-ai-tech-strategy?u=76281980)
@@ -93,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - generative (1)
 
 
-### 1. Identifying Opportunities for Generative AI in Your Business
+### 2. 1. Identifying Opportunities for Generative AI in Your Business
 
 #### Conducting a generative AI opportunity assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/conducting-a-generative-ai-opportunity-assessment?u=76281980)
@@ -265,7 +261,7 @@ created: 2026-04-21
 > **Speakers:** - like (1)
 
 
-### 2. Building a Generative AI-Powered Tech Strategy
+### 3. 2. Building a Generative AI-Powered Tech Strategy
 
 #### Defining your generative AI vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/defining-your-generative-ai-vision?u=76281980)
@@ -417,7 +413,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 3. Designing and Implementing Generative AI Applications
+### 4. 3. Designing and Implementing Generative AI Applications
 
 #### Creating a user-centric solutions approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-user-centric-solutions-approach?u=76281980)
@@ -688,7 +684,7 @@ created: 2026-04-21
 > **Speakers:** - generative (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/next-steps?u=76281980)
@@ -708,6 +704,20 @@ created: 2026-04-21
 > **Exercise Files:** template (1)
 > **Speakers:** - generative (1)
 
+
+## Instructor
+
+- [[Rashim Mogha]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- IT Strategy
 
 ## Path Context
 

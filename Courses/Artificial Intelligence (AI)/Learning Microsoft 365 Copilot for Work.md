@@ -39,8 +39,10 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20Microsoft%20365%20Copilot%20for%20Work.md)
 
 ![Learning Microsoft 365 Copilot for Work](https://media.licdn.com/dms/image/v2/D4E0DAQGLqDpZ_D9_nA/learning-public-crop_675_1200/B4EZiu6Du3HIAY-/0/1755281112853?e=2147483647&amp;v=beta&amp;t=DtspwDseZEn10xY7PymFH-ylht9RLXzIhDvMfA4mrrA)
 
@@ -51,20 +53,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077) | 49m | 44K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jess Stratton]]
-
-## Skills Covered
-
-- Microsoft Copilot
-- AI Productivity
-- AI for Business
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Using Copilot in Office Applications** (9 videos)
+
+### 1. Introduction
 
 #### Explore Microsoft 365's AI assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/explore-microsoft-365-s-ai-assistant?u=76281980)
@@ -87,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - microsoft (1)
 
 
-### 1. Using Copilot in Office Applications
+### 2. 1. Using Copilot in Office Applications
 
 #### Use Copilot Chat with your work data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980)
@@ -1125,6 +1121,17 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jess Stratton]]
+
+## Skills Covered
+
+- Microsoft Copilot
+- AI Productivity
+- AI for Business
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/usability-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Usability%20Testing.md)
 
 ![UX Deep Dive: Usability Testing](https://media.licdn.com/dms/image/v2/C560DAQGtb-Q8JCY7yA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588621854430?e=2147483647&amp;v=beta&amp;t=4t3wUfWUWeHIVA38QI5rr90Scnld1DQN0flKGBxp99Y)
 
@@ -41,21 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing) | 26m | 53K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Amanda Stockwell]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Usability Testing
-
 ## Table of Contents
 
-### Usability Testing
+### Chapter Overview
+
+- **1. Usability Testing** (2 videos)
+- **2. 1. Which Type of Test?** (3 videos)
+- **3. 2. Running the Tests** (3 videos)
+- **4. 3. Analyzing the Test** (1 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Usability Testing
 
 #### All about usability testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/all-about-usability-testing?u=76281980)
@@ -103,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 1. Which Type of Test?
+### 2. 1. Which Type of Test?
 
 #### Usability test locations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980)
@@ -332,7 +330,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 2. Running the Tests
+### 3. 2. Running the Tests
 
 #### Participant recruiting considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980)
@@ -575,7 +573,7 @@ created: 2026-04-21
 > **Speakers:** - effectively (1)
 
 
-### 3. Analyzing the Test
+### 4. 3. Analyzing the Test
 
 #### Identifying and sharing true insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/identifying-and-sharing-true-insights?u=76281980)
@@ -647,7 +645,7 @@ created: 2026-04-21
 > **Speakers:** - regardless (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Practice makes perfect
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/practice-makes-perfect?u=76281980)
@@ -674,6 +672,18 @@ created: 2026-04-21
 >
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Amanda Stockwell]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Usability Testing
 
 ## Path Context
 

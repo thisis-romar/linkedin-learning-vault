@@ -33,8 +33,10 @@ tags:
   - skill/customer-service
   - skill/customer-support
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Customer%20Service%20Foundations.md)
 
 ![Customer Service Foundations](https://media.licdn.com/dms/image/v2/C560DAQErGYVPm1g5-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677264776907?e=2147483647&amp;v=beta&amp;t=AiT8JFMFJHAbrX_BIdeYJi3mg5igJk5dGcmkIi2FKB8)
 
@@ -45,23 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021) | 33K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Madecraft]]
-- [[Jeff Toister]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Customer Service
-- Customer Support
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Building Your Customer Service Skills** (4 videos)
+- **3. 2. Building Rapport with Your Customers** (4 videos)
+- **4. 3. Exceeding Customer Expectations** (5 videos)
+- **5. 4. Solving Customer Service Challenges** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Keeping your customers happy
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/keeping-your-customers-happy?u=76281980)
@@ -151,7 +148,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 1. Building Your Customer Service Skills
+### 2. 1. Building Your Customer Service Skills
 
 #### Defining customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/defining-customer-service?u=76281980)
@@ -476,7 +473,7 @@ created: 2026-04-21
 > **Speakers:** - burnout (1)
 
 
-### 2. Building Rapport with Your Customers
+### 3. 2. Building Rapport with Your Customers
 
 #### Connecting rapport to outstanding service
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/connecting-rapport-to-outstanding-service?u=76281980)
@@ -856,7 +853,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 
 
-### 3. Exceeding Customer Expectations
+### 4. 3. Exceeding Customer Expectations
 
 #### Uncovering customer needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/uncovering-customer-needs?u=76281980)
@@ -1339,7 +1336,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### 4. Solving Customer Service Challenges
+### 5. 4. Solving Customer Service Challenges
 
 #### Taking ownership of problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/taking-ownership-of-problems?u=76281980)
@@ -1970,7 +1967,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continuing to build your customer service skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/continuing-to-build-your-customer-service-skills?u=76281980)
@@ -2024,6 +2021,20 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Madecraft]]
+- [[Jeff Toister]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Customer Service
+- Customer Support
 
 ## Path Context
 

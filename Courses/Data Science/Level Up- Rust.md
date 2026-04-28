@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/rust-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Level%20Up-%20Rust.md)
 
 ![Level Up: Rust](https://media.licdn.com/dms/image/v2/C560DAQEOULbtwwYf8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677009134347?e=2147483647&amp;v=beta&amp;t=fBaGAv3TxwJps7ntffBoWITXx-bZIzbWCievVafHg_g)
 
@@ -42,22 +44,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust) | 2h 39m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tim McNamara]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/level-up-rust-3041143/codespaces)
-
-## Skills Covered
-
-- Rust (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Rust Coding Challenges** (17 videos)
+
+### 1. Introduction
 
 #### Put Rust into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980)
@@ -286,7 +280,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 1. Rust Coding Challenges
+### 2. 1. Rust Coding Challenges
 
 #### Calculate the median
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980)
@@ -2890,6 +2884,19 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (retro music) (1)
 
+
+## Instructor
+
+- [[Tim McNamara]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/level-up-rust-3041143/codespaces)
+
+## Skills Covered
+
+- Rust (Programming Language)
 
 ## Path Context
 

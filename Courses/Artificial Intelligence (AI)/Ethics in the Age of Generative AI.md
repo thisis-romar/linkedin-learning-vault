@@ -63,8 +63,10 @@ tags:
   - skill/computer-ethics
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Ethics%20in%20the%20Age%20of%20Generative%20AI.md)
 
 ![Ethics in the Age of Generative AI](https://media.licdn.com/dms/image/v2/D560DAQEnE2mUK2ogWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685035572840?e=2147483647&amp;v=beta&amp;t=UIFrxPJMRKlPl8_uB1LPNttb7HIyCnPgu7MGBafKmuE)
 
@@ -75,24 +77,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai) | 45m | Beginner | 334K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Vilas Dhar]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Responsible AI
-- Generative AI
-- Computer Ethics
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. Developing the skill of ethical analysis in AI** (3 videos)
+- **3. Preparing Your Organization to address Ethics in AI** (6 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Generative AI and ethics: The urgency of now
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/generative-ai-and-ethics-the-urgency-of-now?u=76281980)
@@ -159,7 +153,7 @@ created: 2026-04-21
 > **Speakers:** - since (1)
 
 
-### Developing the skill of ethical analysis in AI
+### 2. Developing the skill of ethical analysis in AI
 
 #### Distinguishing responsible tech from human behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/distinguishing-responsible-tech-from-human-behavior?u=76281980)
@@ -377,7 +371,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### Preparing Your Organization to address Ethics in AI
+### 3. Preparing Your Organization to address Ethics in AI
 
 #### Organizing data with ethics in mind
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/organizing-data-with-ethics-in-mind?u=76281980)
@@ -805,7 +799,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Setting an intention of continual questioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/setting-an-intention-of-continual-questioning?u=76281980)
@@ -835,6 +829,21 @@ created: 2026-04-21
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Vilas Dhar]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Responsible AI
+- Generative AI
+- Computer Ethics
+- Artificial Intelligence (AI)
 
 ## Path Context
 

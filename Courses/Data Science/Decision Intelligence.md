@@ -37,8 +37,10 @@ tags:
   - skill/data-driven-decision-making
   - skill/decision-making
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Decision%20Intelligence.md)
 
 ![Decision Intelligence](https://media.licdn.com/dms/image/v2/D560DAQHm5OeeZN1I6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693509050887?e=2147483647&amp;v=beta&amp;t=r6eUf8rJNh98Yv7OyU0wM9caTqxJ5_Q2HNg9nzzlsKs)
 
@@ -49,18 +51,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence) | 1h 25m | Intermediate | 102K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Cassie Kozyrkov]]
-
-## Skills Covered
-
-- Data-driven Decision Making
-- Decision-Making
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Decision-Maker in Isolation** (8 videos)
+- **3. 2. Decision Intelligence** (5 videos)
+- **4. 3. Data-Driven Leadership** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The steering wheel for your life
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-steering-wheel-for-your-life?u=76281980)
@@ -137,7 +138,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 1. The Decision-Maker in Isolation
+### 2. 1. The Decision-Maker in Isolation
 
 #### The most important lesson in decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-most-important-lesson-in-decision-making?u=76281980)
@@ -995,7 +996,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 2. Decision Intelligence
+### 3. 2. Decision Intelligence
 
 #### Upgrade 1: Using data and technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/upgrade-1-using-data-and-technology?u=76281980)
@@ -1620,7 +1621,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. Data-Driven Leadership
+### 4. 3. Data-Driven Leadership
 
 #### Group decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/group-decisions?u=76281980)
@@ -2094,7 +2095,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Are you a good decision-maker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/are-you-a-good-decision-maker?u=76281980)
@@ -2149,6 +2150,15 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - are (1)
 
+
+## Instructor
+
+- [[Cassie Kozyrkov]]
+
+## Skills Covered
+
+- Data-driven Decision Making
+- Decision-Making
 
 ## Path Context
 

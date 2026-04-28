@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-storage
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Scalable%20Data%20Storage%20and%20Processing%20for%20AI%20Workloads.md)
 
 ![Scalable Data Storage and Processing for AI Workloads](https://media.licdn.com/dms/image/v2/D4E0DAQE1Qqi57VoW4Q/learning-public-crop_675_1200/B4EZVssGVvH0Ac-/0/1741285254779?e=2147483647&amp;v=beta&amp;t=GYjaq7OPlRcOb9ejTjf7yNoSGSNw6XDMOsrJ9XJzCTY)
 
@@ -48,24 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads) | 1h 30m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Janani Ravi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Processing
-- AI Software Development
-- Artificial Intelligence (AI)
-- Data Storage
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Types of Data and Storage Requirements** (4 videos)
+- **3. 2. Data Storage in the AI Pipeline** (7 videos)
+- **4. 3. Vector Databases and RAGs** (3 videos)
+- **5. 4. AI Workloads and Processing** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Scalable solutions for storage and processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980)
@@ -144,7 +140,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Types of Data and Storage Requirements
+### 2. 1. Types of Data and Storage Requirements
 
 #### Types of data: Structured, semistructured, and unstructured
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980)
@@ -435,7 +431,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Data Storage in the AI Pipeline
+### 3. 2. Data Storage in the AI Pipeline
 
 #### Storage requirements in the AI pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980)
@@ -1213,7 +1209,7 @@ created: 2026-04-21
 > **Definitions:** is called (1)
 
 
-### 3. Vector Databases and RAGs
+### 4. 3. Vector Databases and RAGs
 
 #### Retrieval-augmented generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980)
@@ -1645,7 +1641,7 @@ created: 2026-04-21
 > **Documentation:** spec (1), specification (1)
 
 
-### 4. AI Workloads and Processing
+### 5. 4. AI Workloads and Processing
 
 #### Types of AI workloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980)
@@ -1924,7 +1920,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980)
@@ -1954,6 +1950,21 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Janani Ravi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Processing
+- AI Software Development
+- Artificial Intelligence (AI)
+- Data Storage
 
 ## Path Context
 

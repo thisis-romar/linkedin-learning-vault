@@ -34,8 +34,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Statistics%20Foundations%203-%20Using%20Data%20Sets.md)
 
 ![Statistics Foundations 3: Using Data Sets](https://media.licdn.com/dms/image/v2/C4D0DAQG3E0vJnJDuKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657749321399?e=2147483647&amp;v=beta&amp;t=Xreq-QPZ4IX_HQs-8Z0aAdk9Wgo5Hn0sIlj38NbBE9I)
 
@@ -46,13 +48,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets) | 1h 44m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eddie Davila]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Sampling** (3 videos)
+- **3. 2. Sample Size** (2 videos)
+- **4. 3. Standard Error** (3 videos)
+- **5. 4. Confidence Intervals** (5 videos)
+- **6. 5. Hypothesis Tests** (6 videos)
+- **7. 6. Continuing Your Statistics Learning Journey** (1 videos)
+
+### 1. Introduction
 
 #### Discover samples, confidence intervals, and hypothesis testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/discover-samples-confidence-intervals-and-hypothesis-testing?u=76281980)
@@ -103,7 +111,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 1. Sampling
+### 2. 1. Sampling
 
 #### Sample considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sample-considerations?u=76281980)
@@ -425,7 +433,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Sample Size
+### 3. 2. Sample Size
 
 #### The importance of sample size
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/the-importance-of-sample-size?u=76281980)
@@ -606,7 +614,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Standard Error
+### 4. 3. Standard Error
 
 #### Standard error for proportions
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-proportions?u=76281980)
@@ -877,7 +885,7 @@ created: 2026-04-21
 > **Speakers:** - through (1)
 
 
-### 4. Confidence Intervals
+### 5. 4. Confidence Intervals
 
 #### Introduction to confidence intervals
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/introduction-to-confidence-intervals?u=76281980)
@@ -1363,7 +1371,7 @@ created: 2026-04-21
 > **Speakers:** - suppose (1)
 
 
-### 5. Hypothesis Tests
+### 6. 5. Hypothesis Tests
 
 #### Hypothesis test introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-introduction?u=76281980)
@@ -2088,7 +2096,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 6. Continuing Your Statistics Learning Journey
+### 7. 6. Continuing Your Statistics Learning Journey
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980)
@@ -2121,6 +2129,10 @@ created: 2026-04-21
 > **Code Keywords:** case, (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Eddie Davila]]
 
 ## Path Context
 

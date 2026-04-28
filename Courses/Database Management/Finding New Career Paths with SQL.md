@@ -35,8 +35,10 @@ tags:
   - skill/sql
   - skill/career-path-planning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Finding%20New%20Career%20Paths%20with%20SQL.md)
 
 ![Finding New Career Paths with SQL](https://media.licdn.com/dms/image/v2/C560DAQEjfbkJ3te4OQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634842881769?e=2147483647&amp;v=beta&amp;t=hddEvLs3coNMQBi3bsiknrxYJcFlU8xwujVaXnoy2rk)
 
@@ -47,24 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql) | 43m | Beginner | 300K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nikiya Simpson]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/finding-new-career-paths-with-sql-2881262)
-
-## Skills Covered
-
-- Tech Career Skills
-- SQL
-- Career Path Planning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Designing Your Career with SQL Skills** (3 videos)
+- **3. 2. Analytics and Marketing with SQL** (2 videos)
+- **4. 3. Data Science and SQL** (3 videos)
+- **5. 4. Engineering with SQL** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Starting your new career path with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980)
@@ -163,7 +159,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Designing Your Career with SQL Skills
+### 2. 1. Designing Your Career with SQL Skills
 
 #### Finding where your interests intersect with your SQL skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980)
@@ -348,7 +344,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Analytics and Marketing with SQL
+### 3. 2. Analytics and Marketing with SQL
 
 #### SQL in digital marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980)
@@ -486,7 +482,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Science and SQL
+### 4. 3. Data Science and SQL
 
 #### Data science overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980)
@@ -649,7 +645,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Engineering with SQL
+### 5. 4. Engineering with SQL
 
 #### Introduction to engineering and database administration using SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980)
@@ -1006,7 +1002,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Extending your SQL career
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980)
@@ -1040,6 +1036,21 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [nikiya] (1)
 
+
+## Instructor
+
+- [[Nikiya Simpson]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/finding-new-career-paths-with-sql-2881262)
+
+## Skills Covered
+
+- Tech Career Skills
+- SQL
+- Career Path Planning
 
 ## Path Context
 

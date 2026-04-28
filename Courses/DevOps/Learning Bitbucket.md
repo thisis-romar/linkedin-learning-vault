@@ -28,8 +28,10 @@ tags:
   - skill/bitbucket
   - skill/version-control
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Bitbucket.md)
 
 ![Learning Bitbucket](https://media.licdn.com/dms/image/v2/D560DAQF4xJfvchWt8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713919407092?e=2147483647&amp;v=beta&amp;t=1onNT12ubSmwBPuB-SfMrbY3o_mINODQr1Xwk0X1Ppw)
 
@@ -40,19 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket) | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-bitbucket-3821269)
-
-## Skills Covered
-
-- Bitbucket
-- Version Control
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Getting Started with Bitbucket** (8 videos)
+- **3. 2. Working with Branches and Pull Requests** (5 videos)
+- **4. 3. Working with Jira Cloud** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Streamline your code and collaboration with Bitbucket
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980)
@@ -229,7 +229,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 1. Getting Started with Bitbucket
+### 2. 1. Getting Started with Bitbucket
 
 #### Create public and private repositories
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980)
@@ -914,7 +914,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1), required to (1)
 
 
-### 2. Working with Branches and Pull Requests
+### 3. 2. Working with Branches and Pull Requests
 
 #### Create a branch
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-a-branch?u=76281980)
@@ -1379,7 +1379,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (2)
 
 
-### 3. Working with Jira Cloud
+### 4. 3. Working with Jira Cloud
 
 #### Manage Projects with Jira and Bitbucket
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980)
@@ -1855,7 +1855,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat playful music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/next-steps?u=76281980)
@@ -1881,6 +1881,16 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - we (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-bitbucket-3821269)
+
+## Skills Covered
+
+- Bitbucket
+- Version Control
 
 ## Path Context
 

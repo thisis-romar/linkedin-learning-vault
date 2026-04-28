@@ -31,8 +31,10 @@ tags:
   - skill/financial-data
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20for%20Finance-%20Income%20Statement%20Project.md)
 
 ![SQL for Finance: Income Statement Project](https://media.licdn.com/dms/image/v2/D560DAQE8r3Ie8UIPRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726595619202?e=2147483647&amp;v=beta&amp;t=MnOPE2PxFxri-Y6olLZt3LphEnQ1RhZdySEppuOMT5U)
 
@@ -43,23 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project) | 2h 20m | Intermediate | 155K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gabriela Baldivia Soncini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/sql-for-finance-income-statement-project-4477127/codespaces)
-
-## Skills Covered
-
-- Financial Data
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Balance Sheets and Assets Accounts** (13 videos)
+- **3. 2. Balance Sheets: Liability and Owner's Equity Accounts** (5 videos)
+- **4. 3. Building the Balance Sheet** (5 videos)
+- **5. 4. Income Statement** (3 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### The power of SQL in financial reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/the-power-of-sql-in-financial-reports?u=76281980)
@@ -85,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Balance Sheets and Assets Accounts
+### 2. 1. Balance Sheets and Assets Accounts
 
 #### Financial reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/financial-reports?u=76281980)
@@ -1577,7 +1574,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 2. Balance Sheets: Liability and Owner's Equity Accounts
+### 3. 2. Balance Sheets: Liability and Owner's Equity Accounts
 
 #### Building the Loan Account
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-loan-account?u=76281980)
@@ -2232,7 +2229,7 @@ created: 2026-04-21
 > **Non-Speech:** (punchy music) (1)
 
 
-### 3. Building the Balance Sheet
+### 4. 3. Building the Balance Sheet
 
 #### Building the Assets section
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980)
@@ -2748,7 +2745,7 @@ created: 2026-04-21
 > **Non-Speech:** (jazzy music) (1)
 
 
-### 4. Income Statement
+### 5. 4. Income Statement
 
 #### Understanding the income statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-income-statement?u=76281980)
@@ -2922,7 +2919,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Balance sheet and income statement considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980)
@@ -3049,6 +3046,20 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Gabriela Baldivia Soncini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/sql-for-finance-income-statement-project-4477127/codespaces)
+
+## Skills Covered
+
+- Financial Data
+- SQL
 
 ## Path Context
 

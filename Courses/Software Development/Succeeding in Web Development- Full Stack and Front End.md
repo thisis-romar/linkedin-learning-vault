@@ -36,8 +36,10 @@ tags:
   - skill/front-end-development
   - skill/full-stack-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Succeeding%20in%20Web%20Development-%20Full%20Stack%20and%20Front%20End.md)
 
 ![Succeeding in Web Development: Full Stack and Front End](https://media.licdn.com/dms/image/v2/C4E0DAQGSgJonDDHLXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568221370458?e=2147483647&amp;v=beta&amp;t=Gc9Ftpd56aUq25dJ5Nt4cqzWboQiNRtosDWA741-hUk)
 
@@ -48,18 +50,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end) | 1h 3m | Beginner | 80K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Skills Covered
-
-- Front-End Development
-- Full-Stack Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. A Developer's Life** (3 videos)
+- **3. 2. Core Technologies** (4 videos)
+- **4. 3. Core Concepts** (5 videos)
+- **5. 4. Supporting Technologies** (5 videos)
+- **6. 5. Education** (4 videos)
+- **7. 6. Getting a Job** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Becoming a web developer
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/becoming-a-web-developer?u=76281980)
@@ -109,7 +113,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 1. A Developer's Life
+### 2. 1. A Developer's Life
 
 #### Types of web developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/types-of-web-developers?u=76281980)
@@ -244,7 +248,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 2. Core Technologies
+### 3. 2. Core Technologies
 
 #### HTML as the foundation
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980)
@@ -471,7 +475,7 @@ created: 2026-04-21
 > **Speakers:** - remember (1)
 
 
-### 3. Core Concepts
+### 4. 3. Core Concepts
 
 #### How the internet works
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980)
@@ -796,7 +800,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 4. Supporting Technologies
+### 5. 4. Supporting Technologies
 
 #### Server technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980)
@@ -1093,7 +1097,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 5. Education
+### 6. 5. Education
 
 #### What education do I need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/what-education-do-i-need?u=76281980)
@@ -1299,7 +1303,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 6. Getting a Job
+### 7. 6. Getting a Job
 
 #### How do developers find jobs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-do-developers-find-jobs?u=76281980)
@@ -1567,7 +1571,7 @@ created: 2026-04-21
 > **Speakers:** - once (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980)
@@ -1607,6 +1611,15 @@ created: 2026-04-21
 > **Speakers:** - looks (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Skills Covered
+
+- Front-End Development
+- Full-Stack Development
 
 ## Path Context
 

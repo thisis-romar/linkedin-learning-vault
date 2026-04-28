@@ -27,8 +27,10 @@ tags:
   - topic/software-development
   - skill/pandas-software
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Advanced%20Pandas.md)
 
 ![Advanced Pandas](https://media.licdn.com/dms/image/v2/D4D0DAQE_2nqqsEL3YA/learning-public-crop_675_1200/B4DZg98QqGHAAc-/0/1753385864731?e=2147483647&amp;v=beta&amp;t=K9lXeGO78NRb4L8Qpj0FDdJ3Rkt628QLvVNQIg7m0DE)
 
@@ -39,22 +41,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107) | 1h 2m | Advanced | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brett Vanderblock]]
-- [[Madecraft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Pandas (Software)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. From Beginner to Advanced pandas** (4 videos)
+- **3. 2. Advanced Calculations** (5 videos)
+- **4. 3. Transforming DataFrames** (4 videos)
+- **5. 4. Exploratory Data Analysis and Visualization** (2 videos)
+- **6. 5. Beyond pandas** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Take pandas to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/take-pandas-to-the-next-level?u=76281980)
@@ -84,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - [brett] (1)
 
 
-### 1. From Beginner to Advanced pandas
+### 2. 1. From Beginner to Advanced pandas
 
 #### Getting started with pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/getting-started-with-pandas?u=76281980)
@@ -310,7 +309,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Advanced Calculations
+### 3. 2. Advanced Calculations
 
 #### Data type conversions using pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/data-type-conversions-using-pandas?u=76281980)
@@ -685,7 +684,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Transforming DataFrames
+### 4. 3. Transforming DataFrames
 
 #### Groupby and aggregations using pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/groupby-and-aggregations-using-pandas?u=76281980)
@@ -1068,7 +1067,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Exploratory Data Analysis and Visualization
+### 5. 4. Exploratory Data Analysis and Visualization
 
 #### Plotting with pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/plotting-with-pandas?u=76281980)
@@ -1255,7 +1254,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Beyond pandas
+### 6. 5. Beyond pandas
 
 #### Accelerate exploratory data analysis with pandas-profiling
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980)
@@ -1490,7 +1489,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Your path forward using advanced pandas functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980)
@@ -1523,6 +1522,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [brett] (1)
 
+
+## Instructor
+
+- [[Brett Vanderblock]]
+- [[Madecraft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Pandas (Software)
 
 ## Path Context
 

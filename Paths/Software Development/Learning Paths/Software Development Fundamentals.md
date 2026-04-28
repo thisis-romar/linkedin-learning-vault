@@ -10,12 +10,12 @@ louvain_cluster: 3
 tags:
   - learning-path
   - topic/software-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-04-27T20:12:08.666Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
   - course: '[[Computer Science Principles Digital Information]]'
     last_opened: null
@@ -57,8 +57,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/Software%20Development%20Fundamentals.md)
 
 # Software Development Fundamentals
 

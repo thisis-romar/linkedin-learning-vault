@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-as-a-supply-cha
 course_count: 15
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 4
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/security
@@ -77,8 +77,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Learning%20Paths/Advance%20Your%20Skills%20as%20a%20Supply%20Chain%20Manager.md)
 
 # Advance Your Skills as a Supply Chain Manager
 

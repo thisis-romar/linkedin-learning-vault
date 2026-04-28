@@ -37,8 +37,10 @@ tags:
   - topic/software-development
   - skill/computer-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Computer%20Science%20Principles-%20The%20Internet.md)
 
 ![Computer Science Principles: The Internet](https://media.licdn.com/dms/image/v2/C4E0DAQElGJzUhFVsOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118502014?e=2147483647&amp;v=beta&amp;t=cto-tvVIGi0pVizzJ5NxPsCcXpubZPy_A8lWc3rD-no)
 
@@ -49,17 +51,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet) | 59m | Beginner | 71K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rich Winnie]]
-
-## Skills Covered
-
-- Computer Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Internet Basics** (2 videos)
+- **3. 2. Addressing and Routing Information** (7 videos)
+- **4. 3. Web Servers** (5 videos)
+- **5. 4. Encryption** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980)
@@ -130,7 +133,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Internet Basics
+### 2. 1. Internet Basics
 
 #### How the Internet was born
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980)
@@ -298,7 +301,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. Addressing and Routing Information
+### 3. 2. Addressing and Routing Information
 
 #### Sending and receiving information
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/sending-and-receiving-information?u=76281980)
@@ -720,7 +723,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Web Servers
+### 4. 3. Web Servers
 
 #### Identifying a server with URLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/identifying-a-server-with-urls?u=76281980)
@@ -1098,7 +1101,7 @@ created: 2026-04-21
 > **Speakers:** - whenever (1)
 
 
-### 4. Encryption
+### 5. 4. Encryption
 
 #### Caesar's cypher and keys
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980)
@@ -1275,7 +1278,7 @@ created: 2026-04-21
 > **Speakers:** - simple (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/goodbye?u=76281980)
@@ -1315,6 +1318,14 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
+
+## Instructor
+
+- [[Rich Winnie]]
+
+## Skills Covered
+
+- Computer Science
 
 ## Path Context
 

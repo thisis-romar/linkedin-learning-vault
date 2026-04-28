@@ -32,8 +32,10 @@ tags:
   - skill/c
   - skill/application-programming-interfaces-api
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Web%20Servers%20and%20APIs%20using%20C%2B%2B.md)
 
 ![Web Servers and APIs using C++](https://media.licdn.com/dms/image/v2/C4E0DAQHrBt9kMUW87g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568666500963?e=2147483647&amp;v=beta&amp;t=cW6jJz22RAucIpxgPlHj10WipwN3hS-RckYxD80DDVQ)
 
@@ -44,23 +46,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus) | 2h 49m | Intermediate | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Troy Miles]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Web Servers
-- C++
-- Application Programming Interfaces (API)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Installing Our Tools** (8 videos)
+- **3. 2. Deploying to AWS ElasticBeanstalk** (2 videos)
+- **4. 3. Building Websites** (5 videos)
+- **5. 4. Data Access** (7 videos)
+- **6. 5. RESTful APIs** (6 videos)
+- **7. 6. WebSockets and Crow** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why use C++ to make a website?
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/why-use-c-plus-plus-to-make-a-website-25621006?u=76281980)
@@ -85,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - [troy] (1)
 
 
-### 1. Installing Our Tools
+### 2. 1. Installing Our Tools
 
 #### Installing Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980)
@@ -754,7 +753,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Deploying to AWS ElasticBeanstalk
+### 3. 2. Deploying to AWS ElasticBeanstalk
 
 #### Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980)
@@ -1005,7 +1004,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 
 
-### 3. Building Websites
+### 4. 3. Building Websites
 
 #### Creating HTML pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980)
@@ -1495,7 +1494,7 @@ created: 2026-04-21
 > **Non-Speech:** (chiming music) (1)
 
 
-### 4. Data Access
+### 5. 4. Data Access
 
 #### Atlas
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980)
@@ -2512,7 +2511,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. RESTful APIs
+### 6. 5. RESTful APIs
 
 #### Creating an endpoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-an-endpoint?u=76281980)
@@ -3213,7 +3212,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 6. WebSockets and Crow
+### 7. 6. WebSockets and Crow
 
 #### Reviewing the JavaScript client code
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980)
@@ -3499,7 +3498,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/next-steps?u=76281980)
@@ -3519,6 +3518,20 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Troy Miles]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Web Servers
+- C++
+- Application Programming Interfaces (API)
 
 ## Path Context
 

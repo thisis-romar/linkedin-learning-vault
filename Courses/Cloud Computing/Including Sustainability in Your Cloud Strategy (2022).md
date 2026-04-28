@@ -34,8 +34,10 @@ tags:
   - skill/sustainable-systems
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Including%20Sustainability%20in%20Your%20Cloud%20Strategy%20(2022).md)
 
 ![Including Sustainability in Your Cloud Strategy (2022)](https://media.licdn.com/dms/image/v2/C4E0DAQGwt7j7bSD2xQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664811377633?e=2147483647&amp;v=beta&amp;t=zsxq_9_HXS-FTennvRd8Dl-8VntnWDT6Lo1Aq7umoHo)
 
@@ -46,23 +48,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022) | 34m | Beginner | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fawad Qureshi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Sustainable Business Strategy
-- Sustainable Systems
-- Cloud Strategy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Foundations of Cloud Sustainability** (6 videos)
+- **3. 2. Why Are Some Technologies More Efficient than Others?** (1 videos)
+- **4. 3. Carbon Measurements and Their Implications** (3 videos)
+- **5. 4. Energy Consumption Case Studies** (2 videos)
+- **6. 5. Consolidation for a Greener Future** (1 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Do not waste water
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/do-not-waste-water?u=76281980)
@@ -178,7 +176,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Foundations of Cloud Sustainability
+### 2. 1. Foundations of Cloud Sustainability
 
 #### Factors impacting carbon consumption in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/factors-impacting-carbon-consumption-in-the-cloud?u=76281980)
@@ -550,7 +548,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Why Are Some Technologies More Efficient than Others?
+### 3. 2. Why Are Some Technologies More Efficient than Others?
 
 #### Measuring parallel efficiency of the cloud systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/measuring-parallel-efficiency-of-the-cloud-systems?u=76281980)
@@ -636,7 +634,7 @@ created: 2026-04-21
 > **Speakers:** - since (1)
 
 
-### 3. Carbon Measurements and Their Implications
+### 4. 3. Carbon Measurements and Their Implications
 
 #### Carbon tax rates and carbon intensity
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/carbon-tax-rates-and-carbon-intensity?u=76281980)
@@ -767,7 +765,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Energy Consumption Case Studies
+### 5. 4. Energy Consumption Case Studies
 
 #### Energy consumption case study 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/energy-consumption-case-study-1?u=76281980)
@@ -845,7 +843,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 5. Consolidation for a Greener Future
+### 6. 5. Consolidation for a Greener Future
 
 #### Benefits of consolidation
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980)
@@ -891,7 +889,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Learning more about sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980)
@@ -960,6 +958,20 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Fawad Qureshi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Sustainable Business Strategy
+- Sustainable Systems
+- Cloud Strategy
 
 ## Path Context
 

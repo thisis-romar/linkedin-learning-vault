@@ -34,8 +34,10 @@ tags:
   - topic/software-development
   - skill/database-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations%20Database%20Management.md)
 
 ![Database Foundations Database Management](https://media.licdn.com/dms/image/v2/C560DAQFqmZR1AdSRWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613059527518?e=2147483647&amp;v=beta&amp;t=4btvXnkz0vAOPQXTpBPMLCJM8agCn7s3dTI-ZCFgyfQ)
 
@@ -46,21 +48,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management) | Beginner | 196K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Wilbert]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Database Administration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Database Views** (6 videos)
+- **3. 2. Query Performance** (5 videos)
+- **4. 3. Transactions** (4 videos)
+- **5. 4. Data and Object Management** (5 videos)
+- **6. 5. Functions and Stored Procedures** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Managing database performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980)
@@ -281,7 +281,7 @@ created: 2026-04-21
 > **Prerequisites:** setup (1)
 
 
-### 1. Database Views
+### 2. 1. Database Views
 
 #### Save queries as database view objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980)
@@ -960,7 +960,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Query Performance
+### 3. 2. Query Performance
 
 #### The query optimizer
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980)
@@ -1454,7 +1454,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Transactions
+### 4. 3. Transactions
 
 #### Transactions and data consistency
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/transactions-and-data-consistency?u=76281980)
@@ -1801,7 +1801,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data and Object Management
+### 5. 4. Data and Object Management
 
 #### Explore the system tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980)
@@ -2226,7 +2226,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Functions and Stored Procedures
+### 6. 5. Functions and Stored Procedures
 
 #### Add programming elements to the database
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980)
@@ -2772,7 +2772,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980)
@@ -2802,6 +2802,18 @@ created: 2026-04-21
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Adam Wilbert]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Database Administration
 
 ## Path Context
 

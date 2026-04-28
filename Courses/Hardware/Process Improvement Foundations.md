@@ -17,8 +17,10 @@ tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Process%20Improvement%20Foundations.md)
 
 ![Process Improvement Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQHs3leayBLb-g/learning-public-crop_675_1200/B4EZnFATUDJgAY-/0/1759946815018?e=2147483647&amp;v=beta&amp;t=kAjbYGOCP95PAcyqZrLFsVNc10w1tL_i7Jhu8ut9lTQ)
 
@@ -31,7 +33,14 @@ created: 2026-04-21
 
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Measuring Your Processes** (6 videos)
+- **3. 2. Improving Your Processes** (13 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is process improvement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/what-is-process-improvement?u=76281980)
@@ -59,7 +68,7 @@ created: 2026-04-21
 > **Speakers:** - process (1)
 
 
-### 1. Measuring Your Processes
+### 2. 1. Measuring Your Processes
 
 #### Measuring and managing
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/measuring-and-managing-2?u=76281980)
@@ -554,7 +563,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. Improving Your Processes
+### 3. 2. Improving Your Processes
 
 #### Optimizing your quality, costs, and time tradeoff
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/optimizing-your-quality-costs-and-time-tradeoff?u=76281980)
@@ -1707,7 +1716,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Final thoughts
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980)

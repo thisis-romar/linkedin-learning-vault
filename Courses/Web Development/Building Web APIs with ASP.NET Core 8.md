@@ -28,8 +28,10 @@ tags:
   - skill/api-development
   - skill/asp-net-core
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Web%20APIs%20with%20ASP.NET%20Core%208.md)
 
 ![Building Web APIs with ASP.NET Core 8](https://media.licdn.com/dms/image/v2/D560DAQG-B4jp_AX4mw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712683571358?e=2147483647&amp;v=beta&amp;t=q1YLlRgqh9i4UweixEriV1rsyNAodADqm3sN6fhttuc)
 
@@ -40,22 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8) | 2h 37m | Intermediate | 33K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Christian Wenz]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- API Development
-- ASP.NET Core
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (8 videos)
+- **3. 2. Retrieving Data** (12 videos)
+- **4. 3. Writing Data** (9 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Web APIs with ASP.NET Core 8
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980)
@@ -178,7 +175,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Prerequisites and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980)
@@ -1066,7 +1063,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Retrieving Data
+### 3. 2. Retrieving Data
 
 #### Controllers and actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980)
@@ -2092,7 +2089,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Writing Data
+### 4. 3. Writing Data
 
 #### HTTP methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-methods?u=76281980)
@@ -3070,7 +3067,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980)
@@ -3135,6 +3132,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Christian Wenz]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- API Development
+- ASP.NET Core
 
 ## Path Context
 

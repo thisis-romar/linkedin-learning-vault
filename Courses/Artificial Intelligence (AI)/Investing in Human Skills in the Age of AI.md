@@ -28,8 +28,10 @@ tags:
   - skill/emotional-intelligence
   - skill/critical-thinking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Investing%20in%20Human%20Skills%20in%20the%20Age%20of%20AI.md)
 
 ![Investing in Human Skills in the Age of AI](https://media.licdn.com/dms/image/v2/D560DAQEU0BlxjPItig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725035639557?e=2147483647&amp;v=beta&amp;t=_vY2cuUfvrZXEGDoK8oSPk7c90Rox3czTNNFzD6PtRI)
 
@@ -40,19 +42,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai) | 24m | 86K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Aneesh Raman]]
-
-## Skills Covered
-
-- Interpersonal Skills
-- Emotional Intelligence
-- Critical Thinking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Human Skills in the Age of AI** (9 videos)
+
+### 1. Introduction
 
 #### Human skills and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/human-skills-and-ai?u=76281980)
@@ -76,7 +73,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 1. Human Skills in the Age of AI
+### 2. 1. Human Skills in the Age of AI
 
 #### What will make human skills valuable in the age of AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980)
@@ -591,6 +588,16 @@ created: 2026-04-21
 > **Cross-References:** we talked about (1)
 > **Speakers:** - for (1)
 
+
+## Instructor
+
+- [[Aneesh Raman]]
+
+## Skills Covered
+
+- Interpersonal Skills
+- Emotional Intelligence
+- Critical Thinking
 
 ## Path Context
 

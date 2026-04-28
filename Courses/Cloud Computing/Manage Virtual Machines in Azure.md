@@ -30,8 +30,10 @@ tags:
   - skill/virtual-machines
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Manage%20Virtual%20Machines%20in%20Azure.md)
 
 ![Manage Virtual Machines in Azure](https://media.licdn.com/dms/image/v2/D560DAQHJBAcloDFwGQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689359465292?e=2147483647&amp;v=beta&amp;t=h7r5Tg9LOE2IJyBYS8doBYcUkcXV40H2LJ91DjVjeLU)
 
@@ -42,18 +44,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure) | 2h 26m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brien Posey]]
-
-## Skills Covered
-
-- Virtual Machines
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Azure VM Basics** (4 videos)
+- **3. 2. Architecture** (5 videos)
+- **4. 3. Security and Identity** (5 videos)
+- **5. 4. Storage** (2 videos)
+- **6. 5. Virtual Machine Management, Maintenance, and Protection** (5 videos)
+- **7. 6. Networking** (5 videos)
+- **8. 7. Applications and Customization** (2 videos)
+- **9. 8. Working with VMs** (11 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Azure VM management
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980)
@@ -98,7 +104,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Azure VM Basics
+### 2. 1. Azure VM Basics
 
 #### Create an Azure VM
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980)
@@ -482,7 +488,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 2. Architecture
+### 3. 2. Architecture
 
 #### Understand VM availability options
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980)
@@ -935,7 +941,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. Security and Identity
+### 4. 3. Security and Identity
 
 #### Choose a VM's security type
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980)
@@ -1392,7 +1398,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Storage
+### 5. 4. Storage
 
 #### Create and attach a new disk
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980)
@@ -1568,7 +1574,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Virtual Machine Management, Maintenance, and Protection
+### 6. 5. Virtual Machine Management, Maintenance, and Protection
 
 #### Enable disaster recovery
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980)
@@ -2044,7 +2050,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Networking
+### 7. 6. Networking
 
 #### Create a virtual network
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980)
@@ -2485,7 +2491,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Applications and Customization
+### 8. 7. Applications and Customization
 
 #### Deploy VM extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980)
@@ -2760,7 +2766,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Working with VMs
+### 9. 8. Working with VMs
 
 #### Start, stop, and restart VMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980)
@@ -3724,7 +3730,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980)
@@ -3750,6 +3756,15 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Brien Posey]]
+
+## Skills Covered
+
+- Virtual Machines
+- Microsoft Azure
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Maps%20and%20Sets.md)
 
 ![JavaScript: Maps and Sets](https://media.licdn.com/dms/image/v2/D4D0DAQGGYpT_Je55Fw/learning-public-crop_675_1200/B4DZVN0co5HAAY-/0/1740767350005?e=2147483647&amp;v=beta&amp;t=iitExLdnQbMxEXHpK0_WOHQBRUKsSEcCYSH3p-vyemk)
 
@@ -40,21 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets) | 1h 10m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jamie Pittman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Maps** (12 videos)
+- **3. 2. WeakMaps** (2 videos)
+- **4. 3. Sets** (10 videos)
+- **5. 4. WeakSets** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get to know JavaScript maps and sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/get-to-know-javascript-maps-and-sets?u=76281980)
@@ -131,7 +130,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Maps
+### 2. 1. Maps
 
 #### The Map object defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/the-map-object-defined?u=76281980)
@@ -964,7 +963,7 @@ created: 2026-04-21
 > **Non-Speech:** (light upbeat music) (1)
 
 
-### 2. WeakMaps
+### 3. 2. WeakMaps
 
 #### What is the WeakMap object?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakmap-object?u=76281980)
@@ -1056,7 +1055,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Sets
+### 4. 3. Sets
 
 #### The Set object defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/the-set-object-defined?u=76281980)
@@ -1673,7 +1672,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. WeakSets
+### 5. 4. WeakSets
 
 #### What is the WeakSet object?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakset-object?u=76281980)
@@ -1755,7 +1754,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980)
@@ -1787,6 +1786,18 @@ created: 2026-04-21
 > **URLs:** [jamiepittman.com](https://jamiepittman.com) (1)
 > **Speakers:** - [jamie] (1)
 
+
+## Instructor
+
+- [[Jamie Pittman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- JavaScript
 
 ## Path Context
 

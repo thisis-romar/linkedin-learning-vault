@@ -28,8 +28,10 @@ tags:
   - topic/mobile-development
   - skill/react-native
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/From%20React%20to%20React%20Native.md)
 
 ![From React to React Native](https://media.licdn.com/dms/image/v2/C560DAQFuSEBMUgjwdw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634757501924?e=2147483647&amp;v=beta&amp;t=wChNOvCsQCDw26aL5UkSmL_JaSxt1yJr_YWeSWHZ4E8)
 
@@ -40,21 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800) | 1h 8m | Advanced | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- React Native
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Overview of This Course** (4 videos)
+- **3. 2. Conversion of Views** (5 videos)
+- **4. 3. Conversion of Styles** (3 videos)
+- **5. 4. Debugging in React Native** (1 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### From React to React Native
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/from-react-to-react-native?u=76281980)
@@ -114,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Overview of This Course
+### 2. 1. Overview of This Course
 
 #### Introduction to the React project
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980)
@@ -704,7 +703,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Conversion of Views
+### 3. 2. Conversion of Views
 
 #### Initial setup of extra libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980)
@@ -1142,7 +1141,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Conversion of Styles
+### 4. 3. Conversion of Styles
 
 #### Options for styling
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980)
@@ -1522,7 +1521,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Debugging in React Native
+### 5. 4. Debugging in React Native
 
 #### Debug options
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980)
@@ -1590,7 +1589,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980)
@@ -1642,6 +1641,18 @@ created: 2026-04-21
 > **Exercise Files:** github repo (1)
 > **Analogies:** for example (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- React Native
 
 ## Path Context
 

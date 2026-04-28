@@ -31,8 +31,10 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands-On%20Advanced%20Python-%20Data%20Engineering%20Basics.md)
 
 ![Hands-On Advanced Python: Data Engineering Basics](https://media.licdn.com/dms/image/v2/D560DAQEeGQr9A1OHHQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692640821642?e=2147483647&amp;v=beta&amp;t=ydIw7jM-9_nheuE8xw2-U2ruB8pz4OZFv5hA7j5dXLw)
 
@@ -43,22 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics) | 1h 56m | Advanced | 100K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-advanced-python-2703239)
-
-## Skills Covered
-
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Parsing and Exploring Data** (7 videos)
+- **3. 2. Working with Collections** (5 videos)
+- **4. 3. Math and Statistics** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Hands-on with advanced Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980)
@@ -316,7 +313,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Parsing and Exploring Data
+### 2. 1. Parsing and Exploring Data
 
 #### Loading and parsing JSON data
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980)
@@ -1120,7 +1117,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Working with Collections
+### 3. 2. Working with Collections
 
 #### Count values with defaultdict
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/count-values-with-defaultdict?u=76281980)
@@ -1907,7 +1904,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Math and Statistics
+### 4. 3. Math and Statistics
 
 #### Random values
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-values?u=76281980)
@@ -2389,7 +2386,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980)
@@ -2416,6 +2413,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-advanced-python-2703239)
+
+## Skills Covered
+
+- Python (Programming Language)
 
 ## Path Context
 

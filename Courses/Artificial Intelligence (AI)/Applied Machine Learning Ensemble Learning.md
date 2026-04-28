@@ -27,8 +27,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/applied-machine-learning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Applied%20Machine%20Learning%20Ensemble%20Learning.md)
 
 ![Applied Machine Learning Ensemble Learning](https://media.licdn.com/dms/image/v2/D4E0DAQHDOm3DVzUfqg/learning-public-crop_675_1200/B4EZUpkmAfGgAY-/0/1740159214378?e=2147483647&amp;v=beta&amp;t=yfB6yVe8_8VeRs3WUksKIF7mdXocVnPFGQPOK-3-UFA)
 
@@ -39,19 +41,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548) | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/applied-machine-learning-ensemble-learning-3959211/codespaces)
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- Applied Machine Learning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Ensemble Learning** (3 videos)
+- **3. 2. Bagging and Random Forests** (5 videos)
+- **4. 3. Boosting and Gradient Boosting** (5 videos)
+- **5. 4. XGBoost** (5 videos)
+- **6. 5. Stacking** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Ensemble learning: Boost your models' performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/ensemble-learning-boost-your-models-performance?u=76281980)
@@ -180,7 +182,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Introduction to Ensemble Learning
+### 2. 1. Introduction to Ensemble Learning
 
 #### Definition of ensemble learning and the problem of overfitting
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/definition-of-ensemble-learning-and-the-problem-of-overfitting?u=76281980)
@@ -488,7 +490,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Bagging and Random Forests
+### 3. 2. Bagging and Random Forests
 
 #### Concept of bagging
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980)
@@ -1108,7 +1110,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Boosting and Gradient Boosting
+### 4. 3. Boosting and Gradient Boosting
 
 #### Concept of boosting
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-boosting?u=76281980)
@@ -1555,7 +1557,7 @@ created: 2026-04-21
 > **Speakers:** - okay (1)
 
 
-### 4. XGBoost
+### 5. 4. XGBoost
 
 #### Why XGBoost?
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/why-xgboost?u=76281980)
@@ -1922,7 +1924,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Stacking
+### 6. 5. Stacking
 
 #### Concept of stacking
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-stacking?u=76281980)
@@ -2132,7 +2134,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/next-steps?u=76281980)
@@ -2166,6 +2168,16 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - as (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/applied-machine-learning-ensemble-learning-3959211/codespaces)
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- Applied Machine Learning
 
 ## Path Context
 

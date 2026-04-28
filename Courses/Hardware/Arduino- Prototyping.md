@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Arduino-%20Prototyping.md)
 
 ![Arduino: Prototyping](https://media.licdn.com/dms/image/v2/C4E0DAQGQJKvf1rrRjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579902853635?e=2147483647&amp;v=beta&amp;t=kAxDvFHP06fc2-ZpcPLiXHzHx8xGA5_Afwv5F8GEc2k)
 
@@ -42,21 +44,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping) | 1h 53m | Intermediate | 132K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Robert Gallup]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Arduino
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Understand Prototyping** (3 videos)
+- **3. 2. Plan the Prototype** (6 videos)
+- **4. 3. Your Prototype "Hello World"** (4 videos)
+- **5. 4. Animate the Display** (4 videos)
+- **6. 5. Add Interaction** (5 videos)
+- **7. 6. Improve Responsiveness** (3 videos)
+- **8. 7. Advanced Interaction** (5 videos)
+- **9. 8. Iterating your Prototype** (4 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Prototype with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980)
@@ -134,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understand Prototyping
+### 2. 1. Understand Prototyping
 
 #### Purpose and pitfalls of prototypes
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/purpose-and-pitfalls-of-prototypes?u=76281980)
@@ -342,7 +345,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Plan the Prototype
+### 3. 2. Plan the Prototype
 
 #### Prototype planning considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/prototype-planning-considerations?u=76281980)
@@ -676,7 +679,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Your Prototype "Hello World"
+### 4. 3. Your Prototype "Hello World"
 
 #### Connect the display
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/connect-the-display?u=76281980)
@@ -982,7 +985,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Animate the Display
+### 5. 4. Animate the Display
 
 #### Understand display dynamics
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980)
@@ -1382,7 +1385,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Add Interaction
+### 6. 5. Add Interaction
 
 #### Understand interaction logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/understand-interaction-logic?u=76281980)
@@ -1683,7 +1686,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Improve Responsiveness
+### 7. 6. Improve Responsiveness
 
 #### Blocking versus non-blocking code
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/blocking-versus-non-blocking-code?u=76281980)
@@ -1936,7 +1939,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Advanced Interaction
+### 8. 7. Advanced Interaction
 
 #### Button debouncing
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/button-debouncing?u=76281980)
@@ -2429,7 +2432,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Iterating your Prototype
+### 9. 8. Iterating your Prototype
 
 #### Use symbolic parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/use-symbolic-parameters?u=76281980)
@@ -2739,7 +2742,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Final thoughts
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980)
@@ -2760,6 +2763,18 @@ created: 2026-04-21
 >
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Robert Gallup]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Arduino
 
 ## Path Context
 

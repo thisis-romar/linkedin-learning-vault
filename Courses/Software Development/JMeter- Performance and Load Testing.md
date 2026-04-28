@@ -30,8 +30,10 @@ tags:
   - skill/load-testing
   - skill/jmeter
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JMeter-%20Performance%20and%20Load%20Testing.md)
 
 ![JMeter: Performance and Load Testing](https://media.licdn.com/dms/image/v2/C4E0DAQE1PjhgUpJ9-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568073920612?e=2147483647&amp;v=beta&amp;t=51ECuHjRfwT305vGerHs1HGctUQJNlkxZX_r-oty8d0)
 
@@ -42,22 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) | 45m | Intermediate | 41K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Smith]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Load Testing
-- JMeter
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started** (6 videos)
+- **3. 2. Improving the Test** (4 videos)
+- **4. 3. JMeter CLI** (5 videos)
+- **5. 4. Viewing the Results** (4 videos)
+- **6. Conclusion** (0 videos)
+
+### 1. Introduction
 
 #### Testing with JMeter
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/testing-with-jmeter?u=76281980)
@@ -127,7 +125,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Installing graph plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/installing-graph-plugins?u=76281980)
@@ -405,7 +403,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Improving the Test
+### 3. 2. Improving the Test
 
 #### Adding timers
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980)
@@ -611,7 +609,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 3. JMeter CLI
+### 4. 3. JMeter CLI
 
 #### Why use the command line?
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980)
@@ -827,7 +825,7 @@ created: 2026-04-21
 > **Prerequisites:** setup (1)
 
 
-### 4. Viewing the Results
+### 5. 4. Viewing the Results
 
 #### Importing a .jtl file to JMeter graphs
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/importing-a-jtl-file-to-jmeter-graphs?u=76281980)
@@ -964,8 +962,21 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
+
+## Instructor
+
+- [[Mike Smith]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Load Testing
+- JMeter
 
 ## Path Context
 

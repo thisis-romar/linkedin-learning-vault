@@ -36,8 +36,10 @@ tags:
   - skill/financial-statement-analysis
   - skill/corporate-finance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Corporate%20Financial%20Statement%20Analysis%20(2023).md)
 
 ![Corporate Financial Statement Analysis (2023)](https://media.licdn.com/dms/image/v2/D4E0DAQEHmPby0ue4RQ/learning-public-crop_675_1200/B4EZua0lPrHcAY-/0/1767829034282?e=2147483647&amp;v=beta&amp;t=au2rSN4wCGNOCGCRpsKcou4r5Ndoq-zmYGUdt904720)
 
@@ -48,23 +50,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023) | 1h 28m | Intermediate | 322K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jim Stice]]
-- [[Kay Stice]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Financial Statement Analysis
-- Corporate Finance
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. A Review of the Financial Statements** (4 videos)
+- **3. 2. The DuPont Framework** (3 videos)
+- **4. 3. Common-Size Financial Statements** (4 videos)
+- **5. 4. Profitability Ratios** (2 videos)
+- **6. 5. Efficiency Ratios** (4 videos)
+- **7. 6. Leverage Ratios** (3 videos)
+- **8. 7. Limitations of Financial Statement Analysis** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is financial statement analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-is-financial-statement-analysis-19830257?u=76281980)
@@ -165,7 +165,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 1. A Review of the Financial Statements
+### 2. 1. A Review of the Financial Statements
 
 #### The accounting equation
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-accounting-equation-19829526?u=76281980)
@@ -587,7 +587,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. The DuPont Framework
+### 3. 2. The DuPont Framework
 
 #### Determining return on equity
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980)
@@ -877,7 +877,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Common-Size Financial Statements
+### 4. 3. Common-Size Financial Statements
 
 #### Common-size overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980)
@@ -1251,7 +1251,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 4. Profitability Ratios
+### 5. 4. Profitability Ratios
 
 #### The many ways to define income and profit
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-ways-to-define-income-and-profit-19831235?u=76281980)
@@ -1445,7 +1445,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 5. Efficiency Ratios
+### 6. 5. Efficiency Ratios
 
 #### The operating cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980)
@@ -1807,7 +1807,7 @@ created: 2026-04-21
 > **Speakers:** - okay (1)
 
 
-### 6. Leverage Ratios
+### 7. 6. Leverage Ratios
 
 #### Current ratio in theory and practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/current-ratio-in-theory-and-practice-19833204?u=76281980)
@@ -2122,7 +2122,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 7. Limitations of Financial Statement Analysis
+### 8. 7. Limitations of Financial Statement Analysis
 
 #### Limits to using past performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980)
@@ -2347,7 +2347,7 @@ created: 2026-04-21
 > **Speakers:** - turns (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980)
@@ -2443,6 +2443,20 @@ created: 2026-04-21
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1), for example (1), picture (1)
 
+
+## Instructor
+
+- [[Jim Stice]]
+- [[Kay Stice]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Financial Statement Analysis
+- Corporate Finance
 
 ## Path Context
 

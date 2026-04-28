@@ -42,34 +42,36 @@ tags:
   - topic/network-and-system-administration
   - skill/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Computing%20Understanding%20Core%20Concepts.md)
 
 ![Cloud Computing Understanding Core Concepts](https://media.licdn.com/dms/image/v2/D4D0DAQEwFKbg0l36uQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709333281748?e=2147483647&amp;v=beta&amp;t=tsCvyq3rM_NwZPcd_67QInyeTsLjp8gEuaHbnYtIpF0)
 
 # Cloud Computing Understanding Core Concepts
 
-> Migrating to the cloud? Get an overview of cloud computing and the key concepts to consider when deploying cloud solutions in your business.
-When you use cloud computing, you can get extra capacity online and ready for use minutes after you need it, then scale back down just as easily. David Linthicum—an internationally known cloud expert and consultant—showcases the impact this technology can hav
+> Migrating to the cloud? Get an overview of cloud computing and the key concepts to consider when deploying cloud solutions in your business. When you use cloud computing, you can get extra capacity online and ready for use minutes after you need it, then scale back down just as easily. David Linthicum—an internationally known cloud expert and consultant—showcases the impact this technology can hav
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts) | Beginner | 17K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Linthicum]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cloud Computing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Cloud Computing Basics** (5 videos)
+- **3. 2. Cloud Computing Deployment Models** (5 videos)
+- **4. 3. Cloud Computing Services** (5 videos)
+- **5. 4. Case Studies: Select the Right Cloud Type, Service, and Deployment** (4 videos)
+- **6. 5. Cloud Security** (4 videos)
+- **7. 6. Cloud Operations** (3 videos)
+- **8. 7. Cloud FinOps** (4 videos)
+- **9. 8. Cloud Computing Migration Planning: Key Considerations** (8 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Change your career with cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980)
@@ -92,7 +94,7 @@ When you use cloud computing, you can get extra capacity online and ready for us
 > **Speakers:** - cloud (1)
 
 
-### 1. Cloud Computing Basics
+### 2. 1. Cloud Computing Basics
 
 #### Overview of cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980)
@@ -376,7 +378,7 @@ When you use cloud computing, you can get extra capacity online and ready for us
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Cloud Computing Deployment Models
+### 3. 2. Cloud Computing Deployment Models
 
 #### Types of cloud deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980)
@@ -649,7 +651,7 @@ When you use cloud computing, you can get extra capacity online and ready for us
 > **Speakers:** - let (1)
 
 
-### 3. Cloud Computing Services
+### 4. 3. Cloud Computing Services
 
 #### Cloud computing storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980)
@@ -838,7 +840,7 @@ When you use cloud computing, you can get extra capacity online and ready for us
 > **Speakers:** - while (1)
 
 
-### 4. Case Studies: Select the Right Cloud Type, Service, and Deployment
+### 5. 4. Case Studies: Select the Right Cloud Type, Service, and Deployment
 
 #### Keep data storage on-premises
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980)
@@ -956,7 +958,7 @@ When you use cloud computing, you can get extra capacity online and ready for us
 > **Speakers:** - a (1)
 
 
-### 5. Cloud Security
+### 6. 5. Cloud Security
 
 #### Cloud security planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-planning?u=76281980)
@@ -1238,7 +1240,7 @@ When you use cloud computing, you can get extra capacity online and ready for us
 > **Speakers:** - establishing (1)
 
 
-### 6. Cloud Operations
+### 7. 6. Cloud Operations
 
 #### Cloud operations overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980)
@@ -1421,7 +1423,7 @@ When you use cloud computing, you can get extra capacity online and ready for us
 > **Speakers:** - monitoring (1)
 
 
-### 7. Cloud FinOps
+### 8. 7. Cloud FinOps
 
 #### What's FinOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980)
@@ -1555,7 +1557,7 @@ When you use cloud computing, you can get extra capacity online and ready for us
 > **Speakers:** - so (1)
 
 
-### 8. Cloud Computing Migration Planning: Key Considerations
+### 9. 8. Cloud Computing Migration Planning: Key Considerations
 
 #### Identify which apps to move
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-apps-to-move?u=76281980)
@@ -1986,7 +1988,7 @@ When you use cloud computing, you can get extra capacity online and ready for us
 > **Speakers:** - so (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Cloud news and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980)
@@ -2037,6 +2039,18 @@ When you use cloud computing, you can get extra capacity online and ready for us
 > **Warnings:** watch out (1)
 > **Speakers:** - the (1)
 
+
+## Instructor
+
+- [[David Linthicum]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cloud Computing
 
 ## Path Context
 

@@ -33,8 +33,10 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/IT%20Service%20Management%20Foundations-%20Problem%20Management.md)
 
 ![IT Service Management Foundations: Problem Management](https://media.licdn.com/dms/image/v2/C4E0DAQHiX_CPjdjC1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1603217903420?e=2147483647&amp;v=beta&amp;t=WkJ_z3JS6d-5a09Pr2dbYiBkpQg04t5yw7HQHF1barA)
 
@@ -45,17 +47,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management) | 1h 38m | Intermediate | 110K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shane Chagpar]]
-
-## Skills Covered
-
-- IT Service Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is Problem Management?** (4 videos)
+- **3. 2. Phase I: Problem Identification** (1 videos)
+- **4. 3. Phase II: Problem Control** (3 videos)
+- **5. 4. Phase III: Error Control** (2 videos)
+- **6. 5. Techniques** (7 videos)
+- **7. 6. Tools and Frameworks** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The art of asking the right questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/the-art-of-asking-the-right-questions?u=76281980)
@@ -117,7 +122,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 1. What Is Problem Management?
+### 2. 1. What Is Problem Management?
 
 #### Introduction to problem management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980)
@@ -438,7 +443,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Phase I: Problem Identification
+### 3. 2. Phase I: Problem Identification
 
 #### Tracking and trending
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980)
@@ -554,7 +559,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Phase II: Problem Control
+### 4. 3. Phase II: Problem Control
 
 #### Selecting high-value targets
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980)
@@ -839,7 +844,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Phase III: Error Control
+### 5. 4. Phase III: Error Control
 
 #### Managing known errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980)
@@ -1022,7 +1027,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Techniques
+### 6. 5. Techniques
 
 #### Clarify and verify
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980)
@@ -1641,7 +1646,7 @@ created: 2026-04-21
 > **Speakers:** - [man] (1)
 
 
-### 6. Tools and Frameworks
+### 7. 6. Tools and Frameworks
 
 #### Problem clarification tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-clarification-tools?u=76281980)
@@ -2105,7 +2110,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980)
@@ -2153,6 +2158,14 @@ created: 2026-04-21
 > **Env Vars:** sql (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Shane Chagpar]]
+
+## Skills Covered
+
+- IT Service Management
 
 ## Path Context
 

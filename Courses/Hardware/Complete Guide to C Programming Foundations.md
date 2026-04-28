@@ -33,8 +33,10 @@ tags:
   - skill/c-programming-language
   - skill/programming-foundations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Complete%20Guide%20to%20C%20Programming%20Foundations.md)
 
 ![Complete Guide to C Programming Foundations](https://media.licdn.com/dms/image/v2/D560DAQFQjyP8ldDiwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710974971139?e=2147483647&amp;v=beta&amp;t=LgxgOsCjMTYeTAaB0QHj1uy3AOyxCUjNC5HlFLWW6y8)
 
@@ -45,23 +47,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations) | 5h 52m | Beginner | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dan Gookin]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/complete-guide-to-c-programming-foundations-4504398/codespaces)
-
-## Skills Covered
-
-- C (Programming Language)
-- Programming Foundations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. C Programming Fundamentals** (13 videos)
+- **3. 2. Variables and Values** (14 videos)
+- **4. 3. Operators and Math** (14 videos)
+- **5. 4. Decisions and Loops** (15 videos)
+- **6. 5. Functions** (15 videos)
+- **7. 6. Arrays and Structures** (14 videos)
+- **8. 7. Characters and Strings** (13 videos)
+- **9. 8. Pointers** (15 videos)
+- **10. 9. Files and the Operating System** (14 videos)
+- **11. 10. The Interesting and Extraordinary** (7 videos)
+- **12. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Diving into C
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/diving-into-c?u=76281980)
@@ -196,7 +199,7 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 
 
-### 1. C Programming Fundamentals
+### 2. 1. C Programming Fundamentals
 
 #### Coding your first program
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980)
@@ -1034,7 +1037,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 2. Variables and Values
+### 3. 2. Variables and Values
 
 #### Understanding C language data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-c-language-data-types?u=76281980)
@@ -1962,7 +1965,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Operators and Math
+### 4. 3. Operators and Math
 
 #### Working with math operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-math-operators?u=76281980)
@@ -2797,7 +2800,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Decisions and Loops
+### 5. 4. Decisions and Loops
 
 #### Making a decision
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/making-a-decision?u=76281980)
@@ -3763,7 +3766,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 5. Functions
+### 6. 5. Functions
 
 #### Understanding functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-functions?u=76281980)
@@ -4651,7 +4654,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Arrays and Structures
+### 7. 6. Arrays and Structures
 
 #### Understanding arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-arrays?u=76281980)
@@ -5578,7 +5581,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Characters and Strings
+### 8. 7. Characters and Strings
 
 #### Using single character I/O
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980)
@@ -6483,7 +6486,7 @@ created: 2026-04-21
 > **Non-Speech:** (uplifting music) (1)
 
 
-### 8. Pointers
+### 9. 8. Pointers
 
 #### Understanding pointers
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-pointers?u=76281980)
@@ -7557,7 +7560,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Files and the Operating System
+### 10. 9. Files and the Operating System
 
 #### Reading from a file
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/reading-from-a-file?u=76281980)
@@ -8589,7 +8592,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 10. The Interesting and Extraordinary
+### 11. 10. The Interesting and Extraordinary
 
 #### Calling the operating system
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/calling-the-operating-system?u=76281980)
@@ -9151,7 +9154,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 12. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980)
@@ -9196,6 +9199,20 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [dan] (1)
 
+
+## Instructor
+
+- [[Dan Gookin]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/complete-guide-to-c-programming-foundations-4504398/codespaces)
+
+## Skills Covered
+
+- C (Programming Language)
+- Programming Foundations
 
 ## Path Context
 

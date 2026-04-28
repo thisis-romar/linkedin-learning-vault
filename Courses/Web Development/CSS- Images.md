@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Images.md)
 
 ![CSS: Images](https://media.licdn.com/dms/image/v2/D4E0DAQH-hIPN1HlewA/learning-public-crop_675_1200/B4EZX9XECPGYAY-/0/1743712436683?e=2147483647&amp;v=beta&amp;t=vELs2qqjFGJPtDjF0qdPS-qL2O42aBUAw1YQ0n57LSE)
 
@@ -41,22 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459) | 2h 10m | Advanced | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Carrie Dils]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/css-images-5994321/codespaces)
-
-## Skills Covered
-
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Basic Image Fitting and Positioning** (7 videos)
+- **3. 2. Clip Masks, Paths, and Custom Shapes** (9 videos)
+- **4. 3. Filtering and Blending** (7 videos)
+- **5. 4. Transformations and Animations** (4 videos)
+- **6. 5. Image Optimization and Performance** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Working with images in CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/working-with-images-in-css?u=76281980)
@@ -177,7 +176,7 @@ created: 2026-04-21
 > **Env Vars:** url (1)
 
 
-### 1. Basic Image Fitting and Positioning
+### 2. 1. Basic Image Fitting and Positioning
 
 #### Modern image markup
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980)
@@ -1059,7 +1058,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Clip Masks, Paths, and Custom Shapes
+### 3. 2. Clip Masks, Paths, and Custom Shapes
 
 #### Rounded corners with border-radius
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/rounded-corners-with-border-radius?u=76281980)
@@ -1793,7 +1792,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Filtering and Blending
+### 4. 3. Filtering and Blending
 
 #### Filtering and blending
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/filtering-and-blending?u=76281980)
@@ -2212,7 +2211,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Transformations and Animations
+### 5. 4. Transformations and Animations
 
 #### Translate, scale, rotate, and manipulate perspective
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/translate-scale-rotate-and-manipulate-perspective?u=76281980)
@@ -2670,7 +2669,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Image Optimization and Performance
+### 6. 5. Image Optimization and Performance
 
 #### Delivering responsive images
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/delivering-responsive-images?u=76281980)
@@ -2801,7 +2800,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/next-steps?u=76281980)
@@ -2835,6 +2834,19 @@ created: 2026-04-21
 > **Documentation:** mdn (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Carrie Dils]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/css-images-5994321/codespaces)
+
+## Skills Covered
+
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

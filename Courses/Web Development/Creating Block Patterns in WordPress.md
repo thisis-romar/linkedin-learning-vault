@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Creating%20Block%20Patterns%20in%20WordPress.md)
 
 ![Creating Block Patterns in WordPress](https://media.licdn.com/dms/image/v2/C560DAQFrRk553AGgPQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634752427940?e=2147483647&amp;v=beta&amp;t=WKd07130_YEU3-0xbrfcsYRfWMOFLp0Vws6XIPq7Fpg)
 
@@ -40,21 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress) | 1h 33m | Beginner | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Casabona]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Wordpress Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. How to Make Block Patterns** (8 videos)
+- **3. 2. The Block Patterns Cookbook** (10 videos)
+- **4. 3. Refactoring** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What are block patterns and why are they important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-are-block-patterns-and-why-are-they-important?u=76281980)
@@ -144,7 +142,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. How to Make Block Patterns
+### 2. 1. How to Make Block Patterns
 
 #### Block patterns vs. reusable blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-patterns-vs-reusable-blocks?u=76281980)
@@ -627,7 +625,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Block Patterns Cookbook
+### 3. 2. The Block Patterns Cookbook
 
 #### Call to action
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/call-to-action?u=76281980)
@@ -1864,7 +1862,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Refactoring
+### 4. 3. Refactoring
 
 #### Adding your own block pattern category
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980)
@@ -2046,7 +2044,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980)
@@ -2076,6 +2074,18 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [joe] (1)
 
+
+## Instructor
+
+- [[Joe Casabona]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Wordpress Development
 
 ## Path Context
 

@@ -25,8 +25,10 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Welcome%20To%20The%20Building%20Ai%20Products%20Understanding%20The%20Workflow%20Professional%20Certificate.md)
 
 ![Welcome To The Building Ai Products Understanding The Workflow Professional Certificate](https://media.licdn.com/dms/image/v2/D4E0DAQH4k-wIndPwQA/learning-public-crop_675_1200/B4EZThkF_qGwAY-/0/1738951123550?e=2147483647&amp;v=beta&amp;t=3ghxqyQe5cQc3fLuzxWZdkEjt9nU7RxQUsom6Zt0LjM)
 
@@ -37,14 +39,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate) | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- AI Software Development
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+
+### 1. Introduction
 
 #### Building and scaling AI products: Your path to success
 > [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980)
@@ -80,6 +81,11 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - ai (1)
 
+
+## Skills Covered
+
+- AI Software Development
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Data%20Dashboards.md)
 
 ![Power BI Data Dashboards](https://media.licdn.com/dms/image/v2/D560DAQG4J7DA_UoQSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692815305620?e=2147483647&amp;v=beta&amp;t=cUakCMDdOj0L3O4mebacNS7cvEYMRxkflgjPm9ejwpo)
 
@@ -40,13 +42,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards) | 2h 24m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Helen Wall]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Working with Data** (9 videos)
+- **3. 2. Visualizing Data** (8 videos)
+- **4. 3. Comparing Multiple Variables** (7 videos)
+- **5. 4. Mapping Options** (6 videos)
+- **6. 5. Putting It All Together** (6 videos)
+- **7. 6. Sharing Your Work** (3 videos)
+- **8. Conclusion ** (1 videos)
+
+### 1. Introduction
 
 #### Building data dashboards in Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/building-data-dashboards-in-power-bi?u=76281980)
@@ -280,7 +289,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Working with Data
+### 2. 1. Working with Data
 
 #### Configuring table and matrix visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980)
@@ -1050,7 +1059,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 2. Visualizing Data
+### 3. 2. Visualizing Data
 
 #### Visualizing time-intelligence trends
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980)
@@ -1606,7 +1615,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Comparing Multiple Variables
+### 4. 3. Comparing Multiple Variables
 
 #### Analytics options: Reference, trend, and forecast lines
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980)
@@ -1965,7 +1974,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Mapping Options
+### 5. 4. Mapping Options
 
 #### Exploring map options
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980)
@@ -2337,7 +2346,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Putting It All Together
+### 6. 5. Putting It All Together
 
 #### Customing tooltips
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980)
@@ -2763,7 +2772,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Sharing Your Work
+### 7. 6. Sharing Your Work
 
 #### Creating a phone view
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-a-phone-view?u=76281980)
@@ -2987,7 +2996,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion 
+### 8. Conclusion 
 
 #### Getting more out of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980)
@@ -3018,6 +3027,10 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Helen Wall]]
 
 ## Path Context
 

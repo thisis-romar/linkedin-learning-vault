@@ -29,8 +29,10 @@ tags:
   - topic/devops
   - skill/amazon-ec2
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Amazon%20EC2%20Essential%20Training.md)
 
 ![Amazon EC2 Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQGLTV_hboqNbA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685473977717?e=2147483647&amp;v=beta&amp;t=VfcE9GjMFzjyGbvhcGbNYbVnOQuaRzmkIE28iwwsHiU)
 
@@ -41,21 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training) | 4h 27m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shyam Raj]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Amazon EC2
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (6 videos)
+- **2. 1. Introduction to Amazon EC2** (17 videos)
+- **3. 2. EC2 Deep Dive** (11 videos)
+- **4. 3. EC2 Purchasing Options** (8 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning Amazon EC2
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/learning-amazon-ec2?u=76281980)
@@ -652,7 +650,7 @@ created: 2026-04-21
 > **Code Identifiers:** vcpus (1)
 
 
-### 1. Introduction to Amazon EC2
+### 2. 1. Introduction to Amazon EC2
 
 #### What makes up an EC2 instance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980)
@@ -3263,7 +3261,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. EC2 Deep Dive
+### 3. 2. EC2 Deep Dive
 
 #### EBS snapshots
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-snapshots?u=76281980)
@@ -4986,7 +4984,7 @@ created: 2026-04-21
 > **Ports:** port 80 (2)
 
 
-### 3. EC2 Purchasing Options
+### 4. 3. EC2 Purchasing Options
 
 #### Introduction to EC2 purchasing options
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/introduction-to-ec2-purchasing-options?u=76281980)
@@ -5908,7 +5906,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980)
@@ -5935,6 +5933,18 @@ created: 2026-04-21
 > **CLI Commands:** aws (2)
 > **Speakers:** - [shyam] (1)
 
+
+## Instructor
+
+- [[Shyam Raj]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Amazon EC2
 
 ## Path Context
 

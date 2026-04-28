@@ -39,8 +39,10 @@ tags:
   - skill/data-modeling
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20To%20R%20Wrangling%20Visualizing%20And%20Modeling%20Data.md)
 
 ![Complete Guide To R Wrangling Visualizing And Modeling Data](https://media.licdn.com/dms/image/v2/D560DAQF4IlE2N3NLNw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710373799323?e=2147483647&amp;v=beta&amp;t=PAyVn9yMRMLTGBzgMFRtjohB8JvsUJYp2WnwrlSoyTE)
 
@@ -51,24 +53,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data) | Intermediate | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barton Poulson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Wrangling
-- R (Programming Language)
-- Data Modeling
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is R?** (2 videos)
+- **3. 2. Getting Started** (10 videos)
+- **4. 3. Importing Data** (6 videos)
+- **5. 4. Visualizing Data with ggplot2** (9 videos)
+- **6. 5. Wrangling Data** (10 videos)
+- **7. 6. Recoding Data** (5 videos)
+- **8. 7. An R for Data Science Case Study** (1 videos)
+- **9. 8. Exploring Data** (7 videos)
+- **10. 9. Analyzing Data** (6 videos)
+- **11. 10. Predicting Outcomes** (6 videos)
+- **12. 11. Clustering and Classifying Cases** (5 videos)
+- **13. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Make your data make sense
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?u=76281980)
@@ -129,7 +132,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. What Is R?
+### 2. 1. What Is R?
 
 #### R in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980)
@@ -524,7 +527,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Getting Started
+### 3. 2. Getting Started
 
 #### Installing R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980)
@@ -1714,7 +1717,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Importing Data
+### 4. 3. Importing Data
 
 #### R's built-in datasets
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-s-built-in-datasets?u=76281980)
@@ -2439,7 +2442,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Visualizing Data with ggplot2
+### 5. 4. Visualizing Data with ggplot2
 
 #### Introduction to ggplot2
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/introduction-to-ggplot2?u=76281980)
@@ -3925,7 +3928,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Wrangling Data
+### 6. 5. Wrangling Data
 
 #### Creating tidy data
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-tidy-data?u=76281980)
@@ -5242,7 +5245,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Recoding Data
+### 7. 6. Recoding Data
 
 #### Recoding categorical data
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980)
@@ -6001,7 +6004,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. An R for Data Science Case Study
+### 8. 7. An R for Data Science Case Study
 
 #### Data science with R: A case study
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980)
@@ -6408,7 +6411,7 @@ created: 2026-04-21
 > **UI Navigation:** select the (1)
 
 
-### 8. Exploring Data
+### 9. 8. Exploring Data
 
 #### Computing frequencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980)
@@ -7745,7 +7748,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Analyzing Data
+### 10. 9. Analyzing Data
 
 #### Comparing proportions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980)
@@ -8826,7 +8829,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Predicting Outcomes
+### 11. 10. Predicting Outcomes
 
 #### Predicting outcomes with linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980)
@@ -9940,7 +9943,7 @@ created: 2026-04-21
 > **Analogies:** think of it as (1), for instance (1)
 
 
-### 11. Clustering and Classifying Cases
+### 12. 11. Clustering and Classifying Cases
 
 #### Grouping cases with hierarchical clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980)
@@ -11065,7 +11068,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 13. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980)
@@ -11121,6 +11124,21 @@ created: 2026-04-21
 > **Env Vars:** sas (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Barton Poulson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Wrangling
+- R (Programming Language)
+- Data Modeling
+- Data Visualization
 
 ## Path Context
 

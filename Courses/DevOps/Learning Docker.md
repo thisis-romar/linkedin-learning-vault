@@ -35,31 +35,33 @@ tags:
   - topic/network-and-system-administration
   - skill/docker-products
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Docker.md)
 
 ![Learning Docker](https://media.licdn.com/dms/image/v2/C560DAQHW94kV0BQffg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670878886810?e=2147483647&amp;v=beta&amp;t=gWYXLRyZJarMN8ohNqlxFwfDGoSYY9E4oY3M8vRpV5g)
 
 # Learning Docker
 
-> Applications working on one machine but not others is a common problem in software development. Configuration management tools and virtual machines are common solutions, but can be cumbersome for developers who just want their code to run in other places safely. 
-
-Docker, an open-source containerization platform, simplifies the deployment and management of your applications by packaging your apps 
+> Applications working on one machine but not others is a common problem in software development. Configuration management tools and virtual machines are common solutions, but can be cumbersome for developers who just want their code to run in other places safely. Docker, an open-source containerization platform, simplifies the deployment and management of your applications by packaging your apps in
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240) | Beginner | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Docker Products
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Docker Explained** (5 videos)
+- **3. 2. Installing Docker** (4 videos)
+- **4. 3. Using Docker** (16 videos)
+- **5. 4. When Things Go Wrong** (5 videos)
+- **6. 5. Additional Docker Resources** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get up and running quick with Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/get-up-and-running-quick-with-docker?u=76281980)
@@ -177,7 +179,7 @@ Docker, an open-source containerization platform, simplifies the deployment and 
 > **Analogies:** for example (1)
 
 
-### 1. Docker Explained
+### 2. 1. Docker Explained
 
 #### What is Docker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980)
@@ -531,7 +533,7 @@ Docker, an open-source containerization platform, simplifies the deployment and 
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Installing Docker
+### 3. 2. Installing Docker
 
 #### Docker Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980)
@@ -979,7 +981,7 @@ Docker, an open-source containerization platform, simplifies the deployment and 
 > **UI Navigation:** go to (2)
 
 
-### 3. Using Docker
+### 4. 3. Using Docker
 
 #### Exploring the Docker CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980)
@@ -2462,7 +2464,7 @@ Docker, an open-source containerization platform, simplifies the deployment and 
 > **Cross-References:** go back to (1)
 
 
-### 4. When Things Go Wrong
+### 5. 4. When Things Go Wrong
 
 #### Help! I can't seem to create more containers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980)
@@ -3054,7 +3056,7 @@ Docker, an open-source containerization platform, simplifies the deployment and 
 > **Definitions:** means that (1)
 
 
-### 5. Additional Docker Resources
+### 6. 5. Additional Docker Resources
 
 #### Docker best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980)
@@ -3297,7 +3299,7 @@ Docker, an open-source containerization platform, simplifies the deployment and 
 > **Speakers:** - docker (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Until next time
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980)
@@ -3332,6 +3334,14 @@ Docker, an open-source containerization platform, simplifies the deployment and 
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Docker Products
 
 ## Path Context
 

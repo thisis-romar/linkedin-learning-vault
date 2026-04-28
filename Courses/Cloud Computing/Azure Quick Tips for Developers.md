@@ -31,8 +31,10 @@ tags:
   - skill/cloud-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Quick%20Tips%20for%20Developers.md)
 
 ![Azure Quick Tips for Developers](https://media.licdn.com/dms/image/v2/C4E0DAQFm71t-4Ap50w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662051741994?e=2147483647&amp;v=beta&amp;t=b3v-XlYbIf5HQSqlQRTch4H6z-nwkkRr924kGBXs74s)
 
@@ -43,18 +45,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163) | 55m | Intermediate | 47K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Benkovich]]
-
-## Skills Covered
-
-- Cloud Development
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Azure Quick Tips for Developers** (44 videos)
+
+### 1. Introduction
 
 #### Azure quick tips overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quick-tips-overview?u=76281980)
@@ -80,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - [mike (1)
 
 
-### 1. Azure Quick Tips for Developers
+### 2. 1. Azure Quick Tips for Developers
 
 #### Create a resource group from the portal
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-resource-group-from-the-portal?u=76281980)
@@ -1762,6 +1760,15 @@ created: 2026-04-21
 > **Env Vars:** b2c (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Mike Benkovich]]
+
+## Skills Covered
+
+- Cloud Development
+- Microsoft Azure
 
 ## Path Context
 

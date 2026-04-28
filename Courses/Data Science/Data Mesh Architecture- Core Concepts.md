@@ -30,8 +30,10 @@ tags:
   - skill/data-architecture
   - skill/mesh
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Mesh%20Architecture-%20Core%20Concepts.md)
 
 ![Data Mesh Architecture: Core Concepts](https://media.licdn.com/dms/image/v2/D4E0DAQGsB2LNifdsxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733160846900?e=2147483647&amp;v=beta&amp;t=AopQiMhItOLfxCmFZPlv0-cTixOutZBOWAyHERDu5o0)
 
@@ -42,22 +44,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts) | 31m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lauren Maffeo]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Architecture
-- Mesh
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. The Four Pillars of Data Mesh** (4 videos)
+- **3. 2. Designing Your First Data Mesh Architecture** (4 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is data mesh?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/what-is-data-mesh?u=76281980)
@@ -261,7 +257,7 @@ created: 2026-04-21
 > **Speakers:** - data (1)
 
 
-### 1. The Four Pillars of Data Mesh
+### 2. 1. The Four Pillars of Data Mesh
 
 #### An intro to data domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980)
@@ -480,7 +476,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Designing Your First Data Mesh Architecture
+### 3. 2. Designing Your First Data Mesh Architecture
 
 #### Choose your data domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980)
@@ -782,7 +778,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Investment in your future
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980)
@@ -819,6 +815,19 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Lauren Maffeo]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Architecture
+- Mesh
 
 ## Path Context
 

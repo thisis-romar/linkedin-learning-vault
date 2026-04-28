@@ -3,45 +3,61 @@ type: skill
 cssclasses:
   - lle-skill
 course_count: 30
+level_beginner: 13
+level_intermediate: 10
+level_advanced: 2
 tags:
   - skill
   - skill/responsible-ai
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Responsible%20AI.md)
 
 # Responsible AI
 
-> 30 courses teach this skill
+> 30 courses · Beginner: 13 · Intermediate: 10 · Advanced: 2
 
 ## Courses
 
-- [[AI Accountability- Build Responsible and Transparent Systems]]
-- [[Apply Ethical AI Principles Using the Responsible AI Dashboard]]
-- [[Azure AI for Developers- Content Safety and Responsible AI]]
-- [[Building a Responsible AI Program- Context, Culture, Content, and Commitment]]
-- [[Compliance and Regulations for Generative AI]]
-- [[Data-Centric AI- Best Practices, Responsible AI, and More]]
-- [[Ethical Data Collection for AI Implementation]]
-- [[Ethics in the Age of Generative AI]]
-- [[Foundations Of Responsible Ai]]
-- [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]]
-- [[ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard]]
-- [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]]
-- [[Implementing a Data Strategy for Responsible AI]]
-- [[Introduction to AI Governance]]
-- [[Navigating the EU AI Act]]
-- [[OpenAI API- Moderation]]
-- [[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]]
-- [[Preparing for the EU AI Act- A Conversation with Jon Adams]]
-- [[Principles of Responsible AI- Identifying, Understanding, and Mitigating Risks by All Tech Is Human]]
-- [[Responsible AI Development with GitHub Copilot]]
-- [[Responsible AI Framework for Your Enterprise AI Product]]
-- [[Responsible AI and Application Development]]
-- [[Responsible AI to the Rescue]]
-- [[Responsible AI- Global Risks, Governance, and Human Oversight]]
-- [[Responsible AI- Principles and Practical Applications]]
+- [[Apply Ethical AI Principles Using the Responsible AI Dashboard]] — Beginner · 35m · 726,358 learners
+- [[Ethical Data Collection for AI Implementation]] — Intermediate · 53m · 726,358 learners
+- [[Responsible AI to the Rescue]] — Beginner · 24m · 552,973 learners
+- [[Introduction to AI Governance]] — Beginner · 59m · 530,562 learners
+- [[Compliance and Regulations for Generative AI]] — 40m · 334,419 learners
+- [[Ethics in the Age of Generative AI]] — Beginner · 45m · 334,419 learners
+- [[Navigating the EU AI Act]] — Intermediate · 1h 22m · 145,702 learners
+- [[AI Accountability- Build Responsible and Transparent Systems]] — Beginner · 3h 12m · 44,645 learners
+- [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — Beginner · 18,238 learners
+- [[Responsible AI- Principles and Practical Applications]] — Beginner · 1h 17m · 14,779 learners
+- [[XAI and Interpretability in Cybersecurity]] — Advanced · 2h 22m · 14,779 learners
+- [[OpenAI API- Moderation]] — 14m · 12,474 learners
+- [[Foundations Of Responsible Ai]] — Intermediate · 12,472 learners
+- [[Building a Responsible AI Program- Context, Culture, Content, and Commitment]] — Beginner · 1h 29m · 9,370 learners
+- [[Responsible AI Framework for Your Enterprise AI Product]] — Intermediate · 45m · 9,370 learners
+- [[Understanding and Implementing the NIST AI Risk Management Framework (RMF)]] — Intermediate · 1h 22m · 9,086 learners
+- [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — Beginner · 53m · 6,395 learners
+- [[ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard]] — Advanced · 1h 41m · 6,210 learners
+- [[Preparing for the EU AI Act- A Conversation with Jon Adams]] — 37m · 4,136 learners
+- [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]] — Beginner · 12m · 4,070 learners
+- [[Responsible AI and Application Development]] — Intermediate · 1h 37m · 4,066 learners
+- [[Welcome To The Building Ai Products Implementing Responsible Ai Professional Certificate]] — Beginner · 4,066 learners
+- [[Data-Centric AI- Best Practices, Responsible AI, and More]] — Intermediate · 2h 50m · 3,859 learners
+- [[Implementing a Data Strategy for Responsible AI]] — Intermediate · 1h 30m · 3,112 learners
+- [[Responsible AI Development with GitHub Copilot]] — Intermediate · 1h 2m · 2,356 learners
+- [[Azure AI for Developers- Content Safety and Responsible AI]] — Intermediate · 1h 48m · 1,414 learners
+- [[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]] — Beginner · 21m
+- [[Principles of Responsible AI- Identifying, Understanding, and Mitigating Risks by All Tech Is Human]] — Beginner · 26m
+- [[Responsible AI- Global Risks, Governance, and Human Oversight]] — 1h 39m
 - [[Understanding Ai S Global Impact Governance Equity And Responsibility]]
-- [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]]
-- [[Understanding and Implementing the NIST AI Risk Management Framework (RMF)]]
-- [[Welcome To The Building Ai Products Implementing Responsible Ai Professional Certificate]]
-- [[XAI and Interpretability in Cybersecurity]]
+
+## Related Skills
+
+- [[Artificial Intelligence (AI)]] — 30 shared courses
+- [[Governance, Risk Management, and Compliance (GRC)]] — 4 shared courses
+- [[AI Policy, Governance, and Regulation]] — 2 shared courses
+- [[EU Law]] — 2 shared courses
+- [[Regulatory Compliance]] — 2 shared courses
+- [[Microsoft Azure]] — 2 shared courses
+- [[Large Language Models (LLM)]] — 2 shared courses
+- [[AI Governance]] — 2 shared courses

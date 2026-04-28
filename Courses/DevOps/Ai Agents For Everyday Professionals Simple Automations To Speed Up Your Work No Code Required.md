@@ -31,8 +31,10 @@ tags:
   - skill/automation
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Ai%20Agents%20For%20Everyday%20Professionals%20Simple%20Automations%20To%20Speed%20Up%20Your%20Work%20No%20Code%20Required.md)
 
 ![Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required](https://media.licdn.com/dms/image/v2/D4E0DAQEGKf9eXGdrYw/learning-public-crop_675_1200/B4EZtHqTIfGYAg-/0/1766433829690?e=2147483647&amp;v=beta&amp;t=Tc43GZGS6IgGzCua5WLLRn2gJeoE96q2mVO25lq3yQA)
 
@@ -43,20 +45,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required) | Beginner | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI Agents
-- Artificial Intelligence (AI)
-- Automation
-- Productivity Improvement
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. AI Agents for Everyday Professionals** (3 videos)
+
+### 1. Introduction
 
 #### When to use and not use an AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/when-to-use-and-not-use-an-ai-agent?u=76281980)
@@ -187,7 +183,7 @@ created: 2026-04-21
 > **Prerequisites:** required to (1)
 
 
-### 1. AI Agents for Everyday Professionals
+### 2. 1. AI Agents for Everyday Professionals
 
 #### Overview of AI agent interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980)
@@ -795,6 +791,17 @@ created: 2026-04-21
 > **Exercise Files:** template (2)
 > **Code Identifiers:** chatgbt (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI Agents
+- Artificial Intelligence (AI)
+- Automation
+- Productivity Improvement
 
 ## Path Context
 

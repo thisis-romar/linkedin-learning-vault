@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/excel-pivot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20PivotTable%20Quick%20Tips.md)
 
 ![Excel PivotTable Quick Tips](https://media.licdn.com/dms/image/v2/D560DAQHFM0wQMsWD0Q/learning-public-crop_675_1200/B56ZhSFQw_G4Ac-/0/1753723768152?e=2147483647&amp;v=beta&amp;t=iOtQSL_4FWirioT8HKejK0Hycr5f4MwKcHckpZAR3iE)
 
@@ -40,21 +42,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435) | 25m | Beginner | 259K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jess Stratton]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Excel Pivot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Excel PivotTable Basics** (4 videos)
+- **3. 2. Adjusting Excel PivotTable Data** (6 videos)
+- **4. 3. Filtering and Sorting Data in a PivotTable** (2 videos)
+- **5. 4. Conditional Formatting with PivotTables** (2 videos)
+- **6. 5. PivotCharts and Slicers** (2 videos)
+- **7. 6. Data Grouping with Excel Functions** (2 videos)
+- **8. 7. Addressing Common Error Messages in PivotTables** (3 videos)
+
+### 1. Introduction
 
 #### Analyze your data quickly with PivotTables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/analyze-your-data-quickly-with-pivottables?u=76281980)
@@ -80,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### 1. Excel PivotTable Basics
+### 2. 1. Excel PivotTable Basics
 
 #### Get data ready for an Excel PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980)
@@ -225,7 +226,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Adjusting Excel PivotTable Data
+### 3. 2. Adjusting Excel PivotTable Data
 
 #### Rearrange a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/rearrange-a-pivottable?u=76281980)
@@ -440,7 +441,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Filtering and Sorting Data in a PivotTable
+### 4. 3. Filtering and Sorting Data in a PivotTable
 
 #### Filter data in a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/filter-data-in-a-pivottable?u=76281980)
@@ -491,7 +492,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Conditional Formatting with PivotTables
+### 5. 4. Conditional Formatting with PivotTables
 
 #### Apply conditional formatting to a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/apply-conditional-formatting-to-a-pivottable?u=76281980)
@@ -554,7 +555,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. PivotCharts and Slicers
+### 6. 5. PivotCharts and Slicers
 
 #### Create a basic PivotChart
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-pivotchart?u=76281980)
@@ -633,7 +634,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Data Grouping with Excel Functions
+### 7. 6. Data Grouping with Excel Functions
 
 #### Use GROUPBY to view data like a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980)
@@ -712,7 +713,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Addressing Common Error Messages in PivotTables
+### 8. 7. Addressing Common Error Messages in PivotTables
 
 #### PivotTable error messages: Field name not valid
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/pivottable-error-messages-field-name-not-valid?u=76281980)
@@ -821,6 +822,18 @@ created: 2026-04-21
 > **Code Keywords:** type. (1), let (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jess Stratton]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Excel Pivot
 
 ## Path Context
 

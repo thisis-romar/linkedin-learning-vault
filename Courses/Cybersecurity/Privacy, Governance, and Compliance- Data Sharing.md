@@ -32,8 +32,10 @@ tags:
   - skill/data-privacy
   - skill/privacy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Privacy%2C%20Governance%2C%20and%20Compliance-%20Data%20Sharing.md)
 
 ![Privacy, Governance, and Compliance: Data Sharing](https://media.licdn.com/dms/image/v2/C4E0DAQGBtJkdep0rMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678488324257?e=2147483647&amp;v=beta&amp;t=nc5LaivGoPlvflURcyattYswYMueqTdFzdANrOAtGL4)
 
@@ -44,19 +46,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing) | 57m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nishant Bhajaria]]
-
-## Skills Covered
-
-- Data Sharing
-- Data Privacy
-- Privacy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Data Sharing: Risks and Possibilities** (5 videos)
+- **3. 2. Solving for Data Sharing** (4 videos)
+- **4. 3. k-Anonymity and Data Sharing** (5 videos)
+- **5. 4. l-Diversity** (2 videos)
+- **6. 5. The Challenge of Privacy: Your Digital Fingerprint** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/welcome?u=76281980)
@@ -202,7 +204,7 @@ created: 2026-04-21
 > **Speakers:** - just (1)
 
 
-### 1. Data Sharing: Risks and Possibilities
+### 2. 1. Data Sharing: Risks and Possibilities
 
 #### How data sharing works: The ads use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-works-the-ads-use-case?u=76281980)
@@ -618,7 +620,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Solving for Data Sharing
+### 3. 2. Solving for Data Sharing
 
 #### Techniques to minimize privacy risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980)
@@ -1043,7 +1045,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. k-Anonymity and Data Sharing
+### 4. 3. k-Anonymity and Data Sharing
 
 #### What is k-anonymity?
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/what-is-k-anonymity?u=76281980)
@@ -1247,7 +1249,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. l-Diversity
+### 5. 4. l-Diversity
 
 #### How l-diversity helps privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-l-diversity-helps-privacy?u=76281980)
@@ -1321,7 +1323,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. The Challenge of Privacy: Your Digital Fingerprint
+### 6. 5. The Challenge of Privacy: Your Digital Fingerprint
 
 #### Your physical fingerprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/your-physical-fingerprint?u=76281980)
@@ -1424,7 +1426,7 @@ created: 2026-04-21
 > **Speakers:** - throughout (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980)
@@ -1463,6 +1465,16 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Nishant Bhajaria]]
+
+## Skills Covered
+
+- Data Sharing
+- Data Privacy
+- Privacy
 
 ## Path Context
 

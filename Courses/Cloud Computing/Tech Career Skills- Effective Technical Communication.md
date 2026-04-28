@@ -53,8 +53,10 @@ tags:
   - skill/tech-career-skills
   - skill/technical-communication
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Effective%20Technical%20Communication.md)
 
 ![Tech Career Skills: Effective Technical Communication](https://media.licdn.com/dms/image/v2/C4E0DAQGe_XBEUaYAHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669412428?e=2147483647&amp;v=beta&amp;t=QEso6-1Lc9Ph5lSUygZxhuAC_R3CXpoXTTv-FsIkdIg)
 
@@ -65,22 +67,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication) | 1h 1m | Beginner | 38K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Annyce Davis]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tech Career Skills
-- Technical Communication
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Establish Standards** (7 videos)
+- **3. 2. Effective Meetings** (5 videos)
+- **4. 3. Handle Challenges to Communication** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Upgrade your technical communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980)
@@ -140,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Establish Standards
+### 2. 1. Establish Standards
 
 #### Why standards are needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980)
@@ -770,7 +767,7 @@ created: 2026-04-21
 > **Speakers:** - many (1)
 
 
-### 2. Effective Meetings
+### 3. 2. Effective Meetings
 
 #### What makes a meeting effective
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980)
@@ -1215,7 +1212,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 3. Handle Challenges to Communication
+### 4. 3. Handle Challenges to Communication
 
 #### Communicating across cultures
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-cultures?u=76281980)
@@ -1494,7 +1491,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/next-steps?u=76281980)
@@ -1532,6 +1529,19 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - communicating (1)
 
+
+## Instructor
+
+- [[Annyce Davis]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tech Career Skills
+- Technical Communication
 
 ## Path Context
 

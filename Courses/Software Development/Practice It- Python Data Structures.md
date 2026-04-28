@@ -31,8 +31,10 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practice%20It-%20Python%20Data%20Structures.md)
 
 ![Practice It: Python Data Structures](https://media.licdn.com/dms/image/v2/D560DAQErSxSAz69Qaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666989847354?e=2147483647&amp;v=beta&amp;t=SBJ-vJsjZIegL_be-StDxLJAv84KGIHSrFI_yB1ZrSE)
 
@@ -43,22 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures) | 40m | Intermediate | 56K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kaylee Kohfeldt]]
-
-## Resources
-
-- [GitHub Repository](https://github.com/LinkedInLearning/practice-it-python-data-structs-2486182/codespaces)
-
-## Skills Covered
-
-- Data Structures
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Counter** (6 videos)
+- **3. 2. Deque** (6 videos)
+- **4. 3. Namedtuple** (4 videos)
+- **5. 4. Defaultdict** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Practice the Python data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/practice-the-python-data-structures?u=76281980)
@@ -263,7 +261,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 1. Counter
+### 2. 1. Counter
 
 #### Try it: Count words from a paragraph
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-count-words-from-a-paragraph?u=76281980)
@@ -486,7 +484,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Deque
+### 3. 2. Deque
 
 #### Try it: Storing a user's most recent food orders
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980)
@@ -757,7 +755,7 @@ created: 2026-04-21
 > **Non-Speech:** (typing sounds) (1)
 
 
-### 3. Namedtuple
+### 4. 3. Namedtuple
 
 #### Try it: Store driver details
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-store-driver-details?u=76281980)
@@ -932,7 +930,7 @@ created: 2026-04-21
 > **Non-Speech:** (keyboard clicking) (1)
 
 
-### 4. Defaultdict
+### 5. 4. Defaultdict
 
 #### Try it: Cleaning up duplicate data
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980)
@@ -1119,7 +1117,7 @@ created: 2026-04-21
 > **Speakers:** - [female (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps in your Python data structures learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/next-steps-in-your-python-data-structures-learning-journey?u=76281980)
@@ -1156,6 +1154,19 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kaylee Kohfeldt]]
+
+## Resources
+
+- [GitHub Repository](https://github.com/LinkedInLearning/practice-it-python-data-structs-2486182/codespaces)
+
+## Skills Covered
+
+- Data Structures
+- Python (Programming Language)
 
 ## Path Context
 

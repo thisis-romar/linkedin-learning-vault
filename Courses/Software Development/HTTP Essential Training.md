@@ -22,8 +22,10 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/HTTP%20Essential%20Training.md)
 
 ![HTTP Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQHlCMUIgqq4Xg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118413530?e=2147483647&amp;v=beta&amp;t=JhjFNxHVGSU0trcDYkhLrM87D3_zGC4ecZO8GB-TWtE)
 
@@ -34,13 +36,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training) | 50m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. HTTP: Hypertext Transfer Protocol** (5 videos)
+- **3. 2. Requests and Responses** (4 videos)
+- **4. 3. HTTP Headers** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/welcome?u=76281980)
@@ -76,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 1. HTTP: Hypertext Transfer Protocol
+### 2. 1. HTTP: Hypertext Transfer Protocol
 
 #### What is HTTP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980)
@@ -475,7 +481,7 @@ created: 2026-04-21
 > **Cross-References:** later in (1)
 
 
-### 2. Requests and Responses
+### 3. 2. Requests and Responses
 
 #### The request/response pair
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/the-request-response-pair?u=76281980)
@@ -742,7 +748,7 @@ created: 2026-04-21
 > **Speakers:** - anytime (1)
 
 
-### 3. HTTP Headers
+### 4. 3. HTTP Headers
 
 #### What are HTTP headers?
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/what-are-http-headers?u=76281980)
@@ -1104,7 +1110,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980)
@@ -1128,6 +1134,10 @@ created: 2026-04-21
 > **Documentation:** mdn (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
 
 ## Path Context
 

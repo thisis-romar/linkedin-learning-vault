@@ -23,8 +23,10 @@ tags:
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Microsoft%20Copilot%20The%20Art%20Of%20Prompt%20Writing.md)
 
 ![Microsoft Copilot The Art Of Prompt Writing](https://media.licdn.com/dms/image/v2/D4D0DAQEljXfFhlcqLw/learning-public-crop_675_1200/B4DZThvKDLHIAc-/0/1738954023899?e=2147483647&amp;v=beta&amp;t=A75XMgs0wOSOwSlif2YuyqvAW7P0Y29o3vJyoIXzgf8)
 
@@ -35,13 +37,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Garrick Chow]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Makes a Good Prompt?** (2 videos)
+- **3. 2. Prompt Examples** (5 videos)
+- **4. 3. Build Your AI Skills with Copilot Prompt Gallery** (1 videos)
+
+### 1. Introduction
 
 #### Write more effective prompts in Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/write-more-effective-prompts-in-copilot?u=76281980)
@@ -111,7 +116,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Makes a Good Prompt?
+### 2. 1. What Makes a Good Prompt?
 
 #### Understand the ingredients of a good prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980)
@@ -362,7 +367,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Prompt Examples
+### 3. 2. Prompt Examples
 
 #### Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980)
@@ -846,7 +851,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Build Your AI Skills with Copilot Prompt Gallery
+### 4. 3. Build Your AI Skills with Copilot Prompt Gallery
 
 #### Explore Copilot Prompt Gallery
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980)
@@ -936,6 +941,10 @@ created: 2026-04-21
 > **Env Vars:** m365 (1)
 > **UI Navigation:** select the (1)
 
+
+## Instructor
+
+- [[Garrick Chow]]
 
 ## Path Context
 

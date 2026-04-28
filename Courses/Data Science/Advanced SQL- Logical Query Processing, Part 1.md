@@ -32,8 +32,10 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL-%20Logical%20Query%20Processing%2C%20Part%201.md)
 
 ![Advanced SQL: Logical Query Processing, Part 1](https://media.licdn.com/dms/image/v2/C4E0DAQG28KHopi6kWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619735443478?e=2147483647&amp;v=beta&amp;t=U5fUSj6XbdM7tR_q9ix_WGa_Pig5SqY8AUCIGx1QaWA)
 
@@ -44,22 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1) | 1h 42m | Advanced | 73K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ami Levin]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Database Queries
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Constructing Query Source Data Sets** (5 videos)
+- **3. 2. Row Filters** (3 videos)
+- **4. 3. Grouping** (5 videos)
+- **5. 4. Ordering and Paging** (3 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-introduction?u=76281980)
@@ -298,7 +296,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Constructing Query Source Data Sets
+### 2. 1. Constructing Query Source Data Sets
 
 #### Single data source queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/single-data-source-queries?u=76281980)
@@ -744,7 +742,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Row Filters
+### 3. 2. Row Filters
 
 #### Filtering source rows
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/filtering-source-rows?u=76281980)
@@ -1076,7 +1074,7 @@ created: 2026-04-21
 > **Speakers:** - most (1)
 
 
-### 3. Grouping
+### 4. 3. Grouping
 
 #### Grouping
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980)
@@ -1594,7 +1592,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Ordering and Paging
+### 5. 4. Ordering and Paging
 
 #### Presentation ordering in multitier architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/presentation-ordering-in-multitier-architecture?u=76281980)
@@ -1872,7 +1870,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Course review and takeaway
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980)
@@ -2002,6 +2000,19 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
+
+## Instructor
+
+- [[Ami Levin]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Database Queries
+- SQL
 
 ## Path Context
 

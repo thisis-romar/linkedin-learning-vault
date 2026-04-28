@@ -31,8 +31,10 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AI%20Accountability-%20Build%20Responsible%20and%20Transparent%20Systems.md)
 
 ![AI Accountability: Build Responsible and Transparent Systems](https://media.licdn.com/dms/image/v2/D4E0DAQH0zLstpcWx5Q/learning-public-crop_675_1200/B4EZgVgQlhHEAc-/0/1752707435468?e=2147483647&amp;v=beta&amp;t=2qnXEjjUdtL1N4mW7-71jcqh27LVGSICWnsBr9sCqfE)
 
@@ -43,22 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110) | 3h 12m | Beginner | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barton Poulson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Responsible AI
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Context for AI** (4 videos)
+- **3. 2. Technical Challenges of AI** (10 videos)
+- **4. 3. Social Challenges of AI** (3 videos)
+- **5. 4. Legal Challenges of AI** (7 videos)
+- **6. 5. Safety Challenges of AI** (4 videos)
+- **7. 6. Confronting the Challenges of AI** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/welcome-26211971?u=76281980)
@@ -84,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Context for AI
+### 2. 1. The Context for AI
 
 #### The promise of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980)
@@ -490,7 +490,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Technical Challenges of AI
+### 3. 2. Technical Challenges of AI
 
 #### Technical challenges for generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980)
@@ -1690,7 +1690,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Social Challenges of AI
+### 4. 3. Social Challenges of AI
 
 #### Dimensions of justice
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/dimensions-of-justice-26211970?u=76281980)
@@ -1966,7 +1966,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Legal Challenges of AI
+### 5. 4. Legal Challenges of AI
 
 #### GenAI laws
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genai-laws-26213972?u=76281980)
@@ -2546,7 +2546,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Safety Challenges of AI
+### 6. 5. Safety Challenges of AI
 
 #### AI in life and death situations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980)
@@ -2903,7 +2903,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Confronting the Challenges of AI
+### 7. 6. Confronting the Challenges of AI
 
 #### Strategies for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980)
@@ -3346,7 +3346,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980)
@@ -3423,6 +3423,19 @@ created: 2026-04-21
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Barton Poulson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Responsible AI
+- Artificial Intelligence (AI)
 
 ## Path Context
 

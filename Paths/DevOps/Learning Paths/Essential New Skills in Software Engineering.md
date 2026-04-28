@@ -7,17 +7,17 @@ course_count: 4
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/devops
   - topic/software-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-04-28T20:20:42.670Z
+activity_total: 2
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
   - course: '[[Building Monorepos On Github]]'
     last_opened: null
@@ -35,8 +35,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Essential%20New%20Skills%20in%20Software%20Engineering.md)
 
 # Essential New Skills in Software Engineering
 

@@ -27,8 +27,10 @@ tags:
   - topic/data-science
   - skill/blockchain-architecture
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Blockchain%20Programming%20in%20iOS%20Using%20Swift.md)
 
 ![Blockchain Programming in iOS Using Swift](https://media.licdn.com/dms/image/v2/C4E0DAQFY4lEYIqLylw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669971786?e=2147483647&amp;v=beta&amp;t=kUXzB_ZVnUizTLMa96s2x31NPjsgRbIMoQBI4zjWkgE)
 
@@ -39,21 +41,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift) | 2h 15m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mohammad Azam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Blockchain Architecture
-
 ## Table of Contents
 
-### Welcome to Blockchain Programming in iOS
+### Chapter Overview
+
+- **1. Welcome to Blockchain Programming in iOS** (2 videos)
+- **2. 1. Understand Blockchain Technology** (6 videos)
+- **3. 2. Implementing the Blockchain Core Engine** (5 videos)
+- **4. 3. Smart Contracts** (2 videos)
+- **5. 4. Implementing Blockchain Web API** (5 videos)
+- **6. 5. Decentralizing Blockchain** (3 videos)
+
+### 1. Welcome to Blockchain Programming in iOS
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980)
@@ -133,7 +132,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understand Blockchain Technology
+### 2. 1. Understand Blockchain Technology
 
 #### What is cryptocurrency?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-cryptocurrency?u=76281980)
@@ -605,7 +604,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Implementing the Blockchain Core Engine
+### 3. 2. Implementing the Blockchain Core Engine
 
 #### Developing blockchain models
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980)
@@ -1208,7 +1207,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Smart Contracts
+### 4. 3. Smart Contracts
 
 #### Understanding smart contracts
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980)
@@ -1432,7 +1431,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Implementing Blockchain Web API
+### 5. 4. Implementing Blockchain Web API
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/prerequisites?u=76281980)
@@ -1944,7 +1943,7 @@ created: 2026-04-21
 > **Tools:** postman (1)
 
 
-### 5. Decentralizing Blockchain
+### 6. 5. Decentralizing Blockchain
 
 #### Creating node models
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980)
@@ -2504,6 +2503,18 @@ created: 2026-04-21
 > **File Paths:** routes.swift (1)
 > **API Endpoints:** post  (1)
 
+
+## Instructor
+
+- [[Mohammad Azam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Blockchain Architecture
 
 ## Path Context
 

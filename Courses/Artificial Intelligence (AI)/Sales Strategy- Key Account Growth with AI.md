@@ -34,8 +34,10 @@ tags:
   - skill/sales
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Sales%20Strategy-%20Key%20Account%20Growth%20with%20AI.md)
 
 ![Sales Strategy: Key Account Growth with AI](https://media.licdn.com/dms/image/v2/D4D0DAQFiA6HJbhchhw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735950639400?e=2147483647&amp;v=beta&amp;t=qEB905uZa2MfVl4km_ra47Xuz3JW3tocSfPx9lD_xxQ)
 
@@ -46,24 +48,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai) | 45m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Magnuson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Sales
-- AI Strategy
-- Sales
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Strategic Account Management** (3 videos)
+- **3. 2. Crucial Frameworks for Key Account Expansion** (2 videos)
+- **4. 3. Strategy, Growth, and Top Accounts** (3 videos)
+- **5. 4. Powerful Client Touchpoint Programs** (3 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Prepare to grow with your top clients
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/prepare-to-grow-with-your-top-clients?u=76281980)
@@ -138,7 +134,7 @@ created: 2026-04-21
 > **Env Vars:** b2b (1)
 
 
-### 1. Strategic Account Management
+### 2. 1. Strategic Account Management
 
 #### Combine account management with strategic alignment
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/combine-account-management-with-strategic-alignment?u=76281980)
@@ -351,7 +347,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise file (1)
 
 
-### 2. Crucial Frameworks for Key Account Expansion
+### 3. 2. Crucial Frameworks for Key Account Expansion
 
 #### Assemble the key account team
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980)
@@ -499,7 +495,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 3. Strategy, Growth, and Top Accounts
+### 4. 3. Strategy, Growth, and Top Accounts
 
 #### Pinpoint key account opportunities and strategies with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/pinpoint-key-account-opportunities-and-strategies-with-ai?u=76281980)
@@ -705,7 +701,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 4. Powerful Client Touchpoint Programs
+### 5. 4. Powerful Client Touchpoint Programs
 
 #### Activate executive engagement with an AI boost
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/activate-executive-engagement-with-an-ai-boost?u=76281980)
@@ -913,7 +909,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Create your customer success stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980)
@@ -1027,6 +1023,21 @@ created: 2026-04-21
 >
 > **Env Vars:** b2b (1)
 
+
+## Instructor
+
+- [[Lisa Magnuson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Sales
+- AI Strategy
+- Sales
+- Artificial Intelligence (AI)
 
 ## Path Context
 

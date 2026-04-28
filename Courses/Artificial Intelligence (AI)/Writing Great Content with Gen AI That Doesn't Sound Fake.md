@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Writing%20Great%20Content%20with%20Gen%20AI%20That%20Doesn't%20Sound%20Fake.md)
 
 ![Writing Great Content with Gen AI That Doesn't Sound Fake](https://media.licdn.com/dms/image/v2/D560DAQG6uJYm1GOg1w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715293081133?e=2147483647&amp;v=beta&amp;t=HjipvYHhQLpJv5A7M4v4TBSC82dIjtSm17apUG0hUrs)
 
@@ -42,24 +44,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake) | 12m | 49K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nels Henderson]]
-- [[Madecraft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- Artificial Intelligence (AI)
-- Generative AI Tools
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Crafting Authentic Marketing Content with AI** (4 videos)
+- **3. 2. Personalizing Content for Impact** (3 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Creating marketing content with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/creating-marketing-content-with-ai?u=76281980)
@@ -92,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. Crafting Authentic Marketing Content with AI
+### 2. 1. Crafting Authentic Marketing Content with AI
 
 #### Anatomy of a marketing prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980)
@@ -259,7 +253,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 2. Personalizing Content for Impact
+### 3. 2. Personalizing Content for Impact
 
 #### Meet audience expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/meet-audience-expectations?u=76281980)
@@ -377,7 +371,7 @@ created: 2026-04-21
 > **Speakers:** - potential (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Continue generating authenticity with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980)
@@ -414,6 +408,21 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Nels Henderson]]
+- [[Madecraft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- Artificial Intelligence (AI)
+- Generative AI Tools
 
 ## Path Context
 

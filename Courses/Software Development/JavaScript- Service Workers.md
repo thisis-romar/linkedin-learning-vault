@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Service%20Workers.md)
 
 ![JavaScript: Service Workers](https://media.licdn.com/dms/image/v2/C4E0DAQGX5xqAG7xKJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568661923388?e=2147483647&amp;v=beta&amp;t=3j3_SdodWgkz_0j_oppG5KRJNrqhprNQfiGs8zF1rVY)
 
@@ -41,21 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers) | 3h 36m | Advanced | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Maximiliano Firtman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. A New Citizen for the Web** (9 videos)
+- **3. 2. Work with Service Workers** (10 videos)
+- **4. 3. Acting as a Network Proxy** (7 videos)
+- **5. 4. Cache Storage** (11 videos)
+- **6. 5. Work with APIs in the Service Worker** (6 videos)
+- **7. 6. Tips and Tricks for Web Performance** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Implement service workers in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980)
@@ -132,7 +133,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. A New Citizen for the Web
+### 2. 1. A New Citizen for the Web
 
 #### Hello, service workers
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980)
@@ -837,7 +838,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Work with Service Workers
+### 3. 2. Work with Service Workers
 
 #### Register a service worker
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/register-a-service-worker?u=76281980)
@@ -1684,7 +1685,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Acting as a Network Proxy
+### 4. 3. Acting as a Network Proxy
 
 #### Capture the fetch event
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980)
@@ -2323,7 +2324,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### 4. Cache Storage
+### 5. 4. Cache Storage
 
 #### Understand the new Cache API
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980)
@@ -3466,7 +3467,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Work with APIs in the Service Worker
+### 6. 5. Work with APIs in the Service Worker
 
 #### What's available in the service worker
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/what-s-available-in-the-service-worker?u=76281980)
@@ -4031,7 +4032,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 6. Tips and Tricks for Web Performance
+### 7. 6. Tips and Tricks for Web Performance
 
 #### Readable streams
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980)
@@ -4305,7 +4306,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980)
@@ -4353,6 +4354,18 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Maximiliano Firtman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- JavaScript
 
 ## Path Context
 

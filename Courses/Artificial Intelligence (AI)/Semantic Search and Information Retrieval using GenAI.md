@@ -35,8 +35,10 @@ tags:
   - skill/semantic-search
   - skill/information-retrieval
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Semantic%20Search%20and%20Information%20Retrieval%20using%20GenAI.md)
 
 ![Semantic Search and Information Retrieval using GenAI](https://media.licdn.com/dms/image/v2/D4E0DAQFmH3PA62yg4w/learning-public-crop_675_1200/B4EZbZ_qUFHIAY-/0/1747414066828?e=2147483647&amp;v=beta&amp;t=GJ-M2l-IcZUUMuvTi3Exo9BuNPzZ3HpolEbX_L7TD4c)
 
@@ -47,24 +49,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai) | 1h 27m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ashleigh Faith]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- Semantic Search
-- Information Retrieval
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Selecting Search** (4 videos)
+- **3. 2. Building Blocks of Semantic Search** (4 videos)
+- **4. 3. Enhancing Semantic Search** (8 videos)
+- **5. 4. Optimizing Data and Entities for Semantic Search** (3 videos)
+- **6. 5. Mastering Semantic Search with AI, Human Feedback, and Key Data** (3 videos)
+- **7. 6. Bridging Text and Graphs for Smarter Semantic Search** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of semantic search and information retrieval
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/the-power-of-semantic-search-and-information-retrieval?u=76281980)
@@ -132,7 +130,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Selecting Search
+### 2. 1. Selecting Search
 
 #### Use case: Two Trees Olive Oil
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/use-case-two-trees-olive-oil?u=76281980)
@@ -309,7 +307,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Building Blocks of Semantic Search
+### 3. 2. Building Blocks of Semantic Search
 
 #### What is information retrieval?
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980)
@@ -563,7 +561,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Enhancing Semantic Search
+### 4. 3. Enhancing Semantic Search
 
 #### What is semantic similarity?
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980)
@@ -938,7 +936,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Optimizing Data and Entities for Semantic Search
+### 5. 4. Optimizing Data and Entities for Semantic Search
 
 #### Text and document quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980)
@@ -1050,7 +1048,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Mastering Semantic Search with AI, Human Feedback, and Key Data
+### 6. 5. Mastering Semantic Search with AI, Human Feedback, and Key Data
 
 #### Where does search fit in an AI or data pipeline?
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980)
@@ -1194,7 +1192,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Bridging Text and Graphs for Smarter Semantic Search
+### 7. 6. Bridging Text and Graphs for Smarter Semantic Search
 
 #### Loading our sample model and data into Stardog
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/loading-our-sample-model-and-data-into-stardog?u=76281980)
@@ -1657,7 +1655,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continuing your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/continuing-your-learning-journey?u=76281980)
@@ -1688,6 +1686,21 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Ashleigh Faith]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- Semantic Search
+- Information Retrieval
 
 ## Path Context
 

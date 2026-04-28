@@ -38,8 +38,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20Foundations-%20Neural%20Networks.md)
 
 ![Artificial Intelligence Foundations: Neural Networks](https://media.licdn.com/dms/image/v2/D560DAQEoegTVKM0iTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694723397057?e=2147483647&amp;v=beta&amp;t=Nn5XMdUTS1tcv2sWCXtk_RPTRd0wUMBaXEe8Bs4yl88)
 
@@ -50,25 +52,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427) | 1h 56m | Beginner | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gwendolyn Stripling]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/artificial-intelligence-foundations-neural-networks-4381282)
-
-## Skills Covered
-
-- Neural Networks
-- Machine Learning
-- Artificial Intelligence (AI)
-- Artificial Intelligence Foundations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Are Neural Networks?** (4 videos)
+- **3. 2. Key Components in Neural Network Architecture** (3 videos)
+- **4. 3. Other Types of Neural Networks** (4 videos)
+- **5. 4. Build a Simple Neural Network Using Keras** (8 videos)
+- **6. 5. Best Practices for Optimizing a Neural Network** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Neural networks 101: Your path to AI brilliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980)
@@ -112,7 +108,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Are Neural Networks?
+### 2. 1. What Are Neural Networks?
 
 #### Neural networks: The building blocks of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980)
@@ -431,7 +427,7 @@ created: 2026-04-21
 > **Env Vars:** mlp (2)
 
 
-### 2. Key Components in Neural Network Architecture
+### 3. 2. Key Components in Neural Network Architecture
 
 #### Layers: Input, hidden, and output
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/layers-input-hidden-and-output?u=76281980)
@@ -655,7 +651,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Other Types of Neural Networks
+### 4. 3. Other Types of Neural Networks
 
 #### Convolutional neural networks (CNN)
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980)
@@ -1038,7 +1034,7 @@ created: 2026-04-21
 > **Versions:** 1.0 (1)
 
 
-### 4. Build a Simple Neural Network Using Keras
+### 5. 4. Build a Simple Neural Network Using Keras
 
 #### The Keras Sequential model
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980)
@@ -1591,7 +1587,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Best Practices for Optimizing a Neural Network
+### 6. 5. Best Practices for Optimizing a Neural Network
 
 #### Overfitting and underfitting: Two common ANN problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/overfitting-and-underfitting-two-common-ann-problems?u=76281980)
@@ -2008,7 +2004,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980)
@@ -2052,6 +2048,22 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Gwendolyn Stripling]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/artificial-intelligence-foundations-neural-networks-4381282)
+
+## Skills Covered
+
+- Neural Networks
+- Machine Learning
+- Artificial Intelligence (AI)
+- Artificial Intelligence Foundations
 
 ## Path Context
 

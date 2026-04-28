@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Copilot%20in%20PowerPoint-%20From%20Prompt%20to%20Presentation%20(2024).md)
 
 ![Copilot in PowerPoint: From Prompt to Presentation (2024)](https://media.licdn.com/dms/image/v2/D560DAQFnONLlXjvw0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707171588330?e=2147483647&amp;v=beta&amp;t=92Qg-Knuo5NLnsx3Ayar6RreY7SfZIbD3BmWrigTrXw)
 
@@ -46,20 +48,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024) | 45m | Intermediate | 174K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Julie Terberg]]
-
-## Skills Covered
-
-- Microsoft Copilot
-- AI for Business
-- Artificial Intelligence (AI)
-- Microsoft PowerPoint
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting to Know Copilot in PowerPoint** (2 videos)
+- **3. 2. Starting a Presentation from Scratch** (3 videos)
+- **4. 3. Starting a Presentation from a Document** (1 videos)
+- **5. 4. Adding New Slides with Copilot** (2 videos)
+- **6. 5. Refining a Presentation with Copilot** (4 videos)
+- **7. 6. Understanding a Presentation with Copilot** (2 videos)
+- **8. 7. Asking Copilot for Help** (3 videos)
+- **9. 8. Things to Keep In Mind When Using Copilot** (1 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Copilot in PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/copilot-in-powerpoint?u=76281980)
@@ -127,7 +131,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting to Know Copilot in PowerPoint
+### 2. 1. Getting to Know Copilot in PowerPoint
 
 #### Overview of Copilot features
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/overview-of-copilot-features?u=76281980)
@@ -292,7 +296,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Starting a Presentation from Scratch
+### 3. 2. Starting a Presentation from Scratch
 
 #### Create a new presentation starting from a blank file
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/create-a-new-presentation-starting-from-a-blank-file?u=76281980)
@@ -504,7 +508,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Starting a Presentation from a Document
+### 4. 3. Starting a Presentation from a Document
 
 #### Create a new presentation from a document
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/create-a-new-presentation-from-a-document?u=76281980)
@@ -616,7 +620,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Adding New Slides with Copilot
+### 5. 4. Adding New Slides with Copilot
 
 #### Add a slide about a specific subject
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/add-a-slide-about-a-specific-subject?u=76281980)
@@ -718,7 +722,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Refining a Presentation with Copilot
+### 6. 5. Refining a Presentation with Copilot
 
 #### Organize a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/organize-a-presentation?u=76281980)
@@ -947,7 +951,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Understanding a Presentation with Copilot
+### 7. 6. Understanding a Presentation with Copilot
 
 #### Summarize a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/summarize-a-presentation?u=76281980)
@@ -1080,7 +1084,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Asking Copilot for Help
+### 8. 7. Asking Copilot for Help
 
 #### Ways that Copilot can help
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/ways-that-copilot-can-help?u=76281980)
@@ -1188,7 +1192,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Things to Keep In Mind When Using Copilot
+### 9. 8. Things to Keep In Mind When Using Copilot
 
 #### Helpful things to know
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/helpful-things-to-know?u=76281980)
@@ -1269,7 +1273,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Where to learn more about Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/where-to-learn-more-about-copilot?u=76281980)
@@ -1305,6 +1309,17 @@ created: 2026-04-21
 > **UI Navigation:** select the (1)
 > **Speakers:** - [julie] (1)
 
+
+## Instructor
+
+- [[Julie Terberg]]
+
+## Skills Covered
+
+- Microsoft Copilot
+- AI for Business
+- Artificial Intelligence (AI)
+- Microsoft PowerPoint
 
 ## Path Context
 

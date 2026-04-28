@@ -13,8 +13,10 @@ tags:
   - topic/cloud-computing
   - topic/devops
   - topic/software-development
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Cloud%20Computing/Brandon%20Rich.md)
 
 # Brandon Rich
 

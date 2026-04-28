@@ -59,8 +59,10 @@ tags:
   - topic/software-development
   - skill/statistics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Statistics%20Foundations%201-%20The%20Basics.md)
 
 ![Statistics Foundations 1: The Basics](https://media.licdn.com/dms/image/v2/C4E0DAQGldtWXmq06Cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614797593786?e=2147483647&amp;v=beta&amp;t=qyZKlvlp_rOxupPH3ur3_3ct9sL3tzGSePotVchLLMA)
 
@@ -71,21 +73,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics) | 36m | Beginner | 140K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eddie Davila]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Statistics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Data and Charts** (2 videos)
+- **3. 2. The Middle** (3 videos)
+- **4. 3. Variability** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The beginning of your statistics journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980)
@@ -118,7 +116,7 @@ created: 2026-04-21
 > **Speakers:** - data (1)
 
 
-### 1. Data and Charts
+### 2. 1. Data and Charts
 
 #### Introduction to data and charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980)
@@ -208,7 +206,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Middle
+### 3. 2. The Middle
 
 #### The middle of your data set
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980)
@@ -455,7 +453,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Variability
+### 4. 3. Variability
 
 #### Introduction to variability
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-variability?u=76281980)
@@ -912,7 +910,7 @@ created: 2026-04-21
 > **Speakers:** - nowadays (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980)
@@ -937,6 +935,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Eddie Davila]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Statistics
 
 ## Path Context
 

@@ -23,8 +23,10 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Windows%2010-%20Networking.md)
 
 ![Windows 10: Networking](https://media.licdn.com/dms/image/v2/D560DAQG_rHbE8mg1-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687392262501?e=2147483647&amp;v=beta&amp;t=OT3G-Lelt6QAGcvzRwovRqebCT_u0MRSFLLGoWikm2Q)
 
@@ -35,13 +37,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895) | 1h 14m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joli Ballew]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Configure IP Settings and Network Connectivity** (8 videos)
+- **3. 2. Configure Wireless Networking Settings** (3 videos)
+- **4. 3. Configure and Maintain** (4 videos)
+- **5. 4. Networking and Troubleshooting Basics** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding Windows 10 networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/understanding-windows-10-networking?u=76281980)
@@ -77,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - [joli] (1)
 
 
-### 1. Configure IP Settings and Network Connectivity
+### 2. 1. Configure IP Settings and Network Connectivity
 
 #### Connect to the internet
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980)
@@ -853,7 +860,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Configure Wireless Networking Settings
+### 3. 2. Configure Wireless Networking Settings
 
 #### Connect to a wireless network
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980)
@@ -1145,7 +1152,7 @@ created: 2026-04-21
 > **Warnings:** troubleshoot (1)
 
 
-### 3. Configure and Maintain
+### 4. 3. Configure and Maintain
 
 #### Configure Windows Defender Firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980)
@@ -1478,7 +1485,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Networking and Troubleshooting Basics
+### 5. 4. Networking and Troubleshooting Basics
 
 #### Use ping to troubleshoot network connectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980)
@@ -1899,7 +1906,7 @@ created: 2026-04-21
 > **Warnings:** troubleshoot (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980)
@@ -1936,6 +1943,10 @@ created: 2026-04-21
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [joli] (1)
 
+
+## Instructor
+
+- [[Joli Ballew]]
 
 ## Path Context
 

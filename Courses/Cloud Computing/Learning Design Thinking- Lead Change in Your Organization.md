@@ -33,36 +33,33 @@ tags:
   - skill/design-thinking
   - skill/organizational-change-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Design%20Thinking-%20Lead%20Change%20in%20Your%20Organization.md)
 
 ![Learning Design Thinking: Lead Change in Your Organization](https://media.licdn.com/dms/image/v2/D4D0DAQH6qMgEZmMaBw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734556201647?e=2147483647&amp;v=beta&amp;t=u7UhVCyswBrZezY6_Yf1YQolO38XuATjf6mK15EOAXM)
 
 # Learning Design Thinking: Lead Change in Your Organization
 
-> Design thinking is a user-centered way of solving problems. It involves extensive collaboration, using strategies such as mapping customer journeys, concept creation, and prototyping. This course teaches leaders how to help their teams adopt a design thinking mindset, and provides examples from instructor Turi McKinley's work at frog, a global design and strategy firm.
- 
-Get an overview of design 
+> Design thinking is a user-centered way of solving problems. It involves extensive collaboration, using strategies such as mapping customer journeys, concept creation, and prototyping. This course teaches leaders how to help their teams adopt a design thinking mindset, and provides examples from instructor Turi McKinley's work at frog, a global design and strategy firm. Get an overview of design th
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030) | 2h 16m | 146K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Turi McKinley]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Design Thinking
-- Organizational Change Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is Design Thinking?** (10 videos)
+- **3. 2. Leading Design Thinking** (8 videos)
+- **4. 3. Guiding Creative Collaboration** (9 videos)
+- **5. 4. AI as a Design Thinking Team Member** (4 videos)
+- **6. 5. Making to Advance Thinking** (3 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Why design thinking matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-design-thinking-matters?u=76281980)
@@ -120,7 +117,7 @@ Get an overview of design
 > **Definitions:** is a  (1)
 
 
-### 1. What Is Design Thinking?
+### 2. 1. What Is Design Thinking?
 
 #### What is design thinking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/what-is-design-thinking?u=76281980)
@@ -782,7 +779,7 @@ Get an overview of design
 > **Best Practices:** don't forget (1)
 
 
-### 2. Leading Design Thinking
+### 3. 2. Leading Design Thinking
 
 #### Leading design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980)
@@ -1402,7 +1399,7 @@ Get an overview of design
 > **Definitions:** is a  (1)
 
 
-### 3. Guiding Creative Collaboration
+### 4. 3. Guiding Creative Collaboration
 
 #### Human-centered design (HCD) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/human-centered-design-overview?u=76281980)
@@ -2030,7 +2027,7 @@ Get an overview of design
 > **Definitions:** is a  (1)
 
 
-### 4. AI as a Design Thinking Team Member
+### 5. 4. AI as a Design Thinking Team Member
 
 #### Design thinking and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980)
@@ -2273,7 +2270,7 @@ Get an overview of design
 > **Definitions:** is a  (1)
 
 
-### 5. Making to Advance Thinking
+### 6. 5. Making to Advance Thinking
 
 #### Prototyping fast and often
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980)
@@ -2441,7 +2438,7 @@ Get an overview of design
 > **Code Keywords:** function (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Culture change to make this mindset real
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/culture-change-to-make-this-mindset-real?u=76281980)
@@ -2542,6 +2539,19 @@ Get an overview of design
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
 
+
+## Instructor
+
+- [[Turi McKinley]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Design Thinking
+- Organizational Change Management
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/tokens
   - skill/asp-net-core
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/ASP.NET%20Core-%20Token-Based%20Authentication.md)
 
 ![ASP.NET Core: Token-Based Authentication](https://media.licdn.com/dms/image/v2/C560DAQFnlnbspVQ8Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629914997184?e=2147483647&amp;v=beta&amp;t=h8l95VZ9QNX4Cc4yLNypgET229UYJUIj9pzD2hG4VDg)
 
@@ -43,23 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication) | 1h 59m | Intermediate | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ervis Trupja]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/asp-net-core-token-based-authentication-2427293)
-
-## Skills Covered
-
-- Tokens
-- ASP.NET Core
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started with Authentication** (4 videos)
+- **3. 2. Token-Based Authentication** (11 videos)
+- **4. 3. Role-Based Authentication** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why use exception token-based authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980)
@@ -121,7 +117,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with Authentication
+### 2. 1. Getting Started with Authentication
 
 #### Authentication vs. authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/authentication-vs-authorization?u=76281980)
@@ -323,7 +319,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Token-Based Authentication
+### 3. 2. Token-Based Authentication
 
 #### Setting up Entity Framework Core
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980)
@@ -1874,7 +1870,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. Role-Based Authentication
+### 4. 3. Role-Based Authentication
 
 #### Seeding the database with roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/seeding-the-database-with-roles?u=76281980)
@@ -2315,7 +2311,7 @@ created: 2026-04-21
 > **API Endpoints:** post  (2)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps for learning more token-based authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/next-steps-for-learning-more-token-based-authentication?u=76281980)
@@ -2359,6 +2355,20 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Ervis Trupja]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/asp-net-core-token-based-authentication-2427293)
+
+## Skills Covered
+
+- Tokens
+- ASP.NET Core
 
 ## Path Context
 

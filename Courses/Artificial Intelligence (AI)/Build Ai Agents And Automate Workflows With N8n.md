@@ -30,8 +30,10 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20Ai%20Agents%20And%20Automate%20Workflows%20With%20N8n.md)
 
 ![Build Ai Agents And Automate Workflows With N8n](https://media.licdn.com/dms/image/v2/D4E0DAQGmwk8Sfhr82g/learning-public-crop_675_1200/B4EZd_sUmBHcAY-/0/1750194015319?e=2147483647&amp;v=beta&amp;t=dlJ1bHTQ9Mb9RyN54JSyKOE9ROVrmFukVdcGcdCZUKM)
 
@@ -42,21 +44,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n) | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/build-ai-agents-and-automate-workflows-with-n8n-5437042)
-
-## Skills Covered
-
-- AI Productivity
-- Generative AI
-- AI Agents
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Building AI Agents with n8n** (13 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Making AI agents work for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/making-ai-agents-work-for-you?u=76281980)
@@ -85,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. Building AI Agents with n8n
+### 2. 1. Building AI Agents with n8n
 
 #### Introducing n8n
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980)
@@ -1331,7 +1327,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980)
@@ -1409,6 +1405,18 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Documentation:** the docs (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/build-ai-agents-and-automate-workflows-with-n8n-5437042)
+
+## Skills Covered
+
+- AI Productivity
+- Generative AI
+- AI Agents
+- Artificial Intelligence (AI)
 
 ## Path Context
 

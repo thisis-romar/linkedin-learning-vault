@@ -27,8 +27,10 @@ tags:
   - topic/network-and-system-administration
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/How%20to%20Research%20and%20Write%20Using%20Generative%20AI%20Tools%20(2023).md)
 
 ![How to Research and Write Using Generative AI Tools (2023)](https://media.licdn.com/dms/image/v2/D4D0DAQGRVgFGz6l45Q/learning-public-crop_675_1200/B4DZetChgfGYAo-/0/1750954809893?e=2147483647&amp;v=beta&amp;t=TJ6sPVbcoQaa8GJ6bcsyVHAYnXoRimZjxndD2O3CR3U)
 
@@ -39,13 +41,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023) | 1h 15m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dave Birss]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Overview of Working with AI** (3 videos)
+- **3. 2. Using AI to Improve Your Research** (6 videos)
+- **4. 3. Using AI to Improve Your Writing** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Meet your AI creative collaborator
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/meet-your-ai-creative-collaborator?u=76281980)
@@ -93,7 +99,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. Overview of Working with AI
+### 2. 1. Overview of Working with AI
 
 #### How to work with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980)
@@ -406,7 +412,7 @@ created: 2026-04-21
 > **Speakers:** - working (1)
 
 
-### 2. Using AI to Improve Your Research
+### 3. 2. Using AI to Improve Your Research
 
 #### Using AI to summarize complex information
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-summarize-complex-information?u=76281980)
@@ -1238,7 +1244,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. Using AI to Improve Your Writing
+### 4. 3. Using AI to Improve Your Writing
 
 #### Using AI to analyze a writing style and help you write in a similar style
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980)
@@ -1910,7 +1916,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/summary-and-next-steps?u=76281980)
@@ -1954,6 +1960,10 @@ created: 2026-04-21
 > **Env Vars:** pdf (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Dave Birss]]
 
 ## Path Context
 

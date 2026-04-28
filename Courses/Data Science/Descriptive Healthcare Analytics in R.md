@@ -33,8 +33,10 @@ tags:
   - skill/r-programming-language
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Descriptive%20Healthcare%20Analytics%20in%20R.md)
 
 ![Descriptive Healthcare Analytics in R](https://media.licdn.com/dms/image/v2/D560DAQEsqKudPj6CQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729286231125?e=2147483647&amp;v=beta&amp;t=N4WYT_GHuxYmK0n38WwIFquO1QH4DjqeHmF-v-yVgRo)
 
@@ -45,22 +47,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r) | 4h 43m | Advanced | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Monika Wahi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- R (Programming Language)
-- Healthcare Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is the BRFSS?** (13 videos)
+- **3. 2. Designing Your Metadata** (8 videos)
+- **4. 3. Reading in Data and Applying Exclusions** (11 videos)
+- **5. 4. Preparing for Descriptive Analysis** (8 videos)
+- **6. 5. Conducting Descriptive Analysis** (7 videos)
+- **7. 6. Descriptive Analysis: Weights and Tests** (8 videos)
+- **8. Conclusion** (4 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/welcome?u=76281980)
@@ -112,7 +112,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Is the BRFSS?
+### 2. 1. What Is the BRFSS?
 
 #### U.S. risk factors
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980)
@@ -1153,7 +1153,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 
 
-### 2. Designing Your Metadata
+### 3. 2. Designing Your Metadata
 
 #### Uses of a data dictionary
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980)
@@ -2141,7 +2141,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Reading in Data and Applying Exclusions
+### 4. 3. Reading in Data and Applying Exclusions
 
 #### Reading in BRFSS XPT data
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reading-in-brfss-xpt-data?u=76281980)
@@ -3465,7 +3465,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Preparing for Descriptive Analysis
+### 5. 4. Preparing for Descriptive Analysis
 
 #### Generating the age variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-the-age-variables?u=76281980)
@@ -4582,7 +4582,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conducting Descriptive Analysis
+### 6. 5. Conducting Descriptive Analysis
 
 #### Preparing categorical Table 1 shell
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980)
@@ -5528,7 +5528,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Descriptive Analysis: Weights and Tests
+### 7. 6. Descriptive Analysis: Weights and Tests
 
 #### Three truths about using weights
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/three-truths-about-using-weights?u=76281980)
@@ -6760,7 +6760,7 @@ created: 2026-04-21
 > **Non-Speech:** (light upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Review of the metadata
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980)
@@ -7250,6 +7250,19 @@ created: 2026-04-21
 > **Warnings:** warning (1)
 > **Speakers:** - [monika] (1)
 
+
+## Instructor
+
+- [[Monika Wahi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- R (Programming Language)
+- Healthcare Analytics
 
 ## Path Context
 

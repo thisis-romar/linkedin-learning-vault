@@ -24,8 +24,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analytics%20Foundations-%20Descriptive%2C%20Exploratory%2C%20and%20Explanatory%20Analytics.md)
 
 ![Business Analytics Foundations: Descriptive, Exploratory, and Explanatory Analytics](https://media.licdn.com/dms/image/v2/C4E0DAQF7XhgAA2iHTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628878734552?e=2147483647&amp;v=beta&amp;t=wcO-7j39sIdoiqJAOC8fWz8Ye0oFMOfwijaccNOyIcA)
 
@@ -36,13 +38,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics) | 48m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (6 videos)
+- **2. 1. Descriptive Analytics (DEA)** (4 videos)
+- **3. 2. Exploratory Analytics (EDA)** (4 videos)
+- **4. 3. Explanatory Analytics (EPA)** (4 videos)
+- **5. 4. Emerging Trends in Business Analytics** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with business analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/getting-started-with-business-analytics?u=76281980)
@@ -297,7 +304,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Descriptive Analytics (DEA)
+### 2. 1. Descriptive Analytics (DEA)
 
 #### DEA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-definition-14211175?u=76281980)
@@ -504,7 +511,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Exploratory Analytics (EDA)
+### 3. 2. Exploratory Analytics (EDA)
 
 #### EDA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-definition-14209449?u=76281980)
@@ -731,7 +738,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 3. Explanatory Analytics (EPA)
+### 4. 3. Explanatory Analytics (EPA)
 
 #### EPA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-definition-14207879?u=76281980)
@@ -943,7 +950,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Emerging Trends in Business Analytics
+### 5. 4. Emerging Trends in Business Analytics
 
 #### Advanced visualizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/compliance-considerations-24027558?u=76281980)
@@ -1122,7 +1129,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continuing on with business analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980)
@@ -1154,6 +1161,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [kumaran] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
 
 ## Path Context
 

@@ -3,21 +3,37 @@ type: skill
 cssclasses:
   - lle-skill
 course_count: 6
+level_beginner: 0
+level_intermediate: 4
+level_advanced: 0
 tags:
   - skill
   - skill/api-development
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/API%20Development.md)
 
 # API Development
 
-> 6 courses teach this skill
+> 6 courses · Intermediate: 4
 
 ## Courses
 
-- [[ASP.NET Core- Building a GraphQL API]]
-- [[Building Web APIs with ASP.NET Core 8]]
-- [[Getting Started with the Google Gemini API]]
-- [[OpenAI API- Working with Files]]
-- [[Openai Api Introduction]]
-- [[Programming with the Gemini Flash API]]
+- [[Building Web APIs with ASP.NET Core 8]] — Intermediate · 2h 37m · 32,598 learners
+- [[ASP.NET Core- Building a GraphQL API]] — Intermediate · 1h 38m · 27,378 learners
+- [[Programming with the Gemini Flash API]] — 19m · 16,429 learners
+- [[Openai Api Introduction]] — 12,474 learners
+- [[OpenAI API- Working with Files]] — Intermediate · 36m · 2,764 learners
+- [[Getting Started with the Google Gemini API]] — Intermediate · 1h 8m · 1,795 learners
+
+## Related Skills
+
+- [[Artificial Intelligence (AI)]] — 4 shared courses
+- [[ASP.NET Core]] — 2 shared courses
+- [[OpenAI API]] — 2 shared courses
+- [[OpenAI Products]] — 2 shared courses
+- [[Google Gemini]] — 2 shared courses
+- [[Generative AI]] — 2 shared courses
+- [[Gemini]] — 1 shared course
+- [[GraphQL]] — 1 shared course

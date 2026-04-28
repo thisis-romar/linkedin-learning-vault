@@ -30,8 +30,10 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20Case%20Studies%20in%20Different%20Business%20Industries.md)
 
 ![Artificial Intelligence Case Studies in Different Business Industries](https://media.licdn.com/dms/image/v2/D560DAQE3WsFphPrNDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685033610572?e=2147483647&amp;v=beta&amp;t=fNXSi9QRTsyi1RS-EtPfRQcRjgy57QOfDLBeqAw3O_g)
 
@@ -42,23 +44,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries) | 59m | Intermediate | 612K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Anil Gupta]]
-- [[Haiyan Wang]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AI Case Studies** (12 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI is transforming every industry
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/ai-is-transforming-every-industry?u=76281980)
@@ -83,7 +77,7 @@ created: 2026-04-21
 > **Code Keywords:** function (1)
 
 
-### 1. AI Case Studies
+### 2. 1. AI Case Studies
 
 #### Aquaculture: How Aquabyte applies machine learning to fish farming
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980)
@@ -957,7 +951,7 @@ created: 2026-04-21
 > **Speakers:** - without (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Integrating AI into your business
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980)
@@ -991,6 +985,20 @@ created: 2026-04-21
 > **Env Vars:** ceo (1), gpt (1)
 > **UI Navigation:** go to (1)
 
+
+## Instructor
+
+- [[Anil Gupta]]
+- [[Haiyan Wang]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Cloud%20Leader%20Cert%20Prep-%203%20Innovating%20with%20Google%20Cloud%20Artificial%20Intelligence.md)
 
 ![Google Cloud Digital Cloud Leader Cert Prep: 3 Innovating with Google Cloud Artificial Intelligence](https://media.licdn.com/dms/image/v2/D4E0DAQHzfyIPAKzH7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711389608259?e=2147483647&amp;v=beta&amp;t=zDUBxKf6v-zane_-ZMvW0xVD5oGakE7FY6o7XmtNan0)
 
@@ -46,19 +48,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence) | 36m | Beginner | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Google Cloud]]
-
-## Skills Covered
-
-- AI Software Development
-- Artificial Intelligence (AI)
-- Google Cloud Platform (GCP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AI and ML Fundamentals** (6 videos)
+- **3. 2. Google Cloud’s AI and ML Solutions** (8 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-introduction?u=76281980)
@@ -92,7 +91,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. AI and ML Fundamentals
+### 2. 1. AI and ML Fundamentals
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980)
@@ -467,7 +466,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Google Cloud’s AI and ML Solutions
+### 3. 2. Google Cloud’s AI and ML Solutions
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980)
@@ -798,7 +797,7 @@ created: 2026-04-21
 > **Speakers:** - google (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980)
@@ -823,6 +822,16 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Google Cloud]]
+
+## Skills Covered
+
+- AI Software Development
+- Artificial Intelligence (AI)
+- Google Cloud Platform (GCP)
 
 ## Path Context
 

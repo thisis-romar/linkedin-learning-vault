@@ -32,8 +32,10 @@ tags:
   - skill/algorithmic-trading
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Practical%20Python%20for%20Algorithmic%20Trading.md)
 
 ![Practical Python for Algorithmic Trading](https://media.licdn.com/dms/image/v2/D560DAQGJu6wunUGBDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690825887820?e=2147483647&amp;v=beta&amp;t=WzT3lm10MFL6SpZcfh5Z_kj4-4m5x4Z5hIo62L4-nB8)
 
@@ -44,23 +46,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading) | 1h 54m | Intermediate | 100K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jesus Lopez]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/practical-python-for-algorithmic-trading-4403633/codespaces)
-
-## Skills Covered
-
-- Algorithmic Trading
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Working with Stock Market Data** (2 videos)
+- **3. 2. Backtesting with Classification Models** (5 videos)
+- **4. 3. Backtesting with Regression Models** (4 videos)
+- **5. 4. Backtesting Optimization** (4 videos)
+- **6. 5. The Overfitting Problem in Backtesting** (8 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Algorithmic trading using machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning?u=76281980)
@@ -158,7 +156,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Working with Stock Market Data
+### 2. 1. Working with Stock Market Data
 
 #### Download and export data
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980)
@@ -383,7 +381,7 @@ created: 2026-04-21
 > **UI Navigation:** select the (1)
 
 
-### 2. Backtesting with Classification Models
+### 3. 2. Backtesting with Classification Models
 
 #### Compute machine learning classification model
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980)
@@ -855,7 +853,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
-### 3. Backtesting with Regression Models
+### 4. 3. Backtesting with Regression Models
 
 #### Compute machine learning regression model
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-regression-model?u=76281980)
@@ -1108,7 +1106,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Backtesting Optimization
+### 5. 4. Backtesting Optimization
 
 #### Optimizing strategy parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/optimizing-strategy-parameters?u=76281980)
@@ -1368,7 +1366,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. The Overfitting Problem in Backtesting
+### 6. 5. The Overfitting Problem in Backtesting
 
 #### Why machine learning models overfit the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980)
@@ -1955,7 +1953,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980)
@@ -2109,6 +2107,20 @@ created: 2026-04-21
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jesus Lopez]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/practical-python-for-algorithmic-trading-4403633/codespaces)
+
+## Skills Covered
+
+- Algorithmic Trading
+- Python (Programming Language)
 
 ## Path Context
 

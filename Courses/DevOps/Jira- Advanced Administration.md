@@ -31,8 +31,10 @@ tags:
   - skill/project-tracking
   - skill/jira
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira-%20Advanced%20Administration.md)
 
 ![Jira: Advanced Administration](https://media.licdn.com/dms/image/v2/C560DAQG4hiUwA-TKbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624639848574?e=2147483647&amp;v=beta&amp;t=kdWs3FufHaFWaeODJxtP6D2FvSi4k1iectblGpnzX0M)
 
@@ -43,22 +45,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration) | 3h 22m | Advanced | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rachel Wright]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Project Tracking
-- Jira
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Configuration Options** (6 videos)
+- **3. 2. Using Schemes** (5 videos)
+- **4. 3. Creating Custom Schemes** (6 videos)
+- **5. 4. Managing Project Settings** (5 videos)
+- **6. 5. Working with Groups and Roles** (5 videos)
+- **7. 6. Restricting and Sharing Information** (5 videos)
+- **8. 7. Extending Jira** (5 videos)
+- **9. 8. Advanced Features** (6 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Administration in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980)
@@ -201,7 +203,7 @@ created: 2026-04-21
 > **Speakers:** - ideally (1)
 
 
-### 1. Configuration Options
+### 2. 1. Configuration Options
 
 #### Global configuration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980)
@@ -640,7 +642,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Using Schemes
+### 3. 2. Using Schemes
 
 #### Types of schemes
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980)
@@ -1011,7 +1013,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Creating Custom Schemes
+### 4. 3. Creating Custom Schemes
 
 #### Use and create custom issue types
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980)
@@ -1779,7 +1781,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Managing Project Settings
+### 5. 4. Managing Project Settings
 
 #### Use and create versions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980)
@@ -2161,7 +2163,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 5. Working with Groups and Roles
+### 6. 5. Working with Groups and Roles
 
 #### Leveraging project roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/leveraging-project-roles?u=76281980)
@@ -2446,7 +2448,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Restricting and Sharing Information
+### 7. 6. Restricting and Sharing Information
 
 #### Use and create permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-permissions?u=76281980)
@@ -2842,7 +2844,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Extending Jira
+### 8. 7. Extending Jira
 
 #### Use and vet apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980)
@@ -3351,7 +3353,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 8. Advanced Features
+### 9. 8. Advanced Features
 
 #### Import data
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980)
@@ -4222,7 +4224,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980)
@@ -4324,6 +4326,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
 
+
+## Instructor
+
+- [[Rachel Wright]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Project Tracking
+- Jira
 
 ## Path Context
 

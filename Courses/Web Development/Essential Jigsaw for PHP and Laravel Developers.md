@@ -33,8 +33,10 @@ tags:
   - skill/laravel
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Essential%20Jigsaw%20for%20PHP%20and%20Laravel%20Developers.md)
 
 ![Essential Jigsaw for PHP and Laravel Developers](https://media.licdn.com/dms/image/v2/C560DAQHlII2lNyUsRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639597396787?e=2147483647&amp;v=beta&amp;t=Xkas1rylTvTv_xrRLs9pzK6TlirBpW8Pb5FkJubwR0o)
 
@@ -45,24 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers) | 53m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Zuzana Kunckova]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/essential-jigsaw-laravel-3155793)
-
-## Skills Covered
-
-- Jigsaw
-- Laravel
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Started with Jigsaw** (5 videos)
+- **3. 2. Jigsaw Internals** (7 videos)
+- **4. 3. Deploying Jigsaw on Netlify** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to Jigsaw
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980)
@@ -102,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 1. Getting Started with Jigsaw
+### 2. 1. Getting Started with Jigsaw
 
 #### What is Jigsaw?
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980)
@@ -425,7 +420,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. Jigsaw Internals
+### 3. 2. Jigsaw Internals
 
 #### File structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980)
@@ -1104,7 +1099,7 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 
 
-### 3. Deploying Jigsaw on Netlify
+### 4. 3. Deploying Jigsaw on Netlify
 
 #### Netlify introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980)
@@ -1459,7 +1454,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat invigorating music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980)
@@ -1491,6 +1486,21 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [zuzana] (1)
 
+
+## Instructor
+
+- [[Zuzana Kunckova]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/essential-jigsaw-laravel-3155793)
+
+## Skills Covered
+
+- Jigsaw
+- Laravel
+- PHP
 
 ## Path Context
 

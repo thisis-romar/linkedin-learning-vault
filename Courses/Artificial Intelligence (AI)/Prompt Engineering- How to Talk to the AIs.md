@@ -42,8 +42,10 @@ tags:
   - skill/large-language-models-llm
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering-%20How%20to%20Talk%20to%20the%20AIs.md)
 
 ![Prompt Engineering: How to Talk to the AIs](https://media.licdn.com/dms/image/v2/D560DAQFSXS6mzs87pA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681413686159?e=2147483647&amp;v=beta&amp;t=6_zr6IaP-j2tvL1Y48FqfUX0wHH0v2uIIhkXnRN9w4s)
 
@@ -54,24 +56,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais) | 29m | Beginner | 612K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Xavier Amatriain]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- Prompt Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is Prompt Engineering?** (7 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Talking to the AIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/talking-to-the-ais?u=76281980)
@@ -136,7 +129,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Is Prompt Engineering?
+### 2. 1. What Is Prompt Engineering?
 
 #### The generative AI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/the-generative-ai-revolution?u=76281980)
@@ -657,7 +650,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/next-steps-and-resources?u=76281980)
@@ -693,6 +686,21 @@ created: 2026-04-21
 > **Env Vars:** pdf (1)
 > **Speakers:** - if (1)
 
+
+## Instructor
+
+- [[Xavier Amatriain]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
+- Prompt Engineering
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - skill/linux-system-administration
   - skill/red-hat-linux
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20System%20Administrator%20(EX200)%20Cert%20Prep-%202%20File%20Access%2C%20Storage%2C%20and%20Security.md)
 
 ![Red Hat Certified System Administrator (EX200) Cert Prep: 2 File Access, Storage, and Security](https://media.licdn.com/dms/image/v2/C4E0DAQHTHnWS_dwmLw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1610648353099?e=2147483647&amp;v=beta&amp;t=lJ3xS1BjrsrQfJBNqp2KWleqCP6J-_anbXqZVIWuli4)
 
@@ -40,22 +42,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security) | 3h 53m | Intermediate | 23K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Grant McWilliams]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Linux System Administration
-- Red Hat Linux
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Users and Accounts** (9 videos)
+- **3. 2. Files Access Control** (13 videos)
+- **4. 3. Manage Security** (9 videos)
+- **5. 4. Accessing Linux Remotely** (7 videos)
+- **6. 5. Configure Local Storage** (8 videos)
+- **7. 6. Containers** (8 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Prepare for the RHCSA EX200 Exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/prepare-for-the-rhcsa-ex200-exam-23052024?u=76281980)
@@ -179,7 +179,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 1. Users and Accounts
+### 2. 1. Users and Accounts
 
 #### Create and delete local user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-and-delete-local-user-accounts?u=76281980)
@@ -1257,7 +1257,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Files Access Control
+### 3. 2. Files Access Control
 
 #### File and directory modes
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980)
@@ -2756,7 +2756,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Manage Security
+### 4. 3. Manage Security
 
 #### Set enforcing and permissive modes for SELinux
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980)
@@ -3702,7 +3702,7 @@ created: 2026-04-21
 > **URLs:** [localnet.com](https://localnet.com) (1)
 
 
-### 4. Accessing Linux Remotely
+### 5. 4. Accessing Linux Remotely
 
 #### Configure Secure Shell
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980)
@@ -4224,7 +4224,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Configure Local Storage
+### 6. 5. Configure Local Storage
 
 #### List, create, and delete partitions on MBR and GPT disks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980)
@@ -5212,7 +5212,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Containers
+### 7. 6. Containers
 
 #### About containers on Enterprise Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980)
@@ -6233,7 +6233,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/next-steps?u=76281980)
@@ -6278,6 +6278,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [grant] (1)
 
+
+## Instructor
+
+- [[Grant McWilliams]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Linux System Administration
+- Red Hat Linux
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/tech-career-skills
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Chief%20Information%20Security%20Officer%20(CISO).md)
 
 ![Cybersecurity Careers: Become a Chief Information Security Officer (CISO)](https://media.licdn.com/dms/image/v2/C560DAQFbD6_b4xW3wQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664304366478?e=2147483647&amp;v=beta&amp;t=1ZtITwq6VxGqinV6eCPLJl5wt9EtR-u8BJ-WdsrkLGU)
 
@@ -43,22 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso) | 46m | Beginner | 28K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jerich Beason]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tech Career Skills
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. About the Role** (2 videos)
+- **3. 2. Getting Hired and Getting Started** (4 videos)
+- **4. 3. Building Your Strategic Plan** (5 videos)
+- **5. 4. CISO Best Practices** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### So you want to be a CISO?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/so-you-want-to-be-a-ciso?u=76281980)
@@ -178,7 +176,7 @@ created: 2026-04-21
 > **Speakers:** - people (1)
 
 
-### 1. About the Role
+### 2. 1. About the Role
 
 #### What does a CISO do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980)
@@ -335,7 +333,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 2. Getting Hired and Getting Started
+### 3. 2. Getting Hired and Getting Started
 
 #### Before the interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/before-the-interview?u=76281980)
@@ -689,7 +687,7 @@ created: 2026-04-21
 > **Speakers:** - getting (1)
 
 
-### 3. Building Your Strategic Plan
+### 4. 3. Building Your Strategic Plan
 
 #### Select a security framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980)
@@ -1050,7 +1048,7 @@ created: 2026-04-21
 > **Speakers:** - communication (1)
 
 
-### 4. CISO Best Practices
+### 5. 4. CISO Best Practices
 
 #### Relationship building
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980)
@@ -1219,7 +1217,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Make the CISO dream come true
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/make-the-ciso-dream-come-true?u=76281980)
@@ -1288,6 +1286,19 @@ created: 2026-04-21
 > **Cross-References:** later in (1)
 > **Speakers:** - there (1)
 
+
+## Instructor
+
+- [[Jerich Beason]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tech Career Skills
+- Cybersecurity
 
 ## Path Context
 

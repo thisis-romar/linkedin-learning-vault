@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-strategy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20Approaches%20to%20Business%20Challenges.md)
 
 ![Generative AI Approaches to Business Challenges](https://media.licdn.com/dms/image/v2/D4E0DAQH1WNdNUCL2iQ/learning-public-crop_675_1200/B4EZUaI0DHGYAc-/0/1739900273240?e=2147483647&amp;v=beta&amp;t=w-4LWtPUBBYiFWQdNoPL9fxA6IEAkfpdr8MhMhtXMjc)
 
@@ -46,24 +48,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges) | 37m | 33K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Madecraft]]
-- [[Colby Hawker]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- Artificial Intelligence (AI)
-- Business Strategy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Generative AI** (3 videos)
+- **3. 2. Applying Gen AI to Business Challenges** (6 videos)
+- **4. 3. Resources and Ethical Considerations** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Transform your business with gen AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980)
@@ -102,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. Introduction to Generative AI
+### 2. 1. Introduction to Generative AI
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980)
@@ -280,7 +275,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Applying Gen AI to Business Challenges
+### 3. 2. Applying Gen AI to Business Challenges
 
 #### Identify common business challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/identify-common-business-challenges?u=76281980)
@@ -636,7 +631,7 @@ created: 2026-04-21
 > **Speakers:** - usually (1)
 
 
-### 3. Resources and Ethical Considerations
+### 4. 3. Resources and Ethical Considerations
 
 #### Explore generative AI resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980)
@@ -801,7 +796,7 @@ created: 2026-04-21
 > **Speakers:** - consider (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Get started
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980)
@@ -838,6 +833,21 @@ created: 2026-04-21
 >
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Madecraft]]
+- [[Colby Hawker]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- Artificial Intelligence (AI)
+- Business Strategy
 
 ## Path Context
 

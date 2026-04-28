@@ -31,30 +31,32 @@ tags:
   - topic/web-development
   - skill/spring-boot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Spring%20Boot%20Observability-%20Deep%20Dive%20into%20Logging%2C%20Metrics%2C%20and%20Tracing.md)
 
 ![Spring Boot Observability: Deep Dive into Logging, Metrics, and Tracing](https://media.licdn.com/dms/image/v2/C560DAQF3sefPLnRYNQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654619167655?e=2147483647&amp;v=beta&amp;t=ib6U0ernBMnc5kXkOyxRavCgUkZrJzAjFIRFKuUuvCk)
 
 # Spring Boot Observability: Deep Dive into Logging, Metrics, and Tracing
 
-> Once up and running Spring apps, you want to go beyond basic monitoring and get operational insight into the behavior of your system.
-This course with Terezija Semenski gets you up to speed on how to achieve observability with Spring applications. Terezija covers three main pillars of observability: Logging, metrics, and tracing, and how they correlate across different systems. She provides hands-
+> Once up and running Spring apps, you want to go beyond basic monitoring and get operational insight into the behavior of your system. This course with Terezija Semenski gets you up to speed on how to achieve observability with Spring applications. Terezija covers three main pillars of observability: Logging, metrics, and tracing, and how they correlate across different systems. She provides hands-
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing) | 39m | Advanced | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Terezija Semenski]]
-
-## Skills Covered
-
-- Spring Boot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understand Why Observability Is Important** (3 videos)
+- **3. 2. Logging** (3 videos)
+- **4. 3. Metrics** (3 videos)
+- **5. 4. Tracing** (2 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Observability with Spring Boot
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/observability-with-spring-boot?u=76281980)
@@ -98,7 +100,7 @@ This course with Terezija Semenski gets you up to speed on how to achieve observ
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understand Why Observability Is Important
+### 2. 1. Understand Why Observability Is Important
 
 #### What is observability?
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-is-observability?u=76281980)
@@ -287,7 +289,7 @@ This course with Terezija Semenski gets you up to speed on how to achieve observ
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Logging
+### 3. 2. Logging
 
 #### Problem with basic logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980)
@@ -463,7 +465,7 @@ This course with Terezija Semenski gets you up to speed on how to achieve observ
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Metrics
+### 4. 3. Metrics
 
 #### Usage of metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980)
@@ -705,7 +707,7 @@ This course with Terezija Semenski gets you up to speed on how to achieve observ
 > **Definitions:** is called (1)
 
 
-### 4. Tracing
+### 5. 4. Tracing
 
 #### Distributed tracing
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/distributed-tracing?u=76281980)
@@ -815,7 +817,7 @@ This course with Terezija Semenski gets you up to speed on how to achieve observ
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### How to correlate logging, metrics, and tracing
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/how-to-correlate-logging-metrics-and-tracing?u=76281980)
@@ -936,6 +938,14 @@ This course with Terezija Semenski gets you up to speed on how to achieve observ
 > **Env Vars:** aws (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Terezija Semenski]]
+
+## Skills Covered
+
+- Spring Boot
 
 ## Path Context
 

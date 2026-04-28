@@ -37,8 +37,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/knowledge-graphs
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Knowledge%20Graph%20Data%20Engineering%20for%20Generative%20AI%20Use%20Cases.md)
 
 ![Knowledge Graph Data Engineering for Generative AI Use Cases](https://media.licdn.com/dms/image/v2/D4E0DAQE8e7XXQFryWQ/learning-public-crop_675_1200/B4EZbqbWRDHkAY-/0/1747689760566?e=2147483647&amp;v=beta&amp;t=bzdG_sDdAhC9TrpjXlY5fUPEP1lYnEb6VzMLqd4AKvE)
 
@@ -49,25 +51,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases) | 1h 50m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ashleigh Faith]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Engineering
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-- Artificial Intelligence (AI)
-- Knowledge Graphs
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Setup: Data Engineering Foundations** (4 videos)
+- **3. 2. Extraction** (4 videos)
+- **4. 3. Data Modeling** (7 videos)
+- **5. 4. Transform** (2 videos)
+- **6. 5. Load** (5 videos)
+- **7. 6. Using the Knowledge Graph with AI** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of knowledge graphs in data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980)
@@ -139,7 +136,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Setup: Data Engineering Foundations
+### 2. 1. Setup: Data Engineering Foundations
 
 #### What is data engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980)
@@ -303,7 +300,7 @@ created: 2026-04-21
 > **Speakers:** - [facilitator] (1)
 
 
-### 2. Extraction
+### 3. 2. Extraction
 
 #### What data do you need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980)
@@ -546,7 +543,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Modeling
+### 4. 3. Data Modeling
 
 #### Creating your design document
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980)
@@ -1048,7 +1045,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Transform
+### 5. 4. Transform
 
 #### Data transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/data-transformation?u=76281980)
@@ -1276,7 +1273,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Load
+### 6. 5. Load
 
 #### Setting up our Stardog project, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980)
@@ -1954,7 +1951,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 6. Using the Knowledge Graph with AI
+### 7. 6. Using the Knowledge Graph with AI
 
 #### Architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980)
@@ -2146,7 +2143,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continuing your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980)
@@ -2184,6 +2181,22 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 > **Speakers:** - and (1)
 
+
+## Instructor
+
+- [[Ashleigh Faith]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Engineering
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence (AI)
+- Knowledge Graphs
 
 ## Path Context
 

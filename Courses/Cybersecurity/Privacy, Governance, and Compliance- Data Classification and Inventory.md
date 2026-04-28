@@ -34,8 +34,10 @@ tags:
   - skill/data-classification
   - skill/privacy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Privacy%2C%20Governance%2C%20and%20Compliance-%20Data%20Classification%20and%20Inventory.md)
 
 ![Privacy, Governance, and Compliance: Data Classification and Inventory](https://media.licdn.com/dms/image/v2/C4E0DAQEswW30-zvAbA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678306438163?e=2147483647&amp;v=beta&amp;t=G7MWEMeG1WXc7ZKfCmcqrdpn0irc9TzXIZ1-h94aURo)
 
@@ -46,19 +48,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory) | 1h 19m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nishant Bhajaria]]
-
-## Skills Covered
-
-- Privacy Compliance
-- Data Classification
-- Privacy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The Privacy Landscape** (6 videos)
+- **3. 2. Data Classification** (7 videos)
+- **4. 3. An Inventory of Your Data and Risk** (3 videos)
+- **5. 4. A Deep Dive into Data Inventory** (6 videos)
+- **6. 5. Lessons from the Road: How to Do Data Inventory Right** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980)
@@ -201,7 +203,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Privacy Landscape
+### 2. 1. The Privacy Landscape
 
 #### The legal and regulatory landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-legal-and-regulatory-landscape?u=76281980)
@@ -590,7 +592,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Data Classification
+### 3. 2. Data Classification
 
 #### How classification reduces risk around unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980)
@@ -1032,7 +1034,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. An Inventory of Your Data and Risk
+### 4. 3. An Inventory of Your Data and Risk
 
 #### What is data inventory?
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980)
@@ -1258,7 +1260,7 @@ created: 2026-04-21
 > **Env Vars:** sql (1)
 
 
-### 4. A Deep Dive into Data Inventory
+### 5. 4. A Deep Dive into Data Inventory
 
 #### Data inventory using manual resources and automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980)
@@ -1716,7 +1718,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 5. Lessons from the Road: How to Do Data Inventory Right
+### 6. 5. Lessons from the Road: How to Do Data Inventory Right
 
 #### Centralized vs. decentralized
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980)
@@ -2029,7 +2031,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980)
@@ -2067,6 +2069,16 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Nishant Bhajaria]]
+
+## Skills Covered
+
+- Privacy Compliance
+- Data Classification
+- Privacy
 
 ## Path Context
 

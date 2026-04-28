@@ -1,11 +1,26 @@
 {
-  "collapse-filter": true,
+  "collapse": {
+    "search": false,
+    "localJumps": false,
+    "colorGroups": false,
+    "display": false,
+    "forces": false
+  },
   "search": "-path:\"Skills/\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "showArrow": true,
+  "collapse1": false,
+  "localJumps": 1,
+  "lineSizeMultiplier": 1.5,
+  "nodeSizeMultiplier": 1.2,
+  "textFadeMultiplier": -2,
+  "repelStrength": 20,
+  "linkStrength": 0.4,
+  "linkDistance": 300,
+  "centerStrength": 0.3,
   "colorGroups": [
     {
       "query": "file:\"000 Map of Content\"",
@@ -350,17 +365,5 @@
         "rgb": 6583435
       }
     }
-  ],
-  "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": -2,
-  "nodeSizeMultiplier": 1.2,
-  "lineSizeMultiplier": 1.5,
-  "collapse-forces": true,
-  "centerStrength": 0.3,
-  "repelStrength": 20,
-  "linkStrength": 0.4,
-  "linkDistance": 300,
-  "scale": 2.2806973457336426,
-  "close": false
+  ]
 }

@@ -30,8 +30,10 @@ tags:
   - skill/penetration-testing
   - skill/active-directory
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Advanced%20Pen%20Testing%20Techniques%20for%20Active%20Directory.md)
 
 ![Advanced Pen Testing Techniques for Active Directory](https://media.licdn.com/dms/image/v2/C560DAQGusBmcgYvmig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647026759098?e=2147483647&amp;v=beta&amp;t=LuccBGNQTv1RKy8rPBA3MNnjFsIzFe-Vx0nv3IM70Qo)
 
@@ -42,18 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory) | 1h 41m | Advanced | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Skills Covered
-
-- Penetration Testing
-- Active Directory
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to Identities** (9 videos)
+- **3. 2. Testing Active Directory** (7 videos)
+- **4. 3. Advanced Penetration Testing** (10 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understand and test the security of identity providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980)
@@ -125,7 +126,7 @@ created: 2026-04-21
 > **Speakers:** - [malcolm] (1)
 
 
-### 1. Introduction to Identities
+### 2. 1. Introduction to Identities
 
 #### Understand Active Directory's role in security
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980)
@@ -768,7 +769,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Testing Active Directory
+### 3. 2. Testing Active Directory
 
 #### Set up for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980)
@@ -1217,7 +1218,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced Penetration Testing
+### 4. 3. Advanced Penetration Testing
 
 #### Specific Active Directory attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/specific-active-directory-attacks?u=76281980)
@@ -1974,7 +1975,7 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980)
@@ -2003,6 +2004,15 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Skills Covered
+
+- Penetration Testing
+- Active Directory
 
 ## Path Context
 

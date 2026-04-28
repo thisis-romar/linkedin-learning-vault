@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/mysql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20MySQL%20Development.md)
 
 ![Learning MySQL Development](https://media.licdn.com/dms/image/v2/D560DAQF582njh5BViQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689721235922?e=2147483647&amp;v=beta&amp;t=aLA0uJrYNVtKXhQ46ZmOPj1opEQpwMeC0qChidCGUes)
 
@@ -41,21 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630) | 1h 56m | Beginner | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brad Wheeler]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- MySQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Database Basics** (5 videos)
+- **3. 2. Exploring MySQL** (6 videos)
+- **4. 3. Creating Tables** (8 videos)
+- **5. 4. Selecting Data** (6 videos)
+- **6. 5. Updating and Deleting Data** (5 videos)
+- **7. 6. Joining Tables** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn to use MySQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/learn-to-use-mysql?u=76281980)
@@ -157,7 +158,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Database Basics
+### 2. 1. Database Basics
 
 #### What is a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980)
@@ -558,7 +559,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Exploring MySQL
+### 3. 2. Exploring MySQL
 
 #### Advantages and disadvantages of MySQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980)
@@ -976,7 +977,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Creating Tables
+### 4. 3. Creating Tables
 
 #### Create a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980)
@@ -1733,7 +1734,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 4. Selecting Data
+### 5. 4. Selecting Data
 
 #### The basics of SELECT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-select?u=76281980)
@@ -2152,7 +2153,7 @@ created: 2026-04-21
 > **Non-Speech:** (energetic music) (1)
 
 
-### 5. Updating and Deleting Data
+### 6. 5. Updating and Deleting Data
 
 #### Add data to tables with INSERT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/add-data-to-tables-with-insert?u=76281980)
@@ -2519,7 +2520,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Joining Tables
+### 7. 6. Joining Tables
 
 #### The basics of JOIN
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980)
@@ -2834,7 +2835,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Level up your MySQL knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/level-up-your-mysql-knowledge?u=76281980)
@@ -2854,6 +2855,18 @@ created: 2026-04-21
 > **CLI Commands:** mysql (3)
 > **Speakers:** - [brad] (1)
 
+
+## Instructor
+
+- [[Brad Wheeler]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- MySQL
 
 ## Path Context
 

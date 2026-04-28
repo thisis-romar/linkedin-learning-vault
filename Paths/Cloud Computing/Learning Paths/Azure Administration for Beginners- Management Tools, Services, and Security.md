@@ -7,7 +7,7 @@ course_count: 5
 linkedin_topics:
   - Cloud Computing
   - Network and System Administration
-louvain_cluster: 7
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/cloud-computing
@@ -39,8 +39,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Azure%20Administration%20for%20Beginners-%20Management%20Tools%2C%20Services%2C%20and%20Security.md)
 
 # Azure Administration for Beginners: Management Tools, Services, and Security
 

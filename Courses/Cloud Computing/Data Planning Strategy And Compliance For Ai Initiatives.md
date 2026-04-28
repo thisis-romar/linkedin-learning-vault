@@ -34,8 +34,10 @@ tags:
   - skill/data-preparation
   - skill/data-storage
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Data%20Planning%20Strategy%20And%20Compliance%20For%20Ai%20Initiatives.md)
 
 ![Data Planning Strategy And Compliance For Ai Initiatives](https://media.licdn.com/dms/image/v2/D4E0DAQGZgaphTNKkZg/learning-public-crop_675_1200/B4EZZprb10HEAg-/0/1745529716364?e=2147483647&amp;v=beta&amp;t=aFSehqi6ZEIQ3tnnZsOvQkQ4Xvi7SwvtwDsEnWEl7bU)
 
@@ -46,17 +48,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives) | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- AI Strategy
-- Data Strategies
-- Artificial Intelligence (AI)
-- Data Preparation
-- Data Storage
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Data Collection Fundamentals** (6 videos)
+- **3. 2. Data Quality Frameworks** (5 videos)
+- **4. 3. Data Preparation** (6 videos)
+- **5. 4. AI Storage Systems** (5 videos)
+- **6. 5. AI Processing Infrastructure** (5 videos)
+- **7. 6. Optimizing AI Process Workflows** (5 videos)
+- **8. 7. Real-Time Data Processing for AI Applications** (5 videos)
+- **9. 8. Secure Data Management for AI Implementation** (6 videos)
+- **10. 9. Ethical Considerations** (5 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/welcome-to-this-course?u=76281980)
@@ -102,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Data Collection Fundamentals
+### 2. 1. Data Collection Fundamentals
 
 #### Identifying data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980)
@@ -547,7 +555,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively upbeat music) (1)
 
 
-### 2. Data Quality Frameworks
+### 3. 2. Data Quality Frameworks
 
 #### Data quality metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980)
@@ -783,7 +791,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Data Preparation
+### 4. 3. Data Preparation
 
 #### Data normalization and standardization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980)
@@ -1261,7 +1269,7 @@ created: 2026-04-21
 > **Non-Speech:** (uplifting music) (1)
 
 
-### 4. AI Storage Systems
+### 5. 4. AI Storage Systems
 
 #### Types of storage systems: Object storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980)
@@ -1617,7 +1625,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. AI Processing Infrastructure
+### 6. 5. AI Processing Infrastructure
 
 #### Batch processing systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980)
@@ -1978,7 +1986,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively upbeat music) (1)
 
 
-### 6. Optimizing AI Process Workflows
+### 7. 6. Optimizing AI Process Workflows
 
 #### Metadata management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980)
@@ -2267,7 +2275,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Real-Time Data Processing for AI Applications
+### 8. 7. Real-Time Data Processing for AI Applications
 
 #### Event-driven architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980)
@@ -2623,7 +2631,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Secure Data Management for AI Implementation
+### 9. 8. Secure Data Management for AI Implementation
 
 #### Security compliance and regulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980)
@@ -3020,7 +3028,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 9. Ethical Considerations
+### 10. 9. Ethical Considerations
 
 #### AI ethics and responsible data use
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980)
@@ -3331,7 +3339,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/next-steps?u=76281980)
@@ -3349,6 +3357,14 @@ created: 2026-04-21
 > **Code Keywords:** continue (1), function (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Skills Covered
+
+- AI Strategy
+- Data Strategies
+- Artificial Intelligence (AI)
+- Data Preparation
+- Data Storage
 
 ## Path Context
 

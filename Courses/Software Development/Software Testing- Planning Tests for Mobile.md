@@ -32,8 +32,10 @@ tags:
   - skill/mobile-software-development
   - skill/mobile-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Software%20Testing-%20Planning%20Tests%20for%20Mobile.md)
 
 ![Software Testing: Planning Tests for Mobile](https://media.licdn.com/dms/image/v2/C4E0DAQEvwCcfgu5New/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628887907716?e=2147483647&amp;v=beta&amp;t=zLmXecj1xma3Wsh-6jw5d4C9zUHUSkoytd_EMfkYa5A)
 
@@ -44,19 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile) | 1h 48m | Intermediate | 234K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Fine]]
-
-## Skills Covered
-
-- Software Testing
-- Mobile Software Development
-- Mobile Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Setting Up Your Test Tools** (6 videos)
+- **3. 2. Planning Your Alpha Test** (7 videos)
+- **4. 3. Planning Your Beta Test** (7 videos)
+- **5. 4. Short Term and Long Term Planning** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Testing mobile applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/testing-mobile-applications?u=76281980)
@@ -133,7 +134,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting Up Your Test Tools
+### 2. 1. Setting Up Your Test Tools
 
 #### Tracking versions
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-versions?u=76281980)
@@ -761,7 +762,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Planning Your Alpha Test
+### 3. 2. Planning Your Alpha Test
 
 #### Preparing for your alpha test
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980)
@@ -1527,7 +1528,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Planning Your Beta Test
+### 4. 3. Planning Your Beta Test
 
 #### Integrating customer validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/integrating-customer-validation?u=76281980)
@@ -2151,7 +2152,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Short Term and Long Term Planning
+### 5. 4. Short Term and Long Term Planning
 
 #### Taking feedback forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980)
@@ -2571,7 +2572,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/next-steps?u=76281980)
@@ -2602,6 +2603,16 @@ created: 2026-04-21
 >
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Mike Fine]]
+
+## Skills Covered
+
+- Software Testing
+- Mobile Software Development
+- Mobile Testing
 
 ## Path Context
 

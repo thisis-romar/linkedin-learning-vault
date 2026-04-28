@@ -35,36 +35,34 @@ tags:
   - skill/embedded-c
   - skill/c-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C%20Programming%20for%20Embedded%20Applications.md)
 
 ![C Programming for Embedded Applications](https://media.licdn.com/dms/image/v2/C4E0DAQFepN06Mn31bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647638570276?e=2147483647&amp;v=beta&amp;t=le3nrmq-tmW8c7yFZcTuhJqlJzRiQbQPu5w2gG2xrpI)
 
 # C Programming for Embedded Applications
 
-> From medical devices to a car’s dashboard to a video game controller, embedded systems are all around us. Learning to write embedded software in C will help you deliver applications that are small, efficient, and fast. 
-
-In this course, instructor Eduardo Corpeño explains how C programming and the Internet of Things combine in embedded applications—software that permanently resides on a device—and
+> From medical devices to a car’s dashboard to a video game controller, embedded systems are all around us. Learning to write embedded software in C will help you deliver applications that are small, efficient, and fast. In this course, instructor Eduardo Corpeño explains how C programming and the Internet of Things combine in embedded applications—software that permanently resides on a device—and d
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235) | 2h 5m | Advanced | 42K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eduardo Corpeño]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Embedded C
-- C (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Embedded Systems** (7 videos)
+- **3. 2. Data Types** (4 videos)
+- **4. 3. Bit Manipulation** (4 videos)
+- **5. 4. Qualifiers** (4 videos)
+- **6. 5. Function Alternatives** (6 videos)
+- **7. 6. Floating-Point Unit Alternatives** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started in embedded systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=76281980)
@@ -165,7 +163,7 @@ In this course, instructor Eduardo Corpeño explains how C programming and the I
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Embedded Systems
+### 2. 1. Embedded Systems
 
 #### Applications: OS vs. embedded
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980)
@@ -556,7 +554,7 @@ In this course, instructor Eduardo Corpeño explains how C programming and the I
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Data Types
+### 3. 2. Data Types
 
 #### Integral types
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/integral-types?u=76281980)
@@ -977,7 +975,7 @@ In this course, instructor Eduardo Corpeño explains how C programming and the I
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Bit Manipulation
+### 4. 3. Bit Manipulation
 
 #### Masking
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980)
@@ -1320,7 +1318,7 @@ In this course, instructor Eduardo Corpeño explains how C programming and the I
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Qualifiers
+### 5. 4. Qualifiers
 
 #### The volatile qualifier
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-volatile-qualifier?u=76281980)
@@ -1756,7 +1754,7 @@ In this course, instructor Eduardo Corpeño explains how C programming and the I
 > **Prerequisites:** setup (1)
 
 
-### 5. Function Alternatives
+### 6. 5. Function Alternatives
 
 #### Lookup tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980)
@@ -2346,7 +2344,7 @@ In this course, instructor Eduardo Corpeño explains how C programming and the I
 > **Warnings:** keep in mind (1)
 
 
-### 6. Floating-Point Unit Alternatives
+### 7. 6. Floating-Point Unit Alternatives
 
 #### Software implementation of float
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980)
@@ -2699,7 +2697,7 @@ In this course, instructor Eduardo Corpeño explains how C programming and the I
 > **Analogies:** for example (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/next-steps?u=76281980)
@@ -2735,6 +2733,19 @@ In this course, instructor Eduardo Corpeño explains how C programming and the I
 > **Definitions:** is a  (1)
 > **Speakers:** - [eduardo] (1)
 
+
+## Instructor
+
+- [[Eduardo Corpeño]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Embedded C
+- C (Programming Language)
 
 ## Path Context
 

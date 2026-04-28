@@ -30,8 +30,10 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20Python%20with%20Excel.md)
 
 ![Using Python with Excel](https://media.licdn.com/dms/image/v2/D560DAQENrV8UgGZ-Iw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690919454982?e=2147483647&amp;v=beta&amp;t=NY6sWyz6S_iNa30ChUHPWBh-7TgOc0rNlOXfbRRA9Hc)
 
@@ -42,23 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328) | 56m | Intermediate | 616K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Madecraft]]
-- [[George Mount]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Python and pandas** (6 videos)
+- **3. 2. openpyxl** (4 videos)
+- **4. 3. Working with Reports** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Managing Excel with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980)
@@ -94,7 +90,7 @@ created: 2026-04-21
 > **Env Vars:** mvp (1)
 
 
-### 1. Python and pandas
+### 2. 1. Python and pandas
 
 #### Jupyter Notebooks basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980)
@@ -538,7 +534,7 @@ created: 2026-04-21
 > **UI Navigation:** open the (1)
 
 
-### 2. openpyxl
+### 3. 2. openpyxl
 
 #### Using openpyxl with Workbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/using-openpyxl-with-workbooks?u=76281980)
@@ -851,7 +847,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 3. Working with Reports
+### 4. 3. Working with Reports
 
 #### Managing multiple sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-multiple-sheets?u=76281980)
@@ -1270,7 +1266,7 @@ created: 2026-04-21
 > **Tools:** anaconda (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980)
@@ -1306,6 +1302,20 @@ created: 2026-04-21
 > **CLI Commands:** python (6)
 > **Code Keywords:** continue (1), let (1)
 
+
+## Instructor
+
+- [[Madecraft]]
+- [[George Mount]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Microsoft Excel
 
 ## Path Context
 

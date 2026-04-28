@@ -35,8 +35,10 @@ tags:
   - skill/microsoft-excel
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/From%20Excel%20to%20SQL.md)
 
 ![From Excel to SQL](https://media.licdn.com/dms/image/v2/D560DAQHOp8dIbBOOQw/learning-public-crop_675_1200/B56ZhCIkwsHUBg-/0/1753456201030?e=2147483647&amp;v=beta&amp;t=PSNhQ6Ydw-SLk9Ur6aE1qFVyEjmxXqTs1Orx9UKyoGs)
 
@@ -47,23 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092) | 1h 24m | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Madecraft]]
-- [[James Parkin]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Excel
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Comparing Excel and SQL** (2 videos)
+- **3. 2. SQL Basics** (7 videos)
+- **4. 3. Working with Functions** (4 videos)
+- **5. 4. Organizing Data** (5 videos)
+- **6. 5. Combining Data** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Moving from Excel to SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980)
@@ -181,7 +179,7 @@ created: 2026-04-21
 > **URLs:** [sqlitebrowser.org](https://sqlitebrowser.org) (1)
 
 
-### 1. Comparing Excel and SQL
+### 2. 1. Comparing Excel and SQL
 
 #### Spreadsheets vs. databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/spreadsheets-vs-databases?u=76281980)
@@ -349,7 +347,7 @@ created: 2026-04-21
 > **Prerequisites:** before we start (1)
 
 
-### 2. SQL Basics
+### 3. 2. SQL Basics
 
 #### Viewing data in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980)
@@ -942,7 +940,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 3. Working with Functions
+### 4. 3. Working with Functions
 
 #### Using SUM in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-sum-in-sql?u=76281980)
@@ -1230,7 +1228,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Organizing Data
+### 5. 4. Organizing Data
 
 #### Sorting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980)
@@ -1695,7 +1693,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 5. Combining Data
+### 6. 5. Combining Data
 
 #### Using joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980)
@@ -1926,7 +1924,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Taking your SQL skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/taking-your-sql-skills-to-the-next-level?u=76281980)
@@ -1974,6 +1972,20 @@ created: 2026-04-21
 > **URLs:** [w3schools.com](https://w3schools.com) (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Madecraft]]
+- [[James Parkin]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Excel
+- SQL
 
 ## Path Context
 

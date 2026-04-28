@@ -28,8 +28,10 @@ tags:
   - topic/security
   - skill/web-application-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-3%20Injection%20and%20-4%20Insecure%20Design.md)
 
 ![OWASP Top 10: #3 Injection and #4 Insecure Design](https://media.licdn.com/dms/image/v2/C4E0DAQFnOxWt9_bH0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661193633042?e=2147483647&amp;v=beta&amp;t=YvxdkzPtZ2ZCEBcncSPI9ytSt_Uf2OUjp0RSLgMg0YY)
 
@@ -40,17 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design) | 32m | Intermediate | 178K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Caroline Wong]]
-
-## Skills Covered
-
-- Web Application Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Injection** (6 videos)
+- **3. 2. Insecure Design** (6 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### 2021 OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980)
@@ -122,7 +123,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Injection
+### 2. 1. Injection
 
 #### What is injection?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980)
@@ -404,7 +405,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Insecure Design
+### 3. 2. Insecure Design
 
 #### What is insecure design?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-insecure-design?u=76281980)
@@ -712,7 +713,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/next-steps?u=76281980)
@@ -745,6 +746,14 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Caroline Wong]]
+
+## Skills Covered
+
+- Web Application Security
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - skill/pdf-management
   - skill/it-accessibility
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Creating%20Accessible%20PDFs.md)
 
 ![Creating Accessible PDFs](https://media.licdn.com/dms/image/v2/C560DAQGYN5k-gBXnRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639595808132?e=2147483647&amp;v=beta&amp;t=kyMIjq2d8UyuheuEEvOJ8xr05cxHxov_Ib-6vii2Egg)
 
@@ -42,22 +44,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392) | 8h 16m | Intermediate | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Chad Chelius]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- PDF Management
-- IT Accessibility
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding Accessibility** (5 videos)
+- **3. 2. Accessibility in PDF Files** (5 videos)
+- **4. 3. Make an Existing PDF File Accessible (Old Interface)** (19 videos)
+- **5. 4. Make an Existing PDF File Accessible (New Interface)** (20 videos)
+- **6. 5. Create an Accessible PDF from Word** (14 videos)
+- **7. 6. Create an Accessible PDF File from PowerPoint** (7 videos)
+- **8. 7. Create an Accessible PDF File from Adobe InDesign** (21 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The ultimate guide to accessible PDFs
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-ultimate-guide-to-accessible-pdfs-25575414?u=76281980)
@@ -176,7 +177,7 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 
 
-### 1. Understanding Accessibility
+### 2. 1. Understanding Accessibility
 
 #### What is accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/what-is-accessibility?u=76281980)
@@ -788,7 +789,7 @@ created: 2026-04-21
 > **Cross-References:** previous video (1)
 
 
-### 2. Accessibility in PDF Files
+### 3. 2. Accessibility in PDF Files
 
 #### Acrobat Pro DC setup and workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/acrobat-pro-dc-setup-and-workspace-25576403?u=76281980)
@@ -1120,7 +1121,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Make an Existing PDF File Accessible (Old Interface)
+### 4. 3. Make an Existing PDF File Accessible (Old Interface)
 
 #### Add metadata
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980)
@@ -3020,7 +3021,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 4. Make an Existing PDF File Accessible (New Interface)
+### 5. 4. Make an Existing PDF File Accessible (New Interface)
 
 #### Add metadata
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980)
@@ -5700,7 +5701,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 5. Create an Accessible PDF from Word
+### 6. 5. Create an Accessible PDF from Word
 
 #### Accessible PDF on Windows vs. Mac
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980)
@@ -6958,7 +6959,7 @@ created: 2026-04-21
 > **Speakers:** - all (1)
 
 
-### 6. Create an Accessible PDF File from PowerPoint
+### 7. 6. Create an Accessible PDF File from PowerPoint
 
 #### General considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/general-considerations?u=76281980)
@@ -7579,7 +7580,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Create an Accessible PDF File from Adobe InDesign
+### 8. 7. Create an Accessible PDF File from Adobe InDesign
 
 #### Best way to generate the PDF file
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/best-way-to-generate-the-pdf-file?u=76281980)
@@ -9780,7 +9781,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980)
@@ -9840,6 +9841,19 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 > **Best Practices:** best practice (1)
 
+
+## Instructor
+
+- [[Chad Chelius]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- PDF Management
+- IT Accessibility
 
 ## Path Context
 

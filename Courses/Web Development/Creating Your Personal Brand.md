@@ -26,8 +26,10 @@ tags:
   - topic/web-development
   - skill/personal-branding
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Creating%20Your%20Personal%20Brand.md)
 
 ![Creating Your Personal Brand](https://media.licdn.com/dms/image/v2/C4E0DAQFMvK6jFJDP4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668594063?e=2147483647&amp;v=beta&amp;t=rVse8dIvNYLgdeYd3YbWuwITB7_j02NoPcOaS8oAP3w)
 
@@ -38,21 +40,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand) | 33m | 1394K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lida Citroën]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Personal Branding
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Personal Branding** (3 videos)
+- **3. 2. Creating Your Brand** (3 videos)
+- **4. 3. Marketing and Positioning Your Brand** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is personal branding?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/what-is-personal-branding?u=76281980)
@@ -79,7 +77,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Personal Branding
+### 2. 1. Personal Branding
 
 #### Creating your personal brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-personal-brand?u=76281980)
@@ -242,7 +240,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. Creating Your Brand
+### 3. 2. Creating Your Brand
 
 #### Defining your current brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/defining-your-current-brand-2?u=76281980)
@@ -450,7 +448,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 3. Marketing and Positioning Your Brand
+### 4. 3. Marketing and Positioning Your Brand
 
 #### Creating a personal marketing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-a-personal-marketing-strategy?u=76281980)
@@ -866,7 +864,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Start today to take control of your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/start-today-to-take-control-of-your-brand?u=76281980)
@@ -909,6 +907,18 @@ created: 2026-04-21
 > **Code Keywords:** for, (1), let (1), default. (1)
 > **Speakers:** - your (1)
 
+
+## Instructor
+
+- [[Lida Citroën]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Personal Branding
 
 ## Path Context
 

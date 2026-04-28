@@ -29,8 +29,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AI%20Cheat%20Sheet%20for%20Business%20Leaders.md)
 
 ![AI Cheat Sheet for Business Leaders](https://media.licdn.com/dms/image/v2/D4E0DAQEHsYtpVILu1w/learning-public-crop_675_1200/B4EZXyMEIQHUAc-/0/1743525004079?e=2147483647&amp;v=beta&amp;t=C_vjyiEDajdUefJ5iC_mKtGN3yf1m1R9qSTSs43VhJc)
 
@@ -41,22 +43,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders) | 45m | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dave Birss]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- AI for Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Ten Tips on AI for Business Leaders** (10 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/course-introduction?u=76281980)
@@ -170,7 +165,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 1. Ten Tips on AI for Business Leaders
+### 2. 1. Ten Tips on AI for Business Leaders
 
 #### What we mean by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980)
@@ -1182,7 +1177,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980)
@@ -1220,6 +1215,19 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Dave Birss]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- AI for Leadership
 
 ## Path Context
 

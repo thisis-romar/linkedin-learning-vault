@@ -24,32 +24,35 @@ tags:
   - topic/data-science
   - skill/finance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Finance%20For%20Non%20Financial%20Managers.md)
 
 ![Finance For Non Financial Managers](https://media.licdn.com/dms/image/v2/D560DAQE1B6A9yIuxjg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713394694274?e=2147483647&amp;v=beta&amp;t=QfeyRf9EQeb30jg1UTfQ2kWusuT-AVzXCwP9zWuAEWI)
 
 # Finance For Non Financial Managers
 
-> If you're looking to grow your career and take on greater financial responsibility within your organization, you'll need to demonstrate a basic understanding of financial management. In this course, BYU Accounting professors Jim and Kay Stice help you develop the financial acumen necessary to: 
-
-Understand the purpose of finance and how it impacts entrepreneurs, investors, and facilitators.
-Interp
+> If you're looking to grow your career and take on greater financial responsibility within your organization, you'll need to demonstrate a basic understanding of financial management. In this course, BYU Accounting professors Jim and Kay Stice help you develop the financial acumen necessary to: Understand the purpose of finance and how it impacts entrepreneurs, investors, and facilitators. Interpre
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630) | Beginner | 33K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Finance
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Finance and Accounting Basics** (3 videos)
+- **3. 2. Most Common Financial Reports** (4 videos)
+- **4. 3. Techniques for Using Financial Reports** (5 videos)
+- **5. 4. Short-Term Financial Management** (3 videos)
+- **6. 5. Costing a Product or Service** (2 videos)
+- **7. 6. Creating a Budget** (2 videos)
+- **8. 7. Income Tax Basics** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How to make wiser business decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/how-to-make-wiser-business-decisions?u=76281980)
@@ -140,7 +143,7 @@ Interp
 > **Speakers:** - so (1)
 
 
-### 1. Finance and Accounting Basics
+### 2. 1. Finance and Accounting Basics
 
 #### The purpose of finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/the-purpose-of-finance?u=76281980)
@@ -435,7 +438,7 @@ Interp
 > **Speakers:** - so (1)
 
 
-### 2. Most Common Financial Reports
+### 3. 2. Most Common Financial Reports
 
 #### Overview of the financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980)
@@ -898,7 +901,7 @@ Interp
 > **Speakers:** - the (1)
 
 
-### 3. Techniques for Using Financial Reports
+### 4. 3. Techniques for Using Financial Reports
 
 #### What is financial ratio analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980)
@@ -1354,7 +1357,7 @@ Interp
 > **Speakers:** - we (1)
 
 
-### 4. Short-Term Financial Management
+### 5. 4. Short-Term Financial Management
 
 #### Managing cash through the operating cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/managing-cash-through-the-operating-cycle?u=76281980)
@@ -1641,7 +1644,7 @@ Interp
 > **Speakers:** - consider (1)
 
 
-### 5. Costing a Product or Service
+### 6. 5. Costing a Product or Service
 
 #### Considering costs: Fixed, variable, and contribution margin
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/considering-costs-fixed-variable-and-contribution-margin?u=76281980)
@@ -1846,7 +1849,7 @@ Interp
 > **Speakers:** - let (1)
 
 
-### 6. Creating a Budget
+### 7. 6. Creating a Budget
 
 #### Drafting a budget
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/drafting-a-budget?u=76281980)
@@ -2001,7 +2004,7 @@ Interp
 > **Speakers:** - let (1)
 
 
-### 7. Income Tax Basics
+### 8. 7. Income Tax Basics
 
 #### Understanding income taxes
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/understanding-income-taxes?u=76281980)
@@ -2296,7 +2299,7 @@ Interp
 > **Speakers:** - what (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/next-steps?u=76281980)
@@ -2341,6 +2344,14 @@ Interp
 > **CLI Commands:** find (1)
 > **Code Keywords:** function (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Finance
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - skill/jira
   - skill/agile-project-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Project%20Management%20with%20Jira%20Cloud-%202%20Lean%20and%20Agile%20Processes.md)
 
 ![Agile Project Management with Jira Cloud: 2 Lean and Agile Processes](https://media.licdn.com/dms/image/v2/C560DAQGGdkDCjLEj2g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633625073088?e=2147483647&amp;v=beta&amp;t=bDnjhfMJIalKjrKy7KK_TiIkbIA3u_PMqiZVxoQpqz0)
 
@@ -42,18 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes) | 1h 11m | Intermediate | 916K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Atlassian University]]
-
-## Skills Covered
-
-- Jira
-- Agile Project Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Lean and Agile Principles** (1 videos)
+- **3. 2. Scrum Overview** (1 videos)
+- **4. 3. Scrum Overview 2** (3 videos)
+- **5. 4. Quick Search and Basic Search** (2 videos)
+- **6. 5. Jira Query Language (JQL)** (2 videos)
+
+### 1. Introduction
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980)
@@ -105,13 +107,13 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Lean and Agile Principles
+### 2. 1. Lean and Agile Principles
 
 #### Lean and agile principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lean-and-agile-principles?u=76281980)
 
 
-### 2. Scrum Overview
+### 3. 2. Scrum Overview
 
 #### Scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980)
@@ -304,7 +306,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Scrum Overview 2
+### 4. 3. Scrum Overview 2
 
 #### Scrum overview 2
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview-2?u=76281980)
@@ -653,7 +655,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 4. Quick Search and Basic Search
+### 5. 4. Quick Search and Basic Search
 
 #### Quick search and basic search
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980)
@@ -870,7 +872,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Jira Query Language (JQL)
+### 6. 5. Jira Query Language (JQL)
 
 #### Jira Query Language (JQL)
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/jira-query-language-jql?u=76281980)
@@ -1115,6 +1117,15 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Atlassian University]]
+
+## Skills Covered
+
+- Jira
+- Agile Project Management
 
 ## Path Context
 

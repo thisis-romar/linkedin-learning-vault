@@ -23,8 +23,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Planning%20For%20The%20Remote%20First%20Work%20From%20Anywhere%20Organization.md)
 
 ![Planning For The Remote First Work From Anywhere Organization](https://media.licdn.com/dms/image/v2/C560DAQFPi97WWETmYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624289037283?e=2147483647&amp;v=beta&amp;t=p063kq5YRwETYtlBqCE_l9Fv_qeiZoutjZXBsL4ZJ6A)
 
@@ -35,13 +37,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Chris Herd]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Benefits of Remote-First Work** (3 videos)
+- **3. 2. Remote-First Models, Tools, and Obstacles** (5 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to the remote-first world
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/welcome-to-the-remote-first-world?u=76281980)
@@ -88,7 +93,7 @@ created: 2026-04-21
 > **Speakers:** - 90 (1)
 
 
-### 1. The Benefits of Remote-First Work
+### 2. 1. The Benefits of Remote-First Work
 
 #### Planning to lead the remote-first organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/planning-to-lead-the-remote-first-organization?u=76281980)
@@ -269,7 +274,7 @@ created: 2026-04-21
 > **Speakers:** - remote (1)
 
 
-### 2. Remote-First Models, Tools, and Obstacles
+### 3. 2. Remote-First Models, Tools, and Obstacles
 
 #### Asynchronous work in practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/asynchronous-work-in-practice?u=76281980)
@@ -538,7 +543,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Making remote-first work for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/making-remote-first-work-for-you?u=76281980)
@@ -569,6 +574,10 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - what (1)
 
+
+## Instructor
+
+- [[Chris Herd]]
 
 ## Path Context
 

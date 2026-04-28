@@ -7,7 +7,7 @@ course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -43,8 +43,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Develop%20with%20Python%20for%20AI%20and%20Machine%20Learning.md)
 
 # Develop with Python for AI and Machine Learning
 

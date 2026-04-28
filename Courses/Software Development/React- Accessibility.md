@@ -33,8 +33,10 @@ tags:
   - skill/react-js
   - skill/accessible-design
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/React-%20Accessibility.md)
 
 ![React: Accessibility](https://media.licdn.com/dms/image/v2/C4E0DAQGvZdsTgi_Srg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608665304497?e=2147483647&amp;v=beta&amp;t=TiWXpu9PMDzy_JO8gRLrc3dEymnfPzXqIAwSfFYZ5ns)
 
@@ -45,23 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility) | 34m | Intermediate | 40K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kiara Contreras]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Accessibility
-- React.js
-- Accessible Design
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Accessibility on the Web** (3 videos)
+- **3. 2. Keyboard Focus** (4 videos)
+- **4. 3. Mouse and Pointer Events** (2 videos)
+- **5. 4. Testing Your Application** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Accessibility in React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/accessibility-in-react?u=76281980)
@@ -95,7 +92,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 1. Accessibility on the Web
+### 2. 1. Accessibility on the Web
 
 #### The need for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980)
@@ -253,7 +250,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Keyboard Focus
+### 3. 2. Keyboard Focus
 
 #### Managing keyboard focus in React components
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980)
@@ -502,7 +499,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Mouse and Pointer Events
+### 4. 3. Mouse and Pointer Events
 
 #### Accessibility issues with mouse and pointer events
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/accessibility-issues-with-mouse-and-pointer-events?u=76281980)
@@ -665,7 +662,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Testing Your Application
+### 5. 4. Testing Your Application
 
 #### Why test your work
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/why-test-your-work?u=76281980)
@@ -955,7 +952,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Resources for web accessibility guidelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/resources-for-web-accessibility-guidelines?u=76281980)
@@ -979,6 +976,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [kiara] (1)
 
+
+## Instructor
+
+- [[Kiara Contreras]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Accessibility
+- React.js
+- Accessible Design
 
 ## Path Context
 

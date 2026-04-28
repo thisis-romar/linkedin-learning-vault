@@ -21,8 +21,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20for%20Corporate%20Finance%20Professionals.md)
 
 ![Excel for Corporate Finance Professionals](https://media.licdn.com/dms/image/v2/D560DAQFB89D-Ted8qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696279318625?e=2147483647&amp;v=beta&amp;t=TdNJTXhjPvASHBIOxgjauQYjcbHKpcmTXsVkJFTOzmU)
 
@@ -33,13 +35,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104) | 3h 18m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael McDonald]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Critical Tasks in Corporate Finance** (7 videos)
+- **3. 2. Project Selection in Excel** (8 videos)
+- **4. 3. WACC and Capital Structure in Excel** (8 videos)
+- **5. 4. Operational Budgeting in Excel** (6 videos)
+- **6. 5. Valuation in Excel** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Excel's tools for corporate finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980)
@@ -67,7 +75,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### 1. Critical Tasks in Corporate Finance
+### 2. 1. Critical Tasks in Corporate Finance
 
 #### Describe corporate finance and its purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980)
@@ -731,7 +739,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Project Selection in Excel
+### 3. 2. Project Selection in Excel
 
 #### Define a capital budgeting scenario in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/define-a-capital-budgeting-scenario-in-excel?u=76281980)
@@ -1742,7 +1750,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. WACC and Capital Structure in Excel
+### 4. 3. WACC and Capital Structure in Excel
 
 #### Capital structure in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/capital-structure-in-excel?u=76281980)
@@ -2721,7 +2729,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Operational Budgeting in Excel
+### 5. 4. Operational Budgeting in Excel
 
 #### Introduce operational budgeting in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980)
@@ -3383,7 +3391,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Valuation in Excel
+### 6. 5. Valuation in Excel
 
 #### Valuation of assets in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980)
@@ -4025,7 +4033,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continue your corporate finance journey with Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980)
@@ -4071,6 +4079,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - all (1)
 
+
+## Instructor
+
+- [[Michael McDonald]]
 
 ## Path Context
 

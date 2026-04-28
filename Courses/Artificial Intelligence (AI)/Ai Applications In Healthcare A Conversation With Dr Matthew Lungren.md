@@ -20,8 +20,10 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Ai%20Applications%20In%20Healthcare%20A%20Conversation%20With%20Dr%20Matthew%20Lungren.md)
 
 ![Ai Applications In Healthcare A Conversation With Dr Matthew Lungren](https://media.licdn.com/dms/image/v2/D560DAQH6m5EBkLn5Sw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716398773401?e=2147483647&amp;v=beta&amp;t=ttEURzXsHE-pyUKXL4cEB1XwgQ3VcRmE9O9pJUNLc-U)
 
@@ -34,7 +36,15 @@ created: 2026-04-21
 
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What is AI's Impact on Patient Care?** (3 videos)
+- **3. 2. How Does AI Impact Workflow Efficency and Data Management?** (3 videos)
+- **4. 3. What Are the Ethical Considerations of Using AI in Healthcare?** (5 videos)
+- **5. 4. What's the Future of AI in Healthcare?** (2 videos)
+
+### 1. Introduction
 
 #### Generative AI is revolutionizing healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980)
@@ -91,7 +101,7 @@ created: 2026-04-21
 > **Env Vars:** ucsf (1)
 
 
-### 1. What is AI's Impact on Patient Care?
+### 2. 1. What is AI's Impact on Patient Care?
 
 #### How does AI affect the patient experience?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980)
@@ -328,7 +338,7 @@ created: 2026-04-21
 > **Env Vars:** gpt (1)
 
 
-### 2. How Does AI Impact Workflow Efficency and Data Management?
+### 3. 2. How Does AI Impact Workflow Efficency and Data Management?
 
 #### What bottlenecks can AI solve in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-bottlenecks-can-ai-can-solve-in-healthcare?u=76281980)
@@ -482,7 +492,7 @@ created: 2026-04-21
 > **Env Vars:** gpt (1)
 
 
-### 3. What Are the Ethical Considerations of Using AI in Healthcare?
+### 4. 3. What Are the Ethical Considerations of Using AI in Healthcare?
 
 #### What are the ethical concerns of AI in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980)
@@ -879,7 +889,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 4. What's the Future of AI in Healthcare?
+### 5. 4. What's the Future of AI in Healthcare?
 
 #### What is the future of AI in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980)

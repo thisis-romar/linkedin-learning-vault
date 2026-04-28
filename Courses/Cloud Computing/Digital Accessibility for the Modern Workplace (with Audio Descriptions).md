@@ -26,8 +26,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Digital%20Accessibility%20for%20the%20Modern%20Workplace%20(with%20Audio%20Descriptions).md)
 
 ![Digital Accessibility for the Modern Workplace (with Audio Descriptions)](https://media.licdn.com/dms/image/v2/C4E0DAQF2CyoY8WT7aw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621371775308?e=2147483647&amp;v=beta&amp;t=bc9Qedujt56PIWV2eMYuTmAjuJVZgNut-0iSgpAd-ec)
 
@@ -38,13 +40,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions) | 57m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Hector Minto]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Accessibility** (4 videos)
+- **3. 2. Disability Types and Solutions** (4 videos)
+- **4. 3. Developing Accessible Experiences** (5 videos)
+- **5. 4. Accessibility Best Practices** (2 videos)
+
+### 1. Introduction
 
 #### Accessibility at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/accessibility-at-work?u=76281980)
@@ -102,7 +108,7 @@ created: 2026-04-21
 > **Non-Speech:** (gentle music) (1)
 
 
-### 1. Understanding Accessibility
+### 2. 1. Understanding Accessibility
 
 #### Importance of accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/importance-of-accessibility?u=76281980)
@@ -432,7 +438,7 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 
 
-### 2. Disability Types and Solutions
+### 3. 2. Disability Types and Solutions
 
 #### Hearing accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/hearing-accessibility?u=76281980)
@@ -997,7 +1003,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 3. Developing Accessible Experiences
+### 4. 3. Developing Accessible Experiences
 
 #### Developing accessible experiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/developing-accessible-experiences?u=76281980)
@@ -1465,7 +1471,7 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 
 
-### 4. Accessibility Best Practices
+### 5. 4. Accessibility Best Practices
 
 #### Accessibility best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/accessibility-best-practices?u=76281980)
@@ -1622,6 +1628,10 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Hector Minto]]
 
 ## Path Context
 

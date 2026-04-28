@@ -30,38 +30,30 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/JavaScript-%20Closures.md)
 
 ![JavaScript: Closures](https://media.licdn.com/dms/image/v2/D560DAQFM8NmFGPie5A/learning-public-crop_675_1200/B56ZbF5RbaH4Ac-/0/1747076847988?e=2147483647&amp;v=beta&amp;t=AjaxURIqeODtdOfN9NsylOFZ9k01k8DyLbvbObc0UyE)
 
 # JavaScript: Closures
 
-> Suggested prerequisites
-
-Familiarity with JavaScript programming
-
-Closures—a core concept for intermediate and advanced JavaScript developers—can be challenging for many developers to wrap their heads around. In this concise course, Sasha Vodnik breaks down this essential concept, explaining what closures are and how to use them in JavaScript.
-This course includes Code Challenges powered by CoderP
+> Suggested prerequisites Familiarity with JavaScript programming Closures—a core concept for intermediate and advanced JavaScript developers—can be challenging for many developers to wrap their heads around. In this concise course, Sasha Vodnik breaks down this essential concept, explaining what closures are and how to use them in JavaScript. This course includes Code Challenges powered by CoderPad
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures) | 57m | Intermediate | 44K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sasha Vodnik]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Building Blocks of Closures** (5 videos)
+- **3. 2. Creating and Using Closures** (4 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using closures in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/using-closures-in-javascript-22184726?u=76281980)
@@ -298,7 +290,7 @@ This course includes Code Challenges powered by CoderP
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Building Blocks of Closures
+### 2. 1. Building Blocks of Closures
 
 #### Local and global scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980)
@@ -774,7 +766,7 @@ This course includes Code Challenges powered by CoderP
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/solution-create-a-closure-using-a-nested-function?u=76281980)
 
 
-### 2. Creating and Using Closures
+### 3. 2. Creating and Using Closures
 
 #### Implement the module pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980)
@@ -1168,7 +1160,7 @@ This course includes Code Challenges powered by CoderP
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Continuing to learn closures
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/continuing-to-learn-closures?u=76281980)
@@ -1191,6 +1183,18 @@ This course includes Code Challenges powered by CoderP
 >
 > **Speakers:** - [sasha] (1)
 
+
+## Instructor
+
+- [[Sasha Vodnik]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- JavaScript
 
 ## Path Context
 

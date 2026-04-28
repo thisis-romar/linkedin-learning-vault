@@ -34,8 +34,10 @@ tags:
   - skill/debugging-code
   - skill/angular
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Angular-%20Testing%20and%20Debugging.md)
 
 ![Angular: Testing and Debugging](https://media.licdn.com/dms/image/v2/C560DAQHE8peKcX_-XA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619631876852?e=2147483647&amp;v=beta&amp;t=TR_-M5cw5CjbnUMaTtkSmj4HWyaRd8SRPeYMwpUWJQU)
 
@@ -46,24 +48,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318) | 2h 16m | Intermediate | 39K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Derek Peruo]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/Angular-2875342)
-
-## Skills Covered
-
-- Software Testing
-- Debugging Code
-- Angular
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (3 videos)
+- **3. 2. How Angular Reports Errors** (6 videos)
+- **4. 3. Common Syntax Errors** (10 videos)
+- **5. 4. Common Async Errors** (4 videos)
+- **6. 5. Unit Testing in Angular** (8 videos)
+- **7. 6. End-to-End Testing in Angular** (6 videos)
+- **8. 7. Static Code Linting in Angular** (5 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Angular: Testing and debugging
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980)
@@ -191,7 +190,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Application overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980)
@@ -424,7 +423,7 @@ created: 2026-04-21
 > **Cross-References:** earlier in (1)
 
 
-### 2. How Angular Reports Errors
+### 3. 2. How Angular Reports Errors
 
 #### Error handling in Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/error-handling-in-angular?u=76281980)
@@ -779,7 +778,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 3. Common Syntax Errors
+### 4. 3. Common Syntax Errors
 
 #### Adding a local storage service
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980)
@@ -1645,7 +1644,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Common Async Errors
+### 5. 4. Common Async Errors
 
 #### Getting data using REST requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980)
@@ -2090,7 +2089,7 @@ created: 2026-04-21
 > **Best Practices:** good practice (1)
 
 
-### 5. Unit Testing in Angular
+### 6. 5. Unit Testing in Angular
 
 #### Testing overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980)
@@ -2914,7 +2913,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 6. End-to-End Testing in Angular
+### 7. 6. End-to-End Testing in Angular
 
 #### Basic Protractor configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980)
@@ -3447,7 +3446,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Static Code Linting in Angular
+### 8. 7. Static Code Linting in Angular
 
 #### Installing and running ESLint
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980)
@@ -3942,7 +3941,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/next-steps?u=76281980)
@@ -3972,6 +3971,21 @@ created: 2026-04-21
 > **Env Vars:** api (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Derek Peruo]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/Angular-2875342)
+
+## Skills Covered
+
+- Software Testing
+- Debugging Code
+- Angular
 
 ## Path Context
 

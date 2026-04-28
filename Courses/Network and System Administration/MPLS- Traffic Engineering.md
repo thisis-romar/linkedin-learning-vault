@@ -36,8 +36,10 @@ tags:
   - skill/computer-network-operations
   - skill/engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/MPLS-%20Traffic%20Engineering.md)
 
 ![MPLS: Traffic Engineering](https://media.licdn.com/dms/image/v2/D560DAQGOiMlUOjiP6g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730746939496?e=2147483647&amp;v=beta&amp;t=FLQ-YHCAJbVOgdxDx1icIyb755fKUIagZb3GB7y2Xn8)
 
@@ -48,21 +50,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering) | 2h 35m | Advanced | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Arash Deljoo]]
-
-## Skills Covered
-
-- Telecommunications
-- Multiprotocol Label Switching (MPLS)
-- Traffic Engineering
-- Computer Network Operations
-- Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. MPLS TE Foundation** (2 videos)
+- **3. 2. MPLS TE Components** (3 videos)
+- **4. 3. MPLS TE Configuration** (7 videos)
+- **5. 4. Advanced MPLS TE Features** (7 videos)
+- **6. 5. MPLS TE Fast Reroute (FRR)** (5 videos)
+- **7. 6. Cost Calculation of IGP Routes over TE Tunnels** (5 videos)
+- **8. 7. MPLS TE and MPLS VPN** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Boost your MPLS skill set with traffic engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/boost-your-mpls-skillset-with-traffic-engineering?u=76281980)
@@ -93,7 +95,7 @@ created: 2026-04-21
 > **Speakers:** - [arash] (1)
 
 
-### 1. MPLS TE Foundation
+### 2. 1. MPLS TE Foundation
 
 #### Traffic engineering introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980)
@@ -244,7 +246,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. MPLS TE Components
+### 3. 2. MPLS TE Components
 
 #### Routing protocol requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/routing-protocol-requirement?u=76281980)
@@ -418,7 +420,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. MPLS TE Configuration
+### 4. 3. MPLS TE Configuration
 
 #### MPLS TE generic configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980)
@@ -1027,7 +1029,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Advanced MPLS TE Features
+### 5. 4. Advanced MPLS TE Features
 
 #### MPLS TE auto-bandwidth
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980)
@@ -1662,7 +1664,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. MPLS TE Fast Reroute (FRR)
+### 6. 5. MPLS TE Fast Reroute (FRR)
 
 #### MPLS TE Fast Reroute for link protection: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-i?u=76281980)
@@ -2049,7 +2051,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Cost Calculation of IGP Routes over TE Tunnels
+### 7. 6. Cost Calculation of IGP Routes over TE Tunnels
 
 #### TE tunnels default cost calculation
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980)
@@ -2370,7 +2372,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. MPLS TE and MPLS VPN
+### 8. 7. MPLS TE and MPLS VPN
 
 #### VRF-to-TE tunnel routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980)
@@ -2563,7 +2565,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980)
@@ -2597,6 +2599,18 @@ created: 2026-04-21
 > **Env Vars:** mpls (4)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Arash Deljoo]]
+
+## Skills Covered
+
+- Telecommunications
+- Multiprotocol Label Switching (MPLS)
+- Traffic Engineering
+- Computer Network Operations
+- Engineering
 
 ## Path Context
 

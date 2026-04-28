@@ -32,8 +32,10 @@ tags:
   - skill/microservices
   - skill/spring-boot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Creating%20Spring%20Boot%20Microservices.md)
 
 ![Creating Spring Boot Microservices](https://media.licdn.com/dms/image/v2/D560DAQGP3Ee7Z9yRyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719009004889?e=2147483647&amp;v=beta&amp;t=hxWhfegk-y7A0sXENAf2PH1PBy8D85fApuwx3ItteTw)
 
@@ -44,23 +46,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices) | 3h 16m | Intermediate | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mary Ellen Bowman]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/creating-spring-boot-microservices-3839084/codespaces)
-
-## Skills Covered
-
-- Microservices
-- Spring Boot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Spring Framework Introduction** (5 videos)
+- **3. 2. Create a Spring Boot Microservice** (5 videos)
+- **4. 3. Leverage Spring-Data-JPA Repository Interfaces** (8 videos)
+- **5. 4. Expose RESTful API's with Spring Data REST** (6 videos)
+- **6. 5. Expose RESTful API's with Spring MVC** (7 videos)
+- **7. 6. Best Practices** (5 videos)
+- **8. 7. Dockerized Microservices and Databases** (4 videos)
+- **9. 8. Create a RESTful MongoDB Microservice** (5 videos)
+- **10. 9. Create an API Gateway with Spring Cloud** (6 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build a RESTful Spring Boot microservice
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980)
@@ -224,7 +226,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Spring Framework Introduction
+### 2. 1. Spring Framework Introduction
 
 #### Inversion of control pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980)
@@ -522,7 +524,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Create a Spring Boot Microservice
+### 3. 2. Create a Spring Boot Microservice
 
 #### Introduction to Spring Initializr
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980)
@@ -799,7 +801,7 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 
 
-### 3. Leverage Spring-Data-JPA Repository Interfaces
+### 4. 3. Leverage Spring-Data-JPA Repository Interfaces
 
 #### The domain model
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-domain-model?u=76281980)
@@ -1370,7 +1372,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Expose RESTful API's with Spring Data REST
+### 5. 4. Expose RESTful API's with Spring Data REST
 
 #### Create APIs with Spring Data REST
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-apis-with-spring-data-rest?u=76281980)
@@ -1674,7 +1676,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Expose RESTful API's with Spring MVC
+### 6. 5. Expose RESTful API's with Spring MVC
 
 #### Choosing the right framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980)
@@ -2301,7 +2303,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Best Practices
+### 7. 6. Best Practices
 
 #### Global exception handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/global-exception-handling?u=76281980)
@@ -2911,7 +2913,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Dockerized Microservices and Databases
+### 8. 7. Dockerized Microservices and Databases
 
 #### Why Docker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980)
@@ -3346,7 +3348,7 @@ created: 2026-04-21
 > **File Paths:** palm.xml (1)
 
 
-### 8. Create a RESTful MongoDB Microservice
+### 9. 8. Create a RESTful MongoDB Microservice
 
 #### Use cases for an image microservice
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-a-image-microservice?u=76281980)
@@ -3649,7 +3651,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Create an API Gateway with Spring Cloud
+### 10. 9. Create an API Gateway with Spring Cloud
 
 #### Use cases for an API gateway microservice
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980)
@@ -4233,7 +4235,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980)
@@ -4255,6 +4257,20 @@ created: 2026-04-21
 > **CLI Commands:** docker (2)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Mary Ellen Bowman]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/creating-spring-boot-microservices-3839084/codespaces)
+
+## Skills Covered
+
+- Microservices
+- Spring Boot
 
 ## Path Context
 

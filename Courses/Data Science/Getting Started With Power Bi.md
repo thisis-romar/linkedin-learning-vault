@@ -24,8 +24,10 @@ tags:
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Getting%20Started%20With%20Power%20Bi.md)
 
 ![Getting Started With Power Bi](https://media.licdn.com/dms/image/v2/D4E0DAQHuXzYvTPCGjg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724438301839?e=2147483647&amp;v=beta&amp;t=VsTkq8xMPyUW1gIEIVHOAcrV3UKAfJTkPkOtYUiyago)
 
@@ -36,17 +38,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076) | Beginner | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Power BI
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Get Started with Power BI** (3 videos)
+- **3. 2. Explore a Power BI Sample App** (5 videos)
+- **4. 3. Work with Power BI Reports** (11 videos)
+- **5. 4. Work with Power BI Dashboards** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Analyze and visualize your business data
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/analyze-and-visualize-your-business-data?u=76281980)
@@ -189,7 +192,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Get Started with Power BI
+### 2. 1. Get Started with Power BI
 
 #### Power BI: Key concepts for consumers
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980)
@@ -426,7 +429,7 @@ created: 2026-04-21
 > **Speakers:** - [gini] (1)
 
 
-### 2. Explore a Power BI Sample App
+### 3. 2. Explore a Power BI Sample App
 
 #### Data and Power BI Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980)
@@ -917,7 +920,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Work with Power BI Reports
+### 4. 3. Work with Power BI Reports
 
 #### Cross-filter visuals and show a data table
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/cross-filter-visuals-and-show-a-data-table?u=76281980)
@@ -1692,7 +1695,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Work with Power BI Dashboards
+### 5. 4. Work with Power BI Dashboards
 
 #### Power BI reports vs. dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-reports-vs-dashboards?u=76281980)
@@ -2182,7 +2185,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Power BI next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-next-steps?u=76281980)
@@ -2223,6 +2226,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [gini] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Power BI
 
 ## Path Context
 

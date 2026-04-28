@@ -22,8 +22,10 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20Fundamentals%20for%20Healthcare.md)
 
 ![Deep Learning Fundamentals for Healthcare](https://media.licdn.com/dms/image/v2/D4E0DAQHLvL9ul_FWwg/learning-public-crop_675_1200/B4EZWHE3d5HUAg-/0/1741727955118?e=2147483647&amp;v=beta&amp;t=X49Enfvm0NEG5-tyAzBPLpEkIog97lJ06DyJAT8zbfc)
 
@@ -34,13 +36,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare) | 2h 26m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wuraola Oyewusi]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Deep Learning for Healthcare** (10 videos)
+- **3. 2. Computer Vision for Healthcare** (10 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with deep learning for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/getting-started-with-deep-learning-for-healthcare?u=76281980)
@@ -93,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Introduction to Deep Learning for Healthcare
+### 2. 1. Introduction to Deep Learning for Healthcare
 
 #### What is deep learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980)
@@ -1115,7 +1120,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Computer Vision for Healthcare
+### 3. 2. Computer Vision for Healthcare
 
 #### Introduction to computer vision in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980)
@@ -2615,7 +2620,7 @@ created: 2026-04-21
 > **Tools:** colab (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980)
@@ -2646,6 +2651,10 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Wuraola Oyewusi]]
 
 ## Path Context
 

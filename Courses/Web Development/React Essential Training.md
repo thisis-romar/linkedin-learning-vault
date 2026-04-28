@@ -49,8 +49,10 @@ tags:
   - skill/front-end-development
   - skill/react-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React%20Essential%20Training.md)
 
 ![React Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQEQanBdlbYzZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726774657221?e=2147483647&amp;v=beta&amp;t=yktxYBcQLZ2WYzA9ECIEtxeMGUIPGrloWk7OBWPjJJg)
 
@@ -61,24 +63,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training) | 1h 45m | Beginner | 37K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eve Porcello]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/react-essential-training-5949338/codespaces)
-
-## Skills Covered
-
-- Web Development
-- Front-End Development
-- React.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. React Fundamentals** (5 videos)
+- **3. 2. Creating React Elements** (6 videos)
+- **4. 3. Writing React Components** (4 videos)
+- **5. 4. Handling State in a React Project** (6 videos)
+- **6. 5. React Server Components** (5 videos)
+- **7. 6. Asynchronous React in Next.js** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building modern user interfaces with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980)
@@ -158,7 +156,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. React Fundamentals
+### 2. 1. React Fundamentals
 
 #### What is React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980)
@@ -416,7 +414,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creating React Elements
+### 3. 2. Creating React Elements
 
 #### Initializing a project with Vite
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980)
@@ -801,7 +799,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Writing React Components
+### 4. 3. Writing React Components
 
 #### Working with lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/working-with-lists?u=76281980)
@@ -1113,7 +1111,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Handling State in a React Project
+### 5. 4. Handling State in a React Project
 
 #### Destructuring arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980)
@@ -1561,7 +1559,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. React Server Components
+### 6. 5. React Server Components
 
 #### Creating a project with Next.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980)
@@ -1967,7 +1965,7 @@ created: 2026-04-21
 > **Ports:** :3000 (1)
 
 
-### 6. Asynchronous React in Next.js
+### 7. 6. Asynchronous React in Next.js
 
 #### Fetching data in React applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980)
@@ -2561,7 +2559,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Designing performant apps with React Server Components
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980)
@@ -2601,6 +2599,21 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Eve Porcello]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/react-essential-training-5949338/codespaces)
+
+## Skills Covered
+
+- Web Development
+- Front-End Development
+- React.js
 
 ## Path Context
 

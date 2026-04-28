@@ -26,27 +26,33 @@ tags:
   - topic/it-help-desk
   - topic/security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Lean%20Foundations.md)
 
 ![Lean Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQEBAe2Ejf5zWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614383169024?e=2147483647&amp;v=beta&amp;t=1Af7JXg1f5g1jiF0_KXEmW4JScjR96N9F-XvzJP5grc)
 
 # Lean Foundations
 
-> Learn about lean: an operations management approach that means creating more value for customers with fewer resources. A lean organization understands customer value and focuses its key processes to continuously increase it. The ultimate goal is to provide perfect value to the customer through a value creation process that has zero waste. 
-
-Lean concepts have been successfully applied to every asp
+> Learn about lean: an operations management approach that means creating more value for customers with fewer resources. A lean organization understands customer value and focuses its key processes to continuously increase it. The ultimate goal is to provide perfect value to the customer through a value creation process that has zero waste. Lean concepts have been successfully applied to every aspec
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations) | 1h 36m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Steven Brown]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Lean Defined** (3 videos)
+- **3. 2. Lean Processes** (7 videos)
+- **4. 3. Lean Manufacturing** (7 videos)
+- **5. 4. Lean Services** (4 videos)
+- **6. 5. Lean Thinking** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Trim the fat by going lean
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/trim-the-fat-by-going-lean?u=76281980)
@@ -75,7 +81,7 @@ Lean concepts have been successfully applied to every asp
 > **Speakers:** - in (1)
 
 
-### 1. Lean Defined
+### 2. 1. Lean Defined
 
 #### What is lean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/what-is-lean-10016083?u=76281980)
@@ -298,7 +304,7 @@ Lean concepts have been successfully applied to every asp
 > **Speakers:** - i (1)
 
 
-### 2. Lean Processes
+### 3. 2. Lean Processes
 
 #### Process mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/process-mapping-10019051?u=76281980)
@@ -943,7 +949,7 @@ Lean concepts have been successfully applied to every asp
 > **Analogies:** for example (1)
 
 
-### 3. Lean Manufacturing
+### 4. 3. Lean Manufacturing
 
 #### Demand-driven business
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980)
@@ -1522,7 +1528,7 @@ Lean concepts have been successfully applied to every asp
 > **Speakers:** - henry (1)
 
 
-### 4. Lean Services
+### 5. 4. Lean Services
 
 #### Lean delivery
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980)
@@ -1835,7 +1841,7 @@ Lean concepts have been successfully applied to every asp
 > **Speakers:** - when (1)
 
 
-### 5. Lean Thinking
+### 6. 5. Lean Thinking
 
 #### The lean culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/the-lean-culture-10019050?u=76281980)
@@ -2189,7 +2195,7 @@ Lean concepts have been successfully applied to every asp
 > **Speakers:** - according (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Go leaner
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/go-leaner?u=76281980)
@@ -2239,6 +2245,10 @@ Lean concepts have been successfully applied to every asp
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Steven Brown]]
 
 ## Path Context
 

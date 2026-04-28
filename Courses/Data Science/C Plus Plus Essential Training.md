@@ -25,8 +25,10 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/C%20Plus%20Plus%20Essential%20Training.md)
 
 ![C Plus Plus Essential Training](https://media.licdn.com/dms/image/v2/C560DAQH9DHDlH2Ei4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661965908511?e=2147483647&amp;v=beta&amp;t=V6UjwbN20mEGb1MWEOrmu-RUV2wRmi3IvZnf6A_CBD8)
 
@@ -37,17 +39,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801) | Beginner | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- C++
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Toolchain and Installation** (3 videos)
+- **3. 2. The Basics** (6 videos)
+- **4. 3. Flow Control** (4 videos)
+- **5. 4. Data Types** (11 videos)
+- **6. 5. Operators** (6 videos)
+- **7. 6. Functions** (6 videos)
+- **8. 7. Classes and Objects** (8 videos)
+- **9. 8. Templates** (5 videos)
+- **10. 9. Standard Template Library** (7 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980)
@@ -270,7 +278,7 @@ created: 2026-04-21
 > **Tools:** firefox (1)
 
 
-### 1. Toolchain and Installation
+### 2. 1. Toolchain and Installation
 
 #### The C++ toolchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980)
@@ -614,7 +622,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Basics
+### 3. 2. The Basics
 
 #### Basic syntax
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/basic-syntax?u=76281980)
@@ -1273,7 +1281,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Flow Control
+### 4. 3. Flow Control
 
 #### Conditionals
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/conditionals?u=76281980)
@@ -1826,7 +1834,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data Types
+### 5. 4. Data Types
 
 #### Overview of data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-data-types?u=76281980)
@@ -2825,7 +2833,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 5. Operators
+### 6. 5. Operators
 
 #### Common operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/common-operators?u=76281980)
@@ -3333,7 +3341,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Functions
+### 7. 6. Functions
 
 #### Overview of C++ functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-c-plus-plus-functions?u=76281980)
@@ -3948,7 +3956,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Classes and Objects
+### 8. 7. Classes and Objects
 
 #### Overview of classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-classes-and-objects?u=76281980)
@@ -4800,7 +4808,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Templates
+### 9. 8. Templates
 
 #### Understanding templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/understanding-templates?u=76281980)
@@ -5218,7 +5226,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 9. Standard Template Library
+### 10. 9. Standard Template Library
 
 #### Overview of the STL
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-the-stl?u=76281980)
@@ -5882,7 +5890,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/thank-you?u=76281980)
@@ -5923,6 +5931,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- C++
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/e-commerce
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Foundations-%20Ecommerce.md)
 
 ![Marketing Foundations: Ecommerce](https://media.licdn.com/dms/image/v2/C560DAQEkrUJuLfFUWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637690787097?e=2147483647&amp;v=beta&amp;t=2vEEP-G4rTTwqTKWS6WzxNLzhpdpWfywV_DCzU5TBpg)
 
@@ -40,17 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600) | 1h 1m | Beginner | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sam Dey]]
-
-## Skills Covered
-
-- E-Commerce
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Pillars of Ecommerce** (4 videos)
+- **3. 2. Niche Marketing in Ecommerce** (4 videos)
+- **4. 3. Free Traffic for Ecommerce** (5 videos)
+- **5. 4. Paid Traffic for Ecommerce** (4 videos)
+- **6. 5. Increasing Conversions for Ecommerce** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Unlocking key principles and strategies of ecommerce marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/unlocking-key-principles-and-strategies-of-ecommerce-marketing?u=76281980)
@@ -80,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - literally (1)
 
 
-### 1. The Pillars of Ecommerce
+### 2. 1. The Pillars of Ecommerce
 
 #### Ecommerce customer research
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980)
@@ -395,7 +399,7 @@ created: 2026-04-21
 > **Speakers:** - maximizing (1)
 
 
-### 2. Niche Marketing in Ecommerce
+### 3. 2. Niche Marketing in Ecommerce
 
 #### The customer journey in ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980)
@@ -664,7 +668,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. Free Traffic for Ecommerce
+### 4. 3. Free Traffic for Ecommerce
 
 #### Navigating free traffic in ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980)
@@ -1018,7 +1022,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Paid Traffic for Ecommerce
+### 5. 4. Paid Traffic for Ecommerce
 
 #### Driving paid traffic for ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980)
@@ -1261,7 +1265,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Increasing Conversions for Ecommerce
+### 6. 5. Increasing Conversions for Ecommerce
 
 #### Website conversions in ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980)
@@ -1389,7 +1393,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing your ecommerce learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/continuing-your-ecommerce-learning?u=76281980)
@@ -1411,6 +1415,14 @@ created: 2026-04-21
 > **Code Keywords:** continue (1), this, (1)
 > **Speakers:** - a (1)
 
+
+## Instructor
+
+- [[Sam Dey]]
+
+## Skills Covered
+
+- E-Commerce
 
 ## Path Context
 

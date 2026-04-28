@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/business-decision-making
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Removing%20Noise%20and%20Bias%20from%20Strategic%20Decision-Making.md)
 
 ![Removing Noise and Bias from Strategic Decision-Making](https://media.licdn.com/dms/image/v2/C4E0DAQGkURAPPR45Cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644607484634?e=2147483647&amp;v=beta&amp;t=-MuAYXmGY33GfQRIBIx1W6JfQ60QQu7h8Q_vKfk70S8)
 
@@ -40,21 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making) | 1h 11m | Advanced | 663K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Becki Saltzman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Business Decision Making
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Recognizing Decision Noise** (4 videos)
+- **3. 2. Reducing Decision Bias** (5 videos)
+- **4. 3. Performing Decision Hygiene** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What causes strategic decision errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/what-causes-strategic-decision-errors?u=76281980)
@@ -335,7 +333,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 1. Recognizing Decision Noise
+### 2. 1. Recognizing Decision Noise
 
 #### What causes noise?
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/what-causes-noise?u=76281980)
@@ -675,7 +673,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 2. Reducing Decision Bias
+### 3. 2. Reducing Decision Bias
 
 #### Avoiding the cascade bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/avoiding-the-cascade-bias?u=76281980)
@@ -1113,7 +1111,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 3. Performing Decision Hygiene
+### 4. 3. Performing Decision Hygiene
 
 #### Becoming a decision architect
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/becoming-a-decision-architect?u=76281980)
@@ -1526,7 +1524,7 @@ created: 2026-04-21
 > **Speakers:** - strategic (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Making personal strategic decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-personal-strategic-decisions?u=76281980)
@@ -1609,6 +1607,18 @@ created: 2026-04-21
 > **Best Practices:** the key is (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Becki Saltzman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Business Decision Making
 
 ## Path Context
 

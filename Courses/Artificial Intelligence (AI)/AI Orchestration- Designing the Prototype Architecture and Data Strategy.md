@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Designing%20the%20Prototype%20Architecture%20and%20Data%20Strategy.md)
 
 ![AI Orchestration: Designing the Prototype Architecture and Data Strategy](https://media.licdn.com/dms/image/v2/D4D0DAQHs-INNarhuTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736980752740?e=2147483647&amp;v=beta&amp;t=Mw_7vS8pH6Kk3AZftOrQnK16QKmOxNchFHkFg5eh9e8)
 
@@ -47,21 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy) | 1h 45m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Noah Gift]]
-- [[Pragmatic AI Labs]]
-
-## Skills Covered
-
-- Data Strategies
-- System Architecture
-- Artificial Intelligence (AI)
-- AI Orchestration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Prompt Engineering Fundamentals** (3 videos)
+- **3. 2. AI Systems and Architecture** (4 videos)
+- **4. 3. Tools and Implementation** (16 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980)
@@ -294,7 +292,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Prompt Engineering Fundamentals
+### 2. 1. Prompt Engineering Fundamentals
 
 #### Prompt engineering pyramid
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980)
@@ -626,7 +624,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. AI Systems and Architecture
+### 3. 2. AI Systems and Architecture
 
 #### Explaining chain of thought Rust prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980)
@@ -952,7 +950,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 3. Tools and Implementation
+### 4. 3. Tools and Implementation
 
 #### Llamafile getting started Gemma
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980)
@@ -2285,7 +2283,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980)
@@ -2339,6 +2337,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Noah Gift]]
+- [[Pragmatic AI Labs]]
+
+## Skills Covered
+
+- Data Strategies
+- System Architecture
+- Artificial Intelligence (AI)
+- AI Orchestration
 
 ## Path Context
 

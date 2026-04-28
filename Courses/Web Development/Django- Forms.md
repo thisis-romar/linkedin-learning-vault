@@ -30,8 +30,10 @@ tags:
   - skill/django
   - skill/forms
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Django-%20Forms.md)
 
 ![Django: Forms](https://media.licdn.com/dms/image/v2/C4E0DAQGIybL6hwI1ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118168888?e=2147483647&amp;v=beta&amp;t=6sXjFadBV2wV4s_I-hxSAyfkKqWCZ5rsWnoEIi8P748)
 
@@ -42,22 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms) | 2h | Intermediate | 38K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nick Walter]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Django
-- Forms
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started with Forms** (6 videos)
+- **3. 2. Working with Advanced Form Features** (10 videos)
+- **4. 3. Customizing and Styling Form Appearance** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Deep dive into Django forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/deep-dive-into-django-forms?u=76281980)
@@ -172,7 +169,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Getting Started with Forms
+### 2. 1. Getting Started with Forms
 
 #### Starting a new project
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980)
@@ -765,7 +762,7 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 
 
-### 2. Working with Advanced Form Features
+### 3. 2. Working with Advanced Form Features
 
 #### Adding models
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980)
@@ -1723,7 +1720,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Customizing and Styling Form Appearance
+### 4. 3. Customizing and Styling Form Appearance
 
 #### Local validation and errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980)
@@ -2461,7 +2458,7 @@ created: 2026-04-21
 > **Exercise Files:** template (1), exercise files (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980)
@@ -2507,6 +2504,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [nick] (1)
 
+
+## Instructor
+
+- [[Nick Walter]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Django
+- Forms
 
 ## Path Context
 

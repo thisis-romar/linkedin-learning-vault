@@ -30,8 +30,10 @@ tags:
   - skill/prototyping
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Welcome%20To%20The%20Building%20Ai%20Products%20Prototyping%20Essentials%20Professional%20Certificate.md)
 
 ![Welcome To The Building Ai Products Prototyping Essentials Professional Certificate](https://media.licdn.com/dms/image/v2/D4D0DAQFXMQADjwKTDw/learning-public-crop_675_1200/B4DZYXU5s6G8Ac-/0/1744148077622?e=2147483647&amp;v=beta&amp;t=ThlFvR0tkfeXhbbw9f6YK6tB9hM59Rtne8wiLXiLuW8)
 
@@ -42,19 +44,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-prototyping-essentials-professional-certificate) | Beginner | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
+## Table of Contents
+
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+
+### 1. Introduction
+
+#### Building AI products: Prototyping essentials
+> [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-prototyping-essentials-professional-certificate/building-ai-products-prototyping-essentials?u=76281980)
+
+
 ## Skills Covered
 
 - AI Software Development
 - Prototyping
 - Artificial Intelligence (AI)
-
-## Table of Contents
-
-### Introduction
-
-#### Building AI products: Prototyping essentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-prototyping-essentials-professional-certificate/building-ai-products-prototyping-essentials?u=76281980)
-
 
 ## Path Context
 

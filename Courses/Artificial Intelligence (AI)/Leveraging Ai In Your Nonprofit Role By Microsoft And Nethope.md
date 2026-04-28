@@ -28,8 +28,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/nonprofit-organizations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20Ai%20In%20Your%20Nonprofit%20Role%20By%20Microsoft%20And%20Nethope.md)
 
 ![Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope](https://media.licdn.com/dms/image/v2/D560DAQGlw8gXfFnpJQ/learning-public-crop_675_1200/B56Z0bzOfaJgAY-/0/1774287907434?e=2147483647&amp;v=beta&amp;t=VZXOKyka2fhmfzgepEfl59dVBDhho9_vEvG_J8mGXig)
 
@@ -40,19 +42,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope) | Beginner | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Non-profit Technology
-- Artificial Intelligence (AI)
-- Nonprofit Organizations
-
 ## Table of Contents
 
-### 1. AI Foundations for Nonprofits
+### Chapter Overview
+
+- **1. 1. AI Foundations for Nonprofits** (6 videos)
+- **2. 2. Mission-Driven AI Examples for Nonprofits** (5 videos)
+- **3. 3. Working Smarter with AI in Your Nonprofit Role** (7 videos)
+
+### 1. 1. AI Foundations for Nonprofits
 
 #### Training the eye for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/training-the-eye-for-ai?u=76281980)
@@ -503,7 +501,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 2. Mission-Driven AI Examples for Nonprofits
+### 2. 2. Mission-Driven AI Examples for Nonprofits
 
 #### Supporting people and expanding possibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/supporting-people-expanding-possibilities?u=76281980)
@@ -767,7 +765,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 3. Working Smarter with AI in Your Nonprofit Role
+### 3. 3. Working Smarter with AI in Your Nonprofit Role
 
 #### Expanding responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/expanding-responsibilities?u=76281980)
@@ -1239,6 +1237,16 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Tools:** notion (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Non-profit Technology
+- Artificial Intelligence (AI)
+- Nonprofit Organizations
 
 ## Path Context
 

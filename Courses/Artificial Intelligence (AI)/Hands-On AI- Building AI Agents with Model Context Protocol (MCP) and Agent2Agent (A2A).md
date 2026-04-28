@@ -30,8 +30,10 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20Building%20AI%20Agents%20with%20Model%20Context%20Protocol%20(MCP)%20and%20Agent2Agent%20(A2A).md)
 
 ![Hands-On AI: Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)](https://media.licdn.com/dms/image/v2/D4E0DAQEk9eDDyM1BhA/learning-public-crop_675_1200/B4EZh7TqMEGoAY-/0/1754415408708?e=2147483647&amp;v=beta&amp;t=0dIpyFdMLLo4p4eAU1B14BV_ODp9xNq3_9Urb76tFBQ)
 
@@ -42,24 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a) | 1h 40m | 28K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a-6055298/codespaces)
-
-## Skills Covered
-
-- Generative AI
-- AI Agents
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Model Context Protocol** (6 videos)
+- **3. 2. A Simple MCP App** (5 videos)
+- **4. 3. HR Policy Agent with MCP** (4 videos)
+- **5. 4. HR Timeoff Agent with MCP** (4 videos)
+- **6. 5. Introduction to Agent2Agent Protocol** (6 videos)
+- **7. 6. Build a Multi-Agent HR App with A2A** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why MCP and A2A?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/why-mcp-a2a?u=76281980)
@@ -83,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Introduction to Model Context Protocol
+### 2. 1. Introduction to Model Context Protocol
 
 #### What is Model Context Protocol?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980)
@@ -504,7 +502,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. A Simple MCP App
+### 3. 2. A Simple MCP App
 
 #### MCP SDKs
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980)
@@ -809,7 +807,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. HR Policy Agent with MCP
+### 4. 3. HR Policy Agent with MCP
 
 #### HR policy agent design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980)
@@ -1041,7 +1039,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 4. HR Timeoff Agent with MCP
+### 5. 4. HR Timeoff Agent with MCP
 
 #### HR timeoff agent design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-timeoff-agent-design?u=76281980)
@@ -1346,7 +1344,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Introduction to Agent2Agent Protocol
+### 6. 5. Introduction to Agent2Agent Protocol
 
 #### What is A2A?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980)
@@ -1793,7 +1791,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Build a Multi-Agent HR App with A2A
+### 7. 6. Build a Multi-Agent HR App with A2A
 
 #### HR multi-agent assistant design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-multi-agent-assistant-design?u=76281980)
@@ -2153,7 +2151,7 @@ created: 2026-04-21
 > **UI Navigation:** switch to (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Recommended next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/recommended-next-steps?u=76281980)
@@ -2185,6 +2183,21 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a-6055298/codespaces)
+
+## Skills Covered
+
+- Generative AI
+- AI Agents
+- Artificial Intelligence (AI)
 
 ## Path Context
 

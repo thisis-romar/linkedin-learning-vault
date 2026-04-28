@@ -30,8 +30,10 @@ tags:
   - skill/react-native
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/React%20Native%20Ecosystem%20and%20Workflow.md)
 
 ![React Native Ecosystem and Workflow](https://media.licdn.com/dms/image/v2/C560DAQGEEn--XFsCTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635785778554?e=2147483647&amp;v=beta&amp;t=fus2y0O4KAA_AtBGz9Tb1uPfGWcoizv_ujBLpQ4WMR8)
 
@@ -42,18 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050) | 37m | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Skills Covered
-
-- React Native
-- Cross-platform Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The React Native UI Libraries** (5 videos)
+- **3. 2. Development Resources** (2 videos)
+- **4. 3. Backend Options for a React Native Project** (2 videos)
+- **5. 4. Testing Your App** (1 videos)
+- **6. 5. Deploying to the Stores** (1 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Explore React Native's ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/explore-react-native-s-ecosystem?u=76281980)
@@ -104,7 +107,7 @@ created: 2026-04-21
 > **Speakers:** - [emmanuel] (1)
 
 
-### 1. The React Native UI Libraries
+### 2. 1. The React Native UI Libraries
 
 #### Overview of Facebook's own React starter
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/overview-of-facebook-s-own-react-starter?u=76281980)
@@ -377,7 +380,7 @@ created: 2026-04-21
 > **Tools:** github (1)
 
 
-### 2. Development Resources
+### 3. 2. Development Resources
 
 #### Full-stack frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/full-stack-frameworks?u=76281980)
@@ -512,7 +515,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Backend Options for a React Native Project
+### 4. 3. Backend Options for a React Native Project
 
 #### Firebase: A best-of-class cloud backend
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/firebase-a-best-of-class-cloud-backend?u=76281980)
@@ -657,7 +660,7 @@ created: 2026-04-21
 > **File Paths:** express.js (1)
 
 
-### 4. Testing Your App
+### 5. 4. Testing Your App
 
 #### Jest: A React testing library
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/jest-a-react-testing-library?u=76281980)
@@ -720,7 +723,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 5. Deploying to the Stores
+### 6. 5. Deploying to the Stores
 
 #### Apple and Android stores
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/apple-and-android-stores?u=76281980)
@@ -793,7 +796,7 @@ created: 2026-04-21
 > **Prerequisites:** make sure you have (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Expo and React navigation libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/expo-and-react-navigation-libraries?u=76281980)
@@ -867,6 +870,15 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [emmanuel] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Skills Covered
+
+- React Native
+- Cross-platform Development
 
 ## Path Context
 

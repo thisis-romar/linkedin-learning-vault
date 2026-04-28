@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-ethics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Ethical%20Data%20Collection%20for%20AI%20Implementation.md)
 
 ![Ethical Data Collection for AI Implementation](https://media.licdn.com/dms/image/v2/D4E0DAQE6Tsl_hateww/learning-public-crop_675_1200/B4EZl4cdeBGoAY-/0/1758662352119?e=2147483647&amp;v=beta&amp;t=JcBECtFfdSuCQsLQRDO_Z2ofJeEz7q8tE3yWYbFJmHw)
 
@@ -45,20 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation) | 53m | Intermediate | 726K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dr. Brandeis Marshall]]
-
-## Skills Covered
-
-- Data Collection
-- Responsible AI
-- Artificial Intelligence (AI)
-- Data Ethics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Balancing Effectiveness and Ethics** (4 videos)
+- **3. 2. Ethical Strategies for Responsible Data Collection** (4 videos)
+- **4. 3. Practical Concerns Blocking Responsible Data Collection** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Ethics comes before the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/ethics-comes-before-the-data?u=76281980)
@@ -83,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 1. Balancing Effectiveness and Ethics
+### 2. 1. Balancing Effectiveness and Ethics
 
 #### Defining ethical objectives and key results
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980)
@@ -409,7 +408,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 2. Ethical Strategies for Responsible Data Collection
+### 3. 2. Ethical Strategies for Responsible Data Collection
 
 #### Obtaining explicit and ongoing data collection consent
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980)
@@ -703,7 +702,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 3. Practical Concerns Blocking Responsible Data Collection
+### 4. 3. Practical Concerns Blocking Responsible Data Collection
 
 #### Violating data privacy regulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980)
@@ -1031,7 +1030,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/next-steps?u=76281980)
@@ -1062,6 +1061,17 @@ created: 2026-04-21
 >
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Dr. Brandeis Marshall]]
+
+## Skills Covered
+
+- Data Collection
+- Responsible AI
+- Artificial Intelligence (AI)
+- Data Ethics
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Google%20Cloud%20Professional%20Machine%20Learning%20Engineer%20Cert%20Prep.md)
 
 ![Google Cloud Professional Machine Learning Engineer Cert Prep](https://media.licdn.com/dms/image/v2/D4E0DAQGV9XdiKGomAg/learning-public-crop_675_1200/B4EZVy5hT6HgAY-/0/1741389436793?e=2147483647&amp;v=beta&amp;t=540XKFsgq4lfZNtW86QhOthcuRiwGdnOwYzGvW6c6Bc)
 
@@ -40,15 +42,39 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep) | Advanced | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-- Google Cloud Platform (GCP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Translating Business Challenges into ML Use Cases** (3 videos)
+- **3. 2. Defining ML Problems** (5 videos)
+- **4. 3. Defining Business Success Criteria** (1 videos)
+- **5. 4. Identifying Risks to Feasibility of ML Solutions** (3 videos)
+- **6. 5. Conclusion: Framing ML Problems** (1 videos)
+- **7. 6. Introduction: Architecting a ML Solution** (3 videos)
+- **8. 7. Designing a Reliable, Scalable, and Highly Available ML Solution** (5 videos)
+- **9. 8. Choosing Appropriate Google Cloud Hardware Components** (4 videos)
+- **10. 9. Conclusion: Architecting a ML Solution** (1 videos)
+- **11. 10. Introduction: Designing Data Preparation and Processing Systems** (3 videos)
+- **12. 11. Exploring Data** (4 videos)
+- **13. 12. Building Data Pipelines** (5 videos)
+- **14. 13. Creating Input Features** (3 videos)
+- **15. 14. Conclusion: Designing Data Preparation and Processing Systems** (1 videos)
+- **16. 15. Introduction: Developing ML Models** (2 videos)
+- **17. 16. Building Models** (3 videos)
+- **18. 17. Training Models** (3 videos)
+- **19. 18. Scaling Model Training and Serving** (12 videos)
+- **20. 19. Conclusion: Developing ML Models** (1 videos)
+- **21. 20. Introduction: Automating and Orchestrating ML Pipelines** (2 videos)
+- **22. 21. Designing and Implementing Training Pipelines** (5 videos)
+- **23. 22. Implementing Serving Pipelines** (3 videos)
+- **24. 23. Conclusion: Automating and Orchestrating ML Pipelines** (1 videos)
+- **25. 24. Introduction: Monitoring, Optimizing, and Maintaining ML Solutions** (2 videos)
+- **26. 25. ML Solutions** (13 videos)
+- **27. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course and Google Professional Machine Learning Engineer exam overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980)
@@ -244,7 +270,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 1. Translating Business Challenges into ML Use Cases
+### 2. 1. Translating Business Challenges into ML Use Cases
 
 #### Building AI-enabled workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-ai-enabled-workflows?u=76281980)
@@ -333,7 +359,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/teaching-mlops-at-scale-with-github?u=76281980)
 
 
-### 2. Defining ML Problems
+### 3. 2. Defining ML Problems
 
 #### Simulations vs. experiment tracking
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980)
@@ -639,7 +665,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Defining Business Success Criteria
+### 4. 3. Defining Business Success Criteria
 
 #### Defining business success criteria
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/defining-business-success-criteria?u=76281980)
@@ -693,7 +719,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Identifying Risks to Feasibility of ML Solutions
+### 5. 4. Identifying Risks to Feasibility of ML Solutions
 
 #### MLOps hierarchy of needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980)
@@ -839,13 +865,13 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion: Framing ML Problems
+### 6. 5. Conclusion: Framing ML Problems
 
 #### Framing ML problems: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps?u=76281980)
 
 
-### 6. Introduction: Architecting a ML Solution
+### 7. 6. Introduction: Architecting a ML Solution
 
 #### Architecting a ML solution: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980)
@@ -1042,7 +1068,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 7. Designing a Reliable, Scalable, and Highly Available ML Solution
+### 8. 7. Designing a Reliable, Scalable, and Highly Available ML Solution
 
 #### What is continuous delivery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980)
@@ -1183,7 +1209,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/learn-continuous-integration?u=76281980)
 
 
-### 8. Choosing Appropriate Google Cloud Hardware Components
+### 9. 8. Choosing Appropriate Google Cloud Hardware Components
 
 #### Selecting heavy vs. light MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980)
@@ -1376,7 +1402,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 9. Conclusion: Architecting a ML Solution
+### 10. 9. Conclusion: Architecting a ML Solution
 
 #### Architecting a ML solution: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980)
@@ -1426,7 +1452,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 10. Introduction: Designing Data Preparation and Processing Systems
+### 11. 10. Introduction: Designing Data Preparation and Processing Systems
 
 #### Designing data preparation and processing systems: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980)
@@ -1700,7 +1726,7 @@ created: 2026-04-21
 > **Analogies:** for example (4)
 
 
-### 11. Exploring Data
+### 12. 11. Exploring Data
 
 #### What is Google Colab?
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980)
@@ -2097,7 +2123,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 12. Building Data Pipelines
+### 13. 12. Building Data Pipelines
 
 #### Labeling data
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/labeling-data?u=76281980)
@@ -2380,7 +2406,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 13. Creating Input Features
+### 14. 13. Creating Input Features
 
 #### Feature engineering concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-engineering-concepts?u=76281980)
@@ -2710,7 +2736,7 @@ created: 2026-04-21
 > **SQL:** select (2)
 
 
-### 14. Conclusion: Designing Data Preparation and Processing Systems
+### 15. 14. Conclusion: Designing Data Preparation and Processing Systems
 
 #### Designing data preparation and processing systems: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980)
@@ -2754,7 +2780,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 15. Introduction: Developing ML Models
+### 16. 15. Introduction: Developing ML Models
 
 #### Developing ML models: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980)
@@ -2857,7 +2883,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 16. Building Models
+### 17. 16. Building Models
 
 #### Using TensorFlow Playground
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-tensorflow-playground?u=76281980)
@@ -3030,7 +3056,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 17. Training Models
+### 18. 17. Training Models
 
 #### Training models with TensorFlow and a GPU-enabled Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980)
@@ -3210,7 +3236,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 18. Scaling Model Training and Serving
+### 19. 18. Scaling Model Training and Serving
 
 #### Operationalize microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980)
@@ -4722,7 +4748,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 19. Conclusion: Developing ML Models
+### 20. 19. Conclusion: Developing ML Models
 
 #### Developing ML models: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980)
@@ -4763,7 +4789,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 20. Introduction: Automating and Orchestrating ML Pipelines
+### 21. 20. Introduction: Automating and Orchestrating ML Pipelines
 
 #### Automating and orchestrating ML pipelines: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980)
@@ -4879,7 +4905,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 21. Designing and Implementing Training Pipelines
+### 22. 21. Designing and Implementing Training Pipelines
 
 #### Prompt engineering for Google BigQuery with ChatGPT 4
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980)
@@ -5412,7 +5438,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 22. Implementing Serving Pipelines
+### 23. 22. Implementing Serving Pipelines
 
 #### TensorFlow serving with a GPU-enabled Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980)
@@ -5895,7 +5921,7 @@ created: 2026-04-21
 > **Exercise Files:** source code (1)
 
 
-### 23. Conclusion: Automating and Orchestrating ML Pipelines
+### 24. 23. Conclusion: Automating and Orchestrating ML Pipelines
 
 #### Automating and orchestrating ML pipelines: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980)
@@ -5936,7 +5962,7 @@ created: 2026-04-21
 > **Speakers:** - gcp (1)
 
 
-### 24. Introduction: Monitoring, Optimizing, and Maintaining ML Solutions
+### 25. 24. Introduction: Monitoring, Optimizing, and Maintaining ML Solutions
 
 #### Monitoring, optimizing, and maintaining ML solutions: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24567440?u=76281980)
@@ -6037,7 +6063,7 @@ created: 2026-04-21
 > **Analogies:** think of it as (1)
 
 
-### 25. ML Solutions
+### 26. 25. ML Solutions
 
 #### Data drift explained by the naughty child problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-drift-explained-by-naughty-child-problem?u=76281980)
@@ -7327,7 +7353,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1), set up (1)
 
 
-### Conclusion
+### 27. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980)
@@ -7457,6 +7483,12 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
+- Google Cloud Platform (GCP)
 
 ## Path Context
 

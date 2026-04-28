@@ -28,8 +28,10 @@ tags:
   - skill/microsoft-365
   - skill/team-collaboration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Team%20Collaboration%20in%20Microsoft%20365.md)
 
 ![Team Collaboration in Microsoft 365](https://media.licdn.com/dms/image/v2/C560DAQEc1VhMuLmyWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1659380883006?e=2147483647&amp;v=beta&amp;t=SH8ZFt-IIRr3pB0os1n6t-vSGLTZGpDlZuJDgsHqTfM)
 
@@ -40,18 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365) | 1h 28m | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nick Brazzi]]
-
-## Skills Covered
-
-- Microsoft 365
-- Team Collaboration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understand Microsoft 365 Accounts and Core Services** (4 videos)
+- **3. 2. Tools for Team Collaboration** (7 videos)
+- **4. 3. File Storage and Sharing** (5 videos)
+- **5. 4. Edit Word, Excel, and PowerPoint Documents Collaboratively** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn team collaboration tools in Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980)
@@ -81,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - [nick] (1)
 
 
-### 1. Understand Microsoft 365 Accounts and Core Services
+### 2. 1. Understand Microsoft 365 Accounts and Core Services
 
 #### Identify which Microsoft 365 services you have
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980)
@@ -455,7 +457,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Tools for Team Collaboration
+### 3. 2. Tools for Team Collaboration
 
 #### Use groups for email in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980)
@@ -1267,7 +1269,7 @@ created: 2026-04-21
 > **Speakers:** - [nick] (1)
 
 
-### 3. File Storage and Sharing
+### 4. 3. File Storage and Sharing
 
 #### Understand cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980)
@@ -1769,7 +1771,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Edit Word, Excel, and PowerPoint Documents Collaboratively
+### 5. 4. Edit Word, Excel, and PowerPoint Documents Collaboratively
 
 #### Edit Word, Excel, and PowerPoint documents online
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980)
@@ -2114,7 +2116,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Learn more about Microsoft 365 applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980)
@@ -2162,6 +2164,15 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** install (1)
 
+
+## Instructor
+
+- [[Nick Brazzi]]
+
+## Skills Covered
+
+- Microsoft 365
+- Team Collaboration
 
 ## Path Context
 

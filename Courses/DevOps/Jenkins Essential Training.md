@@ -29,8 +29,10 @@ tags:
   - topic/devops
   - skill/jenkins
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jenkins%20Essential%20Training.md)
 
 ![Jenkins Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQEDVgLCVeGAvQ/learning-public-crop_675_1200/B4DZvz7mc8JwAY-/0/1769324046816?e=2147483647&amp;v=beta&amp;t=XEGcqxHZ_4MT2HQkWzM-YVJoaNoZg5f9sG0OGYvlE_Y)
 
@@ -41,22 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152) | 2h 35m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Jenkins]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/essential-jenkins-2468076)
-
-## Skills Covered
-
-- Jenkins
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Jenkins and DevOps** (3 videos)
+- **3. 2. The Jenkins Pipeline** (8 videos)
+- **4. 3. Integrate Jenkins with Version Control Systems** (6 videos)
+- **5. 4. Agents and Distributed Builds** (5 videos)
+- **6. 5. Artifacts and Testing** (5 videos)
+- **7. 6. Securing Jenkins** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### From code to production with Jenkins
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980)
@@ -132,7 +132,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Jenkins and DevOps
+### 2. 1. Jenkins and DevOps
 
 #### Jenkins and the DevOps lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980)
@@ -500,7 +500,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (2), coming up (1)
 
 
-### 2. The Jenkins Pipeline
+### 3. 2. The Jenkins Pipeline
 
 #### Create a pipeline project
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-pipeline-project?u=76281980)
@@ -1378,7 +1378,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (3)
 
 
-### 3. Integrate Jenkins with Version Control Systems
+### 4. 3. Integrate Jenkins with Version Control Systems
 
 #### Pipeline as code with Jenkinsfile
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980)
@@ -2006,7 +2006,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (4)
 
 
-### 4. Agents and Distributed Builds
+### 5. 4. Agents and Distributed Builds
 
 #### Distribute builds with agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980)
@@ -2472,7 +2472,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Artifacts and Testing
+### 6. 5. Artifacts and Testing
 
 #### Artifacts and fingerprinting
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/artifacts-and-fingerprinting?u=76281980)
@@ -3027,7 +3027,7 @@ created: 2026-04-21
 > **File Paths:** test-com.learningjenkins.apptest.xml (1)
 
 
-### 6. Securing Jenkins
+### 7. 6. Securing Jenkins
 
 #### Secure Jenkins with user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980)
@@ -3510,7 +3510,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/next-steps?u=76281980)
@@ -3538,6 +3538,19 @@ created: 2026-04-21
 > **Env Vars:** aws (2)
 > **Speakers:** - [michael] (1)
 
+
+## Instructor
+
+- [[Michael Jenkins]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/essential-jenkins-2468076)
+
+## Skills Covered
+
+- Jenkins
 
 ## Path Context
 

@@ -35,8 +35,10 @@ tags:
   - skill/python-programming-language
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python-%20Working%20with%20Predictive%20Analytics.md)
 
 ![Python: Working with Predictive Analytics](https://media.licdn.com/dms/image/v2/D4E0DAQGnpbINgk4ROw/learning-public-crop_675_1200/B4EZUki09UHMAY-/0/1740074864720?e=2147483647&amp;v=beta&amp;t=9b9vA2zFDZ8I5mfSvuZbDRA8gi2-XqtKYgPlAspSe2I)
 
@@ -47,23 +49,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500) | 2h 13m | Intermediate | 46K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Isil Berkun]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/python-working-with-predictive-analytics-3965373/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Predictive Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Data Preprocessing** (8 videos)
+- **3. 2. Predictive Models** (11 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Predict data in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980)
@@ -351,7 +346,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Data Preprocessing
+### 2. 1. Data Preprocessing
 
 #### Differentiate data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/differentiate-data-types?u=76281980)
@@ -1666,7 +1661,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Predictive Models
+### 3. 2. Predictive Models
 
 #### Introduction to predictive models
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980)
@@ -2939,7 +2934,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps in Python and predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980)
@@ -2977,6 +2972,20 @@ created: 2026-04-21
 > **Code Keywords:** class. (1)
 > **Speakers:** - congrats (1)
 
+
+## Instructor
+
+- [[Isil Berkun]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/python-working-with-predictive-analytics-3965373/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Predictive Analytics
 
 ## Path Context
 

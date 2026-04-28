@@ -35,8 +35,10 @@ tags:
   - skill/convolutional-neural-networks-cnn
   - skill/deep-learning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20Python-%20Convolutional%20Neural%20Networks.md)
 
 ![Deep Learning with Python: Convolutional Neural Networks](https://media.licdn.com/dms/image/v2/D4E0DAQEkUgFwxz9nxA/learning-public-crop_675_1200/B4EZd__HrXHgAg-/0/1750198942772?e=2147483647&amp;v=beta&amp;t=7US34NHV6L_lyhRJ-fRB8RgTwT-HgdzJL4TUZrRqWGw)
 
@@ -47,25 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks) | 1h 34m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Frederick Nwanganga]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/deep-learning-with-python-convolutional-neural-networks-3930067/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Artificial Intelligence (AI)
-- Convolutional Neural Networks (CNN)
-- Deep Learning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Computer Vision** (5 videos)
+- **3. 2. CNNs** (5 videos)
+- **4. 3. Image Classification with CNNs** (3 videos)
+- **5. 4. CNN Architectures** (5 videos)
+- **6. 5. Common Computer Vision Tasks** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using convolutional neural networks (CNNs) with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-convolutional-neural-networks-with-python?u=76281980)
@@ -171,7 +167,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Computer Vision
+### 2. 1. Computer Vision
 
 #### What is computer vision?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-computer-vision?u=76281980)
@@ -516,7 +512,7 @@ created: 2026-04-21
 > **Speakers:** - [person] (1)
 
 
-### 2. CNNs
+### 3. 2. CNNs
 
 #### CNNs
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolutional-neural-networks?u=76281980)
@@ -812,7 +808,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Image Classification with CNNs
+### 4. 3. Image Classification with CNNs
 
 #### Preparing to build a CNN in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980)
@@ -1053,7 +1049,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. CNN Architectures
+### 5. 4. CNN Architectures
 
 #### VGGNet
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/vggnet?u=76281980)
@@ -1423,7 +1419,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Common Computer Vision Tasks
+### 6. 5. Common Computer Vision Tasks
 
 #### What is image classification?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980)
@@ -1800,7 +1796,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing with deep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/continuing-on-with-deep-learning?u=76281980)
@@ -1851,6 +1847,22 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Frederick Nwanganga]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/deep-learning-with-python-convolutional-neural-networks-3930067/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Artificial Intelligence (AI)
+- Convolutional Neural Networks (CNN)
+- Deep Learning
 
 ## Path Context
 

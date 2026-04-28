@@ -37,8 +37,10 @@ tags:
   - topic/security
   - skill/strategic-thinking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Thinking.md)
 
 ![Strategic Thinking](https://media.licdn.com/dms/image/v2/D560DAQGJFjBHlbRjaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687911200974?e=2147483647&amp;v=beta&amp;t=UTkulsN-j1uuWiLXWOWH9LU8yvvXRhhy0bciWN-xk_Y)
 
@@ -49,17 +51,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141) | 53m | 207K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dorie Clark]]
-
-## Skills Covered
-
-- Strategic Thinking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Setting the Stage for Strategic Thinking** (4 videos)
+- **3. 2. Developing Your Strategic Thinking** (4 videos)
+- **4. 3. Implementing Strategic Thinking** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/welcome-strategic-thinking?u=76281980)
@@ -85,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 1. Setting the Stage for Strategic Thinking
+### 2. 1. Setting the Stage for Strategic Thinking
 
 #### Embrace the strategic thinking mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980)
@@ -425,7 +427,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 2. Developing Your Strategic Thinking
+### 3. 2. Developing Your Strategic Thinking
 
 #### Consider the future and learn from the past
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/consider-the-future-and-learn-from-the-past-29714002?u=76281980)
@@ -700,7 +702,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Implementing Strategic Thinking
+### 4. 3. Implementing Strategic Thinking
 
 #### Strategic thinking with your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980)
@@ -1003,7 +1005,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Make strategic thinking a habit
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980)
@@ -1030,6 +1032,14 @@ created: 2026-04-21
 > **URLs:** [dorieclark.com](https://dorieclark.com) (1)
 > **Speakers:** - strategic (1)
 
+
+## Instructor
+
+- [[Dorie Clark]]
+
+## Skills Covered
+
+- Strategic Thinking
 
 ## Path Context
 

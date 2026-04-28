@@ -23,8 +23,10 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Developing%20Chatbots%20with%20Azure.md)
 
 ![Developing Chatbots with Azure](https://media.licdn.com/dms/image/v2/C4E0DAQE1knp7LibUCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611696632946?e=2147483647&amp;v=beta&amp;t=0IWVucb1KvT1xojB_0-VjEc2Gx36l0kftKQE-b7otrs)
 
@@ -35,13 +37,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure) | 1h 2m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bhavani Ravi]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Chatbots** (2 videos)
+- **3. 2. Chatbot Terminology and Architecture** (5 videos)
+- **4. 3. Design a Chatbot** (4 videos)
+- **5. 4. Enhancing Your Chatbot Actions** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Chatbots are revolutionizing the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbots-are-revolutionizing-the-web?u=76281980)
@@ -72,7 +79,7 @@ created: 2026-04-21
 > **Speakers:** - [bhavani] (1)
 
 
-### 1. Introduction to Chatbots
+### 2. 1. Introduction to Chatbots
 
 #### What is a chatbot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/what-is-a-chatbot?u=76281980)
@@ -163,7 +170,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Chatbot Terminology and Architecture
+### 3. 2. Chatbot Terminology and Architecture
 
 #### Components of a chatbot system
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980)
@@ -410,7 +417,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Design a Chatbot
+### 4. 3. Design a Chatbot
 
 #### Designing conversation for chatbots
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980)
@@ -710,7 +717,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Enhancing Your Chatbot Actions
+### 5. 4. Enhancing Your Chatbot Actions
 
 #### Setting up the Azure account and building an echobot
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980)
@@ -1511,7 +1518,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Advancing the chatbot ladder
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980)
@@ -1555,6 +1562,10 @@ created: 2026-04-21
 > **Code Keywords:** try. (1), interface (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Bhavani Ravi]]
 
 ## Path Context
 

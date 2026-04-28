@@ -45,8 +45,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Prepare%20for%20the%20Google%20Cloud%20Digital%20Leader%20Certification.md)
 
 # Prepare for the Google Cloud Digital Leader Certification
 

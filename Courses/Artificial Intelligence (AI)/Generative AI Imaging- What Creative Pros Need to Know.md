@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/conditional-image-generation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20Imaging-%20What%20Creative%20Pros%20Need%20to%20Know.md)
 
 ![Generative AI Imaging: What Creative Pros Need to Know](https://media.licdn.com/dms/image/v2/D560DAQHf8YoKJmxsRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680541077730?e=2147483647&amp;v=beta&amp;t=IBBoK3aycTQMYg3k0-ombbNnm1hwtmhboR6d2JKL_G0)
 
@@ -47,19 +49,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know) | 48m | Beginner | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ben Long]]
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- Artificial Intelligence (AI)
-- Conditional Image Generation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The World of AI Imaging** (9 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get ready for AI imaging
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/get-ready-for-ai-imaging?u=76281980)
@@ -117,7 +115,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. The World of AI Imaging
+### 2. 1. The World of AI Imaging
 
 #### AI in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980)
@@ -1060,7 +1058,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Some final thoughts on AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980)
@@ -1143,6 +1141,16 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Ben Long]]
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- Artificial Intelligence (AI)
+- Conditional Image Generation
 
 ## Path Context
 

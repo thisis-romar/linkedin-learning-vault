@@ -25,8 +25,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Prepare%20for%20the%20Google%20Cloud%20Professional%20Machine%20Learning%20Engineer%20Certification.md)
 
 # Prepare for the Google Cloud Professional Machine Learning Engineer Certification
 

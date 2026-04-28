@@ -28,8 +28,10 @@ tags:
   - topic/cloud-computing
   - skill/onenote
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/OneNote%20for%20Windows%2010%20Essential%20Training.md)
 
 ![OneNote for Windows 10 Essential Training](https://media.licdn.com/dms/image/v2/C560DAQEsN6ckB0ymNw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643743825941?e=2147483647&amp;v=beta&amp;t=LiL6Z1wsAuv8tVnDe0LmJFXrmxsYWC9RoS52TKh5bW0)
 
@@ -40,17 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022) | 1h 23m | Beginner | 75K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Heather Severino]]
-
-## Skills Covered
-
-- OneNote
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Set Up and Organize Your Notebooks** (5 videos)
+- **3. 2. Working with Sections** (4 videos)
+- **4. 3. Working with Pages** (4 videos)
+- **5. 4. Formatting Typed Notes and Lists** (5 videos)
+- **6. 5. Creating Audio, Handwritten, and Other Types of Notes** (5 videos)
+- **7. 6. Importing Content from Other Apps** (2 videos)
+- **8. 7. Managing and Searching Notebooks** (5 videos)
+- **9. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Stay organized with OneNote
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980)
@@ -162,7 +168,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Set Up and Organize Your Notebooks
+### 2. 1. Set Up and Organize Your Notebooks
 
 #### Create a notebook stored in OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980)
@@ -519,7 +525,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Working with Sections
+### 3. 2. Working with Sections
 
 #### Create a section
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-section?u=76281980)
@@ -813,7 +819,7 @@ created: 2026-04-21
 > **Non-Speech:** (keyboard typing) (1)
 
 
-### 3. Working with Pages
+### 4. 3. Working with Pages
 
 #### Create, move, and delete a page
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-move-and-delete-a-page?u=76281980)
@@ -1078,7 +1084,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Formatting Typed Notes and Lists
+### 5. 4. Formatting Typed Notes and Lists
 
 #### Apply the look of other content to text
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980)
@@ -1455,7 +1461,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Creating Audio, Handwritten, and Other Types of Notes
+### 6. 5. Creating Audio, Handwritten, and Other Types of Notes
 
 #### Copy and paste a link to a paragraph
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/copy-and-paste-a-link-to-a-paragraph?u=76281980)
@@ -1934,7 +1940,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 6. Importing Content from Other Apps
+### 7. 6. Importing Content from Other Apps
 
 #### Embed videos
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980)
@@ -2079,7 +2085,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Managing and Searching Notebooks
+### 8. 7. Managing and Searching Notebooks
 
 #### Tag notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/tag-notes?u=76281980)
@@ -2325,7 +2331,7 @@ created: 2026-04-21
 > **Speakers:** - [heather] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Keyboard shortcuts and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980)
@@ -2492,6 +2498,14 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - [heather] (1)
 
+
+## Instructor
+
+- [[Heather Severino]]
+
+## Skills Covered
+
+- OneNote
 
 ## Path Context
 

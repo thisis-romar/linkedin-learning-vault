@@ -37,8 +37,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Visualization%20for%20Data%20Analysts%20and%20Analytics.md)
 
 ![Data Visualization for Data Analysts and Analytics](https://media.licdn.com/dms/image/v2/D560DAQFZjD_YqAd38g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719009007927?e=2147483647&amp;v=beta&amp;t=5_Z11HxxtZlZAkEassl49FrQLVMx6OmLgcrPumaNTMI)
 
@@ -49,13 +51,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics) | 1h 44m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bill Shander]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Why** (4 videos)
+- **3. 2. Visual Analysis in Six Easy Lessons** (6 videos)
+- **4. 3. Visual Communication in 10 Easy Lessons** (10 videos)
+- **5. 4. In Practice** (3 videos)
+- **6. 5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Moving from analysis to visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/moving-from-analasys-to-visualization?u=76281980)
@@ -82,7 +89,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Why
+### 2. 1. Why
 
 #### Humans are visual creatures
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/humans-are-visual-creatures?u=76281980)
@@ -574,7 +581,7 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 
 
-### 2. Visual Analysis in Six Easy Lessons
+### 3. 2. Visual Analysis in Six Easy Lessons
 
 #### Where to begin? Matrix heatmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980)
@@ -900,7 +907,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Visual Communication in 10 Easy Lessons
+### 4. 3. Visual Communication in 10 Easy Lessons
 
 #### Using the right data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980)
@@ -2089,7 +2096,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 4. In Practice
+### 5. 4. In Practice
 
 #### Finding the missing link with visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/finding-the-missing-link-with-visuals?u=76281980)
@@ -2712,7 +2719,7 @@ created: 2026-04-21
 > **Versions:** 15.5 (1)
 
 
-### 5. Conclusion
+### 6. 5. Conclusion
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980)
@@ -2751,6 +2758,10 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)
 
+
+## Instructor
+
+- [[Bill Shander]]
 
 ## Path Context
 

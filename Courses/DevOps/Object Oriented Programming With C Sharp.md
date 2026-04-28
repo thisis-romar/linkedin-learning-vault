@@ -29,8 +29,10 @@ tags:
   - skill/object-oriented-programming-oop
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Object%20Oriented%20Programming%20With%20C%20Sharp.md)
 
 ![Object Oriented Programming With C Sharp](https://media.licdn.com/dms/image/v2/C4D0DAQGKWU3GX_YEGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670017170734?e=2147483647&amp;v=beta&amp;t=b8FGcliiH_m3b1RKNbS_mTA7QoOETpP4ws0LWmlyyNs)
 
@@ -41,19 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514) | Intermediate | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/object-oriented-programming-with-c-sharp-2484213)
-
-## Skills Covered
-
-- Object-Oriented Programming (OOP)
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Using .NET 6** (3 videos)
+- **3. 2. Scope** (3 videos)
+- **4. 3. Command Pattern** (6 videos)
+- **5. 4. Overriding Methods** (5 videos)
+- **6. 5. Interfaces** (6 videos)
+- **7. 6. Interaction** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Programming an object-oriented text adventure game
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/programming-an-object-oriented-text-adventure-game?u=76281980)
@@ -106,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Using .NET 6
+### 2. 1. Using .NET 6
 
 #### Setting up .NET 6
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980)
@@ -381,7 +384,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 2. Scope
+### 3. 2. Scope
 
 #### Scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/scope?u=76281980)
@@ -700,7 +703,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 3. Command Pattern
+### 4. 3. Command Pattern
 
 #### The room
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/the-room?u=76281980)
@@ -1211,7 +1214,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Overriding Methods
+### 5. 4. Overriding Methods
 
 #### Creating rooms
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-rooms?u=76281980)
@@ -1667,7 +1670,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Interfaces
+### 6. 5. Interfaces
 
 #### Items
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/items?u=76281980)
@@ -2198,7 +2201,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 6. Interaction
+### 7. 6. Interaction
 
 #### Creating a key and gold
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-key-and-gold?u=76281980)
@@ -2627,7 +2630,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continuing with C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980)
@@ -2651,6 +2654,16 @@ created: 2026-04-21
 > **Env Vars:** net (1)
 > **Speakers:** - [jesse] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/object-oriented-programming-with-c-sharp-2484213)
+
+## Skills Covered
+
+- Object-Oriented Programming (OOP)
+- C#
 
 ## Path Context
 

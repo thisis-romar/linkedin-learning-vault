@@ -34,8 +34,10 @@ tags:
   - topic/web-development
   - skill/java-database-connectivity-jdbc
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20JDBC.md)
 
 ![Learning JDBC](https://media.licdn.com/dms/image/v2/D560DAQELGCBArDCkxg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728506593128?e=2147483647&amp;v=beta&amp;t=QZavY1s7ezWzBCxyr4UqF-uajftjI1IbfHDDZFzLg-g)
 
@@ -46,22 +48,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410) | 2h 3m | Beginner | 39K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Frank P Moley III]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-jdbc-2725172)
-
-## Skills Covered
-
-- Java Database Connectivity (JDBC)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introducing Java Data Access** (7 videos)
+- **3. 2. Data Access Basics** (11 videos)
+- **4. 3. Advanced Data Access** (6 videos)
+- **5. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Get going with data access in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/get-going-with-data-access-in-java?u=76281980)
@@ -147,7 +144,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introducing Java Data Access
+### 2. 1. Introducing Java Data Access
 
 #### Relational database management systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980)
@@ -701,7 +698,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Data Access Basics
+### 3. 2. Data Access Basics
 
 #### Using a driver
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980)
@@ -1737,7 +1734,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced Data Access
+### 4. 3. Advanced Data Access
 
 #### Using stored procedures
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980)
@@ -2243,7 +2240,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### JPA and ORM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980)
@@ -2358,6 +2355,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Frank P Moley III]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-jdbc-2725172)
+
+## Skills Covered
+
+- Java Database Connectivity (JDBC)
 
 ## Path Context
 

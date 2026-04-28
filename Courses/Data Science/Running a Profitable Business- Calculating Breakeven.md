@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/break-even-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Running%20a%20Profitable%20Business-%20Calculating%20Breakeven.md)
 
 ![Running a Profitable Business: Calculating Breakeven](https://media.licdn.com/dms/image/v2/C4E0DAQHGHvNnPJP-bg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648239343283?e=2147483647&amp;v=beta&amp;t=ClY1fA7D_BU1ci3oTIBtBvHnpGyVa-2DtfcvWiQLycU)
 
@@ -40,22 +42,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven) | 1h 19m | Intermediate | 70K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jim Stice]]
-- [[Kay Stice]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Break-even Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Importance of Analysis** (2 videos)
+- **3. 2. Types of Costs** (4 videos)
+- **4. 3. Contribution Margin and the CVP Equation** (4 videos)
+- **5. 4. The Breakeven Equation** (4 videos)
+- **6. 5. Computing Target Net Income** (3 videos)
+- **7. 6. Sensitivity Analysis** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The basics of breakeven analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/the-basics-of-breakeven-analysis?u=76281980)
@@ -120,7 +120,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. Importance of Analysis
+### 2. 1. Importance of Analysis
 
 #### Importance of breakeven analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-breakeven-analysis-14748318?u=76281980)
@@ -311,7 +311,7 @@ created: 2026-04-21
 > **Speakers:** - just (1)
 
 
-### 2. Types of Costs
+### 3. 2. Types of Costs
 
 #### When variable costs become fixed costs
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/when-variable-costs-become-fixed-costs-14753221?u=76281980)
@@ -691,7 +691,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 3. Contribution Margin and the CVP Equation
+### 4. 3. Contribution Margin and the CVP Equation
 
 #### Identifying high contribution margins
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/identifying-high-contribution-margins?u=76281980)
@@ -1105,7 +1105,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. The Breakeven Equation
+### 5. 4. The Breakeven Equation
 
 #### When to conduct breakeven analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/when-to-conduct-breakeven-analysis-14749292?u=76281980)
@@ -1528,7 +1528,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 5. Computing Target Net Income
+### 6. 5. Computing Target Net Income
 
 #### Importance of total contribution margin
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-total-contribution-margin-14748316?u=76281980)
@@ -1790,7 +1790,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 6. Sensitivity Analysis
+### 7. 6. Sensitivity Analysis
 
 #### Analyzing a business before making changes
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/analyzing-a-business-before-making-changes?u=76281980)
@@ -2093,7 +2093,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Risks and rewards of fixed costs
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/risks-and-rewards-of-fixed-costs-14750282?u=76281980)
@@ -2178,6 +2178,19 @@ created: 2026-04-21
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is called (2), is a  (1)
 
+
+## Instructor
+
+- [[Jim Stice]]
+- [[Kay Stice]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Break-even Analysis
 
 ## Path Context
 

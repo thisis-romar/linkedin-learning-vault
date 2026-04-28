@@ -39,40 +39,34 @@ tags:
   - topic/artificial-intelligence
   - skill/kubernetes
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Kubernetes.md)
 
 ![Learning Kubernetes](https://media.licdn.com/dms/image/v2/C560DAQHvMfWguLq9Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668460173594?e=2147483647&amp;v=beta&amp;t=TFNzmvkGWIHyltpUBdmMZUMiH90oDmjYbZ03xi5S_uQ)
 
 # Learning Kubernetes
 
-> Prerequisites
-
-Access to a text editor like Visual Studio Code 
-Use of a terminal app to run simple Unix commands 
-High-level understanding of container technology
-
-Get the foundational knowledge you need to embark on your first voyage with Kubernetes, the world's most popular open-source container orchestration engine. Instructor Kim Schlesinger demonstrates how to create a Kubernetes cluster wit
+> Prerequisites Access to a text editor like Visual Studio Code Use of a terminal app to run simple Unix commands High-level understanding of container technology Get the foundational knowledge you need to embark on your first voyage with Kubernetes, the world's most popular open-source container orchestration engine. Instructor Kim Schlesinger demonstrates how to create a Kubernetes cluster with Mi
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900) | 1h 28m | Intermediate | 28K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kim Schlesinger]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-kubernetes-3212391/codespaces)
-
-## Skills Covered
-
-- Kubernetes
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Kubernetes and the Cloud-Native Ecosystem** (3 videos)
+- **3. 2. Setting Up and Getting Oriented** (7 videos)
+- **4. 3. Application Deployment** (8 videos)
+- **5. 4. Complex Application Deployment** (3 videos)
+- **6. 5. Kubernetes Architecture** (3 videos)
+- **7. 6. Advanced Topics** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Setting sail on your Kubernetes voyage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980)
@@ -141,7 +135,7 @@ Get the foundational knowledge you need to embark on your first voyage with Kube
 > **Speakers:** - before (1)
 
 
-### 1. Kubernetes and the Cloud-Native Ecosystem
+### 2. 1. Kubernetes and the Cloud-Native Ecosystem
 
 #### What is Kubernetes?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980)
@@ -329,7 +323,7 @@ Get the foundational knowledge you need to embark on your first voyage with Kube
 > **Analogies:** such as (1)
 
 
-### 2. Setting Up and Getting Oriented
+### 3. 2. Setting Up and Getting Oriented
 
 #### Install Docker on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980)
@@ -758,7 +752,7 @@ Get the foundational knowledge you need to embark on your first voyage with Kube
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Application Deployment
+### 4. 3. Application Deployment
 
 #### Reading and writing YAML
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980)
@@ -1412,7 +1406,7 @@ Get the foundational knowledge you need to embark on your first voyage with Kube
 > **Definitions:** is a  (1)
 
 
-### 4. Complex Application Deployment
+### 5. 4. Complex Application Deployment
 
 #### Expose your application to the internet with a LoadBalancer
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980)
@@ -1629,7 +1623,7 @@ Get the foundational knowledge you need to embark on your first voyage with Kube
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Kubernetes Architecture
+### 6. 5. Kubernetes Architecture
 
 #### The Kubernetes control plane
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980)
@@ -1811,7 +1805,7 @@ Get the foundational knowledge you need to embark on your first voyage with Kube
 > **Speakers:** - in (1)
 
 
-### 6. Advanced Topics
+### 7. 6. Advanced Topics
 
 #### Ways to manage Kubernetes pods
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/ways-to-manage-kubernetes-pods?u=76281980)
@@ -2017,7 +2011,7 @@ Get the foundational knowledge you need to embark on your first voyage with Kube
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps on your Kubernetes voyage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980)
@@ -2055,6 +2049,19 @@ Get the foundational knowledge you need to embark on your first voyage with Kube
 > **Prerequisites:** set up (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Kim Schlesinger]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-kubernetes-3212391/codespaces)
+
+## Skills Covered
+
+- Kubernetes
 
 ## Path Context
 

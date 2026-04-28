@@ -23,8 +23,10 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Devops%20Foundations%20Lean%20And%20Agile.md)
 
 ![Devops Foundations Lean And Agile](https://media.licdn.com/dms/image/v2/D4E0DAQGSZV4QwZzLFA/learning-public-crop_675_1200/B4EZZuaX8dHMAc-/0/1745609130101?e=2147483647&amp;v=beta&amp;t=pJWBCDYUtVODw4AUOr11kCV3oCQEA4EVbTrihZmEcfg)
 
@@ -35,14 +37,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ernest Mueller]]
-- [[Karthik Gaekwad]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Lean, Agile, and DevOps Basics** (8 videos)
+- **3. 2. Implementing Agile, Lean, and DevOps in Practice** (1 videos)
+- **4. 3. First Iteration: Empowering the Individual** (6 videos)
+- **5. 4. Second Iteration: Empowering the Team** (10 videos)
+- **6. 5. Third Iteration: Empowering the Organization** (6 videos)
+- **7. 6. The Road Ahead** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with lean and agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/getting-started-with-lean-and-agile?u=76281980)
@@ -81,7 +89,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Lean, Agile, and DevOps Basics
+### 2. 1. Lean, Agile, and DevOps Basics
 
 #### What is agile?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980)
@@ -767,7 +775,7 @@ created: 2026-04-21
 > **Speakers:** - part (1)
 
 
-### 2. Implementing Agile, Lean, and DevOps in Practice
+### 3. 2. Implementing Agile, Lean, and DevOps in Practice
 
 #### Welcome to Red30 Technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980)
@@ -858,7 +866,7 @@ created: 2026-04-21
 > **Warnings:** troubleshoot (1)
 
 
-### 3. First Iteration: Empowering the Individual
+### 4. 3. First Iteration: Empowering the Individual
 
 #### Agile: Updating our practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980)
@@ -1400,7 +1408,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 4. Second Iteration: Empowering the Team
+### 5. 4. Second Iteration: Empowering the Team
 
 #### Agile: Building a resilient team
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980)
@@ -2104,7 +2112,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### 5. Third Iteration: Empowering the Organization
+### 6. 5. Third Iteration: Empowering the Organization
 
 #### Agile: Organizational scaling
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980)
@@ -2569,7 +2577,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 6. The Road Ahead
+### 7. 6. The Road Ahead
 
 #### Organizing for action
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980)
@@ -2862,7 +2870,7 @@ created: 2026-04-21
 > **Speakers:** - okay (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continuing on with lean and agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980)
@@ -2921,6 +2929,11 @@ created: 2026-04-21
 > **CLI Commands:** make (2)
 > **Cross-References:** we covered (1)
 
+
+## Instructor
+
+- [[Ernest Mueller]]
+- [[Karthik Gaekwad]]
 
 ## Path Context
 

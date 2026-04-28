@@ -35,8 +35,10 @@ tags:
   - skill/it-service-management
   - skill/change-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/IT%20Service%20Management%20Foundations-%20Change%20Management.md)
 
 ![IT Service Management Foundations: Change Management](https://media.licdn.com/dms/image/v2/C4E0DAQEjsdqNemv6uQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611696586413?e=2147483647&amp;v=beta&amp;t=SJ87P0CgV8AUsGSthJkXcmH0GZlC5tiqXGqcKSoM1Jg)
 
@@ -47,22 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management) | 1h 38m | Intermediate | 94K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ernest Mueller]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- IT Service Management
-- Change Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Change Management Fundamentals** (4 videos)
+- **3. 2. Your Change Control Process** (13 videos)
+- **4. 3. Implementing Change Management** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Managing change with minimal pain
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/managing-change-with-minimal-pain-27999131?u=76281980)
@@ -89,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Change Management Fundamentals
+### 2. 1. Change Management Fundamentals
 
 #### The Change Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-change-challenge?u=76281980)
@@ -395,7 +392,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Your Change Control Process
+### 3. 2. Your Change Control Process
 
 #### Change management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-overview?u=76281980)
@@ -1684,7 +1681,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Implementing Change Management
+### 4. 3. Implementing Change Management
 
 #### Starting change management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980)
@@ -2043,7 +2040,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Be the change you want to approve
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/be-the-change-you-want-to-approve?u=76281980)
@@ -2106,6 +2103,19 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Ernest Mueller]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- IT Service Management
+- Change Management
 
 ## Path Context
 

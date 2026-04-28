@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/generative-ai-for-sales-with-micros
 course_count: 6
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 17
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/cloud-computing
@@ -41,8 +41,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Professional%20Certificates/Generative%20AI%20for%20Sales%20with%20Microsoft%20365%20Copilot%20Professional%20Certificate.md)
 
 # Generative AI for Sales with Microsoft 365 Copilot Professional Certificate
 

@@ -31,8 +31,10 @@ tags:
   - skill/microsoft-365
   - skill/cloud-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20365-%20Administration.md)
 
 ![Microsoft 365: Administration](https://media.licdn.com/dms/image/v2/D560DAQHwT_OYiXpBMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702422331695?e=2147483647&amp;v=beta&amp;t=qX_FwIzV7GoL-dOlKoUY1yEtCGLb9S2I_5lvg4cG5Ow)
 
@@ -43,18 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration) | 1h 55m | Intermediate | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Elfassy]]
-
-## Skills Covered
-
-- Microsoft 365
-- Cloud Administration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Managing Microsoft 365 General Settings** (8 videos)
+- **3. 2. Managing Microsoft 365 Email Services** (5 videos)
+- **4. 3. Managing Microsoft 365 SharePoint, Teams, Security, and Compliance** (4 videos)
+- **5. 4. Manage Microsoft 365 Authentication, Teams, and SharePoint** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Microsoft 365: Administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/microsoft-365-administration?u=76281980)
@@ -94,7 +96,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### 1. Managing Microsoft 365 General Settings
+### 2. 1. Managing Microsoft 365 General Settings
 
 #### Exploring Microsoft 365 core functionalities
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980)
@@ -797,7 +799,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### 2. Managing Microsoft 365 Email Services
+### 3. 2. Managing Microsoft 365 Email Services
 
 #### Get familiar with Exchange Admin Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980)
@@ -1398,7 +1400,7 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 
 
-### 3. Managing Microsoft 365 SharePoint, Teams, Security, and Compliance
+### 4. 3. Managing Microsoft 365 SharePoint, Teams, Security, and Compliance
 
 #### Managing the SharePoint admin center in Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980)
@@ -1815,7 +1817,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 4. Manage Microsoft 365 Authentication, Teams, and SharePoint
+### 5. 4. Manage Microsoft 365 Authentication, Teams, and SharePoint
 
 #### Configure multifactor authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980)
@@ -2191,7 +2193,7 @@ created: 2026-04-21
 > **Cross-References:** in the last (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Beyond Microsoft 365 Administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980)
@@ -2210,6 +2212,15 @@ created: 2026-04-21
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980&t=45)** Good luck.
 
+
+## Instructor
+
+- [[David Elfassy]]
+
+## Skills Covered
+
+- Microsoft 365
+- Cloud Administration
 
 ## Path Context
 

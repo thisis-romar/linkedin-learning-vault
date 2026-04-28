@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - topic/devops
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Agile%20Software%20Development-%20Creating%20an%20Agile%20Culture.md)
 
 ![Agile Software Development: Creating an Agile Culture](https://media.licdn.com/dms/image/v2/C4E0DAQFTIKA7Lo-4mQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579286626350?e=2147483647&amp;v=beta&amp;t=xLp0heYL0pFE6fX1ESzeaFCoqSY1oDMnAn9l5_Ma2xU)
 
@@ -40,13 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture) | 1h 37m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Andrea Goulet]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Defining Success** (4 videos)
+- **3. 2. Agile Anti-Patterns and Antidotes** (6 videos)
+- **4. 3. Building Your Team** (6 videos)
+- **5. 4. Empowering Individuals** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Create an agile culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/create-an-agile-culture?u=76281980)
@@ -170,7 +177,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 1. Defining Success
+### 2. 1. Defining Success
 
 #### Why culture matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980)
@@ -532,7 +539,7 @@ created: 2026-04-21
 > **Speakers:** - crystal (1)
 
 
-### 2. Agile Anti-Patterns and Antidotes
+### 3. 2. Agile Anti-Patterns and Antidotes
 
 #### Shame versus empathy
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980)
@@ -1124,7 +1131,7 @@ created: 2026-04-21
 > **Speakers:** - silos (1)
 
 
-### 3. Building Your Team
+### 4. 3. Building Your Team
 
 #### Collection of individuals versus teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/collection-of-individuals-versus-teams?u=76281980)
@@ -1523,7 +1530,7 @@ created: 2026-04-21
 > **Speakers:** - setting (1)
 
 
-### 4. Empowering Individuals
+### 5. 4. Empowering Individuals
 
 #### Candor and conflict
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/candor-and-conflict?u=76281980)
@@ -1998,7 +2005,7 @@ created: 2026-04-21
 > **Speakers:** - communication (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980)
@@ -2051,6 +2058,10 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Andrea Goulet]]
 
 ## Path Context
 

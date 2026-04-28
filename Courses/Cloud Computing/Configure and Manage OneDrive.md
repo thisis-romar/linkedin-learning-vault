@@ -31,8 +31,10 @@ tags:
   - skill/microsoft-onedrive
   - skill/system-configuration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Configure%20and%20Manage%20OneDrive.md)
 
 ![Configure and Manage OneDrive](https://media.licdn.com/dms/image/v2/D560DAQEzegTPSdUacQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687470645209?e=2147483647&amp;v=beta&amp;t=e8AG9I-OQiX0ONqeyObeM6Oem6l2rRe2G2zYr38MLos)
 
@@ -43,18 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive) | 55m | Intermediate | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ed Liberman]]
-
-## Skills Covered
-
-- Microsoft OneDrive
-- System Configuration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Creating a Trial Microsoft 365 Account** (3 videos)
+- **3. 2. Implementing OneDrive for Business** (3 videos)
+- **4. 3. Managing OneDrive Storage** (2 videos)
+- **5. 4. Managing OneDrive for Business** (4 videos)
+- **6. 5. Monitoring OneDrive for Business** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980)
@@ -109,7 +112,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Creating a Trial Microsoft 365 Account
+### 2. 1. Creating a Trial Microsoft 365 Account
 
 #### Create a free Microsoft 365 E5 trial account
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980)
@@ -539,7 +542,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Implementing OneDrive for Business
+### 3. 2. Implementing OneDrive for Business
 
 #### OneDrive for Business overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980)
@@ -690,7 +693,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Managing OneDrive Storage
+### 4. 3. Managing OneDrive Storage
 
 #### Managing storage space
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980)
@@ -884,7 +887,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Managing OneDrive for Business
+### 5. 4. Managing OneDrive for Business
 
 #### Managing sharing
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sharing?u=76281980)
@@ -1262,7 +1265,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 5. Monitoring OneDrive for Business
+### 6. 5. Monitoring OneDrive for Business
 
 #### Activity reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980)
@@ -1434,7 +1437,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continue learning OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/continue-learning-onedrive?u=76281980)
@@ -1453,6 +1456,15 @@ created: 2026-04-21
 >
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Ed Liberman]]
+
+## Skills Covered
+
+- Microsoft OneDrive
+- System Configuration
 
 ## Path Context
 

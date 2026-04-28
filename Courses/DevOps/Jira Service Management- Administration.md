@@ -31,8 +31,10 @@ tags:
   - skill/it-service-management
   - skill/jira
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira%20Service%20Management-%20Administration.md)
 
 ![Jira Service Management: Administration](https://media.licdn.com/dms/image/v2/C560DAQEJZD519JqiGw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632160504183?e=2147483647&amp;v=beta&amp;t=h3TmoyPyObFB228rou0FOISPFAAEAsCfe5RlxzCnJDM)
 
@@ -43,18 +45,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration) | 2h 44m | Intermediate | 54K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rachel Wright]]
-
-## Skills Covered
-
-- IT Service Management
-- Jira
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Using Jira Service Management** (6 videos)
+- **3. 2. Jira and JSM Differences** (4 videos)
+- **4. 3. Setting Up a Test Environment** (3 videos)
+- **5. 4. Managing Project Settings** (9 videos)
+- **6. 5. Creating Service Level Agreements** (6 videos)
+- **7. 6. Using Automation** (4 videos)
+- **8. 7. Using Reporting** (6 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Administration in Jira Service Management
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980)
@@ -159,7 +164,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Using Jira Service Management
+### 2. 1. Using Jira Service Management
 
 #### What is Jira Service Management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980)
@@ -814,7 +819,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Jira and JSM Differences
+### 3. 2. Jira and JSM Differences
 
 #### JSM feature overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980)
@@ -1341,7 +1346,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### 3. Setting Up a Test Environment
+### 4. 3. Setting Up a Test Environment
 
 #### Test environment tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980)
@@ -1556,7 +1561,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Managing Project Settings
+### 5. 4. Managing Project Settings
 
 #### Create a service project
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980)
@@ -3030,7 +3035,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Creating Service Level Agreements
+### 6. 5. Creating Service Level Agreements
 
 #### SLA overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980)
@@ -3508,7 +3513,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Using Automation
+### 7. 6. Using Automation
 
 #### Automation overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980)
@@ -3903,7 +3908,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Using Reporting
+### 8. 7. Using Reporting
 
 #### Reporting overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980)
@@ -4277,7 +4282,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980)
@@ -4361,6 +4366,15 @@ created: 2026-04-21
 > **UI Navigation:** switch to (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Rachel Wright]]
+
+## Skills Covered
+
+- IT Service Management
+- Jira
 
 ## Path Context
 

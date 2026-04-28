@@ -31,8 +31,10 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/History%20of%20Responsible%20AI-%20From%20Principles%20to%20Professionalization%20by%20All%20Tech%20Is%20Human.md)
 
 ![History of Responsible AI: From Principles to Professionalization by All Tech Is Human](https://media.licdn.com/dms/image/v2/D4D0DAQE8Fx7C7IrsAQ/learning-public-crop_675_1200/B4DZsyfJ.TGwAY-/0/1766078587630?e=2147483647&amp;v=beta&amp;t=qcm9MzSvDrT9CM1_LFefCHveS7nNusqY9G7nr_A8sSM)
 
@@ -43,22 +45,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human) | 12m | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[All Tech Is Human]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Responsible AI
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### History of Responsible AI
+### Chapter Overview
+
+- **1. History of Responsible AI** (1 videos)
+
+### 1. History of Responsible AI
 
 #### History of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980)
@@ -256,6 +249,19 @@ created: 2026-04-21
 > **Versions:** 1.0 (1)
 > **Tools:** notion (1)
 
+
+## Instructor
+
+- [[All Tech Is Human]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Responsible AI
+- Artificial Intelligence (AI)
 
 ## Path Context
 

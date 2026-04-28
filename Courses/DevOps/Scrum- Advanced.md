@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Scrum-%20Advanced.md)
 
 ![Scrum: Advanced](https://media.licdn.com/dms/image/v2/D560DAQGIuTXjYvOoZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694724642528?e=2147483647&amp;v=beta&amp;t=x9pZJiW5jo8ghYA-OP5Ih8wTxgzf59nhnGrFFGgRX0I)
 
@@ -41,21 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495) | 1h | Advanced | 916K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kelley O'Connell]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Scrum
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Adding Finesse to Your Scrum** (3 videos)
+- **3. 2. Product Owner as Business Representative** (4 videos)
+- **4. 3. Product Owner as Team Business Guide** (3 videos)
+- **5. 4. Scrum Master as Team Advocate** (3 videos)
+- **6. 5. Scrum Master as Team Guardian** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Take scrum to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/take-scrum-to-the-next-level?u=76281980)
@@ -82,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - after (1)
 
 
-### 1. Adding Finesse to Your Scrum
+### 2. 1. Adding Finesse to Your Scrum
 
 #### Review scrum fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/review-scrum-fundamentals?u=76281980)
@@ -299,7 +299,7 @@ created: 2026-04-21
 > **Speakers:** - given (1)
 
 
-### 2. Product Owner as Business Representative
+### 3. 2. Product Owner as Business Representative
 
 #### Product owner as chief negotiator
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-as-chief-negotiator?u=76281980)
@@ -635,7 +635,7 @@ created: 2026-04-21
 > **Speakers:** - scrum (1)
 
 
-### 3. Product Owner as Team Business Guide
+### 4. 3. Product Owner as Team Business Guide
 
 #### Advanced story-writing tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/advanced-story-writing-tips?u=76281980)
@@ -872,7 +872,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 4. Scrum Master as Team Advocate
+### 5. 4. Scrum Master as Team Advocate
 
 #### Be a leader who serves
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980)
@@ -1117,7 +1117,7 @@ created: 2026-04-21
 > **Speakers:** - once (1)
 
 
-### 5. Scrum Master as Team Guardian
+### 6. 5. Scrum Master as Team Guardian
 
 #### Remove impediments for the team
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980)
@@ -1362,7 +1362,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980)
@@ -1405,6 +1405,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - scrum (1)
 
+
+## Instructor
+
+- [[Kelley O'Connell]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Scrum
 
 ## Path Context
 

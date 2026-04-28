@@ -31,8 +31,10 @@ tags:
   - skill/change-management
   - skill/digital-transformation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Digital%20Transformation%20Tips.md)
 
 ![Digital Transformation Tips](https://media.licdn.com/dms/image/v2/D4D0DAQFnUEdywa2eqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735866165583?e=2147483647&amp;v=beta&amp;t=kz99oGZlJl0kBz502R6CYyIinyFxwIMLUiXQYeBba60)
 
@@ -43,22 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659) | 1h 26m | Intermediate | 50K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Phil Gold]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Change Management
-- Digital Transformation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Foundations of Digital Transformation** (5 videos)
+- **3. 2. Check Readiness: Look Before You Leap** (4 videos)
+- **4. 3. Planning for Success** (4 videos)
+- **5. 4. Communication Best Practices** (4 videos)
+- **6. 5. Iterate** (5 videos)
+- **7. 6. Workplace Transformation** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Digital transformation and your business
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/digital-transformation-and-your-business?u=76281980)
@@ -86,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - [phil] (1)
 
 
-### 1. Foundations of Digital Transformation
+### 2. 1. Foundations of Digital Transformation
 
 #### Making data and systems accessible via the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980)
@@ -440,7 +440,7 @@ created: 2026-04-21
 > **Speakers:** - [demonstrator] (1)
 
 
-### 2. Check Readiness: Look Before You Leap
+### 3. 2. Check Readiness: Look Before You Leap
 
 #### Build leadership buy-in for transformation success
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-leadership-buy-in-for-transformation-success?u=76281980)
@@ -699,7 +699,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Planning for Success
+### 4. 3. Planning for Success
 
 #### Know what problems you're trying to solve
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/know-what-problems-you-re-trying-to-solve?u=76281980)
@@ -924,7 +924,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Communication Best Practices
+### 5. 4. Communication Best Practices
 
 #### Understanding the communication needs of your participants
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/understanding-the-communication-needs-of-your-participants?u=76281980)
@@ -1173,7 +1173,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Iterate
+### 6. 5. Iterate
 
 #### Measuring your digital transformation against metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/measuring-your-digital-transformation-against-metrics?u=76281980)
@@ -1467,7 +1467,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Workplace Transformation
+### 7. 6. Workplace Transformation
 
 #### Chat vs. email: Use the right tool for better communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980)
@@ -1785,7 +1785,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Making your digital transformation a success
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-your-digital-transformation-a-success?u=76281980)
@@ -1825,6 +1825,19 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Phil Gold]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Change Management
+- Digital Transformation
 
 ## Path Context
 

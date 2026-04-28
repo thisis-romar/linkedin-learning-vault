@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/PHP-%20Object-Oriented%20Programming.md)
 
 ![PHP: Object-Oriented Programming](https://media.licdn.com/dms/image/v2/C4E0DAQEGp6ZEDEHN7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644609693396?e=2147483647&amp;v=beta&amp;t=n__jGsHzlV2ApQD2nHzROj7PrwOgOR7hDBaf-J1IlrU)
 
@@ -41,21 +43,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017) | 3h 53m | Intermediate | 76K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Skoglund]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Overview and Project Set Up** (2 videos)
+- **3. 2. Object Basics** (7 videos)
+- **4. 3. Class Inheritance** (5 videos)
+- **5. 4. Object Access Control** (5 videos)
+- **6. 5. Static Properties and Methods** (7 videos)
+- **7. 6. Magic Methods** (7 videos)
+- **8. 7. A PHP OOP Project** (7 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### PHP: OOP techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980)
@@ -134,7 +136,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Overview and Project Set Up
+### 2. 1. Overview and Project Set Up
 
 #### What is OOP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980)
@@ -365,7 +367,7 @@ created: 2026-04-21
 > **Tools:** firefox (1)
 
 
-### 2. Object Basics
+### 3. 2. Object Basics
 
 #### Define a class
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980)
@@ -1486,7 +1488,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 3. Class Inheritance
+### 4. 3. Class Inheritance
 
 #### What is inheritance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-inheritance-14622580?u=76281980)
@@ -2133,7 +2135,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Object Access Control
+### 5. 4. Object Access Control
 
 #### Visibility modifiers
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980)
@@ -2996,7 +2998,7 @@ created: 2026-04-21
 > **Best Practices:** best practice (1)
 
 
-### 5. Static Properties and Methods
+### 6. 5. Static Properties and Methods
 
 #### The static modifier
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980)
@@ -4145,7 +4147,7 @@ created: 2026-04-21
 > **Versions:** php 7 (1)
 
 
-### 6. Magic Methods
+### 7. 6. Magic Methods
 
 #### Constructor method
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-method-14622579?u=76281980)
@@ -5263,7 +5265,7 @@ created: 2026-04-21
 > **Versions:** php 4 (1)
 
 
-### 7. A PHP OOP Project
+### 8. 7. A PHP OOP Project
 
 #### Project introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980)
@@ -6369,7 +6371,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Happy Coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/happy-coding?u=76281980)
@@ -6397,6 +6399,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [kevin] (1)
 
+
+## Instructor
+
+- [[Kevin Skoglund]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- PHP
 
 ## Path Context
 

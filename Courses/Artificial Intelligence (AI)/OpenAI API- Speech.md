@@ -36,8 +36,10 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Speech.md)
 
 ![OpenAI API: Speech](https://media.licdn.com/dms/image/v2/D4E0DAQFQl_W9q21TkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706575739148?e=2147483647&amp;v=beta&amp;t=IUtotIzdaPqmspHH3ty0QufVLF25heN2sAmR4h_hO5A)
 
@@ -48,25 +50,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech) | 29m | Intermediate | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ronnie Sheer]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-speech-3834416)
-
-## Skills Covered
-
-- OpenAI API
-- Speech Recognition
-- OpenAI Products
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Text-to-Speech** (8 videos)
+- **3. 2. Speech-to-Text** (5 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Voice models and the AI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/voice-models-and-the-ai-revolution?u=76281980)
@@ -154,7 +147,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Text-to-Speech
+### 2. 1. Text-to-Speech
 
 #### Text-to-speech overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/text-to-speech-overview?u=76281980)
@@ -575,7 +568,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 2. Speech-to-Text
+### 3. 2. Speech-to-Text
 
 #### Speech-to-text overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/speech-to-text-overview?u=76281980)
@@ -766,7 +759,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980)
@@ -800,6 +793,22 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [ronnie] (1)
 
+
+## Instructor
+
+- [[Ronnie Sheer]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-speech-3834416)
+
+## Skills Covered
+
+- OpenAI API
+- Speech Recognition
+- OpenAI Products
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -39,8 +39,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Database%20Management/Learning%20Paths/Explore%20a%20Career%20in%20Database%20Development.md)
 
 # Explore a Career in Database Development
 

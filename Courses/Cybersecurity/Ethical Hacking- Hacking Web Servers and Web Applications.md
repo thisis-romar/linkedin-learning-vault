@@ -29,8 +29,10 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Hacking%20Web%20Servers%20and%20Web%20Applications.md)
 
 ![Ethical Hacking: Hacking Web Servers and Web Applications](https://media.licdn.com/dms/image/v2/C560DAQFv6qt-MMoFmw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568052588573?e=2147483647&amp;v=beta&amp;t=WtM-JLV-4U0194Rmv_jIlyryoaMxM7y4l-KXCmmF9bI)
 
@@ -41,21 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications) | 1h 39m | Intermediate | 81K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to Web Servers** (9 videos)
+- **3. 2. Getting Ready to Test** (6 videos)
+- **4. 3. Running Basic Web Application Tests** (4 videos)
+- **5. 4. Advanced Web Application Tests** (6 videos)
+- **6. 5. Practicing Your Skills** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Testing to make sure your website is safe
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980)
@@ -143,7 +143,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Web Servers
+### 2. 1. Introduction to Web Servers
 
 #### Elements of web-based applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980)
@@ -940,7 +940,7 @@ created: 2026-04-21
 > **Versions:** 192.168.1 (1)
 
 
-### 2. Getting Ready to Test
+### 3. 2. Getting Ready to Test
 
 #### Introducing the Zero Bank
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-the-zero-bank?u=76281980)
@@ -1353,7 +1353,7 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 
 
-### 3. Running Basic Web Application Tests
+### 4. 3. Running Basic Web Application Tests
 
 #### Fingerprinting web servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980)
@@ -1607,7 +1607,7 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 
 
-### 4. Advanced Web Application Tests
+### 5. 4. Advanced Web Application Tests
 
 #### Manipulating URL parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980)
@@ -2105,7 +2105,7 @@ created: 2026-04-21
 > **Tools:** bash (1)
 
 
-### 5. Practicing Your Skills
+### 6. 5. Practicing Your Skills
 
 #### Practicing with online banking websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/practicing-with-online-banking-websites?u=76281980)
@@ -2320,7 +2320,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (2)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980)
@@ -2358,6 +2358,18 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Ethical Hacking
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Evading%20IDS%2C%20Firewalls%2C%20and%20Honeypots.md)
 
 ![Ethical Hacking: Evading IDS, Firewalls, and Honeypots](https://media.licdn.com/dms/image/v2/C4E0DAQF3nBFOXnu5Fg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567198584970?e=2147483647&amp;v=beta&amp;t=7zLSOiZTTJ-a-zsDyi8aHdQ1z3e3J3a1HsKpnqp2-9E)
 
@@ -41,21 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots) | 2h 20m | Intermediate | 55K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Firewalls** (8 videos)
+- **3. 2. Hardware Firewalls** (2 videos)
+- **4. 3. Network Simulation Using GNS3** (5 videos)
+- **5. 4. Special Purpose Perimeter Devices** (4 videos)
+- **6. 5. Protection from Intrusion** (6 videos)
+- **7. 6. Evasion Techniques** (10 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Finding weaknesses in the perimeter
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/finding-weaknesses-in-the-perimeter?u=76281980)
@@ -140,7 +141,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Firewalls
+### 2. 1. Firewalls
 
 #### Understanding Firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980)
@@ -833,7 +834,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Hardware Firewalls
+### 3. 2. Hardware Firewalls
 
 #### Set up a Cisco PIX firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-cisco-pix-firewall-2?u=76281980)
@@ -995,7 +996,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Network Simulation Using GNS3
+### 4. 3. Network Simulation Using GNS3
 
 #### Install GNS3
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980)
@@ -1508,7 +1509,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Special Purpose Perimeter Devices
+### 5. 4. Special Purpose Perimeter Devices
 
 #### Understand Web Application Firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980)
@@ -1900,7 +1901,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Protection from Intrusion
+### 6. 5. Protection from Intrusion
 
 #### Intrusion response techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980)
@@ -2326,7 +2327,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Evasion Techniques
+### 7. 6. Evasion Techniques
 
 #### Evading antivirus detection
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980)
@@ -2937,7 +2938,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980)
@@ -2965,6 +2966,18 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [malcolm] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Ethical Hacking
 
 ## Path Context
 

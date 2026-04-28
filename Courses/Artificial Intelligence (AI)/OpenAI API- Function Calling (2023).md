@@ -32,8 +32,10 @@ tags:
   - skill/openai-api
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Function%20Calling%20(2023).md)
 
 ![OpenAI API: Function Calling (2023)](https://media.licdn.com/dms/image/v2/D560DAQHFJ_NsHrFR1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692400120285?e=2147483647&amp;v=beta&amp;t=6wZOlAg1GG7-zY1hwSa0DEkvgXsVKgFhl2I-JunoONE)
 
@@ -44,23 +46,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-function-calling-2023) | 17m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/function-calling-with-the-openai-api-4506256)
-
-## Skills Covered
-
-- OpenAI API
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Function Calling** (1 videos)
+
+### 1. Introduction
 
 #### Function calling with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-function-calling-2023/function-calling-with-the-openai-api?u=76281980)
@@ -85,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 1. Function Calling
+### 2. 1. Function Calling
 
 #### Understanding function calling with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980)
@@ -479,6 +472,20 @@ created: 2026-04-21
 > **Analogies:** for example (3), similar to (1), imagine (1)
 > **CLI Commands:** find (2), go build (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/function-calling-with-the-openai-api-4506256)
+
+## Skills Covered
+
+- OpenAI API
+- Artificial Intelligence (AI)
 
 ## Path Context
 

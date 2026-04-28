@@ -28,8 +28,10 @@ tags:
   - skill/arcgis-products
   - skill/autodesk-infraworks
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/InfraWorks%20and%20ArcGIS-%20AEC%20Collaboration.md)
 
 ![InfraWorks and ArcGIS: AEC Collaboration](https://media.licdn.com/dms/image/v2/C510DAQGnzGKIi0xKqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581552165870?e=2147483647&amp;v=beta&amp;t=0Vz2AJjKmX0aiWItWhHzSbsOfAj-6I_pXXh6CnTuqSM)
 
@@ -40,22 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration) | 2h 53m | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lynda Sharkey]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- ArcGIS Products
-- Autodesk InfraWorks
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Setting up ArcGIS Online** (7 videos)
+- **3. 2. Adding Data to ArcGIS Online** (3 videos)
+- **4. 3. Working with ArcGIS Online Data within InfraWorks** (9 videos)
+- **5. 4. Creating Content for Publication Back to ArcGIS Online** (3 videos)
+- **6. 5. Viewing and Consuming Content Published from InfraWorks in ArcGIS Online** (4 videos)
+- **7. 6. Create Content for Use in Field Data Collection and InfraWorks** (2 videos)
+- **8. 7. Using a Web App for Collecting Data in the Field via Mobile Devices** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AEC collaboration with InfraWorks and ArcGIS Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/aec-collaboration-with-infraworks-and-arcgis-online?u=76281980)
@@ -214,7 +215,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting up ArcGIS Online
+### 2. 1. Setting up ArcGIS Online
 
 #### Introduction to ArcGIS Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980)
@@ -1035,7 +1036,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Adding Data to ArcGIS Online
+### 3. 2. Adding Data to ArcGIS Online
 
 #### Adding content
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-content?u=76281980)
@@ -1373,7 +1374,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 3. Working with ArcGIS Online Data within InfraWorks
+### 4. 3. Working with ArcGIS Online Data within InfraWorks
 
 #### Adding ArcGIS data sources to the model
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-arcgis-data-sources-to-the-model?u=76281980)
@@ -2218,7 +2219,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Creating Content for Publication Back to ArcGIS Online
+### 5. 4. Creating Content for Publication Back to ArcGIS Online
 
 #### Creating and preparing InfraWorks data for publishing to ArcGIS Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-and-preparing-infraworks-data-for-publishing-to-arcgis-online?u=76281980)
@@ -2516,7 +2517,7 @@ created: 2026-04-21
 > **Speakers:** - [lynda] (1)
 
 
-### 5. Viewing and Consuming Content Published from InfraWorks in ArcGIS Online
+### 6. 5. Viewing and Consuming Content Published from InfraWorks in ArcGIS Online
 
 #### Adding published content to a web scene
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-published-content-to-a-web-scene?u=76281980)
@@ -3053,7 +3054,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Create Content for Use in Field Data Collection and InfraWorks
+### 7. 6. Create Content for Use in Field Data Collection and InfraWorks
 
 #### Creating a feature layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980)
@@ -3341,7 +3342,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Using a Web App for Collecting Data in the Field via Mobile Devices
+### 8. 7. Using a Web App for Collecting Data in the Field via Mobile Devices
 
 #### Installing the Collector app
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980)
@@ -3539,7 +3540,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/next-steps?u=76281980)
@@ -3562,6 +3563,19 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 > **Speakers:** - [lynda] (1)
 
+
+## Instructor
+
+- [[Lynda Sharkey]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- ArcGIS Products
+- Autodesk InfraWorks
 
 ## Path Context
 

@@ -35,8 +35,10 @@ tags:
   - skill/financial-analysis
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20for%20Finance%20Professionals.md)
 
 ![SQL for Finance Professionals](https://media.licdn.com/dms/image/v2/D560DAQH2Xr3RiZsbFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723482637801?e=2147483647&amp;v=beta&amp;t=6rckm7_wlJKFvNFTD22RCl0a2eSaMO4Ycd1xjPDKSE8)
 
@@ -47,22 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals) | 1h 6m | Beginner | 102K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Megan Lieu]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Financial Analysis
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. What is SQL?** (8 videos)
+- **3. 2. SQL in Finance** (5 videos)
+- **4. 3. Financial analysis in SQL** (5 videos)
+- **5. 4. Predictive modeling in finance** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Become the Ultimate Financial Analyst Using SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980)
@@ -172,7 +170,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What is SQL?
+### 2. 1. What is SQL?
 
 #### Background and use cases of SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980)
@@ -590,7 +588,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. SQL in Finance
+### 3. 2. SQL in Finance
 
 #### SQL in the finance field
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980)
@@ -807,7 +805,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Financial analysis in SQL
+### 4. 3. Financial analysis in SQL
 
 #### What is financial analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980)
@@ -1065,7 +1063,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Predictive modeling in finance
+### 5. 4. Predictive modeling in finance
 
 #### What is predictive modeling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980)
@@ -1342,7 +1340,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/next-steps-23451295?u=76281980)
@@ -1364,6 +1362,19 @@ created: 2026-04-21
 > **Env Vars:** sql (3)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Megan Lieu]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Financial Analysis
+- SQL
 
 ## Path Context
 

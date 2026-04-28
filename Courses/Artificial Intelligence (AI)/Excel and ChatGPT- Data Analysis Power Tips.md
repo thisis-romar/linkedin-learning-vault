@@ -27,8 +27,10 @@ tags:
   - topic/network-and-system-administration
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Excel%20and%20ChatGPT-%20Data%20Analysis%20Power%20Tips.md)
 
 ![Excel and ChatGPT: Data Analysis Power Tips](https://media.licdn.com/dms/image/v2/D560DAQEpx8PyjHEaCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698689116486?e=2147483647&amp;v=beta&amp;t=Xknsh7FZPyJ2jy6KF5Sbkd0b8Bt5Ev3M2JVooUDtJ-E)
 
@@ -39,14 +41,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips) | 2h 6m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Maven Analytics]]
-- [[Chris Dutton]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. How AI Is Revolutionizing Data Analysis** (2 videos)
+- **3. 2. A Crash Course in AI, LLMs, and ChatGPT** (6 videos)
+- **4. 3. Prompt Engineering Tips** (5 videos)
+- **5. 4. ChatGPT for Excel** (14 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The future is now: Intro to AI for data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980)
@@ -158,7 +164,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. How AI Is Revolutionizing Data Analysis
+### 2. 1. How AI Is Revolutionizing Data Analysis
 
 #### Why AI is a game-changer for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980)
@@ -307,7 +313,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. A Crash Course in AI, LLMs, and ChatGPT
+### 3. 2. A Crash Course in AI, LLMs, and ChatGPT
 
 #### The AI landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980)
@@ -714,7 +720,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Prompt Engineering Tips
+### 4. 3. Prompt Engineering Tips
 
 #### Intro to prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980)
@@ -911,7 +917,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 4. ChatGPT for Excel
+### 5. 4. ChatGPT for Excel
 
 #### Intro to ChatGPT for Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980)
@@ -3043,7 +3049,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Key takeaways and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980)
@@ -3132,6 +3138,11 @@ created: 2026-04-21
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Maven Analytics]]
+- [[Chris Dutton]]
 
 ## Path Context
 

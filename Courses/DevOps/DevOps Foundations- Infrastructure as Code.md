@@ -28,8 +28,10 @@ tags:
   - topic/devops
   - topic/database-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/DevOps%20Foundations-%20Infrastructure%20as%20Code.md)
 
 ![DevOps Foundations: Infrastructure as Code](https://media.licdn.com/dms/image/v2/D4D0DAQFmY9NJZYpOwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684264315878?e=2147483647&amp;v=beta&amp;t=4qCLR83v3x6q-68w1xWs8zjnjhKrw6WqL_Ink-ijQ10)
 
@@ -40,14 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758) | 2h 30m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ernest Mueller]]
-- [[James Wickett]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Wide World of Infrastructure** (8 videos)
+- **3. 2. Adventures in Automation** (5 videos)
+- **4. 3. Bringing It All Together** (7 videos)
+- **5. 4. With Great Power Comes Great Responsibility** (10 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Make your systems better with infrastructure as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980)
@@ -126,7 +132,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. The Wide World of Infrastructure
+### 2. 1. The Wide World of Infrastructure
 
 #### It's all about the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980)
@@ -852,7 +858,7 @@ created: 2026-04-21
 > **Cross-References:** in the last (1), in the next (1)
 
 
-### 2. Adventures in Automation
+### 3. 2. Adventures in Automation
 
 #### Building the boxes and lines
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980)
@@ -1474,7 +1480,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Bringing It All Together
+### 4. 3. Bringing It All Together
 
 #### Provisioning lab overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980)
@@ -2369,7 +2375,7 @@ created: 2026-04-21
 > **API Endpoints:** get  (1)
 
 
-### 4. With Great Power Comes Great Responsibility
+### 5. 4. With Great Power Comes Great Responsibility
 
 #### What is infrastructure as code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980)
@@ -3473,7 +3479,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (2)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980)
@@ -3579,6 +3585,11 @@ created: 2026-04-21
 > **Env Vars:** cis (1)
 > **Definitions:** is called (1)
 
+
+## Instructor
+
+- [[Ernest Mueller]]
+- [[James Wickett]]
 
 ## Path Context
 

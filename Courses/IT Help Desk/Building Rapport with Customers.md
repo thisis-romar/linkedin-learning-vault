@@ -30,8 +30,10 @@ tags:
   - skill/relationship-building
   - skill/customer-service
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Building%20Rapport%20with%20Customers.md)
 
 ![Building Rapport with Customers](https://media.licdn.com/dms/image/v2/D4D0DAQESfBoGiAHUmQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716227353597?e=2147483647&amp;v=beta&amp;t=H5HEhARw04KD8YLxLeiDaFxbiptwf5PCwLCphQ4Rwq0)
 
@@ -42,18 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583) | 25m | Beginner | 115K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Myra Golden]]
-
-## Skills Covered
-
-- Relationship Building
-- Customer Service
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Simple Ways to Build Rapport with Customers** (2 videos)
+- **3. 2. Techniques for Maintaining Rapport with Your Customers** (3 videos)
+- **4. 3. How to Build Rapport in Specific Customer Interactions** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why rapport really matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/why-rapport-really-matters?u=76281980)
@@ -79,7 +80,7 @@ created: 2026-04-21
 > **Cross-References:** we discussed (1)
 
 
-### 1. Simple Ways to Build Rapport with Customers
+### 2. 1. Simple Ways to Build Rapport with Customers
 
 #### Build rapport with your customers in six seconds or less
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/build-rapport-with-your-customers-in-six-seconds-or-less?u=76281980)
@@ -211,7 +212,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### 2. Techniques for Maintaining Rapport with Your Customers
+### 3. 2. Techniques for Maintaining Rapport with Your Customers
 
 #### Pace your customers to build agreement and rapport
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/pace-your-customers-to-build-agreement-and-rapport?u=76281980)
@@ -394,7 +395,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 3. How to Build Rapport in Specific Customer Interactions
+### 4. 3. How to Build Rapport in Specific Customer Interactions
 
 #### Create rapport in customer emails
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980)
@@ -666,7 +667,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Practice building rapport with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/practice-building-rapport-with-customers?u=76281980)
@@ -711,6 +712,15 @@ created: 2026-04-21
 > **URLs:** [myragolden.com](https://myragolden.com) (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Myra Golden]]
+
+## Skills Covered
+
+- Relationship Building
+- Customer Service
 
 ## Path Context
 

@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/linear-regression
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20%26%20AI%20Foundations-%20Linear%20Regression.md)
 
 ![Machine Learning & AI Foundations: Linear Regression](https://media.licdn.com/dms/image/v2/C4E0DAQHOipzpS91UiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117835966?e=2147483647&amp;v=beta&amp;t=zehj-BdbpnIDe9oLizDYNMWV_c3M3BqBJBwhsnEYnns)
 
@@ -45,23 +47,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression) | 4h 5m | Intermediate | 46K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-- Linear Regression
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Simple Linear Regression** (6 videos)
+- **3. 2. Introduction to Multiple Linear Regression** (8 videos)
+- **4. 3. Dummy Code and Interaction Terms** (4 videos)
+- **5. 4. Three Regression Strategies** (11 videos)
+- **6. 5. Spotting Problems and Taking Corrective Action** (7 videos)
+- **7. 6. Other Approaches to Regression** (8 videos)
+- **8. 7. Advanced Alternatives Using the Extension Hub** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Linear regression for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/linear-regression-for-machine-learning?u=76281980)
@@ -172,7 +172,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Simple Linear Regression
+### 2. 1. Simple Linear Regression
 
 #### Building effective scatter plots in Chart Builder
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/building-effective-scatter-plots-in-chart-builder?u=76281980)
@@ -757,7 +757,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 2. Introduction to Multiple Linear Regression
+### 3. 2. Introduction to Multiple Linear Regression
 
 #### Challenges and assumptions of multiple regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/challenges-and-assumptions-of-multiple-regression?u=76281980)
@@ -1767,7 +1767,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Dummy Code and Interaction Terms
+### 4. 3. Dummy Code and Interaction Terms
 
 #### Creating dummy codes
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980)
@@ -2224,7 +2224,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Three Regression Strategies
+### 5. 4. Three Regression Strategies
 
 #### Three regression strategies and when to use them
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/three-regression-strategies-and-when-to-use-them?u=76281980)
@@ -3280,7 +3280,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Spotting Problems and Taking Corrective Action
+### 6. 5. Spotting Problems and Taking Corrective Action
 
 #### Collinearity diagnostics
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/collinearity-diagnostics?u=76281980)
@@ -4152,7 +4152,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Other Approaches to Regression
+### 7. 6. Other Approaches to Regression
 
 #### Regression options
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980)
@@ -4952,7 +4952,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Advanced Alternatives Using the Extension Hub
+### 8. 7. Advanced Alternatives Using the Extension Hub
 
 #### What is the extension hub?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-is-the-extension-hub?u=76281980)
@@ -5217,7 +5217,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980)
@@ -5259,6 +5259,20 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
+- Linear Regression
 
 ## Path Context
 

@@ -38,8 +38,10 @@ tags:
   - topic/devops
   - skill/network-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Networking%20Foundations%20Networking%20Basics.md)
 
 ![Networking Foundations Networking Basics](https://media.licdn.com/dms/image/v2/C4D0DAQE_0oVM5Ci9YQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1607545228229?e=2147483647&amp;v=beta&amp;t=qmn3V8P9mJc7EP-gf9PbtpysWoWt6pqaanYUB5a8xgc)
 
@@ -50,17 +52,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics) | Beginner | 65K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Wallace]]
-
-## Skills Covered
-
-- Network Administration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. A Network's Purpose in Life** (3 videos)
+- **3. 2. Network Addresses** (3 videos)
+- **4. 3. Pieces and Parts of a Network** (6 videos)
+- **5. 4. The OSI Model** (3 videos)
+- **6. 5. Network Services** (5 videos)
+- **7. 6. Wireless Networks** (4 videos)
+- **8. 7. Emerging Trends in Networking** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/welcome-to-the-network-24998881?u=76281980)
@@ -93,7 +99,7 @@ created: 2026-04-21
 > **Speakers:** - think (1)
 
 
-### 1. A Network's Purpose in Life
+### 2. 1. A Network's Purpose in Life
 
 #### A high-level look at a network
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980)
@@ -286,7 +292,7 @@ created: 2026-04-21
 > **Speakers:** - think (1)
 
 
-### 2. Network Addresses
+### 3. 2. Network Addresses
 
 #### MAC addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/mac-addresses-25201754?u=76281980)
@@ -444,7 +450,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 3. Pieces and Parts of a Network
+### 4. 3. Pieces and Parts of a Network
 
 #### Network interface cards
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/network-interface-cards-25000814?u=76281980)
@@ -841,7 +847,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 4. The OSI Model
+### 5. 4. The OSI Model
 
 #### Learning the seven layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980)
@@ -1077,7 +1083,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 5. Network Services
+### 6. 5. Network Services
 
 #### DHCP overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/dhcp-overview-25000813?u=76281980)
@@ -1522,7 +1528,7 @@ created: 2026-04-21
 > **Speakers:** - sometimes (1)
 
 
-### 6. Wireless Networks
+### 7. 6. Wireless Networks
 
 #### Types of wireless LANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980)
@@ -1791,7 +1797,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 7. Emerging Trends in Networking
+### 8. 7. Emerging Trends in Networking
 
 #### Software-defined networking (SDN)
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980)
@@ -2165,7 +2171,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Keep networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/keep-networking-25201753?u=76281980)
@@ -2196,6 +2202,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Kevin Wallace]]
+
+## Skills Covered
+
+- Network Administration
 
 ## Path Context
 

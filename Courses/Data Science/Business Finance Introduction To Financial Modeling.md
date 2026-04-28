@@ -26,8 +26,10 @@ tags:
   - skill/corporate-finance
   - skill/financial-modeling
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Finance%20Introduction%20To%20Financial%20Modeling.md)
 
 ![Business Finance Introduction To Financial Modeling](https://media.licdn.com/dms/image/v2/D560DAQELq15JO8HXPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729722671043?e=2147483647&amp;v=beta&amp;t=7h7hmfy-8oytUyf0PervrTzicNTw7E1NM6Y-GrVqaLg)
 
@@ -38,19 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling) | 108K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Finance
-- Corporate Finance
-- Financial Modeling
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Financial Modeling** (3 videos)
+- **3. 2. How to Design a Financial Model** (3 videos)
+- **4. 3. How To Build a Robust Financial Model** (3 videos)
+- **5. 4. Quality Assurance** (2 videos)
+- **6. 5. Finalizing and Presenting Your Model** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn robust financial modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/learn-robust-financial-modeling?u=76281980)
@@ -78,7 +80,7 @@ created: 2026-04-21
 > **Speakers:** - [joshua] (1)
 
 
-### 1. Understanding Financial Modeling
+### 2. 1. Understanding Financial Modeling
 
 #### What are financial models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980)
@@ -313,7 +315,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. How to Design a Financial Model
+### 3. 2. How to Design a Financial Model
 
 #### Preparing for a successful financial model
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980)
@@ -518,7 +520,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. How To Build a Robust Financial Model
+### 4. 3. How To Build a Robust Financial Model
 
 #### Modeling tools and software
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980)
@@ -778,7 +780,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise file (1)
 
 
-### 4. Quality Assurance
+### 5. 4. Quality Assurance
 
 #### Testing the model's technical integrity
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-technical-integrity?u=76281980)
@@ -949,7 +951,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise file (1)
 
 
-### 5. Finalizing and Presenting Your Model
+### 6. 5. Finalizing and Presenting Your Model
 
 #### Undertaking scenario analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/undertaking-scenario-analysis?u=76281980)
@@ -1135,7 +1137,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing your financial modeling learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980)
@@ -1184,6 +1186,16 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Finance
+- Corporate Finance
+- Financial Modeling
 
 ## Path Context
 

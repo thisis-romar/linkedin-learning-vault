@@ -27,8 +27,10 @@ tags:
   - topic/software-development
   - skill/nosql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Cloud%20NoSQL%20for%20SQL%20Professionals.md)
 
 ![Cloud NoSQL for SQL Professionals](https://media.licdn.com/dms/image/v2/C4E0DAQGNUCZPOxVoDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583278789254?e=2147483647&amp;v=beta&amp;t=5Qg38Nj78yqHsAgZ3aP3LbtpO0xwXIUdmMfwIesqTxs)
 
@@ -39,17 +41,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals) | 2h 46m | Intermediate | 82K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lynn Langit]]
-
-## Skills Covered
-
-- NoSQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Road to NoSQL** (4 videos)
+- **3. 2. Understanding NoSQL Databases** (5 videos)
+- **4. 3. Use Key-Value NoSQL** (4 videos)
+- **5. 4. Use Columnar NoSQL** (5 videos)
+- **6. 5. Use Document NoSQL** (5 videos)
+- **7. 6. Use Graph NoSQL** (4 videos)
+- **8. 7. Use Specialty NoSQL** (8 videos)
+- **9. 8. Understand NoSQL Trends** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Simplify the NoSQL ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/simplify-the-nosql-ecosystem?u=76281980)
@@ -108,7 +115,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Road to NoSQL
+### 2. 1. The Road to NoSQL
 
 #### Manage data as file or tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980)
@@ -367,7 +374,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 2. Understanding NoSQL Databases
+### 3. 2. Understanding NoSQL Databases
 
 #### Store data, query information including NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980)
@@ -693,7 +700,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Use Key-Value NoSQL
+### 4. 3. Use Key-Value NoSQL
 
 #### Store huge, in-memory lookup lists on NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980)
@@ -1111,7 +1118,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### 4. Use Columnar NoSQL
+### 5. 4. Use Columnar NoSQL
 
 #### Store events on NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980)
@@ -1607,7 +1614,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Use Document NoSQL
+### 6. 5. Use Document NoSQL
 
 #### Store customer activity using NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980)
@@ -2057,7 +2064,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Use Graph NoSQL
+### 7. 6. Use Graph NoSQL
 
 #### Store customer relations using NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980)
@@ -2426,7 +2433,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Use Specialty NoSQL
+### 8. 7. Use Specialty NoSQL
 
 #### Store real-time events using NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980)
@@ -3003,7 +3010,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 8. Understand NoSQL Trends
+### 9. 8. Understand NoSQL Trends
 
 #### Consolidation and cloud for NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980)
@@ -3251,7 +3258,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps with NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980)
@@ -3301,6 +3308,14 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - [lynn] (1)
 
+
+## Instructor
+
+- [[Lynn Langit]]
+
+## Skills Covered
+
+- NoSQL
 
 ## Path Context
 

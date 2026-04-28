@@ -24,27 +24,36 @@ tags:
   - topic/web-development
   - skill/wordpress
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Wordpress%20Ecommerce.md)
 
 ![Wordpress Ecommerce](https://media.licdn.com/dms/image/v2/C4E0DAQHvTQMinejtvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117836614?e=2147483647&amp;v=beta&amp;t=dOE_DK1oKuNMeK4dpO-YZLYjERfwdrnDHO5G0kHMhgg)
 
 # Wordpress Ecommerce
 
-> Want to build an online store? Build it with WordPress and take advantage of all the sophisticated plugins and rich development features the platform has to offer.
-
-To start, Patrick Rauland looks at the essentials: how to get paid, calculate shipping, and calculate and charge taxes. He helps you set up a payment gateway, select a shipping method, and grasp how taxes work and how to collect them
+> Want to build an online store? Build it with WordPress and take advantage of all the sophisticated plugins and rich development features the platform has to offer. To start, Patrick Rauland looks at the essentials: how to get paid, calculate shipping, and calculate and charge taxes. He helps you set up a payment gateway, select a shipping method, and grasp how taxes work and how to collect them fr
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2) | Beginner | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- WordPress
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Ingredients for Ecommerce** (2 videos)
+- **3. 2. Getting Paid** (4 videos)
+- **4. 3. Calculating Shipping** (2 videos)
+- **5. 4. Taxes** (3 videos)
+- **6. 5. Using WordPress for Ecommerce** (2 videos)
+- **7. 6. Understand Your Market** (4 videos)
+- **8. 7. Marketing Your Site** (4 videos)
+- **9. 8. Testing and Optimizing** (2 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build an ecommerce store
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/build-an-ecommerce-store?u=76281980)
@@ -96,7 +105,7 @@ To start, Patrick Rauland looks at the essentials: how to get paid, calculate sh
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Ingredients for Ecommerce
+### 2. 1. Ingredients for Ecommerce
 
 #### Essential ecommerce features
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980)
@@ -237,7 +246,7 @@ To start, Patrick Rauland looks at the essentials: how to get paid, calculate sh
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Getting Paid
+### 3. 2. Getting Paid
 
 #### Overview of accepting payment
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/overview-of-accepting-payment?u=76281980)
@@ -545,7 +554,7 @@ To start, Patrick Rauland looks at the essentials: how to get paid, calculate sh
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Calculating Shipping
+### 4. 3. Calculating Shipping
 
 #### Select a shipping method
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980)
@@ -672,7 +681,7 @@ To start, Patrick Rauland looks at the essentials: how to get paid, calculate sh
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Taxes
+### 5. 4. Taxes
 
 #### Understanding taxes
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980)
@@ -847,7 +856,7 @@ To start, Patrick Rauland looks at the essentials: how to get paid, calculate sh
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Using WordPress for Ecommerce
+### 6. 5. Using WordPress for Ecommerce
 
 #### Using native WordPress platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980)
@@ -1044,7 +1053,7 @@ To start, Patrick Rauland looks at the essentials: how to get paid, calculate sh
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Understand Your Market
+### 7. 6. Understand Your Market
 
 #### Choosing a business model
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980)
@@ -1462,7 +1471,7 @@ To start, Patrick Rauland looks at the essentials: how to get paid, calculate sh
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Marketing Your Site
+### 8. 7. Marketing Your Site
 
 #### Attract traffic
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980)
@@ -1776,7 +1785,7 @@ To start, Patrick Rauland looks at the essentials: how to get paid, calculate sh
 > **Speakers:** - [narrator] (1)
 
 
-### 8. Testing and Optimizing
+### 9. 8. Testing and Optimizing
 
 #### Testing your site
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980)
@@ -1964,7 +1973,7 @@ To start, Patrick Rauland looks at the essentials: how to get paid, calculate sh
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980)
@@ -2006,6 +2015,10 @@ To start, Patrick Rauland looks at the essentials: how to get paid, calculate sh
 > **Env Vars:** seo (1)
 > **Speakers:** - [patrick] (1)
 
+
+## Skills Covered
+
+- WordPress
 
 ## Path Context
 

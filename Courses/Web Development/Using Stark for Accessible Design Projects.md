@@ -31,8 +31,10 @@ tags:
   - skill/stark-accessibility-software
   - skill/accessible-design
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Using%20Stark%20for%20Accessible%20Design%20Projects.md)
 
 ![Using Stark for Accessible Design Projects](https://media.licdn.com/dms/image/v2/D4D0DAQEwq_86Hrjgag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721061371788?e=2147483647&amp;v=beta&amp;t=7XvTKMORh2MasviBtdGNxTILbVpwOTr_xWt9XWEkbL8)
 
@@ -43,24 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects) | 1h 4m | Intermediate | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tom Green]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/using-stark-for-accessible-design-projects-3809042)
-
-## Skills Covered
-
-- Digital Accessibility
-- Stark (Accessibility Software)
-- Accessible Design
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Installing the Stark Web Tools** (2 videos)
+- **3. 2. Using Stark** (11 videos)
+- **4. 3. Stark for Teams and Enterprises** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Accessible design with Stark
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980)
@@ -127,7 +122,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Installing the Stark Web Tools
+### 2. 1. Installing the Stark Web Tools
 
 #### Install the Stark browser extension
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980)
@@ -226,7 +221,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Using Stark
+### 3. 2. Using Stark
 
 #### Conducting a WCAG audit
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/conducting-a-wcag-audit?u=76281980)
@@ -959,7 +954,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Stark for Teams and Enterprises
+### 4. 3. Stark for Teams and Enterprises
 
 #### Using the Stark dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980)
@@ -1376,7 +1371,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980)
@@ -1409,6 +1404,21 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Tom Green]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/using-stark-for-accessible-design-projects-3809042)
+
+## Skills Covered
+
+- Digital Accessibility
+- Stark (Accessibility Software)
+- Accessible Design
 
 ## Path Context
 

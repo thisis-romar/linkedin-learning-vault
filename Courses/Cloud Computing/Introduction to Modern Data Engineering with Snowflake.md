@@ -33,36 +33,32 @@ tags:
   - skill/data-engineering
   - skill/snowflake
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20to%20Modern%20Data%20Engineering%20with%20Snowflake.md)
 
 ![Introduction to Modern Data Engineering with Snowflake](https://media.licdn.com/dms/image/v2/D4E0DAQFi5IifLXJFgg/learning-public-crop_675_1200/B4EZdBuLDWHQAY-/0/1749154313181?e=2147483647&amp;v=beta&amp;t=uh67W9qBUl-sFzSCdb7niYITg0Sk0FgZ_2K1mxkNUbA)
 
 # Introduction to Modern Data Engineering with Snowflake
 
-> In this technical, hands-on course, learn how to build and orchestrate modern data pipelines with Snowflake. The course focuses on practical concepts and tools to get you up and running quickly. 
-Learn how to build and maintain data pipelines in Snowflake, including data ingestion, transformation, delivery, and orchestration. Throughout the course, follow along with the instructor using a combinat
+> In this technical, hands-on course, learn how to build and orchestrate modern data pipelines with Snowflake. The course focuses on practical concepts and tools to get you up and running quickly. Learn how to build and maintain data pipelines in Snowflake, including data ingestion, transformation, delivery, and orchestration. Throughout the course, follow along with the instructor using a combinati
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake) | 3h | Beginner | 18K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Snowflake]]
-- [[Inc]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Engineering
-- Snowflake
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Modern Data Engineering with Snowflake** (4 videos)
+- **3. 2. Batch Data Ingestion with Snowflake** (9 videos)
+- **4. 3. Data Transformations with Snowflake** (9 videos)
+- **5. 4. Delivering data products with Snowflake** (5 videos)
+- **6. 5. Orchestrating Continuous Data Pipelines with Snowflake** (5 videos)
+
+### 1. Introduction
 
 #### The explosion of data and the demand for insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980)
@@ -182,7 +178,7 @@ Learn how to build and maintain data pipelines in Snowflake, including data inge
 > **Analogies:** for example (1)
 
 
-### 1. Modern Data Engineering with Snowflake
+### 2. 1. Modern Data Engineering with Snowflake
 
 #### Modern data engineering with snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980)
@@ -662,7 +658,7 @@ Learn how to build and maintain data pipelines in Snowflake, including data inge
 > **Analogies:** just like (1), for example (1)
 
 
-### 2. Batch Data Ingestion with Snowflake
+### 3. 2. Batch Data Ingestion with Snowflake
 
 #### What is data ingestion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980)
@@ -1714,7 +1710,7 @@ Learn how to build and maintain data pipelines in Snowflake, including data inge
 > **Definitions:** is an  (1)
 
 
-### 3. Data Transformations with Snowflake
+### 4. 3. Data Transformations with Snowflake
 
 #### What are data transformations?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980)
@@ -2832,7 +2828,7 @@ Learn how to build and maintain data pipelines in Snowflake, including data inge
 > **Definitions:** means that (1)
 
 
-### 4. Delivering data products with Snowflake
+### 5. 4. Delivering data products with Snowflake
 
 #### Delivery of data products
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980)
@@ -3257,7 +3253,7 @@ Learn how to build and maintain data pipelines in Snowflake, including data inge
 > **Analogies:** for example (1)
 
 
-### 5. Orchestrating Continuous Data Pipelines with Snowflake
+### 6. 5. Orchestrating Continuous Data Pipelines with Snowflake
 
 #### What is orchestration?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980)
@@ -3786,6 +3782,20 @@ Learn how to build and maintain data pipelines in Snowflake, including data inge
 > **Tools:** command line (1), vs code (1)
 > **UI Navigation:** go to (1)
 
+
+## Instructor
+
+- [[Snowflake]]
+- [[Inc]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Engineering
+- Snowflake
 
 ## Path Context
 

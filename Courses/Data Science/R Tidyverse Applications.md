@@ -32,8 +32,10 @@ tags:
   - skill/r-programming-language
   - skill/tidyverse
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/R%20Tidyverse%20Applications.md)
 
 ![R Tidyverse Applications](https://media.licdn.com/dms/image/v2/D560DAQEp1pHIgntiFQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722974816242?e=2147483647&amp;v=beta&amp;t=B_wOqROSj33k_k-5quXZECGj5jiStz9d160yU2WujPg)
 
@@ -44,23 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications) | 4h 6m | Intermediate | 37K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Megan Silvey]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/R-Tidyverse-Applications-5902139)
-
-## Skills Covered
-
-- R (Programming Language)
-- tidyverse
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Load Data** (9 videos)
+- **3. 2. Manipulate Data** (8 videos)
+- **4. 3. Factor and Map Data** (6 videos)
+- **5. 4. Analyze and Visualize Data** (8 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to R
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/introduction-to-r?u=76281980)
@@ -308,7 +305,7 @@ created: 2026-04-21
 > **Env Vars:** zip (1), rmd (1)
 
 
-### 1. Load Data
+### 2. 1. Load Data
 
 #### Introducing the R tidyverse
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980)
@@ -1539,7 +1536,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### 2. Manipulate Data
+### 3. 2. Manipulate Data
 
 #### Dealing with missing values with tidyr
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980)
@@ -2822,7 +2819,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Factor and Map Data
+### 4. 3. Factor and Map Data
 
 #### Factor categorical data with forcats
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980)
@@ -3676,7 +3673,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 4. Analyze and Visualize Data
+### 5. 4. Analyze and Visualize Data
 
 #### Summarize data with dplyr
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980)
@@ -4884,7 +4881,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980)
@@ -4922,6 +4919,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Tools:** github (1)
 
+
+## Instructor
+
+- [[Megan Silvey]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/R-Tidyverse-Applications-5902139)
+
+## Skills Covered
+
+- R (Programming Language)
+- tidyverse
 
 ## Path Context
 

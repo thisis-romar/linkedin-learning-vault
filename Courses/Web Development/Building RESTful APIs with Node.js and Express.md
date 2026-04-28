@@ -37,8 +37,10 @@ tags:
   - skill/rest-apis
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20RESTful%20APIs%20with%20Node.js%20and%20Express.md)
 
 ![Building RESTful APIs with Node.js and Express](https://media.licdn.com/dms/image/v2/C560DAQFBQs89Kb83rg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668018324768?e=2147483647&amp;v=beta&amp;t=RRUJY4qoTWuVmUGY_sQuO2W7xw0iCcLX6JZUMGD6Y9w)
 
@@ -49,23 +51,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959) | 1h 17m | Intermediate | 112K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Express.js
-- REST APIs
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Setting Up** (5 videos)
+- **3. 2. Initial Server Build** (5 videos)
+- **4. 3. Database Setup** (3 videos)
+- **5. 4. CRUD Operations** (5 videos)
+- **6. 5. Other API Options** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### RESTful APIs with Node and Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980)
@@ -128,7 +126,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting Up
+### 2. 1. Setting Up
 
 #### Introduction to APIs and the libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980)
@@ -497,7 +495,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Initial Server Build
+### 3. 2. Initial Server Build
 
 #### RESTful APIs refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-refresher?u=76281980)
@@ -932,7 +930,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Database Setup
+### 4. 3. Database Setup
 
 #### MongoDB basics refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/mongodb-basics-refresher?u=76281980)
@@ -1148,7 +1146,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. CRUD Operations
+### 5. 4. CRUD Operations
 
 #### Create POST endpoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980)
@@ -1739,7 +1737,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 5. Other API Options
+### 6. 5. Other API Options
 
 #### Static files serving
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/static-files-serving?u=76281980)
@@ -1831,7 +1829,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/next-steps?u=76281980)
@@ -1862,6 +1860,20 @@ created: 2026-04-21
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Express.js
+- REST APIs
+- Node.js
 
 ## Path Context
 

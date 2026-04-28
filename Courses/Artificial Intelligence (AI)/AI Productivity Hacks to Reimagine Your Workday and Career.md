@@ -21,8 +21,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Productivity%20Hacks%20to%20Reimagine%20Your%20Workday%20and%20Career.md)
 
 ![AI Productivity Hacks to Reimagine Your Workday and Career](https://media.licdn.com/dms/image/v2/D560DAQEenBAx3uzf-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695677969449?e=2147483647&amp;v=beta&amp;t=QbWADSDlVHEcZZQgps6yIbnI2pL-BouX4o_FpLIWYp0)
 
@@ -33,13 +35,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career) | 30m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dr. Marily Nika]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AI Productivity Hacks** (9 videos)
+
+### 1. Introduction
 
 #### Improve productivity with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980)
@@ -76,7 +79,7 @@ created: 2026-04-21
 > **Speakers:** - ever (1)
 
 
-### 1. AI Productivity Hacks
+### 2. 1. AI Productivity Hacks
 
 #### Adopt an AI-augmented mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980)
@@ -771,6 +774,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Dr. Marily Nika]]
 
 ## Path Context
 

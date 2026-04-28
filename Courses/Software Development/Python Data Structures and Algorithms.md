@@ -36,8 +36,10 @@ tags:
   - skill/python-programming-language
   - skill/algorithms
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Data%20Structures%20and%20Algorithms.md)
 
 ![Python Data Structures and Algorithms](https://media.licdn.com/dms/image/v2/D560DAQHAyPtS4ZsHfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703185888414?e=2147483647&amp;v=beta&amp;t=WHBvb3WEBoRNl6tLPhqnpUKrZFPgR1f4qkJmHmwvg-s)
 
@@ -48,23 +50,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms) | 2h 19m | Intermediate | 229K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Robin Andrews]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Structures
-- Python (Programming Language)
-- Algorithms
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Pathfinding Algorithms in a Maze Game** (2 videos)
+- **3. 2. The Stack Data Structure** (3 videos)
+- **4. 3. The 2D List Data Structure** (5 videos)
+- **5. 4. Depth-First Search Algorithm** (6 videos)
+- **6. 5. The Queue Data Structure** (3 videos)
+- **7. 6. The Breadth-First Search Algorithm** (5 videos)
+- **8. 7. The Priority Queue Data Structure** (3 videos)
+- **9. 8. The A* Search Algorithm** (5 videos)
+- **10. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Python data structures and algorithms in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980)
@@ -122,7 +123,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Pathfinding Algorithms in a Maze Game
+### 2. 1. Pathfinding Algorithms in a Maze Game
 
 #### Understand the example application
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980)
@@ -369,7 +370,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Stack Data Structure
+### 3. 2. The Stack Data Structure
 
 #### Understand the stack data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-stack-data-structure?u=76281980)
@@ -718,7 +719,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-reverse-a-string-using-a-stack-19861494?u=76281980)
 
 
-### 3. The 2D List Data Structure
+### 4. 3. The 2D List Data Structure
 
 #### Understand the 2D list data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-2d-list-data-structure?u=76281980)
@@ -1050,7 +1051,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Depth-First Search Algorithm
+### 5. 4. Depth-First Search Algorithm
 
 #### Understand the depth-first search algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-depth-first-search-algorithm?u=76281980)
@@ -1640,7 +1641,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. The Queue Data Structure
+### 6. 5. The Queue Data Structure
 
 #### Understand the queue data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-queue-data-structure?u=76281980)
@@ -1830,7 +1831,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-practice-queue-methods-19863377?u=76281980)
 
 
-### 6. The Breadth-First Search Algorithm
+### 7. 6. The Breadth-First Search Algorithm
 
 #### Understand the breadth-first search algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980)
@@ -2246,7 +2247,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. The Priority Queue Data Structure
+### 8. 7. The Priority Queue Data Structure
 
 #### Understand the priority queue data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980)
@@ -2511,7 +2512,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-heapq-methods-practice-19862403?u=76281980)
 
 
-### 8. The A* Search Algorithm
+### 9. 8. The A* Search Algorithm
 
 #### Understand the A* search algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980)
@@ -3147,7 +3148,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Pathfinding algorithms in the course maze GUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980)
@@ -3295,6 +3296,20 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [robin] (1)
 
+
+## Instructor
+
+- [[Robin Andrews]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Structures
+- Python (Programming Language)
+- Algorithms
 
 ## Path Context
 

@@ -39,8 +39,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20Build%20an%20AI%20Chatbot%20with%20GPT-4o%20and%20Next.js.md)
 
 ![Hands-On AI: Build an AI Chatbot with GPT-4o and Next.js](https://media.licdn.com/dms/image/v2/D4E0DAQG35oVjgWP9cA/learning-public-crop_675_1200/B4EZc3qeSZH0Ao-/0/1748985570771?e=2147483647&amp;v=beta&amp;t=59hJHD4ViN-SdcPPRWe_J1fAvYIJmC8WVStCt2nB6OQ)
 
@@ -51,26 +53,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js) | 1h 47m | Intermediate | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ebenezer Don]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/building-a-modern-ai-chat-application-with-nextjs-and-openai-6036004/codespaces)
-
-## Skills Covered
-
-- Chatbot Development
-- AI Software Development
-- Next.js
-- Artificial Intelligence (AI)
-- ChatGPT
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Project Setup and Foundation** (3 videos)
+- **3. 2. Integrating the Vercel AI SDK** (3 videos)
+- **4. 3. Setting Up the Client-Side Database** (3 videos)
+- **5. 4. Building the Chat Interface and Logic** (4 videos)
+- **6. 5. Implementing Chat Title Generation** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build an AI chatbot
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980)
@@ -221,7 +216,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Project Setup and Foundation
+### 2. 1. Project Setup and Foundation
 
 #### Getting your environment and Codespaces set up
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/getting-your-environment-and-codespaces-setup?u=76281980)
@@ -440,7 +435,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Integrating the Vercel AI SDK
+### 3. 2. Integrating the Vercel AI SDK
 
 #### Setting up Vercel AI SDK and GitHub models
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980)
@@ -734,7 +729,7 @@ created: 2026-04-21
 > **Warnings:** note that (2)
 
 
-### 3. Setting Up the Client-Side Database
+### 4. 3. Setting Up the Client-Side Database
 
 #### Understanding IndexedDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/understanding-indexeddb?u=76281980)
@@ -1013,7 +1008,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Building the Chat Interface and Logic
+### 5. 4. Building the Chat Interface and Logic
 
 #### Building the ChatThread component
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980)
@@ -2126,7 +2121,7 @@ created: 2026-04-21
 > **Versions:** 1.5 (1)
 
 
-### 5. Implementing Chat Title Generation
+### 6. 5. Implementing Chat Title Generation
 
 #### Creating the chat title generation API
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980)
@@ -2407,7 +2402,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Testing features and course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/testing-features-and-course-conclusion?u=76281980)
@@ -2469,6 +2464,23 @@ created: 2026-04-21
 > **UI Navigation:** click on (1), in the sidebar (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Ebenezer Don]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/building-a-modern-ai-chat-application-with-nextjs-and-openai-6036004/codespaces)
+
+## Skills Covered
+
+- Chatbot Development
+- AI Software Development
+- Next.js
+- Artificial Intelligence (AI)
+- ChatGPT
 
 ## Path Context
 

@@ -37,8 +37,10 @@ tags:
   - skill/web-application-development
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Express%20Essentials-%20Build%20Powerful%20Web%20Apps%20with%20Node.js.md)
 
 ![Express Essentials: Build Powerful Web Apps with Node.js](https://media.licdn.com/dms/image/v2/C560DAQGKtfaW13vibA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643826197423?e=2147483647&amp;v=beta&amp;t=X81OoNDAWbAW2ZkeAynmerPGMiUmmdbLuq-X-VbDMd0)
 
@@ -49,23 +51,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js) | 1h 59m | Beginner | 57K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jamie Pittman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Express.js
-- Web Application Development
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Installation and First Steps: Node.js and Express** (3 videos)
+- **3. 2. Express Basics** (6 videos)
+- **4. 3. Express Routing Fundamentals** (4 videos)
+- **5. 4. Express Essentials: Middleware** (4 videos)
+- **6. 5. Taking Express One Step Further** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Generate server-side code with Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/generate-server-side-code-with-express-24554156?u=76281980)
@@ -131,7 +129,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Installation and First Steps: Node.js and Express
+### 2. 1. Installation and First Steps: Node.js and Express
 
 #### What are Node.js and npm?
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980)
@@ -436,7 +434,7 @@ created: 2026-04-21
 > **Env Vars:** debug (2), css (1)
 
 
-### 2. Express Basics
+### 3. 2. Express Basics
 
 #### Getting started: Server and project setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980)
@@ -1303,7 +1301,7 @@ created: 2026-04-21
 > **UI Navigation:** drag and drop (2)
 
 
-### 3. Express Routing Fundamentals
+### 4. 3. Express Routing Fundamentals
 
 #### What are routing parameters?
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980)
@@ -1825,7 +1823,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Express Essentials: Middleware
+### 5. 4. Express Essentials: Middleware
 
 #### What is middleware?
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980)
@@ -2231,7 +2229,7 @@ created: 2026-04-21
 > **UI Navigation:** scroll down (1)
 
 
-### 5. Taking Express One Step Further
+### 6. 5. Taking Express One Step Further
 
 #### How to debug your express application
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980)
@@ -2469,7 +2467,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/next-steps?u=76281980)
@@ -2503,6 +2501,20 @@ created: 2026-04-21
 > **File Paths:** node.js (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jamie Pittman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Express.js
+- Web Application Development
+- Node.js
 
 ## Path Context
 

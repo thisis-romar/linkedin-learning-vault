@@ -35,8 +35,10 @@ tags:
   - skill/application-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20Engineering-%20Speech%2C%20Language%2C%20and%20Vision%20Solutions.md)
 
 ![Azure AI Engineering: Speech, Language, and Vision Solutions](https://media.licdn.com/dms/image/v2/D4D0DAQEFzp92FB3_cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008951241?e=2147483647&amp;v=beta&amp;t=Jhgi7Fu4Psw02QhuLUccIfJHcU20fi3ljfxIrjJMV9o)
 
@@ -47,20 +49,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions) | 1h 51m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Microsoft Learn]]
-
-## Skills Covered
-
-- AI Software Development
-- Artificial Intelligence (AI)
-- Application Development
-- Microsoft Azure
-
 ## Table of Contents
 
-### 1. Create Speech-Enabled Apps with Azure AI Services
+### Chapter Overview
+
+- **1. 1. Create Speech-Enabled Apps with Azure AI Services** (1 videos)
+- **2. 2. Translate Speech with the Azure AI Speech Service** (0 videos)
+- **3. 3. Build a Conversational Language Understanding Model** (0 videos)
+- **4. 4. Develop an App with Azure AI Language** (0 videos)
+- **5. 5. Build a Question Answering Solution** (0 videos)
+- **6. 6. Create a Custom Text Classification Solution** (0 videos)
+- **7. 7. Custom Named Entity Recognition** (0 videos)
+- **8. 8. Analyze Images** (0 videos)
+- **9. 9. Analyze Video** (0 videos)
+- **10. 10. Classify Images** (0 videos)
+- **11. 11. Detect Objects in Images** (0 videos)
+- **12. 12. Detect, Analyze, and Recognize Faces** (0 videos)
+
+### 1. 1. Create Speech-Enabled Apps with Azure AI Services
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions/introduction?u=76281980)
@@ -85,38 +91,49 @@ created: 2026-04-21
 > **Speakers:** - welcome (1)
 
 
-### 2. Translate Speech with the Azure AI Speech Service
+### 2. 2. Translate Speech with the Azure AI Speech Service
 
 
-### 3. Build a Conversational Language Understanding Model
+### 3. 3. Build a Conversational Language Understanding Model
 
 
-### 4. Develop an App with Azure AI Language
+### 4. 4. Develop an App with Azure AI Language
 
 
-### 5. Build a Question Answering Solution
+### 5. 5. Build a Question Answering Solution
 
 
-### 6. Create a Custom Text Classification Solution
+### 6. 6. Create a Custom Text Classification Solution
 
 
-### 7. Custom Named Entity Recognition
+### 7. 7. Custom Named Entity Recognition
 
 
-### 8. Analyze Images
+### 8. 8. Analyze Images
 
 
-### 9. Analyze Video
+### 9. 9. Analyze Video
 
 
-### 10. Classify Images
+### 10. 10. Classify Images
 
 
-### 11. Detect Objects in Images
+### 11. 11. Detect Objects in Images
 
 
-### 12. Detect, Analyze, and Recognize Faces
+### 12. 12. Detect, Analyze, and Recognize Faces
 
+
+## Instructor
+
+- [[Microsoft Learn]]
+
+## Skills Covered
+
+- AI Software Development
+- Artificial Intelligence (AI)
+- Application Development
+- Microsoft Azure
 
 ## Path Context
 

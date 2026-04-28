@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/digital-transformation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Assessing%20Digital%20Maturity.md)
 
 ![Assessing Digital Maturity](https://media.licdn.com/dms/image/v2/C4E0DAQFUSQUv6ogumw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567721258200?e=2147483647&amp;v=beta&amp;t=6VKPEkD0_wbRvQwGUP9Sek4Yt5ZzakeM-QipKas6nMI)
 
@@ -41,21 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity) | 39m | Advanced | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Peter High]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Digital Transformation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Thinking Outside of your Organization** (5 videos)
+- **3. 2. Five Stages of Digital Maturity** (3 videos)
+- **4. 3. Putting the Model into Action: The Development of Capability Teams** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How to assess digital maturity
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/how-to-assess-digital-maturity?u=76281980)
@@ -187,7 +185,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. Thinking Outside of your Organization
+### 2. 1. Thinking Outside of your Organization
 
 #### Speed is the new currency of business
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980)
@@ -543,7 +541,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 2. Five Stages of Digital Maturity
+### 3. 2. Five Stages of Digital Maturity
 
 #### Five stages of digital maturity
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980)
@@ -785,7 +783,7 @@ created: 2026-04-21
 > **Speakers:** - customers (1)
 
 
-### 3. Putting the Model into Action: The Development of Capability Teams
+### 4. 3. Putting the Model into Action: The Development of Capability Teams
 
 #### Capability teams defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980)
@@ -920,7 +918,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/next-steps?u=76281980)
@@ -964,6 +962,18 @@ created: 2026-04-21
 > **Env Vars:** cio (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Peter High]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Digital Transformation
 
 ## Path Context
 

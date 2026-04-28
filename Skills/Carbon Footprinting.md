@@ -3,11 +3,16 @@ type: skill
 cssclasses:
   - lle-skill
 course_count: 1
+level_beginner: 0
+level_intermediate: 0
+level_advanced: 0
 tags:
   - skill
   - skill/carbon-footprinting
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Carbon%20Footprinting.md)
 
 # Carbon Footprinting
 
@@ -15,4 +20,8 @@ created: 2026-04-21
 
 ## Courses
 
-- [[Digital Sustainability- How to Reduce Your Digital Footprint]]
+- [[Digital Sustainability- How to Reduce Your Digital Footprint]] — 32m · 25,137 learners
+
+## Related Skills
+
+- [[Digital Sustainability]] — 1 shared course

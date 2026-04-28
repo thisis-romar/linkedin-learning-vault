@@ -30,8 +30,10 @@ tags:
   - skill/r-programming-language
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Build%20Advanced%20Charts%20in%20R.md)
 
 ![Build Advanced Charts in R](https://media.licdn.com/dms/image/v2/D560DAQHDgvGBnVrA3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692390095857?e=2147483647&amp;v=beta&amp;t=O4GASJztQQ9RHPg7gemZ9An0qCC32UK3t4EQVJAXzOc)
 
@@ -42,23 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r) | 1h 43m | Advanced | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rita Giordano]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/build-advanced-charts-in-r-4405613)
-
-## Skills Covered
-
-- R (Programming Language)
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Explore the Data** (2 videos)
+- **3. 2. Chords Diagrams** (6 videos)
+- **4. 3. Other Advanced Charts** (4 videos)
+- **5. 4. Accessibility and Annotations** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building advanced charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=76281980)
@@ -158,7 +155,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Explore the Data
+### 2. 1. Explore the Data
 
 #### Load and inspect your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980)
@@ -304,7 +301,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Chords Diagrams
+### 3. 2. Chords Diagrams
 
 #### Introduction to {circlize} package
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980)
@@ -986,7 +983,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Other Advanced Charts
+### 4. 3. Other Advanced Charts
 
 #### Create advanced charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-advanced-charts?u=76281980)
@@ -1437,7 +1434,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Accessibility and Annotations
+### 5. 4. Accessibility and Annotations
 
 #### Accessible color palettes
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980)
@@ -1758,7 +1755,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980)
@@ -1797,6 +1794,20 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [rita] (1)
 
+
+## Instructor
+
+- [[Rita Giordano]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/build-advanced-charts-in-r-4405613)
+
+## Skills Covered
+
+- R (Programming Language)
+- Data Visualization
 
 ## Path Context
 

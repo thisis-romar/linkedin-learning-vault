@@ -36,8 +36,10 @@ tags:
   - skill/package-management
   - skill/npm
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20npm-%20A%20Package%20Manager.md)
 
 ![Learning npm: A Package Manager](https://media.licdn.com/dms/image/v2/C4D0DAQFg7WtswO2x6w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679938394111?e=2147483647&amp;v=beta&amp;t=LT14fGNBKJt3K2tLYLBOZn33aw1Qko0tB6FO0fgBkfk)
 
@@ -48,23 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager) | 55m | Beginner | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-npm-the-node-package-manager-4362456/codespaces)
-
-## Skills Covered
-
-- Package Management
-- npm
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Definition and Installation** (2 videos)
+- **3. 2. Getting Started with npm** (7 videos)
+- **4. 3. Publishing Your Package** (3 videos)
+- **5. 4. Advanced Subjects** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning npm
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980)
@@ -253,7 +250,7 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 
 
-### 1. Definition and Installation
+### 2. 1. Definition and Installation
 
 #### Defining a package and npm
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980)
@@ -344,7 +341,7 @@ created: 2026-04-21
 > **Code Identifiers:** macos (1)
 
 
-### 2. Getting Started with npm
+### 3. 2. Getting Started with npm
 
 #### Initializing a package.json file
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980)
@@ -731,7 +728,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### 3. Publishing Your Package
+### 4. 3. Publishing Your Package
 
 #### Publishing an unscoped package
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980)
@@ -1021,7 +1018,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Advanced Subjects
+### 5. 4. Advanced Subjects
 
 #### Working with your npm cache
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/working-with-your-npm-cache?u=76281980)
@@ -1483,7 +1480,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Furthering your npm journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980)
@@ -1517,6 +1514,20 @@ created: 2026-04-21
 > **File Paths:** node.js (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-npm-the-node-package-manager-4362456/codespaces)
+
+## Skills Covered
+
+- Package Management
+- npm
 
 ## Path Context
 

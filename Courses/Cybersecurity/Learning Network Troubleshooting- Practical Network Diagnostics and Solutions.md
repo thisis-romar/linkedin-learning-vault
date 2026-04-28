@@ -29,8 +29,10 @@ tags:
   - topic/network-and-system-administration
   - skill/network-troubleshooting
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Learning%20Network%20Troubleshooting-%20Practical%20Network%20Diagnostics%20and%20Solutions.md)
 
 ![Learning Network Troubleshooting: Practical Network Diagnostics and Solutions](https://media.licdn.com/dms/image/v2/C4E0DAQFpm7wKg0o82A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616002667822?e=2147483647&amp;v=beta&amp;t=Y78LSSeYuss2iTCX9qmYO_l8k2zox5gK9sSStSKOG4U)
 
@@ -41,17 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions) | 1h 59m | Intermediate | 138K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Robert McMillen]]
-
-## Skills Covered
-
-- Network Troubleshooting
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Training Network Problems** (3 videos)
+- **3. 2. Troubleshooting Remote User Network Problems** (3 videos)
+- **4. 3. Troubleshooting Corporate Wireless Network Problems** (2 videos)
+- **5. 4. Troubleshooting VPN Network Problems** (3 videos)
+- **6. 5. Network Tools Administrators Need to Know** (5 videos)
+- **7. 6. Troubleshooting Routing, Switching, and Firewalls** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Need to troubleshoot your network?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980)
@@ -86,7 +91,7 @@ created: 2026-04-21
 > **Speakers:** - [robert] (1)
 
 
-### 1. Training Network Problems
+### 2. 1. Training Network Problems
 
 #### How to determine the severity of network problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980)
@@ -414,7 +419,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Troubleshooting Remote User Network Problems
+### 3. 2. Troubleshooting Remote User Network Problems
 
 #### Common home networking issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980)
@@ -951,7 +956,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (2), setup (1)
 
 
-### 3. Troubleshooting Corporate Wireless Network Problems
+### 4. 3. Troubleshooting Corporate Wireless Network Problems
 
 #### Most common issues with corporate wireless
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980)
@@ -1077,7 +1082,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Troubleshooting VPN Network Problems
+### 5. 4. Troubleshooting VPN Network Problems
 
 #### What VPN types work in hotels and restaurants
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980)
@@ -1367,7 +1372,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Network Tools Administrators Need to Know
+### 6. 5. Network Tools Administrators Need to Know
 
 #### Windows command-line tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980)
@@ -2074,7 +2079,7 @@ created: 2026-04-21
 > **URLs:** [nmap.org](https://nmap.org) (2), [wireshark.org](https://wireshark.org) (1)
 
 
-### 6. Troubleshooting Routing, Switching, and Firewalls
+### 7. 6. Troubleshooting Routing, Switching, and Firewalls
 
 #### Modern network design
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980)
@@ -2421,7 +2426,7 @@ created: 2026-04-21
 > **Analogies:** for instance (2)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980)
@@ -2448,6 +2453,14 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - [robert] (1)
 
+
+## Instructor
+
+- [[Robert McMillen]]
+
+## Skills Covered
+
+- Network Troubleshooting
 
 ## Path Context
 

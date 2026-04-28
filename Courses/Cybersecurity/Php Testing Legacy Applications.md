@@ -26,8 +26,10 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Php%20Testing%20Legacy%20Applications.md)
 
 ![Php Testing Legacy Applications](https://media.licdn.com/dms/image/v2/C4E0DAQFkj-Bf8vWqtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118629594?e=2147483647&amp;v=beta&amp;t=WLBFAA8UF-GyMwjkvTV7kTAKQHiqoZ6qe0Yb4_2Zcts)
 
@@ -38,17 +40,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications) | Intermediate | 35K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. What Changes When Testing Legacy Code** (5 videos)
+- **3. 2. Why Legacy Code Can Be Hard to Test** (5 videos)
+- **4. 3. Laying the Foundation** (4 videos)
+- **5. 4. Testing Legacy Code** (8 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980)
@@ -156,7 +159,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Changes When Testing Legacy Code
+### 2. 1. What Changes When Testing Legacy Code
 
 #### TDD vs. test after
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/tdd-vs-test-after?u=76281980)
@@ -670,7 +673,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Why Legacy Code Can Be Hard to Test
+### 3. 2. Why Legacy Code Can Be Hard to Test
 
 #### Bootstrap sequences, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980)
@@ -1285,7 +1288,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Laying the Foundation
+### 4. 3. Laying the Foundation
 
 #### Just how many tests do we need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980)
@@ -1636,7 +1639,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Testing Legacy Code
+### 5. 4. Testing Legacy Code
 
 #### Why test a legacy application?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980)
@@ -2426,7 +2429,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/next-steps?u=76281980)
@@ -2462,6 +2465,14 @@ created: 2026-04-21
 > **URLs:** [grumpy-learning.com](https://grumpy-learning.com) (1)
 > **Speakers:** - [chris] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- PHP
 
 ## Path Context
 

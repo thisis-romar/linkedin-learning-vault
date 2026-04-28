@@ -30,8 +30,10 @@ tags:
   - topic/devops
   - skill/terraform
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20Terraform.md)
 
 ![Learning Terraform](https://media.licdn.com/dms/image/v2/C560DAQHxgeea4RepGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666200700025?e=2147483647&amp;v=beta&amp;t=OrjMwXJjQOkfLe2WqCtJ1qfKPLib5_U1ws5FPeCgpYg)
 
@@ -42,22 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129) | 2h 28m | Beginner | 29K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Josh Samuelson]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-terraform-3087701)
-
-## Skills Covered
-
-- Terraform
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. First Steps with Terraform** (4 videos)
+- **3. 2. Terraform in Action** (6 videos)
+- **4. 3. Infrastructure as Code** (7 videos)
+- **5. 4. Advanced Topics** (8 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn Terraform for your cloud infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?u=76281980)
@@ -127,7 +125,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. First Steps with Terraform
+### 2. 1. First Steps with Terraform
 
 #### What is Terraform?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980)
@@ -485,7 +483,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 2. Terraform in Action
+### 3. 2. Terraform in Action
 
 #### Terraform plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980)
@@ -1003,7 +1001,7 @@ created: 2026-04-21
 > **Tools:** command line (1)
 
 
-### 3. Infrastructure as Code
+### 4. 3. Infrastructure as Code
 
 #### Resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980)
@@ -1705,7 +1703,7 @@ created: 2026-04-21
 > **Documentation:** the documentation (2)
 
 
-### 4. Advanced Topics
+### 5. 4. Advanced Topics
 
 #### Get ready to scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980)
@@ -3406,7 +3404,7 @@ created: 2026-04-21
 > **Analogies:** for example (2)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980)
@@ -3471,6 +3469,19 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Josh Samuelson]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-terraform-3087701)
+
+## Skills Covered
+
+- Terraform
 
 ## Path Context
 

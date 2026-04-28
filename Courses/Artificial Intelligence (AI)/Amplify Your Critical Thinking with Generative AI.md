@@ -26,8 +26,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Amplify%20Your%20Critical%20Thinking%20with%20Generative%20AI.md)
 
 ![Amplify Your Critical Thinking with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQGnlBu8p3T2nQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704757669591?e=2147483647&amp;v=beta&amp;t=r5KbqCh7k37AA9B4D57gkTVzXP8QgrmiJvm3m-_oL6w)
 
@@ -38,13 +40,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai) | 1h
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Becki Saltzman]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Rooting Out Biases** (3 videos)
+- **3. 2. Critical Thinking Framework for Generative AI** (8 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### A timeless framework for an evolving technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980)
@@ -159,7 +164,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 1. Rooting Out Biases
+### 2. 1. Rooting Out Biases
 
 #### Putting generative AI through the truth filter
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980)
@@ -391,7 +396,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 2. Critical Thinking Framework for Generative AI
+### 3. 2. Critical Thinking Framework for Generative AI
 
 #### Using the PIQPACC critical thinking framework with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980)
@@ -1103,7 +1108,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Choose three ways others can use critical thinking with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980)
@@ -1174,6 +1179,10 @@ created: 2026-04-21
 > **Code Keywords:** pass (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Becki Saltzman]]
 
 ## Path Context
 

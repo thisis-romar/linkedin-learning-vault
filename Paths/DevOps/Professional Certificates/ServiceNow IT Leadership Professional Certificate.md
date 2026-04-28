@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 11
+louvain_cluster: 13
 tags:
   - professional-certificate
   - topic/devops
@@ -35,8 +35,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Professional%20Certificates/ServiceNow%20IT%20Leadership%20Professional%20Certificate.md)
 
 # ServiceNow IT Leadership Professional Certificate
 

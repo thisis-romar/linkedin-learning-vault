@@ -37,8 +37,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/change-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Leading%20with%20Generative%20AI-%20Master%20Change%20Management%20for%20Success.md)
 
 ![Leading with Generative AI: Master Change Management for Success](https://media.licdn.com/dms/image/v2/D4E0DAQFmvBf7B5-zzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736530265864?e=2147483647&amp;v=beta&amp;t=wLR35OKH7ufOOcCwMnaLMyaWlBA9-q00JbESkKfXmQU)
 
@@ -49,20 +51,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success) | 49m | Intermediate | 56K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bob Higgins]]
-- [[Jules White]]
-
-## Skills Covered
-
-- AI for Business
-- Artificial Intelligence (AI)
-- Change Management
-
 ## Table of Contents
 
-### 1. Leading with Generative AI: Master Change Management for Success
+### Chapter Overview
+
+- **1. 1. Leading with Generative AI: Master Change Management for Success** (15 videos)
+
+### 1. 1. Leading with Generative AI: Master Change Management for Success
 
 #### Introduction to generative AI and change management: Leading the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-generative-ai-and-change-management-leading-the-future?u=76281980)
@@ -1212,6 +1207,17 @@ created: 2026-04-21
 > **CLI Commands:** make (2)
 > **Speakers:** - thank (1), - i (1)
 
+
+## Instructor
+
+- [[Bob Higgins]]
+- [[Jules White]]
+
+## Skills Covered
+
+- AI for Business
+- Artificial Intelligence (AI)
+- Change Management
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - topic/network-and-system-administration
   - skill/office-365-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Microsoft%20365%20for%20Administrators-%20Supporting%20Users.md)
 
 ![Microsoft 365 for Administrators: Supporting Users](https://media.licdn.com/dms/image/v2/C4E0DAQG3wU7KTFdjDg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581636946697?e=2147483647&amp;v=beta&amp;t=W_zRJDPMaNxDSN65_bQOJWdSKUgDoSP7EyySfd5K9n8)
 
@@ -41,17 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users) | 2h 5m | Intermediate | 59K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sharon Bennett]]
-
-## Skills Covered
-
-- Office 365 Administration
-
 ## Table of Contents
 
-### Get Started
+### Chapter Overview
+
+- **1. Get Started** (4 videos)
+- **2. 1. Getting Users Started** (6 videos)
+- **3. 2. Productivity** (8 videos)
+- **4. 3. Communications** (3 videos)
+- **5. 4. Getting Things Done** (6 videos)
+- **6. 5. Collaboration** (4 videos)
+- **7. 6. Media Rich Apps** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Get Started
 
 #### Administrators support Office 365 users
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980)
@@ -318,7 +323,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Getting Users Started
+### 2. 1. Getting Users Started
 
 #### Training basics: Office 365 portal overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980)
@@ -758,7 +763,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Productivity
+### 3. 2. Productivity
 
 #### Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980)
@@ -1687,7 +1692,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 3. Communications
+### 4. 3. Communications
 
 #### Use Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980)
@@ -1950,7 +1955,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Getting Things Done
+### 5. 4. Getting Things Done
 
 #### Visio
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980)
@@ -2602,7 +2607,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Collaboration
+### 6. 5. Collaboration
 
 #### OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980)
@@ -3009,7 +3014,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Media Rich Apps
+### 7. 6. Media Rich Apps
 
 #### Publisher
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980)
@@ -3301,7 +3306,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/next-steps?u=76281980)
@@ -3318,6 +3323,14 @@ created: 2026-04-21
 >
 > **Speakers:** - [sharon] (1)
 
+
+## Instructor
+
+- [[Sharon Bennett]]
+
+## Skills Covered
+
+- Office 365 Administration
 
 ## Path Context
 

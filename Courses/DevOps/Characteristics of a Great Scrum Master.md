@@ -27,8 +27,10 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Characteristics%20of%20a%20Great%20Scrum%20Master.md)
 
 ![Characteristics of a Great Scrum Master](https://media.licdn.com/dms/image/v2/C4E0DAQHnQhv-MUQ5sQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668837277?e=2147483647&amp;v=beta&amp;t=_iGyrHNWcPlKf5fEl3YFDhtixO4d3FN4k1-PGjlMLU4)
 
@@ -39,17 +41,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master) | 13m | 916K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brandon Raines]]
-
-## Skills Covered
-
-- Scrum
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Characteristics** (5 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Becoming a great scrum master
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980)
@@ -77,7 +77,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. The Characteristics
+### 2. 1. The Characteristics
 
 #### Be an honest broker
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/be-an-honest-broker?u=76281980)
@@ -389,7 +389,7 @@ created: 2026-04-21
 > **Speakers:** - study (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Continue learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/continue-learning?u=76281980)
@@ -417,6 +417,14 @@ created: 2026-04-21
 > **Definitions:** is a  (3)
 > **Speakers:** - becoming (1)
 
+
+## Instructor
+
+- [[Brandon Raines]]
+
+## Skills Covered
+
+- Scrum
 
 ## Path Context
 

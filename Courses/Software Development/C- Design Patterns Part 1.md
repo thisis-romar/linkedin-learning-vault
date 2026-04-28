@@ -31,8 +31,10 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Design%20Patterns%20Part%201.md)
 
 ![C#: Design Patterns Part 1](https://media.licdn.com/dms/image/v2/C4E0DAQGABZchVc3mTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602606441011?e=2147483647&amp;v=beta&amp;t=xgSclet3dNidpbvP1V3N9s8QZgtVE39X_sfqUtP32VA)
 
@@ -43,23 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825) | 2h 8m | Intermediate | 33K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Richard Goforth]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/csharp-design-patterns-2314072)
-
-## Skills Covered
-
-- Software Design Patterns
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Defining Software Design Patterns** (9 videos)
+- **3. 2. Get Started with Design Patterns** (5 videos)
+- **4. 3. The Iterator Pattern** (5 videos)
+- **5. 4. The Factory Method Pattern** (5 videos)
+- **6. 5. The Adapter Pattern** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Object-oriented design patterns in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980)
@@ -247,7 +245,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Defining Software Design Patterns
+### 2. 1. Defining Software Design Patterns
 
 #### Object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-programming?u=76281980)
@@ -846,7 +844,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 2. Get Started with Design Patterns
+### 3. 2. Get Started with Design Patterns
 
 #### Using software design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980)
@@ -1297,7 +1295,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. The Iterator Pattern
+### 4. 3. The Iterator Pattern
 
 #### Iterator pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980)
@@ -1708,7 +1706,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. The Factory Method Pattern
+### 5. 4. The Factory Method Pattern
 
 #### Factory Method pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980)
@@ -2085,7 +2083,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. The Adapter Pattern
+### 6. 5. The Adapter Pattern
 
 #### Adapter pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-pattern-definition?u=76281980)
@@ -2467,7 +2465,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980)
@@ -2510,6 +2508,20 @@ created: 2026-04-21
 > **Exercise Files:** source code (1)
 > **Speakers:** - [richard] (1)
 
+
+## Instructor
+
+- [[Richard Goforth]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/csharp-design-patterns-2314072)
+
+## Skills Covered
+
+- Software Design Patterns
+- C#
 
 ## Path Context
 

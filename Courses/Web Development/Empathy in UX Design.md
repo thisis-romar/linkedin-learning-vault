@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Empathy%20in%20UX%20Design.md)
 
 ![Empathy in UX Design](https://media.licdn.com/dms/image/v2/D4E0DAQHrfj6kO86P6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733504573568?e=2147483647&amp;v=beta&amp;t=pApeDVQQTTH7We-OO3QceFw5sCC8TAUGAvIlHB1HGfw)
 
@@ -40,17 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320) | 1h 5m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Cory Lebson]]
-
-## Skills Covered
-
-- User Experience Design (UED)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Empathy and UX** (2 videos)
+- **3. 2. Building Personal Empathy** (7 videos)
+- **4. 3. Empathy in UX Research** (7 videos)
+- **5. 4. Designing and Delivering Empathy** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Empathy and user experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980)
@@ -79,7 +82,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 1. Empathy and UX
+### 2. 1. Empathy and UX
 
 #### What is empathy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980)
@@ -217,7 +220,7 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 
 
-### 2. Building Personal Empathy
+### 3. 2. Building Personal Empathy
 
 #### Where is your starting point?
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/where-is-your-starting-point?u=76281980)
@@ -627,7 +630,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. Empathy in UX Research
+### 4. 3. Empathy in UX Research
 
 #### Choosing methods to tell a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980)
@@ -1045,7 +1048,7 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 
 
-### 4. Designing and Delivering Empathy
+### 5. 4. Designing and Delivering Empathy
 
 #### Storytelling with research findings
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980)
@@ -1360,7 +1363,7 @@ created: 2026-04-21
 > **Warnings:** caution (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Use your empathy for good
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980)
@@ -1388,6 +1391,14 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 
+
+## Instructor
+
+- [[Cory Lebson]]
+
+## Skills Covered
+
+- User Experience Design (UED)
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - topic/network-and-system-administration
   - topic/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/IT%20Security%20Foundations-%20Network%20Security.md)
 
 ![IT Security Foundations: Network Security](https://media.licdn.com/dms/image/v2/C560DAQGbAWaIPiK3Xg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663700741013?e=2147483647&amp;v=beta&amp;t=DqieY9A9jEQrQqOs4YkA2t-avMExTs1Q2GtcRYLslhE)
 
@@ -41,13 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799) | 2h 43m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Recognize Security Devices** (6 videos)
+- **3. 2. Isolate the Network** (6 videos)
+- **4. 3. Secure the Cloud** (4 videos)
+- **5. 4. Identify Attacks** (5 videos)
+- **6. 5. Secure Protocols and Procedures** (6 videos)
+- **7. 6. Limiting Access** (7 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Securing the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-the-network?u=76281980)
@@ -108,7 +117,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Recognize Security Devices
+### 2. 1. Recognize Security Devices
 
 #### Understanding firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980)
@@ -622,7 +631,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise file (1)
 
 
-### 2. Isolate the Network
+### 3. 2. Isolate the Network
 
 #### Segmenting using routers and VLANS
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980)
@@ -1108,7 +1117,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Secure the Cloud
+### 4. 3. Secure the Cloud
 
 #### Summarize cloud concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980)
@@ -1376,7 +1385,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Identify Attacks
+### 5. 4. Identify Attacks
 
 #### Comparing attack methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980)
@@ -1852,7 +1861,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 5. Secure Protocols and Procedures
+### 6. 5. Secure Protocols and Procedures
 
 #### Using antivirus
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-antivirus?u=76281980)
@@ -2352,7 +2361,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Limiting Access
+### 7. 6. Limiting Access
 
 #### Using the principle of least privilege
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-the-principle-of-least-privilege?u=76281980)
@@ -2793,7 +2802,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980)
@@ -2822,6 +2831,10 @@ created: 2026-04-21
 > **Code Keywords:** protected (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
 
 ## Path Context
 

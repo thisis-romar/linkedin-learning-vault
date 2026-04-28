@@ -21,8 +21,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20for%20Small%20and%20Medium%20Business%20Growth.md)
 
 ![Leveraging AI for Small and Medium Business Growth](https://media.licdn.com/dms/image/v2/D4E0DAQFtFJ476d7Dqw/learning-public-crop_675_1200/B4EZUaGymsH0Ac-/0/1739899743000?e=2147483647&amp;v=beta&amp;t=51x1EjYYXWRSH9b5Uk5yxNlWh27Wk3rPn6k5YDRW3PU)
 
@@ -33,13 +35,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth) | 1h 31m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Stefan Michel]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Think Strategically about AI for Your Company** (4 videos)
+- **3. 2. Identify AI Use Cases** (5 videos)
+- **4. 3. Implement AI in Your Company** (5 videos)
+- **5. 4. Ethics, Responsible AI, and Risk Management** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI: The secret weapon for small business
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-the-secret-weapon-for-small-business?u=76281980)
@@ -96,7 +103,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Think Strategically about AI for Your Company
+### 2. 1. Think Strategically about AI for Your Company
 
 #### The four categories of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980)
@@ -363,7 +370,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Identify AI Use Cases
+### 3. 2. Identify AI Use Cases
 
 #### Describing AI use cases with the AI canvas
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980)
@@ -873,7 +880,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Implement AI in Your Company
+### 4. 3. Implement AI in Your Company
 
 #### Starting with problems, ideas, or data
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980)
@@ -1197,7 +1204,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Ethics, Responsible AI, and Risk Management
+### 5. 4. Ethics, Responsible AI, and Risk Management
 
 #### AI ethics for small and medium business
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980)
@@ -1574,7 +1581,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### AI: Your future AI roadmap for growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-your-future-ai-roadmap-for-growth?u=76281980)
@@ -1600,6 +1607,10 @@ created: 2026-04-21
 > **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Stefan Michel]]
 
 ## Path Context
 

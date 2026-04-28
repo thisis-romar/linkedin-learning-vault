@@ -27,8 +27,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/The%20Manager's%20Guide%20to%20Difficult%20Conversations.md)
 
 ![The Manager's Guide to Difficult Conversations](https://media.licdn.com/dms/image/v2/C4E0DAQEwW3mZ1jF7kw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581358192160?e=2147483647&amp;v=beta&amp;t=DG1dkCksuZ4r8KDbw-JZlQLC6GUsMikZ97ueABEfJKA)
 
@@ -39,13 +41,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations) | 1h 3m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Marlene Chism]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding and Overcoming Communication Barriers** (2 videos)
+- **3. 2. Difficult Conversations Are Part of the Manager's Job** (3 videos)
+- **4. 3. Avoid These Common Mistakes** (4 videos)
+- **5. 4. Mindsets That Expand Conflict Competency** (2 videos)
+- **6. 5. Build Strategic Communication Skills** (5 videos)
+- **7. Making Tough Calls** (2 videos)
+
+### 1. Introduction
 
 #### Leadership skills and mindsets for difficult conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/leadership-skills-and-mindsets-for-difficult-conversations-19253142?u=76281980)
@@ -74,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 1. Understanding and Overcoming Communication Barriers
+### 2. 1. Understanding and Overcoming Communication Barriers
 
 #### Your conversation style
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/your-conversation-style-19258021?u=76281980)
@@ -240,7 +248,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Difficult Conversations Are Part of the Manager's Job
+### 3. 2. Difficult Conversations Are Part of the Manager's Job
 
 #### How to know it's time for a conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/how-to-know-it-s-time-for-a-conversation-19255036?u=76281980)
@@ -497,7 +505,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 3. Avoid These Common Mistakes
+### 4. 3. Avoid These Common Mistakes
 
 #### Online communication mistakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/online-communication-mistakes?u=76281980)
@@ -883,7 +891,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Mindsets That Expand Conflict Competency
+### 5. 4. Mindsets That Expand Conflict Competency
 
 #### Mindsets: Growth versus fixed
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/mindsets-growth-versus-fixed-19258020?u=76281980)
@@ -1058,7 +1066,7 @@ created: 2026-04-21
 > **Speakers:** - some (1)
 
 
-### 5. Build Strategic Communication Skills
+### 6. 5. Build Strategic Communication Skills
 
 #### Setting communication expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/setting-communication-expectations?u=76281980)
@@ -1490,7 +1498,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### Making Tough Calls
+### 7. Making Tough Calls
 
 #### Create a culture of accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/create-a-culture-of-accountability-19248781?u=76281980)
@@ -1613,6 +1621,10 @@ created: 2026-04-21
 > **Code Keywords:** self (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Marlene Chism]]
 
 ## Path Context
 

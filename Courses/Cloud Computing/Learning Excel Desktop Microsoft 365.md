@@ -24,8 +24,10 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Excel%20Desktop%20Microsoft%20365.md)
 
 ![Learning Excel Desktop Microsoft 365](https://media.licdn.com/dms/image/v2/D560DAQFkwzo-CoSMQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712614617930?e=2147483647&amp;v=beta&amp;t=WPfEDHKpJamyXPblqR3PRi5pjZm60ziiYia6qEDNCQI)
 
@@ -36,17 +38,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024) | Beginner | 96K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Get Started with Excel** (8 videos)
+- **3. 2. Modify Worksheets** (7 videos)
+- **4. 3. Share and Print Workbooks** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build your Excel foundation in Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980)
@@ -95,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Get Started with Excel
+### 2. 1. Get Started with Excel
 
 #### What is Excel?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980)
@@ -1000,7 +1002,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Modify Worksheets
+### 3. 2. Modify Worksheets
 
 #### Format text
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980)
@@ -2050,7 +2052,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Share and Print Workbooks
+### 4. 3. Share and Print Workbooks
 
 #### Print workbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980)
@@ -2407,7 +2409,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Expand your Excel knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980)
@@ -2431,6 +2433,14 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Excel
 
 ## Path Context
 

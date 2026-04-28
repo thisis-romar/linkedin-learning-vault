@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Hands-On%20Introduction-%20Java.md)
 
 ![Hands-On Introduction: Java](https://media.licdn.com/dms/image/v2/D560DAQF6nAhBEhw54Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666989653554?e=2147483647&amp;v=beta&amp;t=tw74qmskKZKRB94IWWhpLS1uFrYc3Kb_tjg2hqwa3zM)
 
@@ -41,21 +43,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java) | 1h 20m | Intermediate | 48K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Angie Jones]]
-
-## Resources
-
-- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-java-3080245/codespaces)
-
-## Skills Covered
-
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Model Objects** (3 videos)
+- **3. 2. External Data Sources** (3 videos)
+- **4. 3. Utility Classes** (3 videos)
+- **5. 4. State Management** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting hands on with Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980)
@@ -327,7 +326,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Model Objects
+### 2. 1. Model Objects
 
 #### Design a solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980)
@@ -548,7 +547,7 @@ created: 2026-04-21
 > **Non-Speech:** (jazz music) (1)
 
 
-### 2. External Data Sources
+### 3. 2. External Data Sources
 
 #### Connect to data source
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980)
@@ -901,7 +900,7 @@ created: 2026-04-21
 > **Non-Speech:** (soft music) (1)
 
 
-### 3. Utility Classes
+### 4. 3. Utility Classes
 
 #### Create Authenticator
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980)
@@ -1287,7 +1286,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 4. State Management
+### 5. 4. State Management
 
 #### Deposit
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/deposit?u=76281980)
@@ -1583,7 +1582,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continuing on with Java and project-based learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980)
@@ -1616,6 +1615,18 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - [angie] (1)
 
+
+## Instructor
+
+- [[Angie Jones]]
+
+## Resources
+
+- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-java-3080245/codespaces)
+
+## Skills Covered
+
+- Java
 
 ## Path Context
 

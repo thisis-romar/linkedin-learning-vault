@@ -31,8 +31,10 @@ tags:
   - skill/data-science
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20for%20Java%20Developers.md)
 
 ![Data Science for Java Developers](https://media.licdn.com/dms/image/v2/C4D0DAQGddjNt93pQww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616445753231?e=2147483647&amp;v=beta&amp;t=y7ju0mAE3Q4Xqb_SXPTP5KEl2kmxG-uO4FFDQbUaSdY)
 
@@ -43,22 +45,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers) | 3h 51m | Advanced | 59K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shaun Wassell]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Science
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Data Science Basics** (5 videos)
+- **3. 2. Representing Data in Java** (3 videos)
+- **4. 3. Data Manipulation Techniques** (6 videos)
+- **5. 4. Loading Data in Java** (9 videos)
+- **6. 5. Data Visualization with JavaFX** (8 videos)
+- **7. 6. Modeling and Machine Learning** (3 videos)
+- **8. 7. K-Nearest Neighbors (KNN)** (7 videos)
+- **9. 8. Naive Bayes** (5 videos)
+
+### 1. Introduction
 
 #### Data science: Making sense out of chaos
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980)
@@ -91,7 +92,7 @@ created: 2026-04-21
 > **Speakers:** - [shaun] (1)
 
 
-### 1. Data Science Basics
+### 2. 1. Data Science Basics
 
 #### What is data science anyway?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980)
@@ -574,7 +575,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Representing Data in Java
+### 3. 2. Representing Data in Java
 
 #### Data formatting in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980)
@@ -881,7 +882,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Data Manipulation Techniques
+### 4. 3. Data Manipulation Techniques
 
 #### Mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980)
@@ -1308,7 +1309,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Loading Data in Java
+### 5. 4. Loading Data in Java
 
 #### Reducing file size
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980)
@@ -2096,7 +2097,7 @@ created: 2026-04-21
 > **Non-Speech:** (soft music) (1)
 
 
-### 5. Data Visualization with JavaFX
+### 6. 5. Data Visualization with JavaFX
 
 #### Setting up JavaFX
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980)
@@ -2824,7 +2825,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Modeling and Machine Learning
+### 7. 6. Modeling and Machine Learning
 
 #### Building machine learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980)
@@ -3090,7 +3091,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. K-Nearest Neighbors (KNN)
+### 8. 7. K-Nearest Neighbors (KNN)
 
 #### K-nearest neighbor basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980)
@@ -3679,7 +3680,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 8. Naive Bayes
+### 9. 8. Naive Bayes
 
 #### Naive Bayes basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980)
@@ -4178,6 +4179,19 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
 
+
+## Instructor
+
+- [[Shaun Wassell]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Science
+- Java
 
 ## Path Context
 

@@ -34,8 +34,10 @@ tags:
   - skill/data-science-foundations
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20Foundations-%20Python%20Scientific%20Stack%20-CoderPad-.md)
 
 ![Data Science Foundations: Python Scientific Stack [CoderPad]](https://media.licdn.com/dms/image/v2/D560DAQG2_xrJ2bSZsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667582946722?e=2147483647&amp;v=beta&amp;t=jZiEOWL9RZujkXmIVtRAtwNBWlw-7GjmPTRkk1ioGDo)
 
@@ -46,23 +48,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad) | 2h 25m | Intermediate | 44K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Miki Tebeka]]
-
-## Resources
-
-- [GitHub Repository](https://github.com/LinkedInLearning/data-science-foundations-python-scientific-stack-3084641/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Science Foundations
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Visual Studio Code** (3 videos)
+- **3. 2. NumPy Basics** (9 videos)
+- **4. 3. pandas** (8 videos)
+- **5. 4. Folium and Geospatial Data** (5 videos)
+- **6. 5. NYC Taxi Data** (8 videos)
+- **7. 6. scikit-learn** (8 videos)
+- **8. 7. Plotting** (9 videos)
+- **9. 8. Other Packages** (6 videos)
+- **10. 9. Development Process** (5 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The Python scientific stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/the-python-scientific-stack?u=76281980)
@@ -270,7 +272,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Visual Studio Code
+### 2. 1. Visual Studio Code
 
 #### Use code cells
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-code-cells?u=76281980)
@@ -442,7 +444,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 2. NumPy Basics
+### 3. 2. NumPy Basics
 
 #### NumPy overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-overview?u=76281980)
@@ -979,7 +981,7 @@ created: 2026-04-21
 > **Speakers:** - [computer (1)
 
 
-### 3. pandas
+### 4. 3. pandas
 
 #### pandas overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980)
@@ -1510,7 +1512,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Folium and Geospatial Data
+### 5. 4. Folium and Geospatial Data
 
 #### Create an initial map
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980)
@@ -1848,7 +1850,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. NYC Taxi Data
+### 6. 5. NYC Taxi Data
 
 #### Examine data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/examine-data?u=76281980)
@@ -2461,7 +2463,7 @@ created: 2026-04-21
 > **Speakers:** - [teacher] (1)
 
 
-### 6. scikit-learn
+### 7. 6. scikit-learn
 
 #### scikit-learn introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980)
@@ -3105,7 +3107,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Plotting
+### 8. 7. Plotting
 
 #### Overview of matplotlib
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980)
@@ -3639,7 +3641,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 8. Other Packages
+### 9. 8. Other Packages
 
 #### Other packages overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-packages-overview?u=76281980)
@@ -4172,7 +4174,7 @@ created: 2026-04-21
 > **SQL:** select (1)
 
 
-### 9. Development Process
+### 10. 9. Development Process
 
 #### Development process overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/development-process-overview?u=76281980)
@@ -4423,7 +4425,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/next-steps?u=76281980)
@@ -4444,6 +4446,20 @@ created: 2026-04-21
 >
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Miki Tebeka]]
+
+## Resources
+
+- [GitHub Repository](https://github.com/LinkedInLearning/data-science-foundations-python-scientific-stack-3084641/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Science Foundations
+- Data Science
 
 ## Path Context
 

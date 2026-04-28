@@ -30,8 +30,10 @@ tags:
   - skill/debugging-code
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20JavaScript%20Debugging.md)
 
 ![Learning JavaScript Debugging](https://media.licdn.com/dms/image/v2/C4E0DAQEvTPISgiHW0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1601068625848?e=2147483647&amp;v=beta&amp;t=ehvmL_kf8fz0SnlMc2EOMyrvvKRLuldeLVYu40svwTU)
 
@@ -42,22 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2) | 2h 47m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Chellman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Debugging Code
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Understanding the Need for a Debugger** (5 videos)
+- **3. 2. Debugger Basics** (12 videos)
+- **4. 3. Debugging in Practice** (12 videos)
+- **5. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980)
@@ -242,7 +239,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding the Need for a Debugger
+### 2. 1. Understanding the Need for a Debugger
 
 #### Introducing our friend, the debugger
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980)
@@ -720,7 +717,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 2. Debugger Basics
+### 3. 2. Debugger Basics
 
 #### Debugging without a debugger
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-without-a-debugger?u=76281980)
@@ -2375,7 +2372,7 @@ created: 2026-04-21
 > **Versions:** 2.1 (1)
 
 
-### 3. Debugging in Practice
+### 4. 3. Debugging in Practice
 
 #### Debugging the use of a jQuery plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980)
@@ -4231,7 +4228,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980)
@@ -4399,6 +4396,19 @@ created: 2026-04-21
 > **File Paths:** node.js (1)
 > **Speakers:** - [joe] (1)
 
+
+## Instructor
+
+- [[Joe Chellman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Debugging Code
+- JavaScript
 
 ## Path Context
 

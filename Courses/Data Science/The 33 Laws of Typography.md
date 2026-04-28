@@ -26,8 +26,10 @@ tags:
   - topic/data-science
   - skill/typography
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%2033%20Laws%20of%20Typography.md)
 
 ![The 33 Laws of Typography](https://media.licdn.com/dms/image/v2/C4E0DAQFmOUUovGUzwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568071736152?e=2147483647&amp;v=beta&amp;t=BXyzWR3Q9l7UVr4eoM5XPCmLGO_nL6Pz4uMz0hq-2ts)
 
@@ -38,21 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography) | 2h 53m | Beginner | 79K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jill Butler]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Typography
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. How to Format a Document** (6 videos)
+- **3. 2. How to Format Large Bodies of Text** (9 videos)
+- **4. 3. How to Format Smaller Blocks of Text** (10 videos)
+- **5. 4. How to Use Punctuation Properly** (5 videos)
+- **6. 5. How to Choose Typefaces** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980)
@@ -115,7 +115,7 @@ created: 2026-04-21
 > **Speakers:** - [voiceover] (1)
 
 
-### 1. How to Format a Document
+### 2. 1. How to Format a Document
 
 #### 01 Distrust default software settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/01-distrust-default-software-settings?u=76281980)
@@ -841,7 +841,7 @@ created: 2026-04-21
 > **Speakers:** - law (1)
 
 
-### 2. How to Format Large Bodies of Text
+### 3. 2. How to Format Large Bodies of Text
 
 #### 07 Set printed body text from 9 to 11 points
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/07-set-printed-body-text-from-9-to-11-points?u=76281980)
@@ -1753,7 +1753,7 @@ created: 2026-04-21
 > **Speakers:** - law (1)
 
 
-### 3. How to Format Smaller Blocks of Text
+### 4. 3. How to Format Smaller Blocks of Text
 
 #### 16 Emphasize ten percent or less of text
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/16-emphasize-ten-percent-or-less-of-text?u=76281980)
@@ -2846,7 +2846,7 @@ created: 2026-04-21
 > **Speakers:** - law (1)
 
 
-### 4. How to Use Punctuation Properly
+### 5. 4. How to Use Punctuation Properly
 
 #### 26 Connect thoughts, using em dashes
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980)
@@ -3378,7 +3378,7 @@ created: 2026-04-21
 > **Speakers:** - law (1)
 
 
-### 5. How to Choose Typefaces
+### 6. 5. How to Choose Typefaces
 
 #### 31 Limit typefaces to two per document
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/31-limit-typefaces-to-two-per-document?u=76281980)
@@ -3659,7 +3659,7 @@ created: 2026-04-21
 > **Speakers:** - law (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/goodbye?u=76281980)
@@ -3722,6 +3722,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Jill Butler]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Typography
 
 ## Path Context
 

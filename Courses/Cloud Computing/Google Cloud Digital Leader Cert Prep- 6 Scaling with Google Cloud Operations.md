@@ -30,8 +30,10 @@ tags:
   - skill/scalability
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Leader%20Cert%20Prep-%206%20Scaling%20with%20Google%20Cloud%20Operations.md)
 
 ![Google Cloud Digital Leader Cert Prep: 6 Scaling with Google Cloud Operations](https://media.licdn.com/dms/image/v2/D4E0DAQGOpLpFgTUegQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711389664359?e=2147483647&amp;v=beta&amp;t=7wyq9D2lo4Cx--7E3LgxT6YrcKLlq2I7Q89dPTOUZ5w)
 
@@ -42,18 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations) | 43m | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Google Cloud]]
-
-## Skills Covered
-
-- Scalability
-- Google Cloud Platform (GCP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Financial Governance and Managing Cloud Costs** (5 videos)
+- **3. 2. Operational Excellence and Reliability at Scale** (6 videos)
+- **4. 3. Sustainability with Google Cloud** (1 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980)
@@ -89,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Financial Governance and Managing Cloud Costs
+### 2. 1. Financial Governance and Managing Cloud Costs
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980)
@@ -387,7 +388,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Operational Excellence and Reliability at Scale
+### 3. 2. Operational Excellence and Reliability at Scale
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980)
@@ -762,7 +763,7 @@ created: 2026-04-21
 > **Speakers:** - [announcer] (1)
 
 
-### 3. Sustainability with Google Cloud
+### 4. 3. Sustainability with Google Cloud
 
 #### Sustainability with Google Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980)
@@ -837,7 +838,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980)
@@ -870,6 +871,15 @@ created: 2026-04-21
 > **URLs:** [google.com](https://google.com) (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Google Cloud]]
+
+## Skills Covered
+
+- Scalability
+- Google Cloud Platform (GCP)
 
 ## Path Context
 

@@ -34,8 +34,10 @@ tags:
   - skill/algorithms
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C%20Sharp%20Algorithms.md)
 
 ![C Sharp Algorithms](https://media.licdn.com/dms/image/v2/D4D0DAQHZokrKJL6ULg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702603208967?e=2147483647&amp;v=beta&amp;t=qrRiP3Zr6KY9yBSihnpoJKwirgkPaBp1r93ksUAtNb0)
 
@@ -46,22 +48,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms) | Advanced | 32K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kathryn Hodge]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Algorithms
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (6 videos)
+- **2. 1. String Algorithms** (5 videos)
+- **3. 2. Array Algorithms** (5 videos)
+- **4. 3. Linked List Algorithms** (4 videos)
+- **5. 4. Queue and Stack Algorithms** (9 videos)
+- **6. 5. Algorithms for Hash-Based Structures** (5 videos)
+- **7. 6. Tree Algorithms** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Improve your C# applications with efficient algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms?u=76281980)
@@ -418,7 +418,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. String Algorithms
+### 2. 1. String Algorithms
 
 #### Validate strings in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980)
@@ -992,7 +992,7 @@ created: 2026-04-21
 > **Code Identifiers:** reversedsentence (1)
 
 
-### 2. Array Algorithms
+### 3. 2. Array Algorithms
 
 #### Linear search arrays in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/linear-search-arrays-in-c-sharp?u=76281980)
@@ -1489,7 +1489,7 @@ created: 2026-04-21
 > **Code Keywords:** let (3)
 
 
-### 3. Linked List Algorithms
+### 4. 3. Linked List Algorithms
 
 #### What is a linked list?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-linked-list?u=76281980)
@@ -1858,7 +1858,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 4. Queue and Stack Algorithms
+### 5. 4. Queue and Stack Algorithms
 
 #### What is a queue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-queue?u=76281980)
@@ -2684,7 +2684,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. Algorithms for Hash-Based Structures
+### 6. 5. Algorithms for Hash-Based Structures
 
 #### Hash-based structures in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/hash-based-structures-in-c-sharp?u=76281980)
@@ -3085,7 +3085,7 @@ created: 2026-04-21
 > **Definitions:** is a  (3)
 
 
-### 6. Tree Algorithms
+### 7. 6. Tree Algorithms
 
 #### What is a tree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-tree?u=76281980)
@@ -3577,7 +3577,7 @@ created: 2026-04-21
 > **CLI Commands:** node (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continue optimizing algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980)
@@ -3621,6 +3621,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [kathryn] (1)
 
+
+## Instructor
+
+- [[Kathryn Hodge]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Algorithms
+- C#
 
 ## Path Context
 

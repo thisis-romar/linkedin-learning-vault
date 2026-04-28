@@ -24,8 +24,10 @@ tags:
   - topic/data-science
   - skill/geographic-information-systems-gis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Real%20World%20Gis.md)
 
 ![Real World Gis](https://media.licdn.com/dms/image/v2/D4E0DAQGmyUYEfnh5vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693588036922?e=2147483647&amp;v=beta&amp;t=f7I9DuMJME5dNBOED-PjQdm0jftIqeMAPfJoGrVt1zI)
 
@@ -36,17 +38,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766) | Intermediate | 60K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Geographic Information Systems (GIS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Got GIS Data?** (10 videos)
+- **3. 2. What Can Be Done with GIS Data?** (6 videos)
+- **4. 3. What Is Up with Projections?** (6 videos)
+- **5. 4. How to Collect GIS Data in the Field?** (6 videos)
+- **6. 5. How to Master ArcGIS Online?** (6 videos)
+- **7. 6. How to Build a GIS Project from Scratch?** (20 videos)
+- **8. 7. How to Land a GIS job?** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Need help with your GIS projects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980)
@@ -92,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Got GIS Data?
+### 2. 1. Got GIS Data?
 
 #### Where is the GIS data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/where-is-the-gis-data?u=76281980)
@@ -939,7 +945,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. What Can Be Done with GIS Data?
+### 3. 2. What Can Be Done with GIS Data?
 
 #### Understanding GIS data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980)
@@ -1444,7 +1450,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. What Is Up with Projections?
+### 4. 3. What Is Up with Projections?
 
 #### How to understand the latitude, longitude, and scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980)
@@ -2068,7 +2074,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. How to Collect GIS Data in the Field?
+### 5. 4. How to Collect GIS Data in the Field?
 
 #### Geospatial data collection basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980)
@@ -3131,7 +3137,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 5. How to Master ArcGIS Online?
+### 6. 5. How to Master ArcGIS Online?
 
 #### What is ArcGIS Online?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980)
@@ -4349,7 +4355,7 @@ created: 2026-04-21
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 
 
-### 6. How to Build a GIS Project from Scratch?
+### 7. 6. How to Build a GIS Project from Scratch?
 
 #### Challenge: Get the GIS data
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980)
@@ -5447,7 +5453,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. How to Land a GIS job?
+### 8. 7. How to Land a GIS job?
 
 #### What are the different types of GIS jobs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980)
@@ -5755,7 +5761,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### What are your next steps in GIS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-your-next-steps-in-gis?u=76281980)
@@ -5774,6 +5780,14 @@ created: 2026-04-21
 > **Code Keywords:** continue (2)
 > **Speakers:** - together (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Geographic Information Systems (GIS)
 
 ## Path Context
 

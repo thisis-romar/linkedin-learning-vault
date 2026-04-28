@@ -30,8 +30,10 @@ tags:
   - skill/stata
   - skill/financial-forecasting
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%2C%20Economic%20Modeling%2C%20and%20Forecasting%20with%20Stata.md)
 
 ![Data, Economic Modeling, and Forecasting with Stata](https://media.licdn.com/dms/image/v2/C4E0DAQHyC1qxZQ0_KA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614281665124?e=2147483647&amp;v=beta&amp;t=ekMtTNbTL9SpCBzLMbkphsWmsqCValEmaykopMFJc-g)
 
@@ -42,23 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata) | 49m | Beginner | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jason Schenker]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Economic Modeling
-- Stata
-- Financial Forecasting
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Overview** (2 videos)
+- **3. 2. Modeling Basics** (5 videos)
+- **4. 3. Screencap Basics in Stata** (11 videos)
+- **5. 4. Advanced Topics** (1 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Be prepared for the data jobs of the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/be-prepared-for-the-data-jobs-of-the-future?u=76281980)
@@ -83,7 +80,7 @@ created: 2026-04-21
 > **Speakers:** - people (1)
 
 
-### 1. Overview
+### 2. 1. Overview
 
 #### Purpose of modeling in Stata
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/purpose-of-modeling-in-stata?u=76281980)
@@ -151,7 +148,7 @@ created: 2026-04-21
 > **Speakers:** - big (1)
 
 
-### 2. Modeling Basics
+### 3. 2. Modeling Basics
 
 #### Statistics and econometrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/statistics-and-econometrics?u=76281980)
@@ -340,7 +337,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 3. Screencap Basics in Stata
+### 4. 3. Screencap Basics in Stata
 
 #### Overview and enter data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980)
@@ -1042,7 +1039,7 @@ created: 2026-04-21
 > **Speakers:** - [jason] (1)
 
 
-### 4. Advanced Topics
+### 5. 4. Advanced Topics
 
 #### Advanced topics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980)
@@ -1154,7 +1151,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/next-steps?u=76281980)
@@ -1179,6 +1176,20 @@ created: 2026-04-21
 >
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Jason Schenker]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Economic Modeling
+- Stata
+- Financial Forecasting
 
 ## Path Context
 

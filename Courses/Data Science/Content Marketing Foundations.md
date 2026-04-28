@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/content-marketing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Content%20Marketing%20Foundations.md)
 
 ![Content Marketing Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQHehYSk7nXSbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579212205888?e=2147483647&amp;v=beta&amp;t=89n5ZD9JrdT7cOmPiB_SFgfiELLNR-1gGgwDQiQYtBw)
 
@@ -40,21 +42,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3) | 53m | Beginner | 382K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brian Honigman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Content Marketing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Creating a Content Strategy** (2 videos)
+- **3. 2. Choosing the Right Topics** (2 videos)
+- **4. 3. Producing Content** (2 videos)
+- **5. 4. Optimizing Content** (2 videos)
+- **6. 5. Distributing Content** (2 videos)
+- **7. 6. Integrating Content** (2 videos)
+- **8. 7. Measuring Content** (1 videos)
+- **9. 8. Innovating with Content** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is content marketing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?u=76281980)
@@ -88,7 +91,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 1. Creating a Content Strategy
+### 2. 1. Creating a Content Strategy
 
 #### Setting strategic goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980)
@@ -208,7 +211,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Choosing the Right Topics
+### 3. 2. Choosing the Right Topics
 
 #### Finding relevant topic ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/finding-relevant-topic-ideas?u=76281980)
@@ -324,7 +327,7 @@ created: 2026-04-21
 > **Speakers:** - for (1)
 
 
-### 3. Producing Content
+### 4. 3. Producing Content
 
 #### Tips for successful storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980)
@@ -447,7 +450,7 @@ created: 2026-04-21
 > **Speakers:** - remember (1)
 
 
-### 4. Optimizing Content
+### 5. 4. Optimizing Content
 
 #### Formatting content for a frictionless experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-a-frictionless-experience?u=76281980)
@@ -564,7 +567,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 5. Distributing Content
+### 6. 5. Distributing Content
 
 #### Promoting with owned and shared media
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980)
@@ -668,7 +671,7 @@ created: 2026-04-21
 > **Speakers:** - earning (1)
 
 
-### 6. Integrating Content
+### 7. 6. Integrating Content
 
 #### Integrating content across departments
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/integrating-content-across-departments?u=76281980)
@@ -767,7 +770,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 7. Measuring Content
+### 8. 7. Measuring Content
 
 #### Attributing content actions to results
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/attributing-content-actions-to-results?u=76281980)
@@ -830,7 +833,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 8. Innovating with Content
+### 9. 8. Innovating with Content
 
 #### Conveying thought leadership with content
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980)
@@ -1004,7 +1007,7 @@ created: 2026-04-21
 > **Speakers:** - best (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Staying updated on content marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/staying-updated-on-content-marketing?u=76281980)
@@ -1040,6 +1043,18 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Brian Honigman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Content Marketing
 
 ## Path Context
 

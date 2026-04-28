@@ -45,8 +45,10 @@ tags:
   - skill/agile-methodologies
   - skill/agile-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Introduction%20to%20Agile%20Development%20Practices-%20Bring%20Agile%20to%20Your%20Development%20Pipelines.md)
 
 ![Introduction to Agile Development Practices: Bring Agile to Your Development Pipelines](https://media.licdn.com/dms/image/v2/D4E0DAQFizssGS-Y-GA/learning-public-crop_675_1200/B4EZeEHS8JH0Ao-/0/1750268194814?e=2147483647&amp;v=beta&amp;t=aucgq2awHT_CV6bWWmvDmQJiZHNqEx46PkcIoaqicfk)
 
@@ -57,22 +59,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines) | 43m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Harrison Ferrone]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Agile Methodologies
-- Agile Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Planning** (3 videos)
+- **3. 2. Design** (2 videos)
+- **4. 3. Development** (3 videos)
+- **5. 4. Testing** (2 videos)
+- **6. 5. Release** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980)
@@ -131,7 +130,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Planning
+### 2. 1. Planning
 
 #### Getting involved early
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/getting-involved-early?u=76281980)
@@ -273,7 +272,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Design
+### 3. 2. Design
 
 #### Flexible architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980)
@@ -374,7 +373,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Development
+### 4. 3. Development
 
 #### Determining velocity
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/determining-velocity?u=76281980)
@@ -512,7 +511,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Testing
+### 5. 4. Testing
 
 #### Choosing your testing regimen
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980)
@@ -612,7 +611,7 @@ created: 2026-04-21
 > **Best Practices:** good practice (1)
 
 
-### 5. Release
+### 6. 5. Release
 
 #### Continuous integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980)
@@ -729,7 +728,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### The big picture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980)
@@ -755,6 +754,19 @@ created: 2026-04-21
 > **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Harrison Ferrone]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Agile Methodologies
+- Agile Development
 
 ## Path Context
 

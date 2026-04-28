@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-as-a-user-exper
 course_count: 7
 linkedin_topics:
   - Web Development
-louvain_cluster: 9
+louvain_cluster: 14
 tags:
   - learning-path
   - topic/web-development
@@ -45,8 +45,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Web%20Development/Learning%20Paths/Advance%20Your%20Skills%20as%20a%20User%20Experience%20Researcher.md)
 
 # Advance Your Skills as a User Experience Researcher
 

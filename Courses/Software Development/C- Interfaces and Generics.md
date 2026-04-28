@@ -34,8 +34,10 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Interfaces%20and%20Generics.md)
 
 ![C#: Interfaces and Generics](https://media.licdn.com/dms/image/v2/C560DAQEcsgjIa7rZSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634834103497?e=2147483647&amp;v=beta&amp;t=hVHXRMAZp-qAWMJKcjOIA79h6HYGXOcPJAukQ3mjPfc)
 
@@ -46,22 +48,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425) | 1h 21m | Intermediate | 231K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/C-sharp-Interfaces-and-generics-3152729)
-
-## Skills Covered
-
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Overview** (2 videos)
+- **3. 2. C# Interfaces** (8 videos)
+- **4. 3. C# Generics** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning C#: Interfaces and generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics-23314002?u=76281980)
@@ -213,7 +210,7 @@ created: 2026-04-21
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 
 
-### 1. Overview
+### 2. 1. Overview
 
 #### What are interfaces?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-interfaces?u=76281980)
@@ -326,7 +323,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. C# Interfaces
+### 3. 2. C# Interfaces
 
 #### Understanding C# interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/understanding-c-sharp-interfaces?u=76281980)
@@ -994,7 +991,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. C# Generics
+### 4. 3. C# Generics
 
 #### The benefits of generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/the-benefits-of-generics?u=76281980)
@@ -1784,7 +1781,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/next-steps?u=76281980)
@@ -1810,6 +1807,19 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [joe] (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/C-sharp-Interfaces-and-generics-3152729)
+
+## Skills Covered
+
+- C#
 
 ## Path Context
 

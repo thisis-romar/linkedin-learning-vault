@@ -31,8 +31,10 @@ tags:
   - topic/data-science
   - skill/marketing-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Analytics%20Foundations.md)
 
 ![Marketing Analytics Foundations](https://media.licdn.com/dms/image/v2/D4D0DAQG28Ql3Bs0yPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730388803564?e=2147483647&amp;v=beta&amp;t=QGlo-65O_6reHijbEubcupnmcgVFUBliFdp0SI6ksEE)
 
@@ -43,21 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations) | 53m | Beginner | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Christina Inge]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Marketing Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Exploring Key Marketing Metrics** (3 videos)
+- **3. 2. Understanding Key Performance Indicators** (5 videos)
+- **4. 3. Building Your Marketing Metrics Dashboard** (4 videos)
+- **5. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Setting the stage for marketing analytics foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980)
@@ -153,7 +151,7 @@ created: 2026-04-21
 > **Speakers:** - marketing (1)
 
 
-### 1. Exploring Key Marketing Metrics
+### 2. 1. Exploring Key Marketing Metrics
 
 #### Identifying the most important metrics to achieve your goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980)
@@ -371,7 +369,7 @@ created: 2026-04-21
 > **Speakers:** - click (1)
 
 
-### 2. Understanding Key Performance Indicators
+### 3. 2. Understanding Key Performance Indicators
 
 #### Understanding the importance of setting KPIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980)
@@ -741,7 +739,7 @@ created: 2026-04-21
 > **Speakers:** - looking (1)
 
 
-### 3. Building Your Marketing Metrics Dashboard
+### 4. 3. Building Your Marketing Metrics Dashboard
 
 #### Choosing the right tools for measuring marketing metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980)
@@ -1070,7 +1068,7 @@ created: 2026-04-21
 > **Speakers:** - effectively (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Implementing your marketing analytics strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980)
@@ -1177,6 +1175,18 @@ created: 2026-04-21
 > **Code Keywords:** continue (1), finally, (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Christina Inge]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Marketing Analytics
 
 ## Path Context
 

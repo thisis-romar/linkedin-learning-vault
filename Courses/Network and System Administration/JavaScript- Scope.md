@@ -30,8 +30,10 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/JavaScript-%20Scope.md)
 
 ![JavaScript: Scope](https://media.licdn.com/dms/image/v2/D4E0DAQGZbTfGk5Crsw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711387718548?e=2147483647&amp;v=beta&amp;t=oBAlaEyekf198M3OTXjIjPmF6lur_jQUzcxIZPDzU_g)
 
@@ -42,21 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope) | 1h 15m | Intermediate | 31K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Variable Scope** (6 videos)
+- **3. 2. Global Variables** (1 videos)
+- **4. 3. Local Variables** (1 videos)
+- **5. 4. Block-Scoped Variables** (2 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Learn how to properly scope your variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/learn-how-to-properly-scope-your-variables?u=76281980)
@@ -104,7 +103,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Variable Scope
+### 2. 1. Introduction to Variable Scope
 
 #### Course setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980)
@@ -423,7 +422,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/coderpad-introduction?u=76281980)
 
 
-### 2. Global Variables
+### 3. 2. Global Variables
 
 #### What are global variables?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980)
@@ -570,7 +569,7 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 
 
-### 3. Local Variables
+### 4. 3. Local Variables
 
 #### What are local variables?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/what-are-local-variables?u=76281980)
@@ -663,7 +662,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Block-Scoped Variables
+### 5. 4. Block-Scoped Variables
 
 #### What are block-scoped variables?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/what-are-block-scoped-variables?u=76281980)
@@ -799,7 +798,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### JavaScript strict mode
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/javascript-strict-mode?u=76281980)
@@ -868,6 +867,18 @@ created: 2026-04-21
 >
 > **Speakers:** - [emmanuel] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- JavaScript
 
 ## Path Context
 

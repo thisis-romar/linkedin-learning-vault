@@ -38,8 +38,10 @@ tags:
   - skill/database-development
   - skill/programming-foundations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations%20Databases.md)
 
 ![Programming Foundations Databases](https://media.licdn.com/dms/image/v2/C4D0DAQE3jENAPmsZ-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1592866492461?e=2147483647&amp;v=beta&amp;t=yAbEoiIyPCsSwpTaBq3oU3k4eX7zA5jpwAL90ZgNKZI)
 
@@ -50,24 +52,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2) | Beginner | 76K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott Simpson]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/databases-pf-784293)
-
-## Skills Covered
-
-- Databases
-- Database Development
-- Programming Foundations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Database Foundations** (5 videos)
+- **3. 2. Tables** (5 videos)
+- **4. 3. Relationships** (5 videos)
+- **5. 4. Database Optimization** (5 videos)
+- **6. 5. Querying a Database** (8 videos)
+- **7. 6. Further Database Topics** (3 videos)
+- **8. Glossaries** (0 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why use a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980)
@@ -225,7 +224,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 1. Database Foundations
+### 2. 1. Database Foundations
 
 #### Relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980)
@@ -561,7 +560,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### 2. Tables
+### 3. 2. Tables
 
 #### Modeling and planning a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/modeling-and-planning-a-database?u=76281980)
@@ -918,7 +917,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Relationships
+### 4. 3. Relationships
 
 #### Creating relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-relationships?u=76281980)
@@ -1204,7 +1203,7 @@ created: 2026-04-21
 > **Speakers:** - once (1)
 
 
-### 4. Database Optimization
+### 5. 4. Database Optimization
 
 #### Normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/normalization-2?u=76281980)
@@ -1464,7 +1463,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### 5. Querying a Database
+### 6. 5. Querying a Database
 
 #### Creating a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980)
@@ -2011,7 +2010,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Further Database Topics
+### 7. 6. Further Database Topics
 
 #### Indexes, transactions, and stored procedures
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/indexes-transactions-and-stored-procedures?u=76281980)
@@ -2210,10 +2209,10 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### Glossaries
+### 8. Glossaries
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980)
@@ -2251,6 +2250,21 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Scott Simpson]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/databases-pf-784293)
+
+## Skills Covered
+
+- Databases
+- Database Development
+- Programming Foundations
 
 ## Path Context
 

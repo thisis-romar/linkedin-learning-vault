@@ -27,8 +27,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Statistics%20Foundations%204-%20Advanced%20Topics.md)
 
 ![Statistics Foundations 4: Advanced Topics](https://media.licdn.com/dms/image/v2/C560DAQHKfvcGCiimkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660065129587?e=2147483647&amp;v=beta&amp;t=SovuylB0qZPGQ7vUUlDvanxxVMOAhrFX9B8mk3ZxuVk)
 
@@ -39,13 +41,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics) | 1h 34m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eddie Davila]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Comparing Two Populations: Proportions** (3 videos)
+- **3. 2. Comparing Two Populations: Means** (4 videos)
+- **4. 3. T-Tests** (3 videos)
+- **5. 4. ANOVA: Analysis of Variance** (4 videos)
+- **6. 5. Regression Analysis** (4 videos)
+- **7. Continuing Your Advanced Statistics Learning Journey** (1 videos)
+
+### 1. Introduction
 
 #### The power of advanced statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/the-power-of-advanced-statistics?u=76281980)
@@ -102,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - statistics (1)
 
 
-### 1. Comparing Two Populations: Proportions
+### 2. 1. Comparing Two Populations: Proportions
 
 #### Explanation of two population comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-comparisons?u=76281980)
@@ -456,7 +464,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 2. Comparing Two Populations: Means
+### 3. 2. Comparing Two Populations: Means
 
 #### Explanation of two population mean comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-mean-comparisons?u=76281980)
@@ -858,7 +866,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 3. T-Tests
+### 4. 3. T-Tests
 
 #### T-distribution vs. z-distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/t-distribution-vs-z-distribution?u=76281980)
@@ -1121,7 +1129,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 4. ANOVA: Analysis of Variance
+### 5. 4. ANOVA: Analysis of Variance
 
 #### ANOVA: What is analysis of variance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/anova-what-is-analysis-of-variance?u=76281980)
@@ -1547,7 +1555,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Regression Analysis
+### 6. 5. Regression Analysis
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/what-is-regression?u=76281980)
@@ -1942,7 +1950,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Continuing Your Advanced Statistics Learning Journey
+### 7. Continuing Your Advanced Statistics Learning Journey
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980)
@@ -1986,6 +1994,10 @@ created: 2026-04-21
 > **Env Vars:** anova (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Eddie Davila]]
 
 ## Path Context
 

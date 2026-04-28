@@ -28,8 +28,10 @@ tags:
   - skill/selenium
   - skill/test-automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Selenium%20Essential%20Training.md)
 
 ![Selenium Essential Training](https://media.licdn.com/dms/image/v2/C4D0DAQE-vCuZH-c_Ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589403094822?e=2147483647&amp;v=beta&amp;t=Dfn3Q8ThGlU8d8iM-wEPr7hvX5vjHsLBSwP8FmNGO0E)
 
@@ -40,22 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training) | 1h 59m | Intermediate | 253K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Meaghan Lewis]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Selenium
-- Test Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Review Fundamentals** (5 videos)
+- **3. 2. Succeeding with WebDriver** (8 videos)
+- **4. 3. Using Advanced Locators** (4 videos)
+- **5. 4. Interacting with Components** (5 videos)
+- **6. 5. Synchronization Issues** (3 videos)
+- **7. 6. Putting It All Together** (4 videos)
+- **8. 7. Project Integration** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980)
@@ -130,7 +131,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Review Fundamentals
+### 2. 1. Review Fundamentals
 
 #### The Selenium project
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/the-selenium-project?u=76281980)
@@ -468,7 +469,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Succeeding with WebDriver
+### 3. 2. Succeeding with WebDriver
 
 #### Look at the test application
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980)
@@ -1040,7 +1041,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Using Advanced Locators
+### 4. 3. Using Advanced Locators
 
 #### Determine which locator to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/determine-which-locator-to-use?u=76281980)
@@ -1269,7 +1270,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Interacting with Components
+### 5. 4. Interacting with Components
 
 #### Common components
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/common-components?u=76281980)
@@ -1585,7 +1586,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Synchronization Issues
+### 6. 5. Synchronization Issues
 
 #### Why synchronization is an issue
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/why-synchronization-is-an-issue?u=76281980)
@@ -1775,7 +1776,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Putting It All Together
+### 7. 6. Putting It All Together
 
 #### Automate a workflow using WebDriver
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/automate-a-workflow-using-webdriver?u=76281980)
@@ -2126,7 +2127,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Project Integration
+### 8. 7. Project Integration
 
 #### Connect to GitHub
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/connect-to-github?u=76281980)
@@ -2391,7 +2392,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980)
@@ -2437,6 +2438,19 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Meaghan Lewis]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Selenium
+- Test Automation
 
 ## Path Context
 

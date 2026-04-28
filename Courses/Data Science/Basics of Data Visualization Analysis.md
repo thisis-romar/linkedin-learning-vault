@@ -34,8 +34,10 @@ tags:
   - skill/data-analysis
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Basics%20of%20Data%20Visualization%20Analysis.md)
 
 ![Basics of Data Visualization Analysis](https://media.licdn.com/dms/image/v2/D4E0DAQEVVcvJXVKIFA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706638056102?e=2147483647&amp;v=beta&amp;t=5bS8JWBCgqcGcLSBqBMbIIS8Ag46VktEiZ3jHIodgwI)
 
@@ -46,19 +48,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis) | 1h 27m | Beginner | 35K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Franz Buscha]]
-- [[Madecraft]]
-
-## Skills Covered
-
-- Data Analysis
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Basics of Analysis** (3 videos)
+- **3. 2. Distributional Analysis with Continuous Data** (4 videos)
+- **4. 3. Distributional Analysis with Discrete Data** (3 videos)
+- **5. 4. Visualizing Multiple Distributions** (4 videos)
+- **6. 5. Visualizing Relationships** (4 videos)
+- **7. 6. Visualizing Multi-Dimensional Relationships** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The value of visual analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980)
@@ -99,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - whether (1)
 
 
-### 1. Basics of Analysis
+### 2. 1. Basics of Analysis
 
 #### Types of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980)
@@ -405,7 +408,7 @@ created: 2026-04-21
 > **Speakers:** - statistical (1)
 
 
-### 2. Distributional Analysis with Continuous Data
+### 3. 2. Distributional Analysis with Continuous Data
 
 #### Histograms
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/histograms?u=76281980)
@@ -713,7 +716,7 @@ created: 2026-04-21
 > **Speakers:** - today (1)
 
 
-### 3. Distributional Analysis with Discrete Data
+### 4. 3. Distributional Analysis with Discrete Data
 
 #### Bar graphs and dot plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/bar-graphs-and-dot-plots?u=76281980)
@@ -981,7 +984,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 4. Visualizing Multiple Distributions
+### 5. 4. Visualizing Multiple Distributions
 
 #### Multiple histogram and density plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-histogram-and-density-plots?u=76281980)
@@ -1300,7 +1303,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 5. Visualizing Relationships
+### 6. 5. Visualizing Relationships
 
 #### Scatter plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/scatter-plots?u=76281980)
@@ -1685,7 +1688,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 6. Visualizing Multi-Dimensional Relationships
+### 7. 6. Visualizing Multi-Dimensional Relationships
 
 #### Matrix scatter and trellis plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/matrix-scatter-and-trellis-plots?u=76281980)
@@ -1959,7 +1962,7 @@ created: 2026-04-21
 > **Speakers:** - multidimensional (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Time to visualize
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980)
@@ -2023,6 +2026,16 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Franz Buscha]]
+- [[Madecraft]]
+
+## Skills Covered
+
+- Data Analysis
+- Data Visualization
 
 ## Path Context
 

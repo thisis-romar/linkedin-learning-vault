@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20LLMs%20with%20Retrieval%20Augmented%20Generation%20(RAG)-%20Practical%20Projects%20for%20AI%20Applications.md)
 
 ![Advanced LLMs with Retrieval Augmented Generation (RAG): Practical Projects for AI Applications](https://media.licdn.com/dms/image/v2/D4D0DAQHm8KWdGtJ1lA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737652635356?e=2147483647&amp;v=beta&amp;t=HOvvWxkDkc31NHYL42lXRBP0dw5soo71ynibySf8kXk)
 
@@ -46,25 +48,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications) | 1h 47m | Advanced | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Guy Ernest]]
-- [[Pragmatic AI Labs]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/guyernest/advanced-rag)
-
-## Skills Covered
-
-- Retrieval-Augmented Generation (RAG)
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Text Encoding Using Embedding Vectors** (6 videos)
+- **3. 2. Document Chunking and Enrichment Strategies** (6 videos)
+- **4. 3. Improving Document Retrieval** (5 videos)
+
+### 1. Introduction
 
 #### Course introductions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980)
@@ -532,7 +525,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 1. Text Encoding Using Embedding Vectors
+### 2. 1. Text Encoding Using Embedding Vectors
 
 #### Embedding introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980)
@@ -1196,7 +1189,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. Document Chunking and Enrichment Strategies
+### 3. 2. Document Chunking and Enrichment Strategies
 
 #### Chunking introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980)
@@ -1913,7 +1906,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 3. Improving Document Retrieval
+### 4. 3. Improving Document Retrieval
 
 #### Hybrid search introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980)
@@ -2552,6 +2545,22 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 > **Best Practices:** best practice (1)
 
+
+## Instructor
+
+- [[Guy Ernest]]
+- [[Pragmatic AI Labs]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/guyernest/advanced-rag)
+
+## Skills Covered
+
+- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
 
 ## Path Context
 

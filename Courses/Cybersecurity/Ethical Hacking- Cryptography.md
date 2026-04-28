@@ -31,8 +31,10 @@ tags:
   - skill/ethical-hacking
   - skill/cryptography
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Cryptography.md)
 
 ![Ethical Hacking: Cryptography](https://media.licdn.com/dms/image/v2/D560DAQGG4-UYH329Zw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719250386965?e=2147483647&amp;v=beta&amp;t=8wGTn97slTVByJdl9jlgYOlWQwVb1gg2NQTtcHE5KRY)
 
@@ -43,22 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684) | 3h 16m | Intermediate | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Diondria Holliman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Ethical Hacking
-- Cryptography
-
 ## Table of Contents
 
-### Introduction: Diving Into Cryptography
+### Chapter Overview
+
+- **1. Introduction: Diving Into Cryptography** (3 videos)
+- **2. 1. Clarifying Cryptography Concepts** (2 videos)
+- **3. 2. Types of Cryptography Methods** (7 videos)
+- **4. 3. Examining the Fundamental of Cryptographic Algorithms** (5 videos)
+- **5. 4. Explaining Public Key Infrastructure (PKI)** (5 videos)
+- **6. 5. Investigating Cryptoanalysis** (6 videos)
+- **7. 6. Guidelines and Standards** (1 videos)
+- **8. Conclusion** (2 videos)
+
+### 1. Introduction: Diving Into Cryptography
 
 #### Take a crack at cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980)
@@ -204,7 +204,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 1. Clarifying Cryptography Concepts
+### 2. 1. Clarifying Cryptography Concepts
 
 #### Understanding cryptography terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980)
@@ -426,7 +426,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Types of Cryptography Methods
+### 3. 2. Types of Cryptography Methods
 
 #### Symmetric cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980)
@@ -1255,7 +1255,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. Examining the Fundamental of Cryptographic Algorithms
+### 4. 3. Examining the Fundamental of Cryptographic Algorithms
 
 #### Desirable qualities of an algorithm and key
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980)
@@ -1853,7 +1853,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Explaining Public Key Infrastructure (PKI)
+### 5. 4. Explaining Public Key Infrastructure (PKI)
 
 #### Fundamentals of public key infrastructure (PKI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980)
@@ -2411,7 +2411,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Investigating Cryptoanalysis
+### 6. 5. Investigating Cryptoanalysis
 
 #### Cryptanalysis goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980)
@@ -2921,7 +2921,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Guidelines and Standards
+### 7. 6. Guidelines and Standards
 
 #### Guidelines and standards in cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980)
@@ -3010,7 +3010,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Fusion of AI and quantum cryptography: What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980)
@@ -3288,6 +3288,19 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 > **Speakers:** - wow (1)
 
+
+## Instructor
+
+- [[Diondria Holliman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Ethical Hacking
+- Cryptography
 
 ## Path Context
 

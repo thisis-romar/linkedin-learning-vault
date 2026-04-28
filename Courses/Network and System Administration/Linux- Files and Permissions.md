@@ -26,33 +26,32 @@ tags:
   - topic/network-and-system-administration
   - skill/linux
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Linux-%20Files%20and%20Permissions.md)
 
 ![Linux: Files and Permissions](https://media.licdn.com/dms/image/v2/C560DAQHHLD8nck6tzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623695334038?e=2147483647&amp;v=beta&amp;t=RXCr8DX8NaYvhnSvsBkwdc28EsXwcn9Dpc4ajEaOJU8)
 
 # Linux: Files and Permissions
 
-> When it comes to managing Linux servers securely, permissions and access control are crucial. In this course, computer science instructor and Linux enthusiast Grant McWilliams explains how to manage files and directories, create links, and set permissions in Enterprise Linux  8. Grant covers how to maintain access control to files through the standard Linux permission system and access control lis
+> When it comes to managing Linux servers securely, permissions and access control are crucial. In this course, computer science instructor and Linux enthusiast Grant McWilliams explains how to manage files and directories, create links, and set permissions in Enterprise Linux 8. Grant covers how to maintain access control to files through the standard Linux permission system and access control list
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387) | 2h 57m | Intermediate | 23K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Grant McWilliams]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Linux
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. Linux Files** (11 videos)
+- **3. Manage Linux Files** (9 videos)
+- **4. Linux Permissions** (10 videos)
+- **5. Access Control Lists** (8 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Manage files and permissions in Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980)
@@ -430,7 +429,7 @@ created: 2026-04-21
 > **Env Vars:** url (1)
 
 
-### Linux Files
+### 2. Linux Files
 
 #### What is a file?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980)
@@ -1717,7 +1716,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Manage Linux Files
+### 3. Manage Linux Files
 
 #### Understanding filesystem paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980)
@@ -2673,7 +2672,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Linux Permissions
+### 4. Linux Permissions
 
 #### Standard Linux permissions overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/standard-linux-permissions-overview?u=76281980)
@@ -3700,7 +3699,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Access Control Lists
+### 5. Access Control Lists
 
 #### ACL overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980)
@@ -4587,7 +4586,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/next-steps?u=76281980)
@@ -4623,6 +4622,18 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [grant] (1)
 
+
+## Instructor
+
+- [[Grant McWilliams]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Linux
 
 ## Path Context
 

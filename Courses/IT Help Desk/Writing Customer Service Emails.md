@@ -30,8 +30,10 @@ tags:
   - skill/email-etiquette
   - skill/customer-service
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Writing%20Customer%20Service%20Emails.md)
 
 ![Writing Customer Service Emails](https://media.licdn.com/dms/image/v2/D560DAQHNhnO1A6_T4Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686353106982?e=2147483647&amp;v=beta&amp;t=9n9TBZFKWjFiFipbWUqJKcIhvuJx9w7yrj42DzspYjU)
 
@@ -42,22 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835) | 1h 5m | Beginner | 115K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Leslie O'Flahavan]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Email Etiquette
-- Customer Service
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Answer the Customer's Question** (6 videos)
+- **3. 2. Show Customers You've Read Their Email** (5 videos)
+- **4. 3. Use an Engaging Tone with Customers** (2 videos)
+- **5. 4. If You Must Apologize, Be Sincere** (6 videos)
+- **6. 5. Customize Templates to Avoid Sounding Robotic** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Customer service email is not dead
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/customer-service-email-is-not-dead?u=76281980)
@@ -82,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - contrary (1)
 
 
-### 1. Answer the Customer's Question
+### 2. 1. Answer the Customer's Question
 
 #### Read emails analytically
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/read-emails-analytically?u=76281980)
@@ -482,7 +481,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Show Customers You've Read Their Email
+### 3. 2. Show Customers You've Read Their Email
 
 #### Explain your process to the customer
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/explain-your-process-to-the-customer?u=76281980)
@@ -794,7 +793,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat lively music) (1)
 
 
-### 3. Use an Engaging Tone with Customers
+### 4. 3. Use an Engaging Tone with Customers
 
 #### Use personal pronouns
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980)
@@ -1008,7 +1007,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 4. If You Must Apologize, Be Sincere
+### 5. 4. If You Must Apologize, Be Sincere
 
 #### When and how to apologize
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/when-and-how-to-apologize?u=76281980)
@@ -1406,7 +1405,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat lively music) (1)
 
 
-### 5. Customize Templates to Avoid Sounding Robotic
+### 6. 5. Customize Templates to Avoid Sounding Robotic
 
 #### Use the template as a starting point
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-the-template-as-a-starting-point?u=76281980)
@@ -1715,7 +1714,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continue to sharpen customer service email skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/continue-to-sharpen-customer-service-email-skills?u=76281980)
@@ -1771,6 +1770,19 @@ created: 2026-04-21
 > **Definitions:** is called (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Leslie O'Flahavan]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Email Etiquette
+- Customer Service
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/network-and-system-administration
   - skill/jira
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Jira%20Cloud%20Edition.md)
 
 ![Learning Jira Cloud Edition](https://media.licdn.com/dms/image/v2/D4D0DAQE5YQJIs9wiyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702339479063?e=2147483647&amp;v=beta&amp;t=K-QDOgmH0MwjJhr3kfLnMXRrX3xcyCm08yMUM2Y5mps)
 
@@ -40,17 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900) | Beginner | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Jira
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started with Jira** (5 videos)
+- **3. 2. Navigating Jira** (5 videos)
+- **4. 3. Working in Projects** (4 videos)
+- **5. 4. Working with Issues** (7 videos)
+- **6. 5. Finding Issues** (6 videos)
+- **7. 6. Using Reporting Features** (9 videos)
+- **8. 7. Managing Profile Settings** (1 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Managing work in Jira Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980)
@@ -184,7 +190,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 1. Getting Started with Jira
+### 2. 1. Getting Started with Jira
 
 #### What is Jira?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980)
@@ -494,7 +500,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. Navigating Jira
+### 3. 2. Navigating Jira
 
 #### Logging in
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/logging-in?u=76281980)
@@ -875,7 +881,7 @@ created: 2026-04-21
 > **Definitions:** is called (1)
 
 
-### 3. Working in Projects
+### 4. 3. Working in Projects
 
 #### Viewing the project list
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/viewing-the-project-list?u=76281980)
@@ -1419,7 +1425,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Working with Issues
+### 5. 4. Working with Issues
 
 #### Creating issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980)
@@ -1788,7 +1794,7 @@ created: 2026-04-21
 > **UI Navigation:** open the (1)
 
 
-### 5. Finding Issues
+### 6. 5. Finding Issues
 
 #### Ways to find Jira issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/ways-to-find-jira-issues?u=76281980)
@@ -2082,7 +2088,7 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 
 
-### 6. Using Reporting Features
+### 7. 6. Using Reporting Features
 
 #### Reporting methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/reporting-methods?u=76281980)
@@ -2712,7 +2718,7 @@ created: 2026-04-21
 > **UI Navigation:** select the (1)
 
 
-### 7. Managing Profile Settings
+### 8. 7. Managing Profile Settings
 
 #### Changing user preferences
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980)
@@ -2765,7 +2771,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980)
@@ -2838,6 +2844,14 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Best Practices:** don't forget (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Jira
 
 ## Path Context
 

@@ -43,8 +43,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/How%20to%20Boost%20Your%20Productivity%20with%20AI%20Tools%20(2023).md)
 
 ![How to Boost Your Productivity with AI Tools (2023)](https://media.licdn.com/dms/image/v2/D560DAQEyqtbenL5uPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689184260073?e=2147483647&amp;v=beta&amp;t=7sBW0t2hdFYiSW-ps9jfsLOIjYY0VCvmTxIxrZUzs5U)
 
@@ -55,23 +57,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023) | 1h | 140K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dave Birss]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- Artificial Intelligence (AI)
-- Productivity Improvement
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Your Approach to Using AI in Business** (5 videos)
+- **3. 2. AI Prompts to Make Your Job Easier** (5 videos)
+- **4. 3. AI Prompts to Help Make Your Work Better** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI is a dream for productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/ai-is-a-dream-for-productivity?u=76281980)
@@ -117,7 +113,7 @@ created: 2026-04-21
 > **Analogies:** it's like (1)
 
 
-### 1. Your Approach to Using AI in Business
+### 2. 1. Your Approach to Using AI in Business
 
 #### The two reasons to use AI in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/the-two-reasons-to-use-ai-in-business?u=76281980)
@@ -465,7 +461,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. AI Prompts to Make Your Job Easier
+### 3. 2. AI Prompts to Make Your Job Easier
 
 #### Using AI to respond to an email
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/using-ai-to-respond-to-an-email?u=76281980)
@@ -1165,7 +1161,7 @@ created: 2026-04-21
 > **Analogies:** picture (1), imagine (1)
 
 
-### 3. AI Prompts to Help Make Your Work Better
+### 4. 3. AI Prompts to Help Make Your Work Better
 
 #### Using AI to help generate ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/using-ai-to-help-generate-ideas?u=76281980)
@@ -1624,7 +1620,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/summary-and-next-steps?u=76281980)
@@ -1652,6 +1648,20 @@ created: 2026-04-21
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
 
+
+## Instructor
+
+- [[Dave Birss]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- Artificial Intelligence (AI)
+- Productivity Improvement
 
 ## Path Context
 

@@ -26,8 +26,10 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20with%20ChatGPT.md)
 
 ![Prompt Engineering with ChatGPT](https://media.licdn.com/dms/image/v2/D560DAQEbvCcHVeK8sQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713398114484?e=2147483647&amp;v=beta&amp;t=UUj7lyCKIyutn6Rg8ujKgpsZq3fm6H2l-MtdH0syEQw)
 
@@ -38,13 +40,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt) | 54m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ronnie Sheer]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Prompt Best Practices** (4 videos)
+- **3. 2. Advanced Techniques** (7 videos)
+- **4. 3. DALL-E 3 in ChatGPT** (4 videos)
+- **5. 4. Security Considerations** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### ChatGPT: The AI game changer
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980)
@@ -115,7 +122,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Prompt Best Practices
+### 2. 1. Prompt Best Practices
 
 #### Providing context and using delimiters
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980)
@@ -361,7 +368,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 2. Advanced Techniques
+### 3. 2. Advanced Techniques
 
 #### Personas
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980)
@@ -778,7 +785,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. DALL-E 3 in ChatGPT
+### 4. 3. DALL-E 3 in ChatGPT
 
 #### What is DALL-E?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980)
@@ -919,7 +926,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Security Considerations
+### 5. 4. Security Considerations
 
 #### ChatGPT security considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980)
@@ -1106,7 +1113,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980)
@@ -1137,6 +1144,10 @@ created: 2026-04-21
 > **Env Vars:** api (1)
 > **Speakers:** - [ronnie] (1)
 
+
+## Instructor
+
+- [[Ronnie Sheer]]
 
 ## Path Context
 

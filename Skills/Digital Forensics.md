@@ -3,16 +3,21 @@ type: skill
 cssclasses:
   - lle-skill
 course_count: 1
+level_beginner: 1
+level_intermediate: 0
+level_advanced: 0
 tags:
   - skill
   - skill/digital-forensics
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Digital%20Forensics.md)
 
 # Digital Forensics
 
-> 1 course teach this skill
+> 1 course · Beginner: 1
 
 ## Courses
 
-- [[Learning Autopsy for Digital Forensics]]
+- [[Learning Autopsy for Digital Forensics]] — Beginner · 1h 23m · 24,485 learners

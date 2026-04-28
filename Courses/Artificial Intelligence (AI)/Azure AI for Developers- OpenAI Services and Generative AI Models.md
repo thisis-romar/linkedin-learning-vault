@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20OpenAI%20Services%20and%20Generative%20AI%20Models.md)
 
 ![Azure AI for Developers: OpenAI Services and Generative AI Models](https://media.licdn.com/dms/image/v2/D4D0DAQE6duOe6-u4jg/learning-public-crop_675_1200/B4DZaigMnzGwAg-/0/1746483071814?e=2147483647&amp;v=beta&amp;t=w4NdGIIy1bsyOz0okYdTWwfGxMP4AZ0yDKDtFClzAT8)
 
@@ -46,24 +48,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models) | 1h 5m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sammy Deprez]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/azure-openai-generative-ai-models-and-how-to-use-them-5988057)
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Azure OpenAI Service** (7 videos)
+- **3. 2. Chat Completion Models** (4 videos)
+- **4. 3. Embedding Models** (3 videos)
+- **5. 4. Image Generation Models** (3 videos)
+- **6. 5. Audio Models** (4 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Unlocking your AI potential with Azure OpenAI Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980)
@@ -128,7 +125,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor (1)
 
 
-### 1. Introduction to Azure OpenAI Service
+### 2. 1. Introduction to Azure OpenAI Service
 
 #### What is Azure OpenAI Service?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980)
@@ -485,7 +482,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Chat Completion Models
+### 3. 2. Chat Completion Models
 
 #### How do GPT models work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980)
@@ -901,7 +898,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Embedding Models
+### 4. 3. Embedding Models
 
 #### What are embeddings?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-embeddings?u=76281980)
@@ -1176,7 +1173,7 @@ created: 2026-04-21
 > **Tools:** jupyter (1)
 
 
-### 4. Image Generation Models
+### 5. 4. Image Generation Models
 
 #### What are DALL·E models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-dall-e-models?u=76281980)
@@ -1340,7 +1337,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Audio Models
+### 6. 5. Audio Models
 
 #### What are audio models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-audio-models?u=76281980)
@@ -1599,7 +1596,7 @@ created: 2026-04-21
 > **Tools:** github (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Be careful
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980)
@@ -1714,6 +1711,21 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Sammy Deprez]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/azure-openai-generative-ai-models-and-how-to-use-them-5988057)
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- Microsoft Azure
 
 ## Path Context
 

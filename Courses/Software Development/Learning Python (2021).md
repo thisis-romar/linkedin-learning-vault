@@ -33,8 +33,10 @@ tags:
   - topic/data-science
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Python%20(2021).md)
 
 ![Learning Python (2021)](https://media.licdn.com/dms/image/v2/D4E0DAQECotgjIKCbrw/learning-public-crop_675_1200/B4EZT7PgtEGwAc-/0/1739381935225?e=2147483647&amp;v=beta&amp;t=zavFdzEcNtb5C3H8Q58J2_FVW9eqwIM5x_aSr1xHRzQ)
 
@@ -45,22 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021) | 3h 5m | Beginner | 75K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-python-2896241)
-
-## Skills Covered
-
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (5 videos)
+- **3. 2. Python Basics** (9 videos)
+- **4. 3. Working with Files** (4 videos)
+- **5. 4. Using Dates and Times** (5 videos)
+- **6. 5. Internet Data Formats** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980)
@@ -168,7 +167,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Installing Python on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980)
@@ -498,7 +497,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Python Basics
+### 3. 2. Python Basics
 
 #### Building Hello World
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980)
@@ -2112,7 +2111,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Working with Files
+### 4. 3. Working with Files
 
 #### Reading and writing files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980)
@@ -2682,7 +2681,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Using Dates and Times
+### 5. 4. Using Dates and Times
 
 #### The date, time, and datetime classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/the-date-time-and-datetime-classes?u=76281980)
@@ -3440,7 +3439,7 @@ created: 2026-04-21
 > **Speakers:** - [host] (1)
 
 
-### 5. Internet Data Formats
+### 6. 5. Internet Data Formats
 
 #### Fetching Internet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980)
@@ -4105,7 +4104,7 @@ created: 2026-04-21
 > **Definitions:** in other words (1), is a  (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980)
@@ -4151,6 +4150,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - all (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-python-2896241)
+
+## Skills Covered
+
+- Python (Programming Language)
 
 ## Path Context
 

@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/snowflake
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Gen%20AI%20with%20Snowflake.md)
 
 ![Introduction to Gen AI with Snowflake](https://media.licdn.com/dms/image/v2/D4E0DAQEYGQ7U_Hfwng/learning-public-crop_675_1200/B4EZdBvcL5HcAc-/0/1749154645063?e=2147483647&amp;v=beta&amp;t=92K7pyzclH5oMKmmSYH_oi2eYtR8XRJKU_qYpzHsvpA)
 
@@ -48,24 +50,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake) | 2h 21m | Intermediate | 18K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Snowflake]]
-- [[Inc]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- Snowflake
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to GenAI on Snowflake** (2 videos)
+- **3. 2. Snowflake Cortex’s LLM-Based Functions** (8 videos)
+- **4. 3. Customize LLM Responses with Cortex Fine-Tuning** (9 videos)
+
+### 1. Introduction
 
 #### Navigating the generative AI revolution with Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980)
@@ -190,7 +184,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 1. Introduction to GenAI on Snowflake
+### 2. 1. Introduction to GenAI on Snowflake
 
 #### Preparing your development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980)
@@ -551,7 +545,7 @@ created: 2026-04-21
 > **Cross-References:** later in (1), in the next (1)
 
 
-### 2. Snowflake Cortex’s LLM-Based Functions
+### 3. 2. Snowflake Cortex’s LLM-Based Functions
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction?u=76281980)
@@ -1599,7 +1593,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Customize LLM Responses with Cortex Fine-Tuning
+### 4. 3. Customize LLM Responses with Cortex Fine-Tuning
 
 #### What is Cortex fine-tuning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980)
@@ -2798,6 +2792,21 @@ created: 2026-04-21
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (snappy urban music) (1)
 
+
+## Instructor
+
+- [[Snowflake]]
+- [[Inc]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- Snowflake
 
 ## Path Context
 

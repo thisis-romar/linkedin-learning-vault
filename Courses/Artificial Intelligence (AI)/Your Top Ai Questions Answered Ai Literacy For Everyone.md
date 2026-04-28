@@ -26,8 +26,10 @@ tags:
   - topic/artificial-intelligence
   - topic/security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Your%20Top%20Ai%20Questions%20Answered%20Ai%20Literacy%20For%20Everyone.md)
 
 ![Your Top Ai Questions Answered Ai Literacy For Everyone](https://media.licdn.com/dms/image/v2/D560DAQHq9g4-_gAbjg/learning-public-crop_675_1200/B56ZhSC9chG4AY-/0/1753723165260?e=2147483647&amp;v=beta&amp;t=qern6cYgWm0Fw_R7QrdfHOWSfEAZbm1EEE2t-MNXXe4)
 
@@ -38,13 +40,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dr. Marily Nika]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding AI and GenAI's Unique Capabilities** (3 videos)
+- **3. 2. Generative AI Technical Concepts** (4 videos)
+- **4. 3. Working with Generative AI Tools** (2 videos)
+- **5. 4. Data and Quality Considerations** (3 videos)
+- **6. 5. Ethics and Compliance** (4 videos)
+
+### 1. Introduction
 
 #### Answers to your most common AI questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980)
@@ -75,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 1. Understanding AI and GenAI's Unique Capabilities
+### 2. 1. Understanding AI and GenAI's Unique Capabilities
 
 #### A quick history of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980)
@@ -322,7 +329,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Generative AI Technical Concepts
+### 3. 2. Generative AI Technical Concepts
 
 #### What's an LLM?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980)
@@ -562,7 +569,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Working with Generative AI Tools
+### 4. 3. Working with Generative AI Tools
 
 #### What makes an effective prompt?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-makes-an-effective-prompt?u=76281980)
@@ -700,7 +707,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Data and Quality Considerations
+### 5. 4. Data and Quality Considerations
 
 #### Why does quality matter in AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980)
@@ -849,7 +856,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Ethics and Compliance
+### 6. 5. Ethics and Compliance
 
 #### What are the ethical considerations in AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980)
@@ -1036,6 +1043,10 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Dr. Marily Nika]]
 
 ## Path Context
 

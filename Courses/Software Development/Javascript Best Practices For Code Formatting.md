@@ -24,8 +24,10 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Javascript%20Best%20Practices%20For%20Code%20Formatting.md)
 
 ![Javascript Best Practices For Code Formatting](https://media.licdn.com/dms/image/v2/D560DAQHdN0e3vJKDpQ/learning-public-crop_675_1200/B56ZbF5UuRGkAY-/0/1747076861533?e=2147483647&amp;v=beta&amp;t=19W5OcUTcULII8Qk1ApBLeqcmGZCyzh14SHA59mdMxs)
 
@@ -36,17 +38,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting) | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Why Best Practices?** (4 videos)
+- **3. 2. Creating Comments** (5 videos)
+- **4. 3. Using Punctuation** (7 videos)
+- **5. 4. Using Spacing** (11 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Modern standards for your JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980)
@@ -172,7 +175,7 @@ created: 2026-04-21
 > **Env Vars:** lts (1)
 
 
-### 1. Why Best Practices?
+### 2. 1. Why Best Practices?
 
 #### Style guides
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980)
@@ -463,7 +466,7 @@ created: 2026-04-21
 > **UI Navigation:** open the (1)
 
 
-### 2. Creating Comments
+### 3. 2. Creating Comments
 
 #### Use single-line syntax for single lines
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980)
@@ -765,7 +768,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Using Punctuation
+### 4. 3. Using Punctuation
 
 #### End statements with a semicolon
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980)
@@ -1347,7 +1350,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Using Spacing
+### 5. 4. Using Spacing
 
 #### Indent consistently
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/indent-consistently?u=76281980)
@@ -2097,7 +2100,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/next-steps?u=76281980)
@@ -2122,6 +2125,14 @@ created: 2026-04-21
 >
 > **Speakers:** - [sasha] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- JavaScript
 
 ## Path Context
 

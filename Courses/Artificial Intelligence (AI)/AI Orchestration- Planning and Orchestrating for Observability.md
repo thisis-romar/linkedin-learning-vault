@@ -36,8 +36,10 @@ tags:
   - skill/software-observability
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Planning%20and%20Orchestrating%20for%20Observability.md)
 
 ![AI Orchestration: Planning and Orchestrating for Observability](https://media.licdn.com/dms/image/v2/D4D0DAQHZpYXImv9IJg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735839023766?e=2147483647&amp;v=beta&amp;t=VvhiwjP_RbU7PZcMhAwat1NfO0oibXIWQKoFw_XO-5A)
 
@@ -48,25 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability) | 1h 53m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fikayo Adepoju]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/ai-orchestration-planning-and-orchestrating-for-observability-2134009)
-
-## Skills Covered
-
-- AI Software Development
-- Artificial Intelligence (AI)
-- Software Observability
-- AI Orchestration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding AI Observability** (4 videos)
+- **3. 2. Observability in AI Application Layers** (4 videos)
+- **4. 3. Planning for Observability** (5 videos)
+- **5. 4. Orchestrating for Observability** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI orchestration for observability
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/ai-orchestration-for-observability?u=76281980)
@@ -140,7 +135,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding AI Observability
+### 2. 1. Understanding AI Observability
 
 #### What is AI observability?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980)
@@ -490,7 +485,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Observability in AI Application Layers
+### 3. 2. Observability in AI Application Layers
 
 #### Observing infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980)
@@ -932,7 +927,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 3. Planning for Observability
+### 4. 3. Planning for Observability
 
 #### Creating an observability strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980)
@@ -1430,7 +1425,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Orchestrating for Observability
+### 5. 4. Orchestrating for Observability
 
 #### Creating a simple orchestrated AI application
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980)
@@ -2331,7 +2326,7 @@ created: 2026-04-21
 > **File Paths:** agent.js (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980)
@@ -2367,6 +2362,22 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Fikayo Adepoju]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/ai-orchestration-planning-and-orchestrating-for-observability-2134009)
+
+## Skills Covered
+
+- AI Software Development
+- Artificial Intelligence (AI)
+- Software Observability
+- AI Orchestration
 
 ## Path Context
 

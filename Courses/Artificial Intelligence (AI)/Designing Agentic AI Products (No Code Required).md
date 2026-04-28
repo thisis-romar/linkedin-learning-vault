@@ -35,8 +35,10 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Designing%20Agentic%20AI%20Products%20(No%20Code%20Required).md)
 
 ![Designing Agentic AI Products (No Code Required)](https://media.licdn.com/dms/image/v2/D560DAQEbY_i-mz855g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727984817086?e=2147483647&amp;v=beta&amp;t=EKC4yDvFlQC7CLvjs0QjLMdx0l4eDTkjVQ1zQxCLSCI)
 
@@ -47,24 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required) | 1h 4m | Intermediate | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sudha Jamthe]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- Product Design
-- AI Agents
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Agentic AI** (4 videos)
+- **3. 2. Agent AI Tools Landscape and Applications** (5 videos)
+- **4. 3. Building Agentic AI Products with No-Code** (5 videos)
+- **5. 4. Designing Human Computer Interface (HCI) for Agent AI Products** (5 videos)
+- **6. 5. Top Business Questions around Agentic AI** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Designing autonomous agentic products
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980)
@@ -95,7 +92,7 @@ created: 2026-04-21
 > **Speakers:** - wouldn (1)
 
 
-### 1. Introduction to Agentic AI
+### 2. 1. Introduction to Agentic AI
 
 #### What is an autonomous Agent AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980)
@@ -355,7 +352,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Agent AI Tools Landscape and Applications
+### 3. 2. Agent AI Tools Landscape and Applications
 
 #### Agent AI ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980)
@@ -656,7 +653,7 @@ created: 2026-04-21
 > **Speakers:** - agent (1)
 
 
-### 3. Building Agentic AI Products with No-Code
+### 4. 3. Building Agentic AI Products with No-Code
 
 #### What is reasoning in LLM?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980)
@@ -921,7 +918,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Designing Human Computer Interface (HCI) for Agent AI Products
+### 5. 4. Designing Human Computer Interface (HCI) for Agent AI Products
 
 #### Job roles in designing agentic products
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980)
@@ -1309,7 +1306,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Top Business Questions around Agentic AI
+### 6. 5. Top Business Questions around Agentic AI
 
 #### The cost of agentic AI applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980)
@@ -1576,7 +1573,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980)
@@ -1615,6 +1612,21 @@ created: 2026-04-21
 > **Code Keywords:** continue (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Sudha Jamthe]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- Product Design
+- AI Agents
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Ai%20And%20Developer%20Productivity.md)
 
 ![Ai And Developer Productivity](https://media.licdn.com/dms/image/v2/D560DAQFXw8VOLfLmtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715191910801?e=2147483647&amp;v=beta&amp;t=mhuN023shOrFTHdcxcl50OYKx8j5q-CxM6xDb7_iQS4)
 
@@ -41,20 +43,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity) | Intermediate | 163K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/ai-and-developer-productivity-3832127)
-
-## Skills Covered
-
-- Software Development
-- AI Software Development
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Exploring GPT Technology and Effective Use of Prompts** (4 videos)
+- **3. 2. Code Optimization with AI** (6 videos)
+- **4. 3. Automated Testing and Quality Assurance Enhanced by AI** (4 videos)
+- **5. 4. Intelligent Debugging and Issue Resolution Strategies** (4 videos)
+- **6. 5. Collaborative Development for Remote Teams with AI** (2 videos)
+- **7. 6. AI-Powered Code Documentation Techniques** (2 videos)
+- **8. 7. AI Interview Preparation: Technical Questions and Confidence Building** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI and developer productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-and-developer-productivity?u=76281980)
@@ -230,7 +233,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 1. Exploring GPT Technology and Effective Use of Prompts
+### 2. 1. Exploring GPT Technology and Effective Use of Prompts
 
 #### Introduction to GPT technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980)
@@ -565,7 +568,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Code Optimization with AI
+### 3. 2. Code Optimization with AI
 
 #### A disclaimer before we begin
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980)
@@ -859,7 +862,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Automated Testing and Quality Assurance Enhanced by AI
+### 4. 3. Automated Testing and Quality Assurance Enhanced by AI
 
 #### The traditional challenges of software testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980)
@@ -1085,7 +1088,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Intelligent Debugging and Issue Resolution Strategies
+### 5. 4. Intelligent Debugging and Issue Resolution Strategies
 
 #### Understanding common coding errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-common-coding-errors?u=76281980)
@@ -1342,7 +1345,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Collaborative Development for Remote Teams with AI
+### 6. 5. Collaborative Development for Remote Teams with AI
 
 #### Collaboration and modern software development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980)
@@ -1459,7 +1462,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. AI-Powered Code Documentation Techniques
+### 7. 6. AI-Powered Code Documentation Techniques
 
 #### The significance of clear code documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-significance-of-clear-code-documentation?u=76281980)
@@ -1606,7 +1609,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 7. AI Interview Preparation: Technical Questions and Confidence Building
+### 8. 7. AI Interview Preparation: Technical Questions and Confidence Building
 
 #### The traditional challenges of acing an interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980)
@@ -1882,7 +1885,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Using AI to improve productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/using-ai-to-improve-productivity?u=76281980)
@@ -1918,6 +1921,17 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1), let (1), continue (1)
 > **Speakers:** - finally (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/ai-and-developer-productivity-3832127)
+
+## Skills Covered
+
+- Software Development
+- AI Software Development
+- Artificial Intelligence (AI)
 
 ## Path Context
 

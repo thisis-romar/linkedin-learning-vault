@@ -31,34 +31,33 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20C-.md)
 
 ![Learning C#](https://media.licdn.com/dms/image/v2/D560DAQHyukppmcS41g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694721037740?e=2147483647&amp;v=beta&amp;t=lYMcOW-aab-eECYL0l_1ssUd1KkAJuO037RYI7LpvVQ)
 
 # Learning C#
 
-> The C# language got its start on Windows, but today you can find it almost everywhere.  Whether it’s running on the cloud, to desktops with MacOS and Linux, to mobile operating systems like Android and iOS, C# has grown into a mature, powerful language for almost any programming purpose.
-In this course, Joe Marini dives into the fundamentals of C#, starting with a basic overview of language constr
+> The C# language got its start on Windows, but today you can find it almost everywhere. Whether it’s running on the cloud, to desktops with MacOS and Linux, to mobile operating systems like Android and iOS, C# has grown into a mature, powerful language for almost any programming purpose. In this course, Joe Marini dives into the fundamentals of C#, starting with a basic overview of language constru
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491) | 2h 54m | Beginner | 53K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Overview of C#** (4 videos)
+- **3. 2. C# Program Flow** (6 videos)
+- **4. 3. C# Strings** (6 videos)
+- **5. 4. C# Functions** (5 videos)
+- **6. 5. Object-Oriented C#** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### An introduction to learning C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/an-introduction-to-learning-c-sharp?u=76281980)
@@ -374,7 +373,7 @@ In this course, Joe Marini dives into the fundamentals of C#, starting with a ba
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Overview of C#
+### 2. 1. Overview of C#
 
 #### Hello World C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980)
@@ -1031,7 +1030,7 @@ In this course, Joe Marini dives into the fundamentals of C#, starting with a ba
 > **Cross-References:** go back to (1)
 
 
-### 2. C# Program Flow
+### 3. 2. C# Program Flow
 
 #### Conditionals with "if"
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/conditionals-with-if?u=76281980)
@@ -1716,7 +1715,7 @@ In this course, Joe Marini dives into the fundamentals of C#, starting with a ba
 > **Speakers:** - [illustrator] (1)
 
 
-### 3. C# Strings
+### 4. 3. C# Strings
 
 #### String operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980)
@@ -2601,7 +2600,7 @@ In this course, Joe Marini dives into the fundamentals of C#, starting with a ba
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-count-the-data-types?u=76281980)
 
 
-### 4. C# Functions
+### 5. 4. C# Functions
 
 #### Function basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980)
@@ -3062,7 +3061,7 @@ In this course, Joe Marini dives into the fundamentals of C#, starting with a ba
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Object-Oriented C#
+### 6. 5. Object-Oriented C#
 
 #### Defining C# classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980)
@@ -3812,7 +3811,7 @@ In this course, Joe Marini dives into the fundamentals of C#, starting with a ba
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980)
@@ -3847,6 +3846,18 @@ In this course, Joe Marini dives into the fundamentals of C#, starting with a ba
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [joe] (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- C#
 
 ## Path Context
 

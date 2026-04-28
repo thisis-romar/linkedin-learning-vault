@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Swift-%20Delegations%20and%20Data%20Sources.md)
 
 ![Swift: Delegations and Data Sources](https://media.licdn.com/dms/image/v2/C4E0DAQGSfsJszIFFgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567794475117?e=2147483647&amp;v=beta&amp;t=JvupRiD4BQ3oY8JubP-06zOO0zwBsenWbr_vFTHcd4Q)
 
@@ -41,21 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018) | 1h 6m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Steven Lipton]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Swift (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The Basics of Classes and MVC** (4 videos)
+- **3. 2. Delegation** (7 videos)
+- **4. 3. Data Sources** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/welcome?u=76281980)
@@ -137,7 +135,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Basics of Classes and MVC
+### 2. 1. The Basics of Classes and MVC
 
 #### What is a class?
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980)
@@ -607,7 +605,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Delegation
+### 3. 2. Delegation
 
 #### Destination view controllers in code
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-code?u=76281980)
@@ -1346,7 +1344,7 @@ created: 2026-04-21
 > **Speakers:** - instead (1)
 
 
-### 3. Data Sources
+### 4. 3. Data Sources
 
 #### Data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/data-sources?u=76281980)
@@ -1696,7 +1694,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/next-steps?u=76281980)
@@ -1736,6 +1734,18 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Steven Lipton]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Swift (Programming Language)
 
 ## Path Context
 

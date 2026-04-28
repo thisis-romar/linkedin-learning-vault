@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-software-testi
 course_count: 12
 linkedin_topics:
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - learning-path
   - topic/software-development
@@ -65,8 +65,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/Getting%20Started%20with%20Software%20Testing.md)
 
 # Getting Started with Software Testing
 

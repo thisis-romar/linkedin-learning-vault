@@ -32,8 +32,10 @@ tags:
   - skill/angular
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/WebSocket%20Communications%20with%20Node%20and%20Angular.md)
 
 ![WebSocket Communications with Node and Angular](https://media.licdn.com/dms/image/v2/C560DAQE_YE-lIDB7xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646853207200?e=2147483647&amp;v=beta&amp;t=lDyzOC2sKLTJDVltV-cZ9-V506_a6Pm3tUrB9FUpeVQ)
 
@@ -44,24 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular) | 1h 50m | Advanced | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Patrick Siewe]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/websocket-comms-with-node-and-angular-2825709)
-
-## Skills Covered
-
-- WebSocket
-- Angular
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Environment: TypeScript, Node, and Angular** (6 videos)
+- **3. 2. Stand Up a WebSocket Service** (6 videos)
+- **4. 3. Build the UI with Angular** (4 videos)
+- **5. 4. Turn On WebSockets in the UI** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What are WebSockets?
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980)
@@ -210,7 +206,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Environment: TypeScript, Node, and Angular
+### 2. 1. Environment: TypeScript, Node, and Angular
 
 #### How to clone the code at any stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980)
@@ -781,7 +777,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 2. Stand Up a WebSocket Service
+### 3. 2. Stand Up a WebSocket Service
 
 #### Receive your first WebSocket connection
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980)
@@ -1415,7 +1411,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Build the UI with Angular
+### 4. 3. Build the UI with Angular
 
 #### A quick look at Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980)
@@ -1934,7 +1930,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 4. Turn On WebSockets in the UI
+### 5. 4. Turn On WebSockets in the UI
 
 #### Simulate authentication on new connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980)
@@ -2925,7 +2921,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980)
@@ -2957,6 +2953,21 @@ created: 2026-04-21
 > **Code Keywords:** private (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Patrick Siewe]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/websocket-comms-with-node-and-angular-2825709)
+
+## Skills Covered
+
+- WebSocket
+- Angular
+- Node.js
 
 ## Path Context
 

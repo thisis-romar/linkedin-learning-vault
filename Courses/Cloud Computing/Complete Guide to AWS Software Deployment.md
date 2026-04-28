@@ -32,8 +32,10 @@ tags:
   - skill/amazon-web-services-aws
   - skill/software-deployment
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Complete%20Guide%20to%20AWS%20Software%20Deployment.md)
 
 ![Complete Guide to AWS Software Deployment](https://media.licdn.com/dms/image/v2/D560DAQFs3FVasJPT7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008946435?e=2147483647&amp;v=beta&amp;t=rp_itjuIQnHTNZXxeHb1lae4ifByiNQj05k-32noIDc)
 
@@ -44,23 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment) | 6h 26m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brandon Rich]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/brandon-rich-aws-deployment-course)
-
-## Skills Covered
-
-- Amazon Web Services (AWS)
-- Software Deployment
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. AWS Elastic Compute Cloud (EC2) Foundations** (5 videos)
+- **3. 2. EC2 Creation and Provisioning** (13 videos)
+- **4. 3. Deployment Concepts** (3 videos)
+- **5. 4. Elastic Beanstalk** (10 videos)
+- **6. 5. CodeDeploy** (18 videos)
+- **7. 6. Elastic Container Service** (7 videos)
+- **8. 7. Automating ECS Deployments** (6 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to AWS software deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/welcome-to-aws-software-deployment?u=76281980)
@@ -370,7 +370,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. AWS Elastic Compute Cloud (EC2) Foundations
+### 2. 1. AWS Elastic Compute Cloud (EC2) Foundations
 
 #### Understanding AWS EC2
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980)
@@ -1032,7 +1032,7 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 
 
-### 2. EC2 Creation and Provisioning
+### 3. 2. EC2 Creation and Provisioning
 
 #### Create an AWS EC2 instance
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980)
@@ -2619,7 +2619,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Deployment Concepts
+### 4. 3. Deployment Concepts
 
 #### Architect apps for horizontal scaling
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980)
@@ -3178,7 +3178,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (2), scroll down (1)
 
 
-### 4. Elastic Beanstalk
+### 5. 4. Elastic Beanstalk
 
 #### Understanding AWS Elastic Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980)
@@ -4629,7 +4629,7 @@ created: 2026-04-21
 > **Warnings:** watch out (1)
 
 
-### 5. CodeDeploy
+### 6. 5. CodeDeploy
 
 #### AWS CodeDeploy key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980)
@@ -7360,7 +7360,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Elastic Container Service
+### 7. 6. Elastic Container Service
 
 #### Understanding AWS Elastic Container Service and Fargate
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980)
@@ -8327,7 +8327,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Automating ECS Deployments
+### 8. 7. Automating ECS Deployments
 
 #### Challenge: Automating Docker builds on AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/challenge-automating-docker-builds-on-aws?u=76281980)
@@ -9203,7 +9203,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/next-steps?u=76281980)
@@ -9230,6 +9230,20 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 > **Speakers:** - [brandon] (1)
 
+
+## Instructor
+
+- [[Brandon Rich]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/brandon-rich-aws-deployment-course)
+
+## Skills Covered
+
+- Amazon Web Services (AWS)
+- Software Deployment
 
 ## Path Context
 

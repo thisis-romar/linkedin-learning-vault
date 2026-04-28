@@ -31,8 +31,10 @@ tags:
   - skill/github
   - skill/privacy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/GitHub%20Foundations-%20Privacy%2C%20Security%2C%20and%20Administration.md)
 
 ![GitHub Foundations: Privacy, Security, and Administration](https://media.licdn.com/dms/image/v2/D4E0DAQHg0wPhg4lCpQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697155619629?e=2147483647&amp;v=beta&amp;t=O-FTaX-4NRzFTJBUO7DwmPGIy_9gjuOj9dKt0FIOrFU)
 
@@ -43,18 +45,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration) | 49m | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Noah Gift]]
-
-## Skills Covered
-
-- GitHub
-- Privacy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Ensuring Your GitHub Account's Integrity: Authentication and Security Introduction** (4 videos)
+- **3. 2. Configuring and Managing Repositories and Organizations: GitHub Administration Introduction** (10 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building secure and efficient GitHub workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/building-secure-and-efficient-github-workflows?u=76281980)
@@ -96,7 +96,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Ensuring Your GitHub Account's Integrity: Authentication and Security Introduction
+### 2. 1. Ensuring Your GitHub Account's Integrity: Authentication and Security Introduction
 
 #### Introduction to authentication and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980)
@@ -369,7 +369,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 2. Configuring and Managing Repositories and Organizations: GitHub Administration Introduction
+### 3. 2. Configuring and Managing Repositories and Organizations: GitHub Administration Introduction
 
 #### Introduction to GitHub administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980)
@@ -1028,7 +1028,7 @@ created: 2026-04-21
 > **Tools:** github (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps: Continuing your GitHub mastery journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/next-steps-continuing-your-github-mastery-journey?u=76281980)
@@ -1078,6 +1078,15 @@ created: 2026-04-21
 > **Exercise Files:** github repo (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Noah Gift]]
+
+## Skills Covered
+
+- GitHub
+- Privacy
 
 ## Path Context
 

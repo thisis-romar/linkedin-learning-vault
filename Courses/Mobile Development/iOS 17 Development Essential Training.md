@@ -28,8 +28,10 @@ tags:
   - topic/mobile-development
   - skill/ios-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/iOS%2017%20Development%20Essential%20Training.md)
 
 ![iOS 17 Development Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQHmBm_DtpzIWA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705098781570?e=2147483647&amp;v=beta&amp;t=0SkoGQ46l_iKfN582TlDwbSYVXnaZ1mFig1uVR1A-9Y)
 
@@ -40,21 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training) | 1h 44m | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Todd Perkins]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- iOS Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Xcode Fundamentals** (3 videos)
+- **3. 2. UI Development with Storyboards** (12 videos)
+- **4. 3. SwiftUI Basics** (6 videos)
+- **5. 4. SwiftUI Binding** (6 videos)
+- **6. 5. Working with Multiple Screen Views in SwiftUI** (7 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Starting a career in iOS development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/starting-a-career-in-ios-development?u=76281980)
@@ -96,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Xcode Fundamentals
+### 2. 1. Xcode Fundamentals
 
 #### Downloading and installing Xcode
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/downloading-and-installing-xcode?u=76281980)
@@ -241,7 +241,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. UI Development with Storyboards
+### 3. 2. UI Development with Storyboards
 
 #### Choosing between SwiftUI and storyboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980)
@@ -1225,7 +1225,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. SwiftUI Basics
+### 4. 3. SwiftUI Basics
 
 #### SwiftUI fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/swiftui-fundamentals?u=76281980)
@@ -1621,7 +1621,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. SwiftUI Binding
+### 5. 4. SwiftUI Binding
 
 #### Getting text input with SwiftUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980)
@@ -2130,7 +2130,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Working with Multiple Screen Views in SwiftUI
+### 6. 5. Working with Multiple Screen Views in SwiftUI
 
 #### Creating data for a list
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980)
@@ -2620,7 +2620,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980)
@@ -2653,6 +2653,18 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Todd Perkins]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- iOS Development
 
 ## Path Context
 

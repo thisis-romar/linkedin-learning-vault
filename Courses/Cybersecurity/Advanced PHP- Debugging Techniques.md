@@ -30,37 +30,31 @@ tags:
   - skill/debugging
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Advanced%20PHP-%20Debugging%20Techniques.md)
 
 ![Advanced PHP: Debugging Techniques](https://media.licdn.com/dms/image/v2/C560DAQE0DmxKRMsmAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655837059078?e=2147483647&amp;v=beta&amp;t=9jrRyhWo-yOmdLSWZjLEZeWITCE8yBRynF6kxfsZ8Uk)
 
 # Advanced PHP: Debugging Techniques
 
-> PHP powers the back end of many of the world’s websites. But its extensive range of error levels makes it hard to know what’s what, especially when it comes to capturing relevant information and debugging errors in your code. In this course, instructor Gary Kovar shows you advanced techniques to improve your debugging workflow using both local and non-local tools.
-Learn how to use PHP to:
-
-Log and
+> PHP powers the back end of many of the world’s websites. But its extensive range of error levels makes it hard to know what’s what, especially when it comes to capturing relevant information and debugging errors in your code. In this course, instructor Gary Kovar shows you advanced techniques to improve your debugging workflow using both local and non-local tools. Learn how to use PHP to: Log and 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698) | 1h 7m | Advanced | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gary Kovar]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Debugging
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Default Tools for Logging and Identifying Issues** (7 videos)
+- **3. 2. Local Development Tools** (9 videos)
+- **4. 3. Debugging on Non-Local Environments** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Debugging and PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/debugging-and-php?u=76281980)
@@ -113,7 +107,7 @@ Log and
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Default Tools for Logging and Identifying Issues
+### 2. 1. Default Tools for Logging and Identifying Issues
 
 #### Exploring PHP errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980)
@@ -836,7 +830,7 @@ Log and
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Local Development Tools
+### 3. 2. Local Development Tools
 
 #### var_dump() debugging: Blue-collar debugging
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980)
@@ -1744,7 +1738,7 @@ Log and
 > **Cross-References:** go back to (1)
 
 
-### 3. Debugging on Non-Local Environments
+### 4. 3. Debugging on Non-Local Environments
 
 #### What tools are available
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available-17465801?u=76281980)
@@ -2032,7 +2026,7 @@ Log and
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/next-steps?u=76281980)
@@ -2064,6 +2058,19 @@ Log and
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Gary Kovar]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Debugging
+- PHP
 
 ## Path Context
 

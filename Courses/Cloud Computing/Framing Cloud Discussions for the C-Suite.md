@@ -27,8 +27,10 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Framing%20Cloud%20Discussions%20for%20the%20C-Suite.md)
 
 ![Framing Cloud Discussions for the C-Suite](https://media.licdn.com/dms/image/v2/C560DAQHX6MO5cwhOuw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629133124517?e=2147483647&amp;v=beta&amp;t=8ryrVNUYfIXV8A4_2vy2aTJZxQsYSmC_nlyFTG-17JA)
 
@@ -39,13 +41,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite) | 1h 1m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lee Atchison]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Core Distinctions** (4 videos)
+- **3. 2. Cloud for Executives** (5 videos)
+- **4. 3. Leveraging the Cloud** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding the audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-the-audience?u=76281980)
@@ -156,7 +162,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Core Distinctions
+### 2. 1. Core Distinctions
 
 #### Discussing dynamic application infrastructures
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980)
@@ -475,7 +481,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Cloud for Executives
+### 3. 2. Cloud for Executives
 
 #### Understanding what “the cloud” means to your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980)
@@ -801,7 +807,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Leveraging the Cloud
+### 4. 3. Leveraging the Cloud
 
 #### Discussing cloud metrics and OKRs
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980)
@@ -1059,7 +1065,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Continuing cloud discussions with the C-Suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980)
@@ -1101,6 +1107,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lee Atchison]]
 
 ## Path Context
 

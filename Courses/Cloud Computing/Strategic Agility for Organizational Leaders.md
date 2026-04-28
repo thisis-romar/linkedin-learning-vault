@@ -37,8 +37,10 @@ tags:
   - skill/strategy-execution
   - skill/lead-change
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Strategic%20Agility%20for%20Organizational%20Leaders.md)
 
 ![Strategic Agility for Organizational Leaders](https://media.licdn.com/dms/image/v2/D4E0DAQGyR_Aoh74kPQ/learning-public-crop_675_1200/B4EZhioHl6GUAc-/0/1754001341119?e=2147483647&amp;v=beta&amp;t=cWchP4y9PypDfjK2X0s3S6ngb0RcdrsYX9GHRsL26o4)
 
@@ -49,23 +51,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders) | 1h 26m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gary Bolles]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Strategic Leadership
-- Strategy Execution
-- Lead Change
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Leading with Strategic Agility** (4 videos)
+- **3. 2. Strategic Agiity Mindset** (3 videos)
+- **4. 3. Strategic Agility Skillset** (3 videos)
+- **5. 4. Strategic Agility Toolset** (4 videos)
+- **6. 5. Continuous Agility** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Strategic agility and the pace of change
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-and-the-pace-of-change?u=76281980)
@@ -90,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - guiding (1)
 
 
-### 1. Leading with Strategic Agility
+### 2. 1. Leading with Strategic Agility
 
 #### Strategic agility is critical to leadership today
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980)
@@ -417,7 +415,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Strategic Agiity Mindset
+### 3. 2. Strategic Agiity Mindset
 
 #### Strategic mindset powered by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980)
@@ -649,7 +647,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 3. Strategic Agility Skillset
+### 4. 3. Strategic Agility Skillset
 
 #### Strategic skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980)
@@ -860,7 +858,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 4. Strategic Agility Toolset
+### 5. 4. Strategic Agility Toolset
 
 #### Practicing futures thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980)
@@ -1170,7 +1168,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 5. Continuous Agility
+### 6. 5. Continuous Agility
 
 #### Developing strategic foresight
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980)
@@ -1304,7 +1302,7 @@ created: 2026-04-21
 > **Speakers:** - everything (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Activating strategic agility
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/activating-strategic-agility?u=76281980)
@@ -1357,6 +1355,20 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - because (1)
 
+
+## Instructor
+
+- [[Gary Bolles]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Strategic Leadership
+- Strategy Execution
+- Lead Change
 
 ## Path Context
 

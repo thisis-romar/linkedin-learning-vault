@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Decision%20Trees%20with%20SPSS.md)
 
 ![Machine Learning and AI Foundations: Decision Trees with SPSS](https://media.licdn.com/dms/image/v2/D4D0DAQGkW8sKlvpD8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244900036?e=2147483647&amp;v=beta&amp;t=kgcJg172G0Ffnl_R7FccMyBG55mvsYU_6lxFvVwZvJU)
 
@@ -45,23 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss) | 1h 27m | Intermediate | 46K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-- Decision Trees
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Decision Trees in IBM SPSS Modeler** (5 videos)
+- **3. 2. Understanding CHAID** (9 videos)
+- **4. 3. Understanding C&RT** (6 videos)
+- **5. 4. Improving Your Model** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Decision trees in SPSS Modeler
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-trees-in-spss-modeler?u=76281980)
@@ -171,7 +168,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Decision Trees in IBM SPSS Modeler
+### 2. 1. Decision Trees in IBM SPSS Modeler
 
 #### Decision tree options in SPSS Modeler
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980)
@@ -513,7 +510,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Understanding CHAID
+### 3. 2. Understanding CHAID
 
 #### What is an algorithm?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-an-algorithm?u=76281980)
@@ -1223,7 +1220,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 3. Understanding C&RT
+### 4. 3. Understanding C&RT
 
 #### What is the Gini coefficient?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-the-gini-coefficient?u=76281980)
@@ -1635,7 +1632,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Improving Your Model
+### 5. 4. Improving Your Model
 
 #### Stopping rules in CHAID and C&RT
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/stopping-rules-in-chaid-and-c-rt?u=76281980)
@@ -1925,11 +1922,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/the-autoclassifier-tuning-trick?u=76281980)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/next-steps-23418218?u=76281980)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
+- Decision Trees
 
 ## Path Context
 

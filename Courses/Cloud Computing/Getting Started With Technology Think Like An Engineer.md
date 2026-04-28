@@ -27,8 +27,10 @@ tags:
   - topic/software-development
   - skill/software-design
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Getting%20Started%20With%20Technology%20Think%20Like%20An%20Engineer.md)
 
 ![Getting Started With Technology Think Like An Engineer](https://media.licdn.com/dms/image/v2/C4E0DAQFnrQm_mcgYUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634577376020?e=2147483647&amp;v=beta&amp;t=rIrOdF9L2ZU_XXLRVvxn7bKHcQ2abWyleYqbui-CGKM)
 
@@ -39,13 +41,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer) | Beginner | 260K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Software Design
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Creating Programs** (5 videos)
+- **3. 2. Core Principles** (4 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Thinking like an engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/thinking-like-an-engineer?u=76281980)
@@ -104,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Creating Programs
+### 2. 1. Creating Programs
 
 #### Coding languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980)
@@ -504,7 +509,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Core Principles
+### 3. 2. Core Principles
 
 #### Efficiency is key
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/efficiency-is-key-14354393?u=76281980)
@@ -738,7 +743,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Your journey with technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/your-journey-with-technology?u=76281980)
@@ -769,6 +774,10 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - [kathryn] (1)
 
+
+## Skills Covered
+
+- Software Design
 
 ## Path Context
 

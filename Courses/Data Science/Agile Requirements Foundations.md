@@ -30,8 +30,10 @@ tags:
   - skill/agile-methodologies
   - skill/requirements-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Agile%20Requirements%20Foundations.md)
 
 ![Agile Requirements Foundations](https://media.licdn.com/dms/image/v2/C4D0DAQFsjlQgvpSPvQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568245272495?e=2147483647&amp;v=beta&amp;t=oPrGyodqjd6FCCRnGRavAxW73v8-meJAE30GOSmDzFY)
 
@@ -42,22 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations) | 1h 43m | Intermediate | 40K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Angela Wick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Agile Methodologies
-- Requirements Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Agile and the Business Analyst** (5 videos)
+- **3. 2. Agile Point of View** (5 videos)
+- **4. 3. Backlog Management** (6 videos)
+- **5. 4. Techniques for Agile Business Analysts** (7 videos)
+- **6. 5. Agile Concepts for Business Analysts** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/welcome?u=76281980)
@@ -138,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Agile and the Business Analyst
+### 2. 1. Agile and the Business Analyst
 
 #### The business analyst role in agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-role-in-agile?u=76281980)
@@ -544,7 +543,7 @@ created: 2026-04-21
 > **Speakers:** - ok (1)
 
 
-### 2. Agile Point of View
+### 3. 2. Agile Point of View
 
 #### The business analyst point of view on an agile team
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-point-of-view-on-an-agile-team?u=76281980)
@@ -964,7 +963,7 @@ created: 2026-04-21
 > **Speakers:** - being (1)
 
 
-### 3. Backlog Management
+### 4. 3. Backlog Management
 
 #### A healthy backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/a-healthy-backlog?u=76281980)
@@ -1381,7 +1380,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Techniques for Agile Business Analysts
+### 5. 4. Techniques for Agile Business Analysts
 
 #### Product decomposition
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/product-decomposition?u=76281980)
@@ -1852,7 +1851,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 5. Agile Concepts for Business Analysts
+### 6. 5. Agile Concepts for Business Analysts
 
 #### Last responsible moment
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980)
@@ -2262,7 +2261,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/next-steps?u=76281980)
@@ -2292,6 +2291,19 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - being (1)
 
+
+## Instructor
+
+- [[Angela Wick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Agile Methodologies
+- Requirements Analysis
 
 ## Path Context
 

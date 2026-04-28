@@ -21,8 +21,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Dashboards%20and%20Visualization.md)
 
 ![Interaction Design: Dashboards and Visualization](https://media.licdn.com/dms/image/v2/C560DAQHTXnj2VZDqug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616091714882?e=2147483647&amp;v=beta&amp;t=UE_fyy-WEBPt_Z60CkP_qtmkjH_zgAgVQWefN2tBxyE)
 
@@ -33,13 +35,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization) | 43m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Diane Cronenwett]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Graph Fundamentals** (4 videos)
+- **3. 2. Color Deep Dive** (3 videos)
+- **4. 3. Applied Visual Design** (3 videos)
+- **5. 4. Putting It Together** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Designing dashboards and data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/designing-dashboards-and-data?u=76281980)
@@ -65,7 +72,7 @@ created: 2026-04-21
 > **Speakers:** - [diane] (1)
 
 
-### 1. Graph Fundamentals
+### 2. 1. Graph Fundamentals
 
 #### Displaying the right data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980)
@@ -329,7 +336,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Color Deep Dive
+### 3. 2. Color Deep Dive
 
 #### Color foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-foundations?u=76281980)
@@ -545,7 +552,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Applied Visual Design
+### 4. 3. Applied Visual Design
 
 #### Layout and hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980)
@@ -764,7 +771,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Putting It Together
+### 5. 4. Putting It Together
 
 #### Conceptualizing a dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/conceptualizing-a-dashboard?u=76281980)
@@ -1060,7 +1067,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/goodbye?u=76281980)
@@ -1088,6 +1095,10 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - [diane] (1)
 
+
+## Instructor
+
+- [[Diane Cronenwett]]
 
 ## Path Context
 

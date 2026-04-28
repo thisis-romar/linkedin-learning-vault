@@ -33,8 +33,10 @@ tags:
   - topic/cloud-computing
   - skill/ip-addressing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Networking%20Foundations-%20IP%20Addressing.md)
 
 ![Networking Foundations: IP Addressing](https://media.licdn.com/dms/image/v2/C4E0DAQEBmjDcG5jG-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615489458811?e=2147483647&amp;v=beta&amp;t=J3OLKeP8vzk1rYNNRew4BuCE0hM7K5iCyumpZZVjM04)
 
@@ -45,17 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020) | 1h 32m | Intermediate | 296K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Anthony Sequeira]]
-
-## Skills Covered
-
-- IP Addressing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. IP Addressing Basics** (6 videos)
+- **3. 2. IP Address Components** (8 videos)
+- **4. 3. CIDR and Aggregation** (4 videos)
+- **5. 4. Special Use Addresses** (3 videos)
+- **6. 5. Some IP Services** (8 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980)
@@ -129,7 +133,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. IP Addressing Basics
+### 2. 1. IP Addressing Basics
 
 #### The IP address and its purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980)
@@ -638,7 +642,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. IP Address Components
+### 3. 2. IP Address Components
 
 #### Classful addressing
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/classful-addressing?u=76281980)
@@ -1064,7 +1068,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. CIDR and Aggregation
+### 4. 3. CIDR and Aggregation
 
 #### IP address prefixes
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980)
@@ -1256,7 +1260,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Special Use Addresses
+### 5. 4. Special Use Addresses
 
 #### IPv4 to IPv6 translators
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ipv4-to-ipv6-translators?u=76281980)
@@ -1383,7 +1387,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Some IP Services
+### 6. 5. Some IP Services
 
 #### Introducing DHCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980)
@@ -1906,7 +1910,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980)
@@ -1938,6 +1942,14 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [anthony] (1)
 
+
+## Instructor
+
+- [[Anthony Sequeira]]
+
+## Skills Covered
+
+- IP Addressing
 
 ## Path Context
 

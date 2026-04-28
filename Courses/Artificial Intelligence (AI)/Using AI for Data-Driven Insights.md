@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20for%20Data-Driven%20Insights.md)
 
 ![Using AI for Data-Driven Insights](https://media.licdn.com/dms/image/v2/D4E0DAQFCHtm8r09Iqg/learning-public-crop_675_1200/B4EZUkeJdcGYAc-/0/1740073638469?e=2147483647&amp;v=beta&amp;t=uCM36FWZaAspdJrBPMQ8odaVC1U62jaItfTBltG7vtA)
 
@@ -42,23 +44,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights) | 58m | Intermediate | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Justin Bateh]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- Artificial Intelligence (AI)
-- Data Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. AI for Data-Driven Insights** (10 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Overview of AI for data-driven insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980)
@@ -275,7 +269,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. AI for Data-Driven Insights
+### 2. 1. AI for Data-Driven Insights
 
 #### Identify key business questions with ChatGPT for data-driven decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980)
@@ -1199,7 +1193,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps in leveraging AI for data-driven business growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980)
@@ -1222,6 +1216,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Justin Bateh]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- Artificial Intelligence (AI)
+- Data Analytics
 
 ## Path Context
 

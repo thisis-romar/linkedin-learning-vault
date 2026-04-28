@@ -33,34 +33,32 @@ tags:
   - skill/business-process-management
   - skill/business-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20Foundations-%20Business%20Process%20Modeling.md)
 
 ![Business Analysis Foundations: Business Process Modeling](https://media.licdn.com/dms/image/v2/C4E0DAQFdnTylFTNevg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1593633041617?e=2147483647&amp;v=beta&amp;t=mMPy9EUp2B0ZVaeipu7oEelBL2DiYQ3oqqketec1cZw)
 
 # Business Analysis Foundations: Business Process Modeling
 
-> When you're trying to grapple with user demands and market changes, it can be difficult to mentally zoom out and assess your organization's operations. Business process modeling helps you see the big picture by allowing you to translate your business processes into easily understood pictures. In this course, instructor Haydn Thomas walks you through the most widely used business process modeling d
+> When you're trying to grapple with user demands and market changes, it can be difficult to mentally zoom out and assess your organization's operations. Business process modeling helps you see the big picture by allowing you to translate your business processes into easily understood pictures. In this course, instructor Haydn Thomas walks you through the most widely used business process modeling d
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling) | 1h 18m | Beginner | 40K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Haydn Thomas]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Business Process Management
-- Business Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Create a Context Diagram** (4 videos)
+- **3. 2. Create a Functional Flow Diagram** (4 videos)
+- **4. 3. Create a Cross-Functional Flow Diagram** (4 videos)
+- **5. 4. Create a Flowchart Diagram** (4 videos)
+- **6. Put It All Together** (2 videos)
+
+### 1. Introduction
 
 #### Introducing common business modeling tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/introducing-common-business-modeling-tools?u=76281980)
@@ -291,7 +289,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 1. Create a Context Diagram
+### 2. 1. Create a Context Diagram
 
 #### The purpose of the context diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-context-diagram?u=76281980)
@@ -610,7 +608,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Create a Functional Flow Diagram
+### 3. 2. Create a Functional Flow Diagram
 
 #### The purpose of the functional flow diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-functional-flow-diagram?u=76281980)
@@ -869,7 +867,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 3. Create a Cross-Functional Flow Diagram
+### 4. 3. Create a Cross-Functional Flow Diagram
 
 #### The purpose of the cross-functional flow diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-cross-functional-flow-diagram?u=76281980)
@@ -1209,7 +1207,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 4. Create a Flowchart Diagram
+### 5. 4. Create a Flowchart Diagram
 
 #### The purpose of the flowchart diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-flowchart-diagram?u=76281980)
@@ -1521,7 +1519,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### Put It All Together
+### 6. Put It All Together
 
 #### How to determine which diagram to use and why
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-determine-which-diagram-to-use-and-why?u=76281980)
@@ -1665,6 +1663,19 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Haydn Thomas]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Business Process Management
+- Business Analysis
 
 ## Path Context
 

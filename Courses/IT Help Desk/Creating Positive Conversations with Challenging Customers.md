@@ -33,8 +33,10 @@ tags:
   - skill/challenging-environment
   - skill/customer-service
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Creating%20Positive%20Conversations%20with%20Challenging%20Customers.md)
 
 ![Creating Positive Conversations with Challenging Customers](https://media.licdn.com/dms/image/v2/C4E0DAQGZuQRAhcxfyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1645204997331?e=2147483647&amp;v=beta&amp;t=_QsbXwiUzEW7nymW_uLVQYeoxUFQMUUrVlfaJhoKGeU)
 
@@ -45,18 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022) | 30m | Intermediate | 348K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Myra Golden]]
-
-## Skills Covered
-
-- Challenging Environment
-- Customer Service
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Working with Difficult Customers** (3 videos)
+- **3. 2. Positive Positioning Skills** (4 videos)
+- **4. 3. Positive Positioning in Action** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why telling a customer what you can do is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/why-telling-a-customer-what-you-can-do-is-important?u=76281980)
@@ -97,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - after (1)
 
 
-### 1. Working with Difficult Customers
+### 2. 1. Working with Difficult Customers
 
 #### Be positive with customers, not provoking
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/be-positive-with-customers-not-provoking?u=76281980)
@@ -312,7 +313,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Positive Positioning Skills
+### 3. 2. Positive Positioning Skills
 
 #### Use partnership language with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/use-partnership-language-with-customers?u=76281980)
@@ -580,7 +581,7 @@ created: 2026-04-21
 > **Speakers:** - sweetie (1)
 
 
-### 3. Positive Positioning in Action
+### 4. 3. Positive Positioning in Action
 
 #### Positioning controversial policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positioning-controversial-policies?u=76281980)
@@ -779,7 +780,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Start, stop, continue exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/start-stop-continue-exercise?u=76281980)
@@ -820,6 +821,15 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Myra Golden]]
+
+## Skills Covered
+
+- Challenging Environment
+- Customer Service
 
 ## Path Context
 

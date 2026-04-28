@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/robotic-process-automation-rpa
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Introducing%20Robotic%20Process%20Automation.md)
 
 ![Introducing Robotic Process Automation](https://media.licdn.com/dms/image/v2/C4D0DAQFQ2pAfZMtbRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679518540418?e=2147483647&amp;v=beta&amp;t=YQTY0PLCBhf8f-7Y042Pl1jf_ezDapt87vTDJT2FHmU)
 
@@ -40,17 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442) | Beginner | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Robotic Process Automation (RPA)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Automation Opportunity** (5 videos)
+- **3. 2. What Is RPA?** (7 videos)
+- **4. 3. The Benefits of RPA** (4 videos)
+- **5. 4. Best Practices at the Process Level** (6 videos)
+- **6. 5. Best Practices at the Enterprise Level** (4 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Welcome to the future of work
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/welcome-to-the-future-of-work-26920365?u=76281980)
@@ -137,7 +141,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 1. The Automation Opportunity
+### 2. 1. The Automation Opportunity
 
 #### Digital transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980)
@@ -378,7 +382,7 @@ created: 2026-04-21
 > **Speakers:** - rpa (1)
 
 
-### 2. What Is RPA?
+### 3. 2. What Is RPA?
 
 #### What is robotic process automation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980)
@@ -895,7 +899,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 3. The Benefits of RPA
+### 4. 3. The Benefits of RPA
 
 #### The importance of ROI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980)
@@ -1242,7 +1246,7 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 
 
-### 4. Best Practices at the Process Level
+### 5. 4. Best Practices at the Process Level
 
 #### Identifying opportunities for automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980)
@@ -1682,7 +1686,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 5. Best Practices at the Enterprise Level
+### 6. 5. Best Practices at the Enterprise Level
 
 #### Start small but don't think small
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/start-small-but-don-t-think-small?u=76281980)
@@ -1981,7 +1985,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Real-world tips for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/tips-for-success-from-the-front-lines-26921389?u=76281980)
@@ -2087,6 +2091,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - thanks (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Robotic Process Automation (RPA)
 
 ## Path Context
 

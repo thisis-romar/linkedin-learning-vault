@@ -32,35 +32,34 @@ tags:
   - skill/product-security
   - skill/security-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Testing%2C%20Validation%2C%20and%20Maintenance.md)
 
 ![AI Product Security: Testing, Validation, and Maintenance](https://media.licdn.com/dms/image/v2/D4E0DAQGu4bPC5fagBQ/learning-public-crop_675_1200/B4EZUFbQZaGgAY-/0/1739552786889?e=2147483647&amp;v=beta&amp;t=raI-sRcW-tcuij59L1dLZ4_BOO9GxEuru25rWkW44r0)
 
 # AI Product Security: Testing, Validation, and Maintenance
 
-> This course focuses on the requirements for testing AI applications. It covers a review of the issues that can occur and the tools that are used to detect them.  A formal testing management system is introduced with an example to show how it can be used to set up test cases and record the results of test runs. In addition, the course covers the use of AI red-team scanners and prompt/command inject
+> This course focuses on the requirements for testing AI applications. It covers a review of the issues that can occur and the tools that are used to detect them. A formal testing management system is introduced with an example to show how it can be used to set up test cases and record the results of test runs. In addition, the course covers the use of AI red-team scanners and prompt/command injecti
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance) | 2h 24m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Vulnerability Assessment
-- Product Security
-- Security Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Test Case Management** (9 videos)
+- **3. 2. Understanding Attacks** (10 videos)
+- **4. 3. Responsible and Secure AI Model Testing** (10 videos)
+- **5. 4. Red Teaming** (3 videos)
+- **6. 5. Operational Testing** (4 videos)
+- **7. Access Control** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Ensuring safe and responsible use of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/ensuring-safe-and-responible-use-of-ai?u=76281980)
@@ -124,7 +123,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Test Case Management
+### 2. 1. Test Case Management
 
 #### Introduction to AI security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/introduction-to-ai-security?u=76281980)
@@ -923,7 +922,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Understanding Attacks
+### 3. 2. Understanding Attacks
 
 #### Installing the vulnerable LLM application
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/installing-the-vulnerable-llm-application?u=76281980)
@@ -1674,7 +1673,7 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 
 
-### 3. Responsible and Secure AI Model Testing
+### 4. 3. Responsible and Secure AI Model Testing
 
 #### AI testing tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/ai-testing-tools?u=76281980)
@@ -2257,7 +2256,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Red Teaming
+### 5. 4. Red Teaming
 
 #### What is AI red teaming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/what-is-ai-red-teaming?u=76281980)
@@ -2459,7 +2458,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 5. Operational Testing
+### 6. 5. Operational Testing
 
 #### AI guardrails
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/ai-guardrails?u=76281980)
@@ -2707,7 +2706,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Access Control
+### 7. Access Control
 
 #### Preparing to control access
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/preparing-to-control-access?u=76281980)
@@ -2940,7 +2939,7 @@ created: 2026-04-21
 > **Exercise Files:** sample code (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/what-s-next?u=76281980)
@@ -2972,6 +2971,20 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [malcolm] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Vulnerability Assessment
+- Product Security
+- Security Testing
 
 ## Path Context
 

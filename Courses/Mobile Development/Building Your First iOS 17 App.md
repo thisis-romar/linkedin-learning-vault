@@ -26,8 +26,10 @@ tags:
   - topic/mobile-development
   - skill/ios-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Building%20Your%20First%20iOS%2017%20App.md)
 
 ![Building Your First iOS 17 App](https://media.licdn.com/dms/image/v2/D560DAQHzDn7mXPkf8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696272691927?e=2147483647&amp;v=beta&amp;t=59PTaYG43-7-gzNEAM5VGpAkuDZrUwz0n1nz6YSVt04)
 
@@ -38,21 +40,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app) | 46m | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Todd Perkins]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- iOS Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Setup** (3 videos)
+- **3. 2. SwiftUI Fundamentals** (6 videos)
+- **4. 3. Finishing the App** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How to build an app in an afternoon
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/how-to-build-an-app-in-an-afternoon?u=76281980)
@@ -150,7 +148,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Setup
+### 2. 1. Setup
 
 #### Downloading and installing Xcode
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/downloading-and-installing-xcode?u=76281980)
@@ -301,7 +299,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. SwiftUI Fundamentals
+### 3. 2. SwiftUI Fundamentals
 
 #### SwiftUI stacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980)
@@ -849,7 +847,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Finishing the App
+### 4. 3. Finishing the App
 
 #### Converting between data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980)
@@ -1089,7 +1087,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/next-steps?u=76281980)
@@ -1127,6 +1125,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Todd Perkins]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- iOS Development
 
 ## Path Context
 

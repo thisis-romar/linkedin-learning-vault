@@ -35,37 +35,34 @@ tags:
   - skill/react-js
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20a%20JavaScript%20AI%20App%20with%20React%20and%20the%20OpenAI%20API.md)
 
 ![Build a JavaScript AI App with React and the OpenAI API](https://media.licdn.com/dms/image/v2/D4D0DAQFDc6TdaL8EZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695234022487?e=2147483647&amp;v=beta&amp;t=Qo0PBkJ6jyIDIwrWJ_EmFEj8u-AHIUPRstgPpSSTBuY)
 
 # Build a JavaScript AI App with React and the OpenAI API
 
-> In this course, learn how to integrate the OpenAI API into a JavaScript-based web app. Join instructor Morten Rand-Hendriksen as he takes a React-based weather app, adds  a heavy dose of AI, and creates an interactive experience that knows what location you want weather information from, explains the weather data in simple language, and even suggests what to wear. Through this project-based course
+> In this course, learn how to integrate the OpenAI API into a JavaScript-based web app. Join instructor Morten Rand-Hendriksen as he takes a React-based weather app, adds a heavy dose of AI, and creates an interactive experience that knows what location you want weather information from, explains the weather data in simple language, and even suggests what to wear. Through this project-based course,
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api) | 1h 59m | Advanced | 73K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/build-a-javascript-ai-app-with-react-and-the-openai-api-4467357/codespaces)
-
-## Skills Covered
-
-- OpenAI API
-- JavaScript
-- React.js
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Building a Weather App with AI Power** (3 videos)
+- **3. 2. The Core App** (4 videos)
+- **4. 3. Connecting to the OpenAI API** (4 videos)
+- **5. 4. Using AI as a Human-to-Machine Translator** (4 videos)
+- **6. 5. Integrating AI into the Weather App** (6 videos)
+- **7. 6. Creating Rich AI Outputs** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build a JavaScript AI app with React and the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980)
@@ -247,7 +244,7 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 
 
-### 1. Building a Weather App with AI Power
+### 2. 1. Building a Weather App with AI Power
 
 #### Beyond ChatGPT: What AI can do for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980)
@@ -551,7 +548,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Core App
+### 3. 2. The Core App
 
 #### Sidebar: Build a React app using Vite and GitHub Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980)
@@ -987,7 +984,7 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 
 
-### 3. Connecting to the OpenAI API
+### 4. 3. Connecting to the OpenAI API
 
 #### What is the OpenAI API, and how does it relate to ChatGPT?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/what-is-the-openai-api-and-how-does-it-relate-to-chatgpt?u=76281980)
@@ -1434,7 +1431,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 4. Using AI as a Human-to-Machine Translator
+### 5. 4. Using AI as a Human-to-Machine Translator
 
 #### Create a location string from a prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980)
@@ -1754,7 +1751,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Integrating AI into the Weather App
+### 6. 5. Integrating AI into the Weather App
 
 #### Sequence API calls in an app
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sequence-api-calls-in-an-app?u=76281980)
@@ -2405,7 +2402,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Creating Rich AI Outputs
+### 7. 6. Creating Rich AI Outputs
 
 #### Prompt engineering for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980)
@@ -2872,7 +2869,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Go further
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980)
@@ -2906,6 +2903,22 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - all (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/build-a-javascript-ai-app-with-react-and-the-openai-api-4467357/codespaces)
+
+## Skills Covered
+
+- OpenAI API
+- JavaScript
+- React.js
+- Artificial Intelligence (AI)
 
 ## Path Context
 

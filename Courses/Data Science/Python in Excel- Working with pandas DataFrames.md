@@ -33,8 +33,10 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20in%20Excel-%20Working%20with%20pandas%20DataFrames.md)
 
 ![Python in Excel: Working with pandas DataFrames](https://media.licdn.com/dms/image/v2/D560DAQH4uk98MNH5IA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712361684240?e=2147483647&amp;v=beta&amp;t=RoWpQoF2FnYjGfPy0dgZqqxG_ZsY0Qjg8hxViN_Bg5U)
 
@@ -45,23 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes) | 1h 47m | Intermediate | 83K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Felix Zumstein]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Pandas (Software)
-- Python (Programming Language)
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to pandas** (7 videos)
+- **3. 2. Data Analysis** (5 videos)
+- **4. 3. Time Series Analysis** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Python in Excel and pandas DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980)
@@ -173,7 +169,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to pandas
+### 2. 1. Introduction to pandas
 
 #### Hello World
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/hello-world?u=76281980)
@@ -880,7 +876,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### 2. Data Analysis
+### 3. 2. Data Analysis
 
 #### Data cleaning
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980)
@@ -1354,7 +1350,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 3. Time Series Analysis
+### 4. 3. Time Series Analysis
 
 #### Introduction to time series
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980)
@@ -1953,7 +1949,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### The next steps for learning more about Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980)
@@ -2005,6 +2001,20 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Felix Zumstein]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Pandas (Software)
+- Python (Programming Language)
+- Microsoft Excel
 
 ## Path Context
 

@@ -26,8 +26,10 @@ tags:
   - topic/data-science
   - skill/high-performance-cultures
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Creating%20a%20High%20Performance%20Culture.md)
 
 ![Creating a High Performance Culture](https://media.licdn.com/dms/image/v2/D4E0DAQH7til33V_20g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686004703649?e=2147483647&amp;v=beta&amp;t=rj34i7smN0lpk_oEdyOZnyQeNfGnMPOTvAFO5KGQ0lA)
 
@@ -38,21 +40,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture) | 1h 4m | Advanced | 417K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Figliuolo]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- High Performance Cultures
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Building a High-Performance Culture** (4 videos)
+- **3. 2. Setting Direction for a High-Performance Culture** (3 videos)
+- **4. 3. Communicating the Culture** (3 videos)
+- **5. 4. Organizing to Succeed** (2 videos)
+- **6. 5. Managing Performance** (3 videos)
+- **7. 6. Living the Culture** (3 videos)
+- **8. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Welcome to creating a high-performance culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/welcome-to-creating-a-high-performance-culture?u=76281980)
@@ -88,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 1. Building a High-Performance Culture
+### 2. 1. Building a High-Performance Culture
 
 #### Components of high-performing cultures
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/components-of-high-performing-cultures-22388723?u=76281980)
@@ -353,7 +354,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 2. Setting Direction for a High-Performance Culture
+### 3. 2. Setting Direction for a High-Performance Culture
 
 #### Creating a compelling vision and mission
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/creating-a-compelling-vision-and-mission-22383774?u=76281980)
@@ -590,7 +591,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Communicating the Culture
+### 4. 3. Communicating the Culture
 
 #### Choosing your communication vehicles
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980)
@@ -666,7 +667,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/making-culture-a-conversation-22387673?u=76281980)
 
 
-### 4. Organizing to Succeed
+### 5. 4. Organizing to Succeed
 
 #### Designing your team for high performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/designing-your-team-for-high-performance?u=76281980)
@@ -803,7 +804,7 @@ created: 2026-04-21
 > **Speakers:** - building (1)
 
 
-### 5. Managing Performance
+### 6. 5. Managing Performance
 
 #### Setting goals and measuring results
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/setting-goals-and-measuring-results-22390017?u=76281980)
@@ -1034,7 +1035,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 6. Living the Culture
+### 7. 6. Living the Culture
 
 #### Taking small actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980)
@@ -1270,7 +1271,7 @@ created: 2026-04-21
 > **Speakers:** - providing (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Overcoming common obstacles
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/overcoming-common-obstacles-22388725?u=76281980)
@@ -1468,6 +1469,18 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - if (1)
 
+
+## Instructor
+
+- [[Mike Figliuolo]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- High Performance Cultures
 
 ## Path Context
 

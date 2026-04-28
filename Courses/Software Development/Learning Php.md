@@ -25,8 +25,10 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Php.md)
 
 ![Learning Php](https://media.licdn.com/dms/image/v2/C4E0DAQFWeu43pPltjg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134359103?e=2147483647&amp;v=beta&amp;t=3zAh3mfV9u7-rkW23tHE_NJVJF74m2OBcU7zJXZsJDY)
 
@@ -37,17 +39,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4) | Beginner | 35K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The Basics** (8 videos)
+- **3. 2. Control Structures** (8 videos)
+- **4. 3. Math in PHP** (5 videos)
+- **5. 4. Loops** (6 videos)
+- **6. 5. Functions and Objects** (11 videos)
+- **7. 6. Including External Files** (6 videos)
+- **8. 7. Troubleshooting Your Code** (7 videos)
+- **9. 8. Processing Forms** (9 videos)
+- **10. 9. Advanced Topics** (4 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Should you learn PHP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980)
@@ -137,7 +145,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Basics
+### 2. 1. The Basics
 
 #### How PHP works
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980)
@@ -896,7 +904,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Control Structures
+### 3. 2. Control Structures
 
 #### Boolean operators and the truth (update for PHP 8.0)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/boolean-operators-and-the-truth-update-for-php-8-0-11628174?u=76281980)
@@ -1664,7 +1672,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Math in PHP
+### 4. 3. Math in PHP
 
 #### Arithmetic operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/arithmetic-operators?u=76281980)
@@ -2023,7 +2031,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. Loops
+### 5. 4. Loops
 
 #### What are loops?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/what-are-loops?u=76281980)
@@ -2445,7 +2453,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Functions and Objects
+### 6. 5. Functions and Objects
 
 #### What are functions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980)
@@ -3028,7 +3036,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. Including External Files
+### 7. 6. Including External Files
 
 #### Organizing your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980)
@@ -3483,7 +3491,7 @@ created: 2026-04-21
 > **Tools:** vs code (1)
 
 
-### 7. Troubleshooting Your Code
+### 8. 7. Troubleshooting Your Code
 
 #### Common debugging tools in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980)
@@ -3892,7 +3900,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/breaking-changes-moving-from-7-x-to-8-0?u=76281980)
 
 
-### 8. Processing Forms
+### 9. 8. Processing Forms
 
 #### GET vs. POST
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/get-vs-post?u=76281980)
@@ -4658,7 +4666,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 9. Advanced Topics
+### 10. 9. Advanced Topics
 
 #### Reading files in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980)
@@ -5068,7 +5076,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980)
@@ -5099,6 +5107,14 @@ created: 2026-04-21
 > **URLs:** [php.net](https://php.net) (1)
 > **Speakers:** - [joe] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- PHP
 
 ## Path Context
 

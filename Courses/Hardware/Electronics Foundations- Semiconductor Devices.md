@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/semiconductor-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Electronics%20Foundations-%20Semiconductor%20Devices.md)
 
 ![Electronics Foundations: Semiconductor Devices](https://media.licdn.com/dms/image/v2/C4E0DAQHgGnnVi805qQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665832892?e=2147483647&amp;v=beta&amp;t=Ypw2yjdums5wx5YRSL28QGOJSiofPJYLY61sfxGnHGM)
 
@@ -42,21 +44,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices) | 4h 8m | Intermediate | 132K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barron Stone]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Semiconductor Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Diodes** (3 videos)
+- **3. 2. Diode Applications** (7 videos)
+- **4. 3. Special Purpose Diodes** (3 videos)
+- **5. 4. Bipolar Junction Transistors** (4 videos)
+- **6. 5. Transistor Applications** (4 videos)
+- **7. 6. Field-Effect Transistors** (3 videos)
+- **8. 7. Operational Amplifiers** (3 videos)
+- **9. 8. Op-Amp Applications** (8 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding semiconductor devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/understanding-semiconductor-devices?u=76281980)
@@ -198,7 +201,7 @@ created: 2026-04-21
 > **Speakers:** - working (1)
 
 
-### 1. Diodes
+### 2. 1. Diodes
 
 #### Semiconductor materials
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/semiconductor-materials-14914790?u=76281980)
@@ -557,7 +560,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Diode Applications
+### 3. 2. Diode Applications
 
 #### Rectify a signal
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/rectify-a-signal-14915549?u=76281980)
@@ -1112,7 +1115,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Special Purpose Diodes
+### 4. 3. Special Purpose Diodes
 
 #### Light emitting diodes
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/light-emitting-diodes-14915547?u=76281980)
@@ -1452,7 +1455,7 @@ created: 2026-04-21
 > **Speakers:** - unlike (1)
 
 
-### 4. Bipolar Junction Transistors
+### 5. 4. Bipolar Junction Transistors
 
 #### What is a transistor?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-a-transistor-14920032?u=76281980)
@@ -2073,7 +2076,7 @@ created: 2026-04-21
 > **URLs:** [mouser.com](https://mouser.com) (1)
 
 
-### 5. Transistor Applications
+### 6. 5. Transistor Applications
 
 #### Use a BJT as a switch
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-a-bjt-as-a-switch-14915546?u=76281980)
@@ -2534,7 +2537,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Field-Effect Transistors
+### 7. 6. Field-Effect Transistors
 
 #### Field-effect transistors
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/field-effect-transistors-14914779?u=76281980)
@@ -2837,7 +2840,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Operational Amplifiers
+### 8. 7. Operational Amplifiers
 
 #### What is an operational amplifier?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980)
@@ -3212,7 +3215,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 8. Op-Amp Applications
+### 9. 8. Op-Amp Applications
 
 #### Compare signals
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/compare-signals-14914780?u=76281980)
@@ -4234,7 +4237,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Continue your journey with electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/continue-your-journey-with-electronics?u=76281980)
@@ -4276,6 +4279,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Barron Stone]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Semiconductor Engineering
 
 ## Path Context
 

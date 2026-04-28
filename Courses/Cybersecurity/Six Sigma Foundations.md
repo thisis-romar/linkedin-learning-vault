@@ -28,8 +28,10 @@ tags:
   - topic/security
   - skill/six-sigma
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Six%20Sigma%20Foundations.md)
 
 ![Six Sigma Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQGF3ms8MeS_4A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568218955972?e=2147483647&amp;v=beta&amp;t=xje3MaLYi0WYqVhHhBKo4vDv1BYQPIBmhvtJFUYVUKU)
 
@@ -40,17 +42,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations) | 1h 48m | Beginner | 624K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Richard Chua]]
-
-## Skills Covered
-
-- Six Sigma
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Six Sigma** (4 videos)
+- **3. 2. Key Concepts in Six Sigma** (4 videos)
+- **4. 3. Selection of Six Sigma Projects** (2 videos)
+- **5. 4. Define Phase** (4 videos)
+- **6. 5. Measure Phase** (6 videos)
+- **7. 6. Analyze Phase** (6 videos)
+- **8. 7. Improve Phase** (5 videos)
+- **9. 8. Control Phase** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Improve performance with Six Sigma
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980)
@@ -91,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 1. Introduction to Six Sigma
+### 2. 1. Introduction to Six Sigma
 
 #### What is Six Sigma?
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/what-is-six-sigma-2?u=76281980)
@@ -402,7 +409,7 @@ created: 2026-04-21
 > **Speakers:** - six (1)
 
 
-### 2. Key Concepts in Six Sigma
+### 3. 2. Key Concepts in Six Sigma
 
 #### Critical to quality metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/critical-to-quality-metrics-2?u=76281980)
@@ -713,7 +720,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 3. Selection of Six Sigma Projects
+### 4. 3. Selection of Six Sigma Projects
 
 #### Identify potential projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980)
@@ -924,7 +931,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 4. Define Phase
+### 5. 4. Define Phase
 
 #### Steps in the Define phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-define-phase-2?u=76281980)
@@ -1223,7 +1230,7 @@ created: 2026-04-21
 > **Speakers:** - would (1)
 
 
-### 5. Measure Phase
+### 6. 5. Measure Phase
 
 #### Steps in the Measure phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980)
@@ -1712,7 +1719,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 6. Analyze Phase
+### 7. 6. Analyze Phase
 
 #### Steps in the Analyze phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980)
@@ -2169,7 +2176,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 7. Improve Phase
+### 8. 7. Improve Phase
 
 #### Steps in the Improve phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980)
@@ -2537,7 +2544,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 8. Control Phase
+### 9. 8. Control Phase
 
 #### Steps in the Control phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-control-phase-2?u=76281980)
@@ -2769,7 +2776,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Engage in Six Sigma projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/engage-in-six-sigma-projects?u=76281980)
@@ -2801,6 +2808,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Richard Chua]]
+
+## Skills Covered
+
+- Six Sigma
 
 ## Path Context
 

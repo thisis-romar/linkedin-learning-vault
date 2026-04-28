@@ -32,8 +32,10 @@ tags:
   - skill/test-automation-tools
   - skill/automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Playwright.md)
 
 ![Learning Playwright](https://media.licdn.com/dms/image/v2/D4D0DAQH9KXFauT3_nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730827611420?e=2147483647&amp;v=beta&amp;t=Hgonc3KqLVcsREG50BjKBFZ07NP2DY-pksa9-Oweu7Q)
 
@@ -44,23 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright) | Intermediate | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Butch Mayhew]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-playwright-5911873)
-
-## Skills Covered
-
-- Test Automation Tools
-- Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Playwright Installation and Configuration** (7 videos)
+- **3. 2. Creating Tests with Playwright** (11 videos)
+- **4. 3. Maintaining Playwright Tests** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Unlock the future of test automation with Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/unlock-the-future-of-test-automation-with-playwright?u=76281980)
@@ -213,7 +209,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Playwright Installation and Configuration
+### 2. 1. Playwright Installation and Configuration
 
 #### Installing Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980)
@@ -1210,7 +1206,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Creating Tests with Playwright
+### 3. 2. Creating Tests with Playwright
 
 #### Overview of the website under test
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980)
@@ -3164,7 +3160,7 @@ created: 2026-04-21
 > **File Paths:** challenge.spec.ts (1)
 
 
-### 3. Maintaining Playwright Tests
+### 4. 3. Maintaining Playwright Tests
 
 #### Introduction to maintaining tests with Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/introduction-to-maintaining-tests-with-playwright?u=76281980)
@@ -3631,7 +3627,7 @@ created: 2026-04-21
 > **Code Identifiers:** checkoutchallenge (1), loginpage (1), node_modules (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980)
@@ -3684,6 +3680,20 @@ created: 2026-04-21
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [butch] (1)
 
+
+## Instructor
+
+- [[Butch Mayhew]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-playwright-5911873)
+
+## Skills Covered
+
+- Test Automation Tools
+- Automation
 
 ## Path Context
 

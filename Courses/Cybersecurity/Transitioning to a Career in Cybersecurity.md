@@ -40,37 +40,34 @@ tags:
   - skill/cybersecurity
   - skill/career-transitioning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Transitioning%20to%20a%20Career%20in%20Cybersecurity.md)
 
 ![Transitioning to a Career in Cybersecurity](https://media.licdn.com/dms/image/v2/D560DAQHRuxY7gftAZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705185013802?e=2147483647&amp;v=beta&amp;t=fCmK3AS7UeR_s8w3lxENghrvAsjz-ZsdvEieVde1_t8)
 
 # Transitioning to a Career in Cybersecurity
 
-> Cybersecurity continues to be one of the fastest-growing career fields, with thousands of jobs of all types going unfilled. If you’re eager to transition to a career in this vital industry but don’t know where to start, then this is the course for you.
-Instructor Marc Menninger—a cybersecurity director with 20+ years of experience—explains how to use the skills and experience you already have to b
+> Cybersecurity continues to be one of the fastest-growing career fields, with thousands of jobs of all types going unfilled. If you’re eager to transition to a career in this vital industry but don’t know where to start, then this is the course for you. Instructor Marc Menninger—a cybersecurity director with 20+ years of experience—explains how to use the skills and experience you already have to b
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386) | 1h 19m | Beginner | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Marc Menninger]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cybersecurity Careers
-- Tech Career Skills
-- Cybersecurity
-- Career Transitioning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (7 videos)
+- **3. 2. Transitioning from an IT Career** (5 videos)
+- **4. 3. Transitioning from a Non-IT Career** (2 videos)
+- **5. 4. Job Search Essentials** (3 videos)
+- **6. 5. Increasing Your Chances of Success** (7 videos)
+- **7. 6. Practical Skills and Real-World Insights** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Making the transition to a career in cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/making-the-transition-to-a-career-in-cybersecurity?u=76281980)
@@ -172,7 +169,7 @@ Instructor Marc Menninger—a cybersecurity director with 20+ years of experienc
 > **Speakers:** - cybersecurity (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Leverage your current advantages
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980)
@@ -590,7 +587,7 @@ Instructor Marc Menninger—a cybersecurity director with 20+ years of experienc
 > **Speakers:** - staying (1)
 
 
-### 2. Transitioning from an IT Career
+### 3. 2. Transitioning from an IT Career
 
 #### Assessing IT skills gaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980)
@@ -910,7 +907,7 @@ Instructor Marc Menninger—a cybersecurity director with 20+ years of experienc
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Transitioning from a Non-IT Career
+### 4. 3. Transitioning from a Non-IT Career
 
 #### Studying IT basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980)
@@ -1034,7 +1031,7 @@ Instructor Marc Menninger—a cybersecurity director with 20+ years of experienc
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Job Search Essentials
+### 5. 4. Job Search Essentials
 
 #### Revising your resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980)
@@ -1235,7 +1232,7 @@ Instructor Marc Menninger—a cybersecurity director with 20+ years of experienc
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Increasing Your Chances of Success
+### 6. 5. Increasing Your Chances of Success
 
 #### Personal development and goal-setting
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980)
@@ -1667,7 +1664,7 @@ Instructor Marc Menninger—a cybersecurity director with 20+ years of experienc
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Practical Skills and Real-World Insights
+### 7. 6. Practical Skills and Real-World Insights
 
 #### Hands-on tools and labs
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980)
@@ -1932,7 +1929,7 @@ Instructor Marc Menninger—a cybersecurity director with 20+ years of experienc
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Your career transition action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980)
@@ -1973,6 +1970,21 @@ Instructor Marc Menninger—a cybersecurity director with 20+ years of experienc
 >
 > **Speakers:** - benjamin (1)
 
+
+## Instructor
+
+- [[Marc Menninger]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cybersecurity Careers
+- Tech Career Skills
+- Cybersecurity
+- Career Transitioning
 
 ## Path Context
 

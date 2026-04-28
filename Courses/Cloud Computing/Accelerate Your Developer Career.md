@@ -36,8 +36,10 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Accelerate%20Your%20Developer%20Career.md)
 
 ![Accelerate Your Developer Career](https://media.licdn.com/dms/image/v2/C560DAQGhircV8uPN0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1631036965360?e=2147483647&amp;v=beta&amp;t=DE-VA5L7ato_zqgW0Ch-ncELVNI_Uis2O092EKdFjGs)
 
@@ -48,22 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career) | 1h | Advanced | 44K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Janan Siam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tech Career Skills
-- Career Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Cross-Functional Collaboration** (8 videos)
+- **3. 2. Software Delivery Is a Team Sport** (6 videos)
+- **4. 3.  Develop Emotional Intelligence** (6 videos)
+- **5. 4. Be Heard with Compelling Communication** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Leveling up your software development career
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/leveling-up-your-software-development-career?u=76281980)
@@ -86,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - [janan] (1)
 
 
-### 1. Cross-Functional Collaboration
+### 2. 1. Cross-Functional Collaboration
 
 #### Why form cross-functional teams?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980)
@@ -476,7 +474,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Software Delivery Is a Team Sport
+### 3. 2. Software Delivery Is a Team Sport
 
 #### Psychological safety and risk-taking
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980)
@@ -796,7 +794,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 3.  Develop Emotional Intelligence
+### 4. 3.  Develop Emotional Intelligence
 
 #### Why EQ is a critical skill?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/why-eq-is-a-critical-skill?u=76281980)
@@ -1105,7 +1103,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Be Heard with Compelling Communication
+### 5. 4. Be Heard with Compelling Communication
 
 #### Communicate proactively
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/communicate-proactively?u=76281980)
@@ -1370,7 +1368,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/next-steps?u=76281980)
@@ -1401,6 +1399,19 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Janan Siam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tech Career Skills
+- Career Management
 
 ## Path Context
 

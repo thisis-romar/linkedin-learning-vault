@@ -31,8 +31,10 @@ tags:
   - topic/data-science
   - skill/social-media-marketing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Social%20Media%20Marketing%20Foundations.md)
 
 ![Social Media Marketing Foundations](https://media.licdn.com/dms/image/v2/D560DAQHDMR3tjKhRsg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683671501337?e=2147483647&amp;v=beta&amp;t=-ILaj3P_4cYhDA2thZ38nPRZBxg9807GYqhntE02N7M)
 
@@ -43,21 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474) | 1h 16m | Beginner | 194K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brian Honigman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Social Media Marketing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Create a Social Media Strategy** (4 videos)
+- **3. 2. Choose the Right Social Networks** (4 videos)
+- **4. 3. Publish Engaging Social Content** (3 videos)
+- **5. 4. Interact with Customers** (3 videos)
+- **6. 5. Foster Social Media Partnerships** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is social media marketing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/what-is-social-media-marketing?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Create a Social Media Strategy
+### 2. 1. Create a Social Media Strategy
 
 #### Produce an actionable social media strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980)
@@ -379,7 +379,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 2. Choose the Right Social Networks
+### 3. 2. Choose the Right Social Networks
 
 #### Community-based social networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980)
@@ -606,7 +606,7 @@ created: 2026-04-21
 > **Speakers:** - people (1)
 
 
-### 3. Publish Engaging Social Content
+### 4. 3. Publish Engaging Social Content
 
 #### Create organic content for social media
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980)
@@ -798,7 +798,7 @@ created: 2026-04-21
 > **Speakers:** - authenticity (1)
 
 
-### 4. Interact with Customers
+### 5. 4. Interact with Customers
 
 #### Embrace social listening and monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980)
@@ -995,7 +995,7 @@ created: 2026-04-21
 > **Speakers:** - responding (1)
 
 
-### 5. Foster Social Media Partnerships
+### 6. 5. Foster Social Media Partnerships
 
 #### Coordinate teams with a social media policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/coordinate-teams-with-a-social-media-policy?u=76281980)
@@ -1163,7 +1163,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Stay updated on social media marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980)
@@ -1204,6 +1204,18 @@ created: 2026-04-21
 > **URLs:** [brianhonigman.com](https://brianhonigman.com) (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Brian Honigman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Social Media Marketing
 
 ## Path Context
 

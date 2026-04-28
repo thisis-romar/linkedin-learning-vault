@@ -28,8 +28,10 @@ tags:
   - skill/security
   - skill/incident-response
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Microsoft%20Security%20Copilot.md)
 
 ![Microsoft Security Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQGn_KOtsvv_qQ/learning-public-crop_675_1200/B4EZU5fHIBH0Ac-/0/1740426212548?e=2147483647&amp;v=beta&amp;t=NND0pEroUa43qarg579xiYs4-XHPeN9-aVj7EExAIKg)
 
@@ -40,18 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722) | 40m | Beginner | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bryan Li]]
-
-## Skills Covered
-
-- Security
-- Incident Response
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Microsoft Security Copilot Fundamentals** (4 videos)
+- **3. 2. Microsoft Security Copilot in Action** (7 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introducing Microsoft Security Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980)
@@ -98,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Microsoft Security Copilot Fundamentals
+### 2. 1. Microsoft Security Copilot Fundamentals
 
 #### What is Microsoft Security Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980)
@@ -372,7 +372,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 2. Microsoft Security Copilot in Action
+### 3. 2. Microsoft Security Copilot in Action
 
 #### Create effective prompts in Microsoft Security Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980)
@@ -949,7 +949,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980)
@@ -981,6 +981,15 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Bryan Li]]
+
+## Skills Covered
+
+- Security
+- Incident Response
 
 ## Path Context
 

@@ -33,36 +33,35 @@ tags:
   - skill/penetration-testing
   - skill/kali-linux
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Penetration%20Testing%20Essential%20Training.md)
 
 ![Penetration Testing Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHOd90QzPFHDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719429105265?e=2147483647&amp;v=beta&amp;t=CEKCl25X6pQyYKTlQiYXsstNjrrLyyjXSIbknSmWdg4)
 
 # Penetration Testing Essential Training
 
-> Penetration testing is one of the best ways to see if your security will hold. It puts testers in the role of attackers, looking for vulnerabilities in your networks, computers, applications, email, and users. This course provides an introduction to the key knowledge and skills to start a program of professional penetration testing at your organization.
- 
-Cybersecurity expert Malcolm Shore reviews
+> Penetration testing is one of the best ways to see if your security will hold. It puts testers in the role of attackers, looking for vulnerabilities in your networks, computers, applications, email, and users. This course provides an introduction to the key knowledge and skills to start a program of professional penetration testing at your organization. Cybersecurity expert Malcolm Shore reviews a
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676) | 2h 55m | Intermediate | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Penetration Testing
-- Kali Linux
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. What Is Pen Testing?** (3 videos)
+- **3. 2. Pen Testing Tools** (8 videos)
+- **4. 3. Bash Scripting** (3 videos)
+- **5. 4. Python Scripting** (7 videos)
+- **6. 5. Kali and Metasploit** (5 videos)
+- **7. 6. Web Testing** (5 videos)
+- **8. 7. Understand Exploit Code** (7 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Establishing a solid foundation to progress into a career of penetration testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/establishing-a-solid-foundation-to-progress-into-a-career-of-penetration-testing?u=76281980)
@@ -143,7 +142,7 @@ Cybersecurity expert Malcolm Shore reviews
 > **Speakers:** - [narrator] (1)
 
 
-### 1. What Is Pen Testing?
+### 2. 1. What Is Pen Testing?
 
 #### Pen testing overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980)
@@ -430,7 +429,7 @@ Cybersecurity expert Malcolm Shore reviews
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Pen Testing Tools
+### 3. 2. Pen Testing Tools
 
 #### Scanning networks with Nmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980)
@@ -1310,7 +1309,7 @@ Cybersecurity expert Malcolm Shore reviews
 > **Tools:** terminal (1)
 
 
-### 3. Bash Scripting
+### 4. 3. Bash Scripting
 
 #### Refreshing your Bash skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refreshing-your-bash-skills?u=76281980)
@@ -1521,7 +1520,7 @@ Cybersecurity expert Malcolm Shore reviews
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Python Scripting
+### 5. 4. Python Scripting
 
 #### Refresh your Python skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refresh-your-python-skills?u=76281980)
@@ -2043,7 +2042,7 @@ Cybersecurity expert Malcolm Shore reviews
 > **Definitions:** known as (1)
 
 
-### 5. Kali and Metasploit
+### 6. 5. Kali and Metasploit
 
 #### A Kali refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980)
@@ -2458,7 +2457,7 @@ Cybersecurity expert Malcolm Shore reviews
 > **Best Practices:** recommended (1)
 
 
-### 6. Web Testing
+### 7. 6. Web Testing
 
 #### Approach web testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/approach-web-testing?u=76281980)
@@ -2834,7 +2833,7 @@ Cybersecurity expert Malcolm Shore reviews
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Understand Exploit Code
+### 8. 7. Understand Exploit Code
 
 #### Exploit a target
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980)
@@ -3577,7 +3576,7 @@ Cybersecurity expert Malcolm Shore reviews
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980)
@@ -3612,6 +3611,19 @@ Cybersecurity expert Malcolm Shore reviews
 > **Env Vars:** aws (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Penetration Testing
+- Kali Linux
 
 ## Path Context
 

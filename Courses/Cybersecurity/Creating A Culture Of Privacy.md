@@ -28,32 +28,34 @@ tags:
   - skill/privacy
   - skill/privacy-issues
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Creating%20A%20Culture%20Of%20Privacy.md)
 
 ![Creating A Culture Of Privacy](https://media.licdn.com/dms/image/v2/C4E0DAQHwCbFZsfziTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567112429138?e=2147483647&amp;v=beta&amp;t=YQujamArcO0YmtVs6Uf-oVu_zBWH7xsh7WOF0QhJMfU)
 
 # Creating A Culture Of Privacy
 
-> Every news cycle, we seem to hear about another privacy-related problem, whether it's a data breach, a controversial policy, or the launch of a product that collects personal information. Privacy is on the minds of investors, customers, and employees. As we enter the next phase of the digital age, privacy is an issue every organization must address. 
-
-In this course, Kalinda Raina, head of globa
+> Every news cycle, we seem to hear about another privacy-related problem, whether it's a data breach, a controversial policy, or the launch of a product that collects personal information. Privacy is on the minds of investors, customers, and employees. As we enter the next phase of the digital age, privacy is an issue every organization must address. In this course, Kalinda Raina, head of global pr
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy) | Intermediate | 312K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Privacy
-- Privacy Issues
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Urgency of Getting Data Privacy Right** (3 videos)
+- **3. 2. Privacy: From a Compliance Chore to a Strategic Advantage** (3 videos)
+- **4. 3. Tie Privacy to Your Corporate Values** (2 videos)
+- **5. 4. Create Advocates throughout the Organization** (3 videos)
+- **6. 5. Build Privacy into Products** (2 videos)
+- **7. 6. Integrate the Privacy Program into the Existing Business** (1 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980)
@@ -163,7 +165,7 @@ In this course, Kalinda Raina, head of globa
 > **Speakers:** - privacy (1)
 
 
-### 1. The Urgency of Getting Data Privacy Right
+### 2. 1. The Urgency of Getting Data Privacy Right
 
 #### Why organizations need to think about building a culture of privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980)
@@ -408,7 +410,7 @@ In this course, Kalinda Raina, head of globa
 > **Speakers:** - for (1)
 
 
-### 2. Privacy: From a Compliance Chore to a Strategic Advantage
+### 3. 2. Privacy: From a Compliance Chore to a Strategic Advantage
 
 #### Assessing your current privacy program
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980)
@@ -639,7 +641,7 @@ In this course, Kalinda Raina, head of globa
 > **Speakers:** - we (1)
 
 
-### 3. Tie Privacy to Your Corporate Values
+### 4. 3. Tie Privacy to Your Corporate Values
 
 #### Tying privacy to your corporate mission
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/tying-privacy-to-your-corporate-mission?u=76281980)
@@ -777,7 +779,7 @@ In this course, Kalinda Raina, head of globa
 > **Speakers:** - now (1)
 
 
-### 4. Create Advocates throughout the Organization
+### 5. 4. Create Advocates throughout the Organization
 
 #### Making privacy relevant to every employee
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980)
@@ -1014,7 +1016,7 @@ In this course, Kalinda Raina, head of globa
 > **Speakers:** - privacy (1)
 
 
-### 5. Build Privacy into Products
+### 6. 5. Build Privacy into Products
 
 #### Creating a set of privacy guidelines for the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980)
@@ -1180,7 +1182,7 @@ In this course, Kalinda Raina, head of globa
 > **Speakers:** - in (1)
 
 
-### 6. Integrate the Privacy Program into the Existing Business
+### 7. 6. Integrate the Privacy Program into the Existing Business
 
 #### Sustaining a culture of privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980)
@@ -1239,7 +1241,7 @@ In this course, Kalinda Raina, head of globa
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980)
@@ -1267,6 +1269,15 @@ In this course, Kalinda Raina, head of globa
 > **Env Vars:** iapp (1)
 > **Speakers:** - thank (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Privacy
+- Privacy Issues
 
 ## Path Context
 

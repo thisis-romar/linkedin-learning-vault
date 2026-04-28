@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Excel%20Online%20(Microsoft%20365)-%20Work%20Smarter%20with%20Copilot.md)
 
 ![Excel Online (Microsoft 365): Work Smarter with Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQE4trVtIS12cQ/learning-public-crop_675_1200/B4EZYCpqvaHUBg-/0/1743801199895?e=2147483647&amp;v=beta&amp;t=qle6BzPzYkGlqj7MWxXc_bGk_GJX-ioQby0NL1hD8QY)
 
@@ -41,21 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot) | 38m | Beginner | 31K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joshua Rischin]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Started with Excel Online** (6 videos)
+- **3. 2. Collaborating Effectively in Excel Online** (3 videos)
+- **4. 3. Visualizing Data with Charts in Excel Online** (3 videos)
+- **5. 4. Supercharging Your Data with Copilot** (5 videos)
+- **6. 5. Taking Your Excel Skills to the Next Level** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Kickstart your Excel Online journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980)
@@ -83,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - [joshua] (1)
 
 
-### 1. Getting Started with Excel Online
+### 2. 1. Getting Started with Excel Online
 
 #### Getting acquainted with Excel Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-acquainted-with-excel-online?u=76281980)
@@ -377,7 +377,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 2. Collaborating Effectively in Excel Online
+### 3. 2. Collaborating Effectively in Excel Online
 
 #### Sharing your work and collaborating with others
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/sharing-your-work-and-collaborating-with-others?u=76281980)
@@ -523,7 +523,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Visualizing Data with Charts in Excel Online
+### 4. 3. Visualizing Data with Charts in Excel Online
 
 #### What you need to know before creating charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/what-you-need-to-know-before-creating-charts?u=76281980)
@@ -664,7 +664,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Supercharging Your Data with Copilot
+### 5. 4. Supercharging Your Data with Copilot
 
 #### Getting started with Copilot in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980)
@@ -888,7 +888,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Taking Your Excel Skills to the Next Level
+### 6. 5. Taking Your Excel Skills to the Next Level
 
 #### Streamlining your layout with modern grids
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/streamlining-your-layout-with-modern-grids?u=76281980)
@@ -986,7 +986,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Getting the most out of Excel Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980)
@@ -1020,6 +1020,18 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [joshua] (1)
 
+
+## Instructor
+
+- [[Joshua Rischin]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Excel
 
 ## Path Context
 

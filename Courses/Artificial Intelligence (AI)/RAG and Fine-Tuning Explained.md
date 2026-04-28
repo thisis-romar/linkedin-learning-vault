@@ -38,8 +38,10 @@ tags:
   - skill/retrieval-augmented-generation-rag
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/RAG%20and%20Fine-Tuning%20Explained.md)
 
 ![RAG and Fine-Tuning Explained](https://media.licdn.com/dms/image/v2/D560DAQEwj8XFayAkAQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719268835474?e=2147483647&amp;v=beta&amp;t=76S-SQZEYeVPrCVjI0S4FGqmNtlzjFbWkVahJ-XDRbY)
 
@@ -50,20 +52,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained) | 20m | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Skills Covered
-
-- Generative AI
-- AI Software Development
-- Retrieval-Augmented Generation (RAG)
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. RAG and Fine-Tuning** (8 videos)
+- **3. 2. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### RAG, fine-tuning, and the enterprise
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/rag-fine-tuning-and-the-enterprise?u=76281980)
@@ -90,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 1. RAG and Fine-Tuning
+### 2. 1. RAG and Fine-Tuning
 
 #### How LLMs work
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980)
@@ -441,7 +438,7 @@ created: 2026-04-21
 > **Speakers:** - based (1)
 
 
-### 2. Conclusion
+### 3. 2. Conclusion
 
 #### Tying it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980)
@@ -495,6 +492,17 @@ created: 2026-04-21
 > **Prerequisites:** required to (1)
 > **Speakers:** - okay (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Skills Covered
+
+- Generative AI
+- AI Software Development
+- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence (AI)
 
 ## Path Context
 

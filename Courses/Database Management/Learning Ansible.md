@@ -26,8 +26,10 @@ tags:
   - topic/network-and-system-administration
   - skill/ansible
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20Ansible.md)
 
 ![Learning Ansible](https://media.licdn.com/dms/image/v2/C4E0DAQHSCgje1Y3Afg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597935046264?e=2147483647&amp;v=beta&amp;t=N_kwR8ju6u_VUeO3SDsZfyWl3UZePVB4DfwsVMbmTcg)
 
@@ -38,13 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020) | Beginner | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Ansible
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Ansible?** (3 videos)
+- **3. 2. Why Choose Ansible?** (2 videos)
+- **4. 3. Getting Started with Ansible** (4 videos)
+- **5. 4. Working with Ansible** (5 videos)
+- **6. 5. What Can Ansible Do for You?** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Starting your Ansible journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/starting-your-ansible-journey?u=76281980)
@@ -78,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - [anthony] (1)
 
 
-### 1. What Is Ansible?
+### 2. 1. What Is Ansible?
 
 #### An introduction to Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980)
@@ -288,7 +296,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### 2. Why Choose Ansible?
+### 3. 2. Why Choose Ansible?
 
 #### Ansible ease of use
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/ansible-ease-of-use?u=76281980)
@@ -433,7 +441,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Getting Started with Ansible
+### 4. 3. Getting Started with Ansible
 
 #### The parts that make up Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/the-parts-that-make-up-ansible?u=76281980)
@@ -795,7 +803,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 4. Working with Ansible
+### 5. 4. Working with Ansible
 
 #### Working with hosts and variables in Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980)
@@ -1174,7 +1182,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. What Can Ansible Do for You?
+### 6. 5. What Can Ansible Do for You?
 
 #### Ansible and remote management
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-remote-management?u=76281980)
@@ -1564,7 +1572,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing on with Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980)
@@ -1590,6 +1598,10 @@ created: 2026-04-21
 > **CLI Commands:** ansible (4)
 > **Speakers:** - [anthony (1)
 
+
+## Skills Covered
+
+- Ansible
 
 ## Path Context
 

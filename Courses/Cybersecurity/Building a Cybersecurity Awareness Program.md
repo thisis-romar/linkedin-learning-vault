@@ -30,34 +30,33 @@ tags:
   - skill/information-security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Building%20a%20Cybersecurity%20Awareness%20Program.md)
 
 ![Building a Cybersecurity Awareness Program](https://media.licdn.com/dms/image/v2/D560DAQGm5ZqP9Mh3Eg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703199238629?e=2147483647&amp;v=beta&amp;t=of5PDyD901Ye3RrFUoxVTTIC_Jcy7cLIpHLcEGIRDnM)
 
 # Building a Cybersecurity Awareness Program
 
-> By implementing a security awareness and culture program, you can turn people into assets—an extension of your security team—instead of possible easier targets for cybercriminals.  A truly robust and mature security program makes educating employees a top priority in a company's overall multilayered approach. In this course, Lauren Zink shows how to develop and implement a successful, ongoing secu
+> By implementing a security awareness and culture program, you can turn people into assets—an extension of your security team—instead of possible easier targets for cybercriminals. A truly robust and mature security program makes educating employees a top priority in a company's overall multilayered approach. In this course, Lauren Zink shows how to develop and implement a successful, ongoing secur
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167) | 1h 21m | Intermediate | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lauren Zink]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Information Security Awareness
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding the Current Security Awareness Foundation** (3 videos)
+- **3. 2. Developing a Solid Awareness Plan** (3 videos)
+- **4. 3. Implementing and Communicating the Security Awareness Program** (4 videos)
+- **5. 4. Engaging Employees with Ongoing Awareness Initiatives** (4 videos)
+- **6. 5. Measuring the Effectiveness of Your Security Awareness Program** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Discover cybersecurity awareness
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/discover-cybersecurity-awareness?u=76281980)
@@ -153,7 +152,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding the Current Security Awareness Foundation
+### 2. 1. Understanding the Current Security Awareness Foundation
 
 #### Getting to know your collaborators and partners
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980)
@@ -373,7 +372,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Developing a Solid Awareness Plan
+### 3. 2. Developing a Solid Awareness Plan
 
 #### Developing a program plan and identifying resources needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980)
@@ -591,7 +590,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Implementing and Communicating the Security Awareness Program
+### 4. 3. Implementing and Communicating the Security Awareness Program
 
 #### Creating brand recognition for security
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980)
@@ -892,7 +891,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Engaging Employees with Ongoing Awareness Initiatives
+### 5. 4. Engaging Employees with Ongoing Awareness Initiatives
 
 #### Getting creative to reach your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980)
@@ -1228,7 +1227,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Measuring the Effectiveness of Your Security Awareness Program
+### 6. 5. Measuring the Effectiveness of Your Security Awareness Program
 
 #### Measuring impact and behavior change
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980)
@@ -1399,7 +1398,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps: Maturing and adjusting the program over time
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980)
@@ -1455,6 +1454,19 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Lauren Zink]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Information Security Awareness
+- Cybersecurity
 
 ## Path Context
 

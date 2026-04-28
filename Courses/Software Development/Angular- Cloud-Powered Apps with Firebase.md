@@ -31,8 +31,10 @@ tags:
   - skill/angular
   - skill/firebase
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Angular-%20Cloud-Powered%20Apps%20with%20Firebase.md)
 
 ![Angular: Cloud-Powered Apps with Firebase](https://media.licdn.com/dms/image/v2/C4E0DAQEeFiQeqEOdlQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1573861242641?e=2147483647&amp;v=beta&amp;t=ZVZabhGDGEJWMFgn5O_3gsFtnA0kMrO5hrovDu5fTVo)
 
@@ -43,22 +45,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase) | 2h 16m | Intermediate | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Victor Mejia]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Angular
-- Firebase
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Setting Up Your Development Environment** (4 videos)
+- **3. 2. Firebase Authentication** (6 videos)
+- **4. 3. Storing and Syncing Data with Firebase Cloud Firestore** (6 videos)
+- **5. 4. Storing Files with Firebase Cloud Storage** (4 videos)
+- **6. 5. Control Access with Custom Claims and Security Rules** (6 videos)
+- **7. 6. Going Serverless with Firebase Cloud Functions** (3 videos)
+- **8. 7. Control Access with Custom Claims and Security Rules** (2 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Structuring your apps for the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980)
@@ -196,7 +197,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting Up Your Development Environment
+### 2. 1. Setting Up Your Development Environment
 
 #### Installing tools and CLIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980)
@@ -486,7 +487,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1), such as (1)
 
 
-### 2. Firebase Authentication
+### 3. 2. Firebase Authentication
 
 #### Firebase Authentication setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980)
@@ -1112,7 +1113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Storing and Syncing Data with Firebase Cloud Firestore
+### 4. 3. Storing and Syncing Data with Firebase Cloud Firestore
 
 #### Cloud Firestore intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980)
@@ -1702,7 +1703,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Storing Files with Firebase Cloud Storage
+### 5. 4. Storing Files with Firebase Cloud Storage
 
 #### Cloud Storage setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980)
@@ -2053,7 +2054,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Control Access with Custom Claims and Security Rules
+### 6. 5. Control Access with Custom Claims and Security Rules
 
 #### Firebase ID tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980)
@@ -2444,7 +2445,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Going Serverless with Firebase Cloud Functions
+### 7. 6. Going Serverless with Firebase Cloud Functions
 
 #### Cloud Functions setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980)
@@ -2708,7 +2709,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Control Access with Custom Claims and Security Rules
+### 8. 7. Control Access with Custom Claims and Security Rules
 
 #### Firebase Hosting setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980)
@@ -2828,7 +2829,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980)
@@ -2860,6 +2861,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Victor Mejia]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Angular
+- Firebase
 
 ## Path Context
 

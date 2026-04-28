@@ -32,8 +32,10 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/PowerPoint%20Essential%20Training%20(Microsoft%20365).md)
 
 ![PowerPoint Essential Training (Microsoft 365)](https://media.licdn.com/dms/image/v2/D4D0DAQHhQprOM4LglA/learning-public-crop_675_1200/B4DZetPlITGkAc-/0/1750958232896?e=2147483647&amp;v=beta&amp;t=K1rZ7iQA6LiuBZmipVqTmYCnC8tW5mmy1PD2QVqoLnI)
 
@@ -44,21 +46,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209) | 2h 44m | Beginner | 41K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jess Stratton]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft PowerPoint
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Get Started Quickly** (2 videos)
+- **3. 2. Work with Slides** (6 videos)
+- **4. 3. Images and Shapes** (9 videos)
+- **5. 4. Add Diagrams and Charts** (2 videos)
+- **6. 5. Add Video, Audio and Animation to Slides** (7 videos)
+- **7. 6. Helpful Accessibility Features** (2 videos)
+- **8. 7. Collaborate and Prepare** (4 videos)
+- **9. 8. Deliver the Presentation** (2 videos)
+- **10. 9. Reuse the Presentation** (4 videos)
+- **11. 10. Use Copilot in PowerPoint** (2 videos)
+- **12. 11. PowerPoint Challenges** (2 videos)
+- **13. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Deliver a powerful message with a powerful presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/deliver-a-powerful-message-with-a-powerful-presentation-26204385?u=76281980)
@@ -81,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - today (1)
 
 
-### 1. Get Started Quickly
+### 2. 1. Get Started Quickly
 
 #### Start quickly with a theme or template
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/start-quickly-with-a-theme-or-template-25896388?u=76281980)
@@ -257,7 +263,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Work with Slides
+### 3. 2. Work with Slides
 
 #### Add, remove, and rearrange slides
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-remove-and-rearrange-slides-25898408?u=76281980)
@@ -908,7 +914,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Images and Shapes
+### 4. 3. Images and Shapes
 
 #### Add images
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980)
@@ -1774,7 +1780,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Add Diagrams and Charts
+### 5. 4. Add Diagrams and Charts
 
 #### Create and format charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980)
@@ -2033,7 +2039,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Add Video, Audio and Animation to Slides
+### 6. 5. Add Video, Audio and Animation to Slides
 
 #### Add and format video
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-and-format-video-25899366?u=76281980)
@@ -2730,7 +2736,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 6. Helpful Accessibility Features
+### 7. 6. Helpful Accessibility Features
 
 #### Features for PowerPoint users with disabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980)
@@ -2865,7 +2871,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Collaborate and Prepare
+### 8. 7. Collaborate and Prepare
 
 #### Add speaker notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-speaker-notes-26202393?u=76281980)
@@ -3131,7 +3137,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Deliver the Presentation
+### 9. 8. Deliver the Presentation
 
 #### Use Presenter View to run the show
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-presenter-view-to-run-the-show-26201384?u=76281980)
@@ -3332,7 +3338,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Reuse the Presentation
+### 10. 9. Reuse the Presentation
 
 #### Save a custom theme
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-custom-theme-26203373?u=76281980)
@@ -3727,7 +3733,7 @@ created: 2026-04-21
 > **Prerequisites:** make sure you have (1)
 
 
-### 10. Use Copilot in PowerPoint
+### 11. 10. Use Copilot in PowerPoint
 
 #### Use Copilot to create and summarize presentations
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980)
@@ -3926,7 +3932,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. PowerPoint Challenges
+### 12. 11. PowerPoint Challenges
 
 #### Challenge: Make gears turn
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-make-gears-turn-26201378?u=76281980)
@@ -4161,7 +4167,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 13. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/next-steps-26201379?u=76281980)
@@ -4179,6 +4185,18 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [jess] (1)
 
+
+## Instructor
+
+- [[Jess Stratton]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft PowerPoint
 
 ## Path Context
 

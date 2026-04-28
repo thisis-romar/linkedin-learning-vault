@@ -38,8 +38,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/it-automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Exploring%20AIOps.md)
 
 ![Exploring AIOps](https://media.licdn.com/dms/image/v2/D560DAQF6IUEHzKfKnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696012674652?e=2147483647&amp;v=beta&amp;t=iJrbkmm8miD8Y602D7B4KgnjvnMk3PhOmyfSIhBEneA)
 
@@ -50,20 +52,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-aiops) | 18m | Beginner | 204K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Skills Covered
-
-- AIOps
-- IT Process Automation
-- Artificial Intelligence (AI)
-- IT Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AIOps Explained** (2 videos)
+
+### 1. Introduction
 
 #### Exploring AIOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-aiops/exploring-aiops?u=76281980)
@@ -85,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - aiops (1)
 
 
-### 1. AIOps Explained
+### 2. 1. AIOps Explained
 
 #### AIOps defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-aiops/aiops-defined?u=76281980)
@@ -368,6 +364,17 @@ created: 2026-04-21
 > **Env Vars:** kpmg (1)
 > **Cross-References:** coming up (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Skills Covered
+
+- AIOps
+- IT Process Automation
+- Artificial Intelligence (AI)
+- IT Automation
 
 ## Path Context
 

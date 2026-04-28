@@ -29,35 +29,34 @@ tags:
   - skill/critical-thinking
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Inside%20The%20Mind%20Of%20An%20Aspiring%20Data%20Scientist.md)
 
 ![Inside The Mind Of An Aspiring Data Scientist](https://media.licdn.com/dms/image/v2/C560DAQHEzwxGNN3Ltw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1640287454194?e=2147483647&amp;v=beta&amp;t=O0tERLWf6g8rSWUUPkffXgkRQ-Jy_M1x6g5-6fybiKA)
 
 # Inside The Mind Of An Aspiring Data Scientist
 
-> Project
-
-Create your own personal blueprint for transitioning into a career as a data scientist.
- 
-
-Join instructor and career coach Khaulat Abdulhakeem as she relates her own hard-won experiences as a data scientist and woman in tech. Khaulat details the role of a data scientist and the potential of a data science career path. Find out what skills to learn and where to focus your energy, especial
+> Project Create your own personal blueprint for transitioning into a career as a data scientist. Join instructor and career coach Khaulat Abdulhakeem as she relates her own hard-won experiences as a data scientist and woman in tech. Khaulat details the role of a data scientist and the potential of a data science career path. Find out what skills to learn and where to focus your energy, especially i
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist) | Beginner | 47K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Critical Thinking
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Discovering Data Science** (1 videos)
+- **3. 2. Understanding the Data Science Profession** (4 videos)
+- **4. 3. Data Science and You** (2 videos)
+- **5. 4. How to Learn Data Science** (4 videos)
+- **6. 5. Creating Your First Data Science Resume** (2 videos)
+- **7. 6. Personal Branding for Data Scientists** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is data science?
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/what-is-data-science?u=76281980)
@@ -156,7 +155,7 @@ Join instructor and career coach Khaulat Abdulhakeem as she relates her own hard
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Discovering Data Science
+### 2. 1. Discovering Data Science
 
 #### First-hand account of finding data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/first-hand-account-of-finding-data-science?u=76281980)
@@ -202,7 +201,7 @@ Join instructor and career coach Khaulat Abdulhakeem as she relates her own hard
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Understanding the Data Science Profession
+### 3. 2. Understanding the Data Science Profession
 
 #### The confusion around data science professions
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/the-confusion-around-data-science-professions?u=76281980)
@@ -311,7 +310,7 @@ Join instructor and career coach Khaulat Abdulhakeem as she relates her own hard
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Science and You
+### 4. 3. Data Science and You
 
 #### Doing your data science research
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/doing-your-data-science-research?u=76281980)
@@ -385,7 +384,7 @@ Join instructor and career coach Khaulat Abdulhakeem as she relates her own hard
 > **Speakers:** - [instructor] (1)
 
 
-### 4. How to Learn Data Science
+### 5. 4. How to Learn Data Science
 
 #### Learning to ask questions about data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/learning-to-ask-questions-about-data-science?u=76281980)
@@ -493,7 +492,7 @@ Join instructor and career coach Khaulat Abdulhakeem as she relates her own hard
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Creating Your First Data Science Resume
+### 6. 5. Creating Your First Data Science Resume
 
 #### Creating a data science resume with no work experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/creating-a-data-science-resume-with-no-work-experience?u=76281980)
@@ -552,7 +551,7 @@ Join instructor and career coach Khaulat Abdulhakeem as she relates her own hard
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Personal Branding for Data Scientists
+### 7. 6. Personal Branding for Data Scientists
 
 #### What are you known for?
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/what-are-you-known-for?u=76281980)
@@ -639,7 +638,7 @@ Join instructor and career coach Khaulat Abdulhakeem as she relates her own hard
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Additional resources on a career in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/additional-resources-on-a-career-in-data-science?u=76281980)
@@ -666,6 +665,15 @@ Join instructor and career coach Khaulat Abdulhakeem as she relates her own hard
 > **Code Keywords:** let (1)
 > **Speakers:** - [khaulat] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Critical Thinking
+- Data Science
 
 ## Path Context
 

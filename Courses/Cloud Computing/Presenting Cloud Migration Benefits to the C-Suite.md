@@ -22,8 +22,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Presenting%20Cloud%20Migration%20Benefits%20to%20the%20C-Suite.md)
 
 ![Presenting Cloud Migration Benefits to the C-Suite](https://media.licdn.com/dms/image/v2/C560DAQFulTzf8hVmsQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637086823057?e=2147483647&amp;v=beta&amp;t=WtmRHNqSNnLDoocGt7exj4SL0TPFWV2uMmtxyxZb3Ms)
 
@@ -34,13 +36,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite) | 37m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lee Atchison]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Benefits of the Cloud in CXO Terms** (6 videos)
+- **3. 2. How to Focus the Discussion** (4 videos)
+- **4. 3. Migrating to the Cloud** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Defining the audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/defining-the-audience?u=76281980)
@@ -105,7 +111,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Benefits of the Cloud in CXO Terms
+### 2. 1. Benefits of the Cloud in CXO Terms
 
 #### Reintroducing Explore California
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/reintroducing-explore-california?u=76281980)
@@ -504,7 +510,7 @@ created: 2026-04-21
 > **Speakers:** - [lee] (1)
 
 
-### 2. How to Focus the Discussion
+### 3. 2. How to Focus the Discussion
 
 #### Structuring the conversation for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980)
@@ -696,7 +702,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Migrating to the Cloud
+### 4. 3. Migrating to the Cloud
 
 #### Outlining a cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/outlining-a-cloud-migration?u=76281980)
@@ -811,7 +817,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Further conversations with the C-suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980)
@@ -846,6 +852,10 @@ created: 2026-04-21
 > **Prerequisites:** set up (3)
 > **Speakers:** - [lee] (1)
 
+
+## Instructor
+
+- [[Lee Atchison]]
 
 ## Path Context
 

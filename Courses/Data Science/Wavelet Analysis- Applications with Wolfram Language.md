@@ -32,8 +32,10 @@ tags:
   - skill/data-analysis
   - skill/wavelets
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Wavelet%20Analysis-%20Applications%20with%20Wolfram%20Language.md)
 
 ![Wavelet Analysis: Applications with Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQEpm8u5Dr8Pyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704745109030?e=2147483647&amp;v=beta&amp;t=MbOq0DZsQAie-Bck3b8p_ZR-Il0DNlhkN0OYmq3zYOw)
 
@@ -44,19 +46,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language) | 51m | Advanced | 1K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wolfram Research]]
-
-## Skills Covered
-
-- Wolfram Language
-- Data Analysis
-- Wavelets
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Frequency Detection in a Time Series** (1 videos)
+- **3. 2. Filtering Frequencies from Time Series** (1 videos)
+- **4. 3. Applying Wavelet Analysis to Finance** (1 videos)
+- **5. 4. Edge Detection on Images** (1 videos)
+- **6. 5. Denoising Images** (1 videos)
+- **7. 6. Wavelet Thresholding** (1 videos)
+- **8. References** (1 videos)
+
+### 1. Introduction
 
 #### Introduction: Wavelet Analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/introduction-wavelet-analysis?u=76281980)
@@ -172,7 +175,7 @@ created: 2026-04-21
 > **Versions:** 0.3 (1)
 
 
-### 1. Frequency Detection in a Time Series
+### 2. 1. Frequency Detection in a Time Series
 
 #### Frequency Detection in a Time Series
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/frequency-detection-in-a-time-series?u=76281980)
@@ -313,7 +316,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 2. Filtering Frequencies from Time Series
+### 3. 2. Filtering Frequencies from Time Series
 
 #### Filtering Frequencies from Time Series
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/filtering-frequencies-from-time-series?u=76281980)
@@ -404,7 +407,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### 3. Applying Wavelet Analysis to Finance
+### 4. 3. Applying Wavelet Analysis to Finance
 
 #### Applying Wavelet Analysis to Finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/applying-wavelet-analysis-to-finance?u=76281980)
@@ -471,7 +474,7 @@ created: 2026-04-21
 > **Env Vars:** ibm (1)
 
 
-### 4. Edge Detection on Images
+### 5. 4. Edge Detection on Images
 
 #### Edge Detection on Images
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980)
@@ -616,7 +619,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1), picture (1)
 
 
-### 5. Denoising Images
+### 6. 5. Denoising Images
 
 #### Denoising Images
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/denoising-images?u=76281980)
@@ -718,7 +721,7 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 
 
-### 6. Wavelet Thresholding
+### 7. 6. Wavelet Thresholding
 
 #### Wavelet Thresholding
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980)
@@ -987,7 +990,7 @@ created: 2026-04-21
 > **Prerequisites:** before we start (1)
 
 
-### References
+### 8. References
 
 #### References
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/references?u=76281980)
@@ -1006,6 +1009,16 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1), for. (1)
 > **URLs:** [wolfram.com](https://wolfram.com) (1)
 
+
+## Instructor
+
+- [[Wolfram Research]]
+
+## Skills Covered
+
+- Wolfram Language
+- Data Analysis
+- Wavelets
 
 ## Path Context
 

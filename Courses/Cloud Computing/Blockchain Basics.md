@@ -27,8 +27,10 @@ tags:
   - topic/security
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Blockchain%20Basics.md)
 
 ![Blockchain Basics](https://media.licdn.com/dms/image/v2/C560DAQGRdiet-86L8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638210338294?e=2147483647&amp;v=beta&amp;t=KKg29gKi7Vk3SiGS3CsyT-sI086CZD1uG6lBea_SGfU)
 
@@ -39,13 +41,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119) | 1h 10m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jonathan Reichental]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Trust over the Internet** (2 videos)
+- **3. 2. What Is Blockchain Technology?** (5 videos)
+- **4. 3. Transforming Transactions** (3 videos)
+- **5. 4. Challenges to Be Solved** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building trust through software code
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980)
@@ -89,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Trust over the Internet
+### 2. 1. Trust over the Internet
 
 #### Risk management on the internet today
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980)
@@ -296,7 +303,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. What Is Blockchain Technology?
+### 3. 2. What Is Blockchain Technology?
 
 #### What problems does blockchain solve?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980)
@@ -780,7 +787,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Transforming Transactions
+### 4. 3. Transforming Transactions
 
 #### The blockchain ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980)
@@ -1083,7 +1090,7 @@ created: 2026-04-21
 > **Speakers:** - blockchain (1)
 
 
-### 4. Challenges to Be Solved
+### 5. 4. Challenges to Be Solved
 
 #### Obstacles to broad blockchain adoption
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980)
@@ -1258,7 +1265,7 @@ created: 2026-04-21
 > **Speakers:** - after (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Taking the next steps with blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980)
@@ -1319,6 +1326,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Jonathan Reichental]]
 
 ## Path Context
 

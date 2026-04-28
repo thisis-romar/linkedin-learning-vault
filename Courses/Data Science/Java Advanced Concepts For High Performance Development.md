@@ -28,8 +28,10 @@ tags:
   - skill/java-software-development
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Advanced%20Concepts%20For%20High%20Performance%20Development.md)
 
 ![Java Advanced Concepts For High Performance Development](https://media.licdn.com/dms/image/v2/C4E0DAQGw3sFhiEecwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670989829357?e=2147483647&amp;v=beta&amp;t=i-0hI0dmXYyAU4vlQCsOVs6Y19zJ7dZvMKB8fzSL0co)
 
@@ -40,19 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development) | Advanced | 42K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-java-development-2515082)
-
-## Skills Covered
-
-- Java Software Development
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (1 videos)
+- **3. 2. Generics in Java** (7 videos)
+- **4. 3. Advanced Data Structures** (6 videos)
+- **5. 4. Functional Programming in Java** (7 videos)
+- **6. 5. Concurrency in Java** (7 videos)
+- **7. 6. Input and Output** (6 videos)
+- **8. 7. Working with Files and Directories** (6 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn advanced Java programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980)
@@ -169,7 +173,7 @@ created: 2026-04-21
 > **Prerequisites:** before we start (1), you'll need (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Which version of Java to use?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/which-version-of-java-to-use?u=76281980)
@@ -223,7 +227,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Generics in Java
+### 3. 2. Generics in Java
 
 #### Introduction to generics in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980)
@@ -780,7 +784,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Advanced Data Structures
+### 4. 3. Advanced Data Structures
 
 #### Collections in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980)
@@ -1286,7 +1290,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Functional Programming in Java
+### 5. 4. Functional Programming in Java
 
 #### Functional Interfaces in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/functional-interfaces-in-java?u=76281980)
@@ -1899,7 +1903,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Concurrency in Java
+### 6. 5. Concurrency in Java
 
 #### Introduction to concurrency in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-concurrency-in-java?u=76281980)
@@ -2412,7 +2416,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 6. Input and Output
+### 7. 6. Input and Output
 
 #### Understanding I/O in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-i-o-in-java?u=76281980)
@@ -2913,7 +2917,7 @@ created: 2026-04-21
 > **Non-Speech:** (electronic music) (1)
 
 
-### 7. Working with Files and Directories
+### 8. 7. Working with Files and Directories
 
 #### Working with files in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-files-in-java?u=76281980)
@@ -3345,7 +3349,7 @@ created: 2026-04-21
 > **Non-Speech:** (dynamic music) (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980)
@@ -3375,6 +3379,16 @@ created: 2026-04-21
 > **Env Vars:** jdbc (1)
 > **Speakers:** - [bethan] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-java-development-2515082)
+
+## Skills Covered
+
+- Java Software Development
+- Java
 
 ## Path Context
 

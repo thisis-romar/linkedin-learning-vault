@@ -27,8 +27,10 @@ tags:
   - skill/react-js
   - skill/user-interface-design
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Modern%20Uis%20With%20React%20Router%20V6.md)
 
 ![Building Modern Uis With React Router V6](https://media.licdn.com/dms/image/v2/C560DAQG395sowEYfug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660328061370?e=2147483647&amp;v=beta&amp;t=b5V8z7yZ8KJieecrl7pgnX8gaVHjXg8pX3d07ij63co)
 
@@ -39,19 +41,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6) | Beginner | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/building-modern-uis-with-react-router-v6-2495079)
-
-## Skills Covered
-
-- React.js
-- User Interface Design
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Routing Basics** (6 videos)
+- **3. 2. Nested Routes and URL Parameters** (7 videos)
+- **4. 3. Take Routing Further** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building modern UIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/building-modern-uis?u=76281980)
@@ -147,7 +147,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Routing Basics
+### 2. 1. Routing Basics
 
 #### The fundamentals of routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/the-fundamentals-of-routing?u=76281980)
@@ -548,7 +548,7 @@ created: 2026-04-21
 > **Non-Speech:** (playful music) (1)
 
 
-### 2. Nested Routes and URL Parameters
+### 3. 2. Nested Routes and URL Parameters
 
 #### How nested routing works
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/how-nested-routing-works?u=76281980)
@@ -1101,7 +1101,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 3. Take Routing Further
+### 4. 3. Take Routing Further
 
 #### Index routes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/index-routes?u=76281980)
@@ -1367,7 +1367,7 @@ created: 2026-04-21
 > **Non-Speech:** (electronic music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/next-steps?u=76281980)
@@ -1397,6 +1397,16 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - [guil] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/building-modern-uis-with-react-router-v6-2495079)
+
+## Skills Covered
+
+- React.js
+- User Interface Design
 
 ## Path Context
 

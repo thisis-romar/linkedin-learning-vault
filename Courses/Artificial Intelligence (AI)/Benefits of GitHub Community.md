@@ -27,8 +27,10 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Benefits%20of%20GitHub%20Community.md)
 
 ![Benefits of GitHub Community](https://media.licdn.com/dms/image/v2/D4D0DAQF9w67FF89rCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696284079755?e=2147483647&amp;v=beta&amp;t=9882xBlULltpeTV7Lbj0kARTmwruz41rq94XAUzzYCE)
 
@@ -39,17 +41,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community) | 14m | Advanced | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Skills Covered
-
-- GitHub
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Benefits of the open source community** (5 videos)
+- **3. 2. Open Source Applications** (5 videos)
+
+### 1. Introduction
 
 #### Why the GitHub community is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/why-the-github-community-is-important?u=76281980)
@@ -76,7 +76,7 @@ created: 2026-04-21
 > **Speakers:** - with (1)
 
 
-### 1. Benefits of the open source community
+### 2. 1. Benefits of the open source community
 
 #### What is Open Source
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/what-is-open-source?u=76281980)
@@ -286,7 +286,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Open Source Applications
+### 3. 2. Open Source Applications
 
 #### What is Innersource
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980)
@@ -503,6 +503,14 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - pull (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Skills Covered
+
+- GitHub
 
 ## Path Context
 

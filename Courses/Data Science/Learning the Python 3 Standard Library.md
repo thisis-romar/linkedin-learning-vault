@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20the%20Python%203%20Standard%20Library.md)
 
 ![Learning the Python 3 Standard Library](https://media.licdn.com/dms/image/v2/D560DAQGa9J7SjcoqxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720644234693?e=2147483647&amp;v=beta&amp;t=_Pi99_2J4YOdxDLuQBf8KTNTFrMRq-8g4LecKImUSac)
 
@@ -41,21 +43,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library) | 2h 16m | Intermediate | 107K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kathryn Hodge]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Python: What's Built In?** (9 videos)
+- **3. 2. Python: Math** (7 videos)
+- **4. 3. Python Input/Output** (8 videos)
+- **5. 4. Python: Date and Time, HTML Parsing, and HTTP** (8 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Make writing Python easier with Python standard libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/make-writing-python-easier-with-python-standard-libraries?u=76281980)
@@ -267,7 +266,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Python: What's Built In?
+### 2. 1. Python: What's Built In?
 
 #### Logical operators: And, or, not
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/logical-operators-and-or-not-14504431?u=76281980)
@@ -1230,7 +1229,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Python: Math
+### 3. 2. Python: Math
 
 #### Trigonometry, ceiling, floor, and constants
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/trigonometry-ceiling-floor-and-constants-14507479?u=76281980)
@@ -1920,7 +1919,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Python Input/Output
+### 4. 3. Python Input/Output
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/command-line-arguments-14506486?u=76281980)
@@ -2604,7 +2603,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Python: Date and Time, HTML Parsing, and HTTP
+### 5. 4. Python: Date and Time, HTML Parsing, and HTTP
 
 #### Getting the current time with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/getting-the-current-time-with-python-14502518?u=76281980)
@@ -3264,7 +3263,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Add these built-in functions to your own applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980)
@@ -3289,6 +3288,18 @@ created: 2026-04-21
 > **Code Keywords:** module (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Kathryn Hodge]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
 
 ## Path Context
 

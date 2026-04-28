@@ -40,8 +40,10 @@ tags:
   - skill/code-review
   - skill/tech-career-skills
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Inclusive%20Tech-%20Conducting%20Humane%20Code%20Reviews.md)
 
 ![Inclusive Tech: Conducting Humane Code Reviews](https://media.licdn.com/dms/image/v2/C4E0DAQEXt2Yqz9B8XA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608238138221?e=2147483647&amp;v=beta&amp;t=BTj21OoXOSt-qTEiQU06d_XpOcKhoFR3SkfsN1XE-24)
 
@@ -52,23 +54,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews) | 41m | Intermediate | 114K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adrienne Braganza Tacke]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/inclusive-tech-conducting-humane-code-reviews-2849268)
-
-## Skills Covered
-
-- Code Review
-- Tech Career Skills
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Why Do We Perform Code Reviews?** (4 videos)
+- **3. 2. The Working Team Agreement** (4 videos)
+- **4. 3. Developer Pain Points in Code Reviews (AKA, What Not to Do!)** (3 videos)
+- **5. 4. Strategies for Better Code Reviews** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Code reviews: heated, but needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980)
@@ -137,7 +134,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Why Do We Perform Code Reviews?
+### 2. 1. Why Do We Perform Code Reviews?
 
 #### Goal 1: Catch design flaws
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980)
@@ -350,7 +347,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Working Team Agreement
+### 3. 2. The Working Team Agreement
 
 #### What's a team working agreement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/what-s-a-team-working-agreement?u=76281980)
@@ -507,7 +504,7 @@ created: 2026-04-21
 > **Non-Speech:** (soft music) (1)
 
 
-### 3. Developer Pain Points in Code Reviews (AKA, What Not to Do!)
+### 4. 3. Developer Pain Points in Code Reviews (AKA, What Not to Do!)
 
 #### Subjectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/subjectivity?u=76281980)
@@ -665,7 +662,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Strategies for Better Code Reviews
+### 5. 4. Strategies for Better Code Reviews
 
 #### Objectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/objectivity?u=76281980)
@@ -972,7 +969,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Your code reviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980)
@@ -1004,6 +1001,20 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 > **Speakers:** - [adrienne] (1)
 
+
+## Instructor
+
+- [[Adrienne Braganza Tacke]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/inclusive-tech-conducting-humane-code-reviews-2849268)
+
+## Skills Covered
+
+- Code Review
+- Tech Career Skills
 
 ## Path Context
 

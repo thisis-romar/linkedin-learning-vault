@@ -30,8 +30,10 @@ tags:
   - skill/front-end-development
   - skill/programming-foundations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Web%20Programming%20Foundations.md)
 
 ![Web Programming Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQHsspzzrmnv6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117745019?e=2147483647&amp;v=beta&amp;t=-GW3_82shsL5imuhcywAXOPcfylFrzpxqc7A57zDR-g)
 
@@ -42,18 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations) | 1h 57m | Beginner | 401K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Skills Covered
-
-- Front-End Development
-- Programming Foundations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Deconstructing the Web** (6 videos)
+- **3. 2. The Duality of Web Programming** (4 videos)
+- **4. 3. Which Came First: The Browser or the Editor?** (3 videos)
+- **5. 4. The Parts That Make up the Web** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=76281980)
@@ -108,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Deconstructing the Web
+### 2. 1. Deconstructing the Web
 
 #### From URL to website
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980)
@@ -375,7 +377,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. The Duality of Web Programming
+### 3. 2. The Duality of Web Programming
 
 #### The dual purpose of web code
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-dual-purpose-of-web-code?u=76281980)
@@ -586,7 +588,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 3. Which Came First: The Browser or the Editor?
+### 4. 3. Which Came First: The Browser or the Editor?
 
 #### The web browser of today and of tomorrow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980)
@@ -842,7 +844,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. The Parts That Make up the Web
+### 5. 4. The Parts That Make up the Web
 
 #### HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980)
@@ -1148,7 +1150,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980)
@@ -1180,6 +1182,15 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Skills Covered
+
+- Front-End Development
+- Programming Foundations
 
 ## Path Context
 

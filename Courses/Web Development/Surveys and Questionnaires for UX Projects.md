@@ -24,8 +24,10 @@ tags:
   - topic/web-development
   - skill/user-experience-ux
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Surveys%20and%20Questionnaires%20for%20UX%20Projects.md)
 
 ![Surveys and Questionnaires for UX Projects](https://media.licdn.com/dms/image/v2/C510DAQHZ7DEoctPdtA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576170702529?e=2147483647&amp;v=beta&amp;t=NFkmerWieb4SZcaseuSuYZkFahXRiMVGrzdHv6i9Jnw)
 
@@ -36,17 +38,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects) | 1h 1m | 53K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Chris Nodder]]
-
-## Skills Covered
-
-- User Experience (UX)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. When to Use Surveys** (3 videos)
+- **3. 2. Creating Good Questions** (4 videos)
+- **4. 3. Recruiting and Deploying a Survey** (3 videos)
+- **5. 4. Using Different Survey Tools** (2 videos)
+- **6. 5. Analyzing and Reporting Results** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting good feedback
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/getting-good-feedback?u=76281980)
@@ -85,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - questionnaires (1)
 
 
-### 1. When to Use Surveys
+### 2. 1. When to Use Surveys
 
 #### What surveys are good at telling you
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/what-surveys-are-good-at-telling-you?u=76281980)
@@ -251,7 +255,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 2. Creating Good Questions
+### 3. 2. Creating Good Questions
 
 #### Know what you want to learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/know-what-you-want-to-learn?u=76281980)
@@ -570,7 +574,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Recruiting and Deploying a Survey
+### 4. 3. Recruiting and Deploying a Survey
 
 #### Who to send your survey to
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/who-to-send-your-survey-to?u=76281980)
@@ -800,7 +804,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 4. Using Different Survey Tools
+### 5. 4. Using Different Survey Tools
 
 #### Online survey tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980)
@@ -1005,7 +1009,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 5. Analyzing and Reporting Results
+### 6. 5. Analyzing and Reporting Results
 
 #### Reporting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/reporting-data?u=76281980)
@@ -1254,7 +1258,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980)
@@ -1290,6 +1294,14 @@ created: 2026-04-21
 > **CLI Commands:** make (1), find (1), go run (1)
 > **Speakers:** - surveys (1)
 
+
+## Instructor
+
+- [[Chris Nodder]]
+
+## Skills Covered
+
+- User Experience (UX)
 
 ## Path Context
 

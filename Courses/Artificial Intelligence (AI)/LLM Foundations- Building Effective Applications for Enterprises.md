@@ -32,8 +32,10 @@ tags:
   - skill/large-language-models-llm
   - skill/enterprise-software
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/LLM%20Foundations-%20Building%20Effective%20Applications%20for%20Enterprises.md)
 
 ![LLM Foundations: Building Effective Applications for Enterprises](https://media.licdn.com/dms/image/v2/D560DAQEY9kaTr1GtrQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718987888877?e=2147483647&amp;v=beta&amp;t=jHYGkbDeSlq7KNqHihruuknzWHo38Q5vmOjTA621FfI)
 
@@ -44,19 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises) | 1h 43m | Advanced | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- Enterprise Software
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Generative AI in Enterprises** (4 videos)
+- **3. 2. GenAI Use Case Selection** (5 videos)
+- **4. 3. Choosing GenAI Models** (5 videos)
+- **5. 4. Evaluation and Fine-Tuning for GenAI** (5 videos)
+- **6. 5. Design Considerations for GenAI Applications** (6 videos)
+- **7. 6. Safety and Trust with GenAI** (5 videos)
+- **8. 7. Managing GenAI Application Performance** (5 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Starting your GenAI adoption journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/starting-your-gen-ai-adoption-journey?u=76281980)
@@ -129,7 +133,7 @@ created: 2026-04-21
 > **Prerequisites:** prerequisite (1)
 
 
-### 1. Generative AI in Enterprises
+### 2. 1. Generative AI in Enterprises
 
 #### The GenAI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/the-gen-ai-revolution?u=76281980)
@@ -313,7 +317,7 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 
 
-### 2. GenAI Use Case Selection
+### 3. 2. GenAI Use Case Selection
 
 #### Popular GenAI use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/popular-gen-ai-use-cases?u=76281980)
@@ -649,7 +653,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Choosing GenAI Models
+### 4. 3. Choosing GenAI Models
 
 #### The GenAI model landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-model-landscape?u=76281980)
@@ -1013,7 +1017,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 4. Evaluation and Fine-Tuning for GenAI
+### 5. 4. Evaluation and Fine-Tuning for GenAI
 
 #### Evaluating GenAI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/evaluating-gen-ai-models?u=76281980)
@@ -1398,7 +1402,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 5. Design Considerations for GenAI Applications
+### 6. 5. Design Considerations for GenAI Applications
 
 #### A typical GenAI app
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/a-typical-gen-ai-app?u=76281980)
@@ -1760,7 +1764,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 6. Safety and Trust with GenAI
+### 7. 6. Safety and Trust with GenAI
 
 #### Ethical and legal considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/ethical-and-legal-considerations?u=76281980)
@@ -2092,7 +2096,7 @@ created: 2026-04-21
 > **Cross-References:** previous chapter (1)
 
 
-### 7. Managing GenAI Application Performance
+### 8. 7. Managing GenAI Application Performance
 
 #### Performance goals for GenAI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/performance-goals-for-gen-ai-apps?u=76281980)
@@ -2326,7 +2330,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Continue your GenAI journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/continue-your-gen-ai-journey?u=76281980)
@@ -2358,6 +2362,16 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Code Keywords:** let (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
+- Enterprise Software
 
 ## Path Context
 

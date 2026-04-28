@@ -36,8 +36,10 @@ tags:
   - skill/privacy
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Building%20a%20Privacy%20Program%20in%20the%20Age%20of%20GenAI.md)
 
 ![Building a Privacy Program in the Age of GenAI](https://media.licdn.com/dms/image/v2/D4E0DAQGJbeH8CObhAw/learning-public-crop_675_1200/B4EZTXHm7gHMAc-/0/1738775883722?e=2147483647&amp;v=beta&amp;t=mwwf-O2dSOaRVCZsbWVqMhfeoMyJ9Zpu-qVrYm4owWY)
 
@@ -48,20 +50,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai) | 51m | Beginner | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nishant Bhajaria]]
-
-## Skills Covered
-
-- Privacy Compliance
-- Data Privacy
-- Privacy
-- Governance, Risk Management, and Compliance (GRC)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Privacy** (5 videos)
+- **3. 2. Privacy and Key Governance Milestones** (4 videos)
+- **4. 3. Building Privacy Tooling, Processes, Hierarchies, and Consolidations** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What privacy means in the age of GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980)
@@ -146,7 +145,7 @@ created: 2026-04-21
 > **Speakers:** - traditionally (1)
 
 
-### 1. Introduction to Privacy
+### 2. 1. Introduction to Privacy
 
 #### The real meaning of "big data"
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/the-real-meaning-of-big-data?u=76281980)
@@ -504,7 +503,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Privacy and Key Governance Milestones
+### 3. 2. Privacy and Key Governance Milestones
 
 #### Code governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980)
@@ -817,7 +816,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Building Privacy Tooling, Processes, Hierarchies, and Consolidations
+### 4. 3. Building Privacy Tooling, Processes, Hierarchies, and Consolidations
 
 #### Data deletion
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980)
@@ -1298,7 +1297,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980)
@@ -1328,6 +1327,17 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Nishant Bhajaria]]
+
+## Skills Covered
+
+- Privacy Compliance
+- Data Privacy
+- Privacy
+- Governance, Risk Management, and Compliance (GRC)
 
 ## Path Context
 

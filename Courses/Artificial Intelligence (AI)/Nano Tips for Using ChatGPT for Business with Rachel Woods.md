@@ -26,8 +26,10 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Nano%20Tips%20for%20Using%20ChatGPT%20for%20Business%20with%20Rachel%20Woods.md)
 
 ![Nano Tips for Using ChatGPT for Business with Rachel Woods](https://media.licdn.com/dms/image/v2/D560DAQEfEsaRm8dswQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680541326029?e=2147483647&amp;v=beta&amp;t=_hs_hE_LsRFX1THLV58LIGuqkU4D8uSKnfdHNK5InDY)
 
@@ -38,13 +40,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods) | 11m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rachel Woods]]
-
 ## Table of Contents
 
-### 1. Using GPT in Business
+### Chapter Overview
+
+- **1. 1. Using GPT in Business** (10 videos)
+
+### 1. 1. Using GPT in Business
 
 #### Understanding generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980)
@@ -375,6 +377,10 @@ created: 2026-04-21
 >
 > **Analogies:** just like (1), such as (1)
 
+
+## Instructor
+
+- [[Rachel Woods]]
 
 ## Path Context
 

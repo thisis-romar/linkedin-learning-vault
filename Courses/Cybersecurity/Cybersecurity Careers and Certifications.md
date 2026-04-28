@@ -41,8 +41,10 @@ tags:
   - skill/cybersecurity
   - skill/career-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Careers%20and%20Certifications.md)
 
 ![Cybersecurity Careers and Certifications](https://media.licdn.com/dms/image/v2/C560DAQFl5s5CflRKdw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1672793067893?e=2147483647&amp;v=beta&amp;t=6WB-4UiKO7K5sIPMCnd1pLL5luXUSuLNYUtJlyUpYpw)
 
@@ -53,23 +55,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications) | 2h 18m | Beginner | 246K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Marc Menninger]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tech Career Skills
-- Cybersecurity
-- Career Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding the Cybersecurity Career Field** (2 videos)
+- **3. 2. Cybersecurity Marketplace** (5 videos)
+- **4. 3. Cybersecurity Success Traits** (3 videos)
+- **5. 4. Cybersecurity Careers** (10 videos)
+- **6. 5. Cybersecurity Certifications** (9 videos)
+- **7. 6. Your Cybersecurity Career Path** (4 videos)
+- **8. 7. Cybersecurity Career Advice** (5 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Cybersecurity careers and certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980)
@@ -137,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding the Cybersecurity Career Field
+### 2. 1. Understanding the Cybersecurity Career Field
 
 #### An overview of cybersecurity key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980)
@@ -288,7 +288,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Cybersecurity Marketplace
+### 3. 2. Cybersecurity Marketplace
 
 #### Government (FISMA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980)
@@ -559,7 +559,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 3. Cybersecurity Success Traits
+### 4. 3. Cybersecurity Success Traits
 
 #### Analytical and technology savvy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980)
@@ -724,7 +724,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Cybersecurity Careers
+### 5. 4. Cybersecurity Careers
 
 #### Cybersecurity careers overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980)
@@ -1274,7 +1274,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Cybersecurity Certifications
+### 6. 5. Cybersecurity Certifications
 
 #### Cybersecurity certifications overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certifications-overview?u=76281980)
@@ -1674,7 +1674,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 6. Your Cybersecurity Career Path
+### 7. 6. Your Cybersecurity Career Path
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/prerequisites?u=76281980)
@@ -1943,7 +1943,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Cybersecurity Career Advice
+### 8. 7. Cybersecurity Career Advice
 
 #### Begin with the end in mind
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980)
@@ -2218,7 +2218,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Continue your career and continuing education journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980)
@@ -2245,6 +2245,20 @@ created: 2026-04-21
 > **Cross-References:** we discussed (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Marc Menninger]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tech Career Skills
+- Cybersecurity
+- Career Management
 
 ## Path Context
 

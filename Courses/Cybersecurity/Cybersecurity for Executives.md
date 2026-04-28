@@ -32,8 +32,10 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20for%20Executives.md)
 
 ![Cybersecurity for Executives](https://media.licdn.com/dms/image/v2/C560DAQHtdXQZyMfd1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660846179936?e=2147483647&amp;v=beta&amp;t=OV2vtkG9sHJD92fgEebwjV9_oG5f7RfIOwTKFbuPRN8)
 
@@ -44,19 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426) | 1h 24m | Beginner | 99K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kip Boyle]]
-
-## Skills Covered
-
-- Security Awareness
-- Governance, Risk Management, and Compliance (GRC)
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understand the Big Picture** (6 videos)
+- **3. 2. How to Think About Cybersecurity** (4 videos)
+- **4. 3. Avoid Phishing Attacks** (3 videos)
+- **5. 4. Stop Malicious Code** (3 videos)
+- **6. 5. Avoid Identity Theft** (3 videos)
+- **7. 6. Avoid Financial Cyber Theft** (3 videos)
+- **8. 7. Special Topics** (11 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### You are a target and the first line of defense
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980)
@@ -91,7 +95,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Understand the Big Picture
+### 2. 1. Understand the Big Picture
 
 #### Understand the big picture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/understand-the-big-picture-overview?u=76281980)
@@ -354,7 +358,7 @@ created: 2026-04-21
 > **Speakers:** - online (1)
 
 
-### 2. How to Think About Cybersecurity
+### 3. 2. How to Think About Cybersecurity
 
 #### Think about cybersecurity summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/think-about-cybersecurity-summary?u=76281980)
@@ -541,7 +545,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 3. Avoid Phishing Attacks
+### 4. 3. Avoid Phishing Attacks
 
 #### Avoid phishing attacks summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-phishing-attacks-summary?u=76281980)
@@ -676,7 +680,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### 4. Stop Malicious Code
+### 5. 4. Stop Malicious Code
 
 #### Stop malicious code summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/stop-malicious-code-summary?u=76281980)
@@ -823,7 +827,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### 5. Avoid Identity Theft
+### 6. 5. Avoid Identity Theft
 
 #### Avoid identity theft summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-identity-theft-summary?u=76281980)
@@ -985,7 +989,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### 6. Avoid Financial Cyber Theft
+### 7. 6. Avoid Financial Cyber Theft
 
 #### Avoid financial cyber theft summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-financial-cyber-theft-summary?u=76281980)
@@ -1149,7 +1153,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### 7. Special Topics
+### 8. 7. Special Topics
 
 #### Special topics summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980)
@@ -1813,7 +1817,7 @@ created: 2026-04-21
 > **Speakers:** - by (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980)
@@ -1856,6 +1860,16 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Kip Boyle]]
+
+## Skills Covered
+
+- Security Awareness
+- Governance, Risk Management, and Compliance (GRC)
+- Cybersecurity
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Node.js.md)
 
 ![Advanced Node.js](https://media.licdn.com/dms/image/v2/C4E0DAQEkGHoMiYtbGQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619131629488?e=2147483647&amp;v=beta&amp;t=qHgIr23hW0rrmcXESXfbW0r0y_ZoCbXjvCU2XHqwFT4)
 
@@ -40,21 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js) | 2h 3m | Advanced | 112K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Alex Banks]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Asynchronous Patterns** (9 videos)
+- **3. 2. Advanced Streams** (8 videos)
+- **4. 3. HTTP Streaming** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/welcome?u=76281980)
@@ -198,7 +196,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. Asynchronous Patterns
+### 2. 1. Asynchronous Patterns
 
 #### Callback pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980)
@@ -1324,7 +1322,7 @@ created: 2026-04-21
 > **UI Navigation:** scroll down (1)
 
 
-### 2. Advanced Streams
+### 3. 2. Advanced Streams
 
 #### Why streams?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/why-streams?u=76281980)
@@ -2347,7 +2345,7 @@ created: 2026-04-21
 > **Cross-References:** in the last (1)
 
 
-### 3. HTTP Streaming
+### 4. 3. HTTP Streaming
 
 #### Streaming to the browser
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/streaming-to-the-browser?u=76281980)
@@ -3042,7 +3040,7 @@ created: 2026-04-21
 > **Cross-References:** in the last (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980)
@@ -3074,6 +3072,18 @@ created: 2026-04-21
 > **Env Vars:** npm (1)
 > **Speakers:** - [alex] (1)
 
+
+## Instructor
+
+- [[Alex Banks]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Node.js
 
 ## Path Context
 

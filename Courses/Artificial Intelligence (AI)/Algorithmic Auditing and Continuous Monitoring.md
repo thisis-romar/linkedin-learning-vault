@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/continuous-monitoring
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Algorithmic%20Auditing%20and%20Continuous%20Monitoring.md)
 
 ![Algorithmic Auditing and Continuous Monitoring](https://media.licdn.com/dms/image/v2/D560DAQF-Fcwt-2ewCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695847845401?e=2147483647&amp;v=beta&amp;t=Dszmz_NYSskcjmG5qMR4ww64lMKfnYyYmt3cnJAIjOk)
 
@@ -40,21 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring) | 1h 3m | Beginner | 334K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brandie Nonnecke]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Continuous Monitoring
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Algorithmic Auditing and Continuous Monitoring** (4 videos)
+- **3. 2. Skills for Algorithmic Auditors and Continuous Monitoring Teams** (4 videos)
+- **4. 3. Case Study: Auditing and Continuous Monitoring Tools and Techniques in Practice** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Algorithmic auditing and continuous monitoring uses
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-continuous-monitoring-uses?u=76281980)
@@ -151,7 +149,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Algorithmic Auditing and Continuous Monitoring
+### 2. 1. Algorithmic Auditing and Continuous Monitoring
 
 #### What is algorithmic auditing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980)
@@ -434,7 +432,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 2. Skills for Algorithmic Auditors and Continuous Monitoring Teams
+### 3. 2. Skills for Algorithmic Auditors and Continuous Monitoring Teams
 
 #### Establishing an effective governance structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980)
@@ -878,7 +876,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Case Study: Auditing and Continuous Monitoring Tools and Techniques in Practice
+### 4. 3. Case Study: Auditing and Continuous Monitoring Tools and Techniques in Practice
 
 #### Case study: RedTech 30
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980)
@@ -1334,7 +1332,7 @@ created: 2026-04-21
 > **Speakers:** - earlier (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Responsible AI resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980)
@@ -1366,6 +1364,18 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Brandie Nonnecke]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Continuous Monitoring
 
 ## Path Context
 

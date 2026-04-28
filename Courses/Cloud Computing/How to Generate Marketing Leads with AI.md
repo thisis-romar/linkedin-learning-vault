@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/lead-generation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/How%20to%20Generate%20Marketing%20Leads%20with%20AI.md)
 
 ![How to Generate Marketing Leads with AI](https://media.licdn.com/dms/image/v2/D4E0DAQHQN6Z_24pDRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700092883793?e=2147483647&amp;v=beta&amp;t=TCnqNOWTidadVL97KNfxMXT9wwVIYUbAhQaUTy-oYGI)
 
@@ -44,25 +46,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai) | 26m | 382K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Madecraft]]
-- [[Lorenzo Johnson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- B2B Marketing
-- AI for Marketing
-- Artificial Intelligence (AI)
-- Lead Generation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Applying AI to Lead Generation** (5 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Boost your lead generation with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/boost-your-lead-generation-with-ai?u=76281980)
@@ -95,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 1. Applying AI to Lead Generation
+### 2. 1. Applying AI to Lead Generation
 
 #### Understanding AI for lead generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980)
@@ -590,7 +582,7 @@ created: 2026-04-21
 > **Speakers:** - yeah (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Cultivate a growth mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980)
@@ -668,6 +660,22 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Madecraft]]
+- [[Lorenzo Johnson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- B2B Marketing
+- AI for Marketing
+- Artificial Intelligence (AI)
+- Lead Generation
 
 ## Path Context
 

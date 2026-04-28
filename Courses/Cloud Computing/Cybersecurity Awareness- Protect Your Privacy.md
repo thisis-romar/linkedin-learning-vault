@@ -37,8 +37,10 @@ tags:
   - skill/privacy
   - skill/privacy-protection
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Protect%20Your%20Privacy.md)
 
 ![Cybersecurity Awareness: Protect Your Privacy](https://media.licdn.com/dms/image/v2/D560DAQGtpzeq-8Vnow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711490938965?e=2147483647&amp;v=beta&amp;t=IcF_RD7oko5C0CcW8LPioMs4BTtC0b9uUVZeFYpnDeo)
 
@@ -49,20 +51,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy) | 1h 26m | Beginner | 185K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tate Jarrow]]
-
-## Skills Covered
-
-- Security Awareness
-- Information Security Awareness
-- Privacy
-- Privacy Protection
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Privacy Is a Critical Part of Your Security** (2 videos)
+- **3. 2. How Bad Actors Use Your Personal Information** (2 videos)
+- **4. 3. Reduce Your Digital Footprint** (4 videos)
+- **5. 4. Prevent Accidental Leaks of Your Private Information** (2 videos)
+- **6. 5. Keep Your Device Private** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Protect your privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980)
@@ -90,7 +91,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### 1. Privacy Is a Critical Part of Your Security
+### 2. 1. Privacy Is a Critical Part of Your Security
 
 #### Understanding your cybersecurity crown jewels
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980)
@@ -282,7 +283,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. How Bad Actors Use Your Personal Information
+### 3. 2. How Bad Actors Use Your Personal Information
 
 #### The internet is full of your personal information
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980)
@@ -585,7 +586,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. Reduce Your Digital Footprint
+### 4. 3. Reduce Your Digital Footprint
 
 #### Minimizing your digital footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/minimizing-your-digital-footprint?u=76281980)
@@ -917,7 +918,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Prevent Accidental Leaks of Your Private Information
+### 5. 4. Prevent Accidental Leaks of Your Private Information
 
 #### Check the privacy settings of your apps and accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980)
@@ -1274,7 +1275,7 @@ created: 2026-04-21
 > **Speakers:** - many (1)
 
 
-### 5. Keep Your Device Private
+### 6. 5. Keep Your Device Private
 
 #### How your phone collects personal information
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980)
@@ -1539,7 +1540,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980)
@@ -1569,6 +1570,17 @@ created: 2026-04-21
 > **CLI Commands:** find (2)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Tate Jarrow]]
+
+## Skills Covered
+
+- Security Awareness
+- Information Security Awareness
+- Privacy
+- Privacy Protection
 
 ## Path Context
 

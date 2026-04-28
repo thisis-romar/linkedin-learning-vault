@@ -1,3 +1,5 @@
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/README.md)
+
 # LinkedIn Learning Vault
 
 Obsidian knowledge vault with 3,600+ interlinked notes from the LinkedIn Learning Technology catalog.

@@ -31,8 +31,10 @@ tags:
   - skill/interpersonal-communication
   - skill/diversity-and-inclusion
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Skills%20for%20Inclusive%20Conversations.md)
 
 ![Skills for Inclusive Conversations](https://media.licdn.com/dms/image/v2/C4E0DAQEbQFMEkzfpyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568060997696?e=2147483647&amp;v=beta&amp;t=zaYi3iZPIMOrkqUpGKjiH5RXqb4ZjlBsCGmV-M3iC2s)
 
@@ -43,22 +45,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations) | 53m | 197K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mary-Frances Winters]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Interpersonal Communication
-- Diversity and Inclusion
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Inclusive Conversations Skills** (7 videos)
+- **3. 2. Inclusive Conversations in Practice** (3 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The need for inclusive conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/the-need-for-inclusive-conversations?u=76281980)
@@ -224,7 +220,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 1. Inclusive Conversations Skills
+### 2. 1. Inclusive Conversations Skills
 
 #### Six steps to inclusive conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/six-steps-to-inclusive-conversations?u=76281980)
@@ -844,7 +840,7 @@ created: 2026-04-21
 > **Code Keywords:** let (2)
 
 
-### 2. Inclusive Conversations in Practice
+### 3. 2. Inclusive Conversations in Practice
 
 #### Talking about race
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980)
@@ -1133,7 +1129,7 @@ created: 2026-04-21
 > **Code Keywords:** this. (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Inclusivity pledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusivity-pledge-14485160?u=76281980)
@@ -1215,6 +1211,19 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - if (1)
 
+
+## Instructor
+
+- [[Mary-Frances Winters]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Interpersonal Communication
+- Diversity and Inclusion
 
 ## Path Context
 

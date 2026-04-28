@@ -33,8 +33,10 @@ tags:
   - skill/sql
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/SQL%20Server%20Containerization-%20Modern%20Deployment%20Strategies%20for%20Data-Driven%20Organizations.md)
 
 ![SQL Server Containerization: Modern Deployment Strategies for Data-Driven Organizations](https://media.licdn.com/dms/image/v2/D560DAQGvr7XUO6wwyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695928337362?e=2147483647&amp;v=beta&amp;t=e0pwLKizaDt5vwqc-Tp3rM3jt02-QSku33L89K32mW8)
 
@@ -45,23 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations) | 58m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ben Weissman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Service Deployment
-- SQL
-- Microsoft SQL Server
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. SQL Server on Linux** (4 videos)
+- **3. 2. SQL Server on Containers** (4 videos)
+- **4. 3. SQL Server on Kubernetes** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### SQL Server on Linux, containers, and Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/sql-server-on-linux-containers-and-kubernetes?u=76281980)
@@ -142,7 +138,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 1. SQL Server on Linux
+### 2. 1. SQL Server on Linux
 
 #### How to run SQL Server on Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980)
@@ -418,7 +414,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. SQL Server on Containers
+### 3. 2. SQL Server on Containers
 
 #### Container fundamentals and Docker installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980)
@@ -703,7 +699,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. SQL Server on Kubernetes
+### 4. 3. SQL Server on Kubernetes
 
 #### Kubernetes fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980)
@@ -1299,7 +1295,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980)
@@ -1334,6 +1330,20 @@ created: 2026-04-21
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Ben Weissman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Service Deployment
+- SQL
+- Microsoft SQL Server
 
 ## Path Context
 

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/ciso-leadership-managing-a-cybersec
 course_count: 8
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 8
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/security
@@ -49,8 +49,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Learning%20Paths/CISO%20Leadership-%20Managing%20a%20Cybersecurity%20Program.md)
 
 # CISO Leadership: Managing a Cybersecurity Program
 

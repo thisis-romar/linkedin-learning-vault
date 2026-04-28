@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/slack
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Slack%20Essential%20Training.md)
 
 ![Slack Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQGaSPamiefHXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615578818321?e=2147483647&amp;v=beta&amp;t=BlPgopJALPZcS4D9sSDHkXjhqZ5p0tjou-NUFYynRZ4)
 
@@ -41,17 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training) | 1h 34m | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gini von Courter]]
-
-## Skills Covered
-
-- Slack
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Get Started with Slack** (5 videos)
+- **3. 2. Work with Messages** (9 videos)
+- **4. 3. Work with Channels** (3 videos)
+- **5. 4. Add Apps to Slack** (3 videos)
+- **6. 5. Search and Preferences** (3 videos)
+- **7. 6. Create a New Workspace** (1 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Communicate and collaborate with Slack
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/communicate-and-collaborate-with-slack?u=76281980)
@@ -168,7 +173,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 1. Get Started with Slack
+### 2. 1. Get Started with Slack
 
 #### Log in to Slack
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980)
@@ -605,7 +610,7 @@ created: 2026-04-21
 > **Speakers:** - [gini] (1)
 
 
-### 2. Work with Messages
+### 3. 2. Work with Messages
 
 #### Create a message in a channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980)
@@ -1387,7 +1392,7 @@ created: 2026-04-21
 > **Speakers:** - [gini] (1)
 
 
-### 3. Work with Channels
+### 4. 3. Work with Channels
 
 #### Understand roles and permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980)
@@ -1645,7 +1650,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Add Apps to Slack
+### 5. 4. Add Apps to Slack
 
 #### Install a storage app
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980)
@@ -1866,7 +1871,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 5. Search and Preferences
+### 6. 5. Search and Preferences
 
 #### Search in Slack
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980)
@@ -2254,7 +2259,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Create a New Workspace
+### 7. 6. Create a New Workspace
 
 #### Create a new Slack workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/create-a-new-slack-workspace?u=76281980)
@@ -2345,7 +2350,7 @@ created: 2026-04-21
 > **Speakers:** - [gini] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/next-steps?u=76281980)
@@ -2369,6 +2374,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [gini] (1)
 
+
+## Instructor
+
+- [[Gini von Courter]]
+
+## Skills Covered
+
+- Slack
 
 ## Path Context
 

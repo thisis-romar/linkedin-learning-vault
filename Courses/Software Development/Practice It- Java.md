@@ -27,8 +27,10 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practice%20It-%20Java.md)
 
 ![Practice It: Java](https://media.licdn.com/dms/image/v2/D560DAQE71ngxkONQwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666990137684?e=2147483647&amp;v=beta&amp;t=IyJMaroXiMeQFw9Vv1T7oWMyYVF3q_5fB-6jqNFjur8)
 
@@ -39,21 +41,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java) | 59m | Intermediate | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bethan Palmer]]
-
-## Resources
-
-- [GitHub Repository](https://github.com/LinkedInLearning/practice-it-java-3086189/codespaces)
-
-## Skills Covered
-
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Variables** (5 videos)
+- **3. 2. Classes and Objects** (7 videos)
+- **4. 3. Control Flow** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Practice some Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980)
@@ -274,7 +272,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 1. Variables
+### 2. 1. Variables
 
 #### Topic overview: Variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980)
@@ -669,7 +667,7 @@ created: 2026-04-21
 > **Non-Speech:** (gentle music) (1)
 
 
-### 2. Classes and Objects
+### 3. 2. Classes and Objects
 
 #### Topic overview: Classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980)
@@ -1134,7 +1132,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Control Flow
+### 4. 3. Control Flow
 
 #### Topic overview: Control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980)
@@ -1786,7 +1784,7 @@ created: 2026-04-21
 > **Non-Speech:** (two-toned deep synth chimes) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps to practice more Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980)
@@ -1813,6 +1811,18 @@ created: 2026-04-21
 >
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Bethan Palmer]]
+
+## Resources
+
+- [GitHub Repository](https://github.com/LinkedInLearning/practice-it-java-3086189/codespaces)
+
+## Skills Covered
+
+- Java
 
 ## Path Context
 

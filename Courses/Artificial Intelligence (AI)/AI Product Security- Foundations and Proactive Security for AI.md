@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Foundations%20and%20Proactive%20Security%20for%20AI.md)
 
 ![AI Product Security: Foundations and Proactive Security for AI](https://media.licdn.com/dms/image/v2/D4E0DAQHUwP8SSWhUTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736798892218?e=2147483647&amp;v=beta&amp;t=5-JEu3yNKOeCffGNRrkB3fykr6iJAC2rh8IjRmUj6bk)
 
@@ -45,19 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai) | 1h 42m | Intermediate | 63K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Reet Kaur]]
-
-## Skills Covered
-
-- Secure Coding
-- Artificial Intelligence (AI)
-- AI Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Fundamentals of AI Security** (4 videos)
+- **3. 2. Building Resilient AI: Securing AI Models, Data, and Deployment** (9 videos)
+- **4. 3. AI Security Governance, Risk Management, and Compliance** (3 videos)
+- **5. 4. System Design Principles** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Securing AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/securing-ai-products?u=76281980)
@@ -145,7 +146,7 @@ created: 2026-04-21
 > **Speakers:** - [reet] (1)
 
 
-### 1. Fundamentals of AI Security
+### 2. 1. Fundamentals of AI Security
 
 #### Essentials of AI security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/essentials-of-ai-security?u=76281980)
@@ -484,7 +485,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Building Resilient AI: Securing AI Models, Data, and Deployment
+### 3. 2. Building Resilient AI: Securing AI Models, Data, and Deployment
 
 #### Overview of adversarial AI attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/overview-of-adversarial-ai-attacks?u=76281980)
@@ -1199,7 +1200,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. AI Security Governance, Risk Management, and Compliance
+### 4. 3. AI Security Governance, Risk Management, and Compliance
 
 #### Governance in AI product security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/governance-in-ai-product-security?u=76281980)
@@ -1478,7 +1479,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. System Design Principles
+### 5. 4. System Design Principles
 
 #### Foundational principles of AI system design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/foundational-principles-of-ai-system-design?u=76281980)
@@ -1608,7 +1609,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/next-steps?u=76281980)
@@ -1643,6 +1644,16 @@ created: 2026-04-21
 > **Env Vars:** iso (1), nist (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Reet Kaur]]
+
+## Skills Covered
+
+- Secure Coding
+- Artificial Intelligence (AI)
+- AI Security
 
 ## Path Context
 

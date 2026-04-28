@@ -25,8 +25,10 @@ tags:
   - topic/security
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Artificial%20Intelligence%20for%20Cybersecurity.md)
 
 ![Artificial Intelligence for Cybersecurity](https://media.licdn.com/dms/image/v2/D560DAQHoED0v8_aCmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696360956899?e=2147483647&amp;v=beta&amp;t=2yYNwmQIYMj-_OXBoaJZRV3c8f5AMRP8J1aTMk-5188)
 
@@ -37,13 +39,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411) | 1h 51m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sam Sehgal]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Demystifying Artificial Intelligence for Cybersecurity** (6 videos)
+- **3. 2. Cybersecurity Gaps and Goals** (5 videos)
+- **4. 3. Solving Cybersecurity Problems with AI** (6 videos)
+- **5. 4. Applying Machine Learning to Security** (5 videos)
+- **6. 5. Practical Considerations, Risks, and Limitations** (6 videos)
+- **7. Conclusion** (0 videos)
+
+### 1. Introduction
 
 #### Unleashing the power of AI for cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980)
@@ -77,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - artificial (1)
 
 
-### 1. Demystifying Artificial Intelligence for Cybersecurity
+### 2. 1. Demystifying Artificial Intelligence for Cybersecurity
 
 #### Defining artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980)
@@ -475,7 +483,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Cybersecurity Gaps and Goals
+### 3. 2. Cybersecurity Gaps and Goals
 
 #### CIA model of security
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cia-model-of-security?u=76281980)
@@ -739,7 +747,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Solving Cybersecurity Problems with AI
+### 4. 3. Solving Cybersecurity Problems with AI
 
 #### Intrusion detection at scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980)
@@ -1241,7 +1249,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Applying Machine Learning to Security
+### 5. 4. Applying Machine Learning to Security
 
 #### Choosing the right ML approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980)
@@ -1555,7 +1563,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Practical Considerations, Risks, and Limitations
+### 6. 5. Practical Considerations, Risks, and Limitations
 
 #### The ways AI can fail you
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/the-ways-ai-can-fail-you?u=76281980)
@@ -1985,8 +1993,12 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
+
+## Instructor
+
+- [[Sam Sehgal]]
 
 ## Path Context
 

@@ -19,8 +19,10 @@ tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Excel-%20Value%20Stream%20Mapping.md)
 
 ![Excel: Value Stream Mapping](https://media.licdn.com/dms/image/v2/C4E0DAQFAwRoAKWf9yg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584485746573?e=2147483647&amp;v=beta&amp;t=xyw7oOGea6fc1IynyQa7UoGqt2VZHmI_lGK7ANDIjG4)
 
@@ -31,13 +33,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping) | 44m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Curt Frye]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introducing Value Stream Maps** (4 videos)
+- **3. 2. Create a Manufacturing Value Stream Map** (6 videos)
+- **4. 3. Create a Service Value Stream Map** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Capture and present information with value stream mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/capture-and-present-information-with-value-stream-mapping?u=76281980)
@@ -89,7 +95,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introducing Value Stream Maps
+### 2. 1. Introducing Value Stream Maps
 
 #### Describe the philosophy and goals of value stream maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/describe-the-philosophy-and-goals-of-value-stream-maps?u=76281980)
@@ -374,7 +380,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Create a Manufacturing Value Stream Map
+### 3. 2. Create a Manufacturing Value Stream Map
 
 #### Calculate takt time for the process
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980)
@@ -767,7 +773,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Create a Service Value Stream Map
+### 4. 3. Create a Service Value Stream Map
 
 #### Calculate takt time for the process
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980)
@@ -1102,7 +1108,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### More resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/more-resources?u=76281980)
@@ -1139,6 +1145,10 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [curt] (1)
 
+
+## Instructor
+
+- [[Curt Frye]]
 
 ## Path Context
 

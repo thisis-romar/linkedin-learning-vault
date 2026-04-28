@@ -30,8 +30,10 @@ tags:
   - skill/d3-js
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Power%20BI%20Custom%20Visuals%20with%20d3.js.md)
 
 ![Advanced Power BI Custom Visuals with d3.js](https://media.licdn.com/dms/image/v2/C560DAQE51N9VyMW78g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619811804272?e=2147483647&amp;v=beta&amp;t=KaytQ8GK6AKu9vBw29OeSFAeiJAfF9Q2y1mVvFIGA04)
 
@@ -42,22 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js) | 3h 38m | Advanced | 23K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emma Saunders]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- D3.js
-- Microsoft Power BI
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Set Up Your Environment** (3 videos)
+- **3. 2. Understand the File Setup** (2 videos)
+- **4. 3. Build a KPI Box Visual Using "Single" Data** (14 videos)
+- **5. 4. Build a Scatter Chart Using "Categorical" Data** (6 videos)
+- **6. 5. Convert to a Bubble Chart with Group by Data** (7 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Intro to Microsoft Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/intro-to-microsoft-power-bi?u=76281980)
@@ -249,7 +248,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Set Up Your Environment
+### 2. 1. Set Up Your Environment
 
 #### Understand the target set up
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-target-set-up?u=76281980)
@@ -582,7 +581,7 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 
 
-### 2. Understand the File Setup
+### 3. 2. Understand the File Setup
 
 #### Understand the folder structure of your new project
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980)
@@ -919,7 +918,7 @@ created: 2026-04-21
 > **Best Practices:** rule of thumb (1)
 
 
-### 3. Build a KPI Box Visual Using "Single" Data
+### 4. 3. Build a KPI Box Visual Using "Single" Data
 
 #### See the target visual, data, and formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/see-the-target-visual-data-and-formatting-8575930?u=76281980)
@@ -2451,7 +2450,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Build a Scatter Chart Using "Categorical" Data
+### 5. 4. Build a Scatter Chart Using "Categorical" Data
 
 #### Tell Power BI to accept categorical data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980)
@@ -3416,7 +3415,7 @@ created: 2026-04-21
 > **Non-Speech:** (funky music) (1)
 
 
-### 5. Convert to a Bubble Chart with Group by Data
+### 6. 5. Convert to a Bubble Chart with Group by Data
 
 #### Grouping your data to help make a bubble chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/grouping-your-data-to-help-make-a-bubble-chart?u=76281980)
@@ -4074,7 +4073,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/goodbye?u=76281980)
@@ -4177,6 +4176,19 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
+
+## Instructor
+
+- [[Emma Saunders]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- D3.js
+- Microsoft Power BI
 
 ## Path Context
 

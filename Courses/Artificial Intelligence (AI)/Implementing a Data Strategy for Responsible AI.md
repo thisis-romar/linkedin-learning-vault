@@ -38,8 +38,10 @@ tags:
   - skill/data-strategies
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Implementing%20a%20Data%20Strategy%20for%20Responsible%20AI.md)
 
 ![Implementing a Data Strategy for Responsible AI](https://media.licdn.com/dms/image/v2/D4D0DAQHsm6JlzymJKg/learning-public-crop_675_1200/B4DZW137wvGkAc-/0/1742513093978?e=2147483647&amp;v=beta&amp;t=eJ19CbJNGd2i1F0man-LJ7pHSI_VxOZp6L9T-mSbyVs)
 
@@ -50,19 +52,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai) | 1h 30m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dr. Brandeis Marshall]]
-
-## Skills Covered
-
-- Responsible AI
-- Data Strategies
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Data Strategy Basics for Responsible AI** (5 videos)
+- **3. 2. Data Preparation** (4 videos)
+- **4. 3. Model Building** (4 videos)
+- **5. 4. Model Training and Tuning** (4 videos)
+- **6. 5. Model Deployment** (4 videos)
+- **7. 6. Model Management** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Data strategy essentials for responsible generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-strategy-essentials-for-responsible-generative-ai?u=76281980)
@@ -93,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. Data Strategy Basics for Responsible AI
+### 2. 1. Data Strategy Basics for Responsible AI
 
 #### Origins of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980)
@@ -407,7 +410,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Data Preparation
+### 3. 2. Data Preparation
 
 #### Expansion of data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980)
@@ -643,7 +646,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Model Building
+### 4. 3. Model Building
 
 #### Foundation models of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980)
@@ -898,7 +901,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Model Training and Tuning
+### 5. 4. Model Training and Tuning
 
 #### Securing generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980)
@@ -1137,7 +1140,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Model Deployment
+### 6. 5. Model Deployment
 
 #### Model deployment strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980)
@@ -1369,7 +1372,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Model Management
+### 7. 6. Model Management
 
 #### Model management strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980)
@@ -1666,7 +1669,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980)
@@ -1695,6 +1698,16 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Dr. Brandeis Marshall]]
+
+## Skills Covered
+
+- Responsible AI
+- Data Strategies
+- Artificial Intelligence (AI)
 
 ## Path Context
 

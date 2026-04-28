@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/application-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Project%20with%20the%20ChatGPT%20API.md)
 
 ![Building a Project with the ChatGPT API](https://media.licdn.com/dms/image/v2/D560DAQFcICjaYZlNsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703108198308?e=2147483647&amp;v=beta&amp;t=xpfc5YPCA8XfzzvHmUlfTsKfXGXyZq4eUVh89CmxTlk)
 
@@ -47,25 +49,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api) | 1h 56m | Intermediate | 2608K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kesha Williams]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/building-a-project-with-the-chatgpt-api-4484140/tree/main)
-
-## Skills Covered
-
-- Chatbot Development
-- OpenAI Products
-- Artificial Intelligence (AI)
-- Application Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding the OpenAI Platform** (3 videos)
+- **3. 2. Exploring the OpenAI API** (8 videos)
+- **4. 3. Setting Up Your Environment** (3 videos)
+- **5. 4. Writing a Prompt for ChatGPT** (4 videos)
+- **6. 5. Constructing a Multi-Turn Conversation with ChatGPT** (3 videos)
+- **7. 6. Generating an Image Using DALL-E** (4 videos)
+- **8. 7. Integrating with the Twitter API** (4 videos)
+- **9. 8. Troubleshooting Errors and Getting Help** (2 videos)
+- **10. 9. Effectively Managing API Costs** (1 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/introduction-to-the-openai-api?u=76281980)
@@ -137,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - during (1)
 
 
-### 1. Understanding the OpenAI Platform
+### 2. 1. Understanding the OpenAI Platform
 
 #### Explore the OpenAI platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980)
@@ -339,7 +339,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Exploring the OpenAI API
+### 3. 2. Exploring the OpenAI API
 
 #### Create chatbots using chat completion
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980)
@@ -1097,7 +1097,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Setting Up Your Environment
+### 4. 3. Setting Up Your Environment
 
 #### Install Python and Jupyter Notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980)
@@ -1338,7 +1338,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1), is a  (1)
 
 
-### 4. Writing a Prompt for ChatGPT
+### 5. 4. Writing a Prompt for ChatGPT
 
 #### Explore chat completion API call
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980)
@@ -1705,7 +1705,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Constructing a Multi-Turn Conversation with ChatGPT
+### 6. 5. Constructing a Multi-Turn Conversation with ChatGPT
 
 #### Construct a multi-turn conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980)
@@ -1963,7 +1963,7 @@ created: 2026-04-21
 > **Tools:** jupyter (1)
 
 
-### 6. Generating an Image Using DALL-E
+### 7. 6. Generating an Image Using DALL-E
 
 #### Explore images API call
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980)
@@ -2255,7 +2255,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Integrating with the Twitter API
+### 8. 7. Integrating with the Twitter API
 
 #### Sign up for a Twitter API account
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980)
@@ -2535,7 +2535,7 @@ created: 2026-04-21
 > **API Endpoints:** get  (1)
 
 
-### 8. Troubleshooting Errors and Getting Help
+### 9. 8. Troubleshooting Errors and Getting Help
 
 #### Understand common error codes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-common-error-codes?u=76281980)
@@ -2648,7 +2648,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 9. Effectively Managing API Costs
+### 10. 9. Effectively Managing API Costs
 
 #### Manage your spend
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980)
@@ -2715,7 +2715,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Your OpenAI API journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980)
@@ -2752,6 +2752,22 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Kesha Williams]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/building-a-project-with-the-chatgpt-api-4484140/tree/main)
+
+## Skills Covered
+
+- Chatbot Development
+- OpenAI Products
+- Artificial Intelligence (AI)
+- Application Development
 
 ## Path Context
 

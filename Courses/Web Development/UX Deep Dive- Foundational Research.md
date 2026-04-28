@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Foundational%20Research.md)
 
 ![UX Deep Dive: Foundational Research](https://media.licdn.com/dms/image/v2/C560DAQFKkVNasvQaZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613175857531?e=2147483647&amp;v=beta&amp;t=o3MN3A5uSy3Bzum1u43RNIAZsJ-_Cp16ZlgdsO7q7U4)
 
@@ -40,21 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research) | 31m | Intermediate | 41K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Amanda Stockwell]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- UX Research
-
 ## Table of Contents
 
-### Foundational Research
+### Chapter Overview
+
+- **1. Foundational Research** (1 videos)
+- **2. 1. Essentials of Foundational Research** (3 videos)
+- **3. 2. Existing Data** (1 videos)
+- **4. 3. Interviews** (1 videos)
+- **5. 4. Fieldwork** (1 videos)
+- **6. 5. Longitudinal Work** (1 videos)
+- **7. 6. Generating Ideas** (1 videos)
+- **8. 7. Integrating Foundational Research** (1 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Foundational Research
 
 #### Diving into foundational research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/diving-into-foundational-research?u=76281980)
@@ -83,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 1. Essentials of Foundational Research
+### 2. 1. Essentials of Foundational Research
 
 #### What is foundational research and why does it matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980)
@@ -282,7 +284,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 2. Existing Data
+### 3. 2. Existing Data
 
 #### Look at existing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/look-at-existing-data?u=76281980)
@@ -325,7 +327,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 3. Interviews
+### 4. 3. Interviews
 
 #### Conducting basic interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/conducting-basic-interviews?u=76281980)
@@ -367,7 +369,7 @@ created: 2026-04-21
 > **Speakers:** - interviews (1)
 
 
-### 4. Fieldwork
+### 5. 4. Fieldwork
 
 #### Getting in the field
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/getting-in-the-field?u=76281980)
@@ -436,7 +438,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 5. Longitudinal Work
+### 6. 5. Longitudinal Work
 
 #### Using longitudinal studies
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/using-longitudinal-studies?u=76281980)
@@ -496,7 +498,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### 6. Generating Ideas
+### 7. 6. Generating Ideas
 
 #### Focus on ideation exercises
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/focus-on-ideation-exercises?u=76281980)
@@ -539,7 +541,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 7. Integrating Foundational Research
+### 8. 7. Integrating Foundational Research
 
 #### Analysis and integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/analysis-and-integration?u=76281980)
@@ -614,7 +616,7 @@ created: 2026-04-21
 > **Speakers:** - analyzing (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Foundational research toolset
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/foundational-research-toolset?u=76281980)
@@ -637,6 +639,18 @@ created: 2026-04-21
 >
 > **Speakers:** - foundational (1)
 
+
+## Instructor
+
+- [[Amanda Stockwell]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- UX Research
 
 ## Path Context
 

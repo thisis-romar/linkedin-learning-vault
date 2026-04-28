@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20with%20LangChain.md)
 
 ![Prompt Engineering with LangChain](https://media.licdn.com/dms/image/v2/D560DAQHu5CCKBy4pyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713212432463?e=2147483647&amp;v=beta&amp;t=IYFJ7ivG7FaMm2fPpWCfZiBWLW_ckaXzz2Q58sD-r0k)
 
@@ -44,23 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain) | 5h 21m | Intermediate | 44K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Harpreet Sahota]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- LangChain
-- Artificial Intelligence (AI)
-- Prompt Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Language Models** (1 videos)
+- **3. 2. LLMs and Text Generation** (4 videos)
+- **4. 3. Components of LangChain** (7 videos)
+- **5. 4. Basics of Prompting** (2 videos)
+- **6. 5. Prompt Templates Deep Dive** (17 videos)
+- **7. 6. Prompting Techniques** (7 videos)
+- **8. 7. Prompt Management a.k.a. PromptOps** (6 videos)
+- **9. 8. The LLM Landscape** (2 videos)
+
+### 1. Introduction
 
 #### Create powerful LLM driven applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980)
@@ -98,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - hi (1)
 
 
-### 1. Introduction to Language Models
+### 2. 1. Introduction to Language Models
 
 #### What are language models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980)
@@ -187,7 +187,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. LLMs and Text Generation
+### 3. 2. LLMs and Text Generation
 
 #### How do language models generate text?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980)
@@ -646,7 +646,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. Components of LangChain
+### 4. 3. Components of LangChain
 
 #### What is LangChain?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980)
@@ -1950,7 +1950,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Basics of Prompting
+### 5. 4. Basics of Prompting
 
 #### Prompt basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980)
@@ -2228,7 +2228,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. Prompt Templates Deep Dive
+### 6. 5. Prompt Templates Deep Dive
 
 #### Introduction to prompt templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980)
@@ -4106,7 +4106,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Prompting Techniques
+### 7. 6. Prompting Techniques
 
 #### Chain of thought
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980)
@@ -5675,7 +5675,7 @@ created: 2026-04-21
 > **Prerequisites:** required to (1), set up (1)
 
 
-### 7. Prompt Management a.k.a. PromptOps
+### 8. 7. Prompt Management a.k.a. PromptOps
 
 #### Prompt management
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980)
@@ -6581,7 +6581,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. The LLM Landscape
+### 9. 8. The LLM Landscape
 
 #### Applications of language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980)
@@ -6781,6 +6781,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 
+
+## Instructor
+
+- [[Harpreet Sahota]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- LangChain
+- Artificial Intelligence (AI)
+- Prompt Engineering
 
 ## Path Context
 

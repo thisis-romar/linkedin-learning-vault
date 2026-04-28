@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands%20On%20Ai%20Build%20Your%20Own%20Gpts.md)
 
 ![Hands On Ai Build Your Own Gpts](https://media.licdn.com/dms/image/v2/D560DAQFCk2DYo3SdLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708040860998?e=2147483647&amp;v=beta&amp;t=ur7fCNI-LE0VK0j8h1frzGCx-FyRqF8MH-WuBGw9TaA)
 
@@ -44,20 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts) | Beginner | 58K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Chatbot Development
-- AI Software Development
-- Artificial Intelligence (AI)
-- ChatGPT
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Action Item Generator KK** (6 videos)
+- **3. 2. Sun Tzu Career Coaching** (4 videos)
+- **4. 3. Gift Advisor Lilis** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build your own GPTs using English
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts-using-english?u=76281980)
@@ -141,7 +140,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Action Item Generator KK
+### 2. 1. Action Item Generator KK
 
 #### OpenAI GPTs user interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980)
@@ -595,7 +594,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Sun Tzu Career Coaching
+### 3. 2. Sun Tzu Career Coaching
 
 #### Custom knowledge base
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980)
@@ -890,7 +889,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Gift Advisor Lilis
+### 4. 3. Gift Advisor Lilis
 
 #### User intent detection
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980)
@@ -1191,7 +1190,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Build your own GPTs
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980)
@@ -1221,6 +1220,17 @@ created: 2026-04-21
 > **Env Vars:** gpt (2)
 > **Speakers:** - [alina] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Chatbot Development
+- AI Software Development
+- Artificial Intelligence (AI)
+- ChatGPT
 
 ## Path Context
 

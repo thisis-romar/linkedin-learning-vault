@@ -29,8 +29,10 @@ tags:
   - skill/linux-system-administration
   - skill/cli
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Linux%20Command%20Line.md)
 
 ![Learning Linux Command Line](https://media.licdn.com/dms/image/v2/D4E0DAQFKBIqdHlpLgQ/learning-public-crop_675_1200/B4EZjohj_CGYAY-/0/1756247769738?e=2147483647&amp;v=beta&amp;t=SwNwvjs-GlmU-hOVIUVJA3cB6sHvgoD0SaeCgHZWJik)
 
@@ -41,22 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217) | 3h 4m | Beginner | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott Simpson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Linux System Administration
-- CLI
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Setting Up Your Environment** (3 videos)
+- **3. 2. Command-Line Basics** (7 videos)
+- **4. 3. Files, Directories, and Permissions** (15 videos)
+- **5. 4. Common Command-Line Tasks and Tools** (14 videos)
+- **6. 5. A Peek at Some More Advanced Topics** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning Linux command line
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980)
@@ -203,7 +202,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting Up Your Environment
+### 2. 1. Setting Up Your Environment
 
 #### Using GitHub Codespaces with this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980)
@@ -528,7 +527,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### 2. Command-Line Basics
+### 3. 2. Command-Line Basics
 
 #### What is the command line?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980)
@@ -1180,7 +1179,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Files, Directories, and Permissions
+### 4. 3. Files, Directories, and Permissions
 
 #### The Linux file system
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980)
@@ -2567,7 +2566,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Common Command-Line Tasks and Tools
+### 5. 4. Common Command-Line Tasks and Tools
 
 #### The importance of modularity
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-importance-of-modularity?u=76281980)
@@ -3899,7 +3898,7 @@ created: 2026-04-21
 > **Cross-References:** as we saw (1)
 
 
-### 5. A Peek at Some More Advanced Topics
+### 6. 5. A Peek at Some More Advanced Topics
 
 #### Find information about your Linux distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980)
@@ -4226,7 +4225,7 @@ created: 2026-04-21
 > **Definitions:** stands for (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980)
@@ -4267,6 +4266,19 @@ created: 2026-04-21
 > **CLI Commands:** find (2)
 > **Speakers:** - [scott] (1)
 
+
+## Instructor
+
+- [[Scott Simpson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Linux System Administration
+- CLI
 
 ## Path Context
 

@@ -15,8 +15,10 @@ tags:
   - topic/security
   - topic/data-science
   - topic/network-and-system-administration
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Cybersecurity/Mandy%20Huth.md)
 
 # Mandy Huth
 

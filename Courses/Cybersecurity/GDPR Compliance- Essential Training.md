@@ -29,8 +29,10 @@ tags:
   - skill/legal-compliance
   - skill/general-data-protection-regulation-gdpr
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/GDPR%20Compliance-%20Essential%20Training.md)
 
 ![GDPR Compliance: Essential Training](https://media.licdn.com/dms/image/v2/C560DAQErQzSTqryM8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634756161478?e=2147483647&amp;v=beta&amp;t=u0lxioPbpbcyjoy4mi3laJ9i4Jg9ny9WlUuCPdwqmV4)
 
@@ -41,18 +43,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961) | 1h 24m | Beginner | 26K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mandy Huth]]
-
-## Skills Covered
-
-- Legal Compliance
-- General Data Protection Regulation (GDPR)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. GDPR Basics** (3 videos)
+- **3. 2. GDPR Responsibilities** (3 videos)
+- **4. 3. Technical Components** (5 videos)
+- **5. 4. Requirements** (4 videos)
+- **6. 5. Data Subject Rights** (7 videos)
+- **7. 6. Breach Notification** (3 videos)
+- **8. 7. Real-World Guidance** (3 videos)
+- **9. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Getting started with GDPR compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/getting-started-with-gdpr-compliance-23861527?u=76281980)
@@ -180,7 +185,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. GDPR Basics
+### 2. 1. GDPR Basics
 
 #### Overview of GDPR basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980)
@@ -384,7 +389,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. GDPR Responsibilities
+### 3. 2. GDPR Responsibilities
 
 #### Data controllers and processors
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/data-controllers-and-processors?u=76281980)
@@ -578,7 +583,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Technical Components
+### 4. 3. Technical Components
 
 #### Article 24: Responsibilities of the controller
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980)
@@ -882,7 +887,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Requirements
+### 5. 4. Requirements
 
 #### Legal basis
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/legal-basis?u=76281980)
@@ -1180,7 +1185,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Data Subject Rights
+### 6. 5. Data Subject Rights
 
 #### Access
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980)
@@ -1457,7 +1462,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Breach Notification
+### 7. 6. Breach Notification
 
 #### Timing
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980)
@@ -1642,7 +1647,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Real-World Guidance
+### 8. 7. Real-World Guidance
 
 #### Published guidance summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/published-guidance-summary?u=76281980)
@@ -1796,7 +1801,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Additional references to ensure GDPR compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/additional-references-to-ensure-gdpr-compliance?u=76281980)
@@ -1849,6 +1854,15 @@ created: 2026-04-21
 > **Env Vars:** gdpr (2)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Mandy Huth]]
+
+## Skills Covered
+
+- Legal Compliance
+- General Data Protection Regulation (GDPR)
 
 ## Path Context
 

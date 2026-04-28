@@ -25,8 +25,10 @@ tags:
   - topic/security
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Red%20Teaming%20for%20Generative%20AI-%20Building%20Robust%20and%20Responsible%20Solutions.md)
 
 ![Red Teaming for Generative AI: Building Robust and Responsible Solutions](https://media.licdn.com/dms/image/v2/D4D0DAQF6ANEhXr2qsg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724092842352?e=2147483647&amp;v=beta&amp;t=FSiG4Q_b-Vl7sLRaMqyeWQhUZXiqZl36zs6BlEgC7MA)
 
@@ -37,13 +39,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions) | 27m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rashim Mogha]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Red Teaming for Generative AI** (3 videos)
+- **3. 2. Red Teaming Techniques for GenAI** (2 videos)
+- **4. 3. Red Teaming Process** (4 videos)
+- **5. 4. Mitigating Risks and Building Responsible AI** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Leverage red teaming to build generative AI solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leverage-red-teaming-to-build-generative-ai-solutions?u=76281980)
@@ -75,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 1. Introduction to Red Teaming for Generative AI
+### 2. 1. Introduction to Red Teaming for Generative AI
 
 #### Why red teaming for GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/why-red-teaming-for-gen-ai?u=76281980)
@@ -197,7 +204,7 @@ created: 2026-04-21
 > **Speakers:** - recognizing (1)
 
 
-### 2. Red Teaming Techniques for GenAI
+### 3. 2. Red Teaming Techniques for GenAI
 
 #### Explore red teaming options for generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/explore-red-teaming-options-for-generative-ai?u=76281980)
@@ -286,7 +293,7 @@ created: 2026-04-21
 > **Speakers:** - red (1)
 
 
-### 3. Red Teaming Process
+### 4. 3. Red Teaming Process
 
 #### Building a red team
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/building-a-red-team?u=76281980)
@@ -496,7 +503,7 @@ created: 2026-04-21
 > **Speakers:** - red (1)
 
 
-### 4. Mitigating Risks and Building Responsible AI
+### 5. 4. Mitigating Risks and Building Responsible AI
 
 #### Leveraging best practices for enhancing robustness
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leveraging-best-practices-for-enhancing-robustness?u=76281980)
@@ -649,7 +656,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/next-steps?u=76281980)
@@ -670,6 +677,10 @@ created: 2026-04-21
 >
 > **Speakers:** - secure (1)
 
+
+## Instructor
+
+- [[Rashim Mogha]]
 
 ## Path Context
 

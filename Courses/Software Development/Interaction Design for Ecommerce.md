@@ -21,8 +21,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design%20for%20Ecommerce.md)
 
 ![Interaction Design for Ecommerce](https://media.licdn.com/dms/image/v2/C560DAQEtNdv1C9w8sg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621613828587?e=2147483647&amp;v=beta&amp;t=GpFBXrS6Pa3KmT9WtEtGVkrnF8hMrghKoGC_4c-ZYIo)
 
@@ -33,13 +35,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce) | 1h 29m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Chris Nodder]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Online Shopping Behavior** (4 videos)
+- **3. 2. Understand Your Site's Goals** (4 videos)
+- **4. 3. Ecommerce Design Guidelines** (8 videos)
+- **5. 4. Making the Changes** (3 videos)
+
+### 1. Introduction
 
 #### Great ecommerce user experiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980)
@@ -98,7 +104,7 @@ created: 2026-04-21
 > **Speakers:** - considering (1)
 
 
-### 1. Online Shopping Behavior
+### 2. 1. Online Shopping Behavior
 
 #### How people buy online
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980)
@@ -442,7 +448,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Understand Your Site's Goals
+### 3. 2. Understand Your Site's Goals
 
 #### Helping decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980)
@@ -813,7 +819,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 3. Ecommerce Design Guidelines
+### 4. 3. Ecommerce Design Guidelines
 
 #### Homepage
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980)
@@ -1578,7 +1584,7 @@ created: 2026-04-21
 > **Speakers:** - of (1)
 
 
-### 4. Making the Changes
+### 5. 4. Making the Changes
 
 #### Forming a successful team
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980)
@@ -1796,6 +1802,10 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Chris Nodder]]
 
 ## Path Context
 

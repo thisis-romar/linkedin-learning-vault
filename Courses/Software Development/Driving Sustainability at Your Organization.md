@@ -28,8 +28,10 @@ tags:
   - skill/organizational-leadership
   - skill/sustainable-business-strategy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Driving%20Sustainability%20at%20Your%20Organization.md)
 
 ![Driving Sustainability at Your Organization](https://media.licdn.com/dms/image/v2/D4E0DAQGI6oRBR7AV3A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709595212232?e=2147483647&amp;v=beta&amp;t=zqRnBNFBMQgkHit5CzOboHzfVowNnh0qtyXShrZ3dEs)
 
@@ -40,23 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization) | 53m | 58K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shea Cunningham]]
-- [[Madecraft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Organizational Leadership
-- Sustainable Business Strategy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Case for Business Sustainability** (4 videos)
+- **3. 2. Foundations of a Sustainable Business** (5 videos)
+- **4. 3. Implementing Sustainability** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Sustainability in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-in-business?u=76281980)
@@ -102,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. The Case for Business Sustainability
+### 2. 1. The Case for Business Sustainability
 
 #### Healthy ecosystems = healthy businesses
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980)
@@ -364,7 +360,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise file (1)
 
 
-### 2. Foundations of a Sustainable Business
+### 3. 2. Foundations of a Sustainable Business
 
 #### Energy efficiencies and renewables
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980)
@@ -746,7 +742,7 @@ created: 2026-04-21
 > **Speakers:** - for (1)
 
 
-### 3. Implementing Sustainability
+### 4. 3. Implementing Sustainability
 
 #### Benchmarking
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/benchmarking?u=76281980)
@@ -1111,7 +1107,7 @@ created: 2026-04-21
 > **Speakers:** - any (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Actualize your goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980)
@@ -1149,6 +1145,20 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Shea Cunningham]]
+- [[Madecraft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Organizational Leadership
+- Sustainable Business Strategy
 
 ## Path Context
 

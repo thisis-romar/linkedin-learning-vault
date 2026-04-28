@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
   - Software Development
-louvain_cluster: 3
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -45,8 +45,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Advance%20Your%20AWS%20Development%20Skills-%20Exploring%20Complex%20Application%20Development.md)
 
 # Advance Your AWS Development Skills: Exploring Complex Application Development
 

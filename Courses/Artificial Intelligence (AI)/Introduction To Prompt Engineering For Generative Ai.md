@@ -31,8 +31,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Prompt%20Engineering%20For%20Generative%20Ai.md)
 
 ![Introduction To Prompt Engineering For Generative Ai](https://media.licdn.com/dms/image/v2/D4E0DAQEeMFMEYT5JcA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723669111714?e=2147483647&amp;v=beta&amp;t=MaRQ--is2CaO7coQMBCApDLDRT14f1i5EI06sCTrAT8)
 
@@ -43,13 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ronnie Sheer]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Text Generation** (7 videos)
+- **3. 2. AI-Generated Images and Video** (5 videos)
+- **4. 3. Advanced Concepts** (4 videos)
+- **5. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Joining the NLP revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980)
@@ -188,7 +194,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Text Generation
+### 2. 1. Text Generation
 
 #### Diving into ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980)
@@ -647,7 +653,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. AI-Generated Images and Video
+### 3. 2. AI-Generated Images and Video
 
 #### The AI-generated image landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980)
@@ -863,7 +869,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Advanced Concepts
+### 4. 3. Advanced Concepts
 
 #### Creating a custom GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980)
@@ -1156,7 +1162,7 @@ created: 2026-04-21
 > **URLs:** [openai.com](https://openai.com) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Warning: Use responsibly
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980)
@@ -1216,6 +1222,10 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Ronnie Sheer]]
 
 ## Path Context
 

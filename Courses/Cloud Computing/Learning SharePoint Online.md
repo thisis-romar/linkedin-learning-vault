@@ -28,8 +28,10 @@ tags:
   - topic/cloud-computing
   - skill/sharepoint
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20SharePoint%20Online.md)
 
 ![Learning SharePoint Online](https://media.licdn.com/dms/image/v2/C4E0DAQFQZHk1W5XV6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571073354996?e=2147483647&amp;v=beta&amp;t=Erloliv5loakbBeQcRvsrLFURKwenvPO067nAlAHH0o)
 
@@ -40,17 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2) | 1h 40m | Beginner | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gini von Courter]]
-
-## Skills Covered
-
-- SharePoint
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Get Started with SharePoint Online** (7 videos)
+- **3. 2. Work with Libraries and Documents** (8 videos)
+- **4. 3. Personal and News** (2 videos)
+- **5. 4. Customize with List Apps** (6 videos)
+- **6. 5. SharePoint on the Road** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Creative collaborative digital spaces with SharePoint Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/creative-collaborative-digital-spaces-with-sharepoint-online?u=76281980)
@@ -75,7 +79,7 @@ created: 2026-04-21
 > **Speakers:** - [gini] (1)
 
 
-### 1. Get Started with SharePoint Online
+### 2. 1. Get Started with SharePoint Online
 
 #### Tools and permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980)
@@ -632,7 +636,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Work with Libraries and Documents
+### 3. 2. Work with Libraries and Documents
 
 #### Store documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980)
@@ -1342,7 +1346,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Personal and News
+### 4. 3. Personal and News
 
 #### Edit your profile
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980)
@@ -1548,7 +1552,7 @@ created: 2026-04-21
 > **Non-Speech:** (keyboard typing) (1)
 
 
-### 4. Customize with List Apps
+### 5. 4. Customize with List Apps
 
 #### Use a list
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980)
@@ -2051,7 +2055,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. SharePoint on the Road
+### 6. 5. SharePoint on the Road
 
 #### Use the SharePoint mobile app
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980)
@@ -2356,7 +2360,7 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980)
@@ -2401,6 +2405,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Gini von Courter]]
+
+## Skills Covered
+
+- SharePoint
 
 ## Path Context
 

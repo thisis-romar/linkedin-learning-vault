@@ -24,8 +24,10 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Developing%20Ci%20Cd%20Solutions%20With%20Azure%20Devops.md)
 
 ![Developing Ci Cd Solutions With Azure Devops](https://media.licdn.com/dms/image/v2/D560DAQEyONPb0Cg_rg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680204655176?e=2147483647&amp;v=beta&amp;t=yD2ESyqmsN6fzBzSMjnZFYcEO4I2lv0q2kRakWJLA7U)
 
@@ -36,13 +38,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Prince Mokut]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Azure Pipelines** (3 videos)
+- **3. 2. Designing a Build Pipeline** (6 videos)
+- **4. 3. Designing a Release Pipeline** (6 videos)
+- **5. 4. Maximizing Azure Pipelines** (1 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why use Azure Pipelines?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980)
@@ -93,7 +100,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Azure Pipelines
+### 2. 1. Azure Pipelines
 
 #### What really is Azure Pipelines?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980)
@@ -361,7 +368,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Designing a Build Pipeline
+### 3. 2. Designing a Build Pipeline
 
 #### Get your source code to Azure Repos
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980)
@@ -1266,7 +1273,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 3. Designing a Release Pipeline
+### 4. 3. Designing a Release Pipeline
 
 #### An overview of a release pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980)
@@ -2181,7 +2188,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 4. Maximizing Azure Pipelines
+### 5. 4. Maximizing Azure Pipelines
 
 #### Configure notifications for successful deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980)
@@ -2273,7 +2280,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980)
@@ -2314,6 +2321,10 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - [prince] (1)
 
+
+## Instructor
+
+- [[Prince Mokut]]
 
 ## Path Context
 

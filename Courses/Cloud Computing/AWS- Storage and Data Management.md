@@ -32,8 +32,10 @@ tags:
   - skill/data-management
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS-%20Storage%20and%20Data%20Management.md)
 
 ![AWS: Storage and Data Management](https://media.licdn.com/dms/image/v2/C560DAQFOfnWsuTJ7WA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671825403910?e=2147483647&amp;v=beta&amp;t=0-dg5x7Vwo-_AUu-1EqkZ882Xz9EdIZP8Tvc7YBl_dU)
 
@@ -44,24 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108) | 5h 4m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brandon Rich]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/aws-storage-and-data-management-3082086)
-
-## Skills Covered
-
-- Storage Management
-- Data Management
-- Amazon Web Services (AWS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Overview** (3 videos)
+- **3. 2. Object Storage** (11 videos)
+- **4. 3. File Systems** (10 videos)
+- **5. 4. Database Services** (9 videos)
+- **6. 5. Getting Data to AWS** (20 videos)
+- **7. 6. Moving Data in AWS** (7 videos)
+- **8. 7. Backup** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Storage and AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-and-aws?u=76281980)
@@ -165,7 +164,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Overview
+### 2. 1. Overview
 
 #### What is data management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-is-data-management?u=76281980)
@@ -405,7 +404,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 2. Object Storage
+### 3. 2. Object Storage
 
 #### AWS S3 basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980)
@@ -1638,7 +1637,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. File Systems
+### 4. 3. File Systems
 
 #### Elastic Block Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-block-storage?u=76281980)
@@ -2807,7 +2806,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Database Services
+### 5. 4. Database Services
 
 #### RDS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980)
@@ -3893,7 +3892,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Getting Data to AWS
+### 6. 5. Getting Data to AWS
 
 #### Move data to AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980)
@@ -6101,7 +6100,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Moving Data in AWS
+### 7. 6. Moving Data in AWS
 
 #### AWS Glue overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980)
@@ -6837,7 +6836,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Backup
+### 8. 7. Backup
 
 #### Understand AWS Backup
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980)
@@ -7272,7 +7271,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980)
@@ -7303,6 +7302,21 @@ created: 2026-04-21
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Speakers:** - [brandon] (1)
 
+
+## Instructor
+
+- [[Brandon Rich]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/aws-storage-and-data-management-3082086)
+
+## Skills Covered
+
+- Storage Management
+- Data Management
+- Amazon Web Services (AWS)
 
 ## Path Context
 

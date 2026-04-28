@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/become-a-marketing-coordinator
 course_count: 9
 linkedin_topics:
   - Data Science
-louvain_cluster: 14
+louvain_cluster: 17
 tags:
   - learning-path
   - topic/data-science
@@ -53,8 +53,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Become%20a%20Marketing%20Coordinator.md)
 
 # Become a Marketing Coordinator
 

@@ -30,8 +30,10 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Getting%20Started%20with%20Autonomous%20Agents%20in%20Copilot%20Studio%20(No%20Code%20Required).md)
 
 ![Getting Started with Autonomous Agents in Copilot Studio (No Code Required)](https://media.licdn.com/dms/image/v2/D4D0DAQH7dWmsv4dI0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734134504304?e=2147483647&amp;v=beta&amp;t=pybSTKPq_JtL1JL9s2Wol5V3vq_8B6E4YkQVmMO7Bec)
 
@@ -42,20 +44,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required) | 34m | 84K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Garrick Chow]]
-
-## Skills Covered
-
-- Microsoft Copilot
-- AI Productivity
-- AI for Business
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Creating a Copilot Agent** (5 videos)
+
+### 1. Introduction
 
 #### Build agents in Copilot Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/build-agents-in-copilot-studio?u=76281980)
@@ -116,7 +112,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Creating a Copilot Agent
+### 2. 1. Creating a Copilot Agent
 
 #### Create agents from templates, conversationally, or manually
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980)
@@ -687,6 +683,17 @@ created: 2026-04-21
 > **Ports:** :28 (1)
 > **Speakers:** - [person] (1)
 
+
+## Instructor
+
+- [[Garrick Chow]]
+
+## Skills Covered
+
+- Microsoft Copilot
+- AI Productivity
+- AI for Business
+- Artificial Intelligence (AI)
 
 ## Path Context
 

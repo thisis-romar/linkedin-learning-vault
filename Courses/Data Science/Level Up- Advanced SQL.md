@@ -33,8 +33,10 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Level%20Up-%20Advanced%20SQL.md)
 
 ![Level Up: Advanced SQL](https://media.licdn.com/dms/image/v2/C4E0DAQHtM4L47HiTTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678834688263?e=2147483647&amp;v=beta&amp;t=7CBLHsw2w23u97x8-tYOP5jk2qRXptwQ3xTm2n8Y7xU)
 
@@ -45,23 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql) | 37m | Advanced | 35K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jess Pomfret]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/level-up-advanced-sql-4311094/codespaces)
-
-## Skills Covered
-
-- Database Queries
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Joins** (3 videos)
+- **3. 2. Grouping** (3 videos)
+- **4. 3. Advanced Select Options** (3 videos)
+- **5. 4. Windowing Functions** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Advanced SQL code challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980)
@@ -331,7 +328,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 1. Joins
+### 2. 1. Joins
 
 #### Create a list of employees and their immediate managers
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-list-of-employees-and-their-immediate-managers?u=76281980)
@@ -503,7 +500,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Grouping
+### 3. 2. Grouping
 
 #### How many cars have been sold per employee?
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/how-many-cars-have-been-sold-per-employee?u=76281980)
@@ -680,7 +677,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced Select Options
+### 4. 3. Advanced Select Options
 
 #### Summarize sales per year by using a CTE
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980)
@@ -875,7 +872,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Windowing Functions
+### 5. 4. Windowing Functions
 
 #### For each salesperson, rank the car models they've sold the most
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980)
@@ -1080,7 +1077,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980)
@@ -1116,6 +1113,20 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [jess] (1)
 
+
+## Instructor
+
+- [[Jess Pomfret]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/level-up-advanced-sql-4311094/codespaces)
+
+## Skills Covered
+
+- Database Queries
+- SQL
 
 ## Path Context
 

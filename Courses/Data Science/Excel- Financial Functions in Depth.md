@@ -30,8 +30,10 @@ tags:
   - skill/financial-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Financial%20Functions%20in%20Depth.md)
 
 ![Excel: Financial Functions in Depth](https://media.licdn.com/dms/image/v2/D4D0DAQGwreXlLP0Krg/learning-public-crop_675_1200/B4DZYXiDMdG4AY-/0/1744151524792?e=2147483647&amp;v=beta&amp;t=7McD0MndjNmoVh1FeFRBLt9hB3_YdDFf1fy1192Ng8Q)
 
@@ -42,22 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886) | 2h 29m | Intermediate | 48K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Danielle Stein Fairhurst]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Financial Analysis
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Analyzing Loans, Payments, and Interest in Excel** (8 videos)
+- **3. 2. Calculating Depreciation with Excel Functions** (6 videos)
+- **4. 3. Determining Values and Rates of Return in Excel** (10 videos)
+- **5. 4. New Tools in Excel for MS365** (10 videos)
+- **6. 5. Combining Excel Functions Perform Financial Analysis** (11 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Perform financial analysis in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980)
@@ -133,7 +132,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Analyzing Loans, Payments, and Interest in Excel
+### 2. 1. Analyzing Loans, Payments, and Interest in Excel
 
 #### PMT: Calculate a loan payment
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pmt-calculate-a-loan-payment?u=76281980)
@@ -659,7 +658,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 2. Calculating Depreciation with Excel Functions
+### 3. 2. Calculating Depreciation with Excel Functions
 
 #### SLN: Depreciation using the straight-line method
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/sln-depreciation-using-the-straight-line-method?u=76281980)
@@ -986,7 +985,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Determining Values and Rates of Return in Excel
+### 4. 3. Determining Values and Rates of Return in Excel
 
 #### FV: Future value of an investment
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fv-future-value-of-an-investment?u=76281980)
@@ -1363,7 +1362,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. New Tools in Excel for MS365
+### 5. 4. New Tools in Excel for MS365
 
 #### STOCKHISTORY: Get historical stock prices
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980)
@@ -1993,7 +1992,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Combining Excel Functions Perform Financial Analysis
+### 6. 5. Combining Excel Functions Perform Financial Analysis
 
 #### TODAY, EOMONTH, EDATE, and timing flags
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/eomonth-edate-and-timing-flags?u=76281980)
@@ -2984,7 +2983,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Great resources for learning Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980)
@@ -3022,6 +3021,19 @@ created: 2026-04-21
 > **Warnings:** watch out (1)
 > **Speakers:** - [danielle] (1)
 
+
+## Instructor
+
+- [[Danielle Stein Fairhurst]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Financial Analysis
+- Microsoft Excel
 
 ## Path Context
 

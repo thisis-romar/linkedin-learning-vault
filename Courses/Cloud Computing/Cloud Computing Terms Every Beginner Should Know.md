@@ -30,8 +30,10 @@ tags:
   - skill/tech-career-skills
   - skill/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Computing%20Terms%20Every%20Beginner%20Should%20Know.md)
 
 ![Cloud Computing Terms Every Beginner Should Know](https://media.licdn.com/dms/image/v2/D560DAQEpniuoUoLPIA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721249378537?e=2147483647&amp;v=beta&amp;t=ue2XhL2fGNkgMg8HoOgwkb7wo3Hl4GBiJ-nfnotelNQ)
 
@@ -42,22 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know) | 41m | Beginner | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lucy Wang]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tech Career Skills
-- Cloud Computing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Foundational Cloud Concepts** (3 videos)
+- **3. 2. Cloud Technologies and Architectures** (3 videos)
+- **4. 3. Benefits of the Cloud** (3 videos)
+- **5. 4. Cloud Deployment** (3 videos)
+- **6. 5. Cloud Computing Future Trends** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to cloud terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/introduction-to-cloud-terminology?u=76281980)
@@ -86,7 +85,7 @@ created: 2026-04-21
 > **Env Vars:** aws (1)
 
 
-### 1. Foundational Cloud Concepts
+### 2. 1. Foundational Cloud Concepts
 
 #### What is cloud computing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/what-is-cloud-computing?u=76281980)
@@ -316,7 +315,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 2. Cloud Technologies and Architectures
+### 3. 2. Cloud Technologies and Architectures
 
 #### Virtualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/virtualization?u=76281980)
@@ -539,7 +538,7 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 
 
-### 3. Benefits of the Cloud
+### 4. 3. Benefits of the Cloud
 
 #### Scalability
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/scalability?u=76281980)
@@ -698,7 +697,7 @@ created: 2026-04-21
 > **Cross-References:** next chapter (1)
 
 
-### 4. Cloud Deployment
+### 5. 4. Cloud Deployment
 
 #### Migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/migration?u=76281980)
@@ -861,7 +860,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### 5. Cloud Computing Future Trends
+### 6. 5. Cloud Computing Future Trends
 
 #### Serverless computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/serverless-computing?u=76281980)
@@ -1023,7 +1022,7 @@ created: 2026-04-21
 > **Definitions:** refers to (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/next-steps?u=76281980)
@@ -1056,6 +1055,19 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 
+
+## Instructor
+
+- [[Lucy Wang]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tech Career Skills
+- Cloud Computing
 
 ## Path Context
 

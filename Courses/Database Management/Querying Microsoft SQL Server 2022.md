@@ -31,8 +31,10 @@ tags:
   - skill/database-queries
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Querying%20Microsoft%20SQL%20Server%202022.md)
 
 ![Querying Microsoft SQL Server 2022](https://media.licdn.com/dms/image/v2/D560DAQEscFM32sKdPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733774121568?e=2147483647&amp;v=beta&amp;t=TBC94501oOlSBQCoW1asTjxJITxEbslKKgk6iFDasAs)
 
@@ -43,22 +45,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022) | 4h 58m | Intermediate | 88K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Wilbert]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Database Queries
-- Microsoft SQL Server
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Introduction to T-SQL Queries** (10 videos)
+- **3. 2. Additional Filter Techniques** (8 videos)
+- **4. 3. Retrieve Records from Multiple Tables** (7 videos)
+- **5. 4. Group Records** (8 videos)
+- **6. 5. Manipulate Data with Functions** (15 videos)
+- **7. 6. Writing SQL Scripts** (3 videos)
+- **8. 7. SQL Subqueries** (7 videos)
+- **9. 8. Work with Variables** (4 videos)
+- **10. 9. Result Set Operators** (3 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Turn data into information with queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/turn-data-into-information-with-queries?u=76281980)
@@ -236,7 +239,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to T-SQL Queries
+### 2. 1. Introduction to T-SQL Queries
 
 #### What is Transact SQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980)
@@ -1276,7 +1279,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Additional Filter Techniques
+### 3. 2. Additional Filter Techniques
 
 #### Limit results with TOP
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/limit-results-with-top?u=76281980)
@@ -1967,7 +1970,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Retrieve Records from Multiple Tables
+### 4. 3. Retrieve Records from Multiple Tables
 
 #### Table joins and relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980)
@@ -2743,7 +2746,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Group Records
+### 5. 4. Group Records
 
 #### Understand record grouping
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980)
@@ -3686,7 +3689,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Manipulate Data with Functions
+### 6. 5. Manipulate Data with Functions
 
 #### Use functions in T-SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-functions-in-t-sql?u=76281980)
@@ -5343,7 +5346,7 @@ created: 2026-04-21
 > **Non-Speech:** (playful music) (1)
 
 
-### 6. Writing SQL Scripts
+### 7. 6. Writing SQL Scripts
 
 #### Change database context with USE
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/change-database-context-with-use?u=76281980)
@@ -5557,7 +5560,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. SQL Subqueries
+### 8. 7. SQL Subqueries
 
 #### What is a subquery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-a-subquery?u=76281980)
@@ -6466,7 +6469,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Work with Variables
+### 9. 8. Work with Variables
 
 #### Create and use variables in a query
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980)
@@ -6923,7 +6926,7 @@ created: 2026-04-21
 > **Non-Speech:** (energetic music) (1)
 
 
-### 9. Result Set Operators
+### 10. 9. Result Set Operators
 
 #### Combine results with UNION
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/combine-results-with-union?u=76281980)
@@ -7179,7 +7182,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980)
@@ -7215,6 +7218,19 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [adam] (1)
 
+
+## Instructor
+
+- [[Adam Wilbert]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Database Queries
+- Microsoft SQL Server
 
 ## Path Context
 

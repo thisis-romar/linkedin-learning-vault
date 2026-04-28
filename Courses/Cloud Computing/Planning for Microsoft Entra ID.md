@@ -34,8 +34,10 @@ tags:
   - skill/microsoft-entra-id
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Planning%20for%20Microsoft%20Entra%20ID.md)
 
 ![Planning for Microsoft Entra ID](https://media.licdn.com/dms/image/v2/C4E0DAQEPd6fKLA-kVQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581532448211?e=2147483647&amp;v=beta&amp;t=L68qVegIVaPGevsoSZR0jQSJk7cJcb4g-AQxCSB4OWA)
 
@@ -46,18 +48,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id) | 1h 35m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kunal D Mehta]]
-
-## Skills Covered
-
-- Microsoft Entra ID
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Entra ID Connect Fundamentals** (5 videos)
+- **3. 2. Planning for Users and Devices** (7 videos)
+- **4. 3. Preparing the Environment** (8 videos)
+- **5. 4. Deploying Entra ID Connect** (6 videos)
+- **6. Conclusion** (3 videos)
+
+### 1. Introduction
 
 #### Hybrid identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980)
@@ -201,7 +203,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 1. Entra ID Connect Fundamentals
+### 2. 1. Entra ID Connect Fundamentals
 
 #### Entra ID Connect overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980)
@@ -568,7 +570,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Planning for Users and Devices
+### 3. 2. Planning for Users and Devices
 
 #### Password hash synchronization
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980)
@@ -1159,7 +1161,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Preparing the Environment
+### 4. 3. Preparing the Environment
 
 #### Preparing Windows Server AD
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980)
@@ -1668,7 +1670,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Deploying Entra ID Connect
+### 5. 4. Deploying Entra ID Connect
 
 #### Deployment methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980)
@@ -2289,7 +2291,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980)
@@ -2456,6 +2458,15 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [kunal] (1)
 
+
+## Instructor
+
+- [[Kunal D Mehta]]
+
+## Skills Covered
+
+- Microsoft Entra ID
+- Microsoft Azure
 
 ## Path Context
 

@@ -37,8 +37,10 @@ tags:
   - topic/data-science
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20SQL%20Programming.md)
 
 ![Learning SQL Programming](https://media.licdn.com/dms/image/v2/D4D0DAQGAqoJIz-W-wA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702690438853?e=2147483647&amp;v=beta&amp;t=qDz6L00bvr_LCysHubqU3mGGX8TwhC3El8rynmyKzmo)
 
@@ -49,22 +51,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385) | 1h 48m | Beginner | 66K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott Simpson]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learningsql-2875059)
-
-## Skills Covered
-
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (6 videos)
+- **2. 1. Ask for Data from a Database** (7 videos)
+- **3. 2. Ask for Data from Two or More Tables** (4 videos)
+- **4. 3. Data Types, Math, and Helpful Features** (6 videos)
+- **5. 4. Add or Modify Data** (4 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Learning SQL programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980)
@@ -618,7 +616,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Ask for Data from a Database
+### 2. 1. Ask for Data from a Database
 
 #### Ask for data with SELECT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-with-select?u=76281980)
@@ -1146,7 +1144,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Ask for Data from Two or More Tables
+### 3. 2. Ask for Data from Two or More Tables
 
 #### Ask for data across two or more tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980)
@@ -1550,7 +1548,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Types, Math, and Helpful Features
+### 4. 3. Data Types, Math, and Helpful Features
 
 #### Data types in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980)
@@ -2098,7 +2096,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Add or Modify Data
+### 5. 4. Add or Modify Data
 
 #### Add data to a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980)
@@ -2442,7 +2440,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Overcoming common SQL mistakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980)
@@ -2553,6 +2551,19 @@ created: 2026-04-21
 > **CLI Commands:** mysql (2), python (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Scott Simpson]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learningsql-2875059)
+
+## Skills Covered
+
+- SQL
 
 ## Path Context
 

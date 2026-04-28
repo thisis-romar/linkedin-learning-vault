@@ -24,8 +24,10 @@ tags:
   - topic/software-development
   - skill/autocad
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Autocad%202022%20Essential%20Training.md)
 
 ![Autocad 2022 Essential Training](https://media.licdn.com/dms/image/v2/C560DAQEG0xVT2vOWjw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616435734667?e=2147483647&amp;v=beta&amp;t=j7ecHThwUM-DQZ9uRJGeeizbCkAH_2N7IP67BmSfoAU)
 
@@ -36,17 +38,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training) | Beginner | 1K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AutoCAD
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Using Units and Options** (4 videos)
+- **3. 2. Drawing More Objects** (4 videos)
+- **4. 3. Modifying Objects** (14 videos)
+- **5. 4. Hatching and Gradients** (3 videos)
+- **6. 5. More Text Techniques** (2 videos)
+- **7. 6. More Dimensioning Techniques** (5 videos)
+- **8. 7. Reusing Content** (6 videos)
+- **9. 8. Attributes and Tables** (5 videos)
+- **10. 9. External References (XRefs)** (5 videos)
+- **11. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### The essentials of AutoCAD
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/the-essentials-of-autocad?u=76281980)
@@ -313,7 +321,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Using Units and Options
+### 2. 1. Using Units and Options
 
 #### Setting drawing units
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980)
@@ -1030,7 +1038,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 2. Drawing More Objects
+### 3. 2. Drawing More Objects
 
 #### Rectangles and polygons
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980)
@@ -1639,7 +1647,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Modifying Objects
+### 4. 3. Modifying Objects
 
 #### Selecting objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980)
@@ -3917,7 +3925,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Hatching and Gradients
+### 5. 4. Hatching and Gradients
 
 #### Using the Hatch command
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980)
@@ -4387,7 +4395,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. More Text Techniques
+### 6. 5. More Text Techniques
 
 #### Aligning text
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980)
@@ -4892,7 +4900,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 6. More Dimensioning Techniques
+### 7. 6. More Dimensioning Techniques
 
 #### Editing dimensions and dimension overrides
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980)
@@ -5636,7 +5644,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Reusing Content
+### 8. 7. Reusing Content
 
 #### Using groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-groups?u=76281980)
@@ -6554,7 +6562,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Attributes and Tables
+### 9. 8. Attributes and Tables
 
 #### Creating a simple block with attributes
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980)
@@ -7451,7 +7459,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 9. External References (XRefs)
+### 10. 9. External References (XRefs)
 
 #### Working with XRefs
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-xrefs?u=76281980)
@@ -8114,7 +8122,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Conclusion and summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980)
@@ -8190,6 +8198,14 @@ created: 2026-04-21
 > **Env Vars:** cad (3)
 > **Speakers:** - so (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AutoCAD
 
 ## Path Context
 

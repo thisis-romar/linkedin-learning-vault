@@ -36,8 +36,10 @@ tags:
   - skill/data-classification
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Machine%20Learning%20and%20AI%20Foundations-%20Classification%20Modeling.md)
 
 ![Machine Learning and AI Foundations: Classification Modeling](https://media.licdn.com/dms/image/v2/D4D0DAQEifgzbCWI6eQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706120134449?e=2147483647&amp;v=beta&amp;t=vOw7WYdE3evt6MW_G87ovtjuEjtnixeIXChl4NblvpM)
 
@@ -48,19 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling) | 2h 5m | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Skills Covered
-
-- Machine Learning
-- Data Classification
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The Big Picture: Defining Your Classification Strategy** (6 videos)
+- **3. 2. How Do I Choose a "Winner"?** (4 videos)
+- **4. 3. Algorithms on Parade** (14 videos)
+- **5. 4. Common Modeling Challenges** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Classification problems in machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/classification-problems-in-machine-learning-20201180?u=76281980)
@@ -213,7 +214,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. The Big Picture: Defining Your Classification Strategy
+### 2. 1. The Big Picture: Defining Your Classification Strategy
 
 #### The importance of binary classification
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980)
@@ -521,7 +522,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. How Do I Choose a "Winner"?
+### 3. 2. How Do I Choose a "Winner"?
 
 #### Training and test partitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980)
@@ -768,7 +769,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Algorithms on Parade
+### 4. 3. Algorithms on Parade
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/overview?u=76281980)
@@ -2116,7 +2117,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Common Modeling Challenges
+### 5. 4. Common Modeling Challenges
 
 #### Imbalanced target categories
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/imbalanced-target-categories?u=76281980)
@@ -2648,7 +2649,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980)
@@ -2688,6 +2689,16 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Skills Covered
+
+- Machine Learning
+- Data Classification
+- Artificial Intelligence (AI)
 
 ## Path Context
 

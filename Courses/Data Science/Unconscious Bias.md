@@ -37,34 +37,30 @@ tags:
   - skill/unconscious-bias-awareness-training
   - skill/diversity-and-inclusion
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Unconscious%20Bias.md)
 
 ![Unconscious Bias](https://media.licdn.com/dms/image/v2/C560DAQFmRSjK8MfqaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651515769163?e=2147483647&amp;v=beta&amp;t=tMQeUht8B0g5ReFaywrbHvoaKMWN2lxC_61-SpnvZ8Y)
 
 # Unconscious Bias
 
-> To some degree, we are all biased. Our experiences shape who we are, and our dimensions of diversity—race, ethnicity, gender, height, weight, sexual orientation, place of birth, and other factors—impact the lens through  which we view the world. In this course, through compelling examples that explore the most common forms of unconscious bias and its implications, diversity expert Stacey Gordon te
+> To some degree, we are all biased. Our experiences shape who we are, and our dimensions of diversity—race, ethnicity, gender, height, weight, sexual orientation, place of birth, and other factors—impact the lens through which we view the world. In this course, through compelling examples that explore the most common forms of unconscious bias and its implications, diversity expert Stacey Gordon tea
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310) | 28m | Beginner
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Stacey Gordon]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Unconscious Bias Awareness Training
-- Diversity and Inclusion
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Basics of Unconscious Bias** (4 videos)
+- **3. 2. Common Forms of Unconscious Bias** (5 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why identify your bias?
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/why-identify-your-bias?u=76281980)
@@ -107,7 +103,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 1. The Basics of Unconscious Bias
+### 2. 1. The Basics of Unconscious Bias
 
 #### What is unconscious bias?
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/what-is-unconscious-bias?u=76281980)
@@ -365,7 +361,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Common Forms of Unconscious Bias
+### 3. 2. Common Forms of Unconscious Bias
 
 #### Affinity bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/affinity-bias?u=76281980)
@@ -678,7 +674,7 @@ created: 2026-04-21
 > **Speakers:** - was (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Practice what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/practice-what-you-ve-learned?u=76281980)
@@ -730,6 +726,19 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - by (1)
 
+
+## Instructor
+
+- [[Stacey Gordon]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Unconscious Bias Awareness Training
+- Diversity and Inclusion
 
 ## Path Context
 

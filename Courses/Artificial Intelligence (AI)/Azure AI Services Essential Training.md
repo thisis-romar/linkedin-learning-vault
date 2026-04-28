@@ -29,33 +29,36 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20Services%20Essential%20Training.md)
 
 ![Azure AI Services Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQHrS3lLowhHkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734556436730?e=2147483647&amp;v=beta&amp;t=ybzRPlMMvMPyu4sx961DhzC4PMoL9jckyMcIo36veSg)
 
 # Azure AI Services Essential Training
 
-> In this course, instructor Sahil Malik gives you an overview of the basic cognitive services available in Azure: vision, speech, language, language, search, content safety, translator, and document intelligence. Sahil explains these capabilities and ends with a working application for each service. The course wraps up with an overview of Azure AI foundry and where  of where Azure AI fits in the AI
+> In this course, instructor Sahil Malik gives you an overview of the basic cognitive services available in Azure: vision, speech, language, language, search, content safety, translator, and document intelligence. Sahil explains these capabilities and ends with a working application for each service. The course wraps up with an overview of Azure AI foundry and where of where Azure AI fits in the AI 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025) | 2h 19m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sahil Malik]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Vision** (6 videos)
+- **3. 2. Speech** (7 videos)
+- **4. 3. Language** (7 videos)
+- **5. 4. Search** (5 videos)
+- **6. 5. Content Safety** (2 videos)
+- **7. 6. Translator** (2 videos)
+- **8. 7. Document Intelligence** (2 videos)
+- **9. 8. Azure AI Studio** (5 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Become an Azure cognitive services MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980)
@@ -116,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Vision
+### 2. 1. Vision
 
 #### Understanding Azure AI vision services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980)
@@ -642,7 +645,7 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 
 
-### 2. Speech
+### 3. 2. Speech
 
 #### Understanding Azure AI speech services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-speech-services?u=76281980)
@@ -1256,7 +1259,7 @@ created: 2026-04-21
 > **Code Identifiers:** speechconfig (1)
 
 
-### 3. Language
+### 4. 3. Language
 
 #### Understanding Azure AI language services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-language-services?u=76281980)
@@ -1662,7 +1665,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 4. Search
+### 5. 4. Search
 
 #### Understanding Azure AI search
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980)
@@ -2145,7 +2148,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 5. Content Safety
+### 6. 5. Content Safety
 
 #### Understanding Azure AI content safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980)
@@ -2346,7 +2349,7 @@ created: 2026-04-21
 > **URLs:** [azure.com](https://azure.com) (1)
 
 
-### 6. Translator
+### 7. 6. Translator
 
 #### Understanding Azure AI translator services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-translator-services?u=76281980)
@@ -2508,7 +2511,7 @@ created: 2026-04-21
 > **URLs:** [azure.com](https://azure.com) (1)
 
 
-### 7. Document Intelligence
+### 8. 7. Document Intelligence
 
 #### Understanding Azure AI Document Intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980)
@@ -2643,7 +2646,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Azure AI Studio
+### 9. 8. Azure AI Studio
 
 #### Understanding Azure AI Foundry
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980)
@@ -3448,7 +3451,7 @@ created: 2026-04-21
 > **Tools:** azure portal (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Learning more about Azure AI Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980)
@@ -3502,6 +3505,18 @@ created: 2026-04-21
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [sahil] (1)
 
+
+## Instructor
+
+- [[Sahil Malik]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Azure
 
 ## Path Context
 

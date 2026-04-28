@@ -31,8 +31,10 @@ tags:
   - skill/itil
   - skill/problem-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Putting%20ITIL%C2%AE%20into%20Practice-%20Problem%20Management%20Techniques.md)
 
 ![Putting ITIL® into Practice: Problem Management Techniques](https://media.licdn.com/dms/image/v2/D4D0DAQEjaAh7pQf_pw/learning-public-crop_675_1200/B4DZZkwH7jHwAY-/0/1745447059516?e=2147483647&amp;v=beta&amp;t=AgolTHkOi3wQq_7y-BZzDHSYzwIKyHVsDLqj5Bf6Nkw)
 
@@ -43,22 +45,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448) | 2h 38m | Intermediate | 103K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Pultorak]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- ITIL
-- Problem Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (6 videos)
+- **2. 1. Brainstorming** (6 videos)
+- **3. 2. Cause-Effect Analysis** (6 videos)
+- **4. 3. Kepner-Tregoe Root Cause Analysis (RCA)** (6 videos)
+- **5. 4. Fault Tree Analysis (FTA)** (6 videos)
+- **6. 5. Component Failure Impact Analysis (CFIA)** (6 videos)
+- **7. 6. Service Outage Analysis (SOA)** (6 videos)
+- **8. 7. Problem Review (PIR)** (6 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Stand apart as a problem practitioner
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980)
@@ -382,7 +383,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Brainstorming
+### 2. 1. Brainstorming
 
 #### What is brainstorming, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-brainstorming-and-why-use-it?u=76281980)
@@ -891,7 +892,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Cause-Effect Analysis
+### 3. 2. Cause-Effect Analysis
 
 #### What is cause-effect analysis, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cause-effect-analysis-and-why-use-it?u=76281980)
@@ -1424,7 +1425,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Kepner-Tregoe Root Cause Analysis (RCA)
+### 4. 3. Kepner-Tregoe Root Cause Analysis (RCA)
 
 #### What is Kepner-Tregoe RCA, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-kepner-tregoe-rca-and-why-use-it?u=76281980)
@@ -1981,7 +1982,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Fault Tree Analysis (FTA)
+### 5. 4. Fault Tree Analysis (FTA)
 
 #### What is fault tree analysis, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-fault-tree-analysis-and-why-use-it?u=76281980)
@@ -2569,7 +2570,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Component Failure Impact Analysis (CFIA)
+### 6. 5. Component Failure Impact Analysis (CFIA)
 
 #### What is CFIA, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cfia-and-why-use-it?u=76281980)
@@ -3116,7 +3117,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Service Outage Analysis (SOA)
+### 7. 6. Service Outage Analysis (SOA)
 
 #### What is SOA, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-soa-and-why-use-it?u=76281980)
@@ -3614,7 +3615,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Problem Review (PIR)
+### 8. 7. Problem Review (PIR)
 
 #### What is a problem review, and why use one?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-a-problem-review-and-why-use-one?u=76281980)
@@ -4256,7 +4257,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Further your problem management journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980)
@@ -4342,6 +4343,19 @@ created: 2026-04-21
 > **Code Keywords:** for. (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[David Pultorak]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- ITIL
+- Problem Management
 
 ## Path Context
 

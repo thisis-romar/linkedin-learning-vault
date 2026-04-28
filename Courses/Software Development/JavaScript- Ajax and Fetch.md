@@ -38,8 +38,10 @@ tags:
   - skill/javascript
   - skill/fetch
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Ajax%20and%20Fetch.md)
 
 ![JavaScript: Ajax and Fetch](https://media.licdn.com/dms/image/v2/D4E0DAQHzfsBPheRMHg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724785196776?e=2147483647&amp;v=beta&amp;t=EGd0DJWCbYrFbKDaQRV1AWNwMUHdOBb9GcCn2TsYvVU)
 
@@ -50,24 +52,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836) | 2h 21m | Intermediate | 35K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sasha Vodnik]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/JavaScript-Ajax-and-Fetch-3809063/codespaces)
-
-## Skills Covered
-
-- AJAX
-- JavaScript
-- Fetch
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started with AJAX** (6 videos)
+- **3. 2. Working with the Fetch API** (5 videos)
+- **4. 3. Modifying the DOM** (9 videos)
+- **5. 4. Working with the Axios Library** (7 videos)
+- **6. 5. Optimizing and Troubleshooting AJAX Requests** (8 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Your essential guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/intro-video-to-be-renamed?u=76281980)
@@ -180,7 +177,7 @@ created: 2026-04-21
 > **Best Practices:** good practice (1)
 
 
-### 1. Getting Started with AJAX
+### 2. 1. Getting Started with AJAX
 
 #### What is AJAX?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980)
@@ -670,7 +667,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Working with the Fetch API
+### 3. 2. Working with the Fetch API
 
 #### Understand the Fetch API
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980)
@@ -1152,7 +1149,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Modifying the DOM
+### 4. 3. Modifying the DOM
 
 #### What is the DOM?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980)
@@ -1880,7 +1877,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 4. Working with the Axios Library
+### 5. 4. Working with the Axios Library
 
 #### Understand Axios
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-axios?u=76281980)
@@ -2660,7 +2657,7 @@ created: 2026-04-21
 > **UI Navigation:** scroll down (1)
 
 
-### 5. Optimizing and Troubleshooting AJAX Requests
+### 6. 5. Optimizing and Troubleshooting AJAX Requests
 
 #### Structure AJAX requests for performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/structure-ajax-requests-for-performance?u=76281980)
@@ -3438,7 +3435,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1), scroll up (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980)
@@ -3474,6 +3471,21 @@ created: 2026-04-21
 > **Env Vars:** json (2), api (1)
 > **Code Keywords:** async (1)
 
+
+## Instructor
+
+- [[Sasha Vodnik]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/JavaScript-Ajax-and-Fetch-3809063/codespaces)
+
+## Skills Covered
+
+- AJAX
+- JavaScript
+- Fetch
 
 ## Path Context
 

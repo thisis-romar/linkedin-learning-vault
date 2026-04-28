@@ -24,8 +24,10 @@ tags:
   - course
   - topic/security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethics%20in%20Cybersecurity.md)
 
 ![Ethics in Cybersecurity](https://media.licdn.com/dms/image/v2/D560DAQG8iLo0AGhfBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720814079251?e=2147483647&amp;v=beta&amp;t=wogpc7s6AJvH0IkQ0r4NgaZz6vsxzzFobZCoeX6iNVE)
 
@@ -36,13 +38,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity) | 56m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jerod Brennen]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Ethics 101** (2 videos)
+- **3. 2. Ethics in the Workplace** (5 videos)
+- **4. 3. Ethics and the Researcher** (4 videos)
+- **5. 4. Ethics on the Global Stage** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The importance of ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980)
@@ -73,7 +80,7 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 
 
-### 1. Ethics 101
+### 2. 1. Ethics 101
 
 #### Morals, ethics, and laws
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980)
@@ -193,7 +200,7 @@ created: 2026-04-21
 > **Versions:** 3.5 (1)
 
 
-### 2. Ethics in the Workplace
+### 3. 2. Ethics in the Workplace
 
 #### Handling sensitive information
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980)
@@ -506,7 +513,7 @@ created: 2026-04-21
 > **Tools:** slack (1)
 
 
-### 3. Ethics and the Researcher
+### 4. 3. Ethics and the Researcher
 
 #### Responsible disclosure
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980)
@@ -755,7 +762,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 4. Ethics on the Global Stage
+### 5. 4. Ethics on the Global Stage
 
 #### Global impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980)
@@ -1012,7 +1019,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Putting ethics into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/putting-ethics-into-practice?u=76281980)
@@ -1070,6 +1077,10 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
 
+
+## Instructor
+
+- [[Jerod Brennen]]
 
 ## Path Context
 

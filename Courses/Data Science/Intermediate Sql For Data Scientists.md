@@ -29,8 +29,10 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Intermediate%20Sql%20For%20Data%20Scientists.md)
 
 ![Intermediate Sql For Data Scientists](https://media.licdn.com/dms/image/v2/D4E0DAQG4LvxcWRlOYQ/learning-public-crop_675_1200/B4EZUghCgXG0AY-/0/1740007287506?e=2147483647&amp;v=beta&amp;t=M8ue0_cYqF--_BbExv7im3immNCMf4V04Mvpow2fWoM)
 
@@ -41,20 +43,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592) | Intermediate | 46K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/intermediate-sql-for-data-scientists-5925685/codespaces)
-
-## Skills Covered
-
-- Data Manipulation
-- Data Analysis
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Foundations of SQL for Data Science** (4 videos)
+- **3. 2. Basic Statistics with SQL** (8 videos)
+- **4. 3. Data Munging with SQL** (7 videos)
+- **5. 4. Filtering and Aggregation** (9 videos)
+- **6. 5. Window Functions and Ordered Data** (6 videos)
+- **7. 6. Common Table Expressions** (6 videos)
+- **8. 7. Types of Joins** (7 videos)
+- **9. 8. Working with JSON** (7 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The need for SQL in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/the-need-for-sql-in-data-science?u=76281980)
@@ -97,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Foundations of SQL for Data Science
+### 2. 1. Foundations of SQL for Data Science
 
 #### Overview of data science operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980)
@@ -597,7 +601,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 2. Basic Statistics with SQL
+### 3. 2. Basic Statistics with SQL
 
 #### Getting started with GitHub Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980)
@@ -1654,7 +1658,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Data Munging with SQL
+### 4. 3. Data Munging with SQL
 
 #### Reformatting character data
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980)
@@ -2559,7 +2563,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. Filtering and Aggregation
+### 5. 4. Filtering and Aggregation
 
 #### Using the HAVING clause to find subgroups
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-the-having-clause-to-find-subgroups?u=76281980)
@@ -3502,7 +3506,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat synth music) (1)
 
 
-### 5. Window Functions and Ordered Data
+### 6. 5. Window Functions and Ordered Data
 
 #### Introducing window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-window-functions?u=76281980)
@@ -4148,7 +4152,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Common Table Expressions
+### 7. 6. Common Table Expressions
 
 #### Introducing common table expressions (CTEs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980)
@@ -4566,7 +4570,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 7. Types of Joins
+### 8. 7. Types of Joins
 
 #### Overview of types of joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-types-of-joins?u=76281980)
@@ -4956,7 +4960,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Working with JSON
+### 9. 8. Working with JSON
 
 #### JSON in relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980)
@@ -5353,7 +5357,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat instrumental music) (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980)
@@ -5391,6 +5395,17 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/intermediate-sql-for-data-scientists-5925685/codespaces)
+
+## Skills Covered
+
+- Data Manipulation
+- Data Analysis
+- SQL
 
 ## Path Context
 

@@ -36,8 +36,10 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Succeeding%20in%20DevOps.md)
 
 ![Succeeding in DevOps](https://media.licdn.com/dms/image/v2/C4E0DAQF04a2Sl6g7yw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572285915285?e=2147483647&amp;v=beta&amp;t=bqyUiNjSrn5iTbqbeKvr1lYEo_ehbRk-l0N1HLEtV_g)
 
@@ -48,23 +50,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops) | 32m | Beginner | 87K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Laura Stone]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- DevOps
-- Tech Career Skills
-- Career Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started** (3 videos)
+- **3. 2. Pathways to DevOps** (3 videos)
+- **4. 3. Increasing Your Chances of Success** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Your role as a DevOps engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/your-role-as-a-devops-engineer-15039480?u=76281980)
@@ -123,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - historically (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### What is unique about DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980)
@@ -263,7 +259,7 @@ created: 2026-04-21
 > **Speakers:** - due (1)
 
 
-### 2. Pathways to DevOps
+### 3. 2. Pathways to DevOps
 
 #### DevOps skills for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980)
@@ -374,7 +370,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Increasing Your Chances of Success
+### 4. 3. Increasing Your Chances of Success
 
 #### Success tips from a DevOps recruiter
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980)
@@ -674,7 +670,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Learning more about DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/learning-more-about-devops?u=76281980)
@@ -700,6 +696,20 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Laura Stone]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- DevOps
+- Tech Career Skills
+- Career Management
 
 ## Path Context
 

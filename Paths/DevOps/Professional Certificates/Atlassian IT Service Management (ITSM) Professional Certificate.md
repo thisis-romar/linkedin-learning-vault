@@ -35,8 +35,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Professional%20Certificates/Atlassian%20IT%20Service%20Management%20(ITSM)%20Professional%20Certificate.md)
 
 # Atlassian IT Service Management (ITSM) Professional Certificate
 

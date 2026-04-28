@@ -31,8 +31,10 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Ai%20Driven%20Product%20Designer.md)
 
 ![The Ai Driven Product Designer](https://media.licdn.com/dms/image/v2/D4E0DAQFxxlGVXhyRcw/learning-public-crop_675_1200/B4EZXd1Yk7H0AY-/0/1743183514630?e=2147483647&amp;v=beta&amp;t=sxrWgVuwhP6Q-gfWrWFKwXQ2OwbyFW7rsWzLhxwfPxc)
 
@@ -43,16 +45,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer) | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Artificial Intelligence for Design
-- Product Design
-- User Experience Design (UED)
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AI Tips for Product Designers** (11 videos)
+- **3. 2. Helpful Resources** (0 videos)
+
+### 1. Introduction
 
 #### How AI is transforming product design
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/how-ai-is-transforming-product-design?u=76281980)
@@ -75,7 +76,7 @@ created: 2026-04-21
 > **Speakers:** - [drew] (1)
 
 
-### 1. AI Tips for Product Designers
+### 2. 1. AI Tips for Product Designers
 
 #### Creating mood boards using AI image tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980)
@@ -2271,8 +2272,15 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Helpful Resources
+### 3. 2. Helpful Resources
 
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- Product Design
+- User Experience Design (UED)
+- Artificial Intelligence (AI)
 
 ## Path Context
 

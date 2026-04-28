@@ -34,8 +34,10 @@ tags:
   - skill/hadoop
   - skill/apache-spark
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Big%20Data%20Analytics%20with%20Hadoop%20and%20Apache%20Spark.md)
 
 ![Big Data Analytics with Hadoop and Apache Spark](https://media.licdn.com/dms/image/v2/D560DAQHTOWKtGDMPmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725568658115?e=2147483647&amp;v=beta&amp;t=-JZmGED0H1HZUEkFYqEttM9iiuN8b-Ku22lfGhJnv6o)
 
@@ -46,24 +48,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440) | 51m | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Engineering
-- Big Data Analytics
-- Hadoop
-- Apache Spark
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction and Setup** (4 videos)
+- **3. 2. HDFS Data Modeling for Analytics** (5 videos)
+- **4. 3. Data Ingestion with Spark** (5 videos)
+- **5. 4. Data Extraction with Spark** (5 videos)
+- **6. 5. Optimizing Spark Processing** (6 videos)
+- **7. 6. Use Case Project** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The combined power of Spark and Hadoop Distributed File System (HDFS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980)
@@ -91,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction and Setup
+### 2. 1. Introduction and Setup
 
 #### Apache Hadoop overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980)
@@ -292,7 +290,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1), navigate to (1)
 
 
-### 2. HDFS Data Modeling for Analytics
+### 3. 2. HDFS Data Modeling for Analytics
 
 #### Storage formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980)
@@ -540,7 +538,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Ingestion with Spark
+### 4. 3. Data Ingestion with Spark
 
 #### Reading external files into Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-external-files-into-spark?u=76281980)
@@ -744,7 +742,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data Extraction with Spark
+### 5. 4. Data Extraction with Spark
 
 #### How Spark works
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980)
@@ -973,7 +971,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Optimizing Spark Processing
+### 6. 5. Optimizing Spark Processing
 
 #### Pushing down projections
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980)
@@ -1308,7 +1306,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Use Case Project
+### 7. 6. Use Case Project
 
 #### Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/problem-definition?u=76281980)
@@ -1522,7 +1520,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continuing on with big data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980)
@@ -1552,6 +1550,21 @@ created: 2026-04-21
 > **Env Vars:** sql (1)
 > **Speakers:** - [kumaran] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Engineering
+- Big Data Analytics
+- Hadoop
+- Apache Spark
 
 ## Path Context
 

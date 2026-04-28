@@ -20,8 +20,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Everything%20as%20a%20Service%20(XaaS)%20is%20the%20Future%20of%20Business.md)
 
 ![Everything as a Service (XaaS) is the Future of Business](https://media.licdn.com/dms/image/v2/C4E0DAQEn0755Tz8meg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1595977263026?e=2147483647&amp;v=beta&amp;t=tCQT9QlH9sLolyuUqHLaUwQ3YF_TYVtOFik5UCRBrsY)
 
@@ -32,13 +34,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business) | 43m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jonathan Reichental]]
-
 ## Table of Contents
 
-### Getting Started
+### Chapter Overview
+
+- **1. Getting Started** (1 videos)
+- **2. 1. XaaS: The Origin Story** (2 videos)
+- **3. 2. Understanding the Value of XaaS** (3 videos)
+- **4. 3. Implementing XaaS at Your Business** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Getting Started
 
 #### The future of business is XaaS
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/the-future-of-business-is-xaas?u=76281980)
@@ -82,7 +88,7 @@ created: 2026-04-21
 > **Non-Speech:** (light music) (1)
 
 
-### 1. XaaS: The Origin Story
+### 2. 1. XaaS: The Origin Story
 
 #### A brief history of business computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980)
@@ -205,7 +211,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Understanding the Value of XaaS
+### 3. 2. Understanding the Value of XaaS
 
 #### What are the different types of XaaS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980)
@@ -438,7 +444,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Implementing XaaS at Your Business
+### 4. 3. Implementing XaaS at Your Business
 
 #### Basic architecture of XaaS
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980)
@@ -733,7 +739,7 @@ created: 2026-04-21
 > **Speakers:** - even (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### What you can do next
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-you-can-do-next?u=76281980)
@@ -758,6 +764,10 @@ created: 2026-04-21
 >
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Jonathan Reichental]]
 
 ## Path Context
 

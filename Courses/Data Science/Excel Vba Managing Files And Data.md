@@ -28,8 +28,10 @@ tags:
   - skill/data-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Vba%20Managing%20Files%20And%20Data.md)
 
 ![Excel Vba Managing Files And Data](https://media.licdn.com/dms/image/v2/D4E0DAQGZy3ZRWbpI1A/learning-public-crop_675_1200/B4EZUph.CdGwAY-/0/1740158526299?e=2147483647&amp;v=beta&amp;t=qvQ6k4GnZWOcJ1VCvPa-V0fpuEGEyNegSYIWYQbJtbE)
 
@@ -40,19 +42,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834) | Advanced | 58K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- VBA Excel
-- Data Analysis
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Focusing Data Using Filters** (6 videos)
+- **3. 2. Managing Files Using VBA** (7 videos)
+- **4. 3. Managing Worksheets Using VBA** (8 videos)
+- **5. 4. Taking Advantage of Built-In Functions** (5 videos)
+- **6. 5. Managing Charts in VBA** (8 videos)
+- **7. 6. Creating UserForms** (10 videos)
+- **8. 7. Managing PivotTables Using VBA** (4 videos)
+- **9. 8. Incorporating New Excel Functions** (5 videos)
+- **10. 9. Continuing Your Excel VBA Learning Journey** (1 videos)
+
+### 1. Introduction
 
 #### Automate repetitive tasks using Excel VBA
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/automate-repetitive-tasks-using-excel-vba?u=76281980)
@@ -155,7 +160,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. Focusing Data Using Filters
+### 2. 1. Focusing Data Using Filters
 
 #### Select the active region
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/select-the-active-region?u=76281980)
@@ -661,7 +666,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Managing Files Using VBA
+### 3. 2. Managing Files Using VBA
 
 #### Determine if a workbook exists
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-workbook-exists?u=76281980)
@@ -1343,7 +1348,7 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 
 
-### 3. Managing Worksheets Using VBA
+### 4. 3. Managing Worksheets Using VBA
 
 #### Check if a worksheet exists
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/check-if-a-worksheet-exists?u=76281980)
@@ -2034,7 +2039,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 4. Taking Advantage of Built-In Functions
+### 5. 4. Taking Advantage of Built-In Functions
 
 #### Use the built-in Open dialog box
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-built-in-open-dialog-box?u=76281980)
@@ -2450,7 +2455,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Managing Charts in VBA
+### 6. 5. Managing Charts in VBA
 
 #### Create a chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-chart?u=76281980)
@@ -3080,7 +3085,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Creating UserForms
+### 7. 6. Creating UserForms
 
 #### Create a UserForm
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-userform?u=76281980)
@@ -4055,7 +4060,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 7. Managing PivotTables Using VBA
+### 8. 7. Managing PivotTables Using VBA
 
 #### Record a PivotTable configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/record-a-pivottable-configuration?u=76281980)
@@ -4522,7 +4527,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 8. Incorporating New Excel Functions
+### 9. 8. Incorporating New Excel Functions
 
 #### List unique values from a data set using UNIQUE
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/list-unique-values-from-a-data-set-using-unique?u=76281980)
@@ -4973,7 +4978,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Continuing Your Excel VBA Learning Journey
+### 10. 9. Continuing Your Excel VBA Learning Journey
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980)
@@ -5009,6 +5014,16 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- VBA Excel
+- Data Analysis
+- Microsoft Excel
 
 ## Path Context
 

@@ -27,8 +27,10 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/AI%20Fundamentals%20for%20Data%20Professionals.md)
 
 ![AI Fundamentals for Data Professionals](https://media.licdn.com/dms/image/v2/D4D0DAQFd1TpRuZ0oZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702499734967?e=2147483647&amp;v=beta&amp;t=4oSzXryGxVHQQ4kax1V5gnewvpQDaRyTmSqAqxQTqcI)
 
@@ -39,13 +41,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals) | 1h 7m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sadie St. Lawrence]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to AI and Machine Learning** (4 videos)
+- **3. 2. Data and Feature Engineering** (4 videos)
+- **4. 3. High-Level Machine Learning Techniques** (5 videos)
+- **5. 4. Implementation and Future Trends** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980)
@@ -77,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 1. Introduction to AI and Machine Learning
+### 2. 1. Introduction to AI and Machine Learning
 
 #### AI and machine learning overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980)
@@ -352,7 +359,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 2. Data and Feature Engineering
+### 3. 2. Data and Feature Engineering
 
 #### Data types and sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980)
@@ -653,7 +660,7 @@ created: 2026-04-21
 > **Speakers:** - feature (1)
 
 
-### 3. High-Level Machine Learning Techniques
+### 4. 3. High-Level Machine Learning Techniques
 
 #### Supervised learning overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980)
@@ -1042,7 +1049,7 @@ created: 2026-04-21
 > **Speakers:** - switching (1)
 
 
-### 4. Implementation and Future Trends
+### 5. 4. Implementation and Future Trends
 
 #### Model evaluation and validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980)
@@ -1366,7 +1373,7 @@ created: 2026-04-21
 > **Speakers:** - balancing (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Bring it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980)
@@ -1457,6 +1464,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - hey (1)
 
+
+## Instructor
+
+- [[Sadie St. Lawrence]]
 
 ## Path Context
 

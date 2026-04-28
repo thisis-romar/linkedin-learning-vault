@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/data-ethics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Ethics-%20Watching%20Out%20for%20Data%20Misuse.md)
 
 ![Data Ethics: Watching Out for Data Misuse](https://media.licdn.com/dms/image/v2/C560DAQERmbln7meJKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623697959847?e=2147483647&amp;v=beta&amp;t=vCY7bHKmfvnPlAohhIrtte7Gx_XRTE-6yOMl4oVsS2A)
 
@@ -40,17 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse) | 58m | Beginner | 51K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Doug Rose]]
-
-## Skills Covered
-
-- Data Ethics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Thinking about Ethics** (4 videos)
+- **3. 2. Data Misuse** (6 videos)
+- **4. 3. Accuracy** (5 videos)
+- **5. 4. Data Models** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Data accuracy and misuse
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980)
@@ -98,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - data (1)
 
 
-### 1. Thinking about Ethics
+### 2. 1. Thinking about Ethics
 
 #### What are your ethical duties?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980)
@@ -462,7 +465,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 2. Data Misuse
+### 3. 2. Data Misuse
 
 #### Data misuse
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980)
@@ -931,7 +934,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Accuracy
+### 4. 3. Accuracy
 
 #### What does it mean to be accurate?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980)
@@ -1317,7 +1320,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 4. Data Models
+### 5. 4. Data Models
 
 #### What are data models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-data-models?u=76281980)
@@ -1490,7 +1493,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980)
@@ -1531,6 +1534,14 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Doug Rose]]
+
+## Skills Covered
+
+- Data Ethics
 
 ## Path Context
 

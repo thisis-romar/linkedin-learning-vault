@@ -27,8 +27,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Data%20Visualization%20and%20Dashboard%20Tips%2C%20Tricks%2C%20and%20Techniques.md)
 
 ![Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques](https://media.licdn.com/dms/image/v2/D4D0DAQFrKHszZs-r_A/learning-public-crop_675_1200/B4DZYmSnz_HwAc-/0/1744399138717?e=2147483647&amp;v=beta&amp;t=G26QXhYd4rqcIYGuD2aV54vHbtDOIzX1E3J0c4wc9V0)
 
@@ -39,13 +41,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques) | 3h 9m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emma Saunders]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Get Started in Power BI** (8 videos)
+- **3. 2. Editing and Creating Types of Visuals in Power BI** (11 videos)
+- **4. 3. Organizing and Interacting with Visuals** (8 videos)
+- **5. 4. Report Design and Creation** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Design reports that deliver insights with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980)
@@ -124,7 +131,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Get Started in Power BI
+### 2. 1. Get Started in Power BI
 
 #### Differentiate Power BI Desktop and Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980)
@@ -810,7 +817,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 2. Editing and Creating Types of Visuals in Power BI
+### 3. 2. Editing and Creating Types of Visuals in Power BI
 
 #### Understanding the publishing workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980)
@@ -2295,7 +2302,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Organizing and Interacting with Visuals
+### 4. 3. Organizing and Interacting with Visuals
 
 #### Manipulating visuals within a report
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/manipulating-visuals-within-a-report?u=76281980)
@@ -3191,7 +3198,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. Report Design and Creation
+### 5. 4. Report Design and Creation
 
 #### Understand when to make a new tab
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980)
@@ -3748,7 +3755,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-design-a-two-tab-report?u=76281980)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### What's next for Power BI success
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980)
@@ -3779,6 +3786,10 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [lecturer] (1)
 
+
+## Instructor
+
+- [[Emma Saunders]]
 
 ## Path Context
 

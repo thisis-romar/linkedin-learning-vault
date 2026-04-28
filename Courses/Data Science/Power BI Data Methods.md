@@ -34,8 +34,10 @@ tags:
   - skill/data-analysis
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Data%20Methods.md)
 
 ![Power BI Data Methods](https://media.licdn.com/dms/image/v2/D560DAQERek4YP-UxwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709937715535?e=2147483647&amp;v=beta&amp;t=llLfmIN-LfWmN-ry9_rgoU6Q10yHytR2XNy6N82kzEA)
 
@@ -46,23 +48,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089) | 3h 12m | Advanced | 65K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Helen Wall]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/power-bi-data-methods-3812122/)
-
-## Skills Covered
-
-- Data Analysis
-- Microsoft Power BI
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Extracting Data from Files** (3 videos)
+- **3. 2. Extracting Data from Files** (16 videos)
+- **4. 3. Transforming Data with Cleaning Operations** (9 videos)
+- **5. 4. Working with Dates and Times** (5 videos)
+- **6. 5. Data Functions** (8 videos)
+- **7. 6. Relational Databases and Queries** (3 videos)
+- **8. 7. Loading Data** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The data at the core of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-data-at-the-core-of-power-bi?u=76281980)
@@ -230,7 +230,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 1. Extracting Data from Files
+### 2. 1. Extracting Data from Files
 
 #### Working with Power Query
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980)
@@ -385,7 +385,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Extracting Data from Files
+### 3. 2. Extracting Data from Files
 
 #### Connecting to text files
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980)
@@ -1676,7 +1676,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 3. Transforming Data with Cleaning Operations
+### 4. 3. Transforming Data with Cleaning Operations
 
 #### Cleaning text fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980)
@@ -2233,7 +2233,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Working with Dates and Times
+### 5. 4. Working with Dates and Times
 
 #### Dates functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/dates-functions?u=76281980)
@@ -2573,7 +2573,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Data Functions
+### 6. 5. Data Functions
 
 #### Using conditional functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-conditional-functions?u=76281980)
@@ -3332,7 +3332,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Relational Databases and Queries
+### 7. 6. Relational Databases and Queries
 
 #### Working with relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980)
@@ -3596,7 +3596,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Loading Data
+### 8. 7. Loading Data
 
 #### Loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980)
@@ -3880,7 +3880,7 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Continuing on with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980)
@@ -3905,6 +3905,20 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Helen Wall]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/power-bi-data-methods-3812122/)
+
+## Skills Covered
+
+- Data Analysis
+- Microsoft Power BI
 
 ## Path Context
 

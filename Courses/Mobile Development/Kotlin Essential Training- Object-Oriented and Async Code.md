@@ -30,35 +30,31 @@ tags:
   - topic/software-development
   - skill/kotlin
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Kotlin%20Essential%20Training-%20Object-Oriented%20and%20Async%20Code.md)
 
 ![Kotlin Essential Training: Object-Oriented and Async Code](https://media.licdn.com/dms/image/v2/C560DAQGxZp_l7DwwKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655231468711?e=2147483647&amp;v=beta&amp;t=ISf0hBB9rBPf-mAubgtt0tB5KxNqeMowKUlL7dCu9zU)
 
 # Kotlin Essential Training: Object-Oriented and Async Code
 
-> If you’re looking to get up and running with Kotlin, the powerful programming language from JetBrains, join instructor Nate Ebel, the author of Mastering Kotlin, as he shows you the ins and out of Kotlin and walks you through its unique selling points for developers—from null safety and concise syntax to Java compatibility, to full support by Google for Android development.
-In this second installm
+> If you’re looking to get up and running with Kotlin, the powerful programming language from JetBrains, join instructor Nate Ebel, the author of Mastering Kotlin, as he shows you the ins and out of Kotlin and walks you through its unique selling points for developers—from null safety and concise syntax to Java compatibility, to full support by Google for Android development. In this second installm
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code) | 2h 51m | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nate Ebel]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/kotlin-essential-training-object-oriented-and-async-code-2497307)
-
-## Skills Covered
-
-- Kotlin
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Object-Oriented Programming with Kotlin** (9 videos)
+- **3. 2. Writing Idiomatic Kotlin** (5 videos)
+- **4. 3. Writing Asynchronous Code with Kotlin Coroutines** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building more with Kotlin
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/building-more-with-kotlin?u=76281980)
@@ -179,7 +175,7 @@ In this second installm
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Object-Oriented Programming with Kotlin
+### 2. 1. Object-Oriented Programming with Kotlin
 
 #### Classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/classes?u=76281980)
@@ -1525,7 +1521,7 @@ In this second installm
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 2. Writing Idiomatic Kotlin
+### 3. 2. Writing Idiomatic Kotlin
 
 #### Top-level properties and functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980)
@@ -2175,7 +2171,7 @@ In this second installm
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Writing Asynchronous Code with Kotlin Coroutines
+### 4. 3. Writing Asynchronous Code with Kotlin Coroutines
 
 #### Threads, thread pools, and executors
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/threads-thread-pools-and-executors?u=76281980)
@@ -2744,7 +2740,7 @@ In this second installm
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980)
@@ -2774,6 +2770,19 @@ In this second installm
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [nate] (1)
 
+
+## Instructor
+
+- [[Nate Ebel]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/kotlin-essential-training-object-oriented-and-async-code-2497307)
+
+## Skills Covered
+
+- Kotlin
 
 ## Path Context
 

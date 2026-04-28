@@ -34,8 +34,10 @@ tags:
   - skill/data-reporting
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Intermediate%20SQL-%20Data%20Reporting%20and%20Analysis.md)
 
 ![Intermediate SQL: Data Reporting and Analysis](https://media.licdn.com/dms/image/v2/C560DAQH-GFM4TA8EeQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668022144494?e=2147483647&amp;v=beta&amp;t=6CW3tD-EHMEL8osicm6ttuKrPyT_rqpAKUDLlIg515Q)
 
@@ -46,19 +48,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis) | 2h 14m | Intermediate | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emma Saunders]]
-
-## Skills Covered
-
-- Data Analysis
-- Data Reporting
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Prepare to Code in SQL** (3 videos)
+- **3. 2. Reporting Data with SQL** (9 videos)
+- **4. 3. Editing Data** (7 videos)
+- **5. 4. Inserting Data** (6 videos)
+- **6. 5. Deleting Data** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn hands-on to extract, manipulate, edit, and delete real data
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980)
@@ -164,7 +166,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Prepare to Code in SQL
+### 2. 1. Prepare to Code in SQL
 
 #### Get familiar with phpMyAdmin
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980)
@@ -378,7 +380,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Reporting Data with SQL
+### 3. 2. Reporting Data with SQL
 
 #### The basic SELECT query
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/the-basic-select-query?u=76281980)
@@ -1240,7 +1242,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat intro music) (1)
 
 
-### 3. Editing Data
+### 4. 3. Editing Data
 
 #### UPDATE fields in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980)
@@ -1937,7 +1939,7 @@ created: 2026-04-21
 > **Speakers:** - welcome (1)
 
 
-### 4. Inserting Data
+### 5. 4. Inserting Data
 
 #### INSERT rows into a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/insert-rows-into-a-table?u=76281980)
@@ -2654,7 +2656,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Deleting Data
+### 6. 5. Deleting Data
 
 #### DELETE rows from a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980)
@@ -3227,7 +3229,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/next-steps?u=76281980)
@@ -3248,6 +3250,16 @@ created: 2026-04-21
 > **Env Vars:** sql (1)
 > **Speakers:** - [emma] (1)
 
+
+## Instructor
+
+- [[Emma Saunders]]
+
+## Skills Covered
+
+- Data Analysis
+- Data Reporting
+- SQL
 
 ## Path Context
 

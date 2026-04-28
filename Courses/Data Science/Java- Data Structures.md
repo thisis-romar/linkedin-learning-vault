@@ -36,8 +36,10 @@ tags:
   - skill/data-structures
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java-%20Data%20Structures.md)
 
 ![Java: Data Structures](https://media.licdn.com/dms/image/v2/D560DAQELe07gbOJkkw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351837356?e=2147483647&amp;v=beta&amp;t=qF2X11bb4lrEAT8rSE6ZGdOhnBHco4gvcAZ51lNwMYE)
 
@@ -48,23 +50,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471) | 49m | Intermediate | 346K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bethan Palmer]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/java-data-structures-3001429)
-
-## Skills Covered
-
-- Data Structures
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Java Data Structures** (2 videos)
+- **3. 2. Using Arrays** (2 videos)
+- **4. 3. Java Collections** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Data structures in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980)
@@ -334,7 +330,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Java Data Structures
+### 2. 1. Java Data Structures
 
 #### What is a data structure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980)
@@ -450,7 +446,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Using Arrays
+### 3. 2. Using Arrays
 
 #### Understanding arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/understanding-arrays?u=76281980)
@@ -643,7 +639,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Java Collections
+### 4. 3. Java Collections
 
 #### The Collection interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/the-collection-interface-23038543?u=76281980)
@@ -1228,7 +1224,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980)
@@ -1253,6 +1249,20 @@ created: 2026-04-21
 >
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Bethan Palmer]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/java-data-structures-3001429)
+
+## Skills Covered
+
+- Data Structures
+- Java
 
 ## Path Context
 

@@ -40,8 +40,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Everyday%20Ai%20Concepts.md)
 
 ![Everyday Ai Concepts](https://media.licdn.com/dms/image/v2/D560DAQHOrK1DQuBmOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729721861447?e=2147483647&amp;v=beta&amp;t=FpBaOe-Rr8H0Y3vPliPCMy1vEp16ogtbje6gqsd3IV0)
 
@@ -52,13 +54,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Doug Rose]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Machine Learning** (2 videos)
+- **3. 2. Predictive Artificial Intelligence** (5 videos)
+- **4. 3. Generative Artificial Intelligence** (4 videos)
+- **5. 4. Legal and Ethical Issues** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is artificial intelligence?
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/what-is-artificial-intelligence?u=76281980)
@@ -89,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - artificial (1)
 
 
-### 1. Machine Learning
+### 2. 1. Machine Learning
 
 #### A machine that learns by doing (and redoing)
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980)
@@ -277,7 +284,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 2. Predictive Artificial Intelligence
+### 3. 2. Predictive Artificial Intelligence
 
 #### Accurately predict what someone will do
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980)
@@ -744,7 +751,7 @@ created: 2026-04-21
 > **Speakers:** - earlier (1)
 
 
-### 3. Generative Artificial Intelligence
+### 4. 3. Generative Artificial Intelligence
 
 #### Build a system that generates something new
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980)
@@ -1088,7 +1095,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 4. Legal and Ethical Issues
+### 5. 4. Legal and Ethical Issues
 
 #### Who owns what the machine learned?
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980)
@@ -1368,7 +1375,7 @@ created: 2026-04-21
 > **Speakers:** - humans (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps in AI concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980)
@@ -1404,6 +1411,10 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - this (1)
 
+
+## Instructor
+
+- [[Doug Rose]]
 
 ## Path Context
 

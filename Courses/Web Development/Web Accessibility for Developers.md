@@ -21,8 +21,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Web%20Accessibility%20for%20Developers.md)
 
 ![Web Accessibility for Developers](https://media.licdn.com/dms/image/v2/D560DAQHoOSvIxsvTbA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720454573295?e=2147483647&amp;v=beta&amp;t=50aAGLLWkOEq4jS3Y2SdycLbZcNhxcbSrM_fRpJaOtk)
 
@@ -33,13 +35,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers) | 55m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Donia Robinson]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Accessibly Access a Website** (2 videos)
+- **3. 2. Understand Accessibility Standards** (6 videos)
+- **4. 3. Accessibility Tools** (3 videos)
+- **5. 4. Test and Triage Accessibility Issues** (6 videos)
+- **6. 5. Repair and Test Accessibility Issues Again** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Take the mystery out of web accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/take-the-mystery-out-of-web-accessibility?u=76281980)
@@ -152,7 +160,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Accessibly Access a Website
+### 2. 1. Accessibly Access a Website
 
 #### Your keyboard and computer
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980)
@@ -342,7 +350,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Understand Accessibility Standards
+### 3. 2. Understand Accessibility Standards
 
 #### Introduction to WCAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/introduction-to-wcag?u=76281980)
@@ -806,7 +814,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Accessibility Tools
+### 4. 3. Accessibility Tools
 
 #### Manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/manual-testing?u=76281980)
@@ -998,7 +1006,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 4. Test and Triage Accessibility Issues
+### 5. 4. Test and Triage Accessibility Issues
 
 #### Identify conformance goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/identify-conformance-goals?u=76281980)
@@ -1391,7 +1399,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Repair and Test Accessibility Issues Again
+### 6. 5. Repair and Test Accessibility Issues Again
 
 #### Repair accessibility issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980)
@@ -1579,7 +1587,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/next-steps?u=76281980)
@@ -1606,6 +1614,10 @@ created: 2026-04-21
 >
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Donia Robinson]]
 
 ## Path Context
 

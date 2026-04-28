@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20C-%20Object-Oriented%20Programming.md)
 
 ![Advanced C#: Object-Oriented Programming](https://media.licdn.com/dms/image/v2/D560DAQFEKONg7FNiDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696534679389?e=2147483647&amp;v=beta&amp;t=Ve3tWqEBMkLSRk-m7x-KMhzhSvfdW7rMBasGSrwyQT0)
 
@@ -41,22 +43,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming) | 1h 46m | Advanced | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/c-sharp-advanced-object-oriented-programming-4406346/codespaces)
-
-## Skills Covered
-
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. C# Object-Oriented Basics** (5 videos)
+- **3. 2. Class Operations** (6 videos)
+- **4. 3. Static Classes and Methods** (5 videos)
+- **5. 4. Abstract and Sealed Classes** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Next-level C# OOP
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-level-c-sharp-oop?u=76281980)
@@ -171,7 +169,7 @@ created: 2026-04-21
 > **Versions:** 7.0 (1)
 
 
-### 1. C# Object-Oriented Basics
+### 2. 1. C# Object-Oriented Basics
 
 #### Defining classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/defining-classes?u=76281980)
@@ -864,7 +862,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Class Operations
+### 3. 2. Class Operations
 
 #### Using object initializers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/using-object-initializers?u=76281980)
@@ -1403,7 +1401,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Static Classes and Methods
+### 4. 3. Static Classes and Methods
 
 #### Static members
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-members?u=76281980)
@@ -1838,7 +1836,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Abstract and Sealed Classes
+### 5. 4. Abstract and Sealed Classes
 
 #### Overview of abstract classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/overview-of-abstract-classes?u=76281980)
@@ -2279,7 +2277,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-steps?u=76281980)
@@ -2308,6 +2306,19 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/c-sharp-advanced-object-oriented-programming-4406346/codespaces)
+
+## Skills Covered
+
+- C#
 
 ## Path Context
 

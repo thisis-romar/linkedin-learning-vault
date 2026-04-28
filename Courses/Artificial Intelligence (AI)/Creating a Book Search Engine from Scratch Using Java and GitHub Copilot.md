@@ -38,8 +38,10 @@ tags:
   - skill/github-copilot
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Creating%20a%20Book%20Search%20Engine%20from%20Scratch%20Using%20Java%20and%20GitHub%20Copilot.md)
 
 ![Creating a Book Search Engine from Scratch Using Java and GitHub Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQHuCLqk6OsB8g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732734297442?e=2147483647&amp;v=beta&amp;t=-rsRdhbTnzvP3JGFTel1lu1q5kNjqW99M-vr6oUIho4)
 
@@ -50,26 +52,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot) | 2h 11m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Harit Himanshu]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/hhimanshu/book-search)
-
-## Skills Covered
-
-- GitHub
-- Artificial Intelligence (AI)
-- Spring Boot
-- GitHub Copilot
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Setting Up Java, Maven, and Spring Boot** (6 videos)
+- **3. 2. Dockerizing the Project with PostgreSQL** (2 videos)
+- **4. 3. Designing the Database Schema and Implementing Full-Text Search** (5 videos)
+- **5. 4. Ingesting and Validating Data** (3 videos)
+- **6. 5. Implementing Business Logic and Writing Tests** (3 videos)
+- **7. 6. Designing and Creating APIs** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Modern Java development
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980)
@@ -256,7 +252,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. Setting Up Java, Maven, and Spring Boot
+### 2. 1. Setting Up Java, Maven, and Spring Boot
 
 #### Setting up Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980)
@@ -825,7 +821,7 @@ created: 2026-04-21
 > **Cross-References:** we mentioned (1), coming up (1), in the next (1)
 
 
-### 2. Dockerizing the Project with PostgreSQL
+### 3. 2. Dockerizing the Project with PostgreSQL
 
 #### Setting up Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-docker?u=76281980)
@@ -1068,7 +1064,7 @@ created: 2026-04-21
 > **Env Vars:** sql (2), aml (1)
 
 
-### 3. Designing the Database Schema and Implementing Full-Text Search
+### 4. 3. Designing the Database Schema and Implementing Full-Text Search
 
 #### Designing the book schema
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980)
@@ -1654,7 +1650,7 @@ created: 2026-04-21
 > **Analogies:** such as (1), for example (1)
 
 
-### 4. Ingesting and Validating Data
+### 5. 4. Ingesting and Validating Data
 
 #### Overview of data ingestion
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/overview-of-data-ingestion?u=76281980)
@@ -2075,7 +2071,7 @@ created: 2026-04-21
 > **Tools:** github (1)
 
 
-### 5. Implementing Business Logic and Writing Tests
+### 6. 5. Implementing Business Logic and Writing Tests
 
 #### Introduction to business logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980)
@@ -2401,7 +2397,7 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 
 
-### 6. Designing and Creating APIs
+### 7. 6. Designing and Creating APIs
 
 #### Developing the service layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980)
@@ -2810,7 +2806,7 @@ created: 2026-04-21
 > **Code Identifiers:** application_properties (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/conclusion?u=76281980)
@@ -2838,6 +2834,23 @@ created: 2026-04-21
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Harit Himanshu]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/hhimanshu/book-search)
+
+## Skills Covered
+
+- GitHub
+- Artificial Intelligence (AI)
+- Spring Boot
+- GitHub Copilot
+- Java
 
 ## Path Context
 

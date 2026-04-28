@@ -38,8 +38,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/regulatory-compliance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Navigating%20AI%20Regulations-%20A%20Business%20Guide%20to%20Risk%2C%20Responsibility%2C%20and%20Strategy.md)
 
 ![Navigating AI Regulations: A Business Guide to Risk, Responsibility, and Strategy](https://media.licdn.com/dms/image/v2/D560DAQHv_puzuKqWDQ/learning-public-crop_675_1200/B56ZfrLyxXGQAc-/0/1751997427552?e=2147483647&amp;v=beta&amp;t=kTNdEFvTmUl5SsszEKqYKAxRRRpzsqAy5ERS4Zb6K3k)
 
@@ -50,19 +52,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy) | 48m | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Vilas Dhar]]
-
-## Skills Covered
-
-- AI for Business
-- Artificial Intelligence (AI)
-- Regulatory Compliance
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Why AI Regulation Matters Now** (3 videos)
+- **3. 2. What AI Regulation Means for Business** (4 videos)
+- **4. 3. The Global Regulatory Landscape** (5 videos)
+- **5. 4. Building Internal AI Governance** (4 videos)
+- **6. 5. Making AI Governance a Strategic Advantage** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What business leaders need to know about AI regulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-business-leaders-need-to-know-about-ai-regulations?u=76281980)
@@ -92,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. Why AI Regulation Matters Now
+### 2. 1. Why AI Regulation Matters Now
 
 #### Why AI governance has become a business imperative
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980)
@@ -314,7 +316,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. What AI Regulation Means for Business
+### 3. 2. What AI Regulation Means for Business
 
 #### What counts as regulated AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980)
@@ -564,7 +566,7 @@ created: 2026-04-21
 > **Speakers:** - governance (1)
 
 
-### 3. The Global Regulatory Landscape
+### 4. 3. The Global Regulatory Landscape
 
 #### Navigating a patchwork of global AI rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980)
@@ -857,7 +859,7 @@ created: 2026-04-21
 > **Speakers:** - no (1)
 
 
-### 4. Building Internal AI Governance
+### 5. 4. Building Internal AI Governance
 
 #### What internal governance really means
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-internal-governance-really-means?u=76281980)
@@ -1070,7 +1072,7 @@ created: 2026-04-21
 > **Speakers:** - strong (1)
 
 
-### 5. Making AI Governance a Strategic Advantage
+### 6. 5. Making AI Governance a Strategic Advantage
 
 #### Compliance to competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/compliance-to-competitive-advantage?u=76281980)
@@ -1230,7 +1232,7 @@ created: 2026-04-21
 > **Speakers:** - regulation (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Moving forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/moving-forward?u=76281980)
@@ -1262,6 +1264,16 @@ created: 2026-04-21
 > **Code Keywords:** this. (1), from. (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Vilas Dhar]]
+
+## Skills Covered
+
+- AI for Business
+- Artificial Intelligence (AI)
+- Regulatory Compliance
 
 ## Path Context
 

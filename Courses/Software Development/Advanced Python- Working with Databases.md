@@ -35,35 +35,32 @@ tags:
   - skill/databases
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python-%20Working%20with%20Databases.md)
 
 ![Advanced Python: Working with Databases](https://media.licdn.com/dms/image/v2/D560DAQGxhz_OMvM_mQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683668063867?e=2147483647&amp;v=beta&amp;t=HKWHjSXUO99KgnvNd2yEm5Ys3sbkYjuRVDgY8BXxEWk)
 
 # Advanced Python: Working with Databases
 
-> To create functional and useful Python applications, you need a database. Databases allow you to store data from user sessions, track inventory, make recommendations, and more.  However, Python is compatible with many options: SQLite, MySQL, and PostgreSQL, among others. Selecting the right database is a skill that advanced developers are expected to master. This course provides an excellent prime
+> To create functional and useful Python applications, you need a database. Databases allow you to store data from user sessions, track inventory, make recommendations, and more. However, Python is compatible with many options: SQLite, MySQL, and PostgreSQL, among others. Selecting the right database is a skill that advanced developers are expected to master. This course provides an excellent primer
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421) | 2h 6m | Advanced | 55K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kathryn Hodge]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-python-working-with-databases-4365479)
-
-## Skills Covered
-
-- Databases
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Databases in Python** (4 videos)
+- **3. 2. Using SQLite in Python** (11 videos)
+- **4. 3. Using MySQL in Python** (13 videos)
+- **5. 4. Using PostgreSQL in Python** (11 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using databases to level up your Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980)
@@ -93,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Databases in Python
+### 2. 1. Introduction to Databases in Python
 
 #### What is a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-a-database?u=76281980)
@@ -385,7 +382,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Using SQLite in Python
+### 3. 2. Using SQLite in Python
 
 #### What is SQLite?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980)
@@ -1205,7 +1202,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 3. Using MySQL in Python
+### 4. 3. Using MySQL in Python
 
 #### What is MySQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980)
@@ -2225,7 +2222,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Using PostgreSQL in Python
+### 5. 4. Using PostgreSQL in Python
 
 #### What is PostgreSQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980)
@@ -3025,7 +3022,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continue using databases in Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980)
@@ -3065,6 +3062,20 @@ created: 2026-04-21
 > **Env Vars:** orm (1)
 > **Speakers:** - [kathryn] (1)
 
+
+## Instructor
+
+- [[Kathryn Hodge]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-python-working-with-databases-4365479)
+
+## Skills Covered
+
+- Databases
+- Python (Programming Language)
 
 ## Path Context
 

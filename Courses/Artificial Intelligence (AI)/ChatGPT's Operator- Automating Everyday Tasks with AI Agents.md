@@ -20,8 +20,10 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ChatGPT's%20Operator-%20Automating%20Everyday%20Tasks%20with%20AI%20Agents.md)
 
 ![ChatGPT's Operator: Automating Everyday Tasks with AI Agents](https://media.licdn.com/dms/image/v2/D4D0DAQFflwJQIq13kA/learning-public-crop_675_1200/B4DZTdUgzhHYAc-/0/1738879929842?e=2147483647&amp;v=beta&amp;t=3JRD-ql75yU-22RlAWvdGRQAbob7WM8LxGItXheP0YM)
 
@@ -32,13 +34,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents) | 18m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. OpenAI's Operator** (4 videos)
+
+### 1. Introduction
 
 #### Accelerate everyday tasks with OpenAI's Operator
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980)
@@ -74,7 +77,7 @@ created: 2026-04-21
 > **Speakers:** - think (1)
 
 
-### 1. OpenAI's Operator
+### 2. 1. OpenAI's Operator
 
 #### What is an agent?
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980)
@@ -493,6 +496,10 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
 
 ## Path Context
 

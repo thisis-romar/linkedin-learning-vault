@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/marketing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Habits%20of%20Successful%20Marketers.md)
 
 ![The Habits of Successful Marketers](https://media.licdn.com/dms/image/v2/C560DAQGEtHNwFuKztg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637695334203?e=2147483647&amp;v=beta&amp;t=opZdPiRTlx0bI27-_KfiMZuL1aQObIUEa83idtq767U)
 
@@ -40,17 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers) | 43m | Beginner | 164K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brian Honigman]]
-
-## Skills Covered
-
-- Marketing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Analytical Skills for Marketers** (3 videos)
+- **3. 2. Implementation Skills for Marketers** (3 videos)
+- **4. 3. Collaborative Skills for Marketers** (3 videos)
+- **5. 4. Creative Thinking Skills for Marketers** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Long-term success as a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/long-term-success-as-a-marketer-16190565?u=76281980)
@@ -94,7 +97,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 1. Analytical Skills for Marketers
+### 2. 1. Analytical Skills for Marketers
 
 #### Set goals for accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/set-goals-for-accountability?u=76281980)
@@ -267,7 +270,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Implementation Skills for Marketers
+### 3. 2. Implementation Skills for Marketers
 
 #### Embrace a persistent execution process
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/embrace-a-persistent-execution-process?u=76281980)
@@ -444,7 +447,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Collaborative Skills for Marketers
+### 4. 3. Collaborative Skills for Marketers
 
 #### Sharpen your communication capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980)
@@ -609,7 +612,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Creative Thinking Skills for Marketers
+### 5. 4. Creative Thinking Skills for Marketers
 
 #### Develop your creative abilities as a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/develop-your-creative-abilities-as-a-marketer?u=76281980)
@@ -769,7 +772,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Accept the development process
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/accept-the-development-process?u=76281980)
@@ -796,6 +799,14 @@ created: 2026-04-21
 > **URLs:** [brianhonigman.com](https://brianhonigman.com) (1)
 > **Speakers:** - [brian] (1)
 
+
+## Instructor
+
+- [[Brian Honigman]]
+
+## Skills Covered
+
+- Marketing
 
 ## Path Context
 

@@ -26,31 +26,33 @@ tags:
   - topic/security
   - skill/solution-selling
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Solution%20Sales.md)
 
 ![Solution Sales](https://media.licdn.com/dms/image/v2/C4E0DAQHJXVEV0MBrKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1569622270306?e=2147483647&amp;v=beta&amp;t=0TVz1iZ53B4Q9xNWSOfu2MVeVxN4IuMXK4MtJlaV_6Y)
 
 # Solution Sales
 
-> The modern buyer is more knowledgeable and savvy than ever before. By taking a collaborative approach with the buyer and developing solutions, instead of relying on outdated sales tactics, professional sellers can create real value for clients and subsequently close more deals. Learn the solution selling method, and find out how to shift the emphasis from product features to customer value.
-
-Lea
+> The modern buyer is more knowledgeable and savvy than ever before. By taking a collaborative approach with the buyer and developing solutions, instead of relying on outdated sales tactics, professional sellers can create real value for clients and subsequently close more deals. Learn the solution selling method, and find out how to shift the emphasis from product features to customer value. Leader
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales) | 55m | Intermediate | 75K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott K. Edinger]]
-
-## Skills Covered
-
-- Solution Selling
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Solution Sales Mindset** (3 videos)
+- **3. 2. Developing a Buyer Focus** (3 videos)
+- **4. 3. Identifying Objectives and Creating Value** (6 videos)
+- **5. 4. Establishing Shared Success** (4 videos)
+- **6. 5. Planning for Solution Sales Opportunities** (1 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with solution sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/getting-started-with-solution-sales?u=76281980)
@@ -102,7 +104,7 @@ Lea
 > **Speakers:** - i (1)
 
 
-### 1. The Solution Sales Mindset
+### 2. 1. The Solution Sales Mindset
 
 #### The solution sales mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980)
@@ -342,7 +344,7 @@ Lea
 > **Speakers:** - in (1)
 
 
-### 2. Developing a Buyer Focus
+### 3. 2. Developing a Buyer Focus
 
 #### Qualify who is buying the solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/qualify-who-is-buying-the-solution-8970910?u=76281980)
@@ -571,7 +573,7 @@ Lea
 > **Speakers:** - one (1)
 
 
-### 3. Identifying Objectives and Creating Value
+### 4. 3. Identifying Objectives and Creating Value
 
 #### Take the lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/take-the-lead-8972691?u=76281980)
@@ -1021,7 +1023,7 @@ Lea
 > **Speakers:** - as (1)
 
 
-### 4. Establishing Shared Success
+### 5. 4. Establishing Shared Success
 
 #### Determine progress and value
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/determine-progress-and-value-8973631?u=76281980)
@@ -1295,7 +1297,7 @@ Lea
 > **Speakers:** - we (1)
 
 
-### 5. Planning for Solution Sales Opportunities
+### 6. 5. Planning for Solution Sales Opportunities
 
 #### Plan for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/plan-for-success-8975144?u=76281980)
@@ -1357,7 +1359,7 @@ Lea
 > **Speakers:** - it (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980)
@@ -1433,6 +1435,14 @@ Lea
 > **UI Navigation:** open the (1)
 > **Speakers:** - there (1)
 
+
+## Instructor
+
+- [[Scott K. Edinger]]
+
+## Skills Covered
+
+- Solution Selling
 
 ## Path Context
 

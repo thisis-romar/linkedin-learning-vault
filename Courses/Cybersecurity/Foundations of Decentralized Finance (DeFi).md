@@ -29,8 +29,10 @@ tags:
   - skill/decentralization
   - skill/finance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Foundations%20of%20Decentralized%20Finance%20(DeFi).md)
 
 ![Foundations of Decentralized Finance (DeFi)](https://media.licdn.com/dms/image/v2/C4E0DAQGhvO-VcL7c7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1653581151064?e=2147483647&amp;v=beta&amp;t=JSM62rVxO3DbsQWuulxLz_836zQ9WfiUmx-Qon3AJnA)
 
@@ -41,22 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi) | 59m | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kedric Van de Carr]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Decentralization
-- Finance
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What is Decentralized Finance?** (6 videos)
+- **3. 2. Yields Available in DeFi** (5 videos)
+- **4. 3. Essential Tools of DeFi** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The rapid growth of DeFi
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/the-rapid-growth-of-defi?u=76281980)
@@ -103,7 +100,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 1. What is Decentralized Finance?
+### 2. 1. What is Decentralized Finance?
 
 #### What is DeFi?
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980)
@@ -436,7 +433,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. Yields Available in DeFi
+### 3. 2. Yields Available in DeFi
 
 #### Higher-risk adjusted returns
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/higher-risk-adjusted-returns?u=76281980)
@@ -814,7 +811,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Essential Tools of DeFi
+### 4. 3. Essential Tools of DeFi
 
 #### How to enter the world of DeFi
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-enter-the-world-of-defi?u=76281980)
@@ -1485,7 +1482,7 @@ created: 2026-04-21
 > **Speakers:** - lending (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Learn more about DeFi
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/learn-more-about-defi?u=76281980)
@@ -1548,6 +1545,19 @@ created: 2026-04-21
 > **Env Vars:** nft (5)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Kedric Van de Carr]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Decentralization
+- Finance
 
 ## Path Context
 

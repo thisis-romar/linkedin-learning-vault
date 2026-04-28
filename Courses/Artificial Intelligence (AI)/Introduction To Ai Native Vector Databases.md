@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Ai%20Native%20Vector%20Databases.md)
 
 ![Introduction To Ai Native Vector Databases](https://media.licdn.com/dms/image/v2/D4D0DAQFc3phQ64lAsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702341179674?e=2147483647&amp;v=beta&amp;t=DA3L9IPfoR2oDugHZT-Q8SlcfrRRNBd04nf4gYCizSE)
 
@@ -48,24 +50,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases) | Intermediate | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Zain Hasan]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-ai-native-vector-databases-4470531)
-
-## Skills Covered
-
-- Vector Databases
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Data: What Data Do Vector Databases Store and How Is It Stored?** (6 videos)
+- **3. 2. Natural Querying: How Do You Search for Data in a Vector Database?** (6 videos)
+- **4. 3. Machine Learning Vectors: How Does a Vector Database Understand Your Data?** (5 videos)
+- **5. 4. Scalability: What Does a Vector Database Need to Do?** (5 videos)
+- **6. 5. Demonstrate Vector DBs and Use Cases** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning AI-native vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980)
@@ -187,7 +184,7 @@ created: 2026-04-21
 > **Definitions:** known as (1)
 
 
-### 1. Data: What Data Do Vector Databases Store and How Is It Stored?
+### 2. 1. Data: What Data Do Vector Databases Store and How Is It Stored?
 
 #### Structured versus unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980)
@@ -899,7 +896,7 @@ created: 2026-04-21
 > **UI Navigation:** scroll up (1), go to (1)
 
 
-### 2. Natural Querying: How Do You Search for Data in a Vector Database?
+### 3. 2. Natural Querying: How Do You Search for Data in a Vector Database?
 
 #### Frame the query as a question or search
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980)
@@ -1902,7 +1899,7 @@ created: 2026-04-21
 > **Tools:** github (1)
 
 
-### 3. Machine Learning Vectors: How Does a Vector Database Understand Your Data?
+### 4. 3. Machine Learning Vectors: How Does a Vector Database Understand Your Data?
 
 #### Machine learning models and object classification
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980)
@@ -2780,7 +2777,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 4. Scalability: What Does a Vector Database Need to Do?
+### 5. 4. Scalability: What Does a Vector Database Need to Do?
 
 #### Scalability: When to use a vector DB
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980)
@@ -3394,7 +3391,7 @@ created: 2026-04-21
 > **Documentation:** the readme (1)
 
 
-### 5. Demonstrate Vector DBs and Use Cases
+### 6. 5. Demonstrate Vector DBs and Use Cases
 
 #### Vector DB1: E-commerce RecSys
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980)
@@ -4197,7 +4194,7 @@ created: 2026-04-21
 > **Env Vars:** rag (2)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continue your AI-native vector databases learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980)
@@ -4229,6 +4226,21 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 
+
+## Instructor
+
+- [[Zain Hasan]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-ai-native-vector-databases-4470531)
+
+## Skills Covered
+
+- Vector Databases
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Storage%20Essential%20Training%20(2021).md)
 
 ![Azure Storage Essential Training (2021)](https://media.licdn.com/dms/image/v2/D4E0DAQGLwz6rO3cApg/learning-public-crop_675_1200/B4EZikezwuHEAo-/0/1755106197431?e=2147483647&amp;v=beta&amp;t=1B4si2mZaP1fJkeHXku2jxHW_bNbHfwiAG57BO4kvSQ)
 
@@ -41,21 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021) | 2h 17m | Intermediate | 47K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Charbel Nemnom]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Develop Solutions for Azure Blob Storage** (6 videos)
+- **3. 2. Develop Solutions for Azure Files** (7 videos)
+- **4. 3. Develop Solutions for Azure Queues** (3 videos)
+- **5. 4. Secure Azure Storage** (6 videos)
+- **6. 5. Manage Azure Storage** (4 videos)
+- **7. 6. Backup Azure Storage** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to Azure Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980)
@@ -160,7 +161,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Develop Solutions for Azure Blob Storage
+### 2. 1. Develop Solutions for Azure Blob Storage
 
 #### Azure Storage accounts and replication
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980)
@@ -667,7 +668,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Develop Solutions for Azure Files
+### 3. 2. Develop Solutions for Azure Files
 
 #### Azure Files
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980)
@@ -1291,7 +1292,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. Develop Solutions for Azure Queues
+### 4. 3. Develop Solutions for Azure Queues
 
 #### Azure Storage queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980)
@@ -1654,7 +1655,7 @@ created: 2026-04-21
 > **Code Identifiers:** appsettings (1)
 
 
-### 4. Secure Azure Storage
+### 5. 4. Secure Azure Storage
 
 #### Securing storage data
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980)
@@ -2235,7 +2236,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Manage Azure Storage
+### 6. 5. Manage Azure Storage
 
 #### Azure Storage Explorer
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980)
@@ -2617,7 +2618,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### 6. Backup Azure Storage
+### 7. 6. Backup Azure Storage
 
 #### Protecting Azure file shares
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980)
@@ -3025,7 +3026,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Learning never stops
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980)
@@ -3060,6 +3061,18 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [charbel] (1)
 
+
+## Instructor
+
+- [[Charbel Nemnom]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Azure
 
 ## Path Context
 

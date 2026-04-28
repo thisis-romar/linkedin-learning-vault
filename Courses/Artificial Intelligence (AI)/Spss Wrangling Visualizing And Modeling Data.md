@@ -29,8 +29,10 @@ tags:
   - skill/ibm-spss
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Spss%20Wrangling%20Visualizing%20And%20Modeling%20Data.md)
 
 ![Spss Wrangling Visualizing And Modeling Data](https://media.licdn.com/dms/image/v2/D4E0DAQFy_MxOkb2MUA/learning-public-crop_675_1200/B4EZesjtdFGcAY-/0/1750946732094?e=2147483647&amp;v=beta&amp;t=VAUW_WHFgCwQ25tNN10Q7r0JTJUebglctH_DSGDVOqc)
 
@@ -41,19 +43,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data) | Intermediate | 105K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Wrangling
-- IBM SPSS
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What is SPSS?** (2 videos)
+- **3. 2. Getting Started** (7 videos)
+- **4. 3. Data Visualization** (7 videos)
+- **5. 4. Data Wrangling** (5 videos)
+- **6. 5. Recoding Data** (8 videos)
+- **7. 6. Exploring Data** (7 videos)
+- **8. 7. Clustering and Classification** (6 videos)
+- **9. 8. Analyzing Data** (6 videos)
+- **10. 9. Building Predictive Models** (4 videos)
+- **11. 10. Sharing Your Work** (1 videos)
+- **12. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/welcome?u=76281980)
@@ -100,7 +107,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. What is SPSS?
+### 2. 1. What is SPSS?
 
 #### SPSS in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980)
@@ -222,7 +229,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Getting Started
+### 3. 2. Getting Started
 
 #### Navigating SPSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980)
@@ -996,7 +1003,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Visualization
+### 4. 3. Data Visualization
 
 #### Visualizing data with Chart Builder
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/visualizing-data-with-chart-builder?u=76281980)
@@ -1806,7 +1813,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data Wrangling
+### 5. 4. Data Wrangling
 
 #### Importing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980)
@@ -2589,7 +2596,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 5. Recoding Data
+### 6. 5. Recoding Data
 
 #### Recoding variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-variables?u=76281980)
@@ -3986,7 +3993,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Exploring Data
+### 7. 6. Exploring Data
 
 #### Computing frequencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980)
@@ -5375,7 +5382,7 @@ created: 2026-04-21
 > **File Paths:** d.c (2)
 
 
-### 7. Clustering and Classification
+### 8. 7. Clustering and Classification
 
 #### Hierarchical clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980)
@@ -6467,7 +6474,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Analyzing Data
+### 9. 8. Analyzing Data
 
 #### Comparing proportions
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980)
@@ -7135,7 +7142,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Building Predictive Models
+### 10. 9. Building Predictive Models
 
 #### Computing a linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980)
@@ -8020,7 +8027,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### 10. Sharing Your Work
+### 11. 10. Sharing Your Work
 
 #### Exporting charts and tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980)
@@ -8129,7 +8136,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 12. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980)
@@ -8162,6 +8169,16 @@ created: 2026-04-21
 > **Env Vars:** spss (5)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Wrangling
+- IBM SPSS
+- Data Visualization
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/data-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Analyst%20Mindset-%2010%20Nontechnical%20Ways%20to%20Influence%20Decisions.md)
 
 ![Data Analyst Mindset: 10 Nontechnical Ways to Influence Decisions](https://media.licdn.com/dms/image/v2/D560DAQH-aE9xH5t7Ig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694208112276?e=2147483647&amp;v=beta&amp;t=iR1o8Ro5APuHsIJ2nZCq3bo0kiXCeBeRW75tprfUquA)
 
@@ -40,21 +42,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions) | 36m | Intermediate | 306K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mico Yuk]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Data Analyst Mindset: 10 Non-technical Ways to Influence Decisions** (10 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Put away your data and listen carefully
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/put-away-your-data-and-listen-carefully?u=76281980)
@@ -78,7 +74,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 1. Data Analyst Mindset: 10 Non-technical Ways to Influence Decisions
+### 2. 1. Data Analyst Mindset: 10 Non-technical Ways to Influence Decisions
 
 #### Know your role: The guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/know-your-role-the-guide?u=76281980)
@@ -899,7 +895,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Continue your data analyst learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/continue-your-data-analyst-learning-journey?u=76281980)
@@ -934,6 +930,18 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Mico Yuk]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Analysis
 
 ## Path Context
 

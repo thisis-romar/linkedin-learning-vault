@@ -31,8 +31,10 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C%2B%2B%20Design%20Patterns-%20Behavioral.md)
 
 ![C++ Design Patterns: Behavioral](https://media.licdn.com/dms/image/v2/C560DAQF-T1GpCdCroQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622849290891?e=2147483647&amp;v=beta&amp;t=XPPas-HZ6qijtjMWsh3ZmwdAnBOCra5dMGd9zPyoPgw)
 
@@ -43,22 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral) | 3h 29m | Intermediate | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shaun Wassell]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Software Design Patterns
-- C++
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Design Patterns** (1 videos)
+- **3. 2. Behavioral Patterns Group 1** (15 videos)
+- **4. 3. Behavioral Patterns Group 2: Strategies, States, and Interpretations** (18 videos)
+- **5. 4. Behavioral Patterns Group 3** (12 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Behavioral patterns improve software design
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/behavioral-patterns-improve-software-design?u=76281980)
@@ -127,7 +125,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Design Patterns
+### 2. 1. Introduction to Design Patterns
 
 #### What are design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980)
@@ -172,7 +170,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Behavioral Patterns Group 1
+### 3. 2. Behavioral Patterns Group 1
 
 #### The Chain of Responsibility pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-chain-of-responsibility-pattern?u=76281980)
@@ -1729,7 +1727,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Behavioral Patterns Group 2: Strategies, States, and Interpretations
+### 4. 3. Behavioral Patterns Group 2: Strategies, States, and Interpretations
 
 #### The Interpreter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-interpreter-pattern?u=76281980)
@@ -3325,7 +3323,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Behavioral Patterns Group 3
+### 5. 4. Behavioral Patterns Group 3
 
 #### The Iterator pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980)
@@ -4307,7 +4305,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980)
@@ -4354,6 +4352,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [shaun] (1)
 
+
+## Instructor
+
+- [[Shaun Wassell]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Software Design Patterns
+- C++
 
 ## Path Context
 

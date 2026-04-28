@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Swift%205%20Essential%20Training.md)
 
 ![Swift 5 Essential Training](https://media.licdn.com/dms/image/v2/C560DAQEks0fJDAIWMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568843493234?e=2147483647&amp;v=beta&amp;t=Ey2BOGas6-6UdMEFUO7hHuHTHqGxudAPCc2i_SAC6Mk)
 
@@ -42,21 +44,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training) | Beginner | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Harrison Ferrone]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Swift (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started** (3 videos)
+- **3. 2. Getting to Know Your Data** (13 videos)
+- **4. 3. Working with Collections** (10 videos)
+- **5. 4. Application Control Flow** (9 videos)
+- **6. 5. The Wide World of Functions** (10 videos)
+- **7. 6. Classes, Structs, and Beyond** (9 videos)
+- **8. 7. Leveling Up with Enums, Protocols, and Errors** (9 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Begin an adventure with Swift 5
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/begin-an-adventure-with-swift-5-14524901?u=76281980)
@@ -123,7 +125,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Swift retrospective
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980)
@@ -284,7 +286,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Getting to Know Your Data
+### 3. 2. Getting to Know Your Data
 
 #### The quest begins: Variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/the-quest-begins-variables-14530749?u=76281980)
@@ -1122,7 +1124,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 3. Working with Collections
+### 4. 3. Working with Collections
 
 #### Gathering inventory with collections
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/gathering-inventory-with-collections-14525882?u=76281980)
@@ -2015,7 +2017,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Application Control Flow
+### 5. 4. Application Control Flow
 
 #### Controlling your destiny
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/controlling-your-destiny-14531795?u=76281980)
@@ -2732,7 +2734,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 5. The Wide World of Functions
+### 6. 5. The Wide World of Functions
 
 #### Leveling the playing field
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/leveling-the-playing-field-14528852?u=76281980)
@@ -3501,7 +3503,7 @@ created: 2026-04-21
 > **Non-Speech:** (soft music) (1)
 
 
-### 6. Classes, Structs, and Beyond
+### 7. 6. Classes, Structs, and Beyond
 
 #### Populating the game world
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/populating-the-game-world-14526925?u=76281980)
@@ -4307,7 +4309,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Leveling Up with Enums, Protocols, and Errors
+### 8. 7. Leveling Up with Enums, Protocols, and Errors
 
 #### Final stage, final boss
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/final-stage-final-boss-14530766?u=76281980)
@@ -5059,7 +5061,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/next-steps-14526916?u=76281980)
@@ -5081,6 +5083,18 @@ created: 2026-04-21
 > **Code Identifiers:** ios (2)
 > **Speakers:** - [harrison] (1)
 
+
+## Instructor
+
+- [[Harrison Ferrone]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Swift (Programming Language)
 
 ## Path Context
 

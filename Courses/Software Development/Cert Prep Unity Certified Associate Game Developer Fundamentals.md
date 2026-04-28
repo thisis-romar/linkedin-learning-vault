@@ -26,8 +26,10 @@ tags:
   - skill/game-development
   - skill/unity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep%20Unity%20Certified%20Associate%20Game%20Developer%20Fundamentals.md)
 
 ![Cert Prep Unity Certified Associate Game Developer Fundamentals](https://media.licdn.com/dms/image/v2/C4E0DAQGIIezGggqrWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611706134439?e=2147483647&amp;v=beta&amp;t=KuB59coroqg0Ko_On3PKwxmb0fyp_5OAQDTVbmibPIc)
 
@@ -38,18 +40,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals) | Intermediate | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Game Development
-- Unity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Editor Interface** (6 videos)
+- **3. 2. Level Design** (7 videos)
+- **4. 3. Project Management** (4 videos)
+- **5. 4. Asset Management** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Fundamentals 
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/fundamentals?u=76281980)
@@ -112,7 +114,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Editor Interface
+### 2. 1. Editor Interface
 
 #### Introducing Unity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980)
@@ -840,7 +842,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Level Design
+### 3. 2. Level Design
 
 #### Adding and removing GameObjects
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980)
@@ -2263,7 +2265,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Project Management
+### 4. 3. Project Management
 
 #### Packages
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980)
@@ -2868,7 +2870,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 4. Asset Management
+### 5. 4. Asset Management
 
 #### Creating a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-a-project?u=76281980)
@@ -3768,7 +3770,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980)
@@ -3802,6 +3804,15 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Game Development
+- Unity
 
 ## Path Context
 

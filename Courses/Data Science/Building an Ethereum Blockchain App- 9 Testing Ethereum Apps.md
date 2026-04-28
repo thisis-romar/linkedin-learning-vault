@@ -36,8 +36,10 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%209%20Testing%20Ethereum%20Apps.md)
 
 ![Building an Ethereum Blockchain App: 9 Testing Ethereum Apps](https://media.licdn.com/dms/image/v2/C560DAQGoHY4aAXRivA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628619895946?e=2147483647&amp;v=beta&amp;t=rjgPq0bYe1tqaRSoDuTvlVNxVH0LioCklBA3W5NP1vw)
 
@@ -48,23 +50,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps) | 1h 6m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Solomon]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Software Testing
-- Blockchain
-- Ethereum
-
 ## Table of Contents
 
-### 1. Testing Ethereum Apps
+### Chapter Overview
+
+- **1. 1. Testing Ethereum Apps** (10 videos)
+
+### 1. 1. Testing Ethereum Apps
 
 #### Blockchain dApp testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980)
@@ -1538,6 +1530,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
 
+
+## Instructor
+
+- [[Michael Solomon]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Software Testing
+- Blockchain
+- Ethereum
 
 ## Path Context
 

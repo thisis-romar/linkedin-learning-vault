@@ -33,8 +33,10 @@ tags:
   - skill/data-governance
   - skill/ai-governance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Data%20Governance%2C%20Compliance%2C%20and%20Auditing%20for%20Developers.md)
 
 ![AI Data Governance, Compliance, and Auditing for Developers](https://media.licdn.com/dms/image/v2/D4E0DAQEWj65SFSLFxg/learning-public-crop_675_1200/B4EZZpsyldHcAc-/0/1745530071787?e=2147483647&amp;v=beta&amp;t=we_NA_AfB0WMb_fZQa3aBYD1i0mkaBFKNxMkGF8UOFc)
 
@@ -45,19 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers) | 1h 14m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Masheika Allgood]]
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- Data Governance
-- AI Governance
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. National and International Foundations for AI Data Governance** (5 videos)
+- **3. 2. The Role of Data Transparency in AI Data Governance** (4 videos)
+- **4. 3. Compliance for AI Data Governance** (4 videos)
+- **5. 4. AI Data Governance Auditing** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Your developer guide to AI data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/your-developer-guide-to-ai-data-governance?u=76281980)
@@ -87,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - is (1)
 
 
-### 1. National and International Foundations for AI Data Governance
+### 2. 1. National and International Foundations for AI Data Governance
 
 #### Introduction to national and international foundation for AI data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980)
@@ -673,7 +674,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Role of Data Transparency in AI Data Governance
+### 3. 2. The Role of Data Transparency in AI Data Governance
 
 #### Introduction to the role of data transparency
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980)
@@ -1015,7 +1016,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Compliance for AI Data Governance
+### 4. 3. Compliance for AI Data Governance
 
 #### Introduction to AI data compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980)
@@ -1383,7 +1384,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 4. AI Data Governance Auditing
+### 5. 4. AI Data Governance Auditing
 
 #### Introduction to AI data governance auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980)
@@ -1600,7 +1601,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continuing your AI data governance journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980)
@@ -1628,6 +1629,16 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Masheika Allgood]]
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- Data Governance
+- AI Governance
 
 ## Path Context
 

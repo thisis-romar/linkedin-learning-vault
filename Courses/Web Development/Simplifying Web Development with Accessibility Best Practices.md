@@ -24,8 +24,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Simplifying%20Web%20Development%20with%20Accessibility%20Best%20Practices.md)
 
 ![Simplifying Web Development with Accessibility Best Practices](https://media.licdn.com/dms/image/v2/C560DAQGvnExQWRvuDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622152004842?e=2147483647&amp;v=beta&amp;t=0qellubEwrYR9nJeO84vRKbAdxom225hGsHAiQj6a6g)
 
@@ -36,13 +38,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices) | 1h 48m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Back to Basics** (3 videos)
+- **3. 2. Accessible Design** (3 videos)
+- **4. 3. Hiding and Showing** (3 videos)
+- **5. 4. Semantics and Interactivity** (7 videos)
+- **6. 5. Images, Graphics, and Media** (6 videos)
+- **7. 6. Practical Examples** (5 videos)
+- **8. 7. Proof and Pudding** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Simplifying web development with accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/simplifying-web-development-with-accessibility?u=76281980)
@@ -70,7 +80,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Back to Basics
+### 2. 1. Back to Basics
 
 #### Overcomplicating things that already work
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/overcomplicating-things-that-already-work?u=76281980)
@@ -248,7 +258,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Accessible Design
+### 3. 2. Accessible Design
 
 #### Designing an accessible color palette
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/designing-an-accessible-color-palette?u=76281980)
@@ -471,7 +481,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Hiding and Showing
+### 4. 3. Hiding and Showing
 
 #### Is hiding or showing content a good idea?
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/is-hiding-or-showing-content-a-good-idea?u=76281980)
@@ -639,7 +649,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Semantics and Interactivity
+### 5. 4. Semantics and Interactivity
 
 #### The role of semantic elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/the-role-of-semantic-elements?u=76281980)
@@ -1022,7 +1032,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 5. Images, Graphics, and Media
+### 6. 5. Images, Graphics, and Media
 
 #### Images, graphics, and media basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/images-graphics-and-media-basics?u=76281980)
@@ -1493,7 +1503,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Practical Examples
+### 7. 6. Practical Examples
 
 #### Mobile-friendly navigation menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/mobile-friendly-navigation-menu?u=76281980)
@@ -2280,7 +2290,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Proof and Pudding
+### 8. 7. Proof and Pudding
 
 #### Simplifying web development with accessibility best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/simplifying-web-development-with-accessibility-best-practices?u=76281980)
@@ -2699,7 +2709,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Accessibility mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/accessibility-mindset?u=76281980)
@@ -2727,6 +2737,10 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - [morten] (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
 
 ## Path Context
 

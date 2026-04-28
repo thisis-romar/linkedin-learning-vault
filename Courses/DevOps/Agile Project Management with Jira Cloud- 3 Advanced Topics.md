@@ -30,8 +30,10 @@ tags:
   - skill/jira
   - skill/agile-project-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Project%20Management%20with%20Jira%20Cloud-%203%20Advanced%20Topics.md)
 
 ![Agile Project Management with Jira Cloud: 3 Advanced Topics](https://media.licdn.com/dms/image/v2/C560DAQGuiPKvTS5enQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633712631003?e=2147483647&amp;v=beta&amp;t=ySDkZBEM7o4Y3znddh9P1JZnvQzKszEqw6ynjYdrTwo)
 
@@ -42,18 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics) | 52m | Intermediate | 916K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Atlassian University]]
-
-## Skills Covered
-
-- Jira
-- Agile Project Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Filters** (3 videos)
+- **3. 2. Epics** (3 videos)
+- **4. 3. Dashboards** (2 videos)
+- **5. 4. Putting It All Together** (3 videos)
+
+### 1. Introduction
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980)
@@ -107,7 +108,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Filters
+### 2. 1. Filters
 
 #### Filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980)
@@ -433,7 +434,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Epics
+### 3. 2. Epics
 
 #### Epics
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980)
@@ -827,7 +828,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Dashboards
+### 4. 3. Dashboards
 
 #### Dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980)
@@ -979,7 +980,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Putting It All Together
+### 5. 4. Putting It All Together
 
 #### Putting it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980)
@@ -1286,6 +1287,15 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Atlassian University]]
+
+## Skills Covered
+
+- Jira
+- Agile Project Management
 
 ## Path Context
 

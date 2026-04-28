@@ -22,8 +22,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Speaking%20Confidently%20and%20Effectively.md)
 
 ![Speaking Confidently and Effectively](https://media.licdn.com/dms/image/v2/C4E0DAQHOl-2agpS1Gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1605821728995?e=2147483647&amp;v=beta&amp;t=e2-AzXBF27T12NIPPhqTh6aY9dqb8VCFO0j9frhjsO4)
 
@@ -34,13 +36,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively) | 22m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Pete Mockaitis - How to Be Awesome at Your Job]]
-
 ## Table of Contents
 
-### 1. Speaking Confidently and Effectively
+### Chapter Overview
+
+- **1. 1. Speaking Confidently and Effectively** (10 videos)
+
+### 1. 1. Speaking Confidently and Effectively
 
 #### Great speaking skills are a must-have
 > [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980)
@@ -780,6 +782,10 @@ created: 2026-04-21
 > **Code Keywords:** let (2)
 > **Speakers:** - [interviewer] (1), - [interviwee] (1)
 
+
+## Instructor
+
+- [[Pete Mockaitis - How to Be Awesome at Your Job]]
 
 ## Path Context
 

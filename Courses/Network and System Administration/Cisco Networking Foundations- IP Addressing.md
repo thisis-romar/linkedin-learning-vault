@@ -30,8 +30,10 @@ tags:
   - skill/ip-addressing
   - skill/cisco-networking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations-%20IP%20Addressing.md)
 
 ![Cisco Networking Foundations: IP Addressing](https://media.licdn.com/dms/image/v2/C560DAQHYL1WbFHdmTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660156548404?e=2147483647&amp;v=beta&amp;t=JkG8tVL92pU8DOSgGoVaa3BVPESVAdiyUS4TMN6kuNI)
 
@@ -42,22 +44,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing) | 1h 35m | Beginner | 49K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Wallace]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- IP Addressing
-- Cisco Networking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. IPv4 Addressing** (15 videos)
+- **3. 2. IPv6 Addressing** (14 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn IP addressing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980)
@@ -119,7 +115,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. IPv4 Addressing
+### 2. 1. IPv4 Addressing
 
 #### Converting from binary to decimal
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/converting-from-binary-to-decimal?u=76281980)
@@ -1447,7 +1443,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. IPv6 Addressing
+### 3. 2. IPv6 Addressing
 
 #### Hexadecimal numbering
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/hexadecimal-numbering?u=76281980)
@@ -2418,7 +2414,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980)
@@ -2458,6 +2454,19 @@ created: 2026-04-21
 > **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kevin Wallace]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- IP Addressing
+- Cisco Networking
 
 ## Path Context
 

@@ -30,30 +30,31 @@ tags:
   - skill/jira
   - skill/agile-project-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Project%20Management%20with%20Jira%20Cloud-%201%20Projects%2C%20Boards%2C%20and%20Issues.md)
 
 ![Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues](https://media.licdn.com/dms/image/v2/C560DAQH_EJZKQzQRMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633624673369?e=2147483647&amp;v=beta&amp;t=E9TLuAANcsbfaTrUENMJBQRHtDUnVOFP2WFHJybdQ8Q)
 
 # Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues
 
-> Get started with agile project management. Get an overview of agile and Jira, then practice creating and using project boards in both company-managed and team-managed versions of Jira Cloud. Learn how to create issues and subtasks, and explore techniques to make your logged issues more useful. Finally,  learn the value of the kanban method, and how to configure a kanban board.Note: To check out ot
+> Get started with agile project management. Get an overview of agile and Jira, then practice creating and using project boards in both company-managed and team-managed versions of Jira Cloud. Learn how to create issues and subtasks, and explore techniques to make your logged issues more useful. Finally, learn the value of the kanban method, and how to configure a kanban board.Note: To check out oth
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues) | 1h 13m | Intermediate | 916K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Atlassian University]]
-
-## Skills Covered
-
-- Jira
-- Agile Project Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Agile and Jira** (3 videos)
+- **3. 2. Project Boards** (3 videos)
+- **4. 3. Enrich Issues** (3 videos)
+- **5. 4. Kanban Method** (3 videos)
+
+### 1. Introduction
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/course-overview?u=76281980)
@@ -106,7 +107,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Agile and Jira
+### 2. 1. Agile and Jira
 
 #### Agile and Jira overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980)
@@ -415,7 +416,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Project Boards
+### 3. 2. Project Boards
 
 #### Using project boards
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980)
@@ -806,7 +807,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Enrich Issues
+### 4. 3. Enrich Issues
 
 #### Enriching issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980)
@@ -1345,7 +1346,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Kanban Method
+### 5. 4. Kanban Method
 
 #### Using the kanban method
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980)
@@ -1787,6 +1788,15 @@ created: 2026-04-21
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Atlassian University]]
+
+## Skills Covered
+
+- Jira
+- Agile Project Management
 
 ## Path Context
 

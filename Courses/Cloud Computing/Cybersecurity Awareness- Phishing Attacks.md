@@ -35,8 +35,10 @@ tags:
   - skill/phishing
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Phishing%20Attacks.md)
 
 ![Cybersecurity Awareness: Phishing Attacks](https://media.licdn.com/dms/image/v2/D4E0DAQEcxOyUngc96w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732642712919?e=2147483647&amp;v=beta&amp;t=w3F8-GEnr4TOCZ1KywlF1dIYfBJO2KsTy7T4TXGGhRs)
 
@@ -47,23 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677) | 1h 10m | Beginner | 50K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Stephanie Ihezukwu]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Security Awareness
-- Phishing
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. An Overview of Phishing** (3 videos)
+- **3. 2. How to Catch a Phish** (3 videos)
+- **4. 3. Different Types of Phishing Attacks** (6 videos)
+- **5. 4. How to Defend against Phishing Attacks** (2 videos)
+- **6. 5. What Happens If You Fall for a Phish** (2 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Can you spot a phish?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980)
@@ -97,7 +95,7 @@ created: 2026-04-21
 > **Speakers:** - can (1)
 
 
-### 1. An Overview of Phishing
+### 2. 1. An Overview of Phishing
 
 #### Phishing: Understanding cyber deception
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980)
@@ -362,7 +360,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. How to Catch a Phish
+### 3. 2. How to Catch a Phish
 
 #### Triggered: The surprising psychology behind a click
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980)
@@ -626,7 +624,7 @@ created: 2026-04-21
 > **Speakers:** - phishing (1)
 
 
-### 3. Different Types of Phishing Attacks
+### 4. 3. Different Types of Phishing Attacks
 
 #### Is it a harmless unknown caller or vishing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-it-a-harmless-unknown-caller-or-vishing?u=76281980)
@@ -1136,7 +1134,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 4. How to Defend against Phishing Attacks
+### 5. 4. How to Defend against Phishing Attacks
 
 #### How technology helps with the fight against phishing attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980)
@@ -1324,7 +1322,7 @@ created: 2026-04-21
 > **Speakers:** - no (1)
 
 
-### 5. What Happens If You Fall for a Phish
+### 6. 5. What Happens If You Fall for a Phish
 
 #### Responding to a phishing attack at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980)
@@ -1502,7 +1500,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### The future of phishing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980)
@@ -1608,6 +1606,20 @@ created: 2026-04-21
 > **Code Keywords:** extends (1)
 > **Speakers:** - dearest (1)
 
+
+## Instructor
+
+- [[Stephanie Ihezukwu]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Security Awareness
+- Phishing
+- Cybersecurity
 
 ## Path Context
 

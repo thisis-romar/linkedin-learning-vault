@@ -21,8 +21,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Flow.md)
 
 ![Interaction Design: Flow](https://media.licdn.com/dms/image/v2/C510DAQEwrwNBxVnNEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1583354233184?e=2147483647&amp;v=beta&amp;t=NDUFZLocl7p1vi0m_G7m578r6jqZdMpqnEOAij4M7Rk)
 
@@ -33,13 +35,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow) | 29m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Diane Cronenwett]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Flow in Interaction Design** (3 videos)
+- **3. 2. Diagrams As Design Tools** (4 videos)
+- **4. 3. Constructing a Flow** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of flow in interaction design
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980)
@@ -73,7 +79,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 1. Flow in Interaction Design
+### 2. 1. Flow in Interaction Design
 
 #### Defining a user's flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980)
@@ -279,7 +285,7 @@ created: 2026-04-21
 > **Speakers:** - flows (1)
 
 
-### 2. Diagrams As Design Tools
+### 3. 2. Diagrams As Design Tools
 
 #### Why use diagrams?
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980)
@@ -540,7 +546,7 @@ created: 2026-04-21
 > **Speakers:** - diagrams (1)
 
 
-### 3. Constructing a Flow
+### 4. 3. Constructing a Flow
 
 #### Creating a flow map
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/creating-a-flow-map?u=76281980)
@@ -725,7 +731,7 @@ created: 2026-04-21
 > **Speakers:** - once (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Mastering flow in UX
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/mastering-flow-in-ux?u=76281980)
@@ -753,6 +759,10 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Diane Cronenwett]]
 
 ## Path Context
 

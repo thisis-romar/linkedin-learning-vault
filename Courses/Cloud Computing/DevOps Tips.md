@@ -32,8 +32,10 @@ tags:
   - topic/software-development
   - skill/devops
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/DevOps%20Tips.md)
 
 ![DevOps Tips](https://media.licdn.com/dms/image/v2/C4E0DAQEss8MafZ3J9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599238632614?e=2147483647&amp;v=beta&amp;t=X83AL32wX1wNdjinTCU0Lp0uF_MfFs1sSgW8sS_6-wM)
 
@@ -44,17 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips) | 53m | Intermediate | 1K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Jenkins]]
-
-## Skills Covered
-
-- DevOps
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Soft Skills** (7 videos)
+- **3. 2. Technology** (5 videos)
+- **4. 3. Career Building** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### An introduction to DevOps Tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980)
@@ -88,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - [michael] (1)
 
 
-### 1. Soft Skills
+### 2. 1. Soft Skills
 
 #### Hiring for DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980)
@@ -567,7 +569,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Technology
+### 3. 2. Technology
 
 #### Testing with infrastructure as code (IaC)
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980)
@@ -919,7 +921,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Career Building
+### 4. 3. Career Building
 
 #### Starting a DevOps career from scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/starting-a-devops-career-from-scratch?u=76281980)
@@ -1205,7 +1207,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### One last tip
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980)
@@ -1233,6 +1235,14 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Michael Jenkins]]
+
+## Skills Covered
+
+- DevOps
 
 ## Path Context
 

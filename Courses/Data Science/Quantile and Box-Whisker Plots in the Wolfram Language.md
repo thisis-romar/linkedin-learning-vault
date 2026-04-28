@@ -29,8 +29,10 @@ tags:
   - skill/wolfram-language
   - skill/data-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Quantile%20and%20Box-Whisker%20Plots%20in%20the%20Wolfram%20Language.md)
 
 ![Quantile and Box-Whisker Plots in the Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQHzyFqfSdlQhQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704746115603?e=2147483647&amp;v=beta&amp;t=xz95swpSRdsr8y-hS1TKPIL_Yr2dYWhTSqA6QgIzv9s)
 
@@ -41,6 +43,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantile-and-box-whisker-plots-in-the-wolfram-language) | 29m | Intermediate
 > [Jump to Path Context ↓](#path-context)
 
+## Table of Contents
+
+### Chapter Overview
+
+- **1. 1. Quantile and Box-Whisker Plots** (1 videos)
+
+### 1. 1. Quantile and Box-Whisker Plots
+
+#### Quantile and box-whisker plots
+> [LinkedIn Learning](https://www.linkedin.com/learning/quantile-and-box-whisker-plots-in-the-wolfram-language/quantile-and-box-whisker-plots?u=76281980)
+
+
 ## Instructor
 
 - [[Wolfram Research]]
@@ -49,14 +63,6 @@ created: 2026-04-21
 
 - Wolfram Language
 - Data Analysis
-
-## Table of Contents
-
-### 1. Quantile and Box-Whisker Plots
-
-#### Quantile and box-whisker plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantile-and-box-whisker-plots-in-the-wolfram-language/quantile-and-box-whisker-plots?u=76281980)
-
 
 ## Path Context
 

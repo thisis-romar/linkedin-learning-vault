@@ -31,8 +31,10 @@ tags:
   - skill/it-project-program-management
   - skill/program-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Program%20Management%20for%20IT%20Professionals.md)
 
 ![Program Management for IT Professionals](https://media.licdn.com/dms/image/v2/D4E0DAQGAaPwbKK5H7A/learning-public-crop_675_1200/B4EZXYzA3CGwAY-/0/1743099007570?e=2147483647&amp;v=beta&amp;t=6lkj4hK99tmMNTxu-FDTrf_CtWFYk6N4dOaox8JhWVY)
 
@@ -43,22 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705) | 1h 42m | Intermediate | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Miller]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- IT Project & Program Management
-- Program Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Program Management Overview** (4 videos)
+- **3. 2. Program Concept Development** (5 videos)
+- **4. 3. Program Planning** (10 videos)
+- **5. 4. Program Execution and Control** (5 videos)
+- **6. 5. Program Closure** (6 videos)
+- **7. Conculsion** (1 videos)
+
+### 1. Introduction
 
 #### Program management at a high level
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/program-management-at-a-high-level?u=76281980)
@@ -115,7 +114,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. Program Management Overview
+### 2. 1. Program Management Overview
 
 #### What is program management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-program-management?u=76281980)
@@ -417,7 +416,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 2. Program Concept Development
+### 3. 2. Program Concept Development
 
 #### Developing your program concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980)
@@ -799,7 +798,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Program Planning
+### 4. 3. Program Planning
 
 #### Making your program the top priority
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980)
@@ -1530,7 +1529,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 4. Program Execution and Control
+### 5. 4. Program Execution and Control
 
 #### Kicking off your program
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/kicking-off-your-program?u=76281980)
@@ -1881,7 +1880,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 5. Program Closure
+### 6. 5. Program Closure
 
 #### Closing your program
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/closing-your-program?u=76281980)
@@ -2178,7 +2177,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### Conculsion
+### 7. Conculsion
 
 #### Open to change
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/open-to-change?u=76281980)
@@ -2218,6 +2217,19 @@ created: 2026-04-21
 > **URLs:** [deltatechnology.net](https://deltatechnology.net) (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Kevin Miller]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- IT Project & Program Management
+- Program Management
 
 ## Path Context
 

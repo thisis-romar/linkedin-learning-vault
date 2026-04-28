@@ -27,8 +27,10 @@ tags:
   - skill/swift-programming-language
   - skill/ios-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Programming%20For%20Non%20Programmers%20Ios%2017%20And%20Swift%205.md)
 
 ![Programming For Non Programmers Ios 17 And Swift 5](https://media.licdn.com/dms/image/v2/D560DAQEDp8zu12cDKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714428048520?e=2147483647&amp;v=beta&amp;t=XsNFy4-eflffYe8USFN7kpKcYvbwNmKzWt4u7uRADss)
 
@@ -39,18 +41,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778) | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Swift (Programming Language)
-- iOS Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Setting Up Your Coding Environment** (3 videos)
+- **3. 2. Programming Building Blocks: Variables** (4 videos)
+- **4. 3. Using Variables to Build a UI** (8 videos)
+- **5. 4. Programming Building Blocks: Methods** (9 videos)
+- **6. 5. Programming Building Blocks: Control Flow** (7 videos)
+- **7. 6. Finishing the Application** (7 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/welcome?u=76281980)
@@ -142,7 +146,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting Up Your Coding Environment
+### 2. 1. Setting Up Your Coding Environment
 
 #### Creating an Xcode project
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-an-xcode-project?u=76281980)
@@ -289,7 +293,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 2. Programming Building Blocks: Variables
+### 3. 2. Programming Building Blocks: Variables
 
 #### Understanding how programming works
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980)
@@ -571,7 +575,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Using Variables to Build a UI
+### 4. 3. Using Variables to Build a UI
 
 #### SwiftUI layout basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-layout-basics?u=76281980)
@@ -1189,7 +1193,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Programming Building Blocks: Methods
+### 5. 4. Programming Building Blocks: Methods
 
 #### Understanding methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-methods?u=76281980)
@@ -1964,7 +1968,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Programming Building Blocks: Control Flow
+### 6. 5. Programming Building Blocks: Control Flow
 
 #### Understanding conditional statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980)
@@ -2611,7 +2615,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Finishing the Application
+### 7. 6. Finishing the Application
 
 #### Storing the saved number
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/storing-the-saved-number?u=76281980)
@@ -3041,7 +3045,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/next-steps?u=76281980)
@@ -3080,6 +3084,15 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Swift (Programming Language)
+- iOS Development
 
 ## Path Context
 

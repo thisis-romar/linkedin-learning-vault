@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Asynchronous%20Programming%20in%20C-.md)
 
 ![Asynchronous Programming in C#](https://media.licdn.com/dms/image/v2/D560DAQHOVzhhX-Hnzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691013027545?e=2147483647&amp;v=beta&amp;t=-SY2yhceanWM4BElINp4e7qXKCvoNenyD2wr-nTxmos)
 
@@ -40,17 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp) | 1h | Advanced | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brice Wilson]]
-
-## Skills Covered
-
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding Asynchronous Programming** (3 videos)
+- **3. 2. Working with Tasks** (6 videos)
+- **4. 3. Using async and await** (5 videos)
+- **5. 4. Task Cancellation and Progress Monitoring** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Create happier users with asynchronous C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/create-happier-users-with-asynchronous-c-sharp?u=76281980)
@@ -99,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding Asynchronous Programming
+### 2. 1. Understanding Asynchronous Programming
 
 #### What is asynchronous programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980)
@@ -236,7 +239,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Working with Tasks
+### 3. 2. Working with Tasks
 
 #### Creating and executing tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980)
@@ -620,7 +623,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Using async and await
+### 4. 3. Using async and await
 
 #### Benefits of using async and await
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/benefits-of-using-async-and-await?u=76281980)
@@ -828,7 +831,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Task Cancellation and Progress Monitoring
+### 5. 4. Task Cancellation and Progress Monitoring
 
 #### Using cancellation tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-cancellation-tokens?u=76281980)
@@ -1159,7 +1162,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980)
@@ -1206,6 +1209,14 @@ created: 2026-04-21
 > **Env Vars:** linq (1), cpu (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Brice Wilson]]
+
+## Skills Covered
+
+- C#
 
 ## Path Context
 

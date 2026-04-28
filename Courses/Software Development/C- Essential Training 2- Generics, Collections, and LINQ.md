@@ -33,8 +33,10 @@ tags:
   - skill/language-integrated-query-linq
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Essential%20Training%202-%20Generics%2C%20Collections%2C%20and%20LINQ.md)
 
 ![C# Essential Training 2: Generics, Collections, and LINQ](https://media.licdn.com/dms/image/v2/D560DAQEEIn0Zoh7ySw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702331417325?e=2147483647&amp;v=beta&amp;t=jEEKVyoa5ZugROjjzkNxq7pRCCia5ocmVs57mFMJfoE)
 
@@ -45,22 +47,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq) | 3h 15m | Beginner | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Matt Milner]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Language Integrated Query (LINQ)
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Generics** (5 videos)
+- **3. 2. Working with Collections** (6 videos)
+- **4. 3. Exception Handling** (6 videos)
+- **5. 4. Programming Threads with async and await** (5 videos)
+- **6. 5. Delegates and Events** (7 videos)
+- **7. 6. Extension Methods** (5 videos)
+- **8. 7. Language Integrated Query (LINQ)** (5 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Essentials deep dive
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/essentials-deep-dive?u=76281980)
@@ -190,7 +191,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Generics
+### 2. 1. Generics
 
 #### Understanding generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-generics?u=76281980)
@@ -809,7 +810,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Working with Collections
+### 3. 2. Working with Collections
 
 #### Understanding collection types in the BCL
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-collection-types-in-the-bcl?u=76281980)
@@ -1541,7 +1542,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Exception Handling
+### 4. 3. Exception Handling
 
 #### Basics of try-catch-finally
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980)
@@ -2235,7 +2236,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Programming Threads with async and await
+### 5. 4. Programming Threads with async and await
 
 #### Threading basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/threading-basics?u=76281980)
@@ -2811,7 +2812,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Delegates and Events
+### 6. 5. Delegates and Events
 
 #### Understanding delegates
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-delegates?u=76281980)
@@ -3490,7 +3491,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Extension Methods
+### 7. 6. Extension Methods
 
 #### The case for extension methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/the-case-for-extension-methods?u=76281980)
@@ -3844,7 +3845,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Language Integrated Query (LINQ)
+### 8. 7. Language Integrated Query (LINQ)
 
 #### Understand the purpose of LINQ
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understand-the-purpose-of-linq?u=76281980)
@@ -4307,7 +4308,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Build something and continue learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980)
@@ -4361,6 +4362,19 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 
+
+## Instructor
+
+- [[Matt Milner]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Language Integrated Query (LINQ)
+- C#
 
 ## Path Context
 

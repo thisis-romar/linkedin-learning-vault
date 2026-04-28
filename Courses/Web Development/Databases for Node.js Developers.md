@@ -31,8 +31,10 @@ tags:
   - skill/database-development
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Databases%20for%20Node.js%20Developers.md)
 
 ![Databases for Node.js Developers](https://media.licdn.com/dms/image/v2/D4E0DAQFkeukZTMUzWQ/learning-public-crop_675_1200/B4EZUlDKTpH0Ag-/0/1740083340781?e=2147483647&amp;v=beta&amp;t=JohyAmMw_Ip6e--vO1-xAmdMmy70m7PhjEBxiESeQJE)
 
@@ -43,23 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301) | 4h 4m | Intermediate | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daniel Khan]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/databases-for-nodejs-developers-5978020)
-
-## Skills Covered
-
-- Database Development
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Course Setup** (4 videos)
+- **3. 2. Introduction to Databases** (4 videos)
+- **4. 3. MongoDB: Building Your Product Catalog** (14 videos)
+- **5. 4. MySQL: Managing Users and Orders** (12 videos)
+- **6. 5. Redis: A Fast Store for Sessions, Caching, and Real-Time Features** (7 videos)
+- **7. 6. Bringing It All Together: Creating and Managing Orders** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Databases in Node.js:  Relational, document, and in-memory storage in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980)
@@ -91,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - [daniel] (1)
 
 
-### 1. Course Setup
+### 2. 1. Course Setup
 
 #### What you should know
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/what-you-should-know?u=76281980)
@@ -341,7 +340,7 @@ created: 2026-04-21
 > **URLs:** [localhost:3000](https://localhost:3000) (2)
 
 
-### 2. Introduction to Databases
+### 3. 2. Introduction to Databases
 
 #### Some basics about databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980)
@@ -643,7 +642,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. MongoDB: Building Your Product Catalog
+### 4. 3. MongoDB: Building Your Product Catalog
 
 #### Managing product data with MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-product-data-with-mongodb?u=76281980)
@@ -2194,7 +2193,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 4. MySQL: Managing Users and Orders
+### 5. 4. MySQL: Managing Users and Orders
 
 #### Using MySQL for our users and orders
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980)
@@ -3758,7 +3757,7 @@ created: 2026-04-21
 > **URLs:** [test.com](https://test.com) (1)
 
 
-### 5. Redis: A Fast Store for Sessions, Caching, and Real-Time Features
+### 6. 5. Redis: A Fast Store for Sessions, Caching, and Real-Time Features
 
 #### Fast and flexible basket and session management with Redis
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fast-and-flexible-basket-and-session-management-with-redis?u=76281980)
@@ -4493,7 +4492,7 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 
 
-### 6. Bringing It All Together: Creating and Managing Orders
+### 7. 6. Bringing It All Together: Creating and Managing Orders
 
 #### Fetching item information for the basket
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980)
@@ -4950,7 +4949,7 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1), good practice (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980)
@@ -4980,6 +4979,20 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [daniel] (1)
 
+
+## Instructor
+
+- [[Daniel Khan]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/databases-for-nodejs-developers-5978020)
+
+## Skills Covered
+
+- Database Development
+- Node.js
 
 ## Path Context
 

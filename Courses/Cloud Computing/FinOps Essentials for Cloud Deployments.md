@@ -32,8 +32,10 @@ tags:
   - skill/system-deployment
   - skill/financial-operations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/FinOps%20Essentials%20for%20Cloud%20Deployments.md)
 
 ![FinOps Essentials for Cloud Deployments](https://media.licdn.com/dms/image/v2/C560DAQHaZo3bXXOvxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666118840440?e=2147483647&amp;v=beta&amp;t=5tcfeftYvSQXg6Q39pNukVup4iH_gKm11UNPj6v2uOs)
 
@@ -44,22 +46,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments) | 2h 31m | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Linthicum]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- System Deployment
-- Financial Operations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. FinOps Introduction** (8 videos)
+- **3. 2. Establishing FinOps in Your Organization** (8 videos)
+- **4. 3. Externalizing FinOps to the Organization** (9 videos)
+- **5. 4. Optimizing for FinOps in Your Organization** (10 videos)
+- **6. 5. Automating for FinOps** (7 videos)
+- **7. 6. Operating for FinOps Success** (9 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to FinOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980)
@@ -106,7 +106,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. FinOps Introduction
+### 2. 1. FinOps Introduction
 
 #### Understanding FinOps and its importance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980)
@@ -591,7 +591,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Establishing FinOps in Your Organization
+### 3. 2. Establishing FinOps in Your Organization
 
 #### Determining your business requirements and business case for FinOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/determining-your-business-requirements-and-business-case-for-finops?u=76281980)
@@ -973,7 +973,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Externalizing FinOps to the Organization
+### 4. 3. Externalizing FinOps to the Organization
 
 #### Cloud spending visibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980)
@@ -1510,7 +1510,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 4. Optimizing for FinOps in Your Organization
+### 5. 4. Optimizing for FinOps in Your Organization
 
 #### Cloud spending observability
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-observability?u=76281980)
@@ -1972,7 +1972,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Automating for FinOps
+### 6. 5. Automating for FinOps
 
 #### Identifying what you should automate
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/identifying-what-you-should-automate?u=76281980)
@@ -2461,7 +2461,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Operating for FinOps Success
+### 7. 6. Operating for FinOps Success
 
 #### FinOps continuous improvement
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980)
@@ -2832,7 +2832,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/next-steps?u=76281980)
@@ -2873,6 +2873,19 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [david] (1)
 
+
+## Instructor
+
+- [[David Linthicum]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- System Deployment
+- Financial Operations
 
 ## Path Context
 

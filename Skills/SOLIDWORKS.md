@@ -3,11 +3,16 @@ type: skill
 cssclasses:
   - lle-skill
 course_count: 2
+level_beginner: 0
+level_intermediate: 0
+level_advanced: 0
 tags:
   - skill
   - skill/solidworks
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/SOLIDWORKS.md)
 
 # SOLIDWORKS
 
@@ -15,5 +20,5 @@ created: 2026-04-21
 
 ## Courses
 
-- [[SOLIDWORKS 2022 Essential Training]]
-- [[SOLIDWORKS 2024 Essential Training]]
+- [[SOLIDWORKS 2024 Essential Training]] — 10h · 4,931 learners
+- [[SOLIDWORKS 2022 Essential Training]] — 8h 54m · 1,475 learners

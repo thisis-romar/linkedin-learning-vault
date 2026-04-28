@@ -30,31 +30,32 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cyber%20Resilience-%20An%20Overview.md)
 
 ![Cyber Resilience: An Overview](https://media.licdn.com/dms/image/v2/D560DAQHbHMaU8WFxwg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713219819241?e=2147483647&amp;v=beta&amp;t=A-KRjNf1GHWbuWFlHy5uBExiDkXkNus7ooIAJpjK8tc)
 
 # Cyber Resilience: An Overview
 
-> In today's hyperconnected world, it’s becoming increasingly difficult for organizations to stay ahead of cyber attacks. Not only do you have to prepare for the risks you know about, but you also have to be prepared to handle the risks you don’t see coming.
-This course explains why cyber resilience—the ability to continuously identify, respond, and recover swiftly from a security incident—is an eff
+> In today's hyperconnected world, it’s becoming increasingly difficult for organizations to stay ahead of cyber attacks. Not only do you have to prepare for the risks you know about, but you also have to be prepared to handle the risks you don’t see coming. This course explains why cyber resilience—the ability to continuously identify, respond, and recover swiftly from a security incident—is an eff
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview) | 1h 2m | Intermediate | 246K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tia Hopkins]]
-
-## Skills Covered
-
-- Governance, Risk Management, and Compliance (GRC)
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Cyber Resilience Mindset** (3 videos)
+- **3. 2. Operationalizing Cyber Resilience** (5 videos)
+- **4. 3. Building the Strategy** (3 videos)
+- **5. 4. Communicating Cybersecurity Program Effectiveness** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building a cyber-resilient organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/buildilng-a-cyber-resilient-organization?u=76281980)
@@ -79,7 +80,7 @@ This course explains why cyber resilience—the ability to continuously identify
 > **Speakers:** - a (1)
 
 
-### 1. The Cyber Resilience Mindset
+### 2. 1. The Cyber Resilience Mindset
 
 #### What is cyber resilience and why should you care?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/what-is-cyber-resilience-and-why-do-we-care?u=76281980)
@@ -342,7 +343,7 @@ This course explains why cyber resilience—the ability to continuously identify
 > **Speakers:** - as (1)
 
 
-### 2. Operationalizing Cyber Resilience
+### 3. 2. Operationalizing Cyber Resilience
 
 #### Anticipate: Control the controllables
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980)
@@ -735,7 +736,7 @@ This course explains why cyber resilience—the ability to continuously identify
 > **Speakers:** - let (1)
 
 
-### 3. Building the Strategy
+### 4. 3. Building the Strategy
 
 #### Understanding the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980)
@@ -970,7 +971,7 @@ This course explains why cyber resilience—the ability to continuously identify
 > **Speakers:** - so (1)
 
 
-### 4. Communicating Cybersecurity Program Effectiveness
+### 5. 4. Communicating Cybersecurity Program Effectiveness
 
 #### The importance of effective communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980)
@@ -1327,7 +1328,7 @@ This course explains why cyber resilience—the ability to continuously identify
 > **Speakers:** - it (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### The future of cyber resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-future-of-cyber-resilience?u=76281980)
@@ -1359,6 +1360,15 @@ This course explains why cyber resilience—the ability to continuously identify
 > **Code Keywords:** let (1)
 > **Speakers:** - the (1)
 
+
+## Instructor
+
+- [[Tia Hopkins]]
+
+## Skills Covered
+
+- Governance, Risk Management, and Compliance (GRC)
+- Cybersecurity
 
 ## Path Context
 

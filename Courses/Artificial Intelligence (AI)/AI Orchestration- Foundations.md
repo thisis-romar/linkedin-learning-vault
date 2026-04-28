@@ -35,8 +35,10 @@ tags:
   - skill/large-language-models-llm
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Foundations.md)
 
 ![AI Orchestration: Foundations](https://media.licdn.com/dms/image/v2/D4D0DAQFEb2PuIGhkuQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736987597460?e=2147483647&amp;v=beta&amp;t=947y6yQrZK358fein0RMmDk6kDwMeK7HZqq5DoDoJy4)
 
@@ -47,24 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations) | 45m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Denys Linkov]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI Software Development
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- AI Orchestration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Why Use AI Orchestration?** (3 videos)
+- **3. 2. Components of an AI Orchestrator** (6 videos)
+- **4. 3. AI Orchestration for a Basic AI App** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn the basics of AI orchestration
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/learn-the-basics-of-ai-orchestration?u=76281980)
@@ -143,7 +138,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Why Use AI Orchestration?
+### 2. 1. Why Use AI Orchestration?
 
 #### When using ChatGPT isn't enough
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980)
@@ -296,7 +291,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Components of an AI Orchestrator
+### 3. 2. Components of an AI Orchestrator
 
 #### Input interface for AI orchestrators
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980)
@@ -683,7 +678,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. AI Orchestration for a Basic AI App
+### 4. 3. AI Orchestration for a Basic AI App
 
 #### Building low-code vs. code
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/building-low-code-vs-code?u=76281980)
@@ -1379,7 +1374,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980)
@@ -1401,6 +1396,21 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Denys Linkov]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI Software Development
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
+- AI Orchestration
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - topic/data-science
   - skill/marketing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Foundations.md)
 
 ![Marketing Foundations](https://media.licdn.com/dms/image/v2/C560DAQE574b1XkUVmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671043301291?e=2147483647&amp;v=beta&amp;t=S25fcu0m8qAGe2MPbkXweIgJqX44_nki90H5y4BZPxs)
 
@@ -43,21 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022) | 1h 15m | Beginner | 194K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Marta Dapena Barón]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Marketing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Building Blocks of Your Marketing Strategy** (5 videos)
+- **3. 2. Developing a Value Proposition for Your Brand** (5 videos)
+- **4. 3. Creating the Customer-Brand Experience** (5 videos)
+- **5. 4. Creating the Marketing Plan and Learning from Your Work** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Think like a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/think-like-a-marketer?u=76281980)
@@ -91,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 1. The Building Blocks of Your Marketing Strategy
+### 2. 1. The Building Blocks of Your Marketing Strategy
 
 #### Defining brands and brand architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980)
@@ -553,7 +552,7 @@ created: 2026-04-21
 > **Speakers:** - customer (1)
 
 
-### 2. Developing a Value Proposition for Your Brand
+### 3. 2. Developing a Value Proposition for Your Brand
 
 #### Discovering customer segments
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/discovering-customer-segments?u=76281980)
@@ -936,7 +935,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 3. Creating the Customer-Brand Experience
+### 4. 3. Creating the Customer-Brand Experience
 
 #### Building a brand-customer experience map
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/building-a-brand-customer-experience-map?u=76281980)
@@ -1351,7 +1350,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 4. Creating the Marketing Plan and Learning from Your Work
+### 5. 4. Creating the Marketing Plan and Learning from Your Work
 
 #### Writing the strategic narrative: The marketing plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/writing-the-strategic-narrative-the-marketing-plan?u=76281980)
@@ -1492,7 +1491,7 @@ created: 2026-04-21
 > **Speakers:** - great (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Thinking like a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980)
@@ -1545,6 +1544,18 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Marta Dapena Barón]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Marketing
 
 ## Path Context
 

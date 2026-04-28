@@ -35,8 +35,10 @@ tags:
   - skill/python-programming-language
   - skill/data-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python-%20Working%20With%20Data.md)
 
 ![Advanced Python: Working With Data](https://media.licdn.com/dms/image/v2/D4E0DAQHbBRqu7lDW8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724260657260?e=2147483647&amp;v=beta&amp;t=fFGaBqQ24gVxJcQyKxRB8rhls85NIr71EKpUrRY478k)
 
@@ -47,23 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data) | 2h 5m | Advanced | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-python-working-with-data-4312001/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Built-In Data Functions** (7 videos)
+- **3. 2. Collection Classes** (6 videos)
+- **4. 3. Serializing Data in Python** (6 videos)
+- **5. 4. Python Logging** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Python and Data: Made for each other
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980)
@@ -369,7 +366,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Built-In Data Functions
+### 2. 1. Built-In Data Functions
 
 #### Using built-in functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/using-built-in-functions?u=76281980)
@@ -1349,7 +1346,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Collection Classes
+### 3. 2. Collection Classes
 
 #### Overview of collection classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-collection-classes?u=76281980)
@@ -1938,7 +1935,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Serializing Data in Python
+### 4. 3. Serializing Data in Python
 
 #### Overview of serialization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980)
@@ -2633,7 +2630,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Python Logging
+### 5. 4. Python Logging
 
 #### Overview of logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-logging?u=76281980)
@@ -3052,7 +3049,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/next-steps?u=76281980)
@@ -3074,6 +3071,20 @@ created: 2026-04-21
 > **CLI Commands:** python (1)
 > **Speakers:** - [joe] (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-python-working-with-data-4312001/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Management
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - skill/endpoint-security
   - skill/cisco-networking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20Content%20and%20Endpoint%20Security.md)
 
 ![Cisco Network Security: Content and Endpoint Security](https://media.licdn.com/dms/image/v2/C4E0DAQGr1JVqAreS-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669233744?e=2147483647&amp;v=beta&amp;t=tHfCTkSGT5n2qopnyT_lvKcQhtLFpjGhMGdHdZFFRqQ)
 
@@ -41,18 +43,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security) | 1h 21m | Intermediate | 46K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
-## Skills Covered
-
-- Endpoint Security
-- Cisco Networking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Mitigating Enpoint Threats** (4 videos)
+- **3. 2. Web Security** (5 videos)
+- **4. 3. Email Security** (6 videos)
+- **5. 4. Best Practice** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Mitigate endpoint threats and provide security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/mitigate-endpoint-threats-and-provide-security?u=76281980)
@@ -107,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Mitigating Enpoint Threats
+### 2. 1. Mitigating Enpoint Threats
 
 #### Incorporating safeguards
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980)
@@ -358,7 +360,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Web Security
+### 3. 2. Web Security
 
 #### PCI DSS controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980)
@@ -701,7 +703,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. Email Security
+### 4. 3. Email Security
 
 #### Email malware
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980)
@@ -1111,7 +1113,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Best Practice
+### 5. 4. Best Practice
 
 #### Malware protection
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980)
@@ -1473,7 +1475,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980)
@@ -1505,6 +1507,15 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [lisa] (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
+
+## Skills Covered
+
+- Endpoint Security
+- Cisco Networking
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/project-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Project%20Management%20Simplified.md)
 
 ![Project Management Simplified](https://media.licdn.com/dms/image/v2/C4E0DAQF9Ffx0ZFkVew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584382503938?e=2147483647&amp;v=beta&amp;t=JIcWEaFpo4fpfvPHNJuIp-KEu6YgNpVF9PX1YH-1DqA)
 
@@ -40,21 +42,26 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019) | 1h 44m | Beginner | 1279K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Chris Croft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Project Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Define Your Project** (5 videos)
+- **3. 2. List the Tasks** (2 videos)
+- **4. 3. Plan the Running Order** (3 videos)
+- **5. 4. Add Contingency** (2 videos)
+- **6. 5. Crashing** (1 videos)
+- **7. 6. Gantt Chart** (5 videos)
+- **8. 7. Resources** (2 videos)
+- **9. 8. Risk** (1 videos)
+- **10. 9. Monitor Progress** (1 videos)
+- **11. 10. Monitor Cost** (3 videos)
+- **12. 11. Re-adjust the Plan** (2 videos)
+- **13. 12. Review** (2 videos)
+- **14. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Project management: A priceless skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980)
@@ -175,7 +182,7 @@ created: 2026-04-21
 > **Speakers:** - every (1)
 
 
-### 1. Define Your Project
+### 2. 1. Define Your Project
 
 #### What is a project?
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/what-is-a-project-24302498?u=76281980)
@@ -498,7 +505,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 2. List the Tasks
+### 3. 2. List the Tasks
 
 #### Three ways to list all the project tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/three-ways-to-list-all-the-project-tasks-24307155?u=76281980)
@@ -637,7 +644,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 3. Plan the Running Order
+### 4. 3. Plan the Running Order
 
 #### Use Post-its to plan the order of tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/use-post-its-to-plan-the-order-of-tasks-24301534?u=76281980)
@@ -829,7 +836,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 4. Add Contingency
+### 5. 4. Add Contingency
 
 #### How much safety margin does a project need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-much-safety-margin-does-a-project-need-24302494?u=76281980)
@@ -994,7 +1001,7 @@ created: 2026-04-21
 > **Speakers:** - some (1)
 
 
-### 5. Crashing
+### 6. 5. Crashing
 
 #### How to speed up your plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-speed-up-your-plan-24302497?u=76281980)
@@ -1058,7 +1065,7 @@ created: 2026-04-21
 > **Speakers:** - speeding (1)
 
 
-### 6. Gantt Chart
+### 7. 6. Gantt Chart
 
 #### How to create a Gantt chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980)
@@ -1648,7 +1655,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Resources
+### 8. 7. Resources
 
 #### Resource planning for one project
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/resource-planning-for-one-project-24303470?u=76281980)
@@ -1782,7 +1789,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 8. Risk
+### 9. 8. Risk
 
 #### How to create a Risk chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-risk-chart-24303471?u=76281980)
@@ -1849,7 +1856,7 @@ created: 2026-04-21
 > **Speakers:** - all (1)
 
 
-### 9. Monitor Progress
+### 10. 9. Monitor Progress
 
 #### How to monitor project progress
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-monitor-project-progress-24304471?u=76281980)
@@ -1936,7 +1943,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 10. Monitor Cost
+### 11. 10. Monitor Cost
 
 #### Cost monitoring: The potential traps
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/cost-monitoring-the-potential-traps-24303468?u=76281980)
@@ -2175,7 +2182,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 11. Re-adjust the Plan
+### 12. 11. Re-adjust the Plan
 
 #### When to re-adjust the plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/when-to-re-adjust-the-plan-24306293?u=76281980)
@@ -2289,7 +2296,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 12. Review
+### 13. 12. Review
 
 #### Why people avoid reviewing projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/why-people-avoid-reviewing-projects?u=76281980)
@@ -2424,7 +2431,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### Conclusion
+### 14. Conclusion
 
 #### Apply the simple 12-step process
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980)
@@ -2478,6 +2485,18 @@ created: 2026-04-21
 > **CLI Commands:** make (3)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Chris Croft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Project Management
 
 ## Path Context
 

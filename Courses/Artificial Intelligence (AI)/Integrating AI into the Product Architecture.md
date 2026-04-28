@@ -35,8 +35,10 @@ tags:
   - skill/product-design
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Integrating%20AI%20into%20the%20Product%20Architecture.md)
 
 ![Integrating AI into the Product Architecture](https://media.licdn.com/dms/image/v2/D4E0DAQG2ycdBYKwa8w/learning-public-crop_675_1200/B4EZZAtm5dHgAY-/0/1744842420588?e=2147483647&amp;v=beta&amp;t=gXoBuKpYBTLL-a5qo5_A47aSA9bFkcZOaWVFnRHa-eI)
 
@@ -47,19 +49,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture) | 2h 20m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jigyasa Grover]]
-
-## Skills Covered
-
-- AI Solutions
-- Product Design
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Welcome to the Course
+### Chapter Overview
+
+- **1. Welcome to the Course** (1 videos)
+- **2. 1. Foundations of LLM Integration** (4 videos)
+- **3. 2. Integrating LLMs into Your Product** (6 videos)
+- **4. 3. Deployment Strategies** (6 videos)
+- **5. 4. Optimizing Performance and Reliability** (4 videos)
+- **6. 5. Production Readiness: Testing, Validation, and Monitoring** (5 videos)
+- **7. 6. User Experience, Ethics, and Governance** (4 videos)
+- **8. Conclusion** (2 videos)
+
+### 1. Welcome to the Course
 
 #### Course introduction and prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/course-introduction-and-prerequisites?u=76281980)
@@ -82,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 1. Foundations of LLM Integration
+### 2. 1. Foundations of LLM Integration
 
 #### What LLMs can (and can't) do in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/what-llms-can-and-can-t-do-in-production?u=76281980)
@@ -443,7 +446,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Integrating LLMs into Your Product
+### 3. 2. Integrating LLMs into Your Product
 
 #### Choosing your LLM provider: Navigating the LLM landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/choosing-your-llm-provider-navigating-the-llm-landscape?u=76281980)
@@ -933,7 +936,7 @@ created: 2026-04-21
 > **Warnings:** common mistake (1)
 
 
-### 3. Deployment Strategies
+### 4. 3. Deployment Strategies
 
 #### Understanding deployment options
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/understanding-deployment-options?u=76281980)
@@ -1459,7 +1462,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Optimizing Performance and Reliability
+### 5. 4. Optimizing Performance and Reliability
 
 #### Fine-tuning overview: Tailoring LLMs to specific needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/fine-tuning-overview-tailoring-llms-to-specific-needs?u=76281980)
@@ -1843,7 +1846,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Production Readiness: Testing, Validation, and Monitoring
+### 6. 5. Production Readiness: Testing, Validation, and Monitoring
 
 #### Validating and sanitizing LLM inputs and outputs
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/validating-and-sanitizing-llm-inputs-and-outputs?u=76281980)
@@ -2294,7 +2297,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. User Experience, Ethics, and Governance
+### 7. 6. User Experience, Ethics, and Governance
 
 #### Graceful degradation and transparent communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/graceful-degradation-and-transparent-communication?u=76281980)
@@ -2706,7 +2709,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### LLMs for business growth: Revisiting the potential
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/llms-for-business-growth-revisiting-the-potential?u=76281980)
@@ -2880,6 +2883,16 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - remember (1)
 
+
+## Instructor
+
+- [[Jigyasa Grover]]
+
+## Skills Covered
+
+- AI Solutions
+- Product Design
+- Artificial Intelligence (AI)
 
 ## Path Context
 

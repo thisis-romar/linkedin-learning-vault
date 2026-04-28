@@ -37,8 +37,10 @@ tags:
   - skill/gemini
   - skill/google-gemini
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Getting%20Started%20with%20the%20Google%20Gemini%20API.md)
 
 ![Getting Started with the Google Gemini API](https://media.licdn.com/dms/image/v2/D560DAQHXvzWCHd5fZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008957502?e=2147483647&amp;v=beta&amp;t=tZUndRs2b-e08KuS5U5oMZEVrtYh5QHP1IwpGuHeXEk)
 
@@ -49,21 +51,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api) | 1h 8m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fikayo Adepoju]]
-
-## Skills Covered
-
-- API Development
-- Generative AI
-- Artificial Intelligence (AI)
-- Gemini
-- Google Gemini
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Understanding Gemini Models** (5 videos)
+- **3. 2. How the Gemini API Works** (5 videos)
+- **4. 3. Developing with the Gemini API** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get started with the Gemini API
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/get-started-with-the-gemini-api?u=76281980)
@@ -143,7 +141,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding Gemini Models
+### 2. 1. Understanding Gemini Models
 
 #### What is Gemini?
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980)
@@ -448,7 +446,7 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 
 
-### 2. How the Gemini API Works
+### 3. 2. How the Gemini API Works
 
 #### What is the Gemini API?
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980)
@@ -888,7 +886,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Developing with the Gemini API
+### 4. 3. Developing with the Gemini API
 
 #### Getting an API key
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980)
@@ -1392,7 +1390,7 @@ created: 2026-04-21
 > **Cross-References:** in the last (2), next video (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980)
@@ -1422,6 +1420,18 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Fikayo Adepoju]]
+
+## Skills Covered
+
+- API Development
+- Generative AI
+- Artificial Intelligence (AI)
+- Gemini
+- Google Gemini
 
 ## Path Context
 

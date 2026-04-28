@@ -31,8 +31,10 @@ tags:
   - skill/kotlin
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Kotlin%20Multiplatform%20Development.md)
 
 ![Kotlin Multiplatform Development](https://media.licdn.com/dms/image/v2/D4E0DAQGy6ak9gCh6EA/learning-public-crop_675_1200/B4EZbaHVwdGcAc-/0/1747416079622?e=2147483647&amp;v=beta&amp;t=hzdneffla9nn0g9EWrfoBcVeXyiV5XJ_1OLHuW2k5qE)
 
@@ -43,22 +45,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development) | 2h 33m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Colin Lee]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Kotlin
-- Cross-platform Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Creating Our First Multiplatform App** (7 videos)
+- **3. 2. Combining Native with Multiplatform** (6 videos)
+- **4. 3. KMP and Swift** (3 videos)
+- **5. 4. Architecture** (2 videos)
+- **6. 5. Sharing Network** (4 videos)
+- **7. 6. Sharing Database** (4 videos)
+- **8. 7. Quality of Life** (5 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Kotlin multiplatform development
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980)
@@ -120,7 +121,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Creating Our First Multiplatform App
+### 2. 1. Creating Our First Multiplatform App
 
 #### The problem Kotlin Multiplatform solves
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980)
@@ -717,7 +718,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Combining Native with Multiplatform
+### 3. 2. Combining Native with Multiplatform
 
 #### Building our first multiplatform app
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980)
@@ -1218,7 +1219,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. KMP and Swift
+### 4. 3. KMP and Swift
 
 #### Using Kotlin from Swift code
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980)
@@ -1482,7 +1483,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 4. Architecture
+### 5. 4. Architecture
 
 #### Recommended architecture with MVVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980)
@@ -1670,7 +1671,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Sharing Network
+### 6. 5. Sharing Network
 
 #### Adding Ktor to your project
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980)
@@ -2117,7 +2118,7 @@ created: 2026-04-21
 > **CLI Commands:** find (1), make (1)
 
 
-### 6. Sharing Database
+### 7. 6. Sharing Database
 
 #### Adding SQLDelight to your project
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980)
@@ -2463,7 +2464,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Quality of Life
+### 8. 7. Quality of Life
 
 #### Kermit for logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980)
@@ -3186,7 +3187,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980)
@@ -3223,6 +3224,19 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Colin Lee]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Kotlin
+- Cross-platform Development
 
 ## Path Context
 

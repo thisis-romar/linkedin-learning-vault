@@ -31,8 +31,10 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/PHP%20Techniques-%20Working%20with%20Files%20and%20Directories.md)
 
 ![PHP Techniques: Working with Files and Directories](https://media.licdn.com/dms/image/v2/C4E0DAQGj8JmjPhirmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614274556817?e=2147483647&amp;v=beta&amp;t=UG_vYIh5xc7hhvK1rF38vblBaacd4SVgMGg26mQ-rnA)
 
@@ -43,22 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories) | 2h 8m | Intermediate | 35K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Skoglund]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/php-techniques-working-with-files-and-directories-2873106)
-
-## Skills Covered
-
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Working with Files** (13 videos)
+- **3. 2. Working with Directories** (7 videos)
+- **4. 3. Accepting User-Uploaded Files** (9 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Work with files and directories in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/work-with-files-and-directories-in-php?u=76281980)
@@ -144,7 +141,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Working with Files
+### 2. 1. Working with Files
 
 #### Filesystem basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980)
@@ -1758,7 +1755,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. Working with Directories
+### 3. 2. Working with Directories
 
 #### Directory basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980)
@@ -2514,7 +2511,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Accepting User-Uploaded Files
+### 4. 3. Accepting User-Uploaded Files
 
 #### Configuring PHP for file uploads
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/configuring-php-for-file-uploads?u=76281980)
@@ -3469,7 +3466,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/next-steps?u=76281980)
@@ -3498,6 +3495,19 @@ created: 2026-04-21
 > **Env Vars:** php (5)
 > **Speakers:** - [kevin] (1)
 
+
+## Instructor
+
+- [[Kevin Skoglund]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/php-techniques-working-with-files-and-directories-2873106)
+
+## Skills Covered
+
+- PHP
 
 ## Path Context
 

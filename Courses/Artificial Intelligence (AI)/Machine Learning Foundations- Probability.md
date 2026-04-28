@@ -37,8 +37,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/probability
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20Foundations-%20Probability.md)
 
 ![Machine Learning Foundations: Probability](https://media.licdn.com/dms/image/v2/D4D0DAQEpHdKA4omnwg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690400093393?e=2147483647&amp;v=beta&amp;t=-WzhjmTdH_MA61RJjqAW6AWshhWWjqEwfOeVFQiyVW0)
 
@@ -49,23 +51,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability) | 1h 29m | Beginner | 63K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Terezija Semenski]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-- Probability
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Probability** (5 videos)
+- **3. 2. The Rules of Probability** (6 videos)
+- **4. 3. The Joint and Marginal Probability** (3 videos)
+- **5. 4. Discrete Probability Distributions** (6 videos)
+- **6. 5. Continuous Probability Distributions** (3 videos)
+- **7. 6. The Bayes' Theorem** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Probability for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-for-machine-learning?u=76281980)
@@ -123,7 +122,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Probability
+### 2. 1. Introduction to Probability
 
 #### Defining probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/defining-probability?u=76281980)
@@ -491,7 +490,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Rules of Probability
+### 3. 2. The Rules of Probability
 
 #### Probability of an event
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-of-an-event?u=76281980)
@@ -831,7 +830,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. The Joint and Marginal Probability
+### 4. 3. The Joint and Marginal Probability
 
 #### Joint and marginal probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-and-marginal-probability?u=76281980)
@@ -994,7 +993,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Discrete Probability Distributions
+### 5. 4. Discrete Probability Distributions
 
 #### Probability distributions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-distributions?u=76281980)
@@ -1309,7 +1308,7 @@ created: 2026-04-21
 > **Speakers:** - sometimes (1)
 
 
-### 5. Continuous Probability Distributions
+### 6. 5. Continuous Probability Distributions
 
 #### The continuous probability distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980)
@@ -1487,7 +1486,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. The Bayes' Theorem
+### 7. 6. The Bayes' Theorem
 
 #### Introduction to Bayes' theorem
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/introduction-to-bayes-theorem?u=76281980)
@@ -1679,7 +1678,7 @@ created: 2026-04-21
 > **Speakers:** - [teacher] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980)
@@ -1711,6 +1710,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Terezija Semenski]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
+- Probability
 
 ## Path Context
 

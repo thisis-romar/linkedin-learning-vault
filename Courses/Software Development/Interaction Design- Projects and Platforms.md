@@ -19,8 +19,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Projects%20and%20Platforms.md)
 
 ![Interaction Design: Projects and Platforms](https://media.licdn.com/dms/image/v2/C4E0DAQGzebhqDV9ExQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117820084?e=2147483647&amp;v=beta&amp;t=j7G1qcVb6N6PPSFiuqKXjuGNpanGo2IJDBY5QxudVas)
 
@@ -31,13 +33,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms) | 1h 37m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Diane Cronenwett]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding User Motivations, Goals, and Tasks** (7 videos)
+- **3. 2. Designing Consumer Experiences** (5 videos)
+- **4. 3. Designing for Enterprise Experiences** (4 videos)
+- **5. 4. Designing for Modern Interfaces** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Design anything
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/design-anything?u=76281980)
@@ -79,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - [diane] (1)
 
 
-### 1. Understanding User Motivations, Goals, and Tasks
+### 2. 1. Understanding User Motivations, Goals, and Tasks
 
 #### User research overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980)
@@ -560,7 +567,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Designing Consumer Experiences
+### 3. 2. Designing Consumer Experiences
 
 #### Consumer experience considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980)
@@ -1077,7 +1084,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Designing for Enterprise Experiences
+### 4. 3. Designing for Enterprise Experiences
 
 #### Enterprise experience considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980)
@@ -1560,7 +1567,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Designing for Modern Interfaces
+### 5. 4. Designing for Modern Interfaces
 
 #### Designing smart home devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-smart-home-devices?u=76281980)
@@ -2176,7 +2183,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980)
@@ -2199,6 +2206,10 @@ created: 2026-04-21
 >
 > **Speakers:** - [diane] (1)
 
+
+## Instructor
+
+- [[Diane Cronenwett]]
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - skill/it-service-management
   - skill/capacity-planning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Capacity%20and%20Availability%20Management.md)
 
 ![IT Service Management Foundations: Capacity and Availability Management](https://media.licdn.com/dms/image/v2/D4D0DAQFH2Kn1JVpbtg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1735073943757?e=2147483647&amp;v=beta&amp;t=9kbV3cNEQsHDvn5XKXZObsFeEpM6KLx4Wi7swppRVcI)
 
@@ -42,18 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management) | 1h 13m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mark Grey]]
-
-## Skills Covered
-
-- IT Service Management
-- Capacity Planning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Discovery: Understanding Business Needs** (4 videos)
+- **3. 2. Service Capacity Management** (4 videos)
+- **4. 3. Resource Capacity Management** (6 videos)
+- **5. 4. Availability Management** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/introduction?u=76281980)
@@ -214,7 +216,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Discovery: Understanding Business Needs
+### 2. 1. Discovery: Understanding Business Needs
 
 #### Taking time to understand the business services
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/taking-time-to-understand-the-business-services?u=76281980)
@@ -549,7 +551,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Service Capacity Management
+### 3. 2. Service Capacity Management
 
 #### What is service capacity management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980)
@@ -887,7 +889,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Resource Capacity Management
+### 4. 3. Resource Capacity Management
 
 #### What is resource capacity management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-resource-capacity-management?u=76281980)
@@ -1381,7 +1383,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Availability Management
+### 5. 4. Availability Management
 
 #### Metrics and reporting
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/metrics-and-reporting?u=76281980)
@@ -1668,7 +1670,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/next-steps?u=76281980)
@@ -1704,6 +1706,15 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Mark Grey]]
+
+## Skills Covered
+
+- IT Service Management
+- Capacity Planning
 
 ## Path Context
 

@@ -36,8 +36,10 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%2011%20Integrating%20Non-Blockchain%20Apps.md)
 
 ![Building an Ethereum Blockchain App: 11 Integrating Non-Blockchain Apps](https://media.licdn.com/dms/image/v2/C4D0DAQGLbdUj13DFng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629737907530?e=2147483647&amp;v=beta&amp;t=nHR05oydI0A59mbjG8gmXaveqvFCOm7E5dEprnF9mI0)
 
@@ -48,23 +50,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps) | 32m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Solomon]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Software Integration
-- Blockchain
-- Ethereum
-
 ## Table of Contents
 
-### 1. Integrating Non-Blockchain Apps with Ethereum
+### Chapter Overview
+
+- **1. 1. Integrating Non-Blockchain Apps with Ethereum** (5 videos)
+
+### 1. 1. Integrating Non-Blockchain Apps with Ethereum
 
 #### Blockchain and database storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980)
@@ -746,6 +738,20 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Michael Solomon]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Software Integration
+- Blockchain
+- Ethereum
 
 ## Path Context
 

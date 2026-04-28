@@ -33,36 +33,37 @@ tags:
   - skill/javascript
   - skill/vanilla
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20App%20Building%20With%20Vanilla%20Javascript.md)
 
 ![Learning App Building With Vanilla Javascript](https://media.licdn.com/dms/image/v2/C4E0DAQFOZxWc6nErRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118219619?e=2147483647&amp;v=beta&amp;t=7O-1IBj_oFEwB4zKYZScGTd2MzxX0i4NWHzUip-zmqE)
 
 # Learning App Building With Vanilla Javascript
 
-> JavaScript libraries like jQuery and frameworks like React have a lot of benefits to offer, but performance can be a tradeoff. Removing jQuery and React can improve site speed without impacting user experience. But many developers have never learned the equivalent code in JavaScript. This course teaches you how to program the same features and functionality with vanilla JavaScript.
-
-Instructor S
+> JavaScript libraries like jQuery and frameworks like React have a lot of benefits to offer, but performance can be a tradeoff. Removing jQuery and React can improve site speed without impacting user experience. But many developers have never learned the equivalent code in JavaScript. This course teaches you how to program the same features and functionality with vanilla JavaScript. Instructor Sash
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript) | Intermediate | 31K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sasha Vodnik]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- JavaScript
-- Vanilla
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Overview of Vanilla JS** (2 videos)
+- **3. 2. Project Overview** (1 videos)
+- **4. 3. Environment Setup** (2 videos)
+- **5. 4. Replace Ajax** (2 videos)
+- **6. 5. Select and Modify DOM Elements** (3 videos)
+- **7. 6. Replace Event Listeners** (3 videos)
+- **8. 7. Implement Data Binding** (5 videos)
+- **9. 8. Replace Simple Animations** (3 videos)
+- **10. 9. Ensure Backward Compatibility** (2 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980)
@@ -153,7 +154,7 @@ Instructor S
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Overview of Vanilla JS
+### 2. 1. Overview of Vanilla JS
 
 #### Libraries, frameworks, and vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980)
@@ -297,7 +298,7 @@ Instructor S
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Project Overview
+### 3. 2. Project Overview
 
 #### Application architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980)
@@ -357,7 +358,7 @@ Instructor S
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Environment Setup
+### 4. 3. Environment Setup
 
 #### Environment setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980)
@@ -490,7 +491,7 @@ Instructor S
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Replace Ajax
+### 5. 4. Replace Ajax
 
 #### Fetch API
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980)
@@ -635,7 +636,7 @@ Instructor S
 > **Env Vars:** json (1), npm (1)
 
 
-### 5. Select and Modify DOM Elements
+### 6. 5. Select and Modify DOM Elements
 
 #### Element selection with vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/element-selection-with-vanilla-javascript?u=76281980)
@@ -881,7 +882,7 @@ Instructor S
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Replace Event Listeners
+### 7. 6. Replace Event Listeners
 
 #### JavaScript events
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980)
@@ -1128,7 +1129,7 @@ Instructor S
 > **Speakers:** - our (1)
 
 
-### 7. Implement Data Binding
+### 8. 7. Implement Data Binding
 
 #### Data binding
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980)
@@ -1615,7 +1616,7 @@ Instructor S
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Replace Simple Animations
+### 9. 8. Replace Simple Animations
 
 #### Animation with vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980)
@@ -1774,7 +1775,7 @@ Instructor S
 > **Definitions:** known as (1)
 
 
-### 9. Ensure Backward Compatibility
+### 10. 9. Ensure Backward Compatibility
 
 #### Backward compatibility for vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980)
@@ -1943,7 +1944,7 @@ Instructor S
 > **Tools:** visual studio (2)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980)
@@ -1970,6 +1971,19 @@ Instructor S
 >
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Sasha Vodnik]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- JavaScript
+- Vanilla
 
 ## Path Context
 

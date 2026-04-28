@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Adobe%20Firefly%20Essential%20Training%20(2024).md)
 
 ![Adobe Firefly Essential Training (2024)](https://media.licdn.com/dms/image/v2/D560DAQFp10iebFeFwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008950985?e=2147483647&amp;v=beta&amp;t=jeVMmpzlCZzjy9Q41Y95SDhtoWix7c3FGfHOJbGjH20)
 
@@ -44,24 +46,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024) | 3h 48m | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bart Van de Wiele]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- Adobe Firefly
-- Artificial Intelligence (AI)
-- Generative AI Tools
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Firefly for Creatives** (3 videos)
+- **3. 2. Turning Descriptions into Images** (9 videos)
+- **4. 3. Using Advanced Settings** (7 videos)
+- **5. 4. Image Magic with Generative Fill** (8 videos)
+- **6. 5. Using Firefly in Adobe Photoshop** (8 videos)
+- **7. 6. Using Firefly in Adobe Express** (6 videos)
+- **8. 7. Using Firefly in Adobe Illustrator** (6 videos)
+- **9. 8. Ethical Generative AI** (3 videos)
+- **10. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Adobe Firefly essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/adobe-firefly-essentials?u=76281980)
@@ -70,7 +70,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/the-age-of-ai-driven-design?u=76281980)
 
 
-### 1. Firefly for Creatives
+### 2. 1. Firefly for Creatives
 
 #### How does Firefly fit in Creative Cloud?
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-fit-in-creative-cloud?u=76281980)
@@ -304,7 +304,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Turning Descriptions into Images
+### 3. 2. Turning Descriptions into Images
 
 #### Introducing Text to Image on the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-image-on-the-web?u=76281980)
@@ -1054,7 +1054,7 @@ created: 2026-04-21
 > **Non-Speech:** (gentle upbeat music) (1)
 
 
-### 3. Using Advanced Settings
+### 4. 3. Using Advanced Settings
 
 #### Setting colors, lighting, and composition
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-colors-lighting-and-composition?u=76281980)
@@ -1722,7 +1722,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-creating-a-structure-reference?u=76281980)
 
 
-### 4. Image Magic with Generative Fill
+### 5. 4. Image Magic with Generative Fill
 
 #### Introducing Generative Fill
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980)
@@ -2542,7 +2542,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution?u=76281980)
 
 
-### 5. Using Firefly in Adobe Photoshop
+### 6. 5. Using Firefly in Adobe Photoshop
 
 #### Using Generative Fill
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-fill?u=76281980)
@@ -3316,7 +3316,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Using Firefly in Adobe Express
+### 7. 6. Using Firefly in Adobe Express
 
 #### Introducing Adobe Firefly in Adobe Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-adobe-firefly-in-adobe-express?u=76281980)
@@ -3718,7 +3718,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Using Firefly in Adobe Illustrator
+### 8. 7. Using Firefly in Adobe Illustrator
 
 #### Introducing Text to Vector Graphic
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-vector-graphic?u=76281980)
@@ -4306,7 +4306,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### 8. Ethical Generative AI
+### 9. 8. Ethical Generative AI
 
 #### AI-generated images and ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980)
@@ -4655,7 +4655,7 @@ created: 2026-04-21
 > **URLs:** [credentials.org](https://credentials.org) (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980)
@@ -4778,6 +4778,21 @@ created: 2026-04-21
 >
 > **Speakers:** - if (1)
 
+
+## Instructor
+
+- [[Bart Van de Wiele]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- Adobe Firefly
+- Artificial Intelligence (AI)
+- Generative AI Tools
 
 ## Path Context
 

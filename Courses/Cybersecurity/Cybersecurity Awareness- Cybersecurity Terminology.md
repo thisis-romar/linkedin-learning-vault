@@ -39,8 +39,10 @@ tags:
   - skill/information-security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Awareness-%20Cybersecurity%20Terminology.md)
 
 ![Cybersecurity Awareness: Cybersecurity Terminology](https://media.licdn.com/dms/image/v2/C560DAQFAhw3ziR_meA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661795123072?e=2147483647&amp;v=beta&amp;t=LyFjK4EtIQd4w93bsgrNN95irjnqVvZEubJCuapOYns)
 
@@ -51,22 +53,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology) | 48m | Beginner | 246K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lauren Zink]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Information Security Awareness
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Defining Cybersecurity and People, Process, and Technology** (2 videos)
+- **3. 2. People** (4 videos)
+- **4. 3. Process** (2 videos)
+- **5. 4. Technology** (3 videos)
+- **6. 5. Threat Actors and Risks** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to Cybersecurity Terminology 101
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/welcome-to-cybersecurity-terminology-101?u=76281980)
@@ -101,7 +100,7 @@ created: 2026-04-21
 > **Non-Speech:** (cheerful music) (1)
 
 
-### 1. Defining Cybersecurity and People, Process, and Technology
+### 2. 1. Defining Cybersecurity and People, Process, and Technology
 
 #### What is cybersecurity?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/what-is-cybersecurity?u=76281980)
@@ -182,7 +181,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. People
+### 3. 2. People
 
 #### Security awareness and leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/security-awareness-and-leadership?u=76281980)
@@ -395,7 +394,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Process
+### 4. 3. Process
 
 #### Understanding processes and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-processes-and-documentation?u=76281980)
@@ -532,7 +531,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Technology
+### 5. 4. Technology
 
 #### Secure practices, terms, and exercises
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980)
@@ -695,7 +694,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Threat Actors and Risks
+### 6. 5. Threat Actors and Risks
 
 #### Threat actors and definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threat-actors-and-definitions?u=76281980)
@@ -889,7 +888,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Apply cybersecurity terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?u=76281980)
@@ -919,6 +918,19 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lauren Zink]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Information Security Awareness
+- Cybersecurity
 
 ## Path Context
 

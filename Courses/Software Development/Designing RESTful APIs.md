@@ -22,8 +22,10 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Designing%20RESTful%20APIs.md)
 
 ![Designing RESTful APIs](https://media.licdn.com/dms/image/v2/C4E0DAQGxAtBe6O-xHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635955168190?e=2147483647&amp;v=beta&amp;t=LCUgpm_teuJT951XyrjMsCVLY10iHJ7yBsqwEA0khA4)
 
@@ -34,13 +36,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis) | 1h 20m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith Casey]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Who Needs Your API?** (6 videos)
+- **3. 2. What Does Your API Look Like?** (3 videos)
+- **4. 3. How Does Your API Work?** (4 videos)
+- **5. 4. Common Design Challenges** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Design a RESTful API for your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980)
@@ -120,7 +127,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Who Needs Your API?
+### 2. 1. Who Needs Your API?
 
 #### Why good API design is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980)
@@ -577,7 +584,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. What Does Your API Look Like?
+### 3. 2. What Does Your API Look Like?
 
 #### Creating and grouping API methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/creating-and-grouping-api-methods-14392975?u=76281980)
@@ -1026,7 +1033,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 3. How Does Your API Work?
+### 4. 3. How Does Your API Work?
 
 #### REST and HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980)
@@ -1520,7 +1527,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 4. Common Design Challenges
+### 5. 4. Common Design Challenges
 
 #### Authentication and authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980)
@@ -2206,7 +2213,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps toward designing a RESTful API
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/next-steps-toward-designing-a-restful-api?u=76281980)
@@ -2250,6 +2257,10 @@ created: 2026-04-21
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [keith] (1)
 
+
+## Instructor
+
+- [[Keith Casey]]
 
 ## Path Context
 

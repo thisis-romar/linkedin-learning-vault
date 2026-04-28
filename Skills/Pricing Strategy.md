@@ -3,11 +3,16 @@ type: skill
 cssclasses:
   - lle-skill
 course_count: 1
+level_beginner: 0
+level_intermediate: 0
+level_advanced: 0
 tags:
   - skill
   - skill/pricing-strategy
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Pricing%20Strategy.md)
 
 # Pricing Strategy
 
@@ -15,4 +20,4 @@ created: 2026-04-21
 
 ## Courses
 
-- [[Strategic Pricing for Products and Services]]
+- [[Strategic Pricing for Products and Services]] — 1h 16m · 381,883 learners

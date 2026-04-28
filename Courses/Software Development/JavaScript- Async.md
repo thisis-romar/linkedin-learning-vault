@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Async.md)
 
 ![JavaScript: Async](https://media.licdn.com/dms/image/v2/C4E0DAQHygexut8bMMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635186525102?e=2147483647&amp;v=beta&amp;t=PUChXOd3hEVFLxFL4P-3ZFBGhpCnPMLyjywoxjCeiRg)
 
@@ -40,21 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async) | 1h 31m | Intermediate | 31K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sasha Vodnik]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Programming Asynchronously with Callbacks** (5 videos)
+- **3. 2. Programming Asynchronously with Promises** (8 videos)
+- **4. 3. Programming Asynchronously with Async/Await** (4 videos)
+- **5. 4. Programming Asynchronously with Web Workers** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Implementing smart asynchronous code
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/implementing-smart-asynchronous-code-22163789?u=76281980)
@@ -245,7 +244,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 1. Programming Asynchronously with Callbacks
+### 2. 1. Programming Asynchronously with Callbacks
 
 #### Understanding what asynchronous means
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-what-asynchronous-means-14342027?u=76281980)
@@ -730,7 +729,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Programming Asynchronously with Promises
+### 3. 2. Programming Asynchronously with Promises
 
 #### Understanding promises
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-promises-14342019?u=76281980)
@@ -1243,7 +1242,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Programming Asynchronously with Async/Await
+### 4. 3. Programming Asynchronously with Async/Await
 
 #### Understanding the async/await model
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-the-async-await-model-14344029?u=76281980)
@@ -1499,7 +1498,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Programming Asynchronously with Web Workers
+### 5. 4. Programming Asynchronously with Web Workers
 
 #### What is a web worker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/what-is-a-web-worker-14338950?u=76281980)
@@ -1938,7 +1937,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Asynchronous coding experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980)
@@ -1964,6 +1963,18 @@ created: 2026-04-21
 > **Env Vars:** http (1)
 > **Speakers:** - [sasha] (1)
 
+
+## Instructor
+
+- [[Sasha Vodnik]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- JavaScript
 
 ## Path Context
 

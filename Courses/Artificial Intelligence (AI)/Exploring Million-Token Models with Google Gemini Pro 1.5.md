@@ -33,34 +33,28 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Exploring%20Million-Token%20Models%20with%20Google%20Gemini%20Pro%201.5.md)
 
 ![Exploring Million-Token Models with Google Gemini Pro 1.5](https://media.licdn.com/dms/image/v2/D4D0DAQEN1p4G_REgGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713473090290?e=2147483647&amp;v=beta&amp;t=EaFp8l6We_yOE8ry8DgKaB70ZvG1xrxKjwAazZhe2FU)
 
 # Exploring Million-Token Models with Google Gemini Pro 1.5
 
-> Google Gemini Pro 1.5 breaks new ground with its million-token capacity, reshaping AI prompting by maximizing the size of its context window. 
-
-Learn how modern LLMs use a million tokens to handle complex data sets, and allow advanced analysis of different media types, such as text, images, audio, and video processing.
+> Google Gemini Pro 1.5 breaks new ground with its million-token capacity, reshaping AI prompting by maximizing the size of its context window. Learn how modern LLMs use a million tokens to handle complex data sets, and allow advanced analysis of different media types, such as text, images, audio, and video processing.
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5) | 18m | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Skills Covered
-
-- Chatbot Development
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- Google Gemini
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. One Million Tokens with Google Gemini Pro 1.5** (4 videos)
+
+### 1. Introduction
 
 #### The future of AI is huge
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980)
@@ -92,7 +86,7 @@ Learn how modern LLMs use a million tokens to handle complex data sets, and allo
 > **Speakers:** - something (1)
 
 
-### 1. One Million Tokens with Google Gemini Pro 1.5
+### 2. 1. One Million Tokens with Google Gemini Pro 1.5
 
 #### Google Gemini Pro and the Gemini Family
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980)
@@ -480,6 +474,17 @@ Learn how modern LLMs use a million tokens to handle complex data sets, and allo
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Skills Covered
+
+- Chatbot Development
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
+- Google Gemini
 
 ## Path Context
 

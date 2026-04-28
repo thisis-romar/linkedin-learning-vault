@@ -32,8 +32,10 @@ tags:
   - skill/github
   - skill/issue-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/GitHub%20Issues%20and%20Projects%20for%20Teams.md)
 
 ![GitHub Issues and Projects for Teams](https://media.licdn.com/dms/image/v2/D560DAQEElWFICQNCyQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666992103588?e=2147483647&amp;v=beta&amp;t=ePSrIK7-WfM0DlcgSucs0tLBH_MM58ORwNy6XV0Z4G4)
 
@@ -44,23 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams) | 1h 10m | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Teresa Luz Miller]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/github-issues-and-projects-for-teams-3212262)
-
-## Skills Covered
-
-- GitHub
-- Issue Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Basics of Issues** (10 videos)
+- **3. 2. Managing Issues** (4 videos)
+- **4. 3. Basics of Projects** (7 videos)
+- **5. 4. Combining Knowledge** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Collaboration at its finest with GitHub issues and projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980)
@@ -105,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Basics of Issues
+### 2. 1. Basics of Issues
 
 #### Creating an issue
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980)
@@ -715,7 +712,7 @@ created: 2026-04-21
 > **Prerequisites:** setup (1)
 
 
-### 2. Managing Issues
+### 3. 2. Managing Issues
 
 #### Marking duplicates
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/marking-duplicates?u=76281980)
@@ -886,7 +883,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Basics of Projects
+### 4. 3. Basics of Projects
 
 #### Creating a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980)
@@ -1467,7 +1464,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 4. Combining Knowledge
+### 5. 4. Combining Knowledge
 
 #### Using issues and projects for teamwork planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-issues-and-projects-for-teamwork-planning?u=76281980)
@@ -1616,7 +1613,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/next-steps?u=76281980)
@@ -1649,6 +1646,20 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - [teresa] (1)
 
+
+## Instructor
+
+- [[Teresa Luz Miller]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/github-issues-and-projects-for-teams-3212262)
+
+## Skills Covered
+
+- GitHub
+- Issue Management
 
 ## Path Context
 

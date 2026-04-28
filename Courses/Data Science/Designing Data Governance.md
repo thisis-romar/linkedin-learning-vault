@@ -30,31 +30,32 @@ tags:
   - skill/program-design
   - skill/data-governance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Designing%20Data%20Governance.md)
 
 ![Designing Data Governance](https://media.licdn.com/dms/image/v2/D560DAQGGor2paUUm6w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702077125639?e=2147483647&amp;v=beta&amp;t=81DwIQXC9YE_3wWHzqvLVGZudHbiOJi62JKd4rihuS8)
 
 # Designing Data Governance
 
-> More data is produced and ingested than ever before, yet the number of leaders who say they’re data-driven is decreasing. Today’s businesses produce and ingest too much data  for one team or leader to manage it all. That’s where data governance comes in. Organizations today must design data governance—the people, processes, and tools to manage your data at scale—into their business plans.
-In this 
+> More data is produced and ingested than ever before, yet the number of leaders who say they’re data-driven is decreasing. Today’s businesses produce and ingest too much data for one team or leader to manage it all. That’s where data governance comes in. Organizations today must design data governance—the people, processes, and tools to manage your data at scale—into their business plans. In this c
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance) | 39m | Intermediate | 118K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lauren Maffeo]]
-
-## Skills Covered
-
-- Program Design
-- Data Governance
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Find Your Data Framework** (3 videos)
+- **3. 2. Select Data Stewards** (4 videos)
+- **4. 3. Build Your Data Governance Council** (4 videos)
+- **5. 4. Tackle Your First Data Governance Tasks** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building a data-driven culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/building-a-data-driven-culture?u=76281980)
@@ -80,7 +81,7 @@ In this
 > **Code Keywords:** let (1)
 
 
-### 1. Find Your Data Framework
+### 2. 1. Find Your Data Framework
 
 #### Clarifying your company's mission statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980)
@@ -284,7 +285,7 @@ In this
 > **Definitions:** is a  (1)
 
 
-### 2. Select Data Stewards
+### 3. 2. Select Data Stewards
 
 #### What are data stewards?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980)
@@ -540,7 +541,7 @@ In this
 > **Prerequisites:** you'll need (1)
 
 
-### 3. Build Your Data Governance Council
+### 4. 3. Build Your Data Governance Council
 
 #### What is a data governance council?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/what-is-a-data-governance-council?u=76281980)
@@ -763,7 +764,7 @@ In this
 > **Prerequisites:** you'll need (1)
 
 
-### 4. Tackle Your First Data Governance Tasks
+### 5. 4. Tackle Your First Data Governance Tasks
 
 #### Defining data domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980)
@@ -1008,7 +1009,7 @@ In this
 > **Warnings:** note that (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980)
@@ -1049,6 +1050,15 @@ In this
 > **Env Vars:** cdo (1)
 > **Cross-References:** we discussed (1)
 
+
+## Instructor
+
+- [[Lauren Maffeo]]
+
+## Skills Covered
+
+- Program Design
+- Data Governance
 
 ## Path Context
 

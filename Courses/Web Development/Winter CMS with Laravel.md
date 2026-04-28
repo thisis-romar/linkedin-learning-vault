@@ -28,8 +28,10 @@ tags:
   - skill/content-management-systems-cms
   - skill/laravel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Winter%20CMS%20with%20Laravel.md)
 
 ![Winter CMS with Laravel](https://media.licdn.com/dms/image/v2/C4E0DAQHUs_xfbKqISA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1645736076311?e=2147483647&amp;v=beta&amp;t=7OPdhJ74i4bBhkLQQ85KoBPFfT-2Juw9FVmzRND_4xU)
 
@@ -40,22 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel) | 1h 19m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ana Lisboa]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Content Management Systems (CMS)
-- Laravel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Introduction to Winter CMS** (3 videos)
+- **3. 2. Moving to Winter** (6 videos)
+- **4. 3. Using Winter Features** (5 videos)
+- **5. 4. Winter Plug-Ins and Prepping for Production** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How to turn a static website into a content-managed one
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980)
@@ -233,7 +231,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### 1. Introduction to Winter CMS
+### 2. 1. Introduction to Winter CMS
 
 #### Winter CMS overview and installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980)
@@ -478,7 +476,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Moving to Winter
+### 3. 2. Moving to Winter
 
 #### Exploring the default theme and creating your own
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/exploring-the-default-theme-and-creating-your-own?u=76281980)
@@ -1031,7 +1029,7 @@ created: 2026-04-21
 > **Speakers:** - continuing (1)
 
 
-### 3. Using Winter Features
+### 4. 3. Using Winter Features
 
 #### Using a plug-in to set the navbar
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/using-a-plug-in-to-set-the-navbar?u=76281980)
@@ -1390,7 +1388,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Winter Plug-Ins and Prepping for Production
+### 5. 4. Winter Plug-Ins and Prepping for Production
 
 #### Magic Forms plug-in
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980)
@@ -1689,7 +1687,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Further your knowledge and connect to the community
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/further-your-knowledge-and-connect-to-the-community?u=76281980)
@@ -1729,6 +1727,19 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 > **Speakers:** - [ana] (1)
 
+
+## Instructor
+
+- [[Ana Lisboa]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Content Management Systems (CMS)
+- Laravel
 
 ## Path Context
 

@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/product-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Development-%20Technical%20Feasibility%20and%20Prototyping.md)
 
 ![AI Product Development: Technical Feasibility and Prototyping](https://media.licdn.com/dms/image/v2/D4E0DAQE6q6oYZ-mdhQ/learning-public-crop_675_1200/B4EZYcb5jbHMAc-/0/1744233798227?e=2147483647&amp;v=beta&amp;t=N-gCi3lQBXKFOfl4wQvj79JHYlCWKzeT15XPN10orKA)
 
@@ -48,24 +50,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping) | 2h 6m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Maria Parysz]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI Software Development
-- Prototyping
-- Artificial Intelligence (AI)
-- Product Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is "Feasible"?** (2 videos)
+- **3. 2. Tech Feasibility in Detail** (16 videos)
+- **4. 3. Prototyping** (10 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/introduction?u=76281980)
@@ -93,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. What Is "Feasible"?
+### 2. 1. What Is "Feasible"?
 
 #### The goal: Feasibility and prototyping
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility?u=76281980)
@@ -264,7 +259,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Tech Feasibility in Detail
+### 3. 2. Tech Feasibility in Detail
 
 #### "Must knows" for feasibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980)
@@ -1576,7 +1571,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Prototyping
+### 4. 3. Prototyping
 
 #### Fundamentals of prototyping and prototyping timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980)
@@ -2674,7 +2669,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980)
@@ -2706,6 +2701,21 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Maria Parysz]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI Software Development
+- Prototyping
+- Artificial Intelligence (AI)
+- Product Development
 
 ## Path Context
 

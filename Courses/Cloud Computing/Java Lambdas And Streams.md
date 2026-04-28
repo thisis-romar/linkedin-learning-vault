@@ -26,39 +26,31 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Java%20Lambdas%20And%20Streams.md)
 
 ![Java Lambdas And Streams](https://media.licdn.com/dms/image/v2/D560DAQE9ni67NPykmg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351910833?e=2147483647&amp;v=beta&amp;t=DolbyuGsb_3Of4uo0GVDGqcJu-SRq0kXnefCWxCAeXg)
 
 # Java Lambdas And Streams
 
-> Suggested prerequisites
-
-Learning Java 17 
-
-
-Projects
-
-Practice your new skills with hands-on coding exercises on GitHub.
-Get set up quickly and easily using your favorite IDE and practice applying the theory of functional programming using test-driven development.
-Write a lambda expression to perform an operation and successfully get a unit test to pass, leveraging a variety of different classes,
+> Suggested prerequisites Learning Java 17 Projects Practice your new skills with hands-on coding exercises on GitHub. Get set up quickly and easily using your favorite IDE and practice applying the theory of functional programming using test-driven development. Write a lambda expression to perform an operation and successfully get a unit test to pass, leveraging a variety of different classes, obje
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams) | Intermediate | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/java-lambdas-streams-2453107)
-
-## Skills Covered
-
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Functional Programming** (1 videos)
+- **3. 2. Lambdas** (3 videos)
+- **4. 3. Streams** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Java lambdas and streams
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980)
@@ -326,7 +318,7 @@ Write a lambda expression to perform an operation and successfully get a unit te
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Functional Programming
+### 2. 1. Functional Programming
 
 #### What is functional programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/what-is-functional-programming?u=76281980)
@@ -406,7 +398,7 @@ Write a lambda expression to perform an operation and successfully get a unit te
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Lambdas
+### 3. 2. Lambdas
 
 #### Functional interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980)
@@ -742,7 +734,7 @@ Write a lambda expression to perform an operation and successfully get a unit te
 > **Env Vars:** jdk (1)
 
 
-### 3. Streams
+### 4. 3. Streams
 
 #### Understanding streams
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980)
@@ -1168,7 +1160,7 @@ Write a lambda expression to perform an operation and successfully get a unit te
 > **Speakers:** - [speaker] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Continuing on with Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/continuing-on-with-java?u=76281980)
@@ -1191,6 +1183,15 @@ Write a lambda expression to perform an operation and successfully get a unit te
 >
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/java-lambdas-streams-2453107)
+
+## Skills Covered
+
+- Java
 
 ## Path Context
 

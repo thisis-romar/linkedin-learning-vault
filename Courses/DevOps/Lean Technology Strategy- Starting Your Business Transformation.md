@@ -22,8 +22,10 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Lean%20Technology%20Strategy-%20Starting%20Your%20Business%20Transformation.md)
 
 ![Lean Technology Strategy: Starting Your Business Transformation](https://media.licdn.com/dms/image/v2/C4E0DAQHIpHUwGr5iBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117985088?e=2147483647&amp;v=beta&amp;t=-7G0or3i0aTjd4Af6SY-C_XuxBSObWcyJxY9KkUgpSM)
 
@@ -34,13 +36,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2) | 37m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barry O'Reilly]]
-
 ## Table of Contents
 
-### 1. Business Transformation
+### Chapter Overview
+
+- **1. 1. Business Transformation** (4 videos)
+
+### 1. 1. Business Transformation
 
 #### Deploying the improvement kata
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/deploying-the-improvement-kata?u=76281980)
@@ -453,6 +455,10 @@ created: 2026-04-21
 #### Ten principles for business transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/ten-principles-for-business-transformation?u=76281980)
 
+
+## Instructor
+
+- [[Barry O'Reilly]]
 
 ## Path Context
 

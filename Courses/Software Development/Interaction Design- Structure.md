@@ -21,8 +21,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Structure.md)
 
 ![Interaction Design: Structure](https://media.licdn.com/dms/image/v2/C4E0DAQHDS4rFyXcB6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117972469?e=2147483647&amp;v=beta&amp;t=5rYCdzqFhakVEqsEe4N77a9h3F8SaDs4ndoXvNv5Czw)
 
@@ -33,13 +35,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure) | 39m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Diane Cronenwett]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Structure** (5 videos)
+- **3. 2. Designing Page-Level Structure** (4 videos)
+- **4. 3. Interface Design Considerations** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Structure is the backbone of UX
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/structure-is-the-backbone-of-ux?u=76281980)
@@ -62,7 +68,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding Structure
+### 2. 1. Understanding Structure
 
 #### Understanding the big picture
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/understanding-the-big-picture?u=76281980)
@@ -394,7 +400,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Designing Page-Level Structure
+### 3. 2. Designing Page-Level Structure
 
 #### Information scent and hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/information-scent-and-hierarchy?u=76281980)
@@ -683,7 +689,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Interface Design Considerations
+### 4. 3. Interface Design Considerations
 
 #### Sitemap and flow diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/sitemap-and-flow-diagram?u=76281980)
@@ -1029,7 +1035,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980)
@@ -1052,6 +1058,10 @@ created: 2026-04-21
 >
 > **Speakers:** - [diane] (1)
 
+
+## Instructor
+
+- [[Diane Cronenwett]]
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - skill/pdf-management
   - skill/it-accessibility
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Accessible%20PDFs.md)
 
 ![Advanced Accessible PDFs](https://media.licdn.com/dms/image/v2/C560DAQH5SqlUTeF5Ug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679534675284?e=2147483647&amp;v=beta&amp;t=0nbI4Ce96_vagfYv9YmoFv9dvBV9U45Ux-p6eHXdOM8)
 
@@ -42,22 +44,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253) | 6h 46m | Advanced | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Chad Chelius]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- PDF Management
-- IT Accessibility
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Advanced Accessibility Topics in Adobe Acrobat** (15 videos)
+- **3. 2. Working with Tables in Adobe Acrobat** (11 videos)
+- **4. 3. Working with Forms in Adobe Acrobat** (6 videos)
+- **5. 4. Advanced Accessibility Topics in Microsoft Word** (6 videos)
+- **6. 5. Advanced Accessibility Topics in Adobe InDesign** (11 videos)
+- **7. 6. PDF/UA Remediation** (15 videos)
+- **8. 7. Third-Party Tools** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Is your document accessible?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/is-your-document-accessible?u=76281980)
@@ -117,7 +118,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Advanced Accessibility Topics in Adobe Acrobat
+### 2. 1. Advanced Accessibility Topics in Adobe Acrobat
 
 #### Shortcuts for walking the tags tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/shortcuts-for-walking-the-tags-tree?u=76281980)
@@ -1975,7 +1976,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 2. Working with Tables in Adobe Acrobat
+### 3. 2. Working with Tables in Adobe Acrobat
 
 #### Defining header cells in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/defining-header-cells-in-a-table?u=76281980)
@@ -3516,7 +3517,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Working with Forms in Adobe Acrobat
+### 4. 3. Working with Forms in Adobe Acrobat
 
 #### Adding form fields in Adobe Acrobat
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/adding-form-fields-in-adobe-acrobat?u=76281980)
@@ -4531,7 +4532,7 @@ created: 2026-04-21
 > **Non-Speech:** (interface chimes) (1)
 
 
-### 4. Advanced Accessibility Topics in Microsoft Word
+### 5. 4. Advanced Accessibility Topics in Microsoft Word
 
 #### Saving accessible PDFs from Microsoft Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/saving-accessible-pdfs-from-microsoft-word?u=76281980)
@@ -5230,7 +5231,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Advanced Accessibility Topics in Adobe InDesign
+### 6. 5. Advanced Accessibility Topics in Adobe InDesign
 
 #### Working with merged table cells
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/working-with-merged-table-cells?u=76281980)
@@ -6778,7 +6779,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. PDF/UA Remediation
+### 7. 6. PDF/UA Remediation
 
 #### Understanding PDF/UA
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/understanding-pdf-ua?u=76281980)
@@ -8035,7 +8036,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Third-Party Tools
+### 8. 7. Third-Party Tools
 
 #### Tools for visualizing document structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/tools-for-visualizing-document-structure?u=76281980)
@@ -8464,7 +8465,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/next-steps-for-accessibility?u=76281980)
@@ -8572,6 +8573,19 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Chad Chelius]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- PDF Management
+- IT Accessibility
 
 ## Path Context
 

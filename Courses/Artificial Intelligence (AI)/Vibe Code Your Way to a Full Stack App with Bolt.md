@@ -22,27 +22,29 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Vibe%20Code%20Your%20Way%20to%20a%20Full%20Stack%20App%20with%20Bolt.md)
 
 ![Vibe Code Your Way to a Full Stack App with Bolt](https://media.licdn.com/dms/image/v2/D4E0DAQErpGUJP8F42g/learning-public-crop_675_1200/B4EZbVp80uGcAg-/0/1747341266505?e=2147483647&amp;v=beta&amp;t=8045qr00agtT1jMLhhN1yDG464uoyz_HO7uB12f7kuo)
 
 # Vibe Code Your Way to a Full Stack App with Bolt
 
-> This course shows you how to use Bolt, the AI-powered development tool that lets anyone build full stack apps using natural language. No IDE, no setup, just smart prompting in a browser. 
-
-Whether you’re a seasoned developer who wants to prototype faster or a non-coder with an app idea, Bolt can help you get from idea to deployed app with ease. Plus it helps you brainstorm with AI in an interactiv
+> This course shows you how to use Bolt, the AI-powered development tool that lets anyone build full stack apps using natural language. No IDE, no setup, just smart prompting in a browser. Whether you’re a seasoned developer who wants to prototype faster or a non-coder with an app idea, Bolt can help you get from idea to deployed app with ease. Plus it helps you brainstorm with AI in an interactive 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt) | 30m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Using Bolt** (5 videos)
+- **3. 2. Vibe Coding with Bolt** (2 videos)
+
+### 1. Introduction
 
 #### What if you could build an app just by chatting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/what-if-you-could-build-an-app-just-by-chatting?u=76281980)
@@ -69,7 +71,7 @@ Whether you’re a seasoned developer who wants to prototype faster or a non-cod
 > **Speakers:** - you (1)
 
 
-### 1. Using Bolt
+### 2. 1. Using Bolt
 
 #### Skip the setup and build apps faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980)
@@ -516,7 +518,7 @@ Whether you’re a seasoned developer who wants to prototype faster or a non-cod
 > **Analogies:** for example (1)
 
 
-### 2. Vibe Coding with Bolt
+### 3. 2. Vibe Coding with Bolt
 
 #### Vibe coding a project with the Bolt interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980)
@@ -817,6 +819,10 @@ Whether you’re a seasoned developer who wants to prototype faster or a non-cod
 > **Tools:** terminal (1)
 > **Speakers:** - let (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
 
 ## Path Context
 

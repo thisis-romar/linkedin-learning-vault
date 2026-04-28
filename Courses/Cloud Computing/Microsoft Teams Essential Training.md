@@ -38,8 +38,10 @@ tags:
   - topic/data-science
   - skill/microsoft-teams
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Teams%20Essential%20Training.md)
 
 ![Microsoft Teams Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQHVMBETeAzKRw/learning-public-crop_675_1200/B4DZYmTInHGkAc-/0/1744399272640?e=2147483647&amp;v=beta&amp;t=ksyVQTMYkak6wR-Rv7lH0ZDnXID-IkU4ePvFJTmZpZU)
 
@@ -50,17 +52,27 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395) | 3h 46m | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nick Brazzi]]
-
-## Skills Covered
-
-- Microsoft Teams
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Sign In and Get Started** (5 videos)
+- **3. 2. Join or Make a Team** (5 videos)
+- **4. 3. Group Conversations using Teams and Channels** (7 videos)
+- **5. 4. Private Chats** (3 videos)
+- **6. 5. Meetings and Calls** (12 videos)
+- **7. 6. Copilot and Teams Premium: AI and Security Add-Ons** (6 videos)
+- **8. 7. Sharing Files and Loop Components** (3 videos)
+- **9. 8. Explore Apps and Optional Features in Teams** (2 videos)
+- **10. 9. Search, Settings, and Customization** (5 videos)
+- **11. 10. Managing Teams for Team Owners** (3 videos)
+- **12. 11. Teams for Education: Manage Assignments** (3 videos)
+- **13. 12. Accessibility Features** (4 videos)
+- **14. 13. Working with the Mobile App** (1 videos)
+- **15. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Communicate effectively with Microsoft Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/communicate-effectively-with-microsoft-teams?u=76281980)
@@ -86,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - communication (1)
 
 
-### 1. Sign In and Get Started
+### 2. 1. Sign In and Get Started
 
 #### Understand the different versions of Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980)
@@ -476,7 +488,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Join or Make a Team
+### 3. 2. Join or Make a Team
 
 #### Join a team in Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980)
@@ -1036,7 +1048,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. Group Conversations using Teams and Channels
+### 4. 3. Group Conversations using Teams and Channels
 
 #### Organize conversations with channels
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/organize-conversations-with-channels-25634941?u=76281980)
@@ -1622,7 +1634,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Private Chats
+### 5. 4. Private Chats
 
 #### Use chats for private messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-chats-for-private-messages-25637952?u=76281980)
@@ -1897,7 +1909,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Meetings and Calls
+### 6. 5. Meetings and Calls
 
 #### Get set up for calls and meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-set-up-for-calls-and-meetings?u=76281980)
@@ -3320,7 +3332,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 6. Copilot and Teams Premium: AI and Security Add-Ons
+### 7. 6. Copilot and Teams Premium: AI and Security Add-Ons
 
 #### Compare Copilot and Teams Premium
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980)
@@ -3901,7 +3913,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 7. Sharing Files and Loop Components
+### 8. 7. Sharing Files and Loop Components
 
 #### Share files in Microsoft Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980)
@@ -4106,7 +4118,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Explore Apps and Optional Features in Teams
+### 9. 8. Explore Apps and Optional Features in Teams
 
 #### Customize channel tabs in Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-channel-tabs-in-teams?u=76281980)
@@ -4338,7 +4350,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Search, Settings, and Customization
+### 10. 9. Search, Settings, and Customization
 
 #### Set your status message in Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/set-your-status-message-in-teams?u=76281980)
@@ -4691,7 +4703,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Managing Teams for Team Owners
+### 11. 10. Managing Teams for Team Owners
 
 #### Make a team from a template or an existing team
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980)
@@ -5004,7 +5016,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Teams for Education: Manage Assignments
+### 12. 11. Teams for Education: Manage Assignments
 
 #### Make and grade assignments in Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980)
@@ -5343,7 +5355,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Accessibility Features
+### 13. 12. Accessibility Features
 
 #### Make the Teams interface easier to see
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980)
@@ -5698,7 +5710,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 13. Working with the Mobile App
+### 14. 13. Working with the Mobile App
 
 #### Use the mobile app for iOS and Android
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980)
@@ -5827,7 +5839,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### Conclusion
+### 15. Conclusion
 
 #### Learn more about Microsoft Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980)
@@ -5861,6 +5873,14 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Nick Brazzi]]
+
+## Skills Covered
+
+- Microsoft Teams
 
 ## Path Context
 

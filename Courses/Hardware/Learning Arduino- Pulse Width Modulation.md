@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20Arduino-%20Pulse%20Width%20Modulation.md)
 
 ![Learning Arduino: Pulse Width Modulation](https://media.licdn.com/dms/image/v2/C4E0DAQFmJV_0Jz54qg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669931109?e=2147483647&amp;v=beta&amp;t=fsGXsszYjCbEzP4dRHnvAdfr_cUshhHTRyVt-q7Hbik)
 
@@ -42,21 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation) | 1h 16m | Intermediate | 132K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rae Hoyt]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Arduino
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Introduction to Pulse-Width Modulation (PWM)** (5 videos)
+- **3. 2. Using Analog Inputs to Drive PWM Output** (7 videos)
+- **4. 3. LED and PWM** (8 videos)
+- **5. 4. Motor Control** (9 videos)
+- **6. Next steps** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980)
@@ -164,7 +163,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Introduction to Pulse-Width Modulation (PWM)
+### 2. 1. Introduction to Pulse-Width Modulation (PWM)
 
 #### Exploring the fundamentals of PWM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/exploring-the-fundamentals-of-pwm?u=76281980)
@@ -510,7 +509,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 2. Using Analog Inputs to Drive PWM Output
+### 3. 2. Using Analog Inputs to Drive PWM Output
 
 #### Introducing various analog inputs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980)
@@ -1044,7 +1043,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 3. LED and PWM
+### 4. 3. LED and PWM
 
 #### Fading an LED with PWM with code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/fading-an-led-with-pwm-with-code?u=76281980)
@@ -1546,7 +1545,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### 4. Motor Control
+### 5. 4. Motor Control
 
 #### Comparing DC motors, servos, and stepper motors
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/comparing-dc-motors-servos-and-stepper-motors?u=76281980)
@@ -2072,7 +2071,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### Next steps
+### 6. Next steps
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/conclusion?u=76281980)
@@ -2104,6 +2103,18 @@ created: 2026-04-21
 > **Env Vars:** ide (1)
 > **Speakers:** - there (1)
 
+
+## Instructor
+
+- [[Rae Hoyt]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Arduino
 
 ## Path Context
 

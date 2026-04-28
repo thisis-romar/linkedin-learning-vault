@@ -28,8 +28,10 @@ tags:
   - skill/fostering-inclusivity
   - skill/diversity-equity-inclusion-and-belonging-deib
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Making%20A%20Case%20For%20Accessibility%20In%20Your%20Organization.md)
 
 ![Making A Case For Accessibility In Your Organization](https://media.licdn.com/dms/image/v2/C560DAQFnljeoi7JYxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1672773910156?e=2147483647&amp;v=beta&amp;t=6_tM86pBXyegZZwmGIp7HlPaJyouC9l0s-Qm8xPZVPU)
 
@@ -40,16 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization) | 118K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Workplace Equity
-- Building Accessibility
-- Fostering inclusivity
-- Diversity, Equity, Inclusion and Belonging (DEIB)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Beginning Your Accessibility Journey** (4 videos)
+- **3. 2. Building Momentum** (4 videos)
+- **4. 3. Innovating for Accessibility** (3 videos)
+- **5. 4. Developing Your Narrative** (1 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building an accessibility program
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980)
@@ -82,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. Beginning Your Accessibility Journey
+### 2. 1. Beginning Your Accessibility Journey
 
 #### Focus on culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-culture?u=76281980)
@@ -360,7 +364,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 2. Building Momentum
+### 3. 2. Building Momentum
 
 #### Create good habits and model behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980)
@@ -573,7 +577,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 3. Innovating for Accessibility
+### 4. 3. Innovating for Accessibility
 
 #### Build inclusive experiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980)
@@ -733,7 +737,7 @@ created: 2026-04-21
 > **Speakers:** - assessing (1)
 
 
-### 4. Developing Your Narrative
+### 5. 4. Developing Your Narrative
 
 #### Storytelling for your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980)
@@ -816,7 +820,7 @@ created: 2026-04-21
 > **Speakers:** - storytelling (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980)
@@ -843,6 +847,13 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - thank (1)
 
+
+## Skills Covered
+
+- Workplace Equity
+- Building Accessibility
+- Fostering inclusivity
+- Diversity, Equity, Inclusion and Belonging (DEIB)
 
 ## Path Context
 

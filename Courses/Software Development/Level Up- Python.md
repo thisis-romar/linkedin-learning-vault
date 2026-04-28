@@ -36,8 +36,10 @@ tags:
   - topic/data-science
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Level%20Up-%20Python.md)
 
 ![Level Up: Python](https://media.licdn.com/dms/image/v2/C4E0DAQGnwvqIftQDEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668016084325?e=2147483647&amp;v=beta&amp;t=dFt6FEqbWzFRhssfqXg6vrZFm7aXoRpl1993YJS__RY)
 
@@ -48,21 +50,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python) | 57m | Intermediate | 393K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barron Stone]]
-
-## Resources
-
-- [GitHub Repository](https://github.com/LinkedInLearning/level-up-python-3210418/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Challenges** (15 videos)
+
+### 1. Introduction
 
 #### Put your Python skills to the test!
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/put-your-python-skills-to-the-test?u=76281980)
@@ -246,7 +241,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 1. Challenges
+### 2. 1. Challenges
 
 #### Find prime factors
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/find-prime-factors?u=76281980)
@@ -1378,6 +1373,18 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 > **Analogies:** such as (1)
 
+
+## Instructor
+
+- [[Barron Stone]]
+
+## Resources
+
+- [GitHub Repository](https://github.com/LinkedInLearning/level-up-python-3210418/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
 
 ## Path Context
 

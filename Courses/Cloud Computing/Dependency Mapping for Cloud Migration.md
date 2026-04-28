@@ -23,8 +23,10 @@ tags:
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Dependency%20Mapping%20for%20Cloud%20Migration.md)
 
 ![Dependency Mapping for Cloud Migration](https://media.licdn.com/dms/image/v2/D4D0DAQExFUbbwyl7gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702676695674?e=2147483647&amp;v=beta&amp;t=ZMqWSx9MWR75DowzCbSQcb0FxRVZ9syMDSIBN3hQ3AM)
 
@@ -35,13 +37,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration) | 1h 35m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gary Grudzinskas]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Application Dependency and Cloud Services** (5 videos)
+- **3. 2. Application Dependency Mapping Techniques** (4 videos)
+- **4. 3. Planning for the Migration of Applications Dependencies to the Cloud** (4 videos)
+- **5. 4. Using Cloud Service Provider Migration Tools** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The role of application dependency
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/the-role-of-application-dependency?u=76281980)
@@ -70,7 +77,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### 1. Application Dependency and Cloud Services
+### 2. 1. Application Dependency and Cloud Services
 
 #### Application migration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980)
@@ -728,7 +735,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Application Dependency Mapping Techniques
+### 3. 2. Application Dependency Mapping Techniques
 
 #### Using installed agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-installed-agents?u=76281980)
@@ -1037,7 +1044,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Planning for the Migration of Applications Dependencies to the Cloud
+### 4. 3. Planning for the Migration of Applications Dependencies to the Cloud
 
 #### Application options for cloud migrations
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980)
@@ -1406,7 +1413,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Using Cloud Service Provider Migration Tools
+### 5. 4. Using Cloud Service Provider Migration Tools
 
 #### Using the migration process in Google Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980)
@@ -1970,7 +1977,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1), - so (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps in cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/next-steps-in-cloud-migration?u=76281980)
@@ -1999,6 +2006,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Gary Grudzinskas]]
 
 ## Path Context
 

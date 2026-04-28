@@ -30,8 +30,10 @@ tags:
   - skill/debugging-code
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Debugging%20in%20C-.md)
 
 ![Debugging in C#](https://media.licdn.com/dms/image/v2/D560DAQGLU3_QpBMa2A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720820408514?e=2147483647&amp;v=beta&amp;t=hM2XivdDy9bXS90mywn0F6sshixgCLcnLmSkVJ7bt0w)
 
@@ -42,22 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp) | 1h 26m | Beginner | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kathryn Hodge]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Debugging Code
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Basics of Debugging** (7 videos)
+- **3. 2. More Debugging Tips and Tricks** (4 videos)
+- **4. 3. Common Errors in C#** (5 videos)
+- **5. 4. Practice Debugging C# Programs** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Debugging in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/debugging-in-c-sharp?u=76281980)
@@ -171,7 +169,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Basics of Debugging
+### 2. 1. Basics of Debugging
 
 #### What is debugging?
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-debugging?u=76281980)
@@ -769,7 +767,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. More Debugging Tips and Tricks
+### 3. 2. More Debugging Tips and Tricks
 
 #### Covering edge cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/covering-edge-cases?u=76281980)
@@ -1071,7 +1069,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Common Errors in C#
+### 4. 3. Common Errors in C#
 
 #### NullReferenceException
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/nullreferenceexception?u=76281980)
@@ -1495,7 +1493,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Practice Debugging C# Programs
+### 5. 4. Practice Debugging C# Programs
 
 #### Basic code challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/basic-code-challenge?u=76281980)
@@ -1961,7 +1959,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/next-steps?u=76281980)
@@ -1987,6 +1985,19 @@ created: 2026-04-21
 > **Tools:** visual studio (1)
 > **Speakers:** - [kathryn] (1)
 
+
+## Instructor
+
+- [[Kathryn Hodge]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Debugging Code
+- C#
 
 ## Path Context
 

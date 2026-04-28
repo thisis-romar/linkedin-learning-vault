@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Java-%20Hands-on%20with%20Streams%2C%20Lambda%20Expressions%2C%20Collections%2C%20Generics%20and%20More.md)
 
 ![Advanced Java: Hands-on with Streams, Lambda Expressions, Collections, Generics and More](https://media.licdn.com/dms/image/v2/D560DAQEn_cL1ZTUQCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902444081?e=2147483647&amp;v=beta&amp;t=z7aBpUH2DA95t1E3AsbrRH02DfLPDdbR-u3GsoWONV0)
 
@@ -40,22 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more) | 50m | Advanced | 120K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Maaike van Putten]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advance-your-skills-in-java-4452104)
-
-## Skills Covered
-
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Streams and Lambda Expressions** (4 videos)
+- **3. 2. Collections and Generics** (4 videos)
+- **4. 3. Annotations and Reflection** (4 videos)
+- **5. 4. Concurrency and Multithreading** (3 videos)
+- **6. 5. Working with the Singleton Design Pattern** (3 videos)
+- **7. 6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Advance your Java Skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/advance-your-java-skills?u=76281980)
@@ -147,7 +146,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Streams and Lambda Expressions
+### 2. 1. Streams and Lambda Expressions
 
 #### Functional programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/functional-programming?u=76281980)
@@ -497,7 +496,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Collections and Generics
+### 3. 2. Collections and Generics
 
 #### Java collection framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-collection-framework?u=76281980)
@@ -759,7 +758,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Annotations and Reflection
+### 4. 3. Annotations and Reflection
 
 #### Understanding annotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980)
@@ -1009,7 +1008,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Concurrency and Multithreading
+### 5. 4. Concurrency and Multithreading
 
 #### Concurrency and multithreading explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/concurrency-and-multithreading-explained?u=76281980)
@@ -1323,7 +1322,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Working with the Singleton Design Pattern
+### 6. 5. Working with the Singleton Design Pattern
 
 #### Singleton design pattern and its use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/singleton-design-pattern-and-its-use-cases?u=76281980)
@@ -1521,7 +1520,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### 7. 6. Conclusion
 
 #### Keep going with Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980)
@@ -1567,6 +1566,19 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Maaike van Putten]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advance-your-skills-in-java-4452104)
+
+## Skills Covered
+
+- Java
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - topic/data-science
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C%2B%2B%20Development-%20Advanced%20Concepts%2C%20Lambda%20Expressions%2C%20and%20Best%20Practices.md)
 
 ![C++ Development: Advanced Concepts, Lambda Expressions, and Best Practices](https://media.licdn.com/dms/image/v2/C560DAQH4ZYfcBcdlTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675206346003?e=2147483647&amp;v=beta&amp;t=U6a8XoOvSlyC-Q7cTqHRKd3yYkUEVZpD0e76DhHRI1s)
 
@@ -42,21 +44,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices) | 2h 54m | Advanced | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bill Weinman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- C++
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Operator Overloads** (5 videos)
+- **3. 2. Move Semantics** (7 videos)
+- **4. 3. Lambda Expressions** (4 videos)
+- **5. 4. Constraints and Concepts** (3 videos)
+- **6. 5. Optionals and Variants** (3 videos)
+- **7. 6. Concurrency** (6 videos)
+- **8. 7. Other Subjects** (5 videos)
+- **9. 8. Other C++20 New Features** (4 videos)
+- **10. Final Project and Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### About this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/about-this-course-18745415?u=76281980)
@@ -140,7 +143,7 @@ created: 2026-04-21
 > **Tools:** visual studio (1)
 
 
-### 1. Operator Overloads
+### 2. 1. Operator Overloads
 
 #### Operator overloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/operator-overloads-18749200?u=76281980)
@@ -777,7 +780,7 @@ created: 2026-04-21
 > **Speakers:** - by (1)
 
 
-### 2. Move Semantics
+### 3. 2. Move Semantics
 
 #### What is move semantics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/what-is-move-semantics-18748264?u=76281980)
@@ -1395,7 +1398,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Lambda Expressions
+### 4. 3. Lambda Expressions
 
 #### Lambda syntax
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/lambda-syntax-18745407?u=76281980)
@@ -1726,7 +1729,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Constraints and Concepts
+### 5. 4. Constraints and Concepts
 
 #### Why constraints?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980)
@@ -1989,7 +1992,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Optionals and Variants
+### 6. 5. Optionals and Variants
 
 #### The optional class
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-optional-class-18747308?u=76281980)
@@ -2199,7 +2202,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Concurrency
+### 7. 6. Concurrency
 
 #### Sleeping
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/sleeping-18750200?u=76281980)
@@ -2764,7 +2767,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Other Subjects
+### 8. 7. Other Subjects
 
 #### Initialization
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/initialization-18748260?u=76281980)
@@ -3519,7 +3522,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 8. Other C++20 New Features
+### 9. 8. Other C++20 New Features
 
 #### The format library
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980)
@@ -3909,7 +3912,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Final Project and Conclusion
+### 10. Final Project and Conclusion
 
 #### Final project: Numword
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/final-project-numword-18750196?u=76281980)
@@ -3979,6 +3982,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [bill] (1)
 
+
+## Instructor
+
+- [[Bill Weinman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- C++
 
 ## Path Context
 

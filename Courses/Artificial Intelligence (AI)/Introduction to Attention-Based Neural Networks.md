@@ -30,35 +30,33 @@ tags:
   - skill/neural-networks
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Attention-Based%20Neural%20Networks.md)
 
 ![Introduction to Attention-Based Neural Networks](https://media.licdn.com/dms/image/v2/D4E0DAQEO3pew_MlbVA/learning-public-crop_675_1200/B4EZjoiaKRHoAY-/0/1756247991159?e=2147483647&amp;v=beta&amp;t=AIiUEPc8EOC4sT4UnM38a1ccb8MFyTRBIl0P7wMot0I)
 
 # Introduction to Attention-Based Neural Networks
 
-> Attention-based models allow neural networks to focus on the most important features of the input, thus producing better results at the output. In this course, Janani Ravi 
-explains how recurrent neural networks work and builds and trains two image captioning models one without attention and another using attention models and compares their results. If you have some experience and understanding of
+> Attention-based models allow neural networks to focus on the most important features of the input, thus producing better results at the output. In this course, Janani Ravi explains how recurrent neural networks work and builds and trains two image captioning models one without attention and another using attention models and compares their results. If you have some experience and understanding of 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks) | 2h 11m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Janani Ravi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Neural Networks
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Recurrent Neural Networks to Learn Sequential Data** (5 videos)
+- **3. 2. Encoder-Decoder Networks for Language Models** (2 videos)
+- **4. 3. Attention-Based Neural Networks** (6 videos)
+- **5. 4. Image Captioning Model without Attention** (9 videos)
+- **6. 5. Image Captioning Model Using Attention** (7 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980)
@@ -244,7 +242,7 @@ explains how recurrent neural networks work and builds and trains two image capt
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Recurrent Neural Networks to Learn Sequential Data
+### 2. 1. Recurrent Neural Networks to Learn Sequential Data
 
 #### Feed forward networks and their limitations
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980)
@@ -735,7 +733,7 @@ explains how recurrent neural networks work and builds and trains two image capt
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Encoder-Decoder Networks for Language Models
+### 3. 2. Encoder-Decoder Networks for Language Models
 
 #### Language generation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980)
@@ -928,7 +926,7 @@ explains how recurrent neural networks work and builds and trains two image capt
 > **Speakers:** - now (1)
 
 
-### 3. Attention-Based Neural Networks
+### 4. 3. Attention-Based Neural Networks
 
 #### The role of attention in sequence to sequence models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-role-of-attention-in-sequence-to-sequence-models?u=76281980)
@@ -1435,7 +1433,7 @@ explains how recurrent neural networks work and builds and trains two image capt
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Image Captioning Model without Attention
+### 5. 4. Image Captioning Model without Attention
 
 #### Setting up Colab and Google Drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980)
@@ -2350,7 +2348,7 @@ explains how recurrent neural networks work and builds and trains two image capt
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Image Captioning Model Using Attention
+### 6. 5. Image Captioning Model Using Attention
 
 #### Loading the dataset and setting up utility functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980)
@@ -2958,7 +2956,7 @@ explains how recurrent neural networks work and builds and trains two image capt
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980)
@@ -3016,6 +3014,19 @@ explains how recurrent neural networks work and builds and trains two image capt
 > **Analogies:** such as (1)
 > **Speakers:** - [female (1)
 
+
+## Instructor
+
+- [[Janani Ravi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Neural Networks
+- Artificial Intelligence (AI)
 
 ## Path Context
 

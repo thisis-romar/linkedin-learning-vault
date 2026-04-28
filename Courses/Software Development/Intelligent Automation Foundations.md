@@ -26,8 +26,10 @@ tags:
   - topic/software-development
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Intelligent%20Automation%20Foundations.md)
 
 ![Intelligent Automation Foundations](https://media.licdn.com/dms/image/v2/C560DAQEX-FBqnnLj-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651774719762?e=2147483647&amp;v=beta&amp;t=DSpHyvHBuEZ8j49VJ38WG6Koo9xiC3nG0vnPiRxOd7M)
 
@@ -38,13 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations) | 1h 1m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ian Barkin]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Importance of Intelligent Automation Today** (2 videos)
+- **3. 2. The Basics of Intelligent Automation** (6 videos)
+- **4. 3. The Tech behind the Senses** (4 videos)
+- **5. 4. Synergies in Action** (3 videos)
+- **6. 5. Methodologies and Frameworks** (4 videos)
+- **7. Conclusion** (3 videos)
+
+### 1. Introduction
 
 #### Automation and Intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence?u=76281980)
@@ -105,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - my (1)
 
 
-### 1. The Importance of Intelligent Automation Today
+### 2. 1. The Importance of Intelligent Automation Today
 
 #### Intelligent automation: Hype or reality?
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/intelligent-automation-hype-or-reality?u=76281980)
@@ -211,7 +219,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. The Basics of Intelligent Automation
+### 3. 2. The Basics of Intelligent Automation
 
 #### What is intelligent automation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980)
@@ -465,7 +473,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. The Tech behind the Senses
+### 4. 3. The Tech behind the Senses
 
 #### Vision technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980)
@@ -810,7 +818,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Synergies in Action
+### 5. 4. Synergies in Action
 
 #### Combinations and synergies
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/combinations-and-synergies?u=76281980)
@@ -975,7 +983,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Methodologies and Frameworks
+### 6. 5. Methodologies and Frameworks
 
 #### Methodology and framework topics
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/methodology-and-framework-topics?u=76281980)
@@ -1164,7 +1172,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### IA is not just about the IA
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/ia-is-not-just-about-the-ia?u=76281980)
@@ -1301,6 +1309,10 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Ian Barkin]]
 
 ## Path Context
 

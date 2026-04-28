@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/gpt-4
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Generative%20AI%20with%20GPT.md)
 
 ![Introduction to Generative AI with GPT](https://media.licdn.com/dms/image/v2/D560DAQGwDfMc9QeL1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694797635267?e=2147483647&amp;v=beta&amp;t=7DtLZqPwIBlpEit2NhaIX2Rnm16zhLtF97UC30KE3aM)
 
@@ -44,23 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt) | 1h 5m | Beginner | 612K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jonathan Reichental]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- GPT-4
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AI in Business** (1 videos)
+- **3. 2. AI Background** (3 videos)
+- **4. 3. Introducing GPT** (7 videos)
+- **5. 4. The Future of AI** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### A leap in artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/a-leap-in-artificial-intelligence?u=76281980)
@@ -90,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - artificial (1)
 
 
-### 1. AI in Business
+### 2. 1. AI in Business
 
 #### And then there was GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980)
@@ -150,7 +147,7 @@ created: 2026-04-21
 > **Speakers:** - for (1)
 
 
-### 2. AI Background
+### 3. 2. AI Background
 
 #### AI: The story so far
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980)
@@ -383,7 +380,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Introducing GPT
+### 4. 3. Introducing GPT
 
 #### GPT and Natural Language Processing (NLP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980)
@@ -1032,7 +1029,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. The Future of AI
+### 5. 4. The Future of AI
 
 #### Business preparation for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980)
@@ -1179,7 +1176,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### The Future of AI and Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980)
@@ -1258,6 +1255,20 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - not (1)
 
+
+## Instructor
+
+- [[Jonathan Reichental]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- GPT-4
 
 ## Path Context
 

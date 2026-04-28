@@ -32,8 +32,10 @@ tags:
   - skill/circuit-design
   - skill/electronics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Electronics%20Foundations-%20Basic%20Circuits.md)
 
 ![Electronics Foundations: Basic Circuits](https://media.licdn.com/dms/image/v2/C4E0DAQHbCh-IbN-ngA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567116230922?e=2147483647&amp;v=beta&amp;t=FXSRTPO9PuTHtgaVG5ANpmQ9Ig8SDalDDBsRtKfHg9c)
 
@@ -44,22 +46,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits) | 4h 2m | Beginner | 132K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barron Stone]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Circuit Design
-- Electronics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Building Circuits** (2 videos)
+- **3. 2. Resistors** (4 videos)
+- **4. 3. Resistive Circuits** (10 videos)
+- **5. 4. Oscilloscope Measurements** (4 videos)
+- **6. 5. Capacitors** (9 videos)
+- **7. 6. Alternating Current** (3 videos)
+- **8. 7. Electrical Signals** (3 videos)
+- **9. 8. Reactive Circuits** (10 videos)
+- **10. 9. Inductors** (5 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Principles of basic electronic circuits
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/principles-of-basic-electronic-circuits?u=76281980)
@@ -204,7 +207,7 @@ created: 2026-04-21
 > **Speakers:** - working (1)
 
 
-### 1. Building Circuits
+### 2. 1. Building Circuits
 
 #### Read electrical schematics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-electrical-schematics-14160027?u=76281980)
@@ -448,7 +451,7 @@ created: 2026-04-21
 > **Speakers:** - back (1)
 
 
-### 2. Resistors
+### 3. 2. Resistors
 
 #### Types of resistors
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-resistors-14155501?u=76281980)
@@ -805,7 +808,7 @@ created: 2026-04-21
 > **Speakers:** - since (1)
 
 
-### 3. Resistive Circuits
+### 4. 3. Resistive Circuits
 
 #### Resistors in series
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistors-in-series-14158256?u=76281980)
@@ -1493,7 +1496,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Oscilloscope Measurements
+### 5. 4. Oscilloscope Measurements
 
 #### What is an oscilloscope?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-oscilloscope-14154695?u=76281980)
@@ -1883,7 +1886,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 5. Capacitors
+### 6. 5. Capacitors
 
 #### What is a capacitor?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-a-capacitor-14155491?u=76281980)
@@ -2521,7 +2524,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 6. Alternating Current
+### 7. 6. Alternating Current
 
 #### Alternating current vs. direct current
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/alternating-current-vs-direct-current-14154693?u=76281980)
@@ -2786,7 +2789,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 7. Electrical Signals
+### 8. 7. Electrical Signals
 
 #### Frequency domain
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/frequency-domain-14158269?u=76281980)
@@ -3012,7 +3015,7 @@ created: 2026-04-21
 > **Speakers:** - many (1)
 
 
-### 8. Reactive Circuits
+### 9. 8. Reactive Circuits
 
 #### Impedance
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-14157280?u=76281980)
@@ -4012,7 +4015,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Inductors
+### 10. 9. Inductors
 
 #### Inductance
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/inductance-14159237?u=76281980)
@@ -4420,7 +4423,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Continue to learn more on electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/continue-to-learn-more-on-electronics?u=76281980)
@@ -4444,6 +4447,19 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Barron Stone]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Circuit Design
+- Electronics
 
 ## Path Context
 

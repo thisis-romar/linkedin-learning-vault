@@ -26,8 +26,10 @@ tags:
   - topic/cloud-computing
   - skill/time-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20a%20Time%20Management%20Mindset.md)
 
 ![Building a Time Management Mindset](https://media.licdn.com/dms/image/v2/D4E0DAQGmk6fVb6iosw/learning-public-crop_675_1200/B4EZXzdPQhH0AY-/0/1743546283371?e=2147483647&amp;v=beta&amp;t=t9rU0p6OIsRahFWHxihVJraYFzcjp4AspjQHuqgM5yU)
 
@@ -38,21 +40,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset) | 47m | 112K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brad Aeon]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Time Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Use the Right Tools** (4 videos)
+- **3. 2. Reduce Information Overload** (3 videos)
+- **4. 3. How to Prioritize** (3 videos)
+- **5. 4. How to Make It Stick** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Live and feel better with time management
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/live-and-feel-better-with-time-management?u=76281980)
@@ -223,7 +222,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 1. Use the Right Tools
+### 2. 1. Use the Right Tools
 
 #### Why you only need three time management tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/why-you-only-need-three-time-management-tools?u=76281980)
@@ -590,7 +589,7 @@ created: 2026-04-21
 > **Speakers:** - earlier (1)
 
 
-### 2. Reduce Information Overload
+### 3. 2. Reduce Information Overload
 
 #### Understand why time management is information management
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/understand-why-time-management-is-information-management?u=76281980)
@@ -835,7 +834,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 3. How to Prioritize
+### 4. 3. How to Prioritize
 
 #### Tune into your chronotype to better manage time
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980)
@@ -1085,7 +1084,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 4. How to Make It Stick
+### 5. 4. How to Make It Stick
 
 #### Implement meta-time management
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/implement-meta-time-management?u=76281980)
@@ -1443,7 +1442,7 @@ created: 2026-04-21
 > **Speakers:** - ever (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Time management is a mirror
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/time-management-is-a-mirror?u=76281980)
@@ -1513,6 +1512,18 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 > **Speakers:** - people (1)
 
+
+## Instructor
+
+- [[Brad Aeon]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Time Management
 
 ## Path Context
 

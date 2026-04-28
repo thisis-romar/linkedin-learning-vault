@@ -26,8 +26,10 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Certified%20Analytics%20Professional%20(CAP)%20Cert%20Prep.md)
 
 ![Certified Analytics Professional (CAP) Cert Prep](https://media.licdn.com/dms/image/v2/C560DAQF1K4_xfOO7Iw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675116991832?e=2147483647&amp;v=beta&amp;t=hktoR8wgpJ0ILpx4zfPJyx_5bb1o9qalxhL5h_HY8Dc)
 
@@ -38,21 +40,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep) | 2h 33m | Intermediate | 156K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jungwoo Ryoo]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Certified Analytics Professional (CAP)** (5 videos)
+- **3. 2. Business Problem Framing** (5 videos)
+- **4. 3. Analytics Problem Framing** (6 videos)
+- **5. 4. Data** (7 videos)
+- **6. 5. Methodology (Approach) Selection** (7 videos)
+- **7. 6. Case Study 1** (5 videos)
+- **8. 7. Model Building** (8 videos)
+- **9. 8. Deployment** (8 videos)
+- **10. 9. Model Lifecycle Management** (6 videos)
+- **11. 10. Case Study 2** (5 videos)
+- **12. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The growing field of analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/the-growing-field-of-analytics?u=76281980)
@@ -107,7 +112,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Certified Analytics Professional (CAP)
+### 2. 1. Certified Analytics Professional (CAP)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/introduction?u=76281980)
@@ -325,7 +330,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Business Problem Framing
+### 3. 2. Business Problem Framing
 
 #### Identifying business problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-business-problems?u=76281980)
@@ -552,7 +557,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Analytics Problem Framing
+### 4. 3. Analytics Problem Framing
 
 #### Transforming business problems to analytics problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/transforming-business-problems-to-analytics-problems?u=76281980)
@@ -823,7 +828,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data
+### 5. 4. Data
 
 #### Working effectively with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/working-effectively-with-data?u=76281980)
@@ -1176,7 +1181,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Methodology (Approach) Selection
+### 6. 5. Methodology (Approach) Selection
 
 #### Identifying available problem-solving methodologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-available-problem-solving-methodologies?u=76281980)
@@ -1508,7 +1513,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Case Study 1
+### 7. 6. Case Study 1
 
 #### Bike rental analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/bike-rental-analysis?u=76281980)
@@ -1795,7 +1800,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 7. Model Building
+### 8. 7. Model Building
 
 #### Understanding model building
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-building?u=76281980)
@@ -2133,7 +2138,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 8. Deployment
+### 9. 8. Deployment
 
 #### Understanding deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment?u=76281980)
@@ -2525,7 +2530,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Model Lifecycle Management
+### 10. 9. Model Lifecycle Management
 
 #### Understanding model lifecycle management
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-lifecycle-management?u=76281980)
@@ -2823,7 +2828,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Case Study 2
+### 11. 10. Case Study 2
 
 #### Business intelligence examples
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/business-intelligence-examples?u=76281980)
@@ -3080,7 +3085,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 12. Conclusion
 
 #### Next steps and additional study resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/next-steps-and-additional-study-resources?u=76281980)
@@ -3112,6 +3117,18 @@ created: 2026-04-21
 > **Env Vars:** cap (4), informs (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jungwoo Ryoo]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Analytics
 
 ## Path Context
 

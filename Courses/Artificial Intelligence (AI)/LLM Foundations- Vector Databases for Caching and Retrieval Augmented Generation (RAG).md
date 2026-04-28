@@ -40,8 +40,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/LLM%20Foundations-%20Vector%20Databases%20for%20Caching%20and%20Retrieval%20Augmented%20Generation%20(RAG).md)
 
 ![LLM Foundations: Vector Databases for Caching and Retrieval Augmented Generation (RAG)](https://media.licdn.com/dms/image/v2/D560DAQFEZRGBDXpACg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708559021759?e=2147483647&amp;v=beta&amp;t=ZeBU9WKvFl8bsqczkk0x86BBL5bBcNP5Vxeht0v-_7o)
 
@@ -52,23 +54,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag) | 1h 33m | Advanced | 116K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Vector Databases
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Vector Databases** (5 videos)
+- **3. 2. Milvus Database Concepts** (8 videos)
+- **4. 3. Milvus Database Operations** (8 videos)
+- **5. 4. Vector DB for LLM Query Caching** (5 videos)
+- **6. 5. Introduction to Retrieval Augmented Generation (RAG)** (5 videos)
+- **7. 6. Implementing RAG with Milvus** (4 videos)
+- **8. 7. Vector Databases Best Practices** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### GenAI with vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980)
@@ -159,7 +159,7 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 
 
-### 1. Introduction to Vector Databases
+### 2. 1. Introduction to Vector Databases
 
 #### What is a vector?
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/what-is-a-vector?u=76281980)
@@ -431,7 +431,7 @@ created: 2026-04-21
 > **Env Vars:** rdbms (1)
 
 
-### 2. Milvus Database Concepts
+### 3. 2. Milvus Database Concepts
 
 #### Introduction to Milvus DB
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980)
@@ -970,7 +970,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (2), in the next (1)
 
 
-### 3. Milvus Database Operations
+### 4. 3. Milvus Database Operations
 
 #### Create a connection
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-a-connection?u=76281980)
@@ -1523,7 +1523,7 @@ created: 2026-04-21
 > **Code Identifiers:** drop_collection (1), drop_database (1)
 
 
-### 4. Vector DB for LLM Query Caching
+### 5. 4. Vector DB for LLM Query Caching
 
 #### LLMs and caching
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-and-caching?u=76281980)
@@ -1827,7 +1827,7 @@ created: 2026-04-21
 > **Prerequisites:** setup (1)
 
 
-### 5. Introduction to Retrieval Augmented Generation (RAG)
+### 6. 5. Introduction to Retrieval Augmented Generation (RAG)
 
 #### LLMs as a knowledge source
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-as-a-knowledge-source?u=76281980)
@@ -2080,7 +2080,7 @@ created: 2026-04-21
 > **Warnings:** troubleshoot (1)
 
 
-### 6. Implementing RAG with Milvus
+### 7. 6. Implementing RAG with Milvus
 
 #### Set up Milvus for RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-for-rag?u=76281980)
@@ -2309,7 +2309,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 7. Vector Databases Best Practices
+### 8. 7. Vector Databases Best Practices
 
 #### Choose a vector database
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980)
@@ -2505,7 +2505,7 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1), type, (1), this, (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Continue with LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980)
@@ -2532,6 +2532,20 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Vector Databases
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
 
 ## Path Context
 

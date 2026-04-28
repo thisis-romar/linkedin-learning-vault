@@ -44,8 +44,10 @@ tags:
   - skill/data-analysis
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Literacy%20Exploring%20And%20Describing%20Data%20In%20An%20Ai%20World.md)
 
 ![Data Literacy Exploring And Describing Data In An Ai World](https://media.licdn.com/dms/image/v2/D560DAQF21L_AbXR42Q/learning-public-crop_675_1200/B56ZyIpD.EJ4AY-/0/1771818992111?e=2147483647&amp;v=beta&amp;t=idqTmCAaGZk3DV1zAof6uf0VFFhv_WsRJB41GdnwgLc)
 
@@ -56,22 +58,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world) | Beginner | 267K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barton Poulson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Analysis
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Think with Data** (10 videos)
+- **3. 2. Prepare Data** (9 videos)
+- **4. 3. Adapt Data** (9 videos)
+- **5. 4. Explore Data** (11 videos)
+- **6. 5. Describe Data** (12 videos)
+- **7. 6. Probability and Inference** (6 videos)
+- **8. 7. Continuing Your Data Fluency Learning Quest** (1 videos)
+
+### 1. Introduction
 
 #### Make better decisions with your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980)
@@ -99,7 +99,7 @@ created: 2026-04-21
 > **Speakers:** - [barton] (1)
 
 
-### 1. Think with Data
+### 2. 1. Think with Data
 
 #### The meaning of data fluency
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980)
@@ -1410,7 +1410,7 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 
 
-### 2. Prepare Data
+### 3. 2. Prepare Data
 
 #### Data ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980)
@@ -2535,7 +2535,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Adapt Data
+### 4. 3. Adapt Data
 
 #### Sort data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sort-data?u=76281980)
@@ -3640,7 +3640,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 4. Explore Data
+### 5. 4. Explore Data
 
 #### Visual primacy: The importance of starting with pictures
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980)
@@ -5292,7 +5292,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Describe Data
+### 6. 5. Describe Data
 
 #### Numerical descriptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/numerical-descriptions?u=76281980)
@@ -6626,7 +6626,7 @@ created: 2026-04-21
 > **Env Vars:** gui (1)
 
 
-### 6. Probability and Inference
+### 7. 6. Probability and Inference
 
 #### Basic probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980)
@@ -7397,7 +7397,7 @@ created: 2026-04-21
 > **Prerequisites:** setup (1)
 
 
-### 7. Continuing Your Data Fluency Learning Quest
+### 8. 7. Continuing Your Data Fluency Learning Quest
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980)
@@ -7469,6 +7469,19 @@ created: 2026-04-21
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Barton Poulson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Analysis
+- Data Science
 
 ## Path Context
 

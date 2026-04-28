@@ -35,8 +35,10 @@ tags:
   - topic/network-and-system-administration
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Server%20Intelligence-%20Cracking%20the%20Code%20of%20Enterprise%20Data.md)
 
 ![SQL Server Intelligence: Cracking the Code of Enterprise Data](https://media.licdn.com/dms/image/v2/D560DAQGpN01DNvFKCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008952462?e=2147483647&amp;v=beta&amp;t=qQRo8X3UPedx88r4iGvp584FHqrvDAicllcC1VMXjPE)
 
@@ -47,21 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data) | 2h 15m | Beginner | 300K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Walter Shields]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. How to Optimize Your DB Software** (2 videos)
+- **3. 2. Get Familiar with Your Database and Its Data** (5 videos)
+- **4. 3. Understand Simple and Powerful Syntax to Filter and Analyze Data** (5 videos)
+- **5. 4. Filter Data Based on More than One Condition** (2 videos)
+- **6. 5. Analyze Data with Flexibility, Efficiency, and Calculated Fields** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why data? The role of SQL and how you can get involved
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980)
@@ -311,7 +311,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 1. How to Optimize Your DB Software
+### 2. 1. How to Optimize Your DB Software
 
 #### Tweaking your settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980)
@@ -587,7 +587,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Get Familiar with Your Database and Its Data
+### 3. 2. Get Familiar with Your Database and Its Data
 
 #### Getting familiar with your database
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/getting-familiar-with-your-database-23857340?u=76281980)
@@ -1252,7 +1252,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Understand Simple and Powerful Syntax to Filter and Analyze Data
+### 4. 3. Understand Simple and Powerful Syntax to Filter and Analyze Data
 
 #### The WHERE clause: Finding numeric data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-numeric-data-23857339?u=76281980)
@@ -1812,7 +1812,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Filter Data Based on More than One Condition
+### 5. 4. Filter Data Based on More than One Condition
 
 #### Introducing AND and OR
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980)
@@ -1998,7 +1998,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Analyze Data with Flexibility, Efficiency, and Calculated Fields
+### 6. 5. Analyze Data with Flexibility, Efficiency, and Calculated Fields
 
 #### Calculated columns
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/calculated-columns-23859325?u=76281980)
@@ -2299,7 +2299,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980)
@@ -2342,6 +2342,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Walter Shields]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- SQL
 
 ## Path Context
 

@@ -37,8 +37,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/LLMOps%20in%20Practice-%20A%20Deep%20Dive.md)
 
 ![LLMOps in Practice: A Deep Dive](https://media.licdn.com/dms/image/v2/D4D0DAQHHBzGQ-tN7ew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732665259063?e=2147483647&amp;v=beta&amp;t=MhKOSZhm6KtzlcGTrhA0dmjUZEjonxzyHM-znUL9PMk)
 
@@ -49,25 +51,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive) | 4h 26m | Intermediate | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Laurence Moroney]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/llmops-in-practice-a-deep-dive-5936211)
-
-## Skills Covered
-
-- Large Language Model Operations (LLMOps)
-- Generative AI
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Build a Basic LLM App** (6 videos)
+- **3. 2. First Steps in Ops** (7 videos)
+- **4. 3. BYOD with RAG** (11 videos)
+- **5. 4. RAG and Ops** (10 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### A deep dive into LLM operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/a-deep-dive-into-llms-operations?u=76281980)
@@ -382,7 +377,7 @@ created: 2026-04-21
 > **Definitions:** is called (1)
 
 
-### 1. Build a Basic LLM App
+### 2. 1. Build a Basic LLM App
 
 #### Prompting
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980)
@@ -1202,7 +1197,7 @@ created: 2026-04-21
 > **Ports:** port 3000 (1)
 
 
-### 2. First Steps in Ops
+### 3. 2. First Steps in Ops
 
 #### Coding for logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980)
@@ -2267,7 +2262,7 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 
 
-### 3. BYOD with RAG
+### 4. 3. BYOD with RAG
 
 #### Retrieval augmented generation (RAG)
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980)
@@ -4426,7 +4421,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. RAG and Ops
+### 5. 4. RAG and Ops
 
 #### Extending RAG with ops
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980)
@@ -6116,7 +6111,7 @@ created: 2026-04-21
 > **Code Keywords:** public (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continue your LLMOps learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/continue-your-llmops-learning-journey?u=76281980)
@@ -6153,6 +6148,22 @@ created: 2026-04-21
 >
 > **Env Vars:** llm (2), rag (2)
 
+
+## Instructor
+
+- [[Laurence Moroney]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/llmops-in-practice-a-deep-dive-5936211)
+
+## Skills Covered
+
+- Large Language Model Operations (LLMOps)
+- Generative AI
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
 
 ## Path Context
 

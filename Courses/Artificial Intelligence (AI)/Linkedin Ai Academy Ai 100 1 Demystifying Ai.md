@@ -26,27 +26,34 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-literacy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Linkedin%20Ai%20Academy%20Ai%20100%201%20Demystifying%20Ai.md)
 
 ![Linkedin Ai Academy Ai 100 1 Demystifying Ai](https://media.licdn.com/dms/image/v2/D4D0DAQEa6pQza9mxrA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683072588848?e=2147483647&amp;v=beta&amp;t=DzVl8fz-lgBYke8LdDuUBY205-8YHT89bQSW_EoWCvI)
 
 # Linkedin Ai Academy Ai 100 1 Demystifying Ai
 
-> Artificial intelligence has been in the public consciousness for decades, but is getting more and more attention every day as the technologies advance. There seems to be equal parts curiosity and anxiety when it comes to AI, and many people have questions about what exactly “artificial intelligence” means today—and all the pros and cons that come with it.
-This course aims at demystifying AI—what A
+> Artificial intelligence has been in the public consciousness for decades, but is getting more and more attention every day as the technologies advance. There seems to be equal parts curiosity and anxiety when it comes to AI, and many people have questions about what exactly “artificial intelligence” means today—and all the pros and cons that come with it. This course aims at demystifying AI—what A
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai) | Intermediate | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- AI Literacy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to AI** (4 videos)
+- **3. 2. Supervised Learning** (1 videos)
+- **4. 3. Regression** (5 videos)
+- **5. 4. Classification** (3 videos)
+- **6. 5. Nonlinear Models** (2 videos)
+- **7. 6. Do It Right** (1 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The LinkedIn AI Academy: The imperative of understanding AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980)
@@ -72,7 +79,7 @@ This course aims at demystifying AI—what A
 > **Non-Speech:** (gentle music) (1)
 
 
-### 1. Introduction to AI
+### 2. 1. Introduction to AI
 
 #### What is AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980)
@@ -408,7 +415,7 @@ This course aims at demystifying AI—what A
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Supervised Learning
+### 3. 2. Supervised Learning
 
 #### Supervised learning vs. unsupervised learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980)
@@ -470,7 +477,7 @@ This course aims at demystifying AI—what A
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Regression
+### 4. 3. Regression
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980)
@@ -837,7 +844,7 @@ This course aims at demystifying AI—what A
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Classification
+### 5. 4. Classification
 
 #### What is classification?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980)
@@ -1124,7 +1131,7 @@ This course aims at demystifying AI—what A
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Nonlinear Models
+### 6. 5. Nonlinear Models
 
 #### Why are linear models not enough?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980)
@@ -1259,7 +1266,7 @@ This course aims at demystifying AI—what A
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Do It Right
+### 7. 6. Do It Right
 
 #### Know your objective, know your data, and listen to the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/know-your-objective-know-your-data-and-listen-to-the-data?u=76281980)
@@ -1321,7 +1328,7 @@ This course aims at demystifying AI—what A
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continuing with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/continuing-with-ai?u=76281980)
@@ -1349,6 +1356,11 @@ This course aims at demystifying AI—what A
 > **Analogies:** imagine (1)
 > **Speakers:** - congratulations (1)
 
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- AI Literacy
 
 ## Path Context
 

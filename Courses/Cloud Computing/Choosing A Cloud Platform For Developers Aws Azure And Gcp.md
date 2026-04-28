@@ -31,8 +31,10 @@ tags:
   - skill/microsoft-azure
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Choosing%20A%20Cloud%20Platform%20For%20Developers%20Aws%20Azure%20And%20Gcp.md)
 
 ![Choosing A Cloud Platform For Developers Aws Azure And Gcp](https://media.licdn.com/dms/image/v2/C4E0DAQG6Sb7o1gAkoA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118520291?e=2147483647&amp;v=beta&amp;t=AGKKjuZt4o8FxwETYgEF7WF8RVaTlocVCll9C9EvKaA)
 
@@ -43,20 +45,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp) | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Amazon Web Services (AWS)
-- Cloud Development
-- Microsoft Azure
-- Google Cloud Platform (GCP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. On-Premise vs. Cloud Services** (3 videos)
+- **3. 2. Baseline Functionality Available in the Cloud** (4 videos)
+- **4. 3. Historical Strengths of Three Major Cloud Providers** (3 videos)
+- **5. 4. Compliance in the Cloud** (3 videos)
+- **6. 5. Human Resources for the Cloud** (3 videos)
+- **7. 6. Prototype for Your Needs** (3 videos)
+- **8. 7. Design for Adaptability** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Considering the cloud choices
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980)
@@ -114,7 +117,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. On-Premise vs. Cloud Services
+### 2. 1. On-Premise vs. Cloud Services
 
 #### Solutions before cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980)
@@ -299,7 +302,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Baseline Functionality Available in the Cloud
+### 3. 2. Baseline Functionality Available in the Cloud
 
 #### Current major cloud providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980)
@@ -589,7 +592,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Historical Strengths of Three Major Cloud Providers
+### 4. 3. Historical Strengths of Three Major Cloud Providers
 
 #### Amazon Web Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980)
@@ -775,7 +778,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Compliance in the Cloud
+### 5. 4. Compliance in the Cloud
 
 #### Business regulations overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980)
@@ -976,7 +979,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Human Resources for the Cloud
+### 6. 5. Human Resources for the Cloud
 
 #### Assess current skills and needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980)
@@ -1140,7 +1143,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Prototype for Your Needs
+### 7. 6. Prototype for Your Needs
 
 #### Evaluate specialized functionality
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980)
@@ -1352,7 +1355,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Design for Adaptability
+### 8. 7. Design for Adaptability
 
 #### Switch cloud providers as needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980)
@@ -1569,7 +1572,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Continuing the cloud platform journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/continuing-the-cloud-platform-journey?u=76281980)
@@ -1599,6 +1602,17 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [xian] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Amazon Web Services (AWS)
+- Cloud Development
+- Microsoft Azure
+- Google Cloud Platform (GCP)
 
 ## Path Context
 

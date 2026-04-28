@@ -27,35 +27,33 @@ tags:
   - topic/software-development
   - skill/tableau
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Tableau%20Desktop.md)
 
 ![Advanced Tableau Desktop](https://media.licdn.com/dms/image/v2/D4D0DAQH1jMgPaiEDkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725475562874?e=2147483647&amp;v=beta&amp;t=8bSHM2euwzVALC9N75j_74kQcZ5DFEGPYIXLyJgiYS4)
 
 # Advanced Tableau Desktop
 
-> If you’re ready to build expert-level data analysis and visualization skills with Tableau Desktop, you’ve come to the right place. This course is a hands-on and project-based dive deep into several advanced Tableau topics, ranging from data relationships and calculations to predictive analytics and dynamic design techniques.
-See how to apply these tools to real-world business intelligence use case
+> If you’re ready to build expert-level data analysis and visualization skills with Tableau Desktop, you’ve come to the right place. This course is a hands-on and project-based dive deep into several advanced Tableau topics, ranging from data relationships and calculations to predictive analytics and dynamic design techniques. See how to apply these tools to real-world business intelligence use case
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop) | 10h | Advanced | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Maven Analytics]]
-- [[Dustin Cabral]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tableau
-
 ## Table of Contents
 
-### Getting Started
+### Chapter Overview
+
+- **1. Getting Started** (2 videos)
+- **2. 1. Relationships** (20 videos)
+- **3. 2. Dynamic Design** (12 videos)
+- **4. 3. Parameter and Set Actions** (15 videos)
+- **5. 4. Geospatial Mapping** (16 videos)
+- **6. 5. Advanced Calculations** (15 videos)
+- **7. 6. Predictive Analytics** (10 videos)
+
+### 1. Getting Started
 
 #### Course structure and outline
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980)
@@ -158,7 +156,7 @@ See how to apply these tools to real-world business intelligence use case
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Relationships
+### 2. 1. Relationships
 
 #### Relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980)
@@ -1649,7 +1647,7 @@ See how to apply these tools to real-world business intelligence use case
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Dynamic Design
+### 3. 2. Dynamic Design
 
 #### Dynamic design
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/dynamic-design?u=76281980)
@@ -3747,7 +3745,7 @@ See how to apply these tools to real-world business intelligence use case
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Parameter and Set Actions
+### 4. 3. Parameter and Set Actions
 
 #### Interactivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/interactivity?u=76281980)
@@ -6406,7 +6404,7 @@ See how to apply these tools to real-world business intelligence use case
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Geospatial Mapping
+### 5. 4. Geospatial Mapping
 
 #### Geospatial mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-mapping?u=76281980)
@@ -7826,7 +7824,7 @@ See how to apply these tools to real-world business intelligence use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping?u=76281980)
 
 
-### 5. Advanced Calculations
+### 6. 5. Advanced Calculations
 
 #### Advanced calculations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980)
@@ -10373,7 +10371,7 @@ See how to apply these tools to real-world business intelligence use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-advanced-calculations?u=76281980)
 
 
-### 6. Predictive Analytics
+### 7. 6. Predictive Analytics
 
 #### Predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980)
@@ -11591,6 +11589,19 @@ See how to apply these tools to real-world business intelligence use case
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
+
+## Instructor
+
+- [[Maven Analytics]]
+- [[Dustin Cabral]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tableau
 
 ## Path Context
 

@@ -26,8 +26,10 @@ tags:
   - topic/software-development
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Artificial%20Intelligence%20and%20Business%20Strategy.md)
 
 ![Artificial Intelligence and Business Strategy](https://media.licdn.com/dms/image/v2/C4E0DAQGrKyRKPbnErQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646242166320?e=2147483647&amp;v=beta&amp;t=73NIGV_fXfanUPncrnryipzAou_QelSFbWyx-v98zpk)
 
@@ -38,14 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy) | 1h 26m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Anil Gupta]]
-- [[Haiyan Wang]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to AI** (3 videos)
+- **3. 2. Making the Company an AI Machine** (3 videos)
+- **4. 3. Deploying AI to Create ONSTAGE Advantage** (3 videos)
+- **5. 4. Deploying AI to Create BACKSTAGE Advantage** (3 videos)
+- **6. 5. The Ethics of AI and Data** (3 videos)
+- **7. 6. From Ideas to Actions** (1 videos)
+
+### 1. Introduction
 
 #### Deploying AI for your competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/deploying-ai-for-your-competitive-advantage?u=76281980)
@@ -78,7 +85,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Introduction to AI
+### 2. 1. Introduction to AI
 
 #### What is Artificial Intelligence?
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980)
@@ -326,7 +333,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 2. Making the Company an AI Machine
+### 3. 2. Making the Company an AI Machine
 
 #### Building a robust data pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/building-a-robust-data-pipeline?u=76281980)
@@ -551,7 +558,7 @@ created: 2026-04-21
 > **Speakers:** - assume (1)
 
 
-### 3. Deploying AI to Create ONSTAGE Advantage
+### 4. 3. Deploying AI to Create ONSTAGE Advantage
 
 #### Using AI for deeper market research
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980)
@@ -779,7 +786,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 4. Deploying AI to Create BACKSTAGE Advantage
+### 5. 4. Deploying AI to Create BACKSTAGE Advantage
 
 #### Using AI for managing the supply chain network
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980)
@@ -1032,7 +1039,7 @@ created: 2026-04-21
 > **Speakers:** - opportunities (1)
 
 
-### 5. The Ethics of AI and Data
+### 6. 5. The Ethics of AI and Data
 
 #### Decision-Making by machines: Moral dilemmas
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980)
@@ -1280,7 +1287,7 @@ created: 2026-04-21
 > **Speakers:** - according (1)
 
 
-### 6. From Ideas to Actions
+### 7. 6. From Ideas to Actions
 
 #### From ideas to actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980)
@@ -1329,6 +1336,11 @@ created: 2026-04-21
 > **Code Keywords:** function (1)
 > **Definitions:** defined as (1)
 
+
+## Instructor
+
+- [[Anil Gupta]]
+- [[Haiyan Wang]]
 
 ## Path Context
 

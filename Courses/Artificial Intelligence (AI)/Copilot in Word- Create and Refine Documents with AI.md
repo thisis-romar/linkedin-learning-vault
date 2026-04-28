@@ -35,8 +35,10 @@ tags:
   - skill/microsoft-word
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20in%20Word-%20Create%20and%20Refine%20Documents%20with%20AI.md)
 
 ![Copilot in Word: Create and Refine Documents with AI](https://media.licdn.com/dms/image/v2/D4D0DAQHfYyhwAzCdxQ/learning-public-crop_675_1200/B4DZUarcKtHYAc-/0/1739909350397?e=2147483647&amp;v=beta&amp;t=HYpgSMM9wU6pFEO3QBaCiMZAN7QPLgNx4UNa3Js1JP4)
 
@@ -47,21 +49,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169) | 27m | 250K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Garrick Chow]]
-
-## Skills Covered
-
-- Microsoft Copilot
-- AI Productivity
-- AI for Business
-- Microsoft Word
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Creating with Copilot** (4 videos)
+- **3. 2. Editing and Revising with Copilot** (2 videos)
+- **4. 3. Summarizing and Understanding with Copilot** (2 videos)
+
+### 1. Introduction
 
 #### Use Copilot in Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980)
@@ -129,7 +126,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Creating with Copilot
+### 2. 1. Creating with Copilot
 
 #### Draft a new document from scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/draft-a-new-document-from-scratch?u=76281980)
@@ -403,7 +400,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Editing and Revising with Copilot
+### 3. 2. Editing and Revising with Copilot
 
 #### Adjust the tone in existing content
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/adjust-the-tone-in-existing-content?u=76281980)
@@ -517,7 +514,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Summarizing and Understanding with Copilot
+### 4. 3. Summarizing and Understanding with Copilot
 
 #### Summarize and understand documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980)
@@ -657,6 +654,18 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Garrick Chow]]
+
+## Skills Covered
+
+- Microsoft Copilot
+- AI Productivity
+- AI for Business
+- Microsoft Word
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -26,8 +26,10 @@ tags:
   - skill/red-hat-enterprise-linux-rhel
   - skill/ansible
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20Engineer%20Ex294%20Cert%20Prep%201%20Foundations%20Of%20Ansible.md)
 
 ![Red Hat Certified Engineer Ex294 Cert Prep 1 Foundations Of Ansible](https://media.licdn.com/dms/image/v2/C4E0DAQGlIjE8z2GOPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589564615700?e=2147483647&amp;v=beta&amp;t=c_im-JAk2hoOazTpjPObssqc9bZKK2rmyM3qxJhBm7U)
 
@@ -38,14 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible) | Intermediate | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Red Hat Enterprise Linux (RHEL)
-- Ansible
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (13 videos)
+- **2. 1. Introduction to IT Automation** (6 videos)
+- **3. 2. Getting Started with Ansible** (4 videos)
+- **4. 3. Setting Up an Ansible Environment** (3 videos)
+- **5. 4. Using Ad Hoc Commands** (6 videos)
+- **6. 5. Ansible Command Line Tools** (6 videos)
+- **7. Summary** (1 videos)
+
+### 1. Introduction
 
 #### Prepare for the RHCE EX294 certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980)
@@ -1488,7 +1495,7 @@ created: 2026-04-21
 > **Warnings:** note that (2)
 
 
-### 1. Introduction to IT Automation
+### 2. 1. Introduction to IT Automation
 
 #### About IT automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980)
@@ -1960,7 +1967,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Getting Started with Ansible
+### 3. 2. Getting Started with Ansible
 
 #### Host requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980)
@@ -2259,7 +2266,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Setting Up an Ansible Environment
+### 4. 3. Setting Up an Ansible Environment
 
 #### Build static inventory
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/build-static-inventory?u=76281980)
@@ -2549,7 +2556,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Using Ad Hoc Commands
+### 5. 4. Using Ad Hoc Commands
 
 #### Introduction to ad-hoc commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980)
@@ -3171,7 +3178,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Ansible Command Line Tools
+### 6. 5. Ansible Command Line Tools
 
 #### Manage connection methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980)
@@ -3616,7 +3623,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Summary
+### 7. Summary
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/next-steps?u=76281980)
@@ -3645,6 +3652,11 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - [grant] (1)
 
+
+## Skills Covered
+
+- Red Hat Enterprise Linux (RHEL)
+- Ansible
 
 ## Path Context
 

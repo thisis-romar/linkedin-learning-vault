@@ -28,8 +28,10 @@ tags:
   - topic/hardware
   - skill/programmable-logic-controller-plc
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20PLC%20Ladder%20Logic-%202%20Diving%20Deeper.md)
 
 ![Learning PLC Ladder Logic: 2 Diving Deeper](https://media.licdn.com/dms/image/v2/C4E0DAQHX0LhQJAamxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571761946936?e=2147483647&amp;v=beta&amp;t=-TJ7yoH2gA_OOIhjkmkT0Fd3Afs4IT6arfCAyOSNhjQ)
 
@@ -40,21 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper) | 1h 35m | Intermediate | 183K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Zahraa Khalil]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Programmable Logic Controller (PLC)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. PLC Data Input/Output BCD** (11 videos)
+- **3. 2. Math Instructions** (10 videos)
+- **4. 3. Data Compare Instructions** (7 videos)
+- **5. 4. Data Transfer Operation** (7 videos)
+- **6. 5. Sequence Logic** (11 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn to climb the PLC ladder
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980)
@@ -138,7 +138,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. PLC Data Input/Output BCD
+### 2. 1. PLC Data Input/Output BCD
 
 #### Introduction to binary coded decimal
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-binary-coded-decimal?u=76281980)
@@ -613,7 +613,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Math Instructions
+### 3. 2. Math Instructions
 
 #### Introduction to math instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-math-instructions?u=76281980)
@@ -1073,7 +1073,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Compare Instructions
+### 4. 3. Data Compare Instructions
 
 #### Introduction to comparison instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-comparison-instructions?u=76281980)
@@ -1347,7 +1347,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data Transfer Operation
+### 5. 4. Data Transfer Operation
 
 #### Introduction to MOV instruction
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-mov-instruction?u=76281980)
@@ -1628,7 +1628,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Sequence Logic
+### 6. 5. Sequence Logic
 
 #### Introduction to sequence logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-sequence-logic?u=76281980)
@@ -2164,7 +2164,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/next-steps?u=76281980)
@@ -2187,6 +2187,18 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Zahraa Khalil]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Programmable Logic Controller (PLC)
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - skill/asp-net-web-api
   - skill/asp-net-mvc
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20Asp%20Dot%20Net%20Core%20Mvc%20Razor%20Pages%20Web%20Apis%20Other%20Foundations.md)
 
 ![Learning Asp Dot Net Core Mvc Razor Pages Web Apis Other Foundations](https://media.licdn.com/dms/image/v2/D4D0DAQGr2z4gmZo59g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729698292325?e=2147483647&amp;v=beta&amp;t=hO_r3-QlS8ZVo4SrSr7TbWdDJXm-4Wsp7r-HxAOl6u0)
 
@@ -42,16 +44,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations) | Beginner | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- ASP.NET
-- ASP.NET Razor
-- ASP.NET Web API
-- ASP.NET MVC
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started with ASP.NET Core** (5 videos)
+- **3. 2. Creating Razor Pages Applications** (8 videos)
+- **4. 3. Creating MVC Applications** (6 videos)
+- **5. 4. Creating Web APIs** (6 videos)
+- **6. 5. Creating gRPC APIs** (7 videos)
+- **7. 6. Creating SignalR Applications** (5 videos)
+- **8. 7. Creating Blazor Applications** (5 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why you should learn ASP.NET Core
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/why-you-should-learn-asp-dot-net-core?u=76281980)
@@ -112,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with ASP.NET Core
+### 2. 1. Getting Started with ASP.NET Core
 
 #### Understanding the capabilities of ASP.NET Core
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980)
@@ -646,7 +653,7 @@ created: 2026-04-21
 > **Tools:** terminal (2)
 
 
-### 2. Creating Razor Pages Applications
+### 3. 2. Creating Razor Pages Applications
 
 #### Understanding Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980)
@@ -1642,7 +1649,7 @@ created: 2026-04-21
 > **Exercise Files:** template (1)
 
 
-### 3. Creating MVC Applications
+### 4. 3. Creating MVC Applications
 
 #### Understanding Model-View-Controller applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-model-view-controller-applications?u=76281980)
@@ -2243,7 +2250,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Creating Web APIs
+### 5. 4. Creating Web APIs
 
 #### Understanding controller-based APIs and minimal APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980)
@@ -2906,7 +2913,7 @@ created: 2026-04-21
 > **Code Identifiers:** webapi (1)
 
 
-### 5. Creating gRPC APIs
+### 6. 5. Creating gRPC APIs
 
 #### Understanding gRPC APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980)
@@ -3568,7 +3575,7 @@ created: 2026-04-21
 > **Code Identifiers:** grpc_challenge (1)
 
 
-### 6. Creating SignalR Applications
+### 7. 6. Creating SignalR Applications
 
 #### Understanding SignalR applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980)
@@ -4055,7 +4062,7 @@ created: 2026-04-21
 > **Prerequisites:** install (2)
 
 
-### 7. Creating Blazor Applications
+### 8. 7. Creating Blazor Applications
 
 #### Understanding Blazor
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980)
@@ -4564,7 +4571,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps on your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980)
@@ -4600,6 +4607,13 @@ created: 2026-04-21
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - congratulations (1)
 
+
+## Skills Covered
+
+- ASP.NET
+- ASP.NET Razor
+- ASP.NET Web API
+- ASP.NET MVC
 
 ## Path Context
 

@@ -26,8 +26,10 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Lookup%20Functions%20in%20Depth.md)
 
 ![Excel: Lookup Functions in Depth](https://media.licdn.com/dms/image/v2/D4D0DAQFmPgikXok2PA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732666105347?e=2147483647&amp;v=beta&amp;t=8IlepcWVjFYxCIELc_xxN0qsLH0SZheEHvP7T2_-RXI)
 
@@ -38,21 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728) | 1h 35m | 259K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dennis Taylor]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Locating Data with MATCH, INDEX, and XMATCH Functions** (3 videos)
+- **3. 2. VLOOKUP, HLOOKUP, and XLOOKUP** (5 videos)
+- **4. 3. Finding Matching Data Without Using External Lists** (2 videos)
+- **5. 4. Other Functions with Lookup Capabilities** (4 videos)
+- **6. 5. Recently Introduced Functions with Lookup Capabilities** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Transform your Excel skills with in-depth lookup functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/transform-your-excel-skills-with-in-depth-lookup-functions?u=76281980)
@@ -77,7 +77,7 @@ created: 2026-04-21
 > **Speakers:** - [dennis] (1)
 
 
-### 1. Locating Data with MATCH, INDEX, and XMATCH Functions
+### 2. 1. Locating Data with MATCH, INDEX, and XMATCH Functions
 
 #### Locating data with the MATCH and XMATCH functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/locating-data-with-the-match-and-xmatch-functions?u=76281980)
@@ -537,7 +537,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. VLOOKUP, HLOOKUP, and XLOOKUP
+### 3. 2. VLOOKUP, HLOOKUP, and XLOOKUP
 
 #### Structuring data for use with lookup functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980)
@@ -1102,7 +1102,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Finding Matching Data Without Using External Lists
+### 4. 3. Finding Matching Data Without Using External Lists
 
 #### Finding table-like information within a function using the CHOOSE function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-table-like-information-within-a-function-using-the-choose-function?u=76281980)
@@ -1383,7 +1383,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Other Functions with Lookup Capabilities
+### 5. 4. Other Functions with Lookup Capabilities
 
 #### Extracting and counting unique entries using the UNIQUE function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980)
@@ -1911,7 +1911,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Recently Introduced Functions with Lookup Capabilities
+### 6. 5. Recently Introduced Functions with Lookup Capabilities
 
 #### CHOOSEROWS and CHOOSECOLS: Return lists with selected rows or columns
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/chooserows-choosecols-return-lists-with-selected-rows-or-columns?u=76281980)
@@ -2580,7 +2580,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Your next steps in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/your-next-steps-in-excel?u=76281980)
@@ -2606,6 +2606,18 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - [lecturer] (1)
 
+
+## Instructor
+
+- [[Dennis Taylor]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Excel
 
 ## Path Context
 

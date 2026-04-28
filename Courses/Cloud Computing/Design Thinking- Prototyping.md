@@ -27,8 +27,10 @@ tags:
   - skill/design-thinking
   - skill/prototyping
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Design%20Thinking-%20Prototyping.md)
 
 ![Design Thinking: Prototyping](https://media.licdn.com/dms/image/v2/D4E0DAQFnmWEQxA_7lQ/learning-public-crop_675_1200/B4EZXY1Q0aHcAc-/0/1743099596403?e=2147483647&amp;v=beta&amp;t=nahos6MPhSjcXKEEn6QKxFdPjxTN8iWeAqnT2JIhaPg)
 
@@ -39,22 +41,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180) | 1h 2m | 47K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Randall Elliott]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Design Thinking
-- Prototyping
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Why Prototyping?** (3 videos)
+- **3. 2. Where in the Design Process?** (4 videos)
+- **4. 3. Modern Uses and Solutions** (2 videos)
+- **5. 4. Methods and Approaches** (2 videos)
+- **6. 5. Choosing What to Prototype** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Prototyping for creative problem solving
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/prototyping-for-creative-problem-solving?u=76281980)
@@ -169,7 +168,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 1. Why Prototyping?
+### 2. 1. Why Prototyping?
 
 #### Generate ideas rapidly
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980)
@@ -383,7 +382,7 @@ created: 2026-04-21
 > **Speakers:** - product (1)
 
 
-### 2. Where in the Design Process?
+### 3. 2. Where in the Design Process?
 
 #### Use simulations to study interactions and flows
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980)
@@ -657,7 +656,7 @@ created: 2026-04-21
 > **Speakers:** - user (1)
 
 
-### 3. Modern Uses and Solutions
+### 4. 3. Modern Uses and Solutions
 
 #### Document: When requirement docs and pages fall short
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980)
@@ -791,7 +790,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Methods and Approaches
+### 5. 4. Methods and Approaches
 
 #### Get to the next steps faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980)
@@ -939,7 +938,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 5. Choosing What to Prototype
+### 6. 5. Choosing What to Prototype
 
 #### Deciding what to prototype
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980)
@@ -1218,7 +1217,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980)
@@ -1263,6 +1262,19 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Randall Elliott]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Design Thinking
+- Prototyping
 
 ## Path Context
 

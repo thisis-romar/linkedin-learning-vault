@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/azure-ai-foundry
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20for%20Developers-%20Retrieval-Augmented%20Generation%20(RAG)%20with%20Azure%20AI.md)
 
 ![Azure for Developers: Retrieval-Augmented Generation (RAG) with Azure AI](https://media.licdn.com/dms/image/v2/D4E0DAQG-x1Hq4RJ1fw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736370122951?e=2147483647&amp;v=beta&amp;t=5nuq4RIL9cR3GIpBduJjWRorj4-LziTQUyuLYyeYxLQ)
 
@@ -48,25 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai) | 1h 54m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ziggy Zulueta]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/codespaces)
-
-## Skills Covered
-
-- Machine Learning
-- Retrieval-Augmented Generation (RAG)
-- Artificial Intelligence (AI)
-- Azure AI Foundry
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. RAG Core Concepts** (5 videos)
+- **3. 2. Azure AI Search** (11 videos)
+- **4. 3. Azure Cosmos DB** (5 videos)
+- **5. 4. Evaluating RAG** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Intro to RAG with Azure AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/intro-video-to-be-renamed?u=76281980)
@@ -122,7 +117,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. RAG Core Concepts
+### 2. 1. RAG Core Concepts
 
 #### Fundamental concepts of RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980)
@@ -501,7 +496,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 2. Azure AI Search
+### 3. 2. Azure AI Search
 
 #### RAG using Azure AI Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980)
@@ -1274,7 +1269,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Azure Cosmos DB
+### 4. 3. Azure Cosmos DB
 
 #### RAG using Azure Cosmos DB
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980)
@@ -1604,7 +1599,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Evaluating RAG
+### 5. 4. Evaluating RAG
 
 #### Evaluation metrics in generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluation-metrics-in-generative-ai?u=76281980)
@@ -1880,7 +1875,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980)
@@ -1966,6 +1961,22 @@ created: 2026-04-21
 > **Prerequisites:** setup (1), set up (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Ziggy Zulueta]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/codespaces)
+
+## Skills Covered
+
+- Machine Learning
+- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence (AI)
+- Azure AI Foundry
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - skill/framework-design
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Framework%20Design.md)
 
 ![C# Framework Design](https://media.licdn.com/dms/image/v2/C560DAQGznvMzGXwAWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671650523568?e=2147483647&amp;v=beta&amp;t=GSpV3J8ZSdkcFSJuXMRaQ3Fr2g_ItNr4Hf7ehug0as8)
 
@@ -40,18 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804) | 1h 12m | Advanced | 35K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jesse Freeman]]
-
-## Skills Covered
-
-- Framework Design
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Framework Design** (4 videos)
+- **3. 2. Extending Frameworks** (3 videos)
+- **4. 3. Hosting Code** (4 videos)
+- **5. 4. Continuous Integration** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Framework design with C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/framework-design-with-c-sharp?u=76281980)
@@ -93,7 +95,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Framework Design
+### 2. 1. Framework Design
 
 #### Design frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/design-frameworks?u=76281980)
@@ -388,7 +390,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Extending Frameworks
+### 3. 2. Extending Frameworks
 
 #### Create independent modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/create-independent-modules?u=76281980)
@@ -652,7 +654,7 @@ created: 2026-04-21
 > **Env Vars:** net (1)
 
 
-### 3. Hosting Code
+### 4. 3. Hosting Code
 
 #### Share framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework?u=76281980)
@@ -1069,7 +1071,7 @@ created: 2026-04-21
 > **Exercise Files:** template (3)
 
 
-### 4. Continuous Integration
+### 5. 4. Continuous Integration
 
 #### What is CI
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980)
@@ -1368,7 +1370,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (2), go to (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Share framework with the community
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework-with-the-community?u=76281980)
@@ -1390,6 +1392,15 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jesse Freeman]]
+
+## Skills Covered
+
+- Framework Design
+- C#
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/devops
   - skill/itil-process-implementation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Putting%20ITIL%C2%AE%20into%20Practice-%20DevOps%20for%20ITIL%C2%AE%20Practitioners.md)
 
 ![Putting ITIL® into Practice: DevOps for ITIL® Practitioners](https://media.licdn.com/dms/image/v2/D560DAQEJ9TTMVczZgw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708447720851?e=2147483647&amp;v=beta&amp;t=JMkqh1L9P9L2I5MB2-80PtiKhLGNImzdZ_eKHTCRkxY)
 
@@ -43,18 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners) | 1h 56m | Intermediate | 94K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Pultorak]]
-
-## Skills Covered
-
-- DevOps
-- ITIL Process Implementation
-
 ## Table of Contents
 
-### Welcome
+### Chapter Overview
+
+- **1. Welcome** (3 videos)
+- **2. 1. Introduction to DevOps for ITIL®-Driven Shops** (3 videos)
+- **3. 2. DevOps and Enterprise IT Challenges** (4 videos)
+- **4. 3. DevOps and ITIL®-Driven Shops** (5 videos)
+- **5. 4. ITIL®-Driven Shops and DevOps** (11 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Welcome
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/welcome?u=76281980)
@@ -156,7 +158,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to DevOps for ITIL®-Driven Shops
+### 2. 1. Introduction to DevOps for ITIL®-Driven Shops
 
 #### The traditional enterprise IT shop and the breakdown of separation of duties with digitalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization?u=76281980)
@@ -531,7 +533,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. DevOps and Enterprise IT Challenges
+### 3. 2. DevOps and Enterprise IT Challenges
 
 #### Enterprise-level change control and release gates
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980)
@@ -864,7 +866,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. DevOps and ITIL®-Driven Shops
+### 4. 3. DevOps and ITIL®-Driven Shops
 
 #### Values
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980)
@@ -1367,7 +1369,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. ITIL®-Driven Shops and DevOps
+### 5. 4. ITIL®-Driven Shops and DevOps
 
 #### Services and service management
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/services-and-service-management?u=76281980)
@@ -2154,7 +2156,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### ITIL® 4 and DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/itil-4-and-devops?u=76281980)
@@ -2198,6 +2200,15 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [david] (1)
 
+
+## Instructor
+
+- [[David Pultorak]]
+
+## Skills Covered
+
+- DevOps
+- ITIL Process Implementation
 
 ## Path Context
 

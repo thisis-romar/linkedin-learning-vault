@@ -38,39 +38,33 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/firebase
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20in%20the%20Design%20to%20Full-Stack%20Development%20Life%20Cycle.md)
 
 ![Using AI in the Design to Full-Stack Development Life Cycle](https://media.licdn.com/dms/image/v2/D4D0DAQEpwEOxJDMD-A/learning-public-crop_675_1200/B4DZVegT0sG8Ac-/0/1741047283297?e=2147483647&amp;v=beta&amp;t=bTgekdZQvIw8ZOuOmTNs-u8Z7GmDh7VGR2mxuFcXhBo)
 
 # Using AI in the Design to Full-Stack Development Life Cycle
 
-> Learn how to use AI tools throughout the full stack web development process while building a full stack web application in this course with instructor Dakota Fabro.
-Dakota shows you how to build a full stack ecommerce platform that leverages AI at every stage of development, from design to deployment and maintenance. This e-commerce platform—in the form of a pet adoption website—includes AI-genera
+> Learn how to use AI tools throughout the full stack web development process while building a full stack web application in this course with instructor Dakota Fabro. Dakota shows you how to build a full stack ecommerce platform that leverages AI at every stage of development, from design to deployment and maintenance. This e-commerce platform—in the form of a pet adoption website—includes AI-genera
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle) | 1h 1m | Intermediate | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dakota Fabro]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/using-ai-in-the-design-to-full-stack-development-life-cycle-5982118/codespaces)
-
-## Skills Covered
-
-- AI Software Development
-- Front-End Development
-- Next.js
-- Artificial Intelligence (AI)
-- Firebase
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Wireframing** (5 videos)
+- **3. 2. Frontend Development** (5 videos)
+- **4. 3. Backend Development** (4 videos)
+- **5. 4. Testing Your Full Stack Project** (5 videos)
+- **6. 5. Deployment and Documentation** (5 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Leaning into AI: Reframing what we know and how we build
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-reframing-what-we-know-and-how-we-build?u=76281980)
@@ -175,7 +169,7 @@ Dakota shows you how to build a full stack ecommerce platform that leverages AI 
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Wireframing
+### 2. 1. Wireframing
 
 #### Leaning into AI: Introduction to AI in wireframing
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-introduction-to-ai-in-wireframing?u=76281980)
@@ -465,7 +459,7 @@ Dakota shows you how to build a full stack ecommerce platform that leverages AI 
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Frontend Development
+### 3. 2. Frontend Development
 
 #### Using AI to brainstorm your frontend approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/using-ai-to-brainstorm-your-frontend-approach?u=76281980)
@@ -795,7 +789,7 @@ Dakota shows you how to build a full stack ecommerce platform that leverages AI 
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Backend Development
+### 4. 3. Backend Development
 
 #### Coming up with your backend approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/coming-up-with-your-backend-approach?u=76281980)
@@ -1066,7 +1060,7 @@ Dakota shows you how to build a full stack ecommerce platform that leverages AI 
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Testing Your Full Stack Project
+### 5. 4. Testing Your Full Stack Project
 
 #### Testing your code with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/testing-your-code-with-ai?u=76281980)
@@ -1384,7 +1378,7 @@ Dakota shows you how to build a full stack ecommerce platform that leverages AI 
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Deployment and Documentation
+### 6. 5. Deployment and Documentation
 
 #### Streamlining handoff and delivery
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/streamlining-handoff-delivery?u=76281980)
@@ -1639,7 +1633,7 @@ Dakota shows you how to build a full stack ecommerce platform that leverages AI 
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Overview of design to dev stages and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/overview-of-design-to-dev-stages-ai?u=76281980)
@@ -1689,6 +1683,23 @@ Dakota shows you how to build a full stack ecommerce platform that leverages AI 
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
 
+
+## Instructor
+
+- [[Dakota Fabro]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/using-ai-in-the-design-to-full-stack-development-life-cycle-5982118/codespaces)
+
+## Skills Covered
+
+- AI Software Development
+- Front-End Development
+- Next.js
+- Artificial Intelligence (AI)
+- Firebase
 
 ## Path Context
 

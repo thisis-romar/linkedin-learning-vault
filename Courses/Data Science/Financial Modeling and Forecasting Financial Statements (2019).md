@@ -33,8 +33,10 @@ tags:
   - skill/financial-statement-analysis
   - skill/financial-modeling
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Financial%20Modeling%20and%20Forecasting%20Financial%20Statements%20(2019).md)
 
 ![Financial Modeling and Forecasting Financial Statements (2019)](https://media.licdn.com/dms/image/v2/C4E0DAQGSjALmrJrMbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1569606972711?e=2147483647&amp;v=beta&amp;t=O6BdrkH8goILCohd8LPDNqyyzL6-Bfl3dgmak68wQ2Y)
 
@@ -45,23 +47,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019) | 1h 53m | Intermediate | 108K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jim Stice]]
-- [[Kay Stice]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Financial Statement Analysis
-- Financial Modeling
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Who Uses Forecasted Financial Statements?** (5 videos)
+- **3. 2. It All Starts with an Accurate Sales Forecast** (4 videos)
+- **4. 3. What Causes Financial Statement Numbers to Change?** (4 videos)
+- **5. 4. Constructing a Forecasted Income Statement** (4 videos)
+- **6. 5. Constructing a Forecasted Balance Sheet** (4 videos)
+- **7. 6. Constructing a Forecasted Statement of Cash Flows** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Projecting the financial future
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980)
@@ -143,7 +142,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 1. Who Uses Forecasted Financial Statements?
+### 2. 1. Who Uses Forecasted Financial Statements?
 
 #### Use the past to understand the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980)
@@ -601,7 +600,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 2. It All Starts with an Accurate Sales Forecast
+### 3. 2. It All Starts with an Accurate Sales Forecast
 
 #### IBM and the famously bad sales forecast
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980)
@@ -929,7 +928,7 @@ created: 2026-04-21
 > **Speakers:** - sales (1)
 
 
-### 3. What Causes Financial Statement Numbers to Change?
+### 4. 3. What Causes Financial Statement Numbers to Change?
 
 #### Home Depot 1985: Three weeks to live
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/home-depot-1985-three-weeks-to-live?u=76281980)
@@ -1226,7 +1225,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 4. Constructing a Forecasted Income Statement
+### 5. 4. Constructing a Forecasted Income Statement
 
 #### The Gap and predictable change
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980)
@@ -1598,7 +1597,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 5. Constructing a Forecasted Balance Sheet
+### 6. 5. Constructing a Forecasted Balance Sheet
 
 #### The power of the accounting equation
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980)
@@ -1953,7 +1952,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 6. Constructing a Forecasted Statement of Cash Flows
+### 7. 6. Constructing a Forecasted Statement of Cash Flows
 
 #### The Home Depot story revisited
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-home-depot-story-revisited?u=76281980)
@@ -2385,7 +2384,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Dynamic modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980)
@@ -2477,6 +2476,20 @@ created: 2026-04-21
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (3)
 
+
+## Instructor
+
+- [[Jim Stice]]
+- [[Kay Stice]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Financial Statement Analysis
+- Financial Modeling
 
 ## Path Context
 

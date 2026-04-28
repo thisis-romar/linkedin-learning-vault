@@ -25,8 +25,10 @@ tags:
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20in%20PowerPoint-%20From%20Prompt%20to%20Presentation.md)
 
 ![Copilot in PowerPoint: From Prompt to Presentation](https://media.licdn.com/dms/image/v2/D560DAQGEngZpbDXFcg/learning-public-crop_675_1200/B56ZrgPqFsLcAg-/0/1764698792524?e=2147483647&amp;v=beta&amp;t=3fcELqM067qhe387UsFyHPvgwoC-XMJgTsh3pYph7Co)
 
@@ -37,13 +39,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076) | 51m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Julie Terberg]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Create a New Presentation with Copilot** (4 videos)
+- **3. 2. Adding New Slides with Copilot** (2 videos)
+- **4. 3. Refining a Presentation with Copilot** (3 videos)
+- **5. 4. Understanding a Presentation with Copilot Chat** (3 videos)
+- **6. 5. Asking Copilot for Help** (1 videos)
+- **7. 6. New AI Features on the Horizon** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Copilot in PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980)
@@ -76,7 +85,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Create a New Presentation with Copilot
+### 2. 1. Create a New Presentation with Copilot
 
 #### Create a new presentation starting from a blank file
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980)
@@ -521,7 +530,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 2. Adding New Slides with Copilot
+### 3. 2. Adding New Slides with Copilot
 
 #### Add a slide about a specific subject
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-slide-about-a-specific-subject?u=76281980)
@@ -607,7 +616,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 3. Refining a Presentation with Copilot
+### 4. 3. Refining a Presentation with Copilot
 
 #### Rewrite slide text
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980)
@@ -956,7 +965,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Understanding a Presentation with Copilot Chat
+### 5. 4. Understanding a Presentation with Copilot Chat
 
 #### Summarize a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980)
@@ -1076,7 +1085,7 @@ created: 2026-04-21
 > **[1:48](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=108)** So try out Copilot Chat next time you receive a comprehensive presentation and experiment with prompting Copilot to retrieve exactly the information you need to know or act upon.
 
 
-### 5. Asking Copilot for Help
+### 6. 5. Asking Copilot for Help
 
 #### Ways that Copilot can help
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/ways-that-copilot-can-help?u=76281980)
@@ -1128,7 +1137,7 @@ created: 2026-04-21
 > **Code Keywords:** switch (2)
 
 
-### 6. New AI Features on the Horizon
+### 7. 6. New AI Features on the Horizon
 
 #### Agent mode in Copilot Chat
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/agent-mode-in-copilot-chat?u=76281980)
@@ -1292,7 +1301,7 @@ created: 2026-04-21
 > **Exercise Files:** template (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/next-steps?u=76281980)
@@ -1317,6 +1326,10 @@ created: 2026-04-21
 >
 > **Code Keywords:** continue (1)
 
+
+## Instructor
+
+- [[Julie Terberg]]
 
 ## Path Context
 

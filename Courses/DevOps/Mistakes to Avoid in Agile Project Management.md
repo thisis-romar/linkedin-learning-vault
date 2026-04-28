@@ -26,8 +26,10 @@ tags:
   - topic/devops
   - skill/agile-project-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Mistakes%20to%20Avoid%20in%20Agile%20Project%20Management.md)
 
 ![Mistakes to Avoid in Agile Project Management](https://media.licdn.com/dms/image/v2/C4E0DAQH_T0wSgw77cw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642182157198?e=2147483647&amp;v=beta&amp;t=7Iw_OhislipmUZFcmDx_iQqNvMw_E4C5mq7imFGumgU)
 
@@ -38,22 +40,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management) | 1h 24m | Beginner | 1279K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael de la Maza]]
-- [[Madecraft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Agile Project Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Launching Agile Project Management** (4 videos)
+- **3. 2. Mistakes When Gaining Buy-In** (3 videos)
+- **4. 3. Mistakes When Building Teams** (4 videos)
+- **5. 4. Mistakes When Setting Cadence** (4 videos)
+- **6. 5. Mistakes When Making Improvements** (4 videos)
+- **7. 6. Mistakes When Managing Work** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980)
@@ -98,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Launching Agile Project Management
+### 2. 1. Launching Agile Project Management
 
 #### Misunderstanding agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980)
@@ -386,7 +386,7 @@ created: 2026-04-21
 > **Speakers:** - changing (1)
 
 
-### 2. Mistakes When Gaining Buy-In
+### 3. 2. Mistakes When Gaining Buy-In
 
 #### Not setting the tone
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980)
@@ -608,7 +608,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 3. Mistakes When Building Teams
+### 4. 3. Mistakes When Building Teams
 
 #### Assigning tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980)
@@ -927,7 +927,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 4. Mistakes When Setting Cadence
+### 5. 4. Mistakes When Setting Cadence
 
 #### Not planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-planning?u=76281980)
@@ -1229,7 +1229,7 @@ created: 2026-04-21
 > **Speakers:** - feedback (1)
 
 
-### 5. Mistakes When Making Improvements
+### 6. 5. Mistakes When Making Improvements
 
 #### Starting too large
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/starting-too-large?u=76281980)
@@ -1541,7 +1541,7 @@ created: 2026-04-21
 > **Speakers:** - handoffs (1)
 
 
-### 6. Mistakes When Managing Work
+### 7. 6. Mistakes When Managing Work
 
 #### Unclear priorities
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/unclear-priorities?u=76281980)
@@ -1766,7 +1766,7 @@ created: 2026-04-21
 > **Speakers:** - traditional (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Setting yourself up for long-term success
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980)
@@ -1812,6 +1812,19 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Michael de la Maza]]
+- [[Madecraft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Agile Project Management
 
 ## Path Context
 

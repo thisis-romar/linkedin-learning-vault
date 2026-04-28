@@ -35,8 +35,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/GitHub%20Copilot%20Mastery-%20From%20Advanced%20Prompting%20to%20Full-Stack%20AI%20Development.md)
 
 # GitHub Copilot Mastery: From Advanced Prompting to Full-Stack AI Development
 

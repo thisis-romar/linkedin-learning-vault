@@ -34,8 +34,10 @@ tags:
   - skill/spring-framework
   - skill/performance-tuning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Performance%20Tuning%20in%20Spring%20Apps.md)
 
 ![Performance Tuning in Spring Apps](https://media.licdn.com/dms/image/v2/C560DAQFAnne7qoYl0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637107876135?e=2147483647&amp;v=beta&amp;t=89O1e2iFpTdBcYMpzUWDtC7Rp0O_kt60du8VXdWgvW8)
 
@@ -46,23 +48,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps) | 2h 2m | Advanced | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kathy Flint]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/performance-spring-3158745)
-
-## Skills Covered
-
-- Spring Framework
-- Performance Tuning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Foundations of Spring Performance** (5 videos)
+- **3. 2. Spring Performance Monitoring** (6 videos)
+- **4. 3. Tuning for Common Spring Performance Challenges** (5 videos)
+- **5. 4. The Spring Developers Performance Toolkit** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Performance tuning in Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980)
@@ -278,7 +275,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 1. Foundations of Spring Performance
+### 2. 1. Foundations of Spring Performance
 
 #### Understanding performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980)
@@ -876,7 +873,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Spring Performance Monitoring
+### 3. 2. Spring Performance Monitoring
 
 #### Configuring Spring Actuator with Spring Boot
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980)
@@ -1710,7 +1707,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Tuning for Common Spring Performance Challenges
+### 4. 3. Tuning for Common Spring Performance Challenges
 
 #### Aspect-Oriented Programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980)
@@ -2426,7 +2423,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. The Spring Developers Performance Toolkit
+### 5. 4. The Spring Developers Performance Toolkit
 
 #### Compiling a performance profile
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980)
@@ -2578,7 +2575,7 @@ created: 2026-04-21
 > **Speakers:** - [kathy] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980)
@@ -2607,6 +2604,20 @@ created: 2026-04-21
 > **Versions:** 1.0 (1)
 > **Speakers:** - [kathy] (1)
 
+
+## Instructor
+
+- [[Kathy Flint]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/performance-spring-3158745)
+
+## Skills Covered
+
+- Spring Framework
+- Performance Tuning
 
 ## Path Context
 

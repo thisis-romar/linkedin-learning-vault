@@ -24,8 +24,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Integrating%20Generative%20AI%20into%20the%20Creative%20Process.md)
 
 ![Integrating Generative AI into the Creative Process](https://media.licdn.com/dms/image/v2/D4D0DAQFe7xyJkJNWMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1699056399160?e=2147483647&amp;v=beta&amp;t=zCwlBKy7veDJmKP9XNPHy_Stij5rbI_3Nla3e88vxnI)
 
@@ -36,13 +38,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process) | 1h 32m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dave Birss]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Cultivation: Develop Your Creative Skills with AI** (4 videos)
+- **3. 2. Inspiration: Using AI to Get Better Ingredients for Fresh Ideas** (3 videos)
+- **4. 3. Imagination: Get Help Developing Fresh and Impactful Ideas** (5 videos)
+- **5. 4. Implementation: Using AI to Improve the Chances of Ideas Happening** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI as a creative booster
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/ai-as-a-creative-booster?u=76281980)
@@ -244,7 +251,7 @@ created: 2026-04-21
 > **Speakers:** - many (1)
 
 
-### 1. Cultivation: Develop Your Creative Skills with AI
+### 2. 1. Cultivation: Develop Your Creative Skills with AI
 
 #### Using AI to test and develop your creativity
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980)
@@ -906,7 +913,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Inspiration: Using AI to Get Better Ingredients for Fresh Ideas
+### 3. 2. Inspiration: Using AI to Get Better Ingredients for Fresh Ideas
 
 #### Using AI to understand your audience's motivations
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-your-audience-s-motivations?u=76281980)
@@ -1303,7 +1310,7 @@ created: 2026-04-21
 > **Analogies:** it's like (1)
 
 
-### 3. Imagination: Get Help Developing Fresh and Impactful Ideas
+### 4. 3. Imagination: Get Help Developing Fresh and Impactful Ideas
 
 #### Using AI to nudge your thinking in fresh directions
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-nudge-your-thinking-in-fresh-directions?u=76281980)
@@ -1947,7 +1954,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### 4. Implementation: Using AI to Improve the Chances of Ideas Happening
+### 5. 4. Implementation: Using AI to Improve the Chances of Ideas Happening
 
 #### Using AI to understand how to make an idea happen
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980)
@@ -2278,7 +2285,7 @@ created: 2026-04-21
 > **Cross-References:** coming up (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980)
@@ -2325,6 +2332,10 @@ created: 2026-04-21
 > **Analogies:** it's like (1), picture (1)
 > **Exercise Files:** template (1)
 
+
+## Instructor
+
+- [[Dave Birss]]
 
 ## Path Context
 

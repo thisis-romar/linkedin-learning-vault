@@ -28,29 +28,32 @@ tags:
   - skill/career-management
   - skill/executive-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Making%20The%20Move%20To%20Executive%20Leadership.md)
 
 ![Making The Move To Executive Leadership](https://media.licdn.com/dms/image/v2/D4E0DAQGhrHnlUvk0Nw/learning-public-crop_675_1200/B4EZU5AYnrHgAc-/0/1740418157738?e=2147483647&amp;v=beta&amp;t=0owAF2lpVQMwh4NCYDNJFdsAhtSGq9Xz0R_396K3EjU)
 
 # Making The Move To Executive Leadership
 
-> Working hard as a manager may get you good reviews, but it doesn’t necessarily translate to career advancement. Moving up to a director level or higher in the leadership chain requires knowing not just your strengths and weaknesses, but also making an impact on the success of your organization and the business.
-
-This course provides experienced managers with the roadmap and skills to move into exe
+> Working hard as a manager may get you good reviews, but it doesn’t necessarily translate to career advancement. Moving up to a director level or higher in the leadership chain requires knowing not just your strengths and weaknesses, but also making an impact on the success of your organization and the business. This course provides experienced managers with the roadmap and skills to move into exec
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership) | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Leadership Development
-- Career Management
-- Executive Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Personal Leadership Skills** (6 videos)
+- **3. 2. Team Leadership Skills** (3 videos)
+- **4. 3. Leadership for Organizational Impact** (4 videos)
+- **5. 4. Managing the Executive Promotion Process** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Three circles of executive performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/three-circles-of-executive-performance?u=76281980)
@@ -82,7 +85,7 @@ This course provides experienced managers with the roadmap and skills to move in
 > **Speakers:** - whether (1)
 
 
-### 1. Personal Leadership Skills
+### 2. 1. Personal Leadership Skills
 
 #### Scaled, deep leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/scaled-deep-leadership?u=76281980)
@@ -519,7 +522,7 @@ This course provides experienced managers with the roadmap and skills to move in
 > **Speakers:** - many (1)
 
 
-### 2. Team Leadership Skills
+### 3. 2. Team Leadership Skills
 
 #### Executing with little oversight
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980)
@@ -744,7 +747,7 @@ This course provides experienced managers with the roadmap and skills to move in
 > **Speakers:** - i (1)
 
 
-### 3. Leadership for Organizational Impact
+### 4. 3. Leadership for Organizational Impact
 
 #### Developing strategic vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980)
@@ -1029,7 +1032,7 @@ This course provides experienced managers with the roadmap and skills to move in
 > **Speakers:** - you (1)
 
 
-### 4. Managing the Executive Promotion Process
+### 5. 4. Managing the Executive Promotion Process
 
 #### How to: Get unstuck in your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-get-unstuck-in-your-career?u=76281980)
@@ -1388,7 +1391,7 @@ This course provides experienced managers with the roadmap and skills to move in
 > **Speakers:** - it (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### From action to results
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980)
@@ -1477,6 +1480,12 @@ This course provides experienced managers with the roadmap and skills to move in
 > **Cross-References:** we covered (1)
 > **Speakers:** - we (1)
 
+
+## Skills Covered
+
+- Leadership Development
+- Career Management
+- Executive Leadership
 
 ## Path Context
 

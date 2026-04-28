@@ -33,37 +33,35 @@ tags:
   - skill/itil
   - skill/change-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Putting%20ITIL%C2%AE%20into%20Practice-%20Change%20Enablement.md)
 
 ![Putting ITIL® into Practice: Change Enablement](https://media.licdn.com/dms/image/v2/D4D0DAQEK-77yja2h6A/learning-public-crop_675_1200/B4DZZp1oO4HwAY-/0/1745532389023?e=2147483647&amp;v=beta&amp;t=Z0uM4k7CPfk1u01oZu_W_FMeC9a-IJtfzPjs-lyu1pQ)
 
 # Putting ITIL® into Practice: Change Enablement
 
-> Change enablement is about optimizing stakeholder satisfaction with the speed and quality of changes by making changes that produce expected benefits, reduce time-to-value, minimize disbenefits, and meet governance and compliance requirements.
- 
-ITIL® mentions a set of techniques as best practice but does not cover how to apply them. This course bridges the gap, giving you a concise introduction t
+> Change enablement is about optimizing stakeholder satisfaction with the speed and quality of changes by making changes that produce expected benefits, reduce time-to-value, minimize disbenefits, and meet governance and compliance requirements. ITIL® mentions a set of techniques as best practice but does not cover how to apply them. This course bridges the gap, giving you a concise introduction to 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement) | 1h 56m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Pultorak]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- IT Service Management
-- ITIL
-- Change Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Request for Change** (6 videos)
+- **3. 2. Change Proposal** (6 videos)
+- **4. 3. Change Evaluation** (6 videos)
+- **5. 4. Change Advisory Board** (6 videos)
+- **6. 5. Change Scheduling** (6 videos)
+- **7. 6. Change Communication** (6 videos)
+- **8. 7. Change Implementation** (6 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Stand apart as a change practitioner
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/stand-apart-as-a-change-practitioner?u=76281980)
@@ -339,7 +337,7 @@ ITIL® mentions a set of techniques as best practice but does not cover how to a
 > **Speakers:** - [presenter] (1)
 
 
-### 1. Request for Change
+### 2. 1. Request for Change
 
 #### What is a request for change, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-request-for-change-and-why-use-it?u=76281980)
@@ -804,7 +802,7 @@ ITIL® mentions a set of techniques as best practice but does not cover how to a
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Change Proposal
+### 3. 2. Change Proposal
 
 #### What is a change proposal and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-proposal-and-why-use-it?u=76281980)
@@ -1210,7 +1208,7 @@ ITIL® mentions a set of techniques as best practice but does not cover how to a
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Change Evaluation
+### 4. 3. Change Evaluation
 
 #### What is change evaluation and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-evaluation-and-why-use-it?u=76281980)
@@ -1606,7 +1604,7 @@ ITIL® mentions a set of techniques as best practice but does not cover how to a
 > **Speakers:** - [presenter] (1)
 
 
-### 4. Change Advisory Board
+### 5. 4. Change Advisory Board
 
 #### What is a change advisory board and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-advisory-board-and-why-use-it?u=76281980)
@@ -1984,7 +1982,7 @@ ITIL® mentions a set of techniques as best practice but does not cover how to a
 > **Speakers:** - [presenter] (1)
 
 
-### 5. Change Scheduling
+### 6. 5. Change Scheduling
 
 #### What is change scheduling and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-scheduling-and-why-use-it?u=76281980)
@@ -2356,7 +2354,7 @@ ITIL® mentions a set of techniques as best practice but does not cover how to a
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Change Communication
+### 7. 6. Change Communication
 
 #### What is change communication and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-communication-and-why-use-it?u=76281980)
@@ -2776,7 +2774,7 @@ ITIL® mentions a set of techniques as best practice but does not cover how to a
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Change Implementation
+### 8. 7. Change Implementation
 
 #### What is change implementation and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-implementation-and-why-use-it?u=76281980)
@@ -3204,7 +3202,7 @@ ITIL® mentions a set of techniques as best practice but does not cover how to a
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Further your journey into change enablement
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980)
@@ -3287,6 +3285,20 @@ ITIL® mentions a set of techniques as best practice but does not cover how to a
 > **Exercise Files:** template (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[David Pultorak]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- IT Service Management
+- ITIL
+- Change Management
 
 ## Path Context
 

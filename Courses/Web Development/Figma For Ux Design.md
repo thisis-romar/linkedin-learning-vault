@@ -19,8 +19,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Figma%20For%20Ux%20Design.md)
 
 ![Figma For Ux Design](https://media.licdn.com/dms/image/v2/D560DAQGKCRh3ZF49AA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706569088409?e=2147483647&amp;v=beta&amp;t=Zns0FYeIGEwhTEeZCaRJ3lnnSB_1LcOP9xebw3CVty4)
 
@@ -33,7 +35,15 @@ created: 2026-04-21
 
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Orienting Yourself within Figma** (2 videos)
+- **3. 2. Project Creation** (5 videos)
+- **4. 3. Prototyping, Collaborating, and Exporting** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Migrating to Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/migrating-to-figma?u=76281980)
@@ -72,7 +82,7 @@ created: 2026-04-21
 > **Tools:** figma (2)
 
 
-### 1. Orienting Yourself within Figma
+### 2. 1. Orienting Yourself within Figma
 
 #### Creating your first team
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980)
@@ -418,7 +428,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Project Creation
+### 3. 2. Project Creation
 
 #### Creating project styles
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980)
@@ -1429,7 +1439,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (2)
 
 
-### 3. Prototyping, Collaborating, and Exporting
+### 4. 3. Prototyping, Collaborating, and Exporting
 
 #### Prototyping with smart animations
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980)
@@ -1937,7 +1947,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/wrap-up?u=76281980)

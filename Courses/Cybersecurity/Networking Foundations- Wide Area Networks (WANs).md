@@ -29,8 +29,10 @@ tags:
   - topic/network-and-system-administration
   - skill/network-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Networking%20Foundations-%20Wide%20Area%20Networks%20(WANs).md)
 
 ![Networking Foundations: Wide Area Networks (WANs)](https://media.licdn.com/dms/image/v2/D560DAQE4mMCTFW78Lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712791908525?e=2147483647&amp;v=beta&amp;t=aE2ZVLXxqea9VlEVjsqxpJMUPc2klkwCdzeqp6Wo6VI)
 
@@ -41,21 +43,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739) | 1h 16m | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jarrel Rivera]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Network Administration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to WAN** (5 videos)
+- **3. 2. Private WAN** (4 videos)
+- **4. 3. Public WAN** (4 videos)
+- **5. 4. Modern WAN** (5 videos)
+- **6. Conclusion** (3 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/introduction?u=76281980)
@@ -108,7 +107,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to WAN
+### 2. 1. Introduction to WAN
 
 #### What is WAN?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/what-is-wan?u=76281980)
@@ -476,7 +475,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Private WAN
+### 3. 2. Private WAN
 
 #### T1/E1 and T3/E3 leased lines for WAN
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/t1-e1-and-t3-e3-leased-lines-for-wan?u=76281980)
@@ -756,7 +755,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Public WAN
+### 4. 3. Public WAN
 
 #### WAN via DSL
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-dsl?u=76281980)
@@ -1124,7 +1123,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Modern WAN
+### 5. 4. Modern WAN
 
 #### Dedicated internet access (DIA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/dedicated-internet-access-dia?u=76281980)
@@ -1599,7 +1598,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### WAN consideration
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980)
@@ -1933,6 +1932,18 @@ created: 2026-04-21
 > **Env Vars:** wan (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jarrel Rivera]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Network Administration
 
 ## Path Context
 

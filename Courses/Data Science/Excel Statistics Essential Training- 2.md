@@ -21,26 +21,35 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Statistics%20Essential%20Training-%202.md)
 
 ![Excel Statistics Essential Training: 2](https://media.licdn.com/dms/image/v2/D560DAQEuHafUW6Iylg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696279038859?e=2147483647&amp;v=beta&amp;t=UpPvGVrMkRh8YiRsBUa8j_fDum9EsWXw86AH14Hf7Dc)
 
 # Excel Statistics Essential Training: 2
 
-> Data isn’t valuable until you figure out what the data actually mean. Statistics transforms data into meaningful information, enabling organizations to make more informed decisions. That’s why statistics—collecting, analyzing, and presenting data—is a valuable skill for anyone in business or academia.  
-In this course, LinkedIn Learning statistics and business analysis instructor Eddie Davila take
+> Data isn’t valuable until you figure out what the data actually mean. Statistics transforms data into meaningful information, enabling organizations to make more informed decisions. That’s why statistics—collecting, analyzing, and presenting data—is a valuable skill for anyone in business or academia. In this course, LinkedIn Learning statistics and business analysis instructor Eddie Davila takes 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835) | 3h 24m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eddie Davila]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Sampling** (3 videos)
+- **3. 2. Confidence Intervals** (3 videos)
+- **4. 3. Hypothesis Tests** (5 videos)
+- **5. 4. Comparing Two Populations** (3 videos)
+- **6. 5. ANOVA: Analysis of Variance** (2 videos)
+- **7. 6. Regression** (3 videos)
+- **8. 7. Simulation** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using Excel for statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980)
@@ -189,7 +198,7 @@ In this course, LinkedIn Learning statistics and business analysis instructor Ed
 > **Speakers:** - [lecturer] (1)
 
 
-### 1. Sampling
+### 2. 1. Sampling
 
 #### Sample considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980)
@@ -925,7 +934,7 @@ In this course, LinkedIn Learning statistics and business analysis instructor Ed
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Confidence Intervals
+### 3. 2. Confidence Intervals
 
 #### Introduction to confidence intervals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/introduction-to-confidence-intervals?u=76281980)
@@ -1552,7 +1561,7 @@ In this course, LinkedIn Learning statistics and business analysis instructor Ed
 > **Analogies:** similar to (1)
 
 
-### 3. Hypothesis Tests
+### 4. 3. Hypothesis Tests
 
 #### How to test a hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/how-to-test-a-hypothesis?u=76281980)
@@ -2448,7 +2457,7 @@ In this course, LinkedIn Learning statistics and business analysis instructor Ed
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Comparing Two Populations
+### 5. 4. Comparing Two Populations
 
 #### Explanation of two population comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/explanation-of-two-population-comparisons?u=76281980)
@@ -3051,7 +3060,7 @@ In this course, LinkedIn Learning statistics and business analysis instructor Ed
 > **Analogies:** just like (1)
 
 
-### 5. ANOVA: Analysis of Variance
+### 6. 5. ANOVA: Analysis of Variance
 
 #### ANOVA: What is analysis of variance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/anova-what-is-analysis-of-variance?u=76281980)
@@ -3610,7 +3619,7 @@ In this course, LinkedIn Learning statistics and business analysis instructor Ed
 > **Analogies:** just like (1)
 
 
-### 6. Regression
+### 7. 6. Regression
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-is-regression?u=76281980)
@@ -4099,7 +4108,7 @@ In this course, LinkedIn Learning statistics and business analysis instructor Ed
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Simulation
+### 8. 7. Simulation
 
 #### What are simulations?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-are-simulations?u=76281980)
@@ -4569,7 +4578,7 @@ In this course, LinkedIn Learning statistics and business analysis instructor Ed
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Continue learning Excel statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980)
@@ -4599,6 +4608,10 @@ In this course, LinkedIn Learning statistics and business analysis instructor Ed
 > **Env Vars:** anova (1), spss (1)
 > **Speakers:** - congrats (1)
 
+
+## Instructor
+
+- [[Eddie Davila]]
 
 ## Path Context
 

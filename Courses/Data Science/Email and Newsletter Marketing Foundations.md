@@ -31,8 +31,10 @@ tags:
   - topic/data-science
   - skill/email-marketing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Email%20and%20Newsletter%20Marketing%20Foundations.md)
 
 ![Email and Newsletter Marketing Foundations](https://media.licdn.com/dms/image/v2/C560DAQFIvPWor5KA0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567137323251?e=2147483647&amp;v=beta&amp;t=QlXpYR9H-s8dyspqX87IAtPGq2ZMm2C04ZogcfjqF64)
 
@@ -43,21 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations) | 43m | Beginner | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Megan Adams]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Email Marketing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Overview** (2 videos)
+- **3. 2. Basics** (2 videos)
+- **4. 3. Contacts and Lists** (2 videos)
+- **5. 4. An Effective Email Strategy** (4 videos)
+- **6. 5. Success with Analytics** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?u=76281980)
@@ -105,7 +105,7 @@ created: 2026-04-21
 > **Speakers:** - e (1)
 
 
-### 1. Overview
+### 2. 1. Overview
 
 #### Defining email marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980)
@@ -231,7 +231,7 @@ created: 2026-04-21
 > **Speakers:** - whether (1)
 
 
-### 2. Basics
+### 3. 2. Basics
 
 #### Adding email to your marketing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980)
@@ -395,7 +395,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Contacts and Lists
+### 4. 3. Contacts and Lists
 
 #### Maintaining healthy email lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/maintaining-healthy-email-lists?u=76281980)
@@ -558,7 +558,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### 4. An Effective Email Strategy
+### 5. 4. An Effective Email Strategy
 
 #### Creating a good strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-a-good-strategy?u=76281980)
@@ -947,7 +947,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 5. Success with Analytics
+### 6. 5. Success with Analytics
 
 #### Using metrics in email marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/using-metrics-in-email-marketing?u=76281980)
@@ -1137,7 +1137,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980)
@@ -1165,6 +1165,18 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Megan Adams]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Email Marketing
 
 ## Path Context
 

@@ -32,8 +32,10 @@ tags:
   - skill/wordpress
   - skill/internationalization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/WordPress-%20Internationalization.md)
 
 ![WordPress: Internationalization](https://media.licdn.com/dms/image/v2/D560DAQHr1McQUIAbgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684865080588?e=2147483647&amp;v=beta&amp;t=DMqSK2RhbddDqPCR86CGysMWHdYjGLQarTsNaGo0lxI)
 
@@ -44,23 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157) | 1h 22m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Carrie Dils]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/wordpress-internationalization-3266041)
-
-## Skills Covered
-
-- WordPress
-- Internationalization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introducing Internationalization** (3 videos)
+- **3. 2. Internationalization Concepts** (3 videos)
+- **4. 3. Working with Translation Functions in PHP** (6 videos)
+- **5. 4. Working with Translation Functions in JavaScript** (3 videos)
+- **6. 5. Make a Plugin Translation-Ready** (10 videos)
+- **7. 6. Advanced Concepts** (3 videos)
+- **8. 7. Contributing to Open Source** (2 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### WordPress internationalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/wordpress-internationalization?u=76281980)
@@ -172,7 +172,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Introducing Internationalization
+### 2. 1. Introducing Internationalization
 
 #### What is internationalization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980)
@@ -324,7 +324,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Internationalization Concepts
+### 3. 2. Internationalization Concepts
 
 #### What is gettext?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-gettext?u=76281980)
@@ -518,7 +518,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Working with Translation Functions in PHP
+### 4. 3. Working with Translation Functions in PHP
 
 #### Translating strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980)
@@ -956,7 +956,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Working with Translation Functions in JavaScript
+### 5. 4. Working with Translation Functions in JavaScript
 
 #### Including wp-i18n
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/including-wp-i18n?u=76281980)
@@ -1054,7 +1054,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Make a Plugin Translation-Ready
+### 6. 5. Make a Plugin Translation-Ready
 
 #### Introducing the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980)
@@ -1788,7 +1788,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 6. Advanced Concepts
+### 7. 6. Advanced Concepts
 
 #### Automating text domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980)
@@ -1903,7 +1903,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Contributing to Open Source
+### 8. 7. Contributing to Open Source
 
 #### Translating for WordPress with GlotPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-for-wordpress-with-glotpress?u=76281980)
@@ -1970,7 +1970,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### What next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-next?u=76281980)
@@ -1996,6 +1996,20 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Carrie Dils]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/wordpress-internationalization-3266041)
+
+## Skills Covered
+
+- WordPress
+- Internationalization
 
 ## Path Context
 

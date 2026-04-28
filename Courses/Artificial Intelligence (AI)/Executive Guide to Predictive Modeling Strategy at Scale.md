@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/predictive-modeling
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Executive%20Guide%20to%20Predictive%20Modeling%20Strategy%20at%20Scale.md)
 
 ![Executive Guide to Predictive Modeling Strategy at Scale](https://media.licdn.com/dms/image/v2/C560DAQEZ9BpB52FHPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567800423045?e=2147483647&amp;v=beta&amp;t=ckrFgDiJ9cwJIkjjRH2fn412NP8SMXOXrFdxAOPYIek)
 
@@ -45,19 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale) | 1h 2m | Beginner | 105K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-- Predictive Modeling
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Phases of a Machine Learning Project** (4 videos)
+- **3. 2. Designing a Machine Learning Dataset** (6 videos)
+- **4. 3. Data Prep Challenges** (4 videos)
+- **5. 4. Chapter Name** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Scaling machine learning initiatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/scaling-machine-learning-initiatives-23239794?u=76281980)
@@ -125,7 +126,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Phases of a Machine Learning Project
+### 2. 1. The Phases of a Machine Learning Project
 
 #### Data and supervised machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980)
@@ -426,7 +427,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Designing a Machine Learning Dataset
+### 3. 2. Designing a Machine Learning Dataset
 
 #### How much data do I need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/how-much-data-do-i-need?u=76281980)
@@ -823,7 +824,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Prep Challenges
+### 4. 3. Data Prep Challenges
 
 #### Data and the data scientist
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980)
@@ -1016,7 +1017,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Chapter Name
+### 5. 4. Chapter Name
 
 #### Understanding the modeling process
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980)
@@ -1406,7 +1407,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continuing your predictive modeling journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980)
@@ -1433,6 +1434,16 @@ created: 2026-04-21
 >
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
+- Predictive Modeling
 
 ## Path Context
 

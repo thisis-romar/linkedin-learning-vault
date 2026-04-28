@@ -3,354 +3,370 @@ type: skill
 cssclasses:
   - lle-skill
 course_count: 339
+level_beginner: 72
+level_intermediate: 156
+level_advanced: 41
 tags:
   - skill
   - skill/artificial-intelligence-ai
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Artificial%20Intelligence%20(AI).md)
 
 # Artificial Intelligence (AI)
 
-> 339 courses teach this skill
+> 339 courses · Beginner: 72 · Intermediate: 156 · Advanced: 41
 
 ## Courses
 
-- [[A Content Marketer's Guide to Responsible AI]]
-- [[A Practical Guide to Upskilling Your Organization on AI]]
-- [[AI Accountability- Build Responsible and Transparent Systems]]
-- [[AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation]]
-- [[AI Chat Prompts for Business Analysis]]
-- [[AI Cheat Sheet for Business Leaders]]
-- [[AI Data Governance, Compliance, and Auditing for Developers]]
-- [[AI Data Strategy- Data Procurement and Storage]]
-- [[AI Foundations- Ideating and Prototyping]]
-- [[AI Orchestration- Designing the Prototype Architecture and Data Strategy]]
-- [[AI Orchestration- Developing and Testing Your AI Prototype]]
-- [[AI Orchestration- Foundations]]
-- [[AI Orchestration- Planning and Orchestrating for Observability]]
-- [[AI Orchestration- Validation and User Feedback and Performance Metrics]]
-- [[AI Pair Programming with GitHub Copilot]]
-- [[AI Pricing and ROI- A Technical Breakdown]]
-- [[AI Product Development- Secure by Design]]
-- [[AI Product Development- Technical Feasibility and Prototyping]]
-- [[AI Product Ideation- Principles and Practical Applications]]
-- [[AI Product Security- Building Strong Data Governance and Protection]]
-- [[AI Product Security- Foundations and Proactive Security for AI]]
-- [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]]
-- [[AI Programming for JavaScript Developers]]
-- [[AI Text Summarization with Hugging Face]]
-- [[AI Workshop- Build a Neural Network with PyTorch Lightning]]
-- [[AI Workshop- Build a Neural Network with PyTorch Lightning (2023)]]
-- [[AI Workshop- Hands-on with GANs Using Dense Neural Networks (2023)]]
-- [[AI Workshop- Hands-on with GANs with Deep Convolutional Networks]]
-- [[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]]
-- [[AI in Action- Global Case Studies from Public Institutions]]
-- [[AI in Business Essential Training]]
-- [[AI in Cybersecurity- The Future of Red Teaming and Blue Teaming]]
-- [[Adobe Firefly Essential Training (2024)]]
-- [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]]
-- [[Advanced Gemini for Developers]]
-- [[Advanced LLMOps- Deploying and Managing LLMs in Production]]
-- [[Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications]]
-- [[Advanced Nlp With Python For Machine Learning]]
-- [[Advanced Prompting With Github Copilot]]
-- [[Advanced Python Projects- Build AI Applications]]
-- [[Advanced Python in Excel- Machine Learning]]
-- [[Advanced RAG Applications with Vector Databases]]
-- [[Agentic AI Fundamentals- Architectures, Frameworks, and Applications]]
-- [[Agentic AI for Developers- Concepts and Application for Enterprises]]
-- [[Agentic AI- Building Data-First AI Agents]]
-- [[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]]
-- [[Ai And Developer Productivity]]
-- [[An Introduction to AI and Sustainability]]
-- [[Applications of Generative AI in Learning and Development]]
-- [[Applied AI- Building NLP Apps with Hugging Face Transformers]]
-- [[Applied Machine Learning Ensemble Learning]]
-- [[Apply Ethical AI Principles Using the Responsible AI Dashboard]]
-- [[Artificial Intelligence Case Studies in Different Business Industries]]
-- [[Artificial Intelligence Foundations Thinking Machines]]
-- [[Artificial Intelligence Foundations- Machine Learning]]
-- [[Artificial Intelligence Foundations- Neural Networks]]
-- [[Artificial Intelligence and Application Security]]
-- [[Azure AI Engineering- Speech, Language, and Vision Solutions]]
-- [[Azure AI for Developers- Azure AI Speech]]
-- [[Azure AI for Developers- Building AI Agents]]
-- [[Azure AI for Developers- Content Safety and Responsible AI]]
-- [[Azure AI for Developers- LLMs and SLMs]]
-- [[Azure AI for Developers- OpenAI Services and Generative AI Models]]
-- [[Azure AI- The Big Picture]]
-- [[Azure Ai For Developers Ai Design Foundations]]
-- [[Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI]]
-- [[Better Relationships and More Sales- Using ChatGPT to Sell]]
-- [[Big Data in the Age of AI]]
-- [[Build Ai Agents And Automate Workflows With N8n]]
-- [[Build Your Generative AI Plan for Marketing Success]]
-- [[Build a Document Search Assistant with Node and OpenAI's Assistants API]]
-- [[Build a JavaScript AI App with React and the OpenAI API]]
-- [[Build an AI Application with React and AWS SageMaker]]
-- [[Build an Image Captioning Tool for Visually Impaired Users with Gemini]]
-- [[Building Advanced AI Apps with Prompt Flow]]
-- [[Building Blocks for Deep Learning in the Wolfram Language]]
-- [[Building Generative AI Apps to Talk to Your Data]]
-- [[Building Intelligent Chatbots on AWS]]
-- [[Building NLP Pipelines with spaCy]]
-- [[Building PHP Applications with Generative AI]]
-- [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]]
-- [[Building a Generative AI Tech Strategy]]
-- [[Building a Project with the ChatGPT API]]
-- [[Building a Responsible AI Program- Context, Culture, Content, and Commitment]]
-- [[Building a Video Transcriber with Node.js and Google AI Speech-To-Text API]]
-- [[Building in Azure AI Foundry]]
-- [[Building with Google Gemini Advanced and Ultra]]
-- [[Built-in Machine Learning in the Wolfram Language]]
-- [[Capstone- Building Production Features with Copilot]]
-- [[ChatGPT and SQL]]
-- [[ChatGPT- Crafting Exceptional GPTs for Enhanced Productivity and Innovation]]
-- [[ChatGPT- Perfecting Your Output with Templates in Prompts]]
-- [[ChatGPT- Publishing GPTs on the GPT Store]]
-- [[Complete Guide to Data Lakes and Lakehouses]]
-- [[Complete Guide to Excel Statistics with Copilot]]
-- [[Complete Guide to NLP with R]]
-- [[Compliance and Regulations for Generative AI]]
-- [[Copilot Agents- Build Your Own AI Assistant in Copilot and Teams (No Code Required) (February 2025)]]
-- [[Copilot in Outlook- Maximize Your Workday Efficiency (2025)]]
-- [[Copilot in PowerPoint- From Prompt to Presentation (2024)]]
-- [[Copilot in Teams- AI-Powered Collaboration]]
-- [[Copilot in Word- Create and Refine Documents with AI]]
-- [[Creating a Book Search Engine from Scratch Using Java and GitHub Copilot]]
-- [[Cybersecurity Awareness- AI]]
-- [[Data Integration And Api Development For Ai Applications]]
-- [[Data Planning Strategy And Compliance For Ai Initiatives]]
-- [[Data Preparation, Feature Engineering, and Augmentation for AI Models]]
-- [[Data Versioning, Lineage, and Quality Monitoring for AI]]
-- [[Data-Centric AI- Best Practices, Responsible AI, and More]]
-- [[Deep Learning Getting Started]]
-- [[Deep Learning with Python- Convolutional Neural Networks]]
-- [[Deep Learning with Python- Optimizing Deep Learning Models]]
-- [[Deep Learning with TensorFlow- Insights and Innovations]]
-- [[Deep Learning- Model Optimization and Tuning (2022)]]
-- [[Designing Agentic AI Products (No Code Required)]]
-- [[Developing A Learning Mindset In The Age Of Ai]]
-- [[Ethical Data Collection for AI Implementation]]
-- [[Ethics in the Age of Generative AI]]
-- [[Executive Guide to AutoML]]
-- [[Executive Guide to Deploying, Monitoring, and Maintaining Models]]
-- [[Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation]]
-- [[Executive Guide to Predictive Modeling Strategy at Scale]]
-- [[Exploring AI Workflows within Figma Design]]
-- [[Exploring AIOps]]
-- [[Exploring Million-Token Models with Google Gemini Pro 1.5]]
-- [[Exploring the Future of Development with GitHub Copilot Workspace]]
-- [[Finding Creativity in the Age of AI]]
-- [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]]
-- [[Fine-Tuning for LLMs- from Beginner to Advanced]]
-- [[Foundations Of Responsible Ai]]
-- [[From Tool to Teammates- Working Smarter with AI]]
-- [[Fundamentals of Agentic AI- Business Implications and Ethical Insights]]
-- [[GenAIOps Foundations]]
-- [[Generative AI Approaches to Business Challenges]]
-- [[Generative AI Imaging- What Creative Pros Need to Know]]
-- [[Generative AI UX Design with Uizard]]
-- [[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]]
-- [[Generative AI and Workplace Transformation]]
-- [[Generative AI for Business Leaders]]
-- [[Generative AI for Data Engineering- ChatGPT Power Tips]]
-- [[Generative AI in HR]]
-- [[Generative AI vs. Traditional AI]]
-- [[Generative AI, Recruiting, and Talent Acquisition]]
-- [[Generative AI-Powered Strategic Business Analysis]]
-- [[Generative AI- Introduction to Large Language Models]]
-- [[Generative AI- Working with Large Language Models]]
-- [[Generative Ai And Llmops Building Blocks And Applications]]
-- [[Generative Ai Skills For Creative Content Opportunities Issues And Ethics]]
-- [[Getting Hands-On with GPT Models- Tips and Tricks]]
-- [[Getting Started with Autonomous Agents in Copilot Studio (No Code Required)]]
-- [[Getting Started with the Google Gemini API]]
-- [[GitHub Copilot for System-Level Development]]
-- [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]]
-- [[Google Cloud Platform for Machine Learning Essential Training]]
-- [[Google Cloud Professional Machine Learning Engineer Cert Prep]]
-- [[Google Gemini For Developers]]
-- [[Governing Agentic Ai Systems By All Tech Is Human]]
-- [[Gpt Foundations Building Ai Powered Apps]]
-- [[GraphRAG Essential Training]]
-- [[Hands On Ai Build Your Own Gpts]]
-- [[Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js]]
-- [[Hands-On AI- Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)]]
-- [[Hands-On AI- Image Processing with Python]]
-- [[Hands-On AI- RAG using LlamaIndex]]
-- [[Hands-On Natural Language Processing]]
-- [[Hands-On OpenAI API- Building a Real-World Solution]]
-- [[Hands-On PyTorch Machine Learning]]
-- [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]]
-- [[How to Be an Agent Boss- Leading AI Agents at Work]]
-- [[How to Boost Your Productivity with AI Tools]]
-- [[How to Boost Your Productivity with AI Tools (2023)]]
-- [[How to Generate Marketing Leads with AI]]
-- [[ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard]]
-- [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]]
-- [[Implementing a Data Strategy for Responsible AI]]
-- [[Integrating AI into the Product Architecture]]
-- [[Integrating Generative AI into JavaScript Web Projects]]
-- [[Introduction To Ai Native Vector Databases]]
-- [[Introduction To Artificial Intelligence]]
-- [[Introduction To Machine Learning With Knime]]
-- [[Introduction to AI Governance]]
-- [[Introduction to AWS AI Services for Developers]]
-- [[Introduction to Agentic AI- Getting Started with AutoGen Studio]]
-- [[Introduction to Attention-Based Neural Networks]]
-- [[Introduction to Auditing AI Systems]]
-- [[Introduction to Gen AI with Snowflake]]
-- [[Introduction to Generative AI with GPT]]
-- [[Introduction to Generative Adversarial Networks (GANs)]]
-- [[Introduction to Large Language Models]]
-- [[Introduction to MLSecOps]]
-- [[Introduction to Multimodal Prompting for Generative AI]]
-- [[Introduction to NLP and LLMs- Principles and Practical Applications]]
-- [[Knowledge Graph Data Engineering for Generative AI Use Cases]]
-- [[LLM Foundations- Building Effective Applications for Enterprises]]
-- [[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]]
-- [[LLMOps in Practice- A Deep Dive]]
-- [[Leading Talent Development In The Era Of Ai]]
-- [[Leading Through AI Agent Disruption]]
-- [[Leading With A Digital Mindset In The Age Of Ai]]
-- [[Leading with Generative AI- Master Change Management for Success]]
-- [[Leading with Innovation in the Age of AI]]
-- [[Learning AI for Business Analysis]]
-- [[Learning ChatGPT for Business Analysis]]
-- [[Learning Microsoft 365 Copilot for Work]]
-- [[Learning Microsoft 365 Copilot for Work (2024)]]
-- [[Learning Vertex AI- MLOps with Google Cloud]]
-- [[Learning XAI- Explainable Artificial Intelligence]]
-- [[Leveraging AI for Security Testing]]
-- [[Leveraging AI in Adobe Photoshop and Creative Cloud (2023)]]
-- [[Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope]]
-- [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]]
-- [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]]
-- [[LinkedIn AI Academy AI-100- 2 Supervised Learning with Neural Networks]]
-- [[LinkedIn AI Academy AI-100- 3 Scaling AI at LinkedIn]]
-- [[Linkedin Ai Academy Ai 100 1 Demystifying Ai]]
-- [[MLOps Essentials- Model Deployment and Monitoring]]
-- [[MLOps Essentials- Model Development and Integration]]
-- [[MLOps Essentials- Monitoring Model Drift and Bias]]
-- [[MLOps Tools- MLflow and Hugging Face]]
-- [[MLOps and Data Pipeline Orchestration for AI Systems]]
-- [[Machine Learning & AI Foundations- Linear Regression]]
-- [[Machine Learning Foundations- Calculus]]
-- [[Machine Learning Foundations- Linear Algebra]]
-- [[Machine Learning Foundations- Probability]]
-- [[Machine Learning Foundations- Statistics]]
-- [[Machine Learning and AI Foundations- Advanced Decision Trees with KNIME]]
-- [[Machine Learning and AI Foundations- Causal Inference and Modeling]]
-- [[Machine Learning and AI Foundations- Classification Modeling]]
-- [[Machine Learning and AI Foundations- Clustering and Association]]
-- [[Machine Learning and AI Foundations- Decision Trees with KNIME]]
-- [[Machine Learning and AI Foundations- Decision Trees with SPSS]]
-- [[Machine Learning and AI Foundations- Prediction, Causation, and Statistical Inference]]
-- [[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]]
-- [[Machine Learning and AI- Advanced Decision Trees with SPSS]]
-- [[Machine Learning with Logistic Regression in Excel, R, and Power BI]]
-- [[Machine Learning with Python- Association Rules]]
-- [[Machine Learning with Python- Decision Trees]]
-- [[Machine Learning with Python- Foundations]]
-- [[Machine Learning with Python- Logistic Regression]]
-- [[Machine Learning with Python- k-Means Clustering]]
-- [[Mastering AI Tools for Efficient C- Development]]
-- [[Microsoft 365 Copilot- Helpful Tips for Sales Professionals]]
-- [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]]
-- [[Midjourney- Tips and Techniques for Creating Images]]
-- [[Model Context Protocol (MCP)- Hands-On with Agentic AI]]
-- [[Multimodal Prompting with Google's Project Gemini]]
-- [[Nano Tips For Marketing Using AI Tools with Sam Dey]]
-- [[Nano Tips for Using ChatGPT for Marketers with Ross Simmonds]]
-- [[Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna Yung]]
-- [[Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy]]
-- [[Navigating AI Through an Intersectional DEI Lens]]
-- [[Navigating the EU AI Act]]
-- [[OpenAI API- Code Interpreter and Advanced Data Analysis]]
-- [[OpenAI API- Embeddings]]
-- [[OpenAI API- Fine-Tuning]]
-- [[OpenAI API- Function Calling (2023)]]
-- [[OpenAI API- Image Generation with DALL-E]]
-- [[OpenAI API- Moderation]]
-- [[OpenAI API- Speech]]
-- [[OpenAI API- Vision]]
-- [[OpenAI API- Working with Files]]
-- [[Openai Api Introduction]]
-- [[Openai Chatgpt Creating Custom Gpts]]
-- [[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]]
-- [[Organizational Leadership in the Era of AI]]
-- [[Power BI- Integrating AI]]
-- [[Power BI- Working Together with ChatGPT]]
-- [[Practical GitHub Copilot]]
-- [[Preparing Your Organization For Ai Agents]]
-- [[Preparing for the EU AI Act- A Conversation with Jon Adams]]
-- [[Principles of Responsible AI- Identifying, Understanding, and Mitigating Risks by All Tech Is Human]]
-- [[Programming with the Gemini Flash API]]
-- [[Prompt Engineering With Gemini]]
-- [[Prompt Engineering and AI Agents with ChatGPT]]
-- [[Prompt Engineering with Gemini (2024)]]
-- [[Prompt Engineering with LangChain]]
-- [[Prompt Engineering- How to Talk to the AIs]]
-- [[Prompting ChatGPT with Multimodal Techniques]]
-- [[Python For Data Science And Machine Learning Essential Training Part]]
-- [[Python for Data Science and Machine Learning Essential Training Part 2]]
-- [[RAG Fine-Tuning- Advanced Techniques for Accuracy and Model Performance]]
-- [[RAG and Fine-Tuning Explained]]
-- [[RAG for Cybersecurity- Use Cases and Implementation]]
-- [[Refactoring with GitHub Copilot]]
-- [[Reinforcement Learning Foundations]]
-- [[Responsible AI Development with GitHub Copilot]]
-- [[Responsible AI Framework for Your Enterprise AI Product]]
-- [[Responsible AI and Application Development]]
-- [[Responsible AI to the Rescue]]
-- [[Responsible AI- Global Risks, Governance, and Human Oversight]]
-- [[Responsible AI- Principles and Practical Applications]]
-- [[Responsible GitHub Copilot- Creating Reliable Code Ethically]]
-- [[Rpa Ai And Cognitive Tech For Leaders]]
-- [[Sales Strategy Using Ai And Automation To Sell More]]
-- [[Sales Strategy- Key Account Growth with AI]]
-- [[Scalable Data Storage and Processing for AI Workloads]]
-- [[Scaling Generative AI- Building a Strategy for Adoption and Expansion]]
-- [[Secure Data Management for AI Implementation]]
-- [[Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)]]
-- [[Semantic Search and Information Retrieval using GenAI]]
-- [[Software Testing Assistance with GitHub Copilot AI]]
-- [[Stable Diffusion- Tips, Tricks, and Techniques]]
-- [[Strengthen Your Decision-Making with Generative AI]]
-- [[TensorFlow- Working with NLP]]
-- [[The AI Ecosystem for Developers- Models, Datasets, and APIs]]
-- [[The AI-Driven Cybersecurity Analyst]]
-- [[The AI-Driven Sales Professional- Streamline Systems and Exceed Targets]]
-- [[The Ai Driven Product Designer]]
-- [[The Future of Workforce Learning- AI-Powered Personalization for Skill Development]]
-- [[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]]
-- [[The State of AI and Copyright]]
-- [[Threat Modeling for AI-ML Systems]]
-- [[Top Ten AI Prompts]]
-- [[Training Neural Networks in Python]]
-- [[Transforming Business with AI Agents- Autonomous Efficiency and Decision-Making]]
-- [[UX for AI- Design Practices for AI Developers]]
+- [[A Practical Guide to Upskilling Your Organization on AI]] — 28m · 2,608,329 learners
+- [[Building Intelligent Chatbots on AWS]] — Advanced · 1h 13m · 2,608,329 learners
+- [[Building a Project with the ChatGPT API]] — Intermediate · 1h 56m · 2,608,329 learners
+- [[Building a Video Transcriber with Node.js and Google AI Speech-To-Text API]] — Intermediate · 1h 9m · 2,608,329 learners
+- [[Building with Google Gemini Advanced and Ultra]] — 15m · 2,608,329 learners
+- [[Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation]] — Beginner · 1h 2m · 2,608,329 learners
+- [[Generative AI in HR]] — Intermediate · 46m · 2,608,329 learners
+- [[Generative AI vs. Traditional AI]] — Intermediate · 1h 17m · 2,608,329 learners
+- [[Introduction To Artificial Intelligence]] — Beginner · 2,608,329 learners
+- [[Scaling Generative AI- Building a Strategy for Adoption and Expansion]] — 28m · 2,608,329 learners
+- [[The State of AI and Copyright]] — 50m · 2,608,329 learners
+- [[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]] — 1h 5m · 726,358 learners
+- [[Apply Ethical AI Principles Using the Responsible AI Dashboard]] — Beginner · 35m · 726,358 learners
+- [[Ethical Data Collection for AI Implementation]] — Intermediate · 53m · 726,358 learners
+- [[Generative AI and Workplace Transformation]] — 27m · 726,358 learners
+- [[Generative AI- Introduction to Large Language Models]] — Beginner · 1h 36m · 726,358 learners
+- [[UX for AI- Design Practices for AI Developers]] — Advanced · 59m · 726,358 learners
+- [[Multimodal Prompting with Google's Project Gemini]] — Beginner · 15m · 626,639 learners
+- [[Prompt Engineering and AI Agents with ChatGPT]] — 27m · 626,639 learners
+- [[Artificial Intelligence Case Studies in Different Business Industries]] — Intermediate · 59m · 612,000 learners
+- [[Introduction to Generative AI with GPT]] — Beginner · 1h 5m · 612,000 learners
+- [[Leading With A Digital Mindset In The Age Of Ai]] — Intermediate · 612,000 learners
+- [[Prompt Engineering- How to Talk to the AIs]] — Beginner · 29m · 612,000 learners
+- [[Prompting ChatGPT with Multimodal Techniques]] — Beginner · 23m · 552,973 learners
+- [[Responsible AI to the Rescue]] — Beginner · 24m · 552,973 learners
+- [[Using AI in Research Projects]] — 25m · 552,973 learners
+- [[Generative AI, Recruiting, and Talent Acquisition]] — Beginner · 33m · 530,562 learners
+- [[Introduction to AI Governance]] — Beginner · 59m · 530,562 learners
+- [[How to Generate Marketing Leads with AI]] — 26m · 381,883 learners
+- [[AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation]] — 1h 37m · 349,985 learners
+- [[Generative AI for Business Leaders]] — Intermediate · 1h 17m · 349,985 learners
+- [[Compliance and Regulations for Generative AI]] — 40m · 334,419 learners
+- [[Ethics in the Age of Generative AI]] — Beginner · 45m · 334,419 learners
+- [[Introduction to Auditing AI Systems]] — Beginner · 1h 19m · 334,419 learners
+- [[Copilot in Outlook- Maximize Your Workday Efficiency (2025)]] — 21m · 297,955 learners
+- [[Copilot in Word- Create and Refine Documents with AI]] — 27m · 249,973 learners
+- [[Rpa Ai And Cognitive Tech For Leaders]] — Beginner · 229,949 learners
+- [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]] — Intermediate · 1h 46m · 218,744 learners
+- [[Machine Learning Foundations- Calculus]] — Beginner · 1h 31m · 207,068 learners
+- [[Machine Learning with Python- Association Rules]] — Intermediate · 1h 27m · 207,068 learners
+- [[Machine Learning with Python- Decision Trees]] — Intermediate · 1h 14m · 207,068 learners
+- [[Machine Learning with Python- Logistic Regression]] — Intermediate · 1h 19m · 207,068 learners
+- [[Machine Learning with Python- k-Means Clustering]] — Intermediate · 50m · 207,068 learners
+- [[Exploring AIOps]] — Beginner · 18m · 204,042 learners
+- [[Strengthen Your Decision-Making with Generative AI]] — 54m · 197,178 learners
+- [[Using Generative AI Ethically at Work]] — 1h 9m · 197,178 learners
+- [[Cybersecurity Awareness- AI]] — Beginner · 39m · 185,174 learners
+- [[Complete Guide to Excel Statistics with Copilot]] — Advanced · 8h 33m · 174,443 learners
+- [[Copilot in PowerPoint- From Prompt to Presentation (2024)]] — Intermediate · 45m · 174,443 learners
+- [[Advanced LLMOps- Deploying and Managing LLMs in Production]] — Advanced · 1h 45m · 169,684 learners
+- [[Ai And Developer Productivity]] — Intermediate · 163,122 learners
+- [[Navigating the EU AI Act]] — Intermediate · 1h 22m · 145,702 learners
+- [[Navigating AI Through an Intersectional DEI Lens]] — Intermediate · 42m · 145,559 learners
+- [[How to Boost Your Productivity with AI Tools (2023)]] — 1h · 140,397 learners
+- [[Build Your Generative AI Plan for Marketing Success]] — Beginner · 53m · 133,329 learners
+- [[ChatGPT and SQL]] — Intermediate · 1h 23m · 127,154 learners
+- [[Leveraging AI in Adobe Photoshop and Creative Cloud (2023)]] — 3h 48m · 123,799 learners
+- [[Azure AI for Developers- LLMs and SLMs]] — Intermediate · 1h 18m · 115,527 learners
+- [[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]] — Advanced · 1h 33m · 115,527 learners
+- [[An Introduction to AI and Sustainability]] — 41m · 112,663 learners
+- [[Python For Data Science And Machine Learning Essential Training Part]] — Intermediate · 109,538 learners
+- [[Python for Data Science and Machine Learning Essential Training Part 2]] — Intermediate · 5h 22m · 109,538 learners
+- [[AI Pricing and ROI- A Technical Breakdown]] — Intermediate · 3h 11m · 109,164 learners
+- [[Executive Guide to Predictive Modeling Strategy at Scale]] — Beginner · 1h 2m · 104,585 learners
+- [[Machine Learning and AI Foundations- Advanced Decision Trees with KNIME]] — Advanced · 1h 38m · 104,585 learners
+- [[Machine Learning and AI Foundations- Clustering and Association]] — Intermediate · 3h 33m · 104,585 learners
+- [[Machine Learning and AI- Advanced Decision Trees with SPSS]] — Advanced · 1h 23m · 104,585 learners
+- [[Advanced Nlp With Python For Machine Learning]] — Advanced · 104,232 learners
+- [[Generative Ai And Llmops Building Blocks And Applications]] — Advanced · 104,232 learners
+- [[Introduction to Large Language Models]] — Intermediate · 1h 17m · 104,232 learners
+- [[Leveraging AI for Security Testing]] — Intermediate · 1h 56m · 104,232 learners
+- [[OpenAI API- Fine-Tuning]] — 47m · 104,232 learners
+- [[Introduction to AWS AI Services for Developers]] — Beginner · 51m · 99,574 learners
+- [[Applications of Generative AI in Learning and Development]] — Beginner · 34m · 93,627 learners
+- [[Agentic AI Fundamentals- Architectures, Frameworks, and Applications]] — Beginner · 1h 15m · 92,358 learners
+- [[Artificial Intelligence Foundations- Machine Learning]] — Beginner · 1h 56m · 91,784 learners
+- [[Using AI as Your SEO Assistant]] — 59m · 91,345 learners
+- [[Leading Through AI Agent Disruption]] — Intermediate · 23m · 88,862 learners
+- [[Building Blocks for Deep Learning in the Wolfram Language]] — Advanced · 54m · 86,498 learners
+- [[Deep Learning- Model Optimization and Tuning (2022)]] — Advanced · 54m · 86,498 learners
+- [[Reinforcement Learning Foundations]] — Intermediate · 44m · 86,498 learners
+- [[Copilot Agents- Build Your Own AI Assistant in Copilot and Teams (No Code Required) (February 2025)]] — 34m · 84,180 learners
+- [[Getting Started with Autonomous Agents in Copilot Studio (No Code Required)]] — 34m · 84,180 learners
+- [[Learning Microsoft 365 Copilot for Work (2024)]] — 29m · 84,180 learners
+- [[Responsible GitHub Copilot- Creating Reliable Code Ethically]] — Beginner · 23m · 81,700 learners
+- [[Software Testing Assistance with GitHub Copilot AI]] — Intermediate · 1h 16m · 81,700 learners
+- [[Machine Learning and AI Foundations- Decision Trees with KNIME]] — Intermediate · 2h 4m · 79,555 learners
+- [[The AI-Driven Sales Professional- Streamline Systems and Exceed Targets]] — 49m · 77,772 learners
+- [[Build a JavaScript AI App with React and the OpenAI API]] — Advanced · 1h 59m · 73,199 learners
+- [[Finding Creativity in the Age of AI]] — 1h 1m · 68,777 learners
+- [[AI in Cybersecurity- The Future of Red Teaming and Blue Teaming]] — Intermediate · 40m · 66,048 learners
+- [[Artificial Intelligence and Application Security]] — Beginner · 50m · 66,048 learners
+- [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]] — Advanced · 2h 52m · 66,048 learners
+- [[AI Product Security- Foundations and Proactive Security for AI]] — Intermediate · 1h 42m · 63,376 learners
+- [[Artificial Intelligence Foundations Thinking Machines]] — Beginner · 62,657 learners
+- [[Machine Learning Foundations- Probability]] — Beginner · 1h 29m · 62,657 learners
+- [[Machine Learning Foundations- Statistics]] — Beginner · 1h 26m · 62,657 learners
+- [[Organizational Leadership in the Era of AI]] — Intermediate · 48m · 61,854 learners
+- [[LinkedIn AI Academy AI-100- 2 Supervised Learning with Neural Networks]] — Intermediate · 1h 9m · 59,987 learners
+- [[Agentic AI for Developers- Concepts and Application for Enterprises]] — Intermediate · 1h 31m · 58,414 learners
+- [[ChatGPT- Publishing GPTs on the GPT Store]] — 20m · 58,414 learners
+- [[Hands On Ai Build Your Own Gpts]] — Beginner · 58,414 learners
+- [[OpenAI API- Embeddings]] — Intermediate · 27m · 58,414 learners
+- [[From Tool to Teammates- Working Smarter with AI]] — Intermediate · 1h 46m · 56,778 learners
+- [[Using Generative Artificial Intelligence (AI) in Supply Chains]] — 24m · 55,663 learners
+- [[Leading with Generative AI- Master Change Management for Success]] — Intermediate · 49m · 55,646 learners
+- [[Machine Learning with Logistic Regression in Excel, R, and Power BI]] — Intermediate · 2h 49m · 52,410 learners
+- [[Nano Tips for Using ChatGPT for Marketers with Ross Simmonds]] — 10m · 51,362 learners
+- [[Developing A Learning Mindset In The Age Of Ai]] — 50,815 learners
+- [[How to Be an Agent Boss- Leading AI Agents at Work]] — 40m · 48,953 learners
+- [[Writing Great Content with Gen AI That Doesn't Sound Fake]] — 12m · 48,539 learners
+- [[Copilot in Teams- AI-Powered Collaboration]] — 21m · 48,474 learners
+- [[Machine Learning & AI Foundations- Linear Regression]] — Intermediate · 4h 5m · 45,821 learners
+- [[Machine Learning and AI Foundations- Decision Trees with SPSS]] — Intermediate · 1h 27m · 45,821 learners
+- [[AI Accountability- Build Responsible and Transparent Systems]] — Beginner · 3h 12m · 44,645 learners
+- [[Learning Microsoft 365 Copilot for Work]] — 49m · 44,330 learners
+- [[Mastering AI Tools for Efficient C- Development]] — Intermediate · 1h 4m · 44,046 learners
+- [[Prompt Engineering with LangChain]] — Intermediate · 5h 21m · 44,046 learners
+- [[Using AI Tools for UX Design]] — Intermediate · 1h 57m · 37,239 learners
+- [[Built-in Machine Learning in the Wolfram Language]] — Beginner · 19m · 36,360 learners
+- [[Learning ChatGPT for Business Analysis]] — 1h 5m · 36,307 learners
+- [[Machine Learning and AI Foundations- Causal Inference and Modeling]] — Advanced · 2h 51m · 36,246 learners
+- [[Machine Learning and AI Foundations- Prediction, Causation, and Statistical Inference]] — Intermediate · 2h 2m · 36,246 learners
+- [[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]] — Intermediate · 2h 14m · 36,246 learners
+- [[AI Workshop- Build a Neural Network with PyTorch Lightning]] — Intermediate · 1h 36m · 36,199 learners
+- [[Artificial Intelligence Foundations- Neural Networks]] — Beginner · 1h 56m · 35,685 learners
+- [[Deep Learning Getting Started]] — Intermediate · 35,685 learners
+- [[Hands-On AI- Image Processing with Python]] — Intermediate · 2h 10m · 35,685 learners
+- [[Hands-On PyTorch Machine Learning]] — Intermediate · 56m · 35,685 learners
+- [[Training Neural Networks in Python]] — Advanced · 2h 5m · 35,685 learners
+- [[The Future of Workforce Learning- AI-Powered Personalization for Skill Development]] — 36m · 33,725 learners
+- [[Generative AI Approaches to Business Challenges]] — 37m · 33,041 learners
+- [[RAG for Cybersecurity- Use Cases and Implementation]] — Advanced · 1h 10m · 32,492 learners
+- [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — Beginner · 2h 28m · 30,590 learners
+- [[AI Programming for JavaScript Developers]] — Advanced · 1h 55m · 30,350 learners
+- [[Advanced Python Projects- Build AI Applications]] — Advanced · 1h 47m · 30,071 learners
+- [[Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js]] — Intermediate · 1h 47m · 29,749 learners
+- [[GraphRAG Essential Training]] — Intermediate · 1h 39m · 29,611 learners
+- [[Introduction to Generative Adversarial Networks (GANs)]] — Beginner · 1h 1m · 29,611 learners
+- [[Advanced Python in Excel- Machine Learning]] — Advanced · 36m · 29,559 learners
+- [[What Is Generative AI-]] — Beginner · 1h 3m · 28,641 learners
+- [[Machine Learning Foundations- Linear Algebra]] — Intermediate · 1h 21m · 28,528 learners
+- [[Big Data in the Age of AI]] — Beginner · 2h 38m · 28,259 learners
+- [[Agentic AI- Building Data-First AI Agents]] — 43m · 27,831 learners
+- [[Hands-On AI- Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)]] — 1h 40m · 27,831 learners
+- [[Hands-On AI- RAG using LlamaIndex]] — Advanced · 6h 25m · 27,831 learners
+- [[Adobe Firefly Essential Training (2024)]] — 3h 48m · 27,010 learners
+- [[Generative Ai Skills For Creative Content Opportunities Issues And Ethics]] — 27,010 learners
+- [[Stable Diffusion- Tips, Tricks, and Techniques]] — 6h 13m · 27,010 learners
+- [[Generative AI-Powered Strategic Business Analysis]] — Intermediate · 58m · 25,060 learners
+- [[Using AI for Data-Driven Insights]] — Intermediate · 58m · 25,060 learners
+- [[Executive Guide to AutoML]] — Beginner · 1h 2m · 24,536 learners
+- [[Learning Vertex AI- MLOps with Google Cloud]] — Intermediate · 1h 38m · 24,536 learners
+- [[MLOps Essentials- Model Deployment and Monitoring]] — Intermediate · 1h 24m · 24,536 learners
+- [[MLOps Essentials- Monitoring Model Drift and Bias]] — Intermediate · 1h 5m · 24,536 learners
+- [[Applied AI- Building NLP Apps with Hugging Face Transformers]] — Intermediate · 57m · 24,490 learners
+- [[Building NLP Pipelines with spaCy]] — Advanced · 1h · 24,490 learners
+- [[AI Chat Prompts for Business Analysis]] — 48m · 23,903 learners
+- [[Power BI- Working Together with ChatGPT]] — Intermediate · 53m · 22,708 learners
+- [[RAG and Fine-Tuning Explained]] — 20m · 20,740 learners
+- [[Leading with Innovation in the Age of AI]] — Intermediate · 1h 44m · 20,360 learners
+- [[Transforming Business with AI Agents- Autonomous Efficiency and Decision-Making]] — Intermediate · 37m · 20,337 learners
+- [[Designing Agentic AI Products (No Code Required)]] — Intermediate · 1h 4m · 19,530 learners
+- [[Fundamentals of Agentic AI- Business Implications and Ethical Insights]] — 33m · 19,530 learners
+- [[Practical GitHub Copilot]] — Advanced · 1h · 19,165 learners
+- [[Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna Yung]] — 21m · 18,986 learners
+- [[AI in Business Essential Training]] — Intermediate · 1h 33m · 18,486 learners
+- [[Introduction To Machine Learning With Knime]] — Beginner · 18,486 learners
+- [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — Beginner · 18,238 learners
+- [[Introduction to Gen AI with Snowflake]] — Intermediate · 2h 21m · 18,065 learners
+- [[Machine Learning with Python- Foundations]] — Intermediate · 1h 54m · 17,929 learners
+- [[Introduction to Agentic AI- Getting Started with AutoGen Studio]] — Beginner · 1h 6m · 17,332 learners
+- [[Building a Generative AI Tech Strategy]] — Beginner · 31m · 17,022 learners
+- [[Vibe Code This Interactive Dashboard Tooling For Your Team]] — Beginner · 17,018 learners
+- [[Vibe Code This- AI-Powered Branded Infographics Tool]] — Beginner · 22m · 17,018 learners
+- [[Microsoft 365 Copilot- Helpful Tips for Sales Professionals]] — 20m · 16,449 learners
+- [[Exploring Million-Token Models with Google Gemini Pro 1.5]] — 18m · 16,429 learners
+- [[Google Cloud Platform for Machine Learning Essential Training]] — Beginner · 1h 35m · 16,429 learners
+- [[Programming with the Gemini Flash API]] — 19m · 16,429 learners
+- [[MLOps Essentials- Model Development and Integration]] — Intermediate · 1h 36m · 16,139 learners
+- [[Midjourney- Tips and Techniques for Creating Images]] — 2h 27m · 16,085 learners
+- [[Vector Databases in Practice- Deep Dive]] — Intermediate · 1h 50m · 15,873 learners
+- [[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]] — Beginner · 14,941 learners
+- [[How to Boost Your Productivity with AI Tools]] — 2h 14m · 14,941 learners
+- [[Responsible AI- Principles and Practical Applications]] — Beginner · 1h 17m · 14,779 learners
+- [[XAI and Interpretability in Cybersecurity]] — Advanced · 2h 22m · 14,779 learners
+- [[Azure Ai For Developers Ai Design Foundations]] — Beginner · 14,442 learners
+- [[AI Cheat Sheet for Business Leaders]] — 45m · 14,366 learners
+- [[Getting Hands-On with GPT Models- Tips and Tricks]] — Advanced · 49m · 14,050 learners
+- [[Hands-On OpenAI API- Building a Real-World Solution]] — Beginner · 59m · 14,050 learners
+- [[OpenAI API- Code Interpreter and Advanced Data Analysis]] — Intermediate · 42m · 14,050 learners
+- [[OpenAI API- Speech]] — Intermediate · 29m · 14,050 learners
+- [[AI Text Summarization with Hugging Face]] — Advanced · 2h 5m · 13,970 learners
+- [[Generative AI- Working with Large Language Models]] — Advanced · 1h 22m · 13,970 learners
+- [[Hands-On Natural Language Processing]] — Advanced · 50m · 13,970 learners
+- [[LLMOps in Practice- A Deep Dive]] — Intermediate · 4h 26m · 13,924 learners
+- [[Refactoring with GitHub Copilot]] — Intermediate · 1h 1m · 13,203 learners
+- [[AI Foundations- Ideating and Prototyping]] — Intermediate · 1h 2m · 13,002 learners
+- [[Preparing Your Organization For Ai Agents]] — Intermediate · 12,856 learners
+- [[RAG Fine-Tuning- Advanced Techniques for Accuracy and Model Performance]] — Advanced · 54m · 12,803 learners
+- [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — Intermediate · 3h 31m · 12,548 learners
+- [[OpenAI API- Image Generation with DALL-E]] — Intermediate · 24m · 12,474 learners
+- [[OpenAI API- Moderation]] — 14m · 12,474 learners
+- [[Openai Api Introduction]] — 12,474 learners
+- [[Openai Chatgpt Creating Custom Gpts]] — Intermediate · 12,474 learners
+- [[Foundations Of Responsible Ai]] — Intermediate · 12,472 learners
+- [[LinkedIn AI Academy AI-100- 3 Scaling AI at LinkedIn]] — Beginner · 1h 42m · 12,315 learners
+- [[Linkedin Ai Academy Ai 100 1 Demystifying Ai]] — Intermediate · 12,315 learners
+- [[Using AI for Executive Sales Presentations]] — Intermediate · 1h 1m · 11,087 learners
+- [[The AI-Driven Cybersecurity Analyst]] — Beginner · 32m · 11,039 learners
+- [[Threat Modeling for AI-ML Systems]] — Advanced · 57m · 11,039 learners
+- [[GenAIOps Foundations]] — Intermediate · 1h 19m · 10,999 learners
+- [[ChatGPT- Perfecting Your Output with Templates in Prompts]] — Intermediate · 34m · 10,972 learners
+- [[Introduction to MLSecOps]] — Intermediate · 1h 2m · 10,796 learners
+- [[Introduction to Attention-Based Neural Networks]] — Intermediate · 2h 11m · 10,057 learners
+- [[TensorFlow- Working with NLP]] — Intermediate · 41m · 10,057 learners
+- [[Complete Guide to NLP with R]] — Advanced · 5h 4m · 10,056 learners
+- [[Sales Strategy Using Ai And Automation To Sell More]] — Beginner · 9,375 learners
+- [[Building a Responsible AI Program- Context, Culture, Content, and Commitment]] — Beginner · 1h 29m · 9,370 learners
+- [[Responsible AI Framework for Your Enterprise AI Product]] — Intermediate · 45m · 9,370 learners
+- [[AI Pair Programming with GitHub Copilot]] — Beginner · 1h 32m · 9,284 learners
+- [[Using AI in the Design to Full-Stack Development Life Cycle]] — Intermediate · 1h 1m · 9,284 learners
+- [[Understanding and Implementing the NIST AI Risk Management Framework (RMF)]] — Intermediate · 1h 22m · 9,086 learners
+- [[Top Ten AI Prompts]] — 1h 43m · 8,873 learners
+- [[Advanced RAG Applications with Vector Databases]] — Advanced · 1h 18m · 8,856 learners
+- [[Introduction To Ai Native Vector Databases]] — Intermediate · 8,856 learners
+- [[LLM Foundations- Building Effective Applications for Enterprises]] — Advanced · 1h 43m · 8,856 learners
+- [[Introduction to Multimodal Prompting for Generative AI]] — Intermediate · 41m · 8,715 learners
+- [[Fine-Tuning for LLMs- from Beginner to Advanced]] — Advanced · 3h 25m · 8,349 learners
+- [[Exploring AI Workflows within Figma Design]] — 56m · 8,312 learners
+- [[Learning AI for Business Analysis]] — 1h 38m · 8,283 learners
+- [[Model Context Protocol (MCP)- Hands-On with Agentic AI]] — 55m · 8,237 learners
+- [[Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications]] — Advanced · 1h 47m · 8,169 learners
+- [[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]] — Beginner · 1h · 8,153 learners
+- [[Applied Machine Learning Ensemble Learning]] — Intermediate · 7,993 learners
+- [[Generative AI for Data Engineering- ChatGPT Power Tips]] — Intermediate · 1h 8m · 7,976 learners
+- [[Exploring the Future of Development with GitHub Copilot Workspace]] — 14m · 7,909 learners
+- [[Leading Talent Development In The Era Of Ai]] — 7,654 learners
+- [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — Beginner · 7,016 learners
+- [[Machine Learning and AI Foundations- Classification Modeling]] — Intermediate · 2h 5m · 6,739 learners
+- [[Deep Learning with TensorFlow- Insights and Innovations]] — Intermediate · 3h 6m · 6,680 learners
+- [[Governing Agentic Ai Systems By All Tech Is Human]] — Beginner · 6,581 learners
+- [[Nano Tips For Marketing Using AI Tools with Sam Dey]] — 14m · 6,483 learners
+- [[Sales Strategy- Key Account Growth with AI]] — Intermediate · 45m · 6,427 learners
+- [[AI Product Development- Secure by Design]] — Intermediate · 2h 27m · 6,407 learners
+- [[AI Orchestration- Foundations]] — Intermediate · 45m · 6,395 learners
+- [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — Beginner · 53m · 6,395 learners
+- [[Welcome To The Building Ai Products Understanding The Workflow Professional Certificate]] — 6,395 learners
+- [[AI Data Strategy- Data Procurement and Storage]] — Intermediate · 2h 27m · 6,387 learners
+- [[AI Product Development- Technical Feasibility and Prototyping]] — Intermediate · 2h 6m · 6,387 learners
+- [[Welcome To The Building Ai Products Prototyping Essentials Professional Certificate]] — Beginner · 6,387 learners
+- [[AI Product Security- Building Strong Data Governance and Protection]] — Intermediate · 1h 3m · 6,210 learners
+- [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — Intermediate · 2h 19m · 6,210 learners
+- [[ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard]] — Advanced · 1h 41m · 6,210 learners
+- [[Welcome To The Building Ai Products Security Essentials Professional Certificate]] — Intermediate · 6,210 learners
+- [[Better Relationships and More Sales- Using ChatGPT to Sell]] — Beginner · 45m · 6,097 learners
+- [[Introduction to NLP and LLMs- Principles and Practical Applications]] — Beginner · 1h 39m · 6,096 learners
+- [[Build a Document Search Assistant with Node and OpenAI's Assistants API]] — Intermediate · 2h 12m · 6,017 learners
+- [[Complete Guide to Data Lakes and Lakehouses]] — Advanced · 5h 39m · 6,009 learners
+- [[Power BI- Integrating AI]] — Intermediate · 3h 34m · 5,645 learners
+- [[AI Data Governance, Compliance, and Auditing for Developers]] — Intermediate · 1h 14m · 5,507 learners
+- [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — Intermediate · 1h 24m · 5,485 learners
+- [[Building PHP Applications with Generative AI]] — Intermediate · 1h 23m · 5,399 learners
+- [[Integrating Generative AI into JavaScript Web Projects]] — Intermediate · 2h 25m · 5,399 learners
+- [[Prompt Engineering with Gemini (2024)]] — Intermediate · 1h · 5,380 learners
+- [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — Intermediate · 1h 32m · 5,137 learners
+- [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — Intermediate · 1h 48m · 5,137 learners
+- [[Data Versioning, Lineage, and Quality Monitoring for AI]] — Intermediate · 1h 42m · 5,137 learners
+- [[Generative AI Imaging- What Creative Pros Need to Know]] — Beginner · 48m · 5,058 learners
+- [[OpenAI API- Function Calling (2023)]] — Intermediate · 17m · 4,986 learners
+- [[Azure AI Engineering- Speech, Language, and Vision Solutions]] — Intermediate · 1h 51m · 4,890 learners
+- [[Scalable Data Storage and Processing for AI Workloads]] — Intermediate · 1h 30m · 4,846 learners
+- [[OpenAI API- Vision]] — Intermediate · 30m · 4,799 learners
+- [[Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)]] — Beginner · 1h 11m · 4,692 learners
+- [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — Beginner · 4,680 learners
+- [[Build Ai Agents And Automate Workflows With N8n]] — 4,600 learners
+- [[AI Product Ideation- Principles and Practical Applications]] — Intermediate · 2h 6m · 4,570 learners
+- [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — Beginner · 36m · 4,508 learners
+- [[Build an AI Application with React and AWS SageMaker]] — Intermediate · 1h 12m · 4,435 learners
+- [[Data Integration And Api Development For Ai Applications]] — Intermediate · 4,435 learners
+- [[Prompt Engineering With Gemini]] — Intermediate · 4,178 learners
+- [[Preparing for the EU AI Act- A Conversation with Jon Adams]] — 37m · 4,136 learners
+- [[AI Workshop- Build a Neural Network with PyTorch Lightning (2023)]] — Intermediate · 1h 30m · 4,073 learners
+- [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]] — Beginner · 12m · 4,070 learners
+- [[Learning XAI- Explainable Artificial Intelligence]] — Intermediate · 2h 39m · 4,066 learners
+- [[Responsible AI and Application Development]] — Intermediate · 1h 37m · 4,066 learners
+- [[Welcome To The Building Ai Products Implementing Responsible Ai Professional Certificate]] — Beginner · 4,066 learners
+- [[AI Workshop- Hands-on with GANs Using Dense Neural Networks (2023)]] — Intermediate · 1h 24m · 3,859 learners
+- [[AI Workshop- Hands-on with GANs with Deep Convolutional Networks]] — Intermediate · 1h 36m · 3,859 learners
+- [[Data-Centric AI- Best Practices, Responsible AI, and More]] — Intermediate · 2h 50m · 3,859 learners
+- [[Executive Guide to Deploying, Monitoring, and Maintaining Models]] — Beginner · 57m · 3,859 learners
+- [[MLOps and Data Pipeline Orchestration for AI Systems]] — Intermediate · 1h 19m · 3,859 learners
+- [[Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI]] — Intermediate · 1h 54m · 3,810 learners
+- [[Building Generative AI Apps to Talk to Your Data]] — Intermediate · 2h 36m · 3,725 learners
+- [[Azure AI for Developers- Azure AI Speech]] — Intermediate · 55m · 3,666 learners
+- [[Advanced Gemini for Developers]] — Advanced · 1h 11m · 3,659 learners
+- [[Azure AI- The Big Picture]] — Beginner · 2h 5m · 3,564 learners
+- [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — Advanced · 3,554 learners
+- [[Creating a Book Search Engine from Scratch Using Java and GitHub Copilot]] — Intermediate · 2h 11m · 3,365 learners
+- [[Capstone- Building Production Features with Copilot]] — Advanced · 1h 8m · 3,298 learners
+- [[GitHub Copilot for System-Level Development]] — Advanced · 1h 7m · 3,298 learners
+- [[Implementing a Data Strategy for Responsible AI]] — Intermediate · 1h 30m · 3,112 learners
+- [[Integrating AI into the Product Architecture]] — Intermediate · 2h 20m · 3,112 learners
+- [[MLOps Tools- MLflow and Hugging Face]] — Intermediate · 5h 14m · 3,045 learners
+- [[The Ai Driven Product Designer]] — Intermediate · 2,970 learners
+- [[Deep Learning with Python- Convolutional Neural Networks]] — Intermediate · 1h 34m · 2,866 learners
+- [[Deep Learning with Python- Optimizing Deep Learning Models]] — Intermediate · 2h 1m · 2,866 learners
+- [[AI Orchestration- Designing the Prototype Architecture and Data Strategy]] — Intermediate · 1h 45m · 2,838 learners
+- [[OpenAI API- Working with Files]] — Intermediate · 36m · 2,764 learners
+- [[AI Orchestration- Developing and Testing Your AI Prototype]] — Intermediate · 58m · 2,763 learners
+- [[AI Orchestration- Planning and Orchestrating for Observability]] — Intermediate · 1h 53m · 2,763 learners
+- [[AI Orchestration- Validation and User Feedback and Performance Metrics]] — Intermediate · 2h 1m · 2,763 learners
+- [[Welcome To The Building Ai Products Architecture And Orchestration Professional Certificate]] — Intermediate · 2,763 learners
+- [[Gpt Foundations Building Ai Powered Apps]] — Beginner · 2,716 learners
+- [[Google Gemini For Developers]] — Intermediate · 2,614 learners
+- [[Generative AI UX Design with Uizard]] — Intermediate · 1h 16m · 2,589 learners
+- [[Advanced Prompting With Github Copilot]] — Advanced · 2,356 learners
+- [[Responsible AI Development with GitHub Copilot]] — Intermediate · 1h 2m · 2,356 learners
+- [[Secure Data Management for AI Implementation]] — Intermediate · 1h 2m · 2,273 learners
+- [[Data Planning Strategy And Compliance For Ai Initiatives]] — Intermediate · 2,172 learners
+- [[Knowledge Graph Data Engineering for Generative AI Use Cases]] — Intermediate · 1h 50m · 2,172 learners
+- [[Build an Image Captioning Tool for Visually Impaired Users with Gemini]] — Intermediate · 1h 7m · 1,938 learners
+- [[Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope]] — Beginner · 1h 13m · 1,919 learners
+- [[Semantic Search and Information Retrieval using GenAI]] — Intermediate · 1h 27m · 1,800 learners
+- [[Getting Started with the Google Gemini API]] — Intermediate · 1h 8m · 1,795 learners
+- [[A Content Marketer's Guide to Responsible AI]] — 23m · 1,732 learners
+- [[ChatGPT- Crafting Exceptional GPTs for Enhanced Productivity and Innovation]] — 2h 48m · 1,732 learners
+- [[Azure AI for Developers- OpenAI Services and Generative AI Models]] — Intermediate · 1h 5m · 1,631 learners
+- [[Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy]] — 48m · 1,536 learners
+- [[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]] — Intermediate · 1h 38m · 1,457 learners
+- [[Azure AI for Developers- Building AI Agents]] — Intermediate · 1h 53m · 1,414 learners
+- [[Azure AI for Developers- Content Safety and Responsible AI]] — Intermediate · 1h 48m · 1,414 learners
+- [[Building Advanced AI Apps with Prompt Flow]] — 35m · 1,011 learners
+- [[Building in Azure AI Foundry]] — Intermediate · 54m · 1,011 learners
+- [[AI in Action- Global Case Studies from Public Institutions]] — 41m
+- [[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]] — Beginner · 21m
+- [[Principles of Responsible AI- Identifying, Understanding, and Mitigating Risks by All Tech Is Human]] — Beginner · 26m
+- [[Responsible AI- Global Risks, Governance, and Human Oversight]] — 1h 39m
 - [[Understanding Ai S Global Impact Governance Equity And Responsibility]]
-- [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]]
-- [[Understanding Generative AI in Cloud Computing- Services and Use Cases]]
-- [[Understanding and Implementing the NIST AI Risk Management Framework (RMF)]]
-- [[Using AI Tools for UX Design]]
-- [[Using AI as Your SEO Assistant]]
-- [[Using AI for Data-Driven Insights]]
-- [[Using AI for Executive Sales Presentations]]
-- [[Using AI in Research Projects]]
-- [[Using AI in the Design to Full-Stack Development Life Cycle]]
-- [[Using Generative AI Ethically at Work]]
-- [[Using Generative Artificial Intelligence (AI) in Supply Chains]]
-- [[Vector Databases in Practice- Deep Dive]]
-- [[Vibe Code This Interactive Dashboard Tooling For Your Team]]
-- [[Vibe Code This- AI-Powered Branded Infographics Tool]]
-- [[Welcome To The Building Ai Products Architecture And Orchestration Professional Certificate]]
-- [[Welcome To The Building Ai Products Implementing Responsible Ai Professional Certificate]]
-- [[Welcome To The Building Ai Products Prototyping Essentials Professional Certificate]]
-- [[Welcome To The Building Ai Products Security Essentials Professional Certificate]]
-- [[Welcome To The Building Ai Products Understanding The Workflow Professional Certificate]]
-- [[What Is Generative AI-]]
-- [[Writing Great Content with Gen AI That Doesn't Sound Fake]]
-- [[XAI and Interpretability in Cybersecurity]]
+
+## Related Skills
+
+- [[Machine Learning]] — 47 shared courses
+- [[Generative AI]] — 39 shared courses
+- [[AI for Business]] — 38 shared courses
+- [[AI Software Development]] — 33 shared courses
+- [[Responsible AI]] — 30 shared courses
+- [[Large Language Models (LLM)]] — 24 shared courses
+- [[AI Agents]] — 20 shared courses
+- [[ChatGPT]] — 17 shared courses

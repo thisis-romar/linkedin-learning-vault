@@ -24,8 +24,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Object-Oriented%20Design.md)
 
 ![Programming Foundations: Object-Oriented Design](https://media.licdn.com/dms/image/v2/C4E0DAQF2DX4_GzNtiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567115269548?e=2147483647&amp;v=beta&amp;t=g5LmcVPdzhfW9lqHFYmnAiAN2xMN4TIjV779tiJVtb0)
 
@@ -36,14 +38,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3) | 3h 41m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Olivia Chiu Stone]]
-- [[Barron Stone]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Object-Oriented Fundamentals** (9 videos)
+- **3. 2. Requirements** (4 videos)
+- **4. 3. Use Cases and User Stories** (7 videos)
+- **5. 4. Domain Modeling** (6 videos)
+- **6. 5. Class Diagrams** (8 videos)
+- **7. 6. Inheritance and Composition** (8 videos)
+- **8. 7. Software Development** (4 videos)
+- **9. Glossaries** (0 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn object-oriented design principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980)
@@ -132,7 +142,7 @@ created: 2026-04-21
 > **Env Vars:** ide (1)
 
 
-### 1. Object-Oriented Fundamentals
+### 2. 1. Object-Oriented Fundamentals
 
 #### Object-oriented thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980)
@@ -948,7 +958,7 @@ created: 2026-04-21
 > **Speakers:** - throughout (1)
 
 
-### 2. Requirements
+### 3. 2. Requirements
 
 #### Defining requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980)
@@ -1275,7 +1285,7 @@ created: 2026-04-21
 > **Definitions:** stands for (1)
 
 
-### 3. Use Cases and User Stories
+### 4. 3. Use Cases and User Stories
 
 #### Use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/use-cases?u=76281980)
@@ -1846,7 +1856,7 @@ created: 2026-04-21
 > **Cross-References:** coming up (1)
 
 
-### 4. Domain Modeling
+### 5. 4. Domain Modeling
 
 #### Identifying the objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-objects?u=76281980)
@@ -2348,7 +2358,7 @@ created: 2026-04-21
 > **Env Vars:** crc (1)
 
 
-### 5. Class Diagrams
+### 6. 5. Class Diagrams
 
 #### Creating class diagrams: Attributes
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/creating-class-diagrams-attributes?u=76281980)
@@ -2918,7 +2928,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### 6. Inheritance and Composition
+### 7. 6. Inheritance and Composition
 
 #### Identifying inheritance situations
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980)
@@ -3477,7 +3487,7 @@ created: 2026-04-21
 > **CLI Commands:** make (2)
 
 
-### 7. Software Development
+### 8. 7. Software Development
 
 #### OOP support in different languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980)
@@ -3802,10 +3812,10 @@ created: 2026-04-21
 > **Non-Speech:** (typing loudly) (1)
 
 
-### Glossaries
+### 9. Glossaries
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/next-steps?u=76281980)
@@ -3834,6 +3844,11 @@ created: 2026-04-21
 > **Code Keywords:** continue (1), finally, (1)
 > **CLI Commands:** find (1)
 
+
+## Instructor
+
+- [[Olivia Chiu Stone]]
+- [[Barron Stone]]
 
 ## Path Context
 

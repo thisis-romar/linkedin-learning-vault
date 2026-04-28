@@ -35,8 +35,10 @@ tags:
   - skill/front-end-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Advanced%20Layouts%20with%20Grid.md)
 
 ![CSS: Advanced Layouts with Grid](https://media.licdn.com/dms/image/v2/D560DAQFOaU21-ZRu1w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730501541268?e=2147483647&amp;v=beta&amp;t=kOleIg_3SjFTudBCCB9LnYC2T_7BxgtjGTk1kAZGpD8)
 
@@ -47,25 +49,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327) | 2h 28m | Advanced | 66K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Carrie Dils]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/CSS-advanced-layouts-with-Grid-5945075/codespaces)
-
-## Skills Covered
-
-- CSS Grid Layout
-- Web Development
-- Front-End Development
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. CSS Grid: Core Concepts** (9 videos)
+- **3. 2. Planning for Grid Layouts** (5 videos)
+- **4. 3. Multi-Column Layout** (7 videos)
+- **5. 4. Full-Bleed Layout** (4 videos)
+- **6. 5. A Very Uniform Card Layout** (4 videos)
+- **7. 6. A Variable Card Layout** (7 videos)
+- **8. 7. Asymmetrical or Broken Layout** (5 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to CSS Grid
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980)
@@ -186,7 +184,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. CSS Grid: Core Concepts
+### 2. 1. CSS Grid: Core Concepts
 
 #### What is CSS Grid?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980)
@@ -1101,7 +1099,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Planning for Grid Layouts
+### 3. 2. Planning for Grid Layouts
 
 #### When to use Grid?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/when-to-use-grid?u=76281980)
@@ -1345,7 +1343,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Multi-Column Layout
+### 4. 3. Multi-Column Layout
 
 #### What you're creating: A multi-column layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-multi-column-layout?u=76281980)
@@ -1932,7 +1930,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Full-Bleed Layout
+### 5. 4. Full-Bleed Layout
 
 #### What you're creating: A full-bleed layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-full-bleed-layout?u=76281980)
@@ -2242,7 +2240,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. A Very Uniform Card Layout
+### 6. 5. A Very Uniform Card Layout
 
 #### What you're creating: A uniform card layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-uniform-card-layout?u=76281980)
@@ -2525,7 +2523,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. A Variable Card Layout
+### 7. 6. A Variable Card Layout
 
 #### What you're creating: A variable card layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-variable-card-layout?u=76281980)
@@ -3028,7 +3026,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Asymmetrical or Broken Layout
+### 8. 7. Asymmetrical or Broken Layout
 
 #### What you're creating: An asymmetrical layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-an-asymmetrical-layout?u=76281980)
@@ -3432,7 +3430,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980)
@@ -3458,6 +3456,22 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - great (1)
 
+
+## Instructor
+
+- [[Carrie Dils]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/CSS-advanced-layouts-with-Grid-5945075/codespaces)
+
+## Skills Covered
+
+- CSS Grid Layout
+- Web Development
+- Front-End Development
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

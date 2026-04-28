@@ -22,8 +22,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Digital%20Strategy.md)
 
 ![Digital Strategy](https://media.licdn.com/dms/image/v2/C4E0DAQH964DjqLWpQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578522340389?e=2147483647&amp;v=beta&amp;t=PPTc-FOyuWutENxUY2wVLvTJUIQCKMWRshHxGUCqPwo)
 
@@ -34,14 +36,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy) | 1h 8m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Anil Gupta]]
-- [[Haiyan Wang]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Digital Strategy: Foundational Ideas** (3 videos)
+- **3. 2. Digital Innovation** (3 videos)
+- **4. 3. Platforms and Ecosystems** (3 videos)
+- **5. 4. Artificial Intelligence** (3 videos)
+- **6. 5. Building a Digital Culture** (2 videos)
+
+### 1. Introduction
 
 #### The opportunity of digital disruption
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980)
@@ -139,7 +145,7 @@ created: 2026-04-21
 > **Speakers:** - digital (1)
 
 
-### 1. Digital Strategy: Foundational Ideas
+### 2. 1. Digital Strategy: Foundational Ideas
 
 #### Rethinking strategy in the digital era
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/rethinking-strategy-in-the-digital-era?u=76281980)
@@ -364,7 +370,7 @@ created: 2026-04-21
 > **Speakers:** - for (1)
 
 
-### 2. Digital Innovation
+### 3. 2. Digital Innovation
 
 #### Building purely digital products and services
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980)
@@ -624,7 +630,7 @@ created: 2026-04-21
 > **Speakers:** - warehouses (1)
 
 
-### 3. Platforms and Ecosystems
+### 4. 3. Platforms and Ecosystems
 
 #### Embracing the new era of ecosystems
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980)
@@ -870,7 +876,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 4. Artificial Intelligence
+### 5. 4. Artificial Intelligence
 
 #### What is AI and where is it headed?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980)
@@ -1146,7 +1152,7 @@ created: 2026-04-21
 > **Speakers:** - like (1)
 
 
-### 5. Building a Digital Culture
+### 6. 5. Building a Digital Culture
 
 #### Becoming an agile organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980)
@@ -1274,6 +1280,11 @@ created: 2026-04-21
 > **CLI Commands:** make (3)
 > **Code Keywords:** new, (1)
 
+
+## Instructor
+
+- [[Anil Gupta]]
+- [[Haiyan Wang]]
 
 ## Path Context
 

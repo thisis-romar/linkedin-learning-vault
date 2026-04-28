@@ -29,8 +29,10 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Executive%20Guide%20to%20Deploying%2C%20Monitoring%2C%20and%20Maintaining%20Models.md)
 
 ![Executive Guide to Deploying, Monitoring, and Maintaining Models](https://media.licdn.com/dms/image/v2/D560DAQGQFcDu06-Gkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712343465209?e=2147483647&amp;v=beta&amp;t=MUZpGpJLUEOiw6rC31MCHGUnaZdHIHp-I721RiEBH-U)
 
@@ -41,18 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models) | 57m | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Skills Covered
-
-- MLOps
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### 1. The Phases of a Machine Learning Project
+### Chapter Overview
+
+- **1. 1. The Phases of a Machine Learning Project** (4 videos)
+- **2. 2. Model Evaluation** (2 videos)
+- **3. 3. Scoring** (3 videos)
+- **4. 4. Deployment** (3 videos)
+- **5. 5. Monitoring and Maintenance** (2 videos)
+
+### 1. 1. The Phases of a Machine Learning Project
 
 #### Data and supervised machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980)
@@ -298,7 +299,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Model Evaluation
+### 2. 2. Model Evaluation
 
 #### The business evaluation phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980)
@@ -450,7 +451,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 3. Scoring
+### 3. 3. Scoring
 
 #### Scoring traditional ML models
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980)
@@ -655,7 +656,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Deployment
+### 4. 4. Deployment
 
 #### Batch vs. real-time scoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/batch-vs-real-time-scoring?u=76281980)
@@ -894,7 +895,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Monitoring and Maintenance
+### 5. 5. Monitoring and Maintenance
 
 #### What is model monitoring?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980)
@@ -1095,6 +1096,15 @@ created: 2026-04-21
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Skills Covered
+
+- MLOps
+- Artificial Intelligence (AI)
 
 ## Path Context
 

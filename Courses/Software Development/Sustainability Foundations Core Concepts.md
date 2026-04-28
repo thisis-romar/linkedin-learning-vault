@@ -24,8 +24,10 @@ tags:
   - topic/software-development
   - skill/environmental-sustainability
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Sustainability%20Foundations%20Core%20Concepts.md)
 
 ![Sustainability Foundations Core Concepts](https://media.licdn.com/dms/image/v2/D560DAQFOIpOclKGO1A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711150083053?e=2147483647&amp;v=beta&amp;t=6Jvt0FoydzRf316ezr9f-lGnHGgHS1pkW9oobHKe90k)
 
@@ -36,13 +38,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts) | 47K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Environmental Sustainability
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Sustainability?** (3 videos)
+- **3. 2. Three Paradigms at the Root of the World’s Unsustainable Path** (4 videos)
+- **4. 3. Environmental Sustainability** (3 videos)
+- **5. 4. Sustainability Accounting and Reporting** (2 videos)
+- **6. 5. Need for Transformation** (1 videos)
+
+### 1. Introduction
 
 #### Sustainability and transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-and-transformation?u=76281980)
@@ -71,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 1. What Is Sustainability?
+### 2. 1. What Is Sustainability?
 
 #### Definition of sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/definition-of-sustainability?u=76281980)
@@ -346,7 +353,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 2. Three Paradigms at the Root of the World’s Unsustainable Path
+### 3. 2. Three Paradigms at the Root of the World’s Unsustainable Path
 
 #### Circular model of production and consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980)
@@ -664,7 +671,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Environmental Sustainability
+### 4. 3. Environmental Sustainability
 
 #### Net zero
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980)
@@ -943,7 +950,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 4. Sustainability Accounting and Reporting
+### 5. 4. Sustainability Accounting and Reporting
 
 #### Carbon and environmental accounting
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980)
@@ -1118,7 +1125,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 5. Need for Transformation
+### 6. 5. Need for Transformation
 
 #### Three transformations for a sustainable world
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/three-transformations-for-a-sustainable-world?u=76281980)
@@ -1154,6 +1161,10 @@ created: 2026-04-21
 > **Code Keywords:** static (2)
 > **Speakers:** - you (1)
 
+
+## Skills Covered
+
+- Environmental Sustainability
 
 ## Path Context
 

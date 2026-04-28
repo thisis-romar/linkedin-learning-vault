@@ -48,8 +48,10 @@ tags:
   - topic/software-development
   - skill/microsoft-entra-id
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Microsoft%20Entra%20ID%20Fundamentals.md)
 
 ![Microsoft Entra ID Fundamentals](https://media.licdn.com/dms/image/v2/D560DAQGdM-I2OouHxg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008944060?e=2147483647&amp;v=beta&amp;t=M4_Ml1E55Odn2dujrAcYvFXtAsj40gCFhF3oobqCBUM)
 
@@ -60,21 +62,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals) | 2h 11m | Beginner | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kunal D Mehta]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Entra ID
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Microsoft Entra ID Basics** (6 videos)
+- **3. 2. Core Components of Entra ID** (6 videos)
+- **4. 3. Standards and Compliance** (2 videos)
+- **5. 4. Administering an Entra Tenant** (4 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### A world of modern identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980)
@@ -416,7 +415,7 @@ created: 2026-04-21
 > **Speakers:** - [kunal] (1)
 
 
-### 1. Microsoft Entra ID Basics
+### 2. 1. Microsoft Entra ID Basics
 
 #### Identity and access
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980)
@@ -993,7 +992,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Core Components of Entra ID
+### 3. 2. Core Components of Entra ID
 
 #### Understand Entra Cloud Sync
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980)
@@ -1896,7 +1895,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Standards and Compliance
+### 4. 3. Standards and Compliance
 
 #### Industry standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980)
@@ -2075,7 +2074,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Administering an Entra Tenant
+### 5. 4. Administering an Entra Tenant
 
 #### Managing an Entra tenant
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980)
@@ -2289,7 +2288,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980)
@@ -2408,6 +2407,18 @@ created: 2026-04-21
 > **Exercise Files:** download the (1), exercise files (1)
 > **Speakers:** - [kunal] (1)
 
+
+## Instructor
+
+- [[Kunal D Mehta]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Entra ID
 
 ## Path Context
 

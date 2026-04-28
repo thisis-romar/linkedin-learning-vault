@@ -35,8 +35,10 @@ tags:
   - skill/computer-system-validation
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Validation%20and%20User%20Feedback%20and%20Performance%20Metrics.md)
 
 ![AI Orchestration: Validation and User Feedback and Performance Metrics](https://media.licdn.com/dms/image/v2/D4E0DAQHyS4nS85rA4g/learning-public-crop_675_1200/B4EZXYz8qNHgAc-/0/1743099252030?e=2147483647&amp;v=beta&amp;t=YxTJxwwg6wJZztD81ut9mtz07Pv609aCBQfU7V_wvbQ)
 
@@ -47,25 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics) | 2h 1m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Janani Ravi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Large Language Model Operations (LLMOps)
-- Artificial Intelligence (AI)
-- Feedback Control Systems
-- Computer System Validation
-- AI Orchestration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Validating ML Models and LLMs** (10 videos)
+- **3. 2. Evaluating ML Models and LLMs** (17 videos)
+- **4. 3. Collecting and Using User Feedback in LLMs** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980)
@@ -142,7 +136,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Validating ML Models and LLMs
+### 2. 1. Validating ML Models and LLMs
 
 #### Validation in the ML workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validation-in-the-ml-workflow?u=76281980)
@@ -970,7 +964,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Evaluating ML Models and LLMs
+### 3. 2. Evaluating ML Models and LLMs
 
 #### Evaluating models using metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-models-using-metrics?u=76281980)
@@ -2225,7 +2219,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 3. Collecting and Using User Feedback in LLMs
+### 4. 3. Collecting and Using User Feedback in LLMs
 
 #### User feedback in LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/user-feedback-in-llms?u=76281980)
@@ -2633,7 +2627,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980)
@@ -2675,6 +2669,22 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Janani Ravi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Large Language Model Operations (LLMOps)
+- Artificial Intelligence (AI)
+- Feedback Control Systems
+- Computer System Validation
+- AI Orchestration
 
 ## Path Context
 

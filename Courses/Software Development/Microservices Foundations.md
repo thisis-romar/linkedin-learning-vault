@@ -27,8 +27,10 @@ tags:
   - topic/security
   - skill/microservices
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Microservices%20Foundations.md)
 
 ![Microservices Foundations](https://media.licdn.com/dms/image/v2/D560DAQE5c_GBqVVYtQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709077523412?e=2147483647&amp;v=beta&amp;t=oySZ55Awl-tpuGMc9MmTcYVtsW52836ggVv59NACB7I)
 
@@ -39,13 +41,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069) | Beginner | 37K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Microservices
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Welcome to Microservices** (6 videos)
+- **3. 2. Microservices Core Concepts** (8 videos)
+- **4. 3. Microservices Advanced Concepts** (4 videos)
+- **5. 4. Making Architecture Choices** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/welcome?u=76281980)
@@ -120,7 +127,7 @@ created: 2026-04-21
 > **Speakers:** - making (1)
 
 
-### 1. Welcome to Microservices
+### 2. 1. Welcome to Microservices
 
 #### History of service-based architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980)
@@ -564,7 +571,7 @@ created: 2026-04-21
 > **Speakers:** - often (1)
 
 
-### 2. Microservices Core Concepts
+### 3. 2. Microservices Core Concepts
 
 #### The services
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980)
@@ -1168,7 +1175,7 @@ created: 2026-04-21
 > **Speakers:** - an (1)
 
 
-### 3. Microservices Advanced Concepts
+### 4. 3. Microservices Advanced Concepts
 
 #### Asynchronous communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/asynchronous-communications?u=76281980)
@@ -1428,7 +1435,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 4. Making Architecture Choices
+### 5. 4. Making Architecture Choices
 
 #### Design considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980)
@@ -1821,7 +1828,7 @@ created: 2026-04-21
 > **Speakers:** - not (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/next-steps?u=76281980)
@@ -1877,6 +1884,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - throughout (1)
 
+
+## Skills Covered
+
+- Microservices
 
 ## Path Context
 

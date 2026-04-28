@@ -28,8 +28,10 @@ tags:
   - topic/security
   - skill/cyber-security-risk
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Demystifying%20Advanced%20and%20Complex%20Security%20Topics.md)
 
 ![Demystifying Advanced and Complex Security Topics](https://media.licdn.com/dms/image/v2/D560DAQFJnaepTrxv3Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723151141731?e=2147483647&amp;v=beta&amp;t=M7K2kfCsFSSQhW4aTOnpzYfxtVi14Y6onbfm9iKspbw)
 
@@ -40,21 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics) | 35m | Beginner | 43K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jerich Beason]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cyber Security Risk
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Foundational Concepts** (2 videos)
+- **3. 2. Threats and Attacks** (3 videos)
+- **4. 3. Modern Security Approaches** (5 videos)
+- **5. 4. Cloud and Compliance** (2 videos)
+- **6. 5. Topics of the Future** (1 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Advanced cyber concepts simplified
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/advanced-cyber-concepts-simplified?u=76281980)
@@ -85,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. Foundational Concepts
+### 2. 1. Foundational Concepts
 
 #### Threats, risks, and vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980)
@@ -228,7 +228,7 @@ created: 2026-04-21
 > **Speakers:** - defense (1)
 
 
-### 2. Threats and Attacks
+### 3. 2. Threats and Attacks
 
 #### Insider threat
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980)
@@ -384,7 +384,7 @@ created: 2026-04-21
 > **Speakers:** - denial (1)
 
 
-### 3. Modern Security Approaches
+### 4. 3. Modern Security Approaches
 
 #### Passwordless authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980)
@@ -678,7 +678,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 4. Cloud and Compliance
+### 5. 4. Cloud and Compliance
 
 #### Compliance vs. security
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980)
@@ -798,7 +798,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 5. Topics of the Future
+### 6. 5. Topics of the Future
 
 #### Post-quantum cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980)
@@ -856,7 +856,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Spread your new found expertise
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/spread-your-new-found-expertise?u=76281980)
@@ -898,6 +898,18 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Jerich Beason]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cyber Security Risk
 
 ## Path Context
 

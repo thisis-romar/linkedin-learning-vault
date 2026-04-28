@@ -21,8 +21,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Test-Driven%20Development.md)
 
 ![Programming Foundations: Test-Driven Development](https://media.licdn.com/dms/image/v2/C4E0DAQGG__Y-tJom5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668482822?e=2147483647&amp;v=beta&amp;t=MNMR2eFGBuqHmwomo2hzLt28K7ww67fNv9lg38inpnw)
 
@@ -33,13 +35,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3) | 2h 43m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Neelam Dwivedi]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. TDD Methodology** (6 videos)
+- **3. 2. TDD Structure and Syntax** (5 videos)
+- **4. 3. Scaling TDD** (6 videos)
+- **5. Glossaries** (0 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Small steps to great things
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980)
@@ -509,7 +516,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. TDD Methodology
+### 2. 1. TDD Methodology
 
 #### TDD and agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980)
@@ -1110,7 +1117,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. TDD Structure and Syntax
+### 3. 2. TDD Structure and Syntax
 
 #### Test structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980)
@@ -1611,7 +1618,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Scaling TDD
+### 4. 3. Scaling TDD
 
 #### TDD tools and frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980)
@@ -2212,10 +2219,10 @@ created: 2026-04-21
 > **File Paths:** wordsource.txt (1)
 
 
-### Glossaries
+### 5. Glossaries
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/next-steps?u=76281980)
@@ -2235,6 +2242,10 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [neelam] (1)
 
+
+## Instructor
+
+- [[Neelam Dwivedi]]
 
 ## Path Context
 

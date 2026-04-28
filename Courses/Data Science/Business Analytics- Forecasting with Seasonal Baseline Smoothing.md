@@ -30,8 +30,10 @@ tags:
   - skill/business-intelligence-bi
   - skill/forecasting
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analytics-%20Forecasting%20with%20Seasonal%20Baseline%20Smoothing.md)
 
 ![Business Analytics: Forecasting with Seasonal Baseline Smoothing](https://media.licdn.com/dms/image/v2/C4E0DAQHt1kNRSCL-NQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619543038116?e=2147483647&amp;v=beta&amp;t=4LgTsjE5GcXq1UtAlCY-KeaDDZ3p5GBpArWzbO_EMS8)
 
@@ -42,22 +44,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing) | 49m | Advanced | 79K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Conrad Carlberg]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Business Intelligence (BI)
-- Forecasting
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Approaches to Seasonal Smoothing** (5 videos)
+- **3. 2. Optimizing Seasonal Forecasts** (3 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why seasonal baseline smoothing will help your regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/why-seasonal-baseline-smoothing-will-help-your-regression?u=76281980)
@@ -151,7 +147,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Approaches to Seasonal Smoothing
+### 2. 1. Approaches to Seasonal Smoothing
 
 #### Seasonality in a baseline
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980)
@@ -632,7 +628,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Optimizing Seasonal Forecasts
+### 3. 2. Optimizing Seasonal Forecasts
 
 #### Minimizing RMSE
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/minimizing-rmse?u=76281980)
@@ -985,7 +981,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/next-steps?u=76281980)
@@ -1007,6 +1003,19 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - [conrad] (1)
 
+
+## Instructor
+
+- [[Conrad Carlberg]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Business Intelligence (BI)
+- Forecasting
 
 ## Path Context
 

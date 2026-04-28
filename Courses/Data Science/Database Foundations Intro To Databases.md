@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/databases
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations%20Intro%20To%20Databases.md)
 
 ![Database Foundations Intro To Databases](https://media.licdn.com/dms/image/v2/D560DAQHKDo5Z5gFCAA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730492695783?e=2147483647&amp;v=beta&amp;t=x6X7QdGFbjwaYZDEJUY1AKm7z1e9ow-Cp6_rHZNKl0Y)
 
@@ -40,17 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases) | Beginner | 67K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Databases
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Database Core Concepts** (4 videos)
+- **3. 2. Set Up a Database Playground** (7 videos)
+- **4. 3. Graphical Interfaces** (7 videos)
+- **5. 4. Create Table Objects** (9 videos)
+- **6. 5. Add Data to a Table** (7 videos)
+- **7. 6. Retrieve Information** (7 videos)
+- **8. 7. Manipulate Data** (8 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### An introduction to database foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/an-introduction-to-database-foundations?u=76281980)
@@ -178,7 +184,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Database Core Concepts
+### 2. 1. Database Core Concepts
 
 #### What is a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-is-a-database?u=76281980)
@@ -548,7 +554,7 @@ created: 2026-04-21
 > **UI Navigation:** scroll down (1)
 
 
-### 2. Set Up a Database Playground
+### 3. 2. Set Up a Database Playground
 
 #### Purpose of the playground
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980)
@@ -1446,7 +1452,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Graphical Interfaces
+### 4. 3. Graphical Interfaces
 
 #### Management interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980)
@@ -2178,7 +2184,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Create Table Objects
+### 5. 4. Create Table Objects
 
 #### Structured Query Language
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980)
@@ -3208,7 +3214,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Add Data to a Table
+### 6. 5. Add Data to a Table
 
 #### Table rows
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-rows?u=76281980)
@@ -4053,7 +4059,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Retrieve Information
+### 7. 6. Retrieve Information
 
 #### Querying data
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/querying-data?u=76281980)
@@ -4799,7 +4805,7 @@ created: 2026-04-21
 > **Non-Speech:** (bouncy upbeat music) (1)
 
 
-### 7. Manipulate Data
+### 8. 7. Manipulate Data
 
 #### Display column aliases with AS
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980)
@@ -5776,7 +5782,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980)
@@ -5808,6 +5814,14 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Databases
 
 ## Path Context
 

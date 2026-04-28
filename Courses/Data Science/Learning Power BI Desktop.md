@@ -34,8 +34,10 @@ tags:
   - skill/data-analytics
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Power%20BI%20Desktop.md)
 
 ![Learning Power BI Desktop](https://media.licdn.com/dms/image/v2/D4D0DAQFzT1pUhkbBwg/learning-public-crop_675_1200/B4DZWv8D88GcAk-/0/1742413512788?e=2147483647&amp;v=beta&amp;t=NQu2jqppSbYvZkd7cfUXzHzSnHGhxhR71LU6FK7CyQI)
 
@@ -46,24 +48,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913) | 2h 42m | Beginner | 80K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gini von Courter]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Analysis
-- Microsoft Power BI
-- Data Analytics
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Get Started with Power BI Desktop** (1 videos)
+- **3. 2. Get Data** (10 videos)
+- **4. 3. Transform Data with the Power Query Editor** (6 videos)
+- **5. 4. Combine, Append, and Merge Data** (7 videos)
+- **6. 5. Create a Report with Visualizations** (3 videos)
+- **7. 6. Share Your Work** (4 videos)
+- **8. 7. Use Copilot with Power BI Desktop** (5 videos)
+- **9. 8. Next Steps** (1 videos)
+- **10. Products, Installation, and Requirements** (3 videos)
+
+### 1. Introduction
 
 #### Model and visualize your data with Power BI Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/model-and-visualize-your-data-with-power-bi-desktop?u=76281980)
@@ -84,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - [gini] (1)
 
 
-### 1. Get Started with Power BI Desktop
+### 2. 1. Get Started with Power BI Desktop
 
 #### Launch Power BI Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980)
@@ -184,7 +184,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Get Data
+### 3. 2. Get Data
 
 #### Power BI data sources: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980)
@@ -1042,7 +1042,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Transform Data with the Power Query Editor
+### 4. 3. Transform Data with the Power Query Editor
 
 #### Rename columns in the Query Editor
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/rename-columns-in-the-query-editor?u=76281980)
@@ -1688,7 +1688,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Combine, Append, and Merge Data
+### 5. 4. Combine, Append, and Merge Data
 
 #### Prep to combine multiple tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980)
@@ -2418,7 +2418,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Create a Report with Visualizations
+### 6. 5. Create a Report with Visualizations
 
 #### Use the Power BI Desktop Report view
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/use-the-power-bi-desktop-report-view?u=76281980)
@@ -2740,7 +2740,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Share Your Work
+### 7. 6. Share Your Work
 
 #### Sharing: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980)
@@ -3020,7 +3020,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Use Copilot with Power BI Desktop
+### 8. 7. Use Copilot with Power BI Desktop
 
 #### Start Copilot for the first time
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/start-copilot-for-the-first-time?u=76281980)
@@ -3400,7 +3400,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Next Steps
+### 9. 8. Next Steps
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980)
@@ -3444,7 +3444,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Products, Installation, and Requirements
+### 10. Products, Installation, and Requirements
 
 #### Power BI tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980)
@@ -3698,6 +3698,21 @@ created: 2026-04-21
 > **Definitions:** in other words (1)
 > **Analogies:** just like (1)
 
+
+## Instructor
+
+- [[Gini von Courter]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Analysis
+- Microsoft Power BI
+- Data Analytics
+- Data Visualization
 
 ## Path Context
 

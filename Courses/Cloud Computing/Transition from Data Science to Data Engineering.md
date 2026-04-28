@@ -31,8 +31,10 @@ tags:
   - skill/data-engineering
   - skill/career-transitioning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Transition%20from%20Data%20Science%20to%20Data%20Engineering.md)
 
 ![Transition from Data Science to Data Engineering](https://media.licdn.com/dms/image/v2/D560DAQEgJDzU_8BhSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708559741409?e=2147483647&amp;v=beta&amp;t=albVXnbK87NglHYYNzfOwWPH72KSUjdEt-h59DVNCYg)
 
@@ -43,18 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering) | 47m | Intermediate | 48K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Pooja Jain]]
-
-## Skills Covered
-
-- Data Engineering
-- Career Transitioning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Fundamentals of Data Engineering** (4 videos)
+- **3. 2. Understanding the Data Repository** (4 videos)
+- **4. 3. Data Processing, Security, and Compliance** (3 videos)
+- **5. 4. Cloud Computing for Data Engineers** (2 videos)
+- **6. 5. Do Not Underestimate Data Quality and Data Governance** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Becoming a data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/becoming-a-data-engineer?u=76281980)
@@ -83,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - [pooja] (1)
 
 
-### 1. Fundamentals of Data Engineering
+### 2. 1. Fundamentals of Data Engineering
 
 #### From data scientist to data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980)
@@ -335,7 +338,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Understanding the Data Repository
+### 3. 2. Understanding the Data Repository
 
 #### Introduction to data warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980)
@@ -530,7 +533,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Processing, Security, and Compliance
+### 4. 3. Data Processing, Security, and Compliance
 
 #### Data pipelines and the ETL process
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980)
@@ -771,7 +774,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Cloud Computing for Data Engineers
+### 5. 4. Cloud Computing for Data Engineers
 
 #### Introduction to cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980)
@@ -886,7 +889,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Do Not Underestimate Data Quality and Data Governance
+### 6. 5. Do Not Underestimate Data Quality and Data Governance
 
 #### Why is data quality important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980)
@@ -1005,7 +1008,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Shift from data scientist to data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980)
@@ -1049,6 +1052,15 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [pooja] (1)
 
+
+## Instructor
+
+- [[Pooja Jain]]
+
+## Skills Covered
+
+- Data Engineering
+- Career Transitioning
 
 ## Path Context
 

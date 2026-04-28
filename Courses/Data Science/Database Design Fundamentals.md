@@ -28,8 +28,10 @@ tags:
   - skill/database-design
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Design%20Fundamentals.md)
 
 ![Database Design Fundamentals](https://media.licdn.com/dms/image/v2/D4E0DAQG3YG1PnztMgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726865430823?e=2147483647&amp;v=beta&amp;t=Fsg45aB4K7tM992N75wEaavYd9SOO5CbFxK4QUVN5lU)
 
@@ -40,18 +42,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals) | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Database Design
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Database Design Basics** (4 videos)
+- **3. 2. Data Relationships and Collations** (3 videos)
+- **4. 3. Data Normalization** (4 videos)
+- **5. 4. Understanding the Physical Relational Design** (8 videos)
+- **6. 5. How Developments in AI Affect Database Design** (3 videos)
+- **7. 6. Final Project** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI-ready data: Learning database design for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980)
@@ -105,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Database Design Basics
+### 2. 1. Database Design Basics
 
 #### Types of relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980)
@@ -344,7 +348,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Data Relationships and Collations
+### 3. 2. Data Relationships and Collations
 
 #### Determining primary keys
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/determining-primary-keys?u=76281980)
@@ -538,7 +542,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Normalization
+### 4. 3. Data Normalization
 
 #### First normal form
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980)
@@ -805,7 +809,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Understanding the Physical Relational Design
+### 5. 4. Understanding the Physical Relational Design
 
 #### Data types that are key to relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980)
@@ -1251,7 +1255,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. How Developments in AI Affect Database Design
+### 6. 5. How Developments in AI Affect Database Design
 
 #### Architectural overview for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980)
@@ -1394,7 +1398,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Final Project
+### 7. 6. Final Project
 
 #### Final project setup: Design your own database
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980)
@@ -1514,7 +1518,7 @@ created: 2026-04-21
 > **Non-Speech:** (soft upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Empower your world: Innovate, act, transform
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980)
@@ -1557,6 +1561,15 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [melody] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Database Design
+- Data Science
 
 ## Path Context
 

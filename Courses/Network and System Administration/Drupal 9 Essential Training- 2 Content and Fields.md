@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%202%20Content%20and%20Fields.md)
 
 ![Drupal 9 Essential Training: 2 Content and Fields](https://media.licdn.com/dms/image/v2/C4E0DAQGJ50LZ3TlHVA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614870855109?e=2147483647&amp;v=beta&amp;t=w4aVmMl1heWJrHGBtV4B-T6x8KjQQ6Cl65fVe6phuoY)
 
@@ -41,18 +43,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields) | 1h | Beginner | 34K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[OSTraining]]
-- [[Rod Martin]]
-
-## Skills Covered
-
-- Drupal
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Content Explained** (8 videos)
+- **3. 2. Fields Explained** (6 videos)
+
+### 1. Introduction
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/introduction-to-the-course?u=76281980)
@@ -84,7 +83,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 1. Content Explained
+### 2. 1. Content Explained
 
 #### Content explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980)
@@ -822,7 +821,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Fields Explained
+### 3. 2. Fields Explained
 
 #### Fields explained: Introduction and definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/fields-explained-introduction-and-definitions?u=76281980)
@@ -1401,6 +1400,15 @@ created: 2026-04-21
 > **Env Vars:** url (1)
 > **Cross-References:** coming up (1)
 
+
+## Instructor
+
+- [[OSTraining]]
+- [[Rod Martin]]
+
+## Skills Covered
+
+- Drupal
 
 ## Path Context
 

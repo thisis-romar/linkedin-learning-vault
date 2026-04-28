@@ -39,39 +39,31 @@ tags:
   - skill/ai-for-management
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Organizational%20Leadership%20in%20the%20Era%20of%20AI.md)
 
 ![Organizational Leadership in the Era of AI](https://media.licdn.com/dms/image/v2/D4E0DAQEt9_ODt0m1AQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726254563011?e=2147483647&amp;v=beta&amp;t=sLZ7RNKTWi4SNmCKrtmqO5ccufxer8DmbHVhOLhJbJ4)
 
 # Organizational Leadership in the Era of AI
 
-> Technology breakthroughs need management breakthroughs—and as leaders and organizations around the world invest in AI, leadership is the biggest determination of whether or not those investments will create value.
-
-This course provides a blueprint for leaders and managers who want to harness the potential of AI to create value for their organization, their teams, and the world. Based on insights, 
+> Technology breakthroughs need management breakthroughs—and as leaders and organizations around the world invest in AI, leadership is the biggest determination of whether or not those investments will create value. This course provides a blueprint for leaders and managers who want to harness the potential of AI to create value for their organization, their teams, and the world. Based on insights, f
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai) | 48m | Intermediate | 62K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brian Evergreen]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Organizational Leadership
-- AI for Business
-- Artificial Intelligence (AI)
-- AI for Management
-- AI for Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. From Digital Transformation to Autonomous Transformation** (3 videos)
+- **3. 2. From Data-Driven to Reason-Driven Leadership** (4 videos)
+- **4. 3. How to Solve for the Future** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Technology breakthroughs need management breakthroughs
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980)
@@ -260,7 +252,7 @@ This course provides a blueprint for leaders and managers who want to harness th
 > **Speakers:** - the (1)
 
 
-### 1. From Digital Transformation to Autonomous Transformation
+### 2. 1. From Digital Transformation to Autonomous Transformation
 
 #### Understanding autonomous transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980)
@@ -511,7 +503,7 @@ This course provides a blueprint for leaders and managers who want to harness th
 > **Speakers:** - once (1)
 
 
-### 2. From Data-Driven to Reason-Driven Leadership
+### 3. 2. From Data-Driven to Reason-Driven Leadership
 
 #### Reason-driven vs. data-driven strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reason-driven-vs-data-driven-strategy?u=76281980)
@@ -790,7 +782,7 @@ This course provides a blueprint for leaders and managers who want to harness th
 > **Speakers:** - your (1)
 
 
-### 3. How to Solve for the Future
+### 4. 3. How to Solve for the Future
 
 #### Replace problem-solving with future solving
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-problem-solving-with-future-solving?u=76281980)
@@ -1088,7 +1080,7 @@ This course provides a blueprint for leaders and managers who want to harness th
 > **Speakers:** - when (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Reaching new heights of value creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reaching-new-heights-of-value-creation?u=76281980)
@@ -1142,6 +1134,22 @@ This course provides a blueprint for leaders and managers who want to harness th
 > **Analogies:** imagine (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Brian Evergreen]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Organizational Leadership
+- AI for Business
+- Artificial Intelligence (AI)
+- AI for Management
+- AI for Leadership
 
 ## Path Context
 

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/technical-literacy-and-future-readi
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 1
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -41,8 +41,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Technical%20Literacy%20and%20Future%20Readiness%20for%20Senior%20Executives.md)
 
 # Technical Literacy and Future Readiness for Senior Executives
 

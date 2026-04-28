@@ -32,8 +32,10 @@ tags:
   - skill/r-programming-language
   - skill/data-science-foundations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20Foundations-%20Data%20Mining%20in%20R.md)
 
 ![Data Science Foundations: Data Mining in R](https://media.licdn.com/dms/image/v2/C4E0DAQHjJxJhmYJGMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1612992297885?e=2147483647&amp;v=beta&amp;t=ayYTfsmYeq9wAnRjyfpi3yoH3isr6sq6pERT_Salfmg)
 
@@ -44,23 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r) | 3h 51m | Intermediate | 86K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barton Poulson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Mining
-- R (Programming Language)
-- Data Science Foundations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Preliminaries** (4 videos)
+- **3. 2. Dimensionality Reduction** (7 videos)
+- **4. 3. Clustering** (7 videos)
+- **5. 4. Classification** (7 videos)
+- **6. 5. Association Analysis** (7 videos)
+- **7. 6. Time-Series Mining** (7 videos)
+- **8. 7. Text Mining** (7 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### R for data mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980)
@@ -157,7 +157,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Preliminaries
+### 2. 1. Preliminaries
 
 #### Tools for data mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980)
@@ -573,7 +573,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Dimensionality Reduction
+### 3. 2. Dimensionality Reduction
 
 #### Dimensionality reduction overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980)
@@ -1298,7 +1298,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Clustering
+### 4. 3. Clustering
 
 #### Clustering overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980)
@@ -2180,7 +2180,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Classification
+### 5. 4. Classification
 
 #### Classification overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980)
@@ -3095,7 +3095,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Association Analysis
+### 6. 5. Association Analysis
 
 #### Association analysis overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980)
@@ -3718,7 +3718,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Time-Series Mining
+### 7. 6. Time-Series Mining
 
 #### Time-series mining overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980)
@@ -4449,7 +4449,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Text Mining
+### 8. 7. Text Mining
 
 #### Text mining overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980)
@@ -5234,7 +5234,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980)
@@ -5304,6 +5304,20 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - [barton] (1)
 
+
+## Instructor
+
+- [[Barton Poulson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Mining
+- R (Programming Language)
+- Data Science Foundations
 
 ## Path Context
 

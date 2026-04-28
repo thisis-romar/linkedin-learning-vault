@@ -28,8 +28,10 @@ tags:
   - topic/security
   - skill/penetration-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Introduction%20to%20Pen%20Testing%20for%20Cybersecurity%20Professionals.md)
 
 ![Introduction to Pen Testing for Cybersecurity Professionals](https://media.licdn.com/dms/image/v2/C4E0DAQEga5DedSCCqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1675979486651?e=2147483647&amp;v=beta&amp;t=_3DOw3h4aRFdaPOGdhjd1Xm4fVL03-WFlyps9eXi904)
 
@@ -40,21 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals) | 1h 53m | Beginner | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Penetration Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Organizational Penetration Testing** (5 videos)
+- **3. 2. Types of Penetration Testing** (7 videos)
+- **4. 3. Penetration Testing Techniques** (7 videos)
+- **5. 4. Penetration Testing Blueprint** (7 videos)
+- **6. 5. Outsourcing Penetration Testing** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Testing an organization's defenses
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-an-organization-s-defenses?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Organizational Penetration Testing
+### 2. 1. Organizational Penetration Testing
 
 #### Understanding penetration testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980)
@@ -492,7 +492,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Types of Penetration Testing
+### 3. 2. Types of Penetration Testing
 
 #### Comparing different environments
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/comparing-different-environments?u=76281980)
@@ -977,7 +977,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Penetration Testing Techniques
+### 4. 3. Penetration Testing Techniques
 
 #### Following a structured plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/following-a-structured-plan?u=76281980)
@@ -1401,7 +1401,7 @@ created: 2026-04-21
 > **Versions:** 9.1 (1)
 
 
-### 4. Penetration Testing Blueprint
+### 5. 4. Penetration Testing Blueprint
 
 #### Checking physical security
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980)
@@ -1884,7 +1884,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Outsourcing Penetration Testing
+### 6. 5. Outsourcing Penetration Testing
 
 #### Contracting the pen test
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/contracting-the-pen-test?u=76281980)
@@ -2210,7 +2210,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980)
@@ -2254,6 +2254,18 @@ created: 2026-04-21
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Penetration Testing
 
 ## Path Context
 

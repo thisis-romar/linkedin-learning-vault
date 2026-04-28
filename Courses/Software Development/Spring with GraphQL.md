@@ -30,8 +30,10 @@ tags:
   - skill/spring-framework
   - skill/graphql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Spring%20with%20GraphQL.md)
 
 ![Spring with GraphQL](https://media.licdn.com/dms/image/v2/C560DAQEn-bZc-Hdr2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1657817616889?e=2147483647&amp;v=beta&amp;t=I-yHZOrfX8EuGKsxAYBurTyQAEpl0j55g6C_VfvN1aI)
 
@@ -42,22 +44,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql) | 1h 4m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Frank P Moley III]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Spring Framework
-- GraphQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting to Know GraphQL** (5 videos)
+- **3. 2. Building GraphQL APIs** (8 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build a GraphQL API with Spring Boot
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/build-a-graphql-api-with-spring-boot?u=76281980)
@@ -204,7 +200,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting to Know GraphQL
+### 2. 1. Getting to Know GraphQL
 
 #### The power of GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980)
@@ -636,7 +632,7 @@ created: 2026-04-21
 > **Cross-References:** next video (1)
 
 
-### 2. Building GraphQL APIs
+### 3. 2. Building GraphQL APIs
 
 #### Setting up the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980)
@@ -1524,7 +1520,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980)
@@ -1646,6 +1642,19 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 > **Warnings:** important note (1)
 
+
+## Instructor
+
+- [[Frank P Moley III]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Spring Framework
+- GraphQL
 
 ## Path Context
 

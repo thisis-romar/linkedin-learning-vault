@@ -30,8 +30,10 @@ tags:
   - skill/it-service-management
   - skill/customer-service-skills
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/IT%20Service%20Desk-%20Customer%20Service%20Fundamentals.md)
 
 ![IT Service Desk: Customer Service Fundamentals](https://media.licdn.com/dms/image/v2/C4D0DAQHx-DhtZTgkVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567195538838?e=2147483647&amp;v=beta&amp;t=GOqfMS44b3B6oFoh6bLRciHYfdX12UNumwiWxaEuRQI)
 
@@ -42,22 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals) | 1h 51m | Beginner | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fancy Mills-Knebel]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- IT Service Management
-- Customer Service Skills
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Anatomy of a Contact** (7 videos)
+- **3. 2. Customer Service Tasks** (6 videos)
+- **4. 3. Language and Professionalism** (9 videos)
+- **5. 4. Common Help Desk Customer Service Situations** (8 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980)
@@ -185,7 +183,7 @@ created: 2026-04-21
 > **Speakers:** - technical (1)
 
 
-### 1. Anatomy of a Contact
+### 2. 1. Anatomy of a Contact
 
 #### Contact greeting and validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-greeting-and-validation?u=76281980)
@@ -718,7 +716,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. Customer Service Tasks
+### 3. 2. Customer Service Tasks
 
 #### Placing a contact on hold
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/placing-a-contact-on-hold?u=76281980)
@@ -1266,7 +1264,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 3. Language and Professionalism
+### 4. 3. Language and Professionalism
 
 #### The value of building rapport with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980)
@@ -2215,7 +2213,7 @@ created: 2026-04-21
 > **Warnings:** common error (1)
 
 
-### 4. Common Help Desk Customer Service Situations
+### 5. 4. Common Help Desk Customer Service Situations
 
 #### Recovering unsatisfied customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/recovering-unsatisfied-customers?u=76281980)
@@ -3205,7 +3203,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/next-steps?u=76281980)
@@ -3243,6 +3241,19 @@ created: 2026-04-21
 > **Cross-References:** we discussed (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Fancy Mills-Knebel]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- IT Service Management
+- Customer Service Skills
 
 ## Path Context
 

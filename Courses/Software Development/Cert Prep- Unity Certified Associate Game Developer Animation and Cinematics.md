@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/unity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Animation%20and%20Cinematics.md)
 
 ![Cert Prep: Unity Certified Associate Game Developer Animation and Cinematics](https://media.licdn.com/dms/image/v2/C4E0DAQHGxWJZR_iLlw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611704552553?e=2147483647&amp;v=beta&amp;t=19Yg38xM7IbNqFFZ4CaUhQEyylRg1-Peh0ZDGbQCOTE)
 
@@ -40,21 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics) | 2h | Intermediate | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Alan Thorn]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Unity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Animation with Code and Keyframes** (5 videos)
+- **3. 2. Character Animation and Programming** (5 videos)
+- **4. 3. Timelines and Art Direction** (4 videos)
+- **5. 4. Cinemachine: Virtual Cinematography** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/introduction?u=76281980)
@@ -104,7 +103,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Animation with Code and Keyframes
+### 2. 1. Animation with Code and Keyframes
 
 #### Rotating through update functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/rotating-through-update-functions?u=76281980)
@@ -827,7 +826,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Character Animation and Programming
+### 3. 2. Character Animation and Programming
 
 #### Importing characters
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980)
@@ -1521,7 +1520,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Timelines and Art Direction
+### 4. 3. Timelines and Art Direction
 
 #### Creating a timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-a-timeline?u=76281980)
@@ -2068,7 +2067,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Cinemachine: Virtual Cinematography
+### 5. 4. Cinemachine: Virtual Cinematography
 
 #### Importing Cinemachine
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-cinemachine?u=76281980)
@@ -2493,7 +2492,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/next-steps?u=76281980)
@@ -2525,6 +2524,18 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Alan Thorn]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Unity
 
 ## Path Context
 

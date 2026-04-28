@@ -25,8 +25,10 @@ tags:
   - topic/software-development
   - skill/nosql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Introduction%20To%20Nosql.md)
 
 ![Introduction To Nosql](https://media.licdn.com/dms/image/v2/C4E0DAQFLGH9-sTY3vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663360544743?e=2147483647&amp;v=beta&amp;t=-H4pGudE5RdYcLzCUcnu27NhNd25x8LRIQh5SQnHnVA)
 
@@ -37,13 +39,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql) | Beginner | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- NoSQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. NoSQL? Why Can’t You Have Any Sequels?** (3 videos)
+- **3. 2. NoSQL Powers Everything** (2 videos)
+- **4. 3. The Three Vs: Volume, Velocity, and Variety** (5 videos)
+- **5. 4. Differences in Scalability, Performance, and Data Modeling** (1 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### A guide to NoSQL: No programming needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/a-guide-to-nosql-no-programming-needed?u=76281980)
@@ -71,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - [david] (1)
 
 
-### 1. NoSQL? Why Can’t You Have Any Sequels?
+### 2. 1. NoSQL? Why Can’t You Have Any Sequels?
 
 #### So what is NoSQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980)
@@ -305,7 +312,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. NoSQL Powers Everything
+### 3. 2. NoSQL Powers Everything
 
 #### You're already using NoSQL databases—you just don't know it
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980)
@@ -418,7 +425,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. The Three Vs: Volume, Velocity, and Variety
+### 4. 3. The Three Vs: Volume, Velocity, and Variety
 
 #### Volume: How much data are you really talking about?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980)
@@ -791,7 +798,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Differences in Scalability, Performance, and Data Modeling
+### 5. 4. Differences in Scalability, Performance, and Data Modeling
 
 #### Comparing the three Vs to current relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980)
@@ -850,7 +857,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### That's a wrap
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980)
@@ -889,6 +896,10 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Skills Covered
+
+- NoSQL
 
 ## Path Context
 

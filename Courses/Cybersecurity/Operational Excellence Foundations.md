@@ -30,8 +30,10 @@ tags:
   - skill/six-sigma
   - skill/operational-excellence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Operational%20Excellence%20Foundations.md)
 
 ![Operational Excellence Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQHXabuhepfj2g/learning-public-crop_675_1200/B4EZn0BMNXJAAY-/0/1760735577621?e=2147483647&amp;v=beta&amp;t=hbEPUMu-81M14np33uHbEvw73PECoOmoFXt8CAQgBXU)
 
@@ -42,22 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations) | 1h 39m | Intermediate | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Richard Chua]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Six Sigma
-- Operational Excellence
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Operational Excellence?** (1 videos)
+- **3. 2. Key Concepts and Tools** (10 videos)
+- **4. 3. Implementing Operational Excellence** (10 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to operational excellence
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980)
@@ -100,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 1. What Is Operational Excellence?
+### 2. 1. What Is Operational Excellence?
 
 #### What is operational excellence?
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980)
@@ -217,7 +214,7 @@ created: 2026-04-21
 > **Speakers:** - most (1)
 
 
-### 2. Key Concepts and Tools
+### 3. 2. Key Concepts and Tools
 
 #### Process stakeholders and SIPOC
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/process-stakeholders-and-sipoc?u=76281980)
@@ -1103,7 +1100,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 3. Implementing Operational Excellence
+### 4. 3. Implementing Operational Excellence
 
 #### Key roles in operational excellence
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980)
@@ -2134,7 +2131,7 @@ created: 2026-04-21
 > **Speakers:** - better (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980)
@@ -2168,6 +2165,19 @@ created: 2026-04-21
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Richard Chua]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Six Sigma
+- Operational Excellence
 
 ## Path Context
 

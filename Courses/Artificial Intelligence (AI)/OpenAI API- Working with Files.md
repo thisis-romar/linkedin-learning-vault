@@ -36,8 +36,10 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Working%20with%20Files.md)
 
 ![OpenAI API: Working with Files](https://media.licdn.com/dms/image/v2/D4E0DAQFOZf2CmFd-fg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706825069771?e=2147483647&amp;v=beta&amp;t=fihFsN396gI0FkbniTmZtEI7A4mv40QcIsBByBHJw2M)
 
@@ -48,25 +50,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files) | 36m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fikayo Adepoju]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-working-with-files-4556031)
-
-## Skills Covered
-
-- OpenAI API
-- API Development
-- OpenAI Products
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding the Files API** (2 videos)
+- **3. 2. Using the Files API** (5 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Uploading large files to the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-large-files-to-the-openai-api?u=76281980)
@@ -113,7 +106,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding the Files API
+### 2. 1. Understanding the Files API
 
 #### The significance of the Files API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980)
@@ -229,7 +222,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Using the Files API
+### 3. 2. Using the Files API
 
 #### Setting up your development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980)
@@ -877,7 +870,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980)
@@ -910,6 +903,22 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Fikayo Adepoju]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-working-with-files-4556031)
+
+## Skills Covered
+
+- OpenAI API
+- API Development
+- OpenAI Products
+- Artificial Intelligence (AI)
 
 ## Path Context
 

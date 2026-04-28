@@ -9,8 +9,10 @@ linkedin_topics:
 tags:
   - instructor
   - topic/security
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Cybersecurity/Bennett%20Hendrix.md)
 
 # Bennett Hendrix
 

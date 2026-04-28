@@ -21,26 +21,32 @@ tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Lean%20Six%20Sigma%20Foundations.md)
 
 ![Lean Six Sigma Foundations](https://media.licdn.com/dms/image/v2/C4D0DAQGnhWIx2tgcbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568247813946?e=2147483647&amp;v=beta&amp;t=2zQzF0viEfeZvAKCl7X9x_6e_msO4riy_eclajviJXY)
 
 # Lean Six Sigma Foundations
 
-> Lean Six Sigma combines the principles of lean enterprise and lean manufacturing with Six Sigma to improve performance and systematically remove waste. Supply chain expert and professor Steven Brown explains the basics of using Lean Six Sigma as a structure for your improvement efforts.
-Steven outlines the process stages in Six Sigma (define, measure, analyze, improve, and control), along with the
+> Lean Six Sigma combines the principles of lean enterprise and lean manufacturing with Six Sigma to improve performance and systematically remove waste. Supply chain expert and professor Steven Brown explains the basics of using Lean Six Sigma as a structure for your improvement efforts. Steven outlines the process stages in Six Sigma (define, measure, analyze, improve, and control), along with the
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations) | 1h 10m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Steven Brown]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introducing Lean Six Sigma** (3 videos)
+- **3. 2. Understanding Six Sigma** (6 videos)
+- **4. 3. Understanding Lean** (6 videos)
+- **5. 4. Implementing Lean Six Sigma** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The continuous improvement culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/the-continuous-improvement-culture-24002420?u=76281980)
@@ -68,7 +74,7 @@ Steven outlines the process stages in Six Sigma (define, measure, analyze, impro
 > **Speakers:** - every (1)
 
 
-### 1. Introducing Lean Six Sigma
+### 2. 1. Introducing Lean Six Sigma
 
 #### Why Six Sigma?
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980)
@@ -294,7 +300,7 @@ Steven outlines the process stages in Six Sigma (define, measure, analyze, impro
 > **Definitions:** means that (1)
 
 
-### 2. Understanding Six Sigma
+### 3. 2. Understanding Six Sigma
 
 #### Six Sigma: Define
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-define?u=76281980)
@@ -732,7 +738,7 @@ Steven outlines the process stages in Six Sigma (define, measure, analyze, impro
 > **Speakers:** - sometimes (1)
 
 
-### 3. Understanding Lean
+### 4. 3. Understanding Lean
 
 #### Lean metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980)
@@ -1189,7 +1195,7 @@ Steven outlines the process stages in Six Sigma (define, measure, analyze, impro
 > **Speakers:** - if (1)
 
 
-### 4. Implementing Lean Six Sigma
+### 5. 4. Implementing Lean Six Sigma
 
 #### Lead the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/lead-the-project-24008073?u=76281980)
@@ -1475,7 +1481,7 @@ Steven outlines the process stages in Six Sigma (define, measure, analyze, impro
 > **Speakers:** - there (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/next-steps-24008071?u=76281980)
@@ -1515,6 +1521,10 @@ Steven outlines the process stages in Six Sigma (define, measure, analyze, impro
 > **CLI Commands:** find (1)
 > **Speakers:** - lean (1)
 
+
+## Instructor
+
+- [[Steven Brown]]
 
 ## Path Context
 

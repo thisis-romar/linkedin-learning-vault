@@ -19,8 +19,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/A%20First%20Look%20at%20the%20LinkedIn%20Hiring%20Assistant%20in%20Recruiter.md)
 
 ![A First Look at the LinkedIn Hiring Assistant in Recruiter](https://media.licdn.com/dms/image/v2/D4E0DAQFcB9tpYRV8uQ/learning-public-crop_675_1200/B4EZmXCpRDKoAY-/0/1759175677295?e=2147483647&amp;v=beta&amp;t=JNmPs3LzI5Oox0CRrNM2O7jmpPFJgvt5r3TCq3VIBKI)
 
@@ -31,13 +33,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter) | 20m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Christophe Ait-Ouaret]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Leveraging the LinkedIn AI Agent Hiring Assistant** (6 videos)
+
+### 1. Introduction
 
 #### Launching your hiring journey with Hiring Assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/launching-your-hiring-journey-with-hiring-assistant?u=76281980)
@@ -71,7 +74,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Leveraging the LinkedIn AI Agent Hiring Assistant
+### 2. 1. Leveraging the LinkedIn AI Agent Hiring Assistant
 
 #### Setting up your first Hiring Assistant project
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980)
@@ -494,6 +497,10 @@ created: 2026-04-21
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [trainer] (1)
 
+
+## Instructor
+
+- [[Christophe Ait-Ouaret]]
 
 ## Path Context
 

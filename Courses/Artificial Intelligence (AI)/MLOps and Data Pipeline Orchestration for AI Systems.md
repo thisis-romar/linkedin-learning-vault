@@ -38,8 +38,10 @@ tags:
   - skill/data-pipelines
   - skill/orchestration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/MLOps%20and%20Data%20Pipeline%20Orchestration%20for%20AI%20Systems.md)
 
 ![MLOps and Data Pipeline Orchestration for AI Systems](https://media.licdn.com/dms/image/v2/D4E0DAQFD5fYFdNH9Ug/learning-public-crop_675_1200/B4EZbqSXHjGkAY-/0/1747687404255?e=2147483647&amp;v=beta&amp;t=hbl-sUxDJgry-wXj7Pvl1DAZmttLLP28qxi6g_DutVM)
 
@@ -50,24 +52,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems) | 1h 19m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Janani Ravi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- MLOps
-- Artificial Intelligence (AI)
-- Data Pipelines
-- Orchestration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Need for MLOps** (4 videos)
+- **3. 2. MLOps with MLflow** (4 videos)
+- **4. 3. LLMOps for Large Language Models** (5 videos)
+- **5. 4. Data Orchestration Pipelines** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Importance of MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980)
@@ -136,7 +132,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Need for MLOps
+### 2. 1. The Need for MLOps
 
 #### Agile development and DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980)
@@ -554,7 +550,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. MLOps with MLflow
+### 3. 2. MLOps with MLflow
 
 #### Introducing MLflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980)
@@ -947,7 +943,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. LLMOps for Large Language Models
+### 4. 3. LLMOps for Large Language Models
 
 #### Introducing LLMOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980)
@@ -1428,7 +1424,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data Orchestration Pipelines
+### 5. 4. Data Orchestration Pipelines
 
 #### Components of a data orchestration pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/components-of-a-data-orchestration-pipeline?u=76281980)
@@ -1703,7 +1699,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Summary and further study
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980)
@@ -1743,6 +1739,21 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Janani Ravi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- MLOps
+- Artificial Intelligence (AI)
+- Data Pipelines
+- Orchestration
 
 ## Path Context
 

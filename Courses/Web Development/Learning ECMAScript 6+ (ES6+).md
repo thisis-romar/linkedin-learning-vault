@@ -35,8 +35,10 @@ tags:
   - skill/javascript
   - skill/ecmascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20ECMAScript%206%2B%20(ES6%2B).md)
 
 ![Learning ECMAScript 6+ (ES6+)](https://media.licdn.com/dms/image/v2/D4E0DAQEbJyxmzaY-ZA/learning-public-crop_675_1200/B4EZX4YHdPGYAk-/0/1743628826778?e=2147483647&amp;v=beta&amp;t=OrblxegD5XwDLlT3IMkO1ieZ6soW0C0J3gFtb_r5mtE)
 
@@ -47,22 +49,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus) | 1h 27m | Intermediate | 401K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eve Porcello]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- JavaScript
-- ECMAScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. What Is ECMAScript?** (3 videos)
+- **3. 2. ECMAScript Variables and Data Structures** (8 videos)
+- **4. 3. Arrays and Array Methods** (4 videos)
+- **5. 4. ECMAScript Objects** (8 videos)
+- **6. 5. ECMAScript Functions** (6 videos)
+- **7. 6. Asynchronous JavaScript** (6 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using modern JavaScript today
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980)
@@ -205,7 +205,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Is ECMAScript?
+### 2. 1. What Is ECMAScript?
 
 #### What is ECMAScript?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-is-ecmascript?u=76281980)
@@ -309,7 +309,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. ECMAScript Variables and Data Structures
+### 3. 2. ECMAScript Variables and Data Structures
 
 #### Using the let keyword
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980)
@@ -902,7 +902,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Arrays and Array Methods
+### 4. 3. Arrays and Array Methods
 
 #### Using the array spread operator
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-array-spread-operator?u=76281980)
@@ -1065,7 +1065,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. ECMAScript Objects
+### 5. 4. ECMAScript Objects
 
 #### Enhancing object literals
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/enhancing-object-literals?u=76281980)
@@ -1553,7 +1553,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. ECMAScript Functions
+### 6. 5. ECMAScript Functions
 
 #### Using the string.repeat function
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-string-repeat-function?u=76281980)
@@ -1919,7 +1919,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Asynchronous JavaScript
+### 7. 6. Asynchronous JavaScript
 
 #### Building promises
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/building-promises?u=76281980)
@@ -2425,7 +2425,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980)
@@ -2463,6 +2463,19 @@ created: 2026-04-21
 > **Env Vars:** tc39 (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Eve Porcello]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- JavaScript
+- ECMAScript
 
 ## Path Context
 

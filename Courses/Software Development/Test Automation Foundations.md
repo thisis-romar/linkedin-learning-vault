@@ -33,8 +33,10 @@ tags:
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Test%20Automation%20Foundations.md)
 
 ![Test Automation Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQFRnuvxMHYVhA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568058485055?e=2147483647&amp;v=beta&amp;t=vxoGdmva-xLTMogkOIdgJFuXOkC70-IZC4yU6RvzWX8)
 
@@ -45,22 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations) | Beginner | 234K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Meaghan Lewis]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/test-automation-foundations-728391)
-
-## Skills Covered
-
-- Test Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Test Types** (5 videos)
+- **3. 2. How to Approach Automation** (5 videos)
+- **4. 3. Testing Tools** (3 videos)
+- **5. 4. Decide What to Automate** (5 videos)
+- **6. 5. Adopt Test Automation** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build a foundation of test automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation-26042946?u=76281980)
@@ -154,7 +153,7 @@ created: 2026-04-21
 > **Speakers:** - every (1)
 
 
-### 1. Test Types
+### 2. 1. Test Types
 
 #### Agile Testing Quadrants
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980)
@@ -720,7 +719,7 @@ created: 2026-04-21
 > **Ports:** port 3000 (1)
 
 
-### 2. How to Approach Automation
+### 3. 2. How to Approach Automation
 
 #### Get the whole team involved
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/get-the-whole-team-involved-14474705?u=76281980)
@@ -1009,7 +1008,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Testing Tools
+### 4. 3. Testing Tools
 
 #### Framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980)
@@ -1250,7 +1249,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 4. Decide What to Automate
+### 5. 4. Decide What to Automate
 
 #### Scenarios to automate
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/scenarios-to-automate-26050845?u=76281980)
@@ -1500,7 +1499,7 @@ created: 2026-04-21
 > **Speakers:** - after (1)
 
 
-### 5. Adopt Test Automation
+### 6. 5. Adopt Test Automation
 
 #### Maintain standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/maintain-standards-14470766?u=76281980)
@@ -1838,7 +1837,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Advance your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/advance-your-skills?u=76281980)
@@ -1864,6 +1863,19 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Meaghan Lewis]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/test-automation-foundations-728391)
+
+## Skills Covered
+
+- Test Automation
 
 ## Path Context
 

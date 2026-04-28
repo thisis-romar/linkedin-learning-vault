@@ -34,43 +34,32 @@ tags:
   - skill/natural-language-processing-nlp
   - skill/spacy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20NLP%20Pipelines%20with%20spaCy.md)
 
 ![Building NLP Pipelines with spaCy](https://media.licdn.com/dms/image/v2/D560DAQGSkPQj_ARTiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682109018848?e=2147483647&amp;v=beta&amp;t=lM2LLL8LtXPGQkV_R3QLy3GIbwTXrRviITV5K423u_w)
 
 # Building NLP Pipelines with spaCy
 
-> Projects
-
-Predict linguistic annotations using a model. 
-Use PhraseMatcher and the add property feature to implement a matching operation and add patterns.
-Build a training loop from scratch.
-Label a dataset to prepare it for the training process, including the annotations for various entities.
-
-Looking to learn more about the key features and functionalities built into spaCy? Look no further. Thi
+> Projects Predict linguistic annotations using a model. Use PhraseMatcher and the add property feature to implement a matching operation and add patterns. Build a training loop from scratch. Label a dataset to prepare it for the training process, including the annotations for various entities. Looking to learn more about the key features and functionalities built into spaCy? Look no further. This c
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy) | 1h | Advanced | 24K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Prateek Sawhney]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/building-nlp-pipelines-with-spacy-3094275)
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- Natural Language Processing (NLP)
-- spaCy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Text Processing with spaCy** (6 videos)
+- **3. 2. Data Analysis Using spaCy** (5 videos)
+- **4. 3. Processing Pipelines with spaCy** (7 videos)
+- **5. 4. Training an Artificial Neural Network** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why use spaCy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980)
@@ -188,7 +177,7 @@ Looking to learn more about the key features and functionalities built into spaC
 > **CLI Commands:** pip (1)
 
 
-### 1. Text Processing with spaCy
+### 2. 1. Text Processing with spaCy
 
 #### Introduction to spaCy
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980)
@@ -562,7 +551,7 @@ Looking to learn more about the key features and functionalities built into spaC
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 2. Data Analysis Using spaCy
+### 3. 2. Data Analysis Using spaCy
 
 #### spaCy's data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980)
@@ -883,7 +872,7 @@ Looking to learn more about the key features and functionalities built into spaC
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
-### 3. Processing Pipelines with spaCy
+### 4. 3. Processing Pipelines with spaCy
 
 #### Processing pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/processing-pipelines?u=76281980)
@@ -1289,7 +1278,7 @@ Looking to learn more about the key features and functionalities built into spaC
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Training an Artificial Neural Network
+### 5. 4. Training an Artificial Neural Network
 
 #### Training and updating models
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980)
@@ -1626,7 +1615,7 @@ Looking to learn more about the key features and functionalities built into spaC
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980)
@@ -1662,6 +1651,21 @@ Looking to learn more about the key features and functionalities built into spaC
 > **Analogies:** such as (1)
 > **Speakers:** - [prateek (1)
 
+
+## Instructor
+
+- [[Prateek Sawhney]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/building-nlp-pipelines-with-spacy-3094275)
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- Natural Language Processing (NLP)
+- spaCy
 
 ## Path Context
 

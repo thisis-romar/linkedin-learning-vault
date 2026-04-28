@@ -37,8 +37,10 @@ tags:
   - skill/git
   - skill/version-control
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Git%20Essential%20Training.md)
 
 ![Git Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQFtri24YywCRA/learning-public-crop_675_1200/B4DZaSCsxDGwAc-/0/1746206904098?e=2147483647&amp;v=beta&amp;t=kWaRJNyIgQ-qsLPNYMvXiqqQgEhud2WqEhf2m-L3f5M)
 
@@ -49,23 +51,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984) | 1h 42m | Beginner | 17K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barbara Forbes]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/git-essential-training-5988161/codespaces)
-
-## Skills Covered
-
-- Git
-- Version Control
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Why Do You Want to Use Git?** (4 videos)
+- **3. 2. How Does Git Work?** (4 videos)
+- **4. 3. Install and Configure Git** (7 videos)
+- **5. 4. Push Your Code with Git** (10 videos)
+- **6. 5. Make Changes to Files** (12 videos)
+- **7. 6. Important Concepts in Git** (8 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get started with Git
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980)
@@ -139,7 +138,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Why Do You Want to Use Git?
+### 2. 1. Why Do You Want to Use Git?
 
 #### Git for version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980)
@@ -403,7 +402,7 @@ created: 2026-04-21
 > **Speakers:** - git (1)
 
 
-### 2. How Does Git Work?
+### 3. 2. How Does Git Work?
 
 #### Use Git locally
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/use-git-locally?u=76281980)
@@ -581,7 +580,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 3. Install and Configure Git
+### 4. 3. Install and Configure Git
 
 #### Use a Codespace for this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-codespace-for-this-course?u=76281980)
@@ -1008,7 +1007,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Push Your Code with Git
+### 5. 4. Push Your Code with Git
 
 #### Set up a remote repository
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980)
@@ -1548,7 +1547,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 5. Make Changes to Files
+### 6. 5. Make Changes to Files
 
 #### Git status
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-status?u=76281980)
@@ -2395,7 +2394,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. Important Concepts in Git
+### 7. 6. Important Concepts in Git
 
 #### Ignoring files
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/ignoring-files?u=76281980)
@@ -3012,7 +3011,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980)
@@ -3042,6 +3041,20 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Barbara Forbes]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/git-essential-training-5988161/codespaces)
+
+## Skills Covered
+
+- Git
+- Version Control
 
 ## Path Context
 

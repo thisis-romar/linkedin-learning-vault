@@ -32,8 +32,10 @@ tags:
   - topic/software-development
   - skill/internet-of-things-iot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/IoT%20Foundations-%20Fundamentals.md)
 
 ![IoT Foundations: Fundamentals](https://media.licdn.com/dms/image/v2/C4E0DAQEwo_BeSeIl5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644609662926?e=2147483647&amp;v=beta&amp;t=LHDUl_dk1XwZV5AO-U_k688tnbWbsg49b0kSMJU1llQ)
 
@@ -44,17 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals) | 41m | Beginner | 60K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bruce Sinclair]]
-
-## Skills Covered
-
-- Internet of Things (IoT)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The Software-Defined Product** (4 videos)
+- **3. 2. The Hardware-Defined Product** (4 videos)
+- **4. 3. The Network Fabric** (4 videos)
+- **5. 4. External Systems** (5 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### From physical to digital: Your first step into the Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980)
@@ -169,7 +172,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Software-Defined Product
+### 2. 1. The Software-Defined Product
 
 #### The digital twin
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980)
@@ -402,7 +405,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Hardware-Defined Product
+### 3. 2. The Hardware-Defined Product
 
 #### Hardware overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980)
@@ -550,7 +553,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. The Network Fabric
+### 4. 3. The Network Fabric
 
 #### Overview and standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-and-standards?u=76281980)
@@ -808,7 +811,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. External Systems
+### 5. 4. External Systems
 
 #### Overview of external systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980)
@@ -1059,7 +1062,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Main takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/main-takeaways?u=76281980)
@@ -1112,6 +1115,14 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Bruce Sinclair]]
+
+## Skills Covered
+
+- Internet of Things (IoT)
 
 ## Path Context
 

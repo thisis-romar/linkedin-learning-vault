@@ -28,8 +28,10 @@ tags:
   - skill/transact-sql-t-sql
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Introduction%20To%20Transact%20Sql.md)
 
 ![Introduction To Transact Sql](https://media.licdn.com/dms/image/v2/D560DAQHH7IzO1sAw6g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696613988629?e=2147483647&amp;v=beta&amp;t=OZyGCZE1JTIyFUaH5x0QwKxkJzQCwj_8DAAtULzstLw)
 
@@ -40,19 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585) | Beginner | 88K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-transact-sql-4451097)
-
-## Skills Covered
-
-- Transact-SQL (T-SQL)
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Introducing SELECT** (4 videos)
+- **3. 2. Filtering the Result Set** (7 videos)
+- **4. 3. Manipulating the Result Set** (4 videos)
+- **5. 4. Joins** (5 videos)
+- **6. 5. DDL and DML: Creating and Changing Data** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Transact-SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980)
@@ -201,7 +203,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Introducing SELECT
+### 2. 1. Introducing SELECT
 
 #### Structure of a SELECT statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980)
@@ -419,7 +421,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Filtering the Result Set
+### 3. 2. Filtering the Result Set
 
 #### Filtering data with WHERE using equalities
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980)
@@ -833,7 +835,7 @@ created: 2026-04-21
 > **Non-Speech:** (catchy upbeat music) (1)
 
 
-### 3. Manipulating the Result Set
+### 4. 3. Manipulating the Result Set
 
 #### ORDER BY
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980)
@@ -1040,7 +1042,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Joins
+### 5. 4. Joins
 
 #### INNER JOIN
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980)
@@ -1359,7 +1361,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. DDL and DML: Creating and Changing Data
+### 6. 5. DDL and DML: Creating and Changing Data
 
 #### Create a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980)
@@ -1785,7 +1787,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980)
@@ -1823,6 +1825,16 @@ created: 2026-04-21
 > **Code Keywords:** continue (2), let (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-transact-sql-4451097)
+
+## Skills Covered
+
+- Transact-SQL (T-SQL)
+- SQL
 
 ## Path Context
 

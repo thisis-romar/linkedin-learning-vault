@@ -33,31 +33,30 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands-On%20SQL%20Challenges-%20Test%20Your%20Knowledge.md)
 
 ![Hands-On SQL Challenges: Test Your Knowledge](https://media.licdn.com/dms/image/v2/D4D0DAQE6InISQKXVRQ/learning-public-crop_675_1200/B4DZU_uFWkGkAc-/0/1740530800297?e=2147483647&amp;v=beta&amp;t=v-UM2D7RGMmbAEZouV7Lqesawp6Sg_Gyf6XTHiDQ01o)
 
 # Hands-On SQL Challenges: Test Your Knowledge
 
-> The concise SQL challenges in this course let you stretch your brain and test your talents. Instructor Scott Simpson frames the challenges in real-world scenarios you might encounter. Tasks range from creating a table to store party guest information to creating a query to find books to feature for a library event.
- 
-This course includes Code Challenges powered by CoderPad. Code Challenges are int
+> The concise SQL challenges in this course let you stretch your brain and test your talents. Instructor Scott Simpson frames the challenges in real-world scenarios you might encounter. Tasks range from creating a table to store party guest information to creating a query to find books to feature for a library event. This course includes Code Challenges powered by CoderPad. Code Challenges are inter
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge) | 39m | Intermediate | 70K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott Simpson]]
-
-## Skills Covered
-
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. In the Restaurant** (12 videos)
+- **3. 2. At the Library** (8 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### SQL challenges to test your knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980)
@@ -180,7 +179,7 @@ This course includes Code Challenges powered by CoderPad. Code Challenges are in
 > **Speakers:** - [instructor] (1)
 
 
-### 1. In the Restaurant
+### 2. 1. In the Restaurant
 
 #### Solution: Create invitations for a party
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-create-invitations-for-a-party?u=76281980)
@@ -780,7 +779,7 @@ This course includes Code Challenges powered by CoderPad. Code Challenges are in
 > **Speakers:** - [instructor] (1)
 
 
-### 2. At the Library
+### 3. 2. At the Library
 
 #### Solution: Check book availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-book-availability?u=76281980)
@@ -1214,7 +1213,7 @@ This course includes Code Challenges powered by CoderPad. Code Challenges are in
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps in your SQL journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980)
@@ -1236,6 +1235,14 @@ This course includes Code Challenges powered by CoderPad. Code Challenges are in
 > **Env Vars:** sql (2)
 > **Speakers:** - [scott] (1)
 
+
+## Instructor
+
+- [[Scott Simpson]]
+
+## Skills Covered
+
+- SQL
 
 ## Path Context
 

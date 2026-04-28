@@ -37,8 +37,10 @@ tags:
   - skill/microsoft-power-bi
   - skill/chatgpt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI-%20Working%20Together%20with%20ChatGPT.md)
 
 ![Power BI: Working Together with ChatGPT](https://media.licdn.com/dms/image/v2/D560DAQHnubpIAJTZew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702591567718?e=2147483647&amp;v=beta&amp;t=EqNB5UpBY8hhritN8v5NcOzRLcCSoS-XFWdIcKaR3Jk)
 
@@ -49,24 +51,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt) | 53m | Intermediate | 23K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joshua Rischin]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business Analysis
-- Artificial Intelligence (AI)
-- Microsoft Power BI
-- ChatGPT
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding Power BI and OpenAI** (3 videos)
+- **3. 2. Power BI ChatGPT Data Integration** (5 videos)
+- **4. 3. Power BI ChatGPT Data Manipulation** (8 videos)
+- **5. 4. Power BI ChatGPT Data Analysis** (5 videos)
+- **6. Continuing Your Power BI and Generative AI Learning Journey** (3 videos)
+
+### 1. Introduction
 
 #### Working with Power BI and ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980)
@@ -132,7 +128,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 1. Understanding Power BI and OpenAI
+### 2. 1. Understanding Power BI and OpenAI
 
 #### What is Power BI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980)
@@ -261,7 +257,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 2. Power BI ChatGPT Data Integration
+### 3. 2. Power BI ChatGPT Data Integration
 
 #### Data source troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980)
@@ -576,7 +572,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. Power BI ChatGPT Data Manipulation
+### 4. 3. Power BI ChatGPT Data Manipulation
 
 #### Why use ChatGPT for data manipulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980)
@@ -1002,7 +998,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1), type. (1)
 
 
-### 4. Power BI ChatGPT Data Analysis
+### 5. 4. Power BI ChatGPT Data Analysis
 
 #### Why use ChatGPT for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-analysis?u=76281980)
@@ -1282,7 +1278,7 @@ created: 2026-04-21
 > **Definitions:** is called (1)
 
 
-### Continuing Your Power BI and Generative AI Learning Journey
+### 6. Continuing Your Power BI and Generative AI Learning Journey
 
 #### Take the next step with Copliot
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980)
@@ -1442,6 +1438,21 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
 
+
+## Instructor
+
+- [[Joshua Rischin]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business Analysis
+- Artificial Intelligence (AI)
+- Microsoft Power BI
+- ChatGPT
 
 ## Path Context
 

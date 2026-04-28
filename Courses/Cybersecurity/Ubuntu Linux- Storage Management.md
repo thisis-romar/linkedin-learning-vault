@@ -35,8 +35,10 @@ tags:
   - skill/linux-system-administration
   - skill/ubuntu
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ubuntu%20Linux-%20Storage%20Management.md)
 
 ![Ubuntu Linux: Storage Management](https://media.licdn.com/dms/image/v2/C4E0DAQF_CbvTEEp2ng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568056376216?e=2147483647&amp;v=beta&amp;t=XXIa9m3QogMVFdWBK9-H0xc3zaLqgssEL4BQdJSE2IM)
 
@@ -47,19 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management) | 1h 42m | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott Simpson]]
-
-## Skills Covered
-
-- Storage Management
-- Linux System Administration
-- Ubuntu
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Working with Partitions and Filesystems** (8 videos)
+- **3. 2. Logical Volume Management** (4 videos)
+- **4. 3. Filesystem Security and Backups** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/welcome?u=76281980)
@@ -298,7 +298,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Working with Partitions and Filesystems
+### 2. 1. Working with Partitions and Filesystems
 
 #### Explore and identify block devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980)
@@ -1530,7 +1530,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Logical Volume Management
+### 3. 2. Logical Volume Management
 
 #### Understanding LVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980)
@@ -1883,7 +1883,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Filesystem Security and Backups
+### 4. 3. Filesystem Security and Backups
 
 #### Access control lists (ACLs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/access-control-lists-acls?u=76281980)
@@ -2266,7 +2266,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/next-steps?u=76281980)
@@ -2292,6 +2292,16 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [scott] (1)
 
+
+## Instructor
+
+- [[Scott Simpson]]
+
+## Skills Covered
+
+- Storage Management
+- Linux System Administration
+- Ubuntu
 
 ## Path Context
 

@@ -13,8 +13,10 @@ tags:
   - topic/data-science
   - topic/database-management
   - topic/software-development
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Data%20Science/Jess%20Ramos.md)
 
 # Jess Ramos
 

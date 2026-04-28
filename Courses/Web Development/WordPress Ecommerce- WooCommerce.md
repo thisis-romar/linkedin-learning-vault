@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/woocommerce
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress%20Ecommerce-%20WooCommerce.md)
 
 ![WordPress Ecommerce: WooCommerce](https://media.licdn.com/dms/image/v2/C4E0DAQGpFxmduNAEPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568064318109?e=2147483647&amp;v=beta&amp;t=uOt8Qd8E_iq92BHTFlEe8L_tKEY6Ckv-WrX0HFWZxOA)
 
@@ -40,17 +42,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4) | 2h 39m | Beginner | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Patrick Rauland]]
-
-## Skills Covered
-
-- WooCommerce
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started** (2 videos)
+- **3. 2. Setting Up Shop with WooCommerce** (3 videos)
+- **4. 3. Adding Products** (12 videos)
+- **5. 4. Customizing Your Theme** (7 videos)
+- **6. 5. Setting Up Shipping Options** (7 videos)
+- **7. 6. Setting Up Payment** (4 videos)
+- **8. 7. Setting Up Taxes** (4 videos)
+- **9. 8. Connecting to Services** (3 videos)
+- **10. 9. Managing Sales** (5 videos)
+- **11. 10. WooCommerce Settings** (5 videos)
+- **12. 11. Mobile Apps** (1 videos)
+- **13. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Sell anything with WooCommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980)
@@ -113,7 +123,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Why WooCommerce?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980)
@@ -285,7 +295,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 2. Setting Up Shop with WooCommerce
+### 3. 2. Setting Up Shop with WooCommerce
 
 #### Downloading and installing WooCommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980)
@@ -608,7 +618,7 @@ created: 2026-04-21
 > **Code Identifiers:** ecommerce (1)
 
 
-### 3. Adding Products
+### 4. 3. Adding Products
 
 #### Adding a new product
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980)
@@ -1625,7 +1635,7 @@ created: 2026-04-21
 > **Code Identifiers:** sample_products (1)
 
 
-### 4. Customizing Your Theme
+### 5. 4. Customizing Your Theme
 
 #### Installing Storefront
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980)
@@ -2242,7 +2252,7 @@ created: 2026-04-21
 > **Speakers:** - [patrick] (1)
 
 
-### 5. Setting Up Shipping Options
+### 6. 5. Setting Up Shipping Options
 
 #### Choosing shipping options
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980)
@@ -2762,7 +2772,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Setting Up Payment
+### 7. 6. Setting Up Payment
 
 #### Configuring payment options
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-payment-options?u=76281980)
@@ -3168,7 +3178,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Setting Up Taxes
+### 8. 7. Setting Up Taxes
 
 #### Configuring tax settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-tax-settings?u=76281980)
@@ -3426,7 +3436,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Connecting to Services
+### 9. 8. Connecting to Services
 
 #### Installing Google Analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980)
@@ -3691,7 +3701,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Managing Sales
+### 10. 9. Managing Sales
 
 #### Testing the customer experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980)
@@ -4069,7 +4079,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. WooCommerce Settings
+### 11. 10. WooCommerce Settings
 
 #### General settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980)
@@ -4575,7 +4585,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Mobile Apps
+### 12. 11. Mobile Apps
 
 #### Installing the WooCommerce mobile app
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980)
@@ -4663,7 +4673,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 13. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980)
@@ -4714,6 +4724,14 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - [patrick] (1)
 
+
+## Instructor
+
+- [[Patrick Rauland]]
+
+## Skills Covered
+
+- WooCommerce
 
 ## Path Context
 

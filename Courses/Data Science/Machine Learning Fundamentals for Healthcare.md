@@ -31,8 +31,10 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Machine%20Learning%20Fundamentals%20for%20Healthcare.md)
 
 ![Machine Learning Fundamentals for Healthcare](https://media.licdn.com/dms/image/v2/D560DAQGnyiQWZapb8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719429863191?e=2147483647&amp;v=beta&amp;t=UjctZ-TdGGKEZBYHRbLQQGTfAU5xTiCsoOg7ohG5TjA)
 
@@ -43,13 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare) | 1h 36m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wuraola Oyewusi]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Fundamentals of Machine Learning for Healthcare** (14 videos)
+- **3. 2. Machine Learning for Tabular Healthcare Data** (6 videos)
+- **4. 3. Machine Learning for Tabular Healthcare Data: Unsupervised** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding machine learning in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/understanding-machine-learning-in-healthcare?u=76281980)
@@ -107,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Fundamentals of Machine Learning for Healthcare
+### 2. 1. Fundamentals of Machine Learning for Healthcare
 
 #### Machine learning, artificial intelligence, and data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980)
@@ -993,7 +999,7 @@ created: 2026-04-21
 > **Speakers:** - machine (1)
 
 
-### 2. Machine Learning for Tabular Healthcare Data
+### 3. 2. Machine Learning for Tabular Healthcare Data
 
 #### How to use a Google Colab Notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-use-google-colaboratory-notebook?u=76281980)
@@ -1608,7 +1614,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 
 
-### 3. Machine Learning for Tabular Healthcare Data: Unsupervised
+### 4. 3. Machine Learning for Tabular Healthcare Data: Unsupervised
 
 #### Clustering task: Localization data for person activity
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980)
@@ -1839,7 +1845,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980)
@@ -1879,6 +1885,10 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Wuraola Oyewusi]]
 
 ## Path Context
 

@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Navigating%20the%20EU%20AI%20Act.md)
 
 ![Navigating the EU AI Act](https://media.licdn.com/dms/image/v2/D4E0DAQHwNPi5Ey3fFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726009053071?e=2147483647&amp;v=beta&amp;t=hRu1mpELnB8TcNriJBBoxYmZnr-XYSOUiDZi5wWDVKc)
 
@@ -47,20 +49,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act) | 1h 22m | Intermediate | 146K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tristan Ingold]]
-
-## Skills Covered
-
-- Responsible AI
-- EU Law
-- Artificial Intelligence (AI)
-- Governance, Risk Management, and Compliance (GRC)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. EU AI Act Fundamentals** (4 videos)
+- **3. 2. Classifications and Requirements** (9 videos)
+- **4. 3. Provider and User Obligations** (4 videos)
+- **5. 4. Notify Authority** (2 videos)
+- **6. 5. Certification and Registration** (3 videos)
+- **7. 6. Support Innovation and Governance** (3 videos)
+- **8. 7. Monitoring, Enforcement, and Penalties** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get started with the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/get-started-with-the-eu-ai-act?u=76281980)
@@ -164,7 +167,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. EU AI Act Fundamentals
+### 2. 1. EU AI Act Fundamentals
 
 #### The goals of the AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-goals-of-the-ai-act?u=76281980)
@@ -375,7 +378,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Classifications and Requirements
+### 3. 2. Classifications and Requirements
 
 #### Prohibited artificial intelligence practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/prohibited-artificial-intelligence-practices?u=76281980)
@@ -928,7 +931,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Provider and User Obligations
+### 4. 3. Provider and User Obligations
 
 #### High-risk AI system provider obligations
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980)
@@ -1115,7 +1118,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Notify Authority
+### 5. 4. Notify Authority
 
 #### Define the notifying authority and bodies
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980)
@@ -1236,7 +1239,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Certification and Registration
+### 6. 5. Certification and Registration
 
 #### Conformity assessment procedures
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/conformity-assessment-procedures?u=76281980)
@@ -1389,7 +1392,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Support Innovation and Governance
+### 7. 6. Support Innovation and Governance
 
 #### AI regulatory sandboxes
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-regulatory-sandboxes?u=76281980)
@@ -1539,7 +1542,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Monitoring, Enforcement, and Penalties
+### 8. 7. Monitoring, Enforcement, and Penalties
 
 #### Post-market monitoring of AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/post-market-monitoring-of-ai-systems?u=76281980)
@@ -1747,7 +1750,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Additional references for AI Act compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/additional-references-for-ai-act-compliance?u=76281980)
@@ -1782,6 +1785,17 @@ created: 2026-04-21
 > **Code Keywords:** public (1)
 > **Speakers:** - throughout (1)
 
+
+## Instructor
+
+- [[Tristan Ingold]]
+
+## Skills Covered
+
+- Responsible AI
+- EU Law
+- Artificial Intelligence (AI)
+- Governance, Risk Management, and Compliance (GRC)
 
 ## Path Context
 

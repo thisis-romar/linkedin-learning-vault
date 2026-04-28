@@ -29,8 +29,10 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Agentic%20AI-%20Building%20Data-First%20AI%20Agents.md)
 
 ![Agentic AI: Building Data-First AI Agents](https://media.licdn.com/dms/image/v2/D560DAQFL4bRud3pXew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721841126256?e=2147483647&amp;v=beta&amp;t=D6WrF-aLEBaJ-TJaFNTNW3TdmYNjbt2msafQjvqvJks)
 
@@ -41,19 +43,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents) | 43m | 28K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Skills Covered
-
-- AI Productivity
-- AI Agents
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Data-First AI Agents** (10 videos)
+- **3. 2. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Data-first AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents/data-first-ai-agents?u=76281980)
@@ -73,7 +71,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 1. Data-First AI Agents
+### 2. 1. Data-First AI Agents
 
 #### The importance of data in AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents/the-importance-of-data-in-ai-agents?u=76281980)
@@ -956,7 +954,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 2. Conclusion
+### 3. 2. Conclusion
 
 #### Agentive AI as an opportunity space
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents/agentive-ai-as-an-opportunity-space?u=76281980)
@@ -1012,6 +1010,16 @@ created: 2026-04-21
 > **Code Keywords:** for. (1)
 > **Speakers:** - what (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Skills Covered
+
+- AI Productivity
+- AI Agents
+- Artificial Intelligence (AI)
 
 ## Path Context
 

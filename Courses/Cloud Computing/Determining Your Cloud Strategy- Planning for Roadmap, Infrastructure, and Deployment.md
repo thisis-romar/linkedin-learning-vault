@@ -40,8 +40,10 @@ tags:
   - skill/cloud-infrastructure
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Determining%20Your%20Cloud%20Strategy-%20Planning%20for%20Roadmap%2C%20Infrastructure%2C%20and%20Deployment.md)
 
 ![Determining Your Cloud Strategy: Planning for Roadmap, Infrastructure, and Deployment](https://media.licdn.com/dms/image/v2/D4E0DAQHEFsh3rY0RsA/learning-public-crop_675_1200/B4EZjxsn1.GoAg-/0/1756401663658?e=2147483647&amp;v=beta&amp;t=JqNa50FLj-1PN3vXiBE0nXHRUWO8YZbrwuRDfn36H2o)
 
@@ -52,19 +54,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment) | 38m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rashim Mogha]]
-
-## Skills Covered
-
-- Deployment Planning
-- Cloud Infrastructure
-- Cloud Strategy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Starting the Journey with the Cloud** (5 videos)
+- **3. 2. Identifying a Proof of Concept (POC) Project** (2 videos)
+- **4. 3. Creating a Center of Excellence (COE)** (3 videos)
+- **5. 4. Leveraging the Partner Ecosystem** (2 videos)
+- **6. 5. Designing for Emerging Tech Use Cases** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How to determine your cloud strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/how-to-determine-your-cloud-strategy?u=76281980)
@@ -94,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Starting the Journey with the Cloud
+### 2. 1. Starting the Journey with the Cloud
 
 #### Defining the need to move to the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980)
@@ -324,7 +326,7 @@ created: 2026-04-21
 > **Speakers:** - many (1)
 
 
-### 2. Identifying a Proof of Concept (POC) Project
+### 3. 2. Identifying a Proof of Concept (POC) Project
 
 #### Identifying the right candidate for a POC
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/identifying-the-right-candidate-for-poc?u=76281980)
@@ -402,7 +404,7 @@ created: 2026-04-21
 > **Speakers:** - after (1)
 
 
-### 3. Creating a Center of Excellence (COE)
+### 4. 3. Creating a Center of Excellence (COE)
 
 #### Defining the roles and responsibilities of the COE
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-roles-and-responsibilities-of-the-coe?u=76281980)
@@ -540,7 +542,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 4. Leveraging the Partner Ecosystem
+### 5. 4. Leveraging the Partner Ecosystem
 
 #### Finding the right partner
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/finding-the-right-partner?u=76281980)
@@ -614,7 +616,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### 5. Designing for Emerging Tech Use Cases
+### 6. 5. Designing for Emerging Tech Use Cases
 
 #### Designing for GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980)
@@ -741,7 +743,7 @@ created: 2026-04-21
 > **Speakers:** - natural (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980)
@@ -762,6 +764,16 @@ created: 2026-04-21
 >
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Rashim Mogha]]
+
+## Skills Covered
+
+- Deployment Planning
+- Cloud Infrastructure
+- Cloud Strategy
 
 ## Path Context
 

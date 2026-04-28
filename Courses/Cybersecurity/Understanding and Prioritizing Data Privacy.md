@@ -37,8 +37,10 @@ tags:
   - skill/data-privacy
   - skill/privacy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Understanding%20and%20Prioritizing%20Data%20Privacy.md)
 
 ![Understanding and Prioritizing Data Privacy](https://media.licdn.com/dms/image/v2/D560DAQHm5KkexQ4gig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729105321825?e=2147483647&amp;v=beta&amp;t=UZY-E3R3Io2EliR4zKPUHDM5hFD4ekF9YtwWoFPVjyc)
 
@@ -49,19 +51,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536) | 1h 17m | Beginner | 28K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michelle Dennedy]]
-
-## Skills Covered
-
-- Privacy Compliance
-- Data Privacy
-- Privacy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Comfortable with the Basics** (5 videos)
+- **3. 2. Why Should Anyone Care About Privacy?** (6 videos)
+- **4. 3. What's the Harm? Does Privacy Matter in the Age of AI?** (5 videos)
+- **5. 4. Privacy Solutions and Futures** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Protect personal information and foster trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/protect-personal-information-and-foster-trust?u=76281980)
@@ -200,7 +201,7 @@ created: 2026-04-21
 > **Speakers:** - privacy (1)
 
 
-### 1. Getting Comfortable with the Basics
+### 2. 1. Getting Comfortable with the Basics
 
 #### Data tells a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/data-tells-a-story?u=76281980)
@@ -487,7 +488,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Why Should Anyone Care About Privacy?
+### 3. 2. Why Should Anyone Care About Privacy?
 
 #### Data as a personal descriptor
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/data-as-a-personal-descriptor?u=76281980)
@@ -836,7 +837,7 @@ created: 2026-04-21
 > **Speakers:** - transparency (1)
 
 
-### 3. What's the Harm? Does Privacy Matter in the Age of AI?
+### 4. 3. What's the Harm? Does Privacy Matter in the Age of AI?
 
 #### Protecting the story
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/protecting-the-story?u=76281980)
@@ -1108,7 +1109,7 @@ created: 2026-04-21
 > **Speakers:** - data (1)
 
 
-### 4. Privacy Solutions and Futures
+### 5. 4. Privacy Solutions and Futures
 
 #### Trust, transparency, ethics, and accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/trust-transparency-ethics-and-accountability?u=76281980)
@@ -1523,7 +1524,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Guardians of trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/guardians-of-trust?u=76281980)
@@ -1546,6 +1547,16 @@ created: 2026-04-21
 > **CLI Commands:** go build (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Michelle Dennedy]]
+
+## Skills Covered
+
+- Privacy Compliance
+- Data Privacy
+- Privacy
 
 ## Path Context
 

@@ -33,8 +33,10 @@ tags:
   - skill/debugging
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C-%20Exception%20and%20Error%20Handling.md)
 
 ![C# Exception and Error Handling](https://media.licdn.com/dms/image/v2/D560DAQEHKuZhVdeGtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710284097660?e=2147483647&amp;v=beta&amp;t=bSBiVautAOtppfk3qFH7KdswMz5hbF2GKQY63uU-euE)
 
@@ -45,23 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling) | 56m | Advanced | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/c-sharp-exception-and-error-handling-3812037/codespaces)
-
-## Skills Covered
-
-- Debugging
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Overview** (1 videos)
+- **3. 2. Exception Basics** (7 videos)
+- **4. 3. Advanced Exceptions** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Exceptional times call for exception handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exceptional-times-call-for-exception-handling?u=76281980)
@@ -149,7 +145,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Overview
+### 2. 1. Overview
 
 #### What are exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/what-are-exceptions?u=76281980)
@@ -191,7 +187,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Exception Basics
+### 3. 2. Exception Basics
 
 #### Basic exception handling code
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980)
@@ -776,7 +772,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced Exceptions
+### 4. 3. Advanced Exceptions
 
 #### Using try-catch-finally
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/using-try-catch-finally?u=76281980)
@@ -1355,7 +1351,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/next-steps?u=76281980)
@@ -1385,6 +1381,20 @@ created: 2026-04-21
 > **Env Vars:** net (3)
 > **Speakers:** - [joe] (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/c-sharp-exception-and-error-handling-3812037/codespaces)
+
+## Skills Covered
+
+- Debugging
+- C#
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - topic/data-science
   - skill/graphic-design
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20to%20Graphic%20Design-%20Concepts.md)
 
 ![Introduction to Graphic Design: Concepts](https://media.licdn.com/dms/image/v2/D560DAQEL7fM_V2QpOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719432933113?e=2147483647&amp;v=beta&amp;t=Zi4UxLxSrBtVTVB-LJDa4Simdb3QNQXBsEuhkMHwCFQ)
 
@@ -43,17 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462) | 1h 3m | Beginner | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tony Harmer]]
-
-## Skills Covered
-
-- Graphic Design
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Graphic Design Projects** (6 videos)
+- **3. 2. Learning about Type and Typography** (7 videos)
+- **4. 3. Layout and Composition** (6 videos)
+- **5. 4. Color** (7 videos)
+- **6. 5. Imagery** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980)
@@ -77,7 +81,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Graphic Design Projects
+### 2. 1. Graphic Design Projects
 
 #### The creative process
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-process?u=76281980)
@@ -266,7 +270,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### 2. Learning about Type and Typography
+### 3. 2. Learning about Type and Typography
 
 #### Font vs. type
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980)
@@ -753,7 +757,7 @@ created: 2026-04-21
 > **[0:25](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-quote-poster?u=76281980&t=25)** Have fun.
 
 
-### 3. Layout and Composition
+### 4. 3. Layout and Composition
 
 #### Principles of layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980)
@@ -1009,7 +1013,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 4. Color
+### 5. 4. Color
 
 #### Color
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color?u=76281980)
@@ -1279,7 +1283,7 @@ created: 2026-04-21
 > **CLI Commands:** make (4)
 
 
-### 5. Imagery
+### 6. 5. Imagery
 
 #### Photo vs. illustration
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980)
@@ -1424,7 +1428,7 @@ created: 2026-04-21
 > **[0:26](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-the-art-of-cropping?u=76281980&t=26)** It's a good thing to do and something you will probably never stop doing although the card is like training wheels and once your eye gets accustomed to it you kind of don't need the card anymore.
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980)
@@ -1443,6 +1447,14 @@ created: 2026-04-21
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980&t=27)** See ya.
 
+
+## Instructor
+
+- [[Tony Harmer]]
+
+## Skills Covered
+
+- Graphic Design
 
 ## Path Context
 

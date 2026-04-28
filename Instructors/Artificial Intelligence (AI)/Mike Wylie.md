@@ -11,8 +11,10 @@ tags:
   - instructor
   - topic/artificial-intelligence
   - topic/security
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Artificial%20Intelligence%20(AI)/Mike%20Wylie.md)
 
 # Mike Wylie
 

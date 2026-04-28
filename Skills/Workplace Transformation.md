@@ -3,11 +3,16 @@ type: skill
 cssclasses:
   - lle-skill
 course_count: 1
+level_beginner: 0
+level_intermediate: 0
+level_advanced: 0
 tags:
   - skill
   - skill/workplace-transformation
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Workplace%20Transformation.md)
 
 # Workplace Transformation
 
@@ -15,4 +20,8 @@ created: 2026-04-21
 
 ## Courses
 
-- [[Tips to Make Your Office Eco-Friendly]]
+- [[Tips to Make Your Office Eco-Friendly]] — 59m · 40,150 learners
+
+## Related Skills
+
+- [[Sustainable Business]] — 1 shared course

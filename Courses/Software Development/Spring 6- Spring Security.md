@@ -32,8 +32,10 @@ tags:
   - skill/spring-security
   - skill/spring-boot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Spring%206-%20Spring%20Security.md)
 
 ![Spring 6: Spring Security](https://media.licdn.com/dms/image/v2/D4E0DAQGM42dYNIUQUw/learning-public-crop_675_1200/B4EZaNvIdDHoAY-/0/1746134665323?e=2147483647&amp;v=beta&amp;t=_d-79CVF9PcZt994YTHF1qhQl94G3OXpRDEJLCb1qG4)
 
@@ -44,23 +46,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security) | 1h 30m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Frank P Moley III]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/spring-6-spring-security-5985041/codespaces)
-
-## Skills Covered
-
-- Spring Security
-- Spring Boot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Spring Security Concepts** (2 videos)
+- **3. 2. Securing Web Applications with Spring** (9 videos)
+- **4. 3. LDAP Authentication** (4 videos)
+- **5. 4. Leveraging OAuth 2.0 with Spring Security** (3 videos)
+- **6. 5. WebFlux Security** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Secure with Spring Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/secure-with-spring-security?u=76281980)
@@ -151,7 +149,7 @@ created: 2026-04-21
 > **Tools:** command line (1)
 
 
-### 1. Spring Security Concepts
+### 2. 1. Spring Security Concepts
 
 #### Introduction to Spring Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980)
@@ -302,7 +300,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Securing Web Applications with Spring
+### 3. 2. Securing Web Applications with Spring
 
 #### Introduction to project
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980)
@@ -1182,7 +1180,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. LDAP Authentication
+### 4. 3. LDAP Authentication
 
 #### Introduction to LDAP for authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980)
@@ -1485,7 +1483,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Leveraging OAuth 2.0 with Spring Security
+### 5. 4. Leveraging OAuth 2.0 with Spring Security
 
 #### Introduction to OAuth 2.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980)
@@ -1786,7 +1784,7 @@ created: 2026-04-21
 > **Versions:** java 21 (1)
 
 
-### 5. WebFlux Security
+### 6. 5. WebFlux Security
 
 #### Introduction to WebFlux Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-webflux-security?u=76281980)
@@ -1946,7 +1944,7 @@ created: 2026-04-21
 > **Tools:** terminal (2)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980)
@@ -2009,6 +2007,20 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Frank P Moley III]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/spring-6-spring-security-5985041/codespaces)
+
+## Skills Covered
+
+- Spring Security
+- Spring Boot
 
 ## Path Context
 

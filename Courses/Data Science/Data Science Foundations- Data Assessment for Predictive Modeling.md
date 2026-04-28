@@ -42,8 +42,10 @@ tags:
   - skill/data-science-foundations
   - skill/predictive-modeling
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20Foundations-%20Data%20Assessment%20for%20Predictive%20Modeling.md)
 
 ![Data Science Foundations: Data Assessment for Predictive Modeling](https://media.licdn.com/dms/image/v2/C4E0DAQFx4WaFvwWKLw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599578679605?e=2147483647&amp;v=beta&amp;t=yMdG8xDSxMB15lD6aLA0RoBiy52XL1Y1evSnXP1-dRk)
 
@@ -54,24 +56,26 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling) | 4h 8m | Intermediate | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- CRISP-DM
-- Data Assessment
-- Data Science Foundations
-- Predictive Modeling
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is Data Assessment?** (5 videos)
+- **3. 2. Collect Initial Data** (5 videos)
+- **4. 3. First Look at the Data** (9 videos)
+- **5. 4. Data Loading and Unit of Analysis** (5 videos)
+- **6. 5. Describe Data** (4 videos)
+- **7. 6. Data Description Case Studies** (3 videos)
+- **8. 7. Explore Data Basics** (8 videos)
+- **9. 8. Explore Data Tips and Tricks** (9 videos)
+- **10. 9. Verify Data Quality** (3 videos)
+- **11. 10. Missing Data Case Study** (4 videos)
+- **12. 11. Explore and Verify Case Studies** (3 videos)
+- **13. 12. Making the Transition to Data Preparation** (3 videos)
+- **14. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why data assessment is critical
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-data-assessment-is-critical?u=76281980)
@@ -153,7 +157,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Is Data Assessment?
+### 2. 1. What Is Data Assessment?
 
 #### Clarifying how data understanding differs from data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/clarifying-how-data-understanding-differs-from-data-visualization?u=76281980)
@@ -542,7 +546,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 2. Collect Initial Data
+### 3. 2. Collect Initial Data
 
 #### Considerations in gathering the relevant data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/considerations-in-gathering-the-relevant-data?u=76281980)
@@ -849,7 +853,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. First Look at the Data
+### 4. 3. First Look at the Data
 
 #### Reviewing basic concepts in the level of measurement
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/reviewing-basic-concepts-in-the-level-of-measurement?u=76281980)
@@ -1563,7 +1567,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Data Loading and Unit of Analysis
+### 5. 4. Data Loading and Unit of Analysis
 
 #### Introducing the KNIME Analytics Platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980)
@@ -2156,7 +2160,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Describe Data
+### 6. 5. Describe Data
 
 #### How to uncover the gross properties of the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980)
@@ -2544,7 +2548,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Data Description Case Studies
+### 7. 6. Data Description Case Studies
 
 #### Describe data demo using the UCI heart dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980)
@@ -2905,7 +2909,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Explore Data Basics
+### 8. 7. Explore Data Basics
 
 #### The explore data task
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-explore-data-task?u=76281980)
@@ -3830,7 +3834,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Explore Data Tips and Tricks
+### 9. 8. Explore Data Tips and Tricks
 
 #### How to utilize an SME's time effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-utilize-an-sme-s-time-effectively?u=76281980)
@@ -4537,7 +4541,7 @@ created: 2026-04-21
 > **Non-Speech:** (electronic music) (1)
 
 
-### 9. Verify Data Quality
+### 10. 9. Verify Data Quality
 
 #### Exploring your missing data options
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980)
@@ -4760,7 +4764,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Missing Data Case Study
+### 11. 10. Missing Data Case Study
 
 #### Introducing the KDD Cup 1998 data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980)
@@ -5329,7 +5333,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Explore and Verify Case Studies
+### 12. 11. Explore and Verify Case Studies
 
 #### Exploring and verifying data quality with the UCI heart dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980)
@@ -5540,7 +5544,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 12. Making the Transition to Data Preparation
+### 13. 12. Making the Transition to Data Preparation
 
 #### Why formal reports are important
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980)
@@ -5748,7 +5752,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 14. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980)
@@ -5792,6 +5796,21 @@ created: 2026-04-21
 > **Code Keywords:** try. (1)
 > **Speakers:** - [keith (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- CRISP-DM
+- Data Assessment
+- Data Science Foundations
+- Predictive Modeling
 
 ## Path Context
 

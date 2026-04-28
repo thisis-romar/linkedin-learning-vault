@@ -34,8 +34,10 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/MLOps%20Essentials-%20Monitoring%20Model%20Drift%20and%20Bias.md)
 
 ![MLOps Essentials: Monitoring Model Drift and Bias](https://media.licdn.com/dms/image/v2/D560DAQGeeHwGfnMVDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696443937130?e=2147483647&amp;v=beta&amp;t=mGC8mXrlm7hNClnvS9urtHlv1dkv7UdDwUYkqYuvBFo)
 
@@ -46,22 +48,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias) | 1h 5m | Intermediate | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- MLOps
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Model Monitoring** (4 videos)
+- **3. 2. Model Drift Basics** (5 videos)
+- **4. 3. Detecting Model Drift** (6 videos)
+- **5. 4. Drift Monitoring Process and Best Practices** (4 videos)
+- **6. 5. Introduction to Model Bias** (5 videos)
+- **7. 6. Bias Detection and Best Practices** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The need for model monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/the-need-for-model-monitoring?u=76281980)
@@ -151,7 +151,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Introduction to Model Monitoring
+### 2. 1. Introduction to Model Monitoring
 
 #### ML models in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980)
@@ -359,7 +359,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Model Drift Basics
+### 3. 2. Model Drift Basics
 
 #### Introduction to model drift
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/introduction-to-model-drift?u=76281980)
@@ -642,7 +642,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Detecting Model Drift
+### 4. 3. Detecting Model Drift
 
 #### Detecting concept drift
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-concept-drift?u=76281980)
@@ -959,7 +959,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Drift Monitoring Process and Best Practices
+### 5. 4. Drift Monitoring Process and Best Practices
 
 #### Drift monitoring pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/drift-monitoring-pipeline?u=76281980)
@@ -1171,7 +1171,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Introduction to Model Bias
+### 6. 5. Introduction to Model Bias
 
 #### Fairness and bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/fairness-and-bias?u=76281980)
@@ -1381,7 +1381,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Bias Detection and Best Practices
+### 7. 6. Bias Detection and Best Practices
 
 #### Bias detection techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/bias-detection-techniques?u=76281980)
@@ -1639,7 +1639,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/next-steps?u=76281980)
@@ -1662,6 +1662,19 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- MLOps
+- Artificial Intelligence (AI)
 
 ## Path Context
 

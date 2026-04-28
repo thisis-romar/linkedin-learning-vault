@@ -21,8 +21,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Accessibility%20for%20Web%20Design.md)
 
 ![Accessibility for Web Design](https://media.licdn.com/dms/image/v2/C4E0DAQFEldSjvm_oGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655410107982?e=2147483647&amp;v=beta&amp;t=yBzaHJwb36X3FR4o11qUaIdyzTF1ol-eXOPxh297Nyg)
 
@@ -33,13 +35,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design) | 1h 58m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Derek Featherstone]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Real-World Scenarios** (2 videos)
+- **3. 2. Accessible Visual Design** (5 videos)
+- **4. 3. Keyboard Interaction** (3 videos)
+- **5. 4. Touch Interfaces** (3 videos)
+- **6. 5. Images and Multimedia Accessibility** (4 videos)
+- **7. 6. Form Accessibility** (4 videos)
+- **8. 7. Flexibility and Accessibility** (3 videos)
+- **9. 8. Structured Content** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Making the digital world accessible
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980)
@@ -81,7 +92,7 @@ created: 2026-04-21
 > **Speakers:** - 14 (1)
 
 
-### 1. Real-World Scenarios
+### 2. 1. Real-World Scenarios
 
 #### An ecommerce purchase
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/an-ecommerce-purchase-14870326?u=76281980)
@@ -308,7 +319,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Accessible Visual Design
+### 3. 2. Accessible Visual Design
 
 #### The use of color
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980)
@@ -834,7 +845,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 3. Keyboard Interaction
+### 4. 3. Keyboard Interaction
 
 #### Keyboard functionality
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980)
@@ -1202,7 +1213,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 4. Touch Interfaces
+### 5. 4. Touch Interfaces
 
 #### Accessibility and touch
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980)
@@ -1476,7 +1487,7 @@ created: 2026-04-21
 > **Speakers:** - gestures (1)
 
 
-### 5. Images and Multimedia Accessibility
+### 6. 5. Images and Multimedia Accessibility
 
 #### Working with audio and video
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-audio-and-video-14870323?u=76281980)
@@ -1982,7 +1993,7 @@ created: 2026-04-21
 > **Speakers:** - all (1)
 
 
-### 6. Form Accessibility
+### 7. 6. Form Accessibility
 
 #### Labeling forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/labeling-forms-14875142?u=76281980)
@@ -2321,7 +2332,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 7. Flexibility and Accessibility
+### 8. 7. Flexibility and Accessibility
 
 #### Flexible vs. fixed width designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980)
@@ -2643,7 +2654,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 8. Structured Content
+### 9. 8. Structured Content
 
 #### Content hierarchy and headings
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/content-hierarchy-and-headings-14869537?u=76281980)
@@ -2918,7 +2929,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### A challenge for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980)
@@ -2949,6 +2960,10 @@ created: 2026-04-21
 > **URLs:** [simplyaccessible.com](https://simplyaccessible.com) (1)
 > **Speakers:** - almost (1)
 
+
+## Instructor
+
+- [[Derek Featherstone]]
 
 ## Path Context
 

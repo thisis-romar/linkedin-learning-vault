@@ -33,8 +33,10 @@ tags:
   - skill/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Securing%20Cloud%20Resources%20with%20Microsoft%20Defender%20for%20Cloud.md)
 
 ![Securing Cloud Resources with Microsoft Defender for Cloud](https://media.licdn.com/dms/image/v2/C560DAQF9TniyjeEAFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655937477081?e=2147483647&amp;v=beta&amp;t=l2jHiAZyNqcpKtfi4L2ErjYvQ1Dc3jnLZtDrMv52LZ8)
 
@@ -45,19 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud) | 2h 35m | Intermediate | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Stuti Kaushal]]
-
-## Skills Covered
-
-- Microsoft Defender
-- Cloud Computing
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Manage Security with Microsoft Defender for Cloud** (6 videos)
+- **3. 2. Cloud Security** (5 videos)
+- **4. 3. Working with Security Center Recommendations** (6 videos)
+- **5. 4. Firewall Manager** (6 videos)
+- **6. 5. Managing Security Solutions** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Importance of securing your workloads on the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980)
@@ -192,7 +194,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 1. Manage Security with Microsoft Defender for Cloud
+### 2. 1. Manage Security with Microsoft Defender for Cloud
 
 #### Microsoft Defender for Cloud overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980)
@@ -917,7 +919,7 @@ created: 2026-04-21
 > **Speakers:** - security (1)
 
 
-### 2. Cloud Security
+### 3. 2. Cloud Security
 
 #### Working with security alerts
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980)
@@ -1428,7 +1430,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Working with Security Center Recommendations
+### 4. 3. Working with Security Center Recommendations
 
 #### Secure Score: Access and track your secure score
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980)
@@ -1925,7 +1927,7 @@ created: 2026-04-21
 > **Speakers:** - [woman] (1)
 
 
-### 4. Firewall Manager
+### 5. 4. Firewall Manager
 
 #### Get started with Firewall Manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980)
@@ -2944,7 +2946,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 5. Managing Security Solutions
+### 6. 5. Managing Security Solutions
 
 #### Integrate security solutions and data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980)
@@ -3431,7 +3433,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### More about Azure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980)
@@ -3460,6 +3462,16 @@ created: 2026-04-21
 >
 > **Speakers:** - security (1)
 
+
+## Instructor
+
+- [[Stuti Kaushal]]
+
+## Skills Covered
+
+- Microsoft Defender
+- Cloud Computing
+- Microsoft Azure
 
 ## Path Context
 

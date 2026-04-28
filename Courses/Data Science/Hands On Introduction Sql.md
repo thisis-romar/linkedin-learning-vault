@@ -27,8 +27,10 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands%20On%20Introduction%20Sql.md)
 
 ![Hands On Introduction Sql](https://media.licdn.com/dms/image/v2/D560DAQFce8T-RjMmAg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667324559752?e=2147483647&amp;v=beta&amp;t=FiYoxpiVs6Llxkp2UZOQZPHtpSMbiNmw2i1UESIeMpg)
 
@@ -39,17 +41,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql) | Intermediate | 102K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-sql-3086685/codespaces)
-
-## Skills Covered
-
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Select Statement** (5 videos)
+- **3. 2. New Tables and Data** (5 videos)
+- **4. 3. Modifying Existing Tables** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980)
@@ -140,7 +142,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Select Statement
+### 2. 1. The Select Statement
 
 #### Fetch data
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980)
@@ -975,7 +977,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. New Tables and Data
+### 3. 2. New Tables and Data
 
 #### Create new tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980)
@@ -1474,7 +1476,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Modifying Existing Tables
+### 4. 3. Modifying Existing Tables
 
 #### Modify rows and columns in tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/modify-rows-and-columns-in-tables?u=76281980)
@@ -1715,7 +1717,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/next-steps?u=76281980)
@@ -1742,6 +1744,14 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-sql-3086685/codespaces)
+
+## Skills Covered
+
+- SQL
 
 ## Path Context
 

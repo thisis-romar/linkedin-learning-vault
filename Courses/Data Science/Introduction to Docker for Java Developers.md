@@ -32,39 +32,32 @@ tags:
   - skill/docker-products
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20to%20Docker%20for%20Java%20Developers.md)
 
 ![Introduction to Docker for Java Developers](https://media.licdn.com/dms/image/v2/C560DAQEXn8hdCFwYyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652976343988?e=2147483647&amp;v=beta&amp;t=3r0qemij4p7e8dw6NpNMAmaRdBCd7FlQ0Wlfg_FBPEE)
 
 # Introduction to Docker for Java Developers
 
-> Projects
-
-Use the Docker Engine CLI and Dockerfile commands to convert Java Source code into a running containerized application without installing build tools or a run-time environment.
-
-Docker—a leading software container platform—can simplify the overall application delivery experience. In this course, expert software developer Mary Ellen Bowman helps you get started with Docker, with easy-to-u
+> Projects Use the Docker Engine CLI and Dockerfile commands to convert Java Source code into a running containerized application without installing build tools or a run-time environment. Docker—a leading software container platform—can simplify the overall application delivery experience. In this course, expert software developer Mary Ellen Bowman helps you get started with Docker, with easy-to-use
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers) | 1h 22m | Advanced | 33K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mary Ellen Bowman]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/docker-for-java-developers-2452212)
-
-## Skills Covered
-
-- Docker Products
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started** (4 videos)
+- **3. 2. Understanding Docker** (8 videos)
+- **4. 3. Containerization Best Practices** (5 videos)
+- **5. 4. Dockerfile Alternatives** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Zero to Zero to Hero
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980)
@@ -148,7 +141,7 @@ Docker—a leading software container platform—can simplify the overall applic
 > **Speakers:** - [mary] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Imagine building and launching a Java app without Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980)
@@ -549,7 +542,7 @@ Docker—a leading software container platform—can simplify the overall applic
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Understanding Docker
+### 3. 2. Understanding Docker
 
 #### Understanding containerization
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/understanding-containerization?u=76281980)
@@ -1141,7 +1134,7 @@ Docker—a leading software container platform—can simplify the overall applic
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Containerization Best Practices
+### 4. 3. Containerization Best Practices
 
 #### Layering in Docker images
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980)
@@ -1898,7 +1891,7 @@ Docker—a leading software container platform—can simplify the overall applic
 > **UI Navigation:** go to (2)
 
 
-### 4. Dockerfile Alternatives
+### 5. 4. Dockerfile Alternatives
 
 #### Ditching the Dockerfile
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980)
@@ -2161,7 +2154,7 @@ Docker—a leading software container platform—can simplify the overall applic
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980)
@@ -2200,6 +2193,20 @@ Docker—a leading software container platform—can simplify the overall applic
 > **Analogies:** such as (1)
 > **Speakers:** - [mary (1)
 
+
+## Instructor
+
+- [[Mary Ellen Bowman]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/docker-for-java-developers-2452212)
+
+## Skills Covered
+
+- Docker Products
+- Java
 
 ## Path Context
 

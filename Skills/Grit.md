@@ -3,11 +3,16 @@ type: skill
 cssclasses:
   - lle-skill
 course_count: 1
+level_beginner: 0
+level_intermediate: 0
+level_advanced: 0
 tags:
   - skill
   - skill/grit
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Grit.md)
 
 # Grit
 
@@ -15,4 +20,9 @@ created: 2026-04-21
 
 ## Courses
 
-- [[Building Resilience]]
+- [[Building Resilience]] — 43m · 309,875 learners
+
+## Related Skills
+
+- [[Wellness]] — 1 shared course
+- [[Resiliency]] — 1 shared course

@@ -27,8 +27,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Awareness-%20Social%20Engineering.md)
 
 ![Cybersecurity Awareness: Social Engineering](https://media.licdn.com/dms/image/v2/D560DAQFNSSp1_JJtVg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696022453326?e=2147483647&amp;v=beta&amp;t=Ys0mSMllhARC46F_RLfOWWxIQLx3egJ3OWt-PlMQ78Y)
 
@@ -39,13 +41,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721) | 55m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Stephanie Ihezukwu]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Social Engineering Tactics** (8 videos)
+- **3. 2. Safeguarding Your Company from Attacks** (10 videos)
+- **4. 3. Testing Your Defenses** (2 videos)
+- **5. 4. Cybersecurity Awareness** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Defeat social engineers and cyber scammers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/defeat-social-engineers-and-cyber-scammers?u=76281980)
@@ -107,7 +114,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Social Engineering Tactics
+### 2. 1. Social Engineering Tactics
 
 #### Influence and decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/influence-and-decision-making?u=76281980)
@@ -662,7 +669,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 2. Safeguarding Your Company from Attacks
+### 3. 2. Safeguarding Your Company from Attacks
 
 #### Cybersecurity awareness training
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980)
@@ -1289,7 +1296,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Testing Your Defenses
+### 4. 3. Testing Your Defenses
 
 #### Phishing simulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980)
@@ -1403,7 +1410,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Cybersecurity Awareness
+### 5. 4. Cybersecurity Awareness
 
 #### Active and passive education
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980)
@@ -1510,7 +1517,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continue your cybersecurity awareness journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980)
@@ -1562,6 +1569,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Stephanie Ihezukwu]]
 
 ## Path Context
 

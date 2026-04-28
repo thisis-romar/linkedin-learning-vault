@@ -27,8 +27,10 @@ tags:
   - topic/security
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS%20Quick%20Tips%20for%20Developers.md)
 
 ![AWS Quick Tips for Developers](https://media.licdn.com/dms/image/v2/C4E0DAQFx0el_PyVw9w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668497463?e=2147483647&amp;v=beta&amp;t=vRRGtd4b9BYc4pyoM6tHtgFJiC3VWXQjcLDUxiQCQmg)
 
@@ -39,17 +41,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers) | 24m | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bear Cahill]]
-
-## Skills Covered
-
-- Amazon Web Services (AWS)
-
 ## Table of Contents
 
-### Amazon Web Services Quick Tips
+### Chapter Overview
+
+- **1. Amazon Web Services Quick Tips** (21 videos)
+
+### 1. Amazon Web Services Quick Tips
 
 #### Amazon Web Services quick tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/amazon-web-services-quick-tips?u=76281980)
@@ -859,6 +857,14 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Bear Cahill]]
+
+## Skills Covered
+
+- Amazon Web Services (AWS)
 
 ## Path Context
 

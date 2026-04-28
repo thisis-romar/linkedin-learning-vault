@@ -33,8 +33,10 @@ tags:
   - skill/security-risk
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Security%20Risks%20in%20AI%20and%20Machine%20Learning-%20Categorizing%20Attacks%20and%20Failure%20Modes%20(2022).md)
 
 ![Security Risks in AI and Machine Learning: Categorizing Attacks and Failure Modes (2022)](https://media.licdn.com/dms/image/v2/D560DAQHhUUuH979xIA/learning-public-crop_675_1200/B56Zm6nBRSHkAY-/0/1759772415815?e=2147483647&amp;v=beta&amp;t=pdfcdwtoQPJ71B7YZmpVgtHNh0KM2iy-wsr9ynM0AfM)
 
@@ -45,23 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022) | 1h 11m | Beginner | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Diana Kelley]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- Security Risk
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Machine Learning Foundations** (4 videos)
+- **3. 2. Intentional Failure Modes/Attacks** (9 videos)
+- **4. 3. Unintentional Failure Modes/Intrinsic Design Flaws** (5 videos)
+- **5. 4. Building Resilient ML** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Machine learning security concerns
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/machine-learning-security-concerns?u=76281980)
@@ -113,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Machine Learning Foundations
+### 2. 1. Machine Learning Foundations
 
 #### How systems can fail and how to protect them
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/how-systems-can-fail-and-how-to-protect-them?u=76281980)
@@ -361,7 +358,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Intentional Failure Modes/Attacks
+### 3. 2. Intentional Failure Modes/Attacks
 
 #### Perturbation attacks and AUPs
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980)
@@ -797,7 +794,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Unintentional Failure Modes/Intrinsic Design Flaws
+### 4. 3. Unintentional Failure Modes/Intrinsic Design Flaws
 
 #### Reward hacking
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980)
@@ -1078,7 +1075,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Building Resilient ML
+### 5. 4. Building Resilient ML
 
 #### Effective techniques for building resilience in ML
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/effective-techniques-for-building-resilience-in-ml?u=76281980)
@@ -1341,7 +1338,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/next-steps?u=76281980)
@@ -1378,6 +1375,20 @@ created: 2026-04-21
 >
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Diana Kelley]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- Security Risk
+- Artificial Intelligence (AI)
 
 ## Path Context
 

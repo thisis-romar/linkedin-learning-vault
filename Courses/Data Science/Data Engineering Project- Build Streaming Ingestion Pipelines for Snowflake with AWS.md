@@ -33,8 +33,10 @@ tags:
   - skill/amazon-web-services-aws
   - skill/snowflake
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Engineering%20Project-%20Build%20Streaming%20Ingestion%20Pipelines%20for%20Snowflake%20with%20AWS.md)
 
 ![Data Engineering Project: Build Streaming Ingestion Pipelines for Snowflake with AWS](https://media.licdn.com/dms/image/v2/D560DAQFYxkbCu6heUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707265232207?e=2147483647&amp;v=beta&amp;t=BqmAu3bGAEAjxMNoh5fRf8caE5tLQ8i-XVyeNNJG_R4)
 
@@ -45,23 +47,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws) | 50m | Intermediate | 72K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sagar Suri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Streaming
-- Amazon Web Services (AWS)
-- Snowflake
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to Data Streaming, AWS, and Snowflake** (4 videos)
+- **3. 2. Building a Streaming Pipeline** (9 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building streaming data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980)
@@ -165,7 +160,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 1. Introduction to Data Streaming, AWS, and Snowflake
+### 2. 1. Introduction to Data Streaming, AWS, and Snowflake
 
 #### Why AWS and Snowflake?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980)
@@ -368,7 +363,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Building a Streaming Pipeline
+### 3. 2. Building a Streaming Pipeline
 
 #### Setting up your MSK cluster and EC2 instance
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980)
@@ -1154,7 +1149,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Course review and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980)
@@ -1188,6 +1183,20 @@ created: 2026-04-21
 > **Env Vars:** aws (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Sagar Suri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Streaming
+- Amazon Web Services (AWS)
+- Snowflake
 
 ## Path Context
 

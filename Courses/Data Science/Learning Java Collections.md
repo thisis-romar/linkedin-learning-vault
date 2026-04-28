@@ -33,8 +33,10 @@ tags:
   - skill/java-frameworks
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Java%20Collections.md)
 
 ![Learning Java Collections](https://media.licdn.com/dms/image/v2/C560DAQGoBE1qOqZWYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632758718519?e=2147483647&amp;v=beta&amp;t=jS6Sttg7CC_Ih1guav7yWTsnm9o81ZF1hfmdgzzhIgI)
 
@@ -45,23 +47,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections) | 3h 10m | Intermediate | 346K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Bowersox]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/java-collections-2421704)
-
-## Skills Covered
-
-- Java Frameworks
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Java Collections Framework** (5 videos)
+- **3. 2. The Foundations of Java Collections** (10 videos)
+- **4. 3. Iterating Collections** (7 videos)
+- **5. 4. Set** (3 videos)
+- **6. 5. List** (4 videos)
+- **7. 6. Queue and Deque** (4 videos)
+- **8. 7. Map** (7 videos)
+- **9. 8. Collections Utilities** (4 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Java collections framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980)
@@ -134,7 +135,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Java Collections Framework
+### 2. 1. Java Collections Framework
 
 #### Solving everyday problems with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980)
@@ -545,7 +546,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Foundations of Java Collections
+### 3. 2. The Foundations of Java Collections
 
 #### Interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/interfaces?u=76281980)
@@ -1576,7 +1577,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Iterating Collections
+### 4. 3. Iterating Collections
 
 #### Iterating collection elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980)
@@ -2295,7 +2296,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Set
+### 5. 4. Set
 
 #### Set
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/set?u=76281980)
@@ -2523,7 +2524,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. List
+### 6. 5. List
 
 #### List interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980)
@@ -2981,7 +2982,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 6. Queue and Deque
+### 7. 6. Queue and Deque
 
 #### Queue interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/queue-interface?u=76281980)
@@ -3375,7 +3376,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Map
+### 8. 7. Map
 
 #### Map interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980)
@@ -3908,7 +3909,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Collections Utilities
+### 9. 8. Collections Utilities
 
 #### Ordering elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/ordering-elements?u=76281980)
@@ -4324,7 +4325,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Course wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980)
@@ -4373,6 +4374,20 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [kevin] (1)
 
+
+## Instructor
+
+- [[Kevin Bowersox]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/java-collections-2421704)
+
+## Skills Covered
+
+- Java Frameworks
+- Java
 
 ## Path Context
 

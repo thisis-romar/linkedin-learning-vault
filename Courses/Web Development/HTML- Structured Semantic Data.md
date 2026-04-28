@@ -30,8 +30,10 @@ tags:
   - skill/html
   - skill/semantic-markup
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML-%20Structured%20Semantic%20Data.md)
 
 ![HTML: Structured Semantic Data](https://media.licdn.com/dms/image/v2/D4D0DAQG5-RNXkFb0aw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244976799?e=2147483647&amp;v=beta&amp;t=SSeom6RBaEaeCE_WtszcOYXOcsJOH4o14QTfVljaUbQ)
 
@@ -42,22 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data) | 1h 33m | Advanced | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jen Kramer]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- HTML
-- Semantic Markup
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Implementing Data Schemes with Microdata** (8 videos)
+- **3. 2. Working with JSON-LD** (5 videos)
+- **4. 3. Structured Data Examples** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Appreciating the value of the semantic web
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980)
@@ -301,7 +298,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 1. Implementing Data Schemes with Microdata
+### 2. 1. Implementing Data Schemes with Microdata
 
 #### Using itemscope and itemtype to add meaning
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980)
@@ -1052,7 +1049,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Working with JSON-LD
+### 3. 2. Working with JSON-LD
 
 #### Writing JSON-LD by hand
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980)
@@ -1361,7 +1358,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 
 
-### 3. Structured Data Examples
+### 4. 3. Structured Data Examples
 
 #### Understanding rich search results from Google
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/understanding-rich-search-results-from-google?u=76281980)
@@ -1856,7 +1853,7 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980)
@@ -1885,6 +1882,19 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jen Kramer]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- HTML
+- Semantic Markup
 
 ## Path Context
 

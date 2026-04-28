@@ -41,35 +41,34 @@ tags:
   - topic/software-development
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Foundations.md)
 
 ![Cybersecurity Foundations](https://media.licdn.com/dms/image/v2/C4D0DAQEN6tzpqeODiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679006448947?e=2147483647&amp;v=beta&amp;t=xn_WRH0g4JxZMwPIX0aTDe2_0hEXyH2_jdIa-HGh0wo)
 
 # Cybersecurity Foundations
 
-> Set a rock-solid foundation for your network, users, and data by learning about the basics of cybersecurity. Join security expert Malcolm Shore as he describes how to assess and mitigate risks using various cybersecurity frameworks and control standards, such as NIST and COBIT.
- 
-Malcolm details pertinent cyber threats and how they operate, including how cyber criminals hide their attacks, how adv
+> Set a rock-solid foundation for your network, users, and data by learning about the basics of cybersecurity. Join security expert Malcolm Shore as he describes how to assess and mitigate risks using various cybersecurity frameworks and control standards, such as NIST and COBIT. Malcolm details pertinent cyber threats and how they operate, including how cyber criminals hide their attacks, how advan
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082) | Beginner | 246K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Cyber Threats** (12 videos)
+- **3. 2. Frameworks for Protection against Cyber Threats** (12 videos)
+- **4. 3. Making Cybersecurity Effective** (10 videos)
+- **5. 4. Detecting and Managing Cyber Incidents** (6 videos)
+- **6. 5. Cybersecurity and AI** (4 videos)
+- **7. 6. Cyber Diplomacy** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding the cybersecurity frameworks and standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cybersecurity-frameworks-and-standards?u=76281980)
@@ -119,7 +118,7 @@ Malcolm details pertinent cyber threats and how they operate, including how cybe
 > **Speakers:** - [host] (1)
 
 
-### 1. Cyber Threats
+### 2. 1. Cyber Threats
 
 #### Understanding the Cyber Kill Chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980)
@@ -1165,7 +1164,7 @@ Malcolm details pertinent cyber threats and how they operate, including how cybe
 > **Speakers:** - [speaker] (1)
 
 
-### 2. Frameworks for Protection against Cyber Threats
+### 3. 2. Frameworks for Protection against Cyber Threats
 
 #### The Orange Book: Early concepts in computer security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-orange-book-early-concepts-in-computer-security?u=76281980)
@@ -1924,7 +1923,7 @@ Malcolm details pertinent cyber threats and how they operate, including how cybe
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Making Cybersecurity Effective
+### 4. 3. Making Cybersecurity Effective
 
 #### Architecting for security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/architecting-for-security?u=76281980)
@@ -2668,7 +2667,7 @@ Malcolm details pertinent cyber threats and how they operate, including how cybe
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Detecting and Managing Cyber Incidents
+### 5. 4. Detecting and Managing Cyber Incidents
 
 #### Incident management basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980)
@@ -3105,7 +3104,7 @@ Malcolm details pertinent cyber threats and how they operate, including how cybe
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Cybersecurity and AI
+### 6. 5. Cybersecurity and AI
 
 #### Intoduction to AI security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980)
@@ -3392,7 +3391,7 @@ Malcolm details pertinent cyber threats and how they operate, including how cybe
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Cyber Diplomacy
+### 7. 6. Cyber Diplomacy
 
 #### Cybersecurity goes global
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980)
@@ -3632,7 +3631,7 @@ Malcolm details pertinent cyber threats and how they operate, including how cybe
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980)
@@ -3662,6 +3661,18 @@ Malcolm details pertinent cyber threats and how they operate, including how cybe
 > **CLI Commands:** find (3)
 > **Speakers:** - [host] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cybersecurity
 
 ## Path Context
 

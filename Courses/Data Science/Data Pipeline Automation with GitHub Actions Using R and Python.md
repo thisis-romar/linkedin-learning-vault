@@ -36,8 +36,10 @@ tags:
   - skill/github
   - skill/data-pipelines
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Pipeline%20Automation%20with%20GitHub%20Actions%20Using%20R%20and%20Python.md)
 
 ![Data Pipeline Automation with GitHub Actions Using R and Python](https://media.licdn.com/dms/image/v2/D560DAQHvVdDve6puQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713388433219?e=2147483647&amp;v=beta&amp;t=mG5AuFH5Tkyk2oiJYqBS0Zx_Z2OiYNRNGFYlNWvTuoA)
 
@@ -48,25 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python) | 2h 12m | Intermediate | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rami Krispin]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/data-pipeline-automation-with-github-actions-4503382)
-
-## Skills Covered
-
-- Python (Programming Language)
-- R (Programming Language)
-- GitHub
-- Data Pipelines
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. EIA API** (17 videos)
+- **3. 2. Data Automation** (7 videos)
+- **4. 3. Deployment** (7 videos)
+- **5. 4. Monitoring** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Data pipeline automation with GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980)
@@ -126,7 +121,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. EIA API
+### 2. 1. EIA API
 
 #### EIA API
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980)
@@ -1539,7 +1534,7 @@ created: 2026-04-21
 > **Tools:** jupyter (1), vs code (1)
 
 
-### 2. Data Automation
+### 3. 2. Data Automation
 
 #### Data pipeline scope and requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980)
@@ -2046,7 +2041,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Deployment
+### 4. 3. Deployment
 
 #### Introduction to GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980)
@@ -2652,7 +2647,7 @@ created: 2026-04-21
 > **Env Vars:** api (1)
 
 
-### 4. Monitoring
+### 5. 4. Monitoring
 
 #### Data pipeline maintenance
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980)
@@ -2771,7 +2766,7 @@ created: 2026-04-21
 > **UI Navigation:** open the (1), select the (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/next-steps?u=76281980)
@@ -2790,6 +2785,22 @@ created: 2026-04-21
 >
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Rami Krispin]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/data-pipeline-automation-with-github-actions-4503382)
+
+## Skills Covered
+
+- Python (Programming Language)
+- R (Programming Language)
+- GitHub
+- Data Pipelines
 
 ## Path Context
 

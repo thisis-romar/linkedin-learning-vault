@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Playwright%20Essential%20Training-%20Abstractions%2C%20Fixtures%2C%20and%20Complex%20Scenarios.md)
 
 ![Playwright Essential Training: Abstractions, Fixtures, and Complex Scenarios](https://media.licdn.com/dms/image/v2/D4E0DAQE9lAhxTlWiCg/learning-public-crop_675_1200/B4EZcYCy.PHsAc-/0/1748455076488?e=2147483647&amp;v=beta&amp;t=CPHzDNayYyzEjIJFGfimqD6l_PUS5tJY7f9d8NmHDqE)
 
@@ -41,22 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios) | 4h 9m | Intermediate | 56K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Butch Mayhew]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios-4278224)
-
-## Skills Covered
-
-- Test Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Abstractions in Playwright** (10 videos)
+- **3. 2. Fixtures in Playwright** (7 videos)
+- **4. 3. Mocking and Emulation in Playwright** (8 videos)
+- **5. 4. Customizing the Playwright Config** (4 videos)
+- **6. 5. Handling Complex Scenarios and Interactions in Playwright** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Level up your Playwright skills: Complex scenarios simplified
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/level-up-your-playwright-skills-complex-scenarios-simplified?u=76281980)
@@ -387,7 +386,7 @@ created: 2026-04-21
 > **Exercise Files:** source code (1)
 
 
-### 1. Abstractions in Playwright
+### 2. 1. Abstractions in Playwright
 
 #### Abstractions: Pros and cons
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/abstractions-pros-and-cons?u=76281980)
@@ -1904,7 +1903,7 @@ created: 2026-04-21
 > **Documentation:** spec (1)
 
 
-### 2. Fixtures in Playwright
+### 3. 2. Fixtures in Playwright
 
 #### Overview of Playwright fixtures
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-playwright-fixtures?u=76281980)
@@ -2490,7 +2489,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 3. Mocking and Emulation in Playwright
+### 4. 3. Mocking and Emulation in Playwright
 
 #### Overview of network routing in Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980)
@@ -3749,7 +3748,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1), is an  (1)
 
 
-### 4. Customizing the Playwright Config
+### 5. 4. Customizing the Playwright Config
 
 #### Running a webserver during a Playwright test
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980)
@@ -4239,7 +4238,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 5. Handling Complex Scenarios and Interactions in Playwright
+### 6. 5. Handling Complex Scenarios and Interactions in Playwright
 
 #### Working with multiple windows and popups in Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980)
@@ -5086,7 +5085,7 @@ created: 2026-04-21
 > **Env Vars:** html (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/next-steps?u=76281980)
@@ -5129,6 +5128,19 @@ created: 2026-04-21
 > **URLs:** [playwrightsolutions.com](https://playwrightsolutions.com) (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Butch Mayhew]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios-4278224)
+
+## Skills Covered
+
+- Test Automation
 
 ## Path Context
 

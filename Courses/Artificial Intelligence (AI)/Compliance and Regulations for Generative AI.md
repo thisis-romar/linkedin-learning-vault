@@ -41,8 +41,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/regulatory-compliance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Compliance%20and%20Regulations%20for%20Generative%20AI.md)
 
 ![Compliance and Regulations for Generative AI](https://media.licdn.com/dms/image/v2/D4D0DAQHBw8wDaw_IHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713457300053?e=2147483647&amp;v=beta&amp;t=zV8-kg6hvhpKDhEWV7dA-SJZhwm_c8y8QWLaBIluD9c)
 
@@ -53,24 +55,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai) | 40m | 334K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adrián González Sánchez]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Responsible AI
-- Generative AI
-- Artificial Intelligence (AI)
-- Regulatory Compliance
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Generative AI Fundamentals** (5 videos)
+- **3. 2. Main Governance and Compliance Topics** (6 videos)
+- **4. 3. Regulation Case: EU AI Act** (4 videos)
+- **5. 4. Other Governance Topics** (3 videos)
+- **6. 5. Case Study: ACME EdTech** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to Gen AI compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/introduction-to-gen-ai-compliance?u=76281980)
@@ -113,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Generative AI Fundamentals
+### 2. 1. Generative AI Fundamentals
 
 #### Origins of artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/origins-of-artificial-intelligence?u=76281980)
@@ -245,7 +242,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Main Governance and Compliance Topics
+### 3. 2. Main Governance and Compliance Topics
 
 #### AI ethics and regulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/ai-ethics-and-regulations?u=76281980)
@@ -439,7 +436,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Regulation Case: EU AI Act
+### 4. 3. Regulation Case: EU AI Act
 
 #### Backstory for the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/backstory-for-the-eu-ai-act?u=76281980)
@@ -564,7 +561,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Other Governance Topics
+### 5. 4. Other Governance Topics
 
 #### AI principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/ai-principles?u=76281980)
@@ -697,7 +694,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Case Study: ACME EdTech
+### 6. 5. Case Study: ACME EdTech
 
 #### Company introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/company-introduction?u=76281980)
@@ -891,7 +888,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/next-steps?u=76281980)
@@ -924,6 +921,21 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Adrián González Sánchez]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Responsible AI
+- Generative AI
+- Artificial Intelligence (AI)
+- Regulatory Compliance
 
 ## Path Context
 

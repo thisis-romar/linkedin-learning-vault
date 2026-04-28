@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20PowerPoint%20Online%20(Microsoft%20365).md)
 
 ![Learning PowerPoint Online (Microsoft 365)](https://media.licdn.com/dms/image/v2/C4E0DAQFllYccXG5rlQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656547032366?e=2147483647&amp;v=beta&amp;t=WR1qifqtxlqi4W-KX_RvwOHR0LdLT-LbfayLBOz9X88)
 
@@ -41,21 +43,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365) | 1h 40m | Beginner | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Heather Severino]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft PowerPoint
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Design Your Slides** (10 videos)
+- **3. 2. Audio and Video** (2 videos)
+- **4. 3. Sharing and Coediting** (4 videos)
+- **5. 4. Viewing and Printing** (7 videos)
+- **6. 5. Uploading and Saving to Cloud Libraries** (3 videos)
+- **7. 6. PowerPoint Help** (2 videos)
+- **8. 7. Working with the Mobile App** (1 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting to know PowerPoint for the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980)
@@ -114,7 +116,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Design Your Slides
+### 2. 1. Design Your Slides
 
 #### Create a new presentation in OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980)
@@ -1032,7 +1034,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Audio and Video
+### 3. 2. Audio and Video
 
 #### Dictate slide content
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980)
@@ -1216,7 +1218,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Sharing and Coediting
+### 4. 3. Sharing and Coediting
 
 #### Share a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980)
@@ -1514,7 +1516,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Viewing and Printing
+### 5. 4. Viewing and Printing
 
 #### Add and view slide notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/add-and-view-slide-notes?u=76281980)
@@ -2129,7 +2131,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Uploading and Saving to Cloud Libraries
+### 6. 5. Uploading and Saving to Cloud Libraries
 
 #### Upload a presentation to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980)
@@ -2337,7 +2339,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. PowerPoint Help
+### 7. 6. PowerPoint Help
 
 #### Get assistance with Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980)
@@ -2537,7 +2539,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Working with the Mobile App
+### 8. 7. Working with the Mobile App
 
 #### Work with the iOS PowerPoint app
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-the-ios-powerpoint-app?u=76281980)
@@ -2630,7 +2632,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Create more with PowerPoint for the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980)
@@ -2655,6 +2657,18 @@ created: 2026-04-21
 > **Code Keywords:** continue (1), let (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Heather Severino]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft PowerPoint
 
 ## Path Context
 

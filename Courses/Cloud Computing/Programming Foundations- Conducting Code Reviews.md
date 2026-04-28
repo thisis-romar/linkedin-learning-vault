@@ -35,8 +35,10 @@ tags:
   - skill/programming
   - skill/programming-foundations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Programming%20Foundations-%20Conducting%20Code%20Reviews.md)
 
 ![Programming Foundations: Conducting Code Reviews](https://media.licdn.com/dms/image/v2/C4E0DAQFg1VRrRPHVLw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1598983087938?e=2147483647&amp;v=beta&amp;t=QSQljaqSW3I7U85GVUydXmgwRciNsPLbdDGonDk0zCA)
 
@@ -47,19 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews) | 1h 26m | Beginner | 38K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kathryn Hodge]]
-
-## Skills Covered
-
-- Code Review
-- Programming
-- Programming Foundations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Basics of Code Reviews** (4 videos)
+- **3. 2. Performing a Code Review** (7 videos)
+- **4. 3. Reviewing Code on the Cloud** (6 videos)
+- **5. 4. Implementing a Feature** (4 videos)
+- **6. 5. Submitting Code for Review** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Write great code reviews to advance your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-great-code-reviews-to-advance-your-career?u=76281980)
@@ -125,7 +127,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Basics of Code Reviews
+### 2. 1. Basics of Code Reviews
 
 #### What is a code review?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980)
@@ -316,7 +318,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Performing a Code Review
+### 3. 2. Performing a Code Review
 
 #### Understand the author’s purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/understand-the-author-s-purpose?u=76281980)
@@ -755,7 +757,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 3. Reviewing Code on the Cloud
+### 4. 3. Reviewing Code on the Cloud
 
 #### Find code to review on GitHub
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980)
@@ -1371,7 +1373,7 @@ created: 2026-04-21
 > **UI Navigation:** navigate to (1)
 
 
-### 4. Implementing a Feature
+### 5. 4. Implementing a Feature
 
 #### Scope of a code change
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/scope-of-a-code-change?u=76281980)
@@ -1671,7 +1673,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Submitting Code for Review
+### 6. 5. Submitting Code for Review
 
 #### Create a pull request (PR)
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/create-a-pull-request-pr?u=76281980)
@@ -2131,7 +2133,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Add code reviews into your daily job
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980)
@@ -2166,6 +2168,16 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [kathryn] (1)
 
+
+## Instructor
+
+- [[Kathryn Hodge]]
+
+## Skills Covered
+
+- Code Review
+- Programming
+- Programming Foundations
 
 ## Path Context
 

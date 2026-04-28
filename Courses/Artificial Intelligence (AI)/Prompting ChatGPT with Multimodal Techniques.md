@@ -36,38 +36,28 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompting%20ChatGPT%20with%20Multimodal%20Techniques.md)
 
 ![Prompting ChatGPT with Multimodal Techniques](https://media.licdn.com/dms/image/v2/D4E0DAQEL03xcjCpqag/learning-public-crop_675_1200/B4EZrb41vCGUAY-/0/1764625702146?e=2147483647&amp;v=beta&amp;t=NcHp6VgmBRHNkEULL2S22bTdcKofC5fYe6KICW0Zcig)
 
 # Prompting ChatGPT with Multimodal Techniques
 
-> With OpenAI’s announcements of GPT-4 Turbo being added to the ChatGPT tool, there’s a whole new way of prompting using ChatGPT. 
-
-In this course, you’ll learn to use all of the capabilities added during the recent DevDays announcements. We’ll start by learning to brainstorm audio inputs with the mobile version of ChatGPT, then you'll discover how to analyze and generate images, use Python to load 
+> With OpenAI’s announcements of GPT-4 Turbo being added to the ChatGPT tool, there’s a whole new way of prompting using ChatGPT. In this course, you’ll learn to use all of the capabilities added during the recent DevDays announcements. We’ll start by learning to brainstorm audio inputs with the mobile version of ChatGPT, then you'll discover how to analyze and generate images, use Python to load da
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques) | 23m | Beginner | 553K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI Prompting
-- Artificial Intelligence (AI)
-- ChatGPT
-- Prompt Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Multimodal Prompting with ChatGPT 4.5 Turbo** (8 videos)
+
+### 1. Introduction
 
 #### Level up your prompting with Multimodal features
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980)
@@ -98,7 +88,7 @@ In this course, you’ll learn to use all of the capabilities added during the r
 > **Speakers:** - the (1)
 
 
-### 1. Multimodal Prompting with ChatGPT 4.5 Turbo
+### 2. 1. Multimodal Prompting with ChatGPT 4.5 Turbo
 
 #### ChatGPT Free versus ChatGPT Plus
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980)
@@ -702,6 +692,21 @@ In this course, you’ll learn to use all of the capabilities added during the r
 > **Prerequisites:** configure (1)
 > **Speakers:** - the (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI Prompting
+- Artificial Intelligence (AI)
+- ChatGPT
+- Prompt Engineering
 
 ## Path Context
 

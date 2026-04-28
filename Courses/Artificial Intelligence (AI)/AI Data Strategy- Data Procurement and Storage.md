@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-storage
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Data%20Strategy-%20Data%20Procurement%20and%20Storage.md)
 
 ![AI Data Strategy: Data Procurement and Storage](https://media.licdn.com/dms/image/v2/D4D0DAQEyf_XnVwwjZQ/learning-public-crop_675_1200/B4DZZu_NUFH4AY-/0/1745618785783?e=2147483647&amp;v=beta&amp;t=5jBVU1DWBFmqQrXDnCgXkdzGmA-Y5c9Ip7M_20Iqkl8)
 
@@ -48,21 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage) | 2h 27m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lillian Pierson]]
-- [[P.E]]
-
-## Skills Covered
-
-- Data Engineering
-- AI Strategy
-- Artificial Intelligence (AI)
-- Data Storage
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. AI Data Strategy** (5 videos)
+- **3. 2. Data Procurement and Sources** (9 videos)
+- **4. 3. Storage Considerations for AI Products** (4 videos)
+- **5. 4. Case Study Assessments** (1 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI data strategy: Data procurement and storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980)
@@ -110,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 1. AI Data Strategy
+### 2. 1. AI Data Strategy
 
 #### Strategic decision-making in AI product development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980)
@@ -755,7 +754,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 2. Data Procurement and Sources
+### 3. 2. Data Procurement and Sources
 
 #### Sourcing structured data for ML-driven AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980)
@@ -1817,7 +1816,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Storage Considerations for AI Products
+### 4. 3. Storage Considerations for AI Products
 
 #### Choosing scalable storage solutions for ML-driven AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980)
@@ -2264,7 +2263,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Case Study Assessments
+### 5. 4. Case Study Assessments
 
 #### Design a real-world data strategy for an AI-powered product
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980)
@@ -2409,7 +2408,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/next-steps?u=76281980)
@@ -2430,6 +2429,18 @@ created: 2026-04-21
 >
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lillian Pierson]]
+- [[P.E]]
+
+## Skills Covered
+
+- Data Engineering
+- AI Strategy
+- Artificial Intelligence (AI)
+- Data Storage
 
 ## Path Context
 

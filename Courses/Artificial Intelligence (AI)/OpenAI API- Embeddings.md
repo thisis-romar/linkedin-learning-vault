@@ -36,8 +36,10 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Embeddings.md)
 
 ![OpenAI API: Embeddings](https://media.licdn.com/dms/image/v2/D560DAQE9xBCnX-ribQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706053833371?e=2147483647&amp;v=beta&amp;t=PHi2llEvmWZ5FBrQUEGAg4se_z_lvEYuD_s73S4jsT4)
 
@@ -48,25 +50,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings) | 27m | Intermediate | 58K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kesha Williams]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-embeddings-3836239)
-
-## Skills Covered
-
-- OpenAI API
-- Embedded Software
-- OpenAI Products
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Embeddings** (2 videos)
+- **3. 2. Obtaining Embeddings via the Embeddings API** (3 videos)
+- **4. 3. Using Embeddings in the Real World** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to embeddings
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980)
@@ -93,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - [kesha] (1)
 
 
-### 1. Understanding Embeddings
+### 2. 1. Understanding Embeddings
 
 #### Explore embeddings
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980)
@@ -204,7 +198,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Obtaining Embeddings via the Embeddings API
+### 3. 2. Obtaining Embeddings via the Embeddings API
 
 #### Explore the Embeddings API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980)
@@ -435,7 +429,7 @@ created: 2026-04-21
 > **URLs:** [openai.com](https://openai.com) (1)
 
 
-### 3. Using Embeddings in the Real World
+### 4. 3. Using Embeddings in the Real World
 
 #### Cluster similar words
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980)
@@ -614,7 +608,7 @@ created: 2026-04-21
 > **UI Navigation:** scroll down (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Your embeddings journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/your-embeddings-journey?u=76281980)
@@ -647,6 +641,22 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [kesha] (1)
 
+
+## Instructor
+
+- [[Kesha Williams]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-embeddings-3836239)
+
+## Skills Covered
+
+- OpenAI API
+- Embedded Software
+- OpenAI Products
+- Artificial Intelligence (AI)
 
 ## Path Context
 

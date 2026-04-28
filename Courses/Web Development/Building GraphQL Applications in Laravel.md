@@ -30,33 +30,33 @@ tags:
   - skill/graphql
   - skill/laravel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20GraphQL%20Applications%20in%20Laravel.md)
 
 ![Building GraphQL Applications in Laravel](https://media.licdn.com/dms/image/v2/C560DAQE3QENCPg-P-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664905998454?e=2147483647&amp;v=beta&amp;t=hrwbzw2DCv-YMLHurxVO7NfWGYeGb6_m3z-m2is56Ns)
 
 # Building GraphQL Applications in Laravel
 
-> Projects
-
-Build a GraphQL API in PHP; create queries; and create, update, and delete a user, leveraging Lighthouse.
-GraphQL is a query language for APIs that enables application-to-application communication and provides a complete and understandable description of the data in your API, making it easier to evolve APIs over time. GraphQL lets you ask for what you want in a single query by enabling c
+> Projects Build a GraphQL API in PHP; create queries; and create, update, and delete a user, leveraging Lighthouse. GraphQL is a query language for APIs that enables application-to-application communication and provides a complete and understandable description of the data in your API, making it easier to evolve APIs over time. GraphQL lets you ask for what you want in a single query by enabling cl
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel) | 44m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rasheeda Yehuza]]
-
-## Skills Covered
-
-- GraphQL
-- Laravel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding GraphQL** (3 videos)
+- **3. 2. Introduction to GraphQL Schemas and Types** (5 videos)
+- **4. 3. Development Environment Setup** (5 videos)
+- **5. 4. GraphQL Queries** (5 videos)
+- **6. 5. GraphQL Mutations** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build GraphQL apps in Laravel
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980)
@@ -86,7 +86,7 @@ GraphQL is a query language for APIs that enables application-to-application com
 > **Speakers:** - [mandeeya] (1)
 
 
-### 1. Understanding GraphQL
+### 2. 1. Understanding GraphQL
 
 #### What is GraphQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/what-is-graphql?u=76281980)
@@ -233,7 +233,7 @@ GraphQL is a query language for APIs that enables application-to-application com
 > **Speakers:** - so (1)
 
 
-### 2. Introduction to GraphQL Schemas and Types
+### 3. 2. Introduction to GraphQL Schemas and Types
 
 #### The type system
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-type-system?u=76281980)
@@ -439,7 +439,7 @@ GraphQL is a query language for APIs that enables application-to-application com
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Development Environment Setup
+### 4. 3. Development Environment Setup
 
 #### Prerequisite and development environment checklist
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980)
@@ -731,7 +731,7 @@ GraphQL is a query language for APIs that enables application-to-application com
 > **Non-Speech:** (typing) (1)
 
 
-### 4. GraphQL Queries
+### 5. 4. GraphQL Queries
 
 #### Diving into GraphQL queries with Lighthouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-queries-with-lighthouse?u=76281980)
@@ -993,7 +993,7 @@ GraphQL is a query language for APIs that enables application-to-application com
 > **Speakers:** - [instructor] (1)
 
 
-### 5. GraphQL Mutations
+### 6. 5. GraphQL Mutations
 
 #### Diving into GraphQL mutations with Lighthouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-mutations-with-lighthouse?u=76281980)
@@ -1205,7 +1205,7 @@ GraphQL is a query language for APIs that enables application-to-application com
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Exploring more Lighthouse and GraphQL functionalities
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980)
@@ -1233,6 +1233,15 @@ GraphQL is a query language for APIs that enables application-to-application com
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Rasheeda Yehuza]]
+
+## Skills Covered
+
+- GraphQL
+- Laravel
 
 ## Path Context
 

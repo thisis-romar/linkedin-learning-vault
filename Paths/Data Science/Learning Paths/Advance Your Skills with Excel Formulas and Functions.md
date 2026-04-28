@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-with-excel-form
 course_count: 5
 linkedin_topics:
   - Data Science
-louvain_cluster: 12
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/data-science
@@ -37,8 +37,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20with%20Excel%20Formulas%20and%20Functions.md)
 
 # Advance Your Skills with Excel Formulas and Functions
 

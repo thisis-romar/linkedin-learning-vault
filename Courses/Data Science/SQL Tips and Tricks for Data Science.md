@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Tips%20and%20Tricks%20for%20Data%20Science.md)
 
 ![SQL Tips and Tricks for Data Science](https://media.licdn.com/dms/image/v2/C4E0DAQF7y0hASXms9Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118065211?e=2147483647&amp;v=beta&amp;t=j7ruLHk-YyjTkzLkGXEwEqxYbOZN8nZ3HYwn-hA6WjI)
 
@@ -40,21 +42,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science) | 59m | Intermediate | 82K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ben Sullins]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. SQL Tips and Tricks** (12 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Extract meaning from data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980)
@@ -133,7 +129,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. SQL Tips and Tricks
+### 2. 1. SQL Tips and Tricks
 
 #### Retrieve data using SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980)
@@ -1459,7 +1455,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Becoming a powerful data scientist
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980)
@@ -1489,6 +1485,18 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Ben Sullins]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- SQL
 
 ## Path Context
 

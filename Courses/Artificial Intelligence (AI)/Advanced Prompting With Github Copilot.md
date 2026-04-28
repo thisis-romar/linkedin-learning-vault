@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20Prompting%20With%20Github%20Copilot.md)
 
 ![Advanced Prompting With Github Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQFYqFXrKQ13pw/learning-public-crop_675_1200/B4EZq30MxJKYAY-/0/1764020506467?e=2147483647&amp;v=beta&amp;t=JoLTUbDk-I2rgJUEmOymE29Fq6P-C1FTVDhMNB-LKkQ)
 
@@ -44,21 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot) | Advanced | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/paiml/advanced-prompting-with-github-copilot)
-
-## Skills Covered
-
-- Conversational AI
-- AI Prompting
-- Artificial Intelligence (AI)
-- GitHub Copilot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Foundations for Advanced Prompting** (4 videos)
+- **3. 2. Mastering Conversational AI** (5 videos)
+- **4. 3. Advanced Context Scaffolding** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/course-introduction-27897018?u=76281980)
@@ -80,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - welcome (1)
 
 
-### 1. Foundations for Advanced Prompting
+### 2. 1. Foundations for Advanced Prompting
 
 #### From basic to conversational AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980)
@@ -564,7 +562,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Mastering Conversational AI
+### 3. 2. Mastering Conversational AI
 
 #### Crafting multiturn prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980)
@@ -1131,7 +1129,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced Context Scaffolding
+### 4. 3. Advanced Context Scaffolding
 
 #### Providing context from multiple files
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980)
@@ -1682,7 +1680,7 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980)
@@ -1709,6 +1707,18 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/paiml/advanced-prompting-with-github-copilot)
+
+## Skills Covered
+
+- Conversational AI
+- AI Prompting
+- Artificial Intelligence (AI)
+- GitHub Copilot
 
 ## Path Context
 

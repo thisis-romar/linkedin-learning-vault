@@ -31,34 +31,32 @@ tags:
   - skill/network-troubleshooting
   - skill/wireshark
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Wireshark-%20Network%20Troubleshooting.md)
 
 ![Wireshark: Network Troubleshooting](https://media.licdn.com/dms/image/v2/C4E0DAQHOR_YqDUNv3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1595605820777?e=2147483647&amp;v=beta&amp;t=t_wFkmsN9XhOUegnKwTmLT8QbJMTpQ6b8aLKwBiP5CI)
 
 # Wireshark: Network Troubleshooting
 
-> Learn how to analyze network problems with Wireshark, a free, open-source packet analysis tool used by network administrators around the world. In this course, Lisa Bock demonstrates how to get the most out of Wireshark, so that you can better evaluate your network and keep traffic moving.  You can discover how to use time as a metric for visualizing delays. In addition, you can get an introductio
+> Learn how to analyze network problems with Wireshark, a free, open-source packet analysis tool used by network administrators around the world. In this course, Lisa Bock demonstrates how to get the most out of Wireshark, so that you can better evaluate your network and keep traffic moving. You can discover how to use time as a metric for visualizing delays. In addition, you can get an introduction
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting) | 1h 42m | Intermediate | 49K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Network Troubleshooting
-- Wireshark
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. Traffic Capture and Analysis** (8 videos)
+- **3. Using Time as a Metric** (5 videos)
+- **4. Wireshark Tools** (5 videos)
+- **5. Recognizing Abnormal or Malicious Traffic** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Analyze network problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/analyze-network-problems-23827196?u=76281980)
@@ -104,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Traffic Capture and Analysis
+### 2. Traffic Capture and Analysis
 
 #### Getting the most out of Wireshark
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980)
@@ -1023,7 +1021,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Using Time as a Metric
+### 3. Using Time as a Metric
 
 #### Displaying time
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980)
@@ -1460,7 +1458,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Wireshark Tools
+### 4. Wireshark Tools
 
 #### Viewing conversations and endpoints
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980)
@@ -1950,7 +1948,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Recognizing Abnormal or Malicious Traffic
+### 5. Recognizing Abnormal or Malicious Traffic
 
 #### Troubleshooting the Network
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980)
@@ -2550,7 +2548,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980)
@@ -2579,6 +2577,19 @@ created: 2026-04-21
 >
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Network Troubleshooting
+- Wireshark
 
 ## Path Context
 

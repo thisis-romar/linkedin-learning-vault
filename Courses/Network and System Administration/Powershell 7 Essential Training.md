@@ -24,8 +24,10 @@ tags:
   - topic/network-and-system-administration
   - skill/powershell
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Powershell%207%20Essential%20Training.md)
 
 ![Powershell 7 Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQEEzQM_uSV9WA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608062286712?e=2147483647&amp;v=beta&amp;t=2nqMZgS7GaFxNW-EkbJ-jg6yt21_KLoZLa-9JoN7vRM)
 
@@ -36,17 +38,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training) | Intermediate | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Powershell
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Ready for PowerShell** (5 videos)
+- **3. 2. Introduction to PowerShell 7** (3 videos)
+- **4. 3. Commands and Syntax** (6 videos)
+- **5. 4. Scripting and Automation** (10 videos)
+- **6. 5. Managing Servers, Operating Systems, and Services** (4 videos)
+- **7. 6. PowerShell Remoting** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get up and running with PowerShell 7
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7?u=76281980)
@@ -100,7 +105,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Ready for PowerShell
+### 2. 1. Getting Ready for PowerShell
 
 #### Why use PowerShell?
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980)
@@ -821,7 +826,7 @@ created: 2026-04-21
 > **Versions:** 6.0 (1)
 
 
-### 2. Introduction to PowerShell 7
+### 3. 2. Introduction to PowerShell 7
 
 #### PowerShell 7
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980)
@@ -1236,7 +1241,7 @@ created: 2026-04-21
 > **UI Navigation:** scroll down (2)
 
 
-### 3. Commands and Syntax
+### 4. 3. Commands and Syntax
 
 #### Discover commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980)
@@ -2343,7 +2348,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Scripting and Automation
+### 5. 4. Scripting and Automation
 
 #### PowerShell security
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980)
@@ -4164,7 +4169,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Managing Servers, Operating Systems, and Services
+### 6. 5. Managing Servers, Operating Systems, and Services
 
 #### Navigate the file system
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980)
@@ -5017,7 +5022,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. PowerShell Remoting
+### 7. 6. PowerShell Remoting
 
 #### Introduction to PowerShell remoting
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980)
@@ -5634,7 +5639,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980)
@@ -5670,6 +5675,14 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [liam] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Powershell
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Level%20Up-%20JavaScript.md)
 
 ![Level Up: JavaScript](https://media.licdn.com/dms/image/v2/D560DAQFdlZNbwSB6xA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682445111543?e=2147483647&amp;v=beta&amp;t=Ta9Zz_EQt1Z5QWgAuI-g7jJrb7xfBANxTHXT-qGQkQU)
 
@@ -41,22 +43,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript) | 1h 3m | Intermediate | 24K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emma Bostian]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/level-up-javascript-4358091/codespaces)
-
-## Skills Covered
-
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Challenges** (15 videos)
+
+### 1. Introduction
 
 #### Put your JavaScript skills to the test
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980)
@@ -240,7 +234,7 @@ created: 2026-04-21
 > **Exercise Files:** github repo (1)
 
 
-### 1. Challenges
+### 2. 1. Challenges
 
 #### Available books
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980)
@@ -1377,6 +1371,19 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 > **Speakers:** - regular (1)
 
+
+## Instructor
+
+- [[Emma Bostian]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/level-up-javascript-4358091/codespaces)
+
+## Skills Covered
+
+- JavaScript
 
 ## Path Context
 

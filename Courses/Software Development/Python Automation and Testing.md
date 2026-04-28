@@ -30,8 +30,10 @@ tags:
   - skill/python-programming-language
   - skill/test-automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Automation%20and%20Testing.md)
 
 ![Python Automation and Testing](https://media.licdn.com/dms/image/v2/C4E0DAQH0CzFeraiXWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620678936944?e=2147483647&amp;v=beta&amp;t=H-GGFJpuxObnSk03o7D4MD3LRT19N2UsNLwvWByd3FY)
 
@@ -42,22 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing) | 1h 38m | Intermediate | 107K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bhoomika Agarwal]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Test Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. What Is Automation Testing and Python-Selenium Framework?** (5 videos)
+- **3. 2. Parsing the HTML DOM Structure** (11 videos)
+- **4. 3. Navigating through Pages** (5 videos)
+- **5. 4. Waits** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980)
@@ -167,7 +165,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Is Automation Testing and Python-Selenium Framework?
+### 2. 1. What Is Automation Testing and Python-Selenium Framework?
 
 #### What is automated testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980)
@@ -545,7 +543,7 @@ created: 2026-04-21
 > **Speakers:** - [iinstructor] (1)
 
 
-### 2. Parsing the HTML DOM Structure
+### 3. 2. Parsing the HTML DOM Structure
 
 #### What is the HTML DOM structure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-is-the-html-dom-structure?u=76281980)
@@ -1351,7 +1349,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Navigating through Pages
+### 4. 3. Navigating through Pages
 
 #### Page interaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980)
@@ -1803,7 +1801,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Waits
+### 5. 4. Waits
 
 #### What are waits and why do we need them?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980)
@@ -1998,7 +1996,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/next-steps?u=76281980)
@@ -2023,6 +2021,19 @@ created: 2026-04-21
 > **Env Vars:** dom (1)
 > **Speakers:** - [bhoomika] (1)
 
+
+## Instructor
+
+- [[Bhoomika Agarwal]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Test Automation
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Session%20Hijacking.md)
 
 ![Ethical Hacking: Session Hijacking](https://media.licdn.com/dms/image/v2/C4E0DAQHTYIatFDHt5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568158504841?e=2147483647&amp;v=beta&amp;t=PJLEA7eblGawp6qtmh0iC7vsEE2gab15mAL7YdzIZLU)
 
@@ -41,21 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking) | 1h 17m | Intermediate | 29K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Network Session Hijacking** (3 videos)
+- **3. 2. Web Session Hijacking** (10 videos)
+- **4. 3. Additional Tools** (2 videos)
+- **5. 4. Service Hijacking** (3 videos)
+- **6. 5. Hijacking in the Physical World** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding session hijacking
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-session-hijacking-2?u=76281980)
@@ -137,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Network Session Hijacking
+### 2. 1. Network Session Hijacking
 
 #### Understanding TCP sequence numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980)
@@ -387,7 +387,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Web Session Hijacking
+### 3. 2. Web Session Hijacking
 
 #### Understanding web sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980)
@@ -1162,7 +1162,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Additional Tools
+### 4. 3. Additional Tools
 
 #### Using Zed Attack Proxy (ZAP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980)
@@ -1301,7 +1301,7 @@ created: 2026-04-21
 > **Speakers:** - [voiceover] (1)
 
 
-### 4. Service Hijacking
+### 5. 4. Service Hijacking
 
 #### Hijacking SSH sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980)
@@ -1484,7 +1484,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Hijacking in the Physical World
+### 6. 5. Hijacking in the Physical World
 
 #### Going physical: Hijacking cars and drones
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980)
@@ -1664,7 +1664,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980)
@@ -1695,6 +1695,18 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Ethical Hacking
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/cloud-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20for%20Business-%20Developing%20a%20Cloud%20Center%20of%20Excellence.md)
 
 ![Cloud for Business: Developing a Cloud Center of Excellence](https://media.licdn.com/dms/image/v2/C560DAQFpg8o2AT0C3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654102478012?e=2147483647&amp;v=beta&amp;t=YaYqtqrQ1Kid9xKXlW--n1P2eVRdPuhri87gTpQn1Hk)
 
@@ -42,17 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence) | 48m | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lee Atchison]]
-
-## Skills Covered
-
-- Cloud Administration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Organizational Structure of a Cloud Center of Excellence (CCoE)** (3 videos)
+- **3. 2. Components of a CCoE** (6 videos)
+- **4. 3. Analytics and Measuring Success** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Beginning your cloud center of excellence
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/beginning-your-cloud-center-of-excellence?u=76281980)
@@ -283,7 +285,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Organizational Structure of a Cloud Center of Excellence (CCoE)
+### 2. 1. Organizational Structure of a Cloud Center of Excellence (CCoE)
 
 #### Structure and service of a CCoE
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980)
@@ -544,7 +546,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. Components of a CCoE
+### 3. 2. Components of a CCoE
 
 #### Subject matter experts (SMEs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980)
@@ -843,7 +845,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Analytics and Measuring Success
+### 4. 3. Analytics and Measuring Success
 
 #### Power of analytics: Were you successful?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/power-of-analytics-were-you-successful?u=76281980)
@@ -946,7 +948,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980)
@@ -996,6 +998,14 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lee Atchison]]
+
+## Skills Covered
+
+- Cloud Administration
 
 ## Path Context
 

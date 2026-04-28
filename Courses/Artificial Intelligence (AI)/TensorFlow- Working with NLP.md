@@ -33,44 +33,31 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/TensorFlow-%20Working%20with%20NLP.md)
 
 ![TensorFlow: Working with NLP](https://media.licdn.com/dms/image/v2/C560DAQHXRZ1Ysxw8fA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643654366588?e=2147483647&amp;v=beta&amp;t=dsjFuB2UwdcJ_0gnhsug9f6bRCYByP-u3-94h7pta5U)
 
 # TensorFlow: Working with NLP
 
-> Suggested Prerequisites
-
-TensorFlow: Neural Networks and Working with Tabular Data 
-TensorFlow: Working with Images
-Understand the basics of Python
-Some understanding of machine learning and TensorFlow 
-Gmail account
-  
-TensorFlow 2.0 is quickly becoming one of the most popular deep learning frameworks and a must-have skill in your artificial intelligence toolkit. This course covers the key aspect
+> Suggested Prerequisites TensorFlow: Neural Networks and Working with Tabular Data TensorFlow: Working with Images Understand the basics of Python Some understanding of machine learning and TensorFlow Gmail account TensorFlow 2.0 is quickly becoming one of the most popular deep learning frameworks and a must-have skill in your artificial intelligence toolkit. This course covers the key aspects of w
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp) | 41m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jonathan Fernandes]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/tensorflow-working-with-nlp-2439112)
-
-## Skills Covered
-
-- TensorFlow
-- Artificial Intelligence (AI)
-- Natural Language Processing (NLP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. NLP and Transformers** (5 videos)
+- **3. 2. BERT and Transfer Learning** (3 videos)
+- **4. 3. Transformers and BERT** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why TensorFlow?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980)
@@ -191,7 +178,7 @@ TensorFlow 2.0 is quickly becoming one of the most popular deep learning framewo
 > **Speakers:** - [instructor] (1)
 
 
-### 1. NLP and Transformers
+### 2. 1. NLP and Transformers
 
 #### What is NLP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980)
@@ -448,7 +435,7 @@ TensorFlow 2.0 is quickly becoming one of the most popular deep learning framewo
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. BERT and Transfer Learning
+### 3. 2. BERT and Transfer Learning
 
 #### Bias in BERT and GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bias-in-bert-and-gpt?u=76281980)
@@ -669,7 +656,7 @@ TensorFlow 2.0 is quickly becoming one of the most popular deep learning framewo
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Transformers and BERT
+### 4. 3. Transformers and BERT
 
 #### Transformer: Architecture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980)
@@ -1113,7 +1100,7 @@ TensorFlow 2.0 is quickly becoming one of the most popular deep learning framewo
 > **Warnings:** warning (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980)
@@ -1147,6 +1134,21 @@ TensorFlow 2.0 is quickly becoming one of the most popular deep learning framewo
 > **Analogies:** such as (2)
 > **Speakers:** - [jonathan] (1)
 
+
+## Instructor
+
+- [[Jonathan Fernandes]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/tensorflow-working-with-nlp-2439112)
+
+## Skills Covered
+
+- TensorFlow
+- Artificial Intelligence (AI)
+- Natural Language Processing (NLP)
 
 ## Path Context
 

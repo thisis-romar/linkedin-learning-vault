@@ -34,8 +34,10 @@ tags:
   - skill/software-design-patterns
   - skill/microservices
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Microservices-%20Design%20Patterns.md)
 
 ![Microservices: Design Patterns](https://media.licdn.com/dms/image/v2/D560DAQFKN7HJHs-plg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708468657858?e=2147483647&amp;v=beta&amp;t=EPE07Dmuw8BM7BuccZFKSJu15NIg5BbJl1mfb5COL-U)
 
@@ -46,18 +48,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771) | 1h 37m | Advanced | 52K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Frank P Moley III]]
-
-## Skills Covered
-
-- Software Design Patterns
-- Microservices
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Decomposition Patterns** (6 videos)
+- **3. 2. Integration Patterns** (3 videos)
+- **4. 3. Data Patterns** (4 videos)
+- **5. 4. Operational Patterns** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Solving microservices problems with patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns?u=76281980)
@@ -211,7 +213,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 1. Decomposition Patterns
+### 2. 1. Decomposition Patterns
 
 #### Decomposition of a system
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/decomposition-of-a-system?u=76281980)
@@ -667,7 +669,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Integration Patterns
+### 3. 2. Integration Patterns
 
 #### Gateway pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980)
@@ -987,7 +989,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Data Patterns
+### 4. 3. Data Patterns
 
 #### Single service database
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980)
@@ -1224,7 +1226,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Operational Patterns
+### 5. 4. Operational Patterns
 
 #### Log aggregation patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980)
@@ -1732,7 +1734,7 @@ created: 2026-04-21
 > **Speakers:** - documentation (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/next-steps?u=76281980)
@@ -1785,6 +1787,15 @@ created: 2026-04-21
 > **Cross-References:** we discussed (1)
 > **Speakers:** - building (1)
 
+
+## Instructor
+
+- [[Frank P Moley III]]
+
+## Skills Covered
+
+- Software Design Patterns
+- Microservices
 
 ## Path Context
 

@@ -32,8 +32,10 @@ tags:
   - skill/stakeholder-management
   - skill/team-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Stakeholder%20Management%20for%20Leaders%20and%20Managers.md)
 
 ![Stakeholder Management for Leaders and Managers](https://media.licdn.com/dms/image/v2/D4D0DAQFu0uoT52A8GQ/learning-public-crop_675_1200/B4DZSQkbz4GkAc-/0/1737592258149?e=2147483647&amp;v=beta&amp;t=5v-g6hkjSGe4RLR1mS7wz85GAYHuIhBGzH_OLKyWvnQ)
 
@@ -44,23 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers) | 54m | Intermediate | 77K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Carolyn Goerner]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Objectives and Key Results (OKRs)
-- Stakeholder Management
-- Team Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Stakeholder Management** (4 videos)
+- **3. 2. Stakeholder Analysis and Prioritization** (4 videos)
+- **4. 3. Coordinating Stakeholder Relationships** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of stakeholder management
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-of-stakeholder-management?u=76281980)
@@ -87,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 1. Introduction to Stakeholder Management
+### 2. 1. Introduction to Stakeholder Management
 
 #### Identifying your stakeholders
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/identifying-your-stakeholders?u=76281980)
@@ -415,7 +411,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 2. Stakeholder Analysis and Prioritization
+### 3. 2. Stakeholder Analysis and Prioritization
 
 #### The power/interest stakeholder matrix
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980)
@@ -770,7 +766,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 3. Coordinating Stakeholder Relationships
+### 4. 3. Coordinating Stakeholder Relationships
 
 #### Aligning stakeholders with organization strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980)
@@ -1155,7 +1151,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Never stop communicating
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/never-stop-communicating?u=76281980)
@@ -1199,6 +1195,20 @@ created: 2026-04-21
 > **Warnings:** warning (1)
 > **Speakers:** - have (1)
 
+
+## Instructor
+
+- [[Carolyn Goerner]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Objectives and Key Results (OKRs)
+- Stakeholder Management
+- Team Management
 
 ## Path Context
 

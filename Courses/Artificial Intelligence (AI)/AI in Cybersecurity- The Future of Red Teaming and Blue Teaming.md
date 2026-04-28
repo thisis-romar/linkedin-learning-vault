@@ -35,8 +35,10 @@ tags:
   - skill/ai-security
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20in%20Cybersecurity-%20The%20Future%20of%20Red%20Teaming%20and%20Blue%20Teaming.md)
 
 ![AI in Cybersecurity: The Future of Red Teaming and Blue Teaming](https://media.licdn.com/dms/image/v2/D560DAQFEhgIszKDUSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008942451?e=2147483647&amp;v=beta&amp;t=j7Fgo78_SA5u4O5eOkkKMHAZ95l97HqSF8Pj9GphDVE)
 
@@ -47,24 +49,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming) | 40m | Intermediate | 66K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Wylie]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Red Teaming
-- Artificial Intelligence (AI)
-- AI Security
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Red Teaming Enhanced by AI** (5 videos)
+- **3. 2. Blue Teaming Enhanced by AI** (5 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to red teaming and blue teaming enhanced by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980)
@@ -265,7 +259,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 1. Red Teaming Enhanced by AI
+### 2. 1. Red Teaming Enhanced by AI
 
 #### Writing and enhancing red team documentation with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980)
@@ -630,7 +624,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Blue Teaming Enhanced by AI
+### 3. 2. Blue Teaming Enhanced by AI
 
 #### Techniques for effective AI-powered threat hunting
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/techniques-for-effective-ai-powered-threat-hunting?u=76281980)
@@ -1014,7 +1008,7 @@ created: 2026-04-21
 > **Speakers:** - from (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980)
@@ -1038,6 +1032,21 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Mike Wylie]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Red Teaming
+- Artificial Intelligence (AI)
+- AI Security
+- Cybersecurity
 
 ## Path Context
 

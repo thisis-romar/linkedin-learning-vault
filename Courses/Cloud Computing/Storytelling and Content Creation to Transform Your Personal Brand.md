@@ -35,8 +35,10 @@ tags:
   - skill/personal-branding
   - skill/content-creation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Storytelling%20and%20Content%20Creation%20to%20Transform%20Your%20Personal%20Brand.md)
 
 ![Storytelling and Content Creation to Transform Your Personal Brand](https://media.licdn.com/dms/image/v2/D560DAQFz1xLDMkO9mQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694544933174?e=2147483647&amp;v=beta&amp;t=LuamQXCqfbttcavGEznIDFyfxZM1QB9EfxM1gQP64YE)
 
@@ -47,23 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand) | 41m | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ash Rathod]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Storytelling
-- Personal Branding
-- Content Creation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Story We Tell Ourselves** (3 videos)
+- **3. 2. Unlock the Secrets of Storytelling for Creators** (3 videos)
+- **4. 3. Research for Building a Winning Strategy** (3 videos)
+- **5. 4. Execution for Effective Writing and Building Visibility** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Master the art of storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/master-the-art-of-storytelling?u=76281980)
@@ -93,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 1. The Story We Tell Ourselves
+### 2. 1. The Story We Tell Ourselves
 
 #### The power of mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/the-power-of-mindset?u=76281980)
@@ -331,7 +328,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Unlock the Secrets of Storytelling for Creators
+### 3. 2. Unlock the Secrets of Storytelling for Creators
 
 #### 6P framework for creating compelling stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980)
@@ -564,7 +561,7 @@ created: 2026-04-21
 > **Speakers:** - most (1)
 
 
-### 3. Research for Building a Winning Strategy
+### 4. 3. Research for Building a Winning Strategy
 
 #### Understanding your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/understanding-your-audience?u=76281980)
@@ -783,7 +780,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 4. Execution for Effective Writing and Building Visibility
+### 5. 4. Execution for Effective Writing and Building Visibility
 
 #### Tips and tricks for compelling storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/tips-and-tricks-for-compelling-storytelling?u=76281980)
@@ -1028,7 +1025,7 @@ created: 2026-04-21
 > **Speakers:** - ever (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Mastering brand storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/mastering-brand-storytelling?u=76281980)
@@ -1110,6 +1107,20 @@ created: 2026-04-21
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Ash Rathod]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Storytelling
+- Personal Branding
+- Content Creation
 
 ## Path Context
 

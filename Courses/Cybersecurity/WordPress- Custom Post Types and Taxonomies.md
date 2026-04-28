@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/wordpress
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/WordPress-%20Custom%20Post%20Types%20and%20Taxonomies.md)
 
 ![WordPress: Custom Post Types and Taxonomies](https://media.licdn.com/dms/image/v2/C4E0DAQHOaQ6P8g5Ihg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118357194?e=2147483647&amp;v=beta&amp;t=-ky-6r_5sp3HDdDg4CJJL442J090Pyvyvfp15FHzmWw)
 
@@ -41,21 +43,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3) | 2h 9m | Advanced | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Casabona]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- WordPress
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. What Are Custom Post Types and Taxonomies?** (3 videos)
+- **3. 2. Creating Custom Post Types without Code** (5 videos)
+- **4. 3. Creating Custom Taxonomies without Code** (4 videos)
+- **5. 4. Coding Your Own Custom Post Types** (9 videos)
+- **6. 5. Coding Your Own Custom Taxonomies** (6 videos)
+- **7. 6. Creating Custom Post Type Templates** (7 videos)
+- **8. 7. Custom Post Types and Taxonomies in Other Templates** (5 videos)
+- **9. 8. Moving Your Post Types to Your Theme** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Create better content
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980)
@@ -167,7 +170,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. What Are Custom Post Types and Taxonomies?
+### 2. 1. What Are Custom Post Types and Taxonomies?
 
 #### What are custom post types?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980)
@@ -345,7 +348,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creating Custom Post Types without Code
+### 3. 2. Creating Custom Post Types without Code
 
 #### The no-code solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-no-code-solution?u=76281980)
@@ -625,7 +628,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 3. Creating Custom Taxonomies without Code
+### 4. 3. Creating Custom Taxonomies without Code
 
 #### Creating custom taxonomies
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomies?u=76281980)
@@ -845,7 +848,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Coding Your Own Custom Post Types
+### 5. 4. Coding Your Own Custom Post Types
 
 #### Creating your plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980)
@@ -1391,7 +1394,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Coding Your Own Custom Taxonomies
+### 6. 5. Coding Your Own Custom Taxonomies
 
 #### Building a basic custom taxonomy
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-taxonomy?u=76281980)
@@ -1708,7 +1711,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Creating Custom Post Type Templates
+### 7. 6. Creating Custom Post Type Templates
 
 #### The WordPress template hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-wordpress-template-hierarchy?u=76281980)
@@ -2248,7 +2251,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Custom Post Types and Taxonomies in Other Templates
+### 8. 7. Custom Post Types and Taxonomies in Other Templates
 
 #### Custom post types on the front page
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-types-on-the-front-page?u=76281980)
@@ -2607,7 +2610,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Moving Your Post Types to Your Theme
+### 9. 8. Moving Your Post Types to Your Theme
 
 #### Warning: Custom post types in themes
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/warning-custom-post-types-in-themes?u=76281980)
@@ -2813,7 +2816,7 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980)
@@ -2851,6 +2854,18 @@ created: 2026-04-21
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Joe Casabona]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- WordPress
 
 ## Path Context
 

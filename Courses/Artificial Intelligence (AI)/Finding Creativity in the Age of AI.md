@@ -35,38 +35,31 @@ tags:
   - skill/creativity
   - skill/creativity-skills
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Finding%20Creativity%20in%20the%20Age%20of%20AI.md)
 
 ![Finding Creativity in the Age of AI](https://media.licdn.com/dms/image/v2/D560DAQEXPGOJaQ0aBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727811801975?e=2147483647&amp;v=beta&amp;t=PK7TNiYwJAplnzDbWk2IXY5AFN6ULFSn5xss9ma0cV4)
 
 # Finding Creativity in the Age of AI
 
-> As artificial intelligence expands, many creative professionals are assessing where it fits into the creative process. What areas can benefit from AI? What areas might be threatened by it? And how can creative pros employ AI in ways that enable them to work smarter, faster—and more creatively? 
-
-In this course, Nick Harauz—an expert video editing instructor and creative podcast host—explores the w
+> As artificial intelligence expands, many creative professionals are assessing where it fits into the creative process. What areas can benefit from AI? What areas might be threatened by it? And how can creative pros employ AI in ways that enable them to work smarter, faster—and more creatively? In this course, Nick Harauz—an expert video editing instructor and creative podcast host—explores the way
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai) | 1h 1m | 69K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nick Harauz]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- Artificial Intelligence (AI)
-- Creativity
-- Creativity Skills
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Measuring Your Own Creativity** (2 videos)
+- **3. 2. Finding Creativity with AI** (8 videos)
+- **4. 3. Finding Creativity without AI** (9 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Where does creativity live?
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/where-does-creativity-live?u=76281980)
@@ -114,7 +107,7 @@ In this course, Nick Harauz—an expert video editing instructor and creative po
 > **Speakers:** - this (1)
 
 
-### 1. Measuring Your Own Creativity
+### 2. 1. Measuring Your Own Creativity
 
 #### Your creative baseline
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980)
@@ -209,7 +202,7 @@ In this course, Nick Harauz—an expert video editing instructor and creative po
 > **Speakers:** - okay (1)
 
 
-### 2. Finding Creativity with AI
+### 3. 2. Finding Creativity with AI
 
 #### The FINDS framework: How AI can assist creativity
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980)
@@ -790,7 +783,7 @@ In this course, Nick Harauz—an expert video editing instructor and creative po
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ai-and-copyright?u=76281980)
 
 
-### 3. Finding Creativity without AI
+### 4. 3. Finding Creativity without AI
 
 #### The CREATE framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-create-framework?u=76281980)
@@ -1323,7 +1316,7 @@ In this course, Nick Harauz—an expert video editing instructor and creative po
 > **Speakers:** - it (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/next-steps?u=76281980)
@@ -1351,6 +1344,21 @@ In this course, Nick Harauz—an expert video editing instructor and creative po
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Nick Harauz]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- Artificial Intelligence (AI)
+- Creativity
+- Creativity Skills
 
 ## Path Context
 

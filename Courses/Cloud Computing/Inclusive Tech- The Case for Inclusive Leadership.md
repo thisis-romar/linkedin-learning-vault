@@ -40,8 +40,10 @@ tags:
   - skill/tech-career-skills
   - skill/inclusive-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Inclusive%20Tech-%20The%20Case%20for%20Inclusive%20Leadership.md)
 
 ![Inclusive Tech: The Case for Inclusive Leadership](https://media.licdn.com/dms/image/v2/C560DAQHC_lbnXrwkDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623778184058?e=2147483647&amp;v=beta&amp;t=4iTPfBl5e4dMLVMy8gl16PeM6cVaUnmhpRBNcfXcsKw)
 
@@ -52,23 +54,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership) | 1h 29m | Beginner | 38K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jessica Rose]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Technical Leadership
-- Tech Career Skills
-- Inclusive Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Building a New Tech Team** (5 videos)
+- **3. 2. Leading an Established Tech Team** (5 videos)
+- **4. 3. Challenges to Inclusivity** (4 videos)
+- **5. 4. Beyond Your Tech Team** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Inclusive leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980)
@@ -219,7 +216,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Building a New Tech Team
+### 2. 1. Building a New Tech Team
 
 #### Building and leading a new team from inclusive foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980)
@@ -542,7 +539,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Leading an Established Tech Team
+### 3. 2. Leading an Established Tech Team
 
 #### Leading existing teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/leading-existing-teams?u=76281980)
@@ -964,7 +961,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Challenges to Inclusivity
+### 4. 3. Challenges to Inclusivity
 
 #### Inclusive leadership as a marathon
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership-as-a-marathon?u=76281980)
@@ -1179,7 +1176,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Beyond Your Tech Team
+### 5. 4. Beyond Your Tech Team
 
 #### Inclusive culture change throughout your company
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-culture-change-throughout-your-company?u=76281980)
@@ -1323,7 +1320,7 @@ created: 2026-04-21
 > **Non-Speech:** (pleasant electronic music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980)
@@ -1374,6 +1371,20 @@ created: 2026-04-21
 > **Env Vars:** chaoss (1)
 > **Speakers:** - [jessica] (1)
 
+
+## Instructor
+
+- [[Jessica Rose]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Technical Leadership
+- Tech Career Skills
+- Inclusive Leadership
 
 ## Path Context
 

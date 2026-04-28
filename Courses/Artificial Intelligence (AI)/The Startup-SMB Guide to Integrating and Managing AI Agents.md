@@ -21,8 +21,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20Startup-SMB%20Guide%20to%20Integrating%20and%20Managing%20AI%20Agents.md)
 
 ![The Startup/SMB Guide to Integrating and Managing AI Agents](https://media.licdn.com/dms/image/v2/D4E0DAQENrwibTkyuQQ/learning-public-crop_675_1200/B4EZYSD0PAHcAY-/0/1744059713243?e=2147483647&amp;v=beta&amp;t=Ypk_Vbq1dDlSNpYT2jI2ZKaUI3Kk-YMR567h8B0ASjo)
 
@@ -33,13 +35,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents) | 37m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ian Barkin]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Blueprint for an AI Foundation** (5 videos)
+- **3. 2. Onboarding Your AI Agents** (5 videos)
+- **4. 3. From Adoption and Governance to Going Big** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The AI imperative for SMBs
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/the-ai-imperative-for-smbs?u=76281980)
@@ -83,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 1. Blueprint for an AI Foundation
+### 2. 1. Blueprint for an AI Foundation
 
 #### The promises and limits of today's AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/the-promises-and-limits-of-today-s-ai?u=76281980)
@@ -410,7 +416,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 2. Onboarding Your AI Agents
+### 3. 2. Onboarding Your AI Agents
 
 #### Your toolkit before agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/your-toolkit-before-agents?u=76281980)
@@ -684,7 +690,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 3. From Adoption and Governance to Going Big
+### 4. 3. From Adoption and Governance to Going Big
 
 #### Data, process, and talent
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/data-process-and-talent?u=76281980)
@@ -937,7 +943,7 @@ created: 2026-04-21
 > **Speakers:** - by (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### The future of AI agents and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/the-future-of-ai-agents-and-next-steps?u=76281980)
@@ -996,6 +1002,10 @@ created: 2026-04-21
 > **Env Vars:** roi (1)
 > **Speakers:** - the (1)
 
+
+## Instructor
+
+- [[Ian Barkin]]
 
 ## Path Context
 

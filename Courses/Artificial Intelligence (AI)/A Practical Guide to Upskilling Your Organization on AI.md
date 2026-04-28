@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-recruiting
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/A%20Practical%20Guide%20to%20Upskilling%20Your%20Organization%20on%20AI.md)
 
 ![A Practical Guide to Upskilling Your Organization on AI](https://media.licdn.com/dms/image/v2/D4D0DAQHf7b_qQ2iYNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714681644931?e=2147483647&amp;v=beta&amp;t=ST-SgJnVWuIDjjpVmrYYspSCRdGqlP8kLoa-n7-2Hd4)
 
@@ -42,25 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai) | 28m | 2608K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Megan Leatham]]
-- [[Brandi Shailer]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Employee Learning & Development
-- AI for Business
-- Artificial Intelligence (AI)
-- AI for Recruiting
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Beginning Your Organization’s AI Journey Now** (2 videos)
+- **3. 2. The AI Upskilling Framework** (6 videos)
+- **4. 3. From Framework to Action** (2 videos)
+- **5. 4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How is AI reshaping the skills today's organizations need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-is-ai-reshaping-the-skills-today-s-organizations-need?u=76281980)
@@ -98,7 +92,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 1. Beginning Your Organization’s AI Journey Now
+### 2. 1. Beginning Your Organization’s AI Journey Now
 
 #### Your organization's AI upskilling opportunity
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980)
@@ -193,7 +187,7 @@ created: 2026-04-21
 > **Speakers:** - at (1)
 
 
-### 2. The AI Upskilling Framework
+### 3. 2. The AI Upskilling Framework
 
 #### What is the LinkedIn AI Content Framework?
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-is-linkedin-s-ai-content-framework?u=76281980)
@@ -452,7 +446,7 @@ created: 2026-04-21
 > **Speakers:** - okay (1)
 
 
-### 3. From Framework to Action
+### 4. 3. From Framework to Action
 
 #### Build your AI upskilling strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-your-ai-up-skilling-strategy?u=76281980)
@@ -571,7 +565,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 4. Conclusion
+### 5. 4. Conclusion
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980)
@@ -616,6 +610,22 @@ created: 2026-04-21
 >
 > **Speakers:** - now (1), - well (1), - by (1)
 
+
+## Instructor
+
+- [[Megan Leatham]]
+- [[Brandi Shailer]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Employee Learning & Development
+- AI for Business
+- Artificial Intelligence (AI)
+- AI for Recruiting
 
 ## Path Context
 

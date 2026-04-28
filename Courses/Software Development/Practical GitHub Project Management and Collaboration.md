@@ -30,8 +30,10 @@ tags:
   - skill/project-management
   - skill/github
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practical%20GitHub%20Project%20Management%20and%20Collaboration.md)
 
 ![Practical GitHub Project Management and Collaboration](https://media.licdn.com/dms/image/v2/D560DAQED-m1hwFpEWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686944899848?e=2147483647&amp;v=beta&amp;t=VnE1Lybft4PfkhKsuPymyh2Epl4MAN_ESCEQuXWLTXY)
 
@@ -42,18 +44,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration) | 1h 19m | Advanced | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Skills Covered
-
-- Project Management
-- GitHub
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Creating a Project** (9 videos)
+- **3. 2. Working with Projects** (5 videos)
+- **4. Conclusion** (0 videos)
+
+### 1. Introduction
 
 #### Creating projects for development
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/creating-projects-for-development-29982145?u=76281980)
@@ -77,7 +77,7 @@ created: 2026-04-21
 > **Speakers:** - most (1)
 
 
-### 1. Creating a Project
+### 2. 1. Creating a Project
 
 #### Projects vs. classic projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/projects-vs-classic-projects?u=76281980)
@@ -1152,7 +1152,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Working with Projects
+### 3. 2. Working with Projects
 
 #### Using labels
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-labels?u=76281980)
@@ -1842,8 +1842,17 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Skills Covered
+
+- Project Management
+- GitHub
 
 ## Path Context
 

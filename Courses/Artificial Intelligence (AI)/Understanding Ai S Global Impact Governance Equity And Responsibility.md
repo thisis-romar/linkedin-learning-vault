@@ -27,8 +27,10 @@ tags:
   - skill/ai-equity
   - skill/ai-policy-governance-and-regulation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Understanding%20Ai%20S%20Global%20Impact%20Governance%20Equity%20And%20Responsibility.md)
 
 ![Understanding Ai S Global Impact Governance Equity And Responsibility](https://media.licdn.com/dms/image/v2/D560DAQEkh-39u_r_fA/learning-public-crop_675_1200/B56Z0bzRJ1KYAc-/0/1774287918043?e=2147483647&amp;v=beta&amp;t=eafy93nDqFH84kPwaWDeqsT-tybnSHKk0DqhjE0TZ54)
 
@@ -39,16 +41,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility)
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Responsible AI
-- Artificial Intelligence (AI)
-- AI Equity
-- AI Policy, Governance, and Regulation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Basics of AI** (4 videos)
+- **3. 2. Critical Perspectives on AI** (6 videos)
+- **4. 3. AI and the United Nations System** (3 videos)
+- **5. 4. The Mechanics of AI** (5 videos)
+- **6. 5. Practical Applications of AI** (3 videos)
+
+### 1. Introduction
 
 #### Artificial intelligence: From everyday tasks to global challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-from-everyday-tasks-to-global-challenges-36201055?u=76281980)
@@ -90,7 +94,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 1. The Basics of AI
+### 2. 1. The Basics of AI
 
 #### AI: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980)
@@ -474,7 +478,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 2. Critical Perspectives on AI
+### 3. 2. Critical Perspectives on AI
 
 #### AI accuracy vs. truth
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-accuracy-vs-truth?u=76281980)
@@ -829,7 +833,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. AI and the United Nations System
+### 4. 3. AI and the United Nations System
 
 #### AI for Global goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-and-the-global-goals?u=76281980)
@@ -1005,7 +1009,7 @@ created: 2026-04-21
 > **Env Vars:** unesco (1)
 
 
-### 4. The Mechanics of AI
+### 5. 4. The Mechanics of AI
 
 #### Types of machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980)
@@ -1360,7 +1364,7 @@ created: 2026-04-21
 > **CLI Commands:** cat (1)
 
 
-### 5. Practical Applications of AI
+### 6. 5. Practical Applications of AI
 
 #### Accessible AI tools for beginners
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980)
@@ -1639,6 +1643,13 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
+
+## Skills Covered
+
+- Responsible AI
+- Artificial Intelligence (AI)
+- AI Equity
+- AI Policy, Governance, and Regulation
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20and%20AI%20Agents%20with%20ChatGPT.md)
 
 ![Prompt Engineering and AI Agents with ChatGPT](https://media.licdn.com/dms/image/v2/D4D0DAQHxdj3nqXxX6g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722897951098?e=2147483647&amp;v=beta&amp;t=B_aD9_PB1EVfR0JBbxk2vGM8NFRVaRYEohpGjfzK0_g)
 
@@ -42,19 +44,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt) | 27m | 627K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- ChatGPT
-- Prompt Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Agentive Prompt Engineering** (7 videos)
+
+### 1. Introduction
 
 #### The new age of prompting
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980)
@@ -85,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - chatgpt (1)
 
 
-### 1. Agentive Prompt Engineering
+### 2. 1. Agentive Prompt Engineering
 
 #### Prompting strategies for agentic behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980)
@@ -740,6 +737,16 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- ChatGPT
+- Prompt Engineering
 
 ## Path Context
 

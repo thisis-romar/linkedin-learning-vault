@@ -30,8 +30,10 @@ tags:
   - skill/kubernetes
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Securing%20Containers%20and%20Kubernetes%20Ecosystem.md)
 
 ![Securing Containers and Kubernetes Ecosystem](https://media.licdn.com/dms/image/v2/C4E0DAQHDGPzLMbnmyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1600898707127?e=2147483647&amp;v=beta&amp;t=QcCm1mdjY0iOu_Y2iHgZeiM8d3pFOs4yS7ykzqkwHjg)
 
@@ -42,19 +44,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem) | 2h 8m | Intermediate | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sam Sehgal]]
-
-## Skills Covered
-
-- Containerization
-- Kubernetes
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Demystifying Containers and Kubernetes** (7 videos)
+- **3. 2. Security Model for Containers and Kubernetes** (4 videos)
+- **4. 3. Factor #1: Securing Containerized Application Code** (2 videos)
+- **5. 4. Factor #2: Securing Images** (4 videos)
+- **6. 5. Factor #3: Securing Hosts and Container Working Environment** (4 videos)
+- **7. 6. Factor #4: Securing Applications in Kubernetes** (11 videos)
+- **8. 7. Factor #5: Securing Kubernetes Cluster** (3 videos)
+- **9. 8. Additional Security Considerations** (2 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Protect your containers and Kubernetes ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/protect-your-containers-and-kubernetes-ecosystem-21031810?u=76281980)
@@ -95,7 +100,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Demystifying Containers and Kubernetes
+### 2. 1. Demystifying Containers and Kubernetes
 
 #### What are containers?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-are-containers?u=76281980)
@@ -560,7 +565,7 @@ created: 2026-04-21
 > **Speakers:** - kubelet (1)
 
 
-### 2. Security Model for Containers and Kubernetes
+### 3. 2. Security Model for Containers and Kubernetes
 
 #### Overall technology architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/overall-technology-architecture?u=76281980)
@@ -792,7 +797,7 @@ created: 2026-04-21
 > **Speakers:** - [sam] (1)
 
 
-### 3. Factor #1: Securing Containerized Application Code
+### 4. 3. Factor #1: Securing Containerized Application Code
 
 #### Secure design before code
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980)
@@ -939,7 +944,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Factor #2: Securing Images
+### 5. 4. Factor #2: Securing Images
 
 #### Secure container images, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980)
@@ -1321,7 +1326,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Factor #3: Securing Hosts and Container Working Environment
+### 6. 5. Factor #3: Securing Hosts and Container Working Environment
 
 #### Container working environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980)
@@ -1660,7 +1665,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Factor #4: Securing Applications in Kubernetes
+### 7. 6. Factor #4: Securing Applications in Kubernetes
 
 #### Securing applications in Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-applications-in-kubernetes?u=76281980)
@@ -2357,7 +2362,7 @@ created: 2026-04-21
 > **Versions:** version 1 (1)
 
 
-### 7. Factor #5: Securing Kubernetes Cluster
+### 8. 7. Factor #5: Securing Kubernetes Cluster
 
 #### Cluster security goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/cluster-security-goals?u=76281980)
@@ -2486,7 +2491,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Additional Security Considerations
+### 9. 8. Additional Security Considerations
 
 #### Infrastructure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980)
@@ -2653,7 +2658,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980)
@@ -2688,6 +2693,16 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 > **Speakers:** - [sam] (1)
 
+
+## Instructor
+
+- [[Sam Sehgal]]
+
+## Skills Covered
+
+- Containerization
+- Kubernetes
+- Cybersecurity
 
 ## Path Context
 

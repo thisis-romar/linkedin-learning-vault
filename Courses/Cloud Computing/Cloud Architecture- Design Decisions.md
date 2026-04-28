@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - topic/security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Architecture-%20Design%20Decisions.md)
 
 ![Cloud Architecture: Design Decisions](https://media.licdn.com/dms/image/v2/D4D0DAQFXZOc2UQrUTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737159098691?e=2147483647&amp;v=beta&amp;t=NLFGUalWGZn9NZYSyoa2Ux58Hmq4R7lPxEjuPLJ8pXM)
 
@@ -41,13 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835) | 1h 55m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Linthicum]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Beyond Basic Architecture** (8 videos)
+- **3. 2. Define a Business Case** (8 videos)
+- **4. 3. Define the Requirement Patterns** (7 videos)
+- **5. 4. Advanced Cloud Architecture Design Concepts** (9 videos)
+- **6. 5. Other Advanced Topics** (9 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Making decisions around cloud architecture design
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980)
@@ -96,7 +104,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 1. Beyond Basic Architecture
+### 2. 1. Beyond Basic Architecture
 
 #### Taking your architecture to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980)
@@ -555,7 +563,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. Define a Business Case
+### 3. 2. Define a Business Case
 
 #### Build a business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980)
@@ -940,7 +948,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Define the Requirement Patterns
+### 4. 3. Define the Requirement Patterns
 
 #### Designing for storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-storage?u=76281980)
@@ -1271,7 +1279,7 @@ created: 2026-04-21
 > **Speakers:** - of (1)
 
 
-### 4. Advanced Cloud Architecture Design Concepts
+### 5. 4. Advanced Cloud Architecture Design Concepts
 
 #### Map requirements to storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-storage?u=76281980)
@@ -1799,7 +1807,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Other Advanced Topics
+### 6. 5. Other Advanced Topics
 
 #### Performance management
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980)
@@ -2313,7 +2321,7 @@ created: 2026-04-21
 > **Speakers:** - no (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Learn to stay state of the art
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/learn-to-stay-state-of-the-art?u=76281980)
@@ -2352,6 +2360,10 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[David Linthicum]]
 
 ## Path Context
 

@@ -40,8 +40,10 @@ tags:
   - skill/linear-algebra
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20Foundations-%20Linear%20Algebra.md)
 
 ![Machine Learning Foundations: Linear Algebra](https://media.licdn.com/dms/image/v2/C560DAQFTT_xVgBuw-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661472217519?e=2147483647&amp;v=beta&amp;t=m-S2YAVTbj6RlIqnhtQSwAeuVN8eTLJUyzr8JNL5Gtk)
 
@@ -52,23 +54,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra) | 1h 21m | Intermediate | 29K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Terezija Semenski]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- Linear Algebra
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Linear Algebra** (2 videos)
+- **3. 2. Vectors Basics** (3 videos)
+- **4. 3. Vector Projections and Basis** (4 videos)
+- **5. 4. Introduction to Matrices** (4 videos)
+- **6. 5. Gaussian Elimination** (3 videos)
+- **7. 6. Matrices from Orthogonality to Gram–Schmidt Process** (4 videos)
+- **8. 7. Eigenvalues and Eigenvectors** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Linear algebra the building block of ML
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/linear-algebra-the-building-block-of-ml?u=76281980)
@@ -133,7 +133,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Linear Algebra
+### 2. 1. Introduction to Linear Algebra
 
 #### Defining linear algebra
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/defining-linear-algebra?u=76281980)
@@ -299,7 +299,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Vectors Basics
+### 3. 2. Vectors Basics
 
 #### Introduction to vectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-vectors?u=76281980)
@@ -554,7 +554,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 3. Vector Projections and Basis
+### 4. 3. Vector Projections and Basis
 
 #### Dot product of vectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980)
@@ -833,7 +833,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Introduction to Matrices
+### 5. 4. Introduction to Matrices
 
 #### Matrices introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-introduction?u=76281980)
@@ -1078,7 +1078,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 5. Gaussian Elimination
+### 6. 5. Gaussian Elimination
 
 #### Solving linear equations using Gaussian elimination
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/solving-linear-equations-using-gaussian-elimination?u=76281980)
@@ -1295,7 +1295,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Matrices from Orthogonality to Gram–Schmidt Process
+### 7. 6. Matrices from Orthogonality to Gram–Schmidt Process
 
 #### Matrices changing basis
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-changing-basis?u=76281980)
@@ -1529,7 +1529,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 7. Eigenvalues and Eigenvectors
+### 8. 7. Eigenvalues and Eigenvectors
 
 #### Introduction to eigenvalues and eigenvectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-eigenvalues-and-eigenvectors?u=76281980)
@@ -1803,7 +1803,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/next-steps?u=76281980)
@@ -1831,6 +1831,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [terezija] (1)
 
+
+## Instructor
+
+- [[Terezija Semenski]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- Linear Algebra
+- Artificial Intelligence (AI)
 
 ## Path Context
 

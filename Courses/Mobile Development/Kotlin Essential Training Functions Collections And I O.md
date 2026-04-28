@@ -26,8 +26,10 @@ tags:
   - topic/software-development
   - skill/kotlin
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Kotlin%20Essential%20Training%20Functions%20Collections%20And%20I%20O.md)
 
 ![Kotlin Essential Training Functions Collections And I O](https://media.licdn.com/dms/image/v2/C560DAQHQxXohmsZEgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650999446186?e=2147483647&amp;v=beta&amp;t=012dHBeTDcwco_mvjkWz0aVST5nrbThJnBPW1sO0Ic8)
 
@@ -38,18 +40,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o) | Beginner | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/kotlin-essential-training-functions-collections-and-io-3008787)
-
-## Skills Covered
-
-- Kotlin
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Setting Up Your Kotlin Development Environment** (4 videos)
+- **3. 2. Common Data Types** (4 videos)
+- **4. 3. Working with Functions** (6 videos)
+- **5. 4. Control Flow Structures** (8 videos)
+- **6. 5. Debugging Kotlin Code** (3 videos)
+- **7. 6. Working with Collections** (7 videos)
+- **8. 7. Working with Inputs and Outputs** (5 videos)
+- **9. 8. Testing Kotlin Code** (2 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to Kotlin
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/welcome-to-kotlin-14800824?u=76281980)
@@ -167,7 +173,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. Setting Up Your Kotlin Development Environment
+### 2. 1. Setting Up Your Kotlin Development Environment
 
 #### Introducing IntelliJ IDEA
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980)
@@ -468,7 +474,7 @@ created: 2026-04-21
 > **Definitions:** stands for (2)
 
 
-### 2. Common Data Types
+### 3. 2. Common Data Types
 
 #### Mutable and immutable data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980)
@@ -1075,7 +1081,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Working with Functions
+### 4. 3. Working with Functions
 
 #### Basic functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980)
@@ -1876,7 +1882,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 4. Control Flow Structures
+### 5. 4. Control Flow Structures
 
 #### if and when statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980)
@@ -2818,7 +2824,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### 5. Debugging Kotlin Code
+### 6. 5. Debugging Kotlin Code
 
 #### Setting breakpoints
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980)
@@ -3164,7 +3170,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 6. Working with Collections
+### 7. 6. Working with Collections
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/arrays-14800814?u=76281980)
@@ -4071,7 +4077,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Working with Inputs and Outputs
+### 8. 7. Working with Inputs and Outputs
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980)
@@ -4609,7 +4615,7 @@ created: 2026-04-21
 > **Exercise Files:** template (1)
 
 
-### 8. Testing Kotlin Code
+### 9. 8. Testing Kotlin Code
 
 #### Writing JUnit tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980)
@@ -4950,7 +4956,7 @@ created: 2026-04-21
 > **Env Vars:** api (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980)
@@ -4980,6 +4986,15 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/kotlin-essential-training-functions-collections-and-io-3008787)
+
+## Skills Covered
+
+- Kotlin
 
 ## Path Context
 

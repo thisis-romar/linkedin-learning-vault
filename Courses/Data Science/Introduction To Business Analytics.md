@@ -24,8 +24,10 @@ tags:
   - topic/data-science
   - skill/business-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20To%20Business%20Analytics.md)
 
 ![Introduction To Business Analytics](https://media.licdn.com/dms/image/v2/D4E0DAQGOU_Qvnb9tqA/learning-public-crop_675_1200/B4EZp.6pnGKkAY-/0/1763065896063?e=2147483647&amp;v=beta&amp;t=E4CtFLjAmrrqacLLNsEXPsOa7r1djdDP3xZaiP_nujg)
 
@@ -36,17 +38,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022) | Beginner | 120K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Business Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. How Can Data Improve Your Business?** (4 videos)
+- **3. 2. Analytics Fundamentals** (6 videos)
+- **4. 3. Data Source Map** (3 videos)
+- **5. 4. Managing Data** (5 videos)
+- **6. 5. The Value of Data Sources** (5 videos)
+- **7. 6. Tracking Data** (8 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Empower your business through analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980)
@@ -82,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 1. How Can Data Improve Your Business?
+### 2. 1. How Can Data Improve Your Business?
 
 #### What is the value of data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980)
@@ -342,7 +347,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 2. Analytics Fundamentals
+### 3. 2. Analytics Fundamentals
 
 #### Data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980)
@@ -765,7 +770,7 @@ created: 2026-04-21
 > **Speakers:** - decision (1)
 
 
-### 3. Data Source Map
+### 4. 3. Data Source Map
 
 #### Data source map
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-source-map?u=76281980)
@@ -976,7 +981,7 @@ created: 2026-04-21
 > **Speakers:** - diving (1)
 
 
-### 4. Managing Data
+### 5. 4. Managing Data
 
 #### Database management
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980)
@@ -1293,7 +1298,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 5. The Value of Data Sources
+### 6. 5. The Value of Data Sources
 
 #### Sales data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/sales-data?u=76281980)
@@ -1598,7 +1603,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 6. Tracking Data
+### 7. 6. Tracking Data
 
 #### Key sales metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980)
@@ -2064,7 +2069,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/next-steps?u=76281980)
@@ -2094,6 +2099,14 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - if (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Business Analytics
 
 ## Path Context
 

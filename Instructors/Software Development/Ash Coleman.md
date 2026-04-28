@@ -11,8 +11,10 @@ tags:
   - instructor
   - topic/devops
   - topic/software-development
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Software%20Development/Ash%20Coleman.md)
 
 # Ash Coleman
 

@@ -28,8 +28,10 @@ tags:
   - topic/security
   - skill/organizational-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Counterintuitive%20Leadership%20Strategies%20for%20a%20VUCA%20(Volatile%2C%20Uncertain%2C%20Complex%2C%20Ambiguous)%20Environment.md)
 
 ![Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment](https://media.licdn.com/dms/image/v2/C4E0DAQGtU20-giimEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628887883903?e=2147483647&amp;v=beta&amp;t=10R6XmGQTPOF36Q8RfoAwoMbLnSsV7_mbKgxXQnVka4)
 
@@ -40,21 +42,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment) | 57m | Advanced | 287K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sara Canaday]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Organizational Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Adopt the Strategic Pause** (2 videos)
+- **3. 2. Disrupt Your Thinking** (2 videos)
+- **4. 3. Embrace Soft Intelligence** (2 videos)
+- **5. 4. Reevaluate Your To-Do List** (2 videos)
+- **6. 5. Communicate to Influence** (2 videos)
+- **7. 6. Approach Challenges as a Novice** (2 videos)
+- **8. 7. Blaze New Trails** (2 videos)
+- **9. 8. Maintain Timeless Principles** (1 videos)
+- **10. 9. Conquer the Chaos** (1 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Disrupt your own way of working and thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/disrupt-your-own-way-of-working-and-thinking?u=76281980)
@@ -152,7 +156,7 @@ created: 2026-04-21
 > **Speakers:** - today (1)
 
 
-### 1. Adopt the Strategic Pause
+### 2. 1. Adopt the Strategic Pause
 
 #### Myth of motion
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980)
@@ -313,7 +317,7 @@ created: 2026-04-21
 > **Speakers:** - today (1)
 
 
-### 2. Disrupt Your Thinking
+### 3. 2. Disrupt Your Thinking
 
 #### The prison of perspectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-prison-of-perspectives?u=76281980)
@@ -474,7 +478,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 3. Embrace Soft Intelligence
+### 4. 3. Embrace Soft Intelligence
 
 #### The addiction to hard data
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980)
@@ -616,7 +620,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 4. Reevaluate Your To-Do List
+### 5. 4. Reevaluate Your To-Do List
 
 #### The rut of routines
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-rut-of-routines?u=76281980)
@@ -790,7 +794,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 5. Communicate to Influence
+### 6. 5. Communicate to Influence
 
 #### The obsession with informing
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-obsession-with-informing?u=76281980)
@@ -954,7 +958,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 6. Approach Challenges as a Novice
+### 7. 6. Approach Challenges as a Novice
 
 #### The trap of expertise
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-trap-of-expertise?u=76281980)
@@ -1094,7 +1098,7 @@ created: 2026-04-21
 > **Speakers:** - becoming (1)
 
 
-### 7. Blaze New Trails
+### 8. 7. Blaze New Trails
 
 #### The chains of best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-chains-of-best-practices?u=76281980)
@@ -1242,7 +1246,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 8. Maintain Timeless Principles
+### 9. 8. Maintain Timeless Principles
 
 #### The power of enduring practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980)
@@ -1330,7 +1334,7 @@ created: 2026-04-21
 > **Speakers:** - without (1)
 
 
-### 9. Conquer the Chaos
+### 10. 9. Conquer the Chaos
 
 #### New strategies for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/new-strategies-for-success?u=76281980)
@@ -1385,7 +1389,7 @@ created: 2026-04-21
 > **Speakers:** - throughout (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/next-steps?u=76281980)
@@ -1430,6 +1434,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - leadership (1)
 
+
+## Instructor
+
+- [[Sara Canaday]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Organizational Leadership
 
 ## Path Context
 

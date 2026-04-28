@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/risk-management-framework-rmf
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Understanding%20and%20Implementing%20the%20NIST%20AI%20Risk%20Management%20Framework%20(RMF).md)
 
 ![Understanding and Implementing the NIST AI Risk Management Framework (RMF)](https://media.licdn.com/dms/image/v2/D560DAQE9ivTR2vg4EQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719527423345?e=2147483647&amp;v=beta&amp;t=nFMrFlUS7hy0XFx5levnT74W-21SIpz4NEvvWau1hLU)
 
@@ -47,24 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf) | 1h 22m | Intermediate | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lyron Andrews]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- NIST
-- Responsible AI
-- Artificial Intelligence (AI)
-- Risk Management Framework (RMF)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Overview: The Need of an AI Risk Management Framework** (2 videos)
+- **3. 2. Sections 1-2: Foundational Information – Framing Risk** (4 videos)
+- **4. 3. Sections 3-4: AI Risks, Trustworthiness, and Effectiveness** (5 videos)
+- **5. 4. Section 5: Core** (10 videos)
+- **6. 5. Section 6, Appendix A–D: AI RMF Profiles** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Implement the NIST risk management framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980)
@@ -92,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - artificial (1)
 
 
-### 1. Overview: The Need of an AI Risk Management Framework
+### 2. 1. Overview: The Need of an AI Risk Management Framework
 
 #### Why the need for an AI RMF
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980)
@@ -220,7 +217,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Sections 1-2: Foundational Information – Framing Risk
+### 3. 2. Sections 1-2: Foundational Information – Framing Risk
 
 #### Understanding and addressing risks, impacts, and harms: Sections 1.1
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980)
@@ -481,7 +478,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Sections 3-4: AI Risks, Trustworthiness, and Effectiveness
+### 4. 3. Sections 3-4: AI Risks, Trustworthiness, and Effectiveness
 
 #### Trustworthiness, valid, and reliable: Sections 3–3.1
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980)
@@ -772,7 +769,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Section 5: Core
+### 5. 4. Section 5: Core
 
 #### AI RMF Core: Section 5
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980)
@@ -1449,7 +1446,7 @@ created: 2026-04-21
 > **Speakers:** - [host] (1)
 
 
-### 5. Section 6, Appendix A–D: AI RMF Profiles
+### 6. 5. Section 6, Appendix A–D: AI RMF Profiles
 
 #### Overview of profiles: Section 6
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-profiles-section-6?u=76281980)
@@ -1561,7 +1558,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Where do you begin?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980)
@@ -1610,6 +1607,21 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Lyron Andrews]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- NIST
+- Responsible AI
+- Artificial Intelligence (AI)
+- Risk Management Framework (RMF)
 
 ## Path Context
 

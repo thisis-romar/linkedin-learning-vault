@@ -33,8 +33,10 @@ tags:
   - skill/exception-management
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Exception%20Handling.md)
 
 ![Java Exception Handling](https://media.licdn.com/dms/image/v2/C4D0DAQHZ6d8egwHeEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1627922020189?e=2147483647&amp;v=beta&amp;t=FV4yYg2MgveFeqnpH9GYQ-ZKwH9wpQuNT3HWaDygNR8)
 
@@ -45,23 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling) | 1h 10m | Intermediate | 26K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Cecili Reid]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/java-exception-handling-2884226)
-
-## Skills Covered
-
-- Exception Management
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Errors in Java** (2 videos)
+- **3. 2. Exceptions in Java** (5 videos)
+- **4. 3. Runtime Exceptions in Java** (8 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why bother with exception handling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/why-bother-with-exception-handling?u=76281980)
@@ -160,7 +156,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Errors in Java
+### 2. 1. Errors in Java
 
 #### What are errors?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-errors?u=76281980)
@@ -315,7 +311,7 @@ created: 2026-04-21
 > **Ports:** :8080 (1)
 
 
-### 2. Exceptions in Java
+### 3. 2. Exceptions in Java
 
 #### What are exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980)
@@ -737,7 +733,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Runtime Exceptions in Java
+### 4. 3. Runtime Exceptions in Java
 
 #### What are runtime exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-runtime-exceptions?u=76281980)
@@ -1389,7 +1385,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps with exception handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/next-steps-with-exception-handling?u=76281980)
@@ -1414,6 +1410,20 @@ created: 2026-04-21
 > **Env Vars:** mvc (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Cecili Reid]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/java-exception-handling-2884226)
+
+## Skills Covered
+
+- Exception Management
+- Java
 
 ## Path Context
 

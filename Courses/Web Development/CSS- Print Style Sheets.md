@@ -26,8 +26,10 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Print%20Style%20Sheets.md)
 
 ![CSS: Print Style Sheets](https://media.licdn.com/dms/image/v2/C4E0DAQGWqNJbTO18sA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1601574383805?e=2147483647&amp;v=beta&amp;t=rccYxxCmoHKwh9H3jMkJCC91RXUgowUd0n9aNsAXNWQ)
 
@@ -38,21 +40,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets) | 1h 52m | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jen Kramer]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Mechanics of Print-Based CSS** (6 videos)
+- **3. 2. Best Practices for Print-Based Styling** (10 videos)
+- **4. 3. Beautiful Formatting for Print** (9 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to CSS print style sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/welcome?u=76281980)
@@ -87,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - sometimes (1)
 
 
-### 1. Mechanics of Print-Based CSS
+### 2. 1. Mechanics of Print-Based CSS
 
 #### Print style sheets and media queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/print-style-sheets-and-media-queries?u=76281980)
@@ -657,7 +655,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Best Practices for Print-Based Styling
+### 3. 2. Best Practices for Print-Based Styling
 
 #### Best practices for styling for print
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/best-practices-for-styling-for-print?u=76281980)
@@ -1740,7 +1738,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Beautiful Formatting for Print
+### 4. 3. Beautiful Formatting for Print
 
 #### Understanding paged media and CSS fragmentation properties
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/understanding-paged-media-and-css-fragmentation-properties?u=76281980)
@@ -2625,7 +2623,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/next-steps-25762079?u=76281980)
@@ -2665,6 +2663,18 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - hey (1)
 
+
+## Instructor
+
+- [[Jen Kramer]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

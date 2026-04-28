@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/eslint
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/ESLint-%20Checking%20for%20Syntax%20and%20Logic%20Errors.md)
 
 ![ESLint: Checking for Syntax and Logic Errors](https://media.licdn.com/dms/image/v2/C4E0DAQHQ7f1pYY_oBw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668021378628?e=2147483647&amp;v=beta&amp;t=rrRAexRdmJuLPvhg0KKGoo1WZcueBEEs2tENH_VldlU)
 
@@ -41,22 +43,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors) | 38m | Advanced | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sasha Vodnik]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/eslint-syntax-2255011/codespaces)
-
-## Skills Covered
-
-- ESLint
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Checking for Syntax and Logic Errors** (8 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using ESLint to catch coding errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-eslint-to-catch-coding-errors-25671666?u=76281980)
@@ -286,7 +281,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 1. Checking for Syntax and Logic Errors
+### 2. 1. Checking for Syntax and Logic Errors
 
 #### Understanding ESLint error rule types
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/understanding-eslint-error-rule-types?u=76281980)
@@ -946,7 +941,7 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980)
@@ -973,6 +968,19 @@ created: 2026-04-21
 >
 > **Speakers:** - [sasha] (1)
 
+
+## Instructor
+
+- [[Sasha Vodnik]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/eslint-syntax-2255011/codespaces)
+
+## Skills Covered
+
+- ESLint
 
 ## Path Context
 

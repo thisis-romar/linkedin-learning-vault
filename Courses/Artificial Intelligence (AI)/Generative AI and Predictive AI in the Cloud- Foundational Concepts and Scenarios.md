@@ -39,8 +39,10 @@ tags:
   - skill/cloud-computing
   - skill/predictive-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20and%20Predictive%20AI%20in%20the%20Cloud-%20Foundational%20Concepts%20and%20Scenarios.md)
 
 ![Generative AI and Predictive AI in the Cloud: Foundational Concepts and Scenarios](https://media.licdn.com/dms/image/v2/D4E0DAQG8SRKy6oi9eA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710365347968?e=2147483647&amp;v=beta&amp;t=4BOniFSQUgwfdkxKUHrRDvYWUeAKBlVP5nMZDqm7yN0)
 
@@ -51,20 +53,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios) | 1h | Beginner | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Thomas Erl]]
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- Cloud Computing
-- Predictive AI
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AI Basics** (3 videos)
+- **3. 2. Cloud AI Basics** (4 videos)
+- **4. 3. Using Predictive AI to Improve Decision-Making** (5 videos)
+- **5. 4. Using Predictive AI to Automate More Intelligently** (5 videos)
+- **6. 5. Using Generative AI to Create New Business Value** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI and the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980)
@@ -86,7 +87,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. AI Basics
+### 2. 1. AI Basics
 
 #### Introduction to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980)
@@ -211,7 +212,7 @@ created: 2026-04-21
 > **Analogies:** for example (1), similar to (1)
 
 
-### 2. Cloud AI Basics
+### 3. 2. Cloud AI Basics
 
 #### AI, clouds, and quantum computers
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980)
@@ -418,7 +419,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Using Predictive AI to Improve Decision-Making
+### 4. 3. Using Predictive AI to Improve Decision-Making
 
 #### How humans make decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980)
@@ -604,7 +605,7 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 
 
-### 4. Using Predictive AI to Automate More Intelligently
+### 5. 4. Using Predictive AI to Automate More Intelligently
 
 #### Automation without AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980)
@@ -809,7 +810,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 5. Using Generative AI to Create New Business Value
+### 6. 5. Using Generative AI to Create New Business Value
 
 #### Creating new content and ideas without AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980)
@@ -1052,7 +1053,7 @@ created: 2026-04-21
 > **Speakers:** - working (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980)
@@ -1077,6 +1078,17 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Thomas Erl]]
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- Cloud Computing
+- Predictive AI
 
 ## Path Context
 

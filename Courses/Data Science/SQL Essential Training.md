@@ -43,8 +43,10 @@ tags:
   - topic/database-management
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Essential%20Training.md)
 
 ![SQL Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHmDY4p3jhrEw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694720627032?e=2147483647&amp;v=beta&amp;t=SyOBWIIO_0CQuXfmL5ZjNdoQDXcjhsBcKjfg4oDdHsM)
 
@@ -55,21 +57,26 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933) | 4h 36m | Beginner | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Walter Shields]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The Basics of Database Structures** (2 videos)
+- **3. 2. The SQL Stack** (2 videos)
+- **4. 3. The SQLite Database Environment** (5 videos)
+- **5. 4. Composing Queries** (8 videos)
+- **6. 5. Discovering Insights in Data** (11 videos)
+- **7. 6. Accessing Data from Multiple Tables** (11 videos)
+- **8. 7. SQL Functions** (9 videos)
+- **9. 8. Grouping** (7 videos)
+- **10. 9. Nesting Queries** (7 videos)
+- **11. 10. Stored Queries** (5 videos)
+- **12. 11. Adding, Modifying, and Deleting Data** (4 videos)
+- **13. 12. Scenario: Mock SQL Interview** (2 videos)
+- **14. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The data-driven world
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=76281980)
@@ -189,7 +196,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Basics of Database Structures
+### 2. 1. The Basics of Database Structures
 
 #### Relational database theory
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980)
@@ -320,7 +327,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The SQL Stack
+### 3. 2. The SQL Stack
 
 #### WSDA Music (sample database)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/wsda-music-sample-database-19065718?u=76281980)
@@ -394,7 +401,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. The SQLite Database Environment
+### 4. 3. The SQLite Database Environment
 
 #### How to access the DB Browser for SQLite software
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980)
@@ -613,7 +620,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 4. Composing Queries
+### 5. 4. Composing Queries
 
 #### Queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/queries?u=76281980)
@@ -1172,7 +1179,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Discovering Insights in Data
+### 6. 5. Discovering Insights in Data
 
 #### Types of SQL operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/types-of-sql-operators-19068572?u=76281980)
@@ -2049,7 +2056,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Accessing Data from Multiple Tables
+### 7. 6. Accessing Data from Multiple Tables
 
 #### Joins explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980)
@@ -2756,7 +2763,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### 7. SQL Functions
+### 8. 7. SQL Functions
 
 #### Calculating with functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/calculating-with-functions-19066645?u=76281980)
@@ -3290,7 +3297,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Grouping
+### 9. 8. Grouping
 
 #### Grouping your query results
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-your-query-results-19069541?u=76281980)
@@ -3739,7 +3746,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Nesting Queries
+### 10. 9. Nesting Queries
 
 #### Subqueries and aggregate functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/subqueries-and-aggregate-functions-19069540?u=76281980)
@@ -4257,7 +4264,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### 10. Stored Queries
+### 11. 10. Stored Queries
 
 #### View introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/view-introduction-19065702?u=76281980)
@@ -4563,7 +4570,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Adding, Modifying, and Deleting Data
+### 12. 11. Adding, Modifying, and Deleting Data
 
 #### Analysis and administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/analysis-and-administration-19070446?u=76281980)
@@ -4840,7 +4847,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Scenario: Mock SQL Interview
+### 13. 12. Scenario: Mock SQL Interview
 
 #### Preparing for a Non-Technical Interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980)
@@ -4983,7 +4990,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 14. Conclusion
 
 #### Next steps and tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980)
@@ -5022,6 +5029,18 @@ created: 2026-04-21
 > **Speakers:** - and (1)
 > **Non-Speech:** (upbeat music) (1)
 
+
+## Instructor
+
+- [[Walter Shields]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- SQL
 
 ## Path Context
 

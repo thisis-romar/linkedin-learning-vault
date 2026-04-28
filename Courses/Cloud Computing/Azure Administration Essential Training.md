@@ -39,35 +39,35 @@ tags:
   - skill/cloud-administration
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Administration%20Essential%20Training.md)
 
 ![Azure Administration Essential Training](https://media.licdn.com/dms/image/v2/C560DAQE-R4loEMduuw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670446335554?e=2147483647&amp;v=beta&amp;t=hxE_SXza9BjjH8eAGS4G0BWVX_WGH4kewXga4OKcc30)
 
 # Azure Administration Essential Training
 
-> Projects
-
-Create and manage a virtual machine in Azure.
-Implement and manage an Azure storage account and an Azure web application.
-
-Are you tasked with your company’s cloud solutions? Looking for guidance on setting up and using Microsoft Azure? In this course, David Elfassy gives you a cloud administrator's view of Azure. David covers the essentials core concepts, providing an inside look at wor
+> Projects Create and manage a virtual machine in Azure. Implement and manage an Azure storage account and an Azure web application. Are you tasked with your company’s cloud solutions? Looking for guidance on setting up and using Microsoft Azure? In this course, David Elfassy gives you a cloud administrator's view of Azure. David covers the essentials core concepts, providing an inside look at worki
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360) | 3h 21m | Intermediate | 39K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Elfassy]]
-
-## Skills Covered
-
-- Cloud Administration
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Familiar with Microsoft Azure** (4 videos)
+- **3. 2. Managing Microsoft Azure resources** (10 videos)
+- **4. 3. Microsoft Azure Storage** (5 videos)
+- **5. 4. Microsoft Azure  Web Apps** (2 videos)
+- **6. 5. Microsoft Azure Virtual Machines** (5 videos)
+- **7. 6. Microsoft Microsoft Entra ID** (8 videos)
+- **8. 7. Microsoft Azure Networking** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The Essentials of Microsoft Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/the-essentials-of-microsoft-azure?u=76281980)
@@ -91,7 +91,7 @@ Are you tasked with your company’s cloud solutions? Looking for guidance on se
 > **Speakers:** - [david] (1)
 
 
-### 1. Getting Familiar with Microsoft Azure
+### 2. 1. Getting Familiar with Microsoft Azure
 
 #### Fundamentals of cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980)
@@ -484,7 +484,7 @@ Are you tasked with your company’s cloud solutions? Looking for guidance on se
 > **Tools:** azure portal (1)
 
 
-### 2. Managing Microsoft Azure resources
+### 3. 2. Managing Microsoft Azure resources
 
 #### Azure management tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980)
@@ -1449,7 +1449,7 @@ Are you tasked with your company’s cloud solutions? Looking for guidance on se
 > **Speakers:** - [lecturer] (1)
 
 
-### 3. Microsoft Azure Storage
+### 4. 3. Microsoft Azure Storage
 
 #### Exploring Azure storage services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980)
@@ -1940,7 +1940,7 @@ Are you tasked with your company’s cloud solutions? Looking for guidance on se
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Microsoft Azure  Web Apps
+### 5. 4. Microsoft Azure  Web Apps
 
 #### Implementing Azure web apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980)
@@ -2134,7 +2134,7 @@ Are you tasked with your company’s cloud solutions? Looking for guidance on se
 > **Analogies:** for example (1)
 
 
-### 5. Microsoft Azure Virtual Machines
+### 6. 5. Microsoft Azure Virtual Machines
 
 #### Creating virtual machines in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980)
@@ -2743,7 +2743,7 @@ Are you tasked with your company’s cloud solutions? Looking for guidance on se
 > **Prerequisites:** required to (1)
 
 
-### 6. Microsoft Microsoft Entra ID
+### 7. 6. Microsoft Microsoft Entra ID
 
 #### Exploring Microsoft Entra ID
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980)
@@ -3510,7 +3510,7 @@ Are you tasked with your company’s cloud solutions? Looking for guidance on se
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Microsoft Azure Networking
+### 8. 7. Microsoft Azure Networking
 
 #### Explore the Azure virtual networking resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980)
@@ -3740,7 +3740,7 @@ Are you tasked with your company’s cloud solutions? Looking for guidance on se
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Learning more about Microsoft Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980)
@@ -3767,6 +3767,15 @@ Are you tasked with your company’s cloud solutions? Looking for guidance on se
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[David Elfassy]]
+
+## Skills Covered
+
+- Cloud Administration
+- Microsoft Azure
 
 ## Path Context
 

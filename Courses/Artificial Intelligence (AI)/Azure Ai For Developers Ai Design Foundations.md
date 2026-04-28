@@ -31,8 +31,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20Ai%20For%20Developers%20Ai%20Design%20Foundations.md)
 
 ![Azure Ai For Developers Ai Design Foundations](https://media.licdn.com/dms/image/v2/D4D0DAQFgGdrC0BdUqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737481924703?e=2147483647&amp;v=beta&amp;t=Vs9Jngl2eNdOwgn64R-XHFTGVaU23LNQseXo1Y4P3Nw)
 
@@ -43,16 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations) | Beginner | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Azure AI Studio
-- Large Language Model Operations (LLMOps)
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding Large Language Models** (2 videos)
+- **3. 2. Grounding LLMs to Data** (4 videos)
+- **4. 3. Introduction to LLMOps** (3 videos)
+- **5. 4. Ensuring the Safe and Responsible Operation of Your AI** (3 videos)
+- **6. 5. Multimodal AI** (4 videos)
+- **7. 6. Introduction to AI Agents** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What this course is about
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980)
@@ -102,7 +108,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding Large Language Models
+### 2. 1. Understanding Large Language Models
 
 #### Introduction to large language models (LLMs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980)
@@ -226,7 +232,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Grounding LLMs to Data
+### 3. 2. Grounding LLMs to Data
 
 #### How data grounding works
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980)
@@ -496,7 +502,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. Introduction to LLMOps
+### 4. 3. Introduction to LLMOps
 
 #### Running pilots with real users
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/running-pilots-with-real-users?u=76281980)
@@ -705,7 +711,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Ensuring the Safe and Responsible Operation of Your AI
+### 5. 4. Ensuring the Safe and Responsible Operation of Your AI
 
 #### Responsible AI concerns and their mitigations
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980)
@@ -887,7 +893,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 5. Multimodal AI
+### 6. 5. Multimodal AI
 
 #### Introduction to multimodal AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-multimodal-ai?u=76281980)
@@ -1094,7 +1100,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Introduction to AI Agents
+### 7. 6. Introduction to AI Agents
 
 #### What is an AI agent?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980)
@@ -1295,7 +1301,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Learning more
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980)
@@ -1319,6 +1325,13 @@ created: 2026-04-21
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Skills Covered
+
+- Azure AI Studio
+- Large Language Model Operations (LLMOps)
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
 
 ## Path Context
 

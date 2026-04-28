@@ -31,8 +31,10 @@ tags:
   - skill/asp-net-core
   - skill/asp-net-razor
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/ASP.NET%20Core-%20Razor%20Pages.md)
 
 ![ASP.NET Core: Razor Pages](https://media.licdn.com/dms/image/v2/C560DAQG_sOyeCs-0JQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655920911407?e=2147483647&amp;v=beta&amp;t=O6fB7HCf-3S4TgDZ07jep1_exvbexYywbY8cEvTp3yU)
 
@@ -43,23 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051) | 1h 46m | Intermediate | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ervis Trupja]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/asp-net-core-razor-pages-2476438)
-
-## Skills Covered
-
-- ASP.NET Core
-- ASP.NET Razor
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started with Razor Pages** (4 videos)
+- **3. 2. Working with Forms in Razor Pages** (7 videos)
+- **4. 3. Working with Data in Razor Pages** (5 videos)
+- **5. 4. Securing Razor Pages Applications** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why use Razor Pages?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980)
@@ -119,7 +116,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with Razor Pages
+### 2. 1. Getting Started with Razor Pages
 
 #### What is ASP.NET Razor Pages?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980)
@@ -535,7 +532,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Working with Forms in Razor Pages
+### 3. 2. Working with Forms in Razor Pages
 
 #### Data binding in ASP.NET Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/data-binding-in-asp-dot-net-razor-pages?u=76281980)
@@ -1334,7 +1331,7 @@ created: 2026-04-21
 > **Definitions:** stands for (1)
 
 
-### 3. Working with Data in Razor Pages
+### 4. 3. Working with Data in Razor Pages
 
 #### Setting up Entity Framework Core in ASP.NET Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980)
@@ -2205,7 +2202,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Securing Razor Pages Applications
+### 5. 4. Securing Razor Pages Applications
 
 #### Authentication vs. authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/authentication-vs-authorization?u=76281980)
@@ -2506,7 +2503,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps for learning more about Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980)
@@ -2543,6 +2540,20 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - if (1)
 
+
+## Instructor
+
+- [[Ervis Trupja]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/asp-net-core-razor-pages-2476438)
+
+## Skills Covered
+
+- ASP.NET Core
+- ASP.NET Razor
 
 ## Path Context
 

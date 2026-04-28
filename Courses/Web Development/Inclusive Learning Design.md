@@ -19,8 +19,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Inclusive%20Learning%20Design.md)
 
 ![Inclusive Learning Design](https://media.licdn.com/dms/image/v2/C560DAQEh_LWPp26jPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671563366782?e=2147483647&amp;v=beta&amp;t=UntSRS3xQMBCIxx474PtaYxxg3NalygPwpJnbvbnxOw)
 
@@ -31,13 +33,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design) | 47m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Samantha Calamari]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Shift Left: Inclusive Learning Design** (3 videos)
+- **3. 2. Identify Learners** (3 videos)
+- **4. 3. The Four Pillars of Inclusive Learning Design** (5 videos)
+- **5. 4. Put Practice to Design** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Designing learning for whole learners
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/designing-learning-for-whole-learners?u=76281980)
@@ -79,7 +86,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 1. Shift Left: Inclusive Learning Design
+### 2. 1. Shift Left: Inclusive Learning Design
 
 #### The importance of inclusive learning design
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/the-importance-of-inclusive-learning-design?u=76281980)
@@ -273,7 +280,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Identify Learners
+### 3. 2. Identify Learners
 
 #### Your learning identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/your-learning-identity?u=76281980)
@@ -478,7 +485,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. The Four Pillars of Inclusive Learning Design
+### 4. 3. The Four Pillars of Inclusive Learning Design
 
 #### Apply the four pillars of ILD
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/apply-the-four-pillars-of-ild?u=76281980)
@@ -857,7 +864,7 @@ created: 2026-04-21
 > **Speakers:** - welcome (1)
 
 
-### 4. Put Practice to Design
+### 5. 4. Put Practice to Design
 
 #### Implement inclusive learning design
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/implement-inclusive-learning-design?u=76281980)
@@ -1020,7 +1027,7 @@ created: 2026-04-21
 > **Speakers:** - and (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### The future of inclusive learning design
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980)
@@ -1070,6 +1077,10 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Samantha Calamari]]
 
 ## Path Context
 

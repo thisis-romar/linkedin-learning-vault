@@ -40,8 +40,10 @@ tags:
   - skill/computer-vision
   - skill/google-gemini
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20an%20Image%20Captioning%20Tool%20for%20Visually%20Impaired%20Users%20with%20Gemini.md)
 
 ![Build an Image Captioning Tool for Visually Impaired Users with Gemini](https://media.licdn.com/dms/image/v2/D560DAQHvLDVro1C27Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715978287117?e=2147483647&amp;v=beta&amp;t=CBDbKQ4y3RVI9bUIqjBK8D4RrPE71k8YjULhxmfyyPw)
 
@@ -52,25 +54,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini) | 1h 7m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fikayo Adepoju]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini-3864012)
-
-## Skills Covered
-
-- Digital Accessibility
-- Artificial Intelligence (AI)
-- Computer Vision
-- Google Gemini
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Setting Up Access to Gemini API** (4 videos)
+- **3. 2. Building the Interface** (5 videos)
+- **4. 3. Building the Backend: Connecting to Gemini** (5 videos)
+- **5. 4. Bringing It All Together** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Image captioning with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/image-captioning-with-ai?u=76281980)
@@ -161,7 +156,7 @@ created: 2026-04-21
 > **Env Vars:** api (2)
 
 
-### 1. Setting Up Access to Gemini API
+### 2. 1. Setting Up Access to Gemini API
 
 #### Understanding Gemini models
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980)
@@ -439,7 +434,7 @@ created: 2026-04-21
 > **Best Practices:** the key is (1)
 
 
-### 2. Building the Interface
+### 3. 2. Building the Interface
 
 #### Cloning the seed project
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980)
@@ -909,7 +904,7 @@ created: 2026-04-21
 > **Prerequisites:** before we start (1)
 
 
-### 3. Building the Backend: Connecting to Gemini
+### 4. 3. Building the Backend: Connecting to Gemini
 
 #### Building out the Express.js API
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980)
@@ -1342,7 +1337,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 
 
-### 4. Bringing It All Together
+### 5. 4. Bringing It All Together
 
 #### Connecting the frontend to the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980)
@@ -1636,7 +1631,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980)
@@ -1664,6 +1659,22 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Prerequisites:** getting started (1)
 
+
+## Instructor
+
+- [[Fikayo Adepoju]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini-3864012)
+
+## Skills Covered
+
+- Digital Accessibility
+- Artificial Intelligence (AI)
+- Computer Vision
+- Google Gemini
 
 ## Path Context
 

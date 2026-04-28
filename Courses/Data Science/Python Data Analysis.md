@@ -37,38 +37,38 @@ tags:
   - skill/data-analysis
   - skill/statistical-data-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20Data%20Analysis.md)
 
 ![Python Data Analysis](https://media.licdn.com/dms/image/v2/D4D0DAQGSYAIAZElfSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733965184177?e=2147483647&amp;v=beta&amp;t=OXv45ZLLtcgntIsvH0mJG8ztMyetqZ0fUfscSXvDt50)
 
 # Python Data Analysis
 
-> Data science has transformed the way that government and industry leaders look at both specific problems and the world at large. Curious about how data analysis works in practice? In this course, instructor Michele Vallisneri explains what it takes to get started with data science using Python.
-
-Michele demonstrates how to set up your analysis environment and provides a refresher on the basics of 
+> Data science has transformed the way that government and industry leaders look at both specific problems and the world at large. Curious about how data analysis works in practice? In this course, instructor Michele Vallisneri explains what it takes to get started with data science using Python. Michele demonstrates how to set up your analysis environment and provides a refresher on the basics of w
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803) | 3h 43m | Intermediate | 102K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michele Vallisneri]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/complete-guide-to-python-data-analysis-4571000/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Analysis
-- Statistical Data Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Python Data Structures** (5 videos)
+- **3. 2. Project: Finding Anagrams** (4 videos)
+- **4. 3. NumPy** (5 videos)
+- **5. 4. Project: Weather Data** (6 videos)
+- **6. 5. pandas** (5 videos)
+- **7. 6. Project: Baby Names** (5 videos)
+- **8. 7. Importing and Wrangling Data with pandas** (6 videos)
+- **9. 8. Summarizing and Visualizing Data** (5 videos)
+- **10. 9. Introduction to Data Modeling** (6 videos)
+- **11. 10. Project: COVID-19 Data** (4 videos)
+- **12. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### From data to insight with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/from-data-to-insight-with-python?u=76281980)
@@ -298,7 +298,7 @@ Michele demonstrates how to set up your analysis environment and provides a refr
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Python Data Structures
+### 2. 1. Python Data Structures
 
 #### Warmup with Python loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/warmup-with-python-loops?u=76281980)
@@ -866,7 +866,7 @@ Michele demonstrates how to set up your analysis environment and provides a refr
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Project: Finding Anagrams
+### 3. 2. Project: Finding Anagrams
 
 #### Overview: Finding anagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-finding-anagrams?u=76281980)
@@ -1132,7 +1132,7 @@ Michele demonstrates how to set up your analysis environment and provides a refr
 > **Speakers:** - [instructor] (1)
 
 
-### 3. NumPy
+### 4. 3. NumPy
 
 #### NumPy overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/numpy-overview?u=76281980)
@@ -1711,7 +1711,7 @@ Michele demonstrates how to set up your analysis environment and provides a refr
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Project: Weather Data
+### 5. 4. Project: Weather Data
 
 #### Overview: Analyzing weather
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-analyzing-weather?u=76281980)
@@ -2200,7 +2200,7 @@ Michele demonstrates how to set up your analysis environment and provides a refr
 > **Speakers:** - [instructor] (1)
 
 
-### 5. pandas
+### 6. 5. pandas
 
 #### pandas overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/pandas-overview?u=76281980)
@@ -2726,7 +2726,7 @@ Michele demonstrates how to set up your analysis environment and provides a refr
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Project: Baby Names
+### 7. 6. Project: Baby Names
 
 #### Overview: Analyzing baby names
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-analyzing-baby-names?u=76281980)
@@ -3058,7 +3058,7 @@ Michele demonstrates how to set up your analysis environment and provides a refr
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Importing and Wrangling Data with pandas
+### 8. 7. Importing and Wrangling Data with pandas
 
 #### Overview: The structure of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-the-structure-of-data?u=76281980)
@@ -3609,7 +3609,7 @@ Michele demonstrates how to set up your analysis environment and provides a refr
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Summarizing and Visualizing Data
+### 9. 8. Summarizing and Visualizing Data
 
 #### Overview: Exploring data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-exploring-data?u=76281980)
@@ -4078,7 +4078,7 @@ Michele demonstrates how to set up your analysis environment and provides a refr
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Introduction to Data Modeling
+### 10. 9. Introduction to Data Modeling
 
 #### Overview: Understanding data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-understanding-data?u=76281980)
@@ -4598,7 +4598,7 @@ Michele demonstrates how to set up your analysis environment and provides a refr
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Project: COVID-19 Data
+### 11. 10. Project: COVID-19 Data
 
 #### Overview: COVID-19 data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-covid-19-data?u=76281980)
@@ -4984,7 +4984,7 @@ Michele demonstrates how to set up your analysis environment and provides a refr
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 12. Conclusion
 
 #### Extending your Python data analysis skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/extending-your-python-data-analysis-skills?u=76281980)
@@ -5034,6 +5034,21 @@ Michele demonstrates how to set up your analysis environment and provides a refr
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Michele Vallisneri]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/complete-guide-to-python-data-analysis-4571000/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Analysis
+- Statistical Data Analysis
 
 ## Path Context
 

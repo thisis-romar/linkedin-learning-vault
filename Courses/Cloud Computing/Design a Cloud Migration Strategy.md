@@ -26,8 +26,10 @@ tags:
   - topic/software-development
   - topic/devops
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Design%20a%20Cloud%20Migration%20Strategy.md)
 
 ![Design a Cloud Migration Strategy](https://media.licdn.com/dms/image/v2/C4D0DAQGCH40lBYPU7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1591895554783?e=2147483647&amp;v=beta&amp;t=lfvjb-x9laxtnniE9J1romsK3L1Ia_L-mBm5D5QKBW8)
 
@@ -38,13 +40,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy) | 2h 21m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brien Posey]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Essential Migration Considerations** (6 videos)
+- **3. 2. Rehosting** (4 videos)
+- **4. 3. Replatforming** (4 videos)
+- **5. 4. Adopting SaaS** (4 videos)
+- **6. 5. Refactoring Workloads** (2 videos)
+- **7. 6. Retiring Workloads** (2 videos)
+- **8. 7. The Migration Process** (8 videos)
+- **9. 8. Your Exit Strategy** (5 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Planning a cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/planning-a-cloud-migration?u=76281980)
@@ -89,7 +100,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Essential Migration Considerations
+### 2. 1. Essential Migration Considerations
 
 #### Identify migration goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980)
@@ -652,7 +663,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Rehosting
+### 3. 2. Rehosting
 
 #### Which applications should be rehosted?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980)
@@ -1047,7 +1058,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Replatforming
+### 4. 3. Replatforming
 
 #### What is replatforming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980)
@@ -1311,7 +1322,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Adopting SaaS
+### 5. 4. Adopting SaaS
 
 #### Why transition to SaaS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980)
@@ -1595,7 +1606,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Refactoring Workloads
+### 6. 5. Refactoring Workloads
 
 #### The case for application refactoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980)
@@ -1747,7 +1758,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Retiring Workloads
+### 7. 6. Retiring Workloads
 
 #### Why retiring an application may be the best option
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-retiring-an-application-may-be-the-best-option?u=76281980)
@@ -1875,7 +1886,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. The Migration Process
+### 8. 7. The Migration Process
 
 #### Are your goals still relevant?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/are-your-goals-still-relevant?u=76281980)
@@ -2431,7 +2442,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Your Exit Strategy
+### 9. 8. Your Exit Strategy
 
 #### What is a cloud exit strategy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-a-cloud-exit-strategy?u=76281980)
@@ -2837,7 +2848,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/next-steps?u=76281980)
@@ -2862,6 +2873,10 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [brien] (1)
 
+
+## Instructor
+
+- [[Brien Posey]]
 
 ## Path Context
 

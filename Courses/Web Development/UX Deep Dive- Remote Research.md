@@ -26,8 +26,10 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Remote%20Research.md)
 
 ![UX Deep Dive: Remote Research](https://media.licdn.com/dms/image/v2/C4E0DAQF6VZKCwaRV0A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1606865143375?e=2147483647&amp;v=beta&amp;t=lnwZf9dDrUUiMuxttwaBOC5Q1oovV7WAbb8hj3Lo0M4)
 
@@ -38,21 +40,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research) | 26m | Intermediate | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Amanda Stockwell]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- UX Research
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Remote Research Overview** (2 videos)
+- **3. 2. Preparing for Remote UX Research** (4 videos)
+- **4. 3. Running Remote Research Sessions** (1 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is remote UX research?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/what-is-remote-ux-research?u=76281980)
@@ -88,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Remote Research Overview
+### 2. 1. Remote Research Overview
 
 #### Benefits of remote UX research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/benefits-of-remote-ux-research?u=76281980)
@@ -252,7 +250,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### 2. Preparing for Remote UX Research
+### 3. 2. Preparing for Remote UX Research
 
 #### Designing effective remote studies
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980)
@@ -501,7 +499,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Running Remote Research Sessions
+### 4. 3. Running Remote Research Sessions
 
 #### Running effective remote research sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980)
@@ -588,7 +586,7 @@ created: 2026-04-21
 > **Speakers:** - running (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Keep the data coming
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/keep-the-data-coming?u=76281980)
@@ -617,6 +615,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - remote (1)
 
+
+## Instructor
+
+- [[Amanda Stockwell]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- UX Research
 
 ## Path Context
 

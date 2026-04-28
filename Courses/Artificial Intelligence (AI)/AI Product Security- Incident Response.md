@@ -37,8 +37,10 @@ tags:
   - skill/security-incident-response
   - skill/incident-response
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Incident%20Response.md)
 
 ![AI Product Security: Incident Response](https://media.licdn.com/dms/image/v2/D4D0DAQGXwBp1METrSQ/learning-public-crop_675_1200/B4DZVuNUz.HYAY-/0/1741310742075?e=2147483647&amp;v=beta&amp;t=p5t0l_r-aE4liV2jO3SEAp54NknzW5zA7dIKob5TpGI)
 
@@ -49,23 +51,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response) | 1h 31m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Product Security
-- Security Incident Response
-- Incident Response
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Understanding AI Incidents** (5 videos)
+- **3. 2. Planning for an Incident** (6 videos)
+- **4. 3. Detect and Log AI Issues** (4 videos)
+- **5. 4. AI Incident Response** (2 videos)
+- **6. 5. Incident Communications** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Managing AI incidents to minimize damage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/managing-ai-incidents-to-minimize-damage?u=76281980)
@@ -133,7 +131,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Understanding AI Incidents
+### 2. 1. Understanding AI Incidents
 
 #### Introduction to Incidents
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980)
@@ -379,7 +377,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Planning for an Incident
+### 3. 2. Planning for an Incident
 
 #### Preparing for an incident
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980)
@@ -906,7 +904,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Detect and Log AI Issues
+### 4. 3. Detect and Log AI Issues
 
 #### Test harness for AI logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980)
@@ -1156,7 +1154,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. AI Incident Response
+### 5. 4. AI Incident Response
 
 #### Responding to an AI incident
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/responding-to-an-ai-incident?u=76281980)
@@ -1356,7 +1354,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 5. Incident Communications
+### 6. 5. Incident Communications
 
 #### Introduction to the Knight-Nurse framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980)
@@ -1595,7 +1593,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980)
@@ -1625,6 +1623,20 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Product Security
+- Security Incident Response
+- Incident Response
 
 ## Path Context
 

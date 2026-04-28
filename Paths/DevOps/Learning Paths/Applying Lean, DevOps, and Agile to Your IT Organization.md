@@ -7,7 +7,7 @@ course_count: 9
 linkedin_topics:
   - DevOps
   - IT Help Desk
-louvain_cluster: 6
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/devops
@@ -55,8 +55,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Applying%20Lean%2C%20DevOps%2C%20and%20Agile%20to%20Your%20IT%20Organization.md)
 
 # Applying Lean, DevOps, and Agile to Your IT Organization
 

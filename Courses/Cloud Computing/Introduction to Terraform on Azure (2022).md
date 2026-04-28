@@ -21,8 +21,10 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20to%20Terraform%20on%20Azure%20(2022).md)
 
 ![Introduction to Terraform on Azure (2022)](https://media.licdn.com/dms/image/v2/C4E0DAQFBj7Vq81j3Vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652374461649?e=2147483647&amp;v=beta&amp;t=ml8GWl-wCVj6TjTNfNUFxR4lQhdQYRihUgDDRPJbTkk)
 
@@ -33,13 +35,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022) | 50m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Alexandra Illarionov]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to Terraform in Azure** (4 videos)
+- **3. 2. Setting Up Your Environment** (3 videos)
+- **4. 3. Getting Started with Terraform** (3 videos)
+- **5. 4. Creating with Terraform** (3 videos)
+- **6. 5. Terraform in Action** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980)
@@ -148,7 +156,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Terraform in Azure
+### 2. 1. Introduction to Terraform in Azure
 
 #### What is Infrastructure as Code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980)
@@ -276,7 +284,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Setting Up Your Environment
+### 3. 2. Setting Up Your Environment
 
 #### Installing Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980)
@@ -432,7 +440,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 3. Getting Started with Terraform
+### 4. 3. Getting Started with Terraform
 
 #### Terraform commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980)
@@ -565,7 +573,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Creating with Terraform
+### 5. 4. Creating with Terraform
 
 #### Resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980)
@@ -731,7 +739,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Terraform in Action
+### 6. 5. Terraform in Action
 
 #### Creating a virtual network
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980)
@@ -1206,7 +1214,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Experiment and continue to learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/experiment-and-continue-to-learn?u=76281980)
@@ -1226,6 +1234,10 @@ created: 2026-04-21
 > **CLI Commands:** terraform (4)
 > **Speakers:** - [alex] (1)
 
+
+## Instructor
+
+- [[Alexandra Illarionov]]
 
 ## Path Context
 

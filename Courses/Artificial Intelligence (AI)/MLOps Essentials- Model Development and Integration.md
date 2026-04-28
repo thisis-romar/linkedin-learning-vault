@@ -36,8 +36,10 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/MLOps%20Essentials-%20Model%20Development%20and%20Integration.md)
 
 ![MLOps Essentials: Model Development and Integration](https://media.licdn.com/dms/image/v2/C4D0DAQGUwtitxe_Q0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663181557273?e=2147483647&amp;v=beta&amp;t=wvtk7ypVH1ofF1EjULhi17S0xJthxAWn2sAzqUre_zs)
 
@@ -48,23 +50,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration) | 1h 36m | Intermediate | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- MLOps
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to MLOps** (6 videos)
+- **3. 2. Requirements and Design** (5 videos)
+- **4. 3. Data Processing and Management** (6 videos)
+- **5. 4. Continuous Training** (6 videos)
+- **6. 5. Model Management** (5 videos)
+- **7. 6. Continuous Integration** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/getting-started-with-mlops?u=76281980)
@@ -164,7 +163,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 1. Introduction to MLOps
+### 2. 1. Introduction to MLOps
 
 #### Machine learning life cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/machine-learning-life-cycle?u=76281980)
@@ -579,7 +578,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Requirements and Design
+### 3. 2. Requirements and Design
 
 #### Selecting ML projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980)
@@ -917,7 +916,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Processing and Management
+### 4. 3. Data Processing and Management
 
 #### Managed data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980)
@@ -1273,7 +1272,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Continuous Training
+### 5. 4. Continuous Training
 
 #### Managed training pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980)
@@ -1691,7 +1690,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Model Management
+### 6. 5. Model Management
 
 #### Model versioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-versioning?u=76281980)
@@ -1961,7 +1960,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Continuous Integration
+### 7. 6. Continuous Integration
 
 #### Solution integration pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-pipelines?u=76281980)
@@ -2255,7 +2254,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continuing on with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/continuing-on-with-mlops?u=76281980)
@@ -2287,6 +2286,20 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- MLOps
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -27,8 +27,10 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%206%20Finishing%20the%20Design.md)
 
 ![Drupal 9 Essential Training: 6 Finishing the Design](https://media.licdn.com/dms/image/v2/C4E0DAQGn9n_iwCQ4RQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615495297567?e=2147483647&amp;v=beta&amp;t=3jgd97K1pXzkVjL4badLi0LnYLvatf024JVcOGuZNvA)
 
@@ -39,22 +41,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design) | 46m | Beginner | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[OSTraining]]
-- [[Rod Martin]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Drupal
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Finishing the Design** (4 videos)
+- **3. 2. Site Management** (2 videos)
+- **4. 3. Bonus** (3 videos)
+
+### 1. Introduction
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/introduction-to-the-course?u=76281980)
@@ -103,7 +99,7 @@ created: 2026-04-21
 > **Speakers:** - hi (1)
 
 
-### 1. Finishing the Design
+### 2. 1. Finishing the Design
 
 #### Finishing the design: Adding the logo
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-adding-the-logo?u=76281980)
@@ -746,7 +742,7 @@ created: 2026-04-21
 > **URLs:** [drupal.org](https://drupal.org) (1)
 
 
-### 2. Site Management
+### 3. 2. Site Management
 
 #### How to update Drupal
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-update-drupal?u=76281980)
@@ -963,7 +959,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Bonus
+### 4. 3. Bonus
 
 #### Bonus: Creating a digital asset management system, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-1?u=76281980)
@@ -1312,6 +1308,19 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - wow (1)
 
+
+## Instructor
+
+- [[OSTraining]]
+- [[Rod Martin]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Drupal
 
 ## Path Context
 

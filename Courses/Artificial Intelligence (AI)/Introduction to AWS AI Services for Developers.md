@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20AWS%20AI%20Services%20for%20Developers.md)
 
 ![Introduction to AWS AI Services for Developers](https://media.licdn.com/dms/image/v2/D560DAQGq2TjllTTTyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715042358770?e=2147483647&amp;v=beta&amp;t=vPk7rvzturvJBIFqDrZbRiTHLJTyzyN-mamvWlBa5IE)
 
@@ -47,24 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers) | 51m | Beginner | 100K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jeremy Villeneuve]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-aws-ai-services-for-developers-3808105)
-
-## Skills Covered
-
-- AI Software Development
-- Artificial Intelligence (AI)
-- Amazon Web Services (AWS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. AWS CodeWhisperer** (3 videos)
+- **3. 2. CodeGuru Security** (8 videos)
+- **4. 3. CodeGuru Profiler** (5 videos)
+- **5. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### AI assisted development with AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-assisted-development-with-aws?u=76281980)
@@ -132,7 +127,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 1. AWS CodeWhisperer
+### 2. 1. AWS CodeWhisperer
 
 #### AI coding assistants
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980)
@@ -326,7 +321,7 @@ created: 2026-04-21
 > **Code Identifiers:** lambda_handler (2), sum_file_path (1)
 
 
-### 2. CodeGuru Security
+### 3. 2. CodeGuru Security
 
 #### Shift-left testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980)
@@ -748,7 +743,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 3. CodeGuru Profiler
+### 4. 3. CodeGuru Profiler
 
 #### Shift-right testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-right-testing?u=76281980)
@@ -1017,7 +1012,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Removing costs from CodeGuru
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/removing-costs-from-codeguru?u=76281980)
@@ -1096,6 +1091,21 @@ created: 2026-04-21
 > **Env Vars:** aws (3)
 > **Tools:** visual studio (1)
 
+
+## Instructor
+
+- [[Jeremy Villeneuve]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-aws-ai-services-for-developers-3808105)
+
+## Skills Covered
+
+- AI Software Development
+- Artificial Intelligence (AI)
+- Amazon Web Services (AWS)
 
 ## Path Context
 

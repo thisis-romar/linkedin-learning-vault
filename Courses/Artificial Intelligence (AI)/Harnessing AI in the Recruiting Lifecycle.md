@@ -21,8 +21,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Harnessing%20AI%20in%20the%20Recruiting%20Lifecycle.md)
 
 ![Harnessing AI in the Recruiting Lifecycle](https://media.licdn.com/dms/image/v2/D4E0DAQEZnbqGrq9Q2A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727466690407?e=2147483647&amp;v=beta&amp;t=Qln5SOZD1BgJHwn38u6zApZaupUVXBSjrEgqVEfhqXs)
 
@@ -33,13 +35,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle) | 1h 12m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barbara Bruno]]
-
 ## Table of Contents
 
-### 0. Introduction
+### Chapter Overview
+
+- **1. 0. Introduction** (2 videos)
+- **2. 1. AI-Enhanced Preparation** (3 videos)
+- **3. 2. AI in the Hiring Process** (3 videos)
+- **4. 3. AI-Driven Interview Process** (3 videos)
+- **5. 4. Selecting the Best Candidate with AI** (3 videos)
+- **6. 5. AI in Feedback and Follow-Up** (3 videos)
+
+### 1. 0. Introduction
 
 #### Introducing AI into the hiring process
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/introducing-ai-into-the-hiring-process?u=76281980)
@@ -91,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 1. AI-Enhanced Preparation
+### 2. 1. AI-Enhanced Preparation
 
 #### Utilizing AI for analyzing past successful hires
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980)
@@ -299,7 +306,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. AI in the Hiring Process
+### 3. 2. AI in the Hiring Process
 
 #### AI-driven interview scheduling and coordination
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980)
@@ -488,7 +495,7 @@ created: 2026-04-21
 > **Speakers:** - with (1)
 
 
-### 3. AI-Driven Interview Process
+### 4. 3. AI-Driven Interview Process
 
 #### AI in screening and initial candidate assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980)
@@ -717,7 +724,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 4. Selecting the Best Candidate with AI
+### 5. 4. Selecting the Best Candidate with AI
 
 #### AI for objective candidate comparison
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980)
@@ -915,7 +922,7 @@ created: 2026-04-21
 > **Speakers:** - feeling (1)
 
 
-### 5. AI in Feedback and Follow-Up
+### 6. 5. AI in Feedback and Follow-Up
 
 #### AI-enhanced feedback loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-enhanced-feedback-loops?u=76281980)
@@ -1121,6 +1128,10 @@ created: 2026-04-21
 > **Best Practices:** it's best to (1)
 > **Speakers:** - do (1)
 
+
+## Instructor
+
+- [[Barbara Bruno]]
 
 ## Path Context
 

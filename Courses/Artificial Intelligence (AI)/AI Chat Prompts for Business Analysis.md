@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Chat%20Prompts%20for%20Business%20Analysis.md)
 
 ![AI Chat Prompts for Business Analysis](https://media.licdn.com/dms/image/v2/D560DAQGpYYPjoX6i8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722976050850?e=2147483647&amp;v=beta&amp;t=Hc5SxuuCVa6HKdBYG5WE8i2VtRkeTHh9Cj0ECO5k7hM)
 
@@ -44,24 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis) | 48m | 24K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jamie Champagne]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business Analysis
-- AI Prompting
-- Artificial Intelligence (AI)
-- Business Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Defining Good Questions** (4 videos)
+- **3. 2. Getting Chat Prompts to Work for You** (4 videos)
+- **4. 3. Driving Analysis Products with Generative AI** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Working with generative AI as a business analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/working-with-generative-ai-as-a-business-analyst?u=76281980)
@@ -140,7 +135,7 @@ created: 2026-04-21
 > **Speakers:** - by (1)
 
 
-### 1. Defining Good Questions
+### 2. 1. Defining Good Questions
 
 #### Getting warmed up with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980)
@@ -508,7 +503,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Getting Chat Prompts to Work for You
+### 3. 2. Getting Chat Prompts to Work for You
 
 #### Getting chat prompts to generate ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-chat-prompts-to-generate-ideas?u=76281980)
@@ -884,7 +879,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 3. Driving Analysis Products with Generative AI
+### 4. 3. Driving Analysis Products with Generative AI
 
 #### Building requirements with chat prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980)
@@ -1108,7 +1103,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/next-steps?u=76281980)
@@ -1144,6 +1139,21 @@ created: 2026-04-21
 > **Code Keywords:** for, (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jamie Champagne]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business Analysis
+- AI Prompting
+- Artificial Intelligence (AI)
+- Business Analysis
 
 ## Path Context
 

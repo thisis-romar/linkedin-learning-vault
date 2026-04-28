@@ -30,34 +30,34 @@ tags:
   - skill/web-standards
   - skill/interactive-web-content
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20Web%20Audio%20and%20Video.md)
 
 ![Learning Web Audio and Video](https://media.licdn.com/dms/image/v2/C4D0DAQFqwMRtOdtvLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597422032215?e=2147483647&amp;v=beta&amp;t=kXq1JbiVYCdzKk6De6bxvI5Op_419cu4wU2EUIySwds)
 
 # Learning Web Audio and Video
 
-> Need to share video or audio on your sites, but dropping it on YouTube or a podcasting engine isn't an option? Native web technologies—HTML, CSS, and JavaScript—provide direct support for audio and video, letting you incorporate media and fully customize the playback experience.  This introductory course with instructor Joseph Labrecque helps you build interactive audio and video into your website
+> Need to share video or audio on your sites, but dropping it on YouTube or a podcasting engine isn't an option? Native web technologies—HTML, CSS, and JavaScript—provide direct support for audio and video, letting you incorporate media and fully customize the playback experience. This introductory course with instructor Joseph Labrecque helps you build interactive audio and video into your websites
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video) | 1h 29m | Intermediate | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joseph Labrecque]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Web Standards
-- Interactive Web Content
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Get Started with Web-Based Media** (6 videos)
+- **3. 2. Work with Audio Elements** (7 videos)
+- **4. 3. Work with Video Elements** (6 videos)
+- **5. 4. Create Media Playback Controls** (6 videos)
+- **6. 5. Style Media Playback Controls** (6 videos)
+- **7. 6. Work with the Media API** (7 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build interactive audio and video into your websites and applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/build-interactive-audio-and-video-into-your-websites-and-applications?u=76281980)
@@ -160,7 +160,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Get Started with Web-Based Media
+### 2. 1. Get Started with Web-Based Media
 
 #### Set up your environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980)
@@ -427,7 +427,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Work with Audio Elements
+### 3. 2. Work with Audio Elements
 
 #### Modify your document for audio
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-audio?u=76281980)
@@ -749,7 +749,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Work with Video Elements
+### 4. 3. Work with Video Elements
 
 #### Modify your document for video
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-video?u=76281980)
@@ -1023,7 +1023,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Create Media Playback Controls
+### 5. 4. Create Media Playback Controls
 
 #### Disable default media controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/disable-default-media-controls?u=76281980)
@@ -1259,7 +1259,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Style Media Playback Controls
+### 6. 5. Style Media Playback Controls
 
 #### Define CSS styles in a document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/define-css-styles-in-a-document?u=76281980)
@@ -1661,7 +1661,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Work with the Media API
+### 7. 6. Work with the Media API
 
 #### Overview of media API
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/overview-of-media-api?u=76281980)
@@ -2083,7 +2083,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Further information
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/further-information?u=76281980)
@@ -2106,6 +2106,19 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [joseph] (1)
 
+
+## Instructor
+
+- [[Joseph Labrecque]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Web Standards
+- Interactive Web Content
 
 ## Path Context
 

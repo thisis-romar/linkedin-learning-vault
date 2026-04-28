@@ -22,8 +22,10 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Lean%20Technology%20Strategy-%20Building%20High-Performing%20Teams.md)
 
 ![Lean Technology Strategy: Building High-Performing Teams](https://media.licdn.com/dms/image/v2/C4E0DAQEJMUS_GjXYGQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665447425?e=2147483647&amp;v=beta&amp;t=ivEeo_4a94zPrukZF_oPHRXqYyFjqWtYIZRPWVnfR5Y)
 
@@ -34,13 +36,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams) | 33m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jez Humble]]
-
 ## Table of Contents
 
-### 1. Building High-Performing Teams
+### Chapter Overview
+
+- **1. 1. Building High-Performing Teams** (5 videos)
+
+### 1. 1. Building High-Performing Teams
 
 #### Taylorist management vs. Lean management
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/taylorist-management-vs-lean-management?u=76281980)
@@ -687,6 +689,10 @@ created: 2026-04-21
 >
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Jez Humble]]
 
 ## Path Context
 

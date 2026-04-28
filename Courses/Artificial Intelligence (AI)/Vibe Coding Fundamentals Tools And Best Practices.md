@@ -18,8 +18,10 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Vibe%20Coding%20Fundamentals%20Tools%20And%20Best%20Practices.md)
 
 ![Vibe Coding Fundamentals Tools And Best Practices](https://media.licdn.com/dms/image/v2/D4D0DAQGpY8IbyiIIeQ/learning-public-crop_675_1200/B4DZaDsp8rGgAY-/0/1745966243879?e=2147483647&amp;v=beta&amp;t=UH7bzSr6asHZX949X4DtV18Xpa3aYpxGo0aL8AxrTHY)
 
@@ -32,7 +34,12 @@ created: 2026-04-21
 
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Vibe Coding Fundamentals** (6 videos)
+
+### 1. Introduction
 
 #### The quiet shift in how developers are writing code
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-quiet-shift-in-how-developers-are-writing-code?u=76281980)
@@ -60,7 +67,7 @@ created: 2026-04-21
 > **Speakers:** - something (1)
 
 
-### 1. Vibe Coding Fundamentals
+### 2. 1. Vibe Coding Fundamentals
 
 #### What happens when AI starts writing code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980)

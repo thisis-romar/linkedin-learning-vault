@@ -25,8 +25,10 @@ tags:
   - topic/software-development
   - skill/zoom
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Zoom%20Essential%20Training.md)
 
 ![Zoom Essential Training](https://media.licdn.com/dms/image/v2/D560DAQEu7Ii5KY6e1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681328746226?e=2147483647&amp;v=beta&amp;t=UbcPyrzc0DcbbXhEg_ldG4ZTJpfjUktZBL5Tw0OSLe4)
 
@@ -37,17 +39,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448) | 1h 36m | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Garrick Chow]]
-
-## Skills Covered
-
-- Zoom
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Started** (4 videos)
+- **3. 2. Hosting and Attending Meetings** (8 videos)
+- **4. 3. Scheduling Meetings and Co-host Options** (2 videos)
+- **5. 4. Collaborating in Meetings** (3 videos)
+- **6. 5. Using Zoom Chat** (3 videos)
+- **7. 6. Ensuring Inclusion in a Hybrid Work Environment** (3 videos)
+- **8. 7. Accessibility** (3 videos)
+- **9. 8. Zoom on Mobile Devices** (1 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Stay connected with Zoom meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/stay-connected-with-zoom-meetings?u=76281980)
@@ -67,7 +74,7 @@ created: 2026-04-21
 > **Speakers:** - zoom (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Access your account from the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/access-your-account-from-the-web?u=76281980)
@@ -339,7 +346,7 @@ created: 2026-04-21
 > **Prerequisites:** setup (1)
 
 
-### 2. Hosting and Attending Meetings
+### 3. 2. Hosting and Attending Meetings
 
 #### Start a meeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980)
@@ -1320,7 +1327,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### 3. Scheduling Meetings and Co-host Options
+### 4. 3. Scheduling Meetings and Co-host Options
 
 #### Schedule a meeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980)
@@ -1542,7 +1549,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 4. Collaborating in Meetings
+### 5. 4. Collaborating in Meetings
 
 #### Use non-verbal feedback
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980)
@@ -1902,7 +1909,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 5. Using Zoom Chat
+### 6. 5. Using Zoom Chat
 
 #### Chat outside of meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/chat-outside-of-meetings?u=76281980)
@@ -2149,7 +2156,7 @@ created: 2026-04-21
 > **Speakers:** - [garrick] (1)
 
 
-### 6. Ensuring Inclusion in a Hybrid Work Environment
+### 7. 6. Ensuring Inclusion in a Hybrid Work Environment
 
 #### The importance of fostering inclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980)
@@ -2299,7 +2306,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Accessibility
+### 8. 7. Accessibility
 
 #### Enable live transcriptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/enable-live-transcriptions?u=76281980)
@@ -2554,7 +2561,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 8. Zoom on Mobile Devices
+### 9. 8. Zoom on Mobile Devices
 
 #### Zoom meetings on mobile devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980)
@@ -2615,7 +2622,7 @@ created: 2026-04-21
 > **Non-Speech:** (computer keys clicking) (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Keep learning about Zoom
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/keep-learning-about-zoom?u=76281980)
@@ -2637,6 +2644,14 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [garrick] (1)
 
+
+## Instructor
+
+- [[Garrick Chow]]
+
+## Skills Covered
+
+- Zoom
 
 ## Path Context
 

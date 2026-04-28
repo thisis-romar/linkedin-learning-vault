@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cybersecurity-tools
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20AI-Driven%20Cybersecurity%20Analyst.md)
 
 ![The AI-Driven Cybersecurity Analyst](https://media.licdn.com/dms/image/v2/D4D0DAQHbB9GXY_N8qw/learning-public-crop_675_1200/B4DZXPvlsNHYAY-/0/1742947114514?e=2147483647&amp;v=beta&amp;t=hUD4N88zf3HMXPSACveBYfpWi4R4sBkk-nEzJZs9bpI)
 
@@ -47,24 +49,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst) | 32m | Beginner | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Wylie]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI
-- Information Security Analysis
-- Artificial Intelligence (AI)
-- Cybersecurity Tools
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AI Tips for Cybersecurity Analysts** (10 videos)
+- **3. 2. Helpful Resources** (1 videos)
+
+### 1. Introduction
 
 #### How AI is transforming cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980)
@@ -108,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - why (1)
 
 
-### 1. AI Tips for Cybersecurity Analysts
+### 2. 1. AI Tips for Cybersecurity Analysts
 
 #### Prompt engineering and productivity tips for cybersecurity analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980)
@@ -916,7 +909,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Helpful Resources
+### 3. 2. Helpful Resources
 
 #### The future of cybersecurity with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980)
@@ -947,6 +940,21 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Mike Wylie]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI
+- Information Security Analysis
+- Artificial Intelligence (AI)
+- Cybersecurity Tools
 
 ## Path Context
 

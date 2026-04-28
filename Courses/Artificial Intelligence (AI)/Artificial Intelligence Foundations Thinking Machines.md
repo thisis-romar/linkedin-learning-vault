@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20Foundations%20Thinking%20Machines.md)
 
 ![Artificial Intelligence Foundations Thinking Machines](https://media.licdn.com/dms/image/v2/C4E0DAQH_lvOT-IOyUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117532637?e=2147483647&amp;v=beta&amp;t=ue4Lke0c1Q2rHgb0V-8cXg6NxUvRdk5_MYQ6qUIAVKI)
 
@@ -46,15 +48,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines) | Beginner | 63K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-- Artificial Intelligence Foundations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Artificial Intelligence?** (4 videos)
+- **3. 2. The Rise of Machine Learning** (3 videos)
+- **4. 3. Finding the Right Approach** (5 videos)
+- **5. 4. Common AI Programs** (3 videos)
+- **6. 5. Mixing with Other Technologies** (2 videos)
+- **7. 6. What Has Changed?** (3 videos)
+- **8. 7. Avoiding Pitfalls** (1 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980)
@@ -104,7 +112,7 @@ created: 2026-04-21
 > **Speakers:** - artificial (1)
 
 
-### 1. What Is Artificial Intelligence?
+### 2. 1. What Is Artificial Intelligence?
 
 #### Define general intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980)
@@ -554,7 +562,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. The Rise of Machine Learning
+### 3. 2. The Rise of Machine Learning
 
 #### Machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980)
@@ -892,7 +900,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 3. Finding the Right Approach
+### 4. 3. Finding the Right Approach
 
 #### Match patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980)
@@ -1428,7 +1436,7 @@ created: 2026-04-21
 > **Speakers:** - up (1)
 
 
-### 4. Common AI Programs
+### 5. 4. Common AI Programs
 
 #### Robotics
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980)
@@ -1749,7 +1757,7 @@ created: 2026-04-21
 > **Speakers:** - recently (1)
 
 
-### 5. Mixing with Other Technologies
+### 6. 5. Mixing with Other Technologies
 
 #### Big data
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980)
@@ -1974,7 +1982,7 @@ created: 2026-04-21
 > **Speakers:** - data (1)
 
 
-### 6. What Has Changed?
+### 7. 6. What Has Changed?
 
 #### Generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980)
@@ -2191,7 +2199,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 7. Avoiding Pitfalls
+### 8. 7. Avoiding Pitfalls
 
 #### Pitfalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980)
@@ -2304,7 +2312,7 @@ created: 2026-04-21
 > **Speakers:** - artificial (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980)
@@ -2340,6 +2348,12 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
+- Artificial Intelligence Foundations
 
 ## Path Context
 

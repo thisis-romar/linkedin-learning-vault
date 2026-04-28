@@ -28,8 +28,10 @@ tags:
   - skill/digital-sustainability
   - skill/carbon-footprinting
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Digital%20Sustainability-%20How%20to%20Reduce%20Your%20Digital%20Footprint.md)
 
 ![Digital Sustainability: How to Reduce Your Digital Footprint](https://media.licdn.com/dms/image/v2/D560DAQHPotTw83qRXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686593064074?e=2147483647&amp;v=beta&amp;t=g8094OU7WMqXGTVLmIFFFYoXxe5mHXIxlVlaRs-EFoc)
 
@@ -40,22 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint) | 32m | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lorena Díaz Quijano]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Digital Sustainability
-- Carbon Footprinting
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. How Is Digital Connected to the Environment?** (2 videos)
+- **3. 2. What Is the Carbon Footprint and the Digital Carbon Footprint?** (2 videos)
+- **4. 3. The Impact of Personal Activities on the Digital Carbon Footprint** (7 videos)
+- **5. 4. Your Own Carbon Fingerprint on the World** (2 videos)
+- **6. 5. Design Your Strategy to Reduce Digital Waste** (4 videos)
+- **7. Conclusion: Become a Change Agent** (2 videos)
+
+### 1. Introduction
 
 #### Reducing your digital footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/reducing-your-digital-footprint?u=76281980)
@@ -79,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. How Is Digital Connected to the Environment?
+### 2. 1. How Is Digital Connected to the Environment?
 
 #### The impact and sustainability of digital transformation on the environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980)
@@ -145,7 +144,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. What Is the Carbon Footprint and the Digital Carbon Footprint?
+### 3. 2. What Is the Carbon Footprint and the Digital Carbon Footprint?
 
 #### What is the carbon footprint?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-the-carbon-footprint?u=76281980)
@@ -223,7 +222,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 3. The Impact of Personal Activities on the Digital Carbon Footprint
+### 4. 3. The Impact of Personal Activities on the Digital Carbon Footprint
 
 #### The impact of device use on the carbon footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-device-use-on-the-carbon-footprint?u=76281980)
@@ -522,7 +521,7 @@ created: 2026-04-21
 > **Speakers:** - e (1)
 
 
-### 4. Your Own Carbon Fingerprint on the World
+### 5. 4. Your Own Carbon Fingerprint on the World
 
 #### Awareness of our own digital impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/awareness-of-our-own-digital-impact?u=76281980)
@@ -627,7 +626,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 5. Design Your Strategy to Reduce Digital Waste
+### 6. 5. Design Your Strategy to Reduce Digital Waste
 
 #### Goals and objectives to reduce your digital carbon footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/goals-and-objectives-to-reduce-your-digital-carbon-footprint?u=76281980)
@@ -764,7 +763,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion: Become a Change Agent
+### 7. Conclusion: Become a Change Agent
 
 #### Make changes in your workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/make-changes-in-your-workplace?u=76281980)
@@ -835,6 +834,19 @@ created: 2026-04-21
 > **Code Keywords:** raise (1)
 > **Speakers:** - once (1)
 
+
+## Instructor
+
+- [[Lorena Díaz Quijano]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Digital Sustainability
+- Carbon Footprinting
 
 ## Path Context
 

@@ -36,8 +36,10 @@ tags:
   - skill/wordpress
   - skill/back-end-web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress%20Essential%20Training.md)
 
 ![WordPress Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQHxdDia9xNA2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724879645029?e=2147483647&amp;v=beta&amp;t=oY1fEaZtRd4gtXx5BHfiESMFQpoko03RXBNs9dd2v6U)
 
@@ -48,23 +50,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128) | 2h 4m | Beginner | 33K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Allie Nimmons]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Wordpress Development
-- WordPress
-- Back-End Web Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is WordPress?** (4 videos)
+- **3. 2. Setting Up WordPress** (5 videos)
+- **4. 3. WordPress Security** (3 videos)
+- **5. 4. Pages** (3 videos)
+- **6. 5. Posts** (4 videos)
+- **7. 6. Plugins and Themes** (3 videos)
+- **8. 7. Design Customization** (3 videos)
+- **9. 8. Media Library** (2 videos)
+- **10. 9. WordPress Maintenance** (4 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/getting-started-with-wordpress?u=76281980)
@@ -95,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - my (1)
 
 
-### 1. What Is WordPress?
+### 2. 1. What Is WordPress?
 
 #### The open-source philosophy
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980)
@@ -326,7 +328,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Setting Up WordPress
+### 3. 2. Setting Up WordPress
 
 #### Choosing hosting and a domain
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980)
@@ -835,7 +837,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. WordPress Security
+### 4. 3. WordPress Security
 
 #### How secure is WordPress?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980)
@@ -1033,7 +1035,7 @@ created: 2026-04-21
 > **Speakers:** - [allie] (1)
 
 
-### 4. Pages
+### 5. 4. Pages
 
 #### Creating a new page
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-new-page?u=76281980)
@@ -1407,7 +1409,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Posts
+### 6. 5. Posts
 
 #### Creating posts
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980)
@@ -1734,7 +1736,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Plugins and Themes
+### 7. 6. Plugins and Themes
 
 #### Finding and installing plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980)
@@ -1991,7 +1993,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Design Customization
+### 8. 7. Design Customization
 
 #### Creating a menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-menu?u=76281980)
@@ -2328,7 +2330,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Media Library
+### 9. 8. Media Library
 
 #### Adding new media files
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/adding-new-media-files?u=76281980)
@@ -2499,7 +2501,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. WordPress Maintenance
+### 10. 9. WordPress Maintenance
 
 #### Updating WordPress, plugins, and themes
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980)
@@ -2811,7 +2813,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Continue the WordPress journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/continue-the-wordpress-journey?u=76281980)
@@ -2835,6 +2837,20 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Allie Nimmons]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Wordpress Development
+- WordPress
+- Back-End Web Development
 
 ## Path Context
 

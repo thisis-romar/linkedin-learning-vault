@@ -27,8 +27,10 @@ tags:
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Playwright%20Techniques-%20Optimizing%20Speed%2C%20Stability%2C%20and%20Cloud%20Testing.md)
 
 ![Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing](https://media.licdn.com/dms/image/v2/D4D0DAQGHxE52KnuJdQ/learning-public-crop_675_1200/B4DZZkgSNWG8AY-/0/1745442907701?e=2147483647&amp;v=beta&amp;t=ms2XvyG0D7-kDyb_SrHN9vj3sYqlE5CRYUbtZ38PXN8)
 
@@ -39,22 +41,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing) | 1h 8m | Advanced | 48K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Qambar Raza]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-playwright-techniques-5210160)
-
-## Skills Covered
-
-- Test Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Optimising Test Speed in Playwright** (7 videos)
+- **3. 2. Reducing Test Flakiness in Playwright** (7 videos)
+- **4. 3. Screenshot and Snapshot Testing Best Practices** (5 videos)
+- **5. 4. Running Tests on Microsoft Playwright Testing Service** (6 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Advanced Playwright techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/advanced-playwright-techniques?u=76281980)
@@ -112,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - [qambar] (1)
 
 
-### 1. Optimising Test Speed in Playwright
+### 2. 1. Optimising Test Speed in Playwright
 
 #### Green testing: Speed, efficiency and sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980)
@@ -714,7 +712,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 2. Reducing Test Flakiness in Playwright
+### 3. 2. Reducing Test Flakiness in Playwright
 
 #### Mastering flaky tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/mastering-flaky-tests?u=76281980)
@@ -1157,7 +1155,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Screenshot and Snapshot Testing Best Practices
+### 4. 3. Screenshot and Snapshot Testing Best Practices
 
 #### Visual testing with screenshots and snapshots
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/visual-testing-with-screenshots-and-snapshots?u=76281980)
@@ -1478,7 +1476,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. Running Tests on Microsoft Playwright Testing Service
+### 5. 4. Running Tests on Microsoft Playwright Testing Service
 
 #### What is Microsoft Playwright Testing (MPT) service?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980)
@@ -1740,7 +1738,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Final thoughts and best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/final-thoughts-and-best-practices?u=76281980)
@@ -1810,6 +1808,19 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Qambar Raza]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-playwright-techniques-5210160)
+
+## Skills Covered
+
+- Test Automation
 
 ## Path Context
 

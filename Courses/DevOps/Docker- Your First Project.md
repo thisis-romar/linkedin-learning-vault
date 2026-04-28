@@ -30,8 +30,10 @@ tags:
   - topic/network-and-system-administration
   - skill/docker-products
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Docker-%20Your%20First%20Project.md)
 
 ![Docker: Your First Project](https://media.licdn.com/dms/image/v2/D560DAQHjKrL64jLnaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701991509593?e=2147483647&amp;v=beta&amp;t=hCiiqB_dyO1JNWdc_-KIeNorA1CSObEYz-J49JpeeZQ)
 
@@ -42,22 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project) | 59m | Intermediate | 149K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shelley Benhoff]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/docker-your-first-project-4485003)
-
-## Skills Covered
-
-- Docker Products
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Project** (3 videos)
+- **3. 2. Creating a First Docker Project** (2 videos)
+- **4. 3. Pulling and Pushing Docker Images** (6 videos)
+- **5. 4. Running Docker Containers** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Your first Docker project
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project?u=76281980)
@@ -107,7 +105,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Project
+### 2. 1. The Project
 
 #### Application using Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980)
@@ -271,7 +269,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. Creating a First Docker Project
+### 3. 2. Creating a First Docker Project
 
 #### Writing a Dockerfile
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980)
@@ -438,7 +436,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 3. Pulling and Pushing Docker Images
+### 4. 3. Pulling and Pushing Docker Images
 
 #### Searching for images in Docker Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980)
@@ -836,7 +834,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Running Docker Containers
+### 5. 4. Running Docker Containers
 
 #### Running a container
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/running-a-container?u=76281980)
@@ -1218,7 +1216,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/next-steps?u=76281980)
@@ -1252,6 +1250,19 @@ created: 2026-04-21
 > **Env Vars:** yaml (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Shelley Benhoff]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/docker-your-first-project-4485003)
+
+## Skills Covered
+
+- Docker Products
 
 ## Path Context
 

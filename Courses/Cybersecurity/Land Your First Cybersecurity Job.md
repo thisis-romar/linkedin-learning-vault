@@ -41,8 +41,10 @@ tags:
   - skill/cybersecurity
   - skill/career-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Land%20Your%20First%20Cybersecurity%20Job.md)
 
 ![Land Your First Cybersecurity Job](https://media.licdn.com/dms/image/v2/C560DAQH9V0JrrJyMjw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1653327986176?e=2147483647&amp;v=beta&amp;t=BzbsD1P4lXMVUbzZGd5vM3bKQjB-WcEcFMUoDhixMdQ)
 
@@ -53,23 +55,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job) | 48m | Beginner | 55K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mari Galloway]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tech Career Skills
-- Cybersecurity
-- Career Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Cybersecurity Careers** (4 videos)
+- **3. 2. Basic Steps to Launching Your Career** (5 videos)
+- **4. 3. Building Your Brand in Cyber** (2 videos)
+- **5. 4. The Power of Networking** (2 videos)
+- **6. 5. Landing the Role** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Your future in cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-future-in-cybersecurity-17401993?u=76281980)
@@ -111,7 +109,7 @@ created: 2026-04-21
 > **Non-Speech:** (casual offbeat music) (1)
 
 
-### 1. Cybersecurity Careers
+### 2. 1. Cybersecurity Careers
 
 #### Cyber domains explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980)
@@ -381,7 +379,7 @@ created: 2026-04-21
 > **Speakers:** - pivoting (1)
 
 
-### 2. Basic Steps to Launching Your Career
+### 3. 2. Basic Steps to Launching Your Career
 
 #### Why do you want to be a cyber professional?
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/why-do-you-want-to-be-a-cyber-professional-17407223?u=76281980)
@@ -762,7 +760,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Building Your Brand in Cyber
+### 4. 3. Building Your Brand in Cyber
 
 #### Marketing your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980)
@@ -900,7 +898,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. The Power of Networking
+### 5. 4. The Power of Networking
 
 #### Building your network
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/building-your-network-17406277?u=76281980)
@@ -1054,7 +1052,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 5. Landing the Role
+### 6. 5. Landing the Role
 
 #### Finding a role that fits your skills and goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/finding-a-role-that-fits-your-skills-and-goals-17405544?u=76281980)
@@ -1364,7 +1362,7 @@ created: 2026-04-21
 > **Speakers:** - my (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continue to grow
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/continue-to-grow-17405539?u=76281980)
@@ -1389,6 +1387,20 @@ created: 2026-04-21
 > **URLs:** [womenscyberjutsu.org](https://womenscyberjutsu.org) (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Mari Galloway]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tech Career Skills
+- Cybersecurity
+- Career Management
 
 ## Path Context
 

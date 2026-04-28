@@ -30,8 +30,10 @@ tags:
   - skill/wordpress-development
   - skill/gatsbyjs
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Building%20a%20Headless%20WordPress%20Site%20with%20Gatsby.md)
 
 ![Building a Headless WordPress Site with Gatsby](https://media.licdn.com/dms/image/v2/C4E0DAQHfCK_-CVNrTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647886030952?e=2147483647&amp;v=beta&amp;t=9ZTxNHE0CK1_q_WHOnJbnP-kUEVpp221YMw6JYpalI4)
 
@@ -42,23 +44,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541) | 2h 31m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/headless-wordpress-gatsby-3022691)
-
-## Skills Covered
-
-- Wordpress Development
-- GatsbyJS
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Setting Up** (3 videos)
+- **3. 2. WordPress as a Gatsby Data Resource** (2 videos)
+- **4. 3. Working with Pages** (6 videos)
+- **5. 4. Custom Menus** (6 videos)
+- **6. 5. Working with Posts** (7 videos)
+- **7. 6. Categories and Tags** (5 videos)
+- **8. 7. Custom Post Types and Taxonomies** (2 videos)
+- **9. 8. Considerations When Using WordPress and Gatsby** (1 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### WordPress and Gatsby working hand in hand
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/wordpress-and-gatsby-working-hand-in-hand?u=76281980)
@@ -123,7 +124,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting Up
+### 2. 1. Setting Up
 
 #### Set up WordPress to work with Gatsby
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980)
@@ -498,7 +499,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. WordPress as a Gatsby Data Resource
+### 3. 2. WordPress as a Gatsby Data Resource
 
 #### Explore the WordPress GraphQL tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/explore-the-wordpress-graphql-tree?u=76281980)
@@ -891,7 +892,7 @@ created: 2026-04-21
 > **URLs:** [localhost:8000](https://localhost:8000) (1)
 
 
-### 3. Working with Pages
+### 4. 3. Working with Pages
 
 #### Query pages in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-pages-in-graphql?u=76281980)
@@ -1692,7 +1693,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Custom Menus
+### 5. 4. Custom Menus
 
 #### Query custom menus in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-menus-in-graphql?u=76281980)
@@ -2407,7 +2408,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Working with Posts
+### 6. 5. Working with Posts
 
 #### Query posts in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-posts-in-graphql?u=76281980)
@@ -3236,7 +3237,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Categories and Tags
+### 7. 6. Categories and Tags
 
 #### Query categories and tags
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980)
@@ -3755,7 +3756,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Custom Post Types and Taxonomies
+### 8. 7. Custom Post Types and Taxonomies
 
 #### Add custom post types and taxonomies
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980)
@@ -3906,7 +3907,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Considerations When Using WordPress and Gatsby
+### 9. 8. Considerations When Using WordPress and Gatsby
 
 #### What to do about Blocks (Gutenberg)
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980)
@@ -4055,7 +4056,7 @@ created: 2026-04-21
 > **File Paths:** wordpress/block-library/build-style/style.css (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980)
@@ -4100,6 +4101,20 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [morten] (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/headless-wordpress-gatsby-3022691)
+
+## Skills Covered
+
+- Wordpress Development
+- GatsbyJS
 
 ## Path Context
 

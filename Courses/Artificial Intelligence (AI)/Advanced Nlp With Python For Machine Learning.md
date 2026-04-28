@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20Nlp%20With%20Python%20For%20Machine%20Learning.md)
 
 ![Advanced Nlp With Python For Machine Learning](https://media.licdn.com/dms/image/v2/D560DAQGTubKeur8sMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008930353?e=2147483647&amp;v=beta&amp;t=PZUtYX6-bOg6xbI_5l58ZD_rgUmE9NdkRfkR2tgE86s)
 
@@ -44,21 +46,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681) | Advanced | 104K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-nlp-with-python-for-machine-learning-3807097)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Machine Learning
-- Artificial Intelligence (AI)
-- Natural Language Processing (NLP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to NLP Libraries** (3 videos)
+- **3. 2. Review NLP and Python Basics** (3 videos)
+- **4. 3. Using spaCy for Customer Feedback Analysis** (4 videos)
+- **5. 4. Modern NLP: Transformers and Large Language Models** (5 videos)
+- **6. 5. Methods That Improve LLM Performance** (7 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Elevate Your NLP expertise using Python and machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980)
@@ -141,7 +141,7 @@ created: 2026-04-21
 > **Speakers:** - [educator] (1)
 
 
-### 1. Introduction to NLP Libraries
+### 2. 1. Introduction to NLP Libraries
 
 #### Overview of natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980)
@@ -334,7 +334,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Review NLP and Python Basics
+### 3. 2. Review NLP and Python Basics
 
 #### Introduction to spaCy
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980)
@@ -560,7 +560,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Using spaCy for Customer Feedback Analysis
+### 4. 3. Using spaCy for Customer Feedback Analysis
 
 #### Analyze customer feedback using spaCy
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980)
@@ -809,7 +809,7 @@ created: 2026-04-21
 > **Warnings:** warning (1)
 
 
-### 4. Modern NLP: Transformers and Large Language Models
+### 5. 4. Modern NLP: Transformers and Large Language Models
 
 #### Modern natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980)
@@ -1115,7 +1115,7 @@ created: 2026-04-21
 > **Non-Speech:** (smooth uptempo music) (1)
 
 
-### 5. Methods That Improve LLM Performance
+### 6. 5. Methods That Improve LLM Performance
 
 #### Methods that improve LLM performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980)
@@ -1655,7 +1655,7 @@ created: 2026-04-21
 > **CLI Commands:** pip (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980)
@@ -1691,6 +1691,18 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-nlp-with-python-for-machine-learning-3807097)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Machine Learning
+- Artificial Intelligence (AI)
+- Natural Language Processing (NLP)
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/cloud-native-architecture
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/AWS%20Essential%20Training%20for%20Architects.md)
 
 ![AWS Essential Training for Architects](https://media.licdn.com/dms/image/v2/D560DAQEw5TdMKD-QKg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712262281510?e=2147483647&amp;v=beta&amp;t=1XXdSjlEWR4b1IiGcayuPEMqk61A_jTm1eW7kQvjg5g)
 
@@ -43,18 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949) | 4h 1m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shyam Raj]]
-
-## Skills Covered
-
-- Cloud-Native Architecture
-- Amazon Web Services (AWS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Keeping Things Secure** (11 videos)
+- **3. 2. Architecting for Resilience and High Availability** (8 videos)
+- **4. 3. Automate Infrastructure** (8 videos)
+- **5. 4. Improving Performance** (8 videos)
+- **6. 5. Optimize for Cost** (4 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Aligning solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aligning-solutions?u=76281980)
@@ -352,7 +355,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 1. Keeping Things Secure
+### 2. 1. Keeping Things Secure
 
 #### Design a strategy for secure access
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980)
@@ -2050,7 +2053,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (2), required to (1), set up (1)
 
 
-### 2. Architecting for Resilience and High Availability
+### 3. 2. Architecting for Resilience and High Availability
 
 #### Design for failure
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980)
@@ -3118,7 +3121,7 @@ created: 2026-04-21
 > **Tools:** aws console (1)
 
 
-### 3. Automate Infrastructure
+### 4. 3. Automate Infrastructure
 
 #### Why should you automate?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980)
@@ -4275,7 +4278,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 4. Improving Performance
+### 5. 4. Improving Performance
 
 #### Designing a strategy for improving performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980)
@@ -5118,7 +5121,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 5. Optimize for Cost
+### 6. 5. Optimize for Cost
 
 #### Strategies for optimizing costs
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980)
@@ -5529,7 +5532,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (2)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/additional-resources?u=76281980)
@@ -5577,6 +5580,15 @@ created: 2026-04-21
 > **Env Vars:** aws (5)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Shyam Raj]]
+
+## Skills Covered
+
+- Cloud-Native Architecture
+- Amazon Web Services (AWS)
 
 ## Path Context
 

@@ -18,8 +18,10 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Become%20An%20Ai%20Powered%20People%20Manager.md)
 
 ![Become An Ai Powered People Manager](https://media.licdn.com/dms/image/v2/D560DAQEudnED4s7pjA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712945780150?e=2147483647&amp;v=beta&amp;t=BwcIMQRmfwHFC1_Hcev1f2AKgf9HJ1Hbi0Zr63Ehsls)
 
@@ -32,7 +34,13 @@ created: 2026-04-21
 
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AI Tips for Managers** (14 videos)
+- **3. 2. Helpful Resources** (0 videos)
+
+### 1. Introduction
 
 #### How AI is transforming the manager's role
 > [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/how-ai-is-transforming-the-manager-role?u=76281980)
@@ -57,7 +65,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 1. AI Tips for Managers
+### 2. 1. AI Tips for Managers
 
 #### AI will make you efficient, not extinct
 > [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980)
@@ -1034,7 +1042,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Helpful Resources
+### 3. 2. Helpful Resources
 
 
 ## Path Context

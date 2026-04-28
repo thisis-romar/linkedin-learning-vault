@@ -21,8 +21,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Harnessing%20AI%20for%20Effective%20Interviewing.md)
 
 ![Harnessing AI for Effective Interviewing](https://media.licdn.com/dms/image/v2/D560DAQE6sEr1erqAUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728077566647?e=2147483647&amp;v=beta&amp;t=UACRqTF8OL8M0a0LesaX-ikHOkGlNlM3-rftncrhJjY)
 
@@ -33,13 +35,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing) | 41m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shweta Mogha]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Enhancing Candidate Experience with AI-Powered Interview Platforms** (2 videos)
+- **3. 2. Preparing for AI-Enhanced Interviews** (6 videos)
+- **4. 3. Reducing Bias and Enhancing Fairness** (2 videos)
+- **5. 4.  Data-Driven Decision-Making in Interviews** (2 videos)
+- **6. Legal and Ethical Considerations** (2 videos)
+
+### 1. Introduction
 
 #### Intro to AI in interviewing
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/intro-to-ai-in-interviewing?u=76281980)
@@ -71,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - welcome (1)
 
 
-### 1. Enhancing Candidate Experience with AI-Powered Interview Platforms
+### 2. 1. Enhancing Candidate Experience with AI-Powered Interview Platforms
 
 #### Overview of AI interview tools and platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/overview-of-ai-interview-tools-and-platforms?u=76281980)
@@ -177,7 +184,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### 2. Preparing for AI-Enhanced Interviews
+### 3. 2. Preparing for AI-Enhanced Interviews
 
 #### Training interviewers to work with AI tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/training-interviewers-to-work-with-ai-tools?u=76281980)
@@ -496,7 +503,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 3. Reducing Bias and Enhancing Fairness
+### 4. 3. Reducing Bias and Enhancing Fairness
 
 #### AI’s role in reducing bias in interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/ai-s-role-in-reducing-bias-in-interviews?u=76281980)
@@ -596,7 +603,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### 4.  Data-Driven Decision-Making in Interviews
+### 5. 4.  Data-Driven Decision-Making in Interviews
 
 #### Leveraging AI to analyze interview data
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/leveraging-ai-to-analyze-interview-data?u=76281980)
@@ -704,7 +711,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### Legal and Ethical Considerations
+### 6. Legal and Ethical Considerations
 
 #### Navigating legal requirements for AI in interviewing
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/navigating-legal-requirements-for-ai-in-interviewing?u=76281980)
@@ -840,6 +847,10 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - imagine (1)
 
+
+## Instructor
+
+- [[Shweta Mogha]]
 
 ## Path Context
 

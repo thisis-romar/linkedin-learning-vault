@@ -33,8 +33,10 @@ tags:
   - skill/data-pipelines
   - skill/snowflake
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Advanced%20Data%20Engineering%20with%20Snowflake.md)
 
 ![Advanced Data Engineering with Snowflake](https://media.licdn.com/dms/image/v2/D4E0DAQHcUL6mia0odQ/learning-public-crop_675_1200/B4EZb0xBWkGUAY-/0/1747863214273?e=2147483647&amp;v=beta&amp;t=tpFwKtdR2I78724chmVsw5I26MTCH4ftslVpsZEJ844)
 
@@ -45,20 +47,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake) | 2h 19m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Snowflake]]
-- [[Inc]]
-
-## Skills Covered
-
-- DevOps
-- Data Pipelines
-- Snowflake
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. DevOps with Snowflake** (10 videos)
+- **3. 2. Observability with Snowflake** (11 videos)
+
+### 1. Introduction
 
 #### Scaling data pipelines to meet modern demands
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980)
@@ -192,7 +189,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### 1. DevOps with Snowflake
+### 2. 1. DevOps with Snowflake
 
 #### DevOps in the world of data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980)
@@ -1722,7 +1719,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 2. Observability with Snowflake
+### 3. 2. Observability with Snowflake
 
 #### Observability for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980)
@@ -2778,6 +2775,17 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 > **Tools:** github (1)
 
+
+## Instructor
+
+- [[Snowflake]]
+- [[Inc]]
+
+## Skills Covered
+
+- DevOps
+- Data Pipelines
+- Snowflake
 
 ## Path Context
 

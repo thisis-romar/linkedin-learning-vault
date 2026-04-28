@@ -26,8 +26,10 @@ tags:
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Mistakes%20to%20Avoid.md)
 
 ![Power BI Mistakes to Avoid](https://media.licdn.com/dms/image/v2/D4E0DAQHTsj7H8uVsOg/learning-public-crop_675_1200/B4EZoYUD9ZIMAY-/0/1761344504410?e=2147483647&amp;v=beta&amp;t=2ZJo0bTFw9B8QCHnr8iqCnS2AIsf6HthRg1Owi3Xlsw)
 
@@ -38,21 +40,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086) | 58m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Madecraft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Power BI
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Next-Level Power BI** (4 videos)
+- **3. 2. Connecting to Data** (4 videos)
+- **4. 3. Modeling Data** (5 videos)
+- **5. 4. Visualizing and Analyzing Data** (8 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Improve your Power BI skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/improve-your-power-bi-skills?u=76281980)
@@ -80,7 +79,7 @@ created: 2026-04-21
 > **Speakers:** - power (1)
 
 
-### 1. Next-Level Power BI
+### 2. 1. Next-Level Power BI
 
 #### Main challenges of Power BI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980)
@@ -324,7 +323,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Connecting to Data
+### 3. 2. Connecting to Data
 
 #### Don't pull in too much data
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/don-t-pull-in-too-much-data?u=76281980)
@@ -572,7 +571,7 @@ created: 2026-04-21
 > **Warnings:** caveat (1)
 
 
-### 3. Modeling Data
+### 4. 3. Modeling Data
 
 #### Create a lookup table
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980)
@@ -939,7 +938,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Visualizing and Analyzing Data
+### 5. 4. Visualizing and Analyzing Data
 
 #### Visualizing time series data
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/visualizing-time-series-data?u=76281980)
@@ -1359,7 +1358,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980)
@@ -1392,6 +1391,18 @@ created: 2026-04-21
 >
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Madecraft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Power BI
 
 ## Path Context
 

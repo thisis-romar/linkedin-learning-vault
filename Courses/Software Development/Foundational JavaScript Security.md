@@ -30,34 +30,32 @@ tags:
   - skill/software-development-security
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Foundational%20JavaScript%20Security.md)
 
 ![Foundational JavaScript Security](https://media.licdn.com/dms/image/v2/C560DAQFTnZJFpUakJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621887367981?e=2147483647&amp;v=beta&amp;t=yaencqdRBWRKKsHReVSHhtw-WdQFF-pfMwgHC52k_Zg)
 
 # Foundational JavaScript Security
 
-> JavaScript offers great power, but also many opportunities to leave doors open to hackers.  Ethical hacking lets you find those open doors before they can be exploited and ensure that your sites and applications stay standing. This course shows how to improve security on your JavaScript projects using a wide variety of testing tools that provide maximum coverage. Emmanuel Henri starts by showing h
+> JavaScript offers great power, but also many opportunities to leave doors open to hackers. Ethical hacking lets you find those open doors before they can be exploited and ensure that your sites and applications stay standing. This course shows how to improve security on your JavaScript projects using a wide variety of testing tools that provide maximum coverage. Emmanuel Henri starts by showing ho
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security) | 47m | Advanced | 48K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Software Development Security
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction and Setup** (6 videos)
+- **3. 2. Reconnaissance** (7 videos)
+- **4. 3. Top Security Threats** (10 videos)
+- **5. 4. Security Threats Applied** (8 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Foundational JavaScript security
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980)
@@ -104,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction and Setup
+### 2. 1. Introduction and Setup
 
 #### What is ethical hacking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/what-is-ethical-hacking?u=76281980)
@@ -311,7 +309,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Reconnaissance
+### 3. 2. Reconnaissance
 
 #### Reconnaissance introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980)
@@ -659,7 +657,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Top Security Threats
+### 4. 3. Top Security Threats
 
 #### Injection threat
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980)
@@ -993,7 +991,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### 4. Security Threats Applied
+### 5. 4. Security Threats Applied
 
 #### Injection threat resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980)
@@ -1242,7 +1240,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/next-steps?u=76281980)
@@ -1283,6 +1281,19 @@ created: 2026-04-21
 > **Best Practices:** you should always (1)
 > **Speakers:** - [emmanuel] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Software Development Security
+- JavaScript
 
 ## Path Context
 

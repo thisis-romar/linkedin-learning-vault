@@ -32,8 +32,10 @@ tags:
   - skill/simulation-software
   - skill/plc-programming
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/PLC%20Simulation%20Software-%20Factory%20I-O%20with%20Connected%20Component%20Workbench.md)
 
 ![PLC Simulation Software: Factory I/O with Connected Component Workbench](https://media.licdn.com/dms/image/v2/C560DAQFLO0GUYTDZnA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664216279875?e=2147483647&amp;v=beta&amp;t=_0jCWXWIOpKcK0jd0Sfbkv24quflvLK1KihAnEIyMsA)
 
@@ -44,24 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench) | 2h 16m | Intermediate | 94K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Zahraa Khalil]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Simulation
-- Modeling and Simulation
-- Simulation Software
-- PLC Programming
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Connected Components Software** (6 videos)
+- **3. 2. Factory I/O Software** (3 videos)
+- **4. 3. CCW and Factory I/O First Project: Control Panel** (3 videos)
+- **5. 4. CCW and Factory I/O Conveyor Belt Project** (5 videos)
+- **6. 5. CCW and Factory I/O Filling Tank with Timer Project** (7 videos)
+- **7. 6. Sorting Boxes by Height** (9 videos)
+- **8. 7. Troubleshooting** (1 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### PLC programming using a 3D factory simulation software
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/plc-programming-using-a-3d-factory-simulation-software-22833119?u=76281980)
@@ -194,7 +193,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Connected Components Software
+### 2. 1. Connected Components Software
 
 #### Connected Components Workbench software introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/connected-components-workbench-software-introduction?u=76281980)
@@ -689,7 +688,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Factory I/O Software
+### 3. 2. Factory I/O Software
 
 #### Factory I/O overview and download
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/factory-i-o-overview-and-download?u=76281980)
@@ -921,7 +920,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. CCW and Factory I/O First Project: Control Panel
+### 4. 3. CCW and Factory I/O First Project: Control Panel
 
 #### Control panel project
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/control-panel-project?u=76281980)
@@ -1145,7 +1144,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. CCW and Factory I/O Conveyor Belt Project
+### 5. 4. CCW and Factory I/O Conveyor Belt Project
 
 #### Conveyor belt project
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/conveyor-belt-project?u=76281980)
@@ -1427,7 +1426,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. CCW and Factory I/O Filling Tank with Timer Project
+### 6. 5. CCW and Factory I/O Filling Tank with Timer Project
 
 #### Filling a water tank project
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/filling-a-water-tank-project?u=76281980)
@@ -1982,7 +1981,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 6. Sorting Boxes by Height
+### 7. 6. Sorting Boxes by Height
 
 #### Sorting boxes by height project
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/sorting-boxes-by-height-project?u=76281980)
@@ -2613,7 +2612,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Troubleshooting
+### 8. 7. Troubleshooting
 
 #### Troubleshooting tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/troubleshooting-tips?u=76281980)
@@ -2674,7 +2673,7 @@ created: 2026-04-21
 > **Best Practices:** always make sure (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/next-steps?u=76281980)
@@ -2704,6 +2703,21 @@ created: 2026-04-21
 > **Env Vars:** plc (5)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Zahraa Khalil]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Simulation
+- Modeling and Simulation
+- Simulation Software
+- PLC Programming
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Refactoring%20Tips%20and%20Tricks.md)
 
 ![C# Refactoring Tips and Tricks](https://media.licdn.com/dms/image/v2/D4E0DAQECvctNUeYZPQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694200036676?e=2147483647&amp;v=beta&amp;t=yrLUQyPchW2JE01Xrf6pG9GPAZdJKWnLS2giMi6L4dc)
 
@@ -40,17 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks) | 43m | Intermediate | 32K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jesse Freeman]]
-
-## Skills Covered
-
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Refactoring Strategies** (4 videos)
+- **3. 2. Before You Refactor** (3 videos)
+- **4. 3. Optimizing Code** (3 videos)
+- **5. 4. Creating Clean Code** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/welcome-22867113?u=76281980)
@@ -120,7 +123,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Refactoring Strategies
+### 2. 1. Refactoring Strategies
 
 #### Create a baseline
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/create-a-baseline-22863229?u=76281980)
@@ -407,7 +410,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Before You Refactor
+### 3. 2. Before You Refactor
 
 #### Use version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980)
@@ -588,7 +591,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Optimizing Code
+### 4. 3. Optimizing Code
 
 #### Identify problem areas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/identify-problem-areas-22862983?u=76281980)
@@ -793,7 +796,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Creating Clean Code
+### 5. 4. Creating Clean Code
 
 #### Code readability
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/code-readability-22867114?u=76281980)
@@ -1039,7 +1042,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/next-steps-22867112?u=76281980)
@@ -1057,6 +1060,14 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Jesse Freeman]]
+
+## Skills Covered
+
+- C#
 
 ## Path Context
 

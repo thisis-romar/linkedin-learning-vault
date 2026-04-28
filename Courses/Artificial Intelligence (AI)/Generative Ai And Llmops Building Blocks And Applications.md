@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20Ai%20And%20Llmops%20Building%20Blocks%20And%20Applications.md)
 
 ![Generative Ai And Llmops Building Blocks And Applications](https://media.licdn.com/dms/image/v2/D4E0DAQFXjydWD3OcVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708641310292?e=2147483647&amp;v=beta&amp;t=3eI1N8YL_ZOR6b0PmPIi9rcnB2ax0CmxgzfgcstY9AI)
 
@@ -44,16 +46,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications) | Advanced | 104K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Large Language Model Operations (LLMOps)
-- Generative AI
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to LLMs and Their Applications** (2 videos)
+- **3. 2. Diving Into LLM Architectures** (6 videos)
+- **4. 3. Fine-Tuning Strategies for Custom Tasks** (5 videos)
+- **5. 4. Compression Techniques for LLMs** (5 videos)
+- **6. 5. Prompt Engineering for Effective LLM Communication** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### LLMs for industry
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/llms-for-industry?u=76281980)
@@ -144,7 +149,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to LLMs and Their Applications
+### 2. 1. Introduction to LLMs and Their Applications
 
 #### Understanding LLMs and their evolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980)
@@ -287,7 +292,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Diving Into LLM Architectures
+### 3. 2. Diving Into LLM Architectures
 
 #### Overview of LLM architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980)
@@ -652,7 +657,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Fine-Tuning Strategies for Custom Tasks
+### 4. 3. Fine-Tuning Strategies for Custom Tasks
 
 #### Introduction to fine-tuning for LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980)
@@ -968,7 +973,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. Compression Techniques for LLMs
+### 5. 4. Compression Techniques for LLMs
 
 #### Why compress LLMs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980)
@@ -1341,7 +1346,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Prompt Engineering for Effective LLM Communication
+### 6. 5. Prompt Engineering for Effective LLM Communication
 
 #### What is prompt engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/what-is-prompt-engineering?u=76281980)
@@ -1848,7 +1853,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/next-steps?u=76281980)
@@ -1870,6 +1875,13 @@ created: 2026-04-21
 > **Env Vars:** llm (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Skills Covered
+
+- Large Language Model Operations (LLMOps)
+- Generative AI
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Foundations-%20Computer%20Forensics.md)
 
 ![Cybersecurity Foundations: Computer Forensics](https://media.licdn.com/dms/image/v2/D560DAQG5VnozORNgkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702587022790?e=2147483647&amp;v=beta&amp;t=n1BwL6VnZRkDQQVPhQWmfeCmD34_kd-Z3LR29eC0mKk)
 
@@ -40,13 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics) | 2h 42m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jungwoo Ryoo]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding Computer Forensics** (10 videos)
+- **3. 2. Areas of Computer Forensics** (9 videos)
+- **4. 3. Preparing for an Investigation** (9 videos)
+- **5. 4. File System Fundamentals** (7 videos)
+- **6. 5. Persisting Data** (11 videos)
+- **7. 6. Aquiring Data** (7 videos)
+- **8. 7. Putting It All Together: Analyzing Data and Generating Reports** (7 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Computer forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980)
@@ -104,7 +114,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 1. Understanding Computer Forensics
+### 2. 1. Understanding Computer Forensics
 
 #### Definition and goals of computer forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/definition-and-goals-of-computer-forensics?u=76281980)
@@ -614,7 +624,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Areas of Computer Forensics
+### 3. 2. Areas of Computer Forensics
 
 #### Specializations in computer forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980)
@@ -1204,7 +1214,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Preparing for an Investigation
+### 4. 3. Preparing for an Investigation
 
 #### Tools and knowledge requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools-and-knowledge-requirements?u=76281980)
@@ -1693,7 +1703,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. File System Fundamentals
+### 5. 4. File System Fundamentals
 
 #### Understanding file systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980)
@@ -2027,7 +2037,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Persisting Data
+### 6. 5. Persisting Data
 
 #### Evidence preservation approaches
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980)
@@ -2724,7 +2734,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Aquiring Data
+### 7. 6. Aquiring Data
 
 #### Data acquisition approaches
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/data-acquisition-approaches?u=76281980)
@@ -3038,7 +3048,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Putting It All Together: Analyzing Data and Generating Reports
+### 8. 7. Putting It All Together: Analyzing Data and Generating Reports
 
 #### Forensic data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980)
@@ -3523,7 +3533,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/next-steps?u=76281980)
@@ -3551,6 +3561,10 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Jungwoo Ryoo]]
 
 ## Path Context
 

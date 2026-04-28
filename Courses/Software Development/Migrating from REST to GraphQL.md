@@ -31,8 +31,10 @@ tags:
   - skill/graphql
   - skill/representational-state-transfer-rest
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Migrating%20from%20REST%20to%20GraphQL.md)
 
 ![Migrating from REST to GraphQL](https://media.licdn.com/dms/image/v2/D560DAQGPRFMsUkMSOQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709073643074?e=2147483647&amp;v=beta&amp;t=EzvLMf_VfMzWbXeB9ERVcN-_yl1a9EFc5QDzsZ4DRdM)
 
@@ -43,23 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102) | 1h 4m | Advanced | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- API Management
-- GraphQL
-- Representational State Transfer (REST)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. First steps** (4 videos)
+- **3. 2. Add Items with GraphQL** (5 videos)
+- **4. 3. Read Items with GraphQL** (3 videos)
+- **5. 4. Update Items with GraphQL** (2 videos)
+- **6. 4. Update Items with GraphQL** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Replace REST with GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/replace-rest-with-graphql?u=76281980)
@@ -112,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. First steps
+### 2. 1. First steps
 
 #### Why use GraphQL for REST
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/why-use-graphql-for-rest?u=76281980)
@@ -428,7 +426,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Add Items with GraphQL
+### 3. 2. Add Items with GraphQL
 
 #### Create the initial schema and type
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/create-the-initial-schema-and-type?u=76281980)
@@ -951,7 +949,7 @@ created: 2026-04-21
 > **Env Vars:** fyi (1)
 
 
-### 3. Read Items with GraphQL
+### 4. 3. Read Items with GraphQL
 
 #### Simple queries in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/simple-queries-in-graphql?u=76281980)
@@ -1195,7 +1193,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Update Items with GraphQL
+### 5. 4. Update Items with GraphQL
 
 #### Overview of mutations
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/overview-of-mutations?u=76281980)
@@ -1368,7 +1366,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Update Items with GraphQL
+### 6. 4. Update Items with GraphQL
 
 #### Coding our delete mutation
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-deleted-mutation?u=76281980)
@@ -1519,7 +1517,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980)
@@ -1556,6 +1554,20 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- API Management
+- GraphQL
+- Representational State Transfer (REST)
 
 ## Path Context
 

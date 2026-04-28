@@ -24,8 +24,10 @@ tags:
   - skill/user-experience-ux
   - skill/ux-research
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Ux%20Foundations%20Research.md)
 
 ![Ux Foundations Research](https://media.licdn.com/dms/image/v2/C560DAQHF3wbeSsVklw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677112277892?e=2147483647&amp;v=beta&amp;t=lmgY4FhRESMdTTtbfJvu-r6nSw_gMGiDl_EBm7kR9jc)
 
@@ -36,18 +38,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883) | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- User Experience (UX)
-- UX Research
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Research Overview** (13 videos)
+- **3. 2. Choosing the Right Research Method** (4 videos)
+- **4. 3. Environmental Considerations** (3 videos)
+- **5. 4. Planning Effective Research** (5 videos)
+- **6. 5. Executing Effective Research** (2 videos)
+- **7. 6. Analyzing and Presenting Your Findings** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### User experience research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980)
@@ -80,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 1. Research Overview
+### 2. 1. Research Overview
 
 #### Why is user experience research important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980)
@@ -536,7 +540,7 @@ created: 2026-04-21
 > **Speakers:** - personas (1)
 
 
-### 2. Choosing the Right Research Method
+### 3. 2. Choosing the Right Research Method
 
 #### Setting research goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980)
@@ -765,7 +769,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Environmental Considerations
+### 4. 3. Environmental Considerations
 
 #### In-house vs. external
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/in-house-vs-external?u=76281980)
@@ -940,7 +944,7 @@ created: 2026-04-21
 > **Speakers:** - regardless (1)
 
 
-### 4. Planning Effective Research
+### 5. 4. Planning Effective Research
 
 #### Determining the right participants
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980)
@@ -1266,7 +1270,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 5. Executing Effective Research
+### 6. 5. Executing Effective Research
 
 #### Applying moderated research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/applying-moderated-research?u=76281980)
@@ -1416,7 +1420,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### 6. Analyzing and Presenting Your Findings
+### 7. 6. Analyzing and Presenting Your Findings
 
 #### Gathering and mining data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/gathering-and-mining-data?u=76281980)
@@ -1646,7 +1650,7 @@ created: 2026-04-21
 > **Speakers:** - by (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980)
@@ -1678,6 +1682,15 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- User Experience (UX)
+- UX Research
 
 ## Path Context
 

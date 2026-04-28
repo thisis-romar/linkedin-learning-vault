@@ -34,8 +34,10 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%206%20Building%20Your%20First%20Ethereum%20App.md)
 
 ![Building an Ethereum Blockchain App: 6 Building Your First Ethereum App](https://media.licdn.com/dms/image/v2/C560DAQGu2M7qkDU4hg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628525931705?e=2147483647&amp;v=beta&amp;t=TKRXkeIQVC4pLDmFpM-7tfolGqHsLR0LpFMe29wpiTU)
 
@@ -46,22 +48,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app) | 36m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Solomon]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Blockchain
-- Ethereum
-
 ## Table of Contents
 
-### 1. Building Your First Ethereum App
+### Chapter Overview
+
+- **1. 1. Building Your First Ethereum App** (4 videos)
+
+### 1. 1. Building Your First Ethereum App
 
 #### Preparing your first Truffle project
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980)
@@ -949,6 +942,19 @@ created: 2026-04-21
 > **Tools:** visual studio (1), terminal (1)
 > **UI Navigation:** go to (1), scroll up (1)
 
+
+## Instructor
+
+- [[Michael Solomon]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Blockchain
+- Ethereum
 
 ## Path Context
 

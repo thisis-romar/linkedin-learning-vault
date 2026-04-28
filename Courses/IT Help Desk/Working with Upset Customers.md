@@ -28,8 +28,10 @@ tags:
   - skill/escalation-resolution
   - skill/customer-service
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Working%20with%20Upset%20Customers.md)
 
 ![Working with Upset Customers](https://media.licdn.com/dms/image/v2/D560DAQE6o_Qe0bAf8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680800481821?e=2147483647&amp;v=beta&amp;t=msC2GFOe5y5EsgG-spq8VqIA2P9IgJSGkE-7KDYvKBM)
 
@@ -40,23 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277) | 47m | 75K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Madecraft]]
-- [[Jeff Toister]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Escalation Resolution
-- Customer Service
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Preventing Customer Anger** (3 videos)
+- **3. 2. Serving Angry Customers** (5 videos)
+- **4. 3. Learning from Angry Customers** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Serving upset customers with ease
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/serving-upset-customers-with-ease?u=76281980)
@@ -335,7 +331,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Preventing Customer Anger
+### 2. 1. Preventing Customer Anger
 
 #### Creating personal connections with rapport
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/creating-personal-connections-with-rapport?u=76281980)
@@ -624,7 +620,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### 2. Serving Angry Customers
+### 3. 2. Serving Angry Customers
 
 #### Recognizing your natural instincts
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980)
@@ -1174,7 +1170,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Learning from Angry Customers
+### 4. 3. Learning from Angry Customers
 
 #### Preserving the relationship
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/preserving-the-relationship?u=76281980)
@@ -1462,7 +1458,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Putting the work in
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/putting-the-work-in?u=76281980)
@@ -1507,6 +1503,20 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Madecraft]]
+- [[Jeff Toister]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Escalation Resolution
+- Customer Service
 
 ## Path Context
 

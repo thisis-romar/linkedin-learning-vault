@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20Arduino-%20Interfacing%20with%20Hardware.md)
 
 ![Learning Arduino: Interfacing with Hardware](https://media.licdn.com/dms/image/v2/C4E0DAQElLaw9B93Uvw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669851419?e=2147483647&amp;v=beta&amp;t=EPO1hmQqc6xKpVhB-XitnkQtTJ5GsKUiiliU9h81bVY)
 
@@ -42,21 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware) | 1h 40m | Intermediate | 230K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Zahraa Khalil]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Arduino
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Interface with an LCD** (8 videos)
+- **3. 2. Interface with a 7-Segment LED Directly** (9 videos)
+- **4. 3. Interface with a 7-Segment LED Using a Shift Register** (7 videos)
+- **5. 4. Interface with a Keypad** (10 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Open up your digital world with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/open-up-your-digital-world-with-arduino?u=76281980)
@@ -133,7 +132,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Interface with an LCD
+### 2. 1. Interface with an LCD
 
 #### Introduction to the liquid crystal display (LCD)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-liquid-crystal-display-lcd?u=76281980)
@@ -659,7 +658,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Interface with a 7-Segment LED Directly
+### 3. 2. Interface with a 7-Segment LED Directly
 
 #### Overview of the 7-segment LED
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980)
@@ -1163,7 +1162,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Interface with a 7-Segment LED Using a Shift Register
+### 4. 3. Interface with a 7-Segment LED Using a Shift Register
 
 #### Understanding the shift register
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-shift-register?u=76281980)
@@ -1528,7 +1527,7 @@ created: 2026-04-21
 > **Speakers:** - okay (1)
 
 
-### 4. Interface with a Keypad
+### 5. 4. Interface with a Keypad
 
 #### Introduction to the keypad interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-keypad-interface?u=76281980)
@@ -2217,7 +2216,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/next-steps?u=76281980)
@@ -2226,6 +2225,18 @@ created: 2026-04-21
 >
 > **[0:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/next-steps?u=76281980&t=3)** If you want to learn more about Arduino you can check out the library for my other Arduino courses like [[Learning Arduino- Interfacing with Analog Devices]],
 
+
+## Instructor
+
+- [[Zahraa Khalil]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Arduino
 
 ## Path Context
 

@@ -25,31 +25,35 @@ tags:
   - topic/web-development
   - skill/laravel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Laravel%20Essential%20Training.md)
 
 ![Laravel Essential Training](https://media.licdn.com/dms/image/v2/D560DAQFMOrRKmmIPEg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722894881815?e=2147483647&amp;v=beta&amp;t=2a9mRtrTqKvssIy7KyDF11ygm2uu5JCPb1LRFfCA10w)
 
 # Laravel Essential Training
 
-> Laravel, the open-source PHP web framework, has become one of the most widely used ecosystems for building scalable apps at lightning-quick speed. If you’re a PHP developer looking to take your career to the next level, this course was made for you. Join instructor Shruti Balasa as she takes you on a journey through the fundamentals of the Laravel framework.
-Learn about MVC architecture, how the L
+> Laravel, the open-source PHP web framework, has become one of the most widely used ecosystems for building scalable apps at lightning-quick speed. If you’re a PHP developer looking to take your career to the next level, this course was made for you. Join instructor Shruti Balasa as she takes you on a journey through the fundamentals of the Laravel framework. Learn about MVC architecture, how the L
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training) | Beginner | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/laravel-essential-training-2710093/codespaces)
-
-## Skills Covered
-
-- Laravel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Laravel Basics: Routes, Views, and Controllers** (7 videos)
+- **3. 2. Laravel Basics: Configuration, Database, Migrations, and Eloquent** (6 videos)
+- **4. 3. Starting Your Project** (7 videos)
+- **5. 4. Creating, Indexing, and Showing** (9 videos)
+- **6. 5. Editing, Updating, and Deleting** (6 videos)
+- **7. 6. Relationships** (5 videos)
+- **8. 7. Soft Deleting** (5 videos)
+- **9. Conclusion** (3 videos)
+
+### 1. Introduction
 
 #### Meet Laravel
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/meet-laravel?u=76281980)
@@ -256,7 +260,7 @@ Learn about MVC architecture, how the L
 > **Definitions:** is a  (2)
 
 
-### 1. Laravel Basics: Routes, Views, and Controllers
+### 2. 1. Laravel Basics: Routes, Views, and Controllers
 
 #### Serve the application
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980)
@@ -847,7 +851,7 @@ Learn about MVC architecture, how the L
 > **Definitions:** is a  (1)
 
 
-### 2. Laravel Basics: Configuration, Database, Migrations, and Eloquent
+### 3. 2. Laravel Basics: Configuration, Database, Migrations, and Eloquent
 
 #### Understand Laravel configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980)
@@ -1363,7 +1367,7 @@ Learn about MVC architecture, how the L
 > **Cross-References:** go back to (1)
 
 
-### 3. Starting Your Project
+### 4. 3. Starting Your Project
 
 #### Understand the project requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/understand-the-project-requirements?u=76281980)
@@ -2068,7 +2072,7 @@ Learn about MVC architecture, how the L
 > **Env Vars:** url (1)
 
 
-### 4. Creating, Indexing, and Showing
+### 5. 4. Creating, Indexing, and Showing
 
 #### Add an index method to fetch all notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-an-index-method-to-fetch-all-notes?u=76281980)
@@ -3408,7 +3412,7 @@ Learn about MVC architecture, how the L
 > **Analogies:** just like (1)
 
 
-### 5. Editing, Updating, and Deleting
+### 6. 5. Editing, Updating, and Deleting
 
 #### Add an edit method and view to allow editing of the note
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980)
@@ -4053,7 +4057,7 @@ Learn about MVC architecture, how the L
 > **Cross-References:** go back to (1)
 
 
-### 6. Relationships
+### 7. 6. Relationships
 
 #### What are Eloquent relationships?
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/what-are-eloquent-relationships?u=76281980)
@@ -4339,7 +4343,7 @@ Learn about MVC architecture, how the L
 > **Analogies:** similar to (1), just like (1)
 
 
-### 7. Soft Deleting
+### 8. 7. Soft Deleting
 
 #### Enable soft delete
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/enable-soft-delete?u=76281980)
@@ -5003,7 +5007,7 @@ Learn about MVC architecture, how the L
 > **Env Vars:** gui (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Optional: Set up a local development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980)
@@ -5177,6 +5181,15 @@ Learn about MVC architecture, how the L
 > **Code Keywords:** public (1)
 > **Definitions:** is a  (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/laravel-essential-training-2710093/codespaces)
+
+## Skills Covered
+
+- Laravel
 
 ## Path Context
 

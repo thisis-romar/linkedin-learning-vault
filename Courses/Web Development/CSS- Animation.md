@@ -31,8 +31,10 @@ tags:
   - skill/cascading-style-sheets-css
   - skill/interactive-web-content
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Animation.md)
 
 ![CSS: Animation](https://media.licdn.com/dms/image/v2/C4E0DAQE9uYdz7sm7Mw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668021326670?e=2147483647&amp;v=beta&amp;t=QLJ9vKjw6QjuMcPy0oy2pjU8WAxkM5JDrid6vimzvgQ)
 
@@ -43,23 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685) | 1h 50m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Val Head]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/css-animation-2882049/codespaces)
-
-## Skills Covered
-
-- Cascading Style Sheets (CSS)
-- Interactive Web Content
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Overview of CSS Transitions and Transforms** (5 videos)
+- **3. 2. Understanding CSS Animations** (8 videos)
+- **4. 3. CSS Animation Building Blocks** (6 videos)
+- **5. 4. Animating SVGs with CSS** (3 videos)
+- **6. 5. Advanced CSS Animation Techniques** (4 videos)
+- **7. 6. Tools for Creating CSS Animations** (1 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### CSS animation advantages
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-animation-advantages?u=76281980)
@@ -245,7 +244,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 1. Overview of CSS Transitions and Transforms
+### 2. 1. Overview of CSS Transitions and Transforms
 
 #### CSS transform basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-transform-basics?u=76281980)
@@ -564,7 +563,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music begins) (1)
 
 
-### 2. Understanding CSS Animations
+### 3. 2. Understanding CSS Animations
 
 #### CSS keyframe animation fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-keyframe-animation-fundamentals?u=76281980)
@@ -1208,7 +1207,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. CSS Animation Building Blocks
+### 4. 3. CSS Animation Building Blocks
 
 #### Infinitely looping animations
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/infinitely-looping-animations?u=76281980)
@@ -1692,7 +1691,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. Animating SVGs with CSS
+### 5. 4. Animating SVGs with CSS
 
 #### Preparing an SVG for animation
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980)
@@ -1998,7 +1997,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Advanced CSS Animation Techniques
+### 6. 5. Advanced CSS Animation Techniques
 
 #### Creating a motion path for CSS with offset-path
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/creating-a-motion-path-for-css-with-offset-path?u=76281980)
@@ -2396,7 +2395,7 @@ created: 2026-04-21
 > **Best Practices:** it's best to (1)
 
 
-### 6. Tools for Creating CSS Animations
+### 7. 6. Tools for Creating CSS Animations
 
 #### Using browser animation inspection tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/using-browser-animation-inspection-tools?u=76281980)
@@ -2491,7 +2490,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Helpful online tools for CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980)
@@ -2544,6 +2543,20 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 > **Speakers:** - [val] (1)
 
+
+## Instructor
+
+- [[Val Head]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/css-animation-2882049/codespaces)
+
+## Skills Covered
+
+- Cascading Style Sheets (CSS)
+- Interactive Web Content
 
 ## Path Context
 

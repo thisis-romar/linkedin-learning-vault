@@ -33,8 +33,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Mobile%20Development/Learning%20Paths/Get%20Started%20with%20iOS%20App%20Development.md)
 
 # Get Started with iOS App Development
 

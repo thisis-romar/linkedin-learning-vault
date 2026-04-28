@@ -7,7 +7,7 @@ course_count: 11
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/devops
@@ -63,8 +63,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Develop%20Your%20Skills%20as%20a%20Software%20Project%20Manager.md)
 
 # Develop Your Skills as a Software Project Manager
 

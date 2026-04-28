@@ -45,8 +45,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Database%20Management/Professional%20Certificates/Network%20Automation%20Professional%20Certificate%20by%20Arista%20Networks.md)
 
 # Network Automation Professional Certificate by Arista Networks
 

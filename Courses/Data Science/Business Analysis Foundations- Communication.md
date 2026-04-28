@@ -28,8 +28,10 @@ tags:
   - skill/stakeholder-engagement
   - skill/business-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20Foundations-%20Communication.md)
 
 ![Business Analysis Foundations: Communication](https://media.licdn.com/dms/image/v2/D560DAQEx3-oxJmkZ6w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719253887535?e=2147483647&amp;v=beta&amp;t=PUBXMBFuUvT3w9g7QgOFtf84jL6hjoWayXTMy-2QOO4)
 
@@ -40,22 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication) | 1h 8m | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Laura Paton]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Stakeholder Engagement
-- Business Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Business Analysis Communication?** (3 videos)
+- **3. 2. Key Business Analysis Communication Skills** (4 videos)
+- **4. 3. Ways to Visually Communicate in Business Analysis** (4 videos)
+- **5. 4. Tips For Improving Business Analysis Communication** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Business analysts are the bridge between stakeholders and IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysts-are-the-bridge-between-stakeholders-and-it?u=76281980)
@@ -82,7 +80,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. What Is Business Analysis Communication?
+### 2. 1. What Is Business Analysis Communication?
 
 #### Business analysis communication defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysis-communication-defined?u=76281980)
@@ -341,7 +339,7 @@ created: 2026-04-21
 > **Speakers:** - communication (1)
 
 
-### 2. Key Business Analysis Communication Skills
+### 3. 2. Key Business Analysis Communication Skills
 
 #### Verbal and nonverbal communication skills in business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/verbal-and-nonverbal-communication-skills-in-business-analysis?u=76281980)
@@ -655,7 +653,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 3. Ways to Visually Communicate in Business Analysis
+### 4. 3. Ways to Visually Communicate in Business Analysis
 
 #### Visually communicate scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-scope?u=76281980)
@@ -1037,7 +1035,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 4. Tips For Improving Business Analysis Communication
+### 5. 4. Tips For Improving Business Analysis Communication
 
 #### Improving how you write text-based requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980)
@@ -1302,7 +1300,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Making communication a focus in your business analyst development plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/making-communication-a-focus-in-your-business-analyst-development-plan?u=76281980)
@@ -1336,6 +1334,19 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Laura Paton]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Stakeholder Engagement
+- Business Analysis
 
 ## Path Context
 

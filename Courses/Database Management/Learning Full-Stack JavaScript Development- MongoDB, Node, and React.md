@@ -37,40 +37,32 @@ tags:
   - skill/react-js
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20Full-Stack%20JavaScript%20Development-%20MongoDB%2C%20Node%2C%20and%20React.md)
 
 ![Learning Full-Stack JavaScript Development: MongoDB, Node, and React](https://media.licdn.com/dms/image/v2/C560DAQGx_lsYcLsXOA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671474208254?e=2147483647&amp;v=beta&amp;t=iy_3Nlypi8En0a_U0sUmOq5eQRz1i_5Yc6FQkc02OZA)
 
 # Learning Full-Stack JavaScript Development: MongoDB, Node, and React
 
-> Learn by doing! Learn full-stack JavaScript development by building a web application with MongoDB, Node.js, and React.js.
-
-Learn how to use Node as a web server and an API server, how to consume data and build user interfaces with React, and how to read and write data with a MongoDB database. React allows you to build full-featured, data-driven applications faster and more efficiently than what i
+> Learn by doing! Learn full-stack JavaScript development by building a web application with MongoDB, Node.js, and React.js. Learn how to use Node as a web server and an API server, how to consume data and build user interfaces with React, and how to read and write data with a MongoDB database. React allows you to build full-featured, data-driven applications faster and more efficiently than what is
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237) | 3h 35m | Advanced | 81K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Samer Buna]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-full-stack-javascript-development-mongodb-node-and-react-2424660)
-
-## Skills Covered
-
-- MongoDB
-- Full-Stack Development
-- JavaScript
-- React.js
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Started** (7 videos)
+- **3. 2. React Fundamentals** (5 videos)
+- **4. 3. Working with Data** (8 videos)
+- **5. 4. Routing and History** (7 videos)
+- **6. 5. Persisting Data** (7 videos)
+
+### 1. Introduction
 
 #### Learning full-stack JavaScript development
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980)
@@ -193,7 +185,7 @@ Learn how to use Node as a web server and an API server, how to consume data and
 > **UI Navigation:** go to (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Project repo and NPM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980)
@@ -1406,7 +1398,7 @@ Learn how to use Node as a web server and an API server, how to consume data and
 > **UI Navigation:** go to (1)
 
 
-### 2. React Fundamentals
+### 3. 2. React Fundamentals
 
 #### Why React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980)
@@ -2060,7 +2052,7 @@ Learn how to use Node as a web server and an API server, how to consume data and
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Working with Data
+### 4. 3. Working with Data
 
 #### Creating a mock API endpoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980)
@@ -3421,7 +3413,7 @@ Learn how to use Node as a web server and an API server, how to consume data and
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Routing and History
+### 5. 4. Routing and History
 
 #### Invoking component actions in children
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980)
@@ -4461,7 +4453,7 @@ Learn how to use Node as a web server and an API server, how to consume data and
 > **Code Identifiers:** preventdefault (1)
 
 
-### 5. Persisting Data
+### 6. 5. Persisting Data
 
 #### Handling data in an array
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980)
@@ -5105,6 +5097,23 @@ Learn how to use Node as a web server and an API server, how to consume data and
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Samer Buna]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-full-stack-javascript-development-mongodb-node-and-react-2424660)
+
+## Skills Covered
+
+- MongoDB
+- Full-Stack Development
+- JavaScript
+- React.js
+- Node.js
 
 ## Path Context
 

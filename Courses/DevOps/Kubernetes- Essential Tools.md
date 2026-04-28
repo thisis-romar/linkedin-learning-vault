@@ -28,8 +28,10 @@ tags:
   - topic/devops
   - skill/kubernetes
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Kubernetes-%20Essential%20Tools.md)
 
 ![Kubernetes: Essential Tools](https://media.licdn.com/dms/image/v2/D560DAQHXiJGfHXz6tA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691433502919?e=2147483647&amp;v=beta&amp;t=9XMOArS_-YBHaPkWfM2SYqX7DDAXwaJ-k5t_Yuz78zw)
 
@@ -40,17 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools) | 43m | Intermediate | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Edidiong Asikpo]]
-
-## Skills Covered
-
-- Kubernetes
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Kubernetes Command-Line Tools** (3 videos)
+- **3. 2. Tools for Running Kubernetes** (4 videos)
+- **4. 3. Kubernetes Development Tools** (3 videos)
+- **5. 4. Kubernetes Deployment Tools** (2 videos)
+- **6. 5. Kubernetes Monitoring Tools** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Unlocking Kubernetes: Your essential tools guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/unlocking-kubernetes-your-essential-tools-guide?u=76281980)
@@ -127,7 +131,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Kubernetes Command-Line Tools
+### 2. 1. Kubernetes Command-Line Tools
 
 #### kubectl
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980)
@@ -326,7 +330,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### 2. Tools for Running Kubernetes
+### 3. 2. Tools for Running Kubernetes
 
 #### minikube
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980)
@@ -515,7 +519,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Kubernetes Development Tools
+### 4. 3. Kubernetes Development Tools
 
 #### Telepresence
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980)
@@ -722,7 +726,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Kubernetes Deployment Tools
+### 5. 4. Kubernetes Deployment Tools
 
 #### Helm
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980)
@@ -851,7 +855,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Kubernetes Monitoring Tools
+### 6. 5. Kubernetes Monitoring Tools
 
 #### Kubernetes Dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/kubernetes-dashboard?u=76281980)
@@ -1067,7 +1071,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/next-steps?u=76281980)
@@ -1093,6 +1097,14 @@ created: 2026-04-21
 > **Documentation:** stack overflow (1)
 > **Speakers:** - [speaker] (1)
 
+
+## Instructor
+
+- [[Edidiong Asikpo]]
+
+## Skills Covered
+
+- Kubernetes
 
 ## Path Context
 

@@ -24,8 +24,10 @@ tags:
   - skill/financial-analysis
   - skill/career-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Starting%20Your%20Career%20As%20A%20Financial%20Analyst.md)
 
 ![Starting Your Career As A Financial Analyst](https://media.licdn.com/dms/image/v2/C560DAQFPMDynUHrmfg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652376784923?e=2147483647&amp;v=beta&amp;t=fYY8fO15WRu-BoJbFagTEMWY1dGcRgyWfSFcMgUmFak)
 
@@ -36,18 +38,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst) | 306K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Financial Analysis
-- Career Management
-
 ## Table of Contents
 
-### 1. Starting Your Career as a Financial Analyst
+### Chapter Overview
+
+- **1. 1. Starting Your Career as a Financial Analyst** (19 videos)
+
+### 1. 1. Starting Your Career as a Financial Analyst
 
 #### Intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/intro-14781673?u=76281980)
@@ -1245,6 +1242,15 @@ created: 2026-04-21
 >
 > **Speakers:** - [narrator] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Financial Analysis
+- Career Management
 
 ## Path Context
 

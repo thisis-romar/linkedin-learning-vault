@@ -39,8 +39,10 @@ tags:
   - skill/data-analysis
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20Data%20Analysis%20for%20Healthcare.md)
 
 ![Python Data Analysis for Healthcare](https://media.licdn.com/dms/image/v2/D560DAQE8G95e2ekjGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711656672748?e=2147483647&amp;v=beta&amp;t=JbQA0i_nEusIcIe26tcNQHhP5l0ivA___SCMW1M2vSU)
 
@@ -51,23 +53,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare) | 2h 48m | Advanced | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wuraola Oyewusi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Analysis
-- Healthcare Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Data Analysis for Healthcare** (6 videos)
+- **3. 2. Analyze Visit Data from an Outpatient Clinic Using Python** (11 videos)
+- **4. 3. Medication Demand Forecasting Using Python** (5 videos)
+- **5. 4. Patient Experience Analytics Using Python** (2 videos)
+- **6. 5. Public Health Facilities GeoSpatial Analysis Using Python** (5 videos)
+- **7. 6. Healthcare Data Wrangling Using Python** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Python data analysis in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare?u=76281980)
@@ -145,7 +144,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Data Analysis for Healthcare
+### 2. 1. Data Analysis for Healthcare
 
 #### Data analysis in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980)
@@ -407,7 +406,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Analyze Visit Data from an Outpatient Clinic Using Python
+### 3. 2. Analyze Visit Data from an Outpatient Clinic Using Python
 
 #### Explore patient visit demo dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-patient-visit-demo-dataset?u=76281980)
@@ -1811,7 +1810,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Medication Demand Forecasting Using Python
+### 4. 3. Medication Demand Forecasting Using Python
 
 #### Explore the pharmacy sales demo dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-pharmacy-sales-demo-dataset?u=76281980)
@@ -2429,7 +2428,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Patient Experience Analytics Using Python
+### 5. 4. Patient Experience Analytics Using Python
 
 #### Explore laboratory patient experience demo dataset with Plotly
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-laboratory-patient-experience-demo-dataset-with-plotly?u=76281980)
@@ -2695,7 +2694,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Public Health Facilities GeoSpatial Analysis Using Python
+### 6. 5. Public Health Facilities GeoSpatial Analysis Using Python
 
 #### Explore the public health facilities geolocation demo dataset using GeoPandas: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1?u=76281980)
@@ -3178,7 +3177,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Healthcare Data Wrangling Using Python
+### 7. 6. Healthcare Data Wrangling Using Python
 
 #### Practical data manipulation and wrangling using pandas: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-1?u=76281980)
@@ -3510,7 +3509,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Using Python to analyze your healthcare data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980)
@@ -3539,6 +3538,20 @@ created: 2026-04-21
 > **Env Vars:** nlp (1)
 > **Speakers:** - this (1)
 
+
+## Instructor
+
+- [[Wuraola Oyewusi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Analysis
+- Healthcare Analytics
 
 ## Path Context
 

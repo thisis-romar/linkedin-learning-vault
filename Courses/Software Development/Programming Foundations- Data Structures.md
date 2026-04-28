@@ -25,8 +25,10 @@ tags:
   - topic/software-development
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Data%20Structures.md)
 
 ![Programming Foundations: Data Structures](https://media.licdn.com/dms/image/v2/D4E0DAQEbMUqPXFmo3Q/learning-public-crop_675_1200/B4EZS4gxWyHoAg-/0/1738262386940?e=2147483647&amp;v=beta&amp;t=4V8QRSAfBZCIob_xSd_b2KONijT15H_N745p6yFZrFw)
 
@@ -37,13 +39,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158) | 2h 46m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kathryn Hodge]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Data Fundamentals** (5 videos)
+- **3. 2. Array-Like Structures** (12 videos)
+- **4. 3. Dictionaries** (8 videos)
+- **5. 4. Sets** (8 videos)
+- **6. 5. Queues** (4 videos)
+- **7. 6. Stacks** (5 videos)
+- **8. 7. Practice Using Data Structures in Python Applications** (6 videos)
+- **9. 8. Glossaries** (0 videos)
+- **10. 9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why to use data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/why-use-data-structures-24503276?u=76281980)
@@ -201,7 +212,7 @@ created: 2026-04-21
 > **Definitions:** stands for (1), is a  (1)
 
 
-### 1. Data Fundamentals
+### 2. 1. Data Fundamentals
 
 #### What is data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-data-24506004?u=76281980)
@@ -501,7 +512,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Array-Like Structures
+### 3. 2. Array-Like Structures
 
 #### What is an array?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980)
@@ -1297,7 +1308,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Dictionaries
+### 4. 3. Dictionaries
 
 #### What is a dictionary?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-dictionary-24502365?u=76281980)
@@ -1657,7 +1668,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Sets
+### 5. 4. Sets
 
 #### What is a set?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-set-24296967?u=76281980)
@@ -2006,7 +2017,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Queues
+### 6. 5. Queues
 
 #### What is a queue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-queue-24502368?u=76281980)
@@ -2177,7 +2188,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Stacks
+### 7. 6. Stacks
 
 #### What is a stack?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-stack-24506006?u=76281980)
@@ -2423,7 +2434,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Practice Using Data Structures in Python Applications
+### 8. 7. Practice Using Data Structures in Python Applications
 
 #### GitHub Codespace challenge: To-do list
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980)
@@ -2775,10 +2786,10 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Glossaries
+### 9. 8. Glossaries
 
 
-### 9. Conclusion
+### 10. 9. Conclusion
 
 #### How to decide which data structure to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980)
@@ -2801,6 +2812,10 @@ created: 2026-04-21
 >
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Kathryn Hodge]]
 
 ## Path Context
 

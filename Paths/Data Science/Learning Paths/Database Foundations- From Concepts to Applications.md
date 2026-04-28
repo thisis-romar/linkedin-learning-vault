@@ -8,7 +8,7 @@ linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/data-science
@@ -41,8 +41,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Database%20Foundations-%20From%20Concepts%20to%20Applications.md)
 
 # Database Foundations: From Concepts to Applications
 

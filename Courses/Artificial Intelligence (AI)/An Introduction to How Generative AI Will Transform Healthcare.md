@@ -28,8 +28,10 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/An%20Introduction%20to%20How%20Generative%20AI%20Will%20Transform%20Healthcare.md)
 
 ![An Introduction to How Generative AI Will Transform Healthcare](https://media.licdn.com/dms/image/v2/D560DAQEVAN76mOQ6lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708990552481?e=2147483647&amp;v=beta&amp;t=mexXi2BrYlzUWBqyFOvQ5TiTBkdezJv_HXMK5dVgAfE)
 
@@ -40,13 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare) | 53m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Matthew Lungren MD MPH]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Foundations of Generative AI in Healthcare** (2 videos)
+- **3. 2. Planning for the Generative AI Revolution in Healthcare** (2 videos)
+- **4. 3. Special Topics in Generative AI and Healthcare** (3 videos)
+- **5. 4. Ethical, Social, and Professional Considerations** (3 videos)
+- **6. 5. The Future of Healthcare with Generative AI** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to generative AI in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980)
@@ -81,7 +89,7 @@ created: 2026-04-21
 > **Non-Speech:** (gentle bright music) (1)
 
 
-### 1. The Foundations of Generative AI in Healthcare
+### 2. 1. The Foundations of Generative AI in Healthcare
 
 #### GPT passes medical exams: Breakthrough or hype?
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980)
@@ -234,7 +242,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Planning for the Generative AI Revolution in Healthcare
+### 3. 2. Planning for the Generative AI Revolution in Healthcare
 
 #### Implementing generative AI: Bottom-up or top-down?
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980)
@@ -380,7 +388,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. Special Topics in Generative AI and Healthcare
+### 4. 3. Special Topics in Generative AI and Healthcare
 
 #### Generative AI: The key to unlocking medical knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980)
@@ -663,7 +671,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 4. Ethical, Social, and Professional Considerations
+### 5. 4. Ethical, Social, and Professional Considerations
 
 #### Bias in generative AI for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980)
@@ -884,7 +892,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 5. The Future of Healthcare with Generative AI
+### 6. 5. The Future of Healthcare with Generative AI
 
 #### The next wave: Multimodal AI in patient care
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980)
@@ -1139,7 +1147,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing the AI healthcare journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980)
@@ -1185,6 +1193,10 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Matthew Lungren MD MPH]]
 
 ## Path Context
 

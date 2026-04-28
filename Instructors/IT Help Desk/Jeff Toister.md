@@ -11,8 +11,10 @@ tags:
   - instructor
   - topic/data-science
   - topic/it-help-desk
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/IT%20Help%20Desk/Jeff%20Toister.md)
 
 # Jeff Toister
 

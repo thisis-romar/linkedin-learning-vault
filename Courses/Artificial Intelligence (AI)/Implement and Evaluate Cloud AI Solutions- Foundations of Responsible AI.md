@@ -33,8 +33,10 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Implement%20and%20Evaluate%20Cloud%20AI%20Solutions-%20Foundations%20of%20Responsible%20AI.md)
 
 ![Implement and Evaluate Cloud AI Solutions: Foundations of Responsible AI](https://media.licdn.com/dms/image/v2/D4D0DAQF5jBKDROa9mw/learning-public-crop_675_1200/B4DZTOSUFSGcAY-/0/1738627695794?e=2147483647&amp;v=beta&amp;t=fJb6ugCjYgKw3Je8Cg2dPVWsZJAcPD-DwWtrheLmguU)
 
@@ -45,23 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai) | 53m | Beginner | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Isil Berkun]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI Solutions
-- Responsible AI
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Implementing AI Solutions** (2 videos)
+- **3. 2. Evaluating Cloud AI Platforms** (2 videos)
+- **4. 3. Ensuring Responsible AI** (2 videos)
+- **5. 4. Monitoring and Improving AI Systems** (2 videos)
+- **6. 5. Case Studies and Real-World Applications** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building trustworthy AI: From concept to real-world impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/building-trustworthy-ai-from-concept-to-real-world-impact?u=76281980)
@@ -268,7 +266,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 1. Implementing AI Solutions
+### 2. 1. Implementing AI Solutions
 
 #### Strategic AI implementation steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/strategic-ai-implementation-steps?u=76281980)
@@ -483,7 +481,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 2. Evaluating Cloud AI Platforms
+### 3. 2. Evaluating Cloud AI Platforms
 
 #### Evaluating cloud AI platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/evaluating-cloud-ai-platforms?u=76281980)
@@ -646,7 +644,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 3. Ensuring Responsible AI
+### 4. 3. Ensuring Responsible AI
 
 #### Ethical AI development and strategic considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/ethical-ai-development-strategic-considerations?u=76281980)
@@ -827,7 +825,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 4. Monitoring and Improving AI Systems
+### 5. 4. Monitoring and Improving AI Systems
 
 #### Continuous monitoring for AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/continuous-monitoring-for-ai-systems?u=76281980)
@@ -986,7 +984,7 @@ created: 2026-04-21
 > **Speakers:** - think (1)
 
 
-### 5. Case Studies and Real-World Applications
+### 6. 5. Case Studies and Real-World Applications
 
 #### Successful AI implementation examples
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/successful-ai-implementation-examples?u=76281980)
@@ -1151,7 +1149,7 @@ created: 2026-04-21
 > **Speakers:** - not (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Recap and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/recap-and-next-steps?u=76281980)
@@ -1212,6 +1210,20 @@ created: 2026-04-21
 > **Analogies:** think of it like (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Isil Berkun]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI Solutions
+- Responsible AI
+- Artificial Intelligence (AI)
 
 ## Path Context
 

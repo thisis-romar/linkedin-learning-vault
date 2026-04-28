@@ -39,8 +39,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Pair%20Programming%20with%20GitHub%20Copilot.md)
 
 ![AI Pair Programming with GitHub Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQHcmTuHL8f5mw/learning-public-crop_675_1200/B4EZWWZJSxHMAY-/0/1741984929307?e=2147483647&amp;v=beta&amp;t=P-FBVsiEgFn40KXgkDmzL54vN0X1Yh4MMhvPoxfCt8M)
 
@@ -51,23 +53,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433) | 1h 32m | Beginner | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ronnie Sheer]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/ai-pair-programming-with-github-copilot-x-2108008)
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- GitHub Copilot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Familiar with Copilot** (5 videos)
+- **3. 2. Building a Project with Copilot** (2 videos)
+- **4. 3. Back-End Code with Copilot** (5 videos)
+- **5. 4. Front-End Fun with Copilot** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### GitHub Copilot and the GenAI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980)
@@ -101,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - use (1)
 
 
-### 1. Getting Familiar with Copilot
+### 2. 1. Getting Familiar with Copilot
 
 #### What is Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980)
@@ -458,7 +455,7 @@ created: 2026-04-21
 > **Tools:** github (1)
 
 
-### 2. Building a Project with Copilot
+### 3. 2. Building a Project with Copilot
 
 #### What we will build
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-we-will-build?u=76281980)
@@ -531,7 +528,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Back-End Code with Copilot
+### 4. 3. Back-End Code with Copilot
 
 #### What Copilot Chat means for project boilerplate
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980)
@@ -1238,7 +1235,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 4. Front-End Fun with Copilot
+### 5. 4. Front-End Fun with Copilot
 
 #### Where Copilot differs in front-end work
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/where-copilot-differs-in-front-end-work?u=76281980)
@@ -1968,7 +1965,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Advance your AI skills with LinkedIn Learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980)
@@ -2002,6 +1999,20 @@ created: 2026-04-21
 > **Env Vars:** gpt (1)
 > **Speakers:** - this (1)
 
+
+## Instructor
+
+- [[Ronnie Sheer]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/ai-pair-programming-with-github-copilot-x-2108008)
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- GitHub Copilot
 
 ## Path Context
 

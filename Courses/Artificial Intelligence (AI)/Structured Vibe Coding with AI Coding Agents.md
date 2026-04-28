@@ -20,8 +20,10 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Structured%20Vibe%20Coding%20with%20AI%20Coding%20Agents.md)
 
 ![Structured Vibe Coding with AI Coding Agents](https://media.licdn.com/dms/image/v2/D4E0DAQGblmIjX3hAGA/learning-public-crop_675_1200/B4EZjJo7P6HoAY-/0/1755729606438?e=2147483647&amp;v=beta&amp;t=cWx-QrFtzJi65mzeYlbBQh79RGQ19F8i2608pEvmJMo)
 
@@ -32,13 +34,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents) | 1h 19m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Han-chung Lee]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Foundations of Vibe Coding** (1 videos)
+- **3. 2. Setting Up Your Vibe Coding Environment** (4 videos)
+- **4. 3. The Vibe Coding Workflow** (4 videos)
+- **5. 4. Beyond Code Generation: AI for Code Understanding** (2 videos)
+- **6. 5. Best Practices and Avoiding Pitfalls** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Moving beyond simple vibe coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/moving-beyond-simple-vibe-coding?u=76281980)
@@ -67,7 +75,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 1. Foundations of Vibe Coding
+### 2. 1. Foundations of Vibe Coding
 
 #### What is vibe coding?
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980)
@@ -134,7 +142,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Setting Up Your Vibe Coding Environment
+### 3. 2. Setting Up Your Vibe Coding Environment
 
 #### Choosing your coding agent host: VS Code and Claude Code
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980)
@@ -471,7 +479,7 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 
 
-### 3. The Vibe Coding Workflow
+### 4. 3. The Vibe Coding Workflow
 
 #### AI pair programming: Human as navigator, AI as driver
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/ai-pair-programming-human-as-navigator-ai-as-driver?u=76281980)
@@ -1036,7 +1044,7 @@ created: 2026-04-21
 > **Documentation:** spec (2)
 
 
-### 4. Beyond Code Generation: AI for Code Understanding
+### 5. 4. Beyond Code Generation: AI for Code Understanding
 
 #### Rapid codebase onboarding with AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980)
@@ -1225,7 +1233,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Best Practices and Avoiding Pitfalls
+### 6. 5. Best Practices and Avoiding Pitfalls
 
 #### Software stack selection for AI agent success
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980)
@@ -1463,7 +1471,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### The future of AI-assisted development
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980)
@@ -1511,6 +1519,10 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Han-chung Lee]]
 
 ## Path Context
 

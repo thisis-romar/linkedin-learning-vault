@@ -30,8 +30,10 @@ tags:
   - skill/software-design-patterns
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Patterns.md)
 
 ![JavaScript: Patterns](https://media.licdn.com/dms/image/v2/C4D0DAQHK-x5Xftt6NQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1587058479192?e=2147483647&amp;v=beta&amp;t=U0Gt3GbuVOnDnX2qplT7EQa2yol6gme3ou1amwg-D4A)
 
@@ -42,22 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2) | 1h 57m | Intermediate | 31K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Software Design Patterns
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction** (5 videos)
+- **3. 2. Creational Patterns** (6 videos)
+- **4. 3. Structural Patterns** (9 videos)
+- **5. 4. Behavioral Patterns** (9 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### JavaScript design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/javascript-design-patterns?u=76281980)
@@ -109,7 +107,7 @@ created: 2026-04-21
 > **Speakers:** - for (1)
 
 
-### 1. Introduction
+### 2. 1. Introduction
 
 #### What is a pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980)
@@ -420,7 +418,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creational Patterns
+### 3. 2. Creational Patterns
 
 #### What are creational patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-are-creational-patterns?u=76281980)
@@ -975,7 +973,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Structural Patterns
+### 4. 3. Structural Patterns
 
 #### What are structural patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-are-structural-patterns?u=76281980)
@@ -1512,7 +1510,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Behavioral Patterns
+### 5. 4. Behavioral Patterns
 
 #### What are behavioral patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-are-behavioral-patterns?u=76281980)
@@ -1955,7 +1953,7 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/next-steps?u=76281980)
@@ -1981,6 +1979,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [emmanuel] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Software Design Patterns
+- JavaScript
 
 ## Path Context
 

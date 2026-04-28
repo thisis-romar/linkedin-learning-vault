@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/redis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Redis%20Essential%20Training.md)
 
 ![Redis Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQGqjOoQsarMbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1669829521019?e=2147483647&amp;v=beta&amp;t=49EhSz43yqEEFohPdqwuzvIuXC7aG4Fsaf_6QIUUreY)
 
@@ -41,17 +43,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713) | 1h 52m | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Fernando Doglio]]
-
-## Skills Covered
-
-- Redis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Basics of Redis** (5 videos)
+- **3. 2. Representing Complex Data Structures: Hashes** (3 videos)
+- **4. 3. Lists and Sets in Redis** (11 videos)
+- **5. 4. Sorted Sets** (2 videos)
+- **6. 5. Key Naming Strategies** (3 videos)
+- **7. 6. Beyond Data Storage** (5 videos)
+- **8. 7. Watching Keys for Updates** (4 videos)
+- **9. 8. An introduction to Redis at Scale** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding Redis
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980)
@@ -219,7 +226,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Basics of Redis
+### 2. 1. Basics of Redis
 
 #### What is Redis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980)
@@ -629,7 +636,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Representing Complex Data Structures: Hashes
+### 3. 2. Representing Complex Data Structures: Hashes
 
 #### What are hashes?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-are-hashes?u=76281980)
@@ -861,7 +868,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Lists and Sets in Redis
+### 4. 3. Lists and Sets in Redis
 
 #### Introduction to lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-lists?u=76281980)
@@ -1402,7 +1409,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 4. Sorted Sets
+### 5. 4. Sorted Sets
 
 #### Explaining what a sorted set is
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/explaining-what-a-sorted-set-is?u=76281980)
@@ -1535,7 +1542,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 5. Key Naming Strategies
+### 6. 5. Key Naming Strategies
 
 #### Comparing Redis to relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980)
@@ -1655,7 +1662,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Beyond Data Storage
+### 7. 6. Beyond Data Storage
 
 #### What else can you do with Redis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-else-can-you-do-with-redis?u=76281980)
@@ -2000,7 +2007,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 7. Watching Keys for Updates
+### 8. 7. Watching Keys for Updates
 
 #### Introduction to key-space notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-key-space-notifications?u=76281980)
@@ -2161,7 +2168,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 8. An introduction to Redis at Scale
+### 9. 8. An introduction to Redis at Scale
 
 #### What's missing for a production-ready architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980)
@@ -2616,7 +2623,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### How to learn more about Redis
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980)
@@ -2672,6 +2679,14 @@ created: 2026-04-21
 > **Code Keywords:** finally, (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Fernando Doglio]]
+
+## Skills Covered
+
+- Redis
 
 ## Path Context
 

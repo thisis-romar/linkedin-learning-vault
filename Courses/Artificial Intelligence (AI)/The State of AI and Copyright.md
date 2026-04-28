@@ -31,8 +31,10 @@ tags:
   - skill/copyright-law
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20State%20of%20AI%20and%20Copyright.md)
 
 ![The State of AI and Copyright](https://media.licdn.com/dms/image/v2/D560DAQHq35uvDTUZhg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696368851549?e=2147483647&amp;v=beta&amp;t=kRcwlPauekAijMh0feyiOayJXtEod_y1C7HVzmwdIBw)
 
@@ -43,23 +45,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright) | 50m | 2608K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Garrick Chow]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- Copyright Law
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Excerpts from the Conversation** (10 videos)
+
+### 1. Introduction
 
 #### Understanding the state of AI and copyright
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980)
@@ -89,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 1. Excerpts from the Conversation
+### 2. 1. Excerpts from the Conversation
 
 #### Introductions
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980)
@@ -1029,6 +1022,20 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Env Vars:** gbt (1)
 
+
+## Instructor
+
+- [[Garrick Chow]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- Copyright Law
+- Artificial Intelligence (AI)
 
 ## Path Context
 

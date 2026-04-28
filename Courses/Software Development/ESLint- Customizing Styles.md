@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/eslint
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/ESLint-%20Customizing%20Styles.md)
 
 ![ESLint: Customizing Styles](https://media.licdn.com/dms/image/v2/C4E0DAQFwVAvDC1FHrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668021352865?e=2147483647&amp;v=beta&amp;t=9OlJwMeG71YYvKadZjYizeZxzOaoIZ-bd2hbODW4xMQ)
 
@@ -41,22 +43,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles) | 37m | Advanced | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sasha Vodnik]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/eslint-styles-2255010/codespaces)
-
-## Skills Covered
-
-- ESLint
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Customizing ESLint Styles** (5 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Setting up ESLint to match your style
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980)
@@ -315,7 +310,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. Customizing ESLint Styles
+### 2. 1. Customizing ESLint Styles
 
 #### Turning on checking for a rule
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980)
@@ -885,7 +880,7 @@ created: 2026-04-21
 > **Prerequisites:** setup (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980)
@@ -910,6 +905,19 @@ created: 2026-04-21
 >
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Sasha Vodnik]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/eslint-styles-2255010/codespaces)
+
+## Skills Covered
+
+- ESLint
 
 ## Path Context
 

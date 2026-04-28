@@ -57,8 +57,10 @@ tags:
   - skill/html
   - skill/html-scripting
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML%20Essential%20Training.md)
 
 ![HTML Essential Training](https://media.licdn.com/dms/image/v2/D4E0DAQEcLUxJ7yEa9g/learning-public-crop_675_1200/B4EZVEb4pzH0Ag-/0/1740609915762?e=2147483647&amp;v=beta&amp;t=FjGHD6-hKF9biWFtW-HmEN6h6HOXWx8OYHdxLqdfAvY)
 
@@ -69,24 +71,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519) | 4h 12m | Beginner | 66K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Christina Truong]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Web Development
-- Front-End Development
-- HTML
-- HTML Scripting
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Web** (7 videos)
+- **3. 2. Formatting Text** (12 videos)
+- **4. 3. The HTML Document and Page Structure** (9 videos)
+- **5. 4. Links and Navigation** (6 videos)
+- **6. 5. Images** (10 videos)
+- **7. 6. More Media Elements** (6 videos)
+- **8. 7. Web Forms** (8 videos)
+- **9. 8. Accessibility and Internationalization** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why should I learn HTML?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980)
@@ -166,7 +166,7 @@ created: 2026-04-21
 > **Speakers:** - [christina] (1)
 
 
-### 1. The Web
+### 2. 1. The Web
 
 #### Languages of the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980)
@@ -874,7 +874,7 @@ created: 2026-04-21
 > **URLs:** [websitename.com](https://websitename.com) (1)
 
 
-### 2. Formatting Text
+### 3. 2. Formatting Text
 
 #### Paragraphs and headings
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980)
@@ -1796,7 +1796,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 3. The HTML Document and Page Structure
+### 4. 3. The HTML Document and Page Structure
 
 #### The basic HTML document
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980)
@@ -2600,7 +2600,7 @@ created: 2026-04-21
 > **Prerequisites:** make sure you have (1)
 
 
-### 4. Links and Navigation
+### 5. 4. Links and Navigation
 
 #### The hyperlink
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980)
@@ -3002,7 +3002,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Images
+### 6. 5. Images
 
 #### Image formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980)
@@ -4010,7 +4010,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. More Media Elements
+### 7. 6. More Media Elements
 
 #### Video
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980)
@@ -4443,7 +4443,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Web Forms
+### 8. 7. Web Forms
 
 #### What are web forms?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980)
@@ -5195,7 +5195,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Accessibility and Internationalization
+### 9. 8. Accessibility and Internationalization
 
 #### What is accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980)
@@ -5416,7 +5416,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980)
@@ -5449,6 +5449,21 @@ created: 2026-04-21
 > **Code Keywords:** break. (1), continue (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Christina Truong]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Web Development
+- Front-End Development
+- HTML
+- HTML Scripting
 
 ## Path Context
 

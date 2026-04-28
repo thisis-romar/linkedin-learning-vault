@@ -35,8 +35,10 @@ tags:
   - skill/convolutional-neural-networks-cnn
   - skill/generative-adversarial-networks-gans
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Workshop-%20Hands-on%20with%20GANs%20with%20Deep%20Convolutional%20Networks.md)
 
 ![AI Workshop: Hands-on with GANs with Deep Convolutional Networks](https://media.licdn.com/dms/image/v2/D4E0DAQFOR4mPVjCsAQ/learning-public-crop_675_1200/B4EZjoh_NlGYAY-/0/1756247881353?e=2147483647&amp;v=beta&amp;t=5ge7kp0gCjfyApMnE0V13EBKbp2wJMmMK8gSKEJtjS0)
 
@@ -47,23 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks) | 1h 36m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Janani Ravi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- Convolutional Neural Networks (CNN)
-- Generative Adversarial Networks (GANs)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Convolutional and Pooling Layers** (6 videos)
+- **3. 2. Training a Discriminator as a Classification Model** (7 videos)
+- **4. 3. Training a Deep Convolutional GAN** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### A quick overview of GANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980)
@@ -141,7 +137,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### 1. Understanding Convolutional and Pooling Layers
+### 2. 1. Understanding Convolutional and Pooling Layers
 
 #### Course outline and prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980)
@@ -708,7 +704,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Training a Discriminator as a Classification Model
+### 3. 2. Training a Discriminator as a Classification Model
 
 #### Types of convolutional layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/types-of-convolutional-layers?u=76281980)
@@ -1455,7 +1451,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Training a Deep Convolutional GAN
+### 4. 3. Training a Deep Convolutional GAN
 
 #### Generator and discriminator
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/generator-and-discriminator?u=76281980)
@@ -2151,7 +2147,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980)
@@ -2185,6 +2181,20 @@ created: 2026-04-21
 > **Env Vars:** gan (1)
 > **Cross-References:** we covered (1)
 
+
+## Instructor
+
+- [[Janani Ravi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- Convolutional Neural Networks (CNN)
+- Generative Adversarial Networks (GANs)
 
 ## Path Context
 

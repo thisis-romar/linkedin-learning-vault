@@ -35,8 +35,10 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20in%20Excel%20for%20Financial%20Professionals.md)
 
 ![Python in Excel for Financial Professionals](https://media.licdn.com/dms/image/v2/D560DAQFrdzeuV1gobA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712350718189?e=2147483647&amp;v=beta&amp;t=eF5s1m3cK3jl7KCh87QxTGWrFD_5AW29iXOCeikkVK4)
 
@@ -47,24 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals) | 48m | Intermediate | 83K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Christian Martinez]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Analysis
-- Microsoft Excel
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started with Python in Excel** (6 videos)
+- **3. 2. Financial Modeling** (7 videos)
+- **4. 3. Automation** (4 videos)
+- **5. 4. Data Visualization** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/welcome-to-python-in-excel?u=76281980)
@@ -153,7 +149,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with Python in Excel
+### 2. 1. Getting Started with Python in Excel
 
 #### Integration of Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/integration-of-python-in-excel?u=76281980)
@@ -452,7 +448,7 @@ created: 2026-04-21
 > **Non-Speech:** (energetic electronic music) (1)
 
 
-### 2. Financial Modeling
+### 3. 2. Financial Modeling
 
 #### Discounted cash flow, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/discounted-cash-flow-part-1?u=76281980)
@@ -812,7 +808,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Automation
+### 4. 3. Automation
 
 #### Automate consolidation of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/automate-consolidation-of-data?u=76281980)
@@ -987,7 +983,7 @@ created: 2026-04-21
 > **Non-Speech:** (quirky music) (1)
 
 
-### 4. Data Visualization
+### 5. 4. Data Visualization
 
 #### Basic charts and graphs for finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/basic-charts-and-graphs-for-finance?u=76281980)
@@ -1173,7 +1169,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/next-steps?u=76281980)
@@ -1208,6 +1204,21 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Christian Martinez]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Analysis
+- Microsoft Excel
+- Data Visualization
 
 ## Path Context
 

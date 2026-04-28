@@ -28,8 +28,10 @@ tags:
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Tampering%20in%20Depth.md)
 
 ![Threat Modeling: Tampering in Depth](https://media.licdn.com/dms/image/v2/C4E0DAQFicNJUyQ2pLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567794847034?e=2147483647&amp;v=beta&amp;t=Dkm2UbAUAM9b2uN28LHo79pSuKVjyYcilK-FGRQ3bI4)
 
@@ -40,17 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth) | 33m | Intermediate | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Shostack]]
-
-## Skills Covered
-
-- Threat Modeling
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Tampering with a Process** (3 videos)
+- **3. 2. Tampering with Storage** (3 videos)
+- **4. 3. Tampering with Things** (2 videos)
+- **5. 4. Tampering with Time Itself** (1 videos)
+- **6. 5. Tampering with Cloud** (2 videos)
+- **7. 6. Tampering with Data Flows** (3 videos)
+- **8. 7. Integrity Defenses** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Mitigate tampering threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mitigate-tampering-threats?u=76281980)
@@ -156,7 +162,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Tampering with a Process
+### 2. 1. Tampering with a Process
 
 #### Debuggers and input
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/debuggers-and-input?u=76281980)
@@ -292,7 +298,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Tampering with Storage
+### 3. 2. Tampering with Storage
 
 #### Tampering with local storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-with-local-storage?u=76281980)
@@ -412,7 +418,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Tampering with Things
+### 4. 3. Tampering with Things
 
 #### Whose screw? Physical tampering matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/whose-screw-physical-tampering-matters?u=76281980)
@@ -495,7 +501,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Tampering with Time Itself
+### 5. 4. Tampering with Time Itself
 
 #### Time is increasingly important
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/time-is-increasingly-important?u=76281980)
@@ -551,7 +557,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 5. Tampering with Cloud
+### 6. 5. Tampering with Cloud
 
 #### Controls and authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/controls-and-authentication?u=76281980)
@@ -653,7 +659,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Tampering with Data Flows
+### 7. 6. Tampering with Data Flows
 
 #### Channels and messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/channels-and-messages?u=76281980)
@@ -817,7 +823,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Integrity Defenses
+### 8. 7. Integrity Defenses
 
 #### Prevention and detection goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/prevention-and-detection-goals?u=76281980)
@@ -982,7 +988,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Secure by design: Bring integrity to your systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/secure-by-design-bring-integrity-to-your-systems?u=76281980)
@@ -1012,6 +1018,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [adam] (1)
 
+
+## Instructor
+
+- [[Adam Shostack]]
+
+## Skills Covered
+
+- Threat Modeling
 
 ## Path Context
 

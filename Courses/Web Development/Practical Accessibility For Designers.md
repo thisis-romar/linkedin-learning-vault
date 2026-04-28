@@ -22,8 +22,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Practical%20Accessibility%20For%20Designers.md)
 
 ![Practical Accessibility For Designers](https://media.licdn.com/dms/image/v2/C4E0DAQHkN5mxyIRw4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660760563867?e=2147483647&amp;v=beta&amp;t=Qdxf3yUdHJMFPFqIaWOJBHw3P3pQbZRN4JOV5FVUwVo)
 
@@ -34,13 +36,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Chimmy Kalu]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Accessibility** (6 videos)
+- **3. 2. Making Websites Work for People with Vision Impairments** (8 videos)
+- **4. 3. Making Websites Work for D/deaf People** (3 videos)
+- **5. 4. Making Websites Work for Neurodiverse People** (5 videos)
+- **6. 5. Ensuring People Can Use Your Website Regardless of Mobility Status** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Gain a new perspective on accessibility in your designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/gain-a-new-perspective-on-accessibility-in-your-designs?u=76281980)
@@ -96,7 +104,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Accessibility
+### 2. 1. Introduction to Accessibility
 
 #### Why should you prioritize accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/why-should-you-prioritize-accessibility?u=76281980)
@@ -519,7 +527,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Making Websites Work for People with Vision Impairments
+### 3. 2. Making Websites Work for People with Vision Impairments
 
 #### How vision impairments affect access
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-vision-impairments-affect-access?u=76281980)
@@ -1369,7 +1377,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Making Websites Work for D/deaf People
+### 4. 3. Making Websites Work for D/deaf People
 
 #### What is D/deafness?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980)
@@ -1619,7 +1627,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Making Websites Work for Neurodiverse People
+### 5. 4. Making Websites Work for Neurodiverse People
 
 #### Making websites understandable
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980)
@@ -2132,7 +2140,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Ensuring People Can Use Your Website Regardless of Mobility Status
+### 6. 5. Ensuring People Can Use Your Website Regardless of Mobility Status
 
 #### Making websites operable
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-operable?u=76281980)
@@ -2610,7 +2618,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Summary of course and exercises
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/summary-of-course-and-exercises?u=76281980)
@@ -2639,6 +2647,10 @@ created: 2026-04-21
 > **Documentation:** w3c (1)
 > **Speakers:** - [announcer] (1)
 
+
+## Instructor
+
+- [[Chimmy Kalu]]
 
 ## Path Context
 

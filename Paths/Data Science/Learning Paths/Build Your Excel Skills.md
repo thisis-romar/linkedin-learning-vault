@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-your-excel-skills
 course_count: 3
 linkedin_topics:
   - Data Science
-louvain_cluster: 12
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/data-science
@@ -29,8 +29,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Build%20Your%20Excel%20Skills.md)
 
 # Build Your Excel Skills
 

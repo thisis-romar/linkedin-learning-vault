@@ -15,8 +15,10 @@ tags:
   - topic/hardware
   - topic/network-and-system-administration
   - topic/software-development
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Artificial%20Intelligence%20(AI)/Eduardo%20Corpe%C3%B1o.md)
 
 # Eduardo Corpeño
 

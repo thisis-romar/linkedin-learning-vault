@@ -30,8 +30,10 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/LinkedIn%20AI%20Academy%20AI-100-%203%20Scaling%20AI%20at%20LinkedIn.md)
 
 ![LinkedIn AI Academy AI-100: 3 Scaling AI at LinkedIn](https://media.licdn.com/dms/image/v2/D560DAQGenHT5ValXOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683048551650?e=2147483647&amp;v=beta&amp;t=JFwg4fDRHgPsYRBR2FyWL8I_M6FLH_Zn-CyszE8UiCQ)
 
@@ -42,25 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin) | 1h 42m | Beginner | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Birjodh Tiwana]]
-- [[Daniel Hewlett]]
-- [[Ya Xu]]
-- [[Jenelle Bray]]
-- [[Ankan Saha]]
-- [[Suman Sundaresh]]
-- [[Sakshi Jain]]
-
-## Skills Covered
-
-- Scalability
-- AI Software Development
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Data Representation Applications** (4 videos)
+- **3. 2. Application 1: Building Professional Communities** (4 videos)
+- **4. 3. Application 2: Jobs Marketplace** (4 videos)
+- **5. 4. Industrialization** (3 videos)
+- **6. 5. Building Trusted AI Products Responsibly** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The LinkedIn AI Academy: Applying AI at scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/the-linkedin-ai-academy-applying-ai-at-scale?u=76281980)
@@ -164,7 +160,7 @@ created: 2026-04-21
 > **Non-Speech:** (soft uplifting music) (1)
 
 
-### 1. Data Representation Applications
+### 2. 1. Data Representation Applications
 
 #### LinkedIn Economic Graph
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980)
@@ -409,7 +405,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Application 1: Building Professional Communities
+### 3. 2. Application 1: Building Professional Communities
 
 #### PYMK and follow recommendations
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980)
@@ -685,7 +681,7 @@ created: 2026-04-21
 > **Speakers:** - ads (1)
 
 
-### 3. Application 2: Jobs Marketplace
+### 4. 3. Application 2: Jobs Marketplace
 
 #### Job seeker: recommendations and notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980)
@@ -995,7 +991,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 4. Industrialization
+### 5. 4. Industrialization
 
 #### Tech stack: Offline, online, and nearline components
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980)
@@ -1186,7 +1182,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 5. Building Trusted AI Products Responsibly
+### 6. 5. Building Trusted AI Products Responsibly
 
 #### Spam classification
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980)
@@ -1545,7 +1541,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing on with learning AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980)
@@ -1623,6 +1619,22 @@ created: 2026-04-21
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Birjodh Tiwana]]
+- [[Daniel Hewlett]]
+- [[Ya Xu]]
+- [[Jenelle Bray]]
+- [[Ankan Saha]]
+- [[Suman Sundaresh]]
+- [[Sakshi Jain]]
+
+## Skills Covered
+
+- Scalability
+- AI Software Development
+- Artificial Intelligence (AI)
 
 ## Path Context
 

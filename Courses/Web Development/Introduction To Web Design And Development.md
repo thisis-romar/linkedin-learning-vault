@@ -28,8 +28,10 @@ tags:
   - skill/html
   - skill/web-design
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Introduction%20To%20Web%20Design%20And%20Development.md)
 
 ![Introduction To Web Design And Development](https://media.licdn.com/dms/image/v2/C560DAQEOlQminMI55A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1645210969272?e=2147483647&amp;v=beta&amp;t=CAUuoMZ3nFfHsnGK9KRHYtIkWNDAcn5q9P_nZUlIt00)
 
@@ -40,19 +42,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245) | Beginner | 401K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Web Development
-- HTML
-- Web Design
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding the Web** (4 videos)
+- **3. 2. Planning and Prototyping** (4 videos)
+- **4. 3. Three Technologies of the Front End** (4 videos)
+- **5. 4. Writing Code** (6 videos)
+- **6. 5. Supporting Web Development Technologies** (4 videos)
+- **7. 6. Exploring No-Code Solutions** (7 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Web design and development in the code and no-code era
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980)
@@ -92,7 +95,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. Understanding the Web
+### 2. 1. Understanding the Web
 
 #### Understanding clients and servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980)
@@ -420,7 +423,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 2. Planning and Prototyping
+### 3. 2. Planning and Prototyping
 
 #### Understanding user experience (UX) and website planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980)
@@ -820,7 +823,7 @@ created: 2026-04-21
 > **Speakers:** - these (1)
 
 
-### 3. Three Technologies of the Front End
+### 4. 3. Three Technologies of the Front End
 
 #### Understanding HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980)
@@ -1118,7 +1121,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 4. Writing Code
+### 5. 4. Writing Code
 
 #### Introducing writing code using CodePen
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980)
@@ -1853,7 +1856,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Supporting Web Development Technologies
+### 6. 5. Supporting Web Development Technologies
 
 #### Choosing an editor for writing code
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980)
@@ -2155,7 +2158,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 6. Exploring No-Code Solutions
+### 7. 6. Exploring No-Code Solutions
 
 #### What is the no-code movement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980)
@@ -2657,7 +2660,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Learn more with learning paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980)
@@ -2710,6 +2713,16 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [jen] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Web Development
+- HTML
+- Web Design
 
 ## Path Context
 

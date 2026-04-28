@@ -43,8 +43,10 @@ tags:
   - skill/threat-vulnerability-management
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md)
 
 ![The Cybersecurity Threat Landscape](https://media.licdn.com/dms/image/v2/C4E0DAQGBM14K9ue_wA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656438189426?e=2147483647&amp;v=beta&amp;t=3P3ryZMsYuCnXVDbmLBW536_JBs4FpEY--8fdpxcP3c)
 
@@ -55,18 +57,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064) | Beginner | 115K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Marc Menninger]]
-
-## Skills Covered
-
-- Threat & Vulnerability Management
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Malware and Ransomware** (2 videos)
+- **3. 2. Phishing and Smishing** (2 videos)
+- **4. 3. Business Email Compromise** (2 videos)
+- **5. 4. Botnets and DDoS attacks** (2 videos)
+- **6. 5. Zero-Day Attacks** (2 videos)
+- **7. 6. AI-Based cyberattacks** (2 videos)
+- **8. 7. Advanced Persistent Threats (APTs)** (2 videos)
+- **9. 8. Insider Threats** (2 videos)
+- **10. 9. Unmanaged IoT Devices** (2 videos)
+- **11. 10. Shadow IT** (2 videos)
+- **12. 11. Supply Chain Attacks and Third-Party Risks** (2 videos)
+- **13. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Examine the cybersecurity threat landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980)
@@ -110,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - [marc] (1)
 
 
-### 1. Malware and Ransomware
+### 2. 1. Malware and Ransomware
 
 #### Explore the threat of malware and ransomware
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980)
@@ -249,7 +258,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Phishing and Smishing
+### 3. 2. Phishing and Smishing
 
 #### Explore the threat of phishing and smishing
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980)
@@ -410,7 +419,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Business Email Compromise
+### 4. 3. Business Email Compromise
 
 #### Explore the threat of business email compromise
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980)
@@ -541,7 +550,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Botnets and DDoS attacks
+### 5. 4. Botnets and DDoS attacks
 
 #### Explore the threat of botnets and DDoS attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980)
@@ -671,7 +680,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Zero-Day Attacks
+### 6. 5. Zero-Day Attacks
 
 #### Exploring the threat of zero-day attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks?u=76281980)
@@ -782,7 +791,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 6. AI-Based cyberattacks
+### 7. 6. AI-Based cyberattacks
 
 #### Exploring the threat of AI-based cyberattacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-ai-based-cyberattacks?u=76281980)
@@ -872,7 +881,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Advanced Persistent Threats (APTs)
+### 8. 7. Advanced Persistent Threats (APTs)
 
 #### Exploring the threat of advanced persistent threats (APTs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980)
@@ -988,7 +997,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Insider Threats
+### 9. 8. Insider Threats
 
 #### Explore the risk of insider threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980)
@@ -1122,7 +1131,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Unmanaged IoT Devices
+### 10. 9. Unmanaged IoT Devices
 
 #### Explore the threat of unmanaged IoT devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980)
@@ -1256,7 +1265,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Shadow IT
+### 11. 10. Shadow IT
 
 #### Explore the threat of shadow IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980)
@@ -1390,7 +1399,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Supply Chain Attacks and Third-Party Risks
+### 12. 11. Supply Chain Attacks and Third-Party Risks
 
 #### The threat of supply chain attacks and third-party risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980)
@@ -1545,7 +1554,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 13. Conclusion
 
 #### Stay up to date on cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980)
@@ -1595,6 +1604,15 @@ created: 2026-04-21
 > **Env Vars:** sans (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Marc Menninger]]
+
+## Skills Covered
+
+- Threat & Vulnerability Management
+- Cybersecurity
 
 ## Path Context
 

@@ -32,8 +32,10 @@ tags:
   - skill/web-application-security
   - skill/wordpress
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Wordpress%20Building%20A%20Secure%20Site.md)
 
 ![Wordpress Building A Secure Site](https://media.licdn.com/dms/image/v2/D560DAQFPY5XAoOMO4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690838117691?e=2147483647&amp;v=beta&amp;t=1iYoKbkOSfocRkAgbW8risB9CtZHZMLKhmg1aMJTlak)
 
@@ -44,18 +46,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site) | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Allie Nimmons]]
-
-## Skills Covered
-
-- Web Application Security
-- WordPress
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. WordPress Structure and Vulnerabilities** (3 videos)
+- **3. 2. WordPress User Accounts** (3 videos)
+- **4. 3. SSL Certificates** (3 videos)
+- **5. 4. WordPress Plugins and Themes** (4 videos)
+- **6. 5. Comment Spam** (3 videos)
+- **7. 6. Website File and Database Backups** (2 videos)
+- **8. 7. Firewalls** (2 videos)
+- **9. 8. Ecommerce Site Security** (2 videos)
+- **10. 9. Editing WordPress Files** (5 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building a secure WordPress website
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/building-a-secure-wordpress-website-25356037?u=76281980)
@@ -86,7 +93,7 @@ created: 2026-04-21
 > **Speakers:** - these (1)
 
 
-### 1. WordPress Structure and Vulnerabilities
+### 2. 1. WordPress Structure and Vulnerabilities
 
 #### How to choose a secure WordPress hosting provider
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980)
@@ -266,7 +273,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. WordPress User Accounts
+### 3. 2. WordPress User Accounts
 
 #### How to create a secure WordPress user account
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-create-a-secure-wordpress-user-account?u=76281980)
@@ -424,7 +431,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. SSL Certificates
+### 4. 3. SSL Certificates
 
 #### How an SSL certificate keeps WordPress sites secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-an-ssl-certificate-keeps-wordpress-sites-secure?u=76281980)
@@ -549,7 +556,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. WordPress Plugins and Themes
+### 5. 4. WordPress Plugins and Themes
 
 #### How to choose secure WordPress plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-plugins?u=76281980)
@@ -762,7 +769,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Comment Spam
+### 6. 5. Comment Spam
 
 #### Why spam comments are dangerous for WordPress sites
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980)
@@ -897,7 +904,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Website File and Database Backups
+### 7. 6. Website File and Database Backups
 
 #### How to make secure WordPress website backups
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-secure-wordpress-website-backups?u=76281980)
@@ -962,7 +969,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Firewalls
+### 8. 7. Firewalls
 
 #### How firewalls make your site more secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-firewalls-make-your-site-more-secure?u=76281980)
@@ -1034,7 +1041,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Ecommerce Site Security
+### 9. 8. Ecommerce Site Security
 
 #### How to make your ecommerce site more secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980)
@@ -1125,7 +1132,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Editing WordPress Files
+### 10. 9. Editing WordPress Files
 
 #### Secure your WordPress site by tweaking the wp-config file
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980)
@@ -1305,7 +1312,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/next-steps-25357044?u=76281980)
@@ -1322,6 +1329,15 @@ created: 2026-04-21
 >
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Allie Nimmons]]
+
+## Skills Covered
+
+- Web Application Security
+- WordPress
 
 ## Path Context
 

@@ -34,8 +34,10 @@ tags:
   - skill/spring-framework
   - skill/spring-boot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Spring%206%20With%20Spring%20Boot.md)
 
 ![Learning Spring 6 With Spring Boot](https://media.licdn.com/dms/image/v2/D560DAQHIALbX3heJRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700601834997?e=2147483647&amp;v=beta&amp;t=64gJyb_H4q1NbA2LIqRsHPV1ourvE4rZDOSszv9EMMY)
 
@@ -46,23 +48,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3) | Beginner | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Frank P Moley III]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-spring-6-with-spring-boot-3-4465325)
-
-## Skills Covered
-
-- Spring Framework
-- Spring Boot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started with Spring Boot** (5 videos)
+- **3. 2. Data Access in Spring** (6 videos)
+- **4. 3. Service Tier** (3 videos)
+- **5. 4. Web Pages with Spring** (5 videos)
+- **6. 5. Exposing RESTful Endpoints** (4 videos)
+- **7. 6. Additional Topics with Spring Boot** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn the premier framework for the JVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/learn-the-premier-framework-for-the-jvm?u=76281980)
@@ -276,7 +275,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (2)
 
 
-### 1. Getting Started with Spring Boot
+### 2. 1. Getting Started with Spring Boot
 
 #### Introduction to Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980)
@@ -721,7 +720,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Data Access in Spring
+### 3. 2. Data Access in Spring
 
 #### Welcome to Spring Data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980)
@@ -1182,7 +1181,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 3. Service Tier
+### 4. 3. Service Tier
 
 #### Understand dependency injection
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980)
@@ -1511,7 +1510,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Web Pages with Spring
+### 5. 4. Web Pages with Spring
 
 #### Introduction to the controller
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980)
@@ -1765,7 +1764,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Exposing RESTful Endpoints
+### 6. 5. Exposing RESTful Endpoints
 
 #### Understanding RestController
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980)
@@ -1999,7 +1998,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Additional Topics with Spring Boot
+### 7. 6. Additional Topics with Spring Boot
 
 #### Test Spring Boot applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980)
@@ -2228,7 +2227,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980)
@@ -2291,6 +2290,20 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Frank P Moley III]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-spring-6-with-spring-boot-3-4465325)
+
+## Skills Covered
+
+- Spring Framework
+- Spring Boot
 
 ## Path Context
 

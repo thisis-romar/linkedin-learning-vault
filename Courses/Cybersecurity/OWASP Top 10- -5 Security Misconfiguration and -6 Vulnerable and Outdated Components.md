@@ -30,8 +30,10 @@ tags:
   - skill/vulnerability-assessment
   - skill/application-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-5%20Security%20Misconfiguration%20and%20-6%20Vulnerable%20and%20Outdated%20Components.md)
 
 ![OWASP Top 10: #5 Security Misconfiguration and #6 Vulnerable and Outdated Components](https://media.licdn.com/dms/image/v2/D560DAQHRz3NOlM6iZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667500810529?e=2147483647&amp;v=beta&amp;t=5GXoFbreevSEBAItn2KSqxi_LUF855UJ-5AqMiJoyhE)
 
@@ -42,18 +44,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components) | 33m | Intermediate | 178K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Caroline Wong]]
-
-## Skills Covered
-
-- Vulnerability Assessment
-- Application Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Security Misconfiguration** (6 videos)
+- **3. 2. Insecure Design** (6 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### 2021 OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Security Misconfiguration
+### 2. 1. Security Misconfiguration
 
 #### What is security misconfiguration?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980)
@@ -489,7 +489,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Insecure Design
+### 3. 2. Insecure Design
 
 #### What are vulnerable and outdated components?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-are-vulnerable-and-outdated-components?u=76281980)
@@ -768,7 +768,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Explore more of the OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980)
@@ -801,6 +801,15 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Caroline Wong]]
+
+## Skills Covered
+
+- Vulnerability Assessment
+- Application Security
 
 ## Path Context
 

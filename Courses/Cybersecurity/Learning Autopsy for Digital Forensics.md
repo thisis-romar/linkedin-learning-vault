@@ -28,34 +28,32 @@ tags:
   - topic/security
   - skill/digital-forensics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Learning%20Autopsy%20for%20Digital%20Forensics.md)
 
 ![Learning Autopsy for Digital Forensics](https://media.licdn.com/dms/image/v2/C560DAQGUv76gCM-4cA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643742664904?e=2147483647&amp;v=beta&amp;t=Ca4DShYlHixAmhuvnORyuQDFnPPDRCvL1sU7TcNNmnM)
 
 # Learning Autopsy for Digital Forensics
 
-> Anyone who’s ever used a computer has lost or accidentally deleted a file. In other instances, people often want to erase their digital tracks and hide their information and activity. If you work in digital forensics, recovering files and reconstructing a person’s activity on a computer can require finding and analyzing data from several sources.
-In this course, Bennett Hendrix III shows you the b
+> Anyone who’s ever used a computer has lost or accidentally deleted a file. In other instances, people often want to erase their digital tracks and hide their information and activity. If you work in digital forensics, recovering files and reconstructing a person’s activity on a computer can require finding and analyzing data from several sources. In this course, Bennett Hendrix III shows you the b
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics) | 1h 23m | Beginner | 24K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bennett Hendrix]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Digital Forensics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Preparing Autopsy** (7 videos)
+- **3. 2. Ingest Modules** (6 videos)
+- **4. 3. Reviewing Results** (3 videos)
+- **5. 4. Searching and Reporting** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Hey, where's the data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980)
@@ -118,7 +116,7 @@ In this course, Bennett Hendrix III shows you the b
 > **Speakers:** - h (1)
 
 
-### 1. Preparing Autopsy
+### 2. 1. Preparing Autopsy
 
 #### Introduction and installation of Autopsy
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/introduction-and-installation-of-autopsy?u=76281980)
@@ -608,7 +606,7 @@ In this course, Bennett Hendrix III shows you the b
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Ingest Modules
+### 3. 2. Ingest Modules
 
 #### Utilizing Automated Analysis in Autopsy
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980)
@@ -1210,7 +1208,7 @@ In this course, Bennett Hendrix III shows you the b
 > **Speakers:** - [illustrator] (1)
 
 
-### 3. Reviewing Results
+### 4. 3. Reviewing Results
 
 #### UI layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980)
@@ -1656,7 +1654,7 @@ In this course, Bennett Hendrix III shows you the b
 > **Speakers:** - [trainer] (1)
 
 
-### 4. Searching and Reporting
+### 5. 4. Searching and Reporting
 
 #### Searching for keywords and files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980)
@@ -2120,7 +2118,7 @@ In this course, Bennett Hendrix III shows you the b
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps: Create your own case and analyze your files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/next-steps-create-your-own-case-and-analyze-your-files?u=76281980)
@@ -2146,6 +2144,18 @@ In this course, Bennett Hendrix III shows you the b
 > **URLs:** [cyberbennett.com](https://cyberbennett.com) (1)
 > **Speakers:** - and (1)
 
+
+## Instructor
+
+- [[Bennett Hendrix]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Digital Forensics
 
 ## Path Context
 

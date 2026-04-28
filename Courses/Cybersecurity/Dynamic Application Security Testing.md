@@ -30,8 +30,10 @@ tags:
   - skill/application-security-assessments
   - skill/security-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Dynamic%20Application%20Security%20Testing.md)
 
 ![Dynamic Application Security Testing](https://media.licdn.com/dms/image/v2/C560DAQHy23Sv6I1VRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1676672978750?e=2147483647&amp;v=beta&amp;t=vdWfR_6bLWzADGPi_gBI5VBGmM188ih3tfkOFrHaUAM)
 
@@ -42,18 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing) | 3h 24m | Intermediate | 178K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jerod Brennen]]
-
-## Skills Covered
-
-- Application Security Assessments
-- Security Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Security Testing in QA** (6 videos)
+- **3. 2. Assessing Deployed Apps** (8 videos)
+- **4. 3. Web App Pen Testing** (8 videos)
+- **5. 4. Testing for the OWASP Top Ten (2021)** (11 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The importance of dynamic testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/the-importance-of-dynamic-testing?u=76281980)
@@ -117,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Security Testing in QA
+### 2. 1. Security Testing in QA
 
 #### Software quality assurance process
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980)
@@ -688,7 +690,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 2. Assessing Deployed Apps
+### 3. 2. Assessing Deployed Apps
 
 #### Manual vs. automated testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980)
@@ -1551,7 +1553,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### 3. Web App Pen Testing
+### 4. 3. Web App Pen Testing
 
 #### Scoping a web app pen test
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980)
@@ -2424,7 +2426,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Testing for the OWASP Top Ten (2021)
+### 5. 4. Testing for the OWASP Top Ten (2021)
 
 #### The OWASP Top Ten
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980)
@@ -3537,7 +3539,7 @@ created: 2026-04-21
 > **Speakers:** - [teacher] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980)
@@ -3623,6 +3625,15 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jerod Brennen]]
+
+## Skills Covered
+
+- Application Security Assessments
+- Security Testing
 
 ## Path Context
 

@@ -22,8 +22,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Digital%20Accessibility%20for%20the%20Modern%20Workplace.md)
 
 ![Digital Accessibility for the Modern Workplace](https://media.licdn.com/dms/image/v2/C4E0DAQEW682MuL-nLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618868923381?e=2147483647&amp;v=beta&amp;t=pHUF3UC93ktZE8sSQXqvPk9nZHZHfFcwEWY--YoBk8s)
 
@@ -34,14 +36,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace) | 50m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Microsoft Accessibility Team]]
-- [[Hector Minto]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Accessibility** (4 videos)
+- **3. 2. Disability Types and Solutions** (5 videos)
+- **4. 3. Developing Accessible Experiences** (5 videos)
+- **5. 4. Accessibility Best Practices** (2 videos)
+
+### 1. Introduction
 
 #### Accessibility at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-at-work?u=76281980)
@@ -84,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. Understanding Accessibility
+### 2. 1. Understanding Accessibility
 
 #### Importance of accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980)
@@ -364,7 +369,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Disability Types and Solutions
+### 3. 2. Disability Types and Solutions
 
 #### Hearing accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980)
@@ -898,7 +903,7 @@ created: 2026-04-21
 > **Speakers:** - cognitive (1)
 
 
-### 3. Developing Accessible Experiences
+### 4. 3. Developing Accessible Experiences
 
 #### Developing accessible experiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980)
@@ -1339,7 +1344,7 @@ created: 2026-04-21
 > **Speakers:** - creating (1)
 
 
-### 4. Accessibility Best Practices
+### 5. 4. Accessibility Best Practices
 
 #### Accessibility best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-best-practices?u=76281980)
@@ -1472,6 +1477,11 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
+
+## Instructor
+
+- [[Microsoft Accessibility Team]]
+- [[Hector Minto]]
 
 ## Path Context
 

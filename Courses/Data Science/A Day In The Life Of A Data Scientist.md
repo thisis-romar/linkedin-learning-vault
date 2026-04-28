@@ -28,8 +28,10 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/A%20Day%20In%20The%20Life%20Of%20A%20Data%20Scientist.md)
 
 ![A Day In The Life Of A Data Scientist](https://media.licdn.com/dms/image/v2/D4E0DAQHAWiSGH-Xj2Q/learning-public-crop_675_1200/B4EZp_FpkzGoAY-/0/1763068779676?e=2147483647&amp;v=beta&amp;t=1W_6STZWkGSc8BDvPTg6MCnlDmG0RcPeRYo2EALgHKE)
 
@@ -40,15 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157) | Beginner | 1K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Tech Career Skills
-- Career Management
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Kickstart the Day with Clarity** (3 videos)
+- **3. 2. Explore and Challenge the Data** (3 videos)
+- **4. 3. Interpret Results with Confidence** (3 videos)
+- **5. 4. Collaborate beyond the Dataset** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Focus on data that actually matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980)
@@ -96,7 +101,7 @@ created: 2026-04-21
 > **Tools:** jupyter (1)
 
 
-### 1. Kickstart the Day with Clarity
+### 2. 1. Kickstart the Day with Clarity
 
 #### Use the first hour for focus and impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/use-the-first-hour-for-focus-and-impact?u=76281980)
@@ -235,7 +240,7 @@ created: 2026-04-21
 > **[1:19](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/adapt-to-delays-and-disruptions?u=76281980&t=79)** It's about staying useful even when the schedule breaks.
 
 
-### 2. Explore and Challenge the Data
+### 3. 2. Explore and Challenge the Data
 
 #### Conduct exploratory data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/conduct-exploratory-data-analysis?u=76281980)
@@ -401,7 +406,7 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 
 
-### 3. Interpret Results with Confidence
+### 4. 3. Interpret Results with Confidence
 
 #### Decide when analysis is ready
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/decide-when-analysis-is-ready?u=76281980)
@@ -555,7 +560,7 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 
 
-### 4. Collaborate beyond the Dataset
+### 5. 4. Collaborate beyond the Dataset
 
 #### Communicate effectively across functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/communicate-effectively-across-functions?u=76281980)
@@ -719,7 +724,7 @@ created: 2026-04-21
 > **[1:08](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/present-insights-with-confidence?u=76281980&t=68)** And so that's what turns a good presentation into a decision-making moment.
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Apply habits for long-term growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/apply-habits-for-long-term-growth?u=76281980)
@@ -748,6 +753,12 @@ created: 2026-04-21
 >
 > **CLI Commands:** make (1)
 
+
+## Skills Covered
+
+- Tech Career Skills
+- Career Management
+- Data Science
 
 ## Path Context
 

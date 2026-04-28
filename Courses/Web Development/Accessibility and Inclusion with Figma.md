@@ -31,8 +31,10 @@ tags:
   - skill/digital-accessibility
   - skill/figma-software
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Accessibility%20and%20Inclusion%20with%20Figma.md)
 
 ![Accessibility and Inclusion with Figma](https://media.licdn.com/dms/image/v2/D4E0DAQGej-kCGWen5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702942360733?e=2147483647&amp;v=beta&amp;t=-fsVDINc_vFNf80PIB-w7699jpxo_qaZhgXoIApODMQ)
 
@@ -43,22 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma) | 1h 40m | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tom Green]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Digital Accessibility
-- Figma (Software)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Stark** (12 videos)
+- **3. 2. Adee** (5 videos)
+- **4. 3. Contrast Checkers** (3 videos)
+- **5. 4. Humaaans** (4 videos)
+- **6. 5. Lokalise** (2 videos)
+- **7. 6. Inclusivity Sources** (2 videos)
+- **8. Taking Accessibilty and Inclusivity Forward** (1 videos)
+
+### 1. Introduction
 
 #### Figma accessibility plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/figma-accessibility-plugins?u=76281980)
@@ -84,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - [tom] (1)
 
 
-### 1. Stark
+### 2. 1. Stark
 
 #### Accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980)
@@ -936,7 +936,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Adee
+### 3. 2. Adee
 
 #### Installing Adee
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-adee?u=76281980)
@@ -1330,7 +1330,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Contrast Checkers
+### 4. 3. Contrast Checkers
 
 #### Installing Able and Ally
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980)
@@ -1512,7 +1512,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Humaaans
+### 5. 4. Humaaans
 
 #### Inclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980)
@@ -1832,7 +1832,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Lokalise
+### 6. 5. Lokalise
 
 #### An overview of Lokalise
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-lokalise?u=76281980)
@@ -2039,7 +2039,7 @@ created: 2026-04-21
 > **Best Practices:** the key is (1)
 
 
-### 6. Inclusivity Sources
+### 7. 6. Inclusivity Sources
 
 #### An overview of inclusive design in Microsoft
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980)
@@ -2169,7 +2169,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Taking Accessibilty and Inclusivity Forward
+### 8. Taking Accessibilty and Inclusivity Forward
 
 #### Next steps for accessible, inclusive design
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980)
@@ -2204,6 +2204,19 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [tom] (1)
 
+
+## Instructor
+
+- [[Tom Green]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Digital Accessibility
+- Figma (Software)
 
 ## Path Context
 

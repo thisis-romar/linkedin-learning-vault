@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/excel-dashboards
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Dashboards%20for%20Beginners%20(2022).md)
 
 ![Excel: Dashboards for Beginners (2022)](https://media.licdn.com/dms/image/v2/C560DAQGTE1xmw56qPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1646332884572?e=2147483647&amp;v=beta&amp;t=A_YBiv9b202EKo_aNxKfrvLQ6IrASwJfdoHtDOZi1gg)
 
@@ -40,21 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022) | 45m | Beginner | 96K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jordan Goldmeier]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Excel Dashboards
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Excel Dashboard Components** (4 videos)
+- **3. 2. Creating Your First Dashboard** (5 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Transform the way you present data to leaders
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980)
@@ -287,7 +284,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Excel Dashboard Components
+### 2. 1. Excel Dashboard Components
 
 #### Store data in Excel tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980)
@@ -776,7 +773,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creating Your First Dashboard
+### 3. 2. Creating Your First Dashboard
 
 #### Get familiar with the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980)
@@ -1302,7 +1299,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Continue your Excel dashboards journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980)
@@ -1424,6 +1421,18 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 > **Speakers:** - [jordan] (1)
 
+
+## Instructor
+
+- [[Jordan Goldmeier]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Excel Dashboards
 
 ## Path Context
 

@@ -4,53 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "2a1534ab2059b926",
+        "id": "1be136a7730f8cf4",
         "type": "split",
         "children": [
           {
-            "id": "bd66be28471d0f62",
-            "type": "tabs",
-            "dimension": 50.146627565982406,
+            "id": "9914cff4354bb57e",
+            "type": "split",
+            "dimension": 69.24979389942291,
             "children": [
               {
-                "id": "6b101ece903d8e2c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Paths/Cybersecurity/Learning Paths/Become an Ethical Hacker.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Become an Ethical Hacker"
-                }
+                "id": "bd66be28471d0f62",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "6b101ece903d8e2c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Courses/DevOps/Building Monorepos On Github.md",
+                        "mode": "preview",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Building Monorepos On Github"
+                    },
+                    "group": "495f908c7dc11d20"
+                  }
+                ]
+              },
+              {
+                "id": "eba68e57d46bb170",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f0b775c06303026a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Courses/DevOps/Building Monorepos On Github.md",
+                        "options": {
+                          "collapse-filter": false,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": false,
+                          "colorGroups": [],
+                          "collapse-display": false,
+                          "showArrow": false,
+                          "textFadeMultiplier": -3,
+                          "nodeSizeMultiplier": 0.656470893970894,
+                          "lineSizeMultiplier": 4.99617983367983,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1.5,
+                          "close": false
+                        }
+                      },
+                      "icon": "lucide-git-fork",
+                      "title": "Graph of Building Monorepos On Github"
+                    },
+                    "group": "495f908c7dc11d20"
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           },
           {
-            "id": "e16612ed3e4eafa7",
+            "id": "181b5835dd6787bb",
             "type": "tabs",
-            "dimension": 49.853372434017594,
+            "dimension": 30.75020610057708,
             "children": [
               {
-                "id": "1c800f3ae24ef441",
+                "id": "2345b5864bf9b492",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "outline",
                   "state": {
-                    "file": "Courses/Cybersecurity/Blockchain for Developers- Hyperledger Fabric on Azure.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Courses/DevOps/Building Monorepos On Github.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
-                  "icon": "lucide-file",
-                  "title": "Blockchain for Developers- Hyperledger Fabric on Azure"
-                }
+                  "icon": "lucide-list",
+                  "title": "Outline of Building Monorepos On Github"
+                },
+                "group": "495f908c7dc11d20"
               }
             ]
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -107,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "b57bc359353d084a",
@@ -200,10 +255,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Courses/Cybersecurity/Blockchain for Developers- Hyperledger Fabric on Azure.md"
+                "file": "Courses/DevOps/Building Monorepos On Github.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Blockchain for Developers- Hyperledger Fabric on Azure"
+              "title": "File properties for Building Monorepos On Github"
             }
           }
         ],
@@ -211,7 +266,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 413.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,8 +280,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c800f3ae24ef441",
+  "active": "f0b775c06303026a",
   "lastOpenFiles": [
+    "Courses/DevOps/Building Monorepos On Github.md",
+    "Skills/GitHub.md",
+    "Skills/Front-End Development.md",
+    "Skills/Git.md",
+    "Courses/Software Development/Learning Git and GitHub.md",
+    "Skills/Agile Testing.md",
+    "Courses/Software Development/Git from Scratch.md",
+    "Paths/Software Development/Learning Paths/The Top Skills Engineering Professionals Have Right Now.md",
+    "Courses/Software Development/WebSocket Communications with Node and Angular.md",
+    "Courses/Software Development/Angular Essential Training.md",
+    "Skills/Arduino.md",
+    "Skills/AI for Business.md",
+    "Skills/Adobe Creative Cloud.md",
+    "Paths/Cybersecurity/Learning Paths/Become an Ethical Hacker.md",
+    "Courses/Cybersecurity/Blockchain for Developers- Hyperledger Fabric on Azure.md",
     "Courses/Data Science/Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps.md",
     "Courses/Data Science/Building an Ethereum Blockchain App- 10 Deployment and Maintenance.md",
     "Courses/Data Science/Building an Ethereum Blockchain App- 9 Testing Ethereum Apps.md",
@@ -236,22 +307,7 @@
     "Courses/Data Science/Building an Ethereum Blockchain App- 4 Ethereum Development Tools.md",
     "Courses/Data Science/Building an Ethereum Blockchain App- 3 Ethereum Development.md",
     "Courses/Data Science/Building an Ethereum Blockchain App- 2 Introduction to Ethereum.md",
-    "Paths/Cybersecurity/Learning Paths/Become an Ethical Hacker.md",
     "Courses/Cybersecurity/Ethical Hacking- Evading IDS, Firewalls, and Honeypots.md",
-    "Courses/Cybersecurity/Ethical Hacking- Session Hijacking.md",
-    "Paths/Artificial Intelligence (AI)/Learning Paths/A Developer's Guide to Google Gemini.md",
-    "Courses/Cybersecurity/Ethical Hacking- Hacking Web Servers and Web Applications.md",
-    "Courses/Cybersecurity/Ethical Hacking- Mobile Devices and Platforms.md",
-    "Courses/Cybersecurity/Ethical Hacking- Wireless Networks.md",
-    "Paths/Artificial Intelligence (AI)/Learning Paths/Advance Your AWS Development Skills- Exploring Complex Application Development.md",
-    "010 Graph Queries.md",
-    "Courses/Data Science/Introduction To Business Analytics.md",
-    "Paths/Data Science/Learning Paths/Get Ahead in Business Analytics and Analysis.md",
-    "Courses/Artificial Intelligence (AI)/Ai Applications In Healthcare A Conversation With Dr Matthew Lungren.md",
-    "Courses/Artificial Intelligence (AI)/Agentic AI Fundamentals- Architectures, Frameworks, and Applications.md",
-    "Courses/Artificial Intelligence (AI)/AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation.md",
-    "Skills/Artificial Intelligence (AI).md",
-    "Courses/Cloud Computing/Blockchain Basics.md",
     "Courses/Network and System Administration",
     "Courses/Database Management",
     "Courses/Artificial Intelligence (AI)",

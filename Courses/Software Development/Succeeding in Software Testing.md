@@ -26,8 +26,10 @@ tags:
   - topic/software-development
   - skill/software-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Succeeding%20in%20Software%20Testing.md)
 
 ![Succeeding in Software Testing](https://media.licdn.com/dms/image/v2/C560DAQGEMvzPek7SWA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1645642371002?e=2147483647&amp;v=beta&amp;t=V8rSSDYRLWaDHvV0uH7vXwyUwyNwtM529NwMxqqHxRE)
 
@@ -38,17 +40,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362) | 56m | Beginner | 64K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ash Coleman]]
-
-## Skills Covered
-
-- Software Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. You've Got the Skills** (3 videos)
+- **3. 2. Thinking Critically about Software Testing** (7 videos)
+- **4. 3. Continuing Success in Software Testing** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Possibilities are endless in testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/possibilities-are-endless-in-testing?u=76281980)
@@ -122,7 +124,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 1. You've Got the Skills
+### 2. 1. You've Got the Skills
 
 #### The greatest testers in the world
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980)
@@ -307,7 +309,7 @@ created: 2026-04-21
 > **Speakers:** - from (1)
 
 
-### 2. Thinking Critically about Software Testing
+### 3. 2. Thinking Critically about Software Testing
 
 #### The skills to succeed
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980)
@@ -923,7 +925,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Continuing Success in Software Testing
+### 4. 3. Continuing Success in Software Testing
 
 #### Thinking about your career growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/thinking-about-your-career-growth?u=76281980)
@@ -1238,7 +1240,7 @@ created: 2026-04-21
 > **Code Keywords:** from, (1), for. (1), this. (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Create your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/create-your-career?u=76281980)
@@ -1269,6 +1271,14 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - and (1)
 
+
+## Instructor
+
+- [[Ash Coleman]]
+
+## Skills Covered
+
+- Software Testing
 
 ## Path Context
 

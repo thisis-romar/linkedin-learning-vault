@@ -26,8 +26,10 @@ tags:
   - topic/web-development
   - skill/django
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20a%20Personal%20Portfolio%20with%20Django.md)
 
 ![Building a Personal Portfolio with Django](https://media.licdn.com/dms/image/v2/C4E0DAQEg0eaCiUdF5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568666236290?e=2147483647&amp;v=beta&amp;t=UoK7lhKPAjG1cMJPBuwNnOS92D6RdhMwzYJiVceO1JQ)
 
@@ -38,21 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django) | 1h 54m | Beginner | 38K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nick Walter]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Django
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Portfolio Project Overview** (1 videos)
+- **3. 2. Creating Django Apps** (3 videos)
+- **4. 3. Django and Databases** (7 videos)
+- **5. 4. Designing Your Django Project** (6 videos)
+- **6. 5. Object Details in Django** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Creating a website with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980)
@@ -121,7 +121,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 1. Portfolio Project Overview
+### 2. 1. Portfolio Project Overview
 
 #### Demo project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/demo-project-overview?u=76281980)
@@ -158,7 +158,7 @@ created: 2026-04-21
 > **Speakers:** - [nick] (1)
 
 
-### 2. Creating Django Apps
+### 3. 2. Creating Django Apps
 
 #### Starting a new project in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/starting-a-new-project-in-django?u=76281980)
@@ -580,7 +580,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 3. Django and Databases
+### 4. 3. Django and Databases
 
 #### Creating the models in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-the-models-in-django?u=76281980)
@@ -1330,7 +1330,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Designing Your Django Project
+### 5. 4. Designing Your Django Project
 
 #### Bootstrap overview and installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980)
@@ -2014,7 +2014,7 @@ created: 2026-04-21
 > **UI Navigation:** scroll down (1)
 
 
-### 5. Object Details in Django
+### 6. 5. Object Details in Django
 
 #### Connecting URLs and templates in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980)
@@ -2587,7 +2587,7 @@ created: 2026-04-21
 > **Exercise Files:** template (2)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps for Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980)
@@ -2644,6 +2644,18 @@ created: 2026-04-21
 > **Env Vars:** rest (1)
 > **Speakers:** - [nick] (1)
 
+
+## Instructor
+
+- [[Nick Walter]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Django
 
 ## Path Context
 

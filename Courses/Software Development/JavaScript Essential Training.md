@@ -60,8 +60,10 @@ tags:
   - topic/network-and-system-administration
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript%20Essential%20Training.md)
 
 ![JavaScript Essential Training](https://media.licdn.com/dms/image/v2/D560DAQEpoG_WHDxd4Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694720796291?e=2147483647&amp;v=beta&amp;t=tB95xLxaoXvwHidL8xjDPJrWoh26qQsRsDAFxdrhFIA)
 
@@ -72,22 +74,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training) | 6h 14m | Beginner | 51K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/javascript-essential-training-2832077)
-
-## Skills Covered
-
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. JavaScript: A Brief Introduction** (7 videos)
+- **3. 2. Get Up and Running with JS** (4 videos)
+- **4. 3. Objects** (15 videos)
+- **5. 4. Sidebar: String Output** (4 videos)
+- **6. 5. DOM** (11 videos)
+- **7. 6. Sidebar: Variables and Data Types** (10 videos)
+- **8. 7. Arrays** (5 videos)
+- **9. 8. Functions and Methods** (17 videos)
+- **10. 9. Events** (8 videos)
+- **11. 10. Troubleshooting and Validating JS** (2 videos)
+- **12. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### JavaScript: The soil from which the modern web grows
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980)
@@ -239,7 +243,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. JavaScript: A Brief Introduction
+### 2. 1. JavaScript: A Brief Introduction
 
 #### JavaScript: First contact
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980)
@@ -1038,7 +1042,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Get Up and Running with JS
+### 3. 2. Get Up and Running with JS
 
 #### JavaScript in an HTML document
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-in-an-html-document?u=76281980)
@@ -1361,7 +1365,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Objects
+### 4. 3. Objects
 
 #### Objects: A practical introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/objects-a-practical-introduction?u=76281980)
@@ -2496,7 +2500,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Sidebar: String Output
+### 5. 4. Sidebar: String Output
 
 #### Mix text and variables with template literals
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980)
@@ -2894,7 +2898,7 @@ created: 2026-04-21
 > **Non-Speech:** (quick music) (1)
 
 
-### 5. DOM
+### 6. 5. DOM
 
 #### DOM: The Document Object Model
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980)
@@ -3834,7 +3838,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Sidebar: Variables and Data Types
+### 7. 6. Sidebar: Variables and Data Types
 
 #### Variables: Containers for everything
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/variables-containers-for-everything?u=76281980)
@@ -4743,7 +4747,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Arrays
+### 8. 7. Arrays
 
 #### Arrays explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/arrays-explained?u=76281980)
@@ -5211,7 +5215,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Functions and Methods
+### 9. 8. Functions and Methods
 
 #### The real-world function
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/the-real-world-function?u=76281980)
@@ -7057,7 +7061,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Events
+### 10. 9. Events
 
 #### DOM events explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/dom-events-explained?u=76281980)
@@ -7865,7 +7869,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Troubleshooting and Validating JS
+### 11. 10. Troubleshooting and Validating JS
 
 #### Troubleshooting JavaScript in the browser
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/troubleshooting-javascript-in-the-browser?u=76281980)
@@ -8108,7 +8112,7 @@ created: 2026-04-21
 > **Analogies:** just like (1), similar to (1)
 
 
-### Conclusion
+### 12. Conclusion
 
 #### Next steps on your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980)
@@ -8192,6 +8196,19 @@ created: 2026-04-21
 > **Best Practices:** the key is (1)
 > **Speakers:** - oh (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/javascript-essential-training-2832077)
+
+## Skills Covered
+
+- JavaScript
 
 ## Path Context
 

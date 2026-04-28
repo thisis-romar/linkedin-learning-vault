@@ -30,8 +30,10 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/JavaScript-%20Classes.md)
 
 ![JavaScript: Classes](https://media.licdn.com/dms/image/v2/C4E0DAQEoOxp-l_P-JQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668120338686?e=2147483647&amp;v=beta&amp;t=j2eN2jUp3tEt0q2eX53Y2-ukkFJ-pcBCZg1MyOlPMLs)
 
@@ -42,21 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382) | 1h 13m | Intermediate | 44K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Defining Classes** (7 videos)
+- **3. 2. Constructors and Getters/Setters** (3 videos)
+- **4. 3. Extends and Mixins** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### JavaScript classes explored
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/javascript-classes-explored?u=76281980)
@@ -111,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Defining Classes
+### 2. 1. Defining Classes
 
 #### Introduction to classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-classes?u=76281980)
@@ -610,7 +608,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Constructors and Getters/Setters
+### 3. 2. Constructors and Getters/Setters
 
 #### Introduction to constructors
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-constructors?u=76281980)
@@ -856,7 +854,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Extends and Mixins
+### 4. 3. Extends and Mixins
 
 #### Introduction to extends and usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980)
@@ -1054,7 +1052,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980)
@@ -1076,6 +1074,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [emmanuel] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- JavaScript
 
 ## Path Context
 

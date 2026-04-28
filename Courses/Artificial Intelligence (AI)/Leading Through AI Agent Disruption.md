@@ -35,8 +35,10 @@ tags:
   - skill/ai-for-management
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leading%20Through%20AI%20Agent%20Disruption.md)
 
 ![Leading Through AI Agent Disruption](https://media.licdn.com/dms/image/v2/D560DAQH-cY-M3We3Ng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730472481729?e=2147483647&amp;v=beta&amp;t=98dTCEbr5Wm2-fsEB-VUpsnPq_ZQH3V4Df0bL_FHB0s)
 
@@ -47,20 +49,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption) | 23m | Intermediate | 89K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Andreas Welsch]]
-
-## Skills Covered
-
-- AI Agents
-- Artificial Intelligence (AI)
-- AI for Management
-- AI for Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Challenges and Opportunities of Agentic AI for Leadership** (8 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Preparing for agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/preparing-for-agentic-ai-26922359?u=76281980)
@@ -90,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 1. Challenges and Opportunities of Agentic AI for Leadership
+### 2. 1. Challenges and Opportunities of Agentic AI for Leadership
 
 #### Agentic AI and business efficiency
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980)
@@ -572,7 +569,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Anticipating what's next with AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980)
@@ -638,6 +635,17 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 > **Speakers:** - when (1)
 
+
+## Instructor
+
+- [[Andreas Welsch]]
+
+## Skills Covered
+
+- AI Agents
+- Artificial Intelligence (AI)
+- AI for Management
+- AI for Leadership
 
 ## Path Context
 

@@ -32,37 +32,55 @@ tags:
   - skill/software-design-patterns
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Complete%20Guide%20to%20Java%20Design%20Patterns-%20Creational%2C%20Behavioral%2C%20and%20Structural.md)
 
 ![Complete Guide to Java Design Patterns: Creational, Behavioral, and Structural](https://media.licdn.com/dms/image/v2/D4D0DAQEyFMOVuMzMew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711582600788?e=2147483647&amp;v=beta&amp;t=YBz0MV8GpITY1ZTexxO46TKWdUq2WVinqDqnejxcwz8)
 
 # Complete Guide to Java Design Patterns: Creational, Behavioral, and Structural
 
-> In this course, developer Bethan Palmer guides you through using creative, behavioral, and structural design patterns in Java. Find out how design patterns help you write cleaner, more elegant code, and explore a wide range of patterns with real world examples. Practice and reinforce what you learn with hands-on challenges in each chapter.
-
-The best way to learn a language is to use it in practice
+> In this course, developer Bethan Palmer guides you through using creative, behavioral, and structural design patterns in Java. Find out how design patterns help you write cleaner, more elegant code, and explore a wide range of patterns with real world examples. Practice and reinforce what you learn with hands-on challenges in each chapter. The best way to learn a language is to use it in practice.
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural) | 5h 6m | Intermediate | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bethan Palmer]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/guide-to-java-design-patterns-4512383/codespaces)
-
-## Skills Covered
-
-- Software Design Patterns
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Design Patterns** (1 videos)
+- **3. 2. Creational Design Patterns** (1 videos)
+- **4. 3. The Builder Pattern** (6 videos)
+- **5. 4. The Singleton Pattern** (5 videos)
+- **6. 5. The Prototype Pattern** (5 videos)
+- **7. 6. The Factory Method** (5 videos)
+- **8. 7. Abstract Factories** (6 videos)
+- **9. 8. Structural Design Patterns** (1 videos)
+- **10. 9. The Adapter Pattern** (5 videos)
+- **11. 10. The Bridge Pattern** (4 videos)
+- **12. 11. The Composite Pattern** (4 videos)
+- **13. 12. The Decorator Pattern** (5 videos)
+- **14. 13. The Facade Pattern** (4 videos)
+- **15. 14. The Flyweight Pattern** (4 videos)
+- **16. 15. The Proxy Pattern** (6 videos)
+- **17. 16. Behavioral Design Patterns** (1 videos)
+- **18. 17. The Chain of Responsibility Pattern** (5 videos)
+- **19. 18. The Command Pattern** (5 videos)
+- **20. 19. The Interpreter Pattern** (5 videos)
+- **21. 20. The Iterator Pattern** (5 videos)
+- **22. 21. The Mediator Pattern** (5 videos)
+- **23. 22. The Memento Pattern** (4 videos)
+- **24. 23. The Observer Pattern** (5 videos)
+- **25. 24. The State Pattern** (5 videos)
+- **26. 25. The Strategy Pattern** (5 videos)
+- **27. 26. The Template Method Pattern** (4 videos)
+- **28. 27. The Visitor Pattern** (4 videos)
+- **29. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Improve your code with design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980)
@@ -113,7 +131,7 @@ The best way to learn a language is to use it in practice
 > **Env Vars:** ide (1)
 
 
-### 1. Design Patterns
+### 2. 1. Design Patterns
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-is-a-design-pattern?u=76281980)
@@ -177,7 +195,7 @@ The best way to learn a language is to use it in practice
 > **Analogies:** imagine (1)
 
 
-### 2. Creational Design Patterns
+### 3. 2. Creational Design Patterns
 
 #### What are creational design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-creational-design-patterns?u=76281980)
@@ -228,7 +246,7 @@ The best way to learn a language is to use it in practice
 > **Analogies:** for example (1)
 
 
-### 3. The Builder Pattern
+### 4. 3. The Builder Pattern
 
 #### Avoiding complex constructors
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoiding-complex-constructors?u=76281980)
@@ -676,7 +694,7 @@ The best way to learn a language is to use it in practice
 > **Analogies:** for example (1)
 
 
-### 4. The Singleton Pattern
+### 5. 4. The Singleton Pattern
 
 #### When to use the Singleton pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980)
@@ -1023,7 +1041,7 @@ The best way to learn a language is to use it in practice
 > **CLI Commands:** cat (2)
 
 
-### 5. The Prototype Pattern
+### 6. 5. The Prototype Pattern
 
 #### Understand the Prototype pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-prototype-pattern?u=76281980)
@@ -1385,7 +1403,7 @@ The best way to learn a language is to use it in practice
 > **Definitions:** means that (1)
 
 
-### 6. The Factory Method
+### 7. 6. The Factory Method
 
 #### Understand the Factory Method pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-factory-method-pattern?u=76281980)
@@ -1840,7 +1858,7 @@ The best way to learn a language is to use it in practice
 > **Best Practices:** the key is (1)
 
 
-### 7. Abstract Factories
+### 8. 7. Abstract Factories
 
 #### Understand abstract factories
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-abstract-factories?u=76281980)
@@ -2431,7 +2449,7 @@ The best way to learn a language is to use it in practice
 > **Best Practices:** the key is (1)
 
 
-### 8. Structural Design Patterns
+### 9. 8. Structural Design Patterns
 
 #### What are structural design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-structural-design-patterns?u=76281980)
@@ -2469,7 +2487,7 @@ The best way to learn a language is to use it in practice
 > **Analogies:** for example (1)
 
 
-### 9. The Adapter Pattern
+### 10. 9. The Adapter Pattern
 
 #### Understand the Adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-adapter-pattern?u=76281980)
@@ -2834,7 +2852,7 @@ The best way to learn a language is to use it in practice
 > **Cross-References:** go back to (1)
 
 
-### 10. The Bridge Pattern
+### 11. 10. The Bridge Pattern
 
 #### Understand the Bridge pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-bridge-pattern?u=76281980)
@@ -3115,7 +3133,7 @@ The best way to learn a language is to use it in practice
 > **UI Navigation:** go to (1)
 
 
-### 11. The Composite Pattern
+### 12. 11. The Composite Pattern
 
 #### Understand the Composite pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-decorator-pattern-23224165?u=76281980)
@@ -3381,7 +3399,7 @@ The best way to learn a language is to use it in practice
 > **UI Navigation:** go to (1)
 
 
-### 12. The Decorator Pattern
+### 13. 12. The Decorator Pattern
 
 #### Understand the Decorator pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-decorator-pattern?u=76281980)
@@ -3749,7 +3767,7 @@ The best way to learn a language is to use it in practice
 > **Cross-References:** go back to (1)
 
 
-### 13. The Facade Pattern
+### 14. 13. The Facade Pattern
 
 #### Understand the Facade pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-facade-pattern?u=76281980)
@@ -3923,7 +3941,7 @@ The best way to learn a language is to use it in practice
 > **Cross-References:** go back to (1)
 
 
-### 14. The Flyweight Pattern
+### 15. 14. The Flyweight Pattern
 
 #### Understand the Flyweight pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980)
@@ -4224,7 +4242,7 @@ The best way to learn a language is to use it in practice
 > **Best Practices:** the key is (1)
 
 
-### 15. The Proxy Pattern
+### 16. 15. The Proxy Pattern
 
 #### Understand the Proxy pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-proxy-pattern?u=76281980)
@@ -4624,7 +4642,7 @@ The best way to learn a language is to use it in practice
 > **Cross-References:** go back to (1)
 
 
-### 16. Behavioral Design Patterns
+### 17. 16. Behavioral Design Patterns
 
 #### What are behavioral design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-behavioral-design-patterns?u=76281980)
@@ -4648,7 +4666,7 @@ The best way to learn a language is to use it in practice
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-behavioral-design-patterns?u=76281980&t=36)** Some other object patterns are more focused on encapsulating behavior in a single object, and then delegating requests to it.
 
 
-### 17. The Chain of Responsibility Pattern
+### 18. 17. The Chain of Responsibility Pattern
 
 #### Understand the Chain of Responsibility pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-chain-of-responsibility-pattern?u=76281980)
@@ -5040,7 +5058,7 @@ The best way to learn a language is to use it in practice
 > **Best Practices:** remember to (1)
 
 
-### 18. The Command Pattern
+### 19. 18. The Command Pattern
 
 #### Understand the Command pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-command-pattern?u=76281980)
@@ -5427,7 +5445,7 @@ The best way to learn a language is to use it in practice
 > **Cross-References:** go back to (1)
 
 
-### 19. The Interpreter Pattern
+### 20. 19. The Interpreter Pattern
 
 #### Understand the Interpreter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980)
@@ -5793,7 +5811,7 @@ The best way to learn a language is to use it in practice
 > **Definitions:** is a  (1)
 
 
-### 20. The Iterator Pattern
+### 21. 20. The Iterator Pattern
 
 #### Understand the Iterator pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-iterator-pattern?u=76281980)
@@ -6212,7 +6230,7 @@ The best way to learn a language is to use it in practice
 > **Cross-References:** go back to (2)
 
 
-### 21. The Mediator Pattern
+### 22. 21. The Mediator Pattern
 
 #### Understand the Mediator pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-mediator-pattern?u=76281980)
@@ -6619,7 +6637,7 @@ The best way to learn a language is to use it in practice
 > **UI Navigation:** go to (1)
 
 
-### 22. The Memento Pattern
+### 23. 22. The Memento Pattern
 
 #### Understand the Memento pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-memento-pattern?u=76281980)
@@ -6894,7 +6912,7 @@ The best way to learn a language is to use it in practice
 > **UI Navigation:** go to (1)
 
 
-### 23. The Observer Pattern
+### 24. 23. The Observer Pattern
 
 #### Understand the Observer pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-observer-pattern?u=76281980)
@@ -7222,7 +7240,7 @@ The best way to learn a language is to use it in practice
 > **Definitions:** is called (1)
 
 
-### 24. The State Pattern
+### 25. 24. The State Pattern
 
 #### Understand the State pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-state-pattern?u=76281980)
@@ -7588,7 +7606,7 @@ The best way to learn a language is to use it in practice
 > **Cross-References:** go back to (2)
 
 
-### 25. The Strategy Pattern
+### 26. 25. The Strategy Pattern
 
 #### Understand the Strategy pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980)
@@ -7907,7 +7925,7 @@ The best way to learn a language is to use it in practice
 > **UI Navigation:** go to (1)
 
 
-### 26. The Template Method Pattern
+### 27. 26. The Template Method Pattern
 
 #### Understand the Template Method pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980)
@@ -8130,7 +8148,7 @@ The best way to learn a language is to use it in practice
 > **Exercise Files:** template (1)
 
 
-### 27. The Visitor Pattern
+### 28. 27. The Visitor Pattern
 
 #### Understand the Visitor pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-visitor-pattern?u=76281980)
@@ -8476,7 +8494,7 @@ The best way to learn a language is to use it in practice
 > **Cross-References:** go back to (1)
 
 
-### Conclusion
+### 29. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980)
@@ -8499,6 +8517,20 @@ The best way to learn a language is to use it in practice
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=31)** Good luck with your continued learning.
 
+
+## Instructor
+
+- [[Bethan Palmer]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/guide-to-java-design-patterns-4512383/codespaces)
+
+## Skills Covered
+
+- Software Design Patterns
+- Java
 
 ## Path Context
 

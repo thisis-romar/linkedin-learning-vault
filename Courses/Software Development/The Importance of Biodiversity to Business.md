@@ -30,8 +30,10 @@ tags:
   - skill/sustainable-business-strategy
   - skill/nature-conservation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/The%20Importance%20of%20Biodiversity%20to%20Business.md)
 
 ![The Importance of Biodiversity to Business](https://media.licdn.com/dms/image/v2/D560DAQExRLm84EhvYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715191016647?e=2147483647&amp;v=beta&amp;t=DAdQwW-QEgmwt-fsPLxj6sH_G26iQv26hNsUWyRn94E)
 
@@ -42,19 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business) | 29m | 58K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Bennell]]
-
-## Skills Covered
-
-- Biodiversity
-- Sustainable Business Strategy
-- Nature Conservation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Biodiversity and the Drivers of Biodiversity Loss** (2 videos)
+- **3. 2. Biodiversity Loss and the Danger for Business** (5 videos)
+- **4. 3. Building a Nature Positive Business** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why is biodiversity important to business?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/why-is-biodiversity-important-to-business-23761625?u=76281980)
@@ -85,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - biodiversity (1)
 
 
-### 1. Understanding Biodiversity and the Drivers of Biodiversity Loss
+### 2. 1. Understanding Biodiversity and the Drivers of Biodiversity Loss
 
 #### Three levels of biodiversity
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980)
@@ -220,7 +220,7 @@ created: 2026-04-21
 > **Speakers:** - biodiversity (1)
 
 
-### 2. Biodiversity Loss and the Danger for Business
+### 3. 2. Biodiversity Loss and the Danger for Business
 
 #### Biodiversity-related risks to business
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980)
@@ -457,7 +457,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Building a Nature Positive Business
+### 4. 3. Building a Nature Positive Business
 
 #### The benefits of being a nature-positive company
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980)
@@ -581,7 +581,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Tackle biodiversity loss and become a nature-positive company
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/tackle-biodiversity-loss-and-become-a-nature-positive-company-23759642?u=76281980)
@@ -603,6 +603,16 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - biodiversity (1)
 
+
+## Instructor
+
+- [[David Bennell]]
+
+## Skills Covered
+
+- Biodiversity
+- Sustainable Business Strategy
+- Nature Conservation
 
 ## Path Context
 

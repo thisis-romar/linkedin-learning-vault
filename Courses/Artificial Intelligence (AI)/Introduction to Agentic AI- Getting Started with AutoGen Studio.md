@@ -31,8 +31,10 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Agentic%20AI-%20Getting%20Started%20with%20AutoGen%20Studio.md)
 
 ![Introduction to Agentic AI: Getting Started with AutoGen Studio](https://media.licdn.com/dms/image/v2/D4D0DAQGdgiKpsUcTLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732668205114?e=2147483647&amp;v=beta&amp;t=i_Hm9pIEuGG3bryjFlFDETpTUUovMAj3HuyDxLs5Rhs)
 
@@ -43,18 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio) | 1h 6m | Beginner | 17K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jose Latorre]]
-
-## Skills Covered
-
-- AI Agents
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to AutoGen Studio** (4 videos)
+- **3. 2. Building Your First AI Agent** (2 videos)
+- **4. 3. Designing Agent Workflows** (2 videos)
+- **5. 4. Giving Tools to Your Agents** (3 videos)
+- **6. 5. Putting It All Together** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Create smart agents with agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/create-smart-agents-with-agentic-ai?u=76281980)
@@ -114,7 +117,7 @@ created: 2026-04-21
 > **Code Keywords:** module (1)
 
 
-### 1. Introduction to AutoGen Studio
+### 2. 1. Introduction to AutoGen Studio
 
 #### Agentic AI basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-ai-basics?u=76281980)
@@ -396,7 +399,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 2. Building Your First AI Agent
+### 3. 2. Building Your First AI Agent
 
 #### How to build your first AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980)
@@ -626,7 +629,7 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 
 
-### 3. Designing Agent Workflows
+### 4. 3. Designing Agent Workflows
 
 #### Agentic workflows in AutoGen Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-workflows-in-autogen-studio?u=76281980)
@@ -872,7 +875,7 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 
 
-### 4. Giving Tools to Your Agents
+### 5. 4. Giving Tools to Your Agents
 
 #### Tools and function calling
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/tools-and-function-calling?u=76281980)
@@ -1183,7 +1186,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. Putting It All Together
+### 6. 5. Putting It All Together
 
 #### Creating a useful agentic workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980)
@@ -1528,7 +1531,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Build more with AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/build-more-with-autogen?u=76281980)
@@ -1575,6 +1578,15 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Exercise Files:** github repo (1)
 
+
+## Instructor
+
+- [[Jose Latorre]]
+
+## Skills Covered
+
+- AI Agents
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -41,8 +41,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20Getting%20Started.md)
 
 ![Deep Learning Getting Started](https://media.licdn.com/dms/image/v2/D560DAQFK_x_qDpO55Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705688041751?e=2147483647&amp;v=beta&amp;t=tS5Y2Il8w9vSGgsllmuy8tKczb9lItCRb1kUSuS9M2w)
 
@@ -53,23 +55,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started) | Intermediate | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-- Deep Learning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to Deep Learning** (6 videos)
+- **3. 2. Neural Network Architecture** (5 videos)
+- **4. 3. Training a Neural Network** (10 videos)
+- **5. 4. Deep Learning Example 1** (6 videos)
+- **6. 5. Deep Learning Example 2** (4 videos)
+- **7. 6. Deep Learning Exercise** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with deep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980)
@@ -245,7 +244,7 @@ created: 2026-04-21
 > **URLs:** [anaconda.com](https://anaconda.com) (1)
 
 
-### 1. Introduction to Deep Learning
+### 2. 1. Introduction to Deep Learning
 
 #### What is deep learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980)
@@ -635,7 +634,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Neural Network Architecture
+### 3. 2. Neural Network Architecture
 
 #### The input layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/the-input-layer?u=76281980)
@@ -928,7 +927,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Training a Neural Network
+### 4. 3. Training a Neural Network
 
 #### Setup and initialization
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/setup-and-initialization?u=76281980)
@@ -1441,7 +1440,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Deep Learning Example 1
+### 5. 4. Deep Learning Example 1
 
 #### The Iris classification problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/the-iris-classification-problem?u=76281980)
@@ -1790,7 +1789,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 5. Deep Learning Example 2
+### 6. 5. Deep Learning Example 2
 
 #### Spam classification problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980)
@@ -1989,7 +1988,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Deep Learning Exercise
+### 7. 6. Deep Learning Exercise
 
 #### Exercise problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980)
@@ -2139,7 +2138,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Extending your deep learning education
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/extending-your-deep-learning-education?u=76281980)
@@ -2164,6 +2163,20 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - [kumaran] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
+- Deep Learning
 
 ## Path Context
 

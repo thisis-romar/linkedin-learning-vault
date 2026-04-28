@@ -34,8 +34,10 @@ tags:
   - skill/r-programming-language
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/R%20Code%20Challenges-%20Data%20Science.md)
 
 ![R Code Challenges: Data Science](https://media.licdn.com/dms/image/v2/D560DAQHtFNVHKSaikA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721939711133?e=2147483647&amp;v=beta&amp;t=McNeGQ_cT2wim78sqzFYP0Is5sB6s1Lsb1NxRx4RBNY)
 
@@ -46,18 +48,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science) | 57m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mark Niemann-Ross]]
-
-## Skills Covered
-
-- R (Programming Language)
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Data Science Basics with R** (4 videos)
+- **3. 2. Data Science Concepts with R** (3 videos)
+- **4. 3. Think Like an R Programmer** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Practice with R programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/practice-with-r-programming?u=76281980)
@@ -137,7 +138,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Data Science Basics with R
+### 2. 1. Data Science Basics with R
 
 #### Solution: Subsetting
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-subsetting?u=76281980)
@@ -459,7 +460,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Data Science Concepts with R
+### 3. 2. Data Science Concepts with R
 
 #### Solution: Fizz buzz
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-fizz-buzz?u=76281980)
@@ -774,7 +775,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Think Like an R Programmer
+### 4. 3. Think Like an R Programmer
 
 #### Solution: Play rock, paper, scissors, lizard, spock
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-play-rock-paper-scissors-lizard-spock?u=76281980)
@@ -1128,7 +1129,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/next-steps?u=76281980)
@@ -1156,6 +1157,15 @@ created: 2026-04-21
 > **CLI Commands:** find (2)
 > **Speakers:** - [mark] (1)
 
+
+## Instructor
+
+- [[Mark Niemann-Ross]]
+
+## Skills Covered
+
+- R (Programming Language)
+- Data Science
 
 ## Path Context
 

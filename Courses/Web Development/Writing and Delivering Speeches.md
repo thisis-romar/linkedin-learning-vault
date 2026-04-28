@@ -28,8 +28,10 @@ tags:
   - skill/public-speaking
   - skill/speech-writing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Writing%20and%20Delivering%20Speeches.md)
 
 ![Writing and Delivering Speeches](https://media.licdn.com/dms/image/v2/C4E0DAQEl4-19Nlj05g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1617389989822?e=2147483647&amp;v=beta&amp;t=zFv8UbbFfvpAZyEV7-1ZzyoMdlOZYIHfIbiF8m84G5M)
 
@@ -40,22 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches) | 40m | 100K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daisy Lovelace]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Public Speaking
-- Speech Writing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Before You Write and Deliver Your Speech** (2 videos)
+- **3. 2. Writing and Delivering Speeches for Various Scenarios** (8 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### So, you're giving a speech
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/so-you-re-giving-a-speech?u=76281980)
@@ -145,7 +141,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. Before You Write and Deliver Your Speech
+### 2. 1. Before You Write and Deliver Your Speech
 
 #### Understand your target audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/understand-your-target-audience?u=76281980)
@@ -324,7 +320,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 2. Writing and Delivering Speeches for Various Scenarios
+### 3. 2. Writing and Delivering Speeches for Various Scenarios
 
 #### Staging your virtual speech
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/staging-your-virtual-speech?u=76281980)
@@ -1051,7 +1047,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Deliver with confidence
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/deliver-with-confidence?u=76281980)
@@ -1120,6 +1116,19 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Daisy Lovelace]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Public Speaking
+- Speech Writing
 
 ## Path Context
 

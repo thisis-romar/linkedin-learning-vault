@@ -35,35 +35,31 @@ tags:
   - skill/powershell
   - skill/it-automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/PowerShell-%20Automating%20IT%20Administration.md)
 
 ![PowerShell: Automating IT Administration](https://media.licdn.com/dms/image/v2/D560DAQEOJ1jz7OFisA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692300887654?e=2147483647&amp;v=beta&amp;t=tiv2FqKIfPekseFzWZkEalm_THkCjGtWLiDsK8ew37g)
 
 # PowerShell: Automating IT Administration
 
-> Learn how to automate routine IT tasks and free up more time for complex troubleshooting and innovation. Join instructor Liam Cleary as he covers next-level scripting using prebuilt PowerShell modules, conditional logic, and loops.
-Liam shows how to handle errors, enable delegated and remote administration, and run jobs in the background. Plus, learn how to schedule tasks and jobs so you don't hav
+> Learn how to automate routine IT tasks and free up more time for complex troubleshooting and innovation. Join instructor Liam Cleary as he covers next-level scripting using prebuilt PowerShell modules, conditional logic, and loops. Liam shows how to handle errors, enable delegated and remote administration, and run jobs in the background. Plus, learn how to schedule tasks and jobs so you don't hav
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration) | 3h 22m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Liam Cleary]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Powershell
-- IT Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Creating Reusable Code Using PowerShell** (7 videos)
+- **3. 2. Remote and Delegated Administration** (6 videos)
+- **4. 3. Creating and Scheduling Tasks and Jobs** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### IT automation with PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/it-automation-with-powershell?u=76281980)
@@ -110,7 +106,7 @@ Liam shows how to handle errors, enable delegated and remote administration, and
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Creating Reusable Code Using PowerShell
+### 2. 1. Creating Reusable Code Using PowerShell
 
 #### Why automate IT administration tasks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980)
@@ -1342,7 +1338,7 @@ Liam shows how to handle errors, enable delegated and remote administration, and
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-error-handling?u=76281980)
 
 
-### 2. Remote and Delegated Administration
+### 3. 2. Remote and Delegated Administration
 
 #### Understanding delegated administration in PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980)
@@ -2846,7 +2842,7 @@ Liam shows how to handle errors, enable delegated and remote administration, and
 > **UI Navigation:** go to (1)
 
 
-### 3. Creating and Scheduling Tasks and Jobs
+### 4. 3. Creating and Scheduling Tasks and Jobs
 
 #### Understanding PowerShell background jobs
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980)
@@ -3566,7 +3562,7 @@ Liam shows how to handle errors, enable delegated and remote administration, and
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/creating-scheduled-tasks-within-windows?u=76281980)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980)
@@ -3606,6 +3602,19 @@ Liam shows how to handle errors, enable delegated and remote administration, and
 > **Analogies:** such as (1)
 > **Speakers:** - [liam] (1)
 
+
+## Instructor
+
+- [[Liam Cleary]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Powershell
+- IT Automation
 
 ## Path Context
 

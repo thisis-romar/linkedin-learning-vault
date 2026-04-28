@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/business-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Digital%20Business%20Analysis.md)
 
 ![Learning Digital Business Analysis](https://media.licdn.com/dms/image/v2/C560DAQGQIv267Z3y9w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567136150598?e=2147483647&amp;v=beta&amp;t=61Gf4ZMNpFp15mJE8ojzoXGaC6wB7bTZZTNMOGtvIYo)
 
@@ -40,21 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis) | 1h 26m | Intermediate | 58K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Angela Wick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Business Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Transforming Your Projects: Part 1, Human Interaction** (4 videos)
+- **3. 2. Transforming Your Projects: Part 2, Data Tools** (5 videos)
+- **4. 3. Impact to Requirements and Business Analysis** (5 videos)
+- **5. 4. Technique Highlights** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Transform your business analyst career
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/transform-your-business-analyst-career?u=76281980)
@@ -335,7 +334,7 @@ created: 2026-04-21
 > **Speakers:** - today (1)
 
 
-### 1. Transforming Your Projects: Part 1, Human Interaction
+### 2. 1. Transforming Your Projects: Part 1, Human Interaction
 
 #### Natural language generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980)
@@ -624,7 +623,7 @@ created: 2026-04-21
 > **Speakers:** - could (1)
 
 
-### 2. Transforming Your Projects: Part 2, Data Tools
+### 3. 2. Transforming Your Projects: Part 2, Data Tools
 
 #### Biometrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980)
@@ -954,7 +953,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 3. Impact to Requirements and Business Analysis
+### 4. 3. Impact to Requirements and Business Analysis
 
 #### Linking the capabilities together
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-the-capabilities-together?u=76281980)
@@ -1287,7 +1286,7 @@ created: 2026-04-21
 > **Speakers:** - digital (1)
 
 
-### 4. Technique Highlights
+### 5. 4. Technique Highlights
 
 #### Experiments and hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980)
@@ -1547,7 +1546,7 @@ created: 2026-04-21
 > **Speakers:** - digital (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/next-steps?u=76281980)
@@ -1581,6 +1580,18 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - the (1)
 
+
+## Instructor
+
+- [[Angela Wick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Business Analysis
 
 ## Path Context
 

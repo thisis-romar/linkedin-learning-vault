@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Five%20Advanced%20Challenges%20and%20Concepts.md)
 
 ![JavaScript: Five Advanced Challenges and Concepts](https://media.licdn.com/dms/image/v2/D560DAQEcH-wHrMMtCg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902498364?e=2147483647&amp;v=beta&amp;t=lumdz7uYylrY_Kv13T4dR_vIZQsdvNjhGDNyP7Lrvps)
 
@@ -41,22 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts) | 1h 51m | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advance-your-skills-with-javascript-4452106/codespaces)
-
-## Skills Covered
-
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Nested Relationships** (5 videos)
+- **3. 2. Classes and Inheritance** (5 videos)
+- **4. 3. Singletons and Proxy Objects** (5 videos)
+- **5. 4. Observer Pattern** (5 videos)
+- **6. 5. Reactive Objects and Factories** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Advance your skills with JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advance-your-skills-with-javascript?u=76281980)
@@ -164,7 +163,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. Nested Relationships
+### 2. 1. Nested Relationships
 
 #### Managing nested comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-nested-comments?u=76281980)
@@ -618,7 +617,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
-### 2. Classes and Inheritance
+### 3. 2. Classes and Inheritance
 
 #### Managing users and capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-users-and-capabilities?u=76281980)
@@ -1183,7 +1182,7 @@ created: 2026-04-21
 > **Non-Speech:** (electronic music intro) (1)
 
 
-### 3. Singletons and Proxy Objects
+### 4. 3. Singletons and Proxy Objects
 
 #### Building robust applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/building-robust-applications?u=76281980)
@@ -1711,7 +1710,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Observer Pattern
+### 5. 4. Observer Pattern
 
 #### Push info to many nodes
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/push-info-to-many-nodes?u=76281980)
@@ -2144,7 +2143,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 5. Reactive Objects and Factories
+### 6. 5. Reactive Objects and Factories
 
 #### Keeping a shopping cart up to date
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980)
@@ -2604,7 +2603,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Wrapping up
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980)
@@ -2633,6 +2632,19 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 > **Speakers:** - and (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advance-your-skills-with-javascript-4452106/codespaces)
+
+## Skills Covered
+
+- JavaScript
 
 ## Path Context
 

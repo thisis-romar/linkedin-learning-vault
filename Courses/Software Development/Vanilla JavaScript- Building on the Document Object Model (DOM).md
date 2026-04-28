@@ -30,8 +30,10 @@ tags:
   - skill/document-object-model-dom
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Vanilla%20JavaScript-%20Building%20on%20the%20Document%20Object%20Model%20(DOM).md)
 
 ![Vanilla JavaScript: Building on the Document Object Model (DOM)](https://media.licdn.com/dms/image/v2/C560DAQEL1YDA4pMuSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624636988037?e=2147483647&amp;v=beta&amp;t=8rrIP4NN2s_q3nQuIvT0KiT86gGqhsjREA3oLRT4JuY)
 
@@ -42,23 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom) | 1h 47m | Advanced | 401K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[W. Scott Means]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/vanilla-js-DOM-2876283)
-
-## Skills Covered
-
-- Document Object Model (DOM)
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Key DOM Concepts** (6 videos)
+- **3. 2. HTML to DOM** (9 videos)
+- **4. 3. Transforming the DOM** (9 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn the JavaScript DOM inside and out
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980)
@@ -109,7 +105,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Key DOM Concepts
+### 2. 1. Key DOM Concepts
 
 #### The Node interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980)
@@ -1008,7 +1004,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. HTML to DOM
+### 3. 2. HTML to DOM
 
 #### Where does the DOM come from?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980)
@@ -2235,7 +2231,7 @@ created: 2026-04-21
 > **Exercise Files:** source code (1)
 
 
-### 3. Transforming the DOM
+### 4. 3. Transforming the DOM
 
 #### Traversing the tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/traversing-the-tree?u=76281980)
@@ -3072,7 +3068,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Level up your DOM skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/level-up-your-dom-skills?u=76281980)
@@ -3099,6 +3095,20 @@ created: 2026-04-21
 > **Env Vars:** dom (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[W. Scott Means]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/vanilla-js-DOM-2876283)
+
+## Skills Covered
+
+- Document Object Model (DOM)
+- JavaScript
 
 ## Path Context
 

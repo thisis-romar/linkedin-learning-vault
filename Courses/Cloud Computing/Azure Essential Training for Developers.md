@@ -31,8 +31,10 @@ tags:
   - skill/cloud-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Essential%20Training%20for%20Developers.md)
 
 ![Azure Essential Training for Developers](https://media.licdn.com/dms/image/v2/C4E0DAQEutJ0-e7sxwA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1582829114124?e=2147483647&amp;v=beta&amp;t=DWwW8WJC33Fv9C48BDUoGPBsUPb9fB0HoWDPAnlBdIg)
 
@@ -43,22 +45,26 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers) | 2h 43m | Beginner | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adrienne Braganza Tacke]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cloud Development
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Cloud Fundamentals** (1 videos)
+- **3. 2. Core Azure Concepts** (5 videos)
+- **4. 3. Azure App Services** (2 videos)
+- **5. 4. Azure Storage** (3 videos)
+- **6. 5. Azure Functions** (5 videos)
+- **7. 6. Virtual Machines and Batch** (3 videos)
+- **8. 7. Kubernetes and Containers in Azure** (3 videos)
+- **9. 8. Securing your applications** (3 videos)
+- **10. 9. Monitoring your applications** (2 videos)
+- **11. 10. Optimizing your applications** (3 videos)
+- **12. 11. AI in Azure** (4 videos)
+- **13. 12. Interesting Advancements for Developers** (3 videos)
+- **14. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Azure for Developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980)
@@ -90,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - cloud (1)
 
 
-### 1. Cloud Fundamentals
+### 2. 1. Cloud Fundamentals
 
 #### Cloud Models and Service Types
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980)
@@ -173,7 +179,7 @@ created: 2026-04-21
 > **Speakers:** - by (1)
 
 
-### 2. Core Azure Concepts
+### 3. 2. Core Azure Concepts
 
 #### What is an Azure Subscription?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980)
@@ -553,7 +559,7 @@ created: 2026-04-21
 > **Speakers:** - azure (1)
 
 
-### 3. Azure App Services
+### 4. 3. Azure App Services
 
 #### What is an Azure App Service?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980)
@@ -710,7 +716,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Azure Storage
+### 5. 4. Azure Storage
 
 #### What is Azure Blob Storage?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980)
@@ -1008,7 +1014,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 5. Azure Functions
+### 6. 5. Azure Functions
 
 #### What is an Azure Function?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980)
@@ -1443,7 +1449,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 6. Virtual Machines and Batch
+### 7. 6. Virtual Machines and Batch
 
 #### Provision a Virtual Machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980)
@@ -1750,7 +1756,7 @@ created: 2026-04-21
 > **Speakers:** - azure (1)
 
 
-### 7. Kubernetes and Containers in Azure
+### 8. 7. Kubernetes and Containers in Azure
 
 #### Container and Kubernetes Basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980)
@@ -2007,7 +2013,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 
 
-### 8. Securing your applications
+### 9. 8. Securing your applications
 
 #### Authentication options in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980)
@@ -2233,7 +2239,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 9. Monitoring your applications
+### 10. 9. Monitoring your applications
 
 #### Using Azure Monitor
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-monitor?u=76281980)
@@ -2363,7 +2369,7 @@ created: 2026-04-21
 > **Speakers:** - application (1)
 
 
-### 10. Optimizing your applications
+### 11. 10. Optimizing your applications
 
 #### Using Azure Redis for caching
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980)
@@ -2572,7 +2578,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 11. AI in Azure
+### 12. 11. AI in Azure
 
 #### Azure AI and Responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980)
@@ -2923,7 +2929,7 @@ created: 2026-04-21
 > **File Paths:** node.js (1)
 
 
-### 12. Interesting Advancements for Developers
+### 13. 12. Interesting Advancements for Developers
 
 #### Load testing on Azure App Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980)
@@ -3273,7 +3279,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 14. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980)
@@ -3315,6 +3321,19 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - that (1)
 
+
+## Instructor
+
+- [[Adrienne Braganza Tacke]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cloud Development
+- Microsoft Azure
 
 ## Path Context
 

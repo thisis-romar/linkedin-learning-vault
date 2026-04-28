@@ -18,8 +18,10 @@ tags:
   - topic/security
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Learning%20Voip%20And%20Unified%20Communications.md)
 
 ![Learning Voip And Unified Communications](https://media.licdn.com/dms/image/v2/C4E0DAQG9vHFWWRICbA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608574648575?e=2147483647&amp;v=beta&amp;t=C-HUd-4ctv2YlfdiQpl6orcLic_Trrwnh8_OM8c1Wkk)
 
@@ -32,7 +34,16 @@ created: 2026-04-21
 
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Unified Communications Overview** (4 videos)
+- **3. 2. Components and Integration** (4 videos)
+- **4. 3. Media Gateway** (5 videos)
+- **5. 4. Business Integration** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Providing Voice over Internet Protocol (VoIP) telephony
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/providing-voice-over-internet-protocol-voip-telephony-14173322?u=76281980)
@@ -90,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Unified Communications Overview
+### 2. 1. Unified Communications Overview
 
 #### Unified communications (UC) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980)
@@ -340,7 +351,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Components and Integration
+### 3. 2. Components and Integration
 
 #### UC components
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980)
@@ -592,7 +603,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Media Gateway
+### 4. 3. Media Gateway
 
 #### Passing telephony data through gateways
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980)
@@ -881,7 +892,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Business Integration
+### 5. 4. Business Integration
 
 #### Plan a unified communications system
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980)
@@ -1283,7 +1294,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980)

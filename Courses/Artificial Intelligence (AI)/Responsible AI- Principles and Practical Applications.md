@@ -52,8 +52,10 @@ tags:
   - skill/business-process-automation
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Principles%20and%20Practical%20Applications.md)
 
 ![Responsible AI: Principles and Practical Applications](https://media.licdn.com/dms/image/v2/D560DAQGqvNybNKSEMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666985466726?e=2147483647&amp;v=beta&amp;t=rogHWrwNZuO6vy0MaduyRMdtqtNxmPb_IcT1F0u7Hag)
 
@@ -64,25 +66,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications) | 1h 17m | Beginner | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brandie Nonnecke]]
-- [[Jill Finlayson]]
-- [[Tsu-Jae Liu]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Responsible AI
-- Business Process Automation
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is AI and How Is It Used?** (2 videos)
+- **3. 2. AI Benefits and Risks** (2 videos)
+- **4. 3. AI Application Domains** (5 videos)
+- **5. 4. Developing Responsible AI** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Overview of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/overview-of-responsible-ai?u=76281980)
@@ -107,7 +102,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 1. What Is AI and How Is It Used?
+### 2. 1. What Is AI and How Is It Used?
 
 #### Introduction to artificial intelligence (AI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980)
@@ -271,7 +266,7 @@ created: 2026-04-21
 > **Analogies:** such as (1), for example (1)
 
 
-### 2. AI Benefits and Risks
+### 3. 2. AI Benefits and Risks
 
 #### Benefits of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980)
@@ -460,7 +455,7 @@ created: 2026-04-21
 > **Cross-References:** later in (1)
 
 
-### 3. AI Application Domains
+### 4. 3. AI Application Domains
 
 #### Introduction to AI experts
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980)
@@ -930,7 +925,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 4. Developing Responsible AI
+### 5. 4. Developing Responsible AI
 
 #### Responsible and trustworthy AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980)
@@ -1211,7 +1206,7 @@ created: 2026-04-21
 > **Env Vars:** ibm (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980)
@@ -1258,6 +1253,22 @@ created: 2026-04-21
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** in other words (1)
 
+
+## Instructor
+
+- [[Brandie Nonnecke]]
+- [[Jill Finlayson]]
+- [[Tsu-Jae Liu]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Responsible AI
+- Business Process Automation
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -37,8 +37,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/technical-solution-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20OpenAI%20API-%20Building%20a%20Real-World%20Solution.md)
 
 ![Hands-On OpenAI API: Building a Real-World Solution](https://media.licdn.com/dms/image/v2/D4D0DAQH1trVwWKdtyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709333885301?e=2147483647&amp;v=beta&amp;t=eF5iTlfk5-4UA5K68mmOSZE_7Tx9CG0uQspF3LN5lrU)
 
@@ -49,25 +51,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution) | 59m | Beginner | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rodrigo Díaz Concha]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-openai-api-building-a-real-world-solution-3854057/codespaces)
-
-## Skills Covered
-
-- OpenAI API
-- OpenAI Products
-- Artificial Intelligence (AI)
-- Technical Solution Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Using the Audio API to Transcribe Audio and the Chat Completions API to Create Documents** (4 videos)
+- **3. 2. Building the KinderLogger Assistant with the Assistants API** (4 videos)
+- **4. 3. Implementing a Retrieval Augmented Generation (RAG) Process in the Assistant** (4 videos)
+- **5. 4. Implementing the Web API to Expose the Assistant** (6 videos)
+- **6. 5. Identifying Harmful Content Using the Moderations API** (4 videos)
+- **7. 6. Creating the KinderLogger GPT** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building a real-world AI app
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980)
@@ -243,7 +240,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 1. Using the Audio API to Transcribe Audio and the Chat Completions API to Create Documents
+### 2. 1. Using the Audio API to Transcribe Audio and the Chat Completions API to Create Documents
 
 #### Extracting rich information from audio messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980)
@@ -494,7 +491,7 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 
 
-### 2. Building the KinderLogger Assistant with the Assistants API
+### 3. 2. Building the KinderLogger Assistant with the Assistants API
 
 #### Bringing the KinderLogger assistant idea to life
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/bringing-the-kinderlogger-assistant-idea-to-life?u=76281980)
@@ -726,7 +723,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Implementing a Retrieval Augmented Generation (RAG) Process in the Assistant
+### 4. 3. Implementing a Retrieval Augmented Generation (RAG) Process in the Assistant
 
 #### Using private documents and data in the KinderLogger project
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-private-documents-and-data-in-the-kinderlogger-project?u=76281980)
@@ -912,7 +909,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Implementing the Web API to Expose the Assistant
+### 5. 4. Implementing the Web API to Expose the Assistant
 
 #### Exposing the assistant as a service
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980)
@@ -1289,7 +1286,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Identifying Harmful Content Using the Moderations API
+### 6. 5. Identifying Harmful Content Using the Moderations API
 
 #### Applying responsible AI practices in KinderLogger
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980)
@@ -1450,7 +1447,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Creating the KinderLogger GPT
+### 7. 6. Creating the KinderLogger GPT
 
 #### Using a GPT as a frontend for the KinderLogger project
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-a-gpt-as-a-frontend-for-the-kinderlogger-project?u=76281980)
@@ -1631,7 +1628,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980)
@@ -1670,6 +1667,22 @@ created: 2026-04-21
 > **CLI Commands:** python (1)
 > **Speakers:** - [rodrigo] (1)
 
+
+## Instructor
+
+- [[Rodrigo Díaz Concha]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-openai-api-building-a-real-world-solution-3854057/codespaces)
+
+## Skills Covered
+
+- OpenAI API
+- OpenAI Products
+- Artificial Intelligence (AI)
+- Technical Solution Development
 
 ## Path Context
 

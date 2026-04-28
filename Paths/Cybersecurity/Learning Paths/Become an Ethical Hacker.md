@@ -19,92 +19,86 @@ courses_visited: 2
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: "[[Ethical Hacking Introduction To Ethical Hacking]]"
-    last_opened:
+  - course: '[[Ethical Hacking Introduction To Ethical Hacking]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Footprinting and Reconnaissance]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Footprinting and Reconnaissance]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Scanning Networks]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Scanning Networks]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Enumeration]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Enumeration]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Vulnerability Analysis]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Vulnerability Analysis]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- System Hacking]]"
-    last_opened:
+  - course: '[[Ethical Hacking- System Hacking]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- The Complete Malware Analysis Process]]"
-    last_opened:
+  - course: '[[Ethical Hacking- The Complete Malware Analysis Process]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Sniffers]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Sniffers]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Social Engineering]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Social Engineering]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Denial of Service]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Denial of Service]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Session Hijacking]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Session Hijacking]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Evading IDS, Firewalls, and Honeypots]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Evading IDS, Firewalls, and Honeypots]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Hacking Web Servers and Web Applications]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Hacking Web Servers and Web Applications]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Wireless Networks]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Wireless Networks]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Mobile Devices and Platforms]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Mobile Devices and Platforms]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Hacking IoT Devices]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Hacking IoT Devices]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Cryptography]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Cryptography]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- Cloud Computing]]"
-    last_opened:
+  - course: '[[Ethical Hacking- Cloud Computing]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Ethical Hacking- SQL Injection]]"
-    last_opened:
+  - course: '[[Ethical Hacking- SQL Injection]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: ethical-hacking-evading-ids-firewalls-and-honeypots
-    last_opened: 2026-04-22T19:57:13.260Z
-    open_count: 2
-    videos: []
-  - course: ethical-hacking-session-hijacking
-    last_opened: 2026-04-22T19:57:03.057Z
-    open_count: 1
-    videos: []
-created: 2026-04-21
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Learning%20Paths/Become%20an%20Ethical%20Hacker.md)
 
 # Become an Ethical Hacker
 

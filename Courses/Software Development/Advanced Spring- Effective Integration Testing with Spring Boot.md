@@ -33,8 +33,10 @@ tags:
   - skill/integration-testing
   - skill/spring-boot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Spring-%20Effective%20Integration%20Testing%20with%20Spring%20Boot.md)
 
 ![Advanced Spring: Effective Integration Testing with Spring Boot](https://media.licdn.com/dms/image/v2/C4D0DAQG2UdkVhaQJXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614197905403?e=2147483647&amp;v=beta&amp;t=LZJsPStGZctcDG14_uwJtIrdmMsYBsuP525HgtVWZgA)
 
@@ -45,22 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot) | 1h 14m | Advanced | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Terezija Semenski]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Integration Testing
-- Spring Boot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Explore the Power of Spring Boot Libraries** (2 videos)
+- **3. 2. Integration Testing Against a Real Database** (4 videos)
+- **4. 3. Integration Testing Against Services with Caching Support** (4 videos)
+- **5. 4. Integration Testing Against a Web Controller** (3 videos)
+- **6. 5. Integration Testing for the Client App** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Take advantage of Spring events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/take-advantage-of-spring-events?u=76281980)
@@ -160,7 +159,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Explore the Power of Spring Boot Libraries
+### 2. 1. Explore the Power of Spring Boot Libraries
 
 #### Creating a Spring Boot application from start.spring.io
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980)
@@ -285,7 +284,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 2. Integration Testing Against a Real Database
+### 3. 2. Integration Testing Against a Real Database
 
 #### Effective ways to test your data access
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980)
@@ -611,7 +610,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Integration Testing Against Services with Caching Support
+### 4. 3. Integration Testing Against Services with Caching Support
 
 #### Writing integration tests for the service layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980)
@@ -894,7 +893,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Integration Testing Against a Web Controller
+### 5. 4. Integration Testing Against a Web Controller
 
 #### Which type of web controller responsibilities to test?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980)
@@ -1155,7 +1154,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Integration Testing for the Client App
+### 6. 5. Integration Testing for the Client App
 
 #### Integration testing without making an external API call
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980)
@@ -1556,7 +1555,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### More Spring Boot integration testing resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/more-spring-boot-integration-testing-resources-10133853?u=76281980)
@@ -1583,6 +1582,19 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Terezija Semenski]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Integration Testing
+- Spring Boot
 
 ## Path Context
 

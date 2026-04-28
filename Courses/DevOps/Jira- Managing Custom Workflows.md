@@ -31,34 +31,33 @@ tags:
   - skill/workflow-management
   - skill/jira
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira-%20Managing%20Custom%20Workflows.md)
 
 ![Jira: Managing Custom Workflows](https://media.licdn.com/dms/image/v2/D560DAQGJQsMwQ2WQqQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705541045172?e=2147483647&amp;v=beta&amp;t=u5IghhJ488z95uTS70PBPZCwQYfjRa-Zq9j8OqfcDFQ)
 
 # Jira: Managing Custom Workflows
 
-> In this course, you’ll learn how to create smart workflows that your business, development, and support teams will love to use with the popular project management tool Jira. Find out how a well-designed Jira workflow can—and should—complement a team’s process, not dictate it.Instructor Rachel Wright provides an in-depth overview of the skills required to design, plan, and build workflows  as both 
+> In this course, you’ll learn how to create smart workflows that your business, development, and support teams will love to use with the popular project management tool Jira. Find out how a well-designed Jira workflow can—and should—complement a team’s process, not dictate it.Instructor Rachel Wright provides an in-depth overview of the skills required to design, plan, and build workflows as both a
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows) | 1h 41m | Beginner | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rachel Wright]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Workflow Management
-- Jira
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Using Custom Workflows** (6 videos)
+- **3. 2. Planning Custom Workflows** (7 videos)
+- **4. 3. Building Custom Workflows** (5 videos)
+- **5. 4. Extending Workflow Capabilities** (7 videos)
+- **6. 5. Best Practices** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Custom workflows in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/custom-workflows-in-jira?u=76281980)
@@ -176,7 +175,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 1. Using Custom Workflows
+### 2. 1. Using Custom Workflows
 
 #### Important terms and definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980)
@@ -738,7 +737,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 2. Planning Custom Workflows
+### 3. 2. Planning Custom Workflows
 
 #### Using a phased approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-a-phased-approach?u=76281980)
@@ -1189,7 +1188,7 @@ created: 2026-04-21
 > **[0:43](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-interview-and-design?u=76281980&t=43)** With global transitions, there's no need for alternate transitions unless you're trying to perform an action like updating data in the background.
 
 
-### 3. Building Custom Workflows
+### 4. 3. Building Custom Workflows
 
 #### Translating requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/translating-requirements?u=76281980)
@@ -1481,7 +1480,7 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 
 
-### 4. Extending Workflow Capabilities
+### 5. 4. Extending Workflow Capabilities
 
 #### Using triggers, conditions, validators, and post functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980)
@@ -2102,7 +2101,7 @@ created: 2026-04-21
 > **Tools:** jira (1)
 
 
-### 5. Best Practices
+### 6. 5. Best Practices
 
 #### Workflow recommendations
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980)
@@ -2467,7 +2466,7 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980)
@@ -2508,6 +2507,19 @@ created: 2026-04-21
 > **Exercise Files:** download the (1), exercise files (1)
 > **Best Practices:** don't forget (1)
 
+
+## Instructor
+
+- [[Rachel Wright]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Workflow Management
+- Jira
 
 ## Path Context
 

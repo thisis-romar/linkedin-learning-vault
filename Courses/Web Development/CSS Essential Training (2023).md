@@ -44,8 +44,10 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS%20Essential%20Training%20(2023).md)
 
 ![CSS Essential Training (2023)](https://media.licdn.com/dms/image/v2/D560DAQFbwOobZ3xBZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691438871844?e=2147483647&amp;v=beta&amp;t=klsoR7dlyYB5m4UfG6pT9o2eu4xK-9agetTIp67MNtQ)
 
@@ -56,21 +58,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023) | 5h 26m | Beginner | 23K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Christina Truong]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (11 videos)
+- **3. 2. CSS Core Concepts** (16 videos)
+- **4. 3. The CSS Box Model** (12 videos)
+- **5. 4. Layouts: Float and Position** (7 videos)
+- **6. 5. Layouts: Flexbox and Grid** (13 videos)
+- **7. 6. Typography** (12 videos)
+- **8. 7. Layouts: Fluid and Responsive** (10 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980)
@@ -158,7 +160,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### HTML and CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/html-and-css?u=76281980)
@@ -1136,7 +1138,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. CSS Core Concepts
+### 3. 2. CSS Core Concepts
 
 #### CSS specifications and the W3C
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/css-specifications-and-the-w3c?u=76281980)
@@ -2596,7 +2598,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. The CSS Box Model
+### 4. 3. The CSS Box Model
 
 #### Intro to the CSS box model
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-the-css-box-model?u=76281980)
@@ -3679,7 +3681,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### 4. Layouts: Float and Position
+### 5. 4. Layouts: Float and Position
 
 #### Intro to CSS Layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-css-layout?u=76281980)
@@ -4275,7 +4277,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Layouts: Flexbox and Grid
+### 6. 5. Layouts: Flexbox and Grid
 
 #### Intro to Grid and Flexbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-grid-and-flexbox?u=76281980)
@@ -5294,7 +5296,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1), don't forget (1)
 
 
-### 6. Typography
+### 7. 6. Typography
 
 #### Typography for the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/typography-for-the-web?u=76281980)
@@ -6421,7 +6423,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 7. Layouts: Fluid and Responsive
+### 8. 7. Layouts: Fluid and Responsive
 
 #### Intro to responsive design
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980)
@@ -7404,7 +7406,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Continuing beyond the essentials with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/continuing-beyond-the-essentials-with-css?u=76281980)
@@ -7429,6 +7431,18 @@ created: 2026-04-21
 > **Analogies:** such as (2), just like (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Christina Truong]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

@@ -27,8 +27,10 @@ tags:
   - topic/web-development
   - skill/django
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Django%20Project-%20Build%20High-Traffic%20Websites%20with%20Django.md)
 
 ![Advanced Django Project: Build High-Traffic Websites with Django](https://media.licdn.com/dms/image/v2/C560DAQHAN9_TtAzwNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1641428255827?e=2147483647&amp;v=beta&amp;t=OoNht7OMh7OnP5UaLtCek_xaeQ_WnzIyhRG7q929WbE)
 
@@ -39,22 +41,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django) | 1h 52m | Advanced | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ryan Mitchell]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced_django_3000142)
-
-## Skills Covered
-
-- Django
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started with Django** (3 videos)
+- **3. 2. Models and Fields** (5 videos)
+- **4. 3. Views** (3 videos)
+- **5. 4. Interacting with the Database** (3 videos)
+- **6. 5. Templates** (4 videos)
+- **7. 6. Improving Performance** (4 videos)
+- **8. 7. Staying Connected** (2 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Tackling projects with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980)
@@ -234,7 +235,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Getting Started with Django
+### 2. 1. Getting Started with Django
 
 #### The world of Python and Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980)
@@ -529,7 +530,7 @@ created: 2026-04-21
 > **Tools:** command line (1)
 
 
-### 2. Models and Fields
+### 3. 2. Models and Fields
 
 #### Validations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980)
@@ -1140,7 +1141,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Views
+### 4. 3. Views
 
 #### Raising exceptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/raising-exceptions?u=76281980)
@@ -1525,7 +1526,7 @@ created: 2026-04-21
 > **Prerequisites:** required to (1)
 
 
-### 4. Interacting with the Database
+### 5. 4. Interacting with the Database
 
 #### Deleting models
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/deleting-models?u=76281980)
@@ -1877,7 +1878,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. Templates
+### 6. 5. Templates
 
 #### The Django template language
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980)
@@ -2362,7 +2363,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Improving Performance
+### 7. 6. Improving Performance
 
 #### Securing authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980)
@@ -2799,7 +2800,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Staying Connected
+### 8. 7. Staying Connected
 
 #### Finding and using third-party packages
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980)
@@ -2968,7 +2969,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980)
@@ -3032,6 +3033,19 @@ created: 2026-04-21
 > **Cross-References:** in the last (1)
 > **Speakers:** - [ryan] (1)
 
+
+## Instructor
+
+- [[Ryan Mitchell]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced_django_3000142)
+
+## Skills Covered
+
+- Django
 
 ## Path Context
 

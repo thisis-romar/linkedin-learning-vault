@@ -34,8 +34,10 @@ tags:
   - skill/data-literacy
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Big%20Data%20in%20the%20Age%20of%20AI.md)
 
 ![Big Data in the Age of AI](https://media.licdn.com/dms/image/v2/D560DAQGX7n4al0qACA/learning-public-crop_675_1200/B56ZyI1O3AHYAY-/0/1771822182439?e=2147483647&amp;v=beta&amp;t=vOf3EjHPP3B7fhuzuOWtA3l9csnfWE56LV9uZXUYCQ8)
 
@@ -46,24 +48,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408) | 2h 38m | Beginner | 28K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barton Poulson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Big Data Analytics
-- Artificial Intelligence (AI)
-- Data Literacy
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Defining Big Data** (7 videos)
+- **3. 2. How Is Big Data Used?** (3 videos)
+- **4. 3. Ethics in Big Data** (6 videos)
+- **5. 4. Data Logistics** (4 videos)
+- **6. 5. Analyzing Big Data** (9 videos)
+- **7. Continuing Your Big Data in AI Learning Journey** (1 videos)
+
+### 1. Introduction
 
 #### Big data in the age of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980)
@@ -95,7 +92,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Defining Big Data
+### 2. 1. Defining Big Data
 
 #### The volume, velocity, and variety of big data
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980)
@@ -919,7 +916,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. How Is Big Data Used?
+### 3. 2. How Is Big Data Used?
 
 #### Big data for competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980)
@@ -1301,7 +1298,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Ethics in Big Data
+### 4. 3. Ethics in Big Data
 
 #### Big data and privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980)
@@ -1966,7 +1963,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Data Logistics
+### 5. 4. Data Logistics
 
 #### Structured, semi-structured, and unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980)
@@ -2316,7 +2313,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Analyzing Big Data
+### 6. 5. Analyzing Big Data
 
 #### Challenges with data preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980)
@@ -3149,7 +3146,7 @@ created: 2026-04-21
 > **Speakers:** - [host] (1)
 
 
-### Continuing Your Big Data in AI Learning Journey
+### 7. Continuing Your Big Data in AI Learning Journey
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980)
@@ -3192,6 +3189,21 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [barton] (1)
 
+
+## Instructor
+
+- [[Barton Poulson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Big Data Analytics
+- Artificial Intelligence (AI)
+- Data Literacy
+- Data Science
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Outlook%20Desktop%20(Microsoft%20365).md)
 
 ![Learning Outlook Desktop (Microsoft 365)](https://media.licdn.com/dms/image/v2/C4D0DAQElJVbEcraezQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679597245435?e=2147483647&amp;v=beta&amp;t=V0e_3Gh9lwGGiXzIis8EqMmmx3xvtbMRHUB-31ftvjU)
 
@@ -40,17 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561) | 48m | Beginner | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jess Stratton]]
-
-## Skills Covered
-
-- Microsoft Outlook
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Get Started** (2 videos)
+- **3. 2. Work with Email** (5 videos)
+- **4. 3. Work with Contacts** (2 videos)
+- **5. 4. Work with the Calendar** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Stay organized and collaborate with Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980)
@@ -125,7 +128,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Get Started
+### 2. 1. Get Started
 
 #### Add an email account
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980)
@@ -292,7 +295,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Work with Email
+### 3. 2. Work with Email
 
 #### Read your mail
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980)
@@ -727,7 +730,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Work with Contacts
+### 4. 3. Work with Contacts
 
 #### Create a new contact
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-new-contact?u=76281980)
@@ -892,7 +895,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Work with the Calendar
+### 5. 4. Work with the Calendar
 
 #### Navigate the calendar
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-calendar?u=76281980)
@@ -1239,7 +1242,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Learn more features of Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980)
@@ -1269,6 +1272,14 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - my (1)
 
+
+## Instructor
+
+- [[Jess Stratton]]
+
+## Skills Covered
+
+- Microsoft Outlook
 
 ## Path Context
 

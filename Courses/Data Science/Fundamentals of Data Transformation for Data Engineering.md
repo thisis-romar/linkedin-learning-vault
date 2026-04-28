@@ -32,36 +32,31 @@ tags:
   - skill/data-engineering
   - skill/data-transformation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Fundamentals%20of%20Data%20Transformation%20for%20Data%20Engineering.md)
 
 ![Fundamentals of Data Transformation for Data Engineering](https://media.licdn.com/dms/image/v2/D560DAQGHrL3djyQWzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718396996140?e=2147483647&amp;v=beta&amp;t=Q5THMwNIRY5I0DIxHzXG6T6rSoqVzn8BpCQkvy_ehHM)
 
 # Fundamentals of Data Transformation for Data Engineering
 
-> Fundamentals of Data Transformation with pandas and DuckDB SQL presents the most essential concepts and best practices in a clear and concise format that allows students to side-step the noise and complexity. While this course is wide rather than narrow, it was designed to help you understand your options for development and make an informed choice about where to drill down.
-Instructor Matt Palmer
+> Fundamentals of Data Transformation with pandas and DuckDB SQL presents the most essential concepts and best practices in a clear and concise format that allows students to side-step the noise and complexity. While this course is wide rather than narrow, it was designed to help you understand your options for development and make an informed choice about where to drill down. Instructor Matt Palmer
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering) | 3h 30m | Intermediate | 24K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Matt Palmer]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/fundamentals-of-data-transformation-4554074/codespaces)
-
-## Skills Covered
-
-- Data Engineering
-- Data Transformation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Setup and Beyond** (4 videos)
+- **3. 2. Data Transformation with SQL and DuckDB** (12 videos)
+- **4. 3. Data Transformation with Python and pandas** (10 videos)
+- **5. Conclusion** (3 videos)
+
+### 1. Introduction
 
 #### Welcome to data transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/welcome-to-data-transformation?u=76281980)
@@ -259,7 +254,7 @@ Instructor Matt Palmer
 > **Prerequisites:** you'll need (1), set up (1)
 
 
-### 1. Setup and Beyond
+### 2. 1. Setup and Beyond
 
 #### Codespaces and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980)
@@ -591,7 +586,7 @@ Instructor Matt Palmer
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Data Transformation with SQL and DuckDB
+### 3. 2. Data Transformation with SQL and DuckDB
 
 #### DuckDB basics and query structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/duckdb-basics-query-structure?u=76281980)
@@ -2698,7 +2693,7 @@ Instructor Matt Palmer
 > **Code Identifiers:** lis_has_any (1)
 
 
-### 3. Data Transformation with Python and pandas
+### 4. 3. Data Transformation with Python and pandas
 
 #### DataFrame basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980)
@@ -4732,7 +4727,7 @@ Instructor Matt Palmer
 > **Cross-References:** in the next (2)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### What you learned, how to practice and grow, and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980)
@@ -5023,6 +5018,20 @@ Instructor Matt Palmer
 > **Cross-References:** in the last (1)
 > **Documentation:** the documentation (1)
 
+
+## Instructor
+
+- [[Matt Palmer]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/fundamentals-of-data-transformation-4554074/codespaces)
+
+## Skills Covered
+
+- Data Engineering
+- Data Transformation
 
 ## Path Context
 

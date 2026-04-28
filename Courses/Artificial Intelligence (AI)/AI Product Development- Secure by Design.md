@@ -34,8 +34,10 @@ tags:
   - skill/software-development-security
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Development-%20Secure%20by%20Design.md)
 
 ![AI Product Development: Secure by Design](https://media.licdn.com/dms/image/v2/D4E0DAQEdArvevem1aw/learning-public-crop_675_1200/B4EZWHKflXG0Ak-/0/1741729430477?e=2147483647&amp;v=beta&amp;t=7Tjnj11HiiUV3qoS-vrhzNLXqf6noutnZKejmTjHeVI)
 
@@ -46,20 +48,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design) | 2h 27m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Reet Kaur]]
-
-## Skills Covered
-
-- Secure Coding
-- AI Software Development
-- Software Development Security
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1.  Foundations of AI Security, Governance, Risk, and Compliance** (6 videos)
+- **3. 2. AI Risk Management Frameworks** (5 videos)
+- **4. 3. AI Security Threats and Adversarial Attacks** (5 videos)
+- **5. 4. Secure AI Deployment and Access Controls** (4 videos)
+- **6. 5. Securing AI in the Software Development Lifecycle** (4 videos)
+- **7. 6. AI Security Case Studies and Playbooks** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Weave security into your AI product design process
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/weave-security-into-your-ai-product-design-process?u=76281980)
@@ -85,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - artificial (1)
 
 
-### 1.  Foundations of AI Security, Governance, Risk, and Compliance
+### 2. 1.  Foundations of AI Security, Governance, Risk, and Compliance
 
 #### Why governance, risk, and compliance matter from day one
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980)
@@ -563,7 +565,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. AI Risk Management Frameworks
+### 3. 2. AI Risk Management Frameworks
 
 #### Intro to Risk Management Framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980)
@@ -930,7 +932,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. AI Security Threats and Adversarial Attacks
+### 4. 3. AI Security Threats and Adversarial Attacks
 
 #### What is the AI lifecycle?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980)
@@ -1396,7 +1398,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Secure AI Deployment and Access Controls
+### 5. 4. Secure AI Deployment and Access Controls
 
 #### Access control for AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980)
@@ -1753,7 +1755,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Securing AI in the Software Development Lifecycle
+### 6. 5. Securing AI in the Software Development Lifecycle
 
 #### Building Secure CI/CD Pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980)
@@ -2090,7 +2092,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. AI Security Case Studies and Playbooks
+### 7. 6. AI Security Case Studies and Playbooks
 
 #### Case studies: Lessons from AI security incidents
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980)
@@ -2279,7 +2281,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Conclusion and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980)
@@ -2324,6 +2326,17 @@ created: 2026-04-21
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Reet Kaur]]
+
+## Skills Covered
+
+- Secure Coding
+- AI Software Development
+- Software Development Security
+- Artificial Intelligence (AI)
 
 ## Path Context
 

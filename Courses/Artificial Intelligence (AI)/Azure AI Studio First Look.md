@@ -31,8 +31,10 @@ tags:
   - skill/azure-ai-studio
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20Studio%20First%20Look.md)
 
 ![Azure AI Studio First Look](https://media.licdn.com/dms/image/v2/D560DAQGm1K4R1IJsxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694541586465?e=2147483647&amp;v=beta&amp;t=QPeebqW846-zd9AAGAEyCjja6ZGiv7xj-QW84VSBvBc)
 
@@ -43,18 +45,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look) | 17m | Beginner | 204K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Walt Ritscher]]
-
-## Skills Covered
-
-- Azure AI Studio
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1.  Work with Azure Open AI Studio** (4 videos)
+
+### 1. Introduction
 
 #### Exploring Azure OpenAI Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/exploring-azure-openai-studio?u=76281980)
@@ -75,7 +73,7 @@ created: 2026-04-21
 > **Speakers:** - microsoft (1)
 
 
-### 1.  Work with Azure Open AI Studio
+### 2. 1.  Work with Azure Open AI Studio
 
 #### Azure AI Studio and the Azure Portal
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980)
@@ -543,6 +541,15 @@ created: 2026-04-21
 > **File Paths:** imagegen.py (1)
 > **CLI Commands:** python (1)
 
+
+## Instructor
+
+- [[Walt Ritscher]]
+
+## Skills Covered
+
+- Azure AI Studio
+- Microsoft Azure
 
 ## Path Context
 

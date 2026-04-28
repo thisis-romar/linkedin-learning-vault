@@ -35,8 +35,10 @@ tags:
   - skill/react-js
   - skill/web-interface-design
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React.js-%20Building%20an%20Interface.md)
 
 ![React.js: Building an Interface](https://media.licdn.com/dms/image/v2/C4E0DAQHGQTQ2dHgcJA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619021949350?e=2147483647&amp;v=beta&amp;t=wmS11QWoUO2hLsPSQ4QOAqs67__mDIUIx37D7xBk0Qs)
 
@@ -47,23 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484) | 1h 40m | Intermediate | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/react-interface-2880067)
-
-## Skills Covered
-
-- React.js
-- Web Interface Design
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Set Up and Install** (5 videos)
+- **3. 2. Getting Started** (4 videos)
+- **4. 3. Sort and Search** (3 videos)
+- **5. 4. Mutating Data** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why React is so important
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980)
@@ -157,7 +154,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1), install (1)
 
 
-### 1. Set Up and Install
+### 2. 1. Set Up and Install
 
 #### Installing requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980)
@@ -809,7 +806,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 2. Getting Started
+### 3. 2. Getting Started
 
 #### Your first component
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980)
@@ -1171,7 +1168,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 3. Sort and Search
+### 4. 3. Sort and Search
 
 #### Passing data to a component
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing-data-to-a-component?u=76281980)
@@ -1450,7 +1447,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Mutating Data
+### 5. 4. Mutating Data
 
 #### useEffect and useCallback Hooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980)
@@ -2139,7 +2136,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980)
@@ -2178,6 +2175,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [ray] (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/react-interface-2880067)
+
+## Skills Covered
+
+- React.js
+- Web Interface Design
 
 ## Path Context
 

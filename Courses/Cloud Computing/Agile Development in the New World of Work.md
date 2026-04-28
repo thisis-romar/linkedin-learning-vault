@@ -22,8 +22,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Agile%20Development%20in%20the%20New%20World%20of%20Work.md)
 
 ![Agile Development in the New World of Work](https://media.licdn.com/dms/image/v2/C560DAQESAUiWwlw0vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1623693022244?e=2147483647&amp;v=beta&amp;t=VMx34Qgs6r52Q1HzpVrXY_H9B_pEsV45tCuDLUUOxMQ)
 
@@ -34,13 +36,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work) | 30m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Reginald Valentine]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Agile Basics** (1 videos)
+- **3. 2. Making Work Flow** (8 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Agile to the rescue
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-to-the-rescue-27874129?u=76281980)
@@ -77,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 1. Agile Basics
+### 2. 1. Agile Basics
 
 #### Core agile framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980)
@@ -143,7 +148,7 @@ created: 2026-04-21
 > **Speakers:** - some (1)
 
 
-### 2. Making Work Flow
+### 3. 2. Making Work Flow
 
 #### Build a team backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/build-a-team-backlog?u=76281980)
@@ -573,7 +578,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Agile team work
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980)
@@ -614,6 +619,10 @@ created: 2026-04-21
 > **Code Keywords:** require (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Reginald Valentine]]
 
 ## Path Context
 

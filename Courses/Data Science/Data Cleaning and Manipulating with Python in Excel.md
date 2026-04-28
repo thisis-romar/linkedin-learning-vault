@@ -38,8 +38,10 @@ tags:
   - skill/data-cleaning
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Cleaning%20and%20Manipulating%20with%20Python%20in%20Excel.md)
 
 ![Data Cleaning and Manipulating with Python in Excel](https://media.licdn.com/dms/image/v2/D4E0DAQFFvPbNc2rMCw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726528104511?e=2147483647&amp;v=beta&amp;t=UTcTNInBh6S_steKS9hzn5LDigRtycW-pHBWfmB0Zcw)
 
@@ -50,24 +52,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel) | 1h 53m | Intermediate | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Chris French]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Manipulation
-- Data Cleaning
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Intro to Data Cleaning** (6 videos)
+- **3. 2. Advanced Data Cleaning Techniques** (6 videos)
+- **4. 3. Data Manipulation** (6 videos)
+- **5. 4. Advanced Data Manipulation** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Leverage Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/leverage-python-in-excel?u=76281980)
@@ -130,7 +126,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Intro to Data Cleaning
+### 2. 1. Intro to Data Cleaning
 
 #### Dataframes
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980)
@@ -839,7 +835,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise file (1)
 
 
-### 2. Advanced Data Cleaning Techniques
+### 3. 2. Advanced Data Cleaning Techniques
 
 #### Cleaning text data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980)
@@ -1470,7 +1466,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Data Manipulation
+### 4. 3. Data Manipulation
 
 #### Data aggregation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-aggregation?u=76281980)
@@ -2177,7 +2173,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 4. Advanced Data Manipulation
+### 5. 4. Advanced Data Manipulation
 
 #### Merging and joining
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/merging-and-joining?u=76281980)
@@ -3008,7 +3004,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Your next steps with Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980)
@@ -3043,6 +3039,21 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Chris French]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Manipulation
+- Data Cleaning
+- Microsoft Excel
 
 ## Path Context
 

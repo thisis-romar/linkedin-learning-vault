@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/market-research
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Market%20Research%20Foundations.md)
 
 ![Market Research Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQGBhYyLO49QYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1578096374665?e=2147483647&amp;v=beta&amp;t=gw8hPGbnFyT0fGPqYmVBjUc22_-NIRTyaY8tRY-5Uc4)
 
@@ -40,17 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations) | 54m | Beginner | 124K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sarah Weise]]
-
-## Skills Covered
-
-- Market Research
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Qualitative Research** (6 videos)
+- **3. 2. Quantitative Research** (3 videos)
+- **4. 3. Research Design: Creating Your Marketing Research Plan** (4 videos)
+- **5. 4. Communicating Your Research: Your Deliverables** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of market research
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/the-power-of-market-research?u=76281980)
@@ -127,7 +130,7 @@ created: 2026-04-21
 > **Speakers:** - market (1)
 
 
-### 1. Qualitative Research
+### 2. 1. Qualitative Research
 
 #### Focus groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/focus-groups?u=76281980)
@@ -595,7 +598,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Quantitative Research
+### 3. 2. Quantitative Research
 
 #### Surveys
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/surveys-2?u=76281980)
@@ -821,7 +824,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 3. Research Design: Creating Your Marketing Research Plan
+### 4. 3. Research Design: Creating Your Marketing Research Plan
 
 #### Articulating your research goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980)
@@ -1109,7 +1112,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Communicating Your Research: Your Deliverables
+### 5. 4. Communicating Your Research: Your Deliverables
 
 #### Presenting your research: A crash course in persuasive techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980)
@@ -1356,7 +1359,7 @@ created: 2026-04-21
 > **Speakers:** - think (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/next-steps?u=76281980)
@@ -1395,6 +1398,14 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Sarah Weise]]
+
+## Skills Covered
+
+- Market Research
 
 ## Path Context
 

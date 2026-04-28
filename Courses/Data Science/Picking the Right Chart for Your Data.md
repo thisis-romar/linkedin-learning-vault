@@ -33,8 +33,10 @@ tags:
   - skill/data-storytelling
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Picking%20the%20Right%20Chart%20for%20Your%20Data.md)
 
 ![Picking the Right Chart for Your Data](https://media.licdn.com/dms/image/v2/C4E0DAQEl17oNmUV-2Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668499236?e=2147483647&amp;v=beta&amp;t=xWq_rFgjerQOlx0ioDiRqC0W0DzB2w7BryVNITTLdA0)
 
@@ -45,22 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data) | 1h 21m | Beginner | 85K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bill Shander]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Storytelling
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting to KWYRWTS** (2 videos)
+- **3. 2. The Standards** (14 videos)
+- **4. 3. Beyond the Standards** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Choose wisely
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/choose-wisely?u=76281980)
@@ -108,7 +105,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting to KWYRWTS
+### 2. 1. Getting to KWYRWTS
 
 #### What are the KWYs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/what-are-the-kwys?u=76281980)
@@ -356,7 +353,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. The Standards
+### 3. 2. The Standards
 
 #### Chart categories
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/chart-categories-23470796?u=76281980)
@@ -1833,7 +1830,7 @@ created: 2026-04-21
 > **Speakers:** - [male (1)
 
 
-### 3. Beyond the Standards
+### 4. 3. Beyond the Standards
 
 #### To cumulative or not cumulative?
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/to-cumulative-or-not-cumulative?u=76281980)
@@ -2121,7 +2118,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Wrapping it up
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/wrapping-it-up?u=76281980)
@@ -2151,6 +2148,19 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [bill] (1)
 
+
+## Instructor
+
+- [[Bill Shander]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Storytelling
+- Data Visualization
 
 ## Path Context
 

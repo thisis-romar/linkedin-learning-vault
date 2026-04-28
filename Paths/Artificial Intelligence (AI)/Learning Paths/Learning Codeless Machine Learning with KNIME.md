@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -41,8 +41,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Learning%20Codeless%20Machine%20Learning%20with%20KNIME.md)
 
 # Learning Codeless Machine Learning with KNIME
 

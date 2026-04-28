@@ -22,8 +22,10 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Lean%20Technology%20Strategy-%20Running%20Agile%20at%20Scale.md)
 
 ![Lean Technology Strategy: Running Agile at Scale](https://media.licdn.com/dms/image/v2/C4E0DAQEIJ8IYR2mCrQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567114357988?e=2147483647&amp;v=beta&amp;t=DANGiQv4iEsyZ6ylrvIQHn4GN1kpAwJuEd2_O995VXQ)
 
@@ -34,13 +36,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale) | 46m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jez Humble]]
-
 ## Table of Contents
 
-### 1. Running Agile at Scale
+### Chapter Overview
+
+- **1. 1. Running Agile at Scale** (5 videos)
+
+### 1. 1. Running Agile at Scale
 
 #### The problems with agile at scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980)
@@ -538,6 +540,10 @@ created: 2026-04-21
 > **Code Keywords:** module (2), finally, (2)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Jez Humble]]
 
 ## Path Context
 

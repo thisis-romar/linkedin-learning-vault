@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%205%20Layout.md)
 
 ![Drupal 9 Essential Training: 5 Layout](https://media.licdn.com/dms/image/v2/C4E0DAQHh1CBKnlp8TA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615495254627?e=2147483647&amp;v=beta&amp;t=fOKnkyylvVVxXCQuUT7Duw0LBj365ucn5nypV92KXU0)
 
@@ -40,18 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout) | 1h 36m | Beginner
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[OSTraining]]
-- [[Rod Martin]]
-
-## Skills Covered
-
-- Drupal
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Layout Explained** (10 videos)
+- **3. 2. Views Explained** (8 videos)
+- **4. 3. Menus Explained** (2 videos)
+
+### 1. Introduction
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/introduction-to-the-course?u=76281980)
@@ -126,7 +126,7 @@ created: 2026-04-21
 > **Speakers:** - hi (1)
 
 
-### 1. Layout Explained
+### 2. 1. Layout Explained
 
 #### Layout explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-explained?u=76281980)
@@ -1269,7 +1269,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Views Explained
+### 3. 2. Views Explained
 
 #### Views explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/views-explained?u=76281980)
@@ -2246,7 +2246,7 @@ created: 2026-04-21
 > **Versions:** 2.7 (1)
 
 
-### 3. Menus Explained
+### 4. 3. Menus Explained
 
 #### Modify the main menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980)
@@ -2399,6 +2399,15 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[OSTraining]]
+- [[Rod Martin]]
+
+## Skills Covered
+
+- Drupal
 
 ## Path Context
 

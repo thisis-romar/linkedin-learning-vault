@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/team-collaboration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Communication%20within%20Teams%20(2021).md)
 
 ![Communication within Teams (2021)](https://media.licdn.com/dms/image/v2/D560DAQGkd4XSc8lEuA/learning-public-crop_675_1200/B56ZsjzZQ9JsAY-/0/1765832234767?e=2147483647&amp;v=beta&amp;t=1VEiUC4YrzdkopgulpBvylkXJGNj-NAEhjDmCLr3Sic)
 
@@ -40,21 +42,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021) | 44m | Beginner | 357K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daisy Lovelace]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Team Collaboration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Communicating Successfully within Teams** (11 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How high-performing teams communicate
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/how-high-performing-teams-communicate?u=76281980)
@@ -99,7 +95,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Communicating Successfully within Teams
+### 2. 1. Communicating Successfully within Teams
 
 #### Establish roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/establish-roles?u=76281980)
@@ -1088,7 +1084,7 @@ created: 2026-04-21
 > **Speakers:** - right (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### The imperative of effective teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980)
@@ -1131,6 +1127,18 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - most (1)
 
+
+## Instructor
+
+- [[Daisy Lovelace]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Team Collaboration
 
 ## Path Context
 

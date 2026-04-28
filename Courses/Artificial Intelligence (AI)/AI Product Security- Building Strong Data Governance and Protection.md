@@ -38,8 +38,10 @@ tags:
   - skill/ai-governance
   - skill/data-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Building%20Strong%20Data%20Governance%20and%20Protection.md)
 
 ![AI Product Security: Building Strong Data Governance and Protection](https://media.licdn.com/dms/image/v2/D4D0DAQGXMEVUJF08sg/learning-public-crop_675_1200/B4DZXtJ7HmG4Ac-/0/1743440557548?e=2147483647&amp;v=beta&amp;t=mR9oJrivaOA6XnusALbRwyhSF97BorAcLWpaM5vBbQ4)
 
@@ -50,21 +52,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection) | 1h 3m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Meghan Maneval]]
-
-## Skills Covered
-
-- Product Security
-- Artificial Intelligence (AI)
-- Data Governance
-- AI Governance
-- Data Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Data Governance and Security in AI Products** (4 videos)
+- **3. 2. Establish Robust Data Governance Throughout the AI Product's Lifecycle** (4 videos)
+- **4. 3. Implement Comprehensive Security for AI Data** (4 videos)
+- **5. 4. Embed Compliance in AI Product Development** (5 videos)
+- **6. 5. Maintain Data Governance and Security Over Time** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Unlock the essentials of AI data governance and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980)
@@ -98,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 1. Introduction to Data Governance and Security in AI Products
+### 2. 1. Introduction to Data Governance and Security in AI Products
 
 #### AI governance and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980)
@@ -386,7 +386,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 2. Establish Robust Data Governance Throughout the AI Product's Lifecycle
+### 3. 2. Establish Robust Data Governance Throughout the AI Product's Lifecycle
 
 #### Defining data governance for AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980)
@@ -655,7 +655,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Implement Comprehensive Security for AI Data
+### 4. 3. Implement Comprehensive Security for AI Data
 
 #### Build a foundation for AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/build-a-foundation-for-ai-systems?u=76281980)
@@ -917,7 +917,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 4. Embed Compliance in AI Product Development
+### 5. 4. Embed Compliance in AI Product Development
 
 #### Navigating regulatory requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980)
@@ -1256,7 +1256,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Maintain Data Governance and Security Over Time
+### 6. 5. Maintain Data Governance and Security Over Time
 
 #### Securing AI data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980)
@@ -1593,7 +1593,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Putting it into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/putting-it-into-practice?u=76281980)
@@ -1627,6 +1627,18 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Meghan Maneval]]
+
+## Skills Covered
+
+- Product Security
+- Artificial Intelligence (AI)
+- Data Governance
+- AI Governance
+- Data Security
 
 ## Path Context
 

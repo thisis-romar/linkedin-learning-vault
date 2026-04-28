@@ -42,8 +42,10 @@ tags:
   - skill/python-programming-language
   - skill/data-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20Python%20for%20Data%20Engineering-%20From%20Beginner%20to%20Advanced.md)
 
 ![Complete Guide to Python for Data Engineering: From Beginner to Advanced](https://media.licdn.com/dms/image/v2/D560DAQG4XG_e0J0VZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722276483754?e=2147483647&amp;v=beta&amp;t=eSZDY7JKslVQ7ejDUjE5aFi5hqXXu78rPqCgIDWIoko)
 
@@ -54,22 +56,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced) | 5h 28m | Advanced | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Deepak Goyal]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Python Basics** (11 videos)
+- **3. 2. Python Collections** (6 videos)
+- **4. 3. Python File Handling** (4 videos)
+- **5. 4. pandas DataFrame API** (7 videos)
+- **6. 5. NumPy** (7 videos)
+- **7. 6. OOP with Python** (4 videos)
+- **8. 7. Advanced Data Engineering** (6 videos)
+- **9. 8. Web Scraping with Python** (8 videos)
+- **10. 9. Advanced Built-in Functions** (5 videos)
+- **11. 10. Logging in Python** (3 videos)
+- **12. 11. Final Project** (2 videos)
+- **13. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Python for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980)
@@ -158,7 +163,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Python Basics
+### 2. 1. Python Basics
 
 #### Introduction to Python and data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980)
@@ -1265,7 +1270,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Python Collections
+### 3. 2. Python Collections
 
 #### Collection overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980)
@@ -1818,7 +1823,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Python File Handling
+### 4. 3. Python File Handling
 
 #### File I/O overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980)
@@ -2138,7 +2143,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. pandas DataFrame API
+### 5. 4. pandas DataFrame API
 
 #### Introduction to pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980)
@@ -2670,7 +2675,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. NumPy
+### 6. 5. NumPy
 
 #### Introduction to NumPy
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980)
@@ -3377,7 +3382,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. OOP with Python
+### 7. 6. OOP with Python
 
 #### Understanding classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980)
@@ -3625,7 +3630,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Advanced Data Engineering
+### 8. 7. Advanced Data Engineering
 
 #### Tips to write efficient Python code
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980)
@@ -4020,7 +4025,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Web Scraping with Python
+### 9. 8. Web Scraping with Python
 
 #### HTML basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980)
@@ -4962,7 +4967,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Advanced Built-in Functions
+### 10. 9. Advanced Built-in Functions
 
 #### Generators in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980)
@@ -5521,7 +5526,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 10. Logging in Python
+### 11. 10. Logging in Python
 
 #### What is logging?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980)
@@ -5791,7 +5796,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 11. Final Project
+### 12. 11. Final Project
 
 #### Final Project: Retail sales analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980)
@@ -6234,7 +6239,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### Conclusion
+### 13. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980)
@@ -6260,6 +6265,19 @@ created: 2026-04-21
 > **CLI Commands:** python (2), find (1)
 > **Speakers:** - [deepak] (1)
 
+
+## Instructor
+
+- [[Deepak Goyal]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Engineering
 
 ## Path Context
 

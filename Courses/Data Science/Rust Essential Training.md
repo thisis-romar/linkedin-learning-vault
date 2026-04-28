@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/rust-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Rust%20Essential%20Training.md)
 
 ![Rust Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQECO8VWMKSUmw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616531924739?e=2147483647&amp;v=beta&amp;t=IxzZ4UaL-vkduGDogkqwnNjFGAsInXlDtxfB510lWz0)
 
@@ -41,21 +43,30 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training) | 6h 47m | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barron Stone]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Rust (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Write Your First Program** (5 videos)
+- **3. 2. Primitive Data Types** (11 videos)
+- **4. 3. Compound Data Types** (3 videos)
+- **5. 4. Functions** (5 videos)
+- **6. 5. Program Flow Control** (9 videos)
+- **7. 6. Ownership** (7 videos)
+- **8. 7. References** (7 videos)
+- **9. 8. Modules** (6 videos)
+- **10. 9. Input and Output** (5 videos)
+- **11. 10. Structs** (7 videos)
+- **12. 11. Generic Types** (6 videos)
+- **13. 12. Traits** (8 videos)
+- **14. 13. Lifetimes** (6 videos)
+- **15. 14. Enums** (9 videos)
+- **16. 15. Error Handling** (6 videos)
+- **17. 16. Collections** (4 videos)
+- **18. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn Rust programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/learn-rust-programming?u=76281980)
@@ -230,7 +241,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 1. Write Your First Program
+### 2. 1. Write Your First Program
 
 #### Installing Rust on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-windows?u=76281980)
@@ -653,7 +664,7 @@ created: 2026-04-21
 > **Code Identifiers:** hello_world (1)
 
 
-### 2. Primitive Data Types
+### 3. 2. Primitive Data Types
 
 #### Declaring variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980)
@@ -1737,7 +1748,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Compound Data Types
+### 4. 3. Compound Data Types
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/arrays?u=76281980)
@@ -2039,7 +2050,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Functions
+### 5. 4. Functions
 
 #### Function parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980)
@@ -2361,7 +2372,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Program Flow Control
+### 6. 5. Program Flow Control
 
 #### Conditional execution
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/conditional-execution?u=76281980)
@@ -2987,7 +2998,7 @@ created: 2026-04-21
 > **Non-Speech:** (electronic music) (1)
 
 
-### 6. Ownership
+### 7. 6. Ownership
 
 #### Variable scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/variable-scope?u=76281980)
@@ -3608,7 +3619,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 7. References
+### 8. 7. References
 
 #### Borrowing references
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/borrowing-references?u=76281980)
@@ -4053,7 +4064,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Modules
+### 9. 8. Modules
 
 #### Rust Standard Library and prelude
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980)
@@ -4517,7 +4528,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Input and Output
+### 10. 9. Input and Output
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/command-line-arguments?u=76281980)
@@ -4891,7 +4902,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 10. Structs
+### 11. 10. Structs
 
 #### Defining structs
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980)
@@ -5355,7 +5366,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 11. Generic Types
+### 12. 11. Generic Types
 
 #### Generic struct definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/generic-struct-definitions?u=76281980)
@@ -5841,7 +5852,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 12. Traits
+### 13. 12. Traits
 
 #### Implement traits
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/implement-traits?u=76281980)
@@ -6329,7 +6340,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 13. Lifetimes
+### 14. 13. Lifetimes
 
 #### The borrow checker
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/the-borrow-checker?u=76281980)
@@ -6757,7 +6768,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 14. Enums
+### 15. 14. Enums
 
 #### Define enums
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/define-enums?u=76281980)
@@ -7307,7 +7318,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 15. Error Handling
+### 16. 15. Error Handling
 
 #### Unrecoverable errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980)
@@ -7705,7 +7716,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 16. Collections
+### 17. 16. Collections
 
 #### Vectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980)
@@ -8087,7 +8098,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 18. Conclusion
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980)
@@ -8140,6 +8151,18 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [barron] (1)
 
+
+## Instructor
+
+- [[Barron Stone]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Rust (Programming Language)
 
 ## Path Context
 

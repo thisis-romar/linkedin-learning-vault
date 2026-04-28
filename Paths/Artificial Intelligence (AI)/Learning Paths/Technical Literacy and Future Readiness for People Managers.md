@@ -7,7 +7,7 @@ course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -39,8 +39,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Technical%20Literacy%20and%20Future%20Readiness%20for%20People%20Managers.md)
 
 # Technical Literacy and Future Readiness for People Managers
 

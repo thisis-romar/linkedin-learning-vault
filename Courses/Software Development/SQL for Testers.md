@@ -28,8 +28,10 @@ tags:
   - skill/sql
   - skill/database-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/SQL%20for%20Testers.md)
 
 ![SQL for Testers](https://media.licdn.com/dms/image/v2/C4E0DAQHLDFql6OOJTw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1599847443389?e=2147483647&amp;v=beta&amp;t=hJOOS9dT89Lu79ZqAa7CenTnUGfqogKxBymZE-789SE)
 
@@ -40,22 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers) | 1h 33m | Beginner | 234K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dave Westerveld]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- SQL
-- Database Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started** (4 videos)
+- **3. 2. Querying SQL Data** (4 videos)
+- **4. 3. Using SQL for Data Generation** (5 videos)
+- **5. 4. Testing SQL Queries** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Dive deep into quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980)
@@ -111,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### What is SQL and why use it as a tester?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980)
@@ -493,7 +491,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 2. Querying SQL Data
+### 3. 2. Querying SQL Data
 
 #### Setting up a site for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980)
@@ -874,7 +872,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Using SQL for Data Generation
+### 4. 3. Using SQL for Data Generation
 
 #### Create new entries in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980)
@@ -1333,7 +1331,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Testing SQL Queries
+### 5. 4. Testing SQL Queries
 
 #### Transactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980)
@@ -2228,7 +2226,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/next-steps?u=76281980)
@@ -2268,6 +2266,19 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Dave Westerveld]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- SQL
+- Database Testing
 
 ## Path Context
 

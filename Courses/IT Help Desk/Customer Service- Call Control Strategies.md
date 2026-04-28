@@ -28,8 +28,10 @@ tags:
   - topic/it-help-desk
   - skill/call-control
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Customer%20Service-%20Call%20Control%20Strategies.md)
 
 ![Customer Service: Call Control Strategies](https://media.licdn.com/dms/image/v2/C4E0DAQGbHxeaVejF6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665548814?e=2147483647&amp;v=beta&amp;t=8FlhMS8xDwv_NPlXFC35oW4r3zmbRScLV_Z_DogBKpc)
 
@@ -40,17 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies) | 22m | Intermediate | 142K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Myra Golden]]
-
-## Skills Covered
-
-- Call Control
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Call Control Strategies** (6 videos)
+- **3. 2. Proactive Conversation Management** (2 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get customer calls resolved faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/get-customer-calls-resolved-faster?u=76281980)
@@ -73,7 +74,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 1. Call Control Strategies
+### 2. 1. Call Control Strategies
 
 #### Give a limited response on your customer call
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/give-a-limited-response-on-your-customer-call?u=76281980)
@@ -529,7 +530,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Proactive Conversation Management
+### 3. 2. Proactive Conversation Management
 
 #### When customers feel understood, they talk less
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/when-customers-feel-understood-they-talk-less-22343811?u=76281980)
@@ -654,7 +655,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Keep building your customer phone skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/keep-building-your-customer-phone-skills?u=76281980)
@@ -698,6 +699,14 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Myra Golden]]
+
+## Skills Covered
+
+- Call Control
 
 ## Path Context
 

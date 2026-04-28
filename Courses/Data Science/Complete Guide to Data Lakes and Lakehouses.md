@@ -39,8 +39,10 @@ tags:
   - skill/data-engineering
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20Data%20Lakes%20and%20Lakehouses.md)
 
 ![Complete Guide to Data Lakes and Lakehouses](https://media.licdn.com/dms/image/v2/D4E0DAQElOqYYEDkjrA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723753479181?e=2147483647&amp;v=beta&amp;t=wBOLtenTAKhLM4I2eXPz02P3sfkYp8m3Z_q6folBx0g)
 
@@ -51,24 +53,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses) | 5h 39m | Advanced | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Thalia Barrera]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/complete-guide-to-data-lakes-and-lakehouses-3865060/codespaces)
-
-## Skills Covered
-
-- Data Lakes
-- Data Engineering
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to Data Lakes** (5 videos)
+- **3. 2. Storage In Data Lakes** (7 videos)
+- **4. 3. Data Ingestion in Data Lakes** (7 videos)
+- **5. 4. Data Management and Governance in Data Lakes** (6 videos)
+- **6. 5. Introduction to Data Lakehouses** (4 videos)
+- **7. 6. Data Consumption and Query Engines in Lakes and Lakehouses** (7 videos)
+- **8. 7. Advanced Data Platforms for Lakes and Lakehouses** (6 videos)
+- **9. 8. Final Project: Building a Data Lakehouse** (9 videos)
+- **10. 9. Final Project: BI, Advanced Analytics, and ML in the Lakehouse** (8 videos)
+- **11. 10. Final Project: Generative AI in the Lakehouse** (7 videos)
+- **12. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Data lakes, lakehouses, and more
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980)
@@ -199,7 +201,7 @@ created: 2026-04-21
 > **Speakers:** - at (1)
 
 
-### 1. Introduction to Data Lakes
+### 2. 1. Introduction to Data Lakes
 
 #### What is a data lake?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980)
@@ -530,7 +532,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Storage In Data Lakes
+### 3. 2. Storage In Data Lakes
 
 #### Storage types
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980)
@@ -1040,7 +1042,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Ingestion in Data Lakes
+### 4. 3. Data Ingestion in Data Lakes
 
 #### Data ingestion methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980)
@@ -1538,7 +1540,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data Management and Governance in Data Lakes
+### 5. 4. Data Management and Governance in Data Lakes
 
 #### Introduction to data management and governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980)
@@ -1896,7 +1898,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Introduction to Data Lakehouses
+### 6. 5. Introduction to Data Lakehouses
 
 #### What is a data lakehouse?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980)
@@ -2219,7 +2221,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 6. Data Consumption and Query Engines in Lakes and Lakehouses
+### 7. 6. Data Consumption and Query Engines in Lakes and Lakehouses
 
 #### Introduction to data consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980)
@@ -2777,7 +2779,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 7. Advanced Data Platforms for Lakes and Lakehouses
+### 8. 7. Advanced Data Platforms for Lakes and Lakehouses
 
 #### Unified analytics platforms: Databricks and Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980)
@@ -3166,7 +3168,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Final Project: Building a Data Lakehouse
+### 9. 8. Final Project: Building a Data Lakehouse
 
 #### Final project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980)
@@ -4126,7 +4128,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 9. Final Project: BI, Advanced Analytics, and ML in the Lakehouse
+### 10. 9. Final Project: BI, Advanced Analytics, and ML in the Lakehouse
 
 #### Dremio walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980)
@@ -5055,7 +5057,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 10. Final Project: Generative AI in the Lakehouse
+### 11. 10. Final Project: Generative AI in the Lakehouse
 
 #### Introduction to LLMs and vector embeddings: Llama
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980)
@@ -5599,7 +5601,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (3)
 
 
-### Conclusion
+### 12. Conclusion
 
 #### Recap and key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/recap-and-key-takeaways-24330327?u=76281980)
@@ -5656,6 +5658,21 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Thalia Barrera]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/complete-guide-to-data-lakes-and-lakehouses-3865060/codespaces)
+
+## Skills Covered
+
+- Data Lakes
+- Data Engineering
+- Artificial Intelligence (AI)
 
 ## Path Context
 

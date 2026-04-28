@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/business-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20Foundations-%20Competencies.md)
 
 ![Business Analysis Foundations: Competencies](https://media.licdn.com/dms/image/v2/C4E0DAQGIRAxWWND-IQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1649697874778?e=2147483647&amp;v=beta&amp;t=DJVr8xJ-WqKRItDGMmPg-wyw_Xp01VDztCfnoTqRXfE)
 
@@ -40,21 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies) | 1h 26m | Beginner | 177K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Angela Wick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Business Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Relationship Building and Management Skills for Business Analysts** (3 videos)
+- **3. 2. Leadership Skills for Business Analysts** (3 videos)
+- **4. 3. Facilitation Skills for Business Analysts** (3 videos)
+- **5. 4. Communication Skills for Business Analysts** (4 videos)
+- **6. 5. Business Skills for Business Analysts** (3 videos)
+- **7. 6. Analytical Skills for Business Analysts** (5 videos)
+- **8. 7. Technical Skills for Business Analysts** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to business analysis competencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/welcome-to-business-analysis-competencies-16436628?u=76281980)
@@ -97,7 +99,7 @@ created: 2026-04-21
 > **Speakers:** - business (1)
 
 
-### 1. Relationship Building and Management Skills for Business Analysts
+### 2. 1. Relationship Building and Management Skills for Business Analysts
 
 #### Cocreating: Business analyst skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/cocreating-business-analyst-skills?u=76281980)
@@ -358,7 +360,7 @@ created: 2026-04-21
 > **Speakers:** - conflict (1)
 
 
-### 2. Leadership Skills for Business Analysts
+### 3. 2. Leadership Skills for Business Analysts
 
 #### Influence without authority as a business analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/influence-without-authority-as-a-business-analyst?u=76281980)
@@ -563,7 +565,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 3. Facilitation Skills for Business Analysts
+### 4. 3. Facilitation Skills for Business Analysts
 
 #### Facilitating meetings as a business analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-meetings-as-a-business-analyst?u=76281980)
@@ -771,7 +773,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Communication Skills for Business Analysts
+### 5. 4. Communication Skills for Business Analysts
 
 #### Verbal skills for business analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/verbal-skills-for-business-analysts?u=76281980)
@@ -1032,7 +1034,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 5. Business Skills for Business Analysts
+### 6. 5. Business Skills for Business Analysts
 
 #### Business acumen skills for business analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980)
@@ -1228,7 +1230,7 @@ created: 2026-04-21
 > **Speakers:** - wouldn (1)
 
 
-### 6. Analytical Skills for Business Analysts
+### 7. 6. Analytical Skills for Business Analysts
 
 #### Systems thinking skills for business analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/systems-thinking-skills-for-business-analysts?u=76281980)
@@ -1586,7 +1588,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 7. Technical Skills for Business Analysts
+### 8. 7. Technical Skills for Business Analysts
 
 #### Productivity tools for business analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980)
@@ -1775,7 +1777,7 @@ created: 2026-04-21
 > **Speakers:** - over (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Continuing to grow your business analyst skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/continuing-to-grow-your-business-analyst-skills?u=76281980)
@@ -1806,6 +1808,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - business (1)
 
+
+## Instructor
+
+- [[Angela Wick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Business Analysis
 
 ## Path Context
 

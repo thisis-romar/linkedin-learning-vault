@@ -30,32 +30,33 @@ tags:
   - skill/computer-science
   - skill/programming
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Computer%20Science%20Principles-%20Programming.md)
 
 ![Computer Science Principles: Programming](https://media.licdn.com/dms/image/v2/D4E0DAQFNVeSXHWNEgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700611999130?e=2147483647&amp;v=beta&amp;t=uedN6NXjcV_HFRBOFrJaLkdyRkv0W4G4SmGgSBifWRg)
 
 # Computer Science Principles: Programming
 
-> Programming is what allows us to make computers, devices, and the Internet perform amazing tasks, entertain us, and simplify our lives. While programming seems complicated, every programming challenge can be broken down into sections of code that you can define, control, and even reuse. You can learn the basic concepts of coding without needing to know a specific programming language. 
-
-Join Doug 
+> Programming is what allows us to make computers, devices, and the Internet perform amazing tasks, entertain us, and simplify our lives. While programming seems complicated, every programming challenge can be broken down into sections of code that you can define, control, and even reuse. You can learn the basic concepts of coding without needing to know a specific programming language. Join Doug (R
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming) | 1h 25m | Beginner | 88K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rich Winnie]]
-
-## Skills Covered
-
-- Computer Science
-- Programming
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Control Computers with Code** (2 videos)
+- **3. 2. Define Actions Using Code** (7 videos)
+- **4. 3. Repeat Actions and Test for Conditions** (9 videos)
+- **5. 4. Objects and OOP** (6 videos)
+- **6. 5. Beyond Programming** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980)
@@ -132,7 +133,7 @@ Join Doug
 > **Speakers:** - this (1)
 
 
-### 1. Control Computers with Code
+### 2. 1. Control Computers with Code
 
 #### History of programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980)
@@ -285,7 +286,7 @@ Join Doug
 > **Analogies:** think of it like (1)
 
 
-### 2. Define Actions Using Code
+### 3. 2. Define Actions Using Code
 
 #### Work with values and variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-values-and-variables?u=76281980)
@@ -756,7 +757,7 @@ Join Doug
 > **Speakers:** - as (1)
 
 
-### 3. Repeat Actions and Test for Conditions
+### 4. 3. Repeat Actions and Test for Conditions
 
 #### Capture input from the user
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980)
@@ -1384,7 +1385,7 @@ Join Doug
 > **Speakers:** - once (1)
 
 
-### 4. Objects and OOP
+### 5. 4. Objects and OOP
 
 #### Everything is an object
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980)
@@ -1841,7 +1842,7 @@ Join Doug
 > **Speakers:** - when (1)
 
 
-### 5. Beyond Programming
+### 6. 5. Beyond Programming
 
 #### Debug problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/debug-problems?u=76281980)
@@ -2148,7 +2149,7 @@ Join Doug
 > **Speakers:** - as (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980)
@@ -2183,6 +2184,15 @@ Join Doug
 > **URLs:** [dougwinnie.com](https://dougwinnie.com) (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Rich Winnie]]
+
+## Skills Covered
+
+- Computer Science
+- Programming
 
 ## Path Context
 

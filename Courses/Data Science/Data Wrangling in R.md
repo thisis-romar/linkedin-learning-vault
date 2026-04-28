@@ -34,8 +34,10 @@ tags:
   - skill/data-wrangling
   - skill/r-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Wrangling%20in%20R.md)
 
 ![Data Wrangling in R](https://media.licdn.com/dms/image/v2/C560DAQHwhOyy4T_E4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626807009888?e=2147483647&amp;v=beta&amp;t=yQECZR2VKEpjDC2NgOT4PC7xVLoI6VGaJ34hJU4W0So)
 
@@ -46,22 +48,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737) | 2h 51m | Intermediate | 54K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Chapple]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Wrangling
-- R (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Tidy Data** (4 videos)
+- **3. 2. Working with Tibbles** (3 videos)
+- **4. 3. Importing Data into R** (8 videos)
+- **5. 4. Data Transformation** (5 videos)
+- **6. 5. Data Cleaning** (5 videos)
+- **7. 6. Data Wrangling Case Study: Coal Consumption** (5 videos)
+- **8. 7. Data Wrangling Case Study: Water Quality** (8 videos)
+- **9. 8. Data Wrangling Case Study: Social Security Disability** (7 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Preparing for data wrangling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/preparing-for-data-wrangling?u=76281980)
@@ -146,7 +148,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Tidy Data
+### 2. 1. Tidy Data
 
 #### What is tidy data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980)
@@ -639,7 +641,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 
 
-### 2. Working with Tibbles
+### 3. 2. Working with Tibbles
 
 #### Building and printing tibbles
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/building-and-printing-tibbles?u=76281980)
@@ -888,7 +890,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Importing Data into R
+### 4. 3. Importing Data into R
 
 #### What are CSV files?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-are-csv-files?u=76281980)
@@ -1635,7 +1637,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data Transformation
+### 5. 4. Data Transformation
 
 #### Wide vs. long datasets
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/wide-vs-long-datasets?u=76281980)
@@ -2138,7 +2140,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Data Cleaning
+### 6. 5. Data Cleaning
 
 #### Detecting outliers
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/detecting-outliers?u=76281980)
@@ -2811,7 +2813,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Data Wrangling Case Study: Coal Consumption
+### 7. 6. Data Wrangling Case Study: Coal Consumption
 
 #### Understanding the coal dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-coal-dataset?u=76281980)
@@ -3174,7 +3176,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 7. Data Wrangling Case Study: Water Quality
+### 8. 7. Data Wrangling Case Study: Water Quality
 
 #### Understanding the water quality dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980)
@@ -3800,7 +3802,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Data Wrangling Case Study: Social Security Disability
+### 9. 8. Data Wrangling Case Study: Social Security Disability
 
 #### Understanding the social security disability dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-social-security-disability-dataset?u=76281980)
@@ -4201,7 +4203,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/next-steps?u=76281980)
@@ -4233,6 +4235,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [mike] (1)
 
+
+## Instructor
+
+- [[Mike Chapple]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Wrangling
+- R (Programming Language)
 
 ## Path Context
 

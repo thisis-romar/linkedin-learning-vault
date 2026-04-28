@@ -42,8 +42,10 @@ tags:
   - skill/extract-transform-load-etl
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/ETL%20in%20Python%20and%20SQL.md)
 
 ![ETL in Python and SQL](https://media.licdn.com/dms/image/v2/D560DAQEb7W3zMX2CfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709597051025?e=2147483647&amp;v=beta&amp;t=wp85iSevtpQSOwRH3j6xpiy6IciVIJwiUGuFnjaSq24)
 
@@ -54,23 +56,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql) | 1h 20m | Intermediate | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jennifer Ebe]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Extract, Transform, Load (ETL)
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Are ETLs?** (6 videos)
+- **3. 2. Extracting and Transforming Data with Python** (6 videos)
+- **4. 3. Loading Data into Target Systems** (5 videos)
+- **5. 4. Automating ETL Jobs: Scheduling ETL Jobs with Python** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Create an ETL in Python and SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980)
@@ -138,7 +135,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Are ETLs?
+### 2. 1. What Are ETLs?
 
 #### What are ETLs and how do you create them?
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980)
@@ -568,7 +565,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Extracting and Transforming Data with Python
+### 3. 2. Extracting and Transforming Data with Python
 
 #### Loading data from different sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980)
@@ -1082,7 +1079,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Loading Data into Target Systems
+### 4. 3. Loading Data into Target Systems
 
 #### Introduction to data warehouses and data lakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980)
@@ -1553,7 +1550,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Automating ETL Jobs: Scheduling ETL Jobs with Python
+### 5. 4. Automating ETL Jobs: Scheduling ETL Jobs with Python
 
 #### Querying your data with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980)
@@ -2057,7 +2054,7 @@ created: 2026-04-21
 > **Cross-References:** next video (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Expand your knowledge of ETLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980)
@@ -2097,6 +2094,20 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jennifer Ebe]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Extract, Transform, Load (ETL)
+- SQL
 
 ## Path Context
 

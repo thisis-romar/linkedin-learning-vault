@@ -19,8 +19,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Figma-%20From%20Design%20to%20CSS%20Implementation.md)
 
 ![Figma: From Design to CSS Implementation](https://media.licdn.com/dms/image/v2/D560DAQGqIodryoMLJg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687801954408?e=2147483647&amp;v=beta&amp;t=lBHAigFvvtSxMSVND5B6gT4znCRIZUZpmdc45s49geY)
 
@@ -31,13 +33,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation) | 48m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joseph Labrecque]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Producing Image Assets** (3 videos)
+- **3. 2. Translating CSS Rules** (4 videos)
+- **4. 3. Implementing CSS within HTML** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Implementing CSS from your Figma designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980)
@@ -108,7 +114,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Producing Image Assets
+### 2. 1. Producing Image Assets
 
 #### An overview of the design project
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/an-overview-of-the-design-project?u=76281980)
@@ -282,7 +288,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Translating CSS Rules
+### 3. 2. Translating CSS Rules
 
 #### Using the Inspect workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980)
@@ -615,7 +621,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### 3. Implementing CSS within HTML
+### 4. 3. Implementing CSS within HTML
 
 #### Creating an HTML document
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980)
@@ -979,7 +985,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/what-s-next?u=76281980)
@@ -1008,6 +1014,10 @@ created: 2026-04-21
 > **Tools:** figma (4)
 > **Speakers:** - [joseph] (1)
 
+
+## Instructor
+
+- [[Joseph Labrecque]]
 
 ## Path Context
 

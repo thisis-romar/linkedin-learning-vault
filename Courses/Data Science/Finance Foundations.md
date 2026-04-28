@@ -17,8 +17,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Finance%20Foundations.md)
 
 ![Finance Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQFeJa1JN818CQ/learning-public-crop_675_1200/B4EZXULPNNHgAY-/0/1743021471214?e=2147483647&amp;v=beta&amp;t=CQzLcF6HPb_doqyspGhT3tCh86ltmUZZeuwj-9u5LxM)
 
@@ -31,7 +33,22 @@ created: 2026-04-21
 
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is Finance?** (3 videos)
+- **3. 2. Risk and Return** (9 videos)
+- **4. 3. Understanding Financial Statements** (8 videos)
+- **5. 4. Short-Term Financial Management** (6 videos)
+- **6. 5. Obtaining Long-Term Financing** (7 videos)
+- **7. 6. Understanding Securities Markets** (7 videos)
+- **8. 7. Financial Institutions** (6 videos)
+- **9. 8. Capital Budgeting** (4 videos)
+- **10. 9. Advances Using Technology in Finance** (4 videos)
+- **11. 10. Personal Financial Planning** (4 videos)
+- **12. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The essentials of finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980)
@@ -122,7 +139,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 1. What Is Finance?
+### 2. 1. What Is Finance?
 
 #### The board of directors discusses finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-board-of-directors-discusses-finance?u=76281980)
@@ -376,7 +393,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. Risk and Return
+### 3. 2. Risk and Return
 
 #### Introducing risk and return
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-risk-and-return?u=76281980)
@@ -1195,7 +1212,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 3. Understanding Financial Statements
+### 4. 3. Understanding Financial Statements
 
 #### Overview of financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980)
@@ -2023,7 +2040,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 4. Short-Term Financial Management
+### 5. 4. Short-Term Financial Management
 
 #### Introducing short-term financial management
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-short-term-financial-management?u=76281980)
@@ -2480,7 +2497,7 @@ created: 2026-04-21
 > **Speakers:** - another (1)
 
 
-### 5. Obtaining Long-Term Financing
+### 6. 5. Obtaining Long-Term Financing
 
 #### Introducing long-term financing
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980)
@@ -3101,7 +3118,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 6. Understanding Securities Markets
+### 7. 6. Understanding Securities Markets
 
 #### Introducing securities markets
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-securities-markets?u=76281980)
@@ -3729,7 +3746,7 @@ created: 2026-04-21
 > **Speakers:** - can (1)
 
 
-### 7. Financial Institutions
+### 8. 7. Financial Institutions
 
 #### Introducing financial institutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-financial-institutions?u=76281980)
@@ -4264,7 +4281,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 8. Capital Budgeting
+### 9. 8. Capital Budgeting
 
 #### Introducing capital budgeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-capital-budgeting?u=76281980)
@@ -4643,7 +4660,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 9. Advances Using Technology in Finance
+### 10. 9. Advances Using Technology in Finance
 
 #### What is fintech?
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980)
@@ -5023,7 +5040,7 @@ created: 2026-04-21
 > **Speakers:** - alternative (1)
 
 
-### 10. Personal Financial Planning
+### 11. 10. Personal Financial Planning
 
 #### Introducing personal financing planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-personal-financing-planning?u=76281980)
@@ -5391,7 +5408,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### Conclusion
+### 12. Conclusion
 
 #### Reviewing corporate finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980)

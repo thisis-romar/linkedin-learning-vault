@@ -27,8 +27,10 @@ tags:
   - skill/cloud-administration
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Aws%20Essential%20Training%20For%20Administrators.md)
 
 ![Aws Essential Training For Administrators](https://media.licdn.com/dms/image/v2/D560DAQFXU6taFkdJuw/learning-public-crop_675_1200/B56ZrbafvrMIAY-/0/1764617747985?e=2147483647&amp;v=beta&amp;t=QzH5fv2XogLD0YfjuMHX8JcfUDVd1S-zYzvwjd5mU6M)
 
@@ -39,14 +41,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022) | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Cloud Administration
-- Amazon Web Services (AWS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Cloud Computing** (1 videos)
+- **3. 2. Introduction to AWS** (2 videos)
+- **4. 3. Managing Identities and Access** (5 videos)
+- **5. 4. Managing Compute** (10 videos)
+- **6. 5. Managing Storage** (7 videos)
+- **7. 6. Monitoring and Logging** (3 videos)
+- **8. 7. Managing Security** (6 videos)
+- **9. 8. Management and Compliance** (14 videos)
+- **10. 9. Controlling Costs** (4 videos)
+- **11. 10. Migration** (4 videos)
+- **12. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Simplified AWS administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/simplified-aws-administration?u=76281980)
@@ -98,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - amazon (1)
 
 
-### 1. Cloud Computing
+### 2. 1. Cloud Computing
 
 #### Cloud computing fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980)
@@ -187,7 +199,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Introduction to AWS
+### 3. 2. Introduction to AWS
 
 #### AWS fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980)
@@ -428,7 +440,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (2)
 
 
-### 3. Managing Identities and Access
+### 4. 3. Managing Identities and Access
 
 #### Introduction to IAM
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980)
@@ -952,7 +964,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 4. Managing Compute
+### 5. 4. Managing Compute
 
 #### Amazon Machine Image
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-machine-image?u=76281980)
@@ -2154,7 +2166,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 5. Managing Storage
+### 6. 5. Managing Storage
 
 #### Amazon S3
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980)
@@ -3347,7 +3359,7 @@ created: 2026-04-21
 > **Ports:** :00 (2)
 
 
-### 6. Monitoring and Logging
+### 7. 6. Monitoring and Logging
 
 #### CloudWatch
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980)
@@ -3820,7 +3832,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 7. Managing Security
+### 8. 7. Managing Security
 
 #### Access Analyzer
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/access-analyzer?u=76281980)
@@ -4761,7 +4773,7 @@ created: 2026-04-21
 > **Cross-References:** earlier in (1)
 
 
-### 8. Management and Compliance
+### 9. 8. Management and Compliance
 
 #### AWS Organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-organizations?u=76281980)
@@ -7341,7 +7353,7 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 
 
-### 9. Controlling Costs
+### 10. 9. Controlling Costs
 
 #### AWS Pricing Calculator
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980)
@@ -7878,7 +7890,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Migration
+### 11. 10. Migration
 
 #### Overview of migration services
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980)
@@ -8343,7 +8355,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### Conclusion
+### 12. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/next-steps?u=76281980)
@@ -8370,6 +8382,11 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [shyam] (1)
 
+
+## Skills Covered
+
+- Cloud Administration
+- Amazon Web Services (AWS)
 
 ## Path Context
 

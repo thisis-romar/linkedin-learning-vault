@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Analyzing%20Data.md)
 
 ![UX Deep Dive: Analyzing Data](https://media.licdn.com/dms/image/v2/C560DAQHqF_LIR_8vXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597179288976?e=2147483647&amp;v=beta&amp;t=8ZhjqM8L3FhijlT6IG1Mbocfasya6daXGtLRHd6gs7I)
 
@@ -40,21 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data) | 25m | Intermediate | 53K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Amanda Stockwell]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- User Experience Design (UED)
-
 ## Table of Contents
 
-### Analyzing Data
+### Chapter Overview
+
+- **1. Analyzing Data** (1 videos)
+- **2. 1. Research Goals and Hypotheses** (2 videos)
+- **3. 2. Types of Data** (2 videos)
+- **4. 3. Analyzing Qualitative Data** (1 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Analyzing Data
 
 #### Data is king
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/data-is-king?u=76281980)
@@ -83,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Research Goals and Hypotheses
+### 2. 1. Research Goals and Hypotheses
 
 #### Setting your objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980)
@@ -218,7 +216,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Types of Data
+### 3. 2. Types of Data
 
 #### Breaking down qualitative data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/breaking-down-qualitative-data?u=76281980)
@@ -411,7 +409,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Analyzing Qualitative Data
+### 4. 3. Analyzing Qualitative Data
 
 #### Filtering into actionable insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980)
@@ -546,7 +544,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Turning raw data into deep insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980)
@@ -572,6 +570,18 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [amanda] (1)
 
+
+## Instructor
+
+- [[Amanda Stockwell]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- User Experience Design (UED)
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - skill/digital-accessibility
   - skill/accessibility-audits
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Auditing%20Design%20Systems%20for%20Accessibility.md)
 
 ![Auditing Design Systems for Accessibility](https://media.licdn.com/dms/image/v2/D560DAQGImVlAf-KYqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691086537263?e=2147483647&amp;v=beta&amp;t=OFUCqoFyx35GF1O4VRzXvUfvO1-6mP_24yGoeAyaB2o)
 
@@ -40,23 +42,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility) | 1h 31m | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Anna Cook]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Design Systems
-- Digital Accessibility
-- Accessibility Audits
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Accessibility, Design, and Development** (4 videos)
+- **3. 2. Design Systems and Accessibility** (4 videos)
+- **4. 3. Setting Up a Design System Audit** (5 videos)
+- **5. 4. Auditing a Design System for Accessibility** (4 videos)
+- **6. 5. Documenting a Design System Accessibility Audit** (4 videos)
+- **7. 6. Acting on a Design System Accessibility Audit** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Auditing design systems for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/auditing-design-systems-for-accessibility?u=76281980)
@@ -148,7 +147,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### 1. Accessibility, Design, and Development
+### 2. 1. Accessibility, Design, and Development
 
 #### Why accessibility matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters?u=76281980)
@@ -421,7 +420,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Design Systems and Accessibility
+### 3. 2. Design Systems and Accessibility
 
 #### Atomic design principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980)
@@ -681,7 +680,7 @@ created: 2026-04-21
 > **Speakers:** - accessibility (1)
 
 
-### 3. Setting Up a Design System Audit
+### 4. 3. Setting Up a Design System Audit
 
 #### What is an accessibility audit?
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980)
@@ -1078,7 +1077,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 4. Auditing a Design System for Accessibility
+### 5. 4. Auditing a Design System for Accessibility
 
 #### Reviewing designs for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980)
@@ -1379,7 +1378,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 5. Documenting a Design System Accessibility Audit
+### 6. 5. Documenting a Design System Accessibility Audit
 
 #### Adding issues to your original document
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/adding-issues-to-your-original-document?u=76281980)
@@ -1729,7 +1728,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 6. Acting on a Design System Accessibility Audit
+### 7. 6. Acting on a Design System Accessibility Audit
 
 #### Sharing results with your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980)
@@ -2065,7 +2064,7 @@ created: 2026-04-21
 > **Speakers:** - for (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### There's no such thing as "perfect" accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980)
@@ -2143,6 +2142,20 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Anna Cook]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Design Systems
+- Digital Accessibility
+- Accessibility Audits
 
 ## Path Context
 

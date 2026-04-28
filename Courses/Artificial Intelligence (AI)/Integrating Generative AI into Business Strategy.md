@@ -33,8 +33,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Integrating%20Generative%20AI%20into%20Business%20Strategy.md)
 
 ![Integrating Generative AI into Business Strategy](https://media.licdn.com/dms/image/v2/D560DAQEcOVJOBn2aMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704764400565?e=2147483647&amp;v=beta&amp;t=w3HFY88QAGlt0GHUG8eybGc3N8IVF_sClTOQo4tJVco)
 
@@ -45,13 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy) | 36m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Chris McKay]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding AI Capabilities and Fundamentals** (2 videos)
+- **3. 2. Surveying Your Business Landscape** (3 videos)
+- **4. 3. Aligning AI with Your Business** (2 videos)
+- **5. 4. Guiding AI Adoption** (2 videos)
+- **6. 5. Evaluating AI Performance and Impact** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why a strategic framework is essential for AI adoption
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/why-a-strategic-framework-is-essential-for-ai-adoption?u=76281980)
@@ -124,7 +132,7 @@ created: 2026-04-21
 > **Speakers:** - adopting (1)
 
 
-### 1. Understanding AI Capabilities and Fundamentals
+### 2. 1. Understanding AI Capabilities and Fundamentals
 
 #### Invest in AI literacy to gain competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980)
@@ -286,7 +294,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 2. Surveying Your Business Landscape
+### 3. 2. Surveying Your Business Landscape
 
 #### Define AI technical requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980)
@@ -488,7 +496,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 3. Aligning AI with Your Business
+### 4. 3. Aligning AI with Your Business
 
 #### Develop an AI roadmap and tie goals to business value
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/develop-an-ai-roadmap-and-tie-goals-to-business-value?u=76281980)
@@ -609,7 +617,7 @@ created: 2026-04-21
 > **Speakers:** - organizing (1)
 
 
-### 4. Guiding AI Adoption
+### 5. 4. Guiding AI Adoption
 
 #### How to operationalize your AI strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980)
@@ -755,7 +763,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 5. Evaluating AI Performance and Impact
+### 6. 5. Evaluating AI Performance and Impact
 
 #### Assess generative AI outcomes to measure ROI
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/assess-generative-ai-outcomes-to-measure-roi?u=76281980)
@@ -863,7 +871,7 @@ created: 2026-04-21
 > **Speakers:** - implementing (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continue learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980)
@@ -888,6 +896,10 @@ created: 2026-04-21
 >
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Chris McKay]]
 
 ## Path Context
 

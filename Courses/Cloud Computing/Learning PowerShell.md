@@ -30,35 +30,31 @@ tags:
   - topic/network-and-system-administration
   - skill/powershell
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20PowerShell.md)
 
 ![Learning PowerShell](https://media.licdn.com/dms/image/v2/C4E0DAQFxHzcSpPEySg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580334496275?e=2147483647&amp;v=beta&amp;t=hn8Kw-OVTcWy6hLm4mrUpj-qpbrTuq2H5ch7LpG7grc)
 
 # Learning PowerShell
 
-> What is PowerShell? PowerShell is a powerful language used for scripting and automation for your IT Infrastructure. In this short course, author Matt Hester provides an overview of the most current release, PowerShell 5.0, including how to read the PowerShell language and scripts, get help, and use cmdlets.
-
-Matt then dives into PowerShell's functions and What If statements, working with output,
+> What is PowerShell? PowerShell is a powerful language used for scripting and automation for your IT Infrastructure. In this short course, author Matt Hester provides an overview of the most current release, PowerShell 5.0, including how to read the PowerShell language and scripts, get help, and use cmdlets. Matt then dives into PowerShell's functions and What If statements, working with output, an
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell) | 1h 23m | Beginner | 54K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Matt Hester]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Powershell
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. PowerShell Overview** (5 videos)
+- **3. 2. Using PowerShell** (6 videos)
+- **4. 3. Taking PowerShell On Premises and Online** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980)
@@ -187,7 +183,7 @@ Matt then dives into PowerShell's functions and What If statements, working with
 > **Speakers:** - [voiceover] (1)
 
 
-### 1. PowerShell Overview
+### 2. 1. PowerShell Overview
 
 #### Why PowerShell?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980)
@@ -841,7 +837,7 @@ Matt then dives into PowerShell's functions and What If statements, working with
 > **Speakers:** - [voiceover] (1)
 
 
-### 2. Using PowerShell
+### 3. 2. Using PowerShell
 
 #### Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/functions?u=76281980)
@@ -1493,7 +1489,7 @@ Matt then dives into PowerShell's functions and What If statements, working with
 > **Speakers:** - [voiceover] (1)
 
 
-### 3. Taking PowerShell On Premises and Online
+### 4. 3. Taking PowerShell On Premises and Online
 
 #### Finding and installing modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980)
@@ -2237,7 +2233,7 @@ Matt then dives into PowerShell's functions and What If statements, working with
 > **Code Identifiers:** macos (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980)
@@ -2341,6 +2337,18 @@ Matt then dives into PowerShell's functions and What If statements, working with
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [matt] (1)
 
+
+## Instructor
+
+- [[Matt Hester]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Powershell
 
 ## Path Context
 

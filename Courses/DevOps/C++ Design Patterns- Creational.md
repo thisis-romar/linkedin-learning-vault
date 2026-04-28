@@ -31,8 +31,10 @@ tags:
   - skill/design-patterns
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C%2B%2B%20Design%20Patterns-%20Creational.md)
 
 ![C++ Design Patterns: Creational](https://media.licdn.com/dms/image/v2/C4E0DAQH2K0uOcqWipQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568061261682?e=2147483647&amp;v=beta&amp;t=KNCfW_gEMKn0nvczOwD78cDU4jVOIIGJeaNcNnPvOK0)
 
@@ -43,22 +45,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational) | 2h 26m | Intermediate | 87K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Olivia Chiu Stone]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Design Patterns
-- C++
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (6 videos)
+- **2. 1. Design Patterns Overview** (3 videos)
+- **3. 2. Creational Patterns** (4 videos)
+- **4. 3. Factory Method** (4 videos)
+- **5. 4. Abstract Factory** (7 videos)
+- **6. 5. Builder** (5 videos)
+- **7. 6. Prototype** (4 videos)
+- **8. 7. Singleton** (4 videos)
+- **9. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Organize your code with creational design patterns in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/organize-your-code-with-creational-design-patterns-in-c-plus-plus?u=76281980)
@@ -294,7 +295,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Design Patterns Overview
+### 2. 1. Design Patterns Overview
 
 #### The need for a design pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/the-need-for-a-design-pattern-14324290?u=76281980)
@@ -480,7 +481,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creational Patterns
+### 3. 2. Creational Patterns
 
 #### Inheritance vs. composition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980)
@@ -796,7 +797,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Factory Method
+### 4. 3. Factory Method
 
 #### Factory Method concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-concept-14318551?u=76281980)
@@ -1102,7 +1103,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Abstract Factory
+### 5. 4. Abstract Factory
 
 #### Abstract Factory concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-concept-14322469?u=76281980)
@@ -1747,7 +1748,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Builder
+### 6. 5. Builder
 
 #### Builder concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-concept-14324293?u=76281980)
@@ -2194,7 +2195,7 @@ created: 2026-04-21
 > **Speakers:** - unlike (1)
 
 
-### 6. Prototype
+### 7. 6. Prototype
 
 #### Prototype concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/prototype-concept-14317586?u=76281980)
@@ -2522,7 +2523,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Singleton
+### 8. 7. Singleton
 
 #### Singleton concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/singleton-concept-14319525?u=76281980)
@@ -2877,7 +2878,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Comparing creational patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980)
@@ -2996,6 +2997,19 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - [olivia] (1)
 
+
+## Instructor
+
+- [[Olivia Chiu Stone]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Design Patterns
+- C++
 
 ## Path Context
 

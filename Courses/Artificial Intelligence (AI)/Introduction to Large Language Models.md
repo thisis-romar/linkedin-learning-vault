@@ -37,8 +37,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Large%20Language%20Models.md)
 
 ![Introduction to Large Language Models](https://media.licdn.com/dms/image/v2/D4D0DAQGize-99tNZlw/learning-public-crop_675_1200/B4DZWV8iVKGkAY-/0/1741977430144?e=2147483647&amp;v=beta&amp;t=ACLwhEwhziBZOyMSYJ448R9MQ7oBeJgYn7BtMLc0j4c)
 
@@ -49,23 +51,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models) | 1h 17m | Intermediate | 104K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jonathan Fernandes]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-large-language-models-4410730/codespaces)
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Transformers in NLP** (3 videos)
+- **3. 2. Large Language Model Components** (4 videos)
+- **4. 3. Large Language Models** (11 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The impact and functionality of large language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/the-impact-and-functionality-of-large-language-models?u=76281980)
@@ -88,7 +84,7 @@ created: 2026-04-21
 > **Speakers:** - [jonathan] (1)
 
 
-### 1. Transformers in NLP
+### 2. 1. Transformers in NLP
 
 #### What are large language models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980)
@@ -379,7 +375,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Large Language Model Components
+### 3. 2. Large Language Model Components
 
 #### Transformer architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/transformer-architecture?u=76281980)
@@ -661,7 +657,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Large Language Models
+### 4. 3. Large Language Models
 
 #### BERT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980)
@@ -1828,7 +1824,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Going further with large language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/going-further-with-large-language-models?u=76281980)
@@ -1850,6 +1846,20 @@ created: 2026-04-21
 > **Env Vars:** nlp (1), bert (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jonathan Fernandes]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-large-language-models-4410730/codespaces)
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
 
 ## Path Context
 

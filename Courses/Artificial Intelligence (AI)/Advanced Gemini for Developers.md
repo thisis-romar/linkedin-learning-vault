@@ -35,8 +35,10 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20Gemini%20for%20Developers.md)
 
 ![Advanced Gemini for Developers](https://media.licdn.com/dms/image/v2/D4E0DAQEshb8nqs80JA/learning-public-crop_675_1200/B4EZbPqixaHcAY-/0/1747240759192?e=2147483647&amp;v=beta&amp;t=EQn4fkXcLjum3XMCLiWtSqsP6g0aA_mhH7mw1h2mMtA)
 
@@ -47,20 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582) | 1h 11m | Advanced | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lynn Langit]]
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- Google Gemini
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Test Prompts** (4 videos)
+- **3. 2. Manage Prompts** (4 videos)
+- **4. 3. Use Model Garden** (4 videos)
+- **5. 4. Build AI Applications** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Creating enterprise GenAI apps with Google Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980)
@@ -89,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - [lynn] (1)
 
 
-### 1. Test Prompts
+### 2. 1. Test Prompts
 
 #### Test prompts with Prompt Tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980)
@@ -418,7 +418,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Manage Prompts
+### 3. 2. Manage Prompts
 
 #### Use Prompt Management to write prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980)
@@ -846,7 +846,7 @@ created: 2026-04-21
 > **Documentation:** the documentation (2)
 
 
-### 3. Use Model Garden
+### 4. 3. Use Model Garden
 
 #### Test Gemini and Gemma models
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980)
@@ -1245,7 +1245,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Build AI Applications
+### 5. 4. Build AI Applications
 
 #### Explore AI applications and Vertex AI Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980)
@@ -1635,7 +1635,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980)
@@ -1677,6 +1677,17 @@ created: 2026-04-21
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Lynn Langit]]
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
+- Google Gemini
 
 ## Path Context
 

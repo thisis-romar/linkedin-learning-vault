@@ -27,8 +27,10 @@ tags:
   - topic/software-development
   - skill/google-drive
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Drive%20Essential%20Training%20(2023).md)
 
 ![Google Drive Essential Training (2023)](https://media.licdn.com/dms/image/v2/D560DAQHHBc7o5xcojg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684513418360?e=2147483647&amp;v=beta&amp;t=wCcpazZRYaaD2fBVttj8i5ZQcWQAxW-dwC8_nKisdS8)
 
@@ -39,17 +41,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023) | 1h 10m | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jess Stratton]]
-
-## Skills Covered
-
-- Google Drive
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Get Started with Google Drive** (3 videos)
+- **3. 2. Work with Files** (6 videos)
+- **4. 3. Organize and Search Google Drive** (6 videos)
+- **5. 4. Work with Google Docs** (2 videos)
+- **6. 5. Collaborate with Google Docs** (6 videos)
+- **7. 6. Use Google Drive on a Mobile Device** (1 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Do more than store files with Google Drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980)
@@ -89,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 1. Get Started with Google Drive
+### 2. 1. Get Started with Google Drive
 
 #### Access Google Drive with your account
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/access-google-drive-with-your-account?u=76281980)
@@ -302,7 +307,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Work with Files
+### 3. 2. Work with Files
 
 #### Upload files via the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980)
@@ -775,7 +780,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Organize and Search Google Drive
+### 4. 3. Organize and Search Google Drive
 
 #### Work with folders
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-folders?u=76281980)
@@ -1294,7 +1299,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Work with Google Docs
+### 5. 4. Work with Google Docs
 
 #### Create Docs, Sheets, Slides, and Forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980)
@@ -1423,7 +1428,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Collaborate with Google Docs
+### 6. 5. Collaborate with Google Docs
 
 #### Share files with other Google users
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980)
@@ -1936,7 +1941,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Use Google Drive on a Mobile Device
+### 7. 6. Use Google Drive on a Mobile Device
 
 #### Navigate the Google Drive app
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-google-drive-app?u=76281980)
@@ -2017,7 +2022,7 @@ created: 2026-04-21
 > **Speakers:** - [announcer] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Take Drive further by mastering Google Docs
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980)
@@ -2045,6 +2050,14 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [jess] (1)
 
+
+## Instructor
+
+- [[Jess Stratton]]
+
+## Skills Covered
+
+- Google Drive
 
 ## Path Context
 

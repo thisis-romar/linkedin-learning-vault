@@ -34,8 +34,10 @@ tags:
   - skill/database-design
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20Project-%20Design%20and%20Manage%20a%20Database.md)
 
 ![Advanced SQL Project: Design and Manage a Database](https://media.licdn.com/dms/image/v2/D560DAQF3hIFhC6uk-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722368507963?e=2147483647&amp;v=beta&amp;t=jrn578U-t28Q6qjuokEAWvXECBVUH6JviCqU4OpqfKA)
 
@@ -46,23 +48,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database) | 2h 24m | Advanced | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Walter Shields]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Extract, Transform, Load (ETL)
-- Database Design
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. Module 1: Understanding Database Needs and Planning** (4 videos)
+- **3. Module 2: Implementing Database Design** (4 videos)
+- **4. Module 3: Extract, Transform, Load (ETL) Basics** (2 videos)
+- **5. Module 4: Loading Data into the Database** (4 videos)
+- **6. Module 5: Writing Basic to Complex SQL Queries** (2 videos)
+- **7. Module 6: Query Optimization and Large Dataset Management** (2 videos)
+- **8. Module 7: Bringing It All Together** (2 videos)
+- **9. Conclusion** (3 videos)
+
+### 1. Introduction
 
 #### Advanced SQL project intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-sql-project-intro?u=76281980)
@@ -166,7 +166,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Module 1: Understanding Database Needs and Planning
+### 2. Module 1: Understanding Database Needs and Planning
 
 #### Conceptualizing the music database
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980)
@@ -512,7 +512,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Module 2: Implementing Database Design
+### 3. Module 2: Implementing Database Design
 
 #### Introduction to database normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980)
@@ -892,7 +892,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Module 3: Extract, Transform, Load (ETL) Basics
+### 4. Module 3: Extract, Transform, Load (ETL) Basics
 
 #### Overview of ETL processes and tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980)
@@ -1331,7 +1331,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### Module 4: Loading Data into the Database
+### 5. Module 4: Loading Data into the Database
 
 #### Understanding data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/understanding-data-pipelines?u=76281980)
@@ -1703,7 +1703,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Module 5: Writing Basic to Complex SQL Queries
+### 6. Module 5: Writing Basic to Complex SQL Queries
 
 #### Introduction to SQL queries (basic, aggregate, joins)
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-sql-queries-basic-aggrigate-joins?u=76281980)
@@ -1931,7 +1931,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Module 6: Query Optimization and Large Dataset Management
+### 7. Module 6: Query Optimization and Large Dataset Management
 
 #### Techniques for optimizing SQL queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980)
@@ -2320,7 +2320,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (2)
 
 
-### Module 7: Bringing It All Together
+### 8. Module 7: Bringing It All Together
 
 #### Final project
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/final-project?u=76281980)
@@ -2537,7 +2537,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Reflect on the knowledge and skills acquired
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/reflect-on-the-knowledge-and-skills-acquired?u=76281980)
@@ -2642,6 +2642,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Walter Shields]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Extract, Transform, Load (ETL)
+- Database Design
+- SQL
 
 ## Path Context
 

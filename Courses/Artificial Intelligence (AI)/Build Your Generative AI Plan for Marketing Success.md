@@ -32,34 +32,32 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20Your%20Generative%20AI%20Plan%20for%20Marketing%20Success.md)
 
 ![Build Your Generative AI Plan for Marketing Success](https://media.licdn.com/dms/image/v2/D4D0DAQG5lZLQiFF0xQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721766754918?e=2147483647&amp;v=beta&amp;t=1MNPyCxCx_BAyTkDjbvb7itgg_ipW2HsrOQQ-WikOrs)
 
 # Build Your Generative AI Plan for Marketing Success
 
-> Harness the power of generative AI to transform marketing. In this course, marketing and AI expert Jim Sterne shares real-world examples on how generative AI can optimize your marketing by automating time-consuming administrative and analytical tasks. 
-
-Explore the transformative impact of generative AI on the marketing industry and make an in-depth examination of the practical applications of thi
+> Harness the power of generative AI to transform marketing. In this course, marketing and AI expert Jim Sterne shares real-world examples on how generative AI can optimize your marketing by automating time-consuming administrative and analytical tasks. Explore the transformative impact of generative AI on the marketing industry and make an in-depth examination of the practical applications of this 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success) | 53m | Beginner | 133K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jim Sterne]]
-
-## Skills Covered
-
-- Generative AI for Marketing
-- Digital Marketing
-- Artificial Intelligence (AI)
-- Generative AI Tools
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Delegate Marketing Tasks to Your AI Deputy** (5 videos)
+- **3. 2. Create Your Own Marketing Analytics Assistant** (3 videos)
+- **4. 3. Boost Your Career with a Strategic Brainstorming Partner** (4 videos)
+- **5. 4. Becoming a Marketing Trailblazer with Generative AI** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Practical applications of generative AI for marketers
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/practical-applications-of-generative-ai-for-marketers?u=76281980)
@@ -100,7 +98,7 @@ Explore the transformative impact of generative AI on the marketing industry and
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Delegate Marketing Tasks to Your AI Deputy
+### 2. 1. Delegate Marketing Tasks to Your AI Deputy
 
 #### Analogies for working with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980)
@@ -524,7 +522,7 @@ Explore the transformative impact of generative AI on the marketing industry and
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Create Your Own Marketing Analytics Assistant
+### 3. 2. Create Your Own Marketing Analytics Assistant
 
 #### Creative campaign development with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/creative-campaign-development-with-generative-ai?u=76281980)
@@ -712,7 +710,7 @@ Explore the transformative impact of generative AI on the marketing industry and
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Boost Your Career with a Strategic Brainstorming Partner
+### 4. 3. Boost Your Career with a Strategic Brainstorming Partner
 
 #### Asking generative AI to help you ask it
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980)
@@ -1062,7 +1060,7 @@ Explore the transformative impact of generative AI on the marketing industry and
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Becoming a Marketing Trailblazer with Generative AI
+### 5. 4. Becoming a Marketing Trailblazer with Generative AI
 
 #### Organizational readiness and executive alignment
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980)
@@ -1357,7 +1355,7 @@ Explore the transformative impact of generative AI on the marketing industry and
 > **Speakers:** - [lecturer] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continuing to leverage AI to support your marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/continuing-to-leverage-ai-to-support-your-marketing?u=76281980)
@@ -1391,6 +1389,17 @@ Explore the transformative impact of generative AI on the marketing industry and
 > **Env Vars:** gpt (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Jim Sterne]]
+
+## Skills Covered
+
+- Generative AI for Marketing
+- Digital Marketing
+- Artificial Intelligence (AI)
+- Generative AI Tools
 
 ## Path Context
 

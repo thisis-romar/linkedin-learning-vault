@@ -31,8 +31,10 @@ tags:
   - skill/local-area-network-lan
   - skill/computer-networking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Networking%20Foundations-%20Local%20Area%20Networks%20(LANs).md)
 
 ![Networking Foundations: Local Area Networks (LANs)](https://media.licdn.com/dms/image/v2/D560DAQEkH7sUTxptyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727811525153?e=2147483647&amp;v=beta&amp;t=OQLvaoUwMZixXvBcDnTbWqF20PwgcnqhLtGxKLGIOow)
 
@@ -43,22 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603) | 1h 15m | Beginner | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jarrel Rivera]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Local Area Network (LAN)
-- Computer Networking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Local Area Network (LAN)** (3 videos)
+- **3. 2. Wired LAN** (6 videos)
+- **4. 3. Wireless LAN** (3 videos)
+- **5. 4. LAN Configurations** (4 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Learning networking foundations: LANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/learning-networking-foundations-lans?u=76281980)
@@ -114,7 +112,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Local Area Network (LAN)
+### 2. 1. Local Area Network (LAN)
 
 #### What is a LAN?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980)
@@ -446,7 +444,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Wired LAN
+### 3. 2. Wired LAN
 
 #### What is Ethernet?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980)
@@ -983,7 +981,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Wireless LAN
+### 4. 3. Wireless LAN
 
 #### What is wireless LAN?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980)
@@ -1273,7 +1271,7 @@ created: 2026-04-21
 > **Cross-References:** we covered (1), previous video (1)
 
 
-### 4. LAN Configurations
+### 5. 4. LAN Configurations
 
 #### DHCP: Dynamic Host Configuration Protocol
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980)
@@ -1567,7 +1565,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### LAN troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980)
@@ -1767,6 +1765,19 @@ created: 2026-04-21
 > **Env Vars:** lan (3), wan (1), dns (1)
 > **Speakers:** - [host] (1)
 
+
+## Instructor
+
+- [[Jarrel Rivera]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Local Area Network (LAN)
+- Computer Networking
 
 ## Path Context
 

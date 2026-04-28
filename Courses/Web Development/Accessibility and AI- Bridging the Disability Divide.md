@@ -21,8 +21,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Accessibility%20and%20AI-%20Bridging%20the%20Disability%20Divide.md)
 
 ![Accessibility and AI: Bridging the Disability Divide](https://media.licdn.com/dms/image/v2/D560DAQFdP_ttEz6_NQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719009002253?e=2147483647&amp;v=beta&amp;t=tT4XgbFK34Za5fNCFkeOscThp9quPmtuY5eL4F-oxhA)
 
@@ -33,14 +35,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide) | 1h 7m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kartik Sawhney]]
-- [[Ioana Tanase]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Design and Innovation** (3 videos)
+- **3. 2. AI and Accessibility** (3 videos)
+- **4. 3. Accessible Copilots** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Breaking barriers in accessibility and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980)
@@ -69,7 +74,7 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 
 
-### 1. Design and Innovation
+### 2. 1. Design and Innovation
 
 #### The case for AI innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980)
@@ -297,7 +302,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 2. AI and Accessibility
+### 3. 2. AI and Accessibility
 
 #### Integrating APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980)
@@ -539,7 +544,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### 3. Accessible Copilots
+### 4. 3. Accessible Copilots
 
 #### Copilot accessibility considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980)
@@ -707,7 +712,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Bridging the disability divide
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980)
@@ -746,6 +751,11 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Kartik Sawhney]]
+- [[Ioana Tanase]]
 
 ## Path Context
 

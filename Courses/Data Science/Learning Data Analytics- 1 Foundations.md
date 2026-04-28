@@ -43,8 +43,10 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Data%20Analytics-%201%20Foundations.md)
 
 ![Learning Data Analytics: 1 Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQFGmlfFOyWc7g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618937081114?e=2147483647&amp;v=beta&amp;t=tR__EzRzVFkcrxKweGH00afFxibABElaYg0LeXaMNOk)
 
@@ -55,21 +57,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations) | 3h 29m | Beginner | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Robin Hunt]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started with Data Analysis** (5 videos)
+- **3. 2. Fundamentals of Data Understanding** (7 videos)
+- **4. 3. Key Elements to Understand when Starting Data Analysis** (8 videos)
+- **5. 4. Getting Started with a Data Project** (6 videos)
+- **6. 5. Data Importing, Exporting, and Connections** (5 videos)
+- **7. 6. Getting Started with Data Cleaning and Modeling** (8 videos)
+- **8. 7. Applying Common Techniques for All Data Analysts** (8 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Beginning your data analysis journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=76281980)
@@ -135,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with Data Analysis
+### 2. 1. Getting Started with Data Analysis
 
 #### Defining data analysis and data analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980)
@@ -560,7 +562,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Fundamentals of Data Understanding
+### 3. 2. Fundamentals of Data Understanding
 
 #### Learning to identify data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-identify-data?u=76281980)
@@ -1263,7 +1265,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Key Elements to Understand when Starting Data Analysis
+### 4. 3. Key Elements to Understand when Starting Data Analysis
 
 #### Learning to interpret existing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-interpret-existing-data?u=76281980)
@@ -1978,7 +1980,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Getting Started with a Data Project
+### 5. 4. Getting Started with a Data Project
 
 #### Getting started with data projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980)
@@ -2727,7 +2729,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 5. Data Importing, Exporting, and Connections
+### 6. 5. Data Importing, Exporting, and Connections
 
 #### Learning about data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980)
@@ -3358,7 +3360,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Getting Started with Data Cleaning and Modeling
+### 7. 6. Getting Started with Data Cleaning and Modeling
 
 #### Understanding ETL in data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-etl-in-data?u=76281980)
@@ -4453,7 +4455,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Applying Common Techniques for All Data Analysts
+### 8. 7. Applying Common Techniques for All Data Analysts
 
 #### Convert data in Power Query
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/convert-data-in-power-query?u=76281980)
@@ -5244,7 +5246,7 @@ created: 2026-04-21
 > **Non-Speech:** (joyful music) (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### More resources for your learning data analytics journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980)
@@ -5274,6 +5276,18 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - [robin] (1)
 
+
+## Instructor
+
+- [[Robin Hunt]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Analytics
 
 ## Path Context
 

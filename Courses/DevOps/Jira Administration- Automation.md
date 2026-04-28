@@ -31,8 +31,10 @@ tags:
   - skill/jira
   - skill/automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira%20Administration-%20Automation.md)
 
 ![Jira Administration: Automation](https://media.licdn.com/dms/image/v2/D560DAQF4RCJpNVFiUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729015553323?e=2147483647&amp;v=beta&amp;t=KCk5B6KpJmrLdmUXeWewhgUirGf7X2x4sOa7T7Q0K-8)
 
@@ -43,22 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation) | 1h 57m | Advanced | 31K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rachel Wright]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Jira
-- Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. What Is Automation?** (3 videos)
+- **3. 2. Jira Automation Concepts** (10 videos)
+- **4. 3. Managing Automation Rules** (7 videos)
+- **5. 4. Extending Capabilities with Smart Values** (8 videos)
+- **6. 5. Use Cases and Examples** (9 videos)
+- **7. 6. Automation with Apps** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Automating common Jira activities
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980)
@@ -303,7 +303,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 1. What Is Automation?
+### 2. 1. What Is Automation?
 
 #### Levels of automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/levels-of-automation?u=76281980)
@@ -451,7 +451,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 2. Jira Automation Concepts
+### 3. 2. Jira Automation Concepts
 
 #### Using automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980)
@@ -1150,7 +1150,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### 3. Managing Automation Rules
+### 4. 3. Managing Automation Rules
 
 #### Maintaining rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/maintaining-rules?u=76281980)
@@ -1685,7 +1685,7 @@ created: 2026-04-21
 > **Non-Speech:** (gentle music) (1)
 
 
-### 4. Extending Capabilities with Smart Values
+### 5. 4. Extending Capabilities with Smart Values
 
 #### Using smart values
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-smart-values?u=76281980)
@@ -2253,7 +2253,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Use Cases and Examples
+### 6. 5. Use Cases and Examples
 
 #### Communicating information
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980)
@@ -2657,7 +2657,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Automation with Apps
+### 7. 6. Automation with Apps
 
 #### Post functions with JMWE
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/post-functions-with-jmwe?u=76281980)
@@ -3008,7 +3008,7 @@ created: 2026-04-21
 > **Speakers:** - finally (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980)
@@ -3074,6 +3074,19 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - congrats (1)
 
+
+## Instructor
+
+- [[Rachel Wright]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Jira
+- Automation
 
 ## Path Context
 

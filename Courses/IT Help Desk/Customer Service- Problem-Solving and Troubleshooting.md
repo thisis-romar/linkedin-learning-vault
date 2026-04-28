@@ -38,8 +38,10 @@ tags:
   - skill/problem-solving
   - skill/customer-service
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Customer%20Service-%20Problem-Solving%20and%20Troubleshooting.md)
 
 ![Customer Service: Problem-Solving and Troubleshooting](https://media.licdn.com/dms/image/v2/C560DAQEjBF7BQPTFmA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666893705579?e=2147483647&amp;v=beta&amp;t=JNUfWyuH0_jteUgcOfKlFo6vWzQsxTDXDxVTJ2XET5M)
 
@@ -50,23 +52,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212) | 35m | Beginner | 33K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Noah Fleming]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Troubleshooting
-- Problem Solving
-- Customer Service
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Common Sense Customer Service: A Two-Step Approach** (3 videos)
+- **3. 2. Critical Customer Service Problem-Solving Skills** (3 videos)
+- **4. 3. Critical Troubleshooting Skills** (3 videos)
+- **5. 4. Customer Service Mindset and Playbook** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build your customer service skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-customer-service-skills?u=76281980)
@@ -164,7 +161,7 @@ created: 2026-04-21
 > **Speakers:** - ask (1)
 
 
-### 1. Common Sense Customer Service: A Two-Step Approach
+### 2. 1. Common Sense Customer Service: A Two-Step Approach
 
 #### Explore a model for common sense customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/explore-a-model-for-common-sense-customer-service?u=76281980)
@@ -389,7 +386,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 2. Critical Customer Service Problem-Solving Skills
+### 3. 2. Critical Customer Service Problem-Solving Skills
 
 #### Diagnose a customer's concerns as the first step
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/diagnose-a-customer-s-concerns-as-the-first-step?u=76281980)
@@ -630,7 +627,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 3. Critical Troubleshooting Skills
+### 4. 3. Critical Troubleshooting Skills
 
 #### Calming down angry and upset customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/calming-down-angry-and-upset-customers?u=76281980)
@@ -868,7 +865,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 4. Customer Service Mindset and Playbook
+### 5. 4. Customer Service Mindset and Playbook
 
 #### Maintain your mindset during stressful times
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/maintain-your-mindset-during-stressful-times?u=76281980)
@@ -1010,7 +1007,7 @@ created: 2026-04-21
 > **Speakers:** - look (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Being strong at problem-solving and troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/being-strong-at-problem-solving-and-troubleshooting?u=76281980)
@@ -1056,6 +1053,20 @@ created: 2026-04-21
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - how (1)
 
+
+## Instructor
+
+- [[Noah Fleming]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Troubleshooting
+- Problem Solving
+- Customer Service
 
 ## Path Context
 

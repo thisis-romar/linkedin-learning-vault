@@ -27,8 +27,10 @@ tags:
   - skill/cloud-foundations
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Foundations.md)
 
 ![Google Cloud Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQFtf4ukot7t9w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643303075841?e=2147483647&amp;v=beta&amp;t=a0cWG8fR2JYv0rWLoTKCj2X37FpBgss5lfXWlQTfTrc)
 
@@ -39,14 +41,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations) | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Cloud Foundations
-- Google Cloud Platform (GCP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Google Cloud Compliance Requirements** (2 videos)
+- **3. 2. Gemini for Google Cloud overview** (2 videos)
+- **4. 3. Google Cloud Resource Hierarchy** (2 videos)
+- **5. 4. Controlling and Optimizing Google Cloud Costs** (3 videos)
+- **6. 5. Google Cloud Geographical Segmentation Strategy** (2 videos)
+- **7. 6. Google Cloud Support Options** (2 videos)
+- **8. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Understanding Google Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud?u=76281980)
@@ -105,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Google Cloud Compliance Requirements
+### 2. 1. Google Cloud Compliance Requirements
 
 #### Understanding Google Cloud compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980)
@@ -208,7 +216,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Gemini for Google Cloud overview
+### 3. 2. Gemini for Google Cloud overview
 
 #### How Gemini works and uses your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980)
@@ -360,7 +368,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Google Cloud Resource Hierarchy
+### 4. 3. Google Cloud Resource Hierarchy
 
 #### Understanding Google Cloud resources and hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980)
@@ -551,7 +559,7 @@ created: 2026-04-21
 > **URLs:** [yahoo.com](https://yahoo.com) (1)
 
 
-### 4. Controlling and Optimizing Google Cloud Costs
+### 5. 4. Controlling and Optimizing Google Cloud Costs
 
 #### Google Cloud billing fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980)
@@ -819,7 +827,7 @@ created: 2026-04-21
 > **Code Identifiers:** vcpus (1)
 
 
-### 5. Google Cloud Geographical Segmentation Strategy
+### 6. 5. Google Cloud Geographical Segmentation Strategy
 
 #### Breaking down Google's network infrastucture
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980)
@@ -1057,7 +1065,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Google Cloud Support Options
+### 7. 6. Google Cloud Support Options
 
 #### Using Google Cloud support
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980)
@@ -1216,7 +1224,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Google Cloud certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980)
@@ -1324,6 +1332,11 @@ created: 2026-04-21
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Skills Covered
+
+- Cloud Foundations
+- Google Cloud Platform (GCP)
 
 ## Path Context
 

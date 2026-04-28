@@ -28,8 +28,10 @@ tags:
   - skill/adobe-xd
   - skill/user-interface-prototyping
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Adobe%20XD%20Essential%20Training-%20Prototype.md)
 
 ![Adobe XD Essential Training: Prototype](https://media.licdn.com/dms/image/v2/C560DAQEXXWYA_QRuDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635877344665?e=2147483647&amp;v=beta&amp;t=5rcMogn5-W2jzc436Frp4YlETSFrWfO3lGwfDMIMFOQ)
 
@@ -40,22 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype) | 1h 17m | 101K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dani Beaumont]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Adobe XD
-- User Interface Prototyping
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Windows Management** (3 videos)
+- **3. 2. Triggers and Interactions** (10 videos)
+- **4. 3. Auto-Animate Interactions** (5 videos)
+- **5. 4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to Adobe XD: Prototype
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/welcome-to-adobe-xd-prototype?u=76281980)
@@ -90,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Windows Management
+### 2. 1. Windows Management
 
 #### Desktop preview app
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980)
@@ -263,7 +260,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Triggers and Interactions
+### 3. 2. Triggers and Interactions
 
 #### Tap and Previous Artboard transition
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980)
@@ -1352,7 +1349,7 @@ created: 2026-04-21
 > **Prerequisites:** make sure you have (1)
 
 
-### 3. Auto-Animate Interactions
+### 4. 3. Auto-Animate Interactions
 
 #### Introducing auto-animate
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/introducing-auto-animate?u=76281980)
@@ -1846,7 +1843,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### 5. 4. Conclusion
 
 #### Where to go to from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/where-to-go-to-from-here?u=76281980)
@@ -1867,6 +1864,19 @@ created: 2026-04-21
 >
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Dani Beaumont]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Adobe XD
+- User Interface Prototyping
 
 ## Path Context
 

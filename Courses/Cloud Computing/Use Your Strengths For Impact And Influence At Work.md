@@ -27,32 +27,31 @@ tags:
   - skill/strengths-development
   - skill/influencing-others
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Use%20Your%20Strengths%20For%20Impact%20And%20Influence%20At%20Work.md)
 
 ![Use Your Strengths For Impact And Influence At Work](https://media.licdn.com/dms/image/v2/D560DAQFoq6hzM0BbPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684876640638?e=2147483647&amp;v=beta&amp;t=pbUd8A3if3PWNolV9qEqZChZShzcZWDRqEOJNEcbBJM)
 
 # Use Your Strengths For Impact And Influence At Work
 
-> Your ability to make an impact and influence those around you is crucial to your career.
-We all have friends and colleagues who always seem to get the best opportunities. If you’ve often wondered why, it’s not by luck. These people have learned the skills to be persuasive and engaging so that others are naturally drawn to them.
-In this course, Marielle Legair teaches you how to identify and commun
+> Your ability to make an impact and influence those around you is crucial to your career. We all have friends and colleagues who always seem to get the best opportunities. If you’ve often wondered why, it’s not by luck. These people have learned the skills to be persuasive and engaging so that others are naturally drawn to them. In this course, Marielle Legair teaches you how to identify and commun
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work) | 75K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Strengths Development
-- Influencing Others
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Develop Inner Self-Mastery** (3 videos)
+- **3. 2. What Makes You Unique?** (3 videos)
+- **4. 3. Build Your Professional Presence** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of your professional strengths
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/the-power-of-your-professional-strengths?u=76281980)
@@ -94,7 +93,7 @@ In this course, Marielle Legair teaches you how to identify and commun
 > **Speakers:** - you (1)
 
 
-### 1. Develop Inner Self-Mastery
+### 2. 1. Develop Inner Self-Mastery
 
 #### Manage self-talk
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/manage-self-talk?u=76281980)
@@ -376,7 +375,7 @@ In this course, Marielle Legair teaches you how to identify and commun
 > **Speakers:** - don (1)
 
 
-### 2. What Makes You Unique?
+### 3. 2. What Makes You Unique?
 
 #### Gain clarity on your strengths
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/gain-clarity-on-your-strengths?u=76281980)
@@ -626,7 +625,7 @@ In this course, Marielle Legair teaches you how to identify and commun
 > **Speakers:** - have (1)
 
 
-### 3. Build Your Professional Presence
+### 4. 3. Build Your Professional Presence
 
 #### Strengthen your confidence muscle
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/strengthen-your-confidence-muscle?u=76281980)
@@ -858,7 +857,7 @@ In this course, Marielle Legair teaches you how to identify and commun
 > **Speakers:** - when (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Put your strengths into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/put-your-strengths-into-practice?u=76281980)
@@ -899,6 +898,15 @@ In this course, Marielle Legair teaches you how to identify and commun
 > **URLs:** [mariellelegair.com](https://mariellelegair.com) (1)
 > **Speakers:** - congratulations (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Strengths Development
+- Influencing Others
 
 ## Path Context
 

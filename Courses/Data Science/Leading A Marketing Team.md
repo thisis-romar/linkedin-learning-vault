@@ -26,8 +26,10 @@ tags:
   - skill/marketing-leadership
   - skill/team-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Leading%20A%20Marketing%20Team.md)
 
 ![Leading A Marketing Team](https://media.licdn.com/dms/image/v2/C4E0DAQHFvbiMkPRnpA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619542882228?e=2147483647&amp;v=beta&amp;t=lEI1ZCvMA7ZlsIk6pO3dgIqv1pIrn34ZyyqEOxxMlqA)
 
@@ -38,14 +40,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team) | Intermediate | 157K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Marketing Leadership
-- Team Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Your Situation** (5 videos)
+- **3. 2. Building Your Strategy** (2 videos)
+- **4. 3. Building a Competent Team** (4 videos)
+- **5. 4. Running the Business** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### A challenging and critical role
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/a-challenging-and-critical-role?u=76281980)
@@ -88,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - congratulations (1)
 
 
-### 1. Understanding Your Situation
+### 2. 1. Understanding Your Situation
 
 #### Understand your boss's expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-boss-s-expectations-2?u=76281980)
@@ -541,7 +547,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 2. Building Your Strategy
+### 3. 2. Building Your Strategy
 
 #### Define marketing objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/define-marketing-objectives-2?u=76281980)
@@ -696,7 +702,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. Building a Competent Team
+### 4. 3. Building a Competent Team
 
 #### Assess your team's capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/assess-your-team-s-capabilities-2?u=76281980)
@@ -1033,7 +1039,7 @@ created: 2026-04-21
 > **Speakers:** - given (1)
 
 
-### 4. Running the Business
+### 5. 4. Running the Business
 
 #### Create key performance indicators
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/create-key-performance-indicators-2?u=76281980)
@@ -1293,7 +1299,7 @@ created: 2026-04-21
 > **Speakers:** - at (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continue developing your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/continue-developing-your-career?u=76281980)
@@ -1353,6 +1359,11 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
+
+## Skills Covered
+
+- Marketing Leadership
+- Team Leadership
 
 ## Path Context
 

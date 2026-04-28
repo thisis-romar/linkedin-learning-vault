@@ -32,8 +32,10 @@ tags:
   - skill/open-source-software
   - skill/network-security-implementation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Protecting%20Your%20Network%20with%20Open-Source%20Software.md)
 
 ![Protecting Your Network with Open-Source Software](https://media.licdn.com/dms/image/v2/D560DAQF4Rqy_zT2XWg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719436460654?e=2147483647&amp;v=beta&amp;t=gBoEWy_qQGu8mqh--H3uHjovOPqjKaRbjEuNsYT5e-c)
 
@@ -44,23 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358) | 2h 46m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jungwoo Ryoo]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Network Administration
-- Open-Source Software
-- Network Security Implementation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Understanding Open-Source Software** (5 videos)
+- **3. 2. Firewalls** (6 videos)
+- **4. 3. Host as a Router** (10 videos)
+- **5. 4. Host as a Network Firewall** (10 videos)
+- **6. 5. Packet Analysis** (7 videos)
+- **7. 6. IDSs and Vulnerability Assessment** (8 videos)
+- **8. 7. Logging and Monitoring** (6 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Protect your network with free and open-source software
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980)
@@ -149,7 +149,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding Open-Source Software
+### 2. 1. Understanding Open-Source Software
 
 #### What is open-source software?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980)
@@ -434,7 +434,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Firewalls
+### 3. 2. Firewalls
 
 #### What is a firewall?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980)
@@ -776,7 +776,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Host as a Router
+### 4. 3. Host as a Router
 
 #### Netfilter and iptables
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980)
@@ -1477,7 +1477,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Host as a Network Firewall
+### 5. 4. Host as a Network Firewall
 
 #### Setting up hosts as network firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980)
@@ -2128,7 +2128,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Packet Analysis
+### 6. 5. Packet Analysis
 
 #### What is packet analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980)
@@ -2549,7 +2549,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. IDSs and Vulnerability Assessment
+### 7. 6. IDSs and Vulnerability Assessment
 
 #### What is an IDS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980)
@@ -3111,7 +3111,7 @@ created: 2026-04-21
 > **Env Vars:** url (1)
 
 
-### 7. Logging and Monitoring
+### 8. 7. Logging and Monitoring
 
 #### Logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/logging?u=76281980)
@@ -3499,7 +3499,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980)
@@ -3524,6 +3524,20 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Jungwoo Ryoo]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Network Administration
+- Open-Source Software
+- Network Security Implementation
 
 ## Path Context
 

@@ -32,8 +32,10 @@ tags:
   - skill/memory-management
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Memory%20Management-%20Values%20and%20References.md)
 
 ![Java Memory Management: Values and References](https://media.licdn.com/dms/image/v2/D560DAQHNqyFy0rQSiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710461282859?e=2147483647&amp;v=beta&amp;t=LjUM--S07MjJJulmAJyTDydJrHCeGx4UeNVs489gpBI)
 
@@ -44,18 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references) | 1h 15m | Intermediate | 47K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Maaike van Putten]]
-
-## Skills Covered
-
-- Memory Management
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Java Memory Explained** (6 videos)
+- **3. 2. Values vs. References** (6 videos)
+- **4. 3. Careful: Escaping References** (6 videos)
+- **5. 4. Quick Peek at Next Steps** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Make beautiful stack overflow errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980)
@@ -114,7 +116,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/explore-the-code-challenge-enviornment?u=76281980)
 
 
-### 1. Java Memory Explained
+### 2. 1. Java Memory Explained
 
 #### What is Java memory?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980)
@@ -553,7 +555,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Values vs. References
+### 3. 2. Values vs. References
 
 #### Primitives
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives?u=76281980)
@@ -999,7 +1001,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/solution-making-an-object-immutable?u=76281980)
 
 
-### 3. Careful: Escaping References
+### 4. 3. Careful: Escaping References
 
 #### The problem of escaping references
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980)
@@ -1724,7 +1726,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/solution-fixing-an-escaping-reference?u=76281980)
 
 
-### 4. Quick Peek at Next Steps
+### 5. 4. Quick Peek at Next Steps
 
 #### Garbage collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/garbage-collection?u=76281980)
@@ -2006,7 +2008,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/solution-fix-the-memory-leak?u=76281980)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps with Java memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980)
@@ -2044,6 +2046,15 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [maaike] (1)
 
+
+## Instructor
+
+- [[Maaike van Putten]]
+
+## Skills Covered
+
+- Memory Management
+- Java
 
 ## Path Context
 

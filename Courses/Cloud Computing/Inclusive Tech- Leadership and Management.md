@@ -33,8 +33,10 @@ tags:
   - skill/diversity-and-inclusion
   - skill/technology-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Inclusive%20Tech-%20Leadership%20and%20Management.md)
 
 ![Inclusive Tech: Leadership and Management](https://media.licdn.com/dms/image/v2/C4E0DAQFDTZSsBSyl0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621904980802?e=2147483647&amp;v=beta&amp;t=5S8auhDiZk2nec7bTbndcuXBp77PDAxrXCaN-n7V3ps)
 
@@ -45,19 +47,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management) | 50m | Intermediate | 38K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nishant Bhajaria]]
-
-## Skills Covered
-
-- Tech Career Skills
-- Diversity and Inclusion
-- Technology Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Qualities Do Organizations Look for in a Leader?** (7 videos)
+- **3. 2. The Challenge of Inclusivity** (3 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why inclusivity matters in a tech team
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980)
@@ -142,7 +141,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 1. What Qualities Do Organizations Look for in a Leader?
+### 2. 1. What Qualities Do Organizations Look for in a Leader?
 
 #### Help make you a multidimensional leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980)
@@ -870,7 +869,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. The Challenge of Inclusivity
+### 3. 2. The Challenge of Inclusivity
 
 #### Inclusivity and the recruitment process
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980)
@@ -1183,7 +1182,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps for inclusive leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/next-steps-for-inclusive-leadership?u=76281980)
@@ -1240,6 +1239,16 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [nishant] (1)
 
+
+## Instructor
+
+- [[Nishant Bhajaria]]
+
+## Skills Covered
+
+- Tech Career Skills
+- Diversity and Inclusion
+- Technology Leadership
 
 ## Path Context
 

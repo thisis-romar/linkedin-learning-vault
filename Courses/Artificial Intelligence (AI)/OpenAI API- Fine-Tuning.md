@@ -32,38 +32,30 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Fine-Tuning.md)
 
 ![OpenAI API: Fine-Tuning](https://media.licdn.com/dms/image/v2/D4D0DAQFE_LhqtfTWIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713563299935?e=2147483647&amp;v=beta&amp;t=o-NCkVi1PRVuCx-Fps7sZuldwCH0U4OmrYzPSu6iywk)
 
 # OpenAI API: Fine-Tuning
 
-> Fine-tuning GPT models allows you to submit examples of the types of responses the AI system should provide based on user input. This is a great way of ensuring the system speaks in a voice and tone of your choosing, and eliminates the need for providing a description of the agent before each prompt.
-
-OpenAI’s API enables you to submit your own fine-tuning training data. In this course, Senior Sta
+> Fine-tuning GPT models allows you to submit examples of the types of responses the AI system should provide based on user input. This is a great way of ensuring the system speaks in a voice and tone of your choosing, and eliminates the need for providing a description of the agent before each prompt. OpenAI’s API enables you to submit your own fine-tuning training data. In this course, Senior Staf
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733) | 47m | 104K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-fine-tuning-2719505/codespaces)
-
-## Skills Covered
-
-- OpenAI API
-- OpenAI Products
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Fine-Tuning Basics** (6 videos)
+- **3. 2. Advanced Tools and Features** (7 videos)
+- **4. 3. Further Info** (1 videos)
+
+### 1. Introduction
 
 #### Fine-tuning custom models with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-custom-models-with-the-openai-api?u=76281980)
@@ -179,7 +171,7 @@ OpenAI’s API enables you to submit your own fine-tuning training data. In this
 > **Prerequisites:** set up (1)
 
 
-### 1. Fine-Tuning Basics
+### 2. 1. Fine-Tuning Basics
 
 #### When to create a fine-tuned model
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980)
@@ -892,7 +884,7 @@ OpenAI’s API enables you to submit your own fine-tuning training data. In this
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Advanced Tools and Features
+### 3. 2. Advanced Tools and Features
 
 #### Fine-tuning through the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-through-the-api?u=76281980)
@@ -1252,7 +1244,7 @@ OpenAI’s API enables you to submit your own fine-tuning training data. In this
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Further Info
+### 4. 3. Further Info
 
 #### Additional notes on fine-tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980)
@@ -1316,6 +1308,21 @@ OpenAI’s API enables you to submit your own fine-tuning training data. In this
 > **Cross-References:** in the next (1)
 > **Tools:** jupyter (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-fine-tuning-2719505/codespaces)
+
+## Skills Covered
+
+- OpenAI API
+- OpenAI Products
+- Artificial Intelligence (AI)
 
 ## Path Context
 

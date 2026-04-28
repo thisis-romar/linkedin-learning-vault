@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/quantum-gis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20QGIS.md)
 
 ![Learning QGIS](https://media.licdn.com/dms/image/v2/C4E0DAQEldakfVX9iVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571245488991?e=2147483647&amp;v=beta&amp;t=rTT_uEDzJfQoByh_-Ezxzq8qKrSvgrceUNAc69rZrWs)
 
@@ -40,21 +42,26 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2) | 2h 57m | Beginner | 49K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gordon Luckett]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Quantum GIS
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding and Installing QGIS** (4 videos)
+- **3. 2. Vector Data with QGIS** (3 videos)
+- **4. 3. Raster Data with QGIS** (5 videos)
+- **5. 4. 3D Maps** (3 videos)
+- **6. 5. Styling Data** (6 videos)
+- **7. 6. Labeling Features** (2 videos)
+- **8. 7. Changing Default Properties** (2 videos)
+- **9. 8. Printing with Print Layout** (2 videos)
+- **10. 9. Creating New Data** (4 videos)
+- **11. 10. Using Advanced Tools** (3 videos)
+- **12. 11. Using Plugins** (2 videos)
+- **13. 12. Python in QGIS** (2 videos)
+- **14. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Exploring the powerful world of QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/exploring-the-powerful-world-of-qgis?u=76281980)
@@ -80,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding and Installing QGIS
+### 2. 1. Understanding and Installing QGIS
 
 #### Installing QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980)
@@ -489,7 +496,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Vector Data with QGIS
+### 3. 2. Vector Data with QGIS
 
 #### Types of vector data in QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980)
@@ -802,7 +809,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 3. Raster Data with QGIS
+### 4. 3. Raster Data with QGIS
 
 #### Types of raster data in QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980)
@@ -1421,7 +1428,7 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 
 
-### 4. 3D Maps
+### 5. 4. 3D Maps
 
 #### Creating 3D maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/creating-3d-maps?u=76281980)
@@ -1883,7 +1890,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Styling Data
+### 6. 5. Styling Data
 
 #### Point layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/point-layers?u=76281980)
@@ -2777,7 +2784,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Labeling Features
+### 7. 6. Labeling Features
 
 #### Label vector data, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-1?u=76281980)
@@ -3058,7 +3065,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Changing Default Properties
+### 8. 7. Changing Default Properties
 
 #### Project properties, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980)
@@ -3307,7 +3314,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 8. Printing with Print Layout
+### 9. 8. Printing with Print Layout
 
 #### Adding maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/adding-maps?u=76281980)
@@ -3588,7 +3595,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 9. Creating New Data
+### 10. 9. Creating New Data
 
 #### Creating new vector vata
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/creating-new-vector-vata?u=76281980)
@@ -4073,7 +4080,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Using Advanced Tools
+### 11. 10. Using Advanced Tools
 
 #### Overlay two vector layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/overlay-two-vector-layers?u=76281980)
@@ -4443,7 +4450,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Using Plugins
+### 12. 11. Using Plugins
 
 #### Adding and using Street View plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980)
@@ -4660,7 +4667,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Python in QGIS
+### 13. 12. Python in QGIS
 
 #### Using the Python Console
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/using-the-python-console?u=76281980)
@@ -4857,7 +4864,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 14. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/next-steps?u=76281980)
@@ -4882,6 +4889,18 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [gordon] (1)
 
+
+## Instructor
+
+- [[Gordon Luckett]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Quantum GIS
 
 ## Path Context
 

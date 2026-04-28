@@ -28,8 +28,10 @@ tags:
   - skill/data-driven-decision-making
   - skill/business-operations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data-Driven%20Decisions%20in%20Business%20Operations.md)
 
 ![Data-Driven Decisions in Business Operations](https://media.licdn.com/dms/image/v2/D4E0DAQGm4D3RAXC41w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727115055940?e=2147483647&amp;v=beta&amp;t=Azn0b9D87zuIJ3UtOrlnLjqxAj68CySav6WxJJY8dx0)
 
@@ -40,23 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations) | 37m | 48K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lynette Robinson]]
-- [[Madecraft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data-driven Decision Making
-- Business Operations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Starting with Data Analytics** (2 videos)
+- **3. 2. Data Collection and Utilization** (2 videos)
+- **4. 3. Strategically Use Data for Decisions** (3 videos)
+- **5. 4. Overcoming Challenges in Data-Driven Operations** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Investigating the use of data in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980)
@@ -88,7 +85,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 1. Starting with Data Analytics
+### 2. 1. Starting with Data Analytics
 
 #### Comparing business data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980)
@@ -191,7 +188,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Data Collection and Utilization
+### 3. 2. Data Collection and Utilization
 
 #### Collect business data effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980)
@@ -315,7 +312,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 3. Strategically Use Data for Decisions
+### 4. 3. Strategically Use Data for Decisions
 
 #### Analyze business operations data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980)
@@ -489,7 +486,7 @@ created: 2026-04-21
 > **Code Keywords:** yield (1), finally, (1)
 
 
-### 4. Overcoming Challenges in Data-Driven Operations
+### 5. 4. Overcoming Challenges in Data-Driven Operations
 
 #### Address data quality issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980)
@@ -700,7 +697,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Create your action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/create-your-action-plan?u=76281980)
@@ -729,6 +726,20 @@ created: 2026-04-21
 >
 > **CLI Commands:** make (1)
 
+
+## Instructor
+
+- [[Lynette Robinson]]
+- [[Madecraft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data-driven Decision Making
+- Business Operations
 
 ## Path Context
 

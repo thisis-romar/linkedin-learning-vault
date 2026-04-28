@@ -32,8 +32,10 @@ tags:
   - skill/budget-analysis
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Leveraging%20Security%20Metrics%20in%20Your%20Organization.md)
 
 ![Leveraging Security Metrics in Your Organization](https://media.licdn.com/dms/image/v2/C560DAQF54PFWnjZ7Qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1624651412738?e=2147483647&amp;v=beta&amp;t=HmXmp-A4Iw49PsbrgaWhO9TQnh-FO625nJWyOyjhOKw)
 
@@ -44,23 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization) | 46m | Intermediate | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Caroline Wong]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Security Metrics
-- Budget Analysis
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Why Cybersecurity Practitioners Need Metrics** (4 videos)
+- **3. 2. Know Your Audience** (3 videos)
+- **4. 3. Risk Management Objectives** (3 videos)
+- **5. 4. Example Cybersecurity Metrics** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why are security metrics important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/why-are-security-metrics-important-24395248?u=76281980)
@@ -94,7 +91,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 1. Why Cybersecurity Practitioners Need Metrics
+### 2. 1. Why Cybersecurity Practitioners Need Metrics
 
 #### Cybersecurity is hard to measure
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980)
@@ -381,7 +378,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Know Your Audience
+### 3. 2. Know Your Audience
 
 #### The executive mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980)
@@ -651,7 +648,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Risk Management Objectives
+### 4. 3. Risk Management Objectives
 
 #### Defining a risk management objective
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980)
@@ -897,7 +894,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 4. Example Cybersecurity Metrics
+### 5. 4. Example Cybersecurity Metrics
 
 #### Incidents detected internally vs. externally
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/incidents-detected-internally-vs-externally?u=76281980)
@@ -1119,7 +1116,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Apply security metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980)
@@ -1153,6 +1150,20 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [caroline] (1)
 
+
+## Instructor
+
+- [[Caroline Wong]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Security Metrics
+- Budget Analysis
+- Cybersecurity
 
 ## Path Context
 

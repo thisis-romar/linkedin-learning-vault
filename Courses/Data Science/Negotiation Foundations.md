@@ -24,8 +24,10 @@ tags:
   - topic/data-science
   - skill/negotiation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Negotiation%20Foundations.md)
 
 ![Negotiation Foundations](https://media.licdn.com/dms/image/v2/C560DAQFLrBWs9hKDLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658275286215?e=2147483647&amp;v=beta&amp;t=riCbBaf1fyv7TNw8mwuiBxcHLEe7rf9coza689ZOUSI)
 
@@ -36,21 +38,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations) | 1h 5m | 302K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Gates]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Negotiation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Basics of Negotiation** (6 videos)
+- **3. 2. Getting Ready for a Negotiation** (2 videos)
+- **4. 3. Engaging Your Allies** (2 videos)
+- **5. 4. Getting Through and Past No** (3 videos)
+- **6. 5. Essential Negotiation Tips and Strategies** (2 videos)
+- **7. 6. Negotiating at a Distance** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Negotiate with better results
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/negotiate-with-better-results?u=76281980)
@@ -90,7 +91,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 1. The Basics of Negotiation
+### 2. 1. The Basics of Negotiation
 
 #### Developing a negotiation mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/developing-a-negotiation-mindset-18025142?u=76281980)
@@ -581,7 +582,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1), in other words (1)
 
 
-### 2. Getting Ready for a Negotiation
+### 3. 2. Getting Ready for a Negotiation
 
 #### Researching and preparing
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/researching-and-preparing-18021308?u=76281980)
@@ -720,7 +721,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Engaging Your Allies
+### 4. 3. Engaging Your Allies
 
 #### Understanding how influence works
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/understanding-how-influence-works-18020490?u=76281980)
@@ -861,7 +862,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 4. Getting Through and Past No
+### 5. 4. Getting Through and Past No
 
 #### Understanding conflict styles
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/understanding-conflict-styles-18021307?u=76281980)
@@ -1078,7 +1079,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 5. Essential Negotiation Tips and Strategies
+### 6. 5. Essential Negotiation Tips and Strategies
 
 #### Dealing with contentious tactics
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/dealing-with-contentious-tactics-18020492?u=76281980)
@@ -1247,7 +1248,7 @@ created: 2026-04-21
 > **Speakers:** - sometimes (1)
 
 
-### 6. Negotiating at a Distance
+### 7. 6. Negotiating at a Distance
 
 #### Telephone and video conference negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/telephone-and-video-conference-negotiation?u=76281980)
@@ -1415,7 +1416,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Deepening your knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/deepening-your-knowledge?u=76281980)
@@ -1453,6 +1454,18 @@ created: 2026-04-21
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - when (1)
 
+
+## Instructor
+
+- [[Lisa Gates]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Negotiation
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - skill/cloud-administration
   - skill/hybrid-cloud
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Concepts-%20Hybrid%20Cloud.md)
 
 ![Cloud Concepts: Hybrid Cloud](https://media.licdn.com/dms/image/v2/C560DAQHea0Wo1GGy5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639684767566?e=2147483647&amp;v=beta&amp;t=H6TdJVJg9l0o4tZMDFgTIIT2cHKbPb7wZ3li2mpSQ0Q)
 
@@ -42,22 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud) | 37m | Beginner | 28K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dominique West]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cloud Administration
-- Hybrid Cloud
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Hybrid Cloud** (3 videos)
+- **3. 2. Hybrid Cloud Vendors** (6 videos)
+- **4. 3. Learning Hybrid Cloud Strategies** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Explore the benefits of hybrid cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980)
@@ -84,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - [dominique] (1)
 
 
-### 1. Understanding Hybrid Cloud
+### 2. 1. Understanding Hybrid Cloud
 
 #### Defining cloud concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980)
@@ -295,7 +292,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Hybrid Cloud Vendors
+### 3. 2. Hybrid Cloud Vendors
 
 #### Overview of hybrid cloud vendors
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980)
@@ -569,7 +566,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Learning Hybrid Cloud Strategies
+### 4. 3. Learning Hybrid Cloud Strategies
 
 #### Hybrid cloud strategy considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980)
@@ -780,7 +777,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Learning more about hybrid cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980)
@@ -809,6 +806,19 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - [dominique] (1)
 
+
+## Instructor
+
+- [[Dominique West]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cloud Administration
+- Hybrid Cloud
 
 ## Path Context
 

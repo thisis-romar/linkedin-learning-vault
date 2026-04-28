@@ -39,8 +39,10 @@ tags:
   - skill/generative-ai-for-recruiting
   - skill/recruiting
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%2C%20Recruiting%2C%20and%20Talent%20Acquisition.md)
 
 ![Generative AI, Recruiting, and Talent Acquisition](https://media.licdn.com/dms/image/v2/D560DAQHxGy-CJZ5wvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695680417870?e=2147483647&amp;v=beta&amp;t=oBUjeYScixc-EKatZ6WDzDEAfWszH8YSleOKh5LgYV4)
 
@@ -51,25 +53,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition) | 33m | Beginner | 531K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Glen Cathey]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Talent Management
-- AI for Business
-- Artificial Intelligence (AI)
-- Generative AI for Recruiting
-- Recruiting
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Generative AI Recruitment Basics** (2 videos)
+- **3. 2. Generative AI in Talent Acquisition** (8 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Generative AI for recruiting talent
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980)
@@ -103,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. Generative AI Recruitment Basics
+### 2. 1. Generative AI Recruitment Basics
 
 #### Generative AI and the future of talent acquisition
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980)
@@ -190,7 +183,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 2. Generative AI in Talent Acquisition
+### 3. 2. Generative AI in Talent Acquisition
 
 #### Visualizing how generative AI can be used in TA: Use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980)
@@ -664,7 +657,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/next-steps?u=76281980)
@@ -683,6 +676,22 @@ created: 2026-04-21
 >
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Glen Cathey]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Talent Management
+- AI for Business
+- Artificial Intelligence (AI)
+- Generative AI for Recruiting
+- Recruiting
 
 ## Path Context
 

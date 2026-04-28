@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Variables%20and%20Fluid%20Layouts.md)
 
 ![CSS: Variables and Fluid Layouts](https://media.licdn.com/dms/image/v2/D4D0DAQEPyNySxD5aOg/learning-public-crop_675_1200/B4DZYmS.4.GkAY-/0/1744399232878?e=2147483647&amp;v=beta&amp;t=P9YglCxaatDQ99RbpBVjQrcX2gwZq540kv3-b-E8aiY)
 
@@ -40,21 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts) | 2h 2m | Advanced | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jen Kramer]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Learn CSS calc()** (4 videos)
+- **3. 2. Learn CSS Custom Properties** (7 videos)
+- **4. 3. Create Layouts** (8 videos)
+- **5. 4. Refactor a Web Page** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The evolution of responsive design
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/the-evolution-of-responsive-design-25743926?u=76281980)
@@ -130,7 +129,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Learn CSS calc()
+### 2. 1. Learn CSS calc()
 
 #### CSS calc() overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-calc-overview?u=76281980)
@@ -423,7 +422,7 @@ created: 2026-04-21
 > **Non-Speech:** (exciting music) (1)
 
 
-### 2. Learn CSS Custom Properties
+### 3. 2. Learn CSS Custom Properties
 
 #### CSS custom properties overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980)
@@ -897,7 +896,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Create Layouts
+### 4. 3. Create Layouts
 
 #### Mark up a simple four-column grid system
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980)
@@ -1872,7 +1871,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Refactor a Web Page
+### 5. 4. Refactor a Web Page
 
 #### Project: Use calc() and custom properties
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980)
@@ -2468,7 +2467,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/next-steps-25743925?u=76281980)
@@ -2508,6 +2507,18 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - hey (1)
 
+
+## Instructor
+
+- [[Jen Kramer]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

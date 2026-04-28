@@ -3,11 +3,16 @@ type: skill
 cssclasses:
   - lle-skill
 course_count: 1
+level_beginner: 0
+level_intermediate: 0
+level_advanced: 0
 tags:
   - skill
   - skill/corporate-sustainability
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Corporate%20Sustainability.md)
 
 # Corporate Sustainability
 
@@ -15,4 +20,9 @@ created: 2026-04-21
 
 ## Courses
 
-- [[Employee Engagement- Making Sustainability Part of Everybody’s Job]]
+- [[Employee Engagement- Making Sustainability Part of Everybody’s Job]] — 1h 2m · 14,519 learners
+
+## Related Skills
+
+- [[Job Description Development]] — 1 shared course
+- [[Sustainability]] — 1 shared course

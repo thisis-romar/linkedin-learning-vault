@@ -36,8 +36,10 @@ tags:
   - topic/web-development
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Java%20Essential%20Training-%20Objects%20and%20APIs.md)
 
 ![Java Essential Training: Objects and APIs](https://media.licdn.com/dms/image/v2/D4D0DAQGbRg1XEBD8lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725395859168?e=2147483647&amp;v=beta&amp;t=0QgSKDrLBSy9cfUj4w0wO6ISl-ijyshjyNHJo9sUT18)
 
@@ -48,21 +50,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820) | 2h 10m | Beginner | 48K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Angie Jones]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Inheritance** (7 videos)
+- **3. 2. Polymorphism** (4 videos)
+- **4. 3. Abstraction** (4 videos)
+- **5. 4. Interfaces** (5 videos)
+- **6. 5. Data Structures** (9 videos)
+- **7. 6. Functional Programming** (4 videos)
+- **8. 7. Exception Handling** (9 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Java objects and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/java-objects-and-apis?u=76281980)
@@ -180,7 +182,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 1. Inheritance
+### 2. 1. Inheritance
 
 #### Inheritance between classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980)
@@ -647,7 +649,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Polymorphism
+### 3. 2. Polymorphism
 
 #### Polymorphism with objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980)
@@ -892,7 +894,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Abstraction
+### 4. 3. Abstraction
 
 #### Abstract classes and methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/abstract-classes-and-methods?u=76281980)
@@ -1099,7 +1101,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Interfaces
+### 5. 4. Interfaces
 
 #### Creating an interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980)
@@ -1376,7 +1378,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Data Structures
+### 6. 5. Data Structures
 
 #### Collections framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980)
@@ -2125,7 +2127,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Functional Programming
+### 7. 6. Functional Programming
 
 #### Functional interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/functional-interfaces?u=76281980)
@@ -2399,7 +2401,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Exception Handling
+### 8. 7. Exception Handling
 
 #### Try and catch blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980)
@@ -2944,7 +2946,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980)
@@ -2982,6 +2984,18 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [angie] (1)
 
+
+## Instructor
+
+- [[Angie Jones]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Java
 
 ## Path Context
 

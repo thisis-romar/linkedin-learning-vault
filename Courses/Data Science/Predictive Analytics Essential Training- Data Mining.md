@@ -41,8 +41,10 @@ tags:
   - skill/data-mining
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Predictive%20Analytics%20Essential%20Training-%20Data%20Mining.md)
 
 ![Predictive Analytics Essential Training: Data Mining](https://media.licdn.com/dms/image/v2/C560DAQHSfXCVw1wBVQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633452073257?e=2147483647&amp;v=beta&amp;t=zKJOCRy0IVTzqOjv6WrYK5nvIG16_kwtU4Fk-hiFdcY)
 
@@ -53,19 +55,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining) | 1h 56m | Intermediate | 18K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Skills Covered
-
-- CRISP-DM
-- Data Mining
-- Predictive Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is Data Mining and Predictive Analytics?** (3 videos)
+- **3. 2. Problem Definition** (5 videos)
+- **4. 3. Data Requirements** (8 videos)
+- **5. 4. Resources You Will Need** (5 videos)
+- **6. 5. Problems You Will Face** (4 videos)
+- **7. 6. Finding the Solution** (5 videos)
+- **8. 7. Putting the Solution to Work** (6 videos)
+- **9. 8. The Nine Laws of Data Mining** (10 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Data mining and predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-and-predictive-analytics-24925114?u=76281980)
@@ -128,7 +133,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 1. What Is Data Mining and Predictive Analytics?
+### 2. 1. What Is Data Mining and Predictive Analytics?
 
 #### Introducing the essential elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980)
@@ -343,7 +348,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Problem Definition
+### 3. 2. Problem Definition
 
 #### Beginning with a solid first step: Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/beginning-with-a-solid-first-step-problem-definition?u=76281980)
@@ -599,7 +604,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Requirements
+### 4. 3. Data Requirements
 
 #### Understanding data requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-data-requirements?u=76281980)
@@ -982,7 +987,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Resources You Will Need
+### 5. 4. Resources You Will Need
 
 #### Skill sets and resources that you'll need
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/skill-sets-and-resources-that-you-ll-need?u=76281980)
@@ -1226,7 +1231,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Problems You Will Face
+### 6. 5. Problems You Will Face
 
 #### Anticipating project challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/anticipating-project-challenges?u=76281980)
@@ -1455,7 +1460,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 6. Finding the Solution
+### 7. 6. Finding the Solution
 
 #### Preparing for the modeling phase tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980)
@@ -1757,7 +1762,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Putting the Solution to Work
+### 8. 7. Putting the Solution to Work
 
 #### Preparing for the deployment phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980)
@@ -2096,7 +2101,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. The Nine Laws of Data Mining
+### 9. 8. The Nine Laws of Data Mining
 
 #### CRISP-DM and the laws of data mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/crisp-dm-and-the-laws-of-data-mining?u=76281980)
@@ -2710,7 +2715,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/next-steps?u=76281980)
@@ -2739,6 +2744,16 @@ created: 2026-04-21
 >
 > **Speakers:** - [keith] (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Skills Covered
+
+- CRISP-DM
+- Data Mining
+- Predictive Analytics
 
 ## Path Context
 

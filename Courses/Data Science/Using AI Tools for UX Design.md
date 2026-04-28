@@ -33,8 +33,10 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20AI%20Tools%20for%20UX%20Design.md)
 
 ![Using AI Tools for UX Design](https://media.licdn.com/dms/image/v2/D560DAQFOdY9uHPsopg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708040450020?e=2147483647&amp;v=beta&amp;t=PhjJ_JYLasPLkaavC8M4C64UvyX1V7TXb7c33BoUJKw)
 
@@ -45,19 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design) | 1h 57m | Intermediate | 37K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eric Nordquist]]
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- User Experience Design (UED)
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Project Overview** (1 videos)
+- **3. 2. Creating Concepts Using Text-to-Image AI** (6 videos)
+- **4. 3. Using AI Tools to Increase Image Resolution** (1 videos)
+- **5. 4. Building Image Assets Using AI Tools** (3 videos)
+- **6. 5. Using AI Tools to Create Brand Style Guides** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI tools for UX designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/ai-tools-for-ux-designers?u=76281980)
@@ -129,7 +131,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Project Overview
+### 2. 1. Project Overview
 
 #### Client's ask
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/client-s-ask?u=76281980)
@@ -200,7 +202,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creating Concepts Using Text-to-Image AI
+### 3. 2. Creating Concepts Using Text-to-Image AI
 
 #### Introduction to text-to-image AI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980)
@@ -1304,7 +1306,7 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 
 
-### 3. Using AI Tools to Increase Image Resolution
+### 4. 3. Using AI Tools to Increase Image Resolution
 
 #### Upscaling your image assets
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980)
@@ -1408,7 +1410,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Building Image Assets Using AI Tools
+### 5. 4. Building Image Assets Using AI Tools
 
 #### Creating hero imagery with Midjourney
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980)
@@ -2123,7 +2125,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 5. Using AI Tools to Create Brand Style Guides
+### 6. 5. Using AI Tools to Create Brand Style Guides
 
 #### Creating color swatches with Colormind and the other tools in Obsidian
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980)
@@ -3144,7 +3146,7 @@ created: 2026-04-21
 > **Tools:** figma (2)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Wrapping up
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980)
@@ -3176,6 +3178,16 @@ created: 2026-04-21
 > **Cross-References:** as you saw (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Eric Nordquist]]
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- User Experience Design (UED)
+- Artificial Intelligence (AI)
 
 ## Path Context
 

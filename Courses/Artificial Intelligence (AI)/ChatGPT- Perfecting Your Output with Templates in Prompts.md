@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ChatGPT-%20Perfecting%20Your%20Output%20with%20Templates%20in%20Prompts.md)
 
 ![ChatGPT: Perfecting Your Output with Templates in Prompts](https://media.licdn.com/dms/image/v2/D4D0DAQEbhIwyLpvDuA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728672186430?e=2147483647&amp;v=beta&amp;t=S-vJ9zkO7wCQ-p8t4DJafNHrFDAPH4C8zebSHxT54xI)
 
@@ -42,18 +44,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts) | 34m | Intermediate | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jules White]]
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- ChatGPT
-
 ## Table of Contents
 
-### 1. ChatGPT: Perfecting Your Output with Templates in Prompts
+### Chapter Overview
+
+- **1. 1. ChatGPT: Perfecting Your Output with Templates in Prompts** (5 videos)
+
+### 1. 1. ChatGPT: Perfecting Your Output with Templates in Prompts
 
 #### Unlock the power of templates: Create impactful ChatGPT prompts with the template pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980)
@@ -948,6 +945,15 @@ created: 2026-04-21
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)
 
+
+## Instructor
+
+- [[Jules White]]
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- ChatGPT
 
 ## Path Context
 

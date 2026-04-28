@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/graphic-design
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Graphic%20Design-%20Layouts.md)
 
 ![Learning Graphic Design: Layouts](https://media.licdn.com/dms/image/v2/C4E0DAQFSyLvxM3X1JA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665588911?e=2147483647&amp;v=beta&amp;t=2jQMSsESaQYw-ic8uBRZ61imxXMSSev3RqHY6xLsN6A)
 
@@ -40,17 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts) | 1h 2m | Beginner | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[John McWade]]
-
-## Skills Covered
-
-- Graphic Design
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Universal Principles** (4 videos)
+- **3. 2. Page Margins and the Grid** (3 videos)
+- **4. 3. Putting a Layout Together** (2 videos)
+- **5. Closing** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/welcome?u=76281980)
@@ -222,7 +224,7 @@ created: 2026-04-21
 > **Speakers:** - layout (1)
 
 
-### 1. Universal Principles
+### 2. 1. Universal Principles
 
 #### Keep it simple
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/keep-it-simple?u=76281980)
@@ -494,7 +496,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 2. Page Margins and the Grid
+### 3. 2. Page Margins and the Grid
 
 #### Symmetrical
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980)
@@ -752,7 +754,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 3. Putting a Layout Together
+### 4. 3. Putting a Layout Together
 
 #### A campus poster
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980)
@@ -1299,7 +1301,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Closing
+### 5. Closing
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/conclusion?u=76281980)
@@ -1320,6 +1322,14 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - layout (1)
 
+
+## Instructor
+
+- [[John McWade]]
+
+## Skills Covered
+
+- Graphic Design
 
 ## Path Context
 

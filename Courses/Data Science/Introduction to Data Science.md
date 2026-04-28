@@ -34,8 +34,10 @@ tags:
   - topic/software-development
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20to%20Data%20Science.md)
 
 ![Introduction to Data Science](https://media.licdn.com/dms/image/v2/D560DAQFQVi_TEoO-OA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690486911691?e=2147483647&amp;v=beta&amp;t=FhTJcLaJXFGJkDfkSJLU3kMp-GblBDwmDRvX_Z2MYWw)
 
@@ -46,22 +48,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235) | 2h | Beginner | 111K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lavanya Vijayan]]
-- [[Madecraft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Defining Data Science** (3 videos)
+- **3. 2. Starting with Data Design** (2 videos)
+- **4. 3. Utilizing Computational Tools** (2 videos)
+- **5. 4. Structuring Your Tabular Data** (5 videos)
+- **6. 5. Using Exploratory Data Analysis** (3 videos)
+- **7. 6. Cleaning Your Data** (2 videos)
+- **8. 7. Using Data Visualization** (3 videos)
+- **9. 8. Using Inference and Statistical Analysis** (5 videos)
+- **10. 9. Using Prediction in Data Science** (7 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Beginning your data science exploration
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=76281980)
@@ -92,7 +95,7 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 
 
-### 1. Defining Data Science
+### 2. 1. Defining Data Science
 
 #### Demystifying data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980)
@@ -230,7 +233,7 @@ created: 2026-04-21
 > **[0:45](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-the-data-science-life-cycle?u=76281980&t=45)** The data science lifecycle is critical to how data scientists approach their work, and now you know the major stages of this process.
 
 
-### 2. Starting with Data Design
+### 3. 2. Starting with Data Design
 
 #### Reducing bias with probability sampling
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reducing-bias-with-probability-sampling?u=76281980)
@@ -380,7 +383,7 @@ created: 2026-04-21
 > **Code Keywords:** case, (1)
 
 
-### 3. Utilizing Computational Tools
+### 4. 3. Utilizing Computational Tools
 
 #### Comparing Python and R
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/comparing-python-and-r?u=76281980)
@@ -536,7 +539,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1), install (1)
 
 
-### 4. Structuring Your Tabular Data
+### 5. 4. Structuring Your Tabular Data
 
 #### Defining tabular data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-tabular-data?u=76281980)
@@ -984,7 +987,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 5. Using Exploratory Data Analysis
+### 6. 5. Using Exploratory Data Analysis
 
 #### Defining exploratory data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-exploratory-data-analysis?u=76281980)
@@ -1202,7 +1205,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 6. Cleaning Your Data
+### 7. 6. Cleaning Your Data
 
 #### Explaining data cleaning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/explaining-data-cleaning?u=76281980)
@@ -1330,7 +1333,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1), caution (1)
 
 
-### 7. Using Data Visualization
+### 8. 7. Using Data Visualization
 
 #### Demystifying data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-visualization?u=76281980)
@@ -1617,7 +1620,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 8. Using Inference and Statistical Analysis
+### 9. 8. Using Inference and Statistical Analysis
 
 #### Defining inference
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-inference?u=76281980)
@@ -2145,7 +2148,7 @@ created: 2026-04-21
 > **UI Navigation:** open the (1)
 
 
-### 9. Using Prediction in Data Science
+### 10. 9. Using Prediction in Data Science
 
 #### Defining prediction for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-prediction-for-data-science?u=76281980)
@@ -2742,7 +2745,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/next-steps?u=76281980)
@@ -2778,6 +2781,19 @@ created: 2026-04-21
 > **Code Keywords:** public (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Lavanya Vijayan]]
+- [[Madecraft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Science
 
 ## Path Context
 

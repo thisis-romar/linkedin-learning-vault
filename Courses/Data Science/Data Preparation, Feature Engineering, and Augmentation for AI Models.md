@@ -40,8 +40,10 @@ tags:
   - skill/data-preparation
   - skill/feature-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Preparation%2C%20Feature%20Engineering%2C%20and%20Augmentation%20for%20AI%20Models.md)
 
 ![Data Preparation, Feature Engineering, and Augmentation for AI Models](https://media.licdn.com/dms/image/v2/D4E0DAQHSeY5vmM68DQ/learning-public-crop_675_1200/B4EZdCM241HQAY-/0/1749162356536?e=2147483647&amp;v=beta&amp;t=ZeZABO-KmRmQIPRK3c4zGd9HeDONRplBCmEmsdsk7CY)
 
@@ -52,20 +54,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models) | 1h 48m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dan Sullivan]]
-
-## Skills Covered
-
-- Retrieval-Augmented Generation (RAG)
-- Artificial Intelligence (AI)
-- Data Preparation
-- Feature Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Data Preparation for Predictive AI** (9 videos)
+- **3. 2. Data Preparation for Generative AI** (6 videos)
+- **4. 3. Data Quality Assessment** (4 videos)
+- **5. 4. Data Augmentation for Generative AI** (6 videos)
+- **6. 5. Knowledge Augmentation for Generative AI** (5 videos)
+- **7. 6. Development Practices for AI Applications** (6 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/welcome-to-this-course?u=76281980)
@@ -117,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Data Preparation for Predictive AI
+### 2. 1. Data Preparation for Predictive AI
 
 #### Data exploration and initial quality assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980)
@@ -668,7 +670,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Data Preparation for Generative AI
+### 3. 2. Data Preparation for Generative AI
 
 #### Structured vs. unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980)
@@ -1005,7 +1007,7 @@ created: 2026-04-21
 > **Non-Speech:** (light music) (1)
 
 
-### 3. Data Quality Assessment
+### 4. 3. Data Quality Assessment
 
 #### Elements of data quality: Consistency, accuracy, and completeness
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980)
@@ -1202,7 +1204,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 4. Data Augmentation for Generative AI
+### 5. 4. Data Augmentation for Generative AI
 
 #### Overview of data augmentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980)
@@ -1632,7 +1634,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Knowledge Augmentation for Generative AI
+### 6. 5. Knowledge Augmentation for Generative AI
 
 #### Overview of knowledge augmentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980)
@@ -1950,7 +1952,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Development Practices for AI Applications
+### 7. 6. Development Practices for AI Applications
 
 #### Determining what data sources to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980)
@@ -2373,7 +2375,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980)
@@ -2396,6 +2398,17 @@ created: 2026-04-21
 >
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Dan Sullivan]]
+
+## Skills Covered
+
+- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence (AI)
+- Data Preparation
+- Feature Engineering
 
 ## Path Context
 

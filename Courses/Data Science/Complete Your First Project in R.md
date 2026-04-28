@@ -32,8 +32,10 @@ tags:
   - skill/r-programming-language
   - skill/rstudio
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Your%20First%20Project%20in%20R.md)
 
 ![Complete Your First Project in R](https://media.licdn.com/dms/image/v2/D560DAQE-8a_4wXztkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709678710971?e=2147483647&amp;v=beta&amp;t=6wGBExSdBJB7ULQGD7PUbYyD-hg1ZOI3ThoKtfuD5bA)
 
@@ -44,23 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r) | 2h 14m | Intermediate | 37K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Megan Silvey]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/complete-your-first-project-in-R-3820081)
-
-## Skills Covered
-
-- R (Programming Language)
-- RStudio
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Exploring Customer Data** (9 videos)
+- **3. 2. Classification Analysis** (10 videos)
+- **4. 3. Cluster Analysis** (8 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/introduction-to-r?u=76281980)
@@ -269,7 +265,7 @@ created: 2026-04-21
 > **Prerequisites:** install (4)
 
 
-### 1. Exploring Customer Data
+### 2. 1. Exploring Customer Data
 
 #### Introducing Red30 Tech
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980)
@@ -1032,7 +1028,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Classification Analysis
+### 3. 2. Classification Analysis
 
 #### Understanding classification analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980)
@@ -1941,7 +1937,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Cluster Analysis
+### 4. 3. Cluster Analysis
 
 #### Understanding cluster analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980)
@@ -2737,7 +2733,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/next-steps?u=76281980)
@@ -2765,6 +2761,20 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - that (1)
 
+
+## Instructor
+
+- [[Megan Silvey]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/complete-your-first-project-in-R-3820081)
+
+## Skills Covered
+
+- R (Programming Language)
+- RStudio
 
 ## Path Context
 

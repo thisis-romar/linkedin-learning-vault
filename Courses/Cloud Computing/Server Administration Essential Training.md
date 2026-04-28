@@ -33,8 +33,10 @@ tags:
   - topic/network-and-system-administration
   - skill/network-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Server%20Administration%20Essential%20Training.md)
 
 ![Server Administration Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQEsmc3B-u40TA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614021016790?e=2147483647&amp;v=beta&amp;t=GfczEVaT7ettqFM7QrMAmJkSzVRavOBIin_gHIURHkk)
 
@@ -45,17 +47,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training) | 2h 27m | Beginner | 77K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ed Liberman]]
-
-## Skills Covered
-
-- Network Administration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Server Architecture** (3 videos)
+- **3. 2. Server Administration** (4 videos)
+- **4. 3. Server Maintenance** (5 videos)
+- **5. 4. Networking** (4 videos)
+- **6. 5. Storage** (3 videos)
+- **7. 6. Security** (4 videos)
+- **8. 7. Environmental Protection** (3 videos)
+- **9. 8. Virtualization and Cloud Computing** (3 videos)
+- **10. 9. Disaster Recovery** (3 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with server administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/getting-started-with-server-administration?u=76281980)
@@ -127,7 +135,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Server Architecture
+### 2. 1. Server Architecture
 
 #### Server form factors
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-form-factors?u=76281980)
@@ -441,7 +449,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Server Administration
+### 3. 2. Server Administration
 
 #### Server installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980)
@@ -871,7 +879,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 3. Server Maintenance
+### 4. 3. Server Maintenance
 
 #### General server management
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980)
@@ -1337,7 +1345,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Networking
+### 5. 4. Networking
 
 #### Basic IP configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980)
@@ -1648,7 +1656,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Storage
+### 6. 5. Storage
 
 #### Storage technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/storage-technologies?u=76281980)
@@ -1929,7 +1937,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Security
+### 7. 6. Security
 
 #### Rights and permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980)
@@ -2330,7 +2338,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Environmental Protection
+### 8. 7. Environmental Protection
 
 #### Power protection
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/power-protection?u=76281980)
@@ -2548,7 +2556,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Virtualization and Cloud Computing
+### 9. 8. Virtualization and Cloud Computing
 
 #### Benefits of virtualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/benefits-of-virtualization?u=76281980)
@@ -2833,7 +2841,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Disaster Recovery
+### 10. 9. Disaster Recovery
 
 #### Planning for a disaster
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/planning-for-a-disaster?u=76281980)
@@ -3224,7 +3232,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/next-steps?u=76281980)
@@ -3241,6 +3249,14 @@ created: 2026-04-21
 >
 > **Speakers:** - [ed] (1)
 
+
+## Instructor
+
+- [[Ed Liberman]]
+
+## Skills Covered
+
+- Network Administration
 
 ## Path Context
 

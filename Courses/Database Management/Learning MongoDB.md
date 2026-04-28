@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/mongodb
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20MongoDB.md)
 
 ![Learning MongoDB](https://media.licdn.com/dms/image/v2/C4D0DAQEsJpdBqzECvg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671062548655?e=2147483647&amp;v=beta&amp;t=G7L-vUq-M65pZ0WBntVZ6tgV9GLuE0iuXanTQZBJcLs)
 
@@ -42,22 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744) | 2h 52m | Beginner | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Justin Jenkins]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-mongodb-4315215/codespaces)
-
-## Skills Covered
-
-- MongoDB
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Started** (7 videos)
+- **3. 2. Documents and Collections** (6 videos)
+- **4. 3. Querying** (8 videos)
+- **5. 4. Data and Schema Modeling** (5 videos)
+- **6. 5. Coding with MongoDB** (5 videos)
+- **7. 6. Server Administration** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Modern database and application design with MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980)
@@ -85,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - [justin (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Why MongoDB?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980)
@@ -656,7 +656,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Documents and Collections
+### 3. 2. Documents and Collections
 
 #### Create a document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980)
@@ -1167,7 +1167,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Querying
+### 4. 3. Querying
 
 #### Sort, limit, and skip
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980)
@@ -1838,7 +1838,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 4. Data and Schema Modeling
+### 5. 4. Data and Schema Modeling
 
 #### How you need to think differently
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980)
@@ -2321,7 +2321,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat techno music) (1)
 
 
-### 5. Coding with MongoDB
+### 6. 5. Coding with MongoDB
 
 #### Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980)
@@ -3168,7 +3168,7 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 
 
-### 6. Server Administration
+### 7. 6. Server Administration
 
 #### MongoDB config file
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980)
@@ -3718,7 +3718,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Wrapping up
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980)
@@ -3758,6 +3758,19 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [justin] (1)
 
+
+## Instructor
+
+- [[Justin Jenkins]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/introduction-to-mongodb-4315215/codespaces)
+
+## Skills Covered
+
+- MongoDB
 
 ## Path Context
 

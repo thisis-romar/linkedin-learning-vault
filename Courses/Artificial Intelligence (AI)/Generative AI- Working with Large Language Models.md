@@ -44,8 +44,10 @@ tags:
   - skill/natural-language-processing-nlp
   - skill/transformer-models
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-%20Working%20with%20Large%20Language%20Models.md)
 
 ![Generative AI: Working with Large Language Models](https://media.licdn.com/dms/image/v2/D4D0DAQG2yukDqW63ng/learning-public-crop_675_1200/B4DZWV8al1HYAY-/0/1741977398303?e=2147483647&amp;v=beta&amp;t=Xex0OtLCWwCSjtwZ0oQftd1kfJBM6b7gf-U-nhwE2RM)
 
@@ -56,26 +58,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models) | 1h 22m | Advanced | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jonathan Fernandes]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/generative-AI-working-with-large-language-models-2495200/codespaces)
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- Natural Language Processing (NLP)
-- Transformer Models
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Transformers in NLP** (3 videos)
+- **3. 2. Training Transformers and Their Architecture** (4 videos)
+- **4. 3. Large Language Models** (14 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning about Large Language Models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980)
@@ -101,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - large (1)
 
 
-### 1. Transformers in NLP
+### 2. 1. Transformers in NLP
 
 #### What are large language models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980)
@@ -251,7 +244,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Training Transformers and Their Architecture
+### 3. 2. Training Transformers and Their Architecture
 
 #### Transfer learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980)
@@ -534,7 +527,7 @@ created: 2026-04-21
 > **Speakers:** - earlier (1)
 
 
-### 3. Large Language Models
+### 4. 3. Large Language Models
 
 #### GPT-3
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980)
@@ -1925,7 +1918,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Going further with Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980)
@@ -1968,6 +1961,23 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - [jonathan] (1)
 
+
+## Instructor
+
+- [[Jonathan Fernandes]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/generative-AI-working-with-large-language-models-2495200/codespaces)
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
+- Natural Language Processing (NLP)
+- Transformer Models
 
 ## Path Context
 

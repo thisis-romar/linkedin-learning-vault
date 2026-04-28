@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/java
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Essential%20Training%20Syntax%20And%20Structure.md)
 
 ![Java Essential Training Syntax And Structure](https://media.licdn.com/dms/image/v2/D560DAQHJ39iKZdeJeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724878410217?e=2147483647&amp;v=beta&amp;t=SNPFodc0nkml-jZeEtt0KAs-QEAP2ezO9qFoASAhsaY)
 
@@ -40,17 +42,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610) | Beginner | 346K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Java
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started with Java** (2 videos)
+- **3. 2. Java Basics** (5 videos)
+- **4. 3. Variables** (7 videos)
+- **5. 4. Decision Structures** (9 videos)
+- **6. 5. Repetition Structures** (6 videos)
+- **7. 6. Methods** (7 videos)
+- **8. 7. Objects** (8 videos)
+- **9. 8. Arrays** (3 videos)
+- **10. 9. Text Processing** (3 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn the essentials of Java 17
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/learn-the-essentials-of-java-17?u=76281980)
@@ -142,7 +150,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with Java
+### 2. 1. Getting Started with Java
 
 #### Install IntelliJ Community Edition
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-intellij-community-edition?u=76281980)
@@ -217,7 +225,7 @@ created: 2026-04-21
 > **Speakers:** - [angie] (1)
 
 
-### 2. Java Basics
+### 3. 2. Java Basics
 
 #### Packages
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/packages?u=76281980)
@@ -470,7 +478,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Variables
+### 4. 3. Variables
 
 #### Creating variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980)
@@ -887,7 +895,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Decision Structures
+### 5. 4. Decision Structures
 
 #### If statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-statements?u=76281980)
@@ -1497,7 +1505,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 5. Repetition Structures
+### 6. 5. Repetition Structures
 
 #### While loop
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/while-loop?u=76281980)
@@ -1995,7 +2003,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Methods
+### 7. 6. Methods
 
 #### Creating methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-methods?u=76281980)
@@ -2460,7 +2468,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Objects
+### 8. 7. Objects
 
 #### Defining classes for objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/defining-classes-for-objects?u=76281980)
@@ -2953,7 +2961,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Arrays
+### 9. 8. Arrays
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/arrays?u=76281980)
@@ -3151,7 +3159,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 9. Text Processing
+### 10. 9. Text Processing
 
 #### Strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/strings?u=76281980)
@@ -3356,7 +3364,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980)
@@ -3386,6 +3394,14 @@ created: 2026-04-21
 > **Versions:** java 17 (1)
 > **Speakers:** - [angie] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Java
 
 ## Path Context
 

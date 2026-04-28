@@ -32,8 +32,10 @@ tags:
   - topic/software-development
   - skill/agile-software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development-%20Kanban%20for%20Developers%20(2019).md)
 
 ![Agile Software Development: Kanban for Developers (2019)](https://media.licdn.com/dms/image/v2/D4E0DAQGIFD1eQvs-Tg/learning-public-crop_675_1200/B4EZmcwirtHgAc-/0/1759271595082?e=2147483647&amp;v=beta&amp;t=3iNQikqVTBzxDmL8nU-YxrwkCFbtXGTTk7Rgini8DsM)
 
@@ -44,17 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019) | 33m | Intermediate | 259K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Harrison Ferrone]]
-
-## Skills Covered
-
-- Agile Software Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Lean and Kanban** (3 videos)
+- **3. 2. Kanban in Practice** (4 videos)
+- **4. 3. Processes and Pitfalls** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Putting kanban to work in your development team
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980)
@@ -97,7 +99,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Lean and Kanban
+### 2. 1. Lean and Kanban
 
 #### The lean mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980)
@@ -300,7 +302,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Kanban in Practice
+### 3. 2. Kanban in Practice
 
 #### Demo overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/demo-overview?u=76281980)
@@ -586,7 +588,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Processes and Pitfalls
+### 4. 3. Processes and Pitfalls
 
 #### Handling process policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/handling-process-policies?u=76281980)
@@ -821,7 +823,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980)
@@ -848,6 +850,14 @@ created: 2026-04-21
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Harrison Ferrone]]
+
+## Skills Covered
+
+- Agile Software Development
 
 ## Path Context
 

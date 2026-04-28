@@ -44,8 +44,10 @@ tags:
   - skill/roi-strategies
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Predictive%20Analytics%20Essential%20Training-%20Estimating%20and%20Ensuring%20ROI.md)
 
 ![Predictive Analytics Essential Training: Estimating and Ensuring ROI](https://media.licdn.com/dms/image/v2/C4E0DAQEp6iwGZ9dKPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621608850111?e=2147483647&amp;v=beta&amp;t=Ps6HFse2Kr047XDvBygV6lOph3oarWNIpn_FEch9V9E)
 
@@ -56,24 +58,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi) | 54m | Intermediate | 79K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- ROI Optimization
-- ROI Management
-- ROI Strategies
-- Predictive Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Effective Problem Definition** (4 videos)
+- **3. 2. Estimating ROI before the Project Starts** (6 videos)
+- **4. 3. Calculating ROI after the Model Is Built** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introduction?u=76281980)
@@ -104,7 +99,7 @@ created: 2026-04-21
 > **Speakers:** - [keith] (1)
 
 
-### 1. Effective Problem Definition
+### 2. 1. Effective Problem Definition
 
 #### Estimating ROI
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980)
@@ -391,7 +386,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Estimating ROI before the Project Starts
+### 3. 2. Estimating ROI before the Project Starts
 
 #### Introducing the confusion matrix
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introducing-the-confusion-matrix?u=76281980)
@@ -899,7 +894,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Calculating ROI after the Model Is Built
+### 4. 3. Calculating ROI after the Model Is Built
 
 #### Determining the cut-off on propensity scores for interventions
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980)
@@ -1156,7 +1151,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980)
@@ -1196,6 +1191,21 @@ created: 2026-04-21
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [keith] (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- ROI Optimization
+- ROI Management
+- ROI Strategies
+- Predictive Analytics
 
 ## Path Context
 

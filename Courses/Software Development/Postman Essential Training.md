@@ -33,47 +33,32 @@ tags:
   - skill/api-testing
   - skill/test-automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Postman%20Essential%20Training.md)
 
 ![Postman Essential Training](https://media.licdn.com/dms/image/v2/C560DAQGu_qZOWzDKsQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679692293614?e=2147483647&amp;v=beta&amp;t=AQ9nvPCbqKAgtWx9hd5kZDNm1F-njRSqByG6_JUdQ94)
 
 # Postman Essential Training
 
-> Suggested prerequisites
-
-A basic understanding of the command line
-A basic understanding of HTTP requests
-
-Projects
-
-Add variables to the URL and body of a request.
-Write your own status, header, and body assertions for a Postman request.
-Write assertions for complicated JSON responses, including responses in arrays and in nested objects.
-
-This course introduces the process of writing, running, an
+> Suggested prerequisites A basic understanding of the command line A basic understanding of HTTP requests Projects Add variables to the URL and body of a request. Write your own status, header, and body assertions for a Postman request. Write assertions for complicated JSON responses, including responses in arrays and in nested objects. This course introduces the process of writing, running, and au
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591) | 1h 45m | Intermediate | 41K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kristin Jackvony]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/postman-essential-training-4362153)
-
-## Skills Covered
-
-- Postman API
-- API Testing
-- Test Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started with Postman** (12 videos)
+- **3. 2. Easy Postman Assertions** (6 videos)
+- **4. 3. Advanced Postman Assertions** (5 videos)
+- **5. 4. Running Your Test Collections** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why automate your API tests?
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests?u=76281980)
@@ -178,7 +163,7 @@ This course introduces the process of writing, running, an
 > **Exercise Files:** exercise file (1)
 
 
-### 1. Getting Started with Postman
+### 2. 1. Getting Started with Postman
 
 #### Creating collections and folders
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-collections-and-folders?u=76281980)
@@ -1282,7 +1267,7 @@ This course introduces the process of writing, running, an
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Easy Postman Assertions
+### 3. 2. Easy Postman Assertions
 
 #### Status type assertions
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/status-type-assertions?u=76281980)
@@ -1813,7 +1798,7 @@ This course introduces the process of writing, running, an
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced Postman Assertions
+### 4. 3. Advanced Postman Assertions
 
 #### JSON assertions
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980)
@@ -2281,7 +2266,7 @@ This course introduces the process of writing, running, an
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Running Your Test Collections
+### 5. 4. Running Your Test Collections
 
 #### Using the Collection Runner
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/using-the-collection-runner?u=76281980)
@@ -2578,7 +2563,7 @@ This course introduces the process of writing, running, an
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continuing with API testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980)
@@ -2628,6 +2613,21 @@ This course introduces the process of writing, running, an
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kristin Jackvony]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/postman-essential-training-4362153)
+
+## Skills Covered
+
+- Postman API
+- API Testing
+- Test Automation
 
 ## Path Context
 

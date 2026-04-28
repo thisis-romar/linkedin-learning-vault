@@ -34,8 +34,10 @@ tags:
   - skill/node-js
   - skill/software-deployment
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node.js-%20Web%20Servers%2C%20Tests%2C%20and%20Deployment.md)
 
 ![Node.js: Web Servers, Tests, and Deployment](https://media.licdn.com/dms/image/v2/C4E0DAQGzbpxDbiFDCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660760035765?e=2147483647&amp;v=beta&amp;t=wSAPuZDQTgNdWyga5CuVmumumOxXhJ7OTejXJi-g2xo)
 
@@ -46,24 +48,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment) | 1h 19m | Advanced | 81K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eve Porcello]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Web Servers
-- Software Testing
-- Node.js
-- Software Deployment
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The HTTP Module** (5 videos)
+- **3. 2. npm** (5 videos)
+- **4. 3. Web Servers** (5 videos)
+- **5. 4. WebSockets** (4 videos)
+- **6. 5. Node.js Testing** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Going beyond the basics in Node
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980)
@@ -203,7 +200,7 @@ created: 2026-04-21
 > **Analogies:** kind of like (1)
 
 
-### 1. The HTTP Module
+### 2. 1. The HTTP Module
 
 #### Making a request with the request method
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980)
@@ -716,7 +713,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. npm
+### 3. 2. npm
 
 #### The package.json file
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980)
@@ -1101,7 +1098,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 3. Web Servers
+### 4. 3. Web Servers
 
 #### File servers with serve
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/file-servers-with-serve?u=76281980)
@@ -1480,7 +1477,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 4. WebSockets
+### 5. 4. WebSockets
 
 #### Creating a WebSocket
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980)
@@ -1861,7 +1858,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Node.js Testing
+### 6. 5. Node.js Testing
 
 #### Creating modular projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-modular-projects?u=76281980)
@@ -2164,7 +2161,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980)
@@ -2189,6 +2186,21 @@ created: 2026-04-21
 > **File Paths:** node.js (7)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Eve Porcello]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Web Servers
+- Software Testing
+- Node.js
+- Software Deployment
 
 ## Path Context
 

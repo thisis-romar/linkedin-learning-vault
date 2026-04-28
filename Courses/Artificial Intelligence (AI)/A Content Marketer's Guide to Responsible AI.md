@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/content-marketing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/A%20Content%20Marketer's%20Guide%20to%20Responsible%20AI.md)
 
 ![A Content Marketer's Guide to Responsible AI](https://media.licdn.com/dms/image/v2/D4D0DAQGJNpyyGwdSZA/learning-public-crop_675_1200/B4DZTdu_f4HIAY-/0/1738886871620?e=2147483647&amp;v=beta&amp;t=Tt-MJLQOKxFKY9uv_CwJP9wXfoFmyOYuZleK_h3sybA)
 
@@ -42,24 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai) | 23m | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Madecraft]]
-- [[Lauren Diethelm]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Marketing
-- Artificial Intelligence (AI)
-- Content Marketing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding AI in Content Marketing** (3 videos)
+- **3. 2. Ethical Considerations for AI in Marketing** (3 videos)
+- **4. 3. Implementing a Responsible AI Strategy** (3 videos)
+- **5. 4. Future Trends and Responsible Practices** (1 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Responsible AI in content marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980)
@@ -91,7 +87,7 @@ created: 2026-04-21
 > **Code Keywords:** let (2)
 
 
-### 1. Understanding AI in Content Marketing
+### 2. 1. Understanding AI in Content Marketing
 
 #### Integrating AI in content marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980)
@@ -268,7 +264,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1), case. (1)
 
 
-### 2. Ethical Considerations for AI in Marketing
+### 3. 2. Ethical Considerations for AI in Marketing
 
 #### Identifying and mitigating bias in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/identifying-and-mitigating-bias-in-ai?u=76281980)
@@ -438,7 +434,7 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 
 
-### 3. Implementing a Responsible AI Strategy
+### 4. 3. Implementing a Responsible AI Strategy
 
 #### Developing an ethical AI policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980)
@@ -603,7 +599,7 @@ created: 2026-04-21
 > **Code Keywords:** super (1), for, (1)
 
 
-### 4. Future Trends and Responsible Practices
+### 5. 4. Future Trends and Responsible Practices
 
 #### Ensuring long-term ethical AI practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/ensuring-long-term-ethical-ai-practices?u=76281980)
@@ -669,7 +665,7 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Enhance your marketing with ethical AI integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/enhance-your-marketing-with-ethical-ai-integration?u=76281980)
@@ -706,6 +702,21 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
+
+## Instructor
+
+- [[Madecraft]]
+- [[Lauren Diethelm]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Marketing
+- Artificial Intelligence (AI)
+- Content Marketing
 
 ## Path Context
 

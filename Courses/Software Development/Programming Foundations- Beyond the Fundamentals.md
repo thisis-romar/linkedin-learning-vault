@@ -37,34 +37,38 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Beyond%20the%20Fundamentals.md)
 
 ![Programming Foundations: Beyond the Fundamentals](https://media.licdn.com/dms/image/v2/C4E0DAQGO4PYOXpAFSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1585331963232?e=2147483647&amp;v=beta&amp;t=sZFhA29IlWnLLuMljOVE5QuOqOm-PiK4YBOjrWLV4MM)
 
 # Programming Foundations: Beyond the Fundamentals
 
-> Suggested Prerequisites
-
-Be familiar with variables, functions, and conditional logic.
-Watch the Programming Foundations: Fundamentals course if you want to understand the syntax for basic Python commands.
-Be sure to install any version of Python that starts with a “3.” Python 3.8.0 is used in the course.
-Use any code editor. Visual Studio Code is used in the course.
-
-Projects
-
-Perform various tas
+> Suggested Prerequisites Be familiar with variables, functions, and conditional logic. Watch the Programming Foundations: Fundamentals course if you want to understand the syntax for basic Python commands. Be sure to install any version of Python that starts with a “3.” Python 3.8.0 is used in the course. Use any code editor. Visual Studio Code is used in the course. Projects Perform various tasks 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals) | 3h 6m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sasha Vodnik]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Collections** (7 videos)
+- **3. 2. Iteration** (5 videos)
+- **4. 3. Using External Code** (3 videos)
+- **5. 4. Working with Strings** (5 videos)
+- **6. 5. Planning a Program** (2 videos)
+- **7. 6. Input and output** (2 videos)
+- **8. 7. Debugging** (7 videos)
+- **9. 8. Object Orientation** (3 videos)
+- **10. 9. Advanced Topics** (4 videos)
+- **11. Glossaries** (0 videos)
+- **12. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Broadening your knowledge of programming fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/broadening-your-knowledge-of-programming-fundamentals-22191968?u=76281980)
@@ -188,7 +192,7 @@ Perform various tas
 > **Exercise Files:** download the (1)
 
 
-### 1. Collections
+### 2. 1. Collections
 
 #### Understanding collections
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-collections-22193992?u=76281980)
@@ -689,7 +693,7 @@ Perform various tas
 > **Non-Speech:** (lively music) (1)
 
 
-### 2. Iteration
+### 3. 2. Iteration
 
 #### Introduction to iteration
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-iteration-22199013?u=76281980)
@@ -1031,7 +1035,7 @@ Perform various tas
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Using External Code
+### 4. 3. Using External Code
 
 #### Comparing types of external code
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/comparing-types-of-external-code-22197018?u=76281980)
@@ -1219,7 +1223,7 @@ Perform various tas
 > **Speakers:** - all (1)
 
 
-### 4. Working with Strings
+### 5. 4. Working with Strings
 
 #### Combining and manipulating strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/combining-and-manipulating-strings-22191967?u=76281980)
@@ -1702,7 +1706,7 @@ Perform various tas
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Planning a Program
+### 6. 5. Planning a Program
 
 #### Choosing a code style
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980)
@@ -1842,7 +1846,7 @@ Perform various tas
 > **Speakers:** - i (1)
 
 
-### 6. Input and output
+### 7. 6. Input and output
 
 #### Introduction to input and output
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-input-and-output-22199012?u=76281980)
@@ -2013,7 +2017,7 @@ Perform various tas
 > **Speakers:** - data (1)
 
 
-### 7. Debugging
+### 8. 7. Debugging
 
 #### Introduction to debugging
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-debugging-22199011?u=76281980)
@@ -2529,7 +2533,7 @@ Perform various tas
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Object Orientation
+### 9. 8. Object Orientation
 
 #### Introduction to object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-object-oriented-programming-22193991?u=76281980)
@@ -2781,7 +2785,7 @@ Perform various tas
 > **Speakers:** - i (1)
 
 
-### 9. Advanced Topics
+### 10. 9. Advanced Topics
 
 #### Advanced topics in programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/advanced-topics-in-programming-22191964?u=76281980)
@@ -3008,10 +3012,10 @@ Perform various tas
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Glossaries
+### 11. Glossaries
 
 
-### Conclusion
+### 12. Conclusion
 
 #### Continuing your programming quest
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980)
@@ -3052,6 +3056,10 @@ Perform various tas
 > **Code Keywords:** continue (2)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Sasha Vodnik]]
 
 ## Path Context
 

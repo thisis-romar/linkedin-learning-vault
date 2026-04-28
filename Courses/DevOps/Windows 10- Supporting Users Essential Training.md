@@ -23,8 +23,10 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Windows%2010-%20Supporting%20Users%20Essential%20Training.md)
 
 ![Windows 10: Supporting Users Essential Training](https://media.licdn.com/dms/image/v2/C560DAQGy3xRSp_ts1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632503520899?e=2147483647&amp;v=beta&amp;t=004SPpdS_RNFR8qKGkNG2B3fCRwXNVn7qhTYWExpwoo)
 
@@ -35,13 +37,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training) | 2h 17m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brien Posey]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Navigate the Windows 10 Interface** (11 videos)
+- **3. 2. Manage Application Performance and Compatibility** (11 videos)
+- **4. 3. Understand Browser Support** (6 videos)
+- **5. 4. Connectivity and Hardware** (6 videos)
+- **6. 5. Remote Connectivity** (4 videos)
+- **7. 6. Use Backup and Recovery Options** (7 videos)
+- **8. 7. Manage OneDrive Integration** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Supporting users in Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980)
@@ -99,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Navigate the Windows 10 Interface
+### 2. 1. Navigate the Windows 10 Interface
 
 #### Start menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/start-menu?u=76281980)
@@ -879,7 +889,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Manage Application Performance and Compatibility
+### 3. 2. Manage Application Performance and Compatibility
 
 #### Manage application compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-application-compatibility?u=76281980)
@@ -1698,7 +1708,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Understand Browser Support
+### 4. 3. Understand Browser Support
 
 #### An overview of Microsoft Edge
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980)
@@ -2085,7 +2095,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 4. Connectivity and Hardware
+### 5. 4. Connectivity and Hardware
 
 #### Smartphone connectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980)
@@ -2575,7 +2585,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Remote Connectivity
+### 6. 5. Remote Connectivity
 
 #### Enable remote connectivity to Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980)
@@ -3000,7 +3010,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Use Backup and Recovery Options
+### 7. 6. Use Backup and Recovery Options
 
 #### Create a traditional backup
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980)
@@ -3465,7 +3475,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Manage OneDrive Integration
+### 8. 7. Manage OneDrive Integration
 
 #### Add an account to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980)
@@ -3682,7 +3692,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### More about Windows 10 IT support
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/more-about-windows-10-it-support?u=76281980)
@@ -3704,6 +3714,10 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Brien Posey]]
 
 ## Path Context
 

@@ -27,8 +27,10 @@ tags:
   - topic/software-development
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Outlook%20on%20the%20Web%20Essential%20Training.md)
 
 ![Outlook on the Web Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHjKgUr1b58_A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711409101651?e=2147483647&amp;v=beta&amp;t=sE-SZpSmhRW_c0DteXuyJgJnsGoyuXeZWwM35HnBp3s)
 
@@ -39,17 +41,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889) | 3h 5m | 23K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gini von Courter]]
-
-## Skills Covered
-
-- Microsoft Outlook
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Get Started with Outlook on the Web** (4 videos)
+- **3. 2. Compose and Send Messages** (10 videos)
+- **4. 3. Receive and Manage Messages** (11 videos)
+- **5. 4. Use the Calendar** (9 videos)
+- **6. 5. Work with Meetings and Bookings** (6 videos)
+- **7. 6. Work with People and To-Do** (6 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Manage your email and calendar with Outlook on the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/manage-your-email-and-calendar-with-outlook-on-the-web?u=76281980)
@@ -138,7 +143,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Get Started with Outlook on the Web
+### 2. 1. Get Started with Outlook on the Web
 
 #### Sign in to Outlook on the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980)
@@ -379,7 +384,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Compose and Send Messages
+### 3. 2. Compose and Send Messages
 
 #### Create a new message
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980)
@@ -1256,7 +1261,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Receive and Manage Messages
+### 4. 3. Receive and Manage Messages
 
 #### View, reply to, and forward messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980)
@@ -2213,7 +2218,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Use the Calendar
+### 5. 4. Use the Calendar
 
 #### Navigate in the Calendar app
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-the-calendar-app?u=76281980)
@@ -3129,7 +3134,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Work with Meetings and Bookings
+### 6. 5. Work with Meetings and Bookings
 
 #### Three ways to create a meeting including Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980)
@@ -3735,7 +3740,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 6. Work with People and To-Do
+### 7. 6. Work with People and To-Do
 
 #### Use the People app
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-people-app?u=76281980)
@@ -4423,7 +4428,7 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980)
@@ -4461,6 +4466,14 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Gini von Courter]]
+
+## Skills Covered
+
+- Microsoft Outlook
 
 ## Path Context
 

@@ -26,8 +26,10 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practical%20GitHub%20Code%20Search.md)
 
 ![Practical GitHub Code Search](https://media.licdn.com/dms/image/v2/D560DAQGVJmvT3cIOXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684514017465?e=2147483647&amp;v=beta&amp;t=HeqmlkUlfTYVfy0lj9t6HQDFbnb_4Zuemu-fVdxy3S0)
 
@@ -38,17 +40,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search) | 41m | Advanced | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Skills Covered
-
-- GitHub
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Regular Search Features** (5 videos)
+- **3. 2. Code Search Beta** (3 videos)
+- **4. Conclusion** (0 videos)
+
+### 1. Introduction
 
 #### Creating projects for development
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/creating-projects-for-development?u=76281980)
@@ -109,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Regular Search Features
+### 2. 1. Regular Search Features
 
 #### GitHub code search
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980)
@@ -624,7 +625,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 2. Code Search Beta
+### 3. 2. Code Search Beta
 
 #### Finding code
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980)
@@ -1041,8 +1042,16 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Skills Covered
+
+- GitHub
 
 ## Path Context
 

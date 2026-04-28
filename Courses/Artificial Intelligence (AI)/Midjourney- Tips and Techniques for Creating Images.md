@@ -32,8 +32,10 @@ tags:
   - skill/midjourney
   - skill/conditional-image-generation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Midjourney-%20Tips%20and%20Techniques%20for%20Creating%20Images.md)
 
 ![Midjourney: Tips and Techniques for Creating Images](https://media.licdn.com/dms/image/v2/D560DAQGLGDnK9LBtPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683140321492?e=2147483647&amp;v=beta&amp;t=_OU6yL_W9BxOpYCRYWiyJvwoOpoWDM0fni4k_woIYlM)
 
@@ -44,24 +46,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images) | 2h 27m | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nick Harauz]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- Artificial Intelligence (AI)
-- Midjourney
-- Conditional Image Generation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Basics of Text to Image Prompts** (5 videos)
+- **3. 2. Going Farther with Midjourney** (8 videos)
+- **4. 3. Midjourney 5 And Beyond** (10 videos)
+- **5. 4. First Look: Midjourney on the Web** (5 videos)
+- **6. 5. . Generative AI Alternatives and Issues** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The rise of image generation apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/the-rise-of-image-generation-apps-24189532?u=76281980)
@@ -145,7 +142,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. The Basics of Text to Image Prompts
+### 2. 1. The Basics of Text to Image Prompts
 
 #### How text to image prompts work
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980)
@@ -574,7 +571,7 @@ created: 2026-04-21
 > **Env Vars:** url (1)
 
 
-### 2. Going Farther with Midjourney
+### 3. 2. Going Farther with Midjourney
 
 #### Using external images with a text prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-external-images-with-a-text-prompt-24186867?u=76281980)
@@ -1457,7 +1454,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Midjourney 5 And Beyond
+### 4. 3. Midjourney 5 And Beyond
 
 #### Image and text prompt ideation: Repeat, describe, and shorten
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980)
@@ -2492,7 +2489,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 4. First Look: Midjourney on the Web
+### 5. 4. First Look: Midjourney on the Web
 
 #### A tour of the Create tab
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980)
@@ -3010,7 +3007,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. . Generative AI Alternatives and Issues
+### 6. 5. . Generative AI Alternatives and Issues
 
 #### Using generative AI images with other AI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980)
@@ -3364,7 +3361,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing your Midjourney learning experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980)
@@ -3418,6 +3415,21 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Warnings:** keep in mind (1)
 
+
+## Instructor
+
+- [[Nick Harauz]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- Artificial Intelligence (AI)
+- Midjourney
+- Conditional Image Generation
 
 ## Path Context
 

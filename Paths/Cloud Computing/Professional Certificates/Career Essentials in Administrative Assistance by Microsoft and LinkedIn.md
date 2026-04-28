@@ -45,8 +45,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Professional%20Certificates/Career%20Essentials%20in%20Administrative%20Assistance%20by%20Microsoft%20and%20LinkedIn.md)
 
 # Career Essentials in Administrative Assistance by Microsoft and LinkedIn
 

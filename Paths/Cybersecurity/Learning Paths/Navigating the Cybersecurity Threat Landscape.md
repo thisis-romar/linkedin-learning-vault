@@ -49,8 +49,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Learning%20Paths/Navigating%20the%20Cybersecurity%20Threat%20Landscape.md)
 
 # Navigating the Cybersecurity Threat Landscape
 

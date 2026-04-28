@@ -21,8 +21,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Figma-%20Designing%20with%20Variables%20and%20Conditionals.md)
 
 ![Figma: Designing with Variables and Conditionals](https://media.licdn.com/dms/image/v2/D560DAQFzKC8XFxiUhg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709242496201?e=2147483647&amp;v=beta&amp;t=rqwJOu_pzEzfqI6uN0B9sgt96TEklCcgyBUYH_dLoiM)
 
@@ -33,13 +35,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals) | 1h 1m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joseph Labrecque]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Exploring Figma’s Approach to Variables** (5 videos)
+- **3. 2. Designing with Variables and Conditional Logic** (7 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Working with variables and conditionals
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variables-and-conditionals?u=76281980)
@@ -95,7 +100,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Exploring Figma’s Approach to Variables
+### 2. 1. Exploring Figma’s Approach to Variables
 
 #### Figma design file overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980)
@@ -441,7 +446,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Designing with Variables and Conditional Logic
+### 3. 2. Designing with Variables and Conditional Logic
 
 #### Assigning variables to text elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980)
@@ -1123,7 +1128,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/what-s-next?u=76281980)
@@ -1150,6 +1155,10 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Joseph Labrecque]]
 
 ## Path Context
 

@@ -17,8 +17,10 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
   - topic/software-development
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/IT%20Help%20Desk/Dan%20Gookin.md)
 
 # Dan Gookin
 

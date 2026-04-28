@@ -8,7 +8,7 @@ linkedin_topics:
   - Cloud Computing
   - Data Science
   - Database Management
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/cloud-computing
@@ -45,8 +45,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Working%20with%20Data-%20Collecting%2C%20Processing%2C%20and%20Storing%20Data%20for%20AI.md)
 
 # Working with Data: Collecting, Processing, and Storing Data for AI
 

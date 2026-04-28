@@ -32,8 +32,10 @@ tags:
   - skill/digital-accessibility
   - skill/wordpress
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress-%20Accessibility.md)
 
 ![WordPress: Accessibility](https://media.licdn.com/dms/image/v2/D560DAQFTPDbgaebkNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686181045304?e=2147483647&amp;v=beta&amp;t=PN5YudqqOOHIILuUQizIX5Q_tNQcUNp_ProAXfwgChc)
 
@@ -44,23 +46,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834) | 2h 50m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Dolson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Web Accessibility
-- Digital Accessibility
-- WordPress
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is Web Accessibility** (3 videos)
+- **3. 2. Accessibility and WordPress** (6 videos)
+- **4. 3. Accessibility in Your Theme** (7 videos)
+- **5. 4. Using Accessible WordPress Plugins** (4 videos)
+- **6. 5. Accessibility Plugins for WordPress** (3 videos)
+- **7. 6. Authoring Accessible Content** (5 videos)
+- **8. 7. Testing for Accessibility** (5 videos)
+- **9. 8. Remediation Workshop** (4 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Making accessible websites using WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980)
@@ -137,7 +138,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Is Web Accessibility
+### 2. 1. What Is Web Accessibility
 
 #### Web accessibility concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980)
@@ -340,7 +341,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Accessibility and WordPress
+### 3. 2. Accessibility and WordPress
 
 #### Understanding accessibility in WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980)
@@ -781,7 +782,7 @@ created: 2026-04-21
 > **Speakers:** - [host] (1)
 
 
-### 3. Accessibility in Your Theme
+### 4. 3. Accessibility in Your Theme
 
 #### Examining accessible design
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980)
@@ -1745,7 +1746,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Using Accessible WordPress Plugins
+### 5. 4. Using Accessible WordPress Plugins
 
 #### How to assess plugin accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980)
@@ -2337,7 +2338,7 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 
 
-### 5. Accessibility Plugins for WordPress
+### 6. 5. Accessibility Plugins for WordPress
 
 #### Testing tools for WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980)
@@ -2623,7 +2624,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Authoring Accessible Content
+### 7. 6. Authoring Accessible Content
 
 #### Writing accessible content
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/writing-accessible-content?u=76281980)
@@ -3077,7 +3078,7 @@ created: 2026-04-21
 > **Speakers:** - [host] (1)
 
 
-### 7. Testing for Accessibility
+### 8. 7. Testing for Accessibility
 
 #### Automated and manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980)
@@ -3505,7 +3506,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Remediation Workshop
+### 9. 8. Remediation Workshop
 
 #### Finding the issue
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/finding-the-issue?u=76281980)
@@ -3765,7 +3766,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980)
@@ -3807,6 +3808,20 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - [joe] (1)
 
+
+## Instructor
+
+- [[Joe Dolson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Web Accessibility
+- Digital Accessibility
+- WordPress
 
 ## Path Context
 

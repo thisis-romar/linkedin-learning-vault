@@ -37,8 +37,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20PHP%20Applications%20with%20Generative%20AI.md)
 
 ![Building PHP Applications with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQFNS19neoqiYw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712337853048?e=2147483647&amp;v=beta&amp;t=4MYtPZ6gF_yOeIclOpcBdMphzUqvsb4F6ljcfbTLpv8)
 
@@ -49,25 +51,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai) | 1h 23m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Casabona]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/4515339-building-php-applications-ai)
-
-## Skills Covered
-
-- Web Development
-- Generative AI
-- Artificial Intelligence (AI)
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Planning** (6 videos)
+- **3. 2. Writing Code** (5 videos)
+- **4. 3. Testing Your Code** (5 videos)
+- **5. 4. Documentation** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How can generative AI help with PHP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980)
@@ -157,7 +152,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Planning
+### 2. 1. Planning
 
 #### Defining requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980)
@@ -709,7 +704,7 @@ created: 2026-04-21
 > **Tools:** command line (1)
 
 
-### 2. Writing Code
+### 3. 2. Writing Code
 
 #### Using ChatGPT to get code snippets
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980)
@@ -1204,7 +1199,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Testing Your Code
+### 4. 3. Testing Your Code
 
 #### Automated testing vs. AI testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980)
@@ -1616,7 +1611,7 @@ created: 2026-04-21
 > **Cross-References:** previous video (1)
 
 
-### 4. Documentation
+### 5. 4. Documentation
 
 #### Types of documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/types-of-documentation?u=76281980)
@@ -1835,7 +1830,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980)
@@ -1864,6 +1859,22 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Joe Casabona]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/4515339-building-php-applications-ai)
+
+## Skills Covered
+
+- Web Development
+- Generative AI
+- Artificial Intelligence (AI)
+- PHP
 
 ## Path Context
 

@@ -22,8 +22,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Foundations%20of%20the%20Fourth%20Industrial%20Revolution%20(Industry%204.0).md)
 
 ![Foundations of the Fourth Industrial Revolution (Industry 4.0)](https://media.licdn.com/dms/image/v2/D560DAQHvk1cN7OUFsA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692727596949?e=2147483647&amp;v=beta&amp;t=5nd8udtEX4lJu2hzUAWmQ894exKcdwBFFM5QFg-38vE)
 
@@ -34,13 +36,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607) | 2h 5m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jonathan Reichental]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. History of the Industrial Revolutions** (4 videos)
+- **3. 2. The Elements of Change** (5 videos)
+- **4. 3. The Core Technologies** (8 videos)
+- **5. 4. The Impact of this Revolution** (4 videos)
+- **6. 5. Preparing and Responding to Change** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How the fourth Industrial Revolution is changing the world
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/how-the-fourth-industrial-revolution-is-changing-the-world?u=76281980)
@@ -64,7 +72,7 @@ created: 2026-04-21
 > **Speakers:** - today (1)
 
 
-### 1. History of the Industrial Revolutions
+### 2. 1. History of the Industrial Revolutions
 
 #### What is meant by Industrial Revolutions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980)
@@ -354,7 +362,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. The Elements of Change
+### 3. 2. The Elements of Change
 
 #### The significance of velocity, scope, impact, and convergence
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980)
@@ -882,7 +890,7 @@ created: 2026-04-21
 > **Speakers:** - understanding (1)
 
 
-### 3. The Core Technologies
+### 4. 3. The Core Technologies
 
 #### The big picture of technology trends
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980)
@@ -1657,7 +1665,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. The Impact of this Revolution
+### 5. 4. The Impact of this Revolution
 
 #### The emergence of smarter cities
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980)
@@ -2104,7 +2112,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 5. Preparing and Responding to Change
+### 6. 5. Preparing and Responding to Change
 
 #### Taking action: Organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980)
@@ -2411,7 +2419,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Final thoughts, next steps, and additional resources on the fourth Industrial Revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/final-thoughts-next-steps-and-additional-resources-on-the-fourth-industrial-revolution?u=76281980)
@@ -2456,6 +2464,10 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Jonathan Reichental]]
 
 ## Path Context
 

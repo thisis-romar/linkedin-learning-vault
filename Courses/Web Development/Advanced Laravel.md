@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/laravel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Laravel.md)
 
 ![Advanced Laravel](https://media.licdn.com/dms/image/v2/D560DAQFlZrRMt3ahvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686070664741?e=2147483647&amp;v=beta&amp;t=ub86ycLJnTNHJBGYPhhHoYry1d2fIBI2FGsp8Kgd4XY)
 
@@ -41,22 +43,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805) | 3h 14m | Advanced | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shruti Balasa]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-laravel-4380124)
-
-## Skills Covered
-
-- Laravel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Starting Your Project** (3 videos)
+- **3. 2. Authorization** (5 videos)
+- **4. 3. Advanced Eloquent Features** (5 videos)
+- **5. 4. Do More with Laravel** (3 videos)
+- **6. 5. Notifications, Queuing, and Scheduling** (4 videos)
+- **7. 6. Testing** (4 videos)
+- **8. 7. Understand How Laravel Works** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Beyond the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/beyond-the-basics?u=76281980)
@@ -286,7 +287,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. Starting Your Project
+### 2. 1. Starting Your Project
 
 #### Understand project requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/understand-project-requirements?u=76281980)
@@ -641,7 +642,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 2. Authorization
+### 3. 2. Authorization
 
 #### Create user roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980)
@@ -1438,7 +1439,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced Eloquent Features
+### 4. 3. Advanced Eloquent Features
 
 #### Seeding and factories
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980)
@@ -2568,7 +2569,7 @@ created: 2026-04-21
 > **Speakers:** - [shruti] (1)
 
 
-### 4. Do More with Laravel
+### 5. 4. Do More with Laravel
 
 #### Write commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/write-commands?u=76281980)
@@ -2989,7 +2990,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Notifications, Queuing, and Scheduling
+### 6. 5. Notifications, Queuing, and Scheduling
 
 #### Send emails
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980)
@@ -3742,7 +3743,7 @@ created: 2026-04-21
 > **Env Vars:** url (1)
 
 
-### 6. Testing
+### 7. 6. Testing
 
 #### Get started with testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980)
@@ -4349,7 +4350,7 @@ created: 2026-04-21
 > **Speakers:** - test (1)
 
 
-### 7. Understand How Laravel Works
+### 8. 7. Understand How Laravel Works
 
 #### Request lifecycle overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980)
@@ -4680,7 +4681,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Quick summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980)
@@ -4730,6 +4731,19 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Shruti Balasa]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-laravel-4380124)
+
+## Skills Covered
+
+- Laravel
 
 ## Path Context
 

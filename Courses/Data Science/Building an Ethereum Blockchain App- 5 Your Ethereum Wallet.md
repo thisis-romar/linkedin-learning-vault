@@ -36,8 +36,10 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%205%20Your%20Ethereum%20Wallet.md)
 
 ![Building an Ethereum Blockchain App: 5 Your Ethereum Wallet](https://media.licdn.com/dms/image/v2/C560DAQGBvDFwZAIuUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628525289625?e=2147483647&amp;v=beta&amp;t=tGJ9L6KDmUkL2Fayo3NommePGI325C9QvppV_YAfOVA)
 
@@ -48,23 +50,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet) | 28m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Solomon]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cryptocurrency
-- Blockchain
-- Ethereum
-
 ## Table of Contents
 
-### 1. Your Ethereum Wallet
+### Chapter Overview
+
+- **1. 1. Your Ethereum Wallet** (5 videos)
+
+### 1. 1. Your Ethereum Wallet
 
 #### What is an Ethereum wallet?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/what-is-an-ethereum-wallet?u=76281980)
@@ -786,6 +778,20 @@ created: 2026-04-21
 > **Ports:** port 8545 (1)
 > **UI Navigation:** go to (1)
 
+
+## Instructor
+
+- [[Michael Solomon]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cryptocurrency
+- Blockchain
+- Ethereum
 
 ## Path Context
 

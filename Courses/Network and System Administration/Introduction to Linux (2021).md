@@ -33,8 +33,10 @@ tags:
   - topic/network-and-system-administration
   - skill/linux
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Introduction%20to%20Linux%20(2021).md)
 
 ![Introduction to Linux (2021)](https://media.licdn.com/dms/image/v2/D4E0DAQFTYWjeOz37Ew/learning-public-crop_675_1200/B4EZmgXaUMHIAc-/0/1759332116036?e=2147483647&amp;v=beta&amp;t=9Wz3ip9LSed9oTATrdwyn7nffUSm1JuMhZtCGZOzcXU)
 
@@ -45,17 +47,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021) | 56m | Beginner | 23K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott Simpson]]
-
-## Skills Covered
-
-- Linux
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Linux Fundamentals** (8 videos)
+- **3. 2. Developing your knowledge** (2 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980)
@@ -155,7 +156,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Linux Fundamentals
+### 2. 1. Linux Fundamentals
 
 #### The kernel
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980)
@@ -980,7 +981,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. Developing your knowledge
+### 3. 2. Developing your knowledge
 
 #### Building your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980)
@@ -1136,7 +1137,7 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/next-steps?u=76281980)
@@ -1156,6 +1157,14 @@ created: 2026-04-21
 > **Prerequisites:** set up (2)
 > **Speakers:** - with (1)
 
+
+## Instructor
+
+- [[Scott Simpson]]
+
+## Skills Covered
+
+- Linux
 
 ## Path Context
 

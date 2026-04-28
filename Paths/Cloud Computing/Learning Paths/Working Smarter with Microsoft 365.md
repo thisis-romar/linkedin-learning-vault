@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/working-smarter-with-microsoft-365
 course_count: 9
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 12
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/cloud-computing
@@ -53,8 +53,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Working%20Smarter%20with%20Microsoft%20365.md)
 
 # Working Smarter with Microsoft 365
 

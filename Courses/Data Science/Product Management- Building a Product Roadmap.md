@@ -28,8 +28,10 @@ tags:
   - skill/product-management
   - skill/product-road-mapping
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Product%20Management-%20Building%20a%20Product%20Roadmap.md)
 
 ![Product Management: Building a Product Roadmap](https://media.licdn.com/dms/image/v2/C4E0DAQEUNycPzHkCbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642215818811?e=2147483647&amp;v=beta&amp;t=4Adw7ijC5fl16vwg1JPpNolh2gnReglD9aYJ_n4kwv4)
 
@@ -40,23 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap) | 47m | Intermediate | 364K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eldad Persky]]
-- [[Teg Grenager]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Product Management
-- Product Road Mapping
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Product Roadmap Foundations** (4 videos)
+- **3. 2. Laying the Groundwork for Your Product Roadmap** (5 videos)
+- **4. 3. Product Roadmap: Decision-Making and Alignment** (4 videos)
+- **5. 4. Common Challenges in a Product Roadmap** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started in building your product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/getting-started-in-building-your-product-roadmap?u=76281980)
@@ -87,7 +84,7 @@ created: 2026-04-21
 > **Code Keywords:** let (2)
 
 
-### 1. Product Roadmap Foundations
+### 2. 1. Product Roadmap Foundations
 
 #### Product roadmap definition and purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980)
@@ -313,7 +310,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 2. Laying the Groundwork for Your Product Roadmap
+### 3. 2. Laying the Groundwork for Your Product Roadmap
 
 #### The importance of process when developing a product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980)
@@ -663,7 +660,7 @@ created: 2026-04-21
 > **Speakers:** - suppose (1)
 
 
-### 3. Product Roadmap: Decision-Making and Alignment
+### 4. 3. Product Roadmap: Decision-Making and Alignment
 
 #### Identify key milestones for high-impact product roadmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980)
@@ -943,7 +940,7 @@ created: 2026-04-21
 > **Speakers:** - once (1)
 
 
-### 4. Common Challenges in a Product Roadmap
+### 5. 4. Common Challenges in a Product Roadmap
 
 #### Evangelize the product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980)
@@ -1079,7 +1076,7 @@ created: 2026-04-21
 > **Speakers:** - even (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Three steps for building your product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980)
@@ -1129,6 +1126,20 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Eldad Persky]]
+- [[Teg Grenager]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Product Management
+- Product Road Mapping
 
 ## Path Context
 

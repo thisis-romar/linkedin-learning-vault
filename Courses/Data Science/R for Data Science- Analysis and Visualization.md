@@ -39,8 +39,10 @@ tags:
   - skill/data-analysis
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/R%20for%20Data%20Science-%20Analysis%20and%20Visualization.md)
 
 ![R for Data Science: Analysis and Visualization](https://media.licdn.com/dms/image/v2/C560DAQFqJNVUz0fQoQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1674158733713?e=2147483647&amp;v=beta&amp;t=NAvM1qkexUSila_8hrecoe6TepNIcNlaLmLvqd6fAgs)
 
@@ -51,23 +53,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization) | 2h 53m | Beginner | 17K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barton Poulson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- R (Programming Language)
-- Data Analysis
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is R?** (2 videos)
+- **3. 2. Getting Started** (11 videos)
+- **4. 3. Data Visualization** (7 videos)
+- **5. 4. Data Wrangling** (3 videos)
+- **6. 5. Data Analysis** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### R for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980)
@@ -138,7 +136,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Is R?
+### 2. 1. What Is R?
 
 #### R in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980)
@@ -320,7 +318,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Getting Started
+### 3. 2. Getting Started
 
 #### Installing R
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980)
@@ -1727,7 +1725,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 3. Data Visualization
+### 4. 3. Data Visualization
 
 #### Using colors in R
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980)
@@ -2927,7 +2925,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data Wrangling
+### 5. 4. Data Wrangling
 
 #### Selecting cases and subgroups
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/selecting-cases-and-subgroups?u=76281980)
@@ -3180,7 +3178,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Data Analysis
+### 6. 5. Data Analysis
 
 #### Computing frequencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-frequencies-25384059?u=76281980)
@@ -3787,7 +3785,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980)
@@ -3852,6 +3850,20 @@ created: 2026-04-21
 > **Analogies:** it's like (1)
 > **Speakers:** - [barton] (1)
 
+
+## Instructor
+
+- [[Barton Poulson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- R (Programming Language)
+- Data Analysis
+- Data Visualization
 
 ## Path Context
 

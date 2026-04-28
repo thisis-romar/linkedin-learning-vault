@@ -31,8 +31,10 @@ tags:
   - skill/network-security
   - skill/cisco-firewall-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20Cisco%20Firewall%20Technologies.md)
 
 ![Cisco Network Security: Cisco Firewall Technologies](https://media.licdn.com/dms/image/v2/C4E0DAQHKo9yS4P2Vnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664215618381?e=2147483647&amp;v=beta&amp;t=IWJMwHVxsYt6tAmV5mICp7dp6BNT9rZ2SXROc7Mke4o)
 
@@ -43,22 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765) | 1h 45m | Intermediate | 46K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Network Security
-- Cisco Firewall Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Review Firewall Technologies** (6 videos)
+- **3. 2. Compare Firewall Types** (4 videos)
+- **4. 3. Manage Access Control Lists** (4 videos)
+- **5. 4. Implement NAT on Cisco ASA** (4 videos)
+- **6. 5. Examine Zone-Based Firewalls** (4 videos)
+- **7. 6. Review Firewall Features on a Cisco ASA** (8 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Allowing only authorized connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/allowing-only-authorized-connections?u=76281980)
@@ -181,7 +181,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Review Firewall Technologies
+### 2. 1. Review Firewall Technologies
 
 #### Understanding firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980)
@@ -631,7 +631,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Compare Firewall Types
+### 3. 2. Compare Firewall Types
 
 #### Filtering packets
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/filtering-packets?u=76281980)
@@ -874,7 +874,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Manage Access Control Lists
+### 4. 3. Manage Access Control Lists
 
 #### Understanding ACLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-acls?u=76281980)
@@ -1189,7 +1189,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Implement NAT on Cisco ASA
+### 5. 4. Implement NAT on Cisco ASA
 
 #### Understanding NAT
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980)
@@ -1435,7 +1435,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 5. Examine Zone-Based Firewalls
+### 6. 5. Examine Zone-Based Firewalls
 
 #### Understanding zone-based firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-zone-based-firewalls?u=76281980)
@@ -1742,7 +1742,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Review Firewall Features on a Cisco ASA
+### 7. 6. Review Firewall Features on a Cisco ASA
 
 #### Managing access on an ASA
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/managing-access-on-an-asa?u=76281980)
@@ -2279,7 +2279,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980)
@@ -2312,6 +2312,19 @@ created: 2026-04-21
 > **Env Vars:** asa (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Network Security
+- Cisco Firewall Security
 
 ## Path Context
 

@@ -24,8 +24,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Communicating%20with%20Confidence.md)
 
 ![Communicating with Confidence](https://media.licdn.com/dms/image/v2/D560DAQFrGrlB_Qi-lw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708044970719?e=2147483647&amp;v=beta&amp;t=mfgldZRpyT7ZNohMnGELmDCko20Z3CFGXe2E-nGY9dY)
 
@@ -36,13 +38,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131) | 1h 13m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Vinh Giang]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Foundations of a Great Communicator** (4 videos)
+- **3. 2. Manage Your Message** (2 videos)
+- **4. 3. Develop Vocal Mastery** (4 videos)
+- **5. 4. Develop Body Language Mastery** (4 videos)
+- **6. 5. Confident Digital Communication** (1 videos)
+- **7. 6. Dealing with Nerves When Communicating** (2 videos)
+- **8. Conclusion** (3 videos)
+
+### 1. Introduction
 
 #### Prepare to become a more confident communicator
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/prepare-to-become-a-more-confident-communicator?u=76281980)
@@ -69,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 1. Foundations of a Great Communicator
+### 2. 1. Foundations of a Great Communicator
 
 #### Confident communication is a skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980)
@@ -513,7 +522,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 2. Manage Your Message
+### 3. 2. Manage Your Message
 
 #### Consider your audience when preparing to communicate
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/consider-your-audience-when-preparing-to-communicate?u=76281980)
@@ -768,7 +777,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Develop Vocal Mastery
+### 4. 3. Develop Vocal Mastery
 
 #### If you breathe better, you sound better when speaking
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/if-you-breathe-better-you-sound-better-when-speaking?u=76281980)
@@ -1124,7 +1133,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 4. Develop Body Language Mastery
+### 5. 4. Develop Body Language Mastery
 
 #### Use eye contact effectively while communicating
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-eye-contact-effectively-while-communicating?u=76281980)
@@ -1681,7 +1690,7 @@ created: 2026-04-21
 > **Speakers:** - growing (1)
 
 
-### 5. Confident Digital Communication
+### 6. 5. Confident Digital Communication
 
 #### Communicate with confidence digitally
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communicate-with-confidence-digitally?u=76281980)
@@ -1778,7 +1787,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 6. Dealing with Nerves When Communicating
+### 7. 6. Dealing with Nerves When Communicating
 
 #### Five ways to handle nervousness when speaking
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/five-ways-to-handle-nervousness-when-speaking?u=76281980)
@@ -1930,7 +1939,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Frequently asked questions on communicating confidently
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/frequently-asked-questions-on-communicating-confidently?u=76281980)
@@ -2228,6 +2237,10 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 > **Speakers:** - only (1)
 
+
+## Instructor
+
+- [[Vinh Giang]]
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/neo4j
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Introduction%20to%20Neo4j.md)
 
 ![Introduction to Neo4j](https://media.licdn.com/dms/image/v2/C560DAQHW5qTGHHzVxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1660756613039?e=2147483647&amp;v=beta&amp;t=V7xR7ohFtweeH1uqB7RQgDW7ALDy-DkndokTo9QqkDM)
 
@@ -42,22 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j) | 1h 25m | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ljubica Lazarevic]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-neo4j-2483130)
-
-## Skills Covered
-
-- Neo4j
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction** (7 videos)
+- **3. 2. Getting Started** (6 videos)
+- **4. 3. Reading Data** (7 videos)
+- **5. 4. Writing Data** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Navigating the world of connected data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/navigating-the-world-of-connected-data?u=76281980)
@@ -81,7 +79,7 @@ created: 2026-04-21
 > **Speakers:** - [lulu] (1)
 
 
-### 1. Introduction
+### 2. 1. Introduction
 
 #### What are graph databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980)
@@ -461,7 +459,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Getting Started
+### 3. 2. Getting Started
 
 #### Anatomy of a property graph
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/anatomy-of-a-property-graph?u=76281980)
@@ -823,7 +821,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Reading Data
+### 4. 3. Reading Data
 
 #### Introducing the course data set
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980)
@@ -1499,7 +1497,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Writing Data
+### 5. 4. Writing Data
 
 #### CREATEing your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/createing-your-data?u=76281980)
@@ -1930,7 +1928,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980)
@@ -1998,6 +1996,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [ljubica] (1)
 
+
+## Instructor
+
+- [[Ljubica Lazarevic]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-neo4j-2483130)
+
+## Skills Covered
+
+- Neo4j
 
 ## Path Context
 

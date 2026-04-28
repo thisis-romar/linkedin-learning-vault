@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Analytics%20for%20Students%20(2022).md)
 
 ![Data Analytics for Students (2022)](https://media.licdn.com/dms/image/v2/D560DAQHu0agdv0f6JA/learning-public-crop_675_1200/B56Zs3k7x7KIAY-/0/1766163988250?e=2147483647&amp;v=beta&amp;t=t7gZPN436PKTyfQsd5W9IoveTc8kau4EZVGxlUK3NIA)
 
@@ -40,18 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022) | 1h | Beginner | 56K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[John David Ariansen]]
-- [[Madecraft]]
-
-## Skills Covered
-
-- Data Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Power of Data** (3 videos)
+- **3. 2. Framework to Solve Problems with Data** (6 videos)
+- **4. 3. Analytics Foundations** (6 videos)
+- **5. 4. Types of Data Sources** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Data moves a business forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980)
@@ -94,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - data (1)
 
 
-### 1. The Power of Data
+### 2. 1. The Power of Data
 
 #### What is the value of data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/what-is-the-value-of-data?u=76281980)
@@ -227,7 +229,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Framework to Solve Problems with Data
+### 3. 2. Framework to Solve Problems with Data
 
 #### Introduction to the framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980)
@@ -611,7 +613,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Analytics Foundations
+### 4. 3. Analytics Foundations
 
 #### Three stages of analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980)
@@ -978,7 +980,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Types of Data Sources
+### 5. 4. Types of Data Sources
 
 #### Data source map
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980)
@@ -1458,7 +1460,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Your path forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980)
@@ -1499,6 +1501,15 @@ created: 2026-04-21
 > **Definitions:** is called (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[John David Ariansen]]
+- [[Madecraft]]
+
+## Skills Covered
+
+- Data Analytics
 
 ## Path Context
 

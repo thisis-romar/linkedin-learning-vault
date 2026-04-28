@@ -35,8 +35,10 @@ tags:
   - skill/python-programming-language
   - skill/object-oriented-programming-oop
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Object-Oriented%20Programming.md)
 
 ![Python Object-Oriented Programming](https://media.licdn.com/dms/image/v2/D560DAQGDodIrzxv0mA/learning-public-crop_675_1200/B56ZS92ByDGQAc-/0/1738351845105?e=2147483647&amp;v=beta&amp;t=L07OE1pDo94yPJZbYwrw7KPuTP-lHkkMt5Nqsn-Gn8Q)
 
@@ -47,23 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296) | 1h 56m | Intermediate | 55K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/python-object-oriented-programming-4413110/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Object-Oriented Programming (OOP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Object-Oriented Python** (6 videos)
+- **3. 2. Inheritance and Composition** (6 videos)
+- **4. 3. "Magic" Object Methods** (6 videos)
+- **5. 4. Data Classes** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Python object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980)
@@ -324,7 +321,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 1. Object-Oriented Python
+### 2. 1. Object-Oriented Python
 
 #### Object-oriented programming refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980)
@@ -952,7 +949,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Inheritance and Composition
+### 3. 2. Inheritance and Composition
 
 #### Understanding inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-inheritance?u=76281980)
@@ -1603,7 +1600,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. "Magic" Object Methods
+### 4. 3. "Magic" Object Methods
 
 #### What are magic methods?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-are-magic-methods?u=76281980)
@@ -2189,7 +2186,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Data Classes
+### 5. 4. Data Classes
 
 #### Defining a data class
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/defining-a-data-class?u=76281980)
@@ -2623,7 +2620,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/next-steps?u=76281980)
@@ -2650,6 +2647,20 @@ created: 2026-04-21
 > **Prerequisites:** required to (1)
 > **Speakers:** - all (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/python-object-oriented-programming-4413110/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Object-Oriented Programming (OOP)
 
 ## Path Context
 

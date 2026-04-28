@@ -28,33 +28,31 @@ tags:
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML-%20Tables.md)
 
 ![HTML: Tables](https://media.licdn.com/dms/image/v2/C4E0DAQEbYbJfxltcqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1579284727023?e=2147483647&amp;v=beta&amp;t=SqSG-3VkApF_ZtGugV2jZnAdPnbbB0YF-bDrO21RKVo)
 
 # HTML: Tables
 
-> Sometimes you need to share data, and not just visualizations, directly with other people. HTML tables make this easy. While they have a complex history of use and misuse, HTML tables are great at their key purpose: presenting data.  In this course, learn how to create table structures that fit your data precisely, are easy to style, and work well for sharing. Instructor Jen Kramer covers the esse
+> Sometimes you need to share data, and not just visualizations, directly with other people. HTML tables make this easy. While they have a complex history of use and misuse, HTML tables are great at their key purpose: presenting data. In this course, learn how to create table structures that fit your data precisely, are easy to style, and work well for sharing. Instructor Jen Kramer covers the essen
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables) | 1h 24m | Beginner | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jen Kramer]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- HTML
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Table Basics** (10 videos)
+- **3. 2. Styling HTML Tables** (6 videos)
+- **4. 3. Making Tables Responsive** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Create semantic HTML tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/create-semantic-html-tables-23413073?u=76281980)
@@ -154,7 +152,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Table Basics
+### 2. 1. Table Basics
 
 #### Display data semantically
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980)
@@ -986,7 +984,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Styling HTML Tables
+### 3. 2. Styling HTML Tables
 
 #### Style table borders and basic styling
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/style-table-borders-and-basic-styling?u=76281980)
@@ -1432,7 +1430,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Making Tables Responsive
+### 4. 3. Making Tables Responsive
 
 #### Responsive tables with side scrolling
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/responsive-tables-with-side-scrolling?u=76281980)
@@ -1769,7 +1767,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/next-steps?u=76281980)
@@ -1801,6 +1799,18 @@ created: 2026-04-21
 > **Definitions:** is called (1)
 > **Speakers:** - hey (1)
 
+
+## Instructor
+
+- [[Jen Kramer]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- HTML
 
 ## Path Context
 

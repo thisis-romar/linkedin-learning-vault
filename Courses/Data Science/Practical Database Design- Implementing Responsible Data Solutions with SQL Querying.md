@@ -36,8 +36,10 @@ tags:
   - skill/database-design
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Practical%20Database%20Design-%20Implementing%20Responsible%20Data%20Solutions%20with%20SQL%20Querying.md)
 
 ![Practical Database Design: Implementing Responsible Data Solutions with SQL Querying](https://media.licdn.com/dms/image/v2/D560DAQEJyvvVXH1rHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719007502300?e=2147483647&amp;v=beta&amp;t=gyN7XQNU3wtCS5fWULS6ESFqVhIiHFXxNwGLb73qBuk)
 
@@ -48,24 +50,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying) | 2h 17m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dr. Brandeis Marshall]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Management
-- Database Systems
-- Database Design
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Business Rule Development** (7 videos)
+- **3. 2. Database Design** (6 videos)
+- **4. 3. Data Generation and Datasets** (4 videos)
+- **5. 4. Database Implementation** (5 videos)
+- **6. 5. SQL Querying** (5 videos)
+- **7. 6. Final Project** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Designing and implementing a data model
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980)
@@ -144,7 +142,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Business Rule Development
+### 2. 1. Business Rule Development
 
 #### How databases help businesses
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980)
@@ -566,7 +564,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 2. Database Design
+### 3. 2. Database Design
 
 #### Entities and relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/entities-and-relationships?u=76281980)
@@ -987,7 +985,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 3. Data Generation and Datasets
+### 4. 3. Data Generation and Datasets
 
 #### The data you're given: Now what?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980)
@@ -1272,7 +1270,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 4. Database Implementation
+### 5. 4. Database Implementation
 
 #### Overview of MySQL Workbench
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980)
@@ -1801,7 +1799,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. SQL Querying
+### 6. 5. SQL Querying
 
 #### Overview of the SELECT statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980)
@@ -2387,7 +2385,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Final Project
+### 7. 6. Final Project
 
 #### Bringing it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/bringing-it-all-together?u=76281980)
@@ -2464,7 +2462,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980)
@@ -2493,6 +2491,21 @@ created: 2026-04-21
 > **URLs:** [dataedx.com](https://dataedx.com) (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Dr. Brandeis Marshall]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Management
+- Database Systems
+- Database Design
+- SQL
 
 ## Path Context
 

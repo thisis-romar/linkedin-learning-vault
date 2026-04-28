@@ -35,8 +35,10 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Transforming%20Business%20with%20AI%20Agents-%20Autonomous%20Efficiency%20and%20Decision-Making.md)
 
 ![Transforming Business with AI Agents: Autonomous Efficiency and Decision-Making](https://media.licdn.com/dms/image/v2/D4D0DAQGN52zdpc6G5A/learning-public-crop_675_1200/B4DZVNz36CG8AY-/0/1740767199289?e=2147483647&amp;v=beta&amp;t=pRKRi9672WJBlSW1HZjQdg8Rt5RQnQqiQVnwHtgpW4g)
 
@@ -47,20 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making) | 37m | Intermediate | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Charlene Li]]
-
-## Skills Covered
-
-- AI Strategy
-- AI for Business
-- AI Agents
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Explaining Agentic AI** (3 videos)
+- **3. 2. Types of AI Agents** (6 videos)
+- **4. 3. Putting AI Agents to Work** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introducing agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/introducing-agentic-ai?u=76281980)
@@ -91,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Explaining Agentic AI
+### 2. 1. Explaining Agentic AI
 
 #### What makes AI agents unique
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980)
@@ -294,7 +293,7 @@ created: 2026-04-21
 > **Speakers:** - agentic (1)
 
 
-### 2. Types of AI Agents
+### 3. 2. Types of AI Agents
 
 #### Simple reflex agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/simple-reflex-agents?u=76281980)
@@ -634,7 +633,7 @@ created: 2026-04-21
 > **Speakers:** - think (1)
 
 
-### 3. Putting AI Agents to Work
+### 4. 3. Putting AI Agents to Work
 
 #### Implementing agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980)
@@ -788,7 +787,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Your future and agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/your-future-and-agentic-ai?u=76281980)
@@ -825,6 +824,17 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Charlene Li]]
+
+## Skills Covered
+
+- AI Strategy
+- AI for Business
+- AI Agents
+- Artificial Intelligence (AI)
 
 ## Path Context
 

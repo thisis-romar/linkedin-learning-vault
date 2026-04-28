@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/robotic-process-automation-rpa
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Process%20Discovery%20for%20Robotic%20Process%20Automation.md)
 
 ![Process Discovery for Robotic Process Automation](https://media.licdn.com/dms/image/v2/C560DAQHxWEzKNHcwiw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1662490100152?e=2147483647&amp;v=beta&amp;t=7OBrbHMBV_a7UPGCBmN1EZrzmJ999SyR3MHluynEPeQ)
 
@@ -41,17 +43,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation) | 30m | Intermediate | 135K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ian Barkin]]
-
-## Skills Covered
-
-- Robotic Process Automation (RPA)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Approaches to Process Discovery** (5 videos)
+- **3. 2. Automating Business Automation** (7 videos)
+- **4. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### A leading enterprise technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-leading-enterprise-technology-25742338?u=76281980)
@@ -143,7 +144,7 @@ created: 2026-04-21
 > **Speakers:** - my (1)
 
 
-### 1. Approaches to Process Discovery
+### 2. 1. Approaches to Process Discovery
 
 #### Laying the groundwork
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980)
@@ -349,7 +350,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Automating Business Automation
+### 3. 2. Automating Business Automation
 
 #### Setting an initial scope for automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/setting-an-initial-scope-for-automation?u=76281980)
@@ -663,7 +664,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat pop music) (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### A summary of hurdles
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-summary-of-hurdles?u=76281980)
@@ -726,6 +727,14 @@ created: 2026-04-21
 > **Env Vars:** rpa (2)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Ian Barkin]]
+
+## Skills Covered
+
+- Robotic Process Automation (RPA)
 
 ## Path Context
 

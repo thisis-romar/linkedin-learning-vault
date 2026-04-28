@@ -31,8 +31,10 @@ tags:
   - skill/cloud-administration
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS-%20Networking.md)
 
 ![AWS: Networking](https://media.licdn.com/dms/image/v2/C560DAQENU-CAySYwBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626294896925?e=2147483647&amp;v=beta&amp;t=TxAgk1P_aWZmwf23iF7tTYviyA_b8LV6f-VxOpXdaf4)
 
@@ -43,22 +45,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632) | 4h 27m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sharif Nijim]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cloud Administration
-- Amazon Web Services (AWS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. AWS Network Foundations** (5 videos)
+- **3. 2. Virtual Private Cloud** (10 videos)
+- **4. 3. VPC Security** (10 videos)
+- **5. 4. VPC Peering** (4 videos)
+- **6. 5. Transit Gateway** (6 videos)
+- **7. 6. Route 53** (8 videos)
+- **8. 7. Global Considerations** (16 videos)
+- **9. 8. Troubleshooting Strategies** (4 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AWS networking overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/aws-networking-overview?u=76281980)
@@ -137,7 +139,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. AWS Network Foundations
+### 2. 1. AWS Network Foundations
 
 #### Virtual Private Cloud (VPC) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980)
@@ -698,7 +700,7 @@ created: 2026-04-21
 > **Cross-References:** next chapter (1)
 
 
-### 2. Virtual Private Cloud
+### 3. 2. Virtual Private Cloud
 
 #### Explore the default VPC
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980)
@@ -2265,7 +2267,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. VPC Security
+### 4. 3. VPC Security
 
 #### Understanding security groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980)
@@ -3189,7 +3191,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. VPC Peering
+### 5. 4. VPC Peering
 
 #### VPC peering overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/vpc-peering-overview?u=76281980)
@@ -3510,7 +3512,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Transit Gateway
+### 6. 5. Transit Gateway
 
 #### Understand Transit Gateway
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-transit-gateway?u=76281980)
@@ -4024,7 +4026,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 6. Route 53
+### 7. 6. Route 53
 
 #### Configure Route 53 DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-dns?u=76281980)
@@ -4652,7 +4654,7 @@ created: 2026-04-21
 > **Tools:** aws console (1)
 
 
-### 7. Global Considerations
+### 8. 7. Global Considerations
 
 #### Understand CloudFront
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980)
@@ -5992,7 +5994,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 8. Troubleshooting Strategies
+### 9. 8. Troubleshooting Strategies
 
 #### Troubleshooting connectivity issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-connectivity-issues?u=76281980)
@@ -6466,7 +6468,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980)
@@ -6525,6 +6527,19 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - [sharif] (1)
 
+
+## Instructor
+
+- [[Sharif Nijim]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cloud Administration
+- Amazon Web Services (AWS)
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - skill/html
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML%20%26%20CSS-%20Creating%20Forms.md)
 
 ![HTML & CSS: Creating Forms](https://media.licdn.com/dms/image/v2/C4E0DAQG3EL40Sa-iTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669394263?e=2147483647&amp;v=beta&amp;t=-ZhOGxWDv39P0oJ36W4pw76Hq3Z7IxNaeBJEm0g0Yr0)
 
@@ -42,22 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms) | 2h 30m | Beginner | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Clarissa Peterson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- HTML
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Designing a Form Experience** (4 videos)
+- **3. 2. Creating Forms with HTML** (9 videos)
+- **4. 3. Making Forms Interactive** (2 videos)
+- **5. 4. Styling Form Fields with CSS** (8 videos)
+- **6. 5. Form Layout with CSS** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/welcome?u=76281980)
@@ -143,7 +142,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Designing a Form Experience
+### 2. 1. Designing a Form Experience
 
 #### Ask the right questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980)
@@ -577,7 +576,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creating Forms with HTML
+### 3. 2. Creating Forms with HTML
 
 #### Basic form structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980)
@@ -1779,7 +1778,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Making Forms Interactive
+### 4. 3. Making Forms Interactive
 
 #### Form submission and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980)
@@ -2028,7 +2027,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 4. Styling Form Fields with CSS
+### 5. 4. Styling Form Fields with CSS
 
 #### Basic form styles: Text color and size
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980)
@@ -2865,7 +2864,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Form Layout with CSS
+### 6. 5. Form Layout with CSS
 
 #### Small-screen layout for forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/small-screen-layout-for-forms?u=76281980)
@@ -3239,7 +3238,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/next-steps?u=76281980)
@@ -3256,6 +3255,19 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [clarissa] (1)
 
+
+## Instructor
+
+- [[Clarissa Peterson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- HTML
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

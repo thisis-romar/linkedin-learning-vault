@@ -7,7 +7,7 @@ course_count: 10
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 1
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/cloud-computing
@@ -59,8 +59,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Technical%20Literacy%20and%20Future%20Readiness%20for%20Senior%20Managers%20and%20Senior%20Leaders.md)
 
 # Technical Literacy and Future Readiness for Senior Managers and Senior Leaders
 

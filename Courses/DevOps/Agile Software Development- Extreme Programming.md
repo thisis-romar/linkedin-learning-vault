@@ -32,8 +32,10 @@ tags:
   - topic/software-development
   - skill/agile-software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development-%20Extreme%20Programming.md)
 
 ![Agile Software Development: Extreme Programming](https://media.licdn.com/dms/image/v2/C4E0DAQEN9C-9dqcukQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568667623642?e=2147483647&amp;v=beta&amp;t=ILjEjDq24Ft8yZceZNHquCSBrdc32Gqu-oD6q73hbfQ)
 
@@ -44,17 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming) | 1h 2m | Intermediate | 259K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Richard Kasperowski]]
-
-## Skills Covered
-
-- Agile Software Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Extreme Programming (XP)** (4 videos)
+- **3. 2. Feedback Loops** (7 videos)
+- **4. 3. Continuous Process** (4 videos)
+- **5. 4. The Extreme Programming (XP) Mindset** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Be more productive, with higher quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980)
@@ -87,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - agility (1)
 
 
-### 1. Extreme Programming (XP)
+### 2. 1. Extreme Programming (XP)
 
 #### History of extreme programming (XP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980)
@@ -444,7 +447,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Feedback Loops
+### 3. 2. Feedback Loops
 
 #### Feedback scales
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980)
@@ -1182,7 +1185,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Continuous Process
+### 4. 3. Continuous Process
 
 #### If it's good, do it all the time
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980)
@@ -1672,7 +1675,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. The Extreme Programming (XP) Mindset
+### 5. 4. The Extreme Programming (XP) Mindset
 
 #### Programmer welfare and sustainable pace
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980)
@@ -2015,7 +2018,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980)
@@ -2049,6 +2052,14 @@ created: 2026-04-21
 > **Env Vars:** tdd (2)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Richard Kasperowski]]
+
+## Skills Covered
+
+- Agile Software Development
 
 ## Path Context
 

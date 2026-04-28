@@ -36,41 +36,33 @@ tags:
   - skill/python-programming-language
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Training%20Neural%20Networks%20in%20Python.md)
 
 ![Training Neural Networks in Python](https://media.licdn.com/dms/image/v2/C560DAQHV4j3fIM3c8Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667864483162?e=2147483647&amp;v=beta&amp;t=oqVOtld0_v33uk2RKr6tq51vsio0xD8Bcvrwp7TUW8Y)
 
 # Training Neural Networks in Python
 
-> Prerequisites
-You must feel comfortable writing code in Python 3.
-
-Project
-Build a neural network from scratch using Python.
-
-Neural networks are widely used in everyday applications like online shopping, weather forecasting, and smartphones. This course by Eduardo Corpeño teaches the inner workings of neural networks in Python, allowing you to fully understand the algorithms behind them. Although
+> Prerequisites You must feel comfortable writing code in Python 3. Project Build a neural network from scratch using Python. Neural networks are widely used in everyday applications like online shopping, weather forecasting, and smartphones. This course by Eduardo Corpeño teaches the inner workings of neural networks in Python, allowing you to fully understand the algorithms behind them. Although t
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600) | 2h 5m | Advanced | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eduardo Corpeño]]
-
-## Resources
-
-- [GitHub Repository](https://github.com/LinkedInLearning/training-neural-networks-in-python-3215347/codespaces)
-
-## Skills Covered
-
-- Neural Networks
-- Python (Programming Language)
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Choosing a Neural Network** (6 videos)
+- **3. 2. The Building Blocks of Neural Networks** (9 videos)
+- **4. 3. Building Your Network** (4 videos)
+- **5. 4. Training Your Network** (8 videos)
+- **6. 5. Let's Make a Segment Display Classifier** (8 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Creating a neural network in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980)
@@ -278,7 +270,7 @@ Neural networks are widely used in everyday applications like online shopping, w
 > **Warnings:** note that (1)
 
 
-### 1. Choosing a Neural Network
+### 2. 1. Choosing a Neural Network
 
 #### What is a neural network?
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980)
@@ -618,7 +610,7 @@ Neural networks are widely used in everyday applications like online shopping, w
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Building Blocks of Neural Networks
+### 3. 2. The Building Blocks of Neural Networks
 
 #### Neurons and the brain
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980)
@@ -1271,7 +1263,7 @@ Neural networks are widely used in everyday applications like online shopping, w
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Building Your Network
+### 4. 3. Building Your Network
 
 #### Linear separability
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/linear-separability?u=76281980)
@@ -1554,7 +1546,7 @@ Neural networks are widely used in everyday applications like online shopping, w
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 4. Training Your Network
+### 5. 4. Training Your Network
 
 #### The need for training
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-need-for-training?u=76281980)
@@ -2375,7 +2367,7 @@ Neural networks are widely used in everyday applications like online shopping, w
 > **Speakers:** - so (1)
 
 
-### 5. Let's Make a Segment Display Classifier
+### 6. 5. Let's Make a Segment Display Classifier
 
 #### Segment display recognition
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980)
@@ -3046,7 +3038,7 @@ Neural networks are widely used in everyday applications like online shopping, w
 > **Speakers:** - lastly (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980)
@@ -3076,6 +3068,20 @@ Neural networks are widely used in everyday applications like online shopping, w
 > **CLI Commands:** python (1)
 > **Speakers:** - [eduardo] (1)
 
+
+## Instructor
+
+- [[Eduardo Corpeño]]
+
+## Resources
+
+- [GitHub Repository](https://github.com/LinkedInLearning/training-neural-networks-in-python-3215347/codespaces)
+
+## Skills Covered
+
+- Neural Networks
+- Python (Programming Language)
+- Artificial Intelligence (AI)
 
 ## Path Context
 

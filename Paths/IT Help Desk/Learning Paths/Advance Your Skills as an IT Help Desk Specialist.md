@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-as-an-it-help-d
 course_count: 11
 linkedin_topics:
   - IT Help Desk
-louvain_cluster: 7
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/it-help-desk
@@ -61,8 +61,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/IT%20Help%20Desk/Learning%20Paths/Advance%20Your%20Skills%20as%20an%20IT%20Help%20Desk%20Specialist.md)
 
 # Advance Your Skills as an IT Help Desk Specialist
 

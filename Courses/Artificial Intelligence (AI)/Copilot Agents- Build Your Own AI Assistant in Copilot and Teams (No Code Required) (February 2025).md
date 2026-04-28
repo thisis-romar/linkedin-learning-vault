@@ -32,8 +32,10 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20Agents-%20Build%20Your%20Own%20AI%20Assistant%20in%20Copilot%20and%20Teams%20(No%20Code%20Required)%20(February%202025).md)
 
 ![Copilot Agents: Build Your Own AI Assistant in Copilot and Teams (No Code Required) (February 2025)](https://media.licdn.com/dms/image/v2/D560DAQE3KpoFnoJ4Pg/learning-public-crop_675_1200/B56ZosRzIMHAAY-/0/1761679455466?e=2147483647&amp;v=beta&amp;t=_tGj_1GeOK9eKNkEDNFIez1JQ273hCPiw6DOA9r_O1g)
 
@@ -44,20 +46,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025) | 34m | 84K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nick Brazzi]]
-
-## Skills Covered
-
-- Microsoft Copilot
-- AI Productivity
-- AI Agents
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Use Agents in Microsoft 365 Copilot** (3 videos)
+- **3. 2. Create Your Own Agents** (5 videos)
+
+### 1. Introduction
 
 #### Use agents for specialized AI tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980)
@@ -154,7 +151,7 @@ created: 2026-04-21
 > **Speakers:** - not (1)
 
 
-### 1. Use Agents in Microsoft 365 Copilot
+### 2. 1. Use Agents in Microsoft 365 Copilot
 
 #### Understand how Copilot agents work
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980)
@@ -394,7 +391,7 @@ created: 2026-04-21
 > **Tools:** confluence (1)
 
 
-### 2. Create Your Own Agents
+### 3. 2. Create Your Own Agents
 
 #### Create a basic Copilot agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980)
@@ -908,6 +905,17 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Nick Brazzi]]
+
+## Skills Covered
+
+- Microsoft Copilot
+- AI Productivity
+- AI Agents
+- Artificial Intelligence (AI)
 
 ## Path Context
 

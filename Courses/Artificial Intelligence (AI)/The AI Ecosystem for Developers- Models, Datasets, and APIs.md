@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20AI%20Ecosystem%20for%20Developers-%20Models%2C%20Datasets%2C%20and%20APIs.md)
 
 ![The AI Ecosystem for Developers: Models, Datasets, and APIs](https://media.licdn.com/dms/image/v2/D560DAQEw6KZOrrGgrQ/learning-public-crop_675_1200/B56Zdb3fa0GQAo-/0/1749592963181?e=2147483647&amp;v=beta&amp;t=h-Sbj4VTQiM-5G8S0AOCmaSYatVAO_nh34l7bR6ZQt0)
 
@@ -47,24 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis) | 3h 31m | Intermediate | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wuraola Oyewusi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI
-- AI Software Development
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding the AI Ecosystem** (5 videos)
+- **3. 2. AI Models and Architecture** (6 videos)
+- **4. 3. AI Datasets** (7 videos)
+- **5. 4. AI APIs: Access and Integration** (11 videos)
+- **6. 5. AI  Resources and Community** (8 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with the AI ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/getting-started-with-the-ai-ecosystem?u=76281980)
@@ -114,7 +111,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Understanding the AI Ecosystem
+### 2. 1. Understanding the AI Ecosystem
 
 #### What is interesting about AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-is-interesting-about-ai?u=76281980)
@@ -606,7 +603,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 2. AI Models and Architecture
+### 3. 2. AI Models and Architecture
 
 #### Introduction to AI models and architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980)
@@ -1218,7 +1215,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. AI Datasets
+### 4. 3. AI Datasets
 
 #### Introduction to AI datasets
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980)
@@ -1881,7 +1878,7 @@ created: 2026-04-21
 > **Tools:** colab (1)
 
 
-### 4. AI APIs: Access and Integration
+### 5. 4. AI APIs: Access and Integration
 
 #### What are AI application programming interfaces (APIs)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980)
@@ -2915,7 +2912,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. AI  Resources and Community
+### 6. 5. AI  Resources and Community
 
 #### AI development tools and frameworks: IDEs
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980)
@@ -3623,7 +3620,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980)
@@ -3664,6 +3661,21 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Wuraola Oyewusi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI
+- AI Software Development
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
 
 ## Path Context
 

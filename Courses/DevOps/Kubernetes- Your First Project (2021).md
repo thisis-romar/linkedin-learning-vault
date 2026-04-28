@@ -28,8 +28,10 @@ tags:
   - topic/devops
   - skill/kubernetes
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Kubernetes-%20Your%20First%20Project%20(2021).md)
 
 ![Kubernetes: Your First Project (2021)](https://media.licdn.com/dms/image/v2/D4E0DAQHMTGjVlXuQmA/learning-public-crop_675_1200/B4EZeEFPhJH0Ac-/0/1750267656589?e=2147483647&amp;v=beta&amp;t=0BcznFJ6yJkpiZWXMeV3wrlaSmujdatBy0We1E5Euok)
 
@@ -40,21 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021) | 2h 44m | Intermediate | 34K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Carlos Nunez]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Kubernetes
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The Project/The Mission** (2 videos)
+- **3. 2. A Brief Overview of Kubernetes** (2 videos)
+- **4. 3. Testing Locally with Docker** (7 videos)
+- **5. 4. Running Kubernetes Locally with kind** (10 videos)
+- **6. 5. Our First Kubernetes Manifests** (7 videos)
+- **7. 6. Our First Helm Chart** (7 videos)
+- **8. 7. We'll Do It Live** (7 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Your first project on Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/your-first-project-on-kubernetes?u=76281980)
@@ -376,7 +378,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (2)
 
 
-### 1. The Project/The Mission
+### 2. 1. The Project/The Mission
 
 #### Our application: Pre-Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980)
@@ -535,7 +537,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. A Brief Overview of Kubernetes
+### 3. 2. A Brief Overview of Kubernetes
 
 #### How Docker containers work
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980)
@@ -741,7 +743,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Testing Locally with Docker
+### 4. 3. Testing Locally with Docker
 
 #### Installing Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980)
@@ -1341,7 +1343,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 4. Running Kubernetes Locally with kind
+### 5. 4. Running Kubernetes Locally with kind
 
 #### What is kind?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980)
@@ -2193,7 +2195,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Our First Kubernetes Manifests
+### 6. 5. Our First Kubernetes Manifests
 
 #### Understanding Kubernetes manifests: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-1?u=76281980)
@@ -2971,7 +2973,7 @@ created: 2026-04-21
 > **File Paths:** kind_config.yaml (1), ingress.yaml (1)
 
 
-### 6. Our First Helm Chart
+### 7. 6. Our First Helm Chart
 
 #### What is Helm?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980)
@@ -3623,7 +3625,7 @@ created: 2026-04-21
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1)
 
 
-### 7. We'll Do It Live
+### 8. 7. We'll Do It Live
 
 #### From local testing to EKS: What's changing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/from-local-testing-to-eks-what-s-changing?u=76281980)
@@ -4241,7 +4243,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/next-steps?u=76281980)
@@ -4302,6 +4304,18 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Carlos Nunez]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Kubernetes
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/microservices
   - skill/kubernetes
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Kubernetes-%20Microservices.md)
 
 ![Kubernetes: Microservices](https://media.licdn.com/dms/image/v2/D560DAQHj6_u-_V4BiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713982644820?e=2147483647&amp;v=beta&amp;t=4tVKvKmN56MPSSinLxs3qOmRD6SQg_WE2UI4Jmx-BwU)
 
@@ -43,23 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657) | 1h 20m | Beginner | 23K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kim Schlesinger]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/kubernetes-microservices-3808182)
-
-## Skills Covered
-
-- Microservices
-- Kubernetes
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Cloud Native Was Made for Microservices** (4 videos)
+- **3. 2. Set up Your Cluster and Deploy Your Microservices** (4 videos)
+- **4. 3. Service Discovery in Kubernetes** (6 videos)
+- **5. 4. Advanced Topics** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Cloud native networking with Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/cloud-native-networking-with-kubernetes?u=76281980)
@@ -160,7 +157,7 @@ created: 2026-04-21
 > **Non-Speech:** (keyboard clicking) (1)
 
 
-### 1. Cloud Native Was Made for Microservices
+### 2. 1. Cloud Native Was Made for Microservices
 
 #### Monolithic vs. microservices architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980)
@@ -416,7 +413,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Set up Your Cluster and Deploy Your Microservices
+### 3. 2. Set up Your Cluster and Deploy Your Microservices
 
 #### Spin up a Minikube cluster in Windows, Mac, and Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980)
@@ -808,7 +805,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Service Discovery in Kubernetes
+### 4. 3. Service Discovery in Kubernetes
 
 #### An overview of Kubernetes services
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980)
@@ -1553,7 +1550,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Advanced Topics
+### 5. 4. Advanced Topics
 
 #### Understanding network policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/understanding-network-policies?u=76281980)
@@ -1776,7 +1773,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980)
@@ -1821,6 +1818,20 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Kim Schlesinger]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/kubernetes-microservices-3808182)
+
+## Skills Covered
+
+- Microservices
+- Kubernetes
 
 ## Path Context
 

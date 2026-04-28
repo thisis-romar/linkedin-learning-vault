@@ -30,8 +30,10 @@ tags:
   - skill/banking
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Data%20Science%20Of%20Economics%20Banking%20And%20Finance.md)
 
 ![The Data Science Of Economics Banking And Finance](https://media.licdn.com/dms/image/v2/D4D0DAQGG7C3XytgA3Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715275982013?e=2147483647&amp;v=beta&amp;t=Pbtd1dAoFsZpR2OanG2jbA-wiredu-hxFCZUzqoTd28)
 
@@ -42,20 +44,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance) | 49K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Finance
-- Economics
-- Banking
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Applying Data Science** (12 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The data science of finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/the-data-science-of-finance?u=76281980)
@@ -80,7 +77,7 @@ created: 2026-04-21
 > **Speakers:** - [barton] (1)
 
 
-### 1. Applying Data Science
+### 2. 1. Applying Data Science
 
 #### Data science and money
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980)
@@ -1680,7 +1677,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980)
@@ -1751,6 +1748,17 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Finance
+- Economics
+- Banking
+- Data Science
 
 ## Path Context
 

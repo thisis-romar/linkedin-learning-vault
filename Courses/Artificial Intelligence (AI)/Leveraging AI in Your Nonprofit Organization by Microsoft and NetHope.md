@@ -32,8 +32,10 @@ tags:
   - skill/ai-readiness
   - skill/nonprofit-organizations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20in%20Your%20Nonprofit%20Organization%20by%20Microsoft%20and%20NetHope.md)
 
 ![Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope](https://media.licdn.com/dms/image/v2/D560DAQFtMNofd6ZzFg/learning-public-crop_675_1200/B56ZzpcrEtHMAY-/0/1773443134380?e=2147483647&amp;v=beta&amp;t=XvBqnfYy77x4UzKnyHqhmNJw32zskEUYuMxwTam4xB4)
 
@@ -44,25 +46,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope) | 1h 13m | Beginner | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Microsoft]]
-- [[NetHope]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Non-profit Technology
-- Artificial Intelligence (AI)
-- AI Readiness
-- Nonprofit Organizations
-
 ## Table of Contents
 
-### 1. Organizational AI Readiness and Integration for Nonprofits
+### Chapter Overview
+
+- **1. 1. Organizational AI Readiness and Integration for Nonprofits** (5 videos)
+- **2. 2. Sustainable AI Adoption for Nonprofits** (5 videos)
+- **3. 3. Responsible AI for Nonprofits** (5 videos)
+- **4. 4. AI and Data Governance for Nonprofits** (5 videos)
+
+### 1. 1. Organizational AI Readiness and Integration for Nonprofits
 
 #### Connecting AI to people and practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-people-and-practice?u=76281980)
@@ -355,7 +348,7 @@ created: 2026-04-21
 > **Analogies:** such as (2)
 
 
-### 2. Sustainable AI Adoption for Nonprofits
+### 2. 2. Sustainable AI Adoption for Nonprofits
 
 #### Changing habits, not just systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/changing-habits-not-just-systems?u=76281980)
@@ -709,7 +702,7 @@ created: 2026-04-21
 > **Env Vars:** api (1)
 
 
-### 3. Responsible AI for Nonprofits
+### 3. 3. Responsible AI for Nonprofits
 
 #### When AI goes wrong, people pay the price
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/when-ai-goes-wrong-people-pay-the-price?u=76281980)
@@ -1158,7 +1151,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 4. AI and Data Governance for Nonprofits
+### 4. 4. AI and Data Governance for Nonprofits
 
 #### Data shapes decisions, decisions shape data
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980)
@@ -1448,6 +1441,22 @@ created: 2026-04-21
 > **Code Keywords:** let (1), raise (1)
 > **Definitions:** is an  (1)
 
+
+## Instructor
+
+- [[Microsoft]]
+- [[NetHope]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Non-profit Technology
+- Artificial Intelligence (AI)
+- AI Readiness
+- Nonprofit Organizations
 
 ## Path Context
 

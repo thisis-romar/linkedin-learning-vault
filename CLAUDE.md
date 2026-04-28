@@ -1,3 +1,5 @@
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/CLAUDE.md)
+
 # CLAUDE.md
 
 This is an Obsidian knowledge vault generated from the LinkedIn Learning Technology catalog.

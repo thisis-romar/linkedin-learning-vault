@@ -35,8 +35,10 @@ tags:
   - topic/software-development
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Visualization-%20Best%20Practices.md)
 
 ![Data Visualization: Best Practices](https://media.licdn.com/dms/image/v2/C560DAQHWQHMbXFonsg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639077171142?e=2147483647&amp;v=beta&amp;t=Yv_P3__ILdEKNPruShX9wr70tyxX6s1vQg8RSKQ8K2I)
 
@@ -47,21 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760) | 1h 49m | Beginner | 80K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Amy Balliett]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Why Data Viz Matters** (8 videos)
+- **3. 2. Identifying and Shaping Your Data** (7 videos)
+- **4. 3. Data Viz Mistakes to Avoid** (9 videos)
+- **5. 4. Designing Charts and Graphs** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Best practices of data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/best-practices-of-data-visualization-14398183?u=76281980)
@@ -167,7 +166,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Why Data Viz Matters
+### 2. 1. Why Data Viz Matters
 
 #### The importance of data viz in today's market
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-importance-of-data-viz-in-today-s-market-14393399?u=76281980)
@@ -686,7 +685,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Identifying and Shaping Your Data
+### 3. 2. Identifying and Shaping Your Data
 
 #### Key questions to ask
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/key-questions-to-ask-14393402?u=76281980)
@@ -1236,7 +1235,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Viz Mistakes to Avoid
+### 4. 3. Data Viz Mistakes to Avoid
 
 #### Being a data fiduciary
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/being-a-data-fiduciary-14395248?u=76281980)
@@ -1744,7 +1743,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Designing Charts and Graphs
+### 5. 4. Designing Charts and Graphs
 
 #### The best free data visualization tools to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980)
@@ -2207,7 +2206,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980)
@@ -2236,6 +2235,18 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [amy] (1)
 
+
+## Instructor
+
+- [[Amy Balliett]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Visualization
 
 ## Path Context
 

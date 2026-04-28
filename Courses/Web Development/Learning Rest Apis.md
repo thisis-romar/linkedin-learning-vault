@@ -23,8 +23,10 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20Rest%20Apis.md)
 
 ![Learning Rest Apis](https://media.licdn.com/dms/image/v2/C4E0DAQFxbgf-TpDrZA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669449061?e=2147483647&amp;v=beta&amp;t=uuA6mFx_aEONRH-juOhao5Q6BBEP3GZ91CIqvXpnNS4)
 
@@ -35,13 +37,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. REST API: Representational State Transfer Application Programming Interface** (7 videos)
+- **3. 2. Request** (4 videos)
+- **4. 3. Response** (3 videos)
+- **5. 4. Request/Response Pairs** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/welcome?u=76281980)
@@ -97,7 +104,7 @@ created: 2026-04-21
 > **Speakers:** - open (1)
 
 
-### 1. REST API: Representational State Transfer Application Programming Interface
+### 2. 1. REST API: Representational State Transfer Application Programming Interface
 
 #### The RESTful librarian
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/the-restful-librarian?u=76281980)
@@ -598,7 +605,7 @@ created: 2026-04-21
 > **URLs:** [https://reqres.in/api/users](https://reqres.in/api/users) (2)
 
 
-### 2. Request
+### 3. 2. Request
 
 #### Anatomy of a REST request
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/anatomy-of-a-rest-request?u=76281980)
@@ -874,7 +881,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 3. Response
+### 4. 3. Response
 
 #### Response header
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/response-header?u=76281980)
@@ -1043,7 +1050,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Request/Response Pairs
+### 5. 4. Request/Response Pairs
 
 #### Request/response pairs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/request-response-pairs?u=76281980)
@@ -1425,7 +1432,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/next-steps?u=76281980)
@@ -1456,6 +1463,10 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - [morten] (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
 
 ## Path Context
 

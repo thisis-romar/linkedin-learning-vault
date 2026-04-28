@@ -31,8 +31,10 @@ tags:
   - skill/professional-networking
   - skill/linkedin
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Rock%20Your%20LinkedIn%20Profile.md)
 
 ![Rock Your LinkedIn Profile](https://media.licdn.com/dms/image/v2/D4D0DAQEaXb6rABKJ-A/learning-public-crop_675_1200/B4DZYmTQaKH4Ac-/0/1744399304630?e=2147483647&amp;v=beta&amp;t=uXS_OpeiO55gs-OW03VD6t4OUU7wAXHEXtgyrGBHZ2o)
 
@@ -43,18 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639) | 1h 12m | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lauren Jolda]]
-
-## Skills Covered
-
-- Professional Networking
-- LinkedIn
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Build Your Brand into Your LinkedIn Profile** (2 videos)
+- **3. 2. Craft Your LinkedIn Profile Intro** (5 videos)
+- **4. 3. Craft Your Profile Summary and Feature Content on LinkedIn** (3 videos)
+- **5. 4. Outline Your Career Journey** (4 videos)
+- **6. 5. Build Credibility with Skills, Endorsements, and Recommendations** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Connect to opportunity with LinkedIn
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/connect-to-opportunity-with-linkedin?u=76281980)
@@ -121,7 +124,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 1. Build Your Brand into Your LinkedIn Profile
+### 2. 1. Build Your Brand into Your LinkedIn Profile
 
 #### Elevate your presence: Use profile to build your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980)
@@ -272,7 +275,7 @@ created: 2026-04-21
 > **Speakers:** - connection (1)
 
 
-### 2. Craft Your LinkedIn Profile Intro
+### 3. 2. Craft Your LinkedIn Profile Intro
 
 #### Add a photo to stand out
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-a-photo-to-stand-out?u=76281980)
@@ -676,7 +679,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 3. Craft Your Profile Summary and Feature Content on LinkedIn
+### 4. 3. Craft Your Profile Summary and Feature Content on LinkedIn
 
 #### Introduce yourself with a profile summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/introduce-yourself-with-profile-summary?u=76281980)
@@ -1036,7 +1039,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 4. Outline Your Career Journey
+### 5. 4. Outline Your Career Journey
 
 #### Use your work experience to tell a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980)
@@ -1477,7 +1480,7 @@ created: 2026-04-21
 > **Speakers:** - ready (1)
 
 
-### 5. Build Credibility with Skills, Endorsements, and Recommendations
+### 6. 5. Build Credibility with Skills, Endorsements, and Recommendations
 
 #### Showcase your expertise with skills and endorsements
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980)
@@ -1841,7 +1844,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps for LinkedIn success
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980)
@@ -1899,6 +1902,15 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Lauren Jolda]]
+
+## Skills Covered
+
+- Professional Networking
+- LinkedIn
 
 ## Path Context
 

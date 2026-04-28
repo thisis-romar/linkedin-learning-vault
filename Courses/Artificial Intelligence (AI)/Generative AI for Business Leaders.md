@@ -44,8 +44,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-for-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20for%20Business%20Leaders.md)
 
 ![Generative AI for Business Leaders](https://media.licdn.com/dms/image/v2/C4D0DAQHsCAbXLw-NOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1678753390059?e=2147483647&amp;v=beta&amp;t=-IPCbZgaT8Hdqta0_7LkU5iqDv5eXJ0PVpeT6-0BamE)
 
@@ -56,24 +58,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders) | 1h 17m | Intermediate | 350K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tomer Cohen]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI for Management
-- AI for Business
-- Artificial Intelligence (AI)
-- Generative AI for Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Generative AI: What Business Leaders Need to Know** (5 videos)
+- **3. 2. Business Implications of Generative AI** (2 videos)
+- **4. 3. Getting Started with Generative AI** (4 videos)
+- **5. 4. Key Pitfalls, Concerns, and Limitations of Generative AI** (2 videos)
+- **6. 5. Future Trends and Outlook** (2 videos)
+
+### 1. Introduction
 
 #### Generative AI for business leaders
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders/generative-ai-for-business-leaders?u=76281980)
@@ -194,7 +190,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 1. Generative AI: What Business Leaders Need to Know
+### 2. 1. Generative AI: What Business Leaders Need to Know
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders/what-is-generative-ai?u=76281980)
@@ -574,7 +570,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 2. Business Implications of Generative AI
+### 3. 2. Business Implications of Generative AI
 
 #### What processes and products can be transformed by AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders/what-processes-and-products-can-be-transformed-by-ai?u=76281980)
@@ -720,7 +716,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 3. Getting Started with Generative AI
+### 4. 3. Getting Started with Generative AI
 
 #### How to assess your company's needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders/how-to-assess-your-company-s-needs?u=76281980)
@@ -973,7 +969,7 @@ created: 2026-04-21
 > **Speakers:** - at (1)
 
 
-### 4. Key Pitfalls, Concerns, and Limitations of Generative AI
+### 5. 4. Key Pitfalls, Concerns, and Limitations of Generative AI
 
 #### Key pitfalls and limitations
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders/key-pitfalls-and-limitations?u=76281980)
@@ -1181,7 +1177,7 @@ created: 2026-04-21
 > **Speakers:** - an (1)
 
 
-### 5. Future Trends and Outlook
+### 6. 5. Future Trends and Outlook
 
 #### How generative AI is likely to evolve
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders/how-generative-ai-is-likely-to-evolve?u=76281980)
@@ -1300,6 +1296,21 @@ created: 2026-04-21
 > **Cross-References:** we discussed (1), coming up (1)
 > **Speakers:** - the (1)
 
+
+## Instructor
+
+- [[Tomer Cohen]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI for Management
+- AI for Business
+- Artificial Intelligence (AI)
+- Generative AI for Leadership
 
 ## Path Context
 

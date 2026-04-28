@@ -32,8 +32,10 @@ tags:
   - skill/web-application-development
   - skill/angular
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Angular%20and%20Django%20Apps.md)
 
 ![Building Angular and Django Apps](https://media.licdn.com/dms/image/v2/C560DAQGVtfwcWDH7KQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1575394470621?e=2147483647&amp;v=beta&amp;t=adn4n41zaetFct8IFAhdjepVQVAWVULVGNplj-ALfAE)
 
@@ -44,23 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps) | 1h 46m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rudolf Olah]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Django
-- Web Application Development
-- Angular
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Django and Angular Preparation** (3 videos)
+- **3. 2. Forms with Angular and Django** (5 videos)
+- **4. 3. Front-End Design and Layout with Angular** (5 videos)
+- **5. 4. Authentication with Django and Angular** (6 videos)
+- **6. 5. Filtering and Pagination with Django and Angular** (8 videos)
+- **7. 6. Testing Angular** (5 videos)
+- **8. 7. Testing Django** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Create a full-stack Angular app with the Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/create-a-full-stack-angular-app-with-the-django-rest-framework?u=76281980)
@@ -134,7 +134,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Django and Angular Preparation
+### 2. 1. Django and Angular Preparation
 
 #### Running the Angular and Django development servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/running-the-angular-and-django-development-servers?u=76281980)
@@ -207,7 +207,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Forms with Angular and Django
+### 3. 2. Forms with Angular and Django
 
 #### Creating models with the Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-models-with-the-django-rest-framework?u=76281980)
@@ -440,7 +440,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Front-End Design and Layout with Angular
+### 4. 3. Front-End Design and Layout with Angular
 
 #### Form layout with Angular Material
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/form-layout-with-angular-material?u=76281980)
@@ -752,7 +752,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Authentication with Django and Angular
+### 5. 4. Authentication with Django and Angular
 
 #### Setting up Authentication with Django OAuth Toolkit
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/setting-up-authentication-with-django-oauth-toolkit?u=76281980)
@@ -999,7 +999,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 5. Filtering and Pagination with Django and Angular
+### 6. 5. Filtering and Pagination with Django and Angular
 
 #### Checking permissions with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/checking-permissions-with-django?u=76281980)
@@ -1472,7 +1472,7 @@ created: 2026-04-21
 > **Exercise Files:** template (1)
 
 
-### 6. Testing Angular
+### 7. 6. Testing Angular
 
 #### Unit testing a component
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980)
@@ -1837,7 +1837,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Testing Django
+### 8. 7. Testing Django
 
 #### Unit testing authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-authentication?u=76281980)
@@ -1977,7 +1977,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/next-steps?u=76281980)
@@ -1997,6 +1997,20 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [rudolf] (1)
 
+
+## Instructor
+
+- [[Rudolf Olah]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Django
+- Web Application Development
+- Angular
 
 ## Path Context
 

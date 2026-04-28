@@ -32,8 +32,10 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Delivering%20and%20Analyzing%20a%20Software%20Pilot-%20GitHub%20Copilot.md)
 
 ![Delivering and Analyzing a Software Pilot: GitHub Copilot](https://media.licdn.com/dms/image/v2/D4D0DAQH257Ak0HzYQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729632133892?e=2147483647&amp;v=beta&amp;t=6SjIfwx5wQAR2dJVS_X1NjiMHdEuj11HURTH8Flcbvg)
 
@@ -44,21 +46,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot) | 2h 45m | Advanced | 82K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Smith]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- GitHub
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started with GitHub Copilot** (2 videos)
+- **3. 2. Planning a Software Pilot** (4 videos)
+- **4. 3. Launching the Pilot** (4 videos)
+- **5. 4. Monitoring the Pilot** (4 videos)
+- **6. 5. Ending the Pilot** (4 videos)
+- **7. 6. Gathering Feedback** (4 videos)
+- **8. 7. Using NLTK to Analyze Feedback** (5 videos)
+- **9. 8. Writing a Business Case** (4 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction and overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-and-overview?u=76281980)
@@ -185,7 +188,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Getting Started with GitHub Copilot
+### 2. 1. Getting Started with GitHub Copilot
 
 #### Overview of GitHub Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980)
@@ -326,7 +329,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 2. Planning a Software Pilot
+### 3. 2. Planning a Software Pilot
 
 #### Defining objectives and goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/defining-objectives-and-goals?u=76281980)
@@ -660,7 +663,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. Launching the Pilot
+### 4. 3. Launching the Pilot
 
 #### Steps to officially start the pilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980)
@@ -985,7 +988,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Monitoring the Pilot
+### 5. 4. Monitoring the Pilot
 
 #### Tools and techniques for monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980)
@@ -1294,7 +1297,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Ending the Pilot
+### 6. 5. Ending the Pilot
 
 #### Criteria for concluding the pilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980)
@@ -1593,7 +1596,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Gathering Feedback
+### 7. 6. Gathering Feedback
 
 #### Methods for collecting feedback
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/methods-for-collecting-feedback?u=76281980)
@@ -1887,7 +1890,7 @@ created: 2026-04-21
 > **Speakers:** - [announcer] (1)
 
 
-### 7. Using NLTK to Analyze Feedback
+### 8. 7. Using NLTK to Analyze Feedback
 
 #### Introduction to NLTK for text analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980)
@@ -2672,7 +2675,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 8. Writing a Business Case
+### 9. 8. Writing a Business Case
 
 #### Structuring your business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/structuring-your-business-case?u=76281980)
@@ -2929,7 +2932,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps to continue your software pilot journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980)
@@ -2970,6 +2973,18 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Mike Smith]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- GitHub
 
 ## Path Context
 

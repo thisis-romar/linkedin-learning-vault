@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/strategic-execution-and-business-im
 course_count: 12
 linkedin_topics:
   - Data Science
-louvain_cluster: 8
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/data-science
@@ -65,8 +65,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Strategic%20Execution%20and%20Business%20Impact%20for%20Senior%20Managers%20and%20Senior%20Leaders.md)
 
 # Strategic Execution and Business Impact for Senior Managers and Senior Leaders
 

@@ -35,8 +35,10 @@ tags:
   - skill/react-js
   - skill/secure-authentication
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Securing%20Applications.md)
 
 ![React: Securing Applications](https://media.licdn.com/dms/image/v2/C4E0DAQE_xNcW-E00pA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1586288300783?e=2147483647&amp;v=beta&amp;t=jkRP2lOvAvGruEd5x36bkL2ivgyRXQ2m-SNAfHqFdmc)
 
@@ -47,22 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2) | 1h 5m | Advanced | 37K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- React.js
-- Secure Authentication
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Setting Up** (3 videos)
+- **3. 2. Overview of Security Threats** (4 videos)
+- **4. 3. Authentication with Auth0** (7 videos)
+- **5. 4. Other React Considerations** (2 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Securing React applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980)
@@ -130,7 +128,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting Up
+### 2. 1. Setting Up
 
 #### Initial setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980)
@@ -417,7 +415,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 2. Overview of Security Threats
+### 3. 2. Overview of Security Threats
 
 #### Introduction to OWASP
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980)
@@ -681,7 +679,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Authentication with Auth0
+### 4. 3. Authentication with Auth0
 
 #### Initial setup of your server
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980)
@@ -1445,7 +1443,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Other React Considerations
+### 5. 4. Other React Considerations
 
 #### React considerations for security
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/react-considerations-for-security?u=76281980)
@@ -1562,7 +1560,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Best practices update
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980)
@@ -1658,6 +1656,19 @@ created: 2026-04-21
 > **Tools:** slack (1)
 > **Best Practices:** always make sure (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- React.js
+- Secure Authentication
 
 ## Path Context
 

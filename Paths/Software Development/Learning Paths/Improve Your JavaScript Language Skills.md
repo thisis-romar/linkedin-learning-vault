@@ -49,8 +49,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/Improve%20Your%20JavaScript%20Language%20Skills.md)
 
 # Improve Your JavaScript Language Skills
 

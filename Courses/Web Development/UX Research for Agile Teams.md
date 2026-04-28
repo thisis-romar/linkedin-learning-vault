@@ -30,8 +30,10 @@ tags:
   - skill/agile-methodologies
   - skill/ux-research
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Research%20for%20Agile%20Teams.md)
 
 ![UX Research for Agile Teams](https://media.licdn.com/dms/image/v2/C4E0DAQHbGJT0YMxK2w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665417248?e=2147483647&amp;v=beta&amp;t=24lsmxL0kDpfUqIfhnID8zMTdMxVsjsqISPYIc4JVfw)
 
@@ -42,18 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams) | 41m | Intermediate | 41K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Amanda Stockwell]]
-
-## Skills Covered
-
-- Agile Methodologies
-- UX Research
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Software Development Frameworks** (4 videos)
+- **3. 2. Team Preparation** (3 videos)
+- **4. 3. Research Adaption** (4 videos)
+- **5. 4. Analyzing Research** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980)
@@ -97,7 +99,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Software Development Frameworks
+### 2. 1. Software Development Frameworks
 
 #### UX research overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/ux-research-overview?u=76281980)
@@ -237,7 +239,7 @@ created: 2026-04-21
 > **Speakers:** - because (1)
 
 
-### 2. Team Preparation
+### 3. 2. Team Preparation
 
 #### Team makeup
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980)
@@ -487,7 +489,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 3. Research Adaption
+### 4. 3. Research Adaption
 
 #### Choosing research method
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980)
@@ -709,7 +711,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Analyzing Research
+### 5. 4. Analyzing Research
 
 #### Interpreting research findings
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980)
@@ -872,7 +874,7 @@ created: 2026-04-21
 > **Speakers:** - assuming (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980)
@@ -895,6 +897,15 @@ created: 2026-04-21
 > **Prerequisites:** setup (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Amanda Stockwell]]
+
+## Skills Covered
+
+- Agile Methodologies
+- UX Research
 
 ## Path Context
 

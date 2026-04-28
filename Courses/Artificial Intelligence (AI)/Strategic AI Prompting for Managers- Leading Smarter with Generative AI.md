@@ -20,8 +20,10 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Strategic%20AI%20Prompting%20for%20Managers-%20Leading%20Smarter%20with%20Generative%20AI.md)
 
 ![Strategic AI Prompting for Managers: Leading Smarter with Generative AI](https://media.licdn.com/dms/image/v2/D560DAQEzF5GCS_1iNg/learning-public-crop_675_1200/B56Zg.W9.nHQAY-/0/1753392865964?e=2147483647&amp;v=beta&amp;t=_SZsxTEEruwa8bqPnA9UZd9RfLtu3VTAMt5u-sbVrwI)
 
@@ -32,13 +34,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai) | 55m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Selena Rezvani]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. Strategic AI Prompting for Managers** (12 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using generative AI strategically as a manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/using-generative-ai-strategically-as-a-manager?u=76281980)
@@ -66,7 +70,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### Strategic AI Prompting for Managers
+### 2. Strategic AI Prompting for Managers
 
 #### AI prompts for team communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-team-communication?u=76281980)
@@ -687,7 +691,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Generative AI in action: Applying what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/generative-ai-in-action-applying-what-you-ve-learned?u=76281980)
@@ -768,6 +772,10 @@ created: 2026-04-21
 > **Env Vars:** scan (1)
 > **Speakers:** - it (1)
 
+
+## Instructor
+
+- [[Selena Rezvani]]
 
 ## Path Context
 

@@ -27,8 +27,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Vibe%20Code%20This%20Interactive%20Dashboard%20Tooling%20For%20Your%20Team.md)
 
 ![Vibe Code This Interactive Dashboard Tooling For Your Team](https://media.licdn.com/dms/image/v2/D4E0DAQHB8eZ0p6g68w/learning-public-crop_675_1200/B4EZrwVIeHGcAY-/0/1764968663602?e=2147483647&amp;v=beta&amp;t=nihdZOcf-8zBUdNzw6-ytWSGXj-ptUJA_DoaXuJbJQo)
 
@@ -39,14 +41,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team) | Beginner | 17K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- ChatGPT
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Building the Dashboard** (3 videos)
+
+### 1. Introduction
 
 #### Using chatbots to deliver results
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/using-chatbots-to-deliver-results?u=76281980)
@@ -70,7 +72,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 1. Building the Dashboard
+### 2. 1. Building the Dashboard
 
 #### Brainstorming with the chatbot
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980)
@@ -444,6 +446,11 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 > **Speakers:** - it (1)
 
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- ChatGPT
 
 ## Path Context
 

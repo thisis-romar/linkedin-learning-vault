@@ -48,8 +48,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-%20Introduction%20to%20Large%20Language%20Models.md)
 
 ![Generative AI: Introduction to Large Language Models](https://media.licdn.com/dms/image/v2/D560DAQHl9dh24URR-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1699557412106?e=2147483647&amp;v=beta&amp;t=t1VIIG9eW33JaJ8dySiFCKyN-YEQsL3hiJx73tohfSc)
 
@@ -60,19 +62,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models) | 1h 36m | Beginner | 726K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Frederick Nwanganga]]
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Large Language Models** (5 videos)
+- **3. 2. Neural Networks and Language Models** (3 videos)
+- **4. 3. Building Blocks of Large Language Models** (4 videos)
+- **5. 4. Societal Implications of Large Language Models** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Generative AI with large language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models-30120008?u=76281980)
@@ -101,7 +102,7 @@ created: 2026-04-21
 > **Speakers:** - [fred] (1)
 
 
-### 1. Large Language Models
+### 2. 1. Large Language Models
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980)
@@ -571,7 +572,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Neural Networks and Language Models
+### 3. 2. Neural Networks and Language Models
 
 #### What is a neural network?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980)
@@ -864,7 +865,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Building Blocks of Large Language Models
+### 4. 3. Building Blocks of Large Language Models
 
 #### The transformer architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980)
@@ -1283,7 +1284,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### 4. Societal Implications of Large Language Models
+### 5. 4. Societal Implications of Large Language Models
 
 #### Common applications of large language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980)
@@ -1570,7 +1571,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980)
@@ -1616,6 +1617,16 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [frederick] (1)
 
+
+## Instructor
+
+- [[Frederick Nwanganga]]
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
 
 ## Path Context
 

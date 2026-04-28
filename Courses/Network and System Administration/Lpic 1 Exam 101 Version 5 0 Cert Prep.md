@@ -24,8 +24,10 @@ tags:
   - topic/network-and-system-administration
   - skill/linux-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Lpic%201%20Exam%20101%20Version%205%200%20Cert%20Prep.md)
 
 ![Lpic 1 Exam 101 Version 5 0 Cert Prep](https://media.licdn.com/dms/image/v2/C4E0DAQGVXRo65orm4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580243627728?e=2147483647&amp;v=beta&amp;t=6w-Tg7aWo08Y7ABXGcGD2QqPgbnVvbBxZ72lMfs-5mE)
 
@@ -36,17 +38,26 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep) | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Linux System Administration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (6 videos)
+- **2. 1. Determine and Configure Hardware** (7 videos)
+- **3. 2. Boot the System** (5 videos)
+- **4. 3. System Services and Logging** (9 videos)
+- **5. 4. Use Debian Package Management** (4 videos)
+- **6. 5. Use Red Hat Package Management** (4 videos)
+- **7. 6. Linux as a Virtualized Guest** (5 videos)
+- **8. 7. Working on the Command Line** (10 videos)
+- **9. 8. Manage Processes** (6 videos)
+- **10. 9. Pattern Matching and Editing Text** (11 videos)
+- **11. 10. Working with Files** (7 videos)
+- **12. 11. Permissions and Ownership** (14 videos)
+- **13. 12. Create Partitions and Filesystems** (15 videos)
+- **14. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get ready for LPIC-1
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-ready-for-lpic-1?u=76281980)
@@ -655,7 +666,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (2)
 
 
-### 1. Determine and Configure Hardware
+### 2. 1. Determine and Configure Hardware
 
 #### Enable/disable integrated hardware
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/enable-disable-integrated-hardware?u=76281980)
@@ -1426,7 +1437,7 @@ created: 2026-04-21
 > **Documentation:** man page (1)
 
 
-### 2. Boot the System
+### 3. 2. Boot the System
 
 #### Understand the Linux boot process
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980)
@@ -1928,7 +1939,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. System Services and Logging
+### 4. 3. System Services and Logging
 
 #### About SysVinit, systemd, and Upstart
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980)
@@ -2846,7 +2857,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Use Debian Package Management
+### 5. 4. Use Debian Package Management
 
 #### Debian software management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/debian-software-management-overview?u=76281980)
@@ -3334,7 +3345,7 @@ created: 2026-04-21
 > **URLs:** [http://archive.canonical.com/ubuntu](http://archive.canonical.com/ubuntu) (1)
 
 
-### 5. Use Red Hat Package Management
+### 6. 5. Use Red Hat Package Management
 
 #### RPM software management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980)
@@ -3908,7 +3919,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 6. Linux as a Virtualized Guest
+### 7. 6. Linux as a Virtualized Guest
 
 #### Compare cloud and virtualization concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980)
@@ -4527,7 +4538,7 @@ created: 2026-04-21
 > **Speakers:** - on (1)
 
 
-### 7. Working on the Command Line
+### 8. 7. Working on the Command Line
 
 #### Simple and compound commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/simple-and-compound-commands?u=76281980)
@@ -5934,7 +5945,7 @@ created: 2026-04-21
 > **Tools:** bash (1)
 
 
-### 8. Manage Processes
+### 9. 8. Manage Processes
 
 #### Select and sort processes for display
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/select-and-sort-processes-for-display?u=76281980)
@@ -6621,7 +6632,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Pattern Matching and Editing Text
+### 10. 9. Pattern Matching and Editing Text
 
 #### Understand the differences between basic and extended regular expressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-differences-between-basic-and-extended-regular-expressions?u=76281980)
@@ -7658,7 +7669,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 10. Working with Files
+### 11. 10. Working with Files
 
 #### File globbing and parameter expansion
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980)
@@ -8563,7 +8574,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 11. Permissions and Ownership
+### 12. 11. Permissions and Ownership
 
 #### Create and delete local user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-and-delete-local-user-accounts?u=76281980)
@@ -10025,7 +10036,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Create Partitions and Filesystems
+### 13. 12. Create Partitions and Filesystems
 
 #### Hard drive partitioning strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980)
@@ -11690,7 +11701,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 14. Conclusion
 
 #### Taking the exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980)
@@ -11758,6 +11769,14 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 > **Speakers:** - [grant] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Linux System Administration
 
 ## Path Context
 

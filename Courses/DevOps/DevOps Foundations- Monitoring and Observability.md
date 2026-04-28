@@ -30,8 +30,10 @@ tags:
   - skill/devops
   - skill/system-monitoring
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/DevOps%20Foundations-%20Monitoring%20and%20Observability.md)
 
 ![DevOps Foundations: Monitoring and Observability](https://media.licdn.com/dms/image/v2/D4D0DAQEkT2ZrH_6N_w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702681529716?e=2147483647&amp;v=beta&amp;t=GgZMMC0Az7fItVt8tSebIcj_dcJu833s2zBqgRKbd5g)
 
@@ -42,22 +44,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247) | 2h 1m | Intermediate | 114K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ibukun Itimi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- DevOps
-- System Monitoring
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Monitoring and Observability** (4 videos)
+- **3. 2. Metrics and Monitoring** (4 videos)
+- **4. 3. Tracing and Distributed Systems** (2 videos)
+- **5. 4. Logging and Log Management** (4 videos)
+- **6. 5. Events** (2 videos)
+- **7. 6. Monitoring Techniques** (5 videos)
+- **8. 7. Utilizing Observability Signals** (5 videos)
+- **9. Conclusion** (3 videos)
+
+### 1. Introduction
 
 #### Measure, detect, and respond
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measure-detect-and-respond?u=76281980)
@@ -112,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Monitoring and Observability
+### 2. 1. Introduction to Monitoring and Observability
 
 #### Overview of monitoring and observability
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980)
@@ -387,7 +388,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Metrics and Monitoring
+### 3. 2. Metrics and Monitoring
 
 #### Metric types
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980)
@@ -785,7 +786,7 @@ created: 2026-04-21
 > **Analogies:** for example (2)
 
 
-### 3. Tracing and Distributed Systems
+### 4. 3. Tracing and Distributed Systems
 
 #### Concepts of tracing and distributed systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-tracing-and-distributed-systems?u=76281980)
@@ -998,7 +999,7 @@ created: 2026-04-21
 > **File Paths:** node.js (1)
 
 
-### 4. Logging and Log Management
+### 5. 4. Logging and Log Management
 
 #### Concepts of logging and log management
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-logging-and-log-management?u=76281980)
@@ -1265,7 +1266,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Events
+### 6. 5. Events
 
 #### Collecting system events
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/collecting-system-events?u=76281980)
@@ -1336,7 +1337,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Monitoring Techniques
+### 7. 6. Monitoring Techniques
 
 #### Application performance monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/application-performance-monitoring?u=76281980)
@@ -1722,7 +1723,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Utilizing Observability Signals
+### 8. 7. Utilizing Observability Signals
 
 #### Dashboards and visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/dashboards-and-visualization?u=76281980)
@@ -2413,7 +2414,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Choosing your observability stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-your-observability-stack?u=76281980)
@@ -2566,6 +2567,19 @@ created: 2026-04-21
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [ibukun] (1)
 
+
+## Instructor
+
+- [[Ibukun Itimi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- DevOps
+- System Monitoring
 
 ## Path Context
 

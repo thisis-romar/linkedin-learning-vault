@@ -32,8 +32,10 @@ tags:
   - skill/confluence
   - skill/jira
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Increasing%20Efficiency%20with%20Jira%20and%20Confluence%20Integrations.md)
 
 ![Increasing Efficiency with Jira and Confluence Integrations](https://media.licdn.com/dms/image/v2/D4D0DAQGZj-Shd3WT5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1737506682351?e=2147483647&amp;v=beta&amp;t=qg32WzGnKakfj7uDZiakPx1MQEJ1iBAJCVKIaNkXONI)
 
@@ -44,22 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations) | 1h 16m | Advanced | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rachel Wright]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Confluence
-- Jira
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Managing Work in Jira and Confluence** (5 videos)
+- **3. 2. Setting Up and Connecting Applications** (6 videos)
+- **4. 3. Using Confluence and Jira Together** (8 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using Jira and Confluence together
 > [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-jira-and-confluence-together?u=76281980)
@@ -414,7 +411,7 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 
 
-### 1. Managing Work in Jira and Confluence
+### 2. 1. Managing Work in Jira and Confluence
 
 #### Tracking work in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980)
@@ -921,7 +918,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 2. Setting Up and Connecting Applications
+### 3. 2. Setting Up and Connecting Applications
 
 #### Creating applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980)
@@ -1395,7 +1392,7 @@ created: 2026-04-21
 > **Best Practices:** best practice (1), always make sure (1)
 
 
-### 3. Using Confluence and Jira Together
+### 4. 3. Using Confluence and Jira Together
 
 #### Course use case set up
 > [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case-set-up?u=76281980)
@@ -1900,7 +1897,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Additional resources for Jira and Confluence learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980)
@@ -1956,6 +1953,19 @@ created: 2026-04-21
 > **Best Practices:** always make sure (1)
 > **Speakers:** - congrats (1)
 
+
+## Instructor
+
+- [[Rachel Wright]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Confluence
+- Jira
 
 ## Path Context
 

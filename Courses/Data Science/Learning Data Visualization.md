@@ -33,8 +33,10 @@ tags:
   - skill/data-visualization
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Data%20Visualization.md)
 
 ![Learning Data Visualization](https://media.licdn.com/dms/image/v2/C560DAQHUKjyvLhzVPg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670004565373?e=2147483647&amp;v=beta&amp;t=6iAZrnS6kNYgmTr10X-hdU-8gSsRSVND4J4vOMA0SAM)
 
@@ -45,18 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314) | 1h 51m | Intermediate | 350K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bill Shander]]
-
-## Skills Covered
-
-- Data Visualization
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Big Idea** (3 videos)
+- **3. 2. What to Think About** (7 videos)
+- **4. 3. Selecting the Visualization Type** (12 videos)
+- **5. 4. Designing Visualizations for Impact** (11 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The essence of data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980)
@@ -104,7 +106,7 @@ created: 2026-04-21
 > **Speakers:** - [bill] (1)
 
 
-### 1. Big Idea
+### 2. 1. Big Idea
 
 #### What is data visualization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-is-data-visualization?u=76281980)
@@ -270,7 +272,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. What to Think About
+### 3. 2. What to Think About
 
 #### Three focal points
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980)
@@ -743,7 +745,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Selecting the Visualization Type
+### 4. 3. Selecting the Visualization Type
 
 #### Choose charts with intention
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/choose-charts-with-intention?u=76281980)
@@ -1678,7 +1680,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Designing Visualizations for Impact
+### 5. 4. Designing Visualizations for Impact
 
 #### The importance of sketching
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980)
@@ -2493,7 +2495,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980)
@@ -2534,6 +2536,15 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [bill] (1)
 
+
+## Instructor
+
+- [[Bill Shander]]
+
+## Skills Covered
+
+- Data Visualization
+- Data Science
 
 ## Path Context
 

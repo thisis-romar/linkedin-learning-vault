@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/5g
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20to%205G.md)
 
 ![Introduction to 5G](https://media.licdn.com/dms/image/v2/C4E0DAQEUwT2MSLSZJQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568057978003?e=2147483647&amp;v=beta&amp;t=1htPiGuDm8TRSCH6JHuA-LLp6hLjJa6DRMm2PjPR8lQ)
 
@@ -41,17 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g) | 1h 12m | Beginner | 149K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mischa Dohler]]
-
-## Skills Covered
-
-- 5G
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Setting the Scene** (4 videos)
+- **3. 2. 5G Technologies** (6 videos)
+- **4. 3. Existing 5G Use Cases** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Develop a solid understanding of 5G
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980)
@@ -155,7 +157,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting the Scene
+### 2. 1. Setting the Scene
 
 #### Setting the scene
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/setting-the-scene?u=76281980)
@@ -561,7 +563,7 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 
 
-### 2. 5G Technologies
+### 3. 2. 5G Technologies
 
 #### Reviewing 5G technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/reviewing-5g-technologies?u=76281980)
@@ -1134,7 +1136,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### 3. Existing 5G Use Cases
+### 4. 3. Existing 5G Use Cases
 
 #### 5G use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/5g-use-cases?u=76281980)
@@ -1490,7 +1492,7 @@ created: 2026-04-21
 > **Non-Speech:** (calm piano music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Concluding remarks
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980)
@@ -1560,6 +1562,14 @@ created: 2026-04-21
 > **Code Keywords:** public (1)
 > **Speakers:** - and (1)
 
+
+## Instructor
+
+- [[Mischa Dohler]]
+
+## Skills Covered
+
+- 5G
 
 ## Path Context
 

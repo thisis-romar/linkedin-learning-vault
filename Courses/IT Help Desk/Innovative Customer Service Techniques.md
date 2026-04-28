@@ -26,8 +26,10 @@ tags:
   - topic/it-help-desk
   - skill/customer-service
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Innovative%20Customer%20Service%20Techniques.md)
 
 ![Innovative Customer Service Techniques](https://media.licdn.com/dms/image/v2/C4E0DAQHiJqYpnxTctg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1585335032598?e=2147483647&amp;v=beta&amp;t=-t3t_VkryHvPuukgUbyVtBqxD7TOj3CaGAWKLhTlWWU)
 
@@ -38,21 +40,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques) | 43m | Intermediate | 107K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jeff Toister]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Customer Service
-
 ## Table of Contents
 
-### Getting Innovative with Your Customer Service
+### Chapter Overview
+
+- **1. Getting Innovative with Your Customer Service** (3 videos)
+- **2. 1. Influencing Customer Perceptions** (4 videos)
+- **3. 2. Enhancing Your Service Senses** (4 videos)
+- **4. 3. Building Teamwork** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Getting Innovative with Your Customer Service
 
 #### Help your team unlock their potential
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/help-your-team-unlock-their-potential?u=76281980)
@@ -182,7 +180,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 1. Influencing Customer Perceptions
+### 2. 1. Influencing Customer Perceptions
 
 #### Identifying the most important need
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-most-important-need-2?u=76281980)
@@ -563,7 +561,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 2. Enhancing Your Service Senses
+### 3. 2. Enhancing Your Service Senses
 
 #### Improving your powers of observation
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/improving-your-powers-of-observation-2?u=76281980)
@@ -1016,7 +1014,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 3. Building Teamwork
+### 4. 3. Building Teamwork
 
 #### Identifying the secrets of employee motivation
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-secrets-of-employee-motivation-2?u=76281980)
@@ -1348,7 +1346,7 @@ created: 2026-04-21
 > **Speakers:** - can (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Resources to improve your customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/resources-to-improve-your-customer-service?u=76281980)
@@ -1387,6 +1385,18 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 > **Speakers:** - the (1)
 
+
+## Instructor
+
+- [[Jeff Toister]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Customer Service
 
 ## Path Context
 

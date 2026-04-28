@@ -40,8 +40,10 @@ tags:
   - skill/analytics
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Predictive%20Analytics%20Essential%20Training%20For%20Executives.md)
 
 ![Predictive Analytics Essential Training For Executives](https://media.licdn.com/dms/image/v2/D4E0DAQHRpJHDY-40Ig/learning-public-crop_675_1200/B4EZThn2aJHUAg-/0/1738952108007?e=2147483647&amp;v=beta&amp;t=sIJASebNDg-n40SLgnk4roVFNRjCECNyC2A8sy3LnL0)
 
@@ -52,19 +54,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424) | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Skills Covered
-
-- Predictive Analytics
-- Analytics
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Identifying the Optimal Type of Analytics for Your Challenge** (5 videos)
+- **3. 2. Getting Serious about Analytics** (5 videos)
+- **4. 3. Hiring and Staffing** (8 videos)
+- **5. 4. Software and Technology** (5 videos)
+- **6. 5. Organizational Structure** (5 videos)
+- **7. 6. Continuing Your Predictive Analytics Learning Journey** (1 videos)
+
+### 1. Introduction
 
 #### Give yourself the executive analytics edge
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980)
@@ -134,7 +136,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 1. Identifying the Optimal Type of Analytics for Your Challenge
+### 2. 1. Identifying the Optimal Type of Analytics for Your Challenge
 
 #### Predictive analytics vs. forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-vs-forecasting?u=76281980)
@@ -398,7 +400,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Getting Serious about Analytics
+### 3. 2. Getting Serious about Analytics
 
 #### Analytics is about making decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-is-about-making-decisions?u=76281980)
@@ -772,7 +774,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Hiring and Staffing
+### 4. 3. Hiring and Staffing
 
 #### Who should you hire first for your new data science team?
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980)
@@ -1172,7 +1174,7 @@ created: 2026-04-21
 > **Speakers:** - excellent (1)
 
 
-### 4. Software and Technology
+### 5. 4. Software and Technology
 
 #### Cloud and enterprise analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980)
@@ -1491,7 +1493,7 @@ created: 2026-04-21
 > **Speakers:** - responsible (1)
 
 
-### 5. Organizational Structure
+### 6. 5. Organizational Structure
 
 #### Analytics project management
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980)
@@ -1862,7 +1864,7 @@ created: 2026-04-21
 > **Speakers:** - who (1)
 
 
-### 6. Continuing Your Predictive Analytics Learning Journey
+### 7. 6. Continuing Your Predictive Analytics Learning Journey
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980)
@@ -1893,6 +1895,16 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Skills Covered
+
+- Predictive Analytics
+- Analytics
+- Data Science
 
 ## Path Context
 

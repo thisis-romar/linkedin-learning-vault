@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/XAI%20and%20Interpretability%20in%20Cybersecurity.md)
 
 ![XAI and Interpretability in Cybersecurity](https://media.licdn.com/dms/image/v2/D560DAQEBmT8MHAC0jQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730853686120?e=2147483647&amp;v=beta&amp;t=kXWYc73q27p7IoTAWikZlhMs4hVZM5hFD6t-Jl7B4UI)
 
@@ -45,23 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity) | 2h 22m | Advanced | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Stephanie Itimi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Responsible AI
-- Artificial Intelligence (AI)
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. XAI Basics and Techniques** (5 videos)
+- **3. 2. Integrating XAI in Cybersecurity Frameworks** (6 videos)
+- **4. 3. XAI for AI-Powered Threat Identification** (4 videos)
+- **5. 4. Decision-Making with XAI in Cybersecurity** (4 videos)
+- **6. 5. Ethical Implications of AI in Cybersecurity** (3 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Unlock the power of explainable AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/unlock-the-power-of-explainable-ai?u=76281980)
@@ -309,7 +307,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. XAI Basics and Techniques
+### 2. 1. XAI Basics and Techniques
 
 #### Brief introduction to model-agnostic methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/brief-introduction-to-model-agnostic-methods?u=76281980)
@@ -799,7 +797,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Integrating XAI in Cybersecurity Frameworks
+### 3. 2. Integrating XAI in Cybersecurity Frameworks
 
 #### Cybersecurity framework fundamentals applicable to XAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980)
@@ -1408,7 +1406,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. XAI for AI-Powered Threat Identification
+### 4. 3. XAI for AI-Powered Threat Identification
 
 #### What is the role of AI in threat identification?
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980)
@@ -1842,7 +1840,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Decision-Making with XAI in Cybersecurity
+### 5. 4. Decision-Making with XAI in Cybersecurity
 
 #### The importance of decision-making in cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980)
@@ -2229,7 +2227,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Ethical Implications of AI in Cybersecurity
+### 6. 5. Ethical Implications of AI in Cybersecurity
 
 #### The importance of ethics in XAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980)
@@ -2507,7 +2505,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980)
@@ -2649,6 +2647,20 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [stephanie] (1)
 
+
+## Instructor
+
+- [[Stephanie Itimi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Responsible AI
+- Artificial Intelligence (AI)
+- Cybersecurity
 
 ## Path Context
 

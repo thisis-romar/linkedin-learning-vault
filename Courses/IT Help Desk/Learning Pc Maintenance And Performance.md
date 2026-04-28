@@ -24,8 +24,10 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Learning%20Pc%20Maintenance%20And%20Performance.md)
 
 ![Learning Pc Maintenance And Performance](https://media.licdn.com/dms/image/v2/D560DAQG78ioRCWY3-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719601864327?e=2147483647&amp;v=beta&amp;t=HnMaVuqtiv05HKXOpUMMg_hCvjy-elfQgntstP5rqA8)
 
@@ -36,13 +38,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dan Gookin]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. PC Security** (7 videos)
+- **3. 2. PC Backup** (6 videos)
+- **4. 3. Windows Update** (3 videos)
+- **5. 4. Improving PC Performance** (3 videos)
+- **6. 5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Keeping your computer in tiptop shape
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980)
@@ -71,7 +78,7 @@ created: 2026-04-21
 > **Speakers:** - [dan] (1)
 
 
-### 1. PC Security
+### 2. 1. PC Security
 
 #### Applying account security
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-account-security?u=76281980)
@@ -525,7 +532,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. PC Backup
+### 3. 2. PC Backup
 
 #### Configuring Windows Backup
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980)
@@ -999,7 +1006,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Windows Update
+### 4. 3. Windows Update
 
 #### Configuring Windows Update
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980)
@@ -1281,7 +1288,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Improving PC Performance
+### 5. 4. Improving PC Performance
 
 #### Monitoring system resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980)
@@ -1532,7 +1539,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### 6. 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/next-steps?u=76281980)
@@ -1569,6 +1576,10 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Dan Gookin]]
 
 ## Path Context
 

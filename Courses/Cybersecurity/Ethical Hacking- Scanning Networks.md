@@ -31,36 +31,34 @@ tags:
   - skill/network-monitoring-tools
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Scanning%20Networks.md)
 
 ![Ethical Hacking: Scanning Networks](https://media.licdn.com/dms/image/v2/D4D0DAQGFV-f3EJ14fg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702507055898?e=2147483647&amp;v=beta&amp;t=YaHg5sNP2dyA9PLuM1A0dzLqPQjYaa0LxcUUdMsndfs)
 
 # Ethical Hacking: Scanning Networks
 
-> After footprinting and reconnaissance, scanning is the second phase of information gathering that hackers use to size up a network. Network scans are a key tool in the arsenal of ethical hackers, who work to prevent attacks on an organization's infrastructure and data. This course investigates the scanning tools and techniques used to obtain information from a target system. 
- 
-Instructor Lisa Boc
+> After footprinting and reconnaissance, scanning is the second phase of information gathering that hackers use to size up a network. Network scans are a key tool in the arsenal of ethical hackers, who work to prevent attacks on an organization's infrastructure and data. This course investigates the scanning tools and techniques used to obtain information from a target system. Instructor Lisa Bock d
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513) | 2h 15m | Intermediate | 55K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Network Monitoring Tools
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Scanning Purpose and Methodology** (6 videos)
+- **3. 2. Discovering Hosts** (5 videos)
+- **4. 3. Identifying Open Services** (5 videos)
+- **5. 4. Determining Operating Systems** (5 videos)
+- **6. 5. Moving through the Network** (4 videos)
+- **7. 6. Avoiding Detection** (4 videos)
+- **8. 7. Counteracting Scanning** (5 videos)
+
+### 1. Introduction
 
 #### Scanning the LAN
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-the-lan?u=76281980)
@@ -178,7 +176,7 @@ Instructor Lisa Boc
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Scanning Purpose and Methodology
+### 2. 1. Scanning Purpose and Methodology
 
 #### Roadmapping a scan
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980)
@@ -662,7 +660,7 @@ Instructor Lisa Boc
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Discovering Hosts
+### 3. 2. Discovering Hosts
 
 #### Locating network hosts
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980)
@@ -1059,7 +1057,7 @@ Instructor Lisa Boc
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Identifying Open Services
+### 4. 3. Identifying Open Services
 
 #### Evaluating port scanning methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980)
@@ -1469,7 +1467,7 @@ Instructor Lisa Boc
 > **Prerequisites:** you'll need (1)
 
 
-### 4. Determining Operating Systems
+### 5. 4. Determining Operating Systems
 
 #### Fingerprinting the OS
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980)
@@ -1884,7 +1882,7 @@ Instructor Lisa Boc
 > **Warnings:** keep in mind (1)
 
 
-### 5. Moving through the Network
+### 6. 5. Moving through the Network
 
 #### Generating less noise
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980)
@@ -2158,7 +2156,7 @@ Instructor Lisa Boc
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Avoiding Detection
+### 7. 6. Avoiding Detection
 
 #### Manipulating packets
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980)
@@ -2435,7 +2433,7 @@ Instructor Lisa Boc
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Counteracting Scanning
+### 8. 7. Counteracting Scanning
 
 #### Preventing scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/preventing-scanning?u=76281980)
@@ -2765,6 +2763,19 @@ Instructor Lisa Boc
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Network Monitoring Tools
+- Ethical Hacking
 
 ## Path Context
 

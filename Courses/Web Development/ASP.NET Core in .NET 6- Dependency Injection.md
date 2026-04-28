@@ -31,8 +31,10 @@ tags:
   - skill/asp-net-core
   - skill/dependency-injection
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/ASP.NET%20Core%20in%20.NET%206-%20Dependency%20Injection.md)
 
 ![ASP.NET Core in .NET 6: Dependency Injection](https://media.licdn.com/dms/image/v2/C4D0DAQE_rmyIpbOtCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651080063253?e=2147483647&amp;v=beta&amp;t=kuP6Mr4L0IBNaW_8tWzLSbEDa8uxtLDzrEOjgObUNpo)
 
@@ -43,23 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection) | 47m | Intermediate | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Grace]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/asp-net-core-in-dotnet-6-dependency-injection)
-
-## Skills Covered
-
-- ASP.NET Core
-- Dependency Injection
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. What Is Dependency Injection?** (2 videos)
+- **3. 2. Configuring Dependency Injection in ASP.NET Core** (3 videos)
+- **4. 3. Using Dependency Injection in ASP.NET Core** (6 videos)
+- **5. 4. Common Errors** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Dependency injection overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980)
@@ -241,7 +238,7 @@ created: 2026-04-21
 > **Analogies:** such as (2)
 
 
-### 1. What Is Dependency Injection?
+### 2. 1. What Is Dependency Injection?
 
 #### What is dependency injection?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980)
@@ -373,7 +370,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 2. Configuring Dependency Injection in ASP.NET Core
+### 3. 2. Configuring Dependency Injection in ASP.NET Core
 
 #### Setting up the services
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980)
@@ -632,7 +629,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Using Dependency Injection in ASP.NET Core
+### 4. 3. Using Dependency Injection in ASP.NET Core
 
 #### How to inject services into a controller
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980)
@@ -1040,7 +1037,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Common Errors
+### 5. 4. Common Errors
 
 #### Forgetting to add a service
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/forgetting-to-add-a-service?u=76281980)
@@ -1297,7 +1294,7 @@ created: 2026-04-21
 > **Speakers:** - constructor (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continue your ASP.NET Core journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/continue-your-asp-dot-net-core-journey?u=76281980)
@@ -1334,6 +1331,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[David Grace]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/asp-net-core-in-dotnet-6-dependency-injection)
+
+## Skills Covered
+
+- ASP.NET Core
+- Dependency Injection
 
 ## Path Context
 

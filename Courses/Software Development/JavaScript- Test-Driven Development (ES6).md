@@ -30,8 +30,10 @@ tags:
   - skill/test-driven-development
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Test-Driven%20Development%20(ES6).md)
 
 ![JavaScript: Test-Driven Development (ES6)](https://media.licdn.com/dms/image/v2/C4E0DAQHXKMp0rVD01A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1574359332875?e=2147483647&amp;v=beta&amp;t=GIcScORNhcUX6tJ7B-pS-WtJ8i0HBGrn4gFrv12yvdg)
 
@@ -42,22 +44,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6) | 2h 20m | Advanced | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shaun Wassell]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Test-Driven Development
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Test-Driven Development (TDD) Basics** (6 videos)
+- **3. 2. Writing Unit Tests** (9 videos)
+- **4. 3. Writing Integration Tests** (6 videos)
+- **5. 4. Writing End-to-End Tests** (4 videos)
+- **6. 5. Improving Your TDD Workflow** (6 videos)
+- **7. 6. A Real-World Example** (6 videos)
+- **8. 7. Running Tests** (2 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Intro video
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980)
@@ -199,7 +200,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### 1. Test-Driven Development (TDD) Basics
+### 2. 1. Test-Driven Development (TDD) Basics
 
 #### What is TDD?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-is-tdd?u=76281980)
@@ -607,7 +608,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Writing Unit Tests
+### 3. 2. Writing Unit Tests
 
 #### The purpose of unit testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-purpose-of-unit-testing?u=76281980)
@@ -1342,7 +1343,7 @@ created: 2026-04-21
 > **Cross-References:** in the last (1)
 
 
-### 3. Writing Integration Tests
+### 4. 3. Writing Integration Tests
 
 #### Introduction to integration testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980)
@@ -1685,7 +1686,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Writing End-to-End Tests
+### 5. 4. Writing End-to-End Tests
 
 #### Integration testing in practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980)
@@ -1937,7 +1938,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Improving Your TDD Workflow
+### 6. 5. Improving Your TDD Workflow
 
 #### Testing database communication: Basic setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980)
@@ -2337,7 +2338,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. A Real-World Example
+### 7. 6. A Real-World Example
 
 #### Creating test-doubles with Sinon
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-doubles-with-sinon?u=76281980)
@@ -2792,7 +2793,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Running Tests
+### 8. 7. Running Tests
 
 #### Run tests automatically
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980)
@@ -2897,7 +2898,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980)
@@ -2943,6 +2944,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [shaun] (1)
 
+
+## Instructor
+
+- [[Shaun Wassell]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Test-Driven Development
+- JavaScript
 
 ## Path Context
 

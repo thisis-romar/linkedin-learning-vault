@@ -38,8 +38,10 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations%20Fundamentals.md)
 
 ![Programming Foundations Fundamentals](https://media.licdn.com/dms/image/v2/C4E0DAQHzuVGwXVOhcA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664503979068?e=2147483647&amp;v=beta&amp;t=E2J3giAJlYpHcPhOWjliySlIBL1EWUeRJMylkXF43Wc)
 
@@ -50,13 +52,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Annyce Davis]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Programming Basics** (5 videos)
+- **3. 2. Programming Syntax** (10 videos)
+- **4. 3. Variables and Data Types** (8 videos)
+- **5. 4. Conditional Code** (6 videos)
+- **6. 5. Modular Code** (7 videos)
+- **7. Glossaries** (0 videos)
+- **8. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### The fundamentals of programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?u=76281980)
@@ -131,7 +140,7 @@ created: 2026-04-21
 > **Speakers:** - throughout (1)
 
 
-### 1. Programming Basics
+### 2. 1. Programming Basics
 
 #### What is programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-programming?u=76281980)
@@ -544,7 +553,7 @@ created: 2026-04-21
 > **Analogies:** such as (2)
 
 
-### 2. Programming Syntax
+### 3. 2. Programming Syntax
 
 #### Why Python?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980)
@@ -1420,7 +1429,7 @@ created: 2026-04-21
 > **Tools:** command line (1)
 
 
-### 3. Variables and Data Types
+### 4. 3. Variables and Data Types
 
 #### Introduction to variables and data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980)
@@ -2143,7 +2152,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Conditional Code
+### 5. 4. Conditional Code
 
 #### Making decisions in code
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/making-decisions-in-code?u=76281980)
@@ -2689,7 +2698,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Modular Code
+### 6. 5. Modular Code
 
 #### Introduction to functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-functions?u=76281980)
@@ -3305,10 +3314,10 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Glossaries
+### 7. Glossaries
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Exploring languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980)
@@ -3476,6 +3485,10 @@ created: 2026-04-21
 > **CLI Commands:** python (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Annyce Davis]]
 
 ## Path Context
 

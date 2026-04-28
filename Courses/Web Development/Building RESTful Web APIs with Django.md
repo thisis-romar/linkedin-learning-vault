@@ -30,8 +30,10 @@ tags:
   - skill/rest-apis
   - skill/django
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20RESTful%20Web%20APIs%20with%20Django.md)
 
 ![Building RESTful Web APIs with Django](https://media.licdn.com/dms/image/v2/C4E0DAQHIo6Q4XqxI9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568058527575?e=2147483647&amp;v=beta&amp;t=Xplpddmmv6CJUm18RUjsO9vi09QQGftb99tNVUGDXLQ)
 
@@ -42,22 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django) | 1h 34m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rudolf Olah]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- REST APIs
-- Django
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Serializing, Listing, Filtering, and Paginating Models** (6 videos)
+- **3. 2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models** (6 videos)
+- **4. 3. Managing Serializer Fields, Relations, and Validation** (6 videos)
+- **5. 4. Testing API Views** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Create a REST API with Django and Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980)
@@ -147,7 +145,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Serializing, Listing, Filtering, and Paginating Models
+### 2. 1. Serializing, Listing, Filtering, and Paginating Models
 
 #### Creating a Django Rest framework serializer to serialize a model
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980)
@@ -462,7 +460,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models
+### 3. 2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models
 
 #### Creating a CreateAPIView subclass
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980)
@@ -726,7 +724,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Managing Serializer Fields, Relations, and Validation
+### 4. 3. Managing Serializer Fields, Relations, and Validation
 
 #### Serializer with only selected fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-only-selected-fields?u=76281980)
@@ -1082,7 +1080,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Testing API Views
+### 5. 4. Testing API Views
 
 #### Test case for a CreateAPIView subclass
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980)
@@ -1306,7 +1304,7 @@ created: 2026-04-21
 > **Speakers:** - [man] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980)
@@ -1333,6 +1331,19 @@ created: 2026-04-21
 > **URLs:** [neverfriday.com](https://neverfriday.com) (1)
 > **Speakers:** - [rudolf] (1)
 
+
+## Instructor
+
+- [[Rudolf Olah]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- REST APIs
+- Django
 
 ## Path Context
 

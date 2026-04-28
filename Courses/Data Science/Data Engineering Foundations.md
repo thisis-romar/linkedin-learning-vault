@@ -34,8 +34,10 @@ tags:
   - topic/database-management
   - skill/data-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Engineering%20Foundations.md)
 
 ![Data Engineering Foundations](https://media.licdn.com/dms/image/v2/C4E0DAQGFiPES2_z90A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1613158188348?e=2147483647&amp;v=beta&amp;t=hcbV3DVWxbVb-JnUiu-eOIc4D_50LlCEBYyGW7H7mVY)
 
@@ -46,17 +48,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations) | Beginner | 67K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Data Engineering** (3 videos)
+- **3. 2. Databases and Dataframes** (3 videos)
+- **4. 3. Data Engineering Tools** (4 videos)
+- **5. 4. ETL Pipelines** (11 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is data engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980)
@@ -97,7 +100,7 @@ created: 2026-04-21
 > **Speakers:** - [harshit] (1)
 
 
-### 1. Introduction to Data Engineering
+### 2. 1. Introduction to Data Engineering
 
 #### Introduction to data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980)
@@ -299,7 +302,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 2. Databases and Dataframes
+### 3. 2. Databases and Dataframes
 
 #### Intro to databases and their types
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980)
@@ -579,7 +582,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Engineering Tools
+### 4. 3. Data Engineering Tools
 
 #### MapReduce and Hadoop
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980)
@@ -864,7 +867,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. ETL Pipelines
+### 5. 4. ETL Pipelines
 
 #### Sources of data extraction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980)
@@ -1675,7 +1678,7 @@ created: 2026-04-21
 > **Code Identifiers:** server_config (1), mysql (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980)
@@ -1698,6 +1701,14 @@ created: 2026-04-21
 >
 > **Speakers:** - [harshit] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Engineering
 
 ## Path Context
 

@@ -33,8 +33,10 @@ tags:
   - skill/causal-inference
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Causal%20Inference%20and%20Modeling.md)
 
 ![Machine Learning and AI Foundations: Causal Inference and Modeling](https://media.licdn.com/dms/image/v2/C560DAQFOdsFRUJdSkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658347193726?e=2147483647&amp;v=beta&amp;t=4zj7gi5P0HGmvn3Gfku2qHqJeSq7Z7p74_6fMSjdVyo)
 
@@ -45,23 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling) | 2h 51m | Advanced | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- Causal Inference
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Experimental Design and Statistical Controls** (10 videos)
+- **3. 2. Conditional Probability and Bayes' Theorem** (8 videos)
+- **4. 3. Prediction and Proof with Bayesian statistics** (6 videos)
+- **5. 4. Causal Modeling with Structural Equation Modeling (SEM)** (6 videos)
+- **6. 5. Causal Modeling with Bayesian Networks** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Thinking about causality
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/thinking-about-causality?u=76281980)
@@ -140,7 +138,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Experimental Design and Statistical Controls
+### 2. 1. Experimental Design and Statistical Controls
 
 #### The investigator, the jury, and the judge
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/the-investigator-the-jury-and-the-judge?u=76281980)
@@ -1125,7 +1123,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Conditional Probability and Bayes' Theorem
+### 3. 2. Conditional Probability and Bayes' Theorem
 
 #### Turing, Enigma, and CAPTCHA
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980)
@@ -1903,7 +1901,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Prediction and Proof with Bayesian statistics
+### 4. 3. Prediction and Proof with Bayesian statistics
 
 #### Contrasting frequentist statistics and Bayesian statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/contrasting-frequentist-statistics-and-bayesian-statistics?u=76281980)
@@ -2546,7 +2544,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Causal Modeling with Structural Equation Modeling (SEM)
+### 5. 4. Causal Modeling with Structural Equation Modeling (SEM)
 
 #### Sewell Wright
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/sewell-wright?u=76281980)
@@ -3045,7 +3043,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Causal Modeling with Bayesian Networks
+### 6. 5. Causal Modeling with Bayesian Networks
 
 #### Judea Pearl and the causal revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980)
@@ -3524,7 +3522,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Taking causality further
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980)
@@ -3601,6 +3599,20 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 > **Speakers:** - [keith] (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- Causal Inference
+- Artificial Intelligence (AI)
 
 ## Path Context
 

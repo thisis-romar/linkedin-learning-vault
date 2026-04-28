@@ -24,8 +24,10 @@ tags:
   - course
   - topic/security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Learning%20Threat%20Modeling%20for%20Security%20Professionals.md)
 
 ![Learning Threat Modeling for Security Professionals](https://media.licdn.com/dms/image/v2/C4E0DAQGHpHNyTXJrNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568070586410?e=2147483647&amp;v=beta&amp;t=3QA96DHE05FKZQRVbOFzGK2c2hTdgv_-r-tWsZep-Hk)
 
@@ -36,13 +38,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals) | 46m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Shostack]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The Four Question Framework** (4 videos)
+- **3. 2. STRIDE** (8 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Develop secure products
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/develop-secure-products?u=76281980)
@@ -156,7 +161,7 @@ created: 2026-04-21
 > **Speakers:** - at (1)
 
 
-### 1. The Four Question Framework
+### 2. 1. The Four Question Framework
 
 #### What are we working on?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-working-on?u=76281980)
@@ -493,7 +498,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. STRIDE
+### 3. 2. STRIDE
 
 #### Spoofing a specific server
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980)
@@ -1099,7 +1104,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980)
@@ -1142,6 +1147,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - threat (1)
 
+
+## Instructor
+
+- [[Adam Shostack]]
 
 ## Path Context
 

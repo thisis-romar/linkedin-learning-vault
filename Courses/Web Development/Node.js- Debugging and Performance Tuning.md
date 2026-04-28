@@ -30,8 +30,10 @@ tags:
   - skill/performance-tuning
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node.js-%20Debugging%20and%20Performance%20Tuning.md)
 
 ![Node.js: Debugging and Performance Tuning](https://media.licdn.com/dms/image/v2/C4E0DAQHbNVU0i38wEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665518619?e=2147483647&amp;v=beta&amp;t=4KUT7Pt4NBoyiPn5h96nThBUhLSncGdUW91AzRmRIiU)
 
@@ -42,22 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning) | 2h 44m | Intermediate | 112K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jon Peck]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Performance Tuning
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Build a Troubleshooting Mindset** (4 videos)
+- **3. 2. Introducing Microservices** (4 videos)
+- **4. 3. Effective Logging Strategies** (10 videos)
+- **5. 4. Debugging Node.js Applications** (5 videos)
+- **6. 5. Measuring Performance** (4 videos)
+- **7. Conclusion** (3 videos)
+
+### 1. Introduction
 
 #### The power of debugging and performance tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/the-power-of-debugging-and-performance-tuning?u=76281980)
@@ -474,7 +473,7 @@ created: 2026-04-21
 > **URLs:** [socket.io](https://socket.io) (1)
 
 
-### 1. Build a Troubleshooting Mindset
+### 2. 1. Build a Troubleshooting Mindset
 
 #### Finding what went wrong
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980)
@@ -907,7 +906,7 @@ created: 2026-04-21
 > **Speakers:** - [announcer] (1)
 
 
-### 2. Introducing Microservices
+### 3. 2. Introducing Microservices
 
 #### What's a microservice architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980)
@@ -1363,7 +1362,7 @@ created: 2026-04-21
 > **Tools:** visual studio (2), terminal (1)
 
 
-### 3. Effective Logging Strategies
+### 4. 3. Effective Logging Strategies
 
 #### Why and what should I log?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980)
@@ -2888,7 +2887,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 4. Debugging Node.js Applications
+### 5. 4. Debugging Node.js Applications
 
 #### Debugging isn't just logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-isn-t-just-logging?u=76281980)
@@ -3564,7 +3563,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 5. Measuring Performance
+### 6. 5. Measuring Performance
 
 #### Benchmarking performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980)
@@ -4133,7 +4132,7 @@ created: 2026-04-21
 > **Analogies:** such as (3)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Knowing what to optimize
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980)
@@ -4403,6 +4402,19 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Jon Peck]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Performance Tuning
+- Node.js
 
 ## Path Context
 

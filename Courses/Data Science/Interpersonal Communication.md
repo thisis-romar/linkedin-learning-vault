@@ -29,8 +29,10 @@ tags:
   - topic/data-science
   - skill/interpersonal-communication
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Interpersonal%20Communication.md)
 
 ![Interpersonal Communication](https://media.licdn.com/dms/image/v2/D560DAQGK0nwKKcyHqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689186133224?e=2147483647&amp;v=beta&amp;t=m98yHUxfdk8jEkWLaWMb6w0MnqtUL2VmKiJbO0oBdOw)
 
@@ -41,21 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889) | 48m | 279K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dorie Clark]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Interpersonal Communication
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Communicating with Your Colleagues** (4 videos)
+- **3. 2. Communicating with Your Supervisor** (4 videos)
+- **4. 3. Communicating in Tricky Situations** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build your interpersonal communication skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/build-your-interpersonal-communication-skills?u=76281980)
@@ -89,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 1. Communicating with Your Colleagues
+### 2. 1. Communicating with Your Colleagues
 
 #### Building rapport
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980)
@@ -417,7 +415,7 @@ created: 2026-04-21
 > **Speakers:** - communication (1)
 
 
-### 2. Communicating with Your Supervisor
+### 3. 2. Communicating with Your Supervisor
 
 #### How to manage expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-manage-expectations?u=76281980)
@@ -698,7 +696,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 3. Communicating in Tricky Situations
+### 4. 3. Communicating in Tricky Situations
 
 #### Communication and cultural differences
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/communication-and-cultural-differences?u=76281980)
@@ -1082,7 +1080,7 @@ created: 2026-04-21
 > **Speakers:** - unfortunately (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Investing in communication skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/investing-in-communication-skills?u=76281980)
@@ -1111,6 +1109,18 @@ created: 2026-04-21
 > **URLs:** [dorieclark.com](https://dorieclark.com) (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Dorie Clark]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Interpersonal Communication
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/cloud-security
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Security%20for%20Beginners-%20Tools%20and%20Services.md)
 
 ![Google Cloud Security for Beginners: Tools and Services](https://media.licdn.com/dms/image/v2/D560DAQFHeulfw28gmQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722024827811?e=2147483647&amp;v=beta&amp;t=SF4gELCvppitTc6BG6bxKghH4A1aBKBV3rYq3xv9hbE)
 
@@ -43,18 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592) | 1h 4m | Beginner | 71K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dominique West]]
-
-## Skills Covered
-
-- Cloud Security
-- Google Cloud Platform (GCP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Identity and Access Management (IAM)** (4 videos)
+- **3. 2. Infrastructure Security** (4 videos)
+- **4. 3. Network Security** (3 videos)
+- **5. 4. Data Security** (3 videos)
+- **6. 5. Security Operations** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to course
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-course?u=76281980)
@@ -202,7 +205,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Identity and Access Management (IAM)
+### 2. 1. Identity and Access Management (IAM)
 
 #### Google Cloud Security and IAM basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980)
@@ -439,7 +442,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Infrastructure Security
+### 3. 2. Infrastructure Security
 
 #### Overview of cloud infrastructure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980)
@@ -685,7 +688,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Network Security
+### 4. 3. Network Security
 
 #### Network security fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980)
@@ -973,7 +976,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data Security
+### 5. 4. Data Security
 
 #### Introduction to data security in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980)
@@ -1121,7 +1124,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Security Operations
+### 6. 5. Security Operations
 
 #### Understanding the Security Command Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980)
@@ -1304,7 +1307,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980)
@@ -1335,6 +1338,15 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Dominique West]]
+
+## Skills Covered
+
+- Cloud Security
+- Google Cloud Platform (GCP)
 
 ## Path Context
 

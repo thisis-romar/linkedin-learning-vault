@@ -30,8 +30,10 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Openai%20Api%20Introduction.md)
 
 ![Openai Api Introduction](https://media.licdn.com/dms/image/v2/D560DAQEWS5-DC0zYIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704245394141?e=2147483647&amp;v=beta&amp;t=98AwtUKk7k69NMutgfvmFPuNyJX7uHRYUea_bVWxsNk)
 
@@ -42,21 +44,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-introduction) | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-introduction-4564116/codespaces)
-
-## Skills Covered
-
-- OpenAI API
-- API Development
-- OpenAI Products
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Using the OpenAI API** (1 videos)
+
+### 1. Introduction
 
 #### Building AI-powered apps with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-introduction/building-ai-powered-apps-with-the-openai-api?u=76281980)
@@ -78,7 +73,7 @@ created: 2026-04-21
 > **Speakers:** - give (1)
 
 
-### 1. Using the OpenAI API
+### 2. 1. Using the OpenAI API
 
 #### Five steps to using the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-introduction/5-steps-to-using-the-openai-api?u=76281980)
@@ -190,6 +185,18 @@ created: 2026-04-21
 > **Definitions:** is a  (3)
 > **Tools:** github (2)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-introduction-4564116/codespaces)
+
+## Skills Covered
+
+- OpenAI API
+- API Development
+- OpenAI Products
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/cloud-administration
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Management%20Basics-%20Portal%2C%20PowerShell%2C%20Bicep%2C%20and%20CLI.md)
 
 ![Azure Management Basics: Portal, PowerShell, Bicep, and CLI](https://media.licdn.com/dms/image/v2/D560DAQHYI6-4PfLxGQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1715047190113?e=2147483647&amp;v=beta&amp;t=rMlsp5dUFPuByh84E9GwhtkDU7TRpo4WowP0UJomMcY)
 
@@ -43,18 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli) | 1h 53m | Beginner | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gary Grudzinskas]]
-
-## Skills Covered
-
-- Cloud Administration
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Started with the Azure Portal** (6 videos)
+- **3. 2. Getting Started with the Azure CLI** (4 videos)
+- **4. 3. Getting Started with Azure PowerShell** (5 videos)
+- **5. 4. Getting Started with JSON Templates** (4 videos)
+- **6. 5. Getting Started with Bicep** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get started with Azure tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-started-with-azure-tools?u=76281980)
@@ -85,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 1. Getting Started with the Azure Portal
+### 2. 1. Getting Started with the Azure Portal
 
 #### Understand the Azure portal
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980)
@@ -783,7 +786,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Getting Started with the Azure CLI
+### 3. 2. Getting Started with the Azure CLI
 
 #### Understand the Azure CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980)
@@ -1424,7 +1427,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Getting Started with Azure PowerShell
+### 4. 3. Getting Started with Azure PowerShell
 
 #### Understand Azure PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980)
@@ -2066,7 +2069,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Getting Started with JSON Templates
+### 5. 4. Getting Started with JSON Templates
 
 #### Understand JSON templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980)
@@ -2483,7 +2486,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. Getting Started with Bicep
+### 6. 5. Getting Started with Bicep
 
 #### Understand Azure Bicep
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980)
@@ -2758,7 +2761,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980)
@@ -2782,6 +2785,15 @@ created: 2026-04-21
 > **Env Vars:** arm (2)
 > **Speakers:** - with (1)
 
+
+## Instructor
+
+- [[Gary Grudzinskas]]
+
+## Skills Covered
+
+- Cloud Administration
+- Microsoft Azure
 
 ## Path Context
 

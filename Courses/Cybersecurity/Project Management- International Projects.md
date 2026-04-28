@@ -26,8 +26,10 @@ tags:
   - topic/security
   - skill/international-project-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Project%20Management-%20International%20Projects.md)
 
 ![Project Management: International Projects](https://media.licdn.com/dms/image/v2/C4E0DAQF2tFnHsWBbiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1610746897809?e=2147483647&amp;v=beta&amp;t=Wm9f5vThmJQa6bFbkl9T-w-QUH72Pbiq9YwNurJ-9jY)
 
@@ -38,21 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects) | 1h | 354K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sam Yankelevitch]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- International Project Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Collaboration** (3 videos)
+- **3. 2. True Communication** (4 videos)
+- **4. 3. Distance** (3 videos)
+- **5. 4. Culture** (4 videos)
+- **6. 5. Language** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Improve your global project results
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/improve-your-global-project-results?u=76281980)
@@ -87,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - things (1)
 
 
-### 1. Collaboration
+### 2. 1. Collaboration
 
 #### Assessing collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/assessing-collaboration?u=76281980)
@@ -276,7 +276,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 2. True Communication
+### 3. 2. True Communication
 
 #### Avoiding the illusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/avoiding-the-illusion?u=76281980)
@@ -537,7 +537,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 3. Distance
+### 4. 3. Distance
 
 #### Addressing physical separation
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980)
@@ -736,7 +736,7 @@ created: 2026-04-21
 > **Speakers:** - did (1)
 
 
-### 4. Culture
+### 5. 4. Culture
 
 #### Social programming and values
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/social-programming-and-values?u=76281980)
@@ -998,7 +998,7 @@ created: 2026-04-21
 > **Speakers:** - different (1)
 
 
-### 5. Language
+### 6. 5. Language
 
 #### Common language
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980)
@@ -1273,7 +1273,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/next-steps?u=76281980)
@@ -1321,6 +1321,18 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - what (1)
 
+
+## Instructor
+
+- [[Sam Yankelevitch]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- International Project Management
 
 ## Path Context
 

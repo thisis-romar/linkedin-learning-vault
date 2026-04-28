@@ -36,8 +36,10 @@ tags:
   - topic/software-development
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node.js-%20Testing%20and%20Code%20Quality.md)
 
 ![Node.js: Testing and Code Quality](https://media.licdn.com/dms/image/v2/C560DAQFbnU_pGsqnsQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622761357976?e=2147483647&amp;v=beta&amp;t=Q9sdZvorjgGXIs4l5Jnb1jCB3sdexSRe4A8KdUZVWes)
 
@@ -48,21 +50,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857) | 4h 21m | Intermediate | 57K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jon Peck]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Testing and Code Quality Fundamentals** (9 videos)
+- **3. 2. Finding Errors with Linting** (10 videos)
+- **4. 3. Validate Correctness with Unit Testing** (10 videos)
+- **5. 4. Replacing and Inspecting Using Spies, Stubs, and Mocks** (8 videos)
+- **6. 5. Reporting on Your Entire Codebase** (9 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Cleaning your codebase
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980)
@@ -394,7 +394,7 @@ created: 2026-04-21
 > **Ports:** port 3000 (1), :30 (1)
 
 
-### 1. Testing and Code Quality Fundamentals
+### 2. 1. Testing and Code Quality Fundamentals
 
 #### What is code quality?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-is-code-quality?u=76281980)
@@ -1645,7 +1645,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Finding Errors with Linting
+### 3. 2. Finding Errors with Linting
 
 #### Standardizing with EditorConfig
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980)
@@ -2896,7 +2896,7 @@ created: 2026-04-21
 > **File Paths:** readme.md (1)
 
 
-### 3. Validate Correctness with Unit Testing
+### 4. 3. Validate Correctness with Unit Testing
 
 #### Survey of Node.js testing frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980)
@@ -4020,7 +4020,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Replacing and Inspecting Using Spies, Stubs, and Mocks
+### 5. 4. Replacing and Inspecting Using Spies, Stubs, and Mocks
 
 #### Replacing code with test doubles
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/replacing-code-with-test-doubles?u=76281980)
@@ -5007,7 +5007,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 5. Reporting on Your Entire Codebase
+### 6. 5. Reporting on Your Entire Codebase
 
 #### Why code coverage matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980)
@@ -6138,7 +6138,7 @@ created: 2026-04-21
 > **Ports:** port 3000 (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Testing and code quality goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-and-code-quality-goals?u=76281980)
@@ -6344,6 +6344,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
+
+## Instructor
+
+- [[Jon Peck]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Node.js
 
 ## Path Context
 

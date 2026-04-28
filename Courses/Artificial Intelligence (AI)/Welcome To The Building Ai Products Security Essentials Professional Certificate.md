@@ -30,8 +30,10 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Welcome%20To%20The%20Building%20Ai%20Products%20Security%20Essentials%20Professional%20Certificate.md)
 
 ![Welcome To The Building Ai Products Security Essentials Professional Certificate](https://media.licdn.com/dms/image/v2/D4E0DAQGgAZ7thKphhA/learning-public-crop_675_1200/B4EZWWZlO_GgAY-/0/1741985044109?e=2147483647&amp;v=beta&amp;t=J54Tun_JrKlRAkicU_KS2P-M1THdEBAWZbTlErbwNUY)
 
@@ -42,15 +44,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate) | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Product Security
-- AI Software Development
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+
+### 1. Introduction
 
 #### Securing AI products: Your path to success
 > [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980)
@@ -78,6 +78,12 @@ created: 2026-04-21
 > **Code Keywords:** pass (1), let (1)
 > **Speakers:** - welcome (1)
 
+
+## Skills Covered
+
+- Product Security
+- AI Software Development
+- Artificial Intelligence (AI)
 
 ## Path Context
 

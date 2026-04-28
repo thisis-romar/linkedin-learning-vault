@@ -26,8 +26,10 @@ tags:
   - topic/it-help-desk
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development-%20Transforming%20Your%20Organization.md)
 
 ![Agile Software Development: Transforming Your Organization](https://media.licdn.com/dms/image/v2/D560DAQF9Ibbn_mUwUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686759419638?e=2147483647&amp;v=beta&amp;t=k5byCarTkDcLrd--DXWLDYxMs8pm3RpplrQGMRvRaig)
 
@@ -38,13 +40,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018) | 1h 18m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kelley O'Connell]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Your Transformation** (2 videos)
+- **3. 2. Your Customers** (3 videos)
+- **4. 3. Agile Portfolio of Work** (3 videos)
+- **5. 4. The Agile Framework** (3 videos)
+- **6. 5. Team Transformation** (3 videos)
+- **7. 6. Scaling Models** (4 videos)
+- **8. 7. Technical Excellence** (3 videos)
+- **9. 8. Measurement and Growth** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Ignite your teams with agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/ignite-your-teams-with-agile?u=76281980)
@@ -64,7 +75,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 1. Your Transformation
+### 2. 1. Your Transformation
 
 #### Your current state
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-current-state?u=76281980)
@@ -235,7 +246,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Your Customers
+### 3. 2. Your Customers
 
 #### Internal customer engagement
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/internal-customer-engagement?u=76281980)
@@ -452,7 +463,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Agile Portfolio of Work
+### 4. 3. Agile Portfolio of Work
 
 #### Your portfolio today
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-portfolio-today?u=76281980)
@@ -676,7 +687,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. The Agile Framework
+### 5. 4. The Agile Framework
 
 #### It's a mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/it-s-a-mindset?u=76281980)
@@ -890,7 +901,7 @@ created: 2026-04-21
 > **Speakers:** - [educator] (1)
 
 
-### 5. Team Transformation
+### 6. 5. Team Transformation
 
 #### Changing leaders' mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/changing-leaders-mindset?u=76281980)
@@ -1097,7 +1108,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Scaling Models
+### 7. 6. Scaling Models
 
 #### What is "scaling agile"?
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/what-is-scaling-agile?u=76281980)
@@ -1338,7 +1349,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Technical Excellence
+### 8. 7. Technical Excellence
 
 #### Technical architecture and your portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/technical-architecture-and-your-portfolio?u=76281980)
@@ -1557,7 +1568,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Measurement and Growth
+### 9. 8. Measurement and Growth
 
 #### Measure your transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-your-transformation?u=76281980)
@@ -1801,7 +1812,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Resources for your agile journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/resources-for-your-agile-journey?u=76281980)
@@ -1828,6 +1839,10 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Kelley O'Connell]]
 
 ## Path Context
 

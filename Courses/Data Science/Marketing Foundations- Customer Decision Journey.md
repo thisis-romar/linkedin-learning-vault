@@ -26,8 +26,10 @@ tags:
   - skill/customer-journey-mapping
   - skill/customer-marketing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Foundations-%20Customer%20Decision%20Journey.md)
 
 ![Marketing Foundations: Customer Decision Journey](https://media.licdn.com/dms/image/v2/C4E0DAQFYKOwgY8LnHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118355405?e=2147483647&amp;v=beta&amp;t=o5x1OU3BQc-n1iPSWte73cw-GaY3c97kF7mVRRTIrYY)
 
@@ -38,22 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey) | 47m | 124K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dina Shapiro]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Customer Journey Mapping
-- Customer Marketing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Decision Journey Basics** (3 videos)
+- **3. 2. Buyer Personas** (3 videos)
+- **4. 3. Decision Journey Stages** (4 videos)
+- **5. 4. Map Across Touch Points** (3 videos)
+- **6. 5. Align Messaging and Content** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Taking the customer's perspective
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/taking-the-customer-s-perspective?u=76281980)
@@ -90,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Decision Journey Basics
+### 2. 1. Decision Journey Basics
 
 #### Importance of the decision journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/importance-of-the-decision-journey-13926968?u=76281980)
@@ -292,7 +291,7 @@ created: 2026-04-21
 > **Speakers:** - customer (1)
 
 
-### 2. Buyer Personas
+### 3. 2. Buyer Personas
 
 #### Define buyer persona
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-buyer-persona-13929683?u=76281980)
@@ -500,7 +499,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 3. Decision Journey Stages
+### 4. 3. Decision Journey Stages
 
 #### Define journey stages
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-journey-stages-13932233?u=76281980)
@@ -717,7 +716,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 4. Map Across Touch Points
+### 5. 4. Map Across Touch Points
 
 #### Define touch points
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-touch-points-13931273?u=76281980)
@@ -897,7 +896,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 5. Align Messaging and Content
+### 6. 5. Align Messaging and Content
 
 #### Messaging versus content
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980)
@@ -1086,7 +1085,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### The journey continues
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980)
@@ -1115,6 +1114,19 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Dina Shapiro]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Customer Journey Mapping
+- Customer Marketing
 
 ## Path Context
 

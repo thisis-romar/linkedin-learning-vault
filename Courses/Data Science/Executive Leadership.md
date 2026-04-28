@@ -24,8 +24,10 @@ tags:
   - topic/data-science
   - skill/executive-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Executive%20Leadership.md)
 
 ![Executive Leadership](https://media.licdn.com/dms/image/v2/D560DAQF4LHwu04Zt-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722275062045?e=2147483647&amp;v=beta&amp;t=RCF-u8CYPP_za8sn3kwhaOBuWNLpqU2EgVNRG5eHuOI)
 
@@ -36,13 +38,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695) | Advanced | 78K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Executive Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Set Direction** (4 videos)
+- **3. 2. Motivate Commitment** (4 videos)
+- **4. 3. Drive for Results** (4 videos)
+- **5. 4. Develop Yourself** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Take action to lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/take-action-to-lead?u=76281980)
@@ -182,7 +189,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 1. Set Direction
+### 2. 1. Set Direction
 
 #### Establish purpose and vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/establish-purpose-and-vision?u=76281980)
@@ -601,7 +608,7 @@ created: 2026-04-21
 > **Speakers:** - leading (1)
 
 
-### 2. Motivate Commitment
+### 3. 2. Motivate Commitment
 
 #### Energize and empower
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/energize-and-empower?u=76281980)
@@ -1017,7 +1024,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Drive for Results
+### 4. 3. Drive for Results
 
 #### Prioritize with accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/prioritize-with-accountability?u=76281980)
@@ -1473,7 +1480,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 4. Develop Yourself
+### 5. 4. Develop Yourself
 
 #### Apply the Executive Learning Cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980)
@@ -1793,7 +1800,7 @@ created: 2026-04-21
 > **Speakers:** - back (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Create possibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980)
@@ -1869,6 +1876,10 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - the (1)
 
+
+## Skills Covered
+
+- Executive Leadership
 
 ## Path Context
 

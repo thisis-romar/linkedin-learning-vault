@@ -36,8 +36,10 @@ tags:
   - skill/ethereum
   - skill/software-deployment
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%2010%20Deployment%20and%20Maintenance.md)
 
 ![Building an Ethereum Blockchain App: 10 Deployment and Maintenance](https://media.licdn.com/dms/image/v2/C4D0DAQEMwtGaVZxdqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629737440397?e=2147483647&amp;v=beta&amp;t=rUYNhmFk8KHsqj2J19NKyED83hcXoRsNwAxzRVzBVuo)
 
@@ -48,23 +50,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance) | 36m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Solomon]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Blockchain
-- Ethereum
-- Software Deployment
-
 ## Table of Contents
 
-### 1. Deploying and Maintaining Ethereum Apps
+### Chapter Overview
+
+- **1. 1. Deploying and Maintaining Ethereum Apps** (6 videos)
+
+### 1. 1. Deploying and Maintaining Ethereum Apps
 
 #### Test blockchains
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980)
@@ -917,6 +909,20 @@ created: 2026-04-21
 > **Exercise Files:** source code (1)
 > **Warnings:** keep in mind (1)
 
+
+## Instructor
+
+- [[Michael Solomon]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Blockchain
+- Ethereum
+- Software Deployment
 
 ## Path Context
 

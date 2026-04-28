@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI-%20Advanced%20Decision%20Trees%20with%20SPSS.md)
 
 ![Machine Learning and AI: Advanced Decision Trees with SPSS](https://media.licdn.com/dms/image/v2/C560DAQFnMHfZVRGQYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668018019156?e=2147483647&amp;v=beta&amp;t=HxliPaHM2yHLhRyVHfRpgFVfpvAWUrcKz2UMggHrIRM)
 
@@ -45,23 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss) | 1h 23m | Advanced | 105K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-- Decision Trees
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Understanding QUEST** (6 videos)
+- **3. 2. Understanding C5.0** (6 videos)
+- **4. 3. Advanced Topics** (9 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Advanced decision trees with SPSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980)
@@ -160,7 +156,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding QUEST
+### 2. 1. Understanding QUEST
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/overview?u=76281980)
@@ -643,7 +639,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Understanding C5.0
+### 3. 2. Understanding C5.0
 
 #### ID3 and C4.5
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/id3-and-c4-5?u=76281980)
@@ -1123,7 +1119,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced Topics
+### 4. 3. Advanced Topics
 
 #### Ensembles
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/ensembles?u=76281980)
@@ -1852,7 +1848,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980)
@@ -1884,6 +1880,20 @@ created: 2026-04-21
 > **Env Vars:** spss (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
+- Decision Trees
 
 ## Path Context
 

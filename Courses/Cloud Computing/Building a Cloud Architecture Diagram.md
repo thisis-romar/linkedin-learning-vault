@@ -32,8 +32,10 @@ tags:
   - skill/technical-documentation
   - skill/diagramming
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20a%20Cloud%20Architecture%20Diagram.md)
 
 ![Building a Cloud Architecture Diagram](https://media.licdn.com/dms/image/v2/C4E0DAQHmIRNYr7q8xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679431052151?e=2147483647&amp;v=beta&amp;t=9vklnqfYskH5uxT7tHkHswfntap1QZ2Wa4PBjJQBgZk)
 
@@ -44,19 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram) | 1h 49m | Advanced | 28K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mark Wilkins]]
-
-## Skills Covered
-
-- Cloud-Native Architecture
-- Technical Documentation
-- Diagramming
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Cloud Architecture Diagrams** (16 videos)
+- **3. 2. UML Diagram Types for Cloud Architecture** (7 videos)
+- **4. 3. Creating Cloud Architecture Diagrams** (8 videos)
+- **5. 4. Architectural Diagramming Tools for Cloud Architecture** (1 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### An in-depth look at cloud architecture diagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/an-in-depth-look-at-cloud-architecture-diagrams?u=76281980)
@@ -136,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Cloud Architecture Diagrams
+### 2. 1. Cloud Architecture Diagrams
 
 #### What is a cloud architecture diagram?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980)
@@ -1199,7 +1200,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. UML Diagram Types for Cloud Architecture
+### 3. 2. UML Diagram Types for Cloud Architecture
 
 #### Use case diagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980)
@@ -1937,7 +1938,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Creating Cloud Architecture Diagrams
+### 4. 3. Creating Cloud Architecture Diagrams
 
 #### Mind map diagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980)
@@ -2596,7 +2597,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Architectural Diagramming Tools for Cloud Architecture
+### 5. 4. Architectural Diagramming Tools for Cloud Architecture
 
 #### Diagramming tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980)
@@ -2663,7 +2664,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/next-steps?u=76281980)
@@ -2696,6 +2697,16 @@ created: 2026-04-21
 > **URLs:** [diagrams.net](https://diagrams.net) (1)
 > **Speakers:** - [mark] (1)
 
+
+## Instructor
+
+- [[Mark Wilkins]]
+
+## Skills Covered
+
+- Cloud-Native Architecture
+- Technical Documentation
+- Diagramming
 
 ## Path Context
 

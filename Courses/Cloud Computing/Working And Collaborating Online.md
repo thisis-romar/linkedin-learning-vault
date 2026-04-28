@@ -25,8 +25,10 @@ tags:
   - topic/software-development
   - skill/virtual-collaboration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Working%20And%20Collaborating%20Online.md)
 
 ![Working And Collaborating Online](https://media.licdn.com/dms/image/v2/C4E0DAQGk2za6JV6lUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597947536950?e=2147483647&amp;v=beta&amp;t=UE_8NMISSXvKtS1vQAUpVbR6L9vhgzGPRs-GpPNDKwg)
 
@@ -37,13 +39,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online) | Beginner | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Virtual Collaboration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Access Information Online** (10 videos)
+- **3. 2. Participate Safely and Responsibly Online** (8 videos)
+- **4. 3. Collaborating with Outlook** (4 videos)
+- **5. 4. Collaborate Online in Word** (3 videos)
+- **6. 5. Sharing Content with OneDrive** (5 videos)
+- **7. 6. Using Chat, Video Calls, and Group Video Meetings** (6 videos)
+
+### 1. Introduction
 
 #### Computing with confidence, getting job skills, and staying safe online
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/computing-with-confidence-getting-job-skills-and-staying-safe-online?u=76281980)
@@ -82,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - computers (1)
 
 
-### 1. Access Information Online
+### 2. 1. Access Information Online
 
 #### Methods of connecting to the internet
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-connecting-to-the-internet?u=76281980)
@@ -795,7 +803,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Participate Safely and Responsibly Online
+### 3. 2. Participate Safely and Responsibly Online
 
 #### Methods of communicating online
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-communicating-online?u=76281980)
@@ -1260,7 +1268,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Collaborating with Outlook
+### 4. 3. Collaborating with Outlook
 
 #### Collaborate via email and calendars
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-via-email-and-calendars?u=76281980)
@@ -1423,7 +1431,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Collaborate Online in Word
+### 5. 4. Collaborate Online in Word
 
 #### Collaborate on Word documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980)
@@ -1614,7 +1622,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Sharing Content with OneDrive
+### 6. 5. Sharing Content with OneDrive
 
 #### Understand cloud-based services
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/understand-cloud-based-services?u=76281980)
@@ -1814,7 +1822,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Using Chat, Video Calls, and Group Video Meetings
+### 7. 6. Using Chat, Video Calls, and Group Video Meetings
 
 #### Understand instant messaging, voice, and video chat
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980)
@@ -2153,6 +2161,10 @@ created: 2026-04-21
 > **URLs:** [skype.com](https://skype.com) (1)
 > **Analogies:** for example (1)
 
+
+## Skills Covered
+
+- Virtual Collaboration
 
 ## Path Context
 

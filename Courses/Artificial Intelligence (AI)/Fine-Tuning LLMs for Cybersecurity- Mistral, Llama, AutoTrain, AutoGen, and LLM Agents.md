@@ -38,8 +38,10 @@ tags:
   - skill/large-language-models-llm
   - skill/ai-for-cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Fine-Tuning%20LLMs%20for%20Cybersecurity-%20Mistral%2C%20Llama%2C%20AutoTrain%2C%20AutoGen%2C%20and%20LLM%20Agents.md)
 
 ![Fine-Tuning LLMs for Cybersecurity: Mistral, Llama, AutoTrain, AutoGen, and LLM Agents](https://media.licdn.com/dms/image/v2/D560DAQHVfuZo09vpTA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729015930936?e=2147483647&amp;v=beta&amp;t=dWExLTYF_PhRlYGJG1Ep_Hmv-2ggQOSMNgr3IxnEW3Q)
 
@@ -50,26 +52,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents) | 2h 52m | Advanced | 66K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Akhil Sharma]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-3893128)
-
-## Skills Covered
-
-- LLaMA
-- Threat & Vulnerability Management
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- AI for Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Open-Source LLMs and Why They're Important** (7 videos)
+- **3. 2. LLMs and Cybersecurity** (7 videos)
+- **4. 3. Code Vulnerability Scanning with LLMs** (6 videos)
+- **5. 4. OSINT with LLM Agents** (6 videos)
+- **6. 5. Web Vulnerability Scanning with LLM Agents** (6 videos)
+- **7. 6. LLM-Powered Firewall** (7 videos)
+- **8. 7. The Future of Cybersecurity with LLMs** (7 videos)
+- **9. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Introduction to LLMs and LLM agents for cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llms-and-llm-agents-for-cybersecurity?u=76281980)
@@ -357,7 +354,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Open-Source LLMs and Why They're Important
+### 2. 1. Open-Source LLMs and Why They're Important
 
 #### GenAI and top LLMs: GPT4, Claude, and Gemini (closed source)
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980)
@@ -945,7 +942,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 2. LLMs and Cybersecurity
+### 3. 2. LLMs and Cybersecurity
 
 #### New evolving threats, powered by LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980)
@@ -1483,7 +1480,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1), select the (1)
 
 
-### 3. Code Vulnerability Scanning with LLMs
+### 4. 3. Code Vulnerability Scanning with LLMs
 
 #### Introduction to code vulnerability scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980)
@@ -1887,7 +1884,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. OSINT with LLM Agents
+### 5. 4. OSINT with LLM Agents
 
 #### Introduction to OSINT and how LLMs can help
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980)
@@ -2472,7 +2469,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Web Vulnerability Scanning with LLM Agents
+### 6. 5. Web Vulnerability Scanning with LLM Agents
 
 #### Introduction to web vulnerability scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980)
@@ -3108,7 +3105,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 6. LLM-Powered Firewall
+### 7. 6. LLM-Powered Firewall
 
 #### Introduction to LLM-powered firewall projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980)
@@ -3635,7 +3632,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. The Future of Cybersecurity with LLMs
+### 8. 7. The Future of Cybersecurity with LLMs
 
 #### Threats of the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980)
@@ -4117,7 +4114,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Summarizing the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980)
@@ -4263,6 +4260,23 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instruction] (1)
 
+
+## Instructor
+
+- [[Akhil Sharma]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-3893128)
+
+## Skills Covered
+
+- LLaMA
+- Threat & Vulnerability Management
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
+- AI for Cybersecurity
 
 ## Path Context
 

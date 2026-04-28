@@ -31,8 +31,10 @@ tags:
   - skill/penetration-testing
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20System%20Hacking.md)
 
 ![Ethical Hacking: System Hacking](https://media.licdn.com/dms/image/v2/D4E0DAQFXmRdshskKrg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1720805002932?e=2147483647&amp;v=beta&amp;t=cJ6ezlLOHeDl9lg5s3SFQZfZi6DO3Ic90nmcTRw8m-o)
 
@@ -43,22 +45,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006) | 2h 13m | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Penetration Testing
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Understanding System Hacking** (5 videos)
+- **3. 2. Gaining Access** (5 videos)
+- **4. 3. Exploiting Vulnerabilities** (3 videos)
+- **5. 4. Escalating Privileges** (3 videos)
+- **6. 5. Maintaining Access** (4 videos)
+- **7. 6. Grasping Keyloggers** (2 videos)
+- **8. 7. Recognizing Spyware** (3 videos)
+- **9. 8. Hiding in Plain Sight** (4 videos)
+- **10. 9. Maintaining Persistence** (3 videos)
+- **11. 10. Covering Tracks** (3 videos)
+
+### 1. Introduction
 
 #### Hacking the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/hacking-the-system?u=76281980)
@@ -141,7 +144,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding System Hacking
+### 2. 1. Understanding System Hacking
 
 #### Setting the stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/setting-the-stage?u=76281980)
@@ -414,7 +417,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 2. Gaining Access
+### 3. 2. Gaining Access
 
 #### Acquiring passwords
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980)
@@ -814,7 +817,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Exploiting Vulnerabilities
+### 4. 3. Exploiting Vulnerabilities
 
 #### Leveraging security flaws
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980)
@@ -1030,7 +1033,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 4. Escalating Privileges
+### 5. 4. Escalating Privileges
 
 #### Understanding privilege escalation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/understanding-privilege-escalation?u=76281980)
@@ -1259,7 +1262,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Maintaining Access
+### 6. 5. Maintaining Access
 
 #### Dissecting rootkits
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980)
@@ -1552,7 +1555,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Grasping Keyloggers
+### 7. 6. Grasping Keyloggers
 
 #### Outlining keystroke loggers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980)
@@ -1707,7 +1710,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Recognizing Spyware
+### 8. 7. Recognizing Spyware
 
 #### Explaining spyware behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/explaining-spyware-behavior?u=76281980)
@@ -1914,7 +1917,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 8. Hiding in Plain Sight
+### 9. 8. Hiding in Plain Sight
 
 #### Using steganography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-steganography?u=76281980)
@@ -2250,7 +2253,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Maintaining Persistence
+### 10. 9. Maintaining Persistence
 
 #### Remaining in the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/remaining-in-the-system?u=76281980)
@@ -2425,7 +2428,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Covering Tracks
+### 11. 10. Covering Tracks
 
 #### Disabling logging and hiding files
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980)
@@ -2607,6 +2610,19 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Penetration Testing
+- Ethical Hacking
 
 ## Path Context
 

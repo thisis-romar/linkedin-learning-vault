@@ -45,8 +45,10 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Hands-On%20Practice-%20Solve%20Business%20Problems.md)
 
 ![SQL Hands-On Practice: Solve Business Problems](https://media.licdn.com/dms/image/v2/D560DAQE39da4k5PRQg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902865604?e=2147483647&amp;v=beta&amp;t=u2jP4AXKwzQWrz-Wl-NrpPQkV2lYzA3LiMSjRKxjnkg)
 
@@ -57,17 +59,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems) | 2h 8m | Intermediate | 55K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jess Ramos]]
-
-## Skills Covered
-
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Product Analytics in SQL with CTEs** (6 videos)
+- **3. 2. Data Transformation in SQL with CASE** (5 videos)
+- **4. 3. Combining Multiple Data Sources in SQL with UNION** (5 videos)
+- **5. 4. Dealing with Hierarchical Data in SQL with Self Joins** (5 videos)
+- **6. 5. Solving Advanced Problems in SQL with Window Functions** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Advancing your skills with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/advancing-your-skills-with-sql?u=76281980)
@@ -141,7 +145,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Product Analytics in SQL with CTEs
+### 2. 1. Product Analytics in SQL with CTEs
 
 #### Summarizing customer data for leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/summarizing-customer-data-for-leadership?u=76281980)
@@ -889,7 +893,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. Data Transformation in SQL with CASE
+### 3. 2. Data Transformation in SQL with CASE
 
 #### Translating status codes into business acumen
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/translating-status-codes-into-business-acumen?u=76281980)
@@ -1420,7 +1424,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Combining Multiple Data Sources in SQL with UNION
+### 4. 3. Combining Multiple Data Sources in SQL with UNION
 
 #### Combining multiple email lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980)
@@ -1820,7 +1824,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Dealing with Hierarchical Data in SQL with Self Joins
+### 5. 4. Dealing with Hierarchical Data in SQL with Self Joins
 
 #### Dealing with hierarchical data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/dealing-with-hierarchical-data?u=76281980)
@@ -2276,7 +2280,7 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 
 
-### 5. Solving Advanced Problems in SQL with Window Functions
+### 6. 5. Solving Advanced Problems in SQL with Window Functions
 
 #### Pulling the most recent sales data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980)
@@ -2859,7 +2863,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing on with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980)
@@ -2883,6 +2887,14 @@ created: 2026-04-21
 > **Env Vars:** sql (1)
 > **Speakers:** - congrats (1)
 
+
+## Instructor
+
+- [[Jess Ramos]]
+
+## Skills Covered
+
+- SQL
 
 ## Path Context
 

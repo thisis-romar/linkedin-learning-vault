@@ -32,8 +32,10 @@ tags:
   - skill/data-transformation
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Leader%20Cert%20Prep-%202%20Exploring%20Data%20Transformation%20with%20Google%20Cloud.md)
 
 ![Google Cloud Digital Leader Cert Prep: 2 Exploring Data Transformation with Google Cloud](https://media.licdn.com/dms/image/v2/D4E0DAQHnsbvLOIsOEg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726251162723?e=2147483647&amp;v=beta&amp;t=fJSl0-2k8-JmDlHlrczTLIf1ChXA4NSeR0Kb_rkn4zs)
 
@@ -44,18 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud) | 54m | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Google Cloud]]
-
-## Skills Covered
-
-- Data Transformation
-- Google Cloud Platform (GCP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Value of Data** (7 videos)
+- **3. 2. Google Cloud Data Management Solutions** (6 videos)
+- **4. 3. Making Data Useful and Accessible** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-introduction?u=76281980)
@@ -91,7 +92,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The Value of Data
+### 2. 1. The Value of Data
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980)
@@ -549,7 +550,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Google Cloud Data Management Solutions
+### 3. 2. Google Cloud Data Management Solutions
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228171?u=76281980)
@@ -895,7 +896,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Making Data Useful and Accessible
+### 4. 3. Making Data Useful and Accessible
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228173?u=76281980)
@@ -1104,7 +1105,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980)
@@ -1131,6 +1132,15 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Google Cloud]]
+
+## Skills Covered
+
+- Data Transformation
+- Google Cloud Platform (GCP)
 
 ## Path Context
 

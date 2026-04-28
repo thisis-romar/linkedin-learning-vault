@@ -32,8 +32,10 @@ tags:
   - topic/network-and-system-administration
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20The%20Javascript%20Language.md)
 
 ![Learning The Javascript Language](https://media.licdn.com/dms/image/v2/D560DAQEpa5LhtPUlUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683586021773?e=2147483647&amp;v=beta&amp;t=eWdXogROIX3NTc6aUHOyMCTpm9PuwajA52aAEOLOsdU)
 
@@ -44,22 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208) | Beginner | 401K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Chellman]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-the-javascript-language-4369302/codespaces)
-
-## Skills Covered
-
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (5 videos)
+- **3. 2. Variables and Types** (6 videos)
+- **4. 3. Objects, Arrays, and More** (9 videos)
+- **5. 4. Operators and Control Structures** (8 videos)
+- **6. 5. Iterating with Loops** (4 videos)
+- **7. 6. Functions** (10 videos)
+- **8. 7. A Few More Advanced Pieces** (6 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Become conversant in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980)
@@ -195,7 +196,7 @@ created: 2026-04-21
 > **File Paths:** node.js (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Syntax: Learning to read and write
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/syntax-learning-to-read-and-write?u=76281980)
@@ -556,7 +557,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Variables and Types
+### 3. 2. Variables and Types
 
 #### Declaring and assigning variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/declaring-and-assigning-variables?u=76281980)
@@ -1156,7 +1157,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Objects, Arrays, and More
+### 4. 3. Objects, Arrays, and More
 
 #### Objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980)
@@ -2137,7 +2138,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Operators and Control Structures
+### 5. 4. Operators and Control Structures
 
 #### Simple comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980)
@@ -3319,7 +3320,7 @@ created: 2026-04-21
 > **Warnings:** warning (1)
 
 
-### 5. Iterating with Loops
+### 6. 5. Iterating with Loops
 
 #### For loops: Sequential
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980)
@@ -4057,7 +4058,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Functions
+### 7. 6. Functions
 
 #### Basic functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980)
@@ -5115,7 +5116,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. A Few More Advanced Pieces
+### 8. 7. A Few More Advanced Pieces
 
 #### Asynchronous code: Waiting is the hardest part
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980)
@@ -5524,7 +5525,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Continue your JavaScript development journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980)
@@ -5640,6 +5641,19 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Joe Chellman]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-the-javascript-language-4369302/codespaces)
+
+## Skills Covered
+
+- JavaScript
 
 ## Path Context
 

@@ -29,31 +29,37 @@ tags:
   - topic/data-science
   - skill/digital-marketing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Digital%20Marketing%20Foundations.md)
 
 ![Digital Marketing Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQFnSmisuneXVA/learning-public-crop_675_1200/B4EZlZfSJbHgAY-/0/1758142997337?e=2147483647&amp;v=beta&amp;t=2olnUg1DuyqFziWpU27CQFTb2FtXgRQUUB0wpqlU04c)
 
 # Digital Marketing Foundations
 
-> Learn how to promote your brand or business effectively online and develop a targeted marketing strategy that engages potential customers across the digital landscape. In this course, Brad Batesole articulates today's digital marketing techniques—including how to build a successful online marketing campaign across channels: Search, social media, email, and display.
-
-Learn how to build and connect 
+> Learn how to promote your brand or business effectively online and develop a targeted marketing strategy that engages potential customers across the digital landscape. In this course, Brad Batesole articulates today's digital marketing techniques—including how to build a successful online marketing campaign across channels: Search, social media, email, and display. Learn how to build and connect w
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022) | Beginner | 124K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brad Batesole]]
-
-## Skills Covered
-
-- Digital Marketing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Digital Marketing Framework** (4 videos)
+- **3. 2. Digital Marketing Basics** (7 videos)
+- **4. 3. Digital Marketing Key Concepts** (3 videos)
+- **5. 4. Digital Marketing Hub and Spokes** (5 videos)
+- **6. 5. Digital Marketing with Your Website** (3 videos)
+- **7. 6. Digital Marketing with Paid Channels** (4 videos)
+- **8. 7. Digital Marketing with Social Media** (3 videos)
+- **9. 8. Digital Marketing with Email** (4 videos)
+- **10. 9. Marketing Analytics Skills** (2 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Connecting with customers online
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/connecting-with-customers-online?u=76281980)
@@ -141,7 +147,7 @@ Learn how to build and connect
 > **Speakers:** - when (1)
 
 
-### 1. The Digital Marketing Framework
+### 2. 1. The Digital Marketing Framework
 
 #### The building blocks of digital marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-building-blocks-of-digital-marketing?u=76281980)
@@ -490,7 +496,7 @@ Learn how to build and connect
 > **Speakers:** - one (1)
 
 
-### 2. Digital Marketing Basics
+### 3. 2. Digital Marketing Basics
 
 #### How to develop a marketing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-a-marketing-strategy?u=76281980)
@@ -942,7 +948,7 @@ Learn how to build and connect
 > **Speakers:** - as (1)
 
 
-### 3. Digital Marketing Key Concepts
+### 4. 3. Digital Marketing Key Concepts
 
 #### Digital marketing: Persuading with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/digital-marketing-persuading-with-data?u=76281980)
@@ -1148,7 +1154,7 @@ Learn how to build and connect
 > **Speakers:** - the (1)
 
 
-### 4. Digital Marketing Hub and Spokes
+### 5. 4. Digital Marketing Hub and Spokes
 
 #### How to outline your online marketing presence
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-outline-your-online-marketing-presence?u=76281980)
@@ -1457,7 +1463,7 @@ Learn how to build and connect
 > **Speakers:** - if (1)
 
 
-### 5. Digital Marketing with Your Website
+### 6. 5. Digital Marketing with Your Website
 
 #### How to optimize your website
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-optimize-your-website?u=76281980)
@@ -1664,7 +1670,7 @@ Learn how to build and connect
 > **Speakers:** - every (1)
 
 
-### 6. Digital Marketing with Paid Channels
+### 7. 6. Digital Marketing with Paid Channels
 
 #### Introduction to paid advertising
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980)
@@ -1956,7 +1962,7 @@ Learn how to build and connect
 > **Speakers:** - text (1)
 
 
-### 7. Digital Marketing with Social Media
+### 8. 7. Digital Marketing with Social Media
 
 #### Social media marketing: First steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980)
@@ -2149,7 +2155,7 @@ Learn how to build and connect
 > **Speakers:** - social (1)
 
 
-### 8. Digital Marketing with Email
+### 9. 8. Digital Marketing with Email
 
 #### The power of email marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-power-of-email-marketing?u=76281980)
@@ -2405,7 +2411,7 @@ Learn how to build and connect
 > **Speakers:** - there (1)
 
 
-### 9. Marketing Analytics Skills
+### 10. 9. Marketing Analytics Skills
 
 #### How to decide what to track in marketing analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980)
@@ -2531,7 +2537,7 @@ Learn how to build and connect
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### How to continually build digital marketing skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980)
@@ -2569,6 +2575,14 @@ Learn how to build and connect
 > **Env Vars:** seo (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Brad Batesole]]
+
+## Skills Covered
+
+- Digital Marketing
 
 ## Path Context
 

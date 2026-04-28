@@ -35,8 +35,10 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Data%20Structures-%20Linked%20Lists.md)
 
 ![Python Data Structures: Linked Lists](https://media.licdn.com/dms/image/v2/D4D0DAQGux-kR88_Z9g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712710126604?e=2147483647&amp;v=beta&amp;t=aKsQLLn30aLMbPLAMK-bZbxQal72aUj4Kc1JdM9J-1M)
 
@@ -47,23 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506) | 1h 2m | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ryan Mitchell]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/python-data-structures-linked-lists-coderpad-3862042)
-
-## Skills Covered
-
-- Data Structures
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (4 videos)
+- **3. 2. Building Functionality** (4 videos)
+- **4. 3. Variations on a Theme** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The best dynamic Python data structure: Linked Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980)
@@ -214,7 +210,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Lists, Linked Lists, and Memory
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980)
@@ -612,7 +608,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Building Functionality
+### 3. 2. Building Functionality
 
 #### Searching
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980)
@@ -1001,7 +997,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Variations on a Theme
+### 4. 3. Variations on a Theme
 
 #### Circular Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/circular-lists?u=76281980)
@@ -1575,7 +1571,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980)
@@ -1610,6 +1606,20 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Ryan Mitchell]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/python-data-structures-linked-lists-coderpad-3862042)
+
+## Skills Covered
+
+- Data Structures
+- Python (Programming Language)
 
 ## Path Context
 

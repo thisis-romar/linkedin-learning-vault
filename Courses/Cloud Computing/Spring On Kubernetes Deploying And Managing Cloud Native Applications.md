@@ -32,8 +32,10 @@ tags:
   - skill/spring-boot
   - skill/kubernetes
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Spring%20On%20Kubernetes%20Deploying%20And%20Managing%20Cloud%20Native%20Applications.md)
 
 ![Spring On Kubernetes Deploying And Managing Cloud Native Applications](https://media.licdn.com/dms/image/v2/D4E0DAQGbScwnzErsnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726684715855?e=2147483647&amp;v=beta&amp;t=6m5UmFBAPLHndQQE3unqON2AfzkgHsLw4QWHxRVOhfc)
 
@@ -44,20 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications) | Advanced | 39K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications-5913242/codespaces)
-
-## Skills Covered
-
-- Cloud-Native Applications
-- Spring Boot
-- Kubernetes
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Cloud Native Spring** (9 videos)
+- **3. 2. Spring Images** (5 videos)
+- **4. 3. Deploying to Kubernetes** (7 videos)
+- **5. 4. Additional Topics** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Spring to Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980)
@@ -290,7 +290,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Cloud Native Spring
+### 2. 1. Cloud Native Spring
 
 #### Cloud native applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980)
@@ -1108,7 +1108,7 @@ created: 2026-04-21
 > **Tools:** terminal (1)
 
 
-### 2. Spring Images
+### 3. 2. Spring Images
 
 #### Containerized workloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980)
@@ -1471,7 +1471,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. Deploying to Kubernetes
+### 4. 3. Deploying to Kubernetes
 
 #### Deploying to Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/deploying-to-kubernetes?u=76281980)
@@ -2103,7 +2103,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Additional Topics
+### 5. 4. Additional Topics
 
 #### Testing strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980)
@@ -2369,7 +2369,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980)
@@ -2448,6 +2448,17 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - [frank] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications-5913242/codespaces)
+
+## Skills Covered
+
+- Cloud-Native Applications
+- Spring Boot
+- Kubernetes
 
 ## Path Context
 

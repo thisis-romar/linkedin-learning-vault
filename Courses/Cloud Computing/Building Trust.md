@@ -24,8 +24,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20Trust.md)
 
 ![Building Trust](https://media.licdn.com/dms/image/v2/C560DAQE5r4OF5kAUqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652379348816?e=2147483647&amp;v=beta&amp;t=6g5u8XgaGZhr0TAqeD0yEuT4Lg4T0y-LkHe_hgBZ7zc)
 
@@ -36,13 +38,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538) | 54m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brenda Bailey Hughes]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Competency: A Trust Driver** (1 videos)
+- **3. 2. Empathy: A Trust Driver** (4 videos)
+- **4. 3. Authenticity: A Trust Driver** (3 videos)
+- **5. 4. Team Trust** (3 videos)
+- **6. 5. Lost Trust** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why trust matters more than ever
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/why-trust-matters-more-than-ever?u=76281980)
@@ -158,7 +166,7 @@ created: 2026-04-21
 > **Speakers:** - trust (1)
 
 
-### 1. Competency: A Trust Driver
+### 2. 1. Competency: A Trust Driver
 
 #### Be results focused
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980)
@@ -288,7 +296,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 2. Empathy: A Trust Driver
+### 3. 2. Empathy: A Trust Driver
 
 #### Convey your warmth and concern
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/convey-your-warmth-and-concern?u=76281980)
@@ -635,7 +643,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Authenticity: A Trust Driver
+### 4. 3. Authenticity: A Trust Driver
 
 #### Make sure your actions match your words
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980)
@@ -892,7 +900,7 @@ created: 2026-04-21
 > **Speakers:** - wouldn (1)
 
 
-### 4. Team Trust
+### 5. 4. Team Trust
 
 #### Build team trust by extending trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/build-team-trust-by-extending-trust?u=76281980)
@@ -1134,7 +1142,7 @@ created: 2026-04-21
 > **Cross-References:** we discussed (1)
 
 
-### 5. Lost Trust
+### 6. 5. Lost Trust
 
 #### How to manage a betrayal
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/how-to-manage-a-betrayal?u=76281980)
@@ -1325,7 +1333,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Evolve with the shifting workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/evolve-with-the-shifting-workplace?u=76281980)
@@ -1353,6 +1361,10 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Brenda Bailey Hughes]]
 
 ## Path Context
 

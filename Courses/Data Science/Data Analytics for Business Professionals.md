@@ -44,37 +44,37 @@ tags:
   - skill/business-analytics
   - skill/data-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Analytics%20for%20Business%20Professionals.md)
 
 ![Data Analytics for Business Professionals](https://media.licdn.com/dms/image/v2/D4E0DAQGDjytYY4DQrw/learning-public-crop_675_1200/B4EZVsoYu0HUAY-/0/1741284282778?e=2147483647&amp;v=beta&amp;t=pwrhuLaYahIBKutaBUeSrK9LcrPlmiV4V1o960kMm0A)
 
 # Data Analytics for Business Professionals
 
-> Hearing the phrase “AI analytics” can sound daunting but don't fret. In this course, instructor John Johnson teaches you how to think about AI as a super tool that can make you more efficient and effective. Data analytics can help cut costs, speed up delivery, generate forecasts, and improve outcomes for your business over time.
- 
-
-Rather than trying to teach the complicated mathematical and stati
+> Hearing the phrase “AI analytics” can sound daunting but don't fret. In this course, instructor John Johnson teaches you how to think about AI as a super tool that can make you more efficient and effective. Data analytics can help cut costs, speed up delivery, generate forecasts, and improve outcomes for your business over time. Rather than trying to teach the complicated mathematical and statisti
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385) | 1h 20m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[John Johnson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Business Analytics
-- Data Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Data Analytics in the Business World** (8 videos)
+- **3. 2. Predictive and Prescriptive Analytics** (4 videos)
+- **4. 3. Asking the Right Questions** (4 videos)
+- **5. 4. Unlocking the Data Within** (4 videos)
+- **6. 5. Understanding Averages** (4 videos)
+- **7. 6. Sampling** (4 videos)
+- **8. 7. What Is Cherry Picking?** (3 videos)
+- **9. 8. Forecasting** (4 videos)
+- **10. 9. Correlation versus Causation** (4 videos)
+- **11. 10. Continuing Your Learning Journey in Data Analytics** (1 videos)
+
+### 1. Introduction
 
 #### Making data more useful
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980)
@@ -134,7 +134,7 @@ Rather than trying to teach the complicated mathematical and stati
 > **Speakers:** - data (1)
 
 
-### 1. Data Analytics in the Business World
+### 2. 1. Data Analytics in the Business World
 
 #### Business leaders and data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980)
@@ -562,7 +562,7 @@ Rather than trying to teach the complicated mathematical and stati
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Predictive and Prescriptive Analytics
+### 3. 2. Predictive and Prescriptive Analytics
 
 #### Predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980)
@@ -747,7 +747,7 @@ Rather than trying to teach the complicated mathematical and stati
 > **Speakers:** - let (1)
 
 
-### 3. Asking the Right Questions
+### 4. 3. Asking the Right Questions
 
 #### Guidelines for formulating questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/guidelines-for-formulating-questions?u=76281980)
@@ -967,7 +967,7 @@ Rather than trying to teach the complicated mathematical and stati
 > **Speakers:** - business (1)
 
 
-### 4. Unlocking the Data Within
+### 5. 4. Unlocking the Data Within
 
 #### Data-collection issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980)
@@ -1223,7 +1223,7 @@ Rather than trying to teach the complicated mathematical and stati
 > **Speakers:** - in (1)
 
 
-### 5. Understanding Averages
+### 6. 5. Understanding Averages
 
 #### Nature of averages
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/nature-of-averages?u=76281980)
@@ -1372,7 +1372,7 @@ Rather than trying to teach the complicated mathematical and stati
 > **Speakers:** - having (1)
 
 
-### 6. Sampling
+### 7. 6. Sampling
 
 #### Pros and cons
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/pros-and-cons?u=76281980)
@@ -1553,7 +1553,7 @@ Rather than trying to teach the complicated mathematical and stati
 > **Speakers:** - our (1)
 
 
-### 7. What Is Cherry Picking?
+### 8. 7. What Is Cherry Picking?
 
 #### What is cherry picking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980)
@@ -1728,7 +1728,7 @@ Rather than trying to teach the complicated mathematical and stati
 > **Speakers:** - so (1)
 
 
-### 8. Forecasting
+### 9. 8. Forecasting
 
 #### Hurricane Matthew
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980)
@@ -1933,7 +1933,7 @@ Rather than trying to teach the complicated mathematical and stati
 > **Speakers:** - we (1)
 
 
-### 9. Correlation versus Causation
+### 10. 9. Correlation versus Causation
 
 #### Cause and effect
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/cause-and-effect?u=76281980)
@@ -2103,7 +2103,7 @@ Rather than trying to teach the complicated mathematical and stati
 > **Speakers:** - in (1)
 
 
-### 10. Continuing Your Learning Journey in Data Analytics
+### 11. 10. Continuing Your Learning Journey in Data Analytics
 
 #### Continuing your learning journey in data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/continuing-your-data-analytics-learning-journey?u=76281980)
@@ -2131,6 +2131,19 @@ Rather than trying to teach the complicated mathematical and stati
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[John Johnson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Business Analytics
+- Data Analytics
 
 ## Path Context
 

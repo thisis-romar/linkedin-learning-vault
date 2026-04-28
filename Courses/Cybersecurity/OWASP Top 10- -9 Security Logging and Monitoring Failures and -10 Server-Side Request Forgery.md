@@ -28,8 +28,10 @@ tags:
   - skill/owasp
   - skill/web-application-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-9%20Security%20Logging%20and%20Monitoring%20Failures%20and%20-10%20Server-Side%20Request%20Forgery.md)
 
 ![OWASP Top 10: #9 Security Logging and Monitoring Failures and #10 Server-Side Request Forgery](https://media.licdn.com/dms/image/v2/D4E0DAQE0V039sXCgYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698100979131?e=2147483647&amp;v=beta&amp;t=mZX-fsDwfHm2OQMiVLk09StJxCjBBbTkZkLTvqraFUk)
 
@@ -40,18 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery) | 38m | Intermediate | 178K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Caroline Wong]]
-
-## Skills Covered
-
-- OWASP
-- Web Application Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Security Monitoring and Logging Failures** (6 videos)
+- **3. 2. Server-Side Request Forgery** (6 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### 2021 OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/2021-owasp-top-10?u=76281980)
@@ -113,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Security Monitoring and Logging Failures
+### 2. 1. Security Monitoring and Logging Failures
 
 #### What are security monitoring and logging failures?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980)
@@ -426,7 +426,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Server-Side Request Forgery
+### 3. 2. Server-Side Request Forgery
 
 #### What is Server-Side Request Forgery (SSRF)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980)
@@ -727,7 +727,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Explore more of the OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980)
@@ -763,6 +763,15 @@ created: 2026-04-21
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Caroline Wong]]
+
+## Skills Covered
+
+- OWASP
+- Web Application Security
 
 ## Path Context
 

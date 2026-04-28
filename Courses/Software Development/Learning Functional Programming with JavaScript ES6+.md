@@ -41,8 +41,10 @@ tags:
   - skill/javascript
   - skill/ecmascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Functional%20Programming%20with%20JavaScript%20ES6%2B.md)
 
 ![Learning Functional Programming with JavaScript ES6+](https://media.licdn.com/dms/image/v2/D4E0DAQHBDe-qSJ3vaQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734460645917?e=2147483647&amp;v=beta&amp;t=h4mbUjkb8iOcWM5Bc5zrZmRzeM1wRSkBGsepC50Xkpg)
 
@@ -53,26 +55,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838) | 3h 8m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shaun Wassell]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-functional-programming-with-javascript-es6---coderpad--4252164/codespaces)
-
-## Skills Covered
-
-- Programming
-- Web Development
-- Front-End Development
-- JavaScript
-- ECMAScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introductory Functional Concepts** (9 videos)
+- **3. 2. First-Class Functions** (9 videos)
+- **4. 3. JavaScript Array Manipulation** (10 videos)
+- **5. 4. Advanced Functional Concepts** (3 videos)
+- **6. 5. Code Conversion Challenges** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Functional programming will change the way you think about code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980)
@@ -195,7 +190,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 1. Introductory Functional Concepts
+### 2. 1. Introductory Functional Concepts
 
 #### The goal of functional programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980)
@@ -767,7 +762,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. First-Class Functions
+### 3. 2. First-Class Functions
 
 #### JavaScript arrow function syntax
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980)
@@ -1985,7 +1980,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### 3. JavaScript Array Manipulation
+### 4. 3. JavaScript Array Manipulation
 
 #### Basics of functional data manipulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980)
@@ -3249,7 +3244,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Advanced Functional Concepts
+### 5. 4. Advanced Functional Concepts
 
 #### Currying and partial application
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980)
@@ -3724,7 +3719,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 5. Code Conversion Challenges
+### 6. 5. Code Conversion Challenges
 
 #### Solution: Count occurrences
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-count-occurrences?u=76281980)
@@ -3733,7 +3728,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-anagrams?u=76281980)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps in your ES6+ journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/next-steps-in-your-es6-plus-journey?u=76281980)
@@ -3761,6 +3756,23 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Shaun Wassell]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-functional-programming-with-javascript-es6---coderpad--4252164/codespaces)
+
+## Skills Covered
+
+- Programming
+- Web Development
+- Front-End Development
+- JavaScript
+- ECMAScript
 
 ## Path Context
 

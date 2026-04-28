@@ -32,8 +32,10 @@ tags:
   - topic/network-and-system-administration
   - skill/it-strategic-planning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Creating%20Your%20IT%20Strategy.md)
 
 ![Creating Your IT Strategy](https://media.licdn.com/dms/image/v2/C4D0DAQF-ya9njt1iAg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589403154535?e=2147483647&amp;v=beta&amp;t=gpL-56UnJeWPsueTMhulpwIDTWMUZhLULVmw2yd5kC8)
 
@@ -44,21 +46,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy) | 45m | Advanced | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Peter High]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- IT Strategic Planning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Analyze the IT Function** (3 videos)
+- **3. 2. Redefining the IT Role** (3 videos)
+- **4. 3. Changing the Organizational Conversation** (4 videos)
+
+### 1. Introduction
 
 #### Why IT strategy matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980)
@@ -100,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - information (1)
 
 
-### 1. Analyze the IT Function
+### 2. 1. Analyze the IT Function
 
 #### The changing nature of the IT role
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980)
@@ -395,7 +392,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 2. Redefining the IT Role
+### 3. 2. Redefining the IT Role
 
 #### Creating an agile IT department
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980)
@@ -660,7 +657,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 3. Changing the Organizational Conversation
+### 4. 3. Changing the Organizational Conversation
 
 #### Creating an IT mission
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-it-mission-2?u=76281980)
@@ -1015,6 +1012,18 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - it (1)
 
+
+## Instructor
+
+- [[Peter High]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- IT Strategic Planning
 
 ## Path Context
 

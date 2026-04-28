@@ -21,8 +21,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Foundations-%20Accessibility.md)
 
 ![UX Foundations: Accessibility](https://media.licdn.com/dms/image/v2/C4E0DAQE8aHAaQbFcfQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567115647265?e=2147483647&amp;v=beta&amp;t=HouDOTxZsi8A_ZuAjqZV9ETz46XpjzUXYOEA00wddQI)
 
@@ -33,13 +35,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility) | 1h 20m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Derek Featherstone]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Accessibility?** (3 videos)
+- **3. 2. Accessibility by Example** (6 videos)
+- **4. 3. Tools and Techniques** (4 videos)
+- **5. 4. Personas for People with Disabilities** (6 videos)
+- **6. 5. Integrating Accessibility into Your UX Work and Process** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=76281980)
@@ -66,7 +74,7 @@ created: 2026-04-21
 > **Speakers:** - hi (1)
 
 
-### 1. What Is Accessibility?
+### 2. 1. What Is Accessibility?
 
 #### What is accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/what-is-accessibility?u=76281980)
@@ -362,7 +370,7 @@ created: 2026-04-21
 > **Speakers:** - user (1)
 
 
-### 2. Accessibility by Example
+### 3. 2. Accessibility by Example
 
 #### Managing flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980)
@@ -963,7 +971,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 3. Tools and Techniques
+### 4. 3. Tools and Techniques
 
 #### Overview of voice recognition software
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980)
@@ -1196,7 +1204,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Personas for People with Disabilities
+### 5. 4. Personas for People with Disabilities
 
 #### People are people
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980)
@@ -1743,7 +1751,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 5. Integrating Accessibility into Your UX Work and Process
+### 6. 5. Integrating Accessibility into Your UX Work and Process
 
 #### Accessibility in content strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980)
@@ -2091,7 +2099,7 @@ created: 2026-04-21
 > **Speakers:** - listen (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### More resources and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/more-resources-and-next-steps?u=76281980)
@@ -2124,6 +2132,10 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Derek Featherstone]]
 
 ## Path Context
 

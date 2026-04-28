@@ -6,8 +6,10 @@ linkedin_topic: IT Help Desk
 tags:
   - moc
   - topic/it-help-desk
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Topics/IT%20Help%20Desk.md)
 
 # IT Help Desk
 

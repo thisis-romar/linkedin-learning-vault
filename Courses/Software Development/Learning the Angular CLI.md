@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/angular-cli
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20the%20Angular%20CLI.md)
 
 ![Learning the Angular CLI](https://media.licdn.com/dms/image/v2/C4E0DAQFo3pQinIqAVg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1609964110780?e=2147483647&amp;v=beta&amp;t=QSIGEWFOmNwfT8Fve3CvGSglBgtCFZoEUhviCiNw_n0)
 
@@ -41,21 +43,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli) | 1h | Intermediate | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Victor Mejia]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Angular CLI
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Exploring the Angular CLI** (3 videos)
+- **3. 2. Updating Angular Versions** (3 videos)
+- **4. 3. Creating New Angular Projects** (6 videos)
+- **5. 4. Serving Angular Applications for Development** (2 videos)
+- **6. 5. Generating Angular Application Code** (9 videos)
+- **7. 6. Building Angular Applications** (5 videos)
+- **8. 7. Running Tests** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Maximize productivity with Angular CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980)
@@ -164,7 +166,7 @@ created: 2026-04-21
 > **Non-Speech:** (keyboard typing) (1)
 
 
-### 1. Exploring the Angular CLI
+### 2. 1. Exploring the Angular CLI
 
 #### What is the Angular CLI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980)
@@ -288,7 +290,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Updating Angular Versions
+### 3. 2. Updating Angular Versions
 
 #### Using the Angular Update Guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980)
@@ -537,7 +539,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Creating New Angular Projects
+### 4. 3. Creating New Angular Projects
 
 #### The ng new command
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980)
@@ -957,7 +959,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 4. Serving Angular Applications for Development
+### 5. 4. Serving Angular Applications for Development
 
 #### The ng serve command
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980)
@@ -1080,7 +1082,7 @@ created: 2026-04-21
 > **Versions:** 127.0.0 (1)
 
 
-### 5. Generating Angular Application Code
+### 6. 5. Generating Angular Application Code
 
 #### Creating new code with schematics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/creating-new-code-with-schematics?u=76281980)
@@ -1395,7 +1397,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Building Angular Applications
+### 7. 6. Building Angular Applications
 
 #### A build pipeline for an Angular app
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980)
@@ -1603,7 +1605,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 7. Running Tests
+### 8. 7. Running Tests
 
 #### Built-in test runner
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980)
@@ -1796,7 +1798,7 @@ created: 2026-04-21
 > **File Paths:** karma.conf.js (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980)
@@ -1823,6 +1825,18 @@ created: 2026-04-21
 > **URLs:** [github.com](https://github.com) (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Victor Mejia]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Angular CLI
 
 ## Path Context
 

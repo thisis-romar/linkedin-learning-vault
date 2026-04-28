@@ -31,8 +31,10 @@ tags:
   - skill/risk-frameworks
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Security%20Frameworks%20Fundamentals.md)
 
 ![Security Frameworks Fundamentals](https://media.licdn.com/dms/image/v2/C560DAQFsAcFjG7saUA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679520373754?e=2147483647&amp;v=beta&amp;t=XwPpIzq-QJxPi1KKk82DbBS-4zLbF1sZ9E3VU7Y51Fc)
 
@@ -43,18 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals) | 1h 16m | Beginner | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mandy Huth]]
-
-## Skills Covered
-
-- Risk Frameworks
-- Governance, Risk Management, and Compliance (GRC)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Frameworks, Regulation, and Risk** (6 videos)
+- **3. 2. Security Framework Deep Dive** (4 videos)
+- **4. 3. Framework Comparison** (4 videos)
+- **5. 4. The Core Security Set** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Security frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-frameworks?u=76281980)
@@ -254,7 +256,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Frameworks, Regulation, and Risk
+### 2. 1. Frameworks, Regulation, and Risk
 
 #### Major security frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980)
@@ -688,7 +690,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Security Framework Deep Dive
+### 3. 2. Security Framework Deep Dive
 
 #### PCI DSS and credit card payments
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/pci-dss-and-credit-card-payments?u=76281980)
@@ -1026,7 +1028,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Framework Comparison
+### 4. 3. Framework Comparison
 
 #### How the frameworks compare
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-the-frameworks-compare?u=76281980)
@@ -1267,7 +1269,7 @@ created: 2026-04-21
 > **Speakers:** - beginning (1)
 
 
-### 4. The Core Security Set
+### 5. 4. The Core Security Set
 
 #### Understanding control families and domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/understanding-control-families-and-domains?u=76281980)
@@ -1517,7 +1519,7 @@ created: 2026-04-21
 > **Speakers:** - being (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### How to get started
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-to-get-started?u=76281980)
@@ -1577,6 +1579,15 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [mandy] (1)
 
+
+## Instructor
+
+- [[Mandy Huth]]
+
+## Skills Covered
+
+- Risk Frameworks
+- Governance, Risk Management, and Compliance (GRC)
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Footprinting%20and%20Reconnaissance.md)
 
 ![Ethical Hacking: Footprinting and Reconnaissance](https://media.licdn.com/dms/image/v2/D4E0DAQH2SBvz5g8pzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697750217555?e=2147483647&amp;v=beta&amp;t=g9YE6XMzM_82uyZcACWBR0Sl2NNNFqj-aIAbqmLIupI)
 
@@ -41,21 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528) | 1h 55m | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Uncovering Information** (7 videos)
+- **3. 2. Using Email and Websites** (6 videos)
+- **4. 3. Searching the Network** (5 videos)
+- **5. 4. Discovering Reconnaissance Tools** (5 videos)
+- **6. 5. Footprinting Capstone** (4 videos)
+- **7. 6. Wrapping up the Recon** (4 videos)
+
+### 1. Introduction
 
 #### Scouting the target
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scouting-the-target?u=76281980)
@@ -129,7 +129,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Uncovering Information
+### 2. 1. Uncovering Information
 
 #### Footprinting and reconnaissance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980)
@@ -672,7 +672,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Using Email and Websites
+### 3. 2. Using Email and Websites
 
 #### Harvesting email addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980)
@@ -1135,7 +1135,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Searching the Network
+### 4. 3. Searching the Network
 
 #### Footprinting using DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980)
@@ -1582,7 +1582,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 4. Discovering Reconnaissance Tools
+### 5. 4. Discovering Reconnaissance Tools
 
 #### Using OSINT tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980)
@@ -1960,7 +1960,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Footprinting Capstone
+### 6. 5. Footprinting Capstone
 
 #### Conducting a forensic exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980)
@@ -2224,7 +2224,7 @@ created: 2026-04-21
 > **Speakers:** - [lisa] (1)
 
 
-### 6. Wrapping up the Recon
+### 7. 6. Wrapping up the Recon
 
 #### Guarding social media
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980)
@@ -2512,6 +2512,18 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Ethical Hacking
 
 ## Path Context
 

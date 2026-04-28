@@ -32,8 +32,10 @@ tags:
   - skill/sql
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Server%20Fundamentals-%20Master%20Basic%20Query%20Techniques.md)
 
 ![SQL Server Fundamentals: Master Basic Query Techniques](https://media.licdn.com/dms/image/v2/D4D0DAQFZ5RInMGc4Tw/learning-public-crop_675_1200/B4DZVN0T3.GkAY-/0/1740767314055?e=2147483647&amp;v=beta&amp;t=bw7wK_y3-_PGUDTr6XbTIa7GpVHo3qoY6fw0zS0A-Hw)
 
@@ -44,22 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques) | 1h 43m | Beginner | 29K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Julianne Thouin]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- SQL
-- Microsoft SQL Server
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to SQL Server and Relational Database Concepts** (4 videos)
+- **3. 2. Single Table Select Statements** (5 videos)
+- **4. 3. Multiple Table Select Statements** (6 videos)
+- **5. 4. Additional SQL Query Tools** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How can SQL answer your data questions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/how-can-sql-answer-your-data-questions?u=76281980)
@@ -126,7 +124,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to SQL Server and Relational Database Concepts
+### 2. 1. Introduction to SQL Server and Relational Database Concepts
 
 #### What is SQL Server?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980)
@@ -397,7 +395,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Single Table Select Statements
+### 3. 2. Single Table Select Statements
 
 #### SQL data types and nullability
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980)
@@ -968,7 +966,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Multiple Table Select Statements
+### 4. 3. Multiple Table Select Statements
 
 #### Inner joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/inner-joins?u=76281980)
@@ -1405,7 +1403,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Additional SQL Query Tools
+### 5. 4. Additional SQL Query Tools
 
 #### Case statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980)
@@ -2046,7 +2044,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980)
@@ -2070,6 +2068,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Julianne Thouin]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- SQL
+- Microsoft SQL Server
 
 ## Path Context
 

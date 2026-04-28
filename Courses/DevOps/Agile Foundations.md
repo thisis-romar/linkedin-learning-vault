@@ -36,8 +36,10 @@ tags:
   - skill/agile-project-management
   - skill/agile-methodologies
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Foundations.md)
 
 ![Agile Foundations](https://media.licdn.com/dms/image/v2/C560DAQFeIomnMEqrng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567122972439?e=2147483647&amp;v=beta&amp;t=v57Dj3hkjYef94zh2sLkW-xwlPcjrxn1gemANJBz5e4)
 
@@ -48,22 +50,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations) | 2h | 916K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Doug Rose]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Agile Project Management
-- Agile Methodologies
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Modern Software Development** (3 videos)
+- **3. 2. Have an Agile Mindset** (2 videos)
+- **4. 3. Individuals and Interactions** (7 videos)
+- **5. 4. Deliver Working Software** (3 videos)
+- **6. 5. Respond to Change** (5 videos)
+- **7. 6. Popular Agile Frameworks** (3 videos)
+- **8. 7. Improve Customer Collaboration** (5 videos)
+- **9. 8. Start an Agile Transformation** (2 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/understanding-agile-21059664?u=76281980)
@@ -94,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Modern Software Development
+### 2. 1. Modern Software Development
 
 #### The agile mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980)
@@ -383,7 +385,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 2. Have an Agile Mindset
+### 3. 2. Have an Agile Mindset
 
 #### The agile manifesto: Values
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-values-21064155?u=76281980)
@@ -535,7 +537,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Individuals and Interactions
+### 4. 3. Individuals and Interactions
 
 #### The cost of multitasking
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980)
@@ -1052,7 +1054,7 @@ created: 2026-04-21
 > **Speakers:** - user (1)
 
 
-### 4. Deliver Working Software
+### 5. 4. Deliver Working Software
 
 #### Start with the highest value
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980)
@@ -1256,7 +1258,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 5. Respond to Change
+### 6. 5. Respond to Change
 
 #### Inspect and adapt
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980)
@@ -1655,7 +1657,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 6. Popular Agile Frameworks
+### 7. 6. Popular Agile Frameworks
 
 #### Scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/scrum-overview-21058741?u=76281980)
@@ -1893,7 +1895,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 7. Improve Customer Collaboration
+### 8. 7. Improve Customer Collaboration
 
 #### Common roles on the team
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/common-roles-on-the-team-21064152?u=76281980)
@@ -2269,7 +2271,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 8. Start an Agile Transformation
+### 9. 8. Start an Agile Transformation
 
 #### Major agile challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/major-agile-challenges-21062182?u=76281980)
@@ -2424,7 +2426,7 @@ created: 2026-04-21
 > **Speakers:** - with (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Continuing with agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980)
@@ -2461,6 +2463,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Doug Rose]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Agile Project Management
+- Agile Methodologies
 
 ## Path Context
 

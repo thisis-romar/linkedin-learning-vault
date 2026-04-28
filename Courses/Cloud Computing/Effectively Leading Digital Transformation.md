@@ -22,25 +22,33 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Effectively%20Leading%20Digital%20Transformation.md)
 
 ![Effectively Leading Digital Transformation](https://media.licdn.com/dms/image/v2/D560DAQEgK74eSGpfkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696014828986?e=2147483647&amp;v=beta&amp;t=p5WrrQaMgJeBfvY7u-oUhPuYxBMcdWGnoMI-RgzLWxQ)
 
 # Effectively Leading Digital Transformation
 
-> Organizations must radically transform their processes as new tools and systems continue to roll out. What is driving this revolution?  How can you help your organization prepare? How can YOU prepare? In this course, senior-level learning and development professional Phil Gold highlights how you can lead your business to success as you implement more digital transformations of workflows and system
+> Organizations must radically transform their processes as new tools and systems continue to roll out. What is driving this revolution? How can you help your organization prepare? How can YOU prepare? In this course, senior-level learning and development professional Phil Gold highlights how you can lead your business to success as you implement more digital transformations of workflows and systems
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673) | 1h 23m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Phil Gold]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Background for Business Transformation** (6 videos)
+- **3. 2. Blockers to Successful Transformation** (4 videos)
+- **4. 3. Preparing for Your Transformation** (6 videos)
+- **5. 4. AI in the Workplace** (6 videos)
+- **6. 5. Beyond the Launch** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Being a leader in business transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/being-a-leader-in-business-transformation?u=76281980)
@@ -109,7 +117,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Background for Business Transformation
+### 2. 1. Background for Business Transformation
 
 #### Living in an age of disruption
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/living-in-an-age-of-disruption?u=76281980)
@@ -472,7 +480,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Blockers to Successful Transformation
+### 3. 2. Blockers to Successful Transformation
 
 #### Not understanding the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/not-understanding-the-problem?u=76281980)
@@ -717,7 +725,7 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 
 
-### 3. Preparing for Your Transformation
+### 4. 3. Preparing for Your Transformation
 
 #### Identifying what's broken
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/identifying-what-s-broken?u=76281980)
@@ -1061,7 +1069,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. AI in the Workplace
+### 5. 4. AI in the Workplace
 
 #### Defining AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/defining-ai?u=76281980)
@@ -1397,7 +1405,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Beyond the Launch
+### 6. 5. Beyond the Launch
 
 #### Explaining in plain language
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/explaining-in-plain-language?u=76281980)
@@ -1668,7 +1676,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/next-steps?u=76281980)
@@ -1704,6 +1712,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - just (1)
 
+
+## Instructor
+
+- [[Phil Gold]]
 
 ## Path Context
 

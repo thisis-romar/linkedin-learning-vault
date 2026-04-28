@@ -39,8 +39,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Software%20Testing%20Assistance%20with%20GitHub%20Copilot%20AI.md)
 
 ![Software Testing Assistance with GitHub Copilot AI](https://media.licdn.com/dms/image/v2/D560DAQGFjs4Kmb0Kzg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724431008438?e=2147483647&amp;v=beta&amp;t=DDT7dUamNhtod1CfmaAd4XM317xt1nmzouoccrmbf5E)
 
@@ -51,25 +53,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai) | 1h 16m | Intermediate | 82K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gary Kovar]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/software-testing-assistance-with-GitHub-Copilot-AI-3904213/codespaces)
-
-## Skills Covered
-
-- Software Testing
-- AI Software Development
-- Artificial Intelligence (AI)
-- GitHub Copilot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Overview** (6 videos)
+- **3. 2. Adding Tests to Existing Code with Copilot** (4 videos)
+- **4. 3. Use Copilot to Generate Code from Tests** (3 videos)
+- **5. 4. Real-World Benefits** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Software testing assistance with GitHub Copilot AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/software-testing-assistance-with-github-copilot-ai?u=76281980)
@@ -150,7 +145,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Overview
+### 2. 1. Overview
 
 #### What is GitHub Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980)
@@ -644,7 +639,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Adding Tests to Existing Code with Copilot
+### 3. 2. Adding Tests to Existing Code with Copilot
 
 #### Identifying testable code
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/identifying-testable-code?u=76281980)
@@ -1141,7 +1136,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Use Copilot to Generate Code from Tests
+### 4. 3. Use Copilot to Generate Code from Tests
 
 #### Write your tests to document business logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980)
@@ -1469,7 +1464,7 @@ created: 2026-04-21
 > **Speakers:** - copilot (1)
 
 
-### 4. Real-World Benefits
+### 5. 4. Real-World Benefits
 
 #### Code quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/code-quality?u=76281980)
@@ -1776,7 +1771,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980)
@@ -1803,6 +1798,22 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Gary Kovar]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/software-testing-assistance-with-GitHub-Copilot-AI-3904213/codespaces)
+
+## Skills Covered
+
+- Software Testing
+- AI Software Development
+- Artificial Intelligence (AI)
+- GitHub Copilot
 
 ## Path Context
 

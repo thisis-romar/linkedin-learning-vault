@@ -33,8 +33,10 @@ tags:
   - skill/digital-authentication
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/PHP-%20User%20Authentication.md)
 
 ![PHP: User Authentication](https://media.licdn.com/dms/image/v2/C4E0DAQFloSykEzyuZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630601162735?e=2147483647&amp;v=beta&amp;t=IMAwMAd1iIz9kPfdmDaShrr20m40ryqsJvlAa9tVz7U)
 
@@ -45,23 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication) | 1h 28m | Intermediate | 35K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Skoglund]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/php-user-authentication-2892138)
-
-## Skills Covered
-
-- Digital Authentication
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. User Authentication Overview** (2 videos)
+- **3. 2. Implementing User Authentication in PHP** (8 videos)
+- **4. 3. Working with Strong Passwords** (3 videos)
+- **5. 4. Securing User Authentication** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Restricting user access in PHP applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/restricting-user-access-in-php-applications?u=76281980)
@@ -140,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. User Authentication Overview
+### 2. 1. User Authentication Overview
 
 #### Identification and access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980)
@@ -316,7 +313,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Implementing User Authentication in PHP
+### 3. 2. Implementing User Authentication in PHP
 
 #### Creating the database table
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980)
@@ -1515,7 +1512,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Working with Strong Passwords
+### 4. 3. Working with Strong Passwords
 
 #### Password requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980)
@@ -1932,7 +1929,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Securing User Authentication
+### 5. 4. Securing User Authentication
 
 #### Preventing IDOR
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980)
@@ -2490,7 +2487,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980)
@@ -2521,6 +2518,20 @@ created: 2026-04-21
 > **Env Vars:** php (3)
 > **Speakers:** - [kevin] (1)
 
+
+## Instructor
+
+- [[Kevin Skoglund]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/php-user-authentication-2892138)
+
+## Skills Covered
+
+- Digital Authentication
+- PHP
 
 ## Path Context
 

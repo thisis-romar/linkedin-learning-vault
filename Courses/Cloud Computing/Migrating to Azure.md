@@ -23,8 +23,10 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Migrating%20to%20Azure.md)
 
 ![Migrating to Azure](https://media.licdn.com/dms/image/v2/C4E0DAQGeYa1VQBMDyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615309726156?e=2147483647&amp;v=beta&amp;t=26cH1vuDrmGXawS7YlKpoudC2P4s2bGtjItAg635gmk)
 
@@ -35,13 +37,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure) | 1h 40m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[James Millar]]
-
 ## Table of Contents
 
-### 1. Starting Your Cloud Journey
+### Chapter Overview
+
+- **1. 1. Starting Your Cloud Journey** (6 videos)
+- **2. 2. Becoming Azure Ready** (6 videos)
+- **3. 3. Beginning Your Azure Migration** (6 videos)
+- **4. 4. Innovating with Azure Cloud Services** (6 videos)
+
+### 1. 1. Starting Your Cloud Journey
 
 #### Introducing the scenario
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980)
@@ -657,7 +662,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Becoming Azure Ready
+### 2. 2. Becoming Azure Ready
 
 #### Organizing resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980)
@@ -1302,7 +1307,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Beginning Your Azure Migration
+### 3. 3. Beginning Your Azure Migration
 
 #### Exploring migration scenarios
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980)
@@ -1836,7 +1841,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Innovating with Azure Cloud Services
+### 4. 4. Innovating with Azure Cloud Services
 
 #### Start innovating
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980)
@@ -2408,6 +2413,10 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[James Millar]]
 
 ## Path Context
 

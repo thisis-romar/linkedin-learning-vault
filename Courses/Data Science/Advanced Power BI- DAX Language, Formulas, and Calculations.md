@@ -21,8 +21,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Power%20BI-%20DAX%20Language%2C%20Formulas%2C%20and%20Calculations.md)
 
 ![Advanced Power BI: DAX Language, Formulas, and Calculations](https://media.licdn.com/dms/image/v2/D560DAQHnNg5EA08s6g/learning-public-crop_675_1200/B56ZwAWLKGHQAY-/0/1769532339395?e=2147483647&amp;v=beta&amp;t=U-rR08UzMmxG8yCW8uRtxCoeQl86tg5hIYtO5afuyKM)
 
@@ -33,13 +35,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476) | 2h 8m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Helen Wall]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. DAX Overview** (5 videos)
+- **3. 2. Measures** (7 videos)
+- **4. 3. Time Intelligence** (10 videos)
+- **5. 4. Advanced DAX** (7 videos)
+- **6. 5. Advanced DAX Calculations** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Explore advanced features of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/explore-advanced-features-of-power-bi?u=76281980)
@@ -60,7 +68,7 @@ created: 2026-04-21
 > **Env Vars:** dax (1)
 
 
-### 1. DAX Overview
+### 2. 1. DAX Overview
 
 #### DAX intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980)
@@ -349,7 +357,7 @@ created: 2026-04-21
 > **Env Vars:** dax (1)
 
 
-### 2. Measures
+### 3. 2. Measures
 
 #### DAX measures
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980)
@@ -848,7 +856,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 3. Time Intelligence
+### 4. 3. Time Intelligence
 
 #### CALENDAR and CALENDARAUTO
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980)
@@ -1355,7 +1363,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 4. Advanced DAX
+### 5. 4. Advanced DAX
 
 #### ALL and ALLSELECTED DAX function
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980)
@@ -1825,7 +1833,7 @@ created: 2026-04-21
 > **Env Vars:** dax (1)
 
 
-### 5. Advanced DAX Calculations
+### 6. 5. Advanced DAX Calculations
 
 #### TMDL View
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/tmdl-view?u=76281980)
@@ -2089,7 +2097,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980)
@@ -2116,6 +2124,10 @@ created: 2026-04-21
 > **Code Keywords:** continue (1), public (1)
 > **CLI Commands:** python (1)
 
+
+## Instructor
+
+- [[Helen Wall]]
 
 ## Path Context
 

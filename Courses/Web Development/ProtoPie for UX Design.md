@@ -30,35 +30,32 @@ tags:
   - skill/user-experience-design-ued
   - skill/protopie
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/ProtoPie%20for%20UX%20Design.md)
 
 ![ProtoPie for UX Design](https://media.licdn.com/dms/image/v2/C560DAQEqLK7R7bdWHg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634060303945?e=2147483647&amp;v=beta&amp;t=VMi_D0BVPl_HVc9Zol5g6z_DG4AkF956zQbQJ9StPlI)
 
 # ProtoPie for UX Design
 
-> ProtoPie is a code-free prototyping tool that helps you build highly-interactive prototypes 
-for mobile apps easily and quickly, so you can share your designs with clients and colleagues on any device. In this course, Ronnie McBride starts with the basics of ProtoPie, from installation to an overview of the prototyping interface to the core concept that drives the interactive methodology of ProtoP
+> ProtoPie is a code-free prototyping tool that helps you build highly-interactive prototypes for mobile apps easily and quickly, so you can share your designs with clients and colleagues on any device. In this course, Ronnie McBride starts with the basics of ProtoPie, from installation to an overview of the prototyping interface to the core concept that drives the interactive methodology of ProtoPi
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design) | 1h 6m | Intermediate | 101K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ronnie McBride]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- User Experience Design (UED)
-- ProtoPie
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Exploring the Interface** (3 videos)
+- **3. 2. Interaction Basics** (5 videos)
+- **4. 3. Formulas** (1 videos)
+- **5. 4. Components** (1 videos)
+- **6. 5. Exporting and Sharing** (3 videos)
+
+### 1. Introduction
 
 #### What to expect from this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/what-to-expect-from-this-course?u=76281980)
@@ -105,7 +102,7 @@ for mobile apps easily and quickly, so you can share your designs with clients a
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Exploring the Interface
+### 2. 1. Exploring the Interface
 
 #### Reviewing the Jumpstart screen
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980)
@@ -474,7 +471,7 @@ for mobile apps easily and quickly, so you can share your designs with clients a
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Interaction Basics
+### 3. 2. Interaction Basics
 
 #### Importing assets
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980)
@@ -1124,7 +1121,7 @@ for mobile apps easily and quickly, so you can share your designs with clients a
 > **Non-Speech:** (hard typing sound) (1)
 
 
-### 3. Formulas
+### 4. 3. Formulas
 
 #### Formula and variables basic overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/formula-and-variables-basic-overview?u=76281980)
@@ -1223,7 +1220,7 @@ for mobile apps easily and quickly, so you can share your designs with clients a
 > **Speakers:** - [educator] (1)
 
 
-### 4. Components
+### 5. 4. Components
 
 #### Component basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/component-basics?u=76281980)
@@ -1333,7 +1330,7 @@ for mobile apps easily and quickly, so you can share your designs with clients a
 > **Speakers:** - components (1)
 
 
-### 5. Exporting and Sharing
+### 6. 5. Exporting and Sharing
 
 #### ProtoPie Player
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-player?u=76281980)
@@ -1533,6 +1530,19 @@ for mobile apps easily and quickly, so you can share your designs with clients a
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (mouse clicking) (1)
 
+
+## Instructor
+
+- [[Ronnie McBride]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- User Experience Design (UED)
+- ProtoPie
 
 ## Path Context
 

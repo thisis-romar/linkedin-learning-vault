@@ -37,8 +37,10 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20with%20Python-%20Association%20Rules.md)
 
 ![Machine Learning with Python: Association Rules](https://media.licdn.com/dms/image/v2/D4D0DAQGqEROTjtWi6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707245316436?e=2147483647&amp;v=beta&amp;t=R3fI7ZkwTMXbt5LGImFayQOPzqqlXGbp6e5uBeBMVt4)
 
@@ -49,23 +51,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules) | 1h 27m | Intermediate | 207K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Frederick Nwanganga]]
-
-## Resources
-
-- [GitHub Repository](https://github.com/LinkedInLearning/machine-learning-with-python-association-rules-3209139/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Machine Learning
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Association Rules** (6 videos)
+- **3. 2. Discovering Patterns with Association Rules** (4 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Association rule mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/association-rule-mining?u=76281980)
@@ -320,7 +315,7 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 
 
-### 1. Association Rules
+### 2. 1. Association Rules
 
 #### What are association rules?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-are-association-rules?u=76281980)
@@ -964,7 +959,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Discovering Patterns with Association Rules
+### 3. 2. Discovering Patterns with Association Rules
 
 #### How to collect data for association rule mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980)
@@ -1687,7 +1682,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980)
@@ -1735,6 +1730,20 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Frederick Nwanganga]]
+
+## Resources
+
+- [GitHub Repository](https://github.com/LinkedInLearning/machine-learning-with-python-association-rules-3209139/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Machine Learning
+- Artificial Intelligence (AI)
 
 ## Path Context
 

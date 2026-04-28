@@ -30,8 +30,10 @@ tags:
   - skill/network-forensics
   - skill/network-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Network%20Forensics.md)
 
 ![Network Forensics](https://media.licdn.com/dms/image/v2/D4D0DAQHM5cX6efqsgw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731113345222?e=2147483647&amp;v=beta&amp;t=LZ2Xs4EhCvkuZS-Q2zWN1ilB4jU3Zk7nUFnJ8PG4qLA)
 
@@ -42,18 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106) | 1h 59m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jungwoo Ryoo]]
-
-## Skills Covered
-
-- Network Forensics
-- Network Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding Network Forensics** (7 videos)
+- **3. 2. Preparing for a Network Forensics Investigation** (7 videos)
+- **4. 3. Investigating Network Events** (10 videos)
+- **5. 4. Investigating Network Traffic** (8 videos)
+- **6. 5. Network Forensics Tools** (8 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning network forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980)
@@ -115,7 +118,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 1. Understanding Network Forensics
+### 2. 1. Understanding Network Forensics
 
 #### Goals of network forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980)
@@ -472,7 +475,7 @@ created: 2026-04-21
 > **Non-Speech:** (bouncy upbeat music) (1)
 
 
-### 2. Preparing for a Network Forensics Investigation
+### 3. 2. Preparing for a Network Forensics Investigation
 
 #### Network forensics investigation hardware
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980)
@@ -802,7 +805,7 @@ created: 2026-04-21
 > **Non-Speech:** (techno upbeat music) (1)
 
 
-### 3. Investigating Network Events
+### 4. 3. Investigating Network Events
 
 #### Network logs
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980)
@@ -1281,7 +1284,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Investigating Network Traffic
+### 5. 4. Investigating Network Traffic
 
 #### Fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980)
@@ -1706,7 +1709,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Network Forensics Tools
+### 6. 5. Network Forensics Tools
 
 #### tcpdump and WinDump
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980)
@@ -2316,7 +2319,7 @@ created: 2026-04-21
 > **File Paths:** sample.pcap.csv (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980)
@@ -2337,6 +2340,15 @@ created: 2026-04-21
 >
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Jungwoo Ryoo]]
+
+## Skills Covered
+
+- Network Forensics
+- Network Security
 
 ## Path Context
 

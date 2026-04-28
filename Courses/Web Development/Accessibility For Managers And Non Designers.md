@@ -17,8 +17,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Accessibility%20For%20Managers%20And%20Non%20Designers.md)
 
 ![Accessibility For Managers And Non Designers](https://media.licdn.com/dms/image/v2/D560DAQH7iq_SqUMDxg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682106959044?e=2147483647&amp;v=beta&amp;t=pTa6KdFvLAGaYsg-ENpMmkT8p35Odajf9r2PLuYce5U)
 
@@ -31,7 +33,17 @@ created: 2026-04-21
 
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Breaking Down Accessibility** (5 videos)
+- **3. 2. Developing Accessible Products** (7 videos)
+- **4. 3. Testing for Accessibility** (3 videos)
+- **5. 4. Leading Designers and Developers** (5 videos)
+- **6. 5. Leveraging Accessibility** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Accessibility for managers and non-designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessibility-for-managers-and-non-designers?u=76281980)
@@ -330,7 +342,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Breaking Down Accessibility
+### 2. 1. Breaking Down Accessibility
 
 #### Designing for accessible visual perception
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-accessible-visual-perception?u=76281980)
@@ -698,7 +710,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Developing Accessible Products
+### 3. 2. Developing Accessible Products
 
 #### Development standards for accessible products
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980)
@@ -1203,7 +1215,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Testing for Accessibility
+### 4. 3. Testing for Accessibility
 
 #### Testing with impacted users
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980)
@@ -1434,7 +1446,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Leading Designers and Developers
+### 5. 4. Leading Designers and Developers
 
 #### Creating an inclusive-conscious environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980)
@@ -1747,7 +1759,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Leveraging Accessibility
+### 6. 5. Leveraging Accessibility
 
 #### Making a11y features visible to all users
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980)
@@ -1873,7 +1885,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980)

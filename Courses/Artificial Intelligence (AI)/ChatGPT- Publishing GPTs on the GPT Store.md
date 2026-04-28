@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ChatGPT-%20Publishing%20GPTs%20on%20the%20GPT%20Store.md)
 
 ![ChatGPT: Publishing GPTs on the GPT Store](https://media.licdn.com/dms/image/v2/D560DAQHiK69n7JAOYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705194262010?e=2147483647&amp;v=beta&amp;t=Kpt4S9Ij2xn0Ec7zoz_SE6EagkZ0P8oE9YMWMe8Dmzw)
 
@@ -42,19 +44,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store) | 20m | 58K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Skills Covered
-
-- Chatbot Development
-- Artificial Intelligence (AI)
-- ChatGPT
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Publishing GPTs in the GPT Store** (5 videos)
+- **3. 2. Going further** (1 videos)
+
+### 1. Introduction
 
 #### Introducing the GPT Store
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/publishing-your-gpts-in-the-gpt-store?u=76281980)
@@ -83,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - custom (1)
 
 
-### 1. Publishing GPTs in the GPT Store
+### 2. 1. Publishing GPTs in the GPT Store
 
 #### What is the GPT Store?
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/what-is-the-gpt-store?u=76281980)
@@ -606,7 +604,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Going further
+### 3. 2. Going further
 
 #### Going further with GPTs
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/going-further-with-gpts?u=76281980)
@@ -639,6 +637,16 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - and (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Skills Covered
+
+- Chatbot Development
+- Artificial Intelligence (AI)
+- ChatGPT
 
 ## Path Context
 

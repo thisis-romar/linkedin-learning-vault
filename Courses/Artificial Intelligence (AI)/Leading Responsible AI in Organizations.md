@@ -24,8 +24,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leading%20Responsible%20AI%20in%20Organizations.md)
 
 ![Leading Responsible AI in Organizations](https://media.licdn.com/dms/image/v2/D4D0DAQGAzr3RwcnrGg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707874444981?e=2147483647&amp;v=beta&amp;t=agRc5pFjykSE7ocbU9dilngVoh13lhasaJ5C1BuonpA)
 
@@ -36,13 +38,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations) | 39m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Elizabeth M. Adams]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Key Factors to Build a Responsible AI Culture** (12 videos)
+
+### 1. Introduction
 
 #### Leading responsible AI in organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980)
@@ -67,7 +70,7 @@ created: 2026-04-21
 > **Speakers:** - business (1)
 
 
-### 1. Key Factors to Build a Responsible AI Culture
+### 2. 1. Key Factors to Build a Responsible AI Culture
 
 #### Leading responsible AI with ethics as core values
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980)
@@ -780,6 +783,10 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 > **Speakers:** - responsible (1)
 
+
+## Instructor
+
+- [[Elizabeth M. Adams]]
 
 ## Path Context
 

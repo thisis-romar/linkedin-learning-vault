@@ -31,8 +31,10 @@ tags:
   - skill/resiliency
   - skill/wellness
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20Resilience.md)
 
 ![Building Resilience](https://media.licdn.com/dms/image/v2/D560DAQEDqP9ioDWOhA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722026406857?e=2147483647&amp;v=beta&amp;t=goVZPDa8SOs2sYUiUhL7SK7kLrZdf1S0nZoOg-X1ioI)
 
@@ -43,23 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480) | 43m | 310K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emily Anhalt]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Grit
-- Resiliency
-- Wellness
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Making Meaning for More Resilience** (3 videos)
+- **3. 2. Build Emotional Agility for Resilience** (8 videos)
+- **4. 3. Build Your Support System for More Resilience** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Thrive by building resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/thrive-by-building-resilience?u=76281980)
@@ -93,7 +89,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### 1. Making Meaning for More Resilience
+### 2. 1. Making Meaning for More Resilience
 
 #### What does it mean to be resilient?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/what-does-it-mean-to-be-resilient?u=76281980)
@@ -319,7 +315,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 2. Build Emotional Agility for Resilience
+### 3. 2. Build Emotional Agility for Resilience
 
 #### Increase mental agility and flexibility to build resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/increase-mental-agility-flexibility-to-build-resilience?u=76281980)
@@ -929,7 +925,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### 3. Build Your Support System for More Resilience
+### 4. 3. Build Your Support System for More Resilience
 
 #### Assessing and building internal resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980)
@@ -1164,7 +1160,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Break an emotional sweat
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/break-an-emotional-sweat?u=76281980)
@@ -1205,6 +1201,20 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Emily Anhalt]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Grit
+- Resiliency
+- Wellness
 
 ## Path Context
 

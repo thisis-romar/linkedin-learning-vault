@@ -33,28 +33,35 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Devops%20Foundations.md)
 
 ![Devops Foundations](https://media.licdn.com/dms/image/v2/D560DAQEP0x26XHV_6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707936080464?e=2147483647&amp;v=beta&amp;t=eY0oG3GST15nq73m3MDYw7vwjkIV9T-Q8yTLGvUyWAA)
 
 # Devops Foundations
 
-> DevOps ensures collaboration and communication between software engineers (Dev) and IT operations (Ops). With DevOps, changes make it to production faster. Resources are easier to share. And large-scale systems are easier to manage and maintain.
- 
-In this course, well-known DevOps practitioners Ernest Mueller and James Wickett provide an overview of the DevOps movement, focusing on the core value 
+> DevOps ensures collaboration and communication between software engineers (Dev) and IT operations (Ops). With DevOps, changes make it to production faster. Resources are easier to share. And large-scale systems are easier to manage and maintain. In this course, well-known DevOps practitioners Ernest Mueller and James Wickett provide an overview of the DevOps movement, focusing on the core value of
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205)
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ernest Mueller]]
-- [[James Wickett]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. DevOps Basics** (5 videos)
+- **3. 2. DevOps and People: A Culture Change** (4 videos)
+- **4. 3. DevOps and Process: The Building Blocks** (3 videos)
+- **5. 4. Infrastructure as Code** (5 videos)
+- **6. 5. Continuous Delivery** (6 videos)
+- **7. 6. Site Reliability Engineering** (6 videos)
+- **8. 7. Advanced Topics** (6 videos)
+- **9. 8. Your DevOps Career** (3 videos)
+
+### 1. Introduction
 
 #### The foundations of DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980)
@@ -88,7 +95,7 @@ In this course, well-known DevOps practitioners Ernest Mueller and James Wickett
 > **Definitions:** is a  (1)
 
 
-### 1. DevOps Basics
+### 2. 1. DevOps Basics
 
 #### What is DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980)
@@ -563,7 +570,7 @@ In this course, well-known DevOps practitioners Ernest Mueller and James Wickett
 > **Prerequisites:** install (1)
 
 
-### 2. DevOps and People: A Culture Change
+### 3. 2. DevOps and People: A Culture Change
 
 #### Why do we need a DevOps culture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980)
@@ -1010,7 +1017,7 @@ In this course, well-known DevOps practitioners Ernest Mueller and James Wickett
 > **Code Keywords:** function (1)
 
 
-### 3. DevOps and Process: The Building Blocks
+### 4. 3. DevOps and Process: The Building Blocks
 
 #### DevOps process building block: Agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980)
@@ -1342,7 +1349,7 @@ In this course, well-known DevOps practitioners Ernest Mueller and James Wickett
 > **Speakers:** - welcome (1)
 
 
-### 4. Infrastructure as Code
+### 5. 4. Infrastructure as Code
 
 #### What is infrastructure as code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980)
@@ -1844,7 +1851,7 @@ In this course, well-known DevOps practitioners Ernest Mueller and James Wickett
 > **Cross-References:** earlier in (1)
 
 
-### 5. Continuous Delivery
+### 6. 5. Continuous Delivery
 
 #### What is continuous delivery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980)
@@ -2576,7 +2583,7 @@ In this course, well-known DevOps practitioners Ernest Mueller and James Wickett
 > **Env Vars:** npm (1), iac (1)
 
 
-### 6. Site Reliability Engineering
+### 7. 6. Site Reliability Engineering
 
 #### What is site reliability engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980)
@@ -3141,7 +3148,7 @@ In this course, well-known DevOps practitioners Ernest Mueller and James Wickett
 > **Best Practices:** the key is (1)
 
 
-### 7. Advanced Topics
+### 8. 7. Advanced Topics
 
 #### Platform engineering: The paved road
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980)
@@ -3807,7 +3814,7 @@ In this course, well-known DevOps practitioners Ernest Mueller and James Wickett
 > **Best Practices:** pro tip (1)
 
 
-### 8. Your DevOps Career
+### 9. 8. Your DevOps Career
 
 #### DevOps and your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980)
@@ -4044,6 +4051,11 @@ In this course, well-known DevOps practitioners Ernest Mueller and James Wickett
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
+
+## Instructor
+
+- [[Ernest Mueller]]
+- [[James Wickett]]
 
 ## Path Context
 

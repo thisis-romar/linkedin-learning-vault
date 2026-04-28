@@ -29,8 +29,10 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Analysis%20Using%20Python%20in%20Excel%20Copilot.md)
 
 ![Advanced Analysis Using Python in Excel Copilot](https://media.licdn.com/dms/image/v2/D560DAQEMwz5GY4Vb5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726771013304?e=2147483647&amp;v=beta&amp;t=yOQG5dp9yHEBzueeJdAyqzAUVToujDeFi18clqksaWA)
 
@@ -41,22 +43,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot) | 18m | Intermediate | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott Simpson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Advanced Analysis** (3 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Advanced analysis using Python in Excel Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/advanced-analysis-using-python-in-excel-copilot?u=76281980)
@@ -165,7 +160,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Advanced Analysis
+### 2. 1. Advanced Analysis
 
 #### Using advanced analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980)
@@ -433,7 +428,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/next-steps?u=76281980)
@@ -476,6 +471,19 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - advanced (1)
 
+
+## Instructor
+
+- [[Scott Simpson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Microsoft Excel
 
 ## Path Context
 

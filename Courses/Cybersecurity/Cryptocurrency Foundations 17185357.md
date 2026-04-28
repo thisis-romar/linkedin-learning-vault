@@ -25,8 +25,10 @@ tags:
   - topic/data-science
   - skill/cryptocurrency
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cryptocurrency%20Foundations%2017185357.md)
 
 ![Cryptocurrency Foundations 17185357](https://media.licdn.com/dms/image/v2/C4E0DAQEiNarzTql4xA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651597636841?e=2147483647&amp;v=beta&amp;t=O4PjApIpls3bKuZCFmPk0JjFBLTt6rcA0A1nXcKVopk)
 
@@ -37,17 +39,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357) | Beginner | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cryptocurrency
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Cryptocurrency?** (4 videos)
+- **3. 2. Creating a Cryptocurrency** (5 videos)
+- **4. 3. Investing in Cryptocurrencies** (2 videos)
+- **5. 4. The Future of Cryptocurrencies** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Is cryptocurrency the future of money?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980)
@@ -91,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - money (1)
 
 
-### 1. What Is Cryptocurrency?
+### 2. 1. What Is Cryptocurrency?
 
 #### The current world of cryptocurrency
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980)
@@ -470,7 +473,7 @@ created: 2026-04-21
 > **Speakers:** - until (1)
 
 
-### 2. Creating a Cryptocurrency
+### 3. 2. Creating a Cryptocurrency
 
 #### Methods of cryptocurrency creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980)
@@ -973,7 +976,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 3. Investing in Cryptocurrencies
+### 4. 3. Investing in Cryptocurrencies
 
 #### How to buy and sell a cryptocurrency
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980)
@@ -1180,7 +1183,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 4. The Future of Cryptocurrencies
+### 5. 4. The Future of Cryptocurrencies
 
 #### How countries are responding to crypto
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-countries-are-responding-to-crypto?u=76281980)
@@ -1330,7 +1333,7 @@ created: 2026-04-21
 > **Speakers:** - remarkably (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps on your cryptocurrency journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980)
@@ -1397,6 +1400,14 @@ created: 2026-04-21
 > **Tools:** notion (1)
 > **Speakers:** - cryptocurrencies (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cryptocurrency
 
 ## Path Context
 

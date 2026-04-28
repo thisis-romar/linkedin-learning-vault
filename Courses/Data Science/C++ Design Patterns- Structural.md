@@ -34,8 +34,10 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/C%2B%2B%20Design%20Patterns-%20Structural.md)
 
 ![C++ Design Patterns: Structural](https://media.licdn.com/dms/image/v2/D560DAQH8V651keIfeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683141155361?e=2147483647&amp;v=beta&amp;t=-vEFGmbj6Pe1-qJWo9ikuPCbS2snbhPNq00Znajvsic)
 
@@ -46,24 +48,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029) | 1h 47m | Intermediate | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Károly Nyisztor]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/cpp-design-patterns-structural-4360277)
-
-## Skills Covered
-
-- Data Structures
-- Software Design Patterns
-- C++
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Adapter** (6 videos)
+- **3. 2. The Bridge** (5 videos)
+- **4. 3. The Composite** (5 videos)
+- **5. 4. The Decorator** (5 videos)
+- **6. 5. The Façade** (5 videos)
+- **7. 6. The Flyweight** (4 videos)
+- **8. 7. The Proxy** (5 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Structural design patterns in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980)
@@ -87,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - [karoly] (1)
 
 
-### 1. The Adapter
+### 2. 1. The Adapter
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22182030?u=76281980)
@@ -464,7 +463,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Bridge
+### 3. 2. The Bridge
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980)
@@ -747,7 +746,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
-### 3. The Composite
+### 4. 3. The Composite
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22180031?u=76281980)
@@ -1087,7 +1086,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. The Decorator
+### 5. 4. The Decorator
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181031?u=76281980)
@@ -1360,7 +1359,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. The Façade
+### 6. 5. The Façade
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview?u=76281980)
@@ -1645,7 +1644,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. The Flyweight
+### 7. 6. The Flyweight
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980)
@@ -1969,7 +1968,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. The Proxy
+### 8. 7. The Proxy
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22185033?u=76281980)
@@ -2303,7 +2302,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980)
@@ -2341,6 +2340,21 @@ created: 2026-04-21
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [karoly] (1)
 
+
+## Instructor
+
+- [[Károly Nyisztor]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/cpp-design-patterns-structural-4360277)
+
+## Skills Covered
+
+- Data Structures
+- Software Design Patterns
+- C++
 
 ## Path Context
 

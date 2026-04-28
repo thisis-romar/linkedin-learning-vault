@@ -42,8 +42,10 @@ tags:
   - skill/php
   - skill/code-refactoring
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Refactoring%20with%20GitHub%20Copilot.md)
 
 ![Refactoring with GitHub Copilot](https://media.licdn.com/dms/image/v2/D560DAQHywlZzgjyv-g/learning-public-crop_675_1200/B56ZS91qhWGQAc-/0/1738351749959?e=2147483647&amp;v=beta&amp;t=uhRCAWKC_kXsujNL0xKosLJmWR997knTqSFNTgogd9s)
 
@@ -54,25 +56,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot) | 1h 1m | Intermediate | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gary Kovar]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/refactoring-with-github-copilot-3951237/codespaces)
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- GitHub Copilot
-- PHP
-- Code Refactoring
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. GitHub Copilot and Refactoring Basics** (6 videos)
+- **3. 2. Refactoring Techniques with AI** (5 videos)
+- **4. 3. Advanced Refactoring for Long-Lived Code Bases** (4 videos)
+- **5. 4. Refactoring in the Real World** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Refactoring with the GitHub Copilot AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-github-copilot-ai?u=76281980)
@@ -148,7 +143,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### 1. GitHub Copilot and Refactoring Basics
+### 2. 1. GitHub Copilot and Refactoring Basics
 
 #### What is GitHub Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980)
@@ -678,7 +673,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1), is a  (1)
 
 
-### 2. Refactoring Techniques with AI
+### 3. 2. Refactoring Techniques with AI
 
 #### Simplifying functionality
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980)
@@ -1159,7 +1154,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Advanced Refactoring for Long-Lived Code Bases
+### 4. 3. Advanced Refactoring for Long-Lived Code Bases
 
 #### Dealing with legacy code
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980)
@@ -1463,7 +1458,7 @@ created: 2026-04-21
 > **CLI Commands:** composer (1)
 
 
-### 4. Refactoring in the Real World
+### 5. 4. Refactoring in the Real World
 
 #### How to convince your team to refactor
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-convince-your-team-to-refactor-24290992?u=76281980)
@@ -1763,7 +1758,7 @@ created: 2026-04-21
 > **Warnings:** warning (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980)
@@ -1789,6 +1784,22 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Prerequisites:** install (1)
 
+
+## Instructor
+
+- [[Gary Kovar]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/refactoring-with-github-copilot-3951237/codespaces)
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- GitHub Copilot
+- PHP
+- Code Refactoring
 
 ## Path Context
 

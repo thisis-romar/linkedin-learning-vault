@@ -32,8 +32,10 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Level%20Up-%20Advanced%20Python.md)
 
 ![Level Up: Advanced Python](https://media.licdn.com/dms/image/v2/D4E0DAQG5HTatEks7cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713900195184?e=2147483647&amp;v=beta&amp;t=qD8ZAycHwEls2pty_rRMw5jplrMvgCaH7oN_U1BMbbQ)
 
@@ -44,22 +46,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python) | 39m | Advanced | 393K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jonathan Fernandes]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/level-up-advanced-core-python-3213390/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Code Challenges** (8 videos)
+
+### 1. Introduction
 
 #### Slither into advanced core Python code challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/slither-into-advanced-core-python-code-challenges?u=76281980)
@@ -250,7 +244,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 1. Code Challenges
+### 2. 1. Code Challenges
 
 #### Find a runner’s average race time
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-average-race-time?u=76281980)
@@ -1034,6 +1028,19 @@ created: 2026-04-21
 > **Documentation:** specification (2)
 > **Tools:** github (1)
 
+
+## Instructor
+
+- [[Jonathan Fernandes]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/level-up-advanced-core-python-3213390/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
 
 ## Path Context
 

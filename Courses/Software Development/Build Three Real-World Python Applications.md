@@ -34,8 +34,10 @@ tags:
   - skill/python-programming-language
   - skill/application-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Build%20Three%20Real-World%20Python%20Applications.md)
 
 ![Build Three Real-World Python Applications](https://media.licdn.com/dms/image/v2/D4D0DAQFYSovTCZGW8A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687366065111?e=2147483647&amp;v=beta&amp;t=5eyNnzqwIsutURFWP-n6VBABrTyyu-QoIBOuTJUXHEM)
 
@@ -46,23 +48,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications) | 2h 27m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Megan Silvey]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/build-three-real-world-python-applications-4379002/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Application Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Scraping the Wisdom Pet Medicine Website** (13 videos)
+- **3. 2. Exploring Alpha Vantage API** (13 videos)
+- **4. 3. Text Analysis on Great Expectations Novel** (12 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Real-world Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980)
@@ -236,7 +232,7 @@ created: 2026-04-21
 > **Code Identifiers:** great_expectations (1), man_in_top_hat (1), sense_and_sensibility (1)
 
 
-### 1. Scraping the Wisdom Pet Medicine Website
+### 2. 1. Scraping the Wisdom Pet Medicine Website
 
 #### What is web scraping?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980)
@@ -1088,7 +1084,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Exploring Alpha Vantage API
+### 3. 2. Exploring Alpha Vantage API
 
 #### What are APIs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980)
@@ -2191,7 +2187,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Text Analysis on Great Expectations Novel
+### 4. 3. Text Analysis on Great Expectations Novel
 
 #### What is text analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980)
@@ -3276,7 +3272,7 @@ created: 2026-04-21
 > **Non-Speech:** (bouncy music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980)
@@ -3302,6 +3298,20 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - that (1)
 
+
+## Instructor
+
+- [[Megan Silvey]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/build-three-real-world-python-applications-4379002/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Application Development
 
 ## Path Context
 

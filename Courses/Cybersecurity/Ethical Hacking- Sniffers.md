@@ -31,35 +31,34 @@ tags:
   - skill/ethical-hacking
   - skill/network-traffic-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Sniffers.md)
 
 ![Ethical Hacking: Sniffers](https://media.licdn.com/dms/image/v2/D4D0DAQEEMLLSm2QEAA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682017851753?e=2147483647&amp;v=beta&amp;t=FGT0JjzwlAgFFURuYYsXzqnsq46-k8GVCWWalH2MYpc)
 
 # Ethical Hacking: Sniffers
 
-> Ethical hacking involves testing to see if an organization's network is vulnerable to outside attacks. It's one of the most desired stills for any IT security professional.
-In this course—which maps to the Certified Ethical Hacker v12 certification—Lisa Bock provides an overview of what a sniffer is, and how hackers use it to intercept network traffic. Lisa gives a demonstration of what a MAC atta
+> Ethical hacking involves testing to see if an organization's network is vulnerable to outside attacks. It's one of the most desired stills for any IT security professional. In this course—which maps to the Certified Ethical Hacker v12 certification—Lisa Bock provides an overview of what a sniffer is, and how hackers use it to intercept network traffic. Lisa gives a demonstration of what a MAC atta
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733) | 2h 10m | Intermediate | 28K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Ethical Hacking
-- Network Traffic Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Sniffing Overview** (6 videos)
+- **3. 2. Spoofing Attacks** (6 videos)
+- **4. 3. Dissecting DHCP** (6 videos)
+- **5. 4. Reviewing ARP** (4 videos)
+- **6. 5. Attacking DNS** (6 videos)
+- **7. 6. Sniffing Tools and Techniques** (6 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Visualizing network traffic
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/visualizing-network-traffic?u=76281980)
@@ -138,7 +137,7 @@ In this course—which maps to the Certified Ethical Hacker v12 certification—
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Sniffing Overview
+### 2. 1. Sniffing Overview
 
 #### Sniffing network traffic
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980)
@@ -721,7 +720,7 @@ In this course—which maps to the Certified Ethical Hacker v12 certification—
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Spoofing Attacks
+### 3. 2. Spoofing Attacks
 
 #### Launching a macof attack
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980)
@@ -1135,7 +1134,7 @@ In this course—which maps to the Certified Ethical Hacker v12 certification—
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Dissecting DHCP
+### 4. 3. Dissecting DHCP
 
 #### Investigating DHCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-dhcp?u=76281980)
@@ -1596,7 +1595,7 @@ In this course—which maps to the Certified Ethical Hacker v12 certification—
 > **URLs:** [malware-traffic-analysis.net](https://malware-traffic-analysis.net) (1)
 
 
-### 4. Reviewing ARP
+### 5. 4. Reviewing ARP
 
 #### Describing ARP
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980)
@@ -1929,7 +1928,7 @@ In this course—which maps to the Certified Ethical Hacker v12 certification—
 > **Prerequisites:** configure (1)
 
 
-### 5. Attacking DNS
+### 6. 5. Attacking DNS
 
 #### Summarizing DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/summarizing-dns?u=76281980)
@@ -2407,7 +2406,7 @@ In this course—which maps to the Certified Ethical Hacker v12 certification—
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Sniffing Tools and Techniques
+### 7. 6. Sniffing Tools and Techniques
 
 #### Capturing images
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/capturing-images?u=76281980)
@@ -2854,7 +2853,7 @@ In this course—which maps to the Certified Ethical Hacker v12 certification—
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980)
@@ -2885,6 +2884,19 @@ In this course—which maps to the Certified Ethical Hacker v12 certification—
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Ethical Hacking
+- Network Traffic Analysis
 
 ## Path Context
 

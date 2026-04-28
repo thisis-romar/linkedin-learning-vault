@@ -34,8 +34,10 @@ tags:
   - skill/tech-career-skills
   - skill/interview-preparation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Nail%20Your%20DevOps%20Interview.md)
 
 ![Nail Your DevOps Interview](https://media.licdn.com/dms/image/v2/C4E0DAQECwpzmHys7xQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572464186175?e=2147483647&amp;v=beta&amp;t=2VlIqkFdSxT2eBLkD3TyX8jl9v0MTSpKZnE7AZViB0E)
 
@@ -46,22 +48,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview) | 1h 31m | Beginner | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Jenkins]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tech Career Skills
-- Interview Preparation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Interview Prep** (5 videos)
+- **3. 2. DevOps Business Practices Questions** (9 videos)
+- **4. 3. Common DevOps Skills** (8 videos)
+- **5. 4. Cloud Services Questions** (3 videos)
+- **6. 5. Applications and Services Questions** (5 videos)
+- **7. 6. Wrapping Up Your Interview** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Transform your career in DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/transform-your-career-in-devops-18731967?u=76281980)
@@ -155,7 +155,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Interview Prep
+### 2. 1. Interview Prep
 
 #### Preparing for the interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980)
@@ -564,7 +564,7 @@ created: 2026-04-21
 > **Speakers:** - throughout (1)
 
 
-### 2. DevOps Business Practices Questions
+### 3. 2. DevOps Business Practices Questions
 
 #### Defining DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980)
@@ -1067,7 +1067,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Common DevOps Skills
+### 4. 3. Common DevOps Skills
 
 #### Operating systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980)
@@ -1628,7 +1628,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Cloud Services Questions
+### 5. 4. Cloud Services Questions
 
 #### Cloud services and their benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980)
@@ -1817,7 +1817,7 @@ created: 2026-04-21
 > **Speakers:** - what (1), - let (1)
 
 
-### 5. Applications and Services Questions
+### 6. 5. Applications and Services Questions
 
 #### Web servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980)
@@ -2116,7 +2116,7 @@ created: 2026-04-21
 > **Non-Speech:** (energetic music) (1)
 
 
-### 6. Wrapping Up Your Interview
+### 7. 6. Wrapping Up Your Interview
 
 #### Asking questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980)
@@ -2195,7 +2195,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/next-steps-18730963?u=76281980)
@@ -2219,6 +2219,19 @@ created: 2026-04-21
 > **Cross-References:** we discussed (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Michael Jenkins]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tech Career Skills
+- Interview Preparation
 
 ## Path Context
 

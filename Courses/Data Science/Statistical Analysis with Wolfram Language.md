@@ -24,8 +24,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Statistical%20Analysis%20with%20Wolfram%20Language.md)
 
 ![Statistical Analysis with Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQFHu9hsHaSRRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703195493894?e=2147483647&amp;v=beta&amp;t=yi4rIDEj2FNEADffmEPER1WjsggE1gxEpWNYziqpqvE)
 
@@ -36,13 +38,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language) | 1h 39m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wolfram Research]]
-
 ## Table of Contents
 
-### 1. Descriptive and Exploratory Statistics
+### Chapter Overview
+
+- **1. 1. Descriptive and Exploratory Statistics** (1 videos)
+- **2. 2. Statistical Distribution** (1 videos)
+- **3. 3. Hypothesis Testing** (1 videos)
+- **4. 4. Model Fitting and Analysis** (1 videos)
+- **5. 5. Modeling with Statistical Distributions** (1 videos)
+
+### 1. 1. Descriptive and Exploratory Statistics
 
 #### Descriptive and exploratory statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980)
@@ -233,13 +239,13 @@ created: 2026-04-21
 > **Speakers:** - [darren] (1)
 
 
-### 2. Statistical Distribution
+### 2. 2. Statistical Distribution
 
 #### Statistical distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/statistical-distribution?u=76281980)
 
 
-### 3. Hypothesis Testing
+### 3. 3. Hypothesis Testing
 
 #### Hypothesis testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980)
@@ -446,7 +452,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 4. Model Fitting and Analysis
+### 4. 4. Model Fitting and Analysis
 
 #### Model fitting and analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980)
@@ -747,11 +753,15 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 5. Modeling with Statistical Distributions
+### 5. 5. Modeling with Statistical Distributions
 
 #### Modeling with statistical distributions
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/modeling-with-statistical-distributions?u=76281980)
 
+
+## Instructor
+
+- [[Wolfram Research]]
 
 ## Path Context
 

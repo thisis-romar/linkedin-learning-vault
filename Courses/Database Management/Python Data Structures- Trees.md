@@ -32,8 +32,10 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Python%20Data%20Structures-%20Trees.md)
 
 ![Python Data Structures:  Trees](https://media.licdn.com/dms/image/v2/C4E0DAQH_Em7BoVMKfQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614101500291?e=2147483647&amp;v=beta&amp;t=b5l6sKjpqIUjZ3K0Z7Yz5lWIsDTpbhLOG2jcSoXakeY)
 
@@ -44,23 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees) | 1h 16m | Intermediate | 229K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ryan Mitchell]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/python-data-structures-trees-2834010)
-
-## Skills Covered
-
-- Data Structures
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Navigating Trees** (7 videos)
+- **3. 2. Modifying Trees** (6 videos)
+- **4. 3. Rebalancing Trees** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980)
@@ -254,7 +250,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Navigating Trees
+### 2. 1. Navigating Trees
 
 #### Building a basic tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980)
@@ -952,7 +948,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Modifying Trees
+### 3. 2. Modifying Trees
 
 #### Adding nodes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/adding-nodes?u=76281980)
@@ -1421,7 +1417,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Rebalancing Trees
+### 4. 3. Rebalancing Trees
 
 #### Introduction to rotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/introduction-to-rotations?u=76281980)
@@ -1881,7 +1877,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps with data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980)
@@ -1934,6 +1930,20 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Ryan Mitchell]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/python-data-structures-trees-2834010)
+
+## Skills Covered
+
+- Data Structures
+- Python (Programming Language)
 
 ## Path Context
 

@@ -32,8 +32,10 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Machine%20Learning%20With%20Knime.md)
 
 ![Introduction To Machine Learning With Knime](https://media.licdn.com/dms/image/v2/C4E0DAQFYyCXjRas0qw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567113931299?e=2147483647&amp;v=beta&amp;t=hqcbSWu_HbeGES9s1bx4XD2l5-pTSlRjUHImpNkOiRg)
 
@@ -44,20 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime) | Beginner | 18K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- CRISP-DM
-- Knime
-- Machine Learning
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. How Does KNIME Complement Your Existing Analytics Toolkit?** (3 videos)
+- **3. 2. Getting Comfortable with KNIME** (5 videos)
+- **4. 3. Accessing Data** (3 videos)
+- **5. 4. Data Understanding** (3 videos)
+- **6. 5. Data Integration and Merging** (7 videos)
+- **7. 6. Modeling** (5 videos)
+- **8. 7. A World of Possibilities** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Open-source machine learning with KNIME
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980)
@@ -165,7 +168,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 1. How Does KNIME Complement Your Existing Analytics Toolkit?
+### 2. 1. How Does KNIME Complement Your Existing Analytics Toolkit?
 
 #### Why use an Analytics Workbench?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980)
@@ -398,7 +401,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Getting Comfortable with KNIME
+### 3. 2. Getting Comfortable with KNIME
 
 #### The KNIME interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980)
@@ -657,7 +660,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Accessing Data
+### 4. 3. Accessing Data
 
 #### Accessing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980)
@@ -945,7 +948,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data Understanding
+### 5. 4. Data Understanding
 
 #### Describe data and verify data quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980)
@@ -1206,7 +1209,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Data Integration and Merging
+### 6. 5. Data Integration and Merging
 
 #### Merging with the Joiner node
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/merging-with-the-joiner-node?u=76281980)
@@ -1669,7 +1672,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Modeling
+### 7. 6. Modeling
 
 #### KNIME modeling options
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980)
@@ -2347,7 +2350,7 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 
 
-### 7. A World of Possibilities
+### 8. 7. A World of Possibilities
 
 #### PMML
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980)
@@ -2718,7 +2721,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980)
@@ -2767,6 +2770,17 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- CRISP-DM
+- Knime
+- Machine Learning
+- Artificial Intelligence (AI)
 
 ## Path Context
 

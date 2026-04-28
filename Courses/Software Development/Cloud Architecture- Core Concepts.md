@@ -43,8 +43,10 @@ tags:
   - skill/cloud-security
   - skill/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cloud%20Architecture-%20Core%20Concepts.md)
 
 ![Cloud Architecture: Core Concepts](https://media.licdn.com/dms/image/v2/D560DAQGvM2MSfCqa6g/learning-public-crop_675_1200/B56ZbF5ccoGkAY-/0/1747076893242?e=2147483647&amp;v=beta&amp;t=Ecc0y6qx22aXd14auyRGFzQsXfsED3syDkjMBfW5jE4)
 
@@ -55,22 +57,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442) | 1h 29m | Beginner | 28K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Linthicum]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cloud Security
-- Cloud Computing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Cloud Architecture** (5 videos)
+- **3. 2. Understanding Business Needs** (8 videos)
+- **4. 3. It's All about the Cloud Parts** (7 videos)
+- **5. 4. From Requirements to Solutions** (9 videos)
+- **6. 5. Building Your First Architecture** (4 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### What is cloud architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-is-cloud-architecture?u=76281980)
@@ -94,7 +93,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Cloud Architecture
+### 2. 1. Introduction to Cloud Architecture
 
 #### Cloud architecture basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980)
@@ -335,7 +334,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Understanding Business Needs
+### 3. 2. Understanding Business Needs
 
 #### What problems need to be solved?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-problems-need-to-be-solved?u=76281980)
@@ -592,7 +591,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### 3. It's All about the Cloud Parts
+### 4. 3. It's All about the Cloud Parts
 
 #### Cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-storage?u=76281980)
@@ -779,7 +778,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/additional-cloud-services?u=76281980)
 
 
-### 4. From Requirements to Solutions
+### 5. 4. From Requirements to Solutions
 
 #### Storage level
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980)
@@ -1158,7 +1157,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Building Your First Architecture
+### 6. 5. Building Your First Architecture
 
 #### Step 1: Define your requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-1-define-your-requirements?u=76281980)
@@ -1338,7 +1337,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Learning more about cloud architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/learning-more-about-cloud-architecture?u=76281980)
@@ -1397,6 +1396,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[David Linthicum]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cloud Security
+- Cloud Computing
 
 ## Path Context
 

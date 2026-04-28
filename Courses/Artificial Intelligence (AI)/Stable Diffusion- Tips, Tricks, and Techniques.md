@@ -30,37 +30,35 @@ tags:
   - skill/stable-diffusion
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Stable%20Diffusion-%20Tips%2C%20Tricks%2C%20and%20Techniques.md)
 
 ![Stable Diffusion: Tips, Tricks, and Techniques](https://media.licdn.com/dms/image/v2/D560DAQF4NEWWGf1tcQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687557331718?e=2147483647&amp;v=beta&amp;t=MABpY_1ytFXWM_92NTshGo6LrB2NOjQ5Dowgyzk1ErM)
 
 # Stable Diffusion: Tips, Tricks, and Techniques
 
-> AI image generation tools enable you to enter a text description and get an image in a flash. For creative pros, these tools can accelerate the creative process and help generate assets. For everyone else, these tools enable the effortless creation of images for presentations and reports—or just for fun.
-
-The open-source Stable Diffusion platform is known for its power, customizability, and abilit
+> AI image generation tools enable you to enter a text description and get an image in a flash. For creative pros, these tools can accelerate the creative process and help generate assets. For everyone else, these tools enable the effortless creation of images for presentations and reports—or just for fun. The open-source Stable Diffusion platform is known for its power, customizability, and ability
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques) | 6h 13m | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ben Long]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- Stable Diffusion
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Stable Diffusion Basics** (5 videos)
+- **3. 2. Digging Deeper into Stable Diffusion Prompts** (12 videos)
+- **4. 3. Advanced Stable Diffusion** (7 videos)
+- **5. 4. Training and Customizing Stable Diffusion** (13 videos)
+- **6. 5. Working with ControlNet** (9 videos)
+- **7. 6. Refining Your Workflow** (4 videos)
+- **8. 7. Customization and Model Training** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is Stable Diffusion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-is-stable-diffusion?u=76281980)
@@ -89,7 +87,7 @@ The open-source Stable Diffusion platform is known for its power, customizabilit
 > **Speakers:** - ai (1)
 
 
-### 1. Stable Diffusion Basics
+### 2. 1. Stable Diffusion Basics
 
 #### What can you do with Stable Diffusion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980)
@@ -599,7 +597,7 @@ The open-source Stable Diffusion platform is known for its power, customizabilit
 > **UI Navigation:** click on (1)
 
 
-### 2. Digging Deeper into Stable Diffusion Prompts
+### 3. 2. Digging Deeper into Stable Diffusion Prompts
 
 #### What does a prompt do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980)
@@ -2254,7 +2252,7 @@ The open-source Stable Diffusion platform is known for its power, customizabilit
 > **Speakers:** - there (1)
 
 
-### 3. Advanced Stable Diffusion
+### 4. 3. Advanced Stable Diffusion
 
 #### Sampling and steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980)
@@ -3781,7 +3779,7 @@ The open-source Stable Diffusion platform is known for its power, customizabilit
 > **Cross-References:** later in (1)
 
 
-### 4. Training and Customizing Stable Diffusion
+### 5. 4. Training and Customizing Stable Diffusion
 
 #### img2img basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980)
@@ -6129,7 +6127,7 @@ The open-source Stable Diffusion platform is known for its power, customizabilit
 > **Analogies:** imagine (1)
 
 
-### 5. Working with ControlNet
+### 6. 5. Working with ControlNet
 
 #### Introduction to ControlNet
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980)
@@ -7711,7 +7709,7 @@ The open-source Stable Diffusion platform is known for its power, customizabilit
 > **Warnings:** note that (1)
 
 
-### 6. Refining Your Workflow
+### 7. 6. Refining Your Workflow
 
 #### Using models to influence image style
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980)
@@ -8214,7 +8212,7 @@ The open-source Stable Diffusion platform is known for its power, customizabilit
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/complete-a-stable-diffusion-workflow?u=76281980)
 
 
-### 7. Customization and Model Training
+### 8. 7. Customization and Model Training
 
 #### Creating a custom model
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980)
@@ -9176,7 +9174,7 @@ The open-source Stable Diffusion platform is known for its power, customizabilit
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980)
@@ -9217,6 +9215,20 @@ The open-source Stable Diffusion platform is known for its power, customizabilit
 > **Code Keywords:** continue (2)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Ben Long]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- Stable Diffusion
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -35,8 +35,10 @@ tags:
   - skill/large-language-models-llm
   - skill/fine-tuning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Fine-Tuning%20for%20LLMs-%20from%20Beginner%20to%20Advanced.md)
 
 ![Fine-Tuning for LLMs: from Beginner to Advanced](https://media.licdn.com/dms/image/v2/D4E0DAQHGKr_yNWHbng/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723585408633?e=2147483647&amp;v=beta&amp;t=npy7fBXsjSspwfQUsf1KWHmIdSohNGQO-AH10Dw-zog)
 
@@ -47,24 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced) | 3h 25m | Advanced | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Axel Sirota]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- Fine Tuning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to Large Language Models (LLMs)** (6 videos)
+- **3. 2. Utilizing LLMs with Prompt Engineering** (7 videos)
+- **4. 3. Transfer Learning for NLP Tasks** (6 videos)
+- **5. 4. PEFT Fine-Tuning with LoRA** (7 videos)
+- **6. 5. Project: Creating a Full NLP Solution** (4 videos)
+- **7. Conclusion** (4 videos)
+
+### 1. Introduction
 
 #### Beginning to fine-tune your LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980)
@@ -162,7 +159,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Introduction to Large Language Models (LLMs)
+### 2. 1. Introduction to Large Language Models (LLMs)
 
 #### LLMs: Revolutionizing AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/llms-revolutionizing-ai?u=76281980)
@@ -508,7 +505,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. Utilizing LLMs with Prompt Engineering
+### 3. 2. Utilizing LLMs with Prompt Engineering
 
 #### Basics of prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/basics-of-prompt-engineering?u=76281980)
@@ -1233,7 +1230,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Transfer Learning for NLP Tasks
+### 4. 3. Transfer Learning for NLP Tasks
 
 #### Transfer learning in LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/transfer-learning-in-llms?u=76281980)
@@ -1876,7 +1873,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. PEFT Fine-Tuning with LoRA
+### 5. 4. PEFT Fine-Tuning with LoRA
 
 #### Introduction to PEFT
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/introduction-to-peft?u=76281980)
@@ -2767,7 +2764,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music begins) (1)
 
 
-### 5. Project: Creating a Full NLP Solution
+### 6. 5. Project: Creating a Full NLP Solution
 
 #### Solution: Fine-tuning the sentiment analysis model
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980)
@@ -3463,7 +3460,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Course recap and key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/course-recap-and-key-takeaways?u=76281980)
@@ -3638,6 +3635,21 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Axel Sirota]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
+- Fine Tuning
 
 ## Path Context
 

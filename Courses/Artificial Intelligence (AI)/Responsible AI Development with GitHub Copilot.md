@@ -36,8 +36,10 @@ tags:
   - skill/large-language-models-llm
   - skill/github-copilot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20Development%20with%20GitHub%20Copilot.md)
 
 ![Responsible AI Development with GitHub Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQHLWrdnfFGSJg/learning-public-crop_675_1200/B4EZq34xBdIQAc-/0/1764021703092?e=2147483647&amp;v=beta&amp;t=GfXLEfHc3DJk2jmbjPaI436B1lMRjMpHwDrhrtf6exw)
 
@@ -48,25 +50,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot) | 1h 2m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Pragmatic AI Labs]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/paiml/responsible-ai-dev)
-
-## Skills Covered
-
-- Responsible AI
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-- GitHub Copilot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Validating AI-Generated Code** (5 videos)
+- **3. 2. Customizing Copilot for Your Team** (5 videos)
+- **4. 3. Staying Current with AI Tools** (5 videos)
+
+### 1. Introduction
 
 #### Introduction to AI validation: Why it matters for production code
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980)
@@ -158,7 +151,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Validating AI-Generated Code
+### 2. 1. Validating AI-Generated Code
 
 #### Techniques for verifying AI code: Manual and automated approaches
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/techniques-for-verifying-ai-code-manual-and-automated-approaches?u=76281980)
@@ -532,7 +525,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Customizing Copilot for Your Team
+### 3. 2. Customizing Copilot for Your Team
 
 #### Using copilot-instructions.md for project-specific guidance
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980)
@@ -913,7 +906,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Staying Current with AI Tools
+### 4. 3. Staying Current with AI Tools
 
 #### Choosing the right LLM for your development needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980)
@@ -1251,6 +1244,22 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Pragmatic AI Labs]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/paiml/responsible-ai-dev)
+
+## Skills Covered
+
+- Responsible AI
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
+- GitHub Copilot
 
 ## Path Context
 

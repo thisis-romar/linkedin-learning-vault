@@ -28,8 +28,10 @@ tags:
   - skill/interview-preparation
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Nail%20Your%20C%2B%2B%20Interview.md)
 
 ![Nail Your C++ Interview](https://media.licdn.com/dms/image/v2/C4E0DAQFPrN235tALQw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117662822?e=2147483647&amp;v=beta&amp;t=0OgWnIfhwB1aVSeOEVKKV8quRwmKWAYzSzNI8Aa4lyc)
 
@@ -40,22 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview) | 1h 2m | Beginner | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Erin Colvin]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Interview Preparation
-- C++
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Interview Basics** (5 videos)
+- **3. 2. C++ Specific Questions** (6 videos)
+- **4. 3. C++ Programming Questions** (3 videos)
+- **5. 4. Advanced C++ Programming Topics** (3 videos)
+- **6. 5. C++ Classes** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### C++ interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/c-plus-plus-interviews-14295274?u=76281980)
@@ -102,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Interview Basics
+### 2. 1. Interview Basics
 
 #### Getting ready for the interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980)
@@ -428,7 +427,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. C++ Specific Questions
+### 3. 2. C++ Specific Questions
 
 #### Difference between C and C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980)
@@ -727,7 +726,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. C++ Programming Questions
+### 4. 3. C++ Programming Questions
 
 #### Strings in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/strings-in-c-plus-plus?u=76281980)
@@ -999,7 +998,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Advanced C++ Programming Topics
+### 5. 4. Advanced C++ Programming Topics
 
 #### Linked lists in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/linked-lists-in-c-plus-plus?u=76281980)
@@ -1237,7 +1236,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. C++ Classes
+### 6. 5. C++ Classes
 
 #### Classes in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980)
@@ -1384,7 +1383,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### More practice with C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/more-practice-with-c-plus-plus?u=76281980)
@@ -1403,6 +1402,19 @@ created: 2026-04-21
 >
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Erin Colvin]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Interview Preparation
+- C++
 
 ## Path Context
 

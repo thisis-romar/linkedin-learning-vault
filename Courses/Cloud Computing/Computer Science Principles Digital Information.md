@@ -31,8 +31,10 @@ tags:
   - topic/software-development
   - skill/computer-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Computer%20Science%20Principles%20Digital%20Information.md)
 
 ![Computer Science Principles Digital Information](https://media.licdn.com/dms/image/v2/C4E0DAQE1lLV5zX5Kdg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117531373?e=2147483647&amp;v=beta&amp;t=WPdX17wliMw9xycoBKUQwQBcxYd_GkQITCT2VGB21L8)
 
@@ -43,13 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information) | Beginner | 71K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Computer Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Innovation and Technology** (2 videos)
+- **3. 2. Computer Communications** (4 videos)
+- **4. 3. Number Systems** (4 videos)
+- **5. 4. Encoding and Sending Text** (2 videos)
+- **6. 5. Working with Large Amounts of Data** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?u=76281980)
@@ -168,7 +176,7 @@ created: 2026-04-21
 > **Speakers:** - [voiceover] (1)
 
 
-### 1. Innovation and Technology
+### 2. 1. Innovation and Technology
 
 #### History of innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980)
@@ -355,7 +363,7 @@ created: 2026-04-21
 > **Speakers:** - with (1)
 
 
-### 2. Computer Communications
+### 3. 2. Computer Communications
 
 #### Yes and no answers with binary
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/yes-and-no-answers-with-binary?u=76281980)
@@ -720,7 +728,7 @@ created: 2026-04-21
 > **Speakers:** - transmitting (1)
 
 
-### 3. Number Systems
+### 4. 3. Number Systems
 
 #### Abstraction of numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/abstraction-of-numbers?u=76281980)
@@ -1143,7 +1151,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 4. Encoding and Sending Text
+### 5. 4. Encoding and Sending Text
 
 #### ASCII and Unicode
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/ascii-and-unicode?u=76281980)
@@ -1279,7 +1287,7 @@ created: 2026-04-21
 > **Speakers:** - [voiceover] (1)
 
 
-### 5. Working with Large Amounts of Data
+### 6. 5. Working with Large Amounts of Data
 
 #### File sizes and bytes
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/file-sizes-and-bytes?u=76281980)
@@ -1693,7 +1701,7 @@ created: 2026-04-21
 > **Speakers:** - images (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/summary?u=76281980)
@@ -1723,6 +1731,10 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
+
+## Skills Covered
+
+- Computer Science
 
 ## Path Context
 

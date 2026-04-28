@@ -26,8 +26,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/How%20to%20Keep%20Your%20Team%20on%20the%20Bleeding%20Edge%20of%20AI%20Innovation.md)
 
 ![How to Keep Your Team on the Bleeding Edge of AI Innovation](https://media.licdn.com/dms/image/v2/D560DAQF48GB32fBJDQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1714607313742?e=2147483647&amp;v=beta&amp;t=TukmhhU1lSnJ85ko8TgKWDMF5QztGwJY7bE2QhXcl8k)
 
@@ -38,13 +40,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation) | 49m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Aishwarya Srinivasan]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Keeping Your Team on the Bleeding Edge of AI Innovation** (2 videos)
+- **3. 2. Building Ethics into Your AI Innovation** (3 videos)
+- **4. 3. Building Your Team, Strategy, and Resources** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Staying on the edge of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/staying-on-the-edge-of-ai?u=76281980)
@@ -71,7 +77,7 @@ created: 2026-04-21
 > **Prerequisites:** you need to have (1)
 
 
-### 1. Keeping Your Team on the Bleeding Edge of AI Innovation
+### 2. 1. Keeping Your Team on the Bleeding Edge of AI Innovation
 
 #### Introduction to AI innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/introduction-to-ai-innovation?u=76281980)
@@ -198,7 +204,7 @@ created: 2026-04-21
 > **Prerequisites:** you need to have (1)
 
 
-### 2. Building Ethics into Your AI Innovation
+### 3. 2. Building Ethics into Your AI Innovation
 
 #### Ethical considerations in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/ethical-considerations-in-ai?u=76281980)
@@ -374,7 +380,7 @@ created: 2026-04-21
 > **Definitions:** stands for (1)
 
 
-### 3. Building Your Team, Strategy, and Resources
+### 4. 3. Building Your Team, Strategy, and Resources
 
 #### Building effective AI teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/building-effective-ai-teams?u=76281980)
@@ -753,7 +759,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Continuing on with AI in your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/continuing-on-with-ai-in-your-organization?u=76281980)
@@ -799,6 +805,10 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Exercise Files:** exercise files (1)
 
+
+## Instructor
+
+- [[Aishwarya Srinivasan]]
 
 ## Path Context
 

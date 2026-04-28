@@ -32,35 +32,32 @@ tags:
   - skill/laravel
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Essential%20Statamic%20for%20PHP%20and%20Laravel%20Developers.md)
 
 ![Essential Statamic for PHP and Laravel Developers](https://media.licdn.com/dms/image/v2/C560DAQGUTB7Y-sJXRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634058104737?e=2147483647&amp;v=beta&amp;t=VOxuMek11V5ezz3nQ64WpjG0zsxcAadDL7YInZuGr4o)
 
 # Essential Statamic for PHP and Laravel Developers
 
-> Statamic, a flat-file content management system (CMS), offers developers the ability to create custom websites that are both easy to manage and beautiful. And because Statamic is built with PHP on top of Laravel, it is a natural fit for  Laravel developers looking for an alternative to WordPress. In this course, join instructor Zuzana Kunckova as she covers the essentials of this versatile, full-f
+> Statamic, a flat-file content management system (CMS), offers developers the ability to create custom websites that are both easy to manage and beautiful. And because Statamic is built with PHP on top of Laravel, it is a natural fit for Laravel developers looking for an alternative to WordPress. In this course, join instructor Zuzana Kunckova as she covers the essentials of this versatile, full-fe
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers) | 1h 31m | Intermediate | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Zuzana Kunckova]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Content Management
-- Laravel
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Statamic** (3 videos)
+- **3. 2. Getting Started with Statamic** (8 videos)
+- **4. 3. Statamic Internals** (9 videos)
+- **5. 4. Deploying Statamic on Netlify** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to Statamic
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980)
@@ -99,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Introduction to Statamic
+### 2. 1. Introduction to Statamic
 
 #### What is Statamic?
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980)
@@ -274,7 +271,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Getting Started with Statamic
+### 3. 2. Getting Started with Statamic
 
 #### Installing Statamic as a standalone project
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980)
@@ -932,7 +929,7 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 
 
-### 3. Statamic Internals
+### 4. 3. Statamic Internals
 
 #### File structure in Statamic
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980)
@@ -1949,7 +1946,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 4. Deploying Statamic on Netlify
+### 5. 4. Deploying Statamic on Netlify
 
 #### Statamic as an SSG
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980)
@@ -2407,7 +2404,7 @@ created: 2026-04-21
 > **Non-Speech:** (techno music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/where-to-go-from-here?u=76281980)
@@ -2435,6 +2432,20 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [zuzana] (1)
 
+
+## Instructor
+
+- [[Zuzana Kunckova]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Content Management
+- Laravel
+- PHP
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - skill/cloud-computing
   - skill/quantum-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Quantum%20Computing%20Essentials.md)
 
 ![Cloud Quantum Computing Essentials](https://media.licdn.com/dms/image/v2/C4E0DAQHd3Vh9xYXgbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647018949325?e=2147483647&amp;v=beta&amp;t=y3oiMiBu5_WK3UGsDbxxTC_1kjkkCN7zMHferAhg8Bc)
 
@@ -41,18 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials) | 2h 4m | Intermediate | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lynn Langit]]
-
-## Skills Covered
-
-- Cloud Computing
-- Quantum Computing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Cloud Quantum Computing Services Overview** (4 videos)
+- **3. 2. Cloud Quantum Vendors** (6 videos)
+- **4. 3. Core Quantum Computing Gates and Operations** (6 videos)
+- **5. 4. Quantum Algorithms and Applications** (4 videos)
+- **6. 5. Quantum Machine Learning** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Creating solutions with cloud quantum computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/creating-solutions-with-cloud-quantum-computing?u=76281980)
@@ -166,7 +169,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Cloud Quantum Computing Services Overview
+### 2. 1. Cloud Quantum Computing Services Overview
 
 #### Why use cloud quantum computing services
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/why-use-cloud-quantum-computing-services?u=76281980)
@@ -489,7 +492,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Cloud Quantum Vendors
+### 3. 2. Cloud Quantum Vendors
 
 #### Cloud quantum computing vendor choices
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980)
@@ -1018,7 +1021,7 @@ created: 2026-04-21
 > **Tools:** jupyter (1)
 
 
-### 3. Core Quantum Computing Gates and Operations
+### 4. 3. Core Quantum Computing Gates and Operations
 
 #### Quantum NOT gate
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980)
@@ -1587,7 +1590,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Quantum Algorithms and Applications
+### 5. 4. Quantum Algorithms and Applications
 
 #### Quantum random number generator
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-random-number-generator?u=76281980)
@@ -2035,7 +2038,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 5. Quantum Machine Learning
+### 6. 5. Quantum Machine Learning
 
 #### Cloud quantum computing machine learning basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980)
@@ -2576,7 +2579,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Learning more about cloud quantum computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980)
@@ -2649,6 +2652,15 @@ created: 2026-04-21
 > **Analogies:** such as (2)
 > **Speakers:** - [lynn] (1)
 
+
+## Instructor
+
+- [[Lynn Langit]]
+
+## Skills Covered
+
+- Cloud Computing
+- Quantum Computing
 
 ## Path Context
 

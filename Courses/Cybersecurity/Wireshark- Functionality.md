@@ -29,8 +29,10 @@ tags:
   - topic/network-and-system-administration
   - skill/wireshark
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Wireshark-%20Functionality.md)
 
 ![Wireshark: Functionality](https://media.licdn.com/dms/image/v2/C4E0DAQFsc2XCsoi4YA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669466188?e=2147483647&amp;v=beta&amp;t=wE5vDdBeUMgueC-_bw928NnVThsgegEiDwa_PW6I9dc)
 
@@ -41,17 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality) | 1h 55m | Intermediate | 75K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
-## Skills Covered
-
-- Wireshark
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Menus and Toolbars** (8 videos)
+- **3. 2. Capturing Traffic** (9 videos)
+- **4. 3. Personalizing the Interface** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Improve your Wireshark workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/improve-your-wireshark-workflow?u=76281980)
@@ -109,7 +111,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 1. Menus and Toolbars
+### 2. 1. Menus and Toolbars
 
 #### File: Open, Import, and Save
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/file-open-import-and-save?u=76281980)
@@ -1117,7 +1119,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 2. Capturing Traffic
+### 3. 2. Capturing Traffic
 
 #### Capture options
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980)
@@ -1918,7 +1920,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Personalizing the Interface
+### 4. 3. Personalizing the Interface
 
 #### File and packet comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980)
@@ -2538,7 +2540,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980)
@@ -2572,6 +2574,14 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
+
+## Skills Covered
+
+- Wireshark
 
 ## Path Context
 

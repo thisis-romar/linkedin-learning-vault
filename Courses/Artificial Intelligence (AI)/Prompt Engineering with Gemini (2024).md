@@ -36,8 +36,10 @@ tags:
   - skill/google-gemini
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20with%20Gemini%20(2024).md)
 
 ![Prompt Engineering with Gemini (2024)](https://media.licdn.com/dms/image/v2/D4E0DAQExPVvaiVwKuw/learning-public-crop_675_1200/B4EZfmDFTWHYAc-/0/1751911257653?e=2147483647&amp;v=beta&amp;t=yhs_EU8x5NQTW7hP9n9B_Pec6u_Sr_rI9JwYDQCln3Q)
 
@@ -48,24 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024) | 1h | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Denys Linkov]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- Gemini
-- Google Gemini
-- Prompt Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Gemini** (2 videos)
+- **3. 2. Using Gemini Day-to-Day** (8 videos)
+- **4. 3. Advance Your Prompts to Improve Results** (6 videos)
+- **5. 4. Multi-Modal Gemini** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning prompt engineering with Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/learning-prompt-engineering-with-gemini?u=76281980)
@@ -92,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - gemini (1)
 
 
-### 1. Introduction to Gemini
+### 2. 1. Introduction to Gemini
 
 #### Enabling Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980)
@@ -203,7 +199,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Using Gemini Day-to-Day
+### 3. 2. Using Gemini Day-to-Day
 
 #### Brainstorming with Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/brainstorming-with-gemini?u=76281980)
@@ -1007,7 +1003,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Advance Your Prompts to Improve Results
+### 4. 3. Advance Your Prompts to Improve Results
 
 #### Improving prompting with examples and quotes
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980)
@@ -1450,7 +1446,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Multi-Modal Gemini
+### 5. 4. Multi-Modal Gemini
 
 #### Image recognition and augmentation with Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/image-recognition-and-augmentation-with-gemini?u=76281980)
@@ -1935,7 +1931,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continuing your prompt engineering journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980)
@@ -1958,6 +1954,21 @@ created: 2026-04-21
 > **Env Vars:** gpt (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Denys Linkov]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- Gemini
+- Google Gemini
+- Prompt Engineering
 
 ## Path Context
 

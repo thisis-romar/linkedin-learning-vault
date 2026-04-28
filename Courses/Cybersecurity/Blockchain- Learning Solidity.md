@@ -31,8 +31,10 @@ tags:
   - skill/solidity
   - skill/blockchain
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Blockchain-%20Learning%20Solidity.md)
 
 ![Blockchain: Learning Solidity](https://media.licdn.com/dms/image/v2/D560DAQHUJvpNCRtrIQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696014871160?e=2147483647&amp;v=beta&amp;t=JcBanBnYhQ35mO9wiZmn2eibKhKvYvmELFI2eIyZwYc)
 
@@ -43,22 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764) | 1h 8m | Intermediate | 130K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Solidity
-- Blockchain
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction and Setup** (4 videos)
+- **3. 2. Solidity Basics** (8 videos)
+- **4. 3. Your First Contract** (4 videos)
+- **5. 4. Solidity Considerations** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Blockchain: Learning Solidity
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980)
@@ -109,7 +107,7 @@ created: 2026-04-21
 > **Speakers:** - being (1)
 
 
-### 1. Introduction and Setup
+### 2. 1. Introduction and Setup
 
 #### Introduction to Solidity
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980)
@@ -295,7 +293,7 @@ created: 2026-04-21
 > **Tools:** vs code (1)
 
 
-### 2. Solidity Basics
+### 3. 2. Solidity Basics
 
 #### Solidity syntax basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980)
@@ -1098,7 +1096,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Your First Contract
+### 4. 3. Your First Contract
 
 #### Set the initial variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980)
@@ -1480,7 +1478,7 @@ created: 2026-04-21
 > **Prerequisites:** make sure you have (1)
 
 
-### 4. Solidity Considerations
+### 5. 4. Solidity Considerations
 
 #### Review the style guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/review-the-style-guide?u=76281980)
@@ -1564,7 +1562,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continue learning Solidity
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/continue-learning-solidity?u=76281980)
@@ -1589,6 +1587,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Solidity
+- Blockchain
 
 ## Path Context
 

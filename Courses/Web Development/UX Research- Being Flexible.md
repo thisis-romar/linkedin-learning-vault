@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Research-%20Being%20Flexible.md)
 
 ![UX Research: Being Flexible](https://media.licdn.com/dms/image/v2/C560DAQGapjArGK8wug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1644516915545?e=2147483647&amp;v=beta&amp;t=qNKYd6IdRQafp-pE6VnZOEb4JRVaRv5Vl9qqMbYy98U)
 
@@ -40,17 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible) | 31m | Intermediate | 41K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Cory Lebson]]
-
-## Skills Covered
-
-- UX Research
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Research Basics** (5 videos)
+- **3. 2. Running Sessions** (6 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why is it important to be flexible?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/why-is-it-important-to-be-flexible?u=76281980)
@@ -97,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - [cory] (1)
 
 
-### 1. Research Basics
+### 2. 1. Research Basics
 
 #### What can go wrong?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980)
@@ -345,7 +346,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Running Sessions
+### 3. 2. Running Sessions
 
 #### Properly set stakeholder expectations for surprises
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/properly-set-stakeholder-expectations-for-surprises?u=76281980)
@@ -685,7 +686,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Be the best researcher you can be
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/be-the-best-researcher-you-can-be?u=76281980)
@@ -715,6 +716,14 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Cory Lebson]]
+
+## Skills Covered
+
+- UX Research
 
 ## Path Context
 

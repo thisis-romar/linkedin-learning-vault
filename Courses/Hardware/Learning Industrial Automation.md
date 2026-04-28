@@ -24,8 +24,10 @@ tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20Industrial%20Automation.md)
 
 ![Learning Industrial Automation](https://media.licdn.com/dms/image/v2/C4E0DAQH7-WAsAUGMQw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1638212551748?e=2147483647&amp;v=beta&amp;t=lfwpoXtom98EyFjnoLmTNZE6xfInlHjyPL138d4SA90)
 
@@ -36,13 +38,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation) | 41m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Zahraa Khalil]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Industrial Automation** (6 videos)
+- **3. 2. Programmable Logic Controller** (8 videos)
+- **4. 3. Supervisory Control and Data Acquisition** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to industrial automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/introduction-to-industrial-automation?u=76281980)
@@ -90,7 +96,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Industrial Automation
+### 2. 1. Industrial Automation
 
 #### Basics of industrial automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/basics-of-industrial-automation-14444217?u=76281980)
@@ -439,7 +445,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Programmable Logic Controller
+### 3. 2. Programmable Logic Controller
 
 #### Programmable logic controller (PLC) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-plc-overview?u=76281980)
@@ -830,7 +836,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 3. Supervisory Control and Data Acquisition
+### 4. 3. Supervisory Control and Data Acquisition
 
 #### Supervisory Control and Data Acquisition (SCADA) defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/supervisory-control-and-data-acquisition-scada-defined?u=76281980)
@@ -953,7 +959,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/next-steps-22802778?u=76281980)
@@ -983,6 +989,10 @@ created: 2026-04-21
 > **Env Vars:** scada (4), plc (4)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Zahraa Khalil]]
 
 ## Path Context
 

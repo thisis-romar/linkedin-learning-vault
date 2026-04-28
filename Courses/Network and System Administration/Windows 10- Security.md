@@ -34,8 +34,10 @@ tags:
   - topic/it-help-desk
   - skill/windows-10
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%2010-%20Security.md)
 
 ![Windows 10: Security](https://media.licdn.com/dms/image/v2/C560DAQG-86S2j1G6kQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626716915412?e=2147483647&amp;v=beta&amp;t=CT3A3M7V5NyZEDSXeAvUQAU9q9APuU1cFU6uIOMJ4s4)
 
@@ -46,17 +48,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501) | 2h 10m | Intermediate | 59K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Martin Guidry]]
-
-## Skills Covered
-
-- Windows 10
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Authentication and Accounts** (5 videos)
+- **3. 2. Authorization** (5 videos)
+- **4. 3. Encryption** (4 videos)
+- **5. 4. Viruses and Malware** (8 videos)
+- **6. 5. Network Security** (2 videos)
+- **7. 6. Group Policy** (4 videos)
+- **8. 7. Remote Desktop** (4 videos)
+- **9. 8. Additional Security Considerations** (4 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Windows 10 security overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/windows-10-security-overview?u=76281980)
@@ -135,7 +142,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Authentication and Accounts
+### 2. 1. Authentication and Accounts
 
 #### Overview of authentication and accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980)
@@ -376,7 +383,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Authorization
+### 3. 2. Authorization
 
 #### Overview of authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authorization?u=76281980)
@@ -820,7 +827,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Encryption
+### 4. 3. Encryption
 
 #### Overview of encryption
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980)
@@ -1263,7 +1270,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Viruses and Malware
+### 5. 4. Viruses and Malware
 
 #### Virus and malware overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/virus-and-malware-overview?u=76281980)
@@ -1846,7 +1853,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Network Security
+### 6. 5. Network Security
 
 #### Securing network traffic by using IPsec
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980)
@@ -2011,7 +2018,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Group Policy
+### 7. 6. Group Policy
 
 #### Overview of Group Policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980)
@@ -2299,7 +2306,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Remote Desktop
+### 8. 7. Remote Desktop
 
 #### Basic configuration of Remote Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980)
@@ -2563,7 +2570,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Additional Security Considerations
+### 9. 8. Additional Security Considerations
 
 #### Controlling updates for Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980)
@@ -2832,7 +2839,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Where to learn more about Windows 10 security
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/where-to-learn-more-about-windows-10-security?u=76281980)
@@ -2852,6 +2859,14 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [martin] (1)
 
+
+## Instructor
+
+- [[Martin Guidry]]
+
+## Skills Covered
+
+- Windows 10
 
 ## Path Context
 

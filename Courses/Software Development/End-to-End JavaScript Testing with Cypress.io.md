@@ -37,8 +37,10 @@ tags:
   - skill/javascript
   - skill/end-to-end-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/End-to-End%20JavaScript%20Testing%20with%20Cypress.io.md)
 
 ![End-to-End JavaScript Testing with Cypress.io](https://media.licdn.com/dms/image/v2/D4D0DAQEwSS43LqkZMg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732149411297?e=2147483647&amp;v=beta&amp;t=NIDnqTi_E4T7tK1aCMXFecm-Pf606qR71fG-Giv4Pbo)
 
@@ -49,26 +51,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013) | 2h 6m | Advanced | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shaun Wassell]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/end-to-end-javascript-testing-with-cypressio-4253121/codespaces)
-
-## Skills Covered
-
-- Cypress.io
-- Web Development
-- Front-End Development
-- JavaScript
-- End-to-end Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Cypress** (2 videos)
+- **3. 2. The Basics** (10 videos)
+- **4. 3. Intermediate Concepts** (9 videos)
+- **5. 4. Useful Commands** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### It's time to use Cypress.io to do some end-to-end JavaScript testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/let-s-use-cypress-io-to-do-some-end-to-end-javascript-testing?u=76281980)
@@ -122,7 +116,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Cypress
+### 2. 1. Introduction to Cypress
 
 #### What is Cypress?
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980)
@@ -201,7 +195,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Basics
+### 3. 2. The Basics
 
 #### Installing and running Cypress
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/installing-running-cypress?u=76281980)
@@ -1269,7 +1263,7 @@ created: 2026-04-21
 > **Code Identifiers:** beforeeach (1)
 
 
-### 3. Intermediate Concepts
+### 4. 3. Intermediate Concepts
 
 #### Interacting with elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/interacting-with-elements?u=76281980)
@@ -2199,7 +2193,7 @@ created: 2026-04-21
 > **Definitions:** in other words (1)
 
 
-### 4. Useful Commands
+### 5. 4. Useful Commands
 
 #### The wrap command
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-wrap-command?u=76281980)
@@ -2578,7 +2572,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps with Cypress.io and JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/next-steps-with-cypress-io-and-javascript?u=76281980)
@@ -2604,6 +2598,23 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Shaun Wassell]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/end-to-end-javascript-testing-with-cypressio-4253121/codespaces)
+
+## Skills Covered
+
+- Cypress.io
+- Web Development
+- Front-End Development
+- JavaScript
+- End-to-end Testing
 
 ## Path Context
 

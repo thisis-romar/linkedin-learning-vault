@@ -31,8 +31,10 @@ tags:
   - skill/data-engineering
   - skill/problem-solving
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Problem-Solving%20Strategies%20for%20Data%20Engineers.md)
 
 ![Problem-Solving Strategies for Data Engineers](https://media.licdn.com/dms/image/v2/D560DAQHbAbSH4NO6OQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687393016434?e=2147483647&amp;v=beta&amp;t=zgcuvpASDV1aptR6vh5JPqJmdcZCebBIYuuyMv_-Cbw)
 
@@ -43,18 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers) | 1h 55m | Intermediate | 347K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Andreas Kretz]]
-
-## Skills Covered
-
-- Data Engineering
-- Problem Solving
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Roles and Phases** (3 videos)
+- **3. 2. Planning** (3 videos)
+- **4. 3. Design** (4 videos)
+- **5. 4. Implementation** (4 videos)
+- **6. 5. Operations** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/introduction?u=76281980)
@@ -117,7 +120,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Roles and Phases
+### 2. 1. Roles and Phases
 
 #### The data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980)
@@ -484,7 +487,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Planning
+### 3. 2. Planning
 
 #### Understanding the status quo
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980)
@@ -871,7 +874,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Design
+### 4. 3. Design
 
 #### Keeping implementation efforts in mind
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980)
@@ -1385,7 +1388,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Implementation
+### 5. 4. Implementation
 
 #### Definition of work packages and responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980)
@@ -2038,7 +2041,7 @@ created: 2026-04-21
 > **Env Vars:** pdf (1)
 
 
-### 5. Operations
+### 6. 5. Operations
 
 #### Approaches to monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980)
@@ -2516,7 +2519,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Conclusion and outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980)
@@ -2540,6 +2543,15 @@ created: 2026-04-21
 > **URLs:** [learndataengineering.com](https://learndataengineering.com) (1)
 > **Speakers:** - alright (1)
 
+
+## Instructor
+
+- [[Andreas Kretz]]
+
+## Skills Covered
+
+- Data Engineering
+- Problem Solving
 
 ## Path Context
 

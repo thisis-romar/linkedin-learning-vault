@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-literacy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20XAI-%20Explainable%20Artificial%20Intelligence.md)
 
 ![Learning XAI: Explainable Artificial Intelligence](https://media.licdn.com/dms/image/v2/D4E0DAQGXHk4z7Dg7nQ/learning-public-crop_675_1200/B4EZWwX5fbHcAc-/0/1742420810047?e=2147483647&amp;v=beta&amp;t=jnrnnNV_gLf6_6XAJllJE252HBiholMiH0zmqaPwLz4)
 
@@ -46,23 +48,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961) | 2h 39m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jazmia Henry]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-xai-explainable-artificial-intelligence-3918466)
-
-## Skills Covered
-
-- Artificial Intelligence (AI)
-- AI Literacy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding the AI Landscape** (3 videos)
+- **3. 2. Bias in GenAI** (3 videos)
+- **4. 3. Bias in Model Training** (7 videos)
+- **5. 4. Counterfactuals in Bias Analysis** (5 videos)
+- **6. 5. Data Sampling for Bias Reduction** (7 videos)
+- **7. 6. Post-Training Model Constraints** (4 videos)
+- **8. 7. Case Study: Breakdown of a GenAI Story** (1 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### XAI: the key to fair and transparent AI for all
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/xai-the-key-to-fair-and-transparent-ai-for-all?u=76281980)
@@ -87,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 1. Understanding the AI Landscape
+### 2. 1. Understanding the AI Landscape
 
 #### Bias in AI and its impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980)
@@ -252,7 +252,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Bias in GenAI
+### 3. 2. Bias in GenAI
 
 #### Bias in data: "Bad data in, bad data out"
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980)
@@ -541,7 +541,7 @@ created: 2026-04-21
 > **Speakers:** - queen (1)
 
 
-### 3. Bias in Model Training
+### 4. 3. Bias in Model Training
 
 #### Introduction to GenAI model training
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-genai-model-training?u=76281980)
@@ -1005,7 +1005,7 @@ created: 2026-04-21
 > **File Paths:** requirements.txt (1)
 
 
-### 4. Counterfactuals in Bias Analysis
+### 5. 4. Counterfactuals in Bias Analysis
 
 #### What is a counterfactual?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980)
@@ -1427,7 +1427,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Data Sampling for Bias Reduction
+### 6. 5. Data Sampling for Bias Reduction
 
 #### The power of sampling data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/the-power-of-sampling-data?u=76281980)
@@ -1997,7 +1997,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### 6. Post-Training Model Constraints
+### 7. 6. Post-Training Model Constraints
 
 #### Introduction to model constraints to control bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980)
@@ -2325,7 +2325,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Case Study: Breakdown of a GenAI Story
+### 8. 7. Case Study: Breakdown of a GenAI Story
 
 #### Explore an example of GenAI output
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980)
@@ -2394,7 +2394,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Continuing your XAI learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980)
@@ -2464,6 +2464,20 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 > **Speakers:** - bad (1)
 
+
+## Instructor
+
+- [[Jazmia Henry]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-xai-explainable-artificial-intelligence-3918466)
+
+## Skills Covered
+
+- Artificial Intelligence (AI)
+- AI Literacy
 
 ## Path Context
 

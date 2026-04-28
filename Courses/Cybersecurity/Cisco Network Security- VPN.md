@@ -29,41 +29,33 @@ tags:
   - topic/network-and-system-administration
   - skill/cisco-vpn
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20VPN.md)
 
 ![Cisco Network Security: VPN](https://media.licdn.com/dms/image/v2/C4D0DAQF31SgzrqPg8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670433939935?e=2147483647&amp;v=beta&amp;t=z3ERHTsJr7RrZPTKQ3Uxn3crKUJraOKL0Cz--0W4zFI)
 
 # Cisco Network Security: VPN
 
-> Suggested prerequisites
-
-Cisco Certified Network Administrator (CCNA) training and/or knowledge of networking fundamentals, devices, cables, and topologies
-
-Projects
-
-Practice core networking skills using self-grading examples from Packet Tracer.
-Configure a clientless SSL VPN that allows a remote user to securely access predefined corporate resources from any location using a browser.
-Configure b
+> Suggested prerequisites Cisco Certified Network Administrator (CCNA) training and/or knowledge of networking fundamentals, devices, cables, and topologies Projects Practice core networking skills using self-grading examples from Packet Tracer. Configure a clientless SSL VPN that allows a remote user to securely access predefined corporate resources from any location using a browser. Configure basi
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607) | 1h 45m | Intermediate | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cisco VPN
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Understand VPN Concepts** (7 videos)
+- **3. 2. Discover IP Security (IPsec)** (5 videos)
+- **4. 3. Configure a VPN** (4 videos)
+- **5. 4. Examine a Remote Access VPN** (4 videos)
+- **6. 5. Investigate a Site-to-Site VPN** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Securing data in transit
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/securing-data-in-transit?u=76281980)
@@ -288,7 +280,7 @@ Configure b
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understand VPN Concepts
+### 2. 1. Understand VPN Concepts
 
 #### Describing a VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980)
@@ -749,7 +741,7 @@ Configure b
 > **Warnings:** keep in mind (1)
 
 
-### 2. Discover IP Security (IPsec)
+### 3. 2. Discover IP Security (IPsec)
 
 #### Summarizing IPsec
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980)
@@ -1089,7 +1081,7 @@ Configure b
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Configure a VPN
+### 4. 3. Configure a VPN
 
 #### Connecting with an always-on VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/connecting-with-an-always-on-vpn?u=76281980)
@@ -1403,7 +1395,7 @@ Configure b
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Examine a Remote Access VPN
+### 5. 4. Examine a Remote Access VPN
 
 #### Challenge: Clientless SSL VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-clientless-ssl-vpn?u=76281980)
@@ -1651,7 +1643,7 @@ Configure b
 > **Speakers:** - [educator] (1)
 
 
-### 5. Investigate a Site-to-Site VPN
+### 6. 5. Investigate a Site-to-Site VPN
 
 #### Ensuring Perfect Forward Secrecy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980)
@@ -2055,7 +2047,7 @@ Configure b
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980)
@@ -2093,6 +2085,18 @@ Configure b
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cisco VPN
 
 ## Path Context
 

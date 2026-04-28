@@ -34,8 +34,10 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Literacy%20for%20Business%20Leaders.md)
 
 ![AI Literacy for Business Leaders](https://media.licdn.com/dms/image/v2/D560DAQEch-jmFh4Rtg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706660296634?e=2147483647&amp;v=beta&amp;t=WkVtFdXKZo5TqjLYuibup6EuUJt8CmodWKoX52zYDZI)
 
@@ -46,13 +48,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders) | 1h 5m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Pinar Seyhan Demirdag]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The Power of Human-Machine Collaboration** (3 videos)
+- **3. 2. Mindset Shifts to Master AI** (5 videos)
+- **4. 3. Start Building AI Aptitude** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Dispelling common AI fears
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/dispelling-common-ai-fears?u=76281980)
@@ -173,7 +179,7 @@ created: 2026-04-21
 > **Speakers:** - between (1)
 
 
-### 1. The Power of Human-Machine Collaboration
+### 2. 1. The Power of Human-Machine Collaboration
 
 #### The majesty of human capability
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/the-majesty-of-human-capability?u=76281980)
@@ -447,7 +453,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 2. Mindset Shifts to Master AI
+### 3. 2. Mindset Shifts to Master AI
 
 #### Linear vs. quantum thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/linear-vs-quantum-thinking?u=76281980)
@@ -826,7 +832,7 @@ created: 2026-04-21
 > **Speakers:** - intelligence (1)
 
 
-### 3. Start Building AI Aptitude
+### 4. 3. Start Building AI Aptitude
 
 #### Defining AI aptitude
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980)
@@ -1218,7 +1224,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Imagining a post-work society
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/imagining-a-post-work-society?u=76281980)
@@ -1297,6 +1303,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - all (1)
 
+
+## Instructor
+
+- [[Pinar Seyhan Demirdag]]
 
 ## Path Context
 

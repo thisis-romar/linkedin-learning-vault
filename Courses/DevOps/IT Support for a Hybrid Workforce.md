@@ -23,8 +23,10 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/IT%20Support%20for%20a%20Hybrid%20Workforce.md)
 
 ![IT Support for a Hybrid Workforce](https://media.licdn.com/dms/image/v2/C560DAQFJS_yVK4ftTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1622828485537?e=2147483647&amp;v=beta&amp;t=6m0zPtxaUCo7qwnY8aaY35KbuFgtwX7xBNQuw73V-qI)
 
@@ -35,13 +37,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce) | 58m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Robert McMillen]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Planning for a Hybrid Environment** (3 videos)
+- **3. 2. Implementing Security in a Hybrid Workforce** (5 videos)
+- **4. 3. Wrangling User Hardware to Work Properly** (3 videos)
+- **5. 4. Collaboration and Communication** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding the needs of a hybrid team
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980)
@@ -86,7 +93,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### 1. Planning for a Hybrid Environment
+### 2. 1. Planning for a Hybrid Environment
 
 #### What are the workforce types that exist today?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980)
@@ -269,7 +276,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Implementing Security in a Hybrid Workforce
+### 3. 2. Implementing Security in a Hybrid Workforce
 
 #### How do users need to connect?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980)
@@ -607,7 +614,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 3. Wrangling User Hardware to Work Properly
+### 4. 3. Wrangling User Hardware to Work Properly
 
 #### What devices will cause the biggest headaches?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980)
@@ -850,7 +857,7 @@ created: 2026-04-21
 > **Best Practices:** it's best to (1)
 
 
-### 4. Collaboration and Communication
+### 5. 4. Collaboration and Communication
 
 #### How will users communicate with each other?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980)
@@ -1270,7 +1277,7 @@ created: 2026-04-21
 > **Speakers:** - ever (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Protecting data and remote users
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/protecting-data-and-remote-users?u=76281980)
@@ -1305,6 +1312,10 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Robert McMillen]]
 
 ## Path Context
 

@@ -45,8 +45,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20RAG%20Applications%20with%20Vector%20Databases.md)
 
 ![Advanced RAG Applications with Vector Databases](https://media.licdn.com/dms/image/v2/D4E0DAQFonI7LTbFo_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727723235646?e=2147483647&amp;v=beta&amp;t=KcI1L2PD0dAs_AAGyJoMpneLG2Xb_HqAeue6F65UDHM)
 
@@ -57,26 +59,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases) | 1h 18m | Advanced | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Yujian Tang]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-rag-applications-with-vector-databases-3886256/tree/main)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Vector Databases
-- Retrieval-Augmented Generation (RAG)
-- Artificial Intelligence (AI)
-- Large Language Models (LLM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Optimizing RAG** (15 videos)
+- **3. 2. Image Search with Vector Databases** (7 videos)
+- **4. 3. Multimodal RAG with Vector Databases** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### RAG with vector databases: Advanced strategies for AI optimization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/rag-with-vector-databases-advanced-strategies-for-ai-optimization?u=76281980)
@@ -220,7 +213,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 1. Optimizing RAG
+### 2. 1. Optimizing RAG
 
 #### Introduction to preprocessing for RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980)
@@ -1191,7 +1184,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### 2. Image Search with Vector Databases
+### 3. 2. Image Search with Vector Databases
 
 #### Introduction to vector embeddings for images
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980)
@@ -1482,7 +1475,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 3. Multimodal RAG with Vector Databases
+### 4. 3. Multimodal RAG with Vector Databases
 
 #### Introduction to the types of multimodality
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-types-of-multimodality?u=76281980)
@@ -1866,7 +1859,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/next-steps?u=76281980)
@@ -1887,6 +1880,23 @@ created: 2026-04-21
 > **Tools:** github (1)
 > **Speakers:** - [yujian] (1)
 
+
+## Instructor
+
+- [[Yujian Tang]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-rag-applications-with-vector-databases-3886256/tree/main)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Vector Databases
+- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence (AI)
+- Large Language Models (LLM)
 
 ## Path Context
 

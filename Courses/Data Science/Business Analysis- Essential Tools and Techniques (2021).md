@@ -21,8 +21,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis-%20Essential%20Tools%20and%20Techniques%20(2021).md)
 
 ![Business Analysis: Essential Tools and Techniques (2021)](https://media.licdn.com/dms/image/v2/C560DAQGsJLch8I-b7g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637176953146?e=2147483647&amp;v=beta&amp;t=Hc6s3Fn-pptzk4PmCjZj5GG3A7RJ0OHdk3fF53elQws)
 
@@ -33,13 +35,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021) | 48m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jamie Champagne]]
-
 ## Table of Contents
 
-### Introduction to Business Analysis Techniques
+### Chapter Overview
+
+- **1. Introduction to Business Analysis Techniques** (2 videos)
+- **2. 1. Requirements Traceability Matrix** (3 videos)
+- **3. 2. Process Modeling** (3 videos)
+- **4. 3. Context Diagrams** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction to Business Analysis Techniques
 
 #### Three essential business analysis techniques everyone should know
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/three-essential-business-analysis-techniques-everyone-should-know?u=76281980)
@@ -103,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - [jamie] (1)
 
 
-### 1. Requirements Traceability Matrix
+### 2. 1. Requirements Traceability Matrix
 
 #### The value of traceability to business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-traceability-to-business-analysis-work?u=76281980)
@@ -475,7 +481,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Process Modeling
+### 3. 2. Process Modeling
 
 #### The value of process modeling to business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980)
@@ -791,7 +797,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Context Diagrams
+### 4. 3. Context Diagrams
 
 #### The value of context diagrams to business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-context-diagrams-to-business-analysis-work?u=76281980)
@@ -1105,7 +1111,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Using business analysis templates for project success
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-business-analysis-templates-for-project-success?u=76281980)
@@ -1139,6 +1145,10 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1), template (1)
 > **Speakers:** - [jamie] (1)
 
+
+## Instructor
+
+- [[Jamie Champagne]]
 
 ## Path Context
 

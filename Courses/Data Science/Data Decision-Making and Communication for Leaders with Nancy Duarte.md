@@ -25,8 +25,10 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Decision-Making%20and%20Communication%20for%20Leaders%20with%20Nancy%20Duarte.md)
 
 ![Data Decision-Making and Communication for Leaders with Nancy Duarte](https://media.licdn.com/dms/image/v2/D4E0DAQHR66FceHMXUg/learning-public-crop_675_1200/B4EZWQUELnG0Ag-/0/1741882934866?e=2147483647&amp;v=beta&amp;t=5ruVm6rZL3nN3ZF4Px7Cn1YAamQuYWxp0HpdUeiK874)
 
@@ -37,15 +39,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte) | 44m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nancy Duarte]]
-- [[Duarte]]
-- [[Inc]]
-
 ## Table of Contents
 
-### Principles of Data Decision-Making and Communication
+### Chapter Overview
+
+- **1. Principles of Data Decision-Making and Communication** (4 videos)
+- **2. 1. Communicating Action from Data through Storytelling** (3 videos)
+- **3. 2. Using Slidedocs to Communicate Data to the Wider Organization** (3 videos)
+- **4. 3. Using AI to Critique and Observe Data** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Principles of Data Decision-Making and Communication
 
 #### Become a data-driven leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/introduction-to-data-decision-making?u=76281980)
@@ -387,7 +391,7 @@ created: 2026-04-21
 > **Speakers:** - business (1)
 
 
-### 1. Communicating Action from Data through Storytelling
+### 2. 1. Communicating Action from Data through Storytelling
 
 #### Customize your message to the audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/customize-your-message-to-the-audience?u=76281980)
@@ -652,7 +656,7 @@ created: 2026-04-21
 > **Speakers:** - usually (1)
 
 
-### 2. Using Slidedocs to Communicate Data to the Wider Organization
+### 3. 2. Using Slidedocs to Communicate Data to the Wider Organization
 
 #### What’s a Slidedoc?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/what-s-a-slidedoc?u=76281980)
@@ -879,7 +883,7 @@ created: 2026-04-21
 > **Speakers:** - even (1)
 
 
-### 3. Using AI to Critique and Observe Data
+### 4. 3. Using AI to Critique and Observe Data
 
 #### Use AI to critique a chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/use-ai-to-critique-a-chart?u=76281980)
@@ -1059,7 +1063,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### The power of communicating data well
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980)
@@ -1114,6 +1118,12 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Nancy Duarte]]
+- [[Duarte]]
+- [[Inc]]
 
 ## Path Context
 

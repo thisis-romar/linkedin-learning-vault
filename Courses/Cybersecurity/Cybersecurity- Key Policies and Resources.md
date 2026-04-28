@@ -30,8 +30,10 @@ tags:
   - skill/it-security-policies-procedures
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity-%20Key%20Policies%20and%20Resources.md)
 
 ![Cybersecurity: Key Policies and Resources](https://media.licdn.com/dms/image/v2/D560DAQFMcqNqsFKM7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690576869037?e=2147483647&amp;v=beta&amp;t=ewuWwHoEtE9koi70bwG71vYGGDNzzmc4LmCu8zBQzXE)
 
@@ -42,22 +44,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources) | 41m | Beginner | 99K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gregory Michaelidis]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- IT Security Policies & Procedures
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Overview of the Cybersecurity Problem (and Solutions)** (3 videos)
+- **3. 2. Overview of Federal Law and Policy** (3 videos)
+- **4. 3. Overview of International Law and Regulation** (2 videos)
+- **5. 4. Engaging with Federal Agencies and Law Enforcement** (2 videos)
+- **6. 5. Making Your Family and Organization More Secure and Resilient** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Navigating cybersecurity: Essential policies and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/navigating-cybersecurity-essential-policies-and-resources?u=76281980)
@@ -102,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Overview of the Cybersecurity Problem (and Solutions)
+### 2. 1. Overview of the Cybersecurity Problem (and Solutions)
 
 #### The cooperative origins of the internet
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980)
@@ -251,7 +250,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Overview of Federal Law and Policy
+### 3. 2. Overview of Federal Law and Policy
 
 #### Who does what in the federal government?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980)
@@ -443,7 +442,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Overview of International Law and Regulation
+### 4. 3. Overview of International Law and Regulation
 
 #### International bodies and organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980)
@@ -549,7 +548,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Engaging with Federal Agencies and Law Enforcement
+### 5. 4. Engaging with Federal Agencies and Law Enforcement
 
 #### Combatting ransomware
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980)
@@ -685,7 +684,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Making Your Family and Organization More Secure and Resilient
+### 6. 5. Making Your Family and Organization More Secure and Resilient
 
 #### Personal security checkup
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980)
@@ -807,7 +806,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/next-steps?u=76281980)
@@ -841,6 +840,19 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - [gregory] (1)
 
+
+## Instructor
+
+- [[Gregory Michaelidis]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- IT Security Policies & Procedures
+- Cybersecurity
 
 ## Path Context
 

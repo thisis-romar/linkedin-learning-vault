@@ -36,35 +36,33 @@ tags:
   - topic/database-management
   - skill/data-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/End-to-End%20Data%20Engineering%20Project.md)
 
 ![End-to-End Data Engineering Project](https://media.licdn.com/dms/image/v2/D4D0DAQFQihfehsNCiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698869440746?e=2147483647&amp;v=beta&amp;t=sfUJ7etqCscS3Cd63lMzAdfOYdLxuNchxPewFdCXalU)
 
 # End-to-End Data Engineering Project
 
-> The world of data engineering is ever-changing, with new tools and technologies emerging on a regular basis. Building an effective analytics platform can be a daunting task, especially if you’re not familiar with all the tools available. How do you turn scattered, complex data into a model that drives insights and decision-making?
-In this course, Thalia Barrera teaches data professionals how to im
+> The world of data engineering is ever-changing, with new tools and technologies emerging on a regular basis. Building an effective analytics platform can be a daunting task, especially if you’re not familiar with all the tools available. How do you turn scattered, complex data into a model that drives insights and decision-making? In this course, Thalia Barrera teaches data professionals how to im
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project) | 1h 15m | Intermediate | 141K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Thalia Barrera]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/end-to-end-data-engineering-project-4413618)
-
-## Skills Covered
-
-- Data Engineering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Project Overview and Preparation** (4 videos)
+- **3. 2. Data Extraction and Loading** (5 videos)
+- **4. 3. Starting Data Transformation and Modeling** (6 videos)
+- **5. 4. Data Transformation and Modeling** (7 videos)
+- **6. 5. Data Orchestration** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Transform complex data into insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980)
@@ -146,7 +144,7 @@ In this course, Thalia Barrera teaches data professionals how to im
 > **Prerequisites:** install (1)
 
 
-### 1. Project Overview and Preparation
+### 2. 1. Project Overview and Preparation
 
 #### Project architecture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980)
@@ -501,7 +499,7 @@ In this course, Thalia Barrera teaches data professionals how to im
 > **Prerequisites:** set up (1)
 
 
-### 2. Data Extraction and Loading
+### 3. 2. Data Extraction and Loading
 
 #### Getting started with ELT tools: An introduction to Airbyte
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980)
@@ -852,7 +850,7 @@ In this course, Thalia Barrera teaches data professionals how to im
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Starting Data Transformation and Modeling
+### 4. 3. Starting Data Transformation and Modeling
 
 #### Introduction to data modeling with dbt
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980)
@@ -1211,7 +1209,7 @@ In this course, Thalia Barrera teaches data professionals how to im
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Data Transformation and Modeling
+### 5. 4. Data Transformation and Modeling
 
 #### Creating and customizing your dbt models
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/creating-and-customizing-your-dbt-models?u=76281980)
@@ -1638,7 +1636,7 @@ In this course, Thalia Barrera teaches data professionals how to im
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Data Orchestration
+### 6. 5. Data Orchestration
 
 #### Introduction to data orchestration with Dagster
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980)
@@ -1969,7 +1967,7 @@ In this course, Thalia Barrera teaches data professionals how to im
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### An evolving field
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980)
@@ -2022,6 +2020,19 @@ In this course, Thalia Barrera teaches data professionals how to im
 > **Best Practices:** don't forget (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Thalia Barrera]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/end-to-end-data-engineering-project-4413618)
+
+## Skills Covered
+
+- Data Engineering
 
 ## Path Context
 

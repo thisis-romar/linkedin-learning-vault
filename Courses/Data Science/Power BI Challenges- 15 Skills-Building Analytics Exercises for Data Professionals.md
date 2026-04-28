@@ -33,8 +33,10 @@ tags:
   - skill/microsoft-power-bi
   - skill/data-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Challenges-%2015%20Skills-Building%20Analytics%20Exercises%20for%20Data%20Professionals.md)
 
 ![Power BI Challenges: 15 Skills-Building Analytics Exercises for Data Professionals](https://media.licdn.com/dms/image/v2/D560DAQG9Xu7sFCpuhA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700508691866?e=2147483647&amp;v=beta&amp;t=0t7UlYk2jrANq5TYuaHRwn1RiS17l0jUdpnEPJhV9SQ)
 
@@ -45,22 +47,29 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals) | 2h 3m | Intermediate | 80K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emma Saunders]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Power BI
-- Data Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Prepare the Data** (2 videos)
+- **3. 2. Design a Visual from Unfamiliar Data** (2 videos)
+- **4. 3. Improve the Appearance of Your Visual** (2 videos)
+- **5. 4. Design Report Page Filters** (2 videos)
+- **6. 5. Add KPIs to Your Report** (2 videos)
+- **7. 6. Adding Visuals to the Report** (2 videos)
+- **8. 7. Improve the Appeal of Your Report** (2 videos)
+- **9. 8. Improve Usability** (2 videos)
+- **10. 9. Add Data to the Model** (2 videos)
+- **11. 10. Add Target Profit to Your Report** (2 videos)
+- **12. 11. Complete the Report Page** (2 videos)
+- **13. 12. Improve Your Report** (2 videos)
+- **14. 13. Import a Custom Visual** (2 videos)
+- **15. 14. Adjust the Final Report** (2 videos)
+- **16. 15. DAX** (2 videos)
+- **17. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build your skills with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/build-your-skills-with-power-bi?u=76281980)
@@ -120,7 +129,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Prepare the Data
+### 2. 1. Prepare the Data
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980)
@@ -254,7 +263,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 2. Design a Visual from Unfamiliar Data
+### 3. 2. Design a Visual from Unfamiliar Data
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980)
@@ -413,7 +422,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### 3. Improve the Appearance of Your Visual
+### 4. 3. Improve the Appearance of Your Visual
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22899457?u=76281980)
@@ -609,7 +618,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. Design Report Page Filters
+### 5. 4. Design Report Page Filters
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19854089?u=76281980)
@@ -782,7 +791,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Add KPIs to Your Report
+### 6. 5. Add KPIs to Your Report
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900438?u=76281980)
@@ -958,7 +967,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Adding Visuals to the Report
+### 7. 6. Adding Visuals to the Report
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22896473?u=76281980)
@@ -1163,7 +1172,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Improve the Appeal of Your Report
+### 8. 7. Improve the Appeal of Your Report
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge?u=76281980)
@@ -1349,7 +1358,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### 8. Improve Usability
+### 9. 8. Improve Usability
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980)
@@ -1609,7 +1618,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Add Data to the Model
+### 10. 9. Add Data to the Model
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22895512?u=76281980)
@@ -1783,7 +1792,7 @@ created: 2026-04-21
 > **Best Practices:** best practice (2)
 
 
-### 10. Add Target Profit to Your Report
+### 11. 10. Add Target Profit to Your Report
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980)
@@ -2005,7 +2014,7 @@ created: 2026-04-21
 > **Non-Speech:** (peppy music) (1)
 
 
-### 11. Complete the Report Page
+### 12. 11. Complete the Report Page
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898405?u=76281980)
@@ -2168,7 +2177,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 12. Improve Your Report
+### 13. 12. Improve Your Report
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19858049?u=76281980)
@@ -2325,7 +2334,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat bright music) (1)
 
 
-### 13. Import a Custom Visual
+### 14. 13. Import a Custom Visual
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19857051?u=76281980)
@@ -2395,7 +2404,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 14. Adjust the Final Report
+### 15. 14. Adjust the Final Report
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980)
@@ -2589,7 +2598,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 15. DAX
+### 16. 15. DAX
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19846201?u=76281980)
@@ -2753,7 +2762,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 17. Conclusion
 
 #### Continuing on with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/continuing-on-with-power-bi?u=76281980)
@@ -2775,6 +2784,19 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Emma Saunders]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Power BI
+- Data Analytics
 
 ## Path Context
 

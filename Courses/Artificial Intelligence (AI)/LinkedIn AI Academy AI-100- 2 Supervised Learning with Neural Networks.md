@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-neural-networks
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/LinkedIn%20AI%20Academy%20AI-100-%202%20Supervised%20Learning%20with%20Neural%20Networks.md)
 
 ![LinkedIn AI Academy AI-100: 2 Supervised Learning with Neural Networks](https://media.licdn.com/dms/image/v2/D4D0DAQEEPm6xE-zRRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683061136354?e=2147483647&amp;v=beta&amp;t=xQxRED_ORwnogHQ-dO9m_ZbLzskqBpkHt6Qe-1MD39g)
 
@@ -44,20 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks) | 1h 9m | Intermediate | 60K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daniel Hewlett]]
-- [[Ananth Sankar]]
-
-## Skills Covered
-
-- Supervised Learning
-- Artificial Intelligence (AI)
-- Artificial Neural Networks
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Deep Neural Networks** (3 videos)
+- **3. 2. Convolutional Networks** (3 videos)
+- **4. 3. Sequence Classifiers** (6 videos)
+- **5. 4. Graph Neural Networks** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The LinkedIn AI Academy: Neural networks are the heart of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai?u=76281980)
@@ -77,7 +77,7 @@ created: 2026-04-21
 > **Speakers:** - [ananth] (1)
 
 
-### 1. Deep Neural Networks
+### 2. 1. Deep Neural Networks
 
 #### Neuron: Basic element of neural net
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/neuron-basic-element-of-neural-net?u=76281980)
@@ -310,7 +310,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Convolutional Networks
+### 3. 2. Convolutional Networks
 
 #### What is a convolutional filter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980)
@@ -537,7 +537,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Sequence Classifiers
+### 4. 3. Sequence Classifiers
 
 #### Modeling sequences with language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/modeling-sequences-with-language-models?u=76281980)
@@ -1064,7 +1064,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Graph Neural Networks
+### 5. 4. Graph Neural Networks
 
 #### Motivation and introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980)
@@ -1335,7 +1335,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continuing the AI-100 learning path
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/continuing-the-ai-100-learning-path?u=76281980)
@@ -1365,6 +1365,17 @@ created: 2026-04-21
 > **Speakers:** - [ananth] (2), - [daniel] (2), - i (1), - [daniel (1)
 > **Code Keywords:** continue (1)
 
+
+## Instructor
+
+- [[Daniel Hewlett]]
+- [[Ananth Sankar]]
+
+## Skills Covered
+
+- Supervised Learning
+- Artificial Intelligence (AI)
+- Artificial Neural Networks
 
 ## Path Context
 

@@ -39,8 +39,10 @@ tags:
   - skill/javascript
   - skill/react-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Modern%20Projects%20with%20React.md)
 
 ![Building Modern Projects with React](https://media.licdn.com/dms/image/v2/D560DAQGOgABK85NgGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730769070369?e=2147483647&amp;v=beta&amp;t=i6A0EJqAi0ZU1REHNfJU7kiqyFlg70mYNUGbXpb9stg)
 
@@ -51,25 +53,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170) | 3h 50m | Intermediate | 56K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shaun Wassell]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/building-modern-projects-with-react-4254233/codespaces)
-
-## Skills Covered
-
-- Web Development
-- Front-End Development
-- JavaScript
-- React.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Project Setup** (1 videos)
+- **3. 2. Project Overview** (2 videos)
+- **4. 3. Creating React Projects from Scratch** (5 videos)
+- **5. 4. Creating Projects with Vite, Next.js, Remix, and More** (4 videos)
+- **6. 5. Creating a Basic Project** (5 videos)
+- **7. 6. Adding Redux** (11 videos)
+- **8. 7. Alternatives to Redux** (2 videos)
+- **9. 8. Dealing with Side Effects** (10 videos)
+- **10. 9. Selectors** (4 videos)
+- **11. 10. Styled-Components** (3 videos)
+- **12. 11. Testing** (4 videos)
+- **13. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Let's build modern projects with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react?u=76281980)
@@ -126,7 +128,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Project Setup
+### 2. 1. Project Setup
 
 #### Basic setup and exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980)
@@ -163,7 +165,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Project Overview
+### 3. 2. Project Overview
 
 #### Why use the React ecosystem?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980)
@@ -269,7 +271,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Creating React Projects from Scratch
+### 4. 3. Creating React Projects from Scratch
 
 #### Building a React project from scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980)
@@ -817,7 +819,7 @@ created: 2026-04-21
 > **Code Identifiers:** createelement (1)
 
 
-### 4. Creating Projects with Vite, Next.js, Remix, and More
+### 5. 4. Creating Projects with Vite, Next.js, Remix, and More
 
 #### Create a project with Create React App
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980)
@@ -1318,7 +1320,7 @@ created: 2026-04-21
 > **Analogies:** for example (1), similar to (1)
 
 
-### 5. Creating a Basic Project
+### 6. 5. Creating a Basic Project
 
 #### Meet the sample app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-sample-app?u=76281980)
@@ -1942,7 +1944,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Adding Redux
+### 7. 6. Adding Redux
 
 #### Why do we need Redux?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux?u=76281980)
@@ -2873,7 +2875,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Alternatives to Redux
+### 8. 7. Alternatives to Redux
 
 #### State management with Recoil
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980)
@@ -3120,7 +3122,7 @@ created: 2026-04-21
 > **Env Vars:** ide (1)
 
 
-### 8. Dealing with Side Effects
+### 9. 8. Dealing with Side Effects
 
 #### Why do we need Redux-Thunk?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux-thunk?u=76281980)
@@ -4124,7 +4126,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Selectors
+### 10. 9. Selectors
 
 #### Why do we need selectors?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-selectors?u=76281980)
@@ -4385,7 +4387,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Styled-Components
+### 11. 10. Styled-Components
 
 #### Why do we need styled-components?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-styled-components?u=76281980)
@@ -4572,7 +4574,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Testing
+### 12. 11. Testing
 
 #### Testing React ecosystems
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-react-ecosystems?u=76281980)
@@ -4974,7 +4976,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 13. Conclusion
 
 #### Next steps for building with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980)
@@ -5004,6 +5006,22 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Shaun Wassell]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/building-modern-projects-with-react-4254233/codespaces)
+
+## Skills Covered
+
+- Web Development
+- Front-End Development
+- JavaScript
+- React.js
 
 ## Path Context
 

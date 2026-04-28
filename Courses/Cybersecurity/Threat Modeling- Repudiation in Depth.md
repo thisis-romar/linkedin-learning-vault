@@ -30,8 +30,10 @@ tags:
   - skill/threat-modeling
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Repudiation%20in%20Depth.md)
 
 ![Threat Modeling: Repudiation in Depth](https://media.licdn.com/dms/image/v2/C4E0DAQH8-fXfaBVyxQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580924049084?e=2147483647&amp;v=beta&amp;t=Joe5xWPFhXDQwGbpluWFw-PoR38vGO2Ce9ypAHxcvZo)
 
@@ -42,18 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth) | 25m | Intermediate | 68K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Shostack]]
-
-## Skills Covered
-
-- Threat Modeling
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Technical Repudiation** (2 videos)
+- **3. 2. Fraud** (3 videos)
+- **4. 3. Identity Theft** (2 videos)
+- **5. 4. Attacks on Logs** (2 videos)
+- **6. 5. Repudiation in Specific Technologies** (3 videos)
+- **7. 6. Defenses** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The threat of repudiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/the-threat-of-repudiation?u=76281980)
@@ -165,7 +169,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Technical Repudiation
+### 2. 1. Technical Repudiation
 
 #### Message repudiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/message-repudiation?u=76281980)
@@ -233,7 +237,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Fraud
+### 3. 2. Fraud
 
 #### Buyers and sellers
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/buyers-and-sellers?u=76281980)
@@ -355,7 +359,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Identity Theft
+### 4. 3. Identity Theft
 
 #### Identity theft and repudiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/identity-theft-and-repudiation?u=76281980)
@@ -425,7 +429,7 @@ created: 2026-04-21
 > **Speakers:** - that (1)
 
 
-### 4. Attacks on Logs
+### 5. 4. Attacks on Logs
 
 #### Attacks on logs
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-on-logs?u=76281980)
@@ -491,7 +495,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Repudiation in Specific Technologies
+### 6. 5. Repudiation in Specific Technologies
 
 #### Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cloud?u=76281980)
@@ -590,7 +594,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Defenses
+### 7. 6. Defenses
 
 #### Cryptographic defenses
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980)
@@ -799,7 +803,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Secure by design
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/next-steps?u=76281980)
@@ -824,6 +828,15 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
 
+
+## Instructor
+
+- [[Adam Shostack]]
+
+## Skills Covered
+
+- Threat Modeling
+- Cybersecurity
 
 ## Path Context
 

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-your-cloud-computing-skills
 course_count: 3
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 3
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/cloud-computing
@@ -29,8 +29,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Build%20your%20Cloud%20Computing%20Skills.md)
 
 # Build your Cloud Computing Skills
 

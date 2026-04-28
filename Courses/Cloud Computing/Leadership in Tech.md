@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Leadership%20in%20Tech.md)
 
 ![Leadership in Tech](https://media.licdn.com/dms/image/v2/C4E0DAQF4OOGlHzEi2A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568064400111?e=2147483647&amp;v=beta&amp;t=d47fgiJZjrcx85fJJyGKzso5d5W3Gy6dJ8k6HWUBZ0k)
 
@@ -41,17 +43,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech) | 1h 2m | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Erica Lockheimer]]
-
-## Skills Covered
-
-- Leadership
-
 ## Table of Contents
 
-### Promo
+### Chapter Overview
+
+- **1. Promo** (1 videos)
+- **2. 1. Tech Leader Interviews** (14 videos)
+
+### 1. Promo
 
 #### Leadership in tech: Promo
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/leadership-in-tech-promo?u=76281980)
@@ -75,7 +74,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat and pleasant rock music) (1)
 
 
-### 1. Tech Leader Interviews
+### 2. 1. Tech Leader Interviews
 
 #### Awareness, Synthesis, and Inspiration: Jeff Weiner
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980)
@@ -1814,6 +1813,14 @@ created: 2026-04-21
 > **Code Keywords:** else. (1), let (1), this. (1)
 > **Non-Speech:** (upbeat drum music) (1)
 
+
+## Instructor
+
+- [[Erica Lockheimer]]
+
+## Skills Covered
+
+- Leadership
 
 ## Path Context
 

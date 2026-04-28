@@ -34,8 +34,10 @@ tags:
   - skill/python-programming-language
   - skill/open-source-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Create%20an%20Open-Source%20Project%20in%20Python.md)
 
 ![Create an Open-Source Project in Python](https://media.licdn.com/dms/image/v2/C560DAQEh8rkWx4V2MQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1680032934598?e=2147483647&amp;v=beta&amp;t=97RGy2nr1Ul4q6Bx7siDs87h-kuPfHldBdK4mlS9AM0)
 
@@ -46,23 +48,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python) | 1h 24m | Intermediate | 100K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Cheuk Ting Ho]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/creating-an-open-source-project-in-python-3085072)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Open-Source Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Starting a Project with Poetry** (7 videos)
+- **3. 2. Power Up Your Tests** (9 videos)
+- **4. 3. Tidy Up Your Code** (7 videos)
+- **5. 4. Standardize Testing Using tox** (4 videos)
+- **6. 5. Setting up a Workflow on GitHub Action** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Create an open-source project in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980)
@@ -115,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Starting a Project with Poetry
+### 2. 1. Starting a Project with Poetry
 
 #### What is Poetry?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-poetry?u=76281980)
@@ -509,7 +507,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Power Up Your Tests
+### 3. 2. Power Up Your Tests
 
 #### What is pytest?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980)
@@ -1149,7 +1147,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 3. Tidy Up Your Code
+### 4. 3. Tidy Up Your Code
 
 #### What is PEP 8?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pep-8?u=76281980)
@@ -1719,7 +1717,7 @@ created: 2026-04-21
 > **Speakers:** - [cheuk] (1)
 
 
-### 4. Standardize Testing Using tox
+### 5. 4. Standardize Testing Using tox
 
 #### What is tox?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980)
@@ -1935,7 +1933,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Setting up a Workflow on GitHub Action
+### 6. 5. Setting up a Workflow on GitHub Action
 
 #### What is GitHub Action?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-github-action?u=76281980)
@@ -2212,7 +2210,7 @@ created: 2026-04-21
 > **URLs:** [codecov.io](https://codecov.io) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Open-source project with good practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980)
@@ -2262,6 +2260,20 @@ created: 2026-04-21
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Cheuk Ting Ho]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/creating-an-open-source-project-in-python-3085072)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Open-Source Development
 
 ## Path Context
 

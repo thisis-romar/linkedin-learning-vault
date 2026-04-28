@@ -32,8 +32,10 @@ tags:
   - skill/asp-net-core
   - skill/graphql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/ASP.NET%20Core-%20Building%20a%20GraphQL%20API.md)
 
 ![ASP.NET Core: Building a GraphQL API](https://media.licdn.com/dms/image/v2/C560DAQHKGBsyOnB6Hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643138871864?e=2147483647&amp;v=beta&amp;t=L8EaVW3Re-UhMfodYl7qccMHkUT6t85Jr21OGEDzOQU)
 
@@ -44,23 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api) | 1h 38m | Intermediate | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ervis Trupja]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- API Development
-- ASP.NET Core
-- GraphQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started with GraphQL** (5 videos)
+- **3. 2. Data Querying with GraphQL in .NET Web API** (8 videos)
+- **4. 3. Data Mutation with GraphQL in .NET Web API** (7 videos)
+- **5. 4. Querying and Mutating Relational Data with GraphQL in .NET Web API** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using GraphQL API
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980)
@@ -119,7 +116,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with GraphQL
+### 2. 1. Getting Started with GraphQL
 
 #### What is GraphQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-graphql?u=76281980)
@@ -545,7 +542,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 2. Data Querying with GraphQL in .NET Web API
+### 3. 2. Data Querying with GraphQL in .NET Web API
 
 #### Operations in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/operations-in-graphql?u=76281980)
@@ -1172,7 +1169,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Mutation with GraphQL in .NET Web API
+### 4. 3. Data Mutation with GraphQL in .NET Web API
 
 #### What is a mutation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980)
@@ -1749,7 +1746,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Querying and Mutating Relational Data with GraphQL in .NET Web API
+### 5. 4. Querying and Mutating Relational Data with GraphQL in .NET Web API
 
 #### Adding relationship data
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-relationship-data?u=76281980)
@@ -2199,7 +2196,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps for learning more about GraphQL API
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980)
@@ -2237,6 +2234,20 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [ervis] (1)
 
+
+## Instructor
+
+- [[Ervis Trupja]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- API Development
+- ASP.NET Core
+- GraphQL
 
 ## Path Context
 

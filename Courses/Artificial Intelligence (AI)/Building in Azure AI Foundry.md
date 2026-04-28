@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/azure-ai-foundry
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20in%20Azure%20AI%20Foundry.md)
 
 ![Building in Azure AI Foundry](https://media.licdn.com/dms/image/v2/D4D0DAQGRXNJHuKgHfA/learning-public-crop_675_1200/B4DZU_moEVHwAc-/0/1740528845416?e=2147483647&amp;v=beta&amp;t=LEv_T66w4Ed_eB9vGkUW_EJB9e0uicMJ-kuuV2xvvhQ)
 
@@ -47,24 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry) | 54m | Intermediate | 1K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bryan Li]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Azure AI Studio
-- AI Software Development
-- Artificial Intelligence (AI)
-- Azure AI Foundry
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Overview of Azure AI Foundry** (2 videos)
+- **3. 2. Get Started with Azure AI Foundry** (6 videos)
+- **4. 3. Explore Advanced Capabilities** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build your AI applications with Azure AI Foundry
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980)
@@ -88,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 1. Overview of Azure AI Foundry
+### 2. 1. Overview of Azure AI Foundry
 
 #### What is Azure AI Foundry?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980)
@@ -166,7 +161,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Get Started with Azure AI Foundry
+### 3. 2. Get Started with Azure AI Foundry
 
 #### Create your AI project
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980)
@@ -824,7 +819,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. Explore Advanced Capabilities
+### 4. 3. Explore Advanced Capabilities
 
 #### Create prompt flows
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980)
@@ -1117,7 +1112,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980)
@@ -1152,6 +1147,21 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Bryan Li]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Azure AI Studio
+- AI Software Development
+- Artificial Intelligence (AI)
+- Azure AI Foundry
 
 ## Path Context
 

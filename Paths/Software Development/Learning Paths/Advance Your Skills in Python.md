@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-in-python-89696
 course_count: 7
 linkedin_topics:
   - Software Development
-louvain_cluster: 15
+louvain_cluster: 19
 tags:
   - learning-path
   - topic/software-development
@@ -45,8 +45,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/Advance%20Your%20Skills%20in%20Python.md)
 
 # Advance Your Skills in Python
 

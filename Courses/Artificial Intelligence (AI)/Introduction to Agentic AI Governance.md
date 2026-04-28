@@ -20,8 +20,10 @@ tags:
   - topic/artificial-intelligence
   - topic/security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Agentic%20AI%20Governance.md)
 
 ![Introduction to Agentic AI Governance](https://media.licdn.com/dms/image/v2/D4E0DAQFdsz-QjWmURQ/learning-public-crop_675_1200/B4EZeyKqqoGcAY-/0/1751040830902?e=2147483647&amp;v=beta&amp;t=QilXymGvljMeZ4VTwDd4Ls4rvjOyOG-fLZ89eh3vR9s)
 
@@ -32,13 +34,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance) | 52m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Vidhi Chugh]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Current State of AI Governance** (3 videos)
+- **3. 2. Increased Agency Demands Increased Governance** (3 videos)
+- **4. 3. Core Principles of Agentic AI Governance** (3 videos)
+- **5. 4. Agentic AI Governance in Action and Future Direction** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Time to govern intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/time-to-govern-intelligence?u=76281980)
@@ -69,7 +76,7 @@ created: 2026-04-21
 > **Speakers:** - [vidhi] (1)
 
 
-### 1. Current State of AI Governance
+### 2. 1. Current State of AI Governance
 
 #### The evolving risks of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980)
@@ -295,7 +302,7 @@ created: 2026-04-21
 > **Speakers:** - [educator] (1)
 
 
-### 2. Increased Agency Demands Increased Governance
+### 3. 2. Increased Agency Demands Increased Governance
 
 #### What is agentic AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980)
@@ -528,7 +535,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Core Principles of Agentic AI Governance
+### 4. 3. Core Principles of Agentic AI Governance
 
 #### Transparency
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980)
@@ -766,7 +773,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 4. Agentic AI Governance in Action and Future Direction
+### 5. 4. Agentic AI Governance in Action and Future Direction
 
 #### Best practices for documenting governance in agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980)
@@ -984,7 +991,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/next-steps?u=76281980)
@@ -1009,6 +1016,10 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Vidhi Chugh]]
 
 ## Path Context
 

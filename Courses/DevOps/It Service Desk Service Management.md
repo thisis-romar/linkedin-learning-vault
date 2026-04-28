@@ -25,8 +25,10 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/It%20Service%20Desk%20Service%20Management.md)
 
 ![It Service Desk Service Management](https://media.licdn.com/dms/image/v2/C4E0DAQHo0SYemZodQQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1575307734721?e=2147483647&amp;v=beta&amp;t=Odtp2xzNapKfy4fzDoU_3Ma9xlfmtI-r_86iIdvq79g)
 
@@ -37,17 +39,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management) | Beginner | 96K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- IT Service Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Overview** (5 videos)
+- **3. 2. Service Level Management** (4 videos)
+- **4. 3. Incident Management** (4 videos)
+- **5. 4. Problem Management** (4 videos)
+- **6. 5. Change Management** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Transform your service management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980)
@@ -146,7 +150,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 1. Overview
+### 2. 1. Overview
 
 #### Service management defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-defined?u=76281980)
@@ -624,7 +628,7 @@ created: 2026-04-21
 > **Speakers:** - value (1)
 
 
-### 2. Service Level Management
+### 3. 2. Service Level Management
 
 #### Service level management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management?u=76281980)
@@ -913,7 +917,7 @@ created: 2026-04-21
 > **Speakers:** - service (1)
 
 
-### 3. Incident Management
+### 4. 3. Incident Management
 
 #### Incident management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/incident-management?u=76281980)
@@ -1174,7 +1178,7 @@ created: 2026-04-21
 > **Speakers:** - knowledge (1)
 
 
-### 4. Problem Management
+### 5. 4. Problem Management
 
 #### Manage stakeholder expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980)
@@ -1447,7 +1451,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 5. Change Management
+### 6. 5. Change Management
 
 #### Change management practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980)
@@ -1778,7 +1782,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/next-steps?u=76281980)
@@ -1812,6 +1816,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- IT Service Management
 
 ## Path Context
 

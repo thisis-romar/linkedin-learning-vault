@@ -30,8 +30,10 @@ tags:
   - skill/ktor
   - skill/kotlin
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Exploring%20Ktor%20with%20Kotlin%20Multiplatform%20and%20Compose.md)
 
 ![Exploring Ktor with Kotlin Multiplatform and Compose](https://media.licdn.com/dms/image/v2/D4E0DAQFfngO00MxqnQ/learning-public-crop_675_1200/B4EZjnfDwkIIAo-/0/1756230335761?e=2147483647&amp;v=beta&amp;t=jUfu6S51589bAn2Lh7Z106veCERpp9-E9PbKmSgGS1I)
 
@@ -42,23 +44,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose) | 1h 29m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Troy Miles]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/exploring-ktor-with-kotlin-multi-platform-6004176)
-
-## Skills Covered
-
-- Ktor
-- Kotlin
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Started with Ktor Server** (6 videos)
+- **3. 2. Data Storage and Caching** (6 videos)
+- **4. 3. Advanced API Features** (6 videos)
+- **5. 4. Kotlin Multiplatform Foundations** (5 videos)
+- **6. 5. Shared Network Layer** (5 videos)
+- **7. 6. Compose Multiplatform UI** (6 videos)
+- **8. 7. iOS Integration** (5 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Explore Ktor with Kotlin Multiplatform and Compose Multiplatform
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/exploring-ktor-with-kotlin-multiplatform-and-compose?u=76281980)
@@ -82,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - do (1)
 
 
-### 1. Getting Started with Ktor Server
+### 2. 1. Getting Started with Ktor Server
 
 #### Set up Kotlin Multiplatform (KMP) projects with a Ktor server
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980)
@@ -509,7 +509,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Data Storage and Caching
+### 3. 2. Data Storage and Caching
 
 #### SQLite setup with Exposed object-relational mapping (ORM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980)
@@ -853,7 +853,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced API Features
+### 4. 3. Advanced API Features
 
 #### Enhanced error handling and status pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980)
@@ -1182,7 +1182,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Kotlin Multiplatform Foundations
+### 5. 4. Kotlin Multiplatform Foundations
 
 #### KMP project architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980)
@@ -1462,7 +1462,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 5. Shared Network Layer
+### 6. 5. Shared Network Layer
 
 #### Ktor client setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980)
@@ -1749,7 +1749,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. Compose Multiplatform UI
+### 7. 6. Compose Multiplatform UI
 
 #### Compose UI architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980)
@@ -2007,7 +2007,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. iOS Integration
+### 8. 7. iOS Integration
 
 #### Understanding iOS generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980)
@@ -2260,7 +2260,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps and course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980)
@@ -2299,6 +2299,20 @@ created: 2026-04-21
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Troy Miles]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/exploring-ktor-with-kotlin-multi-platform-6004176)
+
+## Skills Covered
+
+- Ktor
+- Kotlin
 
 ## Path Context
 

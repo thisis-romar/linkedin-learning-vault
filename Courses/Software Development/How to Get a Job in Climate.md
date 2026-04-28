@@ -26,8 +26,10 @@ tags:
   - skill/job-search-strategies
   - skill/climate-change
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/How%20to%20Get%20a%20Job%20in%20Climate.md)
 
 ![How to Get a Job in Climate](https://media.licdn.com/dms/image/v2/D560DAQHwGij3-l5UwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1685997055221?e=2147483647&amp;v=beta&amp;t=HqBwteeo_3F8_660drqpIhZ9QX88Wf4f1nYy5KmyUyw)
 
@@ -38,23 +40,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate) | 56m | 40K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Climate People]]
-- [[Natalie Lavery]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Job Search Strategies
-- Climate Change
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The State of the Climate Job Industry** (5 videos)
+- **3. 2. Barriers to Working in Climate** (3 videos)
+- **4. 3. The Climate Job Search Isn't Traditional** (2 videos)
+- **5. 4. How to Get a Job in Climate** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Growing demand for climate jobs
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980)
@@ -143,7 +140,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. The State of the Climate Job Industry
+### 2. 1. The State of the Climate Job Industry
 
 #### What is climate tech?
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980)
@@ -511,7 +508,7 @@ created: 2026-04-21
 > **Speakers:** - terra (1)
 
 
-### 2. Barriers to Working in Climate
+### 3. 2. Barriers to Working in Climate
 
 #### Why climate experience isn't necessary
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-experience-isn-t-necessary?u=76281980)
@@ -721,7 +718,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. The Climate Job Search Isn't Traditional
+### 4. 3. The Climate Job Search Isn't Traditional
 
 #### Why climate job searches are different
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980)
@@ -853,7 +850,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. How to Get a Job in Climate
+### 5. 4. How to Get a Job in Climate
 
 #### Five steps for getting your foot in the door in climate
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980)
@@ -1431,7 +1428,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Act now
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/act-now?u=76281980)
@@ -1464,6 +1461,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
+
+## Instructor
+
+- [[Climate People]]
+- [[Natalie Lavery]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Job Search Strategies
+- Climate Change
 
 ## Path Context
 

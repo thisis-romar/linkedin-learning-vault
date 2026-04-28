@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Projects-%20Create%20an%20Interactive%20Quiz%20Application.md)
 
 ![Python Projects: Create an Interactive Quiz Application](https://media.licdn.com/dms/image/v2/C4D0DAQGKo6zGY36bbw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654623850850?e=2147483647&amp;v=beta&amp;t=gNaxGv6pIADVIe5Blt508ioprQKgbSb7VpHRhj0odvk)
 
@@ -41,22 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application) | 1h 29m | Intermediate | 56K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/python-project-build-a-quiz-application-2476116)
-
-## Skills Covered
-
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Overview** (4 videos)
+- **3. 2. The Basics** (7 videos)
+- **4. 3. Improvements** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building a quiz app in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-a-quiz-app-in-python?u=76281980)
@@ -208,7 +205,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Overview
+### 2. 1. Overview
 
 #### Defining the app requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/defining-the-app-requirements?u=76281980)
@@ -666,7 +663,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. The Basics
+### 3. 2. The Basics
 
 #### Creating the Question and Answer classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-question-and-answer-classes?u=76281980)
@@ -1702,7 +1699,7 @@ created: 2026-04-21
 > **Definitions:** is called (1), is a  (1)
 
 
-### 3. Improvements
+### 4. 3. Improvements
 
 #### Presenting questions in random order
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-questions-in-random-order?u=76281980)
@@ -2096,7 +2093,7 @@ created: 2026-04-21
 > **Speakers:** - [joe] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980)
@@ -2135,6 +2132,19 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1), continue (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/python-project-build-a-quiz-application-2476116)
+
+## Skills Covered
+
+- Python (Programming Language)
 
 ## Path Context
 

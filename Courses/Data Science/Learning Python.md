@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Python.md)
 
 ![Learning Python](https://media.licdn.com/dms/image/v2/D4E0DAQECotgjIKCbrw/learning-public-crop_675_1200/B4EZT7PgtEGwAc-/0/1739381935225?e=2147483647&amp;v=beta&amp;t=zavFdzEcNtb5C3H8Q58J2_FVW9eqwIM5x_aSr1xHRzQ)
 
@@ -42,22 +44,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312) | 3h 41m | Beginner | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Marini]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-python-3980343/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started** (3 videos)
+- **3. 2. Basics of Python** (8 videos)
+- **4. 3. Beyond the Basics** (6 videos)
+- **5. 4. Welcome to Part 2** (1 videos)
+- **6. 5. Using Dates and Times** (5 videos)
+- **7. 6. Working with Files** (5 videos)
+- **8. 7. Working with the Internet** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/learning-python?u=76281980)
@@ -136,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Using the course resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/using-the-course-resources?u=76281980)
@@ -401,7 +402,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Basics of Python
+### 3. 2. Basics of Python
 
 #### Building "Hello World"
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/building-hello-world?u=76281980)
@@ -2050,7 +2051,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 3. Beyond the Basics
+### 4. 3. Beyond the Basics
 
 #### Built-in functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/built-in-functions?u=76281980)
@@ -2862,7 +2863,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Welcome to Part 2
+### 5. 4. Welcome to Part 2
 
 #### Applying what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/applying-what-we-ve-learned?u=76281980)
@@ -2890,7 +2891,7 @@ created: 2026-04-21
 > **Speakers:** - welcome (1)
 
 
-### 5. Using Dates and Times
+### 6. 5. Using Dates and Times
 
 #### The date, time, and datetime classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/the-date-time-and-datetime-classes?u=76281980)
@@ -3695,7 +3696,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Working with Files
+### 7. 6. Working with Files
 
 #### Writing files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/writing-files?u=76281980)
@@ -4419,7 +4420,7 @@ created: 2026-04-21
 > **Speakers:** - okay (1)
 
 
-### 7. Working with the Internet
+### 8. 7. Working with the Internet
 
 #### Retrieving internet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/retrieving-internet-data?u=76281980)
@@ -4896,7 +4897,7 @@ created: 2026-04-21
 > **Documentation:** the docs (1), the documentation (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/conclusion?u=76281980)
@@ -4947,6 +4948,19 @@ created: 2026-04-21
 > **Prerequisites:** getting started (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Joe Marini]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-python-3980343/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
 
 ## Path Context
 

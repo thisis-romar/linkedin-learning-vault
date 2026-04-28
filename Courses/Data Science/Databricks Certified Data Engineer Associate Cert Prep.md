@@ -24,8 +24,10 @@ tags:
   - skill/data-engineering
   - skill/databricks-products
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Databricks%20Certified%20Data%20Engineer%20Associate%20Cert%20Prep.md)
 
 ![Databricks Certified Data Engineer Associate Cert Prep](https://media.licdn.com/dms/image/v2/D4E0DAQHm9zKmvZxPOQ/learning-public-crop_675_1200/B4EZWMTdh5GwAY-/0/1741815667415?e=2147483647&amp;v=beta&amp;t=s1t1lNspB__Ij1mX1TK10xph2EjKBaRvE2L_PfKzFMg)
 
@@ -36,14 +38,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep) | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Data Engineering
-- Databricks Products
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Databricks Lakehouse Platform** (8 videos)
+- **3. 2. Data Transformation with Apache Spark** (8 videos)
+- **4. 3. Data Management with Delta Lake** (8 videos)
+- **5. 4. Data Pipelines with Delta Live Tables** (8 videos)
+- **6. 5. Workloads with Jobs** (8 videos)
+- **7. 6. Data Access with Unity Catalog** (7 videos)
+
+### 1. Introduction
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980)
@@ -109,7 +116,7 @@ created: 2026-04-21
 > **Speakers:** - [noah] (1)
 
 
-### 1. Databricks Lakehouse Platform
+### 2. 1. Databricks Lakehouse Platform
 
 #### Introduction to the Databricks Lakehouse platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980)
@@ -591,7 +598,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Data Transformation with Apache Spark
+### 3. 2. Data Transformation with Apache Spark
 
 #### Set up IntelliJ for Databricks with Go
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/set-up-intellij-for-databricks-with-go?u=76281980)
@@ -1232,7 +1239,7 @@ created: 2026-04-21
 > **Best Practices:** best practice (1)
 
 
-### 3. Data Management with Delta Lake
+### 4. 3. Data Management with Delta Lake
 
 #### Efficient data transformation with Spark SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980)
@@ -1873,7 +1880,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Data Pipelines with Delta Live Tables
+### 5. 4. Data Pipelines with Delta Live Tables
 
 #### Vacuuming and garbage collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/vacuuming-and-garbage-collection?u=76281980)
@@ -2332,7 +2339,7 @@ created: 2026-04-21
 > **Speakers:** - [host] (1)
 
 
-### 5. Workloads with Jobs
+### 6. 5. Workloads with Jobs
 
 #### Orchestrating workloads with jobs
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980)
@@ -2869,7 +2876,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Data Access with Unity Catalog
+### 7. 6. Data Access with Unity Catalog
 
 #### Unified data access with Unity Catalog
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980)
@@ -3197,6 +3204,11 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1), self (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Skills Covered
+
+- Data Engineering
+- Databricks Products
 
 ## Path Context
 

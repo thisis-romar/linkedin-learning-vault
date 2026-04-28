@@ -22,8 +22,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Upskilling%20and%20Reskilling%20Your%20Workforce.md)
 
 ![Upskilling and Reskilling Your Workforce](https://media.licdn.com/dms/image/v2/C4D0DAQFhD_OuncZ-Jw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679936202959?e=2147483647&amp;v=beta&amp;t=bLfkcv-TfSlg-4wolH9OhFdaaiFzWnPhaJ6GfBdK3vE)
 
@@ -34,13 +36,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce) | 40m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lori Niles]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Transformation to Skills-Based Organizations** (3 videos)
+- **3. 2. How to Start a Skilling Program** (3 videos)
+- **4. 3. Building Your Upskilling or Reskilling Strategy** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why you need an upskilling strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-you-need-an-upskilling-strategy?u=76281980)
@@ -62,7 +68,7 @@ created: 2026-04-21
 > **Speakers:** - developing (1)
 
 
-### 1. The Transformation to Skills-Based Organizations
+### 2. 1. The Transformation to Skills-Based Organizations
 
 #### Why skills?
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980)
@@ -275,7 +281,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. How to Start a Skilling Program
+### 3. 2. How to Start a Skilling Program
 
 #### The supply chain management of skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/the-supply-chain-management-of-skills?u=76281980)
@@ -538,7 +544,7 @@ created: 2026-04-21
 > **Speakers:** - every (1)
 
 
-### 3. Building Your Upskilling or Reskilling Strategy
+### 4. 3. Building Your Upskilling or Reskilling Strategy
 
 #### Invest in content libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980)
@@ -880,7 +886,7 @@ created: 2026-04-21
 > **Speakers:** - every (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Execute your upskilling strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/execute-your-upskilling-strategy?u=76281980)
@@ -958,6 +964,10 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 > **Speakers:** - building (1)
 
+
+## Instructor
+
+- [[Lori Niles]]
 
 ## Path Context
 

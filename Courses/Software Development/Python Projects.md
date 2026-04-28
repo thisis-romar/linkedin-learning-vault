@@ -30,8 +30,10 @@ tags:
   - skill/python-programming-language
   - skill/software-projects
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Projects.md)
 
 ![Python Projects](https://media.licdn.com/dms/image/v2/C560DAQEstYqHCE2X1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632340359788?e=2147483647&amp;v=beta&amp;t=Ahpn_sTuxSjKMIULt0OFtNq9ykVf0h8FDD7sTiWUCY4)
 
@@ -42,22 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284) | 1h 32m | Intermediate | 102K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barron Stone]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-- Software Projects
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Planning the Project** (5 videos)
+- **3. 2. Retrieving Content** (5 videos)
+- **4. 3. Emailing the Digest** (3 videos)
+- **5. 4. Building the GUI** (2 videos)
+- **6. 5. Iterating on the Design** (2 videos)
+- **7. 6. Packaging and Distribution** (1 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Create your own Python projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/create-your-own-python-projects?u=76281980)
@@ -170,7 +170,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Planning the Project
+### 2. 1. Planning the Project
 
 #### User stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/user-stories?u=76281980)
@@ -539,7 +539,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 2. Retrieving Content
+### 3. 2. Retrieving Content
 
 #### Daily inspirational quotes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980)
@@ -1005,7 +1005,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Emailing the Digest
+### 4. 3. Emailing the Digest
 
 #### Format an email message
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980)
@@ -1394,7 +1394,7 @@ created: 2026-04-21
 > **Cross-References:** earlier in (1)
 
 
-### 4. Building the GUI
+### 5. 4. Building the GUI
 
 #### Plan the GUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980)
@@ -1633,7 +1633,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### 5. Iterating on the Design
+### 6. 5. Iterating on the Design
 
 #### Iterative improvements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980)
@@ -1748,7 +1748,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Packaging and Distribution
+### 7. 6. Packaging and Distribution
 
 #### Distribute Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980)
@@ -1805,7 +1805,7 @@ created: 2026-04-21
 > **UI Navigation:** double-click (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/next-steps?u=76281980)
@@ -1831,6 +1831,19 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [barron] (1)
 
+
+## Instructor
+
+- [[Barron Stone]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
+- Software Projects
 
 ## Path Context
 

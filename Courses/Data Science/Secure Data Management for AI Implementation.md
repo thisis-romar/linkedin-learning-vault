@@ -39,8 +39,10 @@ tags:
   - skill/ai-security
   - skill/data-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Secure%20Data%20Management%20for%20AI%20Implementation.md)
 
 ![Secure Data Management for AI Implementation](https://media.licdn.com/dms/image/v2/D4D0DAQFaOJuzsD37dw/learning-public-crop_675_1200/B4DZWmXFzLHYAY-/0/1742252826072?e=2147483647&amp;v=beta&amp;t=0HlVubzti3pTdKmgKsy8juzWDUDrfLbRnWp2sZLLtuE)
 
@@ -51,20 +53,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation) | 1h 2m | Intermediate | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dr. Brandeis Marshall]]
-
-## Skills Covered
-
-- Data Management
-- Artificial Intelligence (AI)
-- AI Security
-- Data Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Data Security Fundamentals** (4 videos)
+- **3. 2. Granular Access Control** (4 videos)
+- **4. 3.  Securing database-to-database communications** (4 videos)
+- **5. 4. Multi-level security in database systems** (3 videos)
+- **6. 5. Case study: Use AI to Secure Your Data** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Protecting data communications in AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980)
@@ -91,7 +92,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 1. Data Security Fundamentals
+### 2. 1. Data Security Fundamentals
 
 #### Database security overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980)
@@ -352,7 +353,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Granular Access Control
+### 3. 2. Granular Access Control
 
 #### Database control language overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980)
@@ -610,7 +611,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3.  Securing database-to-database communications
+### 4. 3.  Securing database-to-database communications
 
 #### Monitoring and protecting data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980)
@@ -848,7 +849,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Multi-level security in database systems
+### 5. 4. Multi-level security in database systems
 
 #### Vulnerability assessment and patch management
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980)
@@ -1038,7 +1039,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Case study: Use AI to Secure Your Data
+### 6. 5. Case study: Use AI to Secure Your Data
 
 #### Case study setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980)
@@ -1156,7 +1157,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980)
@@ -1186,6 +1187,17 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Dr. Brandeis Marshall]]
+
+## Skills Covered
+
+- Data Management
+- Artificial Intelligence (AI)
+- AI Security
+- Data Security
 
 ## Path Context
 

@@ -39,8 +39,10 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20MLSecOps.md)
 
 ![Introduction to MLSecOps](https://media.licdn.com/dms/image/v2/D560DAQHs1T-HUespIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712095544658?e=2147483647&amp;v=beta&amp;t=6JO_HCVWm9oBz2uMB4BcFNSDAxrhjnuPCB7KQnbQ_3s)
 
@@ -51,20 +53,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops) | 1h 2m | Intermediate | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Diana Kelley]]
-
-## Skills Covered
-
-- Security Operations
-- Machine Learning
-- MLOps
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to MLSecOps** (4 videos)
+- **3. 2. Applying MLSecOps to Secure the AI Lifecycle** (7 videos)
+- **4. 3. The MLSecOps Dream Team** (4 videos)
+- **5. 4. MLSecOps Implementation and Strategy: Risk Assessment and Incident Response** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of MLSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/the-power-of-mlsecops?u=76281980)
@@ -92,7 +92,7 @@ created: 2026-04-21
 > **Speakers:** - is (1)
 
 
-### 1. Introduction to MLSecOps
+### 2. 1. Introduction to MLSecOps
 
 #### What is MLSecOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980)
@@ -379,7 +379,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Applying MLSecOps to Secure the AI Lifecycle
+### 3. 2. Applying MLSecOps to Secure the AI Lifecycle
 
 #### Map, measure, manage, and govern
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/map-measure-manage-govern?u=76281980)
@@ -798,7 +798,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. The MLSecOps Dream Team
+### 4. 3. The MLSecOps Dream Team
 
 #### Building the team: Ownership and roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980)
@@ -1039,7 +1039,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. MLSecOps Implementation and Strategy: Risk Assessment and Incident Response
+### 5. 4. MLSecOps Implementation and Strategy: Risk Assessment and Incident Response
 
 #### Step-by-step: Infusing MLSecOps into existing processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980)
@@ -1238,7 +1238,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Mastering MLSecOps: Safeguarding AI in the modern era
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/mastering-mlsecops-safeguarding-ai-in-the-modern-era?u=76281980)
@@ -1268,6 +1268,17 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Diana Kelley]]
+
+## Skills Covered
+
+- Security Operations
+- Machine Learning
+- MLOps
+- Artificial Intelligence (AI)
 
 ## Path Context
 

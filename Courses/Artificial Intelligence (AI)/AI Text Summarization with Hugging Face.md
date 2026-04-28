@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/hugging-face-products
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Text%20Summarization%20with%20Hugging%20Face.md)
 
 ![AI Text Summarization with Hugging Face](https://media.licdn.com/dms/image/v2/D4D0DAQFsoegl9JPPtQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707244998089?e=2147483647&amp;v=beta&amp;t=vXBLNsUDreVFjATI6mrZEIAy6JXjfbbmMP_lbB30260)
 
@@ -44,23 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face) | 2h 5m | Advanced | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Janani Ravi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Automatic Text Summarization
-- Artificial Intelligence (AI)
-- Hugging Face Products
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Extractive Text Summarization** (4 videos)
+- **3. 2. Performing Extractive Text Summarization Using Hugging Face** (4 videos)
+- **4. 3. Understanding Abstractive Text Summarization** (2 videos)
+- **5. 4. Understanding Transformers** (4 videos)
+- **6. 5. Performing Summarization Using a Hugging Face Pipeline** (6 videos)
+- **7. 6. Fine-Tuning a Transformer Model for Summarization** (4 videos)
+- **8. 7. Exploring Different Hugging Face Transformers for Summarization** (6 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI Text Summarization with Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980)
@@ -174,7 +174,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 1. Understanding Extractive Text Summarization
+### 2. 1. Understanding Extractive Text Summarization
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980)
@@ -444,7 +444,7 @@ created: 2026-04-21
 > **Cross-References:** we discussed (1)
 
 
-### 2. Performing Extractive Text Summarization Using Hugging Face
+### 3. 2. Performing Extractive Text Summarization Using Hugging Face
 
 #### Exploring Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980)
@@ -754,7 +754,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### 3. Understanding Abstractive Text Summarization
+### 4. 3. Understanding Abstractive Text Summarization
 
 #### Abstractive text summarization
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980)
@@ -939,7 +939,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 4. Understanding Transformers
+### 5. 4. Understanding Transformers
 
 #### Sequence-to-sequence models
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/sequence-to-sequence-models?u=76281980)
@@ -1233,7 +1233,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 5. Performing Summarization Using a Hugging Face Pipeline
+### 6. 5. Performing Summarization Using a Hugging Face Pipeline
 
 #### Using Colab to work with Hugging Face Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/using-colab-to-work-with-hugging-face-transformers?u=76281980)
@@ -1730,7 +1730,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### 6. Fine-Tuning a Transformer Model for Summarization
+### 7. 6. Fine-Tuning a Transformer Model for Summarization
 
 #### Understanding tokenizers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980)
@@ -2115,7 +2115,7 @@ created: 2026-04-21
 > **UI Navigation:** select the (1)
 
 
-### 7. Exploring Different Hugging Face Transformers for Summarization
+### 8. 7. Exploring Different Hugging Face Transformers for Summarization
 
 #### Accessing the BBC dataset on Google Drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980)
@@ -2602,7 +2602,7 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980)
@@ -2635,6 +2635,20 @@ created: 2026-04-21
 >
 > **Code Keywords:** this, (1), self (1)
 
+
+## Instructor
+
+- [[Janani Ravi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Automatic Text Summarization
+- Artificial Intelligence (AI)
+- Hugging Face Products
 
 ## Path Context
 

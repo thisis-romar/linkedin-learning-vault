@@ -35,8 +35,10 @@ tags:
   - skill/interview-preparation
   - skill/career-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Nail%20Your%20Cybersecurity%20Interview.md)
 
 ![Nail Your Cybersecurity Interview](https://media.licdn.com/dms/image/v2/C4E0DAQF7tuWV4wA3Rw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1570220025396?e=2147483647&amp;v=beta&amp;t=Okmaq4PUouqD3DfD1EpWNIep6tMKiyUTDYubyeswl8s)
 
@@ -47,19 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview) | 46m | Beginner | 44K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tu Laniyonu]]
-
-## Skills Covered
-
-- Tech Career Skills
-- Interview Preparation
-- Career Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1.The Framework** (4 videos)
+- **3. 2. Interview Prep** (3 videos)
+- **4. 3. Interview Stages** (3 videos)
+- **5. 4. Closing Strong** (2 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Transforming your cybersecurity career
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980)
@@ -118,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1.The Framework
+### 2. 1.The Framework
 
 #### The anatomy of the cybersecurity interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-anatomy-of-the-cybersecurity-interview?u=76281980)
@@ -364,7 +365,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Interview Prep
+### 3. 2. Interview Prep
 
 #### What not to do before an interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-before-an-interview?u=76281980)
@@ -594,7 +595,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Interview Stages
+### 4. 3. Interview Stages
 
 #### How to thrive in the telephone interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-in-the-telephone-interview?u=76281980)
@@ -927,7 +928,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Closing Strong
+### 5. 4. Closing Strong
 
 #### Three things to do before leaving the parking lot
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/three-things-to-do-before-leaving-the-parking-lot?u=76281980)
@@ -1059,7 +1060,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### What to do while you wait
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-to-do-while-you-wait?u=76281980)
@@ -1136,6 +1137,16 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [tu] (1)
 
+
+## Instructor
+
+- [[Tu Laniyonu]]
+
+## Skills Covered
+
+- Tech Career Skills
+- Interview Preparation
+- Career Management
 
 ## Path Context
 

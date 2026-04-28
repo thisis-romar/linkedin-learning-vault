@@ -30,31 +30,31 @@ tags:
   - skill/sustainable-business
   - skill/supply-chain-operations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Fundamentals%20of%20Sustainable%20Supply%20Chains.md)
 
 ![Fundamentals of Sustainable Supply Chains](https://media.licdn.com/dms/image/v2/C560DAQG6rfEwdAq3bw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1630436420286?e=2147483647&amp;v=beta&amp;t=s7yi3C_XXs6XRJiEoRF1Melo5NPSnUAdj-7qGxth8uY)
 
 # Fundamentals of Sustainable Supply Chains
 
-> Sustainability is a major concern across all realms of commerce these days.
-And as it turns out, the majority of greenhouse gas emissions are found in the supply chain: Product sourcing, manufacturing, distribution, and delivery have a huge impact on air, soil, and water. So when it comes to sustainability, it’s largely the responsibility of supply chain professionals to identify areas of impact w
+> Sustainability is a major concern across all realms of commerce these days. And as it turns out, the majority of greenhouse gas emissions are found in the supply chain: Product sourcing, manufacturing, distribution, and delivery have a huge impact on air, soil, and water. So when it comes to sustainability, it’s largely the responsibility of supply chain professionals to identify areas of impact w
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains) | 58m | Beginner | 33K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sarah Barnes-Humphrey]]
-
-## Skills Covered
-
-- Sustainable Business
-- Supply Chain Operations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Power of Planning** (5 videos)
+- **3. 2. Suppliers and Procurement** (3 videos)
+- **4. 3. Data Analysis and Review** (3 videos)
+- **5. 4. Getting Supply Chain Sustainability Plans Off the Ground** (3 videos)
+
+### 1. Introduction
 
 #### The impact of supply chain on the environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/the-impact-of-supply-chain-on-the-environment?u=76281980)
@@ -98,7 +98,7 @@ And as it turns out, the majority of greenhouse gas emissions are found in the s
 > **Speakers:** - did (1)
 
 
-### 1. The Power of Planning
+### 2. 1. The Power of Planning
 
 #### Why planning is important to achieving sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-planning-is-important-to-achieving-sustainability?u=76281980)
@@ -477,7 +477,7 @@ And as it turns out, the majority of greenhouse gas emissions are found in the s
 > **Speakers:** - in (1)
 
 
-### 2. Suppliers and Procurement
+### 3. 2. Suppliers and Procurement
 
 #### Taking a proactive approach to supplier management
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980)
@@ -683,7 +683,7 @@ And as it turns out, the majority of greenhouse gas emissions are found in the s
 > **Speakers:** - so (1)
 
 
-### 3. Data Analysis and Review
+### 4. 3. Data Analysis and Review
 
 #### Why good data is important to achieve sustainability targets
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980)
@@ -894,7 +894,7 @@ And as it turns out, the majority of greenhouse gas emissions are found in the s
 > **Speakers:** - from (1)
 
 
-### 4. Getting Supply Chain Sustainability Plans Off the Ground
+### 5. 4. Getting Supply Chain Sustainability Plans Off the Ground
 
 #### Refine your approach to supply chain sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980)
@@ -1093,6 +1093,15 @@ And as it turns out, the majority of greenhouse gas emissions are found in the s
 > **Prerequisites:** set up (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Sarah Barnes-Humphrey]]
+
+## Skills Covered
+
+- Sustainable Business
+- Supply Chain Operations
 
 ## Path Context
 

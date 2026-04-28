@@ -36,8 +36,10 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Image%20Generation%20with%20DALL-E.md)
 
 ![OpenAI API: Image Generation with DALL-E](https://media.licdn.com/dms/image/v2/D560DAQGxFE7zT3GMqg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705102392664?e=2147483647&amp;v=beta&amp;t=c3rGlUy2B3DH9c11z2tWjRNg05BirMEcYcoAJWq3evA)
 
@@ -48,25 +50,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e) | 24m | Intermediate | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kesha Williams]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-image-generation-with-dall-e-4558023)
-
-## Skills Covered
-
-- OpenAI API
-- DALL-E
-- OpenAI Products
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding DALL-E** (2 videos)
+- **3. 2. Using DALL-E in the Real World** (2 videos)
+- **4. 3. Generate Images via the Images API** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to image generation with DALL-E
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/introduction-to-image-generation-with-dall-e?u=76281980)
@@ -89,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - [kesha] (1)
 
 
-### 1. Understanding DALL-E
+### 2. 1. Understanding DALL-E
 
 #### Explore DALL-E features and capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-dall-e-features-and-capabilities?u=76281980)
@@ -170,7 +164,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Using DALL-E in the Real World
+### 3. 2. Using DALL-E in the Real World
 
 #### Craft effective image prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/craft-effective-image-prompts?u=76281980)
@@ -259,7 +253,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Generate Images via the Images API
+### 4. 3. Generate Images via the Images API
 
 #### Explore the Images API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-the-images-api?u=76281980)
@@ -523,7 +517,7 @@ created: 2026-04-21
 > **URLs:** [openai.com](https://openai.com) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Your DALL-E journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980)
@@ -560,6 +554,22 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kesha Williams]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/openai-api-image-generation-with-dall-e-4558023)
+
+## Skills Covered
+
+- OpenAI API
+- DALL-E
+- OpenAI Products
+- Artificial Intelligence (AI)
 
 ## Path Context
 

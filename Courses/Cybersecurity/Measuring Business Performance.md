@@ -30,8 +30,10 @@ tags:
   - skill/performance-metrics
   - skill/business-metrics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Measuring%20Business%20Performance.md)
 
 ![Measuring Business Performance](https://media.licdn.com/dms/image/v2/C560DAQFHE4HMn_jj-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620659148580?e=2147483647&amp;v=beta&amp;t=hwkgVE-tWBgQ4nbkEBQExmhSw1O0Z45HSJKMH6jw4bo)
 
@@ -42,18 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021) | 37m | Intermediate | 96K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eddie Davila]]
-
-## Skills Covered
-
-- Performance Metrics
-- Business Metrics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Basics of Measuring Business Performance** (3 videos)
+- **3. 2. Developing a Metric** (3 videos)
+- **4. 3. Systems of Metrics** (3 videos)
+- **5. 4. Performance Measurement Tools** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Measuring business performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/measuring-business-performance?u=76281980)
@@ -96,7 +98,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 1. Basics of Measuring Business Performance
+### 2. 1. Basics of Measuring Business Performance
 
 #### Why companies measure
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/why-companies-measure?u=76281980)
@@ -312,7 +314,7 @@ created: 2026-04-21
 > **Speakers:** - managers (1)
 
 
-### 2. Developing a Metric
+### 3. 2. Developing a Metric
 
 #### Characteristic of a good metric
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/characteristic-of-a-good-metric?u=76281980)
@@ -587,7 +589,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. Systems of Metrics
+### 4. 3. Systems of Metrics
 
 #### Three categories of performance measurement
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/three-categories-of-performance-measurement?u=76281980)
@@ -840,7 +842,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 4. Performance Measurement Tools
+### 5. 4. Performance Measurement Tools
 
 #### Using scorecards to measure and manage performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/using-scorecards-to-measure-and-manage-performance?u=76281980)
@@ -1001,7 +1003,7 @@ created: 2026-04-21
 > **Speakers:** - companies (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/next-steps?u=76281980)
@@ -1034,6 +1036,15 @@ created: 2026-04-21
 >
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Eddie Davila]]
+
+## Skills Covered
+
+- Performance Metrics
+- Business Metrics
 
 ## Path Context
 

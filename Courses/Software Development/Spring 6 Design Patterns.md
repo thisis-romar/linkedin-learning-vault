@@ -26,8 +26,10 @@ tags:
   - skill/software-design-patterns
   - skill/spring-framework
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Spring%206%20Design%20Patterns.md)
 
 ![Spring 6 Design Patterns](https://media.licdn.com/dms/image/v2/D560DAQFQGdUkZfO8Sw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721237079626?e=2147483647&amp;v=beta&amp;t=5bFB8l8VgY96VOcp-GZE8Vfc02dvwRodZtp70LUU00k)
 
@@ -38,18 +40,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns) | Intermediate | 39K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Software Design Patterns
-- Spring Framework
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Design Patterns and Spring** (4 videos)
+- **3. 2. Creation Patterns in Spring** (8 videos)
+- **4. 3. Structural Patterns in Spring** (5 videos)
+- **5. 4. Operational Patterns in Spring** (5 videos)
+- **6. 5. Other Framework Patterns in Spring** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Solving problems with patterns in Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/solving-problems-with-patterns-in-spring?u=76281980)
@@ -197,7 +200,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Design Patterns and Spring
+### 2. 1. Design Patterns and Spring
 
 #### What design patterns are
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/what-design-patterns-are?u=76281980)
@@ -502,7 +505,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creation Patterns in Spring
+### 3. 2. Creation Patterns in Spring
 
 #### The factory pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980)
@@ -1264,7 +1267,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Structural Patterns in Spring
+### 4. 3. Structural Patterns in Spring
 
 #### The adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-adapter-pattern?u=76281980)
@@ -1656,7 +1659,7 @@ created: 2026-04-21
 > **Speakers:** - [frank] (1)
 
 
-### 4. Operational Patterns in Spring
+### 5. 4. Operational Patterns in Spring
 
 #### The repository pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980)
@@ -2015,7 +2018,7 @@ created: 2026-04-21
 > **Exercise Files:** template (1)
 
 
-### 5. Other Framework Patterns in Spring
+### 6. 5. Other Framework Patterns in Spring
 
 #### The observer pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-observer-pattern?u=76281980)
@@ -2260,7 +2263,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980)
@@ -2336,6 +2339,15 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Software Design Patterns
+- Spring Framework
 
 ## Path Context
 

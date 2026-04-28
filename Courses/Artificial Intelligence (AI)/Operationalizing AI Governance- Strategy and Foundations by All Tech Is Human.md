@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-governance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Operationalizing%20AI%20Governance-%20Strategy%20and%20Foundations%20by%20All%20Tech%20Is%20Human.md)
 
 ![Operationalizing AI Governance: Strategy and Foundations by All Tech Is Human](https://media.licdn.com/dms/image/v2/D4D0DAQFnzhivJA3Gbg/learning-public-crop_675_1200/B4DZsyfHrCIsAY-/0/1766078577786?e=2147483647&amp;v=beta&amp;t=8h0ztSMQI5fv47hOF6R4C42vw6NDbJgFmOQy_47f8vU)
 
@@ -44,23 +46,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human) | 21m | Beginner
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[All Tech Is Human]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Responsible AI
-- Artificial Intelligence (AI)
-- AI Governance
-
 ## Table of Contents
 
-### Operationalizing AI Governance
+### Chapter Overview
+
+- **1. Operationalizing AI Governance** (2 videos)
+
+### 1. Operationalizing AI Governance
 
 #### Strategy and foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980)
@@ -447,6 +439,20 @@ created: 2026-04-21
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[All Tech Is Human]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Responsible AI
+- Artificial Intelligence (AI)
+- AI Governance
 
 ## Path Context
 

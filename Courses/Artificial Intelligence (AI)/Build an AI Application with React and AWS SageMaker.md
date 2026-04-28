@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/aws-sagemaker
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20an%20AI%20Application%20with%20React%20and%20AWS%20SageMaker.md)
 
 ![Build an AI Application with React and AWS SageMaker](https://media.licdn.com/dms/image/v2/D560DAQG9K5NjptA6Pg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713547493798?e=2147483647&amp;v=beta&amp;t=kubxnvYjOyWeMn1vJfzqieRe2gzv-a7KWxwmaCfa_KA)
 
@@ -48,24 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker) | 1h 12m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI Software Development
-- React.js
-- Artificial Intelligence (AI)
-- AWS SageMaker
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction and Setup** (4 videos)
+- **3. 2. Feature Engineering** (3 videos)
+- **4. 3. Training and Deployment** (4 videos)
+- **5. 4. React Front End** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build an AI application with React and SageMaker
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/build-an-ai-application-with-react-and-sagemaker?u=76281980)
@@ -108,7 +104,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction and Setup
+### 2. 1. Introduction and Setup
 
 #### Basics of machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980)
@@ -250,7 +246,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Feature Engineering
+### 3. 2. Feature Engineering
 
 #### Introduction to SageMaker Data Wrangler
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker-data-wrangler?u=76281980)
@@ -663,7 +659,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Training and Deployment
+### 4. 3. Training and Deployment
 
 #### Overview of algorithms and the training process
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980)
@@ -1007,7 +1003,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. React Front End
+### 5. 4. React Front End
 
 #### Base app component
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/base-app-component?u=76281980)
@@ -1554,7 +1550,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continue learning SageMaker
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/continue-learning-sagemaker?u=76281980)
@@ -1577,6 +1573,21 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI Software Development
+- React.js
+- Artificial Intelligence (AI)
+- AWS SageMaker
 
 ## Path Context
 

@@ -26,29 +26,33 @@ tags:
   - topic/software-development
   - topic/security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20and%20Managing%20a%20Cybersecurity%20Program.md)
 
 ![Building and Managing a Cybersecurity Program](https://media.licdn.com/dms/image/v2/D560DAQHdmvviNOCYGw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682622907537?e=2147483647&amp;v=beta&amp;t=-MtywTuE5Uw9R7AIxoyOnNaU-yY-SppljT1X0suc4UA)
 
 # Building and Managing a Cybersecurity Program
 
-> Projects
-
-Practice optimizing your working relationship with an internal audit team to maximize the business value of your cybersecurity program.
-  
-Building and managing a cybersecurity program is not for the faint of heart. After all, who else’s job is it to think of all the ways your organization can digitally fail and describe them in business-friendly terms? In this course—the first in a two-
+> Projects Practice optimizing your working relationship with an internal audit team to maximize the business value of your cybersecurity program. Building and managing a cybersecurity program is not for the faint of heart. After all, who else’s job is it to think of all the ways your organization can digitally fail and describe them in business-friendly terms? In this course—the first in a two-part
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program) | 1h 44m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kip Boyle]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Defining Key Terms** (6 videos)
+- **3. 2. Cybersecurity Program Goals** (6 videos)
+- **4. 3. Cybersecurity Program Components** (7 videos)
+- **5. 4. Structuring a Cybersecurity Program** (5 videos)
+- **6. 5. Demonstrate Compliance and Progress** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Protect against cyberattacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/protect-against-cyberattacks-22157268?u=76281980)
@@ -104,7 +108,7 @@ Building and managing a cybersecurity program is not for the faint of heart. Aft
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Defining Key Terms
+### 2. 1. Defining Key Terms
 
 #### What is information security?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-is-information-security-22156753?u=76281980)
@@ -441,7 +445,7 @@ Building and managing a cybersecurity program is not for the faint of heart. Aft
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Cybersecurity Program Goals
+### 3. 2. Cybersecurity Program Goals
 
 #### Achieve your customers’ expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980)
@@ -832,7 +836,7 @@ Building and managing a cybersecurity program is not for the faint of heart. Aft
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Cybersecurity Program Components
+### 4. 3. Cybersecurity Program Components
 
 #### Essential functions of a program
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980)
@@ -1302,7 +1306,7 @@ Building and managing a cybersecurity program is not for the faint of heart. Aft
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Structuring a Cybersecurity Program
+### 5. 4. Structuring a Cybersecurity Program
 
 #### Sources of controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980)
@@ -1672,7 +1676,7 @@ Building and managing a cybersecurity program is not for the faint of heart. Aft
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Demonstrate Compliance and Progress
+### 6. 5. Demonstrate Compliance and Progress
 
 #### Communicate with executives
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980)
@@ -2096,7 +2100,7 @@ Building and managing a cybersecurity program is not for the faint of heart. Aft
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps for cybersecurity programs
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980)
@@ -2122,6 +2126,10 @@ Building and managing a cybersecurity program is not for the faint of heart. Aft
 > **Analogies:** picture (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Kip Boyle]]
 
 ## Path Context
 

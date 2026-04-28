@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Quick%20Start%20Guide%20to%20SQL.md)
 
 ![Quick Start Guide to SQL](https://media.licdn.com/dms/image/v2/D560DAQFZHulkzmFrnA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725659883685?e=2147483647&amp;v=beta&amp;t=Zv-n-OcfMOZpNfyII_x1d-EXdvI4lsPEwYXG-QrDDHY)
 
@@ -41,21 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql) | 1h 28m | Beginner | 388K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Deepa Maddala]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Fetch Data from Tables** (3 videos)
+- **3. 2. Filtering Data** (4 videos)
+- **4. 3. Single Row Functions** (5 videos)
+- **5. 4. Multiple Row Functions/ Group Functions** (3 videos)
+- **6. 5. Joins and Subqueries** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to RDBMS and SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980)
@@ -151,7 +151,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### 1. Fetch Data from Tables
+### 2. 1. Fetch Data from Tables
 
 #### Basic select statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980)
@@ -418,7 +418,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Filtering Data
+### 3. 2. Filtering Data
 
 #### Comparison conditions
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980)
@@ -830,7 +830,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Single Row Functions
+### 4. 3. Single Row Functions
 
 #### Types of functions and number functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980)
@@ -1321,7 +1321,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Multiple Row Functions/ Group Functions
+### 5. 4. Multiple Row Functions/ Group Functions
 
 #### Types of group functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-group-functions?u=76281980)
@@ -1526,7 +1526,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Joins and Subqueries
+### 6. 5. Joins and Subqueries
 
 #### Types of joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980)
@@ -1788,7 +1788,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980)
@@ -1816,6 +1816,18 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Deepa Maddala]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- SQL
 
 ## Path Context
 

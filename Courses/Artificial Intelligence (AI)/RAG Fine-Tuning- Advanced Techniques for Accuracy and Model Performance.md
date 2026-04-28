@@ -32,8 +32,10 @@ tags:
   - skill/retrieval-augmented-generation-rag
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/RAG%20Fine-Tuning-%20Advanced%20Techniques%20for%20Accuracy%20and%20Model%20Performance.md)
 
 ![RAG Fine-Tuning: Advanced Techniques for Accuracy and Model Performance](https://media.licdn.com/dms/image/v2/D4E0DAQHWChs2YOX_7w/learning-public-crop_675_1200/B4EZUAdM1dGgAc-/0/1739469410037?e=2147483647&amp;v=beta&amp;t=9DendI5y4TqLIKYtyEG9GDtObmYzPltUYENNRtVO_vY)
 
@@ -44,23 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance) | 54m | Advanced | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Harshit Tyagi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Vector Databases
-- Retrieval-Augmented Generation (RAG)
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to RAG** (3 videos)
+- **3. 2. RAFT technique** (3 videos)
+- **4. 3. Dataset Preparation for RAFT** (4 videos)
+- **5. 4. Fine-Tune the Model in Hugging Face** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to RAG and fine-tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/welcome-to-rag-and-finetuning?u=76281980)
@@ -91,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - [harshit] (1)
 
 
-### 1. Introduction to RAG
+### 2. 1. Introduction to RAG
 
 #### Understanding RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understanding-rag?u=76281980)
@@ -264,7 +261,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. RAFT technique
+### 3. 2. RAFT technique
 
 #### Understand RAFT
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understand-raft?u=76281980)
@@ -440,7 +437,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Dataset Preparation for RAFT
+### 4. 3. Dataset Preparation for RAFT
 
 #### Preparing the data for RAFT
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980)
@@ -881,7 +878,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Fine-Tune the Model in Hugging Face
+### 5. 4. Fine-Tune the Model in Hugging Face
 
 #### Intro to Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980)
@@ -1186,7 +1183,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps with RAG and fine-tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980)
@@ -1224,6 +1221,20 @@ created: 2026-04-21
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Harshit Tyagi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Vector Databases
+- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence (AI)
 
 ## Path Context
 

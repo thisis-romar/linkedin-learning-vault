@@ -27,8 +27,10 @@ tags:
   - topic/data-science
   - skill/data-driven-decision-making
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Data-Driven%20Decision-Making%20for%20Business%20Professionals.md)
 
 ![Data-Driven Decision-Making for Business Professionals](https://media.licdn.com/dms/image/v2/C560DAQGvUxVuRicCfA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1608048760194?e=2147483647&amp;v=beta&amp;t=zWIi1ii3M2oPnxEW5OAof8YIX7x7joYXf-dIMGg3U7g)
 
@@ -39,21 +41,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals) | 59m | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jamie Champagne]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data-driven Decision Making
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. You Need Data Now** (3 videos)
+- **3. 2. Defining the Problem** (3 videos)
+- **4. 3. Identifying Current Data** (4 videos)
+- **5. 4. Using Data to Draw Conclusions** (3 videos)
+- **6. 5. Visualization of Data** (3 videos)
+- **7. 6. Presenting Recommendations** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting value from data to draw business conclusions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/getting-value-from-data-to-draw-business-conclusions?u=76281980)
@@ -96,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 1. You Need Data Now
+### 2. 1. You Need Data Now
 
 #### Why data, why now?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/why-data-why-now?u=76281980)
@@ -285,7 +286,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 2. Defining the Problem
+### 3. 2. Defining the Problem
 
 #### Identifying the business problem or opportunity
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980)
@@ -542,7 +543,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 3. Identifying Current Data
+### 4. 3. Identifying Current Data
 
 #### Identifying data you have
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-have?u=76281980)
@@ -876,7 +877,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 4. Using Data to Draw Conclusions
+### 5. 4. Using Data to Draw Conclusions
 
 #### Identifying conclusions, not causation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980)
@@ -1141,7 +1142,7 @@ created: 2026-04-21
 > **Speakers:** - all (1)
 
 
-### 5. Visualization of Data
+### 6. 5. Visualization of Data
 
 #### The importance of using visuals to share data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980)
@@ -1421,7 +1422,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 6. Presenting Recommendations
+### 7. 6. Presenting Recommendations
 
 #### How to present data in response to business requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-in-response-to-business-requests?u=76281980)
@@ -1637,7 +1638,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Data conclusions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-conclusions?u=76281980)
@@ -1681,6 +1682,18 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - this (1)
 
+
+## Instructor
+
+- [[Jamie Champagne]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data-driven Decision Making
 
 ## Path Context
 

@@ -35,8 +35,10 @@ tags:
   - skill/infographics
   - skill/google-gemini
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Vibe%20Code%20This-%20AI-Powered%20Branded%20Infographics%20Tool.md)
 
 ![Vibe Code This: AI-Powered Branded Infographics Tool](https://media.licdn.com/dms/image/v2/D4E0DAQFKTTNnna0vew/learning-public-crop_675_1200/B4EZsUfZmEHgAY-/0/1765575334963?e=2147483647&amp;v=beta&amp;t=gyNQrzwGV8SWYxTsPNIOa1HnhiISDYSRHfI_tE4IvRc)
 
@@ -47,21 +49,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-ai-powered-branded-infographics-tool) | 22m | Beginner | 17K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Skills Covered
-
-- Vibe Coding
-- AI for Marketing
-- Artificial Intelligence (AI)
-- Infographics
-- Google Gemini
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Vibe Code the Infographics Tool** (4 videos)
+
+### 1. Introduction
 
 #### Vibe coding an AI-based tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-ai-powered-branded-infographics-tool/vibe-coding-an-ai-based-tool?u=76281980)
@@ -77,7 +72,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Vibe Code the Infographics Tool
+### 2. 1. Vibe Code the Infographics Tool
 
 #### Creating the PRD for the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-ai-powered-branded-infographics-tool/creating-the-prd-for-the-project?u=76281980)
@@ -194,6 +189,18 @@ created: 2026-04-21
 > **Exercise Files:** zip file (1)
 > **Definitions:** is an  (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Skills Covered
+
+- Vibe Coding
+- AI for Marketing
+- Artificial Intelligence (AI)
+- Infographics
+- Google Gemini
 
 ## Path Context
 

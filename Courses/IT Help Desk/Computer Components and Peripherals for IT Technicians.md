@@ -26,8 +26,10 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Computer%20Components%20and%20Peripherals%20for%20IT%20Technicians.md)
 
 ![Computer Components and Peripherals for IT Technicians](https://media.licdn.com/dms/image/v2/D560DAQHp9iAHclkIBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1693851737005?e=2147483647&amp;v=beta&amp;t=-_l9H3OGTOsGVL5q68WUFoTXRd9lkpuhzCxUADnfXso)
 
@@ -38,13 +40,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007) | 1h 58m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dan Gookin]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Hardware Overview** (3 videos)
+- **3. 2. Inside Tour** (6 videos)
+- **4. 3. Internal Features** (3 videos)
+- **5. 4. Storage** (3 videos)
+- **6. 5. PC Graphics System** (4 videos)
+- **7. 6. Input/Output Devices** (4 videos)
+- **8. 7. Printers and Printing** (2 videos)
+- **9. 8. Networking** (4 videos)
+- **10. 9. Bluetooth and Bluetooth Peripherals** (2 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Expand PC capabilities with peripherals
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/expand-pc-capabilities-with-peripherals?u=76281980)
@@ -76,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 1. Hardware Overview
+### 2. 1. Hardware Overview
 
 #### Exploring the computer system
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-computer-system?u=76281980)
@@ -287,7 +299,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Inside Tour
+### 3. 2. Inside Tour
 
 #### Opening the case
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980)
@@ -821,7 +833,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 3. Internal Features
+### 4. 3. Internal Features
 
 #### Understanding the processor
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-processor?u=76281980)
@@ -1178,7 +1190,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 4. Storage
+### 5. 4. Storage
 
 #### Working with internal storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980)
@@ -1497,7 +1509,7 @@ created: 2026-04-21
 > **Speakers:** - [tutor] (1)
 
 
-### 5. PC Graphics System
+### 6. 5. PC Graphics System
 
 #### Understanding the graphics system
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980)
@@ -1899,7 +1911,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 6. Input/Output Devices
+### 7. 6. Input/Output Devices
 
 #### Connecting a keyboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980)
@@ -2247,7 +2259,7 @@ created: 2026-04-21
 > **Definitions:** stands for (1)
 
 
-### 7. Printers and Printing
+### 8. 7. Printers and Printing
 
 #### Exploring printer types
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-printer-types?u=76281980)
@@ -2395,7 +2407,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Networking
+### 9. 8. Networking
 
 #### Exploring the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980)
@@ -2712,7 +2724,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Bluetooth and Bluetooth Peripherals
+### 10. 9. Bluetooth and Bluetooth Peripherals
 
 #### Understanding Bluetooth
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980)
@@ -2872,7 +2884,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### Pursuing your professional curiosity
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/pursuing-your-professional-curiosity?u=76281980)
@@ -2893,6 +2905,10 @@ created: 2026-04-21
 >
 > **Speakers:** - are (1)
 
+
+## Instructor
+
+- [[Dan Gookin]]
 
 ## Path Context
 

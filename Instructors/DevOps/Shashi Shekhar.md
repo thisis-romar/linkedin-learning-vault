@@ -19,8 +19,10 @@ tags:
   - topic/devops
   - topic/it-help-desk
   - topic/software-development
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/DevOps/Shashi%20Shekhar.md)
 
 # Shashi Shekhar
 

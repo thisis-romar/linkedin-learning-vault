@@ -34,8 +34,10 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%203%20Ethereum%20Development.md)
 
 ![Building an Ethereum Blockchain App: 3 Ethereum Development](https://media.licdn.com/dms/image/v2/C560DAQHeqO1Rq1rPFw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628267859787?e=2147483647&amp;v=beta&amp;t=z8DLY_8sweUcEfibHAtGcYuE5mUS9qNPDFuRQloHvvg)
 
@@ -46,22 +48,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development) | 49m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Solomon]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Blockchain
-- Ethereum
-
 ## Table of Contents
 
-### 1. The Ethereum Ecosystem and Development Life Cycle
+### Chapter Overview
+
+- **1. 1. The Ethereum Ecosystem and Development Life Cycle** (10 videos)
+
+### 1. 1. The Ethereum Ecosystem and Development Life Cycle
 
 #### Parts of the Ethereum blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980)
@@ -1219,6 +1212,19 @@ created: 2026-04-21
 > **Code Keywords:** this, (1)
 > **URLs:** [ethereum.org](https://ethereum.org) (1)
 
+
+## Instructor
+
+- [[Michael Solomon]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Blockchain
+- Ethereum
 
 ## Path Context
 

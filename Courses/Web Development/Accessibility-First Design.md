@@ -21,8 +21,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Accessibility-First%20Design.md)
 
 ![Accessibility-First Design](https://media.licdn.com/dms/image/v2/C4E0DAQED7fR1aK5CVA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679335655739?e=2147483647&amp;v=beta&amp;t=A38WvZfWB4caPWRmcrIZc2HBap_Sm5MQwW9lE2G8Hm4)
 
@@ -33,13 +35,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design) | 1h 24m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Luhr]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Collaborating for Accessibility** (2 videos)
+- **3. 2. Question Complexity** (3 videos)
+- **4. 3. Accessible Content Design** (4 videos)
+- **5. 4. Accessible Visual Design** (10 videos)
+- **6. 5. Accessibility Testing** (3 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Why accessibility-first design?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980)
@@ -123,7 +131,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Collaborating for Accessibility
+### 2. 1. Collaborating for Accessibility
 
 #### Cross-discipline collaboration and T-shaped knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980)
@@ -208,7 +216,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Question Complexity
+### 3. 2. Question Complexity
 
 #### Avoid hidden content
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980)
@@ -401,7 +409,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Accessible Content Design
+### 4. 3. Accessible Content Design
 
 #### Semantics and document structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980)
@@ -707,7 +715,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Accessible Visual Design
+### 5. 4. Accessible Visual Design
 
 #### Just-in-time design
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980)
@@ -1402,7 +1410,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Accessibility Testing
+### 6. 5. Accessibility Testing
 
 #### Manual accessibility testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980)
@@ -1647,7 +1655,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Accessible design handoff
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980)
@@ -1750,6 +1758,10 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - with (1)
 
+
+## Instructor
+
+- [[David Luhr]]
 
 ## Path Context
 

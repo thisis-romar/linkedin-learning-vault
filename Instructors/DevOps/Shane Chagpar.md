@@ -13,8 +13,10 @@ tags:
   - topic/data-science
   - topic/devops
   - topic/network-and-system-administration
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/DevOps/Shane%20Chagpar.md)
 
 # Shane Chagpar
 

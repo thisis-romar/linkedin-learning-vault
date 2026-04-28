@@ -32,35 +32,32 @@ tags:
   - skill/devops
   - skill/netops
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/NetOps%20(DevOps%20for%20Network%20Engineers)-%20Automating%20Networks.md)
 
 ![NetOps (DevOps for Network Engineers): Automating Networks](https://media.licdn.com/dms/image/v2/C560DAQGfP7G_UdypoQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1650305730733?e=2147483647&amp;v=beta&amp;t=8rJjSFjV5pkTMzkNyoc4Byv6dLAxSsrVJZR8zfzwe4k)
 
 # NetOps (DevOps for Network Engineers): Automating Networks
 
-> DevOps—a set of principles and practices combining software development and IT 
-operations—is becoming the standard in corporate IT around the world. It enables a shorter delivery cycle, faster deployment, easier maintenance, and improving team culture. In this course, Eric Chou shows how to apply DevOps practices in a network engineering context, using easy to understand, hands-on examples. He co
+> DevOps—a set of principles and practices combining software development and IT operations—is becoming the standard in corporate IT around the world. It enables a shorter delivery cycle, faster deployment, easier maintenance, and improving team culture. In this course, Eric Chou shows how to apply DevOps practices in a network engineering context, using easy to understand, hands-on examples. He cov
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks) | 2h 47m | Intermediate | 183K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eric Chou]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- DevOps
-- NetOps
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. DevOps for Network Engineers Overview** (7 videos)
+- **3. 2. GitLab and CI/CD** (9 videos)
+- **4. 3. Network DevOps Examples** (4 videos)
+- **5. 4. Testing in DevOps** (4 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### DevOps for network engineers
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980)
@@ -136,7 +133,7 @@ operations—is becoming the standard in corporate IT around the world. It enabl
 > **Speakers:** - [instructor] (1)
 
 
-### 1. DevOps for Network Engineers Overview
+### 2. 1. DevOps for Network Engineers Overview
 
 #### DevOps principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980)
@@ -1162,7 +1159,7 @@ operations—is becoming the standard in corporate IT around the world. It enabl
 > **Definitions:** is a  (2), in other words (1)
 
 
-### 2. GitLab and CI/CD
+### 3. 2. GitLab and CI/CD
 
 #### Introduction to Git
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980)
@@ -2225,7 +2222,7 @@ operations—is becoming the standard in corporate IT around the world. It enabl
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Network DevOps Examples
+### 4. 3. Network DevOps Examples
 
 #### Network configuration backup with Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980)
@@ -2754,7 +2751,7 @@ operations—is becoming the standard in corporate IT around the world. It enabl
 > **Cross-References:** go back to (2)
 
 
-### 4. Testing in DevOps
+### 5. 4. Testing in DevOps
 
 #### Testing fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980)
@@ -3156,7 +3153,7 @@ operations—is becoming the standard in corporate IT around the world. It enabl
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980)
@@ -3239,6 +3236,19 @@ operations—is becoming the standard in corporate IT around the world. It enabl
 > **Analogies:** such as (1)
 > **Speakers:** - throughout (1)
 
+
+## Instructor
+
+- [[Eric Chou]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- DevOps
+- NetOps
 
 ## Path Context
 

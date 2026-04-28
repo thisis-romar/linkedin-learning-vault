@@ -22,8 +22,10 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/API%20Testing%20and%20Validation.md)
 
 ![API Testing and Validation](https://media.licdn.com/dms/image/v2/D560DAQEkqQwIdKXdbg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1687799290970?e=2147483647&amp;v=beta&amp;t=upDE8G-Q_voOTnLJbQSA-Sbe-OeeCZTMeGgeNh-pPF0)
 
@@ -34,13 +36,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641) | 1h 44m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith Casey]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Behavior Testing with Cucumber and Gherkin** (5 videos)
+- **3. 2. Build Your First API Test** (3 videos)
+- **4. 3. Handling Authentication in API Testing** (5 videos)
+- **5. 4. Advanced API Testing in Practice** (7 videos)
+- **6. 5. Planning Your API Testing Strategy** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Be an API testing and validation MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/be-an-api-testing-and-validation-mvp?u=76281980)
@@ -265,7 +273,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Behavior Testing with Cucumber and Gherkin
+### 2. 1. Behavior Testing with Cucumber and Gherkin
 
 #### Acceptance testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/acceptance-testing?u=76281980)
@@ -618,7 +626,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 2. Build Your First API Test
+### 3. 2. Build Your First API Test
 
 #### Make your first request
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980)
@@ -911,7 +919,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 3. Handling Authentication in API Testing
+### 4. 3. Handling Authentication in API Testing
 
 #### Expand your testing environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980)
@@ -1704,7 +1712,7 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 
 
-### 4. Advanced API Testing in Practice
+### 5. 4. Advanced API Testing in Practice
 
 #### Writing to the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980)
@@ -2474,7 +2482,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 5. Planning Your API Testing Strategy
+### 6. 5. Planning Your API Testing Strategy
 
 #### Mapping your API
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980)
@@ -2928,7 +2936,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980)
@@ -2981,6 +2989,10 @@ created: 2026-04-21
 > **Best Practices:** remember to (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Keith Casey]]
 
 ## Path Context
 

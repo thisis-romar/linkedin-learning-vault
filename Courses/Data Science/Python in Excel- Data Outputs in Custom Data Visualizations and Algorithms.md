@@ -34,8 +34,10 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20in%20Excel-%20Data%20Outputs%20in%20Custom%20Data%20Visualizations%20and%20Algorithms.md)
 
 ![Python in Excel: Data Outputs in Custom Data Visualizations and Algorithms](https://media.licdn.com/dms/image/v2/D560DAQHYRfBFhnycFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1718310054393?e=2147483647&amp;v=beta&amp;t=HMte7c-tAkAHVFCQLDz6JNJJ99G44pLIOUv7lg7edbk)
 
@@ -46,24 +48,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms) | 2h 2m | Advanced | 56K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Helen Wall]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms-4538083/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Microsoft Excel
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introducing Excel and Python** (11 videos)
+- **3. 2. Applying Algorithms** (9 videos)
+- **4. 3. Creating Visuals** (9 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introducing the power of Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-the-power-of-python-in-excel?u=76281980)
@@ -140,7 +135,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introducing Excel and Python
+### 2. 1. Introducing Excel and Python
 
 #### Breaking down Excel and Python processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980)
@@ -1066,7 +1061,7 @@ created: 2026-04-21
 > **Non-Speech:** (lively music) (1)
 
 
-### 2. Applying Algorithms
+### 3. 2. Applying Algorithms
 
 #### Introducing AI and machine learning algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-ai-and-machine-learning-algorithms?u=76281980)
@@ -1722,7 +1717,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Creating Visuals
+### 4. 3. Creating Visuals
 
 #### Visualizing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980)
@@ -2392,7 +2387,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Continuing on with Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980)
@@ -2417,6 +2412,21 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Helen Wall]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms-4538083/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Microsoft Excel
+- Data Visualization
 
 ## Path Context
 

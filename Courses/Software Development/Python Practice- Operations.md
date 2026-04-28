@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Practice-%20Operations.md)
 
 ![Python Practice: Operations](https://media.licdn.com/dms/image/v2/D560DAQHs2g5pgjX9Bw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902171062?e=2147483647&amp;v=beta&amp;t=3KGQEoQehvpFIkNavn0Ka6V-0lAb5W1-IX-8_QPH6BA)
 
@@ -40,17 +42,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations) | 17m | Beginner | 63K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Scott Simpson]]
-
-## Skills Covered
-
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Code Challenges** (7 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Try your Python programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/try-your-python-programming-skills?u=76281980)
@@ -163,7 +163,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Code Challenges
+### 2. 1. Code Challenges
 
 #### Solution: Are two strings equal?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/solution-1-are-two-strings-equal?u=76281980)
@@ -506,7 +506,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980)
@@ -526,6 +526,14 @@ created: 2026-04-21
 > **CLI Commands:** python (2)
 > **Speakers:** - [scott] (1)
 
+
+## Instructor
+
+- [[Scott Simpson]]
+
+## Skills Covered
+
+- Python (Programming Language)
 
 ## Path Context
 

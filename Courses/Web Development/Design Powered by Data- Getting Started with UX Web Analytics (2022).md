@@ -28,8 +28,10 @@ tags:
   - skill/web-analytics
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Design%20Powered%20by%20Data-%20Getting%20Started%20with%20UX%20Web%20Analytics%20(2022).md)
 
 ![Design Powered by Data: Getting Started with UX Web Analytics (2022)](https://media.licdn.com/dms/image/v2/C560DAQHLkuZoIdyDqA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1643737471867?e=2147483647&amp;v=beta&amp;t=WaTVDvjTXij7Hru5kMEsE5teQm46uzLZ_ZKWoowXA5U)
 
@@ -40,22 +42,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022) | 32m | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lachezar Arabadzhiev]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Web Analytics
-- User Experience Design (UED)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. UX Web Analytics Techniques** (5 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### UX analysis: A world between data and design
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980)
@@ -226,7 +221,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. UX Web Analytics Techniques
+### 2. 1. UX Web Analytics Techniques
 
 #### Event tracking and analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980)
@@ -684,7 +679,7 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980)
@@ -712,6 +707,19 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [lachezar] (1)
 
+
+## Instructor
+
+- [[Lachezar Arabadzhiev]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Web Analytics
+- User Experience Design (UED)
 
 ## Path Context
 

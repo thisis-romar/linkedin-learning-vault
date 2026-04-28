@@ -26,8 +26,10 @@ tags:
   - topic/data-science
   - skill/pricing-strategy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Pricing%20for%20Products%20and%20Services.md)
 
 ![Strategic Pricing for Products and Services](https://media.licdn.com/dms/image/v2/C560DAQHJYXFJSDSnRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1642011691219?e=2147483647&amp;v=beta&amp;t=1L7AMFArQRwVvOX-O41Tm1YA3NlkUjak05Rwo-IKiws)
 
@@ -38,21 +40,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services) | 1h 16m | 382K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Stefan Michel]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Pricing Strategy
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Define Your Business Model and Strategy** (4 videos)
+- **3. 2. Create a Price/Value Positioning Map** (3 videos)
+- **4. 3. Research Your Customer's Willingness to Pay** (3 videos)
+- **5. 4. Identify the Best Price and Communicate It Effectively** (3 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### The power of strategic pricing
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/the-power-of-strategic-pricing?u=76281980)
@@ -270,7 +269,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Define Your Business Model and Strategy
+### 2. 1. Define Your Business Model and Strategy
 
 #### Business model first, then pricing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980)
@@ -568,7 +567,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Create a Price/Value Positioning Map
+### 3. 2. Create a Price/Value Positioning Map
 
 #### Identify the job-to-be-done to articulate your value proposition
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980)
@@ -855,7 +854,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Research Your Customer's Willingness to Pay
+### 4. 3. Research Your Customer's Willingness to Pay
 
 #### Analyze customer price sensitivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/analyze-customer-price-sensitivity?u=76281980)
@@ -1193,7 +1192,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Identify the Best Price and Communicate It Effectively
+### 5. 4. Identify the Best Price and Communicate It Effectively
 
 #### Run what-if scenarios with three different prices
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/run-what-if-scenarios-with-three-different-prices?u=76281980)
@@ -1428,7 +1427,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Value-based pricing is both customer and profit oriented
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980)
@@ -1605,6 +1604,18 @@ created: 2026-04-21
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Stefan Michel]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Pricing Strategy
 
 ## Path Context
 

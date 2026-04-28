@@ -33,8 +33,10 @@ tags:
   - skill/customer-relations
   - skill/customer-service
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Customer%20Service-%20Handling%20Abusive%20Customers.md)
 
 ![Customer Service: Handling Abusive Customers](https://media.licdn.com/dms/image/v2/D4E0DAQFtUbFcrY63Vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731633528824?e=2147483647&amp;v=beta&amp;t=dLYe60es3r3lsilSQ8jADW7yLSMs9IdJs5nk-tjRc9A)
 
@@ -45,18 +47,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433) | 40m | Beginner | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Brownlee]]
-
-## Skills Covered
-
-- Customer Relations
-- Customer Service
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Handling an Abusive Customer** (7 videos)
+- **3. 2. Examples of How to Handle an Abusive Customer** (2 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Handling abusive customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-abusive-customers?u=76281980)
@@ -167,7 +167,7 @@ created: 2026-04-21
 > **Speakers:** - our (1)
 
 
-### 1. Handling an Abusive Customer
+### 2. 1. Handling an Abusive Customer
 
 #### Assessing the customer service interaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/assessing-the-customer-service-interaction?u=76281980)
@@ -795,7 +795,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Examples of How to Handle an Abusive Customer
+### 3. 2. Examples of How to Handle an Abusive Customer
 
 #### Handling an abusive customer on the phone
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980)
@@ -1087,7 +1087,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Confidently deal with abusive customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/confidently-deal-with-abusive-customers?u=76281980)
@@ -1135,6 +1135,15 @@ created: 2026-04-21
 > **URLs:** [davidbrownlee.com](https://davidbrownlee.com) (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[David Brownlee]]
+
+## Skills Covered
+
+- Customer Relations
+- Customer Service
 
 ## Path Context
 

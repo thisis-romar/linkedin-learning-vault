@@ -44,8 +44,10 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Foundations%20Of%20Responsible%20Ai.md)
 
 ![Foundations Of Responsible Ai](https://media.licdn.com/dms/image/v2/D560DAQFgwemFHqeTuA/learning-public-crop_675_1200/B56ZgfSJ9_HUAY-/0/1752871510155?e=2147483647&amp;v=beta&amp;t=4K6pzj6EX6Uv-iksis8homrJBQf6elCtwcikZLr6VuY)
 
@@ -56,18 +58,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103) | Intermediate | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Vilas Dhar]]
-
-## Skills Covered
-
-- Responsible AI
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Reframing Responsible AI for Technical Teams** (4 videos)
+- **3. 2. Where Technical Decisions Shape Responsible AI** (3 videos)
+- **4. 3. Architecture Decisions That Matter** (3 videos)
+- **5. 4. Monitoring and Testing for Responsible AI** (5 videos)
+- **6. 5. Team Structures and Processes** (4 videos)
+- **7. 6. Risk Assessment and Decision Frameworks** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Intro to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction?u=76281980)
@@ -98,7 +102,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 1. Reframing Responsible AI for Technical Teams
+### 2. 1. Reframing Responsible AI for Technical Teams
 
 #### Introduction to course objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980)
@@ -372,7 +376,7 @@ created: 2026-04-21
 > **Speakers:** - every (1)
 
 
-### 2. Where Technical Decisions Shape Responsible AI
+### 3. 2. Where Technical Decisions Shape Responsible AI
 
 #### Critical decision points in AI development
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/critical-decision-points-in-ai-development?u=76281980)
@@ -620,7 +624,7 @@ created: 2026-04-21
 > **Speakers:** - responsible (1)
 
 
-### 3. Architecture Decisions That Matter
+### 4. 3. Architecture Decisions That Matter
 
 #### Model selection trade-offs
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980)
@@ -839,7 +843,7 @@ created: 2026-04-21
 > **Speakers:** - privacy (1)
 
 
-### 4. Monitoring and Testing for Responsible AI
+### 5. 4. Monitoring and Testing for Responsible AI
 
 #### Metrics for responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980)
@@ -1130,7 +1134,7 @@ created: 2026-04-21
 > **Speakers:** - ethical (1)
 
 
-### 5. Team Structures and Processes
+### 6. 5. Team Structures and Processes
 
 #### Distributing RAI expertise in teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980)
@@ -1335,7 +1339,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 6. Risk Assessment and Decision Frameworks
+### 7. 6. Risk Assessment and Decision Frameworks
 
 #### Solution-focused risk assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/solution-focused-risk-assessment?u=76281980)
@@ -1600,7 +1604,7 @@ created: 2026-04-21
 > **Speakers:** - responsible (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/what-s-next?u=76281980)
@@ -1641,6 +1645,15 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Vilas Dhar]]
+
+## Skills Covered
+
+- Responsible AI
+- Artificial Intelligence (AI)
 
 ## Path Context
 

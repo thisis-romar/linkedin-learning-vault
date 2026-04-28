@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/From%20Tool%20to%20Teammates-%20Working%20Smarter%20with%20AI.md)
 
 ![From Tool to Teammates: Working Smarter with AI](https://media.licdn.com/dms/image/v2/D4E0DAQFiSqwGvS9dsg/learning-public-crop_675_1200/B4EZspW9_CHUAY-/0/1765925446298?e=2147483647&amp;v=beta&amp;t=5Xu5hPn4WT5zpxD2U6ReAmOmCIZGlvkihKXfM6yeZbE)
 
@@ -45,23 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai) | 1h 46m | Intermediate | 57K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brice Challamel]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- Artificial Intelligence (AI)
-- Prompt Engineering
-
 ## Table of Contents
 
-### Introduction: Understanding Your AI Teammates
+### Chapter Overview
+
+- **1. Introduction: Understanding Your AI Teammates** (4 videos)
+- **2. 1. Hiring the Assistant** (3 videos)
+- **3. 2. Briefing the Expert** (3 videos)
+- **4. 3. Engaging the Coach** (3 videos)
+- **5. 4. Partnering with the Creative** (3 videos)
+- **6. 5. Becoming the Orchestrator** (4 videos)
+- **7. Conclusion: Owning Your Future with AI** (1 videos)
+
+### 1. Introduction: Understanding Your AI Teammates
 
 #### From tool to teammates: Welcome!
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/from-tool-to-teammates-welcome?u=76281980)
@@ -372,7 +370,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 1. Hiring the Assistant
+### 2. 1. Hiring the Assistant
 
 #### Delegating inbox triage to your assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980)
@@ -680,7 +678,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 2. Briefing the Expert
+### 3. 2. Briefing the Expert
 
 #### Getting curated recommendations from the expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/getting-curated-recommendations-from-the-expert?u=76281980)
@@ -1018,7 +1016,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Engaging the Coach
+### 4. 3. Engaging the Coach
 
 #### Setting up the framework for your coach project
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980)
@@ -1491,7 +1489,7 @@ created: 2026-04-21
 > **Best Practices:** best practice (1)
 
 
-### 4. Partnering with the Creative
+### 5. 4. Partnering with the Creative
 
 #### Co-creating ideas using the canvas interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980)
@@ -1954,7 +1952,7 @@ created: 2026-04-21
 > **URLs:** [dangerofhow.ai](https://dangerofhow.ai) (1)
 
 
-### 5. Becoming the Orchestrator
+### 6. 5. Becoming the Orchestrator
 
 #### Mastering the seven habits of orchestration
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/mastering-the-seven-habits-of-orchestration?u=76281980)
@@ -2494,7 +2492,7 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 
 
-### Conclusion: Owning Your Future with AI
+### 7. Conclusion: Owning Your Future with AI
 
 #### Evolving from AI user to digital product owner
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980)
@@ -2583,6 +2581,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
 
+
+## Instructor
+
+- [[Brice Challamel]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- Artificial Intelligence (AI)
+- Prompt Engineering
 
 ## Path Context
 

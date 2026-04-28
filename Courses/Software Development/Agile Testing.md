@@ -32,8 +32,10 @@ tags:
   - topic/devops
   - skill/agile-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Agile%20Testing.md)
 
 ![Agile Testing](https://media.licdn.com/dms/image/v2/C4E0DAQHmwBZkeEpPyg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668566557?e=2147483647&amp;v=beta&amp;t=vgLPwzZj8F6hbO9q5Cg9puRZJ5MELJQyrS9Qp0KyPrs)
 
@@ -44,17 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2) | 48m | Intermediate | 259K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ash Coleman]]
-
-## Skills Covered
-
-- Agile Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Agile Testing?** (5 videos)
+- **3. 2. The Agile Testing Approach** (8 videos)
+- **4. 3. Testing Process and Responsibilities** (4 videos)
+- **5. 4. Agile Testing In Action** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Testing agile projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/testing-agile-projects?u=76281980)
@@ -82,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - testing (1)
 
 
-### 1. What Is Agile Testing?
+### 2. 1. What Is Agile Testing?
 
 #### Testing in the agile context
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/testing-in-the-agile-context-19300571?u=76281980)
@@ -352,7 +355,7 @@ created: 2026-04-21
 > **Speakers:** - being (1)
 
 
-### 2. The Agile Testing Approach
+### 3. 2. The Agile Testing Approach
 
 #### Backlog grooming
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/backlog-grooming-19801484?u=76281980)
@@ -682,7 +685,7 @@ created: 2026-04-21
 > **Speakers:** - welcome (1)
 
 
-### 3. Testing Process and Responsibilities
+### 4. 3. Testing Process and Responsibilities
 
 #### Bug tracking
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/bug-tracking-19295906?u=76281980)
@@ -963,7 +966,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Agile Testing In Action
+### 5. 4. Agile Testing In Action
 
 #### Manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/manual-testing-19295905?u=76281980)
@@ -1102,7 +1105,7 @@ created: 2026-04-21
 > **Speakers:** - continuous (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/next-steps-23016445?u=76281980)
@@ -1125,6 +1128,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Ash Coleman]]
+
+## Skills Covered
+
+- Agile Testing
 
 ## Path Context
 

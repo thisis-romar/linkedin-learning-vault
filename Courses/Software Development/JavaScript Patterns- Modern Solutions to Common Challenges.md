@@ -28,8 +28,10 @@ tags:
   - skill/javascript
   - skill/coding-practices
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript%20Patterns-%20Modern%20Solutions%20to%20Common%20Challenges.md)
 
 ![JavaScript Patterns: Modern Solutions to Common Challenges](https://media.licdn.com/dms/image/v2/D4E0DAQF1L-ByY75vUw/learning-public-crop_675_1200/B4EZbKgjCRGQAY-/0/1747154252674?e=2147483647&amp;v=beta&amp;t=EX33dWi3R2clFIjO6kM56n79hLCQWdk3Pqftx4ryC7M)
 
@@ -40,22 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges) | 1h 34m | Intermediate | 401K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joe Chellman]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- JavaScript
-- Coding Practices
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Improving on Loops** (5 videos)
+- **3. 2. Objects Can Confuse** (6 videos)
+- **4. 3. Oh Functions, My Functions** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning Javascript: Finding the utility in less common patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/learning-javascript-finding-the-utility-in-less-common-patterns?u=76281980)
@@ -246,7 +243,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Improving on Loops
+### 2. 1. Improving on Loops
 
 #### Pain point: Sequential "for" loops become tedious
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-sequential-for-loops-become-tedious-14183623?u=76281980)
@@ -897,7 +894,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Objects Can Confuse
+### 3. 2. Objects Can Confuse
 
 #### Pain point: Copied objects are not actually copies
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-copied-objects-are-not-actually-copies-14181695?u=76281980)
@@ -1578,7 +1575,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Oh Functions, My Functions
+### 4. 3. Oh Functions, My Functions
 
 #### Pain point: Send extra parameters to an event handler
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980)
@@ -2255,7 +2252,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat instrumental music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps and thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980)
@@ -2315,6 +2312,19 @@ created: 2026-04-21
 > **File Paths:** collect.js (1)
 > **Speakers:** - [joe] (1)
 
+
+## Instructor
+
+- [[Joe Chellman]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- JavaScript
+- Coding Practices
 
 ## Path Context
 

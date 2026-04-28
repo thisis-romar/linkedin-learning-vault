@@ -22,8 +22,10 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20to%20IT%20Automation.md)
 
 ![Introduction to IT Automation](https://media.licdn.com/dms/image/v2/C560DAQEkBoq63ukdZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626803857289?e=2147483647&amp;v=beta&amp;t=KoeOR7zZ1CfQZYXs5pOIJtPr0u38gPah6lOowUKCG6M)
 
@@ -34,13 +36,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation) | 3h 12m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Liam Cleary]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is IT Automation?** (6 videos)
+- **3. 2. When to Use Automation** (5 videos)
+- **4. 3. Automation Tools** (8 videos)
+- **5. 4. Automation Using Scripts** (8 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### An overview of IT automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980)
@@ -101,7 +108,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Is IT Automation?
+### 2. 1. What Is IT Automation?
 
 #### What is IT automation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980)
@@ -476,7 +483,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. When to Use Automation
+### 3. 2. When to Use Automation
 
 #### When should you automate?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/when-should-you-automate?u=76281980)
@@ -992,7 +999,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 3. Automation Tools
+### 4. 3. Automation Tools
 
 #### Using automation tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980)
@@ -2133,7 +2140,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Automation Using Scripts
+### 5. 4. Automation Using Scripts
 
 #### Automation using scripts
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980)
@@ -3940,7 +3947,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (2), select the (2)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continue exploring IT automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980)
@@ -3971,6 +3978,10 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Liam Cleary]]
 
 ## Path Context
 

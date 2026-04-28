@@ -33,8 +33,10 @@ tags:
   - skill/digital-transformation
   - skill/team-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Digital%20Transformation%20for%20Leaders%20in%20the%20AI%20Era.md)
 
 ![Digital Transformation for Leaders in the AI Era](https://media.licdn.com/dms/image/v2/D4E0DAQEDE7vqW5F3Kg/learning-public-crop_675_1200/B4EZZFxMdJHUAY-/0/1744927246480?e=2147483647&amp;v=beta&amp;t=iMT_3Zjkwf2b2yc0Apq5TCnN1XT5VAWH3cVFGszIKt4)
 
@@ -45,23 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era) | 1h 13m | Intermediate | 18K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Isaac Sacolick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cross-functional Team Leadership
-- Digital Transformation
-- Team Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Transforming the Digital Business Landscape** (2 videos)
+- **3. 2.Translate Big Ideas into Transformation Initiatives** (3 videos)
+- **4. 3. Digital Transformation Core Competencies** (5 videos)
+- **5. 4. Delivering Ongoing Impact through Transformation** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Digital transformation for leaders
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980)
@@ -92,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - over (1)
 
 
-### 1. Transforming the Digital Business Landscape
+### 2. 1. Transforming the Digital Business Landscape
 
 #### Digital transformation's next wave
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980)
@@ -250,7 +247,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 2.Translate Big Ideas into Transformation Initiatives
+### 3. 2.Translate Big Ideas into Transformation Initiatives
 
 #### Evolving a digital strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980)
@@ -526,7 +523,7 @@ created: 2026-04-21
 > **Speakers:** - according (1)
 
 
-### 3. Digital Transformation Core Competencies
+### 4. 3. Digital Transformation Core Competencies
 
 #### Key leadership roles in transformation initiatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980)
@@ -999,7 +996,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 4. Delivering Ongoing Impact through Transformation
+### 5. 4. Delivering Ongoing Impact through Transformation
 
 #### Where to find AI's transformational use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980)
@@ -1263,7 +1260,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Key takeaways for leading digital transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980)
@@ -1318,6 +1315,20 @@ created: 2026-04-21
 > **Ports:** :00 (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Isaac Sacolick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cross-functional Team Leadership
+- Digital Transformation
+- Team Leadership
 
 ## Path Context
 

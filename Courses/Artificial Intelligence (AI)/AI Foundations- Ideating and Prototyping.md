@@ -33,8 +33,10 @@ tags:
   - skill/prototyping
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Foundations-%20Ideating%20and%20Prototyping.md)
 
 ![AI Foundations: Ideating and Prototyping](https://media.licdn.com/dms/image/v2/D4D0DAQH9Iv_VdC_awA/learning-public-crop_675_1200/B4DZTcXiC2HIAc-/0/1738863944371?e=2147483647&amp;v=beta&amp;t=LwG_upOMhVszG08CII14evA6rU911H7a-oaRS6CMQ4E)
 
@@ -45,23 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping) | 1h 2m | Intermediate | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Isil Berkun]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- Prototyping
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Identifying the Problem** (2 videos)
+- **3. 2. Ideation Techniques** (2 videos)
+- **4. 3. Building a Prototype** (2 videos)
+- **5. 4. Resource Allocation and Funding Strategies** (2 videos)
+- **6. 5. Presenting and Refining Your AI Product Idea** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Transforming ideas into impactful AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/transforming-ideas-into-impactful-ai-products?u=76281980)
@@ -256,7 +254,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. Identifying the Problem
+### 2. 1. Identifying the Problem
 
 #### Defining the problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/defining-the-problem-statement?u=76281980)
@@ -458,7 +456,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 2. Ideation Techniques
+### 3. 2. Ideation Techniques
 
 #### Brainstorming and concept development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/brainstorming-and-concept-development?u=76281980)
@@ -704,7 +702,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 3. Building a Prototype
+### 4. 3. Building a Prototype
 
 #### Rapid prototyping and iterative testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/rapid-prototyping-iterative-testing?u=76281980)
@@ -927,7 +925,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 4. Resource Allocation and Funding Strategies
+### 5. 4. Resource Allocation and Funding Strategies
 
 #### Estimating resource needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/estimating-resource-needs?u=76281980)
@@ -1180,7 +1178,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 5. Presenting and Refining Your AI Product Idea
+### 6. 5. Presenting and Refining Your AI Product Idea
 
 #### Pitching your AI product
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/pitching-your-ai-product?u=76281980)
@@ -1397,7 +1395,7 @@ created: 2026-04-21
 > **Speakers:** - once (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Recap and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/recap-and-next-steps?u=76281980)
@@ -1462,6 +1460,20 @@ created: 2026-04-21
 > **URLs:** [digifab.ai](https://digifab.ai) (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Isil Berkun]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- Prototyping
+- Artificial Intelligence (AI)
 
 ## Path Context
 

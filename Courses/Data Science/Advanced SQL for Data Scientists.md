@@ -35,8 +35,10 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20for%20Data%20Scientists.md)
 
 ![Advanced SQL for Data Scientists](https://media.licdn.com/dms/image/v2/C560DAQGQCYHPT8oZGA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621968587563?e=2147483647&amp;v=beta&amp;t=ZVs4_6wN_VLODDTn_8fVrL1C6b0pLj6l_V3wW4H2BHQ)
 
@@ -47,22 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889) | 2h 30m | Advanced | 70K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dan Sullivan]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data Analysis
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Data Modeling: Tables** (7 videos)
+- **3. 2. Data Modeling: Indexes** (7 videos)
+- **4. 3. Query Optimization** (7 videos)
+- **5. 4. User-Defined Functions** (7 videos)
+- **6. 5. Special-Purpose Functionality** (7 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Advanced SQL techniques for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980)
@@ -111,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Data Modeling: Tables
+### 2. 1. Data Modeling: Tables
 
 #### Rules of normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980)
@@ -728,7 +727,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Data Modeling: Indexes
+### 3. 2. Data Modeling: Indexes
 
 #### B-tree indexes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980)
@@ -1081,7 +1080,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Query Optimization
+### 4. 3. Query Optimization
 
 #### EXPLAIN and ANALYZE commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980)
@@ -1764,7 +1763,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. User-Defined Functions
+### 5. 4. User-Defined Functions
 
 #### Extending SQL with user-defined functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980)
@@ -2427,7 +2426,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Special-Purpose Functionality
+### 6. 5. Special-Purpose Functionality
 
 #### Federated queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980)
@@ -3251,7 +3250,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980)
@@ -3281,6 +3280,19 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [dan] (1)
 
+
+## Instructor
+
+- [[Dan Sullivan]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data Analysis
+- SQL
 
 ## Path Context
 

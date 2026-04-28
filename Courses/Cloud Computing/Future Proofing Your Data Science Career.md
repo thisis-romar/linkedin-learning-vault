@@ -29,8 +29,10 @@ tags:
   - skill/tech-career-skills
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Future%20Proofing%20Your%20Data%20Science%20Career.md)
 
 ![Future Proofing Your Data Science Career](https://media.licdn.com/dms/image/v2/C4E0DAQFtWaR4WcYp3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588090928525?e=2147483647&amp;v=beta&amp;t=Nb1NSwbCMrpy37dA9I3slqRltA3NHAHHT0rQTuAGzhM)
 
@@ -41,22 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career) | 1h 4m | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Chris Bishop]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tech Career Skills
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Socio-Historical Perspective** (2 videos)
+- **3. 2. The Data Science Workplace** (3 videos)
+- **4. 3. Future Career Toolkit** (2 videos)
+- **5. 4. Finding Your VOICE** (7 videos)
+- **6. 5. Developing Your ANTENNA** (6 videos)
+- **7. 6. Connecting via Your MESH** (11 videos)
+- **8. Conclusion** (3 videos)
+
+### 1. Introduction
 
 #### Data science is disrupting every business
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-is-disrupting-every-business?u=76281980)
@@ -148,7 +148,7 @@ created: 2026-04-21
 > **Speakers:** - research (1)
 
 
-### 1. Socio-Historical Perspective
+### 2. 1. Socio-Historical Perspective
 
 #### A brief history of machines helping humans
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/a-brief-history-of-machines-helping-humans?u=76281980)
@@ -253,7 +253,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 2. The Data Science Workplace
+### 3. 2. The Data Science Workplace
 
 #### Data science drives Wall Street and Main Street
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980)
@@ -376,7 +376,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 3. Future Career Toolkit
+### 4. 3. Future Career Toolkit
 
 #### Managing the emerging data science job market
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/managing-the-emerging-data-science-job-market?u=76281980)
@@ -454,7 +454,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 4. Finding Your VOICE
+### 5. 4. Finding Your VOICE
 
 #### What is your VOICE?
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/what-is-your-voice?u=76281980)
@@ -703,7 +703,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 5. Developing Your ANTENNA
+### 6. 5. Developing Your ANTENNA
 
 #### ANTENNA overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/antenna-overview?u=76281980)
@@ -981,7 +981,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 6. Connecting via Your MESH
+### 7. 6. Connecting via Your MESH
 
 #### It is not what you know, but who you know
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980)
@@ -1472,7 +1472,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Prepare for future data-science careers
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/prepare-for-future-data-science-careers?u=76281980)
@@ -1599,6 +1599,19 @@ created: 2026-04-21
 > **URLs:** [improvisingcareers.com](https://improvisingcareers.com) (1)
 > **Speakers:** - as (1)
 
+
+## Instructor
+
+- [[Chris Bishop]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tech Career Skills
+- Data Science
 
 ## Path Context
 

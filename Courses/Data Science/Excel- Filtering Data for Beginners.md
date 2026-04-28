@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Filtering%20Data%20for%20Beginners.md)
 
 ![Excel: Filtering Data for Beginners](https://media.licdn.com/dms/image/v2/D4D0DAQFWHZ3ODbVEmA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734651854910?e=2147483647&amp;v=beta&amp;t=0YKPG0jGOYc9rPCvun6tghNXteIIMOk8QTmImpp9j6I)
 
@@ -40,21 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188) | 33m | Beginner | 70K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dave Ludwig]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Basic Excel Filter Concepts** (2 videos)
+- **3. 2. Refining Filters in Excel** (4 videos)
+- **4. 3. Excel Filtering Tips** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Zero in on the right data with filters in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/zero-in-on-the-right-data-with-filters-in-excel?u=76281980)
@@ -112,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Basic Excel Filter Concepts
+### 2. 1. Basic Excel Filter Concepts
 
 #### What is a filter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-is-a-filter?u=76281980)
@@ -286,7 +284,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Refining Filters in Excel
+### 3. 2. Refining Filters in Excel
 
 #### Custom filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/custom-filters?u=76281980)
@@ -645,7 +643,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Excel Filtering Tips
+### 4. 3. Excel Filtering Tips
 
 #### Use slicers to filter
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980)
@@ -940,7 +938,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps: From filters to advanced Excel analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980)
@@ -979,6 +977,18 @@ created: 2026-04-21
 >
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Dave Ludwig]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Excel
 
 ## Path Context
 

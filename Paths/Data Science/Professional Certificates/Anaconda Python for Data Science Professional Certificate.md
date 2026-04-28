@@ -39,8 +39,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Professional%20Certificates/Anaconda%20Python%20for%20Data%20Science%20Professional%20Certificate.md)
 
 # Anaconda Python for Data Science Professional Certificate
 

@@ -21,8 +21,10 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Foundations%20of%20Accessible%20Elearning.md)
 
 ![Foundations of Accessible Elearning](https://media.licdn.com/dms/image/v2/C560DAQGYXMOan21_Xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639687049424?e=2147483647&amp;v=beta&amp;t=0xzHwvuZsGNy7b0-9PX6iXdfqRs6blUXRR7KhzDe-mU)
 
@@ -33,13 +35,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning) | 51m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Oliver Schinkten]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Web Content Accessibilty Guidelines** (4 videos)
+- **3. 2.  Who Needs Accommodations?** (6 videos)
+- **4. 3.  Making Learning Accessible** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Create training that's accessible to all
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980)
@@ -123,7 +129,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Web Content Accessibilty Guidelines
+### 2. 1. Web Content Accessibilty Guidelines
 
 #### Expectations for providing accommodations
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/expectations-for-providing-accommodations?u=76281980)
@@ -488,7 +494,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2.  Who Needs Accommodations?
+### 3. 2.  Who Needs Accommodations?
 
 #### Vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980)
@@ -891,7 +897,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3.  Making Learning Accessible
+### 4. 3.  Making Learning Accessible
 
 #### Using learning management systems and other tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980)
@@ -1454,7 +1460,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/next-steps?u=76281980)
@@ -1522,6 +1528,10 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Oliver Schinkten]]
 
 ## Path Context
 

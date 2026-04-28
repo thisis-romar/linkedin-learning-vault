@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/api-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/API%20Testing%20Foundations.md)
 
 ![API Testing Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQGYSZSvOzrO-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697137417352?e=2147483647&amp;v=beta&amp;t=CbxnBoZy9FzikMp3LPBSxgo1Qmjo3M71PRfamwuoC3k)
 
@@ -41,22 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217) | 1h 35m | Intermediate | 90K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dave Westerveld]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/api-testing-foundations-4403636)
-
-## Skills Covered
-
-- API Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Started with API Testing** (5 videos)
+- **3. 2. Exploratory API Testing** (4 videos)
+- **4. 3. API Authorization** (5 videos)
+- **5. 4. Hands-On API Testing** (9 videos)
+- **6. 5. Additional API Testing Consideration** (4 videos)
+- **7. Conclusion** (0 videos)
+
+### 1. Introduction
 
 #### Standing out as an API tester
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/stand-out-as-an-api-tester?u=76281980)
@@ -82,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Getting Started with API Testing
+### 2. 1. Getting Started with API Testing
 
 #### Calling an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980)
@@ -492,7 +491,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Exploratory API Testing
+### 3. 2. Exploratory API Testing
 
 #### Install and set up API challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980)
@@ -916,7 +915,7 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 
 
-### 3. API Authorization
+### 4. 3. API Authorization
 
 #### Overview of authorization and authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/overview-of-authorization-and-authentication?u=76281980)
@@ -1346,7 +1345,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 4. Hands-On API Testing
+### 5. 4. Hands-On API Testing
 
 #### Testing GET calls
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-get-calls?u=76281980)
@@ -2104,7 +2103,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Additional API Testing Consideration
+### 6. 5. Additional API Testing Consideration
 
 #### Using mocks, stubs, and fakes in API testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-mocks-stubs-and-fakes-in-api-testing?u=76281980)
@@ -2439,8 +2438,21 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
+
+## Instructor
+
+- [[Dave Westerveld]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/api-testing-foundations-4403636)
+
+## Skills Covered
+
+- API Testing
 
 ## Path Context
 

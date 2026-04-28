@@ -35,37 +35,33 @@ tags:
   - skill/sql
   - skill/data-build-tool-dbt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Engineering-%20dbt%20for%20SQL.md)
 
 ![Data Engineering: dbt for SQL](https://media.licdn.com/dms/image/v2/D560DAQHyyrhbhSEAOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695671472229?e=2147483647&amp;v=beta&amp;t=8xdAfDbipieM8f2bx4ZpUCrBRheDNq5YqT1rnaKVIVM)
 
 # Data Engineering: dbt for SQL
 
-> Are you looking for a better—and easier—way to manage SQL code? In this course, instructor Vinoo Ganesh shows you how to use dbt (data build tool) to operationalize SQL in powerful ways and make the process of transforming data simpler and faster.
-In each chapter, Vinoo presents a real-world situation or problem, and provides focused code examples explaining how to solve the problem. He shows you 
+> Are you looking for a better—and easier—way to manage SQL code? In this course, instructor Vinoo Ganesh shows you how to use dbt (data build tool) to operationalize SQL in powerful ways and make the process of transforming data simpler and faster. In each chapter, Vinoo presents a real-world situation or problem, and provides focused code examples explaining how to solve the problem. He shows you 
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql) | 1h 31m | Advanced | 55K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Vinoo Ganesh]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advance-your-sql-skills-for-data-engineering-3315012/codespaces)
-
-## Skills Covered
-
-- Data Engineering
-- SQL
-- Data Build Tool (DBT)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. SQL for Data Engineers** (5 videos)
+- **3. 2. Modeling in SQL** (6 videos)
+- **4. 3. Table Materializations** (5 videos)
+- **5. 4. Common Table Expressions vs. Subqueries** (5 videos)
+- **6. 5. Testing SQL with dbt** (5 videos)
+- **7. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980)
@@ -207,7 +203,7 @@ In each chapter, Vinoo presents a real-world situation or problem, and provides 
 > **Speakers:** - [instructor] (1)
 
 
-### 1. SQL for Data Engineers
+### 2. 1. SQL for Data Engineers
 
 #### SQL as a data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980)
@@ -535,7 +531,7 @@ In each chapter, Vinoo presents a real-world situation or problem, and provides 
 > **Non-Speech:** (bright music) (1)
 
 
-### 2. Modeling in SQL
+### 3. 2. Modeling in SQL
 
 #### Supply chain outage: SQL spaghetti
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980)
@@ -987,7 +983,7 @@ In each chapter, Vinoo presents a real-world situation or problem, and provides 
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 3. Table Materializations
+### 4. 3. Table Materializations
 
 #### Crypto cost: Materializations
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980)
@@ -1329,7 +1325,7 @@ In each chapter, Vinoo presents a real-world situation or problem, and provides 
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Common Table Expressions vs. Subqueries
+### 5. 4. Common Table Expressions vs. Subqueries
 
 #### Construction planning: Query complexity
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980)
@@ -1677,7 +1673,7 @@ In each chapter, Vinoo presents a real-world situation or problem, and provides 
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Testing SQL with dbt
+### 6. 5. Testing SQL with dbt
 
 #### Advertising: Testing SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/advertising-testing-sql?u=76281980)
@@ -2075,7 +2071,7 @@ In each chapter, Vinoo presents a real-world situation or problem, and provides 
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Looking ahead
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980)
@@ -2156,6 +2152,21 @@ In each chapter, Vinoo presents a real-world situation or problem, and provides 
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Vinoo Ganesh]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advance-your-sql-skills-for-data-engineering-3315012/codespaces)
+
+## Skills Covered
+
+- Data Engineering
+- SQL
+- Data Build Tool (DBT)
 
 ## Path Context
 

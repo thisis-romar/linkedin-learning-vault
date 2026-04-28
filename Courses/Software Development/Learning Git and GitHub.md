@@ -45,8 +45,10 @@ tags:
   - skill/git
   - skill/github
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Git%20and%20GitHub.md)
 
 ![Learning Git and GitHub](https://media.licdn.com/dms/image/v2/D560DAQG-PWt9Z7vqCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697832655105?e=2147483647&amp;v=beta&amp;t=y4RW4ep4W-ugmPxb52IiKv9s4k8DiOHmlj9DwjG6WmM)
 
@@ -57,23 +59,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330) | 3h 50m | Beginner | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/linkedinlearning/learning-git-github-2421501)
-
-## Skills Covered
-
-- Git
-- GitHub
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Working with Git** (11 videos)
+- **3. 2. Working with GitHub** (7 videos)
+- **4. 3. GitHub Repos and Projects** (9 videos)
+- **5. 4. GitHub Social and Publishing** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Travel the multiverse with Git and GitHub
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/welcome?u=76281980)
@@ -120,7 +117,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Working with Git
+### 2. 1. Working with Git
 
 #### Understanding version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-version-control?u=76281980)
@@ -1821,7 +1818,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Working with GitHub
+### 3. 2. Working with GitHub
 
 #### What is GitHub?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980)
@@ -3068,7 +3065,7 @@ created: 2026-04-21
 > **Env Vars:** url (1), mit (1)
 
 
-### 3. GitHub Repos and Projects
+### 4. 3. GitHub Repos and Projects
 
 #### Issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980)
@@ -4481,7 +4478,7 @@ created: 2026-04-21
 > **Documentation:** the documentation (2)
 
 
-### 4. GitHub Social and Publishing
+### 5. 4. GitHub Social and Publishing
 
 #### GitHub discussions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-discussions?u=76281980)
@@ -5149,7 +5146,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/next-steps?u=76281980)
@@ -5173,6 +5170,20 @@ created: 2026-04-21
 > **URLs:** [raybo.org](https://raybo.org) (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/linkedinlearning/learning-git-github-2421501)
+
+## Skills Covered
+
+- Git
+- GitHub
 
 ## Path Context
 

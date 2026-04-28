@@ -21,8 +21,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Design%20Patterns%20as%20Building%20Blocks.md)
 
 ![Interaction Design: Design Patterns as Building Blocks](https://media.licdn.com/dms/image/v2/C4E0DAQHLTJSpdM1eXw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572301751430?e=2147483647&amp;v=beta&amp;t=u0vnfKYm4oEEf8ESg2hKuUdVVZW4UuTYFlyDxxWdHxk)
 
@@ -33,13 +35,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks) | 1h 8m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Diane Cronenwett]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Patterns Overview** (5 videos)
+- **3. 2. Page Structure and Organization** (5 videos)
+- **4. 3. Form and Data Controls** (8 videos)
+- **5. 4. Indicating Progress and Feedback** (5 videos)
+- **6. 5. Search and Filtering** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980)
@@ -67,7 +75,7 @@ created: 2026-04-21
 > **Speakers:** - [diane] (1)
 
 
-### 1. Patterns Overview
+### 2. 1. Patterns Overview
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980)
@@ -372,7 +380,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Page Structure and Organization
+### 3. 2. Page Structure and Organization
 
 #### Global navigation
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/global-navigation?u=76281980)
@@ -669,7 +677,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Form and Data Controls
+### 4. 3. Form and Data Controls
 
 #### Fitts's law, grouping, and cognitive load
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980)
@@ -1150,7 +1158,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Indicating Progress and Feedback
+### 5. 4. Indicating Progress and Feedback
 
 #### Feedback in UX
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/feedback-in-ux?u=76281980)
@@ -1419,7 +1427,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Search and Filtering
+### 6. 5. Search and Filtering
 
 #### Search input
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-input?u=76281980)
@@ -1674,7 +1682,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980)
@@ -1703,6 +1711,10 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Diane Cronenwett]]
 
 ## Path Context
 

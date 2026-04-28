@@ -29,8 +29,10 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Fundamentals%20of%20Agentic%20AI-%20Business%20Implications%20and%20Ethical%20Insights.md)
 
 ![Fundamentals of Agentic AI: Business Implications and Ethical Insights](https://media.licdn.com/dms/image/v2/D560DAQFryB69UcojRg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727364523580?e=2147483647&amp;v=beta&amp;t=GyMRx2vnSDj-FhxYjxqBK7PH1Tx2FqOON5Day4HoDp4)
 
@@ -41,19 +43,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights) | 33m | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Zachary M. Kass]]
-
-## Skills Covered
-
-- AI for Business
-- AI Agents
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding the Evolution of Agentic AI** (3 videos)
+- **3. 2. Business Applications of Agentic AI** (3 videos)
+- **4. 3. Agentic AI Theoretical and Ethical Considerations** (3 videos)
+- **5. 4. Future Outlook on Agentic AI** (2 videos)
+- **6. 5. Strategic Planning for Agentic AI Implementation** (3 videos)
+
+### 1. Introduction
 
 #### Introduction to agentic AI for businesses
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/introduction-to-agentic-ai-for-businesses?u=76281980)
@@ -80,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 1. Understanding the Evolution of Agentic AI
+### 2. 1. Understanding the Evolution of Agentic AI
 
 #### What is agentic AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980)
@@ -241,7 +242,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Business Applications of Agentic AI
+### 3. 2. Business Applications of Agentic AI
 
 #### Impacts on processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980)
@@ -366,7 +367,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 3. Agentic AI Theoretical and Ethical Considerations
+### 4. 3. Agentic AI Theoretical and Ethical Considerations
 
 #### Realized versus expected applications of agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980)
@@ -550,7 +551,7 @@ created: 2026-04-21
 > **Speakers:** - while (1)
 
 
-### 4. Future Outlook on Agentic AI
+### 5. 4. Future Outlook on Agentic AI
 
 #### How agentic AI may evolve in the next ten years
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980)
@@ -657,7 +658,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 5. Strategic Planning for Agentic AI Implementation
+### 6. 5. Strategic Planning for Agentic AI Implementation
 
 #### Strategic planning for AI integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980)
@@ -822,6 +823,16 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Zachary M. Kass]]
+
+## Skills Covered
+
+- AI for Business
+- AI Agents
+- Artificial Intelligence (AI)
 
 ## Path Context
 

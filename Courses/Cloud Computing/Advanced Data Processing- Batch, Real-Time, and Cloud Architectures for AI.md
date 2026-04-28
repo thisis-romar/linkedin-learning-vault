@@ -36,8 +36,10 @@ tags:
   - skill/cloud-native-architecture
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Advanced%20Data%20Processing-%20Batch%2C%20Real-Time%2C%20and%20Cloud%20Architectures%20for%20AI.md)
 
 ![Advanced Data Processing: Batch, Real-Time, and Cloud Architectures for AI](https://media.licdn.com/dms/image/v2/D4D0DAQE5bR1Puq69Hw/learning-public-crop_675_1200/B4DZZkfbphG4Ac-/0/1745442684244?e=2147483647&amp;v=beta&amp;t=g_DFjThjXJ4Pd3kx3O8m6gkLBkzLURaAkI8sap5zZEk)
 
@@ -48,21 +50,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai) | 1h 32m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Skills Covered
-
-- Real-Time
-- Data Processing
-- Batch Processing
-- Cloud-Native Architecture
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AI Architectures** (6 videos)
+- **3. 2. Batch AI Architectures** (7 videos)
+- **4. 3. Real-Time AI Architectures** (7 videos)
+- **5. 4. Cloud AI Architectures** (6 videos)
+- **6. 5. Hybrid AI Architectures** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Processing data for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/processing-data-for-ai?u=76281980)
@@ -87,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. AI Architectures
+### 2. 1. AI Architectures
 
 #### The ML life cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980)
@@ -519,7 +519,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Batch AI Architectures
+### 3. 2. Batch AI Architectures
 
 #### Characteristics of batch AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980)
@@ -1015,7 +1015,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Real-Time AI Architectures
+### 4. 3. Real-Time AI Architectures
 
 #### Characteristics of real-time AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980)
@@ -1517,7 +1517,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Cloud AI Architectures
+### 5. 4. Cloud AI Architectures
 
 #### Cloud and serverless computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980)
@@ -1849,7 +1849,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 5. Hybrid AI Architectures
+### 6. 5. Hybrid AI Architectures
 
 #### Hybrid computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980)
@@ -2138,7 +2138,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing with AI data processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980)
@@ -2167,6 +2167,18 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Skills Covered
+
+- Real-Time
+- Data Processing
+- Batch Processing
+- Cloud-Native Architecture
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-onedrive
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/OneDrive%20for%20Business%20Essential%20Training.md)
 
 ![OneDrive for Business Essential Training](https://media.licdn.com/dms/image/v2/D4D0DAQGtdPqJpSRTuw/learning-public-crop_675_1200/B4DZZkd4U9H4AY-/0/1745442276988?e=2147483647&amp;v=beta&amp;t=idtf2LkqHiIAAiS0gRLyR8JHqnY_pRTGauE-KYOOMC4)
 
@@ -41,17 +43,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113) | 1h 8m | 44K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jess Stratton]]
-
-## Skills Covered
-
-- Microsoft OneDrive
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Get Started** (2 videos)
+- **3. 2. Work with Files and Folders** (6 videos)
+- **4. 3. Use OneDrive with Microsoft 365** (5 videos)
+- **5. 4. Collaborate with Others** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Collaborate with your team using OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980)
@@ -119,7 +122,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Get Started
+### 2. 1. Get Started
 
 #### Sign in, access, and navigate OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980)
@@ -330,7 +333,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 2. Work with Files and Folders
+### 3. 2. Work with Files and Folders
 
 #### Upload files via the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980)
@@ -927,7 +930,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Use OneDrive with Microsoft 365
+### 4. 3. Use OneDrive with Microsoft 365
 
 #### Save a file to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980)
@@ -1365,7 +1368,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Collaborate with Others
+### 5. 4. Collaborate with Others
 
 #### Share files and use an expiring link
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980)
@@ -1795,7 +1798,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Master the Microsoft 365 Suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/master-the-microsoft-365-suite?u=76281980)
@@ -1812,6 +1815,14 @@ created: 2026-04-21
 >
 > **Speakers:** - [jess] (1)
 
+
+## Instructor
+
+- [[Jess Stratton]]
+
+## Skills Covered
+
+- Microsoft OneDrive
 
 ## Path Context
 

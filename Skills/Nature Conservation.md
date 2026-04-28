@@ -3,11 +3,16 @@ type: skill
 cssclasses:
   - lle-skill
 course_count: 1
+level_beginner: 0
+level_intermediate: 0
+level_advanced: 0
 tags:
   - skill
   - skill/nature-conservation
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Nature%20Conservation.md)
 
 # Nature Conservation
 
@@ -15,4 +20,9 @@ created: 2026-04-21
 
 ## Courses
 
-- [[The Importance of Biodiversity to Business]]
+- [[The Importance of Biodiversity to Business]] — 29m · 58,463 learners
+
+## Related Skills
+
+- [[Biodiversity]] — 1 shared course
+- [[Sustainable Business Strategy]] — 1 shared course

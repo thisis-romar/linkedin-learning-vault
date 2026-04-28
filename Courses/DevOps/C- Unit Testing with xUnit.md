@@ -35,37 +35,31 @@ tags:
   - skill/c
   - skill/unit-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C-%20Unit%20Testing%20with%20xUnit.md)
 
 ![C# Unit Testing with xUnit](https://media.licdn.com/dms/image/v2/D560DAQFbkepEwSX3vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691084155010?e=2147483647&amp;v=beta&amp;t=JCv0g-b98lkNnkBiom6gDHCI9YwS6YnMx-w5v4RYCug)
 
 # C# Unit Testing with xUnit
 
-> In this course, learn the basics of test-driven development by creating a sample project in pure C# and using unit tests to validate that all the business logic works.
-Instructor Jesse Freeman first introduces you to the foundational concept of unit testing and the role xUnit plays in it. He then guides you through a detailed setup process of xUnit for your development environment. Jesse also delv
+> In this course, learn the basics of test-driven development by creating a sample project in pure C# and using unit tests to validate that all the business logic works. Instructor Jesse Freeman first introduces you to the foundational concept of unit testing and the role xUnit plays in it. He then guides you through a detailed setup process of xUnit for your development environment. Jesse also delv
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit) | 49m | Intermediate | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jesse Freeman]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/c-sharp-unit-testing-with-xunit-4401481)
-
-## Skills Covered
-
-- xUnit
-- C#
-- Unit Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. TDD Testing with xUnit** (3 videos)
+- **3. 2. Writing and Running Unit Tests** (4 videos)
+- **4. 3. Building a Simple Calculator** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with xUnit
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980)
@@ -111,7 +105,7 @@ Instructor Jesse Freeman first introduces you to the foundational concept of uni
 > **Speakers:** - [narrator] (1)
 
 
-### 1. TDD Testing with xUnit
+### 2. 1. TDD Testing with xUnit
 
 #### Using xUnit for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980)
@@ -314,7 +308,7 @@ Instructor Jesse Freeman first introduces you to the foundational concept of uni
 > **Exercise Files:** template (2)
 
 
-### 2. Writing and Running Unit Tests
+### 3. 2. Writing and Running Unit Tests
 
 #### Writing your first unit test with xUnit
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/writing-your-first-unit-test-with-xunit?u=76281980)
@@ -644,7 +638,7 @@ Instructor Jesse Freeman first introduces you to the foundational concept of uni
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Building a Simple Calculator
+### 4. 3. Building a Simple Calculator
 
 #### Creating addition and subtraction logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980)
@@ -1110,7 +1104,7 @@ Instructor Jesse Freeman first introduces you to the foundational concept of uni
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980)
@@ -1135,6 +1129,21 @@ Instructor Jesse Freeman first introduces you to the foundational concept of uni
 > **Code Identifiers:** xunit (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Jesse Freeman]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/c-sharp-unit-testing-with-xunit-4401481)
+
+## Skills Covered
+
+- xUnit
+- C#
+- Unit Testing
 
 ## Path Context
 

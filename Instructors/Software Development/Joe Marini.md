@@ -21,8 +21,10 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
   - topic/web-development
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Software%20Development/Joe%20Marini.md)
 
 # Joe Marini
 

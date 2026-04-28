@@ -30,8 +30,10 @@ tags:
   - skill/sales-presentations
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20for%20Executive%20Sales%20Presentations.md)
 
 ![Using AI for Executive Sales Presentations](https://media.licdn.com/dms/image/v2/D560DAQG6GkkOhJTPig/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008912100?e=2147483647&amp;v=beta&amp;t=Y2tldDYAxCFr_fZr3fr3MDJ0MeUZgWtpuzWUpTxqIqU)
 
@@ -42,23 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations) | 1h 1m | Intermediate | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Magnuson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Sales
-- Sales Presentations
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Leverage AI to Develop Your B2B Strategy Skills** (3 videos)
+- **3. 2. Guarantee an Authentic Connection with Your Executive Sponsor** (2 videos)
+- **4. 3. Create a Winning B2B Prospect Presentation Using AI** (2 videos)
+- **5. 4. Sales Presentation Practice Ensures a Confident Mindset** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Prepare to win with your B2B sales presentations
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/prepare-to-win-with-your-b2b-sales-presentations?u=76281980)
@@ -110,7 +107,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Leverage AI to Develop Your B2B Strategy Skills
+### 2. 1. Leverage AI to Develop Your B2B Strategy Skills
 
 #### B2B strategic selling and executive engagement defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980)
@@ -362,7 +359,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### 2. Guarantee an Authentic Connection with Your Executive Sponsor
+### 3. 2. Guarantee an Authentic Connection with Your Executive Sponsor
 
 #### Leverage AI to formulate executive intelligence to connect
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980)
@@ -539,7 +536,7 @@ created: 2026-04-21
 > **Speakers:** - roll (1)
 
 
-### 3. Create a Winning B2B Prospect Presentation Using AI
+### 4. 3. Create a Winning B2B Prospect Presentation Using AI
 
 #### Select the most effective executive presentation framework using AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/select-the-most-effective-executive-presentation-framework-using-ai?u=76281980)
@@ -743,7 +740,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 4. Sales Presentation Practice Ensures a Confident Mindset
+### 5. 4. Sales Presentation Practice Ensures a Confident Mindset
 
 #### Accelerate prospect engagement with AI tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980)
@@ -952,7 +949,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Celebrate your big B2B contract after a winning presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980)
@@ -1024,6 +1021,20 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - your (1)
 
+
+## Instructor
+
+- [[Lisa Magnuson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Sales
+- Sales Presentations
+- Artificial Intelligence (AI)
 
 ## Path Context
 

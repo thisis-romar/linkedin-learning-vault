@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/software-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Software%20Testing%20Tips%20Weekly.md)
 
 ![Software Testing Tips Weekly](https://media.licdn.com/dms/image/v2/C4E0DAQGdRZf6yDlDMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1581706854222?e=2147483647&amp;v=beta&amp;t=57WmnZN7NnzGhaaqH-xjpdmaQD9Q4DvRazqr1DWhwSE)
 
@@ -40,17 +42,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly) | 1h 12m | Intermediate | 234K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Smith]]
-
-## Skills Covered
-
-- Software Testing
-
 ## Table of Contents
 
-### Soft skills
+### Chapter Overview
+
+- **1. Soft skills** (7 videos)
+- **2. Productivity** (6 videos)
+- **3. Testing skills** (11 videos)
+
+### 1. Soft skills
 
 #### Top tips for talking with developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980)
@@ -618,7 +618,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Productivity
+### 2. Productivity
 
 #### Screen recording for better bug reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/screen-recording-for-better-bug-reports?u=76281980)
@@ -979,7 +979,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Testing skills
+### 3. Testing skills
 
 #### Better bug reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/better-bug-reports?u=76281980)
@@ -1598,6 +1598,14 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Mike Smith]]
+
+## Skills Covered
+
+- Software Testing
 
 ## Path Context
 

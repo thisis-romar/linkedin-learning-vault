@@ -28,8 +28,10 @@ tags:
   - topic/devops
   - skill/terraform
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Advanced%20Terraform.md)
 
 ![Advanced Terraform](https://media.licdn.com/dms/image/v2/C560DAQGfrjsVMJJlFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1673639139822?e=2147483647&amp;v=beta&amp;t=sKBfCsU0ZMfvCz_7xb-GJukI1OCLngtnMWsBDsrDU58)
 
@@ -40,22 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794) | 2h 25m | Advanced | 79K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dave Swersky]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-terraform-3099246)
-
-## Skills Covered
-
-- Terraform
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Creating a New Terraform Configuration** (7 videos)
+- **3. 2. Intermediate Terraform Concepts** (9 videos)
+- **4. 3. Advanced Terraform Concepts** (5 videos)
+- **5. 4. Terraform Automation** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to Advanced Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980)
@@ -368,7 +366,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1), means that (1)
 
 
-### 1. Creating a New Terraform Configuration
+### 2. 1. Creating a New Terraform Configuration
 
 #### Practical Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980)
@@ -1035,7 +1033,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 2. Intermediate Terraform Concepts
+### 3. 2. Intermediate Terraform Concepts
 
 #### Input variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980)
@@ -2216,7 +2214,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### 3. Advanced Terraform Concepts
+### 4. 3. Advanced Terraform Concepts
 
 #### Analyzing a module
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980)
@@ -2765,7 +2763,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 
 
-### 4. Terraform Automation
+### 5. 4. Terraform Automation
 
 #### Multiple environment configurations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980)
@@ -3867,7 +3865,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1), we discussed (1), previous video (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980)
@@ -3931,6 +3929,19 @@ created: 2026-04-21
 > **Analogies:** just like (1), such as (1)
 > **URLs:** [terraform.io](https://terraform.io) (1)
 
+
+## Instructor
+
+- [[Dave Swersky]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-terraform-3099246)
+
+## Skills Covered
+
+- Terraform
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/cloud-computing
   - skill/office-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Administrative%20Professional%20Foundations.md)
 
 ![Administrative Professional Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQFhuwcUc49Tbg/learning-public-crop_675_1200/B4EZjxWiR.IMAY-/0/1756395873698?e=2147483647&amp;v=beta&amp;t=xuOfwzFC8ZWPOPSuv7H8UHwSXYttW5zgzSMlzGwMLws)
 
@@ -40,17 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428) | 1h 24m | Beginner | 32K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[April Stallworth]]
-
-## Skills Covered
-
-- Office Administration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Interpersonal Skills** (6 videos)
+- **3. 2. Job-Specific Skills** (8 videos)
+- **4. 3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/welcome?u=76281980)
@@ -275,7 +276,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Interpersonal Skills
+### 2. 1. Interpersonal Skills
 
 #### Confidentiality in the workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980)
@@ -687,7 +688,7 @@ created: 2026-04-21
 > **Speakers:** - throughout (1)
 
 
-### 2. Job-Specific Skills
+### 3. 2. Job-Specific Skills
 
 #### Calendar and schedule management for maximum efficiency
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/calendar-and-schedule-management-for-maximum-efficiency?u=76281980)
@@ -1295,7 +1296,7 @@ created: 2026-04-21
 > **Speakers:** - clear (1)
 
 
-### 3. Conclusion
+### 4. 3. Conclusion
 
 #### Next steps to advance your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980)
@@ -1363,6 +1364,14 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - professional (1)
 
+
+## Instructor
+
+- [[April Stallworth]]
+
+## Skills Covered
+
+- Office Administration
 
 ## Path Context
 

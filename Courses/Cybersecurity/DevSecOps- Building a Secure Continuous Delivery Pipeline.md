@@ -29,8 +29,10 @@ tags:
   - skill/devsecops
   - skill/continuous-delivery-cd
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/DevSecOps-%20Building%20a%20Secure%20Continuous%20Delivery%20Pipeline.md)
 
 ![DevSecOps: Building a Secure Continuous Delivery Pipeline](https://media.licdn.com/dms/image/v2/C4E0DAQHRreYyiMwCMg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669242306?e=2147483647&amp;v=beta&amp;t=gqBWb-8bD0XCnPS7WxUfT2TQ7Hdec59TcUVYUAY-7lA)
 
@@ -41,22 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline) | 1h 12m | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[James Wickett]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- DevSecOps
-- Continuous Delivery (CD)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. The DevSecOps Toolchain** (4 videos)
+- **3. 2. Development Tools** (4 videos)
+- **4. 3. Inherit Tools** (5 videos)
+- **5. 4. Build Tools** (3 videos)
+- **6. 5. Deploy Tools** (3 videos)
+- **7. 6. Operation Tools** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Securing your CI/CD pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980)
@@ -109,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. The DevSecOps Toolchain
+### 2. 1. The DevSecOps Toolchain
 
 #### Traditional InfoSec is in crisis
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980)
@@ -403,7 +403,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Development Tools
+### 3. 2. Development Tools
 
 #### Secure development practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980)
@@ -774,7 +774,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 3. Inherit Tools
+### 4. 3. Inherit Tools
 
 #### What's in your app?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980)
@@ -1110,7 +1110,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Build Tools
+### 5. 4. Build Tools
 
 #### Security testing in the build stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980)
@@ -1406,7 +1406,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 5. Deploy Tools
+### 6. 5. Deploy Tools
 
 #### Security in the deploy phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980)
@@ -1638,7 +1638,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 6. Operation Tools
+### 7. 6. Operation Tools
 
 #### Keeping security in operate
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980)
@@ -1969,7 +1969,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980)
@@ -2028,6 +2028,19 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 > **Speakers:** - [james] (1)
 
+
+## Instructor
+
+- [[James Wickett]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- DevSecOps
+- Continuous Delivery (CD)
 
 ## Path Context
 

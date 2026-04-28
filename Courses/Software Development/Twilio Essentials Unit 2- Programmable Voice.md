@@ -30,34 +30,27 @@ tags:
   - skill/interactive-voice-response-ivr
   - skill/twilio
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Twilio%20Essentials%20Unit%202-%20Programmable%20Voice.md)
 
 ![Twilio Essentials Unit 2: Programmable Voice](https://media.licdn.com/dms/image/v2/C560DAQEjIIowAW3xmw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661384713359?e=2147483647&amp;v=beta&amp;t=BZ24LrysfkXIsg7DhME71KrJfA7sh_WTOIRoLumCmp0)
 
 # Twilio Essentials Unit 2: Programmable Voice
 
-> The telephone has evolved so much in recent decades. This course explores the next phase in that evolution and introduces you with how to build  Programmable Voice applications with Twilio. Learn how to use the API to build an IVR, Interactive Voice Response. Find out how to gather input from users on a phone call using dual-tone modular frequency (DTMF). Generate outbound calls using the CLI in T
+> The telephone has evolved so much in recent decades. This course explores the next phase in that evolution and introduces you with how to build Programmable Voice applications with Twilio. Learn how to use the API to build an IVR, Interactive Voice Response. Find out how to gather input from users on a phone call using dual-tone modular frequency (DTMF). Generate outbound calls using the CLI in Tw
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice) | 36m | Beginner | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Twilio]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Interactive Voice Response (IVR)
-- Twilio
-
 ## Table of Contents
 
-### 1. Programmable Voice
+### Chapter Overview
+
+- **1. 1. Programmable Voice** (5 videos)
+
+### 1. 1. Programmable Voice
 
 #### Appreciating the phone
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/appreciating-the-phone?u=76281980)
@@ -1175,6 +1168,19 @@ created: 2026-04-21
 > **Definitions:** stands for (1)
 > **Best Practices:** make sure to (1)
 
+
+## Instructor
+
+- [[Twilio]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Interactive Voice Response (IVR)
+- Twilio
 
 ## Path Context
 

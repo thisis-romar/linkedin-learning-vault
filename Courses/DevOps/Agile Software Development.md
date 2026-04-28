@@ -35,8 +35,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development.md)
 
 ![Agile Software Development](https://media.licdn.com/dms/image/v2/C4D0DAQHiw_Jtb8aOkg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1592866263723?e=2147483647&amp;v=beta&amp;t=Z3rQ8g6xupoq-H5tHejwBU1LS2kxLv7ygovfKCE7vAE)
 
@@ -47,13 +49,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development) | 1h 53m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shashi Shekhar]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Agile Fundamentals** (4 videos)
+- **3. 2. Scrum: The Developer Perspective** (11 videos)
+- **4. 3. Agile Software Engineering Techniques** (11 videos)
+- **5. 4. Kanban for Developers** (5 videos)
+- **6. 5. Scaling Agile** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The agile approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980)
@@ -115,7 +123,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Agile Fundamentals
+### 2. 1. Agile Fundamentals
 
 #### The software crisis
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980)
@@ -433,7 +441,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 2. Scrum: The Developer Perspective
+### 3. 2. Scrum: The Developer Perspective
 
 #### Scrum introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scrum-introduction-23852437?u=76281980)
@@ -961,7 +969,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 3. Agile Software Engineering Techniques
+### 4. 3. Agile Software Engineering Techniques
 
 #### Extreme programming (XP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980)
@@ -1743,7 +1751,7 @@ created: 2026-04-21
 > **Speakers:** - agile (1)
 
 
-### 4. Kanban for Developers
+### 5. 4. Kanban for Developers
 
 #### Lean history
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980)
@@ -2089,7 +2097,7 @@ created: 2026-04-21
 > **Speakers:** - both (1)
 
 
-### 5. Scaling Agile
+### 6. 5. Scaling Agile
 
 #### Scaling agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980)
@@ -2291,7 +2299,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/next-steps-23848513?u=76281980)
@@ -2332,6 +2340,10 @@ created: 2026-04-21
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Shashi Shekhar]]
 
 ## Path Context
 

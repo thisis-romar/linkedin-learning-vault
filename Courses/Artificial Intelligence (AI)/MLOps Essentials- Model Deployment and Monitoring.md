@@ -38,43 +38,33 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/MLOps%20Essentials-%20Model%20Deployment%20and%20Monitoring.md)
 
 ![MLOps Essentials: Model Deployment and Monitoring](https://media.licdn.com/dms/image/v2/C560DAQGm06LVfo8Q0Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1664994853235?e=2147483647&amp;v=beta&amp;t=_Bk25N4f8tuifFE5UHaLbCtUQxKH41v-IiJGQdFetPY)
 
 # MLOps Essentials: Model Deployment and Monitoring
 
-> Suggested Prerequisites
-
-MLOps Essentials: Model Development and Integration
-  
-Machine learning operations (MLOps) is one of the fastest growing subfields of artificial intelligence. In this course, instructor Kumaran Ponnambalam shows you how to deploy and monitor ML models to create structured, improved outcomes in your everyday workflow.
-Learn how to implement MLOps to:
-
-Create smooth upgrades
+> Suggested Prerequisites MLOps Essentials: Model Development and Integration Machine learning operations (MLOps) is one of the fastest growing subfields of artificial intelligence. In this course, instructor Kumaran Ponnambalam shows you how to deploy and monitor ML models to create structured, improved outcomes in your everyday workflow. Learn how to implement MLOps to: Create smooth upgrades of m
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring) | 1h 24m | Intermediate | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- System Deployment
-- MLOps
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Continuous Delivery** (6 videos)
+- **3. 2. Model Serving** (5 videos)
+- **4. 3. Continuous Monitoring** (6 videos)
+- **5. 4. Drift Management** (5 videos)
+- **6. 5. Responsible AI** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980)
@@ -280,7 +270,7 @@ Create smooth upgrades
 > **Speakers:** - let (1)
 
 
-### 1. Continuous Delivery
+### 2. 1. Continuous Delivery
 
 #### An ML production setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/an-ml-production-setup?u=76281980)
@@ -657,7 +647,7 @@ Create smooth upgrades
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Model Serving
+### 3. 2. Model Serving
 
 #### Model serving patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980)
@@ -1002,7 +992,7 @@ Create smooth upgrades
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Continuous Monitoring
+### 4. 3. Continuous Monitoring
 
 #### The monitoring pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980)
@@ -1395,7 +1385,7 @@ Create smooth upgrades
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Drift Management
+### 5. 4. Drift Management
 
 #### Introduction to model drift
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/introduction-to-model-drift?u=76281980)
@@ -1741,7 +1731,7 @@ Create smooth upgrades
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Responsible AI
+### 6. 5. Responsible AI
 
 #### Elements of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980)
@@ -2015,7 +2005,7 @@ Create smooth upgrades
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing on with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/continuing-on-with-mlops?u=76281980)
@@ -2042,6 +2032,21 @@ Create smooth upgrades
 > **Code Keywords:** let (1)
 > **Speakers:** - [kumaran] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- System Deployment
+- MLOps
+- Artificial Intelligence (AI)
 
 ## Path Context
 

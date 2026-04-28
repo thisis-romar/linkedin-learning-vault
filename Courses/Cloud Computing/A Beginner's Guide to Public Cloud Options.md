@@ -32,8 +32,10 @@ tags:
   - topic/network-and-system-administration
   - skill/cloud-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/A%20Beginner's%20Guide%20to%20Public%20Cloud%20Options.md)
 
 ![A Beginner's Guide to Public Cloud Options](https://media.licdn.com/dms/image/v2/D560DAQE1N56XuZkLkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721255730975?e=2147483647&amp;v=beta&amp;t=QRCokT69Tq0VCl-zB8khFP-WYY0LPLRNdDP9R7H-MUM)
 
@@ -44,17 +46,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options) | 47m | Beginner | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Linthicum]]
-
-## Skills Covered
-
-- Cloud Computing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Public Cloud Basics** (6 videos)
+- **3. 2. Business Purpose of Public Clouds** (5 videos)
+- **4. 3. Public Cloud Platforms** (4 videos)
+- **5. 4. Amazon Web Services (AWS)** (4 videos)
+- **6. 5. Microsoft Azure** (4 videos)
+- **7. 6. Google Cloud Platform (GCP)** (4 videos)
+- **8. 7. Other Public Clouds** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding public cloud platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-public-cloud-platforms?u=76281980)
@@ -103,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Public Cloud Basics
+### 2. 1. Public Cloud Basics
 
 #### Private versus public cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980)
@@ -374,7 +380,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Business Purpose of Public Clouds
+### 3. 2. Business Purpose of Public Clouds
 
 #### Understanding the business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-the-business-case?u=76281980)
@@ -593,7 +599,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Public Cloud Platforms
+### 4. 3. Public Cloud Platforms
 
 #### Evaluating public cloud platform offerings
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980)
@@ -784,7 +790,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Amazon Web Services (AWS)
+### 5. 4. Amazon Web Services (AWS)
 
 #### Application and data compatibility: AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980)
@@ -942,7 +948,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Microsoft Azure
+### 6. 5. Microsoft Azure
 
 #### Application and data compatibility: Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980)
@@ -1043,7 +1049,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Google Cloud Platform (GCP)
+### 7. 6. Google Cloud Platform (GCP)
 
 #### Application and data compatibility: GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980)
@@ -1150,7 +1156,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Other Public Clouds
+### 8. 7. Other Public Clouds
 
 #### Oracle
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980)
@@ -1292,7 +1298,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/next-steps?u=76281980)
@@ -1335,6 +1341,14 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[David Linthicum]]
+
+## Skills Covered
+
+- Cloud Computing
 
 ## Path Context
 

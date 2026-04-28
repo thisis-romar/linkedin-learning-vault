@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20Intelligent%20Chatbots%20on%20AWS.md)
 
 ![Building Intelligent Chatbots on AWS](https://media.licdn.com/dms/image/v2/D4E0DAQFVuca7pibCRQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1695147619822?e=2147483647&amp;v=beta&amp;t=5nJbLKeX1sVhWFmVZXZG_74Fz9rc9Jt5oQBEnvN9KuM)
 
@@ -44,23 +46,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480) | 1h 13m | Advanced | 2608K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Bear Cahill]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Chatbot Development
-- Artificial Intelligence (AI)
-- Amazon Web Services (AWS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. AWS Lex Overview** (4 videos)
+- **3. 2. Creating a Bot** (6 videos)
+- **4. 3. Slots and Slot Types** (6 videos)
+- **5. 4. Responses** (4 videos)
+- **6. 5. Publishing** (7 videos)
+- **7. 6. Functionality of Lambdas** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Creating chatbots
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-chatbots?u=76281980)
@@ -117,7 +116,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. AWS Lex Overview
+### 2. 1. AWS Lex Overview
 
 #### Introduction to AWS Lex
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/introduction-to-aws-lex?u=76281980)
@@ -298,7 +297,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creating a Bot
+### 3. 2. Creating a Bot
 
 #### Lex Bot creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-bot-creation?u=76281980)
@@ -693,7 +692,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Slots and Slot Types
+### 4. 3. Slots and Slot Types
 
 #### Slot types
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/slot-types?u=76281980)
@@ -1139,7 +1138,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Responses
+### 5. 4. Responses
 
 #### Closing response
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/closing-response?u=76281980)
@@ -1373,7 +1372,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Publishing
+### 6. 5. Publishing
 
 #### Versions and aliases
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/versions-and-aliases?u=76281980)
@@ -1882,7 +1881,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Functionality of Lambdas
+### 7. 6. Functionality of Lambdas
 
 #### Lex and Lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-and-lambdas?u=76281980)
@@ -2226,7 +2225,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continue training your chatbots
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/continue-training-your-chatbots?u=76281980)
@@ -2282,6 +2281,20 @@ created: 2026-04-21
 > **Env Vars:** aws (1)
 > **Prerequisites:** you'll need (1)
 
+
+## Instructor
+
+- [[Bear Cahill]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Chatbot Development
+- Artificial Intelligence (AI)
+- Amazon Web Services (AWS)
 
 ## Path Context
 

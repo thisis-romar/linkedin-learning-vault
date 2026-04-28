@@ -31,8 +31,10 @@ tags:
   - skill/full-stack-development
   - skill/react-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Building%20Full-Stack%20Apps%20with%20React%20and%20Spring.md)
 
 ![Building Full-Stack Apps with React and Spring](https://media.licdn.com/dms/image/v2/C4E0DAQF-K27TCH4AoQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567118627641?e=2147483647&amp;v=beta&amp;t=KKUIh9ScJZH1j85bom748v-d6xj8LzjFyXwnIk9sXT4)
 
@@ -43,23 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring) | 1h 26m | Intermediate | 38K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Spring Framework
-- Full-Stack Development
-- React.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Initial Setup** (7 videos)
+- **3. 2. Spring Models** (4 videos)
+- **4. 3. HTTP with Spring** (6 videos)
+- **5. 4. Basic Frontend with React** (7 videos)
+- **6. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Create your own mighty full-stack app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980)
@@ -119,7 +116,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Initial Setup
+### 2. 1. Initial Setup
 
 #### Introduction to Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980)
@@ -458,7 +455,7 @@ created: 2026-04-21
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 
 
-### 2. Spring Models
+### 3. 2. Spring Models
 
 #### Data options and JPA
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980)
@@ -711,7 +708,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. HTTP with Spring
+### 4. 3. HTTP with Spring
 
 #### Finalize base server
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980)
@@ -1063,7 +1060,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Basic Frontend with React
+### 5. 4. Basic Frontend with React
 
 #### Create contact listing component
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980)
@@ -1761,7 +1758,7 @@ created: 2026-04-21
 > **Tools:** postman (2)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Context and state
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/context-and-state?u=76281980)
@@ -1864,6 +1861,20 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [emmanuel] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Spring Framework
+- Full-Stack Development
+- React.js
 
 ## Path Context
 

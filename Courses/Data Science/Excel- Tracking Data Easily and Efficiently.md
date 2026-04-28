@@ -30,8 +30,10 @@ tags:
   - skill/microsoft-excel
   - skill/data-tracking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Tracking%20Data%20Easily%20and%20Efficiently.md)
 
 ![Excel: Tracking Data Easily and Efficiently](https://media.licdn.com/dms/image/v2/D560DAQH995Sl9bdWVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690838910432?e=2147483647&amp;v=beta&amp;t=ji250aFXmWNl_v8kPxHaBEQL2IJOs7yzknJeFic3xuQ)
 
@@ -42,22 +44,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069) | 3h 51m | Intermediate | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Oz du Soleil]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Excel
-- Data Tracking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Planning Your Data Tracker** (2 videos)
+- **3. 2. Helpful Data Tracking Features** (6 videos)
+- **4. 3. Protecting Your Work and Calculations** (3 videos)
+- **5. 4. Managing Inputs and Calculations** (5 videos)
+- **6. 5. Midterm: Building a Tracker** (2 videos)
+- **7. 6. Dynamic Arrays and the New Excel Calculation Engine** (3 videos)
+- **8. 7. VLOOKUP and XLOOKUP** (4 videos)
+- **9. 8. PivotTable Basics** (3 videos)
+- **10. 9. Using Power Query to Clean, Format, and Automate** (4 videos)
+- **11. 10. Pretty It Up!** (4 videos)
+- **12. 11. Get Hands On** (4 videos)
+- **13. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Efficient data tracking in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980)
@@ -87,7 +92,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. Planning Your Data Tracker
+### 2. 1. Planning Your Data Tracker
 
 #### Introducing tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/introducing-tables?u=76281980)
@@ -389,7 +394,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Helpful Data Tracking Features
+### 3. 2. Helpful Data Tracking Features
 
 #### Thinking about input, storage, and output
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/thinking-about-input-storage-and-output?u=76281980)
@@ -1087,7 +1092,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Protecting Your Work and Calculations
+### 4. 3. Protecting Your Work and Calculations
 
 #### Protecting cells and sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/protecting-cells-and-sheets?u=76281980)
@@ -1414,7 +1419,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Managing Inputs and Calculations
+### 5. 4. Managing Inputs and Calculations
 
 #### Using dropdown lists for accuracy and consistency
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980)
@@ -2023,7 +2028,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Midterm: Building a Tracker
+### 6. 5. Midterm: Building a Tracker
 
 #### Challenge: Building a data tracker for event details
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-data-tracker-for-event-details?u=76281980)
@@ -2272,7 +2277,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Dynamic Arrays and the New Excel Calculation Engine
+### 7. 6. Dynamic Arrays and the New Excel Calculation Engine
 
 #### Dynamic Arrays: One formula, many results
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980)
@@ -2764,7 +2769,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. VLOOKUP and XLOOKUP
+### 8. 7. VLOOKUP and XLOOKUP
 
 #### VLOOKUP
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/vlookup?u=76281980)
@@ -3201,7 +3206,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. PivotTable Basics
+### 9. 8. PivotTable Basics
 
 #### What is a PivotTable?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980)
@@ -3738,7 +3743,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Using Power Query to Clean, Format, and Automate
+### 10. 9. Using Power Query to Clean, Format, and Automate
 
 #### Power Query overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980)
@@ -4654,7 +4659,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Pretty It Up!
+### 11. 10. Pretty It Up!
 
 #### Data bars for easy visual comparison
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-bars-for-easy-visual-comparison?u=76281980)
@@ -5104,7 +5109,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Get Hands On
+### 12. 11. Get Hands On
 
 #### Challenge: Building a tracker 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-tracker-1?u=76281980)
@@ -5515,7 +5520,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### Conclusion
+### 13. Conclusion
 
 #### Continue your data tracking journey in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980)
@@ -5545,6 +5550,19 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Oz du Soleil]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Excel
+- Data Tracking
 
 ## Path Context
 

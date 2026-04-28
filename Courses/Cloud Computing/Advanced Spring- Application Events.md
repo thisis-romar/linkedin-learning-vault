@@ -33,8 +33,10 @@ tags:
   - skill/spring-framework
   - skill/software-architectural-design
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Advanced%20Spring-%20Application%20Events.md)
 
 ![Advanced Spring: Application Events](https://media.licdn.com/dms/image/v2/C560DAQHruy-utfvsCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626117142879?e=2147483647&amp;v=beta&amp;t=fNocRdL2VOHR0D_MSyg5v4XklnWSjVxh58ORoRX2H_w)
 
@@ -45,22 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events) | 43m | Advanced | 10K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Terezija Semenski]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Spring Framework
-- Software Architectural Design
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Exploring the Power of Spring Events** (2 videos)
+- **3. 2. Implementing Custom Spring Events** (4 videos)
+- **4. 3. Async and Filtering Events** (2 videos)
+- **5. 4. Transactional Events** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Take advantage of Spring events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/take-advantage-of-spring-events?u=76281980)
@@ -114,7 +112,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Exploring the Power of Spring Events
+### 2. 1. Exploring the Power of Spring Events
 
 #### Spring events vs. direct method calls
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/spring-events-vs-direct-method-calls?u=76281980)
@@ -247,7 +245,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Implementing Custom Spring Events
+### 3. 2. Implementing Custom Spring Events
 
 #### Create and publish custom events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980)
@@ -505,7 +503,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Async and Filtering Events
+### 4. 3. Async and Filtering Events
 
 #### Implement asynchronous events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/implement-asynchronous-events?u=76281980)
@@ -648,7 +646,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Transactional Events
+### 5. 4. Transactional Events
 
 #### Transaction bound events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/transaction-bound-events?u=76281980)
@@ -880,7 +878,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980)
@@ -909,6 +907,19 @@ created: 2026-04-21
 >
 > **Speakers:** - [terezija] (1)
 
+
+## Instructor
+
+- [[Terezija Semenski]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Spring Framework
+- Software Architectural Design
 
 ## Path Context
 

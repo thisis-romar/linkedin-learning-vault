@@ -29,8 +29,10 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Denial%20of%20Service.md)
 
 ![Ethical Hacking: Denial of Service](https://media.licdn.com/dms/image/v2/C4E0DAQHF86xwF-3bUg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668962818?e=2147483647&amp;v=beta&amp;t=fuxkiPUMF5ouUDq-fE3oVXsQVZkrHH56P9ZQiW1bLdM)
 
@@ -41,21 +43,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2) | 1h 42m | Intermediate | 44K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. What Is a Denial of Service?** (2 videos)
+- **3. 2. Infrastructure Denial of Service** (7 videos)
+- **4. 3. Wireless Denial of Service** (1 videos)
+- **5. 4. Application Denial of Service** (6 videos)
+- **6. 5. SIP Service Attacks** (1 videos)
+- **7. 6. Ransomware** (3 videos)
+- **8. 7. Mitigation Techniques** (5 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding and defeating denial-of-service attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980)
@@ -130,7 +132,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Is a Denial of Service?
+### 2. 1. What Is a Denial of Service?
 
 #### Understanding denial of service
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980)
@@ -350,7 +352,7 @@ created: 2026-04-21
 > **Prerequisites:** initialization (1)
 
 
-### 2. Infrastructure Denial of Service
+### 3. 2. Infrastructure Denial of Service
 
 #### TCP SYN flooding using hping3
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980)
@@ -1000,7 +1002,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Wireless Denial of Service
+### 4. 3. Wireless Denial of Service
 
 #### Deauthenticating a wireless host
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980)
@@ -1069,7 +1071,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Application Denial of Service
+### 5. 4. Application Denial of Service
 
 #### Flooding HTTP using GoldenEye
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980)
@@ -1512,7 +1514,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 5. SIP Service Attacks
+### 6. 5. SIP Service Attacks
 
 #### Flooding a SIP server
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980)
@@ -1653,7 +1655,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 6. Ransomware
+### 7. 6. Ransomware
 
 #### Explaining ransomware
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980)
@@ -1859,7 +1861,7 @@ created: 2026-04-21
 > **Speakers:** - petya (1)
 
 
-### 7. Mitigation Techniques
+### 8. 7. Mitigation Techniques
 
 #### Defeating denial-of-service attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980)
@@ -2233,7 +2235,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980)
@@ -2264,6 +2266,18 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Ethical Hacking
 
 ## Path Context
 

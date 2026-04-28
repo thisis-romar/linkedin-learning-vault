@@ -30,8 +30,10 @@ tags:
   - skill/quality-assurance
   - skill/manual-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Understanding%20Manual%20Testing.md)
 
 ![Understanding Manual Testing](https://media.licdn.com/dms/image/v2/C560DAQET3VMfDxDEgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1659547561066?e=2147483647&amp;v=beta&amp;t=M_5qZaMDRQaY1tqkEnxANnDkuMdEYOX1Y0DPzzcc7ew)
 
@@ -42,18 +44,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing) | 40m | Intermediate | 59K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mike Fine]]
-
-## Skills Covered
-
-- Quality Assurance
-- Manual Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Overview** (3 videos)
+- **3. 2. Execution** (4 videos)
+- **4. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Mastering manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/mastering-manual-testing?u=76281980)
@@ -203,7 +203,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Overview
+### 2. 1. Overview
 
 #### What is manual testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/what-is-manual-testing?u=76281980)
@@ -465,7 +465,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Execution
+### 3. 2. Execution
 
 #### Test plans and use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980)
@@ -777,7 +777,7 @@ created: 2026-04-21
 > **Speakers:** - [educator] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Where do you start?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980)
@@ -873,6 +873,15 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 > **Speakers:** - [mike] (1)
 
+
+## Instructor
+
+- [[Mike Fine]]
+
+## Skills Covered
+
+- Quality Assurance
+- Manual Testing
 
 ## Path Context
 

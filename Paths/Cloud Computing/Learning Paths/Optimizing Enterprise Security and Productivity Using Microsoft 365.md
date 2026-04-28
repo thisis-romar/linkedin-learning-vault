@@ -7,7 +7,7 @@ course_count: 11
 linkedin_topics:
   - Cloud Computing
   - Network and System Administration
-louvain_cluster: 7
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/cloud-computing
@@ -63,8 +63,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Optimizing%20Enterprise%20Security%20and%20Productivity%20Using%20Microsoft%20365.md)
 
 # Optimizing Enterprise Security and Productivity Using Microsoft 365
 

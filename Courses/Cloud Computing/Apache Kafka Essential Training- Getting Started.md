@@ -31,8 +31,10 @@ tags:
   - topic/software-development
   - skill/apache-kafka
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Apache%20Kafka%20Essential%20Training-%20Getting%20Started.md)
 
 ![Apache Kafka Essential Training: Getting Started](https://media.licdn.com/dms/image/v2/D560DAQFHx_pVYywSXA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686957444139?e=2147483647&amp;v=beta&amp;t=NhYgdf3Y_2sWePm6WCOVar3_YDwr_KsBjGyMKJZ2k9c)
 
@@ -43,21 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044) | 1h 15m | Intermediate | 86K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Apache Kafka
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Kafka** (6 videos)
+- **3. 2. Basic Concepts** (5 videos)
+- **4. 3. Using Kafka Command Line** (7 videos)
+- **5. 4. Kafka Partitions and Groups** (6 videos)
+- **6. 5. Kafka Java Programming** (5 videos)
+- **7. 6. Use Case Project** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with Apache Kafka
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980)
@@ -89,7 +90,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Kafka
+### 2. 1. Introduction to Kafka
 
 #### Message queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/message-queues?u=76281980)
@@ -501,7 +502,7 @@ created: 2026-04-21
 > **Versions:** version 3 (2)
 
 
-### 2. Basic Concepts
+### 3. 2. Basic Concepts
 
 #### Messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/messages?u=76281980)
@@ -862,7 +863,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Using Kafka Command Line
+### 4. 3. Using Kafka Command Line
 
 #### Kafka client scripts
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-scripts?u=76281980)
@@ -1261,7 +1262,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 4. Kafka Partitions and Groups
+### 5. 4. Kafka Partitions and Groups
 
 #### Intro to partitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/intro-to-partitions?u=76281980)
@@ -1705,7 +1706,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Kafka Java Programming
+### 6. 5. Kafka Java Programming
 
 #### Kafka client libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980)
@@ -1950,7 +1951,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Use Case Project
+### 7. 6. Use Case Project
 
 #### Kafka basics use case: Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-basics-use-case-problem-definition?u=76281980)
@@ -2092,7 +2093,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Extending your Kafka knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980)
@@ -2117,6 +2118,18 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [kumaran] (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Apache Kafka
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/AI%20in%20Business%20Essential%20Training.md)
 
 ![AI in Business Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHJjgIrzzfWBA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730843593856?e=2147483647&amp;v=beta&amp;t=Z92hzunwnw24a659e1-NQvoaoCr5x-20P6s-XiOOUkM)
 
@@ -42,22 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training) | 1h 33m | Intermediate | 18K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael McDonald]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Artificial Intelligence (AI)** (7 videos)
+- **3. 2. Data Analytics and Optimization** (4 videos)
+- **4. 3. Using AI in Business** (9 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### AI for business decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980)
@@ -92,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - [michael] (1)
 
 
-### 1. Artificial Intelligence (AI)
+### 2. 1. Artificial Intelligence (AI)
 
 #### What is AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980)
@@ -613,7 +610,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 2. Data Analytics and Optimization
+### 3. 2. Data Analytics and Optimization
 
 #### Basics of data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980)
@@ -1052,7 +1049,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Using AI in Business
+### 4. 3. Using AI in Business
 
 #### Overview of uses of AI in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980)
@@ -1839,7 +1836,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980)
@@ -1890,6 +1887,19 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 > **Speakers:** - [michael] (1)
 
+
+## Instructor
+
+- [[Michael McDonald]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- Artificial Intelligence (AI)
 
 ## Path Context
 

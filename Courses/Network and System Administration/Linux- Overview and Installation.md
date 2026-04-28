@@ -28,8 +28,10 @@ tags:
   - topic/network-and-system-administration
   - skill/linux
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Linux-%20Overview%20and%20Installation.md)
 
 ![Linux: Overview and Installation](https://media.licdn.com/dms/image/v2/C560DAQF5p_NAXcm1WQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619112752812?e=2147483647&amp;v=beta&amp;t=4SG22rrTCNYeQzSkBbKte2ri88rOINgsvxiFxvh4d7U)
 
@@ -40,17 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059) | 1h 51m | Beginner | 23K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Grant McWilliams]]
-
-## Skills Covered
-
-- Linux
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Linux Overview** (5 videos)
+- **3. 2. Before Installing Linux** (4 videos)
+- **4. 3. Installing Linux** (6 videos)
+- **5. 4. Configuring Linux** (5 videos)
+- **6. 5. Using Linux** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Install the power of freedom with Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-the-power-of-freedom-with-linux?u=76281980)
@@ -139,7 +143,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Linux Overview
+### 2. 1. Linux Overview
 
 #### What is Linux?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980)
@@ -622,7 +626,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Before Installing Linux
+### 3. 2. Before Installing Linux
 
 #### What is virtualization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980)
@@ -1068,7 +1072,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 3. Installing Linux
+### 4. 3. Installing Linux
 
 #### Creating a virtual machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980)
@@ -1820,7 +1824,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Configuring Linux
+### 5. 4. Configuring Linux
 
 #### Update system software
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980)
@@ -2365,7 +2369,7 @@ created: 2026-04-21
 > **Tools:** firefox (1)
 
 
-### 5. Using Linux
+### 6. 5. Using Linux
 
 #### Installing common software in CentOS 8
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980)
@@ -2919,7 +2923,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980)
@@ -2959,6 +2963,14 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Speakers:** - [grant] (1)
 
+
+## Instructor
+
+- [[Grant McWilliams]]
+
+## Skills Covered
+
+- Linux
 
 ## Path Context
 

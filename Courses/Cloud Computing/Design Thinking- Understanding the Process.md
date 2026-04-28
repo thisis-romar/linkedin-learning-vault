@@ -29,8 +29,10 @@ tags:
   - skill/design-thinking
   - skill/product-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Design%20Thinking-%20Understanding%20the%20Process.md)
 
 ![Design Thinking: Understanding the Process](https://media.licdn.com/dms/image/v2/C560DAQE3-GCNgMk7qQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1602270074772?e=2147483647&amp;v=beta&amp;t=qlmADaxBg9bVCkctVujMM4eewn5pn9Q7tbLePw8-eDk)
 
@@ -41,22 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process) | 43m | 146K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Chris Nodder]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Design Thinking
-- Product Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Where Design Thinking Fits in a Business** (3 videos)
+- **3. 2. Design Thinking Isn't Magic** (3 videos)
+- **4. 3. The Design Thinking Process** (4 videos)
+- **5. 4. Pros and Cons of Design Thinking** (4 videos)
+- **6. 5. Making Design Thinking Happen in Your Organization** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is design thinking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/what-is-design-thinking?u=76281980)
@@ -136,7 +135,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 1. Where Design Thinking Fits in a Business
+### 2. 1. Where Design Thinking Fits in a Business
 
 #### Agile, lean, and design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/agile-lean-and-design-thinking?u=76281980)
@@ -264,7 +263,7 @@ created: 2026-04-21
 > **Speakers:** - at (1)
 
 
-### 2. Design Thinking Isn't Magic
+### 3. 2. Design Thinking Isn't Magic
 
 #### Celebrity design thinking vs. real design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/celebrity-design-thinking-vs-real-design-thinking?u=76281980)
@@ -416,7 +415,7 @@ created: 2026-04-21
 > **Speakers:** - good (1)
 
 
-### 3. The Design Thinking Process
+### 4. 3. The Design Thinking Process
 
 #### Finding the real problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/finding-the-real-problem?u=76281980)
@@ -568,7 +567,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 4. Pros and Cons of Design Thinking
+### 5. 4. Pros and Cons of Design Thinking
 
 #### Design thinking in non-agile organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/design-thinking-in-non-agile-organizations?u=76281980)
@@ -766,7 +765,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 5. Making Design Thinking Happen in Your Organization
+### 6. 5. Making Design Thinking Happen in Your Organization
 
 #### Guerilla design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/guerilla-design-thinking?u=76281980)
@@ -1012,7 +1011,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Implementing design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/implementing-design-thinking?u=76281980)
@@ -1048,6 +1047,19 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - this (1)
 
+
+## Instructor
+
+- [[Chris Nodder]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Design Thinking
+- Product Development
 
 ## Path Context
 

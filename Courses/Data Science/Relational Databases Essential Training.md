@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/relational-databases
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Relational%20Databases%20Essential%20Training.md)
 
 ![Relational Databases Essential Training](https://media.licdn.com/dms/image/v2/D560DAQHRVJv64vl5vw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727207319739?e=2147483647&amp;v=beta&amp;t=vgCdRgO7nVfvUfDnTMDqXWCbfrZCQ1x0wBFLBDQIyNc)
 
@@ -42,21 +44,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training) | 2h 31m | Intermediate | 90K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Wilbert]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Relational Databases
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Get to Know Relational Databases** (4 videos)
+- **3. 2. Entity Relationship Diagrams** (6 videos)
+- **4. 3. Data Integrity and Validation** (6 videos)
+- **5. 4. Relationships** (8 videos)
+- **6. 5. Normalization** (2 videos)
+- **7. 6. Structured Query Language** (8 videos)
+- **8. 7. Beyond the Relational Model** (2 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Organize data with the relational model
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/organize-data-with-the-relational-model?u=76281980)
@@ -151,7 +153,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Get to Know Relational Databases
+### 2. 1. Get to Know Relational Databases
 
 #### A brief introduction to data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/a-brief-introduction-to-data-storage?u=76281980)
@@ -558,7 +560,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Entity Relationship Diagrams
+### 3. 2. Entity Relationship Diagrams
 
 #### Develop a model of the real world
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980)
@@ -1291,7 +1293,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Data Integrity and Validation
+### 4. 3. Data Integrity and Validation
 
 #### Data constraints
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980)
@@ -1923,7 +1925,7 @@ created: 2026-04-21
 > **Speakers:** - [lecturer] (1)
 
 
-### 4. Relationships
+### 5. 4. Relationships
 
 #### Relate tables with foreign keys
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/relate-tables-with-foreign-keys?u=76281980)
@@ -2507,7 +2509,7 @@ created: 2026-04-21
 > **Analogies:** picture (1)
 
 
-### 5. Normalization
+### 6. 5. Normalization
 
 #### Relational database normal forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980)
@@ -2686,7 +2688,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Structured Query Language
+### 7. 6. Structured Query Language
 
 #### Convert the ER diagram to a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980)
@@ -3725,7 +3727,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Beyond the Relational Model
+### 8. 7. Beyond the Relational Model
 
 #### Graph databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/graph-databases?u=76281980)
@@ -3813,7 +3815,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980)
@@ -3850,6 +3852,18 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [adam] (1)
 
+
+## Instructor
+
+- [[Adam Wilbert]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Relational Databases
 
 ## Path Context
 

@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20a%20Document%20Search%20Assistant%20with%20Node%20and%20OpenAI's%20Assistants%20API.md)
 
 ![Build a Document Search Assistant with Node and OpenAI's Assistants API](https://media.licdn.com/dms/image/v2/D4E0DAQFSaMbZdEEuQw/learning-public-crop_675_1200/B4EZUpj70dH0AY-/0/1740159041480?e=2147483647&amp;v=beta&amp;t=H3NVnGo6IVv-kL1C-0-4w-_xxO_Dmw90i2w8jIjXykE)
 
@@ -47,25 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api) | 2h 12m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Guil Hernandez]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/document-search-assistant-with-node-openai-assistants-api-5970099/codespaces)
-
-## Skills Covered
-
-- OpenAI API
-- Web Development
-- Artificial Intelligence (AI)
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Building the Smart Document Search Assistant** (6 videos)
+- **3. 2. Implementing Core Features** (5 videos)
+- **4. 3. Advanced Features and Debugging** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980)
@@ -297,7 +291,7 @@ created: 2026-04-21
 > **Definitions:** is an  (2), is a  (1)
 
 
-### 1. Building the Smart Document Search Assistant
+### 2. 1. Building the Smart Document Search Assistant
 
 #### Creating your first assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980)
@@ -1158,7 +1152,7 @@ created: 2026-04-21
 > **Documentation:** the docs (1)
 
 
-### 2. Implementing Core Features
+### 3. 2. Implementing Core Features
 
 #### Handling user input and generating responses
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980)
@@ -1815,7 +1809,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced Features and Debugging
+### 4. 3. Advanced Features and Debugging
 
 #### Introduction to the Code Interpreter
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980)
@@ -2430,7 +2424,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (3)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980)
@@ -2472,6 +2466,22 @@ created: 2026-04-21
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Guil Hernandez]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/document-search-assistant-with-node-openai-assistants-api-5970099/codespaces)
+
+## Skills Covered
+
+- OpenAI API
+- Web Development
+- Artificial Intelligence (AI)
+- Node.js
 
 ## Path Context
 

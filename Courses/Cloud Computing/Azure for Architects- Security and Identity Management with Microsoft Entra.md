@@ -36,8 +36,10 @@ tags:
   - skill/multi-factor-authentication
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20for%20Architects-%20Security%20and%20Identity%20Management%20with%20Microsoft%20Entra.md)
 
 ![Azure for Architects: Security and Identity Management with Microsoft Entra](https://media.licdn.com/dms/image/v2/D4D0DAQE35STgQ-7-Gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728680931860?e=2147483647&amp;v=beta&amp;t=3eElO4M-oq2AdZb7IVw92k7sgco26H6TDHoq99rlW78)
 
@@ -48,20 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra) | 1h 40m | Advanced | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gary Grudzinskas]]
-
-## Skills Covered
-
-- Cloud Security
-- Microsoft Entra ID
-- Multi-factor Authentication
-- Identity and Access Management (IAM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Microsoft Entra ID Authentication** (5 videos)
+- **3. 2. Microsoft Entra Authorization** (4 videos)
+- **4. 3. Microsoft Entra Application Identity Security** (3 videos)
+- **5. 4. Microsoft Azure Governance** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Security and identity management with Microsoft Entra
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/security-and-identity-management-with-microsoft-entra?u=76281980)
@@ -91,7 +91,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. Microsoft Entra ID Authentication
+### 2. 1. Microsoft Entra ID Authentication
 
 #### Understanding Microsoft Entra ID authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980)
@@ -806,7 +806,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Microsoft Entra Authorization
+### 3. 2. Microsoft Entra Authorization
 
 #### Understanding Microsoft Entra ID authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980)
@@ -1234,7 +1234,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Microsoft Entra Application Identity Security
+### 4. 3. Microsoft Entra Application Identity Security
 
 #### Recommending an Azure application identity security solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980)
@@ -1502,7 +1502,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Microsoft Azure Governance
+### 5. 4. Microsoft Azure Governance
 
 #### Understanding Entra identity governance: Entitlement management
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980)
@@ -2015,7 +2015,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Making a more efficient organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/making-a-more-efficient-organization?u=76281980)
@@ -2033,6 +2033,17 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Gary Grudzinskas]]
+
+## Skills Covered
+
+- Cloud Security
+- Microsoft Entra ID
+- Multi-factor Authentication
+- Identity and Access Management (IAM)
 
 ## Path Context
 

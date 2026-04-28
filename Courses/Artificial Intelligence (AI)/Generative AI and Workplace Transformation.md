@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-transformation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20and%20Workplace%20Transformation.md)
 
 ![Generative AI and Workplace Transformation](https://media.licdn.com/dms/image/v2/D560DAQHvr9oHzs2ycA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694210060904?e=2147483647&amp;v=beta&amp;t=_B1m1PyegaOAZZNNhPO-B-6sYltHkiVnOWCkZeuCFQg)
 
@@ -45,23 +47,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation) | 27m | 726K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Charlene Li]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- Artificial Intelligence (AI)
-- Business Transformation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Employing the Mindset to Imagine the Implications** (3 videos)
+- **3. 2. Transforming Your Workforce Strategy To Support Generative AI Opportunities** (3 videos)
+- **4. 3. Leading Your Generative AI Superhuman Workforce** (3 videos)
+
+### 1. Introduction
 
 #### The transformative nature of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-transformative-nature-of-generative-ai-22831869?u=76281980)
@@ -92,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Employing the Mindset to Imagine the Implications
+### 2. 1. Employing the Mindset to Imagine the Implications
 
 #### Generative AI will bring exponential thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/generative-ai-will-bring-exponential-thinking?u=76281980)
@@ -295,7 +290,7 @@ created: 2026-04-21
 > **Speakers:** - my (1)
 
 
-### 2. Transforming Your Workforce Strategy To Support Generative AI Opportunities
+### 3. 2. Transforming Your Workforce Strategy To Support Generative AI Opportunities
 
 #### Prioritizing your AI efforts
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980)
@@ -523,7 +518,7 @@ created: 2026-04-21
 > **Speakers:** - knowing (1)
 
 
-### 3. Leading Your Generative AI Superhuman Workforce
+### 4. 3. Leading Your Generative AI Superhuman Workforce
 
 #### Emerging skillsets of the AI era
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980)
@@ -732,6 +727,20 @@ created: 2026-04-21
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - have (1)
 
+
+## Instructor
+
+- [[Charlene Li]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- Artificial Intelligence (AI)
+- Business Transformation
 
 ## Path Context
 

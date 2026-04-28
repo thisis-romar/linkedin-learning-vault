@@ -35,8 +35,10 @@ tags:
   - skill/requirements-analysis
   - skill/requirements-gathering
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Requirements%20Elicitation%20and%20Analysis.md)
 
 ![Requirements Elicitation and Analysis](https://media.licdn.com/dms/image/v2/D560DAQGI7CrhTI-Ouw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1706571770307?e=2147483647&amp;v=beta&amp;t=CUlQFf1RdD2uNr4buBXE37w_24bPqnuNno6iT0Z35og)
 
@@ -47,22 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis) | 1h 22m | 186K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Angela Wick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Requirements Analysis
-- Requirements Gathering
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Elicitation and Analysis Overview** (6 videos)
+- **3. 2. Elicitation Techniques** (6 videos)
+- **4. 3. Analysis Techniques** (7 videos)
+- **5. 4. Tailoring to the Project or Product Type** (4 videos)
+
+### 1. Introduction
 
 #### Start defining and discovering
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980)
@@ -97,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. Elicitation and Analysis Overview
+### 2. 1. Elicitation and Analysis Overview
 
 #### What are elicitation and analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980)
@@ -479,7 +476,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 2. Elicitation Techniques
+### 3. 2. Elicitation Techniques
 
 #### Elicitation overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/elicitation-overview-8360495?u=76281980)
@@ -911,7 +908,7 @@ created: 2026-04-21
 > **Speakers:** - requirements (1)
 
 
-### 3. Analysis Techniques
+### 4. 3. Analysis Techniques
 
 #### Analysis overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980)
@@ -1512,7 +1509,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 4. Tailoring to the Project or Product Type
+### 5. 4. Tailoring to the Project or Product Type
 
 #### Blending your elicitation and analysis together
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980)
@@ -1793,6 +1790,19 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - buying (1)
 
+
+## Instructor
+
+- [[Angela Wick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Requirements Analysis
+- Requirements Gathering
 
 ## Path Context
 

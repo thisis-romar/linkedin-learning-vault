@@ -35,8 +35,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/computer-vision
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20Image%20Processing%20with%20Python.md)
 
 ![Hands-On AI: Image Processing with Python](https://media.licdn.com/dms/image/v2/D4E0DAQFGuLG0_BvB7w/learning-public-crop_675_1200/B4EZdlJCsLGcAc-/0/1749748558953?e=2147483647&amp;v=beta&amp;t=GwP95RSMdaJECVUjyGsOXH_EOlGrjnEeB7OIi-jKN5o)
 
@@ -47,25 +49,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python) | 2h 10m | Intermediate | 36K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eduardo Corpeño]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-ai-image-processing-with-python-4001236/codespaces)
-
-## Skills Covered
-
-- Image Processing
-- Python (Programming Language)
-- Artificial Intelligence (AI)
-- Computer Vision
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Setting Up Our Development Environment** (2 videos)
+- **3. 2. The Basics of Image Processing** (7 videos)
+- **4. 3. From Color to Black and White** (6 videos)
+- **5. 4. Filters** (7 videos)
+- **6. 5. Image Scaling** (6 videos)
+- **7. 6. Fun with Cuts** (5 videos)
+- **8. 7. Morphological Modifications** (5 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Computer vision under the hood
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980)
@@ -236,7 +234,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1), is an  (1)
 
 
-### 1. Setting Up Our Development Environment
+### 2. 1. Setting Up Our Development Environment
 
 #### Testing your environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980)
@@ -399,7 +397,7 @@ created: 2026-04-21
 > **Cross-References:** previous video (1)
 
 
-### 2. The Basics of Image Processing
+### 3. 2. The Basics of Image Processing
 
 #### Image representation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-representation?u=76281980)
@@ -994,7 +992,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. From Color to Black and White
+### 4. 3. From Color to Black and White
 
 #### Average grayscale
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980)
@@ -1390,7 +1388,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. Filters
+### 5. 4. Filters
 
 #### Convolution filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980)
@@ -1932,7 +1930,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 5. Image Scaling
+### 6. 5. Image Scaling
 
 #### Image downscaling methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-downscaling-methods?u=76281980)
@@ -2286,7 +2284,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Fun with Cuts
+### 7. 6. Fun with Cuts
 
 #### Image cuts
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-cuts?u=76281980)
@@ -2714,7 +2712,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Morphological Modifications
+### 8. 7. Morphological Modifications
 
 #### Why modify objects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980)
@@ -3106,7 +3104,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980)
@@ -3139,6 +3137,22 @@ created: 2026-04-21
 > **Cross-References:** in the last (1)
 > **Speakers:** - [eduardo] (1)
 
+
+## Instructor
+
+- [[Eduardo Corpeño]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-ai-image-processing-with-python-4001236/codespaces)
+
+## Skills Covered
+
+- Image Processing
+- Python (Programming Language)
+- Artificial Intelligence (AI)
+- Computer Vision
 
 ## Path Context
 

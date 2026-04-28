@@ -43,8 +43,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Essential%20Training%20Part%202.md)
 
 ![Python for Data Science and Machine Learning Essential Training Part 2](https://media.licdn.com/dms/image/v2/D560DAQFegskomg_xPw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721845430135?e=2147483647&amp;v=beta&amp;t=4emRXKD9iouCsMXP41dfztrC3sqyi39kt53-98xG26M)
 
@@ -55,26 +57,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2) | 5h 22m | Intermediate | 110K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lillian Pierson]]
-- [[P.E]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/python-for-data-science-and-machine-learning-essential-training-part-2-3016934/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Machine Learning
-- Artificial Intelligence (AI)
-- Data Science
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introduction to Machine Learning** (5 videos)
+- **3. 2. Regression Models** (10 videos)
+- **4. 3. Clustering Models** (3 videos)
+- **5. 4. Dimension Reduction Methods** (2 videos)
+- **6. 5. Other Popular Machine Learning Methods** (7 videos)
+- **7. 6. Getting Started with Natural Language Processing** (3 videos)
+- **8. 7. Getting Started with Generative AI Models** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Data science life hacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?u=76281980)
@@ -209,7 +206,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 1. Introduction to Machine Learning
+### 2. 1. Introduction to Machine Learning
 
 #### Defining data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980)
@@ -734,7 +731,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Regression Models
+### 3. 2. Regression Models
 
 #### Linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980)
@@ -2218,7 +2215,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Clustering Models
+### 4. 3. Clustering Models
 
 #### Cluster analysis with the K-means method
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980)
@@ -3007,7 +3004,7 @@ created: 2026-04-21
 > **File Paths:** iris.data.csv (1)
 
 
-### 4. Dimension Reduction Methods
+### 5. 4. Dimension Reduction Methods
 
 #### Explanatory factor analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980)
@@ -3340,7 +3337,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### 5. Other Popular Machine Learning Methods
+### 6. 5. Other Popular Machine Learning Methods
 
 #### Association rules models with the Apriori algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980)
@@ -4870,7 +4867,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Getting Started with Natural Language Processing
+### 7. 6. Getting Started with Natural Language Processing
 
 #### Introduction to natural language processing (NLP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980)
@@ -5457,7 +5454,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Getting Started with Generative AI Models
+### 8. 7. Getting Started with Generative AI Models
 
 #### Deep dive into generative AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980)
@@ -5857,7 +5854,7 @@ created: 2026-04-21
 > **Exercise Files:** download the (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980)
@@ -5878,6 +5875,23 @@ created: 2026-04-21
 >
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Lillian Pierson]]
+- [[P.E]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/python-for-data-science-and-machine-learning-essential-training-part-2-3016934/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Machine Learning
+- Artificial Intelligence (AI)
+- Data Science
 
 ## Path Context
 

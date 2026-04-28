@@ -27,8 +27,10 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/IT%20Service%20Desk-%20Monitoring%20and%20Metrics%20Fundamentals.md)
 
 ![IT Service Desk: Monitoring and Metrics Fundamentals](https://media.licdn.com/dms/image/v2/C4E0DAQFtlgzD59tnZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669856812?e=2147483647&amp;v=beta&amp;t=4WUW7jfU6-xRe4ocxrobi7IiL9JHGK-tYJ94wDXYV8k)
 
@@ -39,17 +41,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals) | 58m | Beginner | 40K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Brett Moffett]]
-
-## Skills Covered
-
-- IT Service Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Collecting Valid Service Management Data Points** (5 videos)
+- **3. 2. Why Monitor Service Management Performance?** (3 videos)
+- **4. 3. Determining Which Metrics to Monitor** (4 videos)
+- **5. 4. Exploring Tools and Reporting** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Monitoring service management success
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/monitoring-service-management-success?u=76281980)
@@ -90,7 +93,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Collecting Valid Service Management Data Points
+### 2. 1. Collecting Valid Service Management Data Points
 
 #### From data to wisdom
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/from-data-to-wisdom?u=76281980)
@@ -373,7 +376,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Why Monitor Service Management Performance?
+### 3. 2. Why Monitor Service Management Performance?
 
 #### Why are you monitoring?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/why-are-you-monitoring?u=76281980)
@@ -532,7 +535,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Determining Which Metrics to Monitor
+### 4. 3. Determining Which Metrics to Monitor
 
 #### Most common metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980)
@@ -849,7 +852,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Exploring Tools and Reporting
+### 5. 4. Exploring Tools and Reporting
 
 #### Common reporting tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980)
@@ -1032,7 +1035,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980)
@@ -1056,6 +1059,14 @@ created: 2026-04-21
 > **URLs:** [wordpress.com](https://wordpress.com) (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Brett Moffett]]
+
+## Skills Covered
+
+- IT Service Management
 
 ## Path Context
 

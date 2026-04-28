@@ -22,25 +22,28 @@ tags:
   - topic/data-science
   - skill/business-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/What%20Is%20Business%20Analysis.md)
 
 ![What Is Business Analysis](https://media.licdn.com/dms/image/v2/C4E0DAQFURlC1Fe5UrA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1612314991577?e=2147483647&amp;v=beta&amp;t=RiZKxHCnGxPeYn0kUJsNrLgweHj7QFQte0HXGSyRvpY)
 
 # What Is Business Analysis
 
-> Is business analysis a profession, a competency, or a research discipline?  Would it confuse you if the answer to this question was all three?  In this course, Laura Paton provides needed clarity by exploring the components of the profession and the necessary competencies to fulfill a business analysis role. She establishes a comprehensive viewpoint of the breadth of the business analysis professi
+> Is business analysis a profession, a competency, or a research discipline? Would it confuse you if the answer to this question was all three? In this course, Laura Paton provides needed clarity by exploring the components of the profession and the necessary competencies to fulfill a business analysis role. She establishes a comprehensive viewpoint of the breadth of the business analysis profession
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis) | 171K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Business Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Business Analysis?** (5 videos)
+
+### 1. Introduction
 
 #### Why business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis/why-business-analysis?u=76281980)
@@ -79,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. What Is Business Analysis?
+### 2. 1. What Is Business Analysis?
 
 #### What is business analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis/what-is-business-analysis?u=76281980)
@@ -434,6 +437,10 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - business (1)
 
+
+## Skills Covered
+
+- Business Analysis
 
 ## Path Context
 

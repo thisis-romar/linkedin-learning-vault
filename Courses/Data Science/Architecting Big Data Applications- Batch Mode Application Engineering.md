@@ -35,8 +35,10 @@ tags:
   - skill/big-data
   - skill/batch-processing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Architecting%20Big%20Data%20Applications-%20Batch%20Mode%20Application%20Engineering.md)
 
 ![Architecting Big Data Applications: Batch Mode Application Engineering](https://media.licdn.com/dms/image/v2/D560DAQHDta61I-dsrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696456723105?e=2147483647&amp;v=beta&amp;t=wuE8jSC78C2FJTGGC7K_vaf1onkSI3Q9bORsIA-kEp8)
 
@@ -47,18 +49,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694) | 1h 28m | Advanced | 48K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kumaran Ponnambalam]]
-
-## Skills Covered
-
-- Big Data
-- Batch Processing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Big Data Applications** (5 videos)
+- **3. 2. Big Data Architecture Principles** (5 videos)
+- **4. 3. Batch Application Architecture Principles** (5 videos)
+- **5. 4. Use Case 1: Audit Trail Data Archive** (6 videos)
+- **6. 5. Use Case 2: Advertising Analytics** (6 videos)
+- **7. 6. Use Case 3: Product Recommendations** (6 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Architecting big data applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecting-big-data-applications?u=76281980)
@@ -81,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - architecting (1)
 
 
-### 1. Introduction to Big Data Applications
+### 2. 1. Introduction to Big Data Applications
 
 #### Characteristics of batch processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980)
@@ -312,7 +316,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Big Data Architecture Principles
+### 3. 2. Big Data Architecture Principles
 
 #### Making the choice: Real-time vs. batch
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980)
@@ -647,7 +651,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Batch Application Architecture Principles
+### 4. 3. Batch Application Architecture Principles
 
 #### Schedule selection
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980)
@@ -933,7 +937,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Use Case 1: Audit Trail Data Archive
+### 5. 4. Use Case 1: Audit Trail Data Archive
 
 #### Audit trail: Define the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980)
@@ -1330,7 +1334,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Use Case 2: Advertising Analytics
+### 6. 5. Use Case 2: Advertising Analytics
 
 #### Advertising analytics: Define the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980)
@@ -1706,7 +1710,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Use Case 3: Product Recommendations
+### 7. 6. Use Case 3: Product Recommendations
 
 #### Product recommendations: Define the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980)
@@ -2053,7 +2057,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Continuing to architect big data applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/continuing-to-architect-big-data-applications?u=76281980)
@@ -2080,6 +2084,15 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Speakers:** - there (1)
 
+
+## Instructor
+
+- [[Kumaran Ponnambalam]]
+
+## Skills Covered
+
+- Big Data
+- Batch Processing
 
 ## Path Context
 

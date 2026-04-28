@@ -28,8 +28,10 @@ tags:
   - skill/linkedin
   - skill/thought-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/The%20Step-by-Step%20Guide%20to%20Building%20your%20Thought%20Leadership%20on%20LinkedIn.md)
 
 ![The Step-by-Step Guide to Building your Thought Leadership on LinkedIn](https://media.licdn.com/dms/image/v2/C4D0DAQEJljqbQq9FbQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1641577146008?e=2147483647&amp;v=beta&amp;t=ghrXURzM8qRhgp1RPOjw2bK4PuDTio8JSRJ2LjUrbQM)
 
@@ -40,18 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin) | 34m | 722K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Alexandra Galviz]]
-
-## Skills Covered
-
-- LinkedIn
-- Thought Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Who Am I?** (2 videos)
+- **3. 2. Positioning Yourself as a SME** (3 videos)
+- **4. 3. Thought Leadership Strategy** (2 videos)
+- **5. 4. Courageous Content** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Why become a thought leader on LinkedIn?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980)
@@ -91,7 +93,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Who Am I?
+### 2. 1. Who Am I?
 
 #### What values do you embody?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980)
@@ -277,7 +279,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Positioning Yourself as a SME
+### 3. 2. Positioning Yourself as a SME
 
 #### What does your shop window say about you?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980)
@@ -528,7 +530,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 3. Thought Leadership Strategy
+### 4. 3. Thought Leadership Strategy
 
 #### Your thought leadership content map
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980)
@@ -672,7 +674,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 4. Courageous Content
+### 5. 4. Courageous Content
 
 #### What holds you back?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980)
@@ -905,7 +907,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### What impact will you make?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980)
@@ -965,6 +967,15 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Alexandra Galviz]]
+
+## Skills Covered
+
+- LinkedIn
+- Thought Leadership
 
 ## Path Context
 

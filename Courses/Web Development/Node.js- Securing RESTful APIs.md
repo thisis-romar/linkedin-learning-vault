@@ -35,8 +35,10 @@ tags:
   - skill/rest-apis
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node.js-%20Securing%20RESTful%20APIs.md)
 
 ![Node.js: Securing RESTful APIs](https://media.licdn.com/dms/image/v2/C4E0DAQHeo-shvzaqqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1580760379764?e=2147483647&amp;v=beta&amp;t=uWAjmlUMhhWMpo7enY9w0C4Y-BWmN5cK5zo4I5CMQow)
 
@@ -47,22 +49,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2) | 58m | Advanced | 57K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- REST APIs
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Setting Up** (4 videos)
+- **3. 2. Setting Up the Node API** (4 videos)
+- **4. 3. Securing the Node API** (6 videos)
+- **5. 4. Other Options** (1 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Securing Node RESTful APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/securing-node-restful-apis?u=76281980)
@@ -115,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 1. Setting Up
+### 2. 1. Setting Up
 
 #### Overview of the security threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980)
@@ -315,7 +313,7 @@ created: 2026-04-21
 > **Tools:** postman (1)
 
 
-### 2. Setting Up the Node API
+### 3. 2. Setting Up the Node API
 
 #### Base project template intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980)
@@ -672,7 +670,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Securing the Node API
+### 4. 3. Securing the Node API
 
 #### Add the handlers for loginRequired
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-loginrequired?u=76281980)
@@ -1214,7 +1212,7 @@ created: 2026-04-21
 > **UI Navigation:** switch to (1), select the (1), go to (1)
 
 
-### 4. Other Options
+### 5. 4. Other Options
 
 #### Alternatives for securing APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980)
@@ -1261,7 +1259,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Explore and build your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/explore-and-build-your-skills?u=76281980)
@@ -1293,6 +1291,19 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- REST APIs
+- Node.js
 
 ## Path Context
 

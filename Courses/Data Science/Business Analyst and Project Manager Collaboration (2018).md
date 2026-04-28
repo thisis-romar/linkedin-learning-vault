@@ -33,8 +33,10 @@ tags:
   - skill/cross-team-collaboration
   - skill/project-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analyst%20and%20Project%20Manager%20Collaboration%20(2018).md)
 
 ![Business Analyst and Project Manager Collaboration (2018)](https://media.licdn.com/dms/image/v2/C4E0DAQHqgTJEhPZf5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619542953405?e=2147483647&amp;v=beta&amp;t=ibmKSc1Ulh9zarrQnYYLm657m1l3BVpOEq9h9_eGY7k)
 
@@ -45,22 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018) | 56m | Intermediate | 40K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Angela Wick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cross-team Collaboration
-- Project Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Project Manager and Business Analyst Collaboration Overview** (7 videos)
+- **3. 2. What to Collaborate On** (6 videos)
+- **4. 3. Overlapping Roles** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Teaming up for results
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/teaming-up-for-results?u=76281980)
@@ -91,7 +88,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. Project Manager and Business Analyst Collaboration Overview
+### 2. 1. Project Manager and Business Analyst Collaboration Overview
 
 #### Why projects fail
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-projects-fail?u=76281980)
@@ -520,7 +517,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. What to Collaborate On
+### 3. 2. What to Collaborate On
 
 #### Portfolio-level collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/portfolio-level-collaboration-8536783?u=76281980)
@@ -932,7 +929,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 3. Overlapping Roles
+### 4. 3. Overlapping Roles
 
 #### Communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/communications-8541082?u=76281980)
@@ -1168,7 +1165,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Leverage each other's skill sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/leverage-each-other-s-skill-sets?u=76281980)
@@ -1193,6 +1190,19 @@ created: 2026-04-21
 >
 > **Speakers:** - business (1)
 
+
+## Instructor
+
+- [[Angela Wick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cross-team Collaboration
+- Project Management
 
 ## Path Context
 

@@ -25,8 +25,10 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking%20Introduction%20To%20Ethical%20Hacking.md)
 
 ![Ethical Hacking Introduction To Ethical Hacking](https://media.licdn.com/dms/image/v2/D560DAQH9NesLAe2Q7Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691004358172?e=2147483647&amp;v=beta&amp;t=2tgM7ogG7lGx8cWxlIzujuUfcnO-sHvdcDEQa247REQ)
 
@@ -37,17 +39,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825) | Intermediate | 356K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Protect Data in a Digital World** (6 videos)
+- **3. 2. Maintain a Vigilant Posture** (6 videos)
+- **4. 3. Summarize Hacking Frameworks** (7 videos)
+- **5. 4. Review Security Laws and Standards** (7 videos)
+- **6. 5. Support Ethical Hacking** (5 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Locking down the organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/locking-down-the-organization?u=76281980)
@@ -125,7 +129,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Protect Data in a Digital World
+### 2. 1. Protect Data in a Digital World
 
 #### Recognizing elements of information security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980)
@@ -511,7 +515,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Maintain a Vigilant Posture
+### 3. 2. Maintain a Vigilant Posture
 
 #### Modeling threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980)
@@ -867,7 +871,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Summarize Hacking Frameworks
+### 4. 3. Summarize Hacking Frameworks
 
 #### Understanding the cyber kill chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/understanding-the-cyber-kill-chain?u=76281980)
@@ -1414,7 +1418,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Review Security Laws and Standards
+### 5. 4. Review Security Laws and Standards
 
 #### Managing risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/managing-risks?u=76281980)
@@ -1847,7 +1851,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Support Ethical Hacking
+### 6. 5. Support Ethical Hacking
 
 #### Comparing attack types and motives
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/comparing-attack-types-and-motives?u=76281980)
@@ -2227,7 +2231,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/next-steps?u=76281980)
@@ -2260,6 +2264,14 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Ethical Hacking
 
 ## Path Context
 

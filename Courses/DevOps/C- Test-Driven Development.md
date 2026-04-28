@@ -32,8 +32,10 @@ tags:
   - skill/test-driven-development
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C-%20Test-Driven%20Development.md)
 
 ![C# Test-Driven Development](https://media.licdn.com/dms/image/v2/C560DAQHer6AaKu2izw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632339054345?e=2147483647&amp;v=beta&amp;t=PAsefRZzFZKcfhCMxSynhTP9lh2Eqox3FO8f_RPaLRY)
 
@@ -44,22 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015) | 1h 22m | Intermediate | 670K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Christian Wenz]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Test-Driven Development
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. TDD Theory** (4 videos)
+- **3. 2. Getting Started with TDD** (7 videos)
+- **4. 3. Advanced TDD Techniques** (9 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Testing web applications and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-web-applications-and-apis?u=76281980)
@@ -177,7 +174,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. TDD Theory
+### 2. 1. TDD Theory
 
 #### About testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/about-testing?u=76281980)
@@ -484,7 +481,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 2. Getting Started with TDD
+### 3. 2. Getting Started with TDD
 
 #### Demo project introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980)
@@ -952,7 +949,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Advanced TDD Techniques
+### 4. 3. Advanced TDD Techniques
 
 #### Introduction to mocking
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/introduction-to-mocking?u=76281980)
@@ -1674,7 +1671,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps with C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/next-steps-with-c-sharp?u=76281980)
@@ -1707,6 +1704,19 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 > **Speakers:** - [christian] (1)
 
+
+## Instructor
+
+- [[Christian Wenz]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Test-Driven Development
+- C#
 
 ## Path Context
 

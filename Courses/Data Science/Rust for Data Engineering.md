@@ -31,8 +31,10 @@ tags:
   - skill/data-engineering
   - skill/rust-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Rust%20for%20Data%20Engineering.md)
 
 ![Rust for Data Engineering](https://media.licdn.com/dms/image/v2/D560DAQH_NwxyHmZEPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697135500744?e=2147483647&amp;v=beta&amp;t=zvdfcU9vhqSn3AfHHTuHk_ZY8cpWjogM8YXdQduDdB0)
 
@@ -43,18 +45,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering) | 7h 43m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Noah Gift]]
-
-## Skills Covered
-
-- Data Engineering
-- Rust (Programming Language)
-
 ## Table of Contents
 
-### 1. Getting Started with the Modern Rust Development Ecosystem
+### Chapter Overview
+
+- **1. 1. Getting Started with the Modern Rust Development Ecosystem** (8 videos)
+- **2. 2. Rust Sequences and Maps** (8 videos)
+- **3. 3. Rust Sets, Graphs, and Miscellaneous Data Structures** (8 videos)
+- **4. 4. Rust Safety and Security Features** (7 videos)
+- **5. 5. Security Programming with Rust** (8 videos)
+- **6. 6. Concurrency with Rust** (8 videos)
+- **7. 7. Using Rust to Manage Data, Files, and Network Storage** (6 videos)
+- **8. 8. DataFrames with Rust, Python, and Notebooks** (7 videos)
+- **9. 9. Using Rust with Cloud SDKs and CLIs for Data Engineering** (8 videos)
+- **10. 10. Getting Started with Rust Data Pipelines (Including ETL)** (7 videos)
+- **11. 11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines** (7 videos)
+- **12. 12. Building SQL Solutions with Rust, Generative AI, and Cloud** (9 videos)
+
+### 1. 1. Getting Started with the Modern Rust Development Ecosystem
 
 #### Meet the instructor and course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980)
@@ -1413,7 +1421,7 @@ created: 2026-04-21
 > **Exercise Files:** template (2)
 
 
-### 2. Rust Sequences and Maps
+### 2. 2. Rust Sequences and Maps
 
 #### Introducing Rust sequences and maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introducing-rust-sequences-and-maps?u=76281980)
@@ -1935,7 +1943,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Rust Sets, Graphs, and Miscellaneous Data Structures
+### 3. 3. Rust Sets, Graphs, and Miscellaneous Data Structures
 
 #### Analyzing UFC fighter network using graph centrality in Rust
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980)
@@ -2524,7 +2532,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 4. Rust Safety and Security Features
+### 4. 4. Rust Safety and Security Features
 
 #### Multifactor authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/multifactor-authentication?u=76281980)
@@ -2998,7 +3006,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Security Programming with Rust
+### 5. 5. Security Programming with Rust
 
 #### High availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/high-availability?u=76281980)
@@ -3621,7 +3629,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Concurrency with Rust
+### 6. 6. Concurrency with Rust
 
 #### Core concepts in concurrency
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/core-concepts-in-concurrency?u=76281980)
@@ -4515,7 +4523,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Using Rust to Manage Data, Files, and Network Storage
+### 7. 7. Using Rust to Manage Data, Files, and Network Storage
 
 #### Process CSV files in Rust
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/process-csv-files-in-rust?u=76281980)
@@ -5242,7 +5250,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. DataFrames with Rust, Python, and Notebooks
+### 8. 8. DataFrames with Rust, Python, and Notebooks
 
 #### What is Colab?
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980)
@@ -5958,7 +5966,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 9. Using Rust with Cloud SDKs and CLIs for Data Engineering
+### 9. 9. Using Rust with Cloud SDKs and CLIs for Data Engineering
 
 #### Cloud developer workspace advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980)
@@ -7351,7 +7359,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1), picture (1)
 
 
-### 10. Getting Started with Rust Data Pipelines (Including ETL)
+### 10. 10. Getting Started with Rust Data Pipelines (Including ETL)
 
 #### Jack and the Beanstalk data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980)
@@ -8163,7 +8171,7 @@ created: 2026-04-21
 > **Exercise Files:** template (1), source code (1)
 
 
-### 11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines
+### 11. 11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines
 
 #### Introduction to Hugging Face Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980)
@@ -9043,7 +9051,7 @@ created: 2026-04-21
 > **UI Navigation:** scroll down (1)
 
 
-### 12. Building SQL Solutions with Rust, Generative AI, and Cloud
+### 12. 12. Building SQL Solutions with Rust, Generative AI, and Cloud
 
 #### Selecting the correct database on GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980)
@@ -10177,6 +10185,15 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Noah Gift]]
+
+## Skills Covered
+
+- Data Engineering
+- Rust (Programming Language)
 
 ## Path Context
 

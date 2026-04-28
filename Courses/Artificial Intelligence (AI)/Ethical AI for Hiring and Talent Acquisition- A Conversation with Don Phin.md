@@ -21,8 +21,10 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Ethical%20AI%20for%20Hiring%20and%20Talent%20Acquisition-%20A%20Conversation%20with%20Don%20Phin.md)
 
 ![Ethical AI for Hiring and Talent Acquisition: A Conversation with Don Phin](https://media.licdn.com/dms/image/v2/D4D0DAQHv-LXoPC8_1Q/learning-public-crop_675_1200/B4DZYh33BxG8AY-/0/1744325014343?e=2147483647&amp;v=beta&amp;t=vB0e8AfKvZcVoPoNkelwatt3R2d3Xw-8Bza1dD4xE2s)
 
@@ -33,13 +35,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin) | 26m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ashley Kennedy]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Bias and Fairness** (3 videos)
+- **3. 2. Accuracy and Reliability** (2 videos)
+- **4. 3. Transparency and Explainability** (2 videos)
+- **5. 4. Privacy and Security** (2 videos)
+- **6. 5. Best Practices and Future Trends** (2 videos)
+
+### 1. Introduction
 
 #### Embracing responsible AI practices in hiring
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980)
@@ -174,7 +181,7 @@ created: 2026-04-21
 > **Code Keywords:** private (1)
 
 
-### 1. Bias and Fairness
+### 2. 1. Bias and Fairness
 
 #### When is hiring bias problematic?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/when-is-hiring-bias-problematic?u=76281980)
@@ -375,7 +382,7 @@ created: 2026-04-21
 > **Env Vars:** eeoc (1)
 
 
-### 2. Accuracy and Reliability
+### 3. 2. Accuracy and Reliability
 
 #### How do we ensure AI makes fair, accurate hiring decisions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-do-we-ensure-ai-makes-fair-accurate-hiring-decisions?u=76281980)
@@ -463,7 +470,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 3. Transparency and Explainability
+### 4. 3. Transparency and Explainability
 
 #### Why are transparency in AI hiring tools so important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/why-are-transparency-in-ai-hiring-tools-so-important?u=76281980)
@@ -575,7 +582,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 4. Privacy and Security
+### 5. 4. Privacy and Security
 
 #### How is candidate data handled by AI, and what are the risks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980)
@@ -683,7 +690,7 @@ created: 2026-04-21
 > **Code Keywords:** require (1)
 
 
-### 5. Best Practices and Future Trends
+### 6. 5. Best Practices and Future Trends
 
 #### What is key when using AI in hiring ethically and wisely?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-key-when-using-ai-in-hiring-ethically-and-wisely?u=76281980)
@@ -803,6 +810,10 @@ created: 2026-04-21
 > **Cross-References:** in the last (1)
 > **Analogies:** just like (1)
 
+
+## Instructor
+
+- [[Ashley Kennedy]]
 
 ## Path Context
 

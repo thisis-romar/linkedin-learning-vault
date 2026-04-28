@@ -21,8 +21,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20for%20Busy%20Professionals.md)
 
 ![Business Analysis for Busy Professionals](https://media.licdn.com/dms/image/v2/C560DAQFOdSFaLNTrQg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1637602798045?e=2147483647&amp;v=beta&amp;t=ZhqZMl-4h7-HmL47xIgKM-Sl7jZc2t6Yj89YRCWzCGU)
 
@@ -33,13 +35,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals) | 43m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Christina Charenkova]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Know Your Business Inside Out** (3 videos)
+- **3. 2. Analyze and Prioritize Your Options** (3 videos)
+- **4. 3. Evaluate a Business Change Scenario** (2 videos)
+- **5. 4. Craft a Bulletproof Business Case** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Anyone can do business analysis to solve problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/anyone-can-do-business-analysis-to-solve-problems?u=76281980)
@@ -79,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - trust (1)
 
 
-### 1. Know Your Business Inside Out
+### 2. 1. Know Your Business Inside Out
 
 #### Start with the business requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980)
@@ -311,7 +318,7 @@ created: 2026-04-21
 > **Speakers:** - at (1)
 
 
-### 2. Analyze and Prioritize Your Options
+### 3. 2. Analyze and Prioritize Your Options
 
 #### Options for reaching the desired future state
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/options-for-reaching-the-desired-future-state?u=76281980)
@@ -597,7 +604,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 3. Evaluate a Business Change Scenario
+### 4. 3. Evaluate a Business Change Scenario
 
 #### Analyze a value proposition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-a-value-proposition?u=76281980)
@@ -755,7 +762,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 4. Craft a Bulletproof Business Case
+### 5. 4. Craft a Bulletproof Business Case
 
 #### Analyze your risk, cost, and benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-your-risk-cost-and-benefits?u=76281980)
@@ -915,7 +922,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Three tips on turning your solution into action
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/three-tips-on-turning-your-solution-into-action?u=76281980)
@@ -1001,6 +1008,10 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Christina Charenkova]]
 
 ## Path Context
 

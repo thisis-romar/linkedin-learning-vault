@@ -30,8 +30,10 @@ tags:
   - topic/software-development
   - skill/scala
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands-On%20Introduction-%20Scala.md)
 
 ![Hands-On Introduction: Scala](https://media.licdn.com/dms/image/v2/D560DAQELF_sWWhlfzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705617575948?e=2147483647&amp;v=beta&amp;t=cAx9x4WqbGhEO-4SyL9Hm1jCcQLLesNJMxHVJEToxKI)
 
@@ -42,22 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala) | 2h 16m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Amina Adewusi]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-introduction-scala-4413550/codespaces)
-
-## Skills Covered
-
-- Scala
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Our First Methods and Testing** (6 videos)
+- **3. 2. Implementing Our ETL** (4 videos)
+- **4. 3. Refactoring with Config and JSON** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build your first Scala app
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/build-your-first-scala-app?u=76281980)
@@ -304,7 +301,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Our First Methods and Testing
+### 2. 1. Our First Methods and Testing
 
 #### Scala project structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980)
@@ -971,7 +968,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Implementing Our ETL
+### 3. 2. Implementing Our ETL
 
 #### Traits, generics, givens, and using
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980)
@@ -1739,7 +1736,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Refactoring with Config and JSON
+### 4. 3. Refactoring with Config and JSON
 
 #### Adding configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980)
@@ -2600,7 +2597,7 @@ created: 2026-04-21
 > **URLs:** [testapplication.com](https://testapplication.com) (1), [application.com](https://application.com) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980)
@@ -2708,6 +2705,19 @@ created: 2026-04-21
 > **Env Vars:** csv (1)
 > **Cross-References:** we discussed (1)
 
+
+## Instructor
+
+- [[Amina Adewusi]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/hands-on-introduction-scala-4413550/codespaces)
+
+## Skills Covered
+
+- Scala
 
 ## Path Context
 

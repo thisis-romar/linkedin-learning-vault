@@ -30,8 +30,10 @@ tags:
   - skill/professional-phone-skills
   - skill/customer-service
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Phone-Based%20Customer%20Service.md)
 
 ![Phone-Based Customer Service](https://media.licdn.com/dms/image/v2/C4E0DAQFjSHWCcikLXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1591394884791?e=2147483647&amp;v=beta&amp;t=DxcxCq8jMxpLAXUYTt4Xga6k_ZKeFKqVAq4KkNlkfAo)
 
@@ -42,22 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service) | 48m | Intermediate | 348K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jeff Toister]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Professional Phone Skills
-- Customer Service
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Build Rapport over the Phone** (5 videos)
+- **3. 2. Exceed Expectations over the Phone** (4 videos)
+- **4. 3. Solve Problems over the Phone** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Phone service still matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/phone-service-still-matters?u=76281980)
@@ -234,7 +231,7 @@ created: 2026-04-21
 > **Warnings:** watch out (1)
 
 
-### 1. Build Rapport over the Phone
+### 2. 1. Build Rapport over the Phone
 
 #### Develop the perfect phone greeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/develop-the-perfect-phone-greeting-2?u=76281980)
@@ -696,7 +693,7 @@ created: 2026-04-21
 > **Analogies:** for example (1), such as (1)
 
 
-### 2. Exceed Expectations over the Phone
+### 3. 2. Exceed Expectations over the Phone
 
 #### Tune out distractions
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/tune-out-distractions-2?u=76281980)
@@ -1074,7 +1071,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 3. Solve Problems over the Phone
+### 4. 3. Solve Problems over the Phone
 
 #### How to express empathy
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980)
@@ -1456,7 +1453,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Create your action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/create-your-action-plan?u=76281980)
@@ -1497,6 +1494,19 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
 
+
+## Instructor
+
+- [[Jeff Toister]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Professional Phone Skills
+- Customer Service
 
 ## Path Context
 

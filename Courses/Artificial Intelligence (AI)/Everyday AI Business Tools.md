@@ -25,8 +25,10 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Everyday%20AI%20Business%20Tools.md)
 
 ![Everyday AI Business Tools](https://media.licdn.com/dms/image/v2/D4E0DAQGPYQA_TsFDIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731633331929?e=2147483647&amp;v=beta&amp;t=nbUepgdlyqqHygAAHiTeFEGqNr6GFvKtxRUj9NOo5Dg)
 
@@ -37,13 +39,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools) | 50m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Doug Rose]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Key Tools in the AI Tool Chest** (3 videos)
+- **3. 2. Predictive Artificial Intelligence** (2 videos)
+- **4. 3. Generative Artificial Intelligence** (5 videos)
+- **5. 4. Administration at Scale** (2 videos)
+- **6. 5. Tools of Today to Build Tomorrow's Tools** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Exploring essential AI tools for everyday business
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980)
@@ -79,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - one (1)
 
 
-### 1. Key Tools in the AI Tool Chest
+### 2. 1. Key Tools in the AI Tool Chest
 
 #### Tools for toolmakers
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-for-toolmakers?u=76281980)
@@ -349,7 +357,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 2. Predictive Artificial Intelligence
+### 3. 2. Predictive Artificial Intelligence
 
 #### How to build a machine learning platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980)
@@ -510,7 +518,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Generative Artificial Intelligence
+### 4. 3. Generative Artificial Intelligence
 
 #### The flexibility of foundation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980)
@@ -944,7 +952,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### 4. Administration at Scale
+### 5. 4. Administration at Scale
 
 #### How machines learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980)
@@ -1112,7 +1120,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 5. Tools of Today to Build Tomorrow's Tools
+### 6. 5. Tools of Today to Build Tomorrow's Tools
 
 #### The AI upskilling framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980)
@@ -1275,7 +1283,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Tools and concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-and-concepts?u=76281980)
@@ -1304,6 +1312,10 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
+
+## Instructor
+
+- [[Doug Rose]]
 
 ## Path Context
 

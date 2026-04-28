@@ -34,37 +34,33 @@ tags:
   - skill/python-programming-language
   - skill/microservices
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Case%20Study-%20Visualize%20Complex%20Microservice%20Data%20Using%20Python.md)
 
 ![Case Study: Visualize Complex Microservice Data Using Python](https://media.licdn.com/dms/image/v2/D4E0DAQHW6oJSW_gA6Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694730089192?e=2147483647&amp;v=beta&amp;t=I3Mq81s-VQVXPkz21wG9r1pUodQ8EG0k3Q_EjcJ2Jtc)
 
 # Case Study: Visualize Complex Microservice Data Using Python
 
-> As a software engineer, your day-to-day duties can seem like an endless to-do list, so it’s often difficult to find the time to develop new skills to grow and advance your career. How do you make an impact with your organization while also completing your core work?
-
-In this course, Kathryn Hodge takes you through the process of coming up with an idea for an initiative, planning it, and then imple
+> As a software engineer, your day-to-day duties can seem like an endless to-do list, so it’s often difficult to find the time to develop new skills to grow and advance your career. How do you make an impact with your organization while also completing your core work? In this course, Kathryn Hodge takes you through the process of coming up with an idea for an initiative, planning it, and then implem
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python) | 1h 25m | Advanced | 30K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kathryn Hodge]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/case-study-visualize-complex-microservice-data-using-python-4400083/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Microservices
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Defining the Problem and Researching a Solution** (4 videos)
+- **3. 2. Learning PlantUML** (4 videos)
+- **4. 3. Planning for the Development** (3 videos)
+- **5. 4. Building a Python Script to Convert Data into PlantUML Code** (9 videos)
+- **6. 5. Going Above and Beyond** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How to make an impact in your organization as an engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-make-an-impact-in-your-organization-as-an-engineer?u=76281980)
@@ -196,7 +192,7 @@ In this course, Kathryn Hodge takes you through the process of coming up with an
 > **Env Vars:** ide (1)
 
 
-### 1. Defining the Problem and Researching a Solution
+### 2. 1. Defining the Problem and Researching a Solution
 
 #### What are microservices?
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-are-microservices?u=76281980)
@@ -447,7 +443,7 @@ In this course, Kathryn Hodge takes you through the process of coming up with an
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Learning PlantUML
+### 3. 2. Learning PlantUML
 
 #### What is PlantUML?
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-is-plantuml?u=76281980)
@@ -708,7 +704,7 @@ In this course, Kathryn Hodge takes you through the process of coming up with an
 > **Speakers:** - we (1)
 
 
-### 3. Planning for the Development
+### 4. 3. Planning for the Development
 
 #### Create an implementation plan for the initiative
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-an-implementation-plan-for-the-initiative?u=76281980)
@@ -885,7 +881,7 @@ In this course, Kathryn Hodge takes you through the process of coming up with an
 > **Speakers:** - [host] (1)
 
 
-### 4. Building a Python Script to Convert Data into PlantUML Code
+### 5. 4. Building a Python Script to Convert Data into PlantUML Code
 
 #### Establish input of the script
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980)
@@ -1573,7 +1569,7 @@ In this course, Kathryn Hodge takes you through the process of coming up with an
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Going Above and Beyond
+### 6. 5. Going Above and Beyond
 
 #### Review your code for inefficiencies and unnecessary complication
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/review-your-code-for-inefficiencies-and-unnecessary-complication?u=76281980)
@@ -1937,7 +1933,7 @@ In this course, Kathryn Hodge takes you through the process of coming up with an
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Contributing to your engineering organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980)
@@ -1991,6 +1987,20 @@ In this course, Kathryn Hodge takes you through the process of coming up with an
 > **Env Vars:** json (1)
 > **Speakers:** - [kathryn] (1)
 
+
+## Instructor
+
+- [[Kathryn Hodge]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/case-study-visualize-complex-microservice-data-using-python-4400083/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Microservices
 
 ## Path Context
 

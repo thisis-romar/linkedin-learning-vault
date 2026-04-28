@@ -36,8 +36,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/product-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Ideation-%20Principles%20and%20Practical%20Applications.md)
 
 ![AI Product Ideation: Principles and Practical Applications](https://media.licdn.com/dms/image/v2/D4D0DAQGbNQBqdOr9BQ/learning-public-crop_675_1200/B4DZYXN4taGwAY-/0/1744146238683?e=2147483647&amp;v=beta&amp;t=_fu2LqaV4Au9ucbTg08y4x8zMjTvRWVKCjOg-Op_2Zk)
 
@@ -48,24 +50,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications) | 2h 6m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Maria Parysz]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- Creative Ideation
-- Artificial Intelligence (AI)
-- Product Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Challenges of AI** (9 videos)
+- **3. 2. Collecting Ideas** (11 videos)
+- **4. 3. Exploring Ideas: Concept Development** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/introduction?u=76281980)
@@ -92,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 1. The Challenges of AI
+### 2. 1. The Challenges of AI
 
 #### AI mistakes to avoid
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980)
@@ -891,7 +886,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. Collecting Ideas
+### 3. 2. Collecting Ideas
 
 #### Ideation workshop: Preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980)
@@ -1898,7 +1893,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Exploring Ideas: Concept Development
+### 4. 3. Exploring Ideas: Concept Development
 
 #### What happens to the idea?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980)
@@ -2262,7 +2257,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/next-steps?u=76281980)
@@ -2294,6 +2289,21 @@ created: 2026-04-21
 > **UI Navigation:** select the (1)
 > **Speakers:** - big (1)
 
+
+## Instructor
+
+- [[Maria Parysz]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- Creative Ideation
+- Artificial Intelligence (AI)
+- Product Development
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - topic/web-development
   - skill/mongodb
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/MongoDB%20Essential%20Training.md)
 
 ![MongoDB Essential Training](https://media.licdn.com/dms/image/v2/C560DAQFYT-OXtGVtSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1652204728246?e=2147483647&amp;v=beta&amp;t=8E2xX9JTsTymVeo_n5HKlbvsmknNhgoZPIgLl92dE0c)
 
@@ -43,22 +45,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training) | 3h 49m | Beginner | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Naomi Pentrel]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/mongoDB-essential-training-3023263 )
-
-## Skills Covered
-
-- MongoDB
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Install MongoDB** (5 videos)
+- **3. 2. Set Up Your Database** (6 videos)
+- **4. 3. Working with MongoDB** (6 videos)
+- **5. 4. CRUD Operations** (11 videos)
+- **6. 5. Aggregation Pipelines** (10 videos)
+- **7. 6. Data Modeling** (5 videos)
+- **8. 7. Drivers** (4 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### An introduction to MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/an-introduction-to-mongodb-23754278?u=76281980)
@@ -144,7 +145,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Install MongoDB
+### 2. 1. Install MongoDB
 
 #### Self-hosted vs. managed MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980)
@@ -560,7 +561,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (2)
 
 
-### 2. Set Up Your Database
+### 3. 2. Set Up Your Database
 
 #### Mongod
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980)
@@ -1481,7 +1482,7 @@ created: 2026-04-21
 > **Tools:** vs code (1)
 
 
-### 3. Working with MongoDB
+### 4. 3. Working with MongoDB
 
 #### The document model
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/the-document-model-17231550?u=76281980)
@@ -1991,7 +1992,7 @@ created: 2026-04-21
 > **Non-Speech:** (cheerful music) (1)
 
 
-### 4. CRUD Operations
+### 5. 4. CRUD Operations
 
 #### insertOne and insertMany
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/insertone-and-insertmany-17234000?u=76281980)
@@ -3257,7 +3258,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Aggregation Pipelines
+### 6. 5. Aggregation Pipelines
 
 #### An overview of stages
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/an-overview-of-stages-17233183?u=76281980)
@@ -4096,7 +4097,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat instrumental music) (1)
 
 
-### 6. Data Modeling
+### 7. 6. Data Modeling
 
 #### Relational vs. document
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980)
@@ -4549,7 +4550,7 @@ created: 2026-04-21
 > **Speakers:** - alright (1)
 
 
-### 7. Drivers
+### 8. 7. Drivers
 
 #### Drivers
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980)
@@ -4848,7 +4849,7 @@ created: 2026-04-21
 > **Documentation:** the docs (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Advancing with MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/advancing-with-mongodb?u=76281980)
@@ -4884,6 +4885,19 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [naomi] (1)
 
+
+## Instructor
+
+- [[Naomi Pentrel]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/mongoDB-essential-training-3023263 )
+
+## Skills Covered
+
+- MongoDB
 
 ## Path Context
 

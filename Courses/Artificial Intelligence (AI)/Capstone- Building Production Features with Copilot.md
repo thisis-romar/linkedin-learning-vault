@@ -36,8 +36,10 @@ tags:
   - skill/github-copilot
   - skill/capstone
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Capstone-%20Building%20Production%20Features%20with%20Copilot.md)
 
 ![Capstone: Building Production Features with Copilot](https://media.licdn.com/dms/image/v2/D4E0DAQFU4QN0jCeNSA/learning-public-crop_675_1200/B4EZq32w6IHUAY-/0/1764021178841?e=2147483647&amp;v=beta&amp;t=4VF2e5EUVMTxkkGLxZzTG33EPeEdA9b3_qwxyUZjct8)
 
@@ -48,26 +50,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot) | 1h 8m | Advanced | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Pragmatic AI Labs]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/paiml/GitHub-Copilot-Mastery-Capstone)
-
-## Skills Covered
-
-- Data Validation
-- Full-Stack Development
-- Artificial Intelligence (AI)
-- GitHub Copilot
-- Capstone
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Project Planning and Setup** (3 videos)
+- **3. 2. Full-Stack Implementation** (6 videos)
+- **4. 3. Testing and Validation** (5 videos)
+
+### 1. Introduction
 
 #### Capstone project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980)
@@ -140,7 +132,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Project Planning and Setup
+### 2. 1. Project Planning and Setup
 
 #### Task 0: The planning phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980)
@@ -443,7 +435,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Full-Stack Implementation
+### 3. 2. Full-Stack Implementation
 
 #### Task 1: The API layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-1-the-api-layer?u=76281980)
@@ -1013,7 +1005,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 3. Testing and Validation
+### 4. 3. Testing and Validation
 
 #### Task 4: The test suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-4-the-test-suite?u=76281980)
@@ -1488,6 +1480,23 @@ created: 2026-04-21
 > **Cross-References:** we covered (1)
 > **Speakers:** - [presenter] (1)
 
+
+## Instructor
+
+- [[Pragmatic AI Labs]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/paiml/GitHub-Copilot-Mastery-Capstone)
+
+## Skills Covered
+
+- Data Validation
+- Full-Stack Development
+- Artificial Intelligence (AI)
+- GitHub Copilot
+- Capstone
 
 ## Path Context
 

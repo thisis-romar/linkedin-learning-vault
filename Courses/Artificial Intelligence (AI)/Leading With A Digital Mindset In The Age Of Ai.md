@@ -30,8 +30,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leading%20With%20A%20Digital%20Mindset%20In%20The%20Age%20Of%20Ai.md)
 
 ![Leading With A Digital Mindset In The Age Of Ai](https://media.licdn.com/dms/image/v2/D560DAQGiZXmP1SNllQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1699569878274?e=2147483647&amp;v=beta&amp;t=sjrnMttj6wh1KMBKB-7SEYWEh8Z6k7RoLqWYajd9s2s)
 
@@ -42,19 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai) | Intermediate | 612K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Organizational Leadership
-- Artificial Intelligence (AI)
-- AI for Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Collaboration, Computation, and Change for the Digital Age** (3 videos)
+- **3. 2. Collaborating with Colleagues in a Digital Environment** (3 videos)
+- **4. 3. Collaborating with Machines in the Digital Age** (3 videos)
+- **5. 4. Making Sense of Data in the Digital Age** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introducing the digital mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/introducing-the-digital-mindset?u=76281980)
@@ -86,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - to (1)
 
 
-### 1. Collaboration, Computation, and Change for the Digital Age
+### 2. 1. Collaboration, Computation, and Change for the Digital Age
 
 #### What is a digital mindset?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980)
@@ -312,7 +313,7 @@ created: 2026-04-21
 > **Speakers:** - how (1)
 
 
-### 2. Collaborating with Colleagues in a Digital Environment
+### 3. 2. Collaborating with Colleagues in a Digital Environment
 
 #### Establishing your digital presence
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/establishing-your-digital-presence?u=76281980)
@@ -654,7 +655,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Collaborating with Machines in the Digital Age
+### 4. 3. Collaborating with Machines in the Digital Age
 
 #### How machines learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980)
@@ -974,7 +975,7 @@ created: 2026-04-21
 > **Best Practices:** it's best to (1)
 
 
-### 4. Making Sense of Data in the Digital Age
+### 5. 4. Making Sense of Data in the Digital Age
 
 #### Where data comes from
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980)
@@ -1273,7 +1274,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Continuous learning in the digital age
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/continuous-learning-in-the-digital-age?u=76281980)
@@ -1347,6 +1348,16 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Organizational Leadership
+- Artificial Intelligence (AI)
+- AI for Leadership
 
 ## Path Context
 

@@ -37,35 +37,34 @@ tags:
   - skill/statistical-analysis
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20Foundations-%20Statistics.md)
 
 ![Machine Learning Foundations: Statistics](https://media.licdn.com/dms/image/v2/D560DAQEvLkd_AGFL8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1697490325267?e=2147483647&amp;v=beta&amp;t=_qRQujbGxYcXucHpeIUOS7qgMgh6zA3Xsos6P7AP9Sk)
 
 # Machine Learning Foundations: Statistics
 
-> Machine learning models have revolutionized how we work, across a multitude of industries. But going deeper with ML models and actually understanding how they work will allow you to optimize performance, innovate, troubleshoot issues, and create new and more efficient ML models. In this course,  the fourth part of the Machine Learning Foundations series, Terezija Semenski explains how a deep under
+> Machine learning models have revolutionized how we work, across a multitude of industries. But going deeper with ML models and actually understanding how they work will allow you to optimize performance, innovate, troubleshoot issues, and create new and more efficient ML models. In this course, the fourth part of the Machine Learning Foundations series, Terezija Semenski explains how a deep unders
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics) | 1h 26m | Beginner | 63K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Terezija Semenski]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Machine Learning
-- Statistical Analysis
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Statistics** (3 videos)
+- **3. 2. The Summary Statistics** (8 videos)
+- **4. 3. From Quantiles to Correlation** (6 videos)
+- **5. 4. Random Variables and Probability Distribution** (5 videos)
+- **6. 5. Sampling and Replacement** (3 videos)
+- **7. 6. Linear Regression** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Foundations of statistics for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980)
@@ -124,7 +123,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Statistics
+### 2. 1. Introduction to Statistics
 
 #### Defining statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980)
@@ -296,7 +295,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. The Summary Statistics
+### 3. 2. The Summary Statistics
 
 #### The mean
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980)
@@ -826,7 +825,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. From Quantiles to Correlation
+### 4. 3. From Quantiles to Correlation
 
 #### The quantiles and box plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-quantiles-and-box-plots?u=76281980)
@@ -1215,7 +1214,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Random Variables and Probability Distribution
+### 5. 4. Random Variables and Probability Distribution
 
 #### Introduction to probability distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction-to-probability-distribution?u=76281980)
@@ -1460,7 +1459,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Sampling and Replacement
+### 6. 5. Sampling and Replacement
 
 #### Selection with replacement
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980)
@@ -1623,7 +1622,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Linear Regression
+### 7. 6. Linear Regression
 
 #### Independent and dependent variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/independent-and-dependent-variables?u=76281980)
@@ -1851,7 +1850,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/next-steps?u=76281980)
@@ -1884,6 +1883,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Terezija Semenski]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Machine Learning
+- Statistical Analysis
+- Artificial Intelligence (AI)
 
 ## Path Context
 

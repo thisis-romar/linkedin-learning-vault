@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20and%20Application%20Security.md)
 
 ![Artificial Intelligence and Application Security](https://media.licdn.com/dms/image/v2/D4E0DAQH8Z9-iz74j_g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726083225369?e=2147483647&amp;v=beta&amp;t=dl-vj84LoHrcJYwUnO6eMuoQFBlWXUStwcVNF6FTevM)
 
@@ -45,19 +47,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security) | 50m | Beginner | 66K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Caroline Wong]]
-
-## Skills Covered
-
-- Application Security
-- Artificial Intelligence (AI)
-- AI Security
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (5 videos)
+- **2. 1. Benefits and Advantages** (3 videos)
+- **3. 2. Increased Risks** (4 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Implications of AI on cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980)
@@ -347,7 +346,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 1. Benefits and Advantages
+### 2. 1. Benefits and Advantages
 
 #### AI improvements for corporate applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980)
@@ -556,7 +555,7 @@ created: 2026-04-21
 > **Speakers:** - fundamentally (1)
 
 
-### 2. Increased Risks
+### 3. 2. Increased Risks
 
 #### Evolution of application security risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980)
@@ -814,7 +813,7 @@ created: 2026-04-21
 > **Speakers:** - cobalt (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980)
@@ -840,6 +839,16 @@ created: 2026-04-21
 > **Env Vars:** owasps (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Caroline Wong]]
+
+## Skills Covered
+
+- Application Security
+- Artificial Intelligence (AI)
+- AI Security
 
 ## Path Context
 

@@ -32,8 +32,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-hr
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20Future%20of%20Workforce%20Learning-%20AI-Powered%20Personalization%20for%20Skill%20Development.md)
 
 ![The Future of Workforce Learning: AI-Powered Personalization for Skill Development](https://media.licdn.com/dms/image/v2/D4E0DAQFdVSYQBhnh5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736209337592?e=2147483647&amp;v=beta&amp;t=IRP_nAwloGtScoAOOiL9tjKoFi8MfMaUq3Eqg3wGYkw)
 
@@ -44,25 +46,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development) | 36m | 34K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Susan Makinda]]
-- [[Madecraft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Employee Learning & Development
-- AI for Business
-- Artificial Intelligence (AI)
-- AI for HR
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Exploring AI in Learning** (3 videos)
+- **3. 2. Designing AI-Powered Learning Experiences** (4 videos)
+- **4. 3. Implementing AI in Your Learning Strategy** (3 videos)
+- **5. 4. Measuring Success and Impact** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Boost organizational learning with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/boost-organizational-learning-with-ai?u=76281980)
@@ -98,7 +93,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Exploring AI in Learning
+### 2. 1. Exploring AI in Learning
 
 #### Identify skills that can grow with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/identify-skills-that-can-grow-with-ai?u=76281980)
@@ -258,7 +253,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. Designing AI-Powered Learning Experiences
+### 3. 2. Designing AI-Powered Learning Experiences
 
 #### Personalize learning with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/personalize-learning-with-ai?u=76281980)
@@ -476,7 +471,7 @@ created: 2026-04-21
 > **Env Vars:** elb (1)
 
 
-### 3. Implementing AI in Your Learning Strategy
+### 4. 3. Implementing AI in Your Learning Strategy
 
 #### Build an AI-ready learning culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/build-an-ai-ready-learning-culture?u=76281980)
@@ -650,7 +645,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 4. Measuring Success and Impact
+### 5. 4. Measuring Success and Impact
 
 #### Analyze learning outcomes
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/analyze-learning-outcomes?u=76281980)
@@ -759,7 +754,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Integrate AI into the future of workforce learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/integrate-ai-into-the-future-of-workforce-learning?u=76281980)
@@ -801,6 +796,22 @@ created: 2026-04-21
 > **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Susan Makinda]]
+- [[Madecraft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Employee Learning & Development
+- AI for Business
+- Artificial Intelligence (AI)
+- AI for HR
 
 ## Path Context
 

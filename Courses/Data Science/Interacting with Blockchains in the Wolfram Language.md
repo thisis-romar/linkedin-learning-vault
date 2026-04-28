@@ -30,8 +30,10 @@ tags:
   - skill/wolfram-language
   - skill/blockchain-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Interacting%20with%20Blockchains%20in%20the%20Wolfram%20Language.md)
 
 ![Interacting with Blockchains in the Wolfram Language](https://media.licdn.com/dms/image/v2/D560DAQEERoS4MfXsLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704327196182?e=2147483647&amp;v=beta&amp;t=4KQoCh1u79YfCB85rWRpnk6jGoj9ktRYSu5yc7ioyRk)
 
@@ -42,18 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language) | 34m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wolfram Research]]
-
-## Skills Covered
-
-- Wolfram Language
-- Blockchain Analysis
-
 ## Table of Contents
 
-### 1. Blockchain Data
+### Chapter Overview
+
+- **1. 1. Blockchain Data** (1 videos)
+- **2. 2. Blockchain Block Data** (1 videos)
+- **3. 3. Blockchain Transaction Data** (1 videos)
+- **4. 4. Blockchain Address Data** (1 videos)
+- **5. 5. Blockchain Token Data** (1 videos)
+- **6. 6. Blockchain Contract Value** (1 videos)
+
+### 1. 1. Blockchain Data
 
 #### Blockchain data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980)
@@ -128,7 +130,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. Blockchain Block Data
+### 2. 2. Blockchain Block Data
 
 #### Blockchain block data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980)
@@ -261,7 +263,7 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 
 
-### 3. Blockchain Transaction Data
+### 3. 3. Blockchain Transaction Data
 
 #### Blockchain transaction data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980)
@@ -357,7 +359,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 4. Blockchain Address Data
+### 4. 4. Blockchain Address Data
 
 #### Blockchain address data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980)
@@ -434,7 +436,7 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 
 
-### 5. Blockchain Token Data
+### 5. 5. Blockchain Token Data
 
 #### Blockchain token data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980)
@@ -533,7 +535,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 6. Blockchain Contract Value
+### 6. 6. Blockchain Contract Value
 
 #### Blockchain contract value
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980)
@@ -755,6 +757,15 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 
+
+## Instructor
+
+- [[Wolfram Research]]
+
+## Skills Covered
+
+- Wolfram Language
+- Blockchain Analysis
 
 ## Path Context
 

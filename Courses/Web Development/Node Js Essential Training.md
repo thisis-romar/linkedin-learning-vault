@@ -34,34 +34,32 @@ tags:
   - topic/software-development
   - skill/node-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node%20Js%20Essential%20Training.md)
 
 ![Node Js Essential Training](https://media.licdn.com/dms/image/v2/C560DAQHctDFCWfBf5Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1654187660358?e=2147483647&amp;v=beta&amp;t=poC_kdk8J3POqy2E36qjzgrHnv9UYq9r6VBSmPWCmG8)
 
 # Node Js Essential Training
 
-> Node.js is a powerful tool for controlling servers, building web applications, and creating event-driven programs. And it takes JavaScript—a language familiar to all web developers—out of the browser. With Node.js, you can build applications that run on your laptop or even the cloud.
-In this course, learn the essentials of Node.js and start creating your own JavaScript applications. Instructor Eve
+> Node.js is a powerful tool for controlling servers, building web applications, and creating event-driven programs. And it takes JavaScript—a language familiar to all web developers—out of the browser. With Node.js, you can build applications that run on your laptop or even the cloud. In this course, learn the essentials of Node.js and start creating your own JavaScript applications. Instructor Eve
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164) | Intermediate | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eve Porcello]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Node.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is Node.js?** (3 videos)
+- **3. 2. Node Globals** (8 videos)
+- **4. 3. Node Modules** (7 videos)
+- **5. 4. File Management and Streams** (8 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning the Node.js basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980)
@@ -124,7 +122,7 @@ In this course, learn the essentials of Node.js and start creating your own Java
 > **Speakers:** - [instructor] (1)
 
 
-### 1. What Is Node.js?
+### 2. 1. What Is Node.js?
 
 #### Node.js history
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980)
@@ -209,7 +207,7 @@ In this course, learn the essentials of Node.js and start creating your own Java
 > **Analogies:** kind of like (1)
 
 
-### 2. Node Globals
+### 3. 2. Node Globals
 
 #### Inspecting the global object
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980)
@@ -861,7 +859,7 @@ In this course, learn the essentials of Node.js and start creating your own Java
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Node Modules
+### 4. 3. Node Modules
 
 #### Understanding core modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/understanding-core-modules?u=76281980)
@@ -1444,7 +1442,7 @@ In this course, learn the essentials of Node.js and start creating your own Java
 > **Speakers:** - [instructor] (1)
 
 
-### 4. File Management and Streams
+### 5. 4. File Management and Streams
 
 #### Listing directory files
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/listing-directory-files?u=76281980)
@@ -2193,7 +2191,7 @@ In this course, learn the essentials of Node.js and start creating your own Java
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### More training
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980)
@@ -2234,6 +2232,18 @@ In this course, learn the essentials of Node.js and start creating your own Java
 > **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Eve Porcello]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Node.js
 
 ## Path Context
 

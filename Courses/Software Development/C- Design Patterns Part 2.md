@@ -31,8 +31,10 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Design%20Patterns%20Part%202.md)
 
 ![C#: Design Patterns Part 2](https://media.licdn.com/dms/image/v2/C4E0DAQGZvQHGYeZ0Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618509686303?e=2147483647&amp;v=beta&amp;t=-V2x7OIgWecnWnjKybTAgqbBAuCo0DAfpNvn0dk2DW0)
 
@@ -43,23 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116) | 2h 4m | Intermediate | 21K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Richard Goforth]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/c-design-patterns-part-2-2873342)
-
-## Skills Covered
-
-- Software Design Patterns
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Observer** (5 videos)
+- **3. 2. Builder** (6 videos)
+- **4. 3. Command** (5 videos)
+- **5. 4. Proxy** (5 videos)
+- **6. 5. Chain of Responsibility** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Object-oriented design patterns in C#, part 2
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/object-oriented-design-patterns-in-c-sharp-part-2?u=76281980)
@@ -68,7 +66,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980)
 
 
-### 1. Observer
+### 2. 1. Observer
 
 #### Observer pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/observer-pattern-definition?u=76281980)
@@ -86,7 +84,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/solution-replace-a-direct-call-with-the-observer-pattern?u=76281980)
 
 
-### 2. Builder
+### 3. 2. Builder
 
 #### Builder pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/builder-pattern-definition?u=76281980)
@@ -107,7 +105,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/solution-fluent-order-builder?u=76281980)
 
 
-### 3. Command
+### 4. 3. Command
 
 #### Command pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/command-pattern-definition?u=76281980)
@@ -125,7 +123,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/solution-undo-with-the-command-pattern?u=76281980)
 
 
-### 4. Proxy
+### 5. 4. Proxy
 
 #### Proxy pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/proxy-pattern-definition?u=76281980)
@@ -143,7 +141,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/solution-proxy-facade?u=76281980)
 
 
-### 5. Chain of Responsibility
+### 6. 5. Chain of Responsibility
 
 #### Chain of Responsibility pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/chain-of-responsibility-pattern-definition?u=76281980)
@@ -164,11 +162,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/solution-chain-of-responsibility-grocery-list?u=76281980)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/next-steps?u=76281980)
 
+
+## Instructor
+
+- [[Richard Goforth]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/c-design-patterns-part-2-2873342)
+
+## Skills Covered
+
+- Software Design Patterns
+- C#
 
 ## Path Context
 

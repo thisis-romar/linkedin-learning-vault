@@ -40,8 +40,10 @@ tags:
   - skill/cloud-security
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Security%20Architecture%20for%20the%20Enterprise.md)
 
 ![Cloud Security Architecture for the Enterprise](https://media.licdn.com/dms/image/v2/D560DAQEXGp8d9-Sy6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1722548383745?e=2147483647&amp;v=beta&amp;t=iZSQ2GYGv6uLrwylOKHSesaJsXFcY5o03UAczmqQc3Y)
 
@@ -52,19 +54,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220) | 1h 16m | Advanced | 38K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Karl Ots]]
-
-## Skills Covered
-
-- Enterprise Architecture
-- Cloud Security
-- Identity and Access Management (IAM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Cloud Security Architecture** (4 videos)
+- **3. 2. Identity and Access Management** (6 videos)
+- **4. 3. Logging and Monitoring** (6 videos)
+- **5. 4. Cloud Network Security** (4 videos)
+- **6. 5. Communicating Across Teams** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Importance of cloud security architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/importance-of-cloud-security-architecture?u=76281980)
@@ -120,7 +122,7 @@ created: 2026-04-21
 > **Speakers:** - [karl] (1)
 
 
-### 1. Introduction to Cloud Security Architecture
+### 2. 1. Introduction to Cloud Security Architecture
 
 #### Cloud security architecture components
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980)
@@ -380,7 +382,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Identity and Access Management
+### 3. 2. Identity and Access Management
 
 #### Cloud identity providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980)
@@ -735,7 +737,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Logging and Monitoring
+### 4. 3. Logging and Monitoring
 
 #### Cloud security posture monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980)
@@ -1193,7 +1195,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Cloud Network Security
+### 5. 4. Cloud Network Security
 
 #### IaaS network controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980)
@@ -1446,7 +1448,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### 5. Communicating Across Teams
+### 6. 5. Communicating Across Teams
 
 #### Effective communication of cloud security designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980)
@@ -1621,7 +1623,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Learning more about cloud security architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980)
@@ -1665,6 +1667,16 @@ created: 2026-04-21
 > **Best Practices:** recommended (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Karl Ots]]
+
+## Skills Covered
+
+- Enterprise Architecture
+- Cloud Security
+- Identity and Access Management (IAM)
 
 ## Path Context
 

@@ -24,8 +24,10 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20AI-%20NLP%20Techniques%20for%20Clinical%20Datasets.md)
 
 ![Advanced AI: NLP Techniques for Clinical Datasets](https://media.licdn.com/dms/image/v2/D560DAQFLyC0idBGRFg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667324955293?e=2147483647&amp;v=beta&amp;t=TluUTDDPXcz8NA55vriTfe5sMM0Zc1G9gaYglWLzXlI)
 
@@ -36,13 +38,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets) | 43m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wuraola Oyewusi]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Clinical Named Entity Recognition (CNER)** (2 videos)
+- **3. 2. Clinical Entity Resolution** (3 videos)
+- **4. 3. Clinical Text Representation** (3 videos)
+- **5. 4. Transformers for Clinical Text** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Use NLP techniques for your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/use-nlp-techniques-for-your-data?u=76281980)
@@ -112,7 +119,7 @@ created: 2026-04-21
 > **Non-Speech:** (mouse clicking) (1)
 
 
-### 1. Clinical Named Entity Recognition (CNER)
+### 2. 1. Clinical Named Entity Recognition (CNER)
 
 #### What is clinical named entity recognition (CNER)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980)
@@ -261,7 +268,7 @@ created: 2026-04-21
 > **Documentation:** specification (1)
 
 
-### 2. Clinical Entity Resolution
+### 3. 2. Clinical Entity Resolution
 
 #### What is clinical entity resolution?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980)
@@ -447,7 +454,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Clinical Text Representation
+### 4. 3. Clinical Text Representation
 
 #### What is clinical text representation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980)
@@ -658,7 +665,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 4. Transformers for Clinical Text
+### 5. 4. Transformers for Clinical Text
 
 #### What are transformers?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980)
@@ -840,7 +847,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/next-steps?u=76281980)
@@ -861,6 +868,10 @@ created: 2026-04-21
 >
 > **Speakers:** - [wuraola] (1)
 
+
+## Instructor
+
+- [[Wuraola Oyewusi]]
 
 ## Path Context
 

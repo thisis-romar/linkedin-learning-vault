@@ -28,8 +28,10 @@ tags:
   - skill/user-experience-ux
   - skill/principle-for-mac
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Principle%20for%20UX%20Design.md)
 
 ![Principle for UX Design](https://media.licdn.com/dms/image/v2/D560DAQE0PyG36XKe-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691431562795?e=2147483647&amp;v=beta&amp;t=N-iXDePBE29bwTSXoEz5qtWBDP-WW2YI3jT82PPT3ug)
 
@@ -40,23 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376) | 3h 13m | 11K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tom Green]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- User Interface Prototyping
-- User Experience (UX)
-- Principle for Mac
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started with Principle** (10 videos)
+- **3. 2. Managing Content in Principle** (7 videos)
+- **4. 3. Using the Principle Timeline** (7 videos)
+- **5. 4. Using the Principle Drivers** (5 videos)
+- **6. 5. Practical Principle Projects** (11 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### What is Principle?
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-is-principle?u=76281980)
@@ -101,7 +99,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with Principle
+### 2. 1. Getting Started with Principle
 
 #### Review of the Principle interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/review-of-the-principle-interface?u=76281980)
@@ -1014,7 +1012,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Managing Content in Principle
+### 3. 2. Managing Content in Principle
 
 #### What Principle doesn't do
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-principle-doesn-t-do?u=76281980)
@@ -1765,7 +1763,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Using the Principle Timeline
+### 4. 3. Using the Principle Timeline
 
 #### Understand the timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980)
@@ -2508,7 +2506,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Using the Principle Drivers
+### 5. 4. Using the Principle Drivers
 
 #### Overview of Driver channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/overview-of-driver-channel?u=76281980)
@@ -2968,7 +2966,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 5. Practical Principle Projects
+### 6. 5. Practical Principle Projects
 
 #### Create a drag-and-drop effect
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-drag-and-drop-effect?u=76281980)
@@ -4375,7 +4373,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/next-steps?u=76281980)
@@ -4427,6 +4425,20 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Tom Green]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- User Interface Prototyping
+- User Experience (UX)
+- Principle for Mac
 
 ## Path Context
 

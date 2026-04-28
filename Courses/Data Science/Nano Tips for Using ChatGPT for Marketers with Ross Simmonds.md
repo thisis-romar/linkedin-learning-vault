@@ -32,32 +32,27 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nano%20Tips%20for%20Using%20ChatGPT%20for%20Marketers%20with%20Ross%20Simmonds.md)
 
 ![Nano Tips for Using ChatGPT for Marketers with Ross Simmonds](https://media.licdn.com/dms/image/v2/D4D0DAQHVpQyMe5jlww/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707176262296?e=2147483647&amp;v=beta&amp;t=KaS6XyA-2MCaVUB4LqJCHU-7cBc5aHdso57bgURijJc)
 
 # Nano Tips for Using ChatGPT for Marketers with Ross Simmonds
 
-> Welcome to our Nano Tips series, where LinkedIn Learning creators deliver impactful lessons in literally seconds.  In this course, content marketing expert Ross Simmonds shares tips on how to use ChatGPT for your marketing needs. Get an introduction to how ChatGPT and AI in general can help marketers. Learn how to write effective prompts, the importance of giving context in prompts, and how to ens
+> Welcome to our Nano Tips series, where LinkedIn Learning creators deliver impactful lessons in literally seconds. In this course, content marketing expert Ross Simmonds shares tips on how to use ChatGPT for your marketing needs. Get an introduction to how ChatGPT and AI in general can help marketers. Learn how to write effective prompts, the importance of giving context in prompts, and how to ensu
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds) | 10m | 51K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ross Simmonds]]
-
-## Skills Covered
-
-- AI for Business
-- Digital Marketing
-- Artificial Intelligence (AI)
-- ChatGPT
-
 ## Table of Contents
 
-### Marketing with ChatGPT
+### Chapter Overview
+
+- **1. Marketing with ChatGPT** (10 videos)
+
+### 1. Marketing with ChatGPT
 
 #### Introduction to ChatGPT and AI for marketers
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/introduction-to-chatgpt-and-ai-for-marketers?u=76281980)
@@ -341,6 +336,17 @@ created: 2026-04-21
 > **Speakers:** - here (1)
 > **Non-Speech:** (light upbeat music) (1)
 
+
+## Instructor
+
+- [[Ross Simmonds]]
+
+## Skills Covered
+
+- AI for Business
+- Digital Marketing
+- Artificial Intelligence (AI)
+- ChatGPT
 
 ## Path Context
 

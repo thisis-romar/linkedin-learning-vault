@@ -28,8 +28,10 @@ tags:
   - skill/control-flow
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C%20Sharp%20Essential%20Training%201%20Types%20And%20Control%20Flow.md)
 
 ![C Sharp Essential Training 1 Types And Control Flow](https://media.licdn.com/dms/image/v2/D560DAQHrULBndWclgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1702408532921?e=2147483647&amp;v=beta&amp;t=gw_wwiJC83BwTC2GOWAnwJSGoF20lpXPKgqT1bBomXU)
 
@@ -40,18 +42,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow) | Beginner | 231K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Control Flow
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. C# in Context of .NET** (5 videos)
+- **3. 2. Working with Classes, Structs, and Records** (9 videos)
+- **4. 3. Organizing C# Code** (4 videos)
+- **5. 4. Variables Revisited** (5 videos)
+- **6. 5. Working with Enums and Nullables** (9 videos)
+- **7. 6. Using Patterns in Control Flow** (8 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Explore the essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/explore-the-essentials?u=76281980)
@@ -179,7 +183,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. C# in Context of .NET
+### 2. 1. C# in Context of .NET
 
 #### C# compiles to MSIL
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980)
@@ -462,7 +466,7 @@ created: 2026-04-21
 > **Speakers:** - [matt] (1)
 
 
-### 2. Working with Classes, Structs, and Records
+### 3. 2. Working with Classes, Structs, and Records
 
 #### Understanding classes, structs, and records
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-classes-structs-and-records?u=76281980)
@@ -1569,7 +1573,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Organizing C# Code
+### 4. 3. Organizing C# Code
 
 #### Using namespaces to organize code
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-namespaces-to-organize-code?u=76281980)
@@ -1911,7 +1915,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Variables Revisited
+### 5. 4. Variables Revisited
 
 #### Declaring variables using types
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/declaring-variables-using-types?u=76281980)
@@ -2167,7 +2171,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Working with Enums and Nullables
+### 6. 5. Working with Enums and Nullables
 
 #### Defining enums
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/defining-enums?u=76281980)
@@ -2875,7 +2879,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Using Patterns in Control Flow
+### 7. 6. Using Patterns in Control Flow
 
 #### If and switch revisited
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/if-and-switch-revisited?u=76281980)
@@ -3683,7 +3687,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Learn more and build something
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980)
@@ -3719,6 +3723,15 @@ created: 2026-04-21
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [matt] (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Control Flow
+- C#
 
 ## Path Context
 

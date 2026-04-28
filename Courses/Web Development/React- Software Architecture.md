@@ -31,8 +31,10 @@ tags:
   - skill/software-architecture
   - skill/react-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Software%20Architecture.md)
 
 ![React: Software Architecture](https://media.licdn.com/dms/image/v2/C560DAQEqEra1U0CNQw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628621782938?e=2147483647&amp;v=beta&amp;t=8O9rfJjLOmUPE4t6TqPra9hHba9t64PlqB9KvE8TNuk)
 
@@ -43,23 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture) | 2h 43m | Intermediate | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Shaun Wassell]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/react-software-architecture-2884265)
-
-## Skills Covered
-
-- Software Architecture
-- React.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Software Architecture Basics** (1 videos)
+- **3. 2. Server-Side Rendering (SSR)** (7 videos)
+- **4. 3. State Management Architecture** (10 videos)
+- **5. 4. Data Loading and WebSockets** (4 videos)
+- **6. 5. Code Splitting** (4 videos)
+- **7. 6. Folder Structure and Naming Conventions** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn software architecture with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/learn-software-architecture-with-react?u=76281980)
@@ -111,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Software Architecture Basics
+### 2. 1. Software Architecture Basics
 
 #### What is software architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980)
@@ -209,7 +208,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Server-Side Rendering (SSR)
+### 3. 2. Server-Side Rendering (SSR)
 
 #### Server-side rendering basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980)
@@ -882,7 +881,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. State Management Architecture
+### 4. 3. State Management Architecture
 
 #### What is state management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980)
@@ -2092,7 +2091,7 @@ created: 2026-04-21
 > **Env Vars:** npm (1)
 
 
-### 4. Data Loading and WebSockets
+### 5. 4. Data Loading and WebSockets
 
 #### When should we load data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980)
@@ -2570,7 +2569,7 @@ created: 2026-04-21
 > **URLs:** [http://localhost:8080/api/articles](http://localhost:8080/api/articles) (1)
 
 
-### 5. Code Splitting
+### 6. 5. Code Splitting
 
 #### Code splitting basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980)
@@ -3048,7 +3047,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### 6. Folder Structure and Naming Conventions
+### 7. 6. Folder Structure and Naming Conventions
 
 #### Function vs. feature-based organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/function-vs-feature-based-organization?u=76281980)
@@ -3221,7 +3220,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980)
@@ -3257,6 +3256,20 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Shaun Wassell]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/react-software-architecture-2884265)
+
+## Skills Covered
+
+- Software Architecture
+- React.js
 
 ## Path Context
 

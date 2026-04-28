@@ -29,8 +29,10 @@ tags:
   - skill/sql-injection
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20SQL%20Injection.md)
 
 ![Ethical Hacking: SQL Injection](https://media.licdn.com/dms/image/v2/C4D0DAQFjzkwOhEHRkA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635179468495?e=2147483647&amp;v=beta&amp;t=wjDhneIXwCuOs1LgVGK-b9o8Bi8_ZTxQ06gni-AZMSU)
 
@@ -41,22 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection) | 1h 45m | Intermediate | 44K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- SQL Injection
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. SQL Basics** (4 videos)
+- **3. 2. Testing for SQL Injections** (6 videos)
+- **4. 3. Automating SQL Injection Exploits** (10 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding how SQL injections work
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/understanding-how-sql-injections-work?u=76281980)
@@ -140,7 +137,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. SQL Basics
+### 2. 1. SQL Basics
 
 #### Starting with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980)
@@ -457,7 +454,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 2. Testing for SQL Injections
+### 3. 2. Testing for SQL Injections
 
 #### Checking out the Security Shepherd
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980)
@@ -1106,7 +1103,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Automating SQL Injection Exploits
+### 4. 3. Automating SQL Injection Exploits
 
 #### Inferring TRUE when blind
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inferring-true-when-blind?u=76281980)
@@ -2003,7 +2000,7 @@ created: 2026-04-21
 > **Tools:** github (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980)
@@ -2044,6 +2041,19 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- SQL Injection
+- Ethical Hacking
 
 ## Path Context
 

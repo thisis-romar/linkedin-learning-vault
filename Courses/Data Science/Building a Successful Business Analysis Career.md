@@ -28,8 +28,10 @@ tags:
   - skill/career-path-planning
   - skill/business-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20a%20Successful%20Business%20Analysis%20Career.md)
 
 ![Building a Successful Business Analysis Career](https://media.licdn.com/dms/image/v2/D560DAQE99rczPvp5Yw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1707525791244?e=2147483647&amp;v=beta&amp;t=bIfz1UBwxSPvnULIKN-rnpUhoO82GpRXSpB_aTmeQ5s)
 
@@ -40,22 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career) | 1h 4m | 171K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Laura Paton]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Career Path Planning
-- Business Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Overview of the Business Analysis Profession** (4 videos)
+- **3. 2. Strategize: Develop Your Career Strategy** (4 videos)
+- **4. 3. Plan: Create Your Career Development Plan** (3 videos)
+- **5. 4. Act: Locate Opportunities to Expand Your Skills and Experience** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Taking charge of your business analysis career
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/taking-charge-of-your-business-analysis-career?u=76281980)
@@ -84,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. Overview of the Business Analysis Profession
+### 2. 1. Overview of the Business Analysis Profession
 
 #### What is business analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/what-is-business-analysis?u=76281980)
@@ -405,7 +403,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 2. Strategize: Develop Your Career Strategy
+### 3. 2. Strategize: Develop Your Career Strategy
 
 #### Identify your business analysis career goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/identify-your-business-analysis-career-goals?u=76281980)
@@ -705,7 +703,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 3. Plan: Create Your Career Development Plan
+### 4. 3. Plan: Create Your Career Development Plan
 
 #### Find what motivates you as a business analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/find-what-motivates-you-as-a-business-analyst?u=76281980)
@@ -964,7 +962,7 @@ created: 2026-04-21
 > **Speakers:** - throughout (1)
 
 
-### 4. Act: Locate Opportunities to Expand Your Skills and Experience
+### 5. 4. Act: Locate Opportunities to Expand Your Skills and Experience
 
 #### Opportunities to expand business analysis experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980)
@@ -1288,7 +1286,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Owning your business analysis career
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/owning-your-business-analysis-career?u=76281980)
@@ -1327,6 +1325,19 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Laura Paton]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Career Path Planning
+- Business Analysis
 
 ## Path Context
 

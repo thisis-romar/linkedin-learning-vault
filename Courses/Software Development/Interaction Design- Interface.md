@@ -21,8 +21,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Interface.md)
 
 ![Interaction Design: Interface](https://media.licdn.com/dms/image/v2/C560DAQECii31G8YVyw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1584560440611?e=2147483647&amp;v=beta&amp;t=D8DuVgAMVvTeDXCfVpBNGZ3hKFvD4Lg_GWKouaFh7-U)
 
@@ -33,13 +35,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface) | 32m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Diane Cronenwett]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Visual Principles** (4 videos)
+- **3. 2. Visual Interface Design** (4 videos)
+- **4. 3. Taking Visual Design Further** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introducing the interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/introducing-the-interface?u=76281980)
@@ -67,7 +73,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 1. Visual Principles
+### 2. 1. Visual Principles
 
 #### Aesthetics in user interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980)
@@ -330,7 +336,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 2. Visual Interface Design
+### 3. 2. Visual Interface Design
 
 #### Grids and information density
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/grids-and-information-density?u=76281980)
@@ -608,7 +614,7 @@ created: 2026-04-21
 > **Speakers:** - principles (1)
 
 
-### 3. Taking Visual Design Further
+### 4. 3. Taking Visual Design Further
 
 #### Incorporate illustrations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980)
@@ -794,7 +800,7 @@ created: 2026-04-21
 > **Speakers:** - animation (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Take the interface further
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/take-the-interface-further?u=76281980)
@@ -821,6 +827,10 @@ created: 2026-04-21
 >
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Diane Cronenwett]]
 
 ## Path Context
 

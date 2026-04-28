@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/active-listening
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Effective%20Listening%20(2019).md)
 
 ![Effective Listening (2019)](https://media.licdn.com/dms/image/v2/C560DAQHUTQHthCYmTQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1658272574632?e=2147483647&amp;v=beta&amp;t=ayfSTJ6NwaT2kWyCyMZgJBieLgt5W2vFRdttiwFUDoU)
 
@@ -41,22 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019) | 1h 4m | 611K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Tatiana Kolovou]]
-- [[Brenda Bailey Hughes]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Active Listening
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Assessing Your Listening Skills** (7 videos)
+- **3. 2. Challenges to Listening** (5 videos)
+- **4. 3. Effective Listening Behaviors** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Improve your listening skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/improve-your-listening-skills?u=76281980)
@@ -139,7 +136,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Assessing Your Listening Skills
+### 2. 1. Assessing Your Listening Skills
 
 #### Five skills for improved listening
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/five-skills-for-improved-listening?u=76281980)
@@ -706,7 +703,7 @@ created: 2026-04-21
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 
 
-### 2. Challenges to Listening
+### 3. 2. Challenges to Listening
 
 #### Getting distracted by internal noise
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/getting-distracted-by-internal-noise-2?u=76281980)
@@ -1316,7 +1313,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 
 
-### 3. Effective Listening Behaviors
+### 4. 3. Effective Listening Behaviors
 
 #### Effective listening behaviors
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/effective-listening-behaviors?u=76281980)
@@ -1760,7 +1757,7 @@ created: 2026-04-21
 > **Speakers:** - okay (3), - i (3), - yes (2), - yeah (2), - now (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Setting listening goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/setting-listening-goals-2?u=76281980)
@@ -1848,6 +1845,19 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
 
+
+## Instructor
+
+- [[Tatiana Kolovou]]
+- [[Brenda Bailey Hughes]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Active Listening
 
 ## Path Context
 

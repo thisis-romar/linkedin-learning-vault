@@ -34,8 +34,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Google%20Cloud%20Platform%20for%20Machine%20Learning%20Essential%20Training.md)
 
 ![Google Cloud Platform for Machine Learning Essential Training](https://media.licdn.com/dms/image/v2/D560DAQFBMEg-zgdgzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708645009439?e=2147483647&amp;v=beta&amp;t=VofyB7kbTxUhSBsX5vcvxtDjPxbCM5BuY-Iy36SWdG8)
 
@@ -46,19 +48,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382) | 1h 35m | Beginner | 16K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lynn Langit]]
-
-## Skills Covered
-
-- Machine Learning
-- Artificial Intelligence (AI)
-- Google Cloud Platform (GCP)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Vertex AI Studio** (7 videos)
+- **3. 2. Vertex AI Notebooks** (7 videos)
+- **4. 3. Model Development** (5 videos)
+- **5. 4. Model Deployment** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### GCP and Machine Learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980)
@@ -154,7 +155,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 1. Vertex AI Studio
+### 2. 1. Vertex AI Studio
 
 #### Use Vertex AI Model Garden
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980)
@@ -731,7 +732,7 @@ created: 2026-04-21
 > **API Endpoints:** get  (1)
 
 
-### 2. Vertex AI Notebooks
+### 3. 2. Vertex AI Notebooks
 
 #### Understand available services
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980)
@@ -1333,7 +1334,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 3. Model Development
+### 4. 3. Model Development
 
 #### Understand Vector Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980)
@@ -1703,7 +1704,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 4. Model Deployment
+### 5. 4. Model Deployment
 
 #### Use the model registry
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980)
@@ -2270,7 +2271,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980)
@@ -2322,6 +2323,16 @@ created: 2026-04-21
 > **CLI Commands:** find (1)
 > **Exercise Files:** github repo (1)
 
+
+## Instructor
+
+- [[Lynn Langit]]
+
+## Skills Covered
+
+- Machine Learning
+- Artificial Intelligence (AI)
+- Google Cloud Platform (GCP)
 
 ## Path Context
 

@@ -36,8 +36,10 @@ tags:
   - skill/ethereum
   - skill/application-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%202%20Introduction%20to%20Ethereum.md)
 
 ![Building an Ethereum Blockchain App: 2 Introduction to Ethereum](https://media.licdn.com/dms/image/v2/C560DAQHIlm0ceayLYQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628184029599?e=2147483647&amp;v=beta&amp;t=JflYOVbsW2x9R454TLJ-icVT3g-4wB2ElxJ5hcwk_DQ)
 
@@ -48,23 +50,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum) | 47m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Solomon]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Blockchain
-- Ethereum
-- Application Development
-
 ## Table of Contents
 
-### 1. What Is Ethereum?
+### Chapter Overview
+
+- **1. 1. What Is Ethereum?** (10 videos)
+
+### 1. 1. What Is Ethereum?
 
 #### Introduction to Ethereum
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980)
@@ -1159,6 +1151,20 @@ created: 2026-04-21
 > **Env Vars:** pin (1)
 > **Speakers:** - before (1)
 
+
+## Instructor
+
+- [[Michael Solomon]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Blockchain
+- Ethereum
+- Application Development
 
 ## Path Context
 

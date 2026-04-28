@@ -31,8 +31,10 @@ tags:
   - skill/python-programming-language
   - skill/unit-testing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Unit%20Testing%20in%20Python.md)
 
 ![Unit Testing in Python](https://media.licdn.com/dms/image/v2/C4E0DAQHWDGkTmekVlg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1619134209417?e=2147483647&amp;v=beta&amp;t=ZNDO58GhiNdg2mXCnDdbSzvfj65HO68HJoTNx83bPt0)
 
@@ -43,23 +45,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python) | 1h 31m | Advanced | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jasmine Omeke]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/coding-geographies/dockerized-pytest-course)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Unit Testing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1.  Installation and Setup** (3 videos)
+- **3. 2. Overview of Test-Driven Development and Pytest Features** (7 videos)
+- **4. 3. Test Automation with Fixtures and Parametrization** (5 videos)
+- **5. 4. Organizing Your Pytest Project** (2 videos)
+- **6. 5. Using Pytest with an Existing Project** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Python unit testing with pytest
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980)
@@ -272,7 +270,7 @@ created: 2026-04-21
 > **URLs:** [github.com](https://github.com) (1)
 
 
-### 1.  Installation and Setup
+### 2. 1.  Installation and Setup
 
 #### Docker and VS Code (Mac)
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-mac?u=76281980)
@@ -585,7 +583,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 2. Overview of Test-Driven Development and Pytest Features
+### 3. 2. Overview of Test-Driven Development and Pytest Features
 
 #### Overview of TDD
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980)
@@ -1478,7 +1476,7 @@ created: 2026-04-21
 > **File Paths:** start.py (1)
 
 
-### 3. Test Automation with Fixtures and Parametrization
+### 4. 3. Test Automation with Fixtures and Parametrization
 
 #### Fixtures to amortize costly operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/fixtures-to-amortize-costly-operations?u=76281980)
@@ -1908,7 +1906,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Organizing Your Pytest Project
+### 5. 4. Organizing Your Pytest Project
 
 #### Using Conftest.py for common functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/using-conftest-py-for-common-functions?u=76281980)
@@ -2035,7 +2033,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Using Pytest with an Existing Project
+### 6. 5. Using Pytest with an Existing Project
 
 #### Reading tests to surmise understand behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980)
@@ -2224,7 +2222,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980)
@@ -2264,6 +2262,20 @@ created: 2026-04-21
 > **Documentation:** the readme (1)
 > **Tools:** github (1)
 
+
+## Instructor
+
+- [[Jasmine Omeke]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/coding-geographies/dockerized-pytest-course)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Unit Testing
 
 ## Path Context
 

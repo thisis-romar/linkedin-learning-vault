@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/search-engine-optimization-seo
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SEO%20Foundations.md)
 
 ![SEO Foundations](https://media.licdn.com/dms/image/v2/C560DAQFcaT0OrfFkgg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651603813925?e=2147483647&amp;v=beta&amp;t=DzhR43s2JaWsBMj857tzPBuHEztpctQt9lZen-U-uH4)
 
@@ -40,21 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080) | 1h 41m | Beginner | 124K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Booth]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Search Engine Optimization (SEO)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Overview of SEO** (3 videos)
+- **3. 2. Keywords: The Foundation of SEO** (3 videos)
+- **4. 3. Content Optimization for SEO: How Search Engines and People View Webpages** (3 videos)
+- **5. 4. Content Optimization: Technical SEO** (7 videos)
+- **6. 5. Links, Measurement, and AI for SEO** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Leveraging search to accomplish your business goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980)
@@ -97,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - search (1)
 
 
-### 1. Overview of SEO
+### 2. 1. Overview of SEO
 
 #### What is search engine optimization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980)
@@ -276,7 +276,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 2. Keywords: The Foundation of SEO
+### 3. 2. Keywords: The Foundation of SEO
 
 #### Planning and researching your SEO keywords
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980)
@@ -519,7 +519,7 @@ created: 2026-04-21
 > **Speakers:** - keyword (1)
 
 
-### 3. Content Optimization for SEO: How Search Engines and People View Webpages
+### 4. 3. Content Optimization for SEO: How Search Engines and People View Webpages
 
 #### Outlining content optimization
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-content-optimization?u=76281980)
@@ -830,7 +830,7 @@ created: 2026-04-21
 > **Cross-References:** later in (1)
 
 
-### 4. Content Optimization: Technical SEO
+### 5. 4. Content Optimization: Technical SEO
 
 #### Interpreting the code behind webpages for SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980)
@@ -1452,7 +1452,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 5. Links, Measurement, and AI for SEO
+### 6. 5. Links, Measurement, and AI for SEO
 
 #### Outlining the importance of links for SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-the-importance-of-links-for-seo?u=76281980)
@@ -1965,7 +1965,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Using your SEO foundational knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980)
@@ -1998,6 +1998,18 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - hopefully (1)
 
+
+## Instructor
+
+- [[David Booth]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Search Engine Optimization (SEO)
 
 ## Path Context
 

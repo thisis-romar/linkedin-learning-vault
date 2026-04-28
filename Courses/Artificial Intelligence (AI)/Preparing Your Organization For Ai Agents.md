@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/organizational-change-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Preparing%20Your%20Organization%20For%20Ai%20Agents.md)
 
 ![Preparing Your Organization For Ai Agents](https://media.licdn.com/dms/image/v2/D560DAQGfBniDoj9Rrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729786631991?e=2147483647&amp;v=beta&amp;t=ve29VFiS3XMdQZlehVOGQ8aQu49nQahVfH3DMATky04)
 
@@ -45,21 +47,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents) | Intermediate | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Business Leadership
-- AI for Business
-- AI Agents
-- Artificial Intelligence (AI)
-- Organizational Change Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. How AI Agents Will Change Business** (7 videos)
+- **3. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Leading AI-driven change
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/leading-ai-driven-change-26926353?u=76281980)
@@ -189,7 +185,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 1. How AI Agents Will Change Business
+### 2. 1. How AI Agents Will Change Business
 
 #### Accelerating organizational change with AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/accelerating-organizational-change-with-ai-agents?u=76281980)
@@ -596,7 +592,7 @@ created: 2026-04-21
 > **Speakers:** - sales (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Preparing for a future with AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/preparing-for-a-future-with-ai-agents?u=76281980)
@@ -734,6 +730,18 @@ created: 2026-04-21
 > **URLs:** [intelligence-briefing.com](https://intelligence-briefing.com) (1)
 > **Speakers:** - now (1)
 
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Business Leadership
+- AI for Business
+- AI Agents
+- Artificial Intelligence (AI)
+- Organizational Change Management
 
 ## Path Context
 

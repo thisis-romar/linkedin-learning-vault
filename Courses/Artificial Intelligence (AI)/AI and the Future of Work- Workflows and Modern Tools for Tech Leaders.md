@@ -36,8 +36,10 @@ tags:
   - skill/ai-for-leadership
   - skill/workflow-optimization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20and%20the%20Future%20of%20Work-%20Workflows%20and%20Modern%20Tools%20for%20Tech%20Leaders.md)
 
 ![AI and the Future of Work: Workflows and Modern Tools for Tech Leaders](https://media.licdn.com/dms/image/v2/D560DAQG88a9vCjXU8g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704926852842?e=2147483647&amp;v=beta&amp;t=TlQ-PbQlnMaeK7Agf4Q5ddyuN9uCYjfO2jbIdHsOoUc)
 
@@ -48,24 +50,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders) | 1h 5m | 726K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kristen Kehrer]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Technical Leadership
-- Artificial Intelligence (AI)
-- AI for Leadership
-- Workflow Optimization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Streamlining AI Workflows with Modern Tools** (8 videos)
+- **3. 2. Developing Future-Ready AI Skills** (5 videos)
+- **4. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/welcome?u=76281980)
@@ -143,7 +137,7 @@ created: 2026-04-21
 > **Warnings:** troubleshoot (1)
 
 
-### 1. Streamlining AI Workflows with Modern Tools
+### 2. 1. Streamlining AI Workflows with Modern Tools
 
 #### Data versioning and management
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980)
@@ -654,7 +648,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### 2. Developing Future-Ready AI Skills
+### 3. 2. Developing Future-Ready AI Skills
 
 #### Assessing and upskilling existing teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980)
@@ -1025,7 +1019,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Recap of key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980)
@@ -1136,6 +1130,21 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Best Practices:** best practice (1)
 
+
+## Instructor
+
+- [[Kristen Kehrer]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Technical Leadership
+- Artificial Intelligence (AI)
+- AI for Leadership
+- Workflow Optimization
 
 ## Path Context
 

@@ -30,8 +30,10 @@ tags:
   - topic/network-and-system-administration
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Python%20Quick%20Start.md)
 
 ![Python Quick Start](https://media.licdn.com/dms/image/v2/D560DAQHP-DG4orZQrA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690569966950?e=2147483647&amp;v=beta&amp;t=BMSNt4_Ezlt_qzgQV-q0RMgLs0HBzKiUDm4ZatuL3gA)
 
@@ -42,22 +44,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553) | 1h 47m | Beginner | 100K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lavanya Vijayan]]
-- [[Madecraft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Defining Python** (4 videos)
+- **3. 2. Working with Data in Python** (3 videos)
+- **4. 3. Using Functions in Python** (5 videos)
+- **5. 4. Leveraging Sequences in Python** (3 videos)
+- **6. 5. Using Conditional Statements in Python** (4 videos)
+- **7. 6. Working with Iteration in Python** (3 videos)
+- **8. 7. Using Recursive Functions in Python** (2 videos)
+- **9. 8. Object-Oriented Programming in Python** (2 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Advancing your career with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980)
@@ -89,7 +91,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 1. Defining Python
+### 2. 1. Defining Python
 
 #### Demystifying Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980)
@@ -229,7 +231,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 2. Working with Data in Python
+### 3. 2. Working with Data in Python
 
 #### Setting up your Python environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/setting-up-your-python-environment?u=76281980)
@@ -482,7 +484,7 @@ created: 2026-04-21
 > **Definitions:** known as (2)
 
 
-### 3. Using Functions in Python
+### 4. 3. Using Functions in Python
 
 #### Defining functions in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-functions-in-python?u=76281980)
@@ -1038,7 +1040,7 @@ created: 2026-04-21
 > **Versions:** 7.0 (1)
 
 
-### 4. Leveraging Sequences in Python
+### 5. 4. Leveraging Sequences in Python
 
 #### Defining sequences
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-sequences?u=76281980)
@@ -1318,7 +1320,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 5. Using Conditional Statements in Python
+### 6. 5. Using Conditional Statements in Python
 
 #### Defining conditional statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-conditional-statements?u=76281980)
@@ -1775,7 +1777,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (2)
 
 
-### 6. Working with Iteration in Python
+### 7. 6. Working with Iteration in Python
 
 #### Defining iteration
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980)
@@ -2053,7 +2055,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 7. Using Recursive Functions in Python
+### 8. 7. Using Recursive Functions in Python
 
 #### Demystifying recursive functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-recursive-functions?u=76281980)
@@ -2243,7 +2245,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 8. Object-Oriented Programming in Python
+### 9. 8. Object-Oriented Programming in Python
 
 #### What is object-oriented programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980)
@@ -2507,7 +2509,7 @@ created: 2026-04-21
 > **CLI Commands:** python (1), make (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980)
@@ -2547,6 +2549,19 @@ created: 2026-04-21
 > **URLs:** [pythoncheatsheet.org](https://pythoncheatsheet.org) (1)
 > **Analogies:** such as (1)
 
+
+## Instructor
+
+- [[Lavanya Vijayan]]
+- [[Madecraft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Python (Programming Language)
 
 ## Path Context
 

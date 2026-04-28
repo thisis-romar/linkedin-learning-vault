@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/scala
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Scala%20Essential%20Training.md)
 
 ![Scala Essential Training](https://media.licdn.com/dms/image/v2/D560DAQFScGwBIa6BMw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705536093368?e=2147483647&amp;v=beta&amp;t=fstQayQRs0vRnSiWI7QKfopEFavVeld4S02SxmANd_0)
 
@@ -41,17 +43,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023) | 4h 43m | Intermediate | 15K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rock the JVM]]
-
-## Skills Covered
-
-- Scala
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Scala Basics** (8 videos)
+- **3. 2. Object-Oriented Programming in Scala** (11 videos)
+- **4. 3. Functional Programming in Scala** (9 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980)
@@ -276,7 +278,7 @@ created: 2026-04-21
 > **URLs:** [rockthejvm.com](https://rockthejvm.com) (2), [jetbrains.com](https://jetbrains.com) (2)
 
 
-### 1. Scala Basics
+### 2. 1. Scala Basics
 
 #### Values and types
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980)
@@ -1789,7 +1791,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### 2. Object-Oriented Programming in Scala
+### 3. 2. Object-Oriented Programming in Scala
 
 #### Classes, instances, fields, and methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980)
@@ -3978,7 +3980,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Functional Programming in Scala
+### 4. 3. Functional Programming in Scala
 
 #### Functional programming basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/functional-programming-basics?u=76281980)
@@ -5846,7 +5848,7 @@ created: 2026-04-21
 > **Cross-References:** in the next (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Recap and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/recap-and-next-steps?u=76281980)
@@ -5867,6 +5869,14 @@ created: 2026-04-21
 > **URLs:** [rockthejvm.com](https://rockthejvm.com) (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Rock the JVM]]
+
+## Skills Covered
+
+- Scala
 
 ## Path Context
 

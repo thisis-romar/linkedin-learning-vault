@@ -35,8 +35,10 @@ tags:
   - skill/data-engineering
   - skill/data-build-tool-dbt
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Engineering%20With%20Dbt.md)
 
 ![Data Engineering With Dbt](https://media.licdn.com/dms/image/v2/D4D0DAQHdm3MaltG0tQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1705703016484?e=2147483647&amp;v=beta&amp;t=TpQ4mLz6kbZRiQ2WfE3FhJpxiuEIu7iemWGnDlGaTmA)
 
@@ -47,23 +49,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt) | Intermediate | 141K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mark Freeman]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/data-engineering-with-data-build-tool-dbt-4458303/codespaces)
-
-## Skills Covered
-
-- Data Engineering
-- Data Build Tool (DBT)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Prepare Your Coding Environment** (4 videos)
+- **3. 2. Prepare Your Database Environment** (2 videos)
+- **4. 3. Create a dbt Project** (1 videos)
+- **5. 4. Prepare Your dbt Environment** (3 videos)
+- **6. 5. Your First dbt Model** (2 videos)
+- **7. 6. Introduction to dbt Ref Function** (3 videos)
+- **8. 7. Implementing Medallion Architecture with dbt** (4 videos)
+- **9. 8. Materialization of dbt Models** (2 videos)
+- **10. 9. Documentation as Code via dbt** (2 videos)
+- **11. 10. Implementing Tests within Your dbt Project** (2 videos)
+- **12. 11. Deploying Your dbt Project** (2 videos)
+- **13. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Build your first dbt project
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980)
@@ -190,7 +194,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Prepare Your Coding Environment
+### 2. 1. Prepare Your Coding Environment
 
 #### Install the dbt Core via pip
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-core-via-pip?u=76281980)
@@ -324,7 +328,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Prepare Your Database Environment
+### 3. 2. Prepare Your Database Environment
 
 #### Create your database file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980)
@@ -483,7 +487,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 3. Create a dbt Project
+### 4. 3. Create a dbt Project
 
 #### Start your project with dbt init
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/start-your-project-with-dbt-init?u=76281980)
@@ -530,7 +534,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Prepare Your dbt Environment
+### 5. 4. Prepare Your dbt Environment
 
 #### Understand the dbt_project.yml file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/understand-the-dbt-project-yml-file?u=76281980)
@@ -711,7 +715,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Your First dbt Model
+### 6. 5. Your First dbt Model
 
 #### Create your first dbt model file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-first-dbt-model-file?u=76281980)
@@ -864,7 +868,7 @@ created: 2026-04-21
 > **Warnings:** heads up (1)
 
 
-### 6. Introduction to dbt Ref Function
+### 7. 6. Introduction to dbt Ref Function
 
 #### Create your dbt model utilizing ref
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-dbt-model-utilizing-ref?u=76281980)
@@ -1028,7 +1032,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Implementing Medallion Architecture with dbt
+### 8. 7. Implementing Medallion Architecture with dbt
 
 #### Planning your medallion architecture project
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/planning-your-medallion-architecture-project?u=76281980)
@@ -1358,7 +1362,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Materialization of dbt Models
+### 9. 8. Materialization of dbt Models
 
 #### Materialization in your dbt project
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/materialization-in-your-dbt-project?u=76281980)
@@ -1462,7 +1466,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Documentation as Code via dbt
+### 10. 9. Documentation as Code via dbt
 
 #### Further documentation via schema.yml file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/further-documentation-via-schema-yml-file?u=76281980)
@@ -1627,7 +1631,7 @@ created: 2026-04-21
 > **Code Identifiers:** violation_code (1)
 
 
-### 10. Implementing Tests within Your dbt Project
+### 11. 10. Implementing Tests within Your dbt Project
 
 #### Creating custom singular tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980)
@@ -1832,7 +1836,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 11. Deploying Your dbt Project
+### 12. 11. Deploying Your dbt Project
 
 #### Utilizing multiple dbt profiles
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980)
@@ -2067,7 +2071,7 @@ created: 2026-04-21
 > **CLI Commands:** make (1), python (1)
 
 
-### Conclusion
+### 13. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/next-steps?u=76281980)
@@ -2095,6 +2099,20 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - and (1)
 
+
+## Instructor
+
+- [[Mark Freeman]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/data-engineering-with-data-build-tool-dbt-4458303/codespaces)
+
+## Skills Covered
+
+- Data Engineering
+- Data Build Tool (DBT)
 
 ## Path Context
 

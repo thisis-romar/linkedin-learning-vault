@@ -25,8 +25,10 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python.md)
 
 ![Advanced Python](https://media.licdn.com/dms/image/v2/D4D0DAQGl3s1fBLp7kg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732065162293?e=2147483647&amp;v=beta&amp;t=KbQYiJVRNDEiEEN-pdbOl9sdQXiL-VKGcEKbP35w7Wg)
 
@@ -37,18 +39,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756) | Advanced | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-python-3912165/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Python Features** (6 videos)
+- **3. 2. Using Iterators** (8 videos)
+- **4. 3. String Processing** (5 videos)
+- **5. 4. Working with Sequences** (7 videos)
+- **6. 5. Exceptions** (6 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=76281980)
@@ -260,7 +263,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. Python Features
+### 2. 1. Python Features
 
 #### Documentation strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980)
@@ -1050,7 +1053,7 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 
 
-### 2. Using Iterators
+### 3. 2. Using Iterators
 
 #### Basic iterators
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/basic-iterators?u=76281980)
@@ -1930,7 +1933,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. String Processing
+### 4. 3. String Processing
 
 #### Built-in string constants
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/built-in-string-constants?u=76281980)
@@ -2684,7 +2687,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Working with Sequences
+### 5. 4. Working with Sequences
 
 #### Sequence slicing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/sequence-slicing?u=76281980)
@@ -3319,7 +3322,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Exceptions
+### 6. 5. Exceptions
 
 #### What are exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980)
@@ -3803,7 +3806,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980)
@@ -3832,6 +3835,15 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - congratulations (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-python-3912165/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
 
 ## Path Context
 

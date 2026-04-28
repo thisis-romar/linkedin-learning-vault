@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/eslint
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/ESLint-%20Integrating%20with%20Your%20Workflow.md)
 
 ![ESLint: Integrating with Your Workflow](https://media.licdn.com/dms/image/v2/C4E0DAQE3jSbsANgXew/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668021071471?e=2147483647&amp;v=beta&amp;t=IOz9Xyg7J9QRHZXFAKpdJ72EWRBlAWc403E186y6F0I)
 
@@ -41,22 +43,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow) | 45m | Advanced | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sasha Vodnik]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/eslint-workflow-2254050/codespaces)
-
-## Skills Covered
-
-- ESLint
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Integrating ESLint with Your Workflow** (6 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Customizing automatic error checking
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/customizing-automatic-error-checking-25668968?u=76281980)
@@ -288,7 +283,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. Integrating ESLint with Your Workflow
+### 2. 1. Integrating ESLint with Your Workflow
 
 #### Setting up a project with ESLint
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980)
@@ -1081,7 +1076,7 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980)
@@ -1106,6 +1101,19 @@ created: 2026-04-21
 >
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Sasha Vodnik]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/eslint-workflow-2254050/codespaces)
+
+## Skills Covered
+
+- ESLint
 
 ## Path Context
 

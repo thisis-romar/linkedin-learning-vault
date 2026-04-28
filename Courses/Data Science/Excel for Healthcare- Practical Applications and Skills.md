@@ -33,8 +33,10 @@ tags:
   - skill/microsoft-excel
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20for%20Healthcare-%20Practical%20Applications%20and%20Skills.md)
 
 ![Excel for Healthcare: Practical Applications and Skills](https://media.licdn.com/dms/image/v2/D4D0DAQHkIBThz5nj3Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727391844953?e=2147483647&amp;v=beta&amp;t=ZZKgFN5O5owlcSXkuegRg1Kt-WpbOd8edo3P4R6TuJA)
 
@@ -45,22 +47,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills) | 1h 53m | Beginner | 7K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Wuraola Oyewusi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Excel
-- Healthcare Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Patient Data Management and Analysis with Excel** (7 videos)
+- **3. 2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management** (5 videos)
+- **4. 3. Excel for Clinical Use and Research in Healthcare** (4 videos)
+- **5. 4. Healthcare Supply Chain Management with Excel** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Benefits of using Excel in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/benefits-of-using-excel-in-healthcare?u=76281980)
@@ -212,7 +210,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 1. Patient Data Management and Analysis with Excel
+### 2. 1. Patient Data Management and Analysis with Excel
 
 #### Creating patient biodata entry forms with Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980)
@@ -1101,7 +1099,7 @@ created: 2026-04-21
 > **Versions:** 0.7 (1)
 
 
-### 2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management
+### 3. 2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management
 
 #### Creating a nursing staff schedule with Excel: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980)
@@ -1595,7 +1593,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Excel for Clinical Use and Research in Healthcare
+### 4. 3. Excel for Clinical Use and Research in Healthcare
 
 #### Creating a medication dosage calculation sheet in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980)
@@ -1990,7 +1988,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Healthcare Supply Chain Management with Excel
+### 5. 4. Healthcare Supply Chain Management with Excel
 
 #### Creating an inventory tracker for an antiretroviral clinic
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980)
@@ -2304,7 +2302,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Expanding your skills in healthcare analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980)
@@ -2339,6 +2337,19 @@ created: 2026-04-21
 > **Code Keywords:** this, (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Wuraola Oyewusi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Excel
+- Healthcare Analytics
 
 ## Path Context
 

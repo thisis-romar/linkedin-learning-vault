@@ -36,8 +36,10 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%207%20Smart%20Contracts.md)
 
 ![Building an Ethereum Blockchain App: 7 Smart Contracts](https://media.licdn.com/dms/image/v2/C560DAQHNvNsDD1K55Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1628526726270?e=2147483647&amp;v=beta&amp;t=cBvLEEOmU76oqDmWLjBbj3nzLYcsE5uUy266gRSg2lk)
 
@@ -48,23 +50,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts) | 1h 33m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Michael Solomon]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Smart Contracts
-- Blockchain
-- Ethereum
-
 ## Table of Contents
 
-### 1. Learning about Smart Contracts
+### Chapter Overview
+
+- **1. 1. Learning about Smart Contracts** (14 videos)
+
+### 1. 1. Learning about Smart Contracts
 
 #### Smart contracts review
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980)
@@ -2025,6 +2017,20 @@ created: 2026-04-21
 > **Best Practices:** you should never (1)
 > **Speakers:** - although (1)
 
+
+## Instructor
+
+- [[Michael Solomon]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Smart Contracts
+- Blockchain
+- Ethereum
 
 ## Path Context
 

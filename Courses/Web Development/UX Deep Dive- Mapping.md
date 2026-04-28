@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Mapping.md)
 
 ![UX Deep Dive: Mapping](https://media.licdn.com/dms/image/v2/C560DAQFudXWd13cM1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589904875160?e=2147483647&amp;v=beta&amp;t=8yqy06KXCZH9xVjljq3fq2I5SF1YxkQlV_GDgx--nnM)
 
@@ -40,21 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping) | 28m | Intermediate | 53K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Amanda Stockwell]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- User Experience Design (UED)
-
 ## Table of Contents
 
-### UX Mapping
+### Chapter Overview
+
+- **1. UX Mapping** (1 videos)
+- **2. 1. Mapping Overview** (1 videos)
+- **3. 2. Empathy Map** (2 videos)
+- **4. 3. Journey Map** (3 videos)
+- **5. 4. Experience Map** (2 videos)
+- **6. 5. Other Maps** (1 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. UX Mapping
 
 #### What is UX mapping?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-ux-mapping?u=76281980)
@@ -85,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 1. Mapping Overview
+### 2. 1. Mapping Overview
 
 #### Mapping as a tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/mapping-as-a-tool?u=76281980)
@@ -125,7 +125,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### 2. Empathy Map
+### 3. 2. Empathy Map
 
 #### Empathy map usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/empathy-map-usage?u=76281980)
@@ -255,7 +255,7 @@ created: 2026-04-21
 > **Speakers:** - an (1)
 
 
-### 3. Journey Map
+### 4. 3. Journey Map
 
 #### What is a journey map?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980)
@@ -429,7 +429,7 @@ created: 2026-04-21
 > **Speakers:** - once (1)
 
 
-### 4. Experience Map
+### 5. 4. Experience Map
 
 #### What is a experience map?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-experience-map?u=76281980)
@@ -533,7 +533,7 @@ created: 2026-04-21
 > **Speakers:** - another (1)
 
 
-### 5. Other Maps
+### 6. 5. Other Maps
 
 #### Other types of maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980)
@@ -618,7 +618,7 @@ created: 2026-04-21
 > **Speakers:** - empathy (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Share your #uxmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980)
@@ -648,6 +648,18 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Amanda Stockwell]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- User Experience Design (UED)
 
 ## Path Context
 

@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20Python-%20Optimizing%20Deep%20Learning%20Models.md)
 
 ![Deep Learning with Python: Optimizing Deep Learning Models](https://media.licdn.com/dms/image/v2/D4D0DAQH8BFD--fpKJA/learning-public-crop_675_1200/B4DZT8pt8oGcAY-/0/1739405582824?e=2147483647&amp;v=beta&amp;t=FGb1-wz5ldJ6jHnlPzWqm8at1T2JPJBgOMGtr1xXpK0)
 
@@ -45,24 +47,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models) | 2h 1m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Frederick Nwanganga]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/deep-learning-with-python-optimizing-deep-learning-models-3930062/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Artificial Intelligence (AI)
-- Deep Learning
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Optimizing Deep Learning Models** (1 videos)
+- **3. 2. Regularization Techniques** (7 videos)
+- **4. 3. Loss Functions and Optimization Algorithms** (8 videos)
+- **5. 4. Hyperparameter Tuning Techniques** (5 videos)
+- **6. 5. Advanced Training Techniques** (7 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Optimizing deep learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980)
@@ -171,7 +168,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Optimizing Deep Learning Models
+### 2. 1. Optimizing Deep Learning Models
 
 #### The importance of optimizing deep learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980)
@@ -229,7 +226,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Regularization Techniques
+### 3. 2. Regularization Techniques
 
 #### The bias-variance trade-off
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980)
@@ -644,7 +641,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Loss Functions and Optimization Algorithms
+### 4. 3. Loss Functions and Optimization Algorithms
 
 #### Common loss functions in deep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980)
@@ -1118,7 +1115,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Hyperparameter Tuning Techniques
+### 5. 4. Hyperparameter Tuning Techniques
 
 #### Parameters versus hyperparameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980)
@@ -1645,7 +1642,7 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 
 
-### 5. Advanced Training Techniques
+### 6. 5. Advanced Training Techniques
 
 #### Batch normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980)
@@ -2190,7 +2187,7 @@ created: 2026-04-21
 > **Cross-References:** previous video (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Continuing to optimize deep learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980)
@@ -2256,6 +2253,21 @@ created: 2026-04-21
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Frederick Nwanganga]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/deep-learning-with-python-optimizing-deep-learning-models-3930062/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Artificial Intelligence (AI)
+- Deep Learning
 
 ## Path Context
 

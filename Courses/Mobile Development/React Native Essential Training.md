@@ -24,8 +24,10 @@ tags:
   - topic/mobile-development
   - skill/react-native
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/React%20Native%20Essential%20Training.md)
 
 ![React Native Essential Training](https://media.licdn.com/dms/image/v2/C560DAQGKXGNugAV8Ag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1605024546102?e=2147483647&amp;v=beta&amp;t=sT7pQrM4VbNoMCmTrtyurh_WoGeP76aHq06n5A-S4Vk)
 
@@ -36,13 +38,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training) | Intermediate | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- React Native
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (2 videos)
+- **3. 2. React Native Fundamentals** (5 videos)
+- **4. 3. Building a Simple Game App** (15 videos)
+- **5. 4. Building a Data-Driven App** (9 videos)
+- **6. 5. Animation and Gesture Control** (9 videos)
+- **7. 6. Deploying** (5 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Working with React Native
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980)
@@ -238,7 +247,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### Why React Native?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980)
@@ -529,7 +538,7 @@ created: 2026-04-21
 > **Documentation:** the documentation (3)
 
 
-### 2. React Native Fundamentals
+### 3. 2. React Native Fundamentals
 
 #### Hello React Native with Expo
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980)
@@ -1260,7 +1269,7 @@ created: 2026-04-21
 > **Analogies:** for example (2)
 
 
-### 3. Building a Simple Game App
+### 4. 3. Building a Simple Game App
 
 #### Introduction and preview
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/introduction-and-preview-2?u=76281980)
@@ -3272,7 +3281,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 4. Building a Data-Driven App
+### 5. 4. Building a Data-Driven App
 
 #### Introduction and preview
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/introduction-and-preview?u=76281980)
@@ -4646,7 +4655,7 @@ created: 2026-04-21
 > **UI Navigation:** click on (1), go to (1)
 
 
-### 5. Animation and Gesture Control
+### 6. 5. Animation and Gesture Control
 
 #### Preparing for swiping
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/preparing-for-swiping?u=76281980)
@@ -5758,7 +5767,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Deploying
+### 7. 6. Deploying
 
 #### Test first
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980)
@@ -6483,7 +6492,7 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980)
@@ -6524,6 +6533,10 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Skills Covered
+
+- React Native
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - skill/twilio
   - skill/serverless-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Twilio%20Essentials%20Unit%203-%20All%20Together%20Now.md)
 
 ![Twilio Essentials Unit 3: All Together Now](https://media.licdn.com/dms/image/v2/C560DAQEMj9WBPAggqQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661384911941?e=2147483647&amp;v=beta&amp;t=UpRXBv75APup0qWqXt7qrs1_xBq8_ZI6i4199_3Uswk)
 
@@ -40,22 +42,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now) | 1h 59m | Beginner | 2K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Twilio]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Twilio
-- Serverless Computing
-
 ## Table of Contents
 
-### 1. All Together Now
+### Chapter Overview
+
+- **1. 1. All Together Now** (9 videos)
+
+### 1. 1. All Together Now
 
 #### Introducing the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980)
@@ -1663,6 +1656,19 @@ created: 2026-04-21
 > **Best Practices:** best practice (1)
 > **Speakers:** - you (1)
 
+
+## Instructor
+
+- [[Twilio]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Twilio
+- Serverless Computing
 
 ## Path Context
 

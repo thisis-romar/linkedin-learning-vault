@@ -30,8 +30,10 @@ tags:
   - skill/dashboards
   - skill/data-analytics
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Analytics-%20Dashboards%20vs.%20Data%20Stories.md)
 
 ![Data Analytics: Dashboards vs. Data Stories](https://media.licdn.com/dms/image/v2/D560DAQFEUIWEPk1_4g/learning-public-crop_675_1200/B56ZrgbGzvLwAY-/0/1764701793784?e=2147483647&amp;v=beta&amp;t=4mCWAL6BAUDzX5p1beYp01ifWlrQMnSEcayeJ3WnZ3A)
 
@@ -42,19 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407) | 33m | Beginner | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Madecraft]]
-- [[Tom Themeles]]
-
-## Skills Covered
-
-- Dashboards
-- Data Analytics
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understand the Value of Data** (3 videos)
+- **3. 2. Build Effective Dashboards** (2 videos)
+- **4. 3. Craft Compelling Data Stories** (3 videos)
+- **5. 4. Choose the Right Format for the Job** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Choose the right format for your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/choose-the-right-format-for-your-data-30275053?u=76281980)
@@ -83,7 +84,7 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 
 
-### 1. Understand the Value of Data
+### 2. 1. Understand the Value of Data
 
 #### Explain why businesses want insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/explain-why-businesses-want-insights-30283048?u=76281980)
@@ -318,7 +319,7 @@ created: 2026-04-21
 > **Env Vars:** sql (1)
 
 
-### 2. Build Effective Dashboards
+### 3. 2. Build Effective Dashboards
 
 #### Design dashboards for stakeholder needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980)
@@ -477,7 +478,7 @@ created: 2026-04-21
 > **Definitions:** is an  (1)
 
 
-### 3. Craft Compelling Data Stories
+### 4. 3. Craft Compelling Data Stories
 
 #### Build a compelling narrative
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/build-a-compelling-narrative-30264065?u=76281980)
@@ -734,7 +735,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### 4. Choose the Right Format for the Job
+### 5. 4. Choose the Right Format for the Job
 
 #### Decide between a dashboard and a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/decide-between-a-dashboard-and-a-story-30281051?u=76281980)
@@ -887,7 +888,7 @@ created: 2026-04-21
 > **Code Keywords:** case, (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Share insights confidently
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980)
@@ -928,6 +929,16 @@ created: 2026-04-21
 > **Code Keywords:** module (1), finally, (1)
 > **Analogies:** such as (1)
 
+
+## Instructor
+
+- [[Madecraft]]
+- [[Tom Themeles]]
+
+## Skills Covered
+
+- Dashboards
+- Data Analytics
 
 ## Path Context
 

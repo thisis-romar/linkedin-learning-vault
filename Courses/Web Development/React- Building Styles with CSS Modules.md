@@ -30,8 +30,10 @@ tags:
   - skill/cascading-style-sheets-css
   - skill/react-js
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Building%20Styles%20with%20CSS%20Modules.md)
 
 ![React: Building Styles with CSS Modules](https://media.licdn.com/dms/image/v2/C4E0DAQHt6E-zUzRRcA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1633369796940?e=2147483647&amp;v=beta&amp;t=jV1RKFz3tBJRYWTJ6K7FEf6CWTzk322ZFVViK2rYxmc)
 
@@ -42,22 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678) | 1h 34m | Intermediate | 27K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emmanuel Henri]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Cascading Style Sheets (CSS)
-- React.js
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Setting Up** (2 videos)
+- **3. 2. Basics of CSS Modules** (7 videos)
+- **4. 3. Interactions and Responsive Design** (4 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Building a React site with CSS Modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980)
@@ -112,7 +109,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setting Up
+### 2. 1. Setting Up
 
 #### React with CSS Modules without ejecting
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980)
@@ -301,7 +298,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Basics of CSS Modules
+### 3. 2. Basics of CSS Modules
 
 #### Introduction to CSS Modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/introduction-to-css-modules?u=76281980)
@@ -1346,7 +1343,7 @@ created: 2026-04-21
 > **Versions:** 0.2 (1), 0.3 (1)
 
 
-### 3. Interactions and Responsive Design
+### 4. 3. Interactions and Responsive Design
 
 #### Basic animation with CSS keyframes
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980)
@@ -2141,7 +2138,7 @@ created: 2026-04-21
 > **UI Navigation:** open the (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980)
@@ -2170,6 +2167,19 @@ created: 2026-04-21
 > **Documentation:** the docs (1)
 > **Speakers:** - [emmanuel] (1)
 
+
+## Instructor
+
+- [[Emmanuel Henri]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Cascading Style Sheets (CSS)
+- React.js
 
 ## Path Context
 

@@ -39,41 +39,32 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Decision%20Trees%20with%20KNIME.md)
 
 ![Machine Learning and AI Foundations: Decision Trees with KNIME](https://media.licdn.com/dms/image/v2/C560DAQFHGDI-Ei5OJQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1655420568390?e=2147483647&amp;v=beta&amp;t=ZfXtX5Ulqem9pZX-kF3j0JFkWGgY76ZAU29KCpfCpaI)
 
 # Machine Learning and AI Foundations: Decision Trees with KNIME
 
-> Suggested prerequisites
-
-General familiarity with supervised machine learning
-Understanding of terms such as target variable, input variable, algorithm, and train/test partition
-  
-Decision trees are transparent, available in every platform, and foundational to more advanced techniques like Random Forests and XGBoost. And if you’re a data scientist looking to pivot to machine learning, there’s arg
+> Suggested prerequisites General familiarity with supervised machine learning Understanding of terms such as target variable, input variable, algorithm, and train/test partition Decision trees are transparent, available in every platform, and foundational to more advanced techniques like Random Forests and XGBoost. And if you’re a data scientist looking to pivot to machine learning, there’s arguabl
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime) | 2h 4m | Intermediate | 80K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Keith McCormick]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Knime
-- Machine Learning
-- Artificial Intelligence (AI)
-- Decision Trees
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Introducing Decision Trees** (5 videos)
+- **3. 2. Introducing the C5.0 Algorithm** (12 videos)
+- **4. 3. Introducing Classification Trees** (7 videos)
+- **5. 4. Introducing Regression Trees** (9 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The basics of decision trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980)
@@ -187,7 +178,7 @@ Decision trees are transparent, available in every platform, and foundational to
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introducing Decision Trees
+### 2. 1. Introducing Decision Trees
 
 #### What is a decision tree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980)
@@ -635,7 +626,7 @@ Decision trees are transparent, available in every platform, and foundational to
 > **Analogies:** for instance (1)
 
 
-### 2. Introducing the C5.0 Algorithm
+### 3. 2. Introducing the C5.0 Algorithm
 
 #### Ross Quinlan, ID3, C4.5, and C5.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980)
@@ -1554,7 +1545,7 @@ Decision trees are transparent, available in every platform, and foundational to
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Introducing Classification Trees
+### 4. 3. Introducing Classification Trees
 
 #### Introducing Leo Breiman and CART
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980)
@@ -2018,7 +2009,7 @@ Decision trees are transparent, available in every platform, and foundational to
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Introducing Regression Trees
+### 5. 4. Introducing Regression Trees
 
 #### MPG data set
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/mpg-data-set?u=76281980)
@@ -2639,7 +2630,7 @@ Decision trees are transparent, available in every platform, and foundational to
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980)
@@ -2682,6 +2673,21 @@ Decision trees are transparent, available in every platform, and foundational to
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Keith McCormick]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Knime
+- Machine Learning
+- Artificial Intelligence (AI)
+- Decision Trees
 
 ## Path Context
 

@@ -32,8 +32,10 @@ tags:
   - skill/r-programming-language
   - skill/tidyverse
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20the%20R%20Tidyverse.md)
 
 ![Learning the R Tidyverse](https://media.licdn.com/dms/image/v2/D560DAQHGV1Nm-0E3TQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719510264274?e=2147483647&amp;v=beta&amp;t=eVRhPVTH6kak7pbszlU3DUDoWMn_MAM1qlo4kTj3gPA)
 
@@ -44,23 +46,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729) | 3h 18m | Intermediate | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Charlie Joey Hadley]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/learning-the-r-tidyverse-4377003)
-
-## Skills Covered
-
-- R (Programming Language)
-- tidyverse
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Tidyverse Fundamentals** (12 videos)
+- **3. 2. Tidy Data: The Fundamental Idea behind the Tidyverse** (6 videos)
+- **4. 3. Reading Data In and Out of the Tidyverse** (4 videos)
+- **5. 4. Grouping and Summarizing Data with the Tidyverse** (10 videos)
+- **6. 5. Important Packages and Functions in the Tidyverse** (5 videos)
+- **7. 6. Working Smart with the Tidyverse** (8 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started in the R tidyverse
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/getting-started-in-the-r-tidyverse?u=76281980)
@@ -142,7 +141,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Tidyverse Fundamentals
+### 2. 1. Tidyverse Fundamentals
 
 #### What is the tidyverse?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980)
@@ -1327,7 +1326,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 2. Tidy Data: The Fundamental Idea behind the Tidyverse
+### 3. 2. Tidy Data: The Fundamental Idea behind the Tidyverse
 
 #### What is tidy data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-tidy-data?u=76281980)
@@ -1882,7 +1881,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Reading Data In and Out of the Tidyverse
+### 4. 3. Reading Data In and Out of the Tidyverse
 
 #### Using projects to simplify file paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980)
@@ -2245,7 +2244,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Grouping and Summarizing Data with the Tidyverse
+### 5. 4. Grouping and Summarizing Data with the Tidyverse
 
 #### Grouping and summarizing data by column or row
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/grouping-and-summarising-data-by-column-or-row?u=76281980)
@@ -2859,7 +2858,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Important Packages and Functions in the Tidyverse
+### 6. 5. Important Packages and Functions in the Tidyverse
 
 #### ggplot2 for beautiful data storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/ggplot2-for-beautiful-data-storytelling?u=76281980)
@@ -3560,7 +3559,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Working Smart with the Tidyverse
+### 7. 6. Working Smart with the Tidyverse
 
 #### Handling NAs in the tidyverse with drop_na() and replace_na()
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/handling-nas-in-the-tidyverse-with-drop-na-replace-na?u=76281980)
@@ -4192,7 +4191,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980)
@@ -4223,6 +4222,20 @@ created: 2026-04-21
 >
 > **Speakers:** - [charlotte] (1)
 
+
+## Instructor
+
+- [[Charlie Joey Hadley]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/learning-the-r-tidyverse-4377003)
+
+## Skills Covered
+
+- R (Programming Language)
+- tidyverse
 
 ## Path Context
 

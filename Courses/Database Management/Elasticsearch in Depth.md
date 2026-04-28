@@ -29,34 +29,32 @@ tags:
   - topic/software-development
   - skill/elasticsearch
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Elasticsearch%20in%20Depth.md)
 
 ![Elasticsearch in Depth](https://media.licdn.com/dms/image/v2/C4D0DAQFgh-k_HSEA-w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1679596183511?e=2147483647&amp;v=beta&amp;t=8ljOncdp1sujzOrHlcVlT99xjG1BBJP6BQrihIoJk-A)
 
 # Elasticsearch in Depth
 
-> With its ability to index and search documents using plain text, Elasticsearch has become one of the most popular and widely adopted search engines. In this course,
-Edward Capriolo goes beyond the basics of what Elasticsearch can do. Edward covers specialized data type and query support—like using pipelines to enhance data and combining fields to simplify searching. He shows you how to execute adv
+> With its ability to index and search documents using plain text, Elasticsearch has become one of the most popular and widely adopted search engines. In this course, Edward Capriolo goes beyond the basics of what Elasticsearch can do. Edward covers specialized data type and query support—like using pipelines to enhance data and combining fields to simplify searching. He shows you how to execute adv
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth) | 1h 27m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Edward Capriolo]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Elasticsearch
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Started** (6 videos)
+- **3. 2. Specialized Data Type and Query Support** (6 videos)
+- **4. 3. Advanced Queries** (6 videos)
+- **5. 4. Modifying Data** (5 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Much more than full-text searches
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980)
@@ -83,7 +81,7 @@ Edward Capriolo goes beyond the basics of what Elasticsearch can do. Edward cove
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### The Elasticsearch stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980)
@@ -782,7 +780,7 @@ Edward Capriolo goes beyond the basics of what Elasticsearch can do. Edward cove
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Specialized Data Type and Query Support
+### 3. 2. Specialized Data Type and Query Support
 
 #### Finding objects with GeoShape
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/finding-objects-with-geoshape?u=76281980)
@@ -1394,7 +1392,7 @@ Edward Capriolo goes beyond the basics of what Elasticsearch can do. Edward cove
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Advanced Queries
+### 4. 3. Advanced Queries
 
 #### Filtering, matching, and scoring explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/filtering-matching-and-scoring-explained?u=76281980)
@@ -1950,7 +1948,7 @@ Edward Capriolo goes beyond the basics of what Elasticsearch can do. Edward cove
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Modifying Data
+### 5. 4. Modifying Data
 
 #### Updating documents using scripting
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-documents-using-scripting?u=76281980)
@@ -2411,7 +2409,7 @@ Edward Capriolo goes beyond the basics of what Elasticsearch can do. Edward cove
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/next-steps?u=76281980)
@@ -2426,6 +2424,18 @@ Edward Capriolo goes beyond the basics of what Elasticsearch can do. Edward cove
 >
 > **Non-Speech:** (gentle music) (1), (gentle music continues) (1), (gentle music fades) (1)
 
+
+## Instructor
+
+- [[Edward Capriolo]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Elasticsearch
 
 ## Path Context
 

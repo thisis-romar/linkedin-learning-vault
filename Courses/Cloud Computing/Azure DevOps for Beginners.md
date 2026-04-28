@@ -33,8 +33,10 @@ tags:
   - skill/devops
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20DevOps%20for%20Beginners.md)
 
 ![Azure DevOps for Beginners](https://media.licdn.com/dms/image/v2/D560DAQH12e1KVuTKRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725380577627?e=2147483647&amp;v=beta&amp;t=NE0fA7tD47YT56mwrZNsse39SGP-SBRw_Pk0RKSpIB4)
 
@@ -45,20 +47,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679) | 2h 37m | Beginner | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Learn-it Labs]]
-- [[Walt Ritscher]]
-
-## Skills Covered
-
-- Azure DevOps Services
-- DevOps
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Setup and Overview** (10 videos)
+- **3. 2. Azure Boards** (14 videos)
+- **4. 3. Azure Repos** (9 videos)
+- **5. 4. Azure Pipelines** (12 videos)
+- **6. 5. Extending DevOps** (9 videos)
+- **7. 6. Additional Topics** (3 videos)
+- **8. 7. Continue Your Journey** (1 videos)
+
+### 1. Introduction
 
 #### Use Azure DevOps to enhance application development
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980)
@@ -155,7 +157,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Setup and Overview
+### 2. 1. Setup and Overview
 
 #### Overview of Azure DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980)
@@ -936,7 +938,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Azure Boards
+### 3. 2. Azure Boards
 
 #### Manage your team workflow with Azure Boards
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980)
@@ -2063,7 +2065,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Azure Repos
+### 4. 3. Azure Repos
 
 #### What are Azure repos?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980)
@@ -2824,7 +2826,7 @@ created: 2026-04-21
 > **Speakers:** - [walt] (1)
 
 
-### 4. Azure Pipelines
+### 5. 4. Azure Pipelines
 
 #### What are Azure pipelines?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980)
@@ -3762,7 +3764,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Extending DevOps
+### 6. 5. Extending DevOps
 
 #### Extensibility and integration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980)
@@ -4283,7 +4285,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Additional Topics
+### 7. 6. Additional Topics
 
 #### Streamline dependencies with Azure Artifacts
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980)
@@ -4558,7 +4560,7 @@ created: 2026-04-21
 > **Exercise Files:** github repo (1)
 
 
-### 7. Continue Your Journey
+### 8. 7. Continue Your Journey
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980)
@@ -4606,6 +4608,17 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [walt] (1)
 
+
+## Instructor
+
+- [[Learn-it Labs]]
+- [[Walt Ritscher]]
+
+## Skills Covered
+
+- Azure DevOps Services
+- DevOps
+- Microsoft Azure
 
 ## Path Context
 

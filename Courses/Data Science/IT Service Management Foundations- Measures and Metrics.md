@@ -30,8 +30,10 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Measures%20and%20Metrics.md)
 
 ![IT Service Management Foundations: Measures and Metrics](https://media.licdn.com/dms/image/v2/C4E0DAQEu5Q6hEvYIjg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1604515142102?e=2147483647&amp;v=beta&amp;t=-nMr4CwDCEYeKaFsjgH6Ks66sdDBHLGkrvzyoxcbQYg)
 
@@ -42,21 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics) | 1h 36m | Intermediate | 110K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Jason Dion]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- IT Service Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What Is Your Vision?** (3 videos)
+- **3. 2. Measurements** (7 videos)
+- **4. 3. Measurement Models** (5 videos)
+- **5. 4. Assessments and Reporting** (7 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980)
@@ -179,7 +178,7 @@ created: 2026-04-21
 > **Speakers:** - this (1)
 
 
-### 1. What Is Your Vision?
+### 2. 1. What Is Your Vision?
 
 #### Start with why
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/start-with-why?u=76281980)
@@ -593,7 +592,7 @@ created: 2026-04-21
 > **Speakers:** - since (1)
 
 
-### 2. Measurements
+### 3. 2. Measurements
 
 #### Measurements and metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980)
@@ -1556,7 +1555,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. Measurement Models
+### 4. 3. Measurement Models
 
 #### Measurement models
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurement-models?u=76281980)
@@ -2107,7 +2106,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 4. Assessments and Reporting
+### 5. 4. Assessments and Reporting
 
 #### Assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/assessments?u=76281980)
@@ -2555,7 +2554,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980)
@@ -2616,6 +2615,18 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Jason Dion]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- IT Service Management
 
 ## Path Context
 

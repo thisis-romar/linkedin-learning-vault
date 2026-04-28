@@ -31,8 +31,10 @@ tags:
   - skill/cloud-security
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Cloud%20Computing.md)
 
 ![Ethical Hacking: Cloud Computing](https://media.licdn.com/dms/image/v2/D560DAQHL71_4OWRPTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1682107705178?e=2147483647&amp;v=beta&amp;t=sq5wpiQYflm7E_ob9o0eCxp5cYKbfSYIF8c1nVC-pRw)
 
@@ -43,18 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183) | 2h 31m | Intermediate | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Daniel Lachance]]
-
-## Skills Covered
-
-- Cloud Security
-- Ethical Hacking
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Cloud Overview** (4 videos)
+- **3. 2. Cloud Identity Management** (5 videos)
+- **4. 3. Cloud High Availability** (8 videos)
+- **5. 4. Hardening the Cloud** (10 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Get prepped for ethical hacking cloud computing certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980)
@@ -128,7 +130,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Cloud Overview
+### 2. 1. Cloud Overview
 
 #### Cloud computing characteristics and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980)
@@ -580,7 +582,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Cloud Identity Management
+### 3. 2. Cloud Identity Management
 
 #### Cloud identity management
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980)
@@ -1228,7 +1230,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 3. Cloud High Availability
+### 4. 3. Cloud High Availability
 
 #### Cloud service high availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980)
@@ -2044,7 +2046,7 @@ created: 2026-04-21
 > **Prerequisites:** required to (1)
 
 
-### 4. Hardening the Cloud
+### 5. 4. Hardening the Cloud
 
 #### Cloud auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980)
@@ -3147,7 +3149,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1), required to (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/next-steps?u=76281980)
@@ -3180,6 +3182,15 @@ created: 2026-04-21
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [daniel] (1)
 
+
+## Instructor
+
+- [[Daniel Lachance]]
+
+## Skills Covered
+
+- Cloud Security
+- Ethical Hacking
 
 ## Path Context
 

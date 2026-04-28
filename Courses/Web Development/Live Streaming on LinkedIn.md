@@ -28,8 +28,10 @@ tags:
   - skill/live-streaming
   - skill/linkedin
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Live%20Streaming%20on%20LinkedIn.md)
 
 ![Live Streaming on LinkedIn](https://media.licdn.com/dms/image/v2/C560DAQGuguRzcscSBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656536095107?e=2147483647&amp;v=beta&amp;t=62TwAhRVIFPnAWNG0Hprdzx4RLN9iNs-Txvj4RAXZ8M)
 
@@ -40,18 +42,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin) | 43m | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Cher Jones]]
-
-## Skills Covered
-
-- Live Streaming
-- LinkedIn
-
 ## Table of Contents
 
-### 1. Live Streaming on LinkedIn
+### Chapter Overview
+
+- **1. 1. Live Streaming on LinkedIn** (14 videos)
+
+### 1. 1. Live Streaming on LinkedIn
 
 #### Get ready to go live!
 > [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980)
@@ -1173,6 +1170,15 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 > **Speakers:** - if (1)
 
+
+## Instructor
+
+- [[Cher Jones]]
+
+## Skills Covered
+
+- Live Streaming
+- LinkedIn
 
 ## Path Context
 

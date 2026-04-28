@@ -29,8 +29,10 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20An%20Ethereum%20Blockchain%20App%201%20Introduction%20To%20Blockchain.md)
 
 ![Building An Ethereum Blockchain App 1 Introduction To Blockchain](https://media.licdn.com/dms/image/v2/C560DAQFWZ-Wnjky0pA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1626115729643?e=2147483647&amp;v=beta&amp;t=OUystgsKkSVSNCLL-TjNuRKcriX35-tJZB4o7pbZKgQ)
 
@@ -41,14 +43,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain) | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Blockchain
-- Ethereum
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Blockchain?** (14 videos)
+
+### 1. Introduction
 
 #### Introduction to blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980)
@@ -104,7 +106,7 @@ created: 2026-04-21
 > **Speakers:** - hi (1)
 
 
-### 1. What Is Blockchain?
+### 2. 1. What Is Blockchain?
 
 #### The beginning of blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980)
@@ -1601,6 +1603,11 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
 
+
+## Skills Covered
+
+- Blockchain
+- Ethereum
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/git
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Git%20from%20Scratch.md)
 
 ![Git from Scratch](https://media.licdn.com/dms/image/v2/C4E0DAQHJIB3T2TdZuw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656449177506?e=2147483647&amp;v=beta&amp;t=AF77prcO4rDExa0det58UJMAqgs1zwSr-I-JDkyekME)
 
@@ -40,17 +42,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch) | 19m | Beginner | 17K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Morten Rand-Hendriksen]]
-
-## Skills Covered
-
-- Git
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Git Basics** (6 videos)
+- **3. 2. Branches: Alternate Timelines** (6 videos)
+- **4. 3. Changing History** (4 videos)
+
+### 1. Introduction
 
 #### Git from Scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?u=76281980)
@@ -88,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - [morten (1)
 
 
-### 1. Git Basics
+### 2. 1. Git Basics
 
 #### Why use version control?
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980)
@@ -294,7 +295,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Branches: Alternate Timelines
+### 3. 2. Branches: Alternate Timelines
 
 #### git branch: Create an alternate timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-branch-create-an-alternate-timeline?u=76281980)
@@ -527,7 +528,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Changing History
+### 4. 3. Changing History
 
 #### git merge: Combine two timelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-merge-combine-two-timelines?u=76281980)
@@ -688,6 +689,14 @@ created: 2026-04-21
 > **Code Keywords:** pass (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Morten Rand-Hendriksen]]
+
+## Skills Covered
+
+- Git
 
 ## Path Context
 

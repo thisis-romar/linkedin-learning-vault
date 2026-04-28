@@ -26,8 +26,10 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript%20Practice-%20Object-Oriented%20Programming.md)
 
 ![JavaScript Practice: Object-Oriented Programming](https://media.licdn.com/dms/image/v2/D560DAQFaDTDoJostiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692903082788?e=2147483647&amp;v=beta&amp;t=G_Umkq2gwOUQY-kQE9Q5I_1JzvD5zj8gLRI8DZsr4Bc)
 
@@ -38,17 +40,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming) | 15m | Advanced | 20K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Emma Bostian]]
-
-## Skills Covered
-
-- JavaScript
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. CoderPad Challenges** (5 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Object oriented programming in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/object-oriented-programming-in-javascript?u=76281980)
@@ -136,7 +136,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. CoderPad Challenges
+### 2. 1. CoderPad Challenges
 
 #### Solution: Create a roster with functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980)
@@ -381,7 +381,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980)
@@ -408,6 +408,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Emma Bostian]]
+
+## Skills Covered
+
+- JavaScript
 
 ## Path Context
 

@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/jira
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Jira%20Software.md)
 
 ![Learning Jira Software](https://media.licdn.com/dms/image/v2/D4E0DAQFJbkeDZ7SFsQ/learning-public-crop_675_1200/B4EZoYEE94J0AY-/0/1761340314316?e=2147483647&amp;v=beta&amp;t=n6xZbdij6Uw6pzM0-oagh74Ahfsm2t2Qc954OfXtfyg)
 
@@ -41,17 +43,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108) | 2h 7m | Beginner | 43K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rachel Wright]]
-
-## Skills Covered
-
-- Jira
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Jira Software Features** (9 videos)
+- **3. 2. Power User Tips** (1 videos)
+- **4. 3. Creating Filters** (4 videos)
+- **5. 4. Creating Dashboards** (5 videos)
+- **6. 5. Best Practices for Jira Users** (1 videos)
+- **7. 6. Creating Boards** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Welcome to Jira Software
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980)
@@ -280,7 +285,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 1. Jira Software Features
+### 2. 1. Jira Software Features
 
 #### Software project types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980)
@@ -2341,7 +2346,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 2. Power User Tips
+### 3. 2. Power User Tips
 
 #### Getting the most from Jira Software
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/getting-the-most-from-jira-software?u=76281980)
@@ -2424,7 +2429,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 3. Creating Filters
+### 4. 3. Creating Filters
 
 #### Filter overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980)
@@ -2698,7 +2703,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Creating Dashboards
+### 5. 4. Creating Dashboards
 
 #### Dashboard overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/dashboard-overview?u=76281980)
@@ -2977,7 +2982,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Best Practices for Jira Users
+### 6. 5. Best Practices for Jira Users
 
 #### What your administrator wishes you knew
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/what-your-administrator-wishes-you-knew?u=76281980)
@@ -3051,7 +3056,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 6. Creating Boards
+### 7. 6. Creating Boards
 
 #### Board overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980)
@@ -3291,7 +3296,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980)
@@ -3371,6 +3376,14 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Warnings:** troubleshoot (1)
 
+
+## Instructor
+
+- [[Rachel Wright]]
+
+## Skills Covered
+
+- Jira
 
 ## Path Context
 

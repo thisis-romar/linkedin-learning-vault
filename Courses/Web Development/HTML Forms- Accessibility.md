@@ -31,8 +31,10 @@ tags:
   - skill/digital-accessibility
   - skill/html
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML%20Forms-%20Accessibility.md)
 
 ![HTML Forms: Accessibility](https://media.licdn.com/dms/image/v2/D560DAQHXPotL4VZwdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711408278458?e=2147483647&amp;v=beta&amp;t=0L_tfokgcJHp30RCNjq2_yZdSL7Rsz79os0RFsz2U_Y)
 
@@ -43,23 +45,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility) | 44m | Intermediate | 5K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ifeoma Nwosu]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/html-forms-accessibility-4465343/codespaces)
-
-## Skills Covered
-
-- Digital Accessibility
-- HTML
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Form Accessibility** (3 videos)
+- **3. 2. Improving Form Accessibility with Form Controls** (3 videos)
+- **4. 3. Helping Users Input Data into Forms** (6 videos)
+- **5. 4. Managing Data Entry Errors** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Be an HTML forms MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp?u=76281980)
@@ -130,7 +127,7 @@ created: 2026-04-21
 > **Definitions:** means that (1)
 
 
-### 1. Introduction to Form Accessibility
+### 2. 1. Introduction to Form Accessibility
 
 #### Course use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/course-use-case?u=76281980)
@@ -222,7 +219,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Improving Form Accessibility with Form Controls
+### 3. 2. Improving Form Accessibility with Form Controls
 
 #### Introduction to HTML form controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-controls?u=76281980)
@@ -359,7 +356,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Helping Users Input Data into Forms
+### 4. 3. Helping Users Input Data into Forms
 
 #### Introduction to HTML form attributes
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980)
@@ -717,7 +714,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Managing Data Entry Errors
+### 5. 4. Managing Data Entry Errors
 
 #### Required attribute
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/required-attribute?u=76281980)
@@ -851,7 +848,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980)
@@ -898,6 +895,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Ifeoma Nwosu]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/html-forms-accessibility-4465343/codespaces)
+
+## Skills Covered
+
+- Digital Accessibility
+- HTML
 
 ## Path Context
 

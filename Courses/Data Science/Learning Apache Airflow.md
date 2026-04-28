@@ -36,8 +36,10 @@ tags:
   - skill/apache-airflow
   - skill/it-automation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Apache%20Airflow.md)
 
 ![Learning Apache Airflow](https://media.licdn.com/dms/image/v2/D560DAQEnCLY1die5zA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689007956856?e=2147483647&amp;v=beta&amp;t=X7LlhPxxNEA48X3-K3en5QWJRuMSvgbkOFNXkXB5aag)
 
@@ -48,22 +50,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow) | 2h 10m | Advanced | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Janani Ravi]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Apache Airflow
-- IT Automation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introducing Apache Airflow** (4 videos)
+- **3. 2. Running Workflows on Airflow** (4 videos)
+- **4. 3. Defining Tasks and Dependencies** (3 videos)
+- **5. 4. Using the Python Operator and XCom** (7 videos)
+- **6. 5. Using the SQLite Operator for SQL Operations** (4 videos)
+- **7. 6. Conditional Branching and TaskGroups** (3 videos)
+- **8. 7. Catch Up, Backfill, and CRON Expressions** (2 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### An overview of Apache Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980)
@@ -175,7 +176,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introducing Apache Airflow
+### 2. 1. Introducing Apache Airflow
 
 #### Apache Airflow concepts and architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980)
@@ -695,7 +696,7 @@ created: 2026-04-21
 > **Env Vars:** sql (1)
 
 
-### 2. Running Workflows on Airflow
+### 3. 2. Running Workflows on Airflow
 
 #### Navigating and exploring the Airflow UI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980)
@@ -1238,7 +1239,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Defining Tasks and Dependencies
+### 4. 3. Defining Tasks and Dependencies
 
 #### Specifying task dependencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/specifying-task-dependencies?u=76281980)
@@ -1597,7 +1598,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Using the Python Operator and XCom
+### 5. 4. Using the Python Operator and XCom
 
 #### Introducing the Python operator
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-python-operator?u=76281980)
@@ -2366,7 +2367,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Using the SQLite Operator for SQL Operations
+### 6. 5. Using the SQLite Operator for SQL Operations
 
 #### Setting up the SQLite DB and connection
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/setting-up-the-sqlite-db-and-connection?u=76281980)
@@ -2701,7 +2702,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 6. Conditional Branching and TaskGroups
+### 7. 6. Conditional Branching and TaskGroups
 
 #### Introducing branching
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/introducing-branching?u=76281980)
@@ -3149,7 +3150,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 7. Catch Up, Backfill, and CRON Expressions
+### 8. 7. Catch Up, Backfill, and CRON Expressions
 
 #### Catch up with all previously scheduled runs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980)
@@ -3406,7 +3407,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980)
@@ -3452,6 +3453,19 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
+
+## Instructor
+
+- [[Janani Ravi]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Apache Airflow
+- IT Automation
 
 ## Path Context
 

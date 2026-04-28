@@ -30,8 +30,10 @@ tags:
   - skill/software-development-life-cycle-sdlc
   - skill/software-design
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Software%20Design-%20From%20Requirements%20to%20Release.md)
 
 ![Software Design: From Requirements to Release](https://media.licdn.com/dms/image/v2/C4E0DAQEv-kwYOt-yCQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588091598778?e=2147483647&amp;v=beta&amp;t=bqyw1b48o_PeTvl5aoFowx2362vr0oNguoUtSmTWM6E)
 
@@ -42,23 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release) | 2h 24m | Advanced | 79K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Neelam Dwivedi]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/Software-Design-Requirements-Release-2825344)
-
-## Skills Covered
-
-- Software Development Life Cycle (SDLC)
-- Software Design
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Sprint 1: Project Kickoff** (9 videos)
+- **3. 2. Sprint 2: Beta** (6 videos)
+- **4. 3. Sprint 3: Release 1.0** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Going from requirements to release
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980)
@@ -201,7 +197,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Sprint 1: Project Kickoff
+### 2. 1. Sprint 1: Project Kickoff
 
 #### Define problem and vision statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/define-problem-and-vision-statements?u=76281980)
@@ -1128,7 +1124,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Sprint 2: Beta
+### 3. 2. Sprint 2: Beta
 
 #### Prepare sprint backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980)
@@ -1689,7 +1685,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Sprint 3: Release 1.0
+### 4. 3. Sprint 3: Release 1.0
 
 #### Prepare sprint backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog?u=76281980)
@@ -2313,7 +2309,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/next-steps?u=76281980)
@@ -2336,6 +2332,20 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [neelam] (1)
 
+
+## Instructor
+
+- [[Neelam Dwivedi]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/Software-Design-Requirements-Release-2825344)
+
+## Skills Covered
+
+- Software Development Life Cycle (SDLC)
+- Software Design
 
 ## Path Context
 

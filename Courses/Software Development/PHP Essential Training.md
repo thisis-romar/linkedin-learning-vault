@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/PHP%20Essential%20Training.md)
 
 ![PHP Essential Training](https://media.licdn.com/dms/image/v2/C4E0DAQGTEjxoHoClkw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1647638529487?e=2147483647&amp;v=beta&amp;t=ijjXafCHfCB21Avkq9_pWqoL2WdXW0K5OpbPFwicpdY)
 
@@ -41,21 +43,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017) | 4h 7m | Beginner | 76K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Skoglund]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- PHP
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. PHP Overview** (3 videos)
+- **3. 2. First Steps** (4 videos)
+- **4. 3. Explore Data Types** (12 videos)
+- **5. 4. Control Structures: Logical Expressions** (4 videos)
+- **6. 5. Control Structures: Loops** (6 videos)
+- **7. 6. User-Defined Functions** (6 videos)
+- **8. 7. Debug** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learning the fundamentals of PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/learning-the-fundamentals-of-php?u=76281980)
@@ -158,7 +160,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. PHP Overview
+### 2. 1. PHP Overview
 
 #### What is PHP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980)
@@ -620,7 +622,7 @@ created: 2026-04-21
 > **Tools:** sublime (1)
 
 
-### 2. First Steps
+### 3. 2. First Steps
 
 #### Embed PHP code on a page
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980)
@@ -1215,7 +1217,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Explore Data Types
+### 4. 3. Explore Data Types
 
 #### Variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/variables-14759660?u=76281980)
@@ -3695,7 +3697,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Control Structures: Logical Expressions
+### 5. 4. Control Structures: Logical Expressions
 
 #### If statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980)
@@ -4573,7 +4575,7 @@ created: 2026-04-21
 > **Definitions:** means that (1), is a  (1)
 
 
-### 5. Control Structures: Loops
+### 6. 5. Control Structures: Loops
 
 #### While loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980)
@@ -5922,7 +5924,7 @@ created: 2026-04-21
 > **Analogies:** similar to (1)
 
 
-### 6. User-Defined Functions
+### 7. 6. User-Defined Functions
 
 #### Define functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980)
@@ -7019,7 +7021,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Debug
+### 8. 7. Debug
 
 #### Common problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/warnings-and-errors-14758686?u=76281980)
@@ -7662,7 +7664,7 @@ created: 2026-04-21
 > **Definitions:** is a  (2)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Applying PHP into an HTML website
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980)
@@ -7693,6 +7695,18 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - [kevin] (1)
 
+
+## Instructor
+
+- [[Kevin Skoglund]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- PHP
 
 ## Path Context
 

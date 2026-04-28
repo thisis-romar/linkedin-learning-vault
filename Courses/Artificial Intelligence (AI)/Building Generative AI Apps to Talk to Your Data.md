@@ -36,8 +36,10 @@ tags:
   - skill/application-development
   - skill/snowflake
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20Generative%20AI%20Apps%20to%20Talk%20to%20Your%20Data.md)
 
 ![Building Generative AI Apps to Talk to Your Data](https://media.licdn.com/dms/image/v2/D4E0DAQHUqCPEmlrWMw/learning-public-crop_675_1200/B4EZb4xRIlGUAY-/0/1747930387743?e=2147483647&amp;v=beta&amp;t=MB7KK_CZ5Nk3r-wlTm2UZ9Uk10d_pv-PmYYsCiYTbf8)
 
@@ -48,21 +50,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data) | 2h 36m | Intermediate | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Snowflake]]
-- [[Inc]]
-
-## Skills Covered
-
-- Conversational AI
-- Artificial Intelligence (AI)
-- Application Development
-- Snowflake
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Introduction for Conversational Apps with Data** (4 videos)
+- **3. 2. Finding Answers from Unstructured Data with Cortex Search** (10 videos)
+- **4. 3. Answer Questions from Structured Data with Cortex Analyst** (9 videos)
+
+### 1. Introduction
 
 #### Getting answers from data
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980)
@@ -445,7 +442,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 1. Introduction for Conversational Apps with Data
+### 2. 1. Introduction for Conversational Apps with Data
 
 #### Querying unstructured data: RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980)
@@ -824,7 +821,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. Finding Answers from Unstructured Data with Cortex Search
+### 3. 2. Finding Answers from Unstructured Data with Cortex Search
 
 #### Opening up unstructured data with RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980)
@@ -2016,7 +2013,7 @@ created: 2026-04-21
 > **Non-Speech:** (soft music) (1)
 
 
-### 3. Answer Questions from Structured Data with Cortex Analyst
+### 4. 3. Answer Questions from Structured Data with Cortex Analyst
 
 #### Avoiding death by dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980)
@@ -3342,6 +3339,18 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 > **Non-Speech:** (light upbeat music) (1)
 
+
+## Instructor
+
+- [[Snowflake]]
+- [[Inc]]
+
+## Skills Covered
+
+- Conversational AI
+- Artificial Intelligence (AI)
+- Application Development
+- Snowflake
 
 ## Path Context
 

@@ -37,8 +37,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practical%20GitHub%20Copilot.md)
 
 ![Practical GitHub Copilot](https://media.licdn.com/dms/image/v2/D4D0DAQGacnii6uNPrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1713479054756?e=2147483647&amp;v=beta&amp;t=2rrEIrPlCr3Ieoev3m863uLTWUHZfd34vOIaxVzMGu4)
 
@@ -49,24 +51,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot) | 1h | Advanced | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/github-practical-copilot-4412871)
-
-## Skills Covered
-
-- GitHub
-- Artificial Intelligence (AI)
-- GitHub Copilot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Working with GitHub Copilot** (6 videos)
+- **3. 2. Using Copilot Chat** (7 videos)
+- **4. Next Steps** (1 videos)
+
+### 1. Introduction
 
 #### Using Copilot on Projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/using-copilot-on-projects?u=76281980)
@@ -114,7 +108,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Working with GitHub Copilot
+### 2. 1. Working with GitHub Copilot
 
 #### What is GitHub Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980)
@@ -673,7 +667,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Using Copilot Chat
+### 3. 2. Using Copilot Chat
 
 #### The chat panel
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980)
@@ -1346,7 +1340,7 @@ created: 2026-04-21
 > **Analogies:** it's like (1)
 
 
-### Next Steps
+### 4. Next Steps
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/what-s-next?u=76281980)
@@ -1366,6 +1360,21 @@ created: 2026-04-21
 > **Code Keywords:** let (1)
 > **Speakers:** - hey (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/github-practical-copilot-4412871)
+
+## Skills Covered
+
+- GitHub
+- Artificial Intelligence (AI)
+- GitHub Copilot
 
 ## Path Context
 

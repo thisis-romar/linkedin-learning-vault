@@ -27,8 +27,10 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Software%20Testing-QA.md)
 
 ![Programming Foundations: Software Testing/QA](https://media.licdn.com/dms/image/v2/C4E0DAQHiVNzWsHDZ3A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117712599?e=2147483647&amp;v=beta&amp;t=3SR0C8cBBVaiHkI4XNT8FcgYUqPe2cbyUfLJpfZ9yx8)
 
@@ -39,13 +41,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa) | 1h 55m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Meaghan Lewis]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The Role of QA** (4 videos)
+- **3. 2. Test Planning** (4 videos)
+- **4. 3. Types of Testing QA Focuses On** (6 videos)
+- **5. 4. Bug Reporting** (6 videos)
+- **6. Glossaries** (0 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Set the standard with quality assurance (QA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980)
@@ -139,7 +147,7 @@ created: 2026-04-21
 > **Speakers:** - good (1)
 
 
-### 1. The Role of QA
+### 2. 1. The Role of QA
 
 #### Roles and responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980)
@@ -413,7 +421,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. Test Planning
+### 3. 2. Test Planning
 
 #### Create a test strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?u=76281980)
@@ -692,7 +700,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 3. Types of Testing QA Focuses On
+### 4. 3. Types of Testing QA Focuses On
 
 #### Box testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980)
@@ -1052,7 +1060,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 4. Bug Reporting
+### 5. 4. Bug Reporting
 
 #### Identify bugs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/identify-bugs?u=76281980)
@@ -1325,10 +1333,10 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### Glossaries
+### 6. Glossaries
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980)
@@ -1373,6 +1381,10 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Meaghan Lewis]]
 
 ## Path Context
 

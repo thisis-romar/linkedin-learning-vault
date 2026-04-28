@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/WordPress-%20Everything%20about%20Plugins.md)
 
 ![WordPress: Everything about Plugins](https://media.licdn.com/dms/image/v2/C560DAQFj8wPR8I9Erg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1671818417007?e=2147483647&amp;v=beta&amp;t=ornzaailb5Pgdp_BoQo01xAy3Yz14d7k6P0Vh1zy3-E)
 
@@ -41,17 +43,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins) | 1h 21m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Allie Nimmons]]
-
-## Skills Covered
-
-- Wordpress Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Plugins** (5 videos)
+- **3. 2. Getting Started with Plugins** (4 videos)
+- **4. 3. Building a Site with Plugins** (8 videos)
+- **5. 4. Troubleshooting Plugins** (4 videos)
+- **6. 5. Creating Your Own Plugin** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Everything about WordPress plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980)
@@ -101,7 +105,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Plugins
+### 2. 1. Introduction to Plugins
 
 #### What is a plugin?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980)
@@ -464,7 +468,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 2. Getting Started with Plugins
+### 3. 2. Getting Started with Plugins
 
 #### How to install and activate a plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-install-and-activate-a-plugin?u=76281980)
@@ -717,7 +721,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Building a Site with Plugins
+### 4. 3. Building a Site with Plugins
 
 #### Basics of using a plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/basics-of-using-a-plugin?u=76281980)
@@ -1381,7 +1385,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Troubleshooting Plugins
+### 5. 4. Troubleshooting Plugins
 
 #### Finding a problem plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/finding-a-problem-plugin?u=76281980)
@@ -1649,7 +1653,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Creating Your Own Plugin
+### 6. 5. Creating Your Own Plugin
 
 #### Creating a simple plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-simple-plugin?u=76281980)
@@ -1902,7 +1906,7 @@ created: 2026-04-21
 > **Env Vars:** api (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps in your WordPress plugin journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/next-steps-in-your-wordpress-plugin-journey?u=76281980)
@@ -1922,6 +1926,14 @@ created: 2026-04-21
 > **Code Keywords:** continue (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Allie Nimmons]]
+
+## Skills Covered
+
+- Wordpress Development
 
 ## Path Context
 

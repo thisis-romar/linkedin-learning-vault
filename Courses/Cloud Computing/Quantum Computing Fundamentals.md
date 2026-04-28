@@ -30,42 +30,36 @@ tags:
   - topic/security
   - skill/quantum-computing
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Quantum%20Computing%20Fundamentals.md)
 
 ![Quantum Computing Fundamentals](https://media.licdn.com/dms/image/v2/D560DAQElNwQBZI4xRA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1681414584066?e=2147483647&amp;v=beta&amp;t=24ajx4QVPPYjuCWAWOxhsjHy212f_YGwXqEgxtpALzo)
 
 # Quantum Computing Fundamentals
 
-> Suggested prerequisites
-
-Although not required, it will help if you already have a basic understanding of linear algebra and Python programming before beginning this course.
-
-Projects
-
-Create a new quantum circuit with one qubit and one classical bit, simulate a measurement on that circuit, and display results.
-Create a quantum circuit with four qubits and set their states to represent a specific 
+> Suggested prerequisites Although not required, it will help if you already have a basic understanding of linear algebra and Python programming before beginning this course. Projects Create a new quantum circuit with one qubit and one classical bit, simulate a measurement on that circuit, and display results. Create a quantum circuit with four qubits and set their states to represent a specific bin
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals) | 4h 14m | Advanced | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Olivia Chiu Stone]]
-- [[Barron Stone]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/quantum-computing-fundamentals-2833097/codespaces)
-
-## Skills Covered
-
-- Quantum Computing
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Quantum Bits** (12 videos)
+- **3. 2. Multiple Quantum Bits** (3 videos)
+- **4. 3. Single-Qubit Pauli Gates** (10 videos)
+- **5. 4. Single-Qubit Superposition Gates** (10 videos)
+- **6. 5. Multi-Qubit Gates** (8 videos)
+- **7. 6. Quantum Entanglement** (5 videos)
+- **8. 7. Real Quantum Hardware** (3 videos)
+- **9. 8. Quantum Algorithms** (6 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Learn quantum computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/learn-quantum-computing?u=76281980)
@@ -382,7 +376,7 @@ Create a quantum circuit with four qubits and set their states to represent a sp
 > **Warnings:** keep in mind (1)
 
 
-### 1. Quantum Bits
+### 2. 1. Quantum Bits
 
 #### Classical bits vs. quantum bits
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980)
@@ -1904,7 +1898,7 @@ Create a quantum circuit with four qubits and set their states to represent a sp
 > **Non-Speech:** (bright music) (1)
 
 
-### 2. Multiple Quantum Bits
+### 3. 2. Multiple Quantum Bits
 
 #### Represent multiple qubits
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits?u=76281980)
@@ -2112,7 +2106,7 @@ Create a quantum circuit with four qubits and set their states to represent a sp
 > **Warnings:** keep in mind (1)
 
 
-### 3. Single-Qubit Pauli Gates
+### 4. 3. Single-Qubit Pauli Gates
 
 #### Overview of matrix operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-matrix-operations?u=76281980)
@@ -2858,7 +2852,7 @@ Create a quantum circuit with four qubits and set their states to represent a sp
 > **Speakers:** - let (1)
 
 
-### 4. Single-Qubit Superposition Gates
+### 5. 4. Single-Qubit Superposition Gates
 
 #### Hadamard gate
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate?u=76281980)
@@ -3514,7 +3508,7 @@ Create a quantum circuit with four qubits and set their states to represent a sp
 > **Non-Speech:** (bright music) (1)
 
 
-### 5. Multi-Qubit Gates
+### 6. 5. Multi-Qubit Gates
 
 #### Controlled-NOT (CNOT) gate
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate?u=76281980)
@@ -3958,7 +3952,7 @@ Create a quantum circuit with four qubits and set their states to represent a sp
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Quantum Entanglement
+### 7. 6. Quantum Entanglement
 
 #### What is quantum entanglement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980)
@@ -4367,7 +4361,7 @@ Create a quantum circuit with four qubits and set their states to represent a sp
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Real Quantum Hardware
+### 8. 7. Real Quantum Hardware
 
 #### Access IBM quantum computers
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/access-ibm-quantum-computers?u=76281980)
@@ -4645,7 +4639,7 @@ Create a quantum circuit with four qubits and set their states to represent a sp
 > **Analogies:** for example (1)
 
 
-### 8. Quantum Algorithms
+### 9. 8. Quantum Algorithms
 
 #### Superdense coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding?u=76281980)
@@ -5164,7 +5158,7 @@ Create a quantum circuit with four qubits and set their states to represent a sp
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Your next quantum steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980)
@@ -5207,6 +5201,20 @@ Create a quantum circuit with four qubits and set their states to represent a sp
 > **Code Keywords:** super (1)
 > **Definitions:** is a  (1)
 
+
+## Instructor
+
+- [[Olivia Chiu Stone]]
+- [[Barron Stone]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/quantum-computing-fundamentals-2833097/codespaces)
+
+## Skills Covered
+
+- Quantum Computing
 
 ## Path Context
 

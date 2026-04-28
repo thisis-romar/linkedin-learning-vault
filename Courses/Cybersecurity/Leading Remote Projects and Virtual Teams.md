@@ -30,8 +30,10 @@ tags:
   - skill/virtual-teams
   - skill/team-leadership
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Leading%20Remote%20Projects%20and%20Virtual%20Teams.md)
 
 ![Leading Remote Projects and Virtual Teams](https://media.licdn.com/dms/image/v2/C4D0DAQFtydF3cKvlYA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1594864413586?e=2147483647&amp;v=beta&amp;t=Ytjx8iyn40feaDzST-1bFRvz9AQud0QrTc8VX_O5vbo)
 
@@ -42,22 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams) | 29m | Beginner | 296K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Cyndi Snyder Dionisio]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Virtual Teams
-- Team Leadership
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Remote and Virtual Projects Overview** (3 videos)
+- **3. 2. Engaging Remote Project Teams** (3 videos)
+- **4. 3. Getting Project Work Done Virtually** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to remote project management
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980)
@@ -85,7 +82,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. Remote and Virtual Projects Overview
+### 2. 1. Remote and Virtual Projects Overview
 
 #### What is different about remote projects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/what-is-different-about-remote-projects?u=76281980)
@@ -291,7 +288,7 @@ created: 2026-04-21
 > **Speakers:** - working (1)
 
 
-### 2. Engaging Remote Project Teams
+### 3. 2. Engaging Remote Project Teams
 
 #### Managing expectations for virtual project teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980)
@@ -476,7 +473,7 @@ created: 2026-04-21
 > **Speakers:** - communicating (1)
 
 
-### 3. Getting Project Work Done Virtually
+### 4. 3. Getting Project Work Done Virtually
 
 #### Collaboration tools for virtual project teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980)
@@ -737,7 +734,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Takeaways for remote project teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980)
@@ -767,6 +764,19 @@ created: 2026-04-21
 > **Code Keywords:** require (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Cyndi Snyder Dionisio]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Virtual Teams
+- Team Leadership
 
 ## Path Context
 

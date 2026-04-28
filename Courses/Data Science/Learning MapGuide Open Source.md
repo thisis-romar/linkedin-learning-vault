@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/mapguide
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20MapGuide%20Open%20Source.md)
 
 ![Learning MapGuide Open Source](https://media.licdn.com/dms/image/v2/C560DAQFTal9H4RJLgA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621883224657?e=2147483647&amp;v=beta&amp;t=1T2LJ0Gx9yubobZiDCcdfmteUIY4QJueORwHqX5RiqE)
 
@@ -40,21 +42,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157) | 3h 29m | Beginner | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gordon Luckett]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- MapGuide
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Understanding and Installing MapGuide** (3 videos)
+- **3. 2. Connecting and Loading Data with MapGuide Maestro** (3 videos)
+- **4. 3. Stylizing Data** (6 videos)
+- **5. 4. Maps** (1 videos)
+- **6. 5. Basic Web Layouts** (2 videos)
+- **7. 6. Application Definitions** (4 videos)
+- **8. 7. Publishing to the Web** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Explore what MapGuide has to offer
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980)
@@ -116,7 +118,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Understanding and Installing MapGuide
+### 2. 1. Understanding and Installing MapGuide
 
 #### Understanding the components of MapGuide
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980)
@@ -1021,7 +1023,7 @@ created: 2026-04-21
 > **Exercise Files:** template (1)
 
 
-### 2. Connecting and Loading Data with MapGuide Maestro
+### 3. 2. Connecting and Loading Data with MapGuide Maestro
 
 #### Creating project folders in Maestro
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980)
@@ -1690,7 +1692,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### 3. Stylizing Data
+### 4. 3. Stylizing Data
 
 #### Creating point layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-point-layers?u=76281980)
@@ -2806,7 +2808,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Maps
+### 5. 4. Maps
 
 #### Creating maps in Maestro
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980)
@@ -3161,7 +3163,7 @@ created: 2026-04-21
 > **Best Practices:** rule of thumb (2)
 
 
-### 5. Basic Web Layouts
+### 6. 5. Basic Web Layouts
 
 #### Creating basic web layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980)
@@ -3710,7 +3712,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Application Definitions
+### 7. 6. Application Definitions
 
 #### Creating application definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980)
@@ -4545,7 +4547,7 @@ created: 2026-04-21
 > **Warnings:** be careful (1)
 
 
-### 7. Publishing to the Web
+### 8. 7. Publishing to the Web
 
 #### Publishing to the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980)
@@ -4889,7 +4891,7 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980)
@@ -4928,6 +4930,18 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Gordon Luckett]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- MapGuide
 
 ## Path Context
 

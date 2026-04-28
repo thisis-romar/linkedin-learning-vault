@@ -35,8 +35,10 @@ tags:
   - skill/python-programming-language
   - skill/coding-practices
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Practice-%20Real-World%20Coding%20Challenges.md)
 
 ![Python Practice: Real-World Coding Challenges](https://media.licdn.com/dms/image/v2/C560DAQGBiWCh_f2DDA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1673648477738?e=2147483647&amp;v=beta&amp;t=mZDgENO0_pzEg2eOYbXeTDyecOo2UVbx8QqtjyPmBC8)
 
@@ -47,23 +49,24 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges) | 46m | Intermediate | 56K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ryan Mitchell]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/python-challenge-project-3099414/codespaces)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Coding Practices
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Quickstart** (2 videos)
+- **3. 2. Basic Data Types** (2 videos)
+- **4. 3. Basic Data Structures** (2 videos)
+- **5. 4. Control Flow** (2 videos)
+- **6. 5. Functions** (2 videos)
+- **7. 6. Classes and Objects** (2 videos)
+- **8. 7. Errors** (2 videos)
+- **9. 8. Threads and Processes** (2 videos)
+- **10. 9. Working with Files** (2 videos)
+- **11. 10. Packaging Python** (2 videos)
+- **12. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Stepping up to the challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980)
@@ -318,7 +321,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### 1. Quickstart
+### 2. 1. Quickstart
 
 #### Challenge: It's hip to be square
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-it-s-hip-to-be-square?u=76281980)
@@ -395,7 +398,7 @@ created: 2026-04-21
 > **Non-Speech:** (pleasant electronic music) (1)
 
 
-### 2. Basic Data Types
+### 3. 2. Basic Data Types
 
 #### Challenge: Sense of direction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-sense-of-direction?u=76281980)
@@ -481,7 +484,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Basic Data Structures
+### 4. 3. Basic Data Structures
 
 #### Challenge: Structuring scribes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-structuring-scribes?u=76281980)
@@ -565,7 +568,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. Control Flow
+### 5. 4. Control Flow
 
 #### Challenge: Hitting a wall
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-hitting-a-wall?u=76281980)
@@ -661,7 +664,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Functions
+### 6. 5. Functions
 
 #### Challenge: Plotting the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-plotting-the-course?u=76281980)
@@ -726,7 +729,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Classes and Objects
+### 7. 6. Classes and Objects
 
 #### Challenge: Extending the scribe
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-extending-the-scribe?u=76281980)
@@ -816,7 +819,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Errors
+### 8. 7. Errors
 
 #### Challenge: The trouble with scribbles
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-the-trouble-with-scribbles?u=76281980)
@@ -913,7 +916,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Threads and Processes
+### 9. 8. Threads and Processes
 
 #### Challenge: When I move, you move
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-when-i-move-you-move?u=76281980)
@@ -1030,7 +1033,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Working with Files
+### 10. 9. Working with Files
 
 #### Challenge: Single file
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980)
@@ -1156,7 +1159,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat techno music) (1)
 
 
-### 10. Packaging Python
+### 11. 10. Packaging Python
 
 #### Challenge: Handling arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-handling-arguments-18720931?u=76281980)
@@ -1265,7 +1268,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 12. Conclusion
 
 #### Continue your Python journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980)
@@ -1315,6 +1318,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Ryan Mitchell]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/python-challenge-project-3099414/codespaces)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Coding Practices
 
 ## Path Context
 

@@ -32,8 +32,10 @@ tags:
   - skill/user-experience-design-ued
   - skill/sketching
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Sketching%20For%20Ux%20Designers.md)
 
 ![Sketching For Ux Designers](https://media.licdn.com/dms/image/v2/C560DAQEyBXP0WKUh3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629490820278?e=2147483647&amp;v=beta&amp;t=JH3HtBwS2hTAN1_o910aS-tu6jfmgKZ4BJwqNg9HlZ8)
 
@@ -44,22 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers) | 25K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Matt Corrall]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- User Experience Design (UED)
-- Sketching
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Sketching and Design** (5 videos)
+- **3. 2. Basic Techniques** (9 videos)
+- **4. 3. Other Sketching Formats** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Sketching for UX designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-for-ux-designers?u=76281980)
@@ -97,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - [matt] (1)
 
 
-### 1. Sketching and Design
+### 2. 1. Sketching and Design
 
 #### Why we sketch
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/why-we-sketch?u=76281980)
@@ -480,7 +477,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 2. Basic Techniques
+### 3. 2. Basic Techniques
 
 #### Breaking down a mockup
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/breaking-down-a-mockup?u=76281980)
@@ -1337,7 +1334,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Other Sketching Formats
+### 4. 3. Other Sketching Formats
 
 #### Example: Capture sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/example-capture-sheets?u=76281980)
@@ -2032,7 +2029,7 @@ created: 2026-04-21
 > **Speakers:** - everything (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### What's next with your sketching?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980)
@@ -2092,6 +2089,19 @@ created: 2026-04-21
 > **Code Keywords:** try, (1), class. (1), finally, (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Matt Corrall]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- User Experience Design (UED)
+- Sketching
 
 ## Path Context
 

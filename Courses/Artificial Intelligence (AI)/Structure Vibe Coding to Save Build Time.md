@@ -22,8 +22,10 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Structure%20Vibe%20Coding%20to%20Save%20Build%20Time.md)
 
 ![Structure Vibe Coding to Save Build Time](https://media.licdn.com/dms/image/v2/D4E0DAQGWa-Uqs4gQKw/learning-public-crop_675_1200/B4EZc8ainZHQAY-/0/1749065281226?e=2147483647&amp;v=beta&amp;t=8kSq-zLGHH3x5Hmv2ZQfMHgtp2hSwT1homjmKk51O8I)
 
@@ -34,13 +36,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time) | 38m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dylan Davis]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Essence of Vibe Coding** (2 videos)
+- **3. 2. Your AI's Guiding Documents** (5 videos)
+- **4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Save time by structuring your vibe coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/save-time-by-using-vibe-coding-structure?u=76281980)
@@ -75,7 +80,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. The Essence of Vibe Coding
+### 2. 1. The Essence of Vibe Coding
 
 #### What is vibe coding and why do most people get it wrong?
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980)
@@ -264,7 +269,7 @@ created: 2026-04-21
 > **Speakers:** - another (1)
 
 
-### 2. Your AI's Guiding Documents
+### 3. 2. Your AI's Guiding Documents
 
 #### Define the spec, blueprint, and todos
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980)
@@ -1053,7 +1058,7 @@ created: 2026-04-21
 > **Documentation:** the documentation (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### Move forward with structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/move-forward-with-structure?u=76281980)
@@ -1077,6 +1082,10 @@ created: 2026-04-21
 > **Code Keywords:** this, (1)
 > **Speakers:** - here (1)
 
+
+## Instructor
+
+- [[Dylan Davis]]
 
 ## Path Context
 

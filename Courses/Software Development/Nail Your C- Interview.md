@@ -30,8 +30,10 @@ tags:
   - skill/interview-preparation
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Nail%20Your%20C-%20Interview.md)
 
 ![Nail Your C# Interview](https://media.licdn.com/dms/image/v2/D560DAQGDTPNpjfUqXg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008957097?e=2147483647&amp;v=beta&amp;t=5XC1FzoWP5K5KbMZjfo8GwZ7EG-cqoShQrudMZSUqIE)
 
@@ -42,23 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview) | 2h 31m | Intermediate | 53K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kathryn Hodge]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Tech Career Skills
-- Interview Preparation
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. Answering Foundational C# and .NET Questions** (4 videos)
+- **3. 2. Answering C# Language-Specific Questions** (5 videos)
+- **4. 3. Solving Technical Interview Questions: String Manipulation** (7 videos)
+- **5. 4. Solving Technical Interview Questions: Arrays and Linked Lists** (4 videos)
+- **6. 5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures** (6 videos)
+- **7. 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The secret to nailing your C# interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980)
@@ -221,7 +220,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Answering Foundational C# and .NET Questions
+### 2. 1. Answering Foundational C# and .NET Questions
 
 #### How is C# different from other languages?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980)
@@ -440,7 +439,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. Answering C# Language-Specific Questions
+### 3. 2. Answering C# Language-Specific Questions
 
 #### What are classes, instances, and constructors?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-are-classes-instances-and-constructors?u=76281980)
@@ -902,7 +901,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Solving Technical Interview Questions: String Manipulation
+### 4. 3. Solving Technical Interview Questions: String Manipulation
 
 #### Concatenate strings with different methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/concatenate-strings-with-different-methods?u=76281980)
@@ -1599,7 +1598,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Solving Technical Interview Questions: Arrays and Linked Lists
+### 5. 4. Solving Technical Interview Questions: Arrays and Linked Lists
 
 #### Review arrays for technical interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/review-arrays-for-technical-interviews?u=76281980)
@@ -1926,7 +1925,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures
+### 6. 5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures
 
 #### Leverage stacks as a data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-stacks-as-a-data-structure?u=76281980)
@@ -2361,7 +2360,7 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-find-the-most-repeated-word-23732190?u=76281980)
 
 
-### 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism
+### 7. 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism
 
 #### Master abstraction for technical interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980)
@@ -2820,7 +2819,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Good luck with your interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/good-luck-with-your-interview?u=76281980)
@@ -2845,6 +2844,20 @@ created: 2026-04-21
 >
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Kathryn Hodge]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Tech Career Skills
+- Interview Preparation
+- C#
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - skill/project-management
   - skill/business-analysis
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20for%20Project%20Managers.md)
 
 ![Business Analysis for Project Managers](https://media.licdn.com/dms/image/v2/C4E0DAQGkfrZWdy9W5A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614972368978?e=2147483647&amp;v=beta&amp;t=NuMtkI3nF7R21RZjbzOpRUMU2nAsstrFlKSu4k5SClM)
 
@@ -40,22 +42,22 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers) | 1h 23m | 171K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Greta Blash]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Project Management
-- Business Analysis
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Preproject Activities** (4 videos)
+- **3. 2. Stakeholders** (2 videos)
+- **4. 3. Initial Project Understanding** (2 videos)
+- **5. 4. Project Plans** (3 videos)
+- **6. 5. Analyzing Requirements** (4 videos)
+- **7. 6. Agile Approach** (2 videos)
+- **8. 7. Verification and Validation** (2 videos)
+- **9. 8. Project Closure and Deployment** (3 videos)
+- **10. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Business analysis: Supporting project management work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-supporting-project-management-work?u=76281980)
@@ -247,7 +249,7 @@ created: 2026-04-21
 > **Speakers:** - bas (1)
 
 
-### 1. Preproject Activities
+### 2. 1. Preproject Activities
 
 #### Initiating a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/initiating-a-project?u=76281980)
@@ -534,7 +536,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. Stakeholders
+### 3. 2. Stakeholders
 
 #### Stakeholder identification and assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980)
@@ -668,7 +670,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 3. Initial Project Understanding
+### 4. 3. Initial Project Understanding
 
 #### How to develop a shared vision of the product or project result
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-shared-vision-of-the-product-or-project-result?u=76281980)
@@ -779,7 +781,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 4. Project Plans
+### 5. 4. Project Plans
 
 #### Identify, plan, and execute on business analysis activities
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/identify-plan-and-execute-on-business-analysis-activities?u=76281980)
@@ -991,7 +993,7 @@ created: 2026-04-21
 > **Speakers:** - when (1)
 
 
-### 5. Analyzing Requirements
+### 6. 5. Analyzing Requirements
 
 #### Product requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/product-requirements?u=76281980)
@@ -1374,7 +1376,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 6. Agile Approach
+### 7. 6. Agile Approach
 
 #### Business analyst (BA) or product owner
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analyst-ba-or-product-owner?u=76281980)
@@ -1524,7 +1526,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 7. Verification and Validation
+### 8. 7. Verification and Validation
 
 #### Supporting requirements verification and testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/supporting-requirements-verification-and-testing?u=76281980)
@@ -1646,7 +1648,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 8. Project Closure and Deployment
+### 9. 8. Project Closure and Deployment
 
 #### Planning transition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/planning-transition?u=76281980)
@@ -1876,7 +1878,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### Conclusion
+### 10. Conclusion
 
 #### Business analysis competencies are essential for project managers
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-competencies-are-essential-for-project-managers?u=76281980)
@@ -1941,6 +1943,19 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Greta Blash]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Project Management
+- Business Analysis
 
 ## Path Context
 

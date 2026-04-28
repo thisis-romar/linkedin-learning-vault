@@ -28,8 +28,10 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Introduction%20to%20Charts%20and%20Graphs.md)
 
 ![Excel: Introduction to Charts and Graphs](https://media.licdn.com/dms/image/v2/D560DAQENIptYDCQ87g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712092970143?e=2147483647&amp;v=beta&amp;t=U9mVANdTBWf6udW0xfVIWaqPdkgavi-fZ13q4WLeCno)
 
@@ -40,22 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448) | 1h | 216K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dennis Taylor]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Excel
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding Excel Chart Concepts** (4 videos)
+- **3. 2. Creating Basic Charts Quickly** (4 videos)
+- **4. 3. Modifying Chart Appearances** (5 videos)
+- **5. 4. Working with Column, Bar, and Line Charts** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Craft engaging charts and graphs in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/craft-engaging-charts-and-graphs-in-excel?u=76281980)
@@ -81,7 +79,7 @@ created: 2026-04-21
 > **Speakers:** - [dennis] (1)
 
 
-### 1. Understanding Excel Chart Concepts
+### 2. 1. Understanding Excel Chart Concepts
 
 #### Identifying chart elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/identifying-chart-elements?u=76281980)
@@ -582,7 +580,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creating Basic Charts Quickly
+### 3. 2. Creating Basic Charts Quickly
 
 #### Selecting data to display as a chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-data-to-display-as-a-chart?u=76281980)
@@ -909,7 +907,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Modifying Chart Appearances
+### 4. 3. Modifying Chart Appearances
 
 #### Choosing a chart layout with Quick Layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/choosing-a-chart-layout-with-quick-layout?u=76281980)
@@ -1354,7 +1352,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Working with Column, Bar, and Line Charts
+### 5. 4. Working with Column, Bar, and Line Charts
 
 #### Using column and bar charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-column-and-bar-charts?u=76281980)
@@ -1713,7 +1711,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Where to learn more about Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980)
@@ -1734,6 +1732,19 @@ created: 2026-04-21
 >
 > **Speakers:** - [dennis] (1)
 
+
+## Instructor
+
+- [[Dennis Taylor]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Excel
+- Data Visualization
 
 ## Path Context
 

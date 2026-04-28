@@ -30,8 +30,10 @@ tags:
   - skill/business-ethics
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20to%20the%20Rescue.md)
 
 ![Responsible AI to the Rescue](https://media.licdn.com/dms/image/v2/D560DAQFgwemFHqeTuA/learning-public-crop_675_1200/B56ZgfSJ9_HUAY-/0/1752871510155?e=2147483647&amp;v=beta&amp;t=4K6pzj6EX6Uv-iksis8homrJBQf6elCtwcikZLr6VuY)
 
@@ -42,19 +44,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue) | 24m | Beginner | 553K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Boston Consulting Group]]
-
-## Skills Covered
-
-- Responsible AI
-- Business Ethics
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### 1. Responsible AI to the Rescue
+### Chapter Overview
+
+- **1. 1. Responsible AI to the Rescue** (8 videos)
+
+### 1. 1. Responsible AI to the Rescue
 
 #### Introduction to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980)
@@ -680,6 +676,16 @@ created: 2026-04-21
 > **Cross-References:** we talked about (1)
 > **Analogies:** picture (1)
 
+
+## Instructor
+
+- [[Boston Consulting Group]]
+
+## Skills Covered
+
+- Responsible AI
+- Business Ethics
+- Artificial Intelligence (AI)
 
 ## Path Context
 

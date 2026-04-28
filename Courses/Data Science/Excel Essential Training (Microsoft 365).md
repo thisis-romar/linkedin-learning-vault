@@ -36,8 +36,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Essential%20Training%20(Microsoft%20365).md)
 
 ![Excel Essential Training (Microsoft 365)](https://media.licdn.com/dms/image/v2/D4E0DAQGIo14Yl1Ccyg/learning-public-crop_675_1200/B4EZThmaL3HcAY-/0/1738951730202?e=2147483647&amp;v=beta&amp;t=2el620LSWnQ-M3BvTXG1yKHBcGq9Y7py3hJvLydzNTo)
 
@@ -48,13 +50,25 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368) | 2h 56m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dennis Taylor]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Getting Started with Excel** (6 videos)
+- **3. 2. Entering Data in Excel** (4 videos)
+- **4. 3. Formulas and Functions in Excel** (4 videos)
+- **5. 4. Formatting in Excel** (3 videos)
+- **6. 5. Adjusting Excel Worksheet Layouts and Data** (3 videos)
+- **7. 6. Adjusting Excel Page Layouts and Printing** (2 videos)
+- **8. 7. Working with Charts in Excel** (2 videos)
+- **9. 8. Adjusting Excel Worksheet Views** (2 videos)
+- **10. 9. Working with Multiple Excel Worksheets and Workbooks** (3 videos)
+- **11. 10. Excel Data Management Features** (3 videos)
+- **12. 11. Security and Sharing in Excel** (2 videos)
+- **13. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Getting started with Excel for Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980)
@@ -80,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - [dennis] (1)
 
 
-### 1. Getting Started with Excel
+### 2. 1. Getting Started with Excel
 
 #### Excel fundamentals: What can it do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980)
@@ -796,7 +810,7 @@ created: 2026-04-21
 > **Non-Speech:** (mouse clicking) (1)
 
 
-### 2. Entering Data in Excel
+### 3. 2. Entering Data in Excel
 
 #### Exploring data entry, editing, and AutoFill
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980)
@@ -1295,7 +1309,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Formulas and Functions in Excel
+### 4. 3. Formulas and Functions in Excel
 
 #### Using simple formulas in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980)
@@ -2006,7 +2020,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Formatting in Excel
+### 5. 4. Formatting in Excel
 
 #### Exploring font styles, borders, and color backgrounds
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980)
@@ -2480,7 +2494,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Adjusting Excel Worksheet Layouts and Data
+### 6. 5. Adjusting Excel Worksheet Layouts and Data
 
 #### Rows and columns: Insert/delete and hide/unhide
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980)
@@ -2828,7 +2842,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Adjusting Excel Page Layouts and Printing
+### 7. 6. Adjusting Excel Page Layouts and Printing
 
 #### Page Layout view and commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980)
@@ -3152,7 +3166,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Working with Charts in Excel
+### 8. 7. Working with Charts in Excel
 
 #### Creating charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980)
@@ -3597,7 +3611,7 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 
 
-### 8. Adjusting Excel Worksheet Views
+### 9. 8. Adjusting Excel Worksheet Views
 
 #### Freezing and unfreezing panes
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/freezing-and-unfreezing-panes?u=76281980)
@@ -3868,7 +3882,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Working with Multiple Excel Worksheets and Workbooks
+### 10. 9. Working with Multiple Excel Worksheets and Workbooks
 
 #### Renaming, inserting, and deleting sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/renaming-inserting-and-deleting-sheets?u=76281980)
@@ -4255,7 +4269,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Excel Data Management Features
+### 11. 10. Excel Data Management Features
 
 #### Sorting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980)
@@ -4802,7 +4816,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Security and Sharing in Excel
+### 12. 11. Security and Sharing in Excel
 
 #### Protecting worksheets and workbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/protecting-worksheets-and-workbooks?u=76281980)
@@ -5114,7 +5128,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 13. Conclusion
 
 #### Continue your Excel journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/continue-your-excel-journey?u=76281980)
@@ -5139,6 +5153,10 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 > **Speakers:** - [presenter] (1)
 
+
+## Instructor
+
+- [[Dennis Taylor]]
 
 ## Path Context
 

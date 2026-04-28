@@ -30,8 +30,10 @@ tags:
   - skill/workplace-organization
   - skill/diversity-equity-inclusion-and-belonging-deib
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Supporting%20Accessibility%20in%20a%20Hybrid%20Workplace.md)
 
 ![Supporting Accessibility in a Hybrid Workplace](https://media.licdn.com/dms/image/v2/C4E0DAQH9IaE9-gq-ZQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670536168179?e=2147483647&amp;v=beta&amp;t=oofZ9YqT8vVzhG6TwmiMnEjczhfWfjHjiQs5SxscKYU)
 
@@ -42,24 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace) | 50m | 34K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Madecraft]]
-- [[Jessica Williams]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Accessibility
-- Workplace Organization
-- Diversity, Equity, Inclusion and Belonging (DEIB)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Basic Inclusion Principles** (5 videos)
+- **3. 2. Inclusive Content Practices** (4 videos)
+- **4. 3. Inclusive Meeting Technology** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Inclusive workplace basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/inclusive-workplace-basics?u=76281980)
@@ -94,7 +89,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 1. Basic Inclusion Principles
+### 2. 1. Basic Inclusion Principles
 
 #### Pillars of success
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/pillars-of-success?u=76281980)
@@ -423,7 +418,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 2. Inclusive Content Practices
+### 3. 2. Inclusive Content Practices
 
 #### Formatting matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/formatting-matters?u=76281980)
@@ -736,7 +731,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 3. Inclusive Meeting Technology
+### 4. 3. Inclusive Meeting Technology
 
 #### Agenda and materials
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980)
@@ -1135,7 +1130,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Review and assess
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980)
@@ -1204,6 +1199,21 @@ created: 2026-04-21
 > **Analogies:** it's like (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Madecraft]]
+- [[Jessica Williams]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Accessibility
+- Workplace Organization
+- Diversity, Equity, Inclusion and Belonging (DEIB)
 
 ## Path Context
 

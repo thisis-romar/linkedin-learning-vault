@@ -36,8 +36,10 @@ tags:
   - topic/network-and-system-administration
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Introduction%20to%20Identity%20and%20Access%20Management.md)
 
 ![Introduction to Identity and Access Management](https://media.licdn.com/dms/image/v2/C560DAQHnNlXXSDM8jg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1665594694262?e=2147483647&amp;v=beta&amp;t=bjQ8QTqZEBdo2FF5qW90UZivUthZNSzr9PxN4Nf7Lg4)
 
@@ -48,17 +50,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management) | 57m | Beginner | 47K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Mandy Huth]]
-
-## Skills Covered
-
-- Identity and Access Management (IAM)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Key Concepts for Identity** (4 videos)
+- **3. 2. Applying Authentication in Your Organization** (3 videos)
+- **4. 3. Applying Authorization in Your Organization** (3 videos)
+- **5. 4. Advanced Tips and Tricks** (4 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The importance of identity and access management
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/the-importance-of-identity-and-access-management?u=76281980)
@@ -107,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Key Concepts for Identity
+### 2. 1. Key Concepts for Identity
 
 #### Authentication, authorization, and accounting
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/authentication-authorization-and-accounting?u=76281980)
@@ -442,7 +445,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 2. Applying Authentication in Your Organization
+### 3. 2. Applying Authentication in Your Organization
 
 #### Better together: Identity providers and identity governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/better-together-identity-providers-and-identity-governance?u=76281980)
@@ -690,7 +693,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Applying Authorization in Your Organization
+### 4. 3. Applying Authorization in Your Organization
 
 #### Least privilege
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/least-privilege?u=76281980)
@@ -854,7 +857,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Advanced Tips and Tricks
+### 5. 4. Advanced Tips and Tricks
 
 #### Zero trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/zero-trust?u=76281980)
@@ -1153,7 +1156,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/next-steps?u=76281980)
@@ -1218,6 +1221,14 @@ created: 2026-04-21
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Mandy Huth]]
+
+## Skills Covered
+
+- Identity and Access Management (IAM)
 
 ## Path Context
 

@@ -33,8 +33,10 @@ tags:
   - skill/career-development
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Advance%20Your%20Cybersecurity%20Career.md)
 
 ![Advance Your Cybersecurity Career](https://media.licdn.com/dms/image/v2/C4D0DAQH8V_1fJ51xLA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1663880162126?e=2147483647&amp;v=beta&amp;t=-WNMd0r9JV9fWmc73iAeCmCqlr-104yCTcnY4nnSSyQ)
 
@@ -45,19 +47,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career) | 20m | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Henri Davis]]
-
-## Skills Covered
-
-- Tech Career Skills
-- Career Development
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Your Cybersecurity Role Has Become Mundane** (4 videos)
+- **3. 2. Advance Your Cybersecurity Career** (4 videos)
+- **4. 3. Improve Your Soft Skills** (2 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### To maintain longevity, you need to keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/to-maintain-longevity-you-need-to-keep-learning?u=76281980)
@@ -94,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 1. Your Cybersecurity Role Has Become Mundane
+### 2. 1. Your Cybersecurity Role Has Become Mundane
 
 #### Self-evaluate your cybersecurity career
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/self-evaluate-your-cybersecurity-career?u=76281980)
@@ -313,7 +313,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Advance Your Cybersecurity Career
+### 3. 2. Advance Your Cybersecurity Career
 
 #### Continuously learn new skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980)
@@ -511,7 +511,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Improve Your Soft Skills
+### 4. 3. Improve Your Soft Skills
 
 #### Improve your soft skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980)
@@ -655,7 +655,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Excel and advance in your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/excel-and-advance-in-your-career?u=76281980)
@@ -682,6 +682,16 @@ created: 2026-04-21
 >
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Henri Davis]]
+
+## Skills Covered
+
+- Tech Career Skills
+- Career Development
+- Cybersecurity
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/marketing-strategy
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nano%20Tips%20for%20Using%20Generative%20AI%20Tools%20for%20Better%20Marketing%20Outcomes%20with%20Joanna%20Yung.md)
 
 ![Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna Yung](https://media.licdn.com/dms/image/v2/C4E0DAQEpDMQdfqEIWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1677531910541?e=2147483647&amp;v=beta&amp;t=D4_99Kv1L_lx_mfc_eyHxQUV9aX7OzRaZrFcrjLSxQ4)
 
@@ -40,23 +42,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung) | 21m | 19K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Joanna Yung]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Generative AI for Marketing
-- Artificial Intelligence (AI)
-- Marketing Strategy
-
 ## Table of Contents
 
-### 1. Harness AI for Better Marketing Outcomes
+### Chapter Overview
+
+- **1. 1. Harness AI for Better Marketing Outcomes** (10 videos)
+
+### 1. 1. Harness AI for Better Marketing Outcomes
 
 #### The future of marketing: Understanding the role of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980)
@@ -673,6 +665,20 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 > **Speakers:** - listen (1)
 
+
+## Instructor
+
+- [[Joanna Yung]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Generative AI for Marketing
+- Artificial Intelligence (AI)
+- Marketing Strategy
 
 ## Path Context
 

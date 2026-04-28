@@ -25,8 +25,10 @@ tags:
   - topic/network-and-system-administration
   - skill/microsoft-365
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20To%20Microsoft%20365%20For%20It%20Pros.md)
 
 ![Introduction To Microsoft 365 For It Pros](https://media.licdn.com/dms/image/v2/D560DAQF9rn5O3IiFVw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689359082992?e=2147483647&amp;v=beta&amp;t=UKxrZE_mADWnbXMHepcKgXuPiaUnq8h1jm4odOJzz9M)
 
@@ -37,13 +39,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567) | Beginner | 12K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Microsoft 365
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Microsoft 365 Overview** (7 videos)
+- **3. 2. Getting Started with Microsoft 365** (3 videos)
+- **4. 3. Basic Administration of Microsoft 365** (13 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Modernize IT infrastructure with Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/modernize-it-infrastructure-with-microsoft-365?u=76281980)
@@ -64,7 +70,7 @@ created: 2026-04-21
 > **Speakers:** - are (1)
 
 
-### 1. Microsoft 365 Overview
+### 2. 1. Microsoft 365 Overview
 
 #### What is Microsoft 365?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980)
@@ -989,7 +995,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1), - but (1)
 
 
-### 2. Getting Started with Microsoft 365
+### 3. 2. Getting Started with Microsoft 365
 
 #### Creating a free Microsoft 365 E5 trial account
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980)
@@ -1379,7 +1385,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Basic Administration of Microsoft 365
+### 4. 3. Basic Administration of Microsoft 365
 
 #### Introduction to the Microsoft 365 Admin Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980)
@@ -2711,7 +2717,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Continue learning Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/continue-learning-microsoft-365?u=76281980)
@@ -2730,6 +2736,10 @@ created: 2026-04-21
 >
 > **Speakers:** - thank (1)
 
+
+## Skills Covered
+
+- Microsoft 365
 
 ## Path Context
 

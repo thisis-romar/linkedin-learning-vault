@@ -19,8 +19,10 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Leveraging%20Generative%20AI%20in%20Finance%20and%20Accounting.md)
 
 ![Leveraging Generative AI in Finance and Accounting](https://media.licdn.com/dms/image/v2/D4D0DAQHPrIqvNrsOug/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700010883148?e=2147483647&amp;v=beta&amp;t=v4NZqD46HCJpYvZ31qzKJz0IPE5iURArAUIA0f5cADA)
 
@@ -31,13 +33,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting) | 48m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Glenn Hopper]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Introduction to Generative AI in Finance and Accounting** (3 videos)
+- **3. 2. Generative Models and Their Applications** (3 videos)
+- **4. 3. Ethical Considerations and Compliance** (3 videos)
+- **5. 4. Case Studies and Practical Applications** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Introduction to generative AI in finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/introduction-to-generative-ai-in-finance?u=76281980)
@@ -68,7 +75,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 1. Introduction to Generative AI in Finance and Accounting
+### 2. 1. Introduction to Generative AI in Finance and Accounting
 
 #### The rise of generative AI in finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980)
@@ -263,7 +270,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 2. Generative Models and Their Applications
+### 3. 2. Generative Models and Their Applications
 
 #### Understanding generative models
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980)
@@ -488,7 +495,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 3. Ethical Considerations and Compliance
+### 4. 3. Ethical Considerations and Compliance
 
 #### Ethics in AI-driven finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980)
@@ -681,7 +688,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 4. Case Studies and Practical Applications
+### 5. 4. Case Studies and Practical Applications
 
 #### Analyze an annual report with generative AI: 10-K
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980)
@@ -942,7 +949,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Apply generative AI techniques with confidence and compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980)
@@ -983,6 +990,10 @@ created: 2026-04-21
 > **Code Keywords:** public (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Glenn Hopper]]
 
 ## Path Context
 

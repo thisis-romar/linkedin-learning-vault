@@ -24,8 +24,10 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Css%20Fundamentals%20Unlock%20The%20Power%20Of%20Web%20Styling.md)
 
 ![Css Fundamentals Unlock The Power Of Web Styling](https://media.licdn.com/dms/image/v2/C560DAQHjUKCxwq_Ciw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1656092319307?e=2147483647&amp;v=beta&amp;t=95IrNDbR2RY9qkesxk5VxR6sQhcemjC5_Nm1DMMhVxg)
 
@@ -36,13 +38,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling) | Beginner | 32K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Cascading Style Sheets (CSS)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. CSS Basics** (8 videos)
+- **3. 2. CSS Concepts** (7 videos)
+- **4. 3. A Closer Look at the Cascade** (3 videos)
+- **5. 4. Layouts** (5 videos)
+- **6. 5. Working with CSS** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Time to learn some CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/time-to-learn-some-css-25724800?u=76281980)
@@ -73,7 +81,7 @@ created: 2026-04-21
 > **Speakers:** - css (1)
 
 
-### 1. CSS Basics
+### 2. 1. CSS Basics
 
 #### What is CSS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980)
@@ -705,7 +713,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### 2. CSS Concepts
+### 3. 2. CSS Concepts
 
 #### Why CSS reset and normalize matter
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/why-css-reset-and-normalize-matter?u=76281980)
@@ -1361,7 +1369,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. A Closer Look at the Cascade
+### 4. 3. A Closer Look at the Cascade
 
 #### Understanding cascading order
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-cascading-order?u=76281980)
@@ -1575,7 +1583,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Layouts
+### 5. 4. Layouts
 
 #### Structuring a page with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980)
@@ -1848,7 +1856,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Working with CSS
+### 6. 5. Working with CSS
 
 #### Organizing your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/organizing-your-code?u=76281980)
@@ -2121,7 +2129,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Learning more about CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980)
@@ -2164,6 +2172,10 @@ created: 2026-04-21
 > **Code Keywords:** continue (1), finally, (1)
 > **Speakers:** - [carrie] (1)
 
+
+## Skills Covered
+
+- Cascading Style Sheets (CSS)
 
 ## Path Context
 

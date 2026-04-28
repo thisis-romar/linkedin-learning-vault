@@ -33,8 +33,10 @@ tags:
   - skill/microsoft-teams
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20in%20Teams-%20AI-Powered%20Collaboration.md)
 
 ![Copilot in Teams: AI-Powered Collaboration](https://media.licdn.com/dms/image/v2/D4D0DAQEvB5wLbR4zvQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1708542020138?e=2147483647&amp;v=beta&amp;t=pQUvw4TSboNJdDDg8JNVqmmJGJi5vafv5Png3ykWtX0)
 
@@ -45,20 +47,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration) | 21m | 48K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nick Brazzi]]
-
-## Skills Covered
-
-- Microsoft Copilot
-- AI for Business
-- Microsoft Teams
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Using the Different Copilot Tools in Teams** (6 videos)
+
+### 1. Introduction
 
 #### Use the Copilot AI assistant in Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-ai-assistant-in-teams?u=76281980)
@@ -117,7 +113,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Using the Different Copilot Tools in Teams
+### 2. 1. Using the Different Copilot Tools in Teams
 
 #### Get summaries and answers about chat conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-summaries-and-answers-about-chat-conversations?u=76281980)
@@ -622,6 +618,17 @@ created: 2026-04-21
 > **UI Navigation:** in the sidebar (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Nick Brazzi]]
+
+## Skills Covered
+
+- Microsoft Copilot
+- AI for Business
+- Microsoft Teams
+- Artificial Intelligence (AI)
 
 ## Path Context
 

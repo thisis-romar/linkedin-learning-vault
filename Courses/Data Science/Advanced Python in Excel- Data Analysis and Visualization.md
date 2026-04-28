@@ -36,8 +36,10 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Python%20in%20Excel-%20Data%20Analysis%20and%20Visualization.md)
 
 ![Advanced Python in Excel: Data Analysis and Visualization](https://media.licdn.com/dms/image/v2/D4D0DAQENZljX71ArEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1721771083260?e=2147483647&amp;v=beta&amp;t=NzkW1NlgfhULhS4HI4-zbAQZNMRODJgY5P7aBcmHf9c)
 
@@ -48,25 +50,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization) | 48m | Advanced | 45K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sarah Om]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-python-in-excel-data-analysis-and-visualization-4560553)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Analysis
-- Microsoft Excel
-- Data Visualization
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Exploratory Data Analysis** (3 videos)
+- **3. 2. Trends** (4 videos)
+- **4. 3. Predictions** (5 videos)
+- **5. 4. Dashboard for Consistent Monitoring** (3 videos)
+- **6. 5. Final Project** (1 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Do more with data using Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980)
@@ -123,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - before (1)
 
 
-### 1. Exploratory Data Analysis
+### 2. 1. Exploratory Data Analysis
 
 #### Data used in this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-used-in-this-course?u=76281980)
@@ -316,7 +312,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Trends
+### 3. 2. Trends
 
 #### Natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980)
@@ -497,7 +493,7 @@ created: 2026-04-21
 > **Speakers:** - at (1)
 
 
-### 3. Predictions
+### 4. 3. Predictions
 
 #### Predictive tools: Shaping future strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980)
@@ -782,7 +778,7 @@ created: 2026-04-21
 > **Speakers:** - with (1)
 
 
-### 4. Dashboard for Consistent Monitoring
+### 5. 4. Dashboard for Consistent Monitoring
 
 #### Build an effective dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard?u=76281980)
@@ -922,7 +918,7 @@ created: 2026-04-21
 > **Speakers:** - from (1)
 
 
-### 5. Final Project
+### 6. 5. Final Project
 
 #### Final project walk-through
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980)
@@ -995,7 +991,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980)
@@ -1018,6 +1014,22 @@ created: 2026-04-21
 > **Code Keywords:** finally, (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Sarah Om]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-python-in-excel-data-analysis-and-visualization-4560553)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Analysis
+- Microsoft Excel
+- Data Visualization
 
 ## Path Context
 

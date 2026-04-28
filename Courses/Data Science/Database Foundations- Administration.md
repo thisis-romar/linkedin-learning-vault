@@ -36,33 +36,33 @@ tags:
   - topic/software-development
   - skill/database-administration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations-%20Administration.md)
 
 ![Database Foundations: Administration](https://media.licdn.com/dms/image/v2/C4E0DAQGClEsPFBuuow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615489383878?e=2147483647&amp;v=beta&amp;t=rA78ksZYVHT9Gt2kH9vpzMK_X2CD1pWDOXxn2nRQcE8)
 
 # Database Foundations: Administration
 
-> Ongoing, regular administration is critical to the security and performance of databases such as  SQL Server. In this course—the fourth installment in the Database Foundations series—explore vital techniques and best practices for administering a database. Instructor Adam Wilbert covers a variety of core concepts, including how to secure a server with user authentication and roles, protect your da
+> Ongoing, regular administration is critical to the security and performance of databases such as SQL Server. In this course—the fourth installment in the Database Foundations series—explore vital techniques and best practices for administering a database. Instructor Adam Wilbert covers a variety of core concepts, including how to secure a server with user authentication and roles, protect your dat
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189) | 2h 9m | Beginner | 196K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Wilbert]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Database Administration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Backup and Restore** (8 videos)
+- **3. 2. Server Security** (5 videos)
+- **4. 3. Database Security** (4 videos)
+- **5. 4. High Availability** (4 videos)
+- **6. 5. Health and Maintenance of the System** (4 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Administer a database server
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980)
@@ -248,7 +248,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Backup and Restore
+### 2. 1. Backup and Restore
 
 #### Backup plans
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980)
@@ -1176,7 +1176,7 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 
 
-### 2. Server Security
+### 3. 2. Server Security
 
 #### Principals and securables
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980)
@@ -1793,7 +1793,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Database Security
+### 4. 3. Database Security
 
 #### View permissions on PostgreSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980)
@@ -2183,7 +2183,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. High Availability
+### 5. 4. High Availability
 
 #### Managing server uptime
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/managing-server-uptime?u=76281980)
@@ -2449,7 +2449,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Health and Maintenance of the System
+### 6. 5. Health and Maintenance of the System
 
 #### Server maintenance tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980)
@@ -2799,7 +2799,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980)
@@ -2827,6 +2827,18 @@ created: 2026-04-21
 > **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Adam Wilbert]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Database Administration
 
 ## Path Context
 

@@ -28,8 +28,10 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C-%20Practice-%20Generic%20Collections.md)
 
 ![C# Practice: Generic Collections](https://media.licdn.com/dms/image/v2/D4E0DAQHJedElBO8qIw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691188888679?e=2147483647&amp;v=beta&amp;t=M6CQ3IFs0FXdjgeC-OWAAsngHStFc6v-6Lez9PN6rhw)
 
@@ -40,17 +42,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections) | 26m | Intermediate | 13K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Walt Ritscher]]
-
-## Skills Covered
-
-- C#
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Collections Code Challenges** (6 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Practice your C# generic collections skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/practice-your-c-sharp-generic-collections-skills?u=76281980)
@@ -336,7 +336,7 @@ created: 2026-04-21
 > **Exercise Files:** sample code (1)
 
 
-### 1. Collections Code Challenges
+### 2. 1. Collections Code Challenges
 
 #### Solution: Insert into List<T>
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/4481725?u=76281980)
@@ -753,7 +753,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/next-steps?u=76281980)
@@ -776,6 +776,14 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - thanks (1)
 
+
+## Instructor
+
+- [[Walt Ritscher]]
+
+## Skills Covered
+
+- C#
 
 ## Path Context
 

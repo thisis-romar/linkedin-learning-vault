@@ -35,8 +35,10 @@ tags:
   - skill/database-development
   - skill/database-applications
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations-%20Application%20Development.md)
 
 ![Database Foundations: Application Development](https://media.licdn.com/dms/image/v2/C4E0DAQF2QDZxqGhZCg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1620230928794?e=2147483647&amp;v=beta&amp;t=w6xKHYfvRQFpzbyQMaRs7mSEDT6-dPAVhwSomXqW_1o)
 
@@ -47,22 +49,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development) | 1h 54m | Intermediate | 66K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Wilbert]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Database Development
-- Database Applications
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Application Layers** (4 videos)
+- **3. 2. PostgreSQL and PHP** (10 videos)
+- **4. 3. SQL Server and ASP.NET Core** (7 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Integrating databases with an application
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980)
@@ -156,7 +153,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Application Layers
+### 2. 1. Application Layers
 
 #### Multitier architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980)
@@ -438,7 +435,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. PostgreSQL and PHP
+### 3. 2. PostgreSQL and PHP
 
 #### What is PHP and Apache?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980)
@@ -1678,7 +1675,7 @@ created: 2026-04-21
 > **Exercise Files:** exercise files (1)
 
 
-### 3. SQL Server and ASP.NET Core
+### 4. 3. SQL Server and ASP.NET Core
 
 #### What is ASP.NET Core?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980)
@@ -2629,7 +2626,7 @@ created: 2026-04-21
 > **Analogies:** for instance (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980)
@@ -2659,6 +2656,19 @@ created: 2026-04-21
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Adam Wilbert]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Database Development
+- Database Applications
 
 ## Path Context
 

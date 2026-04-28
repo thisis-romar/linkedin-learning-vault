@@ -7,7 +7,7 @@ course_count: 3
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 4
+louvain_cluster: 5
 tags:
   - professional-certificate
   - topic/devops
@@ -31,8 +31,10 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-21'
+created: '2026-04-28'
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Professional%20Certificates/Docker%20Foundations%20Professional%20Certificate.md)
 
 # Docker Foundations Professional Certificate
 

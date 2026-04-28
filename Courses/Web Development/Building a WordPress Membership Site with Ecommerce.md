@@ -28,8 +28,10 @@ tags:
   - skill/wordpress-development
   - skill/e-commerce
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20a%20WordPress%20Membership%20Site%20with%20Ecommerce.md)
 
 ![Building a WordPress Membership Site with Ecommerce](https://media.licdn.com/dms/image/v2/C560DAQFroQDxzN6Mlw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634664278629?e=2147483647&amp;v=beta&amp;t=TY3BNIwe-2O9fJINBROE6FeejvCZ7DxjvpMRk1hjGSk)
 
@@ -40,18 +42,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce) | 1h 6m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Carrie Dils]]
-
-## Skills Covered
-
-- Wordpress Development
-- E-Commerce
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Getting Started** (5 videos)
+- **3. 2. Setting Up Your Store** (2 videos)
+- **4. 3. Setting Up Your Memberships** (6 videos)
+- **5. 4. Restricting Content and Products** (4 videos)
+- **6. 5. Managing Members** (3 videos)
+- **7. 6. Before You Launch** (3 videos)
+- **8. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### Build a paid membership website
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/build-a-paid-membership-website?u=76281980)
@@ -134,7 +138,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started
+### 2. 1. Getting Started
 
 #### What is a paid membership site?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980)
@@ -449,7 +453,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Setting Up Your Store
+### 3. 2. Setting Up Your Store
 
 #### Installing WooCommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980)
@@ -611,7 +615,7 @@ created: 2026-04-21
 > **Env Vars:** zip (1)
 
 
-### 3. Setting Up Your Memberships
+### 4. 3. Setting Up Your Memberships
 
 #### Get and install WooCommerce Memberships
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/get-and-install-woocommerce-memberships?u=76281980)
@@ -1097,7 +1101,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Restricting Content and Products
+### 5. 4. Restricting Content and Products
 
 #### Understanding restriction rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/understanding-restriction-rules?u=76281980)
@@ -1475,7 +1479,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Managing Members
+### 6. 5. Managing Members
 
 #### Set up member account area
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980)
@@ -1640,7 +1644,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 6. Before You Launch
+### 7. 6. Before You Launch
 
 #### Test registration and payments
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-registration-and-payments?u=76281980)
@@ -1743,7 +1747,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Additional integrations
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980)
@@ -1797,6 +1801,15 @@ created: 2026-04-21
 >
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Carrie Dils]]
+
+## Skills Covered
+
+- Wordpress Development
+- E-Commerce
 
 ## Path Context
 

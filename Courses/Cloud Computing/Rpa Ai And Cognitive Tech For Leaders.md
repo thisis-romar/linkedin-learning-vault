@@ -37,8 +37,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/digital-transformation
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Rpa%20Ai%20And%20Cognitive%20Tech%20For%20Leaders.md)
 
 ![Rpa Ai And Cognitive Tech For Leaders](https://media.licdn.com/dms/image/v2/C4E0DAQFh_Mmm1UhdYg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669417291?e=2147483647&amp;v=beta&amp;t=5NrTyIfAsHI2HQ4DnGvDzuzuoQLEBkwvy8q9n1aQFJk)
 
@@ -49,24 +51,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders) | Beginner | 230K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ian Barkin]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- AI for Business
-- Robotic Process Automation (RPA)
-- Artificial Intelligence (AI)
-- Digital Transformation
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. The Technology Landscape** (5 videos)
+- **3. 2. Use Cases** (4 videos)
+- **4. 3. The Top-Down Mandate for Change** (4 videos)
+- **5. 4. Tips from the Trenches** (6 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Your digital ops journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/your-digital-ops-journey-25743614?u=76281980)
@@ -233,7 +229,7 @@ created: 2026-04-21
 > **Speakers:** - let (1)
 
 
-### 1. The Technology Landscape
+### 2. 1. The Technology Landscape
 
 #### Software is eating the world—of work
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980)
@@ -523,7 +519,7 @@ created: 2026-04-21
 > **Speakers:** - as (1)
 
 
-### 2. Use Cases
+### 3. 2. Use Cases
 
 #### Where is digital ops?
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/where-is-digital-ops?u=76281980)
@@ -732,7 +728,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 3. The Top-Down Mandate for Change
+### 4. 3. The Top-Down Mandate for Change
 
 #### The need for a strong, top-down mandate
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-need-for-a-strong-top-down-mandate?u=76281980)
@@ -935,7 +931,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 4. Tips from the Trenches
+### 5. 4. Tips from the Trenches
 
 #### Benefits: ROP portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980)
@@ -1273,7 +1269,7 @@ created: 2026-04-21
 > **Speakers:** - okay (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/next-steps?u=76281980)
@@ -1320,6 +1316,21 @@ created: 2026-04-21
 > **Code Keywords:** for. (1), finally, (1), continue (1)
 > **Speakers:** - so (1)
 
+
+## Instructor
+
+- [[Ian Barkin]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- AI for Business
+- Robotic Process Automation (RPA)
+- Artificial Intelligence (AI)
+- Digital Transformation
 
 ## Path Context
 

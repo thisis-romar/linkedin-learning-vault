@@ -30,8 +30,10 @@ tags:
   - skill/data-analysis
   - skill/business-data-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Actionable%20Insights%20and%20Business%20Data%20in%20Practice.md)
 
 ![Actionable Insights and Business Data in Practice](https://media.licdn.com/dms/image/v2/D560DAQGkbxybAA3GKA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686856002542?e=2147483647&amp;v=beta&amp;t=rCNZEoBOlibvKWkoYotOLg8xqeNdUAVQtaUo0E8AJeQ)
 
@@ -42,23 +44,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice) | 1h 33m | Intermediate | 156K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Barton Poulson]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Data-driven Decision Making
-- Data Analysis
-- Business Data Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Focus on Actionable Insights** (9 videos)
+- **3. 2. Present Actionable Insights** (9 videos)
+- **4. 3. Keep the Actionable Insights Process Going** (1 videos)
+
+### 1. Introduction
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/welcome?u=76281980)
@@ -136,7 +131,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Focus on Actionable Insights
+### 2. 1. Focus on Actionable Insights
 
 #### Identify actionable insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980)
@@ -1106,7 +1101,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 2. Present Actionable Insights
+### 3. 2. Present Actionable Insights
 
 #### Choose and prepare graphics for insight
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980)
@@ -1967,7 +1962,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Keep the Actionable Insights Process Going
+### 4. 3. Keep the Actionable Insights Process Going
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/next-steps-and-additional-resources?u=76281980)
@@ -2012,6 +2007,20 @@ created: 2026-04-21
 > **Env Vars:** roi (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Barton Poulson]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Data-driven Decision Making
+- Data Analysis
+- Business Data Management
 
 ## Path Context
 

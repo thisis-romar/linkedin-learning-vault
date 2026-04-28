@@ -30,8 +30,10 @@ tags:
   - skill/data-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20In%20Excel%20Getting%20Started%20With%20Data%20Analysis.md)
 
 ![Python In Excel Getting Started With Data Analysis](https://media.licdn.com/dms/image/v2/D4D0DAQFxadV7_oR6xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1709943037883?e=2147483647&amp;v=beta&amp;t=CYezBfgHHhzDam6YkSstly2wAtly4oWOfgaKXw_Yh7w)
 
@@ -42,20 +44,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis) | Intermediate | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/python-in-excel-quick-start-4551222)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Data Analysis
-- Microsoft Excel
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. The Basics** (7 videos)
+- **3. 2. Working with Data** (6 videos)
+- **4. 3. Practical Python-in-Excel Examples** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Two great technologies together at last
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/two-great-technologies-together-at-last?u=76281980)
@@ -171,7 +170,7 @@ created: 2026-04-21
 > **Speakers:** - [joe] (1)
 
 
-### 1. The Basics
+### 2. 1. The Basics
 
 #### A simple example
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980)
@@ -920,7 +919,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright curious music) (1)
 
 
-### 2. Working with Data
+### 3. 2. Working with Data
 
 #### Introduction to DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980)
@@ -1644,7 +1643,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Practical Python-in-Excel Examples
+### 4. 3. Practical Python-in-Excel Examples
 
 #### Fixing dates with dateutil
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/fixing-dates-with-dateutil?u=76281980)
@@ -2311,7 +2310,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/next-steps?u=76281980)
@@ -2337,6 +2336,17 @@ created: 2026-04-21
 > **CLI Commands:** python (3)
 > **Speakers:** - [joe] (1)
 
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/python-in-excel-quick-start-4551222)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Data Analysis
+- Microsoft Excel
 
 ## Path Context
 

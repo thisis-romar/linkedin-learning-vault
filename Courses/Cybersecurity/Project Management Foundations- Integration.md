@@ -28,8 +28,10 @@ tags:
   - topic/security
   - skill/project-integration-management
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Project%20Management%20Foundations-%20Integration.md)
 
 ![Project Management Foundations: Integration](https://media.licdn.com/dms/image/v2/C560DAQGGWqFe6cl1fw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567028999882?e=2147483647&amp;v=beta&amp;t=c-oqQavAdRfrCLSSxCKmOfn3frfNz2_x7sF8r7EUw58)
 
@@ -40,21 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2) | 44m | Beginner | 354K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Oliver Yarbrough]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Project Integration Management
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Overview: Project Integration Management** (4 videos)
+- **3. 2. Processes: Project Integration Management** (7 videos)
+- **4. 3. Best Practices: Project Integration Management** (5 videos)
+- **5. 4. Emerging Trends: Project Integration Management** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Integrate processes as you PM
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-processes-as-you-pm?u=76281980)
@@ -87,7 +86,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 1. Overview: Project Integration Management
+### 2. 1. Overview: Project Integration Management
 
 #### Define integration management
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/define-integration-management?u=76281980)
@@ -357,7 +356,7 @@ created: 2026-04-21
 > **Speakers:** - there (1)
 
 
-### 2. Processes: Project Integration Management
+### 3. 2. Processes: Project Integration Management
 
 #### Develop Project Charter
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/develop-project-charter?u=76281980)
@@ -844,7 +843,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 3. Best Practices: Project Integration Management
+### 4. 3. Best Practices: Project Integration Management
 
 #### Tailor integration management
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/tailor-integration-management?u=76281980)
@@ -1158,7 +1157,7 @@ created: 2026-04-21
 > **Speakers:** - have (1)
 
 
-### 4. Emerging Trends: Project Integration Management
+### 5. 4. Emerging Trends: Project Integration Management
 
 #### Integrate self-directed teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-self-directed-teams?u=76281980)
@@ -1367,7 +1366,7 @@ created: 2026-04-21
 > **Speakers:** - artificial (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/next-steps?u=76281980)
@@ -1394,6 +1393,18 @@ created: 2026-04-21
 > **Warnings:** be aware (1)
 > **Speakers:** - now (1)
 
+
+## Instructor
+
+- [[Oliver Yarbrough]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Project Integration Management
 
 ## Path Context
 

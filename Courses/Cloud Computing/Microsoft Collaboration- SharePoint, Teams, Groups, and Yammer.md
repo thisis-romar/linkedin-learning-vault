@@ -31,8 +31,10 @@ tags:
   - skill/virtual-collaboration
   - skill/microsoft-products
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Collaboration-%20SharePoint%2C%20Teams%2C%20Groups%2C%20and%20Yammer.md)
 
 ![Microsoft Collaboration: SharePoint, Teams, Groups, and Yammer](https://media.licdn.com/dms/image/v2/C4D0DAQHpZ5YYOwNb7w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1667931400491?e=2147483647&amp;v=beta&amp;t=KlI87gVgcB2BUnrv4Zz3q-doyv7cHhUw5Ycs4yOz5MA)
 
@@ -43,18 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022) | 1h 3m | Intermediate | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Gini von Courter]]
-
-## Skills Covered
-
-- Virtual Collaboration
-- Microsoft Products
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Getting Started with Microsoft Collaboration** (5 videos)
+- **3. 2. Creating Spaces for Collaboration** (6 videos)
+- **4. 3. Putting It Together in Teams** (6 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Collaborate with Teams, SharePoint, Microsoft 365 Groups, and Yammer
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborate-with-teams-sharepoint-microsoft-365-groups-and-yammer?u=76281980)
@@ -120,7 +121,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Getting Started with Microsoft Collaboration
+### 2. 1. Getting Started with Microsoft Collaboration
 
 #### How collaboration begins
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980)
@@ -437,7 +438,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Creating Spaces for Collaboration
+### 3. 2. Creating Spaces for Collaboration
 
 #### Create a team and a channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980)
@@ -1009,7 +1010,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Putting It Together in Teams
+### 4. 3. Putting It Together in Teams
 
 #### Teams as your collaboration hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980)
@@ -1450,7 +1451,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980)
@@ -1495,6 +1496,15 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Gini von Courter]]
+
+## Skills Covered
+
+- Virtual Collaboration
+- Microsoft Products
 
 ## Path Context
 

@@ -31,8 +31,10 @@ tags:
   - skill/python-programming-language
   - skill/game-programming
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Building%20the%20Classic%20Snake%20Game%20with%20Python.md)
 
 ![Building the Classic Snake Game with Python](https://media.licdn.com/dms/image/v2/C560DAQHnKo9bVeGWvg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634664629182?e=2147483647&amp;v=beta&amp;t=tce3cMRiOhSI0qMKw5At4vvqIV1ZIrudnLjf6DKUoNo)
 
@@ -43,23 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python) | 1h 17m | Intermediate | 102K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Robin Andrews]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/snake-game-python-2896343)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Game Programming
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Introduction to Python Turtle Graphics** (6 videos)
+- **3. 2. The Snake Game** (7 videos)
+- **4. 3. Finishing Touches** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Take your Python skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/take-your-python-skills-to-the-next-level-23405502?u=76281980)
@@ -96,7 +92,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Introduction to Python Turtle Graphics
+### 2. 1. Introduction to Python Turtle Graphics
 
 #### Meet turtle graphics
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980)
@@ -656,7 +652,7 @@ created: 2026-04-21
 > **Speakers:** - the (1)
 
 
-### 2. The Snake Game
+### 3. 2. The Snake Game
 
 #### Snake representation and movement
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980)
@@ -1615,7 +1611,7 @@ created: 2026-04-21
 > **Speakers:** - at (1)
 
 
-### 3. Finishing Touches
+### 4. 3. Finishing Touches
 
 #### Avoiding repetition by using Lambda expressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/avoiding-repetition-by-using-lambda-expressions?u=76281980)
@@ -2101,7 +2097,7 @@ created: 2026-04-21
 > **File Paths:** score.txt (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Integrating material covered
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/integrating-material-covered?u=76281980)
@@ -2125,6 +2121,20 @@ created: 2026-04-21
 > **Env Vars:** gui (1)
 > **Speakers:** - [robin] (1)
 
+
+## Instructor
+
+- [[Robin Andrews]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/snake-game-python-2896343)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Game Programming
 
 ## Path Context
 

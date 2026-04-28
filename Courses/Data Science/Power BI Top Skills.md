@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Top%20Skills.md)
 
 ![Power BI Top Skills](https://media.licdn.com/dms/image/v2/D4E0DAQEkvllFruJSwA/learning-public-crop_675_1200/B4EZoYIV13IIAY-/0/1761341431475?e=2147483647&amp;v=beta&amp;t=lT0b7gqCApsj_Y5WRiEq2NbCtkkBOQ3tTobpt-fMoR4)
 
@@ -40,22 +42,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109) | 48m | Intermediate | 6K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Eddie Love]]
-- [[Madecraft]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Microsoft Power BI
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Start Strong with Power BI Foundations** (4 videos)
+- **3. 2. Connect, Clean, and Transform Data** (5 videos)
+- **4. 3. Create Visualizations in Power BI** (7 videos)
+- **5. 4. Share Your Insights** (2 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Unlock your data’s potential with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980)
@@ -87,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - [eddie] (1)
 
 
-### 1. Start Strong with Power BI Foundations
+### 2. 1. Start Strong with Power BI Foundations
 
 #### Identify why Power BI matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980)
@@ -354,7 +352,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Connect, Clean, and Transform Data
+### 3. 2. Connect, Clean, and Transform Data
 
 #### Create objective statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980)
@@ -736,7 +734,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Create Visualizations in Power BI
+### 4. 3. Create Visualizations in Power BI
 
 #### Create your first visual in the report view
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-your-first-visual-in-the-report-view?u=76281980)
@@ -1292,7 +1290,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Share Your Insights
+### 5. 4. Share Your Insights
 
 #### Publish your Power BI report
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980)
@@ -1429,7 +1427,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Take the next step with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980)
@@ -1464,6 +1462,19 @@ created: 2026-04-21
 > **Code Keywords:** module (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Eddie Love]]
+- [[Madecraft]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Microsoft Power BI
 
 ## Path Context
 

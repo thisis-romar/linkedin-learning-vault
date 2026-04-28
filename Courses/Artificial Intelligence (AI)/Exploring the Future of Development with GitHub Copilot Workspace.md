@@ -33,8 +33,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Exploring%20the%20Future%20of%20Development%20with%20GitHub%20Copilot%20Workspace.md)
 
 ![Exploring the Future of Development with GitHub Copilot Workspace](https://media.licdn.com/dms/image/v2/D560DAQG5oNpjPsDhZg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724694523741?e=2147483647&amp;v=beta&amp;t=WojonxksaCoWB_rIERx8lgajZ6wThZ_cNCtV5rqHvO0)
 
@@ -45,20 +47,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace) | 14m | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Ray Villalobos]]
-
-## Skills Covered
-
-- Software Development
-- AI Software Development
-- Artificial Intelligence (AI)
-- GitHub Copilot
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Using Copilot Workspace** (3 videos)
+
+### 1. Introduction
 
 #### The coding revolution is driven by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/the-coding-revolution-is-driven-by-ai?u=76281980)
@@ -89,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - last (1)
 
 
-### 1. Using Copilot Workspace
+### 2. 1. Using Copilot Workspace
 
 #### Creating a spec with Copilot Workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980)
@@ -405,6 +401,17 @@ created: 2026-04-21
 > **Cross-References:** go back to (1)
 > **Prerequisites:** install (1)
 
+
+## Instructor
+
+- [[Ray Villalobos]]
+
+## Skills Covered
+
+- Software Development
+- AI Software Development
+- Artificial Intelligence (AI)
+- GitHub Copilot
 
 ## Path Context
 

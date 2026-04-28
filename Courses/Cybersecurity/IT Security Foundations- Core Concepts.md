@@ -30,8 +30,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/IT%20Security%20Foundations-%20Core%20Concepts.md)
 
 ![IT Security Foundations: Core Concepts](https://media.licdn.com/dms/image/v2/C560DAQGtUScLh9G_Vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668806798851?e=2147483647&amp;v=beta&amp;t=C1vgQ4P95KfREJ3X1vxi9uAR6JQ5forLHbjVfoS7Apk)
 
@@ -42,13 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118) | 1h 52m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Lisa Bock]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Core Security Principles** (6 videos)
+- **3. 2. Understanding Malware** (5 videos)
+- **4. 3. Breaching Your System** (5 videos)
+- **5. 4. Investigating Internet Security** (5 videos)
+- **6. 5. Mobile and Wireless Security** (4 videos)
+- **7. 6. Secure Devices and Applications** (4 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Tech savvy, tech safe
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/tech-savvy-tech-safe?u=76281980)
@@ -110,7 +119,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Core Security Principles
+### 2. 1. Core Security Principles
 
 #### Providing a secure system
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980)
@@ -460,7 +469,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Understanding Malware
+### 3. 2. Understanding Malware
 
 #### Comparing malicious programs
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/comparing-malicious-programs?u=76281980)
@@ -834,7 +843,7 @@ created: 2026-04-21
 > **Warnings:** keep in mind (1)
 
 
-### 3. Breaching Your System
+### 4. 3. Breaching Your System
 
 #### Stopping the imposters
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/stopping-the-imposters?u=76281980)
@@ -1130,7 +1139,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Investigating Internet Security
+### 5. 4. Investigating Internet Security
 
 #### Accessing cloud resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980)
@@ -1496,7 +1505,7 @@ created: 2026-04-21
 > **Best Practices:** best practice (1)
 
 
-### 5. Mobile and Wireless Security
+### 6. 5. Mobile and Wireless Security
 
 #### Securing your Wi-Fi
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980)
@@ -1822,7 +1831,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 6. Secure Devices and Applications
+### 7. 6. Secure Devices and Applications
 
 #### Providing data confidentiality
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980)
@@ -2134,7 +2143,7 @@ created: 2026-04-21
 > **Speakers:** - [presenter] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/next-steps?u=76281980)
@@ -2168,6 +2177,10 @@ created: 2026-04-21
 > **Cross-References:** we discussed (1), we covered (1)
 > **Speakers:** - [lisa] (1)
 
+
+## Instructor
+
+- [[Lisa Bock]]
 
 ## Path Context
 

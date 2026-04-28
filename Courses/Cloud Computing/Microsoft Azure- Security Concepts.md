@@ -32,8 +32,10 @@ tags:
   - skill/cybersecurity
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Azure-%20Security%20Concepts.md)
 
 ![Microsoft Azure: Security Concepts](https://media.licdn.com/dms/image/v2/D560DAQERyAhthc0pFA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732322429791?e=2147483647&amp;v=beta&amp;t=QzYmbqQ3pbx7I-ZNu1RUvbml9Xwrsplm4Q8upoFf3zA)
 
@@ -44,19 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655) | 2h 1m | Intermediate | 14K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[David Elfassy]]
-
-## Skills Covered
-
-- Identity and Access Management (IAM)
-- Cybersecurity
-- Microsoft Azure
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Security Principles in the Cloud** (7 videos)
+- **3. 2. Security Concepts for the Azure Cloud** (5 videos)
+- **4. 3. Secure Your Azure Resources** (5 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Microsoft Azure security concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980)
@@ -104,7 +104,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Security Principles in the Cloud
+### 2. 1. Security Principles in the Cloud
 
 #### A security approach: The importance of securing
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980)
@@ -920,7 +920,7 @@ created: 2026-04-21
 > **Cross-References:** previous video (1)
 
 
-### 2. Security Concepts for the Azure Cloud
+### 3. 2. Security Concepts for the Azure Cloud
 
 #### Managing and securing resources in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980)
@@ -1494,7 +1494,7 @@ created: 2026-04-21
 > **Prerequisites:** configure (1)
 
 
-### 3. Secure Your Azure Resources
+### 4. 3. Secure Your Azure Resources
 
 #### Secure resources using Microsoft Defender for Cloud: General settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980)
@@ -1954,7 +1954,7 @@ created: 2026-04-21
 > **Definitions:** is a  (3)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Deepen your understanding of Azure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980)
@@ -1982,6 +1982,16 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[David Elfassy]]
+
+## Skills Covered
+
+- Identity and Access Management (IAM)
+- Cybersecurity
+- Microsoft Azure
 
 ## Path Context
 

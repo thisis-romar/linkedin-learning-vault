@@ -28,8 +28,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/leadership-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leading%20Talent%20Development%20In%20The%20Era%20Of%20Ai.md)
 
 ![Leading Talent Development In The Era Of Ai](https://media.licdn.com/dms/image/v2/D4D0DAQG5c6ZrXIiTJw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736201005211?e=2147483647&amp;v=beta&amp;t=1Cu2Q3eP1DTYS_KrknA9Qyd6A7EM1w_n8v7kyfrQH6Y)
 
@@ -40,16 +42,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai) | 8K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Employee Learning & Development
-- AI Strategy
-- Artificial Intelligence (AI)
-- Leadership Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Understanding the Impact of AI on Talent Development** (2 videos)
+- **3. 2. The Five Talent Strategy Foundations for Thriving in an AI-Driven Workplace** (5 videos)
+- **4. 3. Equipping Leaders and Managers to Drive AI-Enabled Growth** (2 videos)
+- **5. 4. Next Steps: Embedding a Culture of Learning and Adaptability** (2 videos)
+
+### 1. Introduction
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/introduction-25123946?u=76281980)
@@ -82,7 +85,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 1. Understanding the Impact of AI on Talent Development
+### 2. 1. Understanding the Impact of AI on Talent Development
 
 #### The new era of talent development
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980)
@@ -272,7 +275,7 @@ created: 2026-04-21
 > **Speakers:** - ai (1)
 
 
-### 2. The Five Talent Strategy Foundations for Thriving in an AI-Driven Workplace
+### 3. 2. The Five Talent Strategy Foundations for Thriving in an AI-Driven Workplace
 
 #### Skills agility: Build skills faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980)
@@ -765,7 +768,7 @@ created: 2026-04-21
 > **Speakers:** - imagine (1)
 
 
-### 3. Equipping Leaders and Managers to Drive AI-Enabled Growth
+### 4. 3. Equipping Leaders and Managers to Drive AI-Enabled Growth
 
 #### Build an AI-ready leadership team
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/build-an-ai-ready-leadership-team?u=76281980)
@@ -941,7 +944,7 @@ created: 2026-04-21
 > **Speakers:** - your (1)
 
 
-### 4. Next Steps: Embedding a Culture of Learning and Adaptability
+### 5. 4. Next Steps: Embedding a Culture of Learning and Adaptability
 
 #### Fostering a culture of continuous growth and adaptability
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980)
@@ -1097,6 +1100,13 @@ created: 2026-04-21
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 
+
+## Skills Covered
+
+- Employee Learning & Development
+- AI Strategy
+- Artificial Intelligence (AI)
+- Leadership Development
 
 ## Path Context
 

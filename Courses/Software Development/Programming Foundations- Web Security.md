@@ -30,8 +30,10 @@ tags:
   - skill/web-services-security
   - skill/programming-foundations
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Web%20Security.md)
 
 ![Programming Foundations: Web Security](https://media.licdn.com/dms/image/v2/D560DAQFPY5XAoOMO4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1690838117691?e=2147483647&amp;v=beta&amp;t=1iYoKbkOSfocRkAgbW8risB9CtZHZMLKhmg1aMJTlak)
 
@@ -42,19 +44,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062) | 2h 11m | Beginner | 178K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kevin Skoglund]]
-
-## Skills Covered
-
-- Secure Coding
-- Web Services Security
-- Programming Foundations
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Security Overview** (5 videos)
+- **3. 2. General Security Principles** (9 videos)
+- **4. 3. Filter Input, Control Output** (8 videos)
+- **5. 4. The Most Common Attacks** (13 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The importance of security
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/the-importance-of-security?u=76281980)
@@ -96,7 +97,7 @@ created: 2026-04-21
 > **Speakers:** - security (1)
 
 
-### 1. Security Overview
+### 2. 1. Security Overview
 
 #### What is security?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-security?u=76281980)
@@ -503,7 +504,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 2. General Security Principles
+### 3. 2. General Security Principles
 
 #### Least privilege
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980)
@@ -1384,7 +1385,7 @@ created: 2026-04-21
 > **Speakers:** - our (1)
 
 
-### 3. Filter Input, Control Output
+### 4. 3. Filter Input, Control Output
 
 #### Regulate requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980)
@@ -2136,7 +2137,7 @@ created: 2026-04-21
 > **Speakers:** - logging (1)
 
 
-### 4. The Most Common Attacks
+### 5. 4. The Most Common Attacks
 
 #### Types of credential attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980)
@@ -3642,7 +3643,7 @@ created: 2026-04-21
 > **Speakers:** - a (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980)
@@ -3712,6 +3713,16 @@ created: 2026-04-21
 > **Best Practices:** don't forget (1)
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Kevin Skoglund]]
+
+## Skills Covered
+
+- Secure Coding
+- Web Services Security
+- Programming Foundations
 
 ## Path Context
 

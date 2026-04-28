@@ -26,8 +26,10 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Research-%20Journey%20Mapping.md)
 
 ![UX Research: Journey Mapping](https://media.licdn.com/dms/image/v2/C560DAQFJ-DL7KssPIQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621362315583?e=2147483647&amp;v=beta&amp;t=n45zxi3-n36kq98k5zNcfTbeqbHtleY6nkcQ8B9ewLc)
 
@@ -38,21 +40,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping) | 30m | 53K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Sarah Weise]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- UX Research
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. What Is Journey Mapping?** (4 videos)
+- **3. 2. Gathering Data for Your Journey Map** (2 videos)
+- **4. 3. Making Value-Driven Decisions** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The moments that matter
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980)
@@ -96,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 1. What Is Journey Mapping?
+### 2. 1. What Is Journey Mapping?
 
 #### The power of journey mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-power-of-journey-mapping?u=76281980)
@@ -359,7 +357,7 @@ created: 2026-04-21
 > **Speakers:** - think (1)
 
 
-### 2. Gathering Data for Your Journey Map
+### 3. 2. Gathering Data for Your Journey Map
 
 #### Asking the right questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980)
@@ -534,7 +532,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 3. Making Value-Driven Decisions
+### 4. 3. Making Value-Driven Decisions
 
 #### Value-driven solutions for customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/value-driven-solutions-for-customers?u=76281980)
@@ -727,7 +725,7 @@ created: 2026-04-21
 > **Speakers:** - once (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### The journey continues
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980)
@@ -763,6 +761,18 @@ created: 2026-04-21
 > **URLs:** [bixaresearch.com](https://bixaresearch.com) (1)
 > **Speakers:** - when (1)
 
+
+## Instructor
+
+- [[Sarah Weise]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- UX Research
 
 ## Path Context
 

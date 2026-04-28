@@ -30,8 +30,10 @@ tags:
   - skill/social-media-communications
   - skill/customer-service
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Serving%20Customers%20Using%20Social%20Media.md)
 
 ![Serving Customers Using Social Media](https://media.licdn.com/dms/image/v2/D560DAQGnD8B9F-8mLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1712180302659?e=2147483647&amp;v=beta&amp;t=hIwh5VlucpBrTlrazCoS1-vUi1D5FcQ1tpXQ80HEu0k)
 
@@ -42,22 +44,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575) | 1h 6m | Intermediate | 75K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Leslie O'Flahavan]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Social Media Communications
-- Customer Service
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Delivering Efficient Customer Service on Social Media** (3 videos)
+- **3. 2. Crafting Personalized, On-Brand Customer Service Responses** (5 videos)
+- **4. 3. Using Templates for Efficient Responses to Your Customers** (2 videos)
+- **5. 4. Handling Angry Customers on Social Media** (3 videos)
+- **6. 5. Responding to Ratings and Reviews** (2 videos)
+- **7. 6. Leveraging Generative AI Tools in Responding to Customers on Social** (2 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### How to have a fulfilling career in social customer care
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/how-to-have-a-fulfilling-career-in-social-customer-care?u=76281980)
@@ -87,7 +87,7 @@ created: 2026-04-21
 > **Speakers:** - these (1)
 
 
-### 1. Delivering Efficient Customer Service on Social Media
+### 2. 1. Delivering Efficient Customer Service on Social Media
 
 #### Respond quickly to customer inquiries on social
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-quickly-to-customer-inquiries-on-social?u=76281980)
@@ -311,7 +311,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 2. Crafting Personalized, On-Brand Customer Service Responses
+### 3. 2. Crafting Personalized, On-Brand Customer Service Responses
 
 #### Adopt an informal yet professional tone in your writing
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/adopt-an-informal-yet-professional-tone-in-your-writing?u=76281980)
@@ -743,7 +743,7 @@ created: 2026-04-21
 > **Speakers:** - has (1)
 
 
-### 3. Using Templates for Efficient Responses to Your Customers
+### 4. 3. Using Templates for Efficient Responses to Your Customers
 
 #### Determine when to use templates versus customized responses
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-to-use-templates-versus-customized-responses?u=76281980)
@@ -910,7 +910,7 @@ created: 2026-04-21
 > **Speakers:** - we (1)
 
 
-### 4. Handling Angry Customers on Social Media
+### 5. 4. Handling Angry Customers on Social Media
 
 #### Defuse angry customers skillfully
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/defuse-angry-customers-skillfully?u=76281980)
@@ -1154,7 +1154,7 @@ created: 2026-04-21
 > **Speakers:** - what (1)
 
 
-### 5. Responding to Ratings and Reviews
+### 6. 5. Responding to Ratings and Reviews
 
 #### Respond to low ratings and poor reviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980)
@@ -1333,7 +1333,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 6. Leveraging Generative AI Tools in Responding to Customers on Social
+### 7. 6. Leveraging Generative AI Tools in Responding to Customers on Social
 
 #### Use GenAI to analyze customer posts
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980)
@@ -1651,7 +1651,7 @@ created: 2026-04-21
 > **Speakers:** - too (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Take your social customer care skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980)
@@ -1686,6 +1686,19 @@ created: 2026-04-21
 > **Analogies:** just like (1)
 > **Speakers:** - well (1)
 
+
+## Instructor
+
+- [[Leslie O'Flahavan]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Social Media Communications
+- Customer Service
 
 ## Path Context
 

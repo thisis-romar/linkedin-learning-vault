@@ -42,8 +42,10 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20for%20Data%20Analysis.md)
 
 ![SQL for Data Analysis](https://media.licdn.com/dms/image/v2/D560DAQHW625ALPsQSQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689272470053?e=2147483647&amp;v=beta&amp;t=CZ2IqWXVSN8-jp_yCFfWY-BjIDzkXWYWmWqYreq-RC4)
 
@@ -54,23 +56,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200) | 1h 10m | Intermediate | 33K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nikiya Simpson]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/sql-for-data-analysis-3271025/codespaces)
-
-## Skills Covered
-
-- Data Analysis
-- SQL
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (4 videos)
+- **2. 1. SQL Introduction and Asking the Right Questions** (3 videos)
+- **3. 2. Using Data Types** (4 videos)
+- **4. 3. Working with Dates** (2 videos)
+- **5. 4. Easy SQL Functions** (3 videos)
+- **6. 5. Presenting Your SQL Results in Data Visualization** (2 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Using SQL for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980)
@@ -282,7 +280,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. SQL Introduction and Asking the Right Questions
+### 2. 1. SQL Introduction and Asking the Right Questions
 
 #### A quick review of Structured Query Language (SQL)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980)
@@ -659,7 +657,7 @@ created: 2026-04-21
 > **Speakers:** - now (1)
 
 
-### 2. Using Data Types
+### 3. 2. Using Data Types
 
 #### Using data types and identifying the wrong data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980)
@@ -1124,7 +1122,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Working with Dates
+### 4. 3. Working with Dates
 
 #### Working with dates
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980)
@@ -1313,7 +1311,7 @@ created: 2026-04-21
 > **Speakers:** - in (1)
 
 
-### 4. Easy SQL Functions
+### 5. 4. Easy SQL Functions
 
 #### Common SQL string functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980)
@@ -1636,7 +1634,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 5. Presenting Your SQL Results in Data Visualization
+### 6. 5. Presenting Your SQL Results in Data Visualization
 
 #### Getting started with data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980)
@@ -1758,7 +1756,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Leveling up SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980)
@@ -1812,6 +1810,20 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
+
+## Instructor
+
+- [[Nikiya Simpson]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/sql-for-data-analysis-3271025/codespaces)
+
+## Skills Covered
+
+- Data Analysis
+- SQL
 
 ## Path Context
 

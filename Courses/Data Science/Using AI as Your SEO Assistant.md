@@ -30,8 +30,10 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20AI%20as%20Your%20SEO%20Assistant.md)
 
 ![Using AI as Your SEO Assistant](https://media.licdn.com/dms/image/v2/D560DAQE65vC11v-WgQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689184813152?e=2147483647&amp;v=beta&amp;t=syqYLQNyn0Nqsz4mwawELe34C1SgbRdhrYb6i-qoXnE)
 
@@ -42,23 +44,15 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant) | 59m | 91K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dave Birss]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Search Engine Optimization (SEO)
-- AI for Business
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Using AI to Improve Your SEO** (11 videos)
+- **3. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### You plus AI equals better SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/you-plus-ai-equals-better-seo?u=76281980)
@@ -197,7 +191,7 @@ created: 2026-04-21
 > **Speakers:** - thanks (1)
 
 
-### 1. Using AI to Improve Your SEO
+### 2. 1. Using AI to Improve Your SEO
 
 #### Using AI to generate keywords for SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980)
@@ -1596,7 +1590,7 @@ created: 2026-04-21
 > **Speakers:** - just (1)
 
 
-### Conclusion
+### 3. Conclusion
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980)
@@ -1635,6 +1629,20 @@ created: 2026-04-21
 > **UI Navigation:** click on (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Dave Birss]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Search Engine Optimization (SEO)
+- AI for Business
+- Artificial Intelligence (AI)
 
 ## Path Context
 

@@ -39,8 +39,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/regulatory-compliance
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Preparing%20for%20the%20EU%20AI%20Act-%20A%20Conversation%20with%20Jon%20Adams.md)
 
 ![Preparing for the EU AI Act: A Conversation with Jon Adams](https://media.licdn.com/dms/image/v2/D4D0DAQE2EEzDJhafOA/learning-public-crop_675_1200/B4DZUapIL_G4AY-/0/1739908744230?e=2147483647&amp;v=beta&amp;t=2ou4G8qAEEQ0ZXgmGsp7i1n5DNva4UafYEvDCDtdIy8)
 
@@ -51,21 +53,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams) | 37m | 4K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nick Brazzi]]
-
-## Skills Covered
-
-- Responsible AI
-- EU Law
-- AI for Business
-- Artificial Intelligence (AI)
-- Regulatory Compliance
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. What is the EU AI Act and What Does it Cover?** (6 videos)
+- **3. 2. What Does the EU AI Act Mean for Businesses?** (4 videos)
+- **4. 3. Learn More About the EU AI Act** (1 videos)
+
+### 1. Introduction
 
 #### Understanding the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-the-eu-ai-act?u=76281980)
@@ -113,7 +110,7 @@ created: 2026-04-21
 > **Speakers:** - all (1), - sure (1), - excellent (1), - right (1)
 
 
-### 1. What is the EU AI Act and What Does it Cover?
+### 2. 1. What is the EU AI Act and What Does it Cover?
 
 #### An overview of the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/an-overview-of-the-eu-ai-act?u=76281980)
@@ -512,7 +509,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### 2. What Does the EU AI Act Mean for Businesses?
+### 3. 2. What Does the EU AI Act Mean for Businesses?
 
 #### What does this mean for businesses outside the EU?
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/what-does-this-mean-for-businesses-outside-the-eu?u=76281980)
@@ -755,7 +752,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 3. Learn More About the EU AI Act
+### 4. 3. Learn More About the EU AI Act
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/additional-resources?u=76281980)
@@ -793,6 +790,18 @@ created: 2026-04-21
 > **Speakers:** - that (1), - yeah (1), - [nick] (1)
 > **Code Keywords:** this, (2)
 
+
+## Instructor
+
+- [[Nick Brazzi]]
+
+## Skills Covered
+
+- Responsible AI
+- EU Law
+- AI for Business
+- Artificial Intelligence (AI)
+- Regulatory Compliance
 
 ## Path Context
 

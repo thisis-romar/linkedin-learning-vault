@@ -28,8 +28,10 @@ tags:
   - topic/data-science
   - skill/financial-statements
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Reading%20Corporate%20Financial%20Statements.md)
 
 ![Reading Corporate Financial Statements](https://media.licdn.com/dms/image/v2/C4E0DAQGppR-5xOfs1Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1616615611487?e=2147483647&amp;v=beta&amp;t=J1MJf3v_FV49f2mKjYb6TZ95wpYDR6AkRQIVy32lRYk)
 
@@ -40,21 +42,19 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements) | 1h 8m | Intermediate | 70K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Denise Probert]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Financial Statements
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. The Basics of Financial Statement Preparation** (6 videos)
+- **3. 2. The Basics of Income Statement Preparation** (4 videos)
+- **4. 3. The Basics of Balance Sheet Preparation** (5 videos)
+- **5. 4. The Basics of Statement of Cash Flow Preparation** (5 videos)
+- **6. 5. The Basics of Statement of Stockholders' Equity Preparation** (3 videos)
+- **7. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### The power of financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980)
@@ -101,7 +101,7 @@ created: 2026-04-21
 > **Speakers:** - you (1)
 
 
-### 1. The Basics of Financial Statement Preparation
+### 2. 1. The Basics of Financial Statement Preparation
 
 #### What stories do financial statements tell?
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/what-stories-do-financial-statements-tell?u=76281980)
@@ -589,7 +589,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. The Basics of Income Statement Preparation
+### 3. 2. The Basics of Income Statement Preparation
 
 #### Recognizing revenue and understanding the revenue recognition principle
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/recognizing-revenue-and-understanding-the-revenue-recognition-principle?u=76281980)
@@ -816,7 +816,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. The Basics of Balance Sheet Preparation
+### 4. 3. The Basics of Balance Sheet Preparation
 
 #### The accounting equation and the assets section of the balance sheet
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-assets-section-of-the-balance-sheet?u=76281980)
@@ -1083,7 +1083,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. The Basics of Statement of Cash Flow Preparation
+### 5. 4. The Basics of Statement of Cash Flow Preparation
 
 #### The impact of operating activities on the cash flow statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-operating-activities-on-the-cash-flow-statement?u=76281980)
@@ -1404,7 +1404,7 @@ created: 2026-04-21
 > **Non-Speech:** (soft music) (1)
 
 
-### 5. The Basics of Statement of Stockholders' Equity Preparation
+### 6. 5. The Basics of Statement of Stockholders' Equity Preparation
 
 #### Understanding the statement of stockholder's equity
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-the-statement-of-stockholder-s-equity?u=76281980)
@@ -1606,7 +1606,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat music) (1)
 
 
-### Conclusion
+### 7. Conclusion
 
 #### Your next steps in creating financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980)
@@ -1639,6 +1639,18 @@ created: 2026-04-21
 >
 > **Speakers:** - thank (1)
 
+
+## Instructor
+
+- [[Denise Probert]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Financial Statements
 
 ## Path Context
 

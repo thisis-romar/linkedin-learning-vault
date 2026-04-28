@@ -31,8 +31,10 @@ tags:
   - skill/python-programming-language
   - skill/database-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python-%20Practical%20Database%20Examples.md)
 
 ![Advanced Python: Practical Database Examples](https://media.licdn.com/dms/image/v2/D560DAQGTOqAc5WFE5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683311050722?e=2147483647&amp;v=beta&amp;t=gDIBPsu4C6-ge6rqmOrATTut_YekAZGbkQiCxpWChZg)
 
@@ -43,23 +45,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples) | 1h 48m | Advanced | 55K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Kathryn Hodge]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/advanced-python-practical-database-examples-4363655)
-
-## Skills Covered
-
-- Python (Programming Language)
-- Database Development
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Creating an API that Serves Data from a Database with FastAPI** (12 videos)
+- **3. 2. Developing Analysis Applications with Pandas** (8 videos)
+- **4. 3. Building a Full-Stack Task List Application with Flask** (14 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Use databases to level up your Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980)
@@ -98,7 +94,7 @@ created: 2026-04-21
 > **Speakers:** - [kathryn] (1)
 
 
-### 1. Creating an API that Serves Data from a Database with FastAPI
+### 2. 1. Creating an API that Serves Data from a Database with FastAPI
 
 #### What is an API?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980)
@@ -1114,7 +1110,7 @@ created: 2026-04-21
 > **Tools:** postman (1)
 
 
-### 2. Developing Analysis Applications with Pandas
+### 3. 2. Developing Analysis Applications with Pandas
 
 #### Introduction to pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980)
@@ -1629,7 +1625,7 @@ created: 2026-04-21
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. Building a Full-Stack Task List Application with Flask
+### 4. 3. Building a Full-Stack Task List Application with Flask
 
 #### Set up Flask in a Python application
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980)
@@ -2537,7 +2533,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### Continue building applications with databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980)
@@ -2578,6 +2574,20 @@ created: 2026-04-21
 > **Code Keywords:** continue (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Kathryn Hodge]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/advanced-python-practical-database-examples-4363655)
+
+## Skills Covered
+
+- Python (Programming Language)
+- Database Development
 
 ## Path Context
 

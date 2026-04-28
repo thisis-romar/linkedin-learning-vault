@@ -28,8 +28,10 @@ tags:
   - skill/linkedin-marketing
   - skill/newsletters
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Creating%20LinkedIn%20Newsletters.md)
 
 ![Creating LinkedIn Newsletters](https://media.licdn.com/dms/image/v2/C560DAQFwwEdQ-WlFHw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634847225959?e=2147483647&amp;v=beta&amp;t=S5cxZVErrxgXwB2ULRQ4vgnJSHfnpKn16X4egBZ4fx0)
 
@@ -40,18 +42,13 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-linkedin-newsletters) | 21m | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dr Gemma Leigh Roberts]]
-
-## Skills Covered
-
-- LinkedIn Marketing
-- Newsletters
-
 ## Table of Contents
 
-### 1. Creating LinkedIn Newsletters
+### Chapter Overview
+
+- **1. 1. Creating LinkedIn Newsletters** (7 videos)
+
+### 1. 1. Creating LinkedIn Newsletters
 
 #### Find your voice with newsletters on LinkedIn
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-linkedin-newsletters/find-your-voice-with-newsletters-on-linkedin-14656532?u=76281980)
@@ -552,6 +549,15 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 > **Speakers:** - developing (1)
 
+
+## Instructor
+
+- [[Dr Gemma Leigh Roberts]]
+
+## Skills Covered
+
+- LinkedIn Marketing
+- Newsletters
 
 ## Path Context
 

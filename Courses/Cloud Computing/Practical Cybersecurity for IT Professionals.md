@@ -27,8 +27,10 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Practical%20Cybersecurity%20for%20IT%20Professionals.md)
 
 ![Practical Cybersecurity for IT Professionals](https://media.licdn.com/dms/image/v2/C560DAQHkzm_evdXHzA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1651516598008?e=2147483647&amp;v=beta&amp;t=GtNKWwI6ubADA8aOgnvMJ1vNw78tzdbwtQRqRx6gqxY)
 
@@ -39,13 +41,23 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals) | 2h 57m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Malcolm Shore]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Why Cybersecurity?** (7 videos)
+- **3. 2. Antivirus** (4 videos)
+- **4. 3. Firewalls** (7 videos)
+- **5. 4. Network Scanning** (2 videos)
+- **6. 5. Network Connections** (5 videos)
+- **7. 6. Vulnerability Scanning** (5 videos)
+- **8. 7. Web Applications** (5 videos)
+- **9. 8. Network Protocols** (3 videos)
+- **10. 9. AI Security** (4 videos)
+- **11. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Understanding cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-cybersecurity?u=76281980)
@@ -157,7 +169,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Why Cybersecurity?
+### 2. 1. Why Cybersecurity?
 
 #### A history of hackers
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980)
@@ -798,7 +810,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Antivirus
+### 3. 2. Antivirus
 
 #### Introducing Microsoft Defender Antivirus
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980)
@@ -1079,7 +1091,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Firewalls
+### 4. 3. Firewalls
 
 #### Why firewalls?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980)
@@ -1755,7 +1767,7 @@ created: 2026-04-21
 > **URLs:** [github.com](https://github.com) (1)
 
 
-### 4. Network Scanning
+### 5. 4. Network Scanning
 
 #### Getting started with Nmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980)
@@ -1924,7 +1936,7 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 
 
-### 5. Network Connections
+### 6. 5. Network Connections
 
 #### Getting started with netcat
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980)
@@ -2333,7 +2345,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 6. Vulnerability Scanning
+### 7. 6. Vulnerability Scanning
 
 #### Preparing Nessus
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/preparing-nessus?u=76281980)
@@ -2652,7 +2664,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Web Applications
+### 8. 7. Web Applications
 
 #### Combating application level threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980)
@@ -2946,7 +2958,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Network Protocols
+### 9. 8. Network Protocols
 
 #### Explaining data communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/explaining-data-communications?u=76281980)
@@ -3189,7 +3201,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 9. AI Security
+### 10. 9. AI Security
 
 #### Introduction to AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980)
@@ -3481,7 +3493,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### Conclusion
+### 11. Conclusion
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-s-next?u=76281980)
@@ -3503,6 +3515,10 @@ created: 2026-04-21
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Malcolm Shore]]
 
 ## Path Context
 

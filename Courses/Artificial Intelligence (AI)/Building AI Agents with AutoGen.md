@@ -22,8 +22,10 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20AI%20Agents%20with%20AutoGen.md)
 
 ![Building AI Agents with AutoGen](https://media.licdn.com/dms/image/v2/D4D0DAQEaGkD0drYEfw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734115533562?e=2147483647&amp;v=beta&amp;t=j4Qna4rUwAkVN5mXU2KPJx8D7pnDubEPcz6-7uva8gs)
 
@@ -34,13 +36,21 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen) | 1h 36m
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Harshit Tyagi]]
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. AI Agents with AutoGen** (4 videos)
+- **3. 2. Developing a Research Assistant** (4 videos)
+- **4. 3. Solving Complex Tasks Using Nested Chats** (3 videos)
+- **5. 4. Tool Use and Adding Internet Capability** (4 videos)
+- **6. 5. Building an End-to-End Coding Copilot in Autogen** (4 videos)
+- **7. 6. Teachable Agents** (3 videos)
+- **8. 7. Building a Data Analysis Company with Group Chat** (3 videos)
+- **9. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Let's build some AI agents with AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/let-s-build-some-ai-agents-with-autogen?u=76281980)
@@ -65,7 +75,7 @@ created: 2026-04-21
 > **Analogies:** imagine (1)
 
 
-### 1. AI Agents with AutoGen
+### 2. 1. AI Agents with AutoGen
 
 #### Understanding AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980)
@@ -342,7 +352,7 @@ created: 2026-04-21
 > **Env Vars:** gpt (2)
 
 
-### 2. Developing a Research Assistant
+### 3. 2. Developing a Research Assistant
 
 #### Multi-agent conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980)
@@ -724,7 +734,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (2)
 
 
-### 3. Solving Complex Tasks Using Nested Chats
+### 4. 3. Solving Complex Tasks Using Nested Chats
 
 #### Nested chats to add multi-level reviewing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/nested-chats-to-add-multi-level-reviewing?u=76281980)
@@ -1014,7 +1024,7 @@ created: 2026-04-21
 > **Prerequisites:** set up (1)
 
 
-### 4. Tool Use and Adding Internet Capability
+### 5. 4. Tool Use and Adding Internet Capability
 
 #### What are tools?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980)
@@ -1375,7 +1385,7 @@ created: 2026-04-21
 > **UI Navigation:** go to (1)
 
 
-### 5. Building an End-to-End Coding Copilot in Autogen
+### 6. 5. Building an End-to-End Coding Copilot in Autogen
 
 #### Code executors in AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/code-executors-in-autogen?u=76281980)
@@ -1776,7 +1786,7 @@ created: 2026-04-21
 > **Tools:** command line (1)
 
 
-### 6. Teachable Agents
+### 7. 6. Teachable Agents
 
 #### Introduction to teachable agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/introduction-to-teachable-agents?u=76281980)
@@ -2118,7 +2128,7 @@ created: 2026-04-21
 > **Code Identifiers:** reset_db (1)
 
 
-### 7. Building a Data Analysis Company with Group Chat
+### 8. 7. Building a Data Analysis Company with Group Chat
 
 #### Organizational structure of agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980)
@@ -2398,7 +2408,7 @@ created: 2026-04-21
 > **Analogies:** for example (1)
 
 
-### Conclusion
+### 9. Conclusion
 
 #### Next steps with AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980)
@@ -2442,6 +2452,10 @@ created: 2026-04-21
 > **Definitions:** is called (1)
 > **Prerequisites:** configure (1)
 
+
+## Instructor
+
+- [[Harshit Tyagi]]
 
 ## Path Context
 

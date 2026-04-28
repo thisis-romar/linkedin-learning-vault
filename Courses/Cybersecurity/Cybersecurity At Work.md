@@ -31,8 +31,10 @@ tags:
   - skill/security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20At%20Work.md)
 
 ![Cybersecurity At Work](https://media.licdn.com/dms/image/v2/D560DAQHazkyQbVTgPA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1689868262275?e=2147483647&amp;v=beta&amp;t=JnjYnjVGheCX8sNtBmjo0_gp6pFoX-ZvpCSG1830AXw)
 
@@ -43,14 +45,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530) | Beginner | 264K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Skills Covered
-
-- Security Awareness
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Social Engineering Scams and Attacks** (5 videos)
+- **3. 2. Wireless Security** (3 videos)
+- **4. 3. Account Security** (3 videos)
+- **5. 4. Software and Internet Security** (5 videos)
+- **6. 5. Hybrid Work Security** (5 videos)
+- **7. 6. Data Security** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Secure behavior in the workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/secure-behavior-in-the-workplace?u=76281980)
@@ -75,7 +83,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 1. Social Engineering Scams and Attacks
+### 2. 1. Social Engineering Scams and Attacks
 
 #### Social engineering overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-engineering-overview?u=76281980)
@@ -336,7 +344,7 @@ created: 2026-04-21
 > **Warnings:** warning (1)
 
 
-### 2. Wireless Security
+### 3. 2. Wireless Security
 
 #### Public Wi-Fi
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980)
@@ -498,7 +506,7 @@ created: 2026-04-21
 > **Speakers:** - if (1)
 
 
-### 3. Account Security
+### 4. 3. Account Security
 
 #### Password security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/password-security?u=76281980)
@@ -657,7 +665,7 @@ created: 2026-04-21
 > **Speakers:** - multifactor (1)
 
 
-### 4. Software and Internet Security
+### 5. 4. Software and Internet Security
 
 #### Updating software
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/updating-software?u=76281980)
@@ -966,7 +974,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 5. Hybrid Work Security
+### 6. 5. Hybrid Work Security
 
 #### Physical office security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980)
@@ -1312,7 +1320,7 @@ created: 2026-04-21
 > **Prerequisites:** install (1)
 
 
-### 6. Data Security
+### 7. 6. Data Security
 
 #### Intellectual property
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980)
@@ -1416,7 +1424,7 @@ created: 2026-04-21
 > **Speakers:** - think (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### You are part of the security team
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/you-are-part-of-the-security-team?u=76281980)
@@ -1462,6 +1470,11 @@ created: 2026-04-21
 > **Code Keywords:** protected (1)
 > **Speakers:** - the (1)
 
+
+## Skills Covered
+
+- Security Awareness
+- Cybersecurity
 
 ## Path Context
 

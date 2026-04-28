@@ -38,8 +38,10 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Developing%20and%20Testing%20Your%20AI%20Prototype.md)
 
 ![AI Orchestration: Developing and Testing Your AI Prototype](https://media.licdn.com/dms/image/v2/D4E0DAQES1rTsnPi3cQ/learning-public-crop_675_1200/B4EZWwZFpEG0Ac-/0/1742421122014?e=2147483647&amp;v=beta&amp;t=Y85moEEB3QN2DCcAk23GWziLQT4AcMYn8WNKPqqbMvs)
 
@@ -50,26 +52,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype) | 58m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Nayan Saxena]]
-
-## Resources
-
-- Exercise files available
-- [GitHub Repository](https://github.com/LinkedInLearning/ai-orchestration-developing-and-testing-your-ai-prototype-5211016)
-
-## Skills Covered
-
-- Prototype Validation
-- Software Quality Assurance
-- AI Software Development
-- Artificial Intelligence (AI)
-- AI Orchestration
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Building an AI Prototype** (3 videos)
+- **3. 2. Debugging and Troubleshooting AI Applications** (3 videos)
+- **4. 3. Testing and Debugging Your AI Prototype** (3 videos)
+- **5. 4. Preparing Your Prototype for Production** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Developing an AI prototype
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/developing-an-ai-prototype?u=76281980)
@@ -135,7 +129,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Building an AI Prototype
+### 2. 1. Building an AI Prototype
 
 #### What is an AI MVP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980)
@@ -440,7 +434,7 @@ created: 2026-04-21
 > **Speakers:** - [speaker] (1)
 
 
-### 2. Debugging and Troubleshooting AI Applications
+### 3. 2. Debugging and Troubleshooting AI Applications
 
 #### Common AI prototype issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980)
@@ -745,7 +739,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Testing and Debugging Your AI Prototype
+### 4. 3. Testing and Debugging Your AI Prototype
 
 #### Why testing matters in AI development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980)
@@ -1054,7 +1048,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Preparing Your Prototype for Production
+### 5. 4. Preparing Your Prototype for Production
 
 #### Transitioning from prototype to production
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980)
@@ -1322,7 +1316,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980)
@@ -1361,6 +1355,23 @@ created: 2026-04-21
 > **Env Vars:** lms (1), llm (1)
 > **Speakers:** - [instructor] (1)
 
+
+## Instructor
+
+- [[Nayan Saxena]]
+
+## Resources
+
+- Exercise files available
+- [GitHub Repository](https://github.com/LinkedInLearning/ai-orchestration-developing-and-testing-your-ai-prototype-5211016)
+
+## Skills Covered
+
+- Prototype Validation
+- Software Quality Assurance
+- AI Software Development
+- Artificial Intelligence (AI)
+- AI Orchestration
 
 ## Path Context
 

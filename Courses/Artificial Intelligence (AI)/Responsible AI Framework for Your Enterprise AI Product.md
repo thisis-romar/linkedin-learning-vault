@@ -32,8 +32,10 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20Framework%20for%20Your%20Enterprise%20AI%20Product.md)
 
 ![Responsible AI Framework for Your Enterprise AI Product](https://media.licdn.com/dms/image/v2/D4E0DAQFOLD6idifEyA/learning-public-crop_675_1200/B4EZUlW7.JHUAY-/0/1740088525080?e=2147483647&amp;v=beta&amp;t=peMOPseXV6j7wtE5X87kpMUUbplojfeOAqTy2eDn3Wo)
 
@@ -44,18 +46,16 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product) | 45m | Intermediate | 9K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Alina Zhang]]
-
-## Skills Covered
-
-- Responsible AI
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Before You Build Your AI Products** (2 videos)
+- **3. 2. What We Talk About When We Talk About Responsible AI** (5 videos)
+- **4. Conclusion** (2 videos)
+
+### 1. Introduction
 
 #### The five rings of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-five-rings-of-responsible-ai?u=76281980)
@@ -146,7 +146,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 1. Before You Build Your AI Products
+### 2. 1. Before You Build Your AI Products
 
 #### The Three Laws of Robotics by Isaac Asimov
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980)
@@ -293,7 +293,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 2. What We Talk About When We Talk About Responsible AI
+### 3. 2. What We Talk About When We Talk About Responsible AI
 
 #### Ethical AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980)
@@ -816,7 +816,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 4. Conclusion
 
 #### The limitation of this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980)
@@ -884,6 +884,15 @@ created: 2026-04-21
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Alina Zhang]]
+
+## Skills Covered
+
+- Responsible AI
+- Artificial Intelligence (AI)
 
 ## Path Context
 

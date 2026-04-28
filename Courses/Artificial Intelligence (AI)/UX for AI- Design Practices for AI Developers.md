@@ -32,8 +32,10 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/UX%20for%20AI-%20Design%20Practices%20for%20AI%20Developers.md)
 
 ![UX for AI: Design Practices for AI Developers](https://media.licdn.com/dms/image/v2/D4D0DAQFiEQVxfaM3Mg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691161973383?e=2147483647&amp;v=beta&amp;t=FRnGt-pmxobjyMxUmxdoPc4yJnPX9EnL58wV6i9M-Uw)
 
@@ -44,19 +46,17 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers) | 59m | Advanced | 726K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[John Maeda]]
-
-## Skills Covered
-
-- Artificial Intelligence for Design
-- User Experience Design (UED)
-- Artificial Intelligence (AI)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (2 videos)
+- **2. 1. Collaborative UX in The AI Copilot Stack** (3 videos)
+- **3. 2. The Titanium Tetrahedron in AI UX Matters** (8 videos)
+- **4. 3. Building Appropriate Trust** (3 videos)
+- **5. 4. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Designing for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980)
@@ -173,7 +173,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 1. Collaborative UX in The AI Copilot Stack
+### 2. 1. Collaborative UX in The AI Copilot Stack
 
 #### What is collaborative UX?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980)
@@ -511,7 +511,7 @@ created: 2026-04-21
 > **Speakers:** - so (1)
 
 
-### 2. The Titanium Tetrahedron in AI UX Matters
+### 3. 2. The Titanium Tetrahedron in AI UX Matters
 
 #### The three iron triangle dimensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980)
@@ -1264,7 +1264,7 @@ created: 2026-04-21
 > **Speakers:** - i (1)
 
 
-### 3. Building Appropriate Trust
+### 4. 3. Building Appropriate Trust
 
 #### Adding friction: The new math
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/adding-friction-the-new-math?u=76281980)
@@ -1478,7 +1478,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### 5. 4. Conclusion
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/next-steps?u=76281980)
@@ -1501,6 +1501,16 @@ created: 2026-04-21
 >
 > **Speakers:** - this (1)
 
+
+## Instructor
+
+- [[John Maeda]]
+
+## Skills Covered
+
+- Artificial Intelligence for Design
+- User Experience Design (UED)
+- Artificial Intelligence (AI)
 
 ## Path Context
 

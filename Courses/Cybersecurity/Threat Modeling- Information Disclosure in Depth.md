@@ -28,8 +28,10 @@ tags:
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Information%20Disclosure%20in%20Depth.md)
 
 ![Threat Modeling: Information Disclosure in Depth](https://media.licdn.com/dms/image/v2/C4E0DAQGQNLVC95Gqtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597164586340?e=2147483647&amp;v=beta&amp;t=4-eWHR3TjttHcQrqrIfY-ChKi1WzklyuXzfJQsrnnao)
 
@@ -40,17 +42,20 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth) | 29m | Intermediate | 68K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Adam Shostack]]
-
-## Skills Covered
-
-- Threat Modeling
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (3 videos)
+- **2. 1. Data at Rest** (3 videos)
+- **3. 2. Data in Motion** (3 videos)
+- **4. 3. Information Disclosure by Processes** (2 videos)
+- **5. 4. Side Effects** (3 videos)
+- **6. 5. Disclosure in Certain Technologies** (3 videos)
+- **7. 6. Defenses** (3 videos)
+- **8. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Allow me to disclose something
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980)
@@ -165,7 +170,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Data at Rest
+### 2. 1. Data at Rest
 
 #### Authorized access
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980)
@@ -288,7 +293,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 2. Data in Motion
+### 3. 2. Data in Motion
 
 #### Encrypted and unencrypted
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980)
@@ -406,7 +411,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Information Disclosure by Processes
+### 4. 3. Information Disclosure by Processes
 
 #### Intentional disclosure
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980)
@@ -480,7 +485,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Side Effects
+### 5. 4. Side Effects
 
 #### Radios: Intentional and accidental
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/radios-intentional-and-accidental?u=76281980)
@@ -589,7 +594,7 @@ created: 2026-04-21
 > **Speakers:** - it (1)
 
 
-### 5. Disclosure in Certain Technologies
+### 6. 5. Disclosure in Certain Technologies
 
 #### Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cloud?u=76281980)
@@ -690,7 +695,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Defenses
+### 7. 6. Defenses
 
 #### Metadata management
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-management?u=76281980)
@@ -813,7 +818,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 8. Conclusion
 
 #### Secure by design: Bring confidentiality to your systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secure-by-design-bring-confidentiality-to-your-systems?u=76281980)
@@ -843,6 +848,14 @@ created: 2026-04-21
 > **Definitions:** is a  (1)
 > **Speakers:** - [adam] (1)
 
+
+## Instructor
+
+- [[Adam Shostack]]
+
+## Skills Covered
+
+- Threat Modeling
 
 ## Path Context
 

@@ -35,35 +35,31 @@ tags:
   - skill/security-engineering
   - skill/cybersecurity
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Security%20Engineer.md)
 
 ![Cybersecurity Careers: Become a Security Engineer](https://media.licdn.com/dms/image/v2/D560DAQFrHNEVmBHzQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1684968237112?e=2147483647&amp;v=beta&amp;t=wnVGabMIbEosBJcOSck7bEqlmbGCufNmHwWmEw32o3U)
 
 # Cybersecurity Careers: Become a Security Engineer
 
-> Project
-
-Create your own personal blueprint for transitioning into a new career as a security engineer.  
-
-You don’t need an extensive technical background to become a successful cybersecurity professional. Join instructor Dominique West to learn more about a career in security engineering in this course designed uniquely for learners with nontraditional, nontechnical backgrounds.
+> Project Create your own personal blueprint for transitioning into a new career as a security engineer. You don’t need an extensive technical background to become a successful cybersecurity professional. Join instructor Dominique West to learn more about a career in security engineering in this course designed uniquely for learners with nontraditional, nontechnical backgrounds.
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer) | 39m | Beginner | 55K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Dominique West]]
-
-## Skills Covered
-
-- Cybersecurity Careers
-- Security Engineering
-- Cybersecurity
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Security Engineering Career Basics** (3 videos)
+- **3. 2. How to Become a Security Engineer** (5 videos)
+- **4. 3. Day in the Life** (3 videos)
+- **5. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Becoming a security engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/becoming-a-security-engineer?u=76281980)
@@ -95,7 +91,7 @@ You don’t need an extensive technical background to become a successful cybers
 > **Speakers:** - are (1)
 
 
-### 1. Security Engineering Career Basics
+### 2. 1. Security Engineering Career Basics
 
 #### What is a security engineer?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980)
@@ -294,7 +290,7 @@ You don’t need an extensive technical background to become a successful cybers
 > **Speakers:** - getting (1)
 
 
-### 2. How to Become a Security Engineer
+### 3. 2. How to Become a Security Engineer
 
 #### Do your research
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980)
@@ -667,7 +663,7 @@ You don’t need an extensive technical background to become a successful cybers
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Day in the Life
+### 4. 3. Day in the Life
 
 #### Day in the life of a cloud security engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980)
@@ -854,7 +850,7 @@ You don’t need an extensive technical background to become a successful cybers
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 5. Conclusion
 
 #### The fun doesn't end
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980)
@@ -903,6 +899,16 @@ You don’t need an extensive technical background to become a successful cybers
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)
 
+
+## Instructor
+
+- [[Dominique West]]
+
+## Skills Covered
+
+- Cybersecurity Careers
+- Security Engineering
+- Cybersecurity
 
 ## Path Context
 

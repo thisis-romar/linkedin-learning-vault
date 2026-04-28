@@ -29,8 +29,10 @@ tags:
   - topic/software-development
   - skill/scala
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Coding%20Exercises-%20Scala.md)
 
 ![Coding Exercises: Scala](https://media.licdn.com/dms/image/v2/C4D0DAQEq70puHe1nJg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1661792803936?e=2147483647&amp;v=beta&amp;t=VU227eoLtuNCFDaebiBEQ5PN0UwSQX0P4dJt_MbMQmM)
 
@@ -41,21 +43,14 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala) | 53m | Intermediate | 3K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Noel Welsh]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Scala
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (1 videos)
+- **2. 1. Challenges** (15 videos)
+
+### 1. Introduction
 
 #### Test your Scala skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/test-your-scala-skills?u=76281980)
@@ -87,7 +82,7 @@ created: 2026-04-21
 > **Non-Speech:** (upbeat video game music) (1)
 
 
-### 1. Challenges
+### 2. 1. Challenges
 
 #### Palindrome detector
 > [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980)
@@ -1469,6 +1464,18 @@ created: 2026-04-21
 > **Prerequisites:** setup (1)
 > **Speakers:** - in (1)
 
+
+## Instructor
+
+- [[Noel Welsh]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Scala
 
 ## Path Context
 

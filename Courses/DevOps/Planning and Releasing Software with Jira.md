@@ -42,8 +42,10 @@ tags:
   - skill/jira
   - skill/software-development-life-cycle-sdlc
 status: not-started
-created: 2026-04-21
+created: 2026-04-28
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Planning%20and%20Releasing%20Software%20with%20Jira.md)
 
 ![Planning and Releasing Software with Jira](https://media.licdn.com/dms/image/v2/C560DAQHODFfhOcps3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639764947946?e=2147483647&amp;v=beta&amp;t=tcZAXSkJCT9AkYn0xUjIdTYlZLMy2kgbIdsJDR6J10E)
 
@@ -54,23 +56,18 @@ created: 2026-04-21
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823) | 1h 15m | Intermediate | 22K learners
 > [Jump to Path Context ↓](#path-context)
 
-## Instructor
-
-- [[Rachel Wright]]
-
-## Resources
-
-- Exercise files available
-
-## Skills Covered
-
-- Software Project Management
-- Jira
-- Software Development Life Cycle (SDLC)
-
 ## Table of Contents
 
-### Introduction
+### Chapter Overview
+
+- **1. Introduction** (6 videos)
+- **2. 1. Planning Projects and Releases** (3 videos)
+- **3. 2. Developing Software** (5 videos)
+- **4. 3. Testing Software** (3 videos)
+- **5. 4. Releasing Software** (3 videos)
+- **6. Conclusion** (1 videos)
+
+### 1. Introduction
 
 #### Planning and releasing software with Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980)
@@ -416,7 +413,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 1. Planning Projects and Releases
+### 2. 1. Planning Projects and Releases
 
 #### Crafting requirements in Confluence
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980)
@@ -927,7 +924,7 @@ created: 2026-04-21
 > **Exercise Files:** template (1), download the (1), exercise files (1)
 
 
-### 2. Developing Software
+### 3. 2. Developing Software
 
 #### Tracking development work in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980)
@@ -1491,7 +1488,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Testing Software
+### 4. 3. Testing Software
 
 #### Managing test cases in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980)
@@ -1678,7 +1675,7 @@ created: 2026-04-21
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Releasing Software
+### 5. 4. Releasing Software
 
 #### Releasing versions in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980)
@@ -1969,7 +1966,7 @@ created: 2026-04-21
 > **Speakers:** - [instructor] (1)
 
 
-### Conclusion
+### 6. Conclusion
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980)
@@ -2061,6 +2058,20 @@ created: 2026-04-21
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [rachel] (1)
 
+
+## Instructor
+
+- [[Rachel Wright]]
+
+## Resources
+
+- Exercise files available
+
+## Skills Covered
+
+- Software Project Management
+- Jira
+- Software Development Life Cycle (SDLC)
 
 ## Path Context
 
