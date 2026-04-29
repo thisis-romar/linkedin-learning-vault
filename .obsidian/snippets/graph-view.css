@@ -1,43 +1,58 @@
-/* Graph view — theme-aware contrast for 3.6k-node vault.
- * Defers to Obsidian's CSS variables so labels/edges stay readable
- * on both light and dark themes.
+/* Graph view — theme-conditional contrast for 3.6k-node vault.
+ * Obsidian's graph canvas reads computed colors at render time and
+ * does not always resolve CSS variables in canvas context, so we
+ * pin explicit colors per theme via body.theme-light / theme-dark.
  * Enabled via Appearance → CSS snippets → graph-view. */
 
-.graph-view.color-line {
-  color: var(--graph-line);
+/* ── Dark theme ───────────────────────────────────────────── */
+body.theme-dark .graph-view.color-line {
+  color: rgba(160, 160, 160, 0.35);
+}
+body.theme-dark .graph-view.color-line-highlight,
+body.theme-dark .graph-view.color-line-selection {
+  color: rgba(255, 255, 255, 0.95);
+}
+body.theme-dark .graph-view.color-arrow {
+  color: rgba(200, 200, 200, 0.85);
+}
+body.theme-dark .graph-view.color-circle,
+body.theme-dark .graph-view.color-fill {
+  color: rgba(180, 180, 180, 0.9);
+}
+body.theme-dark .graph-view.color-text {
+  color: rgba(255, 255, 255, 0.92);
 }
 
-.graph-view.color-line-highlight,
-.graph-view.color-line-selection {
-  color: var(--text-accent);
+/* ── Light theme ──────────────────────────────────────────── */
+body.theme-light .graph-view.color-line {
+  color: rgba(80, 80, 80, 0.35);
+}
+body.theme-light .graph-view.color-line-highlight,
+body.theme-light .graph-view.color-line-selection {
+  color: rgba(20, 20, 20, 0.95);
+}
+body.theme-light .graph-view.color-arrow {
+  color: rgba(60, 60, 60, 0.85);
+}
+body.theme-light .graph-view.color-circle,
+body.theme-light .graph-view.color-fill {
+  color: rgba(70, 70, 70, 0.9);
+}
+body.theme-light .graph-view.color-text {
+  color: rgba(20, 20, 20, 0.92);
 }
 
-.graph-view.color-arrow {
-  color: var(--graph-line);
-}
-
-.graph-view.color-circle,
-.graph-view.color-fill {
-  color: var(--graph-node);
-}
-
+/* ── Shared (theme-agnostic accents) ──────────────────────── */
 .graph-view.color-fill-unresolved {
-  color: var(--graph-node-unresolved);
+  color: rgba(239, 68, 68, 0.9);
 }
-
 .graph-view.color-fill-tag {
-  color: var(--graph-node-tag);
+  color: rgba(14, 165, 233, 0.9);
 }
-
 .graph-view.color-fill-attachment {
-  color: var(--graph-node-attachment);
+  color: rgba(245, 158, 11, 0.85);
 }
-
-.graph-view.color-text {
-  color: var(--text-normal);
-}
-
 .graph-view.color-fill-focused,
 .graph-view.color-circle-focused {
-  color: var(--graph-node-focused);
+  color: rgba(255, 165, 0, 1);
 }
